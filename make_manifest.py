@@ -17,8 +17,14 @@ def main(folder):
     packs = []
     for f in sorted(root.glob('pack-*.json')):
         raw = f.read_bytes()
-        version = json.loads(raw.decode('utf-8'))['version']
-        packs.append({'version': version, 'file': f.name, 'sha256': hashlib.sha256(raw).hexdigest()})
+        pack = json.loads(raw.decode('utf-8'))
+        version = pack['version']
+        packs.append({
+            'version': version,
+            'format': pack.get('format', 1),  # the app skips packs too new for it
+            'file': f.name,
+            'sha256': hashlib.sha256(raw).hexdigest(),
+        })
     versions = [p['version'] for p in packs]
     assert versions == sorted(set(versions)), f'pack versions must be unique and ordered: {versions}'
     # Plain LF bytes on every OS (write_text would use CRLF on Windows).
