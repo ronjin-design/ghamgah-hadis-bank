@@ -21,7 +21,8 @@ def main(folder):
         packs.append({'version': version, 'file': f.name, 'sha256': hashlib.sha256(raw).hexdigest()})
     versions = [p['version'] for p in packs]
     assert versions == sorted(set(versions)), f'pack versions must be unique and ordered: {versions}'
-    (root / 'manifest.json').write_text(json.dumps({'format': 1, 'packs': packs}, indent=1) + '\n', encoding='utf-8')
+    # Plain LF bytes on every OS (write_text would use CRLF on Windows).
+    (root / 'manifest.json').write_bytes((json.dumps({'format': 1, 'packs': packs}, indent=1) + '\n').encode('utf-8'))
     print(f'manifest.json: {len(packs)} pack(s), latest version {versions[-1] if versions else 0}')
 
 
