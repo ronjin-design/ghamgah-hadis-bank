@@ -52,6 +52,11 @@ SHA-256 checksums stay exact.
   - **Corrections**: `"correction": true` rewrites the question with the
     same subject, session and number in place (text, answer, grading key,
     textbook). Her progress, draft, notes and speed runs on it stay attached.
+- **Distractors** (optional, app 3.1.0+): each language block may add
+  `"distractors": ["…", "…", "…"]`, three or more wrong answers for the
+  multiple-choice Crucible. They must be distinct and must not repeat
+  `final_resolution`. Without them the app uses three keywords from the same
+  subject's Codex. Older apps ignore the field, so the format stays 2.
 - A pack with a newer `format` than the app knows stops the update there, and
   the app asks her to update. Packs before it are still applied.
 
