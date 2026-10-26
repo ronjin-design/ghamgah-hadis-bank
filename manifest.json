@@ -42,6 +42,12 @@
    "format": 2,
    "file": "pack-0007.json",
    "sha256": "e94ea23e0b8c904ca24c631aa711e84e8c803e9fd0953803bd864e5a61322744"
+  },
+  {
+   "version": 8,
+   "format": 2,
+   "file": "pack-0008.json",
+   "sha256": "ff0bf527b8301038c45bd94ef6b9daff9952c215dc175e8e195e2d50283e7c63"
   }
  ]
 }

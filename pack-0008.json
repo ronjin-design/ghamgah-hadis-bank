@@ -1,0 +1,230 @@
+{
+ "version": 8,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1396-Khordad",
+   "number": 0,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "32–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "نقش جایگاه‌های ⁦A⁩، ⁦P⁩ و ⁦E⁩ را در ساختار رناتن (ریبوزوم) طی فرآیند ترجمه و طویل شدن زنجیرهٔ پلی‌پپتیدی شرح دهید.",
+     "grading_key": "- [0.35] برای جایگاه ⁦P⁩: محل قرارگیری دی‌پپتید یا زنجیرهٔ در حال طویل شدن\n- [0.35] برای جایگاه ⁦A⁩: محل ورود رنای ناقل (تی‌آر‌ان‌ای) آمینواسیددار جدید\n- [0.3] برای جایگاه ⁦E⁩: محل خروج رنای ناقل بدون آمینواسید از ریبوزوم",
+     "final_resolution": "جایگاه ⁦P⁩ رنای ناقلِ حامل زنجیرهٔ در حال رشد را نگه می‌دارد؛ جایگاه ⁦A⁩ رنای ناقلِ آمینواسیددار بعدی را می‌پذیرد؛ جایگاه ⁦E⁩ محل خروج رنای ناقلِ بدون آمینواسید است.",
+     "notes": "",
+     "keywords": [
+      "ترجمه",
+      "ریبوزوم",
+      "جایگاه P",
+      "جایگاه A",
+      "جایگاه E",
+      "طویل شدن زنجیره"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Describe the roles of the A, P and E sites of the ribosome during the elongation phase of translation.",
+     "grading_key": "- [0.35] for the P site: holding the peptidyl-tRNA bearing the growing polypeptide chain.\n- [0.35] for the A site: receiving the incoming aminoacyl-tRNA carrying the next amino acid.\n- [0.3] for the E site: the exit for the uncharged tRNA leaving the ribosome.",
+     "final_resolution": "P site holds the tRNA with the growing chain; A site receives the next aminoacyl-tRNA; E site is the exit for the uncharged tRNA.",
+     "notes": "",
+     "keywords": [
+      "translation",
+      "ribosome",
+      "P site",
+      "A site",
+      "E site",
+      "elongation phase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Naghsh-e jaygah-haye A, P va E ra dar sakhtar-e ribosome tey-e farayand-e tarjomeh va toolani shodan-e zanjire-ye polypeptide sharh dahid.",
+     "grading_key": "- [0.35] baraye jaygah-e P\n- [0.35] baraye jaygah-e A\n- [0.3] baraye jaygah-e E",
+     "final_resolution": "Jaygah-e P tRNA-ye hamel-e zanjire-ye dar hal-e roshd ra negah midarad; jaygah-e A tRNA-ye badi ra mipazirad; jaygah-e E mahall-e khorooj-e tRNA-ye bedoon-e amino acid ast.",
+     "notes": "",
+     "keywords": [
+      "tarjomeh",
+      "ribosome",
+      "jaygah-haye A P E"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1395-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (نظریهٔ اسید-باز برونستد-لوری)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Brønsted-Lowry Acid-Base Theory)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Bronsted-Lowry)",
+    "pages": "14–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "در واکنش ⁦NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)⁩، اسید و باز برونستد-لوری و جفت‌های مزدوج آن‌ها را مشخص کنید.",
+     "grading_key": "- [0.5] برای شناسایی آب (⁦H₂O⁩) به‌عنوان اسید (دهندهٔ پروتون) و آمونیاک (⁦NH₃⁩) به‌عنوان باز (گیرندهٔ پروتون)\n- [0.5] برای مشخص کردن یون آمونیوم (⁦NH₄⁺⁩) به‌عنوان اسید مزدوج و یون هیدروکسید (⁦OH⁻⁩) به‌عنوان باز مزدوج",
+     "final_resolution": "اسید: ⁦H₂O⁩ ، باز: ⁦NH₃⁩\nاسید مزدوج: ⁦NH₄⁺⁩ ، باز مزدوج: ⁦OH⁻⁩",
+     "notes": "",
+     "keywords": [
+      "برونستد-لوری",
+      "دهندهٔ پروتون",
+      "اسید مزدوج",
+      "باز مزدوج",
+      "تعادل اسید-باز"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "In the reaction NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq), identify the Brønsted-Lowry acid and base and their conjugate pairs.",
+     "grading_key": "- [0.5] for identifying water (H₂O) as the acid (proton donor) and ammonia (NH₃) as the base (proton acceptor).\n- [0.5] for identifying ammonium (NH₄⁺) as the conjugate acid and hydroxide (OH⁻) as the conjugate base.",
+     "final_resolution": "Acid: H₂O, base: NH₃\nConjugate acid: NH₄⁺, conjugate base: OH⁻",
+     "notes": "",
+     "keywords": [
+      "Brønsted-Lowry",
+      "proton donor",
+      "conjugate acid",
+      "conjugate base",
+      "acid-base equilibrium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Dar vakonesh-e NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq), acid va baz-e Bronsted-Lowry va joft-haye mozdavaj-e anha ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye H₂O (acid) va NH₃ (baz)\n- [0.5] baraye NH₄⁺ va OH⁻ (mozdavaj)",
+     "final_resolution": "Acid: H₂O, baz: NH₃\nAcid-e mozdavaj: NH₄⁺, baz-e mozdavaj: OH⁻",
+     "notes": "",
+     "keywords": [
+      "Bronsted-Lowry",
+      "dahande-ye proton",
+      "acid-e mozdavaj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1396-Khordad",
+   "number": 0,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (نمودار مکان-زمان و سرعت-زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Velocity-Time Graphs)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Nemoodar-e Sorat-Zaman)",
+    "pages": "10–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "چگونه می‌توان مسافت پیموده‌شده و جابه‌جایی یک متحرک را با استفاده از سطح زیر نمودار سرعت-زمان (⁦v-t⁩) در یک بازهٔ زمانی مشخص تعیین کرد؟",
+     "grading_key": "- [0.5] برای بیان اینکه جابه‌جایی برابر با مجموع جبری مساحت‌های زیر نمودار است (سطح بالای محور زمان مثبت و سطح زیر محور منفی منظور می‌شود)\n- [0.5] برای توضیح اینکه مسافت پیموده‌شده برابر با مجموع قدرمطلق همهٔ مساحت‌هاست",
+     "final_resolution": "جابه‌جایی = مجموع جبری مساحت‌ها (بالای محور زمان مثبت، زیر آن منفی)؛ مسافت = مجموع قدرمطلق همهٔ مساحت‌ها.",
+     "notes": "",
+     "keywords": [
+      "نمودار سرعت-زمان",
+      "جابه‌جایی",
+      "مسافت پیموده‌شده",
+      "مساحت",
+      "سطح زیر نمودار"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "How can the distance travelled and the displacement of a moving object be found from the area under a velocity-time (v-t) graph over a given time interval?",
+     "grading_key": "- [0.5] for stating that displacement equals the algebraic sum of the areas (above the time axis positive, below negative).\n- [0.5] for explaining that the total distance travelled is the sum of the absolute values of all the areas.",
+     "final_resolution": "Displacement is the algebraic sum of the areas (above the t-axis positive, below negative); distance is the sum of the absolute areas.",
+     "notes": "",
+     "keywords": [
+      "velocity-time graph",
+      "displacement",
+      "distance travelled",
+      "area",
+      "kinematics"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Chegooneh mitavan masafat va jabejayi-ye yek motaharrek ra ba estefadeh az sath-e zir-e nemoodar-e sorat-zaman (v-t) dar yek baze-ye zamani ta`yin kard?",
+     "grading_key": "- [0.5] baraye jabejayi va majmoo-e jabri-ye sath-ha\n- [0.5] baraye masafat va ghadrmotlagh-e sath-ha",
+     "final_resolution": "Jabejayi = majmoo-e jabri-ye masahat-ha (bala-ye mehvar mosbat, zir-e an manfi); masafat = majmoo-e ghadrmotlagh-e hameh-ye masahat-ha.",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e sorat-zaman",
+      "jabejayi",
+      "masafat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1395-Khordad",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (بخش واژگان ترکیبی)",
+    "en": "Lesson 2: Look at the Future (Collocations)",
+    "tr": "Dars 2: Negahi be Ayandeh (Collocations)",
+    "pages": "42–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "با توجه به بخش ترکیب‌های واژگانی درس دوم، جملهٔ زیر را کامل کنید:\n⁦'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'⁩",
+     "grading_key": "- [1.0] برای یافتن و نوشتن املای صحیح واژهٔ کلیدی (⁦damage⁩)",
+     "final_resolution": "⁦damage⁩",
+     "notes": "",
+     "keywords": [
+      "ترکیب واژگانی",
+      "نگاهی به آینده",
+      "تخریب جنگل‌ها",
+      "واژگان کتاب دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Based on the collocations section of lesson two, complete the following sentence:\n'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'",
+     "grading_key": "- [1.0] for correctly finding and spelling the collocation keyword (damage).",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "English collocations",
+      "look at the future",
+      "deforestation",
+      "Vision 3 vocabulary"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Ba tavajjoh be bakhsh-e loghat-haye tarkibi-ye dars-e dovom, jomleh-ye zir ra kamel konid:\n'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'damage'",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "collocations",
+      "loghat",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
