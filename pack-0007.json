@@ -1,0 +1,231 @@
+{
+ "version": 7,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Dey",
+   "number": 0,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: مهندسی ژنتیک)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Genetic Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1)",
+    "pages": "96–101"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "نقش آنزیم برش‌دهنده (محدودکننده) و آنزیم دی‌ان‌ای لیگاز را در فرآیند تولید یک دنای نوترکیب (⁦Recombinant DNA⁩) شرح دهید.",
+     "grading_key": "- [0.5] برای شناسایی و برش توالی‌های پالیندرومی مشخص توسط آنزیم محدودکننده و ایجاد انتهای چسبنده\n- [0.5] برای ایجاد پیوندهای فسفودی‌استر بین قطعات دنا توسط آنزیم لیگاز جهت اتصال نهایی",
+     "final_resolution": "آنزیم محدودکننده دنا را در توالی‌های پالیندرومی مشخص می‌بُرد و انتهای چسبنده می‌سازد؛ دی‌ان‌ای لیگاز با ساختن پیوندهای فسفودی‌استر، قطعات را برای همیشه به هم وصل می‌کند.",
+     "notes": "",
+     "keywords": [
+      "مهندسی ژنتیک",
+      "آنزیم محدودکننده",
+      "دی‌ان‌ای لیگاز",
+      "پیوند فسفودی‌استر",
+      "انتهای چسبنده"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Describe the roles of the restriction enzyme and DNA ligase in producing a recombinant DNA molecule.",
+     "grading_key": "- [0.5] for the restriction enzyme recognising and cutting specific palindromic sequences to create matching sticky ends.\n- [0.5] for DNA ligase forming covalent phosphodiester bonds between the DNA fragments to join them.",
+     "final_resolution": "Restriction enzymes cut DNA at specific palindromic sequences to create sticky ends; DNA ligase seals the phosphodiester bonds to join the fragments permanently.",
+     "notes": "",
+     "keywords": [
+      "genetic engineering",
+      "restriction enzyme",
+      "DNA ligase",
+      "phosphodiester bond",
+      "sticky ends"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Naghsh-e anzim-e boresh-dahandeh (mahdood-konandeh) va DNA ligase ra dar farayand-e tolid-e DNA-ye no-tarkib sharh dahid.",
+     "grading_key": "- [0.5] baraye anzim-e boresh-dahandeh va enteha-ye chasbandeh\n- [0.5] baraye DNA ligase va peyvand-e phosphodiester",
+     "final_resolution": "Anzim-e mahdood-konandeh DNA ra dar tavali-haye palindromi mibord va enteha-ye chasbandeh misazad; DNA ligase ba peyvand-e phosphodiester ghete-ha ra be ham vasl mikonad.",
+     "notes": "",
+     "keywords": [
+      "genetic engineering",
+      "restriction enzyme",
+      "DNA ligase",
+      "sticky ends"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1397-Khordad",
+   "number": 0,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier's Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "112–118"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در واکنش تعادلی گرماده ⁦N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q⁩، افزایش دمای سامانه چه اثری بر مقدار ثابت تعادل (⁦K⁩) و جهت پیشرفت واکنش دارد؟ بر اساس اصل لوشاتلیه توضیح دهید.",
+     "grading_key": "- [0.5] برای استدلال بر اساس اصل لوشاتلیه که افزایش دما، سامانه را برای مصرف گرما به سمت واکنش برگشت (چپ) می‌برد\n- [0.5] برای نتیجه‌گیری درست اینکه در واکنش‌های گرماده، با افزایش دما مقدار ثابت تعادل (⁦K⁩) کاهش می‌یابد",
+     "final_resolution": "تعادل برای جذب گرما به سمت چپ (برگشت) جابه‌جا می‌شود و مقدار ⁦K⁩ کاهش می‌یابد.",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه",
+      "واکنش گرماده",
+      "ثابت تعادل",
+      "جابه‌جایی تعادل",
+      "سنتز آمونیاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "In the exothermic equilibrium reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q, how does increasing the temperature affect the equilibrium constant (K) and the direction of the reaction? Explain using Le Chatelier's principle.",
+     "grading_key": "- [0.5] for explaining via Le Chatelier's principle that increasing temperature drives the system backward (left) to consume the extra heat.\n- [0.5] for concluding that for exothermic reactions, an increase in temperature decreases K.",
+     "final_resolution": "The reaction shifts backward (left) to absorb heat, and the value of the equilibrium constant (K) decreases.",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle",
+      "exothermic reaction",
+      "equilibrium constant",
+      "reaction shift",
+      "ammonia synthesis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar vakonesh-e taadoli-ye garmaza-ye N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q, afzayesh-e dama che tasiri bar sabet-e taadol (K) va jahat-e vakonesh darad? Ba asl-e Le Chatelier tozih dahid.",
+     "grading_key": "- [0.5] baraye jabejayi be samt-e chap tebgh-e asl-e Le Chatelier\n- [0.5] baraye kahesh-e sabet-e taadol (K)",
+     "final_resolution": "Taadol baraye jazb-e garma be samt-e chap jabeja mishavad va K kahesh mi-yabad.",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier",
+      "vakonesh-e garmaza",
+      "sabet-e taadol",
+      "K"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Khordad",
+   "number": 0,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (سقوط آزاد)",
+    "en": "Chapter 1: Motion Along a Straight Line (Free Fall)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Soghoot-e Azad)",
+    "pages": "24–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "گلوله‌ای از ارتفاع ⁦45 m⁩ بدون سرعت اولیه رها می‌شود.\nالف) مدت زمانی را که طول می‌کشد تا گلوله به زمین برسد محاسبه کنید.\nب) سرعت گلوله را در لحظهٔ برخورد با زمین به دست آورید. (⁦g = 10 m/s²⁩)",
+     "grading_key": "- [0.5] برای معادلهٔ مکان-زمان ⁦h = ½gt²⁩ و محاسبهٔ زمان سقوط: ⁦45 = 5t² ⇒ t² = 9 ⇒ t = 3 s⁩\n- [0.5] برای معادلهٔ سرعت-زمان ⁦v = gt⁩ و محاسبهٔ سرعت برخورد: ⁦v = 10 × 3 = 30 m/s⁩",
+     "final_resolution": "⁦t = 3 s⁩ ؛ ⁦v = 30 m/s⁩ رو به پایین",
+     "notes": "",
+     "keywords": [
+      "سقوط آزاد",
+      "شتاب گرانش",
+      "زمان سقوط",
+      "سرعت برخورد",
+      "معادلهٔ مکان-زمان"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "A ball is dropped from a height of 45 m with zero initial velocity.\na) Calculate the time it takes to reach the ground.\nb) Find its velocity at the moment of impact. (Use g = 10 m/s²)",
+     "grading_key": "- [0.5] for the displacement equation h = ½gt² and the fall time: 45 = 5t² ⇒ t = 3 s.\n- [0.5] for the velocity equation v = gt and the impact velocity: v = 10 × 3 = 30 m/s.",
+     "final_resolution": "t = 3 s; v = 30 m/s downward.",
+     "notes": "",
+     "keywords": [
+      "free fall",
+      "gravitational acceleration",
+      "fall time",
+      "impact velocity",
+      "kinematics"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Golooleyi az ertefa-e 45 m bedoon-e sorat-e avaliyeh raha mishavad.\na) Zaman-e residan be zamin ra mohasebeh konid.\nb) Sorat-e golooleh ra dar lahze-ye barkhord be dast avarid. (g = 10 m/s²)",
+     "grading_key": "- [0.5] baraye h = ½gt² va zaman (t = 3 s)\n- [0.5] baraye v = gt va sorat (v = 30 m/s)",
+     "final_resolution": "t = 3 s; v = 30 m/s be samt-e paeen.",
+     "notes": "",
+     "keywords": [
+      "soghoot-e azad",
+      "shetab-e geranesh",
+      "zaman",
+      "sorat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1397-Khordad",
+   "number": 0,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: مجهول زمان حال کامل)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Present Perfect Passive)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar)",
+    "pages": "82–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "جملهٔ زیر را با شکل صحیح مجهولِ حال کامل فعل داخل پرانتز کامل کنید:\n⁦'Many solar power plants _______ (build) in desert areas recently.'⁩",
+     "grading_key": "- [1.0] برای ساختار مجهول حال کامل با فاعل جمع (⁦have been built⁩)",
+     "final_resolution": "⁦Many solar power plants have been built in desert areas recently.⁩",
+     "notes": "",
+     "keywords": [
+      "حال کامل مجهول",
+      "گرامر انگلیسی دوازدهم",
+      "فعل مجهول جمع",
+      "مهارت‌های زبانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Complete the sentence with the Present Perfect Passive form of the verb in parentheses:\n'Many solar power plants _______ (build) in desert areas recently.'",
+     "grading_key": "- [1.0] for the plural Present Perfect Passive form (have been built).",
+     "final_resolution": "Many solar power plants have been built in desert areas recently.",
+     "notes": "",
+     "keywords": [
+      "present perfect passive",
+      "English grammar",
+      "plural passive auxiliary",
+      "Vision 3"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Jomleh-ye zir ra ba fe'l-e majhool-e hal-e kamel kamel konid:\n'Many solar power plants _______ (build) in desert areas recently.'",
+     "grading_key": "- [1.0] baraye 'have been built'",
+     "final_resolution": "Many solar power plants have been built in desert areas recently.",
+     "notes": "",
+     "keywords": [
+      "hal-e kamel-e majhool",
+      "grammar",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
