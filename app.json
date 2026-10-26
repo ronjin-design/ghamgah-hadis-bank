@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2018,
- "versionName": "3.2.1",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2018/Ghamgah-E-Hadis.apk",
+ "versionCode": 2019,
+ "versionName": "3.2.2",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2019/Ghamgah-E-Hadis.apk",
  "size": 39370446,
- "sha256": "e2e395b7b0ec9d94953678e039d273129182b6c4deae5d5ebbe1e4f94edaa4c7",
+ "sha256": "76717fbc70fd3aa0224ff78576378ed2e854535b7f2b05d39643375549d7258d",
  "notes": {
-  "fa": "نخستین به‌روزرسانی که از داخل خود برنامه می‌رسد.",
-  "en": "First update delivered inside the app.",
-  "tr": "Nakhostin be-rooz-resani ke az dakhel-e khod-e barname miresad."
+  "fa": "به‌روزرسانی‌ها حالا چند ثانیه پس از انتشار دیده می‌شوند.",
+  "en": "Updates now appear within seconds of release.",
+  "tr": "Be-rooz-resani-ha hala chand sanie pas az enteshar dide mishavand."
  }
 }
