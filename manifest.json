@@ -30,6 +30,12 @@
    "format": 2,
    "file": "pack-0005.json",
    "sha256": "2ac655daec4d5d25caeda7e9497736eadbc566346f6dd4b45c0b158b8509e77b"
+  },
+  {
+   "version": 6,
+   "format": 2,
+   "file": "pack-0006.json",
+   "sha256": "36460aca955234065aa9a0b06f4c22d96f38a8f7c54c70b499b0d25525b20323"
   }
  ]
 }

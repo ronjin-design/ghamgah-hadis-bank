@@ -1,0 +1,234 @@
+{
+ "version": 6,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 901,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز و واکنش‌های وابسته به نور)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis and Light-Dependent Reactions)",
+    "tr": "Fasl 6: Az Enerji be Maddeh (Goftar 1)",
+    "pages": "80–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "نقش عملکردی فتوسیستم ۲ و فرآیند تجزیهٔ نوری آب (فتولیز) را در زنجیرهٔ انتقال الکترون غشای تیلاکوئید شرح دهید.",
+     "grading_key": "- [0.5] برای اشاره به جذب نور توسط فتوسیستم ۲ و برانگیخته شدن الکترون‌ها جهت ورود به زنجیره\n- [0.5] برای توضیح تجزیهٔ نوری آب به اکسیژن، پروتون (⁦H⁺⁩) و الکترون جهت جبران کمبود الکترونی فتوسیستم ۲",
+     "final_resolution": "فتوسیستم ۲ نور را جذب می‌کند و الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند؛ تجزیهٔ نوری آب، ⁦H₂O⁩ را به اکسیژن، پروتون و الکترون می‌شکند و الکترون‌های ازدست‌رفتهٔ فتوسیستم ۲ را جبران می‌کند.",
+     "notes": "",
+     "keywords": [
+      "فتوسنتز",
+      "فتوسیستم ۲",
+      "تیلاکوئید",
+      "تجزیهٔ نوری آب",
+      "زنجیرهٔ انتقال الکترون"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "Describe the operational role of photosystem II (PSII) and the photolysis of water within the electron transport chain of the thylakoid membrane.",
+     "grading_key": "- [0.5] for mentioning photosystem II light absorption and electron excitation into the transport chain.\n- [0.5] for explaining the photolysis of water into oxygen, protons (H⁺), and electrons to replenish PSII's electron deficit.",
+     "final_resolution": "Photosystem II absorbs light to excite electrons; photolysis of water splits H₂O into oxygen, protons, and electrons to replace those lost by PSII.",
+     "notes": "",
+     "keywords": [
+      "photosynthesis",
+      "photosystem II",
+      "thylakoid",
+      "photolysis of water",
+      "electron transport chain"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Naghsh-e amalkardi-ye photosystem 2 va farayand-e tajziye-ye noori-ye ab (photolysis) ra dar zanjire-ye enteghal-e electron-e ghesha-ye thylakoid sharh dahid.",
+     "grading_key": "- [0.5] baraye photosystem 2 va jazb-e noor\n- [0.5] baraye tajziye-ye noori-ye ab be oxygen, H⁺ va electron",
+     "final_resolution": "Photosystem 2 noor ra jazb mikonad va electron-hayash barangikhteh mishavand; tajziye-ye noori-ye ab, H₂O ra be oxygen, proton va electron mishekanad va electron-haye az dast rafteh-ye photosystem 2 ra jobran mikonad.",
+     "notes": "",
+     "keywords": [
+      "photosynthesis",
+      "photosystem 2",
+      "thylakoid",
+      "tajziye-ye ab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 0,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای کووالانسی)",
+    "en": "Chapter 3: Chemistry an Exhibition of Art, Beauty, and Durability (Covalent Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar, Zibayi va Mandegari",
+    "pages": "70–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "ساختار شیمیایی سیلیس (⁦SiO₂⁩) را بررسی کنید. چرا این ماده نقطهٔ ذوب بسیار بالایی دارد؟ بر اساس نوع شبکهٔ پیوندی توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به اینکه سیلیس یک جامد کووالانسی شبکه‌ای غول‌آسا است و ساختار مولکولی مجزا ندارد\n- [0.5] برای توضیح اینکه شکستن پیوندهای اشتراکی قوی سیلیسیم-اکسیژن در شبکهٔ سه‌بعدی به انرژی گرمایی بسیار زیادی نیاز دارد",
+     "final_resolution": "سیلیس جامدی کووالانسی و شبکه‌ای است: هر اتم سیلیسیم با چهار اتم اکسیژن در یک شبکهٔ سه‌بعدی سخت پیوند دارد و شکستن این شبکه انرژی بسیار زیادی می‌خواهد.",
+     "notes": "",
+     "keywords": [
+      "سیلیس",
+      "جامد کووالانسی",
+      "شبکهٔ سه‌بعدی",
+      "پیوند اشتراکی",
+      "نقطهٔ ذوب بالا"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Examine the chemical structure of silica (SiO₂). Why does this substance have an exceptionally high melting point? Explain based on its bonding network.",
+     "grading_key": "- [0.5] for specifying that silica is a giant covalent network solid without isolated molecular units.\n- [0.5] for explaining that breaking the strong, rigid silicon-oxygen covalent bonds throughout the 3D lattice requires immense thermal energy.",
+     "final_resolution": "Silica is a covalent network solid where every silicon atom is bound to four oxygen atoms in a rigid 3D lattice, requiring massive energy to break.",
+     "notes": "",
+     "keywords": [
+      "silica",
+      "covalent solid",
+      "3D network",
+      "covalent bond",
+      "high melting point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Sakhtar-e shimiayi-ye silica (SiO₂) ra barresi konid. Chera in maddeh noghteh-ye zob-e besyar balayi darad? Bar asas-e no-e shabake-ye peyvandi tozih dahid.",
+     "grading_key": "- [0.5] baraye jamed-e covalent-e shabakeyi\n- [0.5] baraye peyvand-e ghavi-ye silicon-oxygen",
+     "final_resolution": "Silica jamed-e covalent-e shabakeyi ast: har atom-e silicon ba chahar atom-e oxygen dar yek shabake-ye se-bodi-ye sakht peyvand darad va shekastan-ash enerji-ye besyar ziadi mikhahad.",
+     "notes": "",
+     "keywords": [
+      "silica",
+      "jamed-e covalent",
+      "shabakeh",
+      "noghteh-ye zob"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 901,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Law of Refraction)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی یک پرتو نور تک‌رنگ از هوا وارد محیط شفافی با ضریب شکست ⁦n = 1.5⁩ می‌شود:\nالف) بسامد آن چه تغییری می‌کند؟\nب) سرعت انتشار آن چگونه تغییر می‌کند؟",
+     "grading_key": "- [0.5] برای بیان اینکه بسامد نور به چشمهٔ آن بستگی دارد و با تغییر محیط ثابت می‌ماند\n- [0.5] برای نوشتن رابطهٔ ⁦v = c/n⁩ و نتیجه‌گیری اینکه سرعت انتشار ۱٫۵ برابر کم می‌شود",
+     "final_resolution": "بسامد ثابت می‌ماند (چشمه آن را تعیین می‌کند)؛ سرعت انتشار کم می‌شود (⁦v = c/n⁩).",
+     "notes": "",
+     "keywords": [
+      "شکست نور",
+      "ضریب شکست",
+      "بسامد موج",
+      "سرعت انتشار",
+      "پرتو نور تک‌رنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a monochromatic light ray travels from air into a transparent medium with a refractive index of n = 1.5:\na) how does its frequency change?\nb) how does its propagation speed change?",
+     "grading_key": "- [0.5] for stating that wave frequency depends on the source and stays constant across media.\n- [0.5] for applying v = c/n and concluding that the propagation speed decreases by a factor of 1.5.",
+     "final_resolution": "Frequency remains constant (fixed by the source); propagation speed decreases (v = c/n).",
+     "notes": "",
+     "keywords": [
+      "refraction of light",
+      "refractive index",
+      "wave frequency",
+      "propagation speed",
+      "monochromatic ray"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti yek parto-ye noor-e tak-rang az hava vared-e mohiti ba zarib-e shekast-e n = 1.5 mishavad:\na) basamad-ash che taghyiri mikonad?\nb) sorat-e enteshar-ash chegooneh taghyir mikonad?",
+     "grading_key": "- [0.5] baraye sabet mandan-e basamad\n- [0.5] baraye kahesh-e sorat ba formool-e v = c/n",
+     "final_resolution": "Basamad sabet mimanad (cheshmeh an ra ta`yin mikonad); sorat-e enteshar kam mishavad (v = c/n).",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor",
+      "zarib-e shekast",
+      "basamad",
+      "sorat-e enteshar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: بندهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Clauses)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar)",
+    "pages": "50–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "دو جملهٔ زیر را با ضمیر موصولی مناسب (⁦who / which⁩) به یک جملهٔ مرکب تبدیل کنید:\n⁦'The solar panels generate electricity. They were installed on the roof last week.'⁩",
+     "grading_key": "- [0.5] برای حذف ضمیر تکراری (⁦They⁩) و انتخاب ضمیر موصولی اشیا (⁦which⁩)\n- [0.5] برای آوردن بند موصولی درست بعد از اسم مرجع (⁦The solar panels⁩)",
+     "final_resolution": "⁦The solar panels which were installed on the roof last week generate electricity.⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیر موصولی",
+      "جملهٔ مرکب",
+      "بند موصولی",
+      "کتاب انگلیسی دوازدهم",
+      "گرامر کاربردی"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Combine the two sentences into a single complex sentence using the appropriate relative pronoun (who or which):\n'The solar panels generate electricity. They were installed on the roof last week.'",
+     "grading_key": "- [0.5] for omitting the repeated pronoun (They) and choosing the relative pronoun for things (which).\n- [0.5] for placing the relative clause right after the noun it describes (The solar panels).",
+     "final_resolution": "The solar panels which were installed on the roof last week generate electricity.",
+     "notes": "",
+     "keywords": [
+      "relative pronoun",
+      "relative clause",
+      "complex sentence",
+      "English grammar",
+      "Vision 3"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Do jomleh-ye zir ra ba estefadeh az zamir-e moosooli-ye monaseb (who ya which) be yek jomleh tabdil konid:\n'The solar panels generate electricity. They were installed on the roof last week.'",
+     "grading_key": "- [0.5] baraye hazf-e They va entekhab-e 'which'\n- [0.5] baraye etesal-e sahih-e jomleh ba The solar panels",
+     "final_resolution": "The solar panels which were installed on the roof last week generate electricity.",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli",
+      "relative clause",
+      "grammar",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
