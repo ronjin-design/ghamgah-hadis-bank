@@ -1,0 +1,13 @@
+{
+ "format": 1,
+ "versionCode": 2017,
+ "versionName": "3.2.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2017/Ghamgah-E-Hadis.apk",
+ "size": 39370446,
+ "sha256": "609a5d33691e2d8175b7ac3558ab5ec7e1dd012999ad9d46b6c8a32574f14cdf",
+ "notes": {
+  "fa": "به‌روزرسانی برنامه از داخل خودش؛ آزمون فشار چهارگزینه‌ای با نمره‌دهی خودکار.",
+  "en": "In-app app updates; multiple-choice Crucible with automatic scoring.",
+  "tr": "Be-rooz-resani-ye barname az dakhel-e khodash; azmoon-e feshar-e chahar-gozine-i ba nomre-dehi-ye khodkar."
+ }
+}
