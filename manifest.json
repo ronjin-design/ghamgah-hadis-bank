@@ -18,6 +18,12 @@
    "format": 2,
    "file": "pack-0003.json",
    "sha256": "cb98c2e9a16b33e811723346aa6c40ea0780298a555ca4d69119e962a14cc5ee"
+  },
+  {
+   "version": 4,
+   "format": 2,
+   "file": "pack-0004.json",
+   "sha256": "40f42d4daff747cee09eecb906667db99c44b3112bf79f004627688a97d98d65"
   }
  ]
 }

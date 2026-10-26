@@ -1,0 +1,233 @@
+{
+ "version": 4,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 0,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (ساختار دنا)",
+    "en": "Chapter 1: Informational Molecules (DNA Structure)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Sakhtar-e DNA)",
+    "pages": "4–9"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بر اساس یافته‌های چارگاف در مورد ترکیب بازهای آلی مولکول دی‌ان‌ای (⁦DNA⁩)، رابطهٔ ریاضی بین بازهای پورین و پیرامیدین را بیان کنید.",
+     "grading_key": "- [0.5] برای بیان اینکه مقدار آدنین با تیمین و گوانین با سیتوزین برابر است (⁦A = T , G = C⁩)\n- [0.5] برای نتیجه‌گیری فرمول نهایی: مجموع پورین‌ها با مجموع پیرامیدین‌ها برابر است (⁦A + G = T + C⁩)",
+     "final_resolution": "⁦A + G = T + C⁩ (مجموع پورین‌ها = مجموع پیرامیدین‌ها)",
+     "notes": "",
+     "keywords": [
+      "چارگاف",
+      "بازهای پورین",
+      "بازهای پیرامیدین",
+      "آدنین",
+      "تیمین",
+      "جفت شدن بازها"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Based on Chargaff's findings regarding the organic base composition of DNA, state the mathematical relationship between purine and pyrimidine bases.",
+     "grading_key": "- [0.5] for stating that Adenine equals Thymine and Guanine equals Cytosine (A = T, G = C).\n- [0.5] for deriving the final formula: Total Purines equal Total Pyrimidines (A + G = T + C).",
+     "final_resolution": "A + G = T + C (Total Purines = Total Pyrimidines)",
+     "notes": "",
+     "keywords": [
+      "Chargaff",
+      "purine bases",
+      "pyrimidine bases",
+      "adenine",
+      "thymine",
+      "base pairing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Bar asas-e yafteh-haye Chargaff dar mored-e tarkib-e baz-haye ali-ye DNA, rabeteh-ye riazi-ye beyn-e baz-haye purine va pyrimidine ra bayan konid.",
+     "grading_key": "- [0.5] baraye A = T va G = C\n- [0.5] baraye formool-e nahayi (A + G = T + C)",
+     "final_resolution": "A + G = T + C (majmoo-e purine-ha = majmoo-e pyrimidine-ha)",
+     "notes": "",
+     "keywords": [
+      "Chargaff",
+      "purine",
+      "pyrimidine",
+      "adenine",
+      "thymine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 0,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (سلول‌های سوختی)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Fuel Cells)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Selool-e Sookhti)",
+    "pages": "45–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در یک سلول سوختی هیدروژن-اکسیژن استاندارد:\nالف) نیم‌واکنش کاهش کاتدی را بنویسید.\nب) جهت حرکت پروتون‌ها از غشای مبادله‌کنندهٔ پروتون را مشخص کنید.",
+     "grading_key": "- [0.5] برای نوشتن صحیح نیم‌واکنش کاهش کاتدی: ⁦O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)⁩\n- [0.5] برای بیان جهت حرکت پروتون‌ها (⁦H⁺⁩) از آند به کاتد از طریق غشای مبادله‌کننده",
+     "final_resolution": "کاتد: ⁦O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)⁩\nپروتون‌ها از آند به سوی کاتد حرکت می‌کنند.",
+     "notes": "",
+     "keywords": [
+      "سلول سوختی",
+      "هیدروژن و اکسیژن",
+      "نیم‌واکنش کاتدی",
+      "غشای مبادله‌کنندهٔ پروتون"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In a standard hydrogen-oxygen fuel cell:\na) Write the cathodic reduction half-reaction.\nb) Determine the direction of proton migration across the exchange membrane.",
+     "grading_key": "- [0.5] for correctly writing the cathodic reduction: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l).\n- [0.5] for specifying that protons (H⁺) migrate from the anode toward the cathode via the membrane.",
+     "final_resolution": "Cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\nProtons migrate from the anode to the cathode.",
+     "notes": "",
+     "keywords": [
+      "fuel cell",
+      "hydrogen and oxygen",
+      "cathodic half-reaction",
+      "proton exchange membrane"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar yek selool-e sookhti-ye hydrogen-oxygen:\na) Nim-vakonesh-e kahesh-e cathodi ra benevisid.\nb) Jahat-e harekat-e proton-ha az ghesha ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye nim-vakonesh-e cathodi: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\n- [0.5] baraye jahat-e proton az anode be cathode",
+     "final_resolution": "Cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\nProton-ha az anode be samt-e cathode harekat mikonand.",
+     "notes": "",
+     "keywords": [
+      "selool-e sookhti",
+      "hydrogen",
+      "oxygen",
+      "nim-vakonesh-e cathodi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "جسمی به جرم ⁦2 kg⁩ با سرعت اولیهٔ ⁦10 m/s⁩ روی خط راست حرکت می‌کند. اگر نیروی ثابت افقی ⁦6 N⁩ هم‌جهت با حرکت به مدت ⁦4 s⁩ به آن وارد شود، سرعت نهایی جسم را با استفاده از مفهوم تکانه محاسبه کنید.",
+     "grading_key": "- [0.25] برای رابطهٔ نیرو و تغییر تکانه: ⁦F × Δt = Δp = m(Vf − Vi)⁩\n- [0.25] برای جای‌گذاری مقادیر عددی: ⁦6 × 4 = 2 × (Vf − 10)⁩\n- [0.5] برای محاسبات جبری و یافتن سرعت نهایی: ⁦24 = 2Vf − 20 ⇒ 44 = 2Vf ⇒ Vf = 22 m/s⁩",
+     "final_resolution": "⁦Vf = 22 m/s⁩",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی",
+      "تغییر تکانه",
+      "نیروی ثابت",
+      "سرعت نهایی",
+      "ضربه"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "An object with a mass of 2 kg moves along a straight line with an initial velocity of 10 m/s. If a constant horizontal force of 6 N is applied in the direction of motion for 4 s, calculate its final velocity using the concept of momentum.",
+     "grading_key": "- [0.25] for writing the impulse-momentum equation: F × Δt = Δp = m(Vf − Vi).\n- [0.25] for correct value substitution: 6 × 4 = 2 × (Vf − 10).\n- [0.5] for the algebra to find the final velocity: 24 = 2Vf − 20 ⇒ 44 = 2Vf ⇒ Vf = 22 m/s.",
+     "final_resolution": "Vf = 22 m/s",
+     "notes": "",
+     "keywords": [
+      "linear momentum",
+      "change in momentum",
+      "constant force",
+      "final velocity",
+      "impulse"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Jesmi be jarm-e 2 kg ba sorat-e avaliyeh-ye 10 m/s rooy-e khatt-e rast harekat mikonad. Agar niroo-ye sabet-e ofoghi-ye 6 N ham-jahat ba harekat be moddat-e 4 s be an vared shavad, sorat-e nahayi ra ba estefadeh az mafhoom-e takaneh mohasebeh konid.",
+     "grading_key": "- [0.25] baraye formool-e takaneh: F × Δt = m(Vf − Vi)\n- [0.25] baraye jaygozari: 6 × 4 = 2 × (Vf − 10)\n- [0.5] baraye mohasebeh-ye nahayi: Vf = 22 m/s",
+     "final_resolution": "Vf = 22 m/s",
+     "notes": "",
+     "keywords": [
+      "takaneh",
+      "taghyir-e takaneh",
+      "niroo-ye sabet",
+      "sorat-e nahayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (ساختار معلوم و مجهول با افعال کمکی)",
+    "en": "Lesson 2: Look at the Future (Active and Passive with Modals)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Modals)",
+    "pages": "54–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "جملهٔ زیر را به ساختار مجهول تبدیل کنید:\n⁦'We must protect endangered animals to preserve nature.'⁩",
+     "grading_key": "- [0.5] برای انتقال درست مفعول (⁦Endangered animals⁩) به ابتدای جمله\n- [0.5] برای ساختار صحیح مجهول با فعل کمکی (⁦must be protected⁩)",
+     "final_resolution": "⁦Endangered animals must be protected to preserve nature.⁩",
+     "notes": "",
+     "keywords": [
+      "فعل مجهول",
+      "افعال کمکی",
+      "ساختار گرامری",
+      "کتاب زبان دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Convert the following sentence into the passive voice:\n'We must protect endangered animals to preserve nature.'",
+     "grading_key": "- [0.5] for correctly moving the object (Endangered animals) to the start of the clause.\n- [0.5] for the correct modal passive verb form (must be protected).",
+     "final_resolution": "Endangered animals must be protected to preserve nature.",
+     "notes": "",
+     "keywords": [
+      "passive voice",
+      "modal verbs",
+      "grammar syntax",
+      "Vision 3 textbook"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Jomleh-ye zir ra be halat-e majhool tabdil konid:\n'We must protect endangered animals to preserve nature.'",
+     "grading_key": "- [0.5] baraye jabejayi-ye maf'ool (Endangered animals)\n- [0.5] baraye must be protected",
+     "final_resolution": "Endangered animals must be protected to preserve nature.",
+     "notes": "",
+     "keywords": [
+      "fe'l-e majhool",
+      "modal verbs",
+      "grammar",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
