@@ -1,0 +1,227 @@
+{
+ "version": 5,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۱: جهش)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 1: Mutation)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 1)",
+    "pages": "52–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "جهش نقطه‌ای از نوع جانشینی صامت (خاموش) را تعریف کنید و توضیح دهید چرا این نوع جهش اثری بر فنوتیپ جاندار ندارد؟",
+     "grading_key": "- [0.5] برای تعریف جهش صامت: تغییر در یکی از نوکلئوتیدها که رمزهٔ حاصل همچنان آمینواسید قبلی را رمز کند\n- [0.5] برای تبیین عدم تغییر در ساختار نهایی پروتئین تولیدشده و در نتیجه عدم تغییر در فنوتیپ جاندار",
+     "final_resolution": "در جهش صامت یک نوکلئوتید عوض می‌شود، اما چون یک آمینواسید می‌تواند چند رمزه داشته باشد، رمزهٔ تازه همان آمینواسید را رمز می‌کند؛ پس پروتئین و فنوتیپ تغییری نمی‌کنند.",
+     "notes": "",
+     "keywords": [
+      "جهش نقطه‌ای",
+      "جهش صامت",
+      "جانشینی بازها",
+      "چند رمزه برای یک آمینواسید",
+      "فنوتیپ جاندار"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Define a silent point mutation of the substitution type and explain why this specific mutation has no effect on the organism's phenotype.",
+     "grading_key": "- [0.5] for defining a silent mutation: a change in a nucleotide where the resulting codon still codes for the same amino acid.\n- [0.5] for explaining that the final protein structure remains unchanged, thus causing no shift in the phenotype.",
+     "final_resolution": "A silent mutation changes a nucleotide but results in the same amino acid due to genetic code redundancy, keeping the protein and phenotype unchanged.",
+     "notes": "",
+     "keywords": [
+      "point mutation",
+      "silent mutation",
+      "base substitution",
+      "codon redundancy",
+      "phenotype"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Jahesh-e noghteyi az no-e janeshini-ye samet (khamoosh) ra tarif konid va tozih dahid chera in jahesh bar phenotype-e jandar asari nadarad.",
+     "grading_key": "- [0.5] baraye tarif-e jahesh-e samet\n- [0.5] baraye adam-e taghyir dar protein va phenotype",
+     "final_resolution": "Dar jahesh-e samet yek nucleotide avaz mishavad, amma ramze-ye tazeh haman amino acid ra ramz mikonad; pas protein va phenotype taghyir nemikonand.",
+     "notes": "",
+     "keywords": [
+      "jahesh-e noghteyi",
+      "jahesh-e samet",
+      "phenotype"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Acid va Baz)",
+    "pages": "18–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "غلظت یون هیدرونیوم (⁦H₃O⁺⁩) را در محلولی از اسید نیتریک (⁦HNO₃⁩) با غلظت ⁦0.05 M⁩ محاسبه کنید و درجهٔ یونش آن را به‌عنوان یک اسید قوی مشخص کنید.",
+     "grading_key": "- [0.5] برای بیان اینکه اسید نیتریک یک اسید قوی است و به‌طور کامل یونیده می‌شود، پس غلظت هیدرونیوم برابر با غلظت اسید اولیه یعنی ⁦0.05 M⁩ است\n- [0.5] برای مشخص کردن درجهٔ یونش اسیدهای قوی که برابر ۱ (یا ۱۰۰ درصد) است (⁦α = 1⁩)",
+     "final_resolution": "⁦[H₃O⁺] = 0.05 M⁩ ، ⁦α = 1⁩ (اسید قوی)",
+     "notes": "",
+     "keywords": [
+      "اسید نیتریک",
+      "اسید قوی",
+      "یون هیدرونیوم",
+      "درجهٔ یونش",
+      "تفکیک کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Calculate the hydronium ion (H₃O⁺) concentration in a 0.05 M solution of nitric acid (HNO₃) and specify its degree of ionization as a strong acid.",
+     "grading_key": "- [0.5] for stating that nitric acid is a strong acid and ionizes completely, making the hydronium concentration equal to the initial acid (0.05 M).\n- [0.5] for correctly specifying that the degree of ionization (α) for strong acids equals 1 (or 100%).",
+     "final_resolution": "[H₃O⁺] = 0.05 M, α = 1 (strong acid)",
+     "notes": "",
+     "keywords": [
+      "nitric acid",
+      "strong acid",
+      "hydronium ion",
+      "degree of ionization",
+      "complete dissociation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Ghelzat-e yon-e hydronium (H₃O⁺) ra dar mahlooli az nitric acid (HNO₃) ba ghelzat-e 0.05 M mohasebeh konid va darajeh-ye yonesh-e an ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye ghelzat-e hydronium (0.05 M)\n- [0.5] baraye darajeh-ye yonesh (α = 1)",
+     "final_resolution": "[H₃O⁺] = 0.05 M, α = 1 (acid-e ghavi)",
+     "notes": "",
+     "keywords": [
+      "nitric acid",
+      "acid-e ghavi",
+      "yon-e hydronium",
+      "α"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون گرانش عمومی)",
+    "en": "Chapter 2: Dynamics and Forces (Universal Law of Gravitation)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Geranesh)",
+    "pages": "46–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر فاصلهٔ بین دو جسم فرضی سه برابر شود، نیروی جاذبهٔ گرانشی بین آن‌ها چه تغییری می‌کند؟ رابطهٔ فیزیکی آن را بنویسید.",
+     "grading_key": "- [0.25] برای نوشتن قانون گرانش عمومی نیوتون: ⁦F = G × m1m2 / r²⁩\n- [0.75] برای تحلیل تناسب وارون با مجذور فاصله و نتیجه‌گیری اینکه با ۳ برابر شدن فاصله، نیرو ۱/۹ برابر حالت اول می‌شود (⁦F′ = F/9⁩)",
+     "final_resolution": "نیروی گرانشی به ۱/۹ مقدار اولیه کاهش می‌یابد (⁦F′ = F/9⁩).",
+     "notes": "",
+     "keywords": [
+      "قانون گرانش عمومی",
+      "نیروی جاذبه",
+      "فاصلهٔ بین دو جسم",
+      "تناسب وارون با مجذور فاصله"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the distance between two hypothetical objects becomes three times larger, how does the gravitational force between them change? Write the relevant physical equation.",
+     "grading_key": "- [0.25] for writing Newton's universal law of gravitation: F = G × m1m2 / r².\n- [0.75] for analyzing the inverse-square dependence on distance and concluding that the force drops to 1/9 of its original value (F′ = F/9).",
+     "final_resolution": "The gravitational force decreases to 1/9 of its original value (F′ = F/9).",
+     "notes": "",
+     "keywords": [
+      "universal gravitation",
+      "attractive force",
+      "distance between objects",
+      "inverse-square law"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar faseleh-ye beyn-e do jesm se barabar shavad, niroo-ye jazebeh-ye geraneshi che taghyiri mikonad? Rabete-ye fiziki-ash ra benevisid.",
+     "grading_key": "- [0.25] baraye formool-e geranesh: F = G × m1m2 / r²\n- [0.75] baraye yek-nohom shodan-e niroo (F′ = F/9)",
+     "final_resolution": "Niroo-ye geraneshi be 1/9 meghdar-e avvaliye kahesh mi-yabad (F′ = F/9).",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e geranesh",
+      "niroo-ye jazebeh",
+      "faseleh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (بخش ضرب‌المثل‌ها)",
+    "en": "Lesson 1: Sense of Appreciation (Proverbs & Idioms)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Zarb-ol-masal)",
+    "pages": "30–35"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "با توجه به بخش ضرب‌المثل‌های درس اول، عبارت زیر را با واژهٔ صحیح کامل کنید:\n⁦'An empty vessel makes the most _______.'⁩",
+     "grading_key": "- [1.0] برای تشخیص دقیق و نوشتن املای صحیح واژهٔ پایانی ضرب‌المثل (⁦noise⁩)",
+     "final_resolution": "⁦noise⁩",
+     "notes": "",
+     "keywords": [
+      "ضرب‌المثل انگلیسی",
+      "حس قدردانی",
+      "واژگان درس اول",
+      "کتاب انگلیسی دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Based on the proverbs section of lesson one, complete the following statement with the correct word:\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1.0] for precisely identifying and spelling the target idiomatic vocabulary keyword (noise).",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [
+      "English proverb",
+      "sense of appreciation",
+      "lesson 1 vocabulary",
+      "Vision 3"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Ba tavajjoh be bakhsh-e zarb-ol-masal-haye dars-e avval, ebarat-e zir ra ba vazheh-ye sahih kamel konid:\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'noise'",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [
+      "zarb-ol-masal",
+      "loghat-e dars-e avval",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
