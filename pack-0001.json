@@ -1,0 +1,233 @@
+{
+ "version": 1,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "English",
+   "fa": "زبان انگلیسی",
+   "tr": "Zaban-e Engelisi",
+   "sort_order": 4
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۲: تنظیم بیان ژن)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 2: Regulation of Gene Expression)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 2)",
+    "pages": "30–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "مکانیسم عملکرد اپران لک (⁦Lac Operon⁩) را در باکتری اشریشیا کلی در حضور لاکتوز شرح دهید.",
+     "grading_key": "- [0.5] برای اتصال آلولاکتوز به پروتئین مهارکننده و تغییر شکل آن جهت جدا شدن از اپراتور\n- [0.5] برای آزاد شدن مسیر حرکت آر‌ان‌ای پلیمراز و شروع ترانویسی ژن‌های ساختاری",
+     "final_resolution": "آلولاکتوز به مهارکننده متصل می‌شود و شکل آن را تغییر می‌دهد تا از اپراتور جدا شود؛ آنگاه آر‌ان‌ای پلیمراز ژن‌های ساختاری را ترانویسی می‌کند.",
+     "notes": "",
+     "keywords": [
+      "اپران لک",
+      "مهارکننده",
+      "اپراتور",
+      "لاکتوز",
+      "مهارزدایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Describe the operational mechanism of the lac operon in E. coli bacteria when lactose is present.",
+     "grading_key": "- [0.5] for allolactose binding to the repressor protein, causing it to detach from the operator.\n- [0.5] for clearing the path for RNA polymerase to initiate transcription of structural genes.",
+     "final_resolution": "Allolactose binds to the repressor, changing its shape so it detaches from the operator, allowing RNA polymerase to transcribe the structural genes.",
+     "notes": "",
+     "keywords": [
+      "lac operon",
+      "repressor",
+      "operator",
+      "lactose",
+      "derepression"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Mekanism-e amalkard-e operon-e lac ra dar bacteriye E.coli dar hozoor-e lactose sharh dahid.",
+     "grading_key": "- [0.5] baraye etesal-e allolactose be mahar-konandeh\n- [0.5] baraye taranevisi-ye jenhaye sakhtari",
+     "final_resolution": "Allolactose be mahar-konande motasel mishavad va shekl-ash ra taghir midahad ta az operator joda shavad; sepas RNA polymerase jen-haye sakhtari ra taranevisi mikonad.",
+     "notes": "",
+     "keywords": [
+      "operon-e lac",
+      "mahar-konandeh",
+      "operator",
+      "lactose"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (پاک‌کننده‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Cleaners)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti",
+    "pages": "4–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "تفاوت عملکرد پاک‌کننده‌های صابونی و غیرصابونی را در آب سخت حاوی یون‌های کلسیم (⁦Ca²⁺⁩) و منیزیم (⁦Mg²⁺⁩) توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به تشکیل رسوب غیرقابل حل صابون با یون‌های کلسیم/منیزیم و کاهش خاصیت پاک‌کنندگی صابون\n- [0.5] برای بیان اینکه پاک‌کننده‌های غیرصابونی با این یون‌ها رسوب تشکیل نداده و در آب سخت کارایی خود را حفظ می‌کنند",
+     "final_resolution": "صابون با یون‌های ⁦Ca²⁺⁩ و ⁦Mg²⁺⁩ رسوب نامحلول می‌دهد و کارایی‌اش کم می‌شود؛ پاک‌کننده‌های غیرصابونی رسوب نمی‌دهند و در آب سخت هم به‌خوبی پاک می‌کنند.",
+     "notes": "",
+     "keywords": [
+      "پاک‌کننده صابونی",
+      "آب سخت",
+      "رسوب",
+      "کلسیم و منیزیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Explain the operational difference between soap and non-soap detergents in hard water containing calcium (Ca²⁺) and magnesium (Mg²⁺) ions.",
+     "grading_key": "- [0.5] for stating that soap forms insoluble precipitates with calcium/magnesium ions, lowering cleansing efficiency.\n- [0.5] for explaining that non-soap detergents do not form precipitates and maintain efficiency in hard water.",
+     "final_resolution": "Soap forms insoluble precipitates with Ca²⁺/Mg²⁺, reducing its efficiency, while non-soap detergents do not form precipitates and clean effectively.",
+     "notes": "",
+     "keywords": [
+      "soap detergent",
+      "hard water",
+      "precipitate",
+      "calcium and magnesium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Tafavot-e amalkard-e pak-konandeh-haye sabooni va gheyr-e-sabooni ra dar ab-e sakht (Ca²⁺ va Mg²⁺) moshakhas konid.",
+     "grading_key": "- [0.5] baraye tashkil-e rosoob-e saboon\n- [0.5] baraye amalkard-e pak-konandeh-ye gheyr-e-sabooni",
+     "final_resolution": "Saboon ba Ca²⁺ va Mg²⁺ rosoob-e namahlool midahad va karayi-ash kam mishavad; pak-konande-haye gheyr-e sabooni rosoob nemidahand va dar ab-e sakht ham khoob pak mikonand.",
+     "notes": "",
+     "keywords": [
+      "pak-konandeh-ye sabooni",
+      "ab-e sakht",
+      "rosoob"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1402-Khordad",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قوانین نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Laws)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki",
+    "pages": "32–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "جسمی به جرم ⁦4 kg⁩ روی یک سطح افقی با ضریب اصطکاک جنبشی ⁦0.2⁩ قرار دارد. اگر نیروی افقی ⁦16 N⁩ به جسم وارد شود، شتاب حرکت آن را محاسبه کنید. (⁦g = 10 m/s²⁩)",
+     "grading_key": "- [0.25] برای محاسبهٔ نیروی عمودی تکیه‌گاه: ⁦Fn = mg = 40 N⁩\n- [0.25] برای محاسبهٔ نیروی اصطکاک جنبشی: ⁦Fk = μk × Fn = 0.2 × 40 = 8 N⁩\n- [0.5] برای اعمال قانون دوم نیوتون و محاسبهٔ شتاب: ⁦F − Fk = ma ⇒ 16 − 8 = 4a ⇒ a = 2 m/s²⁩",
+     "final_resolution": "⁦a = 2 m/s²⁩",
+     "notes": "",
+     "keywords": [
+      "قانون دوم نیوتون",
+      "اصطکاک جنبشی",
+      "نیروی عمودی",
+      "شتاب حرکت"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "An object with a mass of 4 kg rests on a horizontal surface with a kinetic friction coefficient of 0.2. If a horizontal force of 16 N is applied, calculate its acceleration. (Use g = 10 m/s²)",
+     "grading_key": "- [0.25] for the normal force: Fn = mg = 40 N\n- [0.25] for the kinetic friction force: Fk = μk × Fn = 0.2 × 40 = 8 N\n- [0.5] for applying Newton's second law and computing the acceleration: 16 − 8 = 4a ⇒ a = 2 m/s²",
+     "final_resolution": "a = 2 m/s²",
+     "notes": "",
+     "keywords": [
+      "Newton's second law",
+      "kinetic friction",
+      "normal force",
+      "acceleration"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Jesmi be jarm-e 4 kg rooy-e yek sath-e ofoghi ba zarib-e estekak-e jonbeshi 0.2 gharar darad. Agar niroo-ye ofoghi-ye 16 N vared shavad, shetab-e harekat ra mohasebeh konid. (g = 10 m/s²)",
+     "grading_key": "- [0.25] baraye Fn = mg = 40 N\n- [0.25] baraye Fk = μk × Fn = 8 N\n- [0.5] baraye ghanoon-e dovom-e Newton va shetab: a = 2 m/s²",
+     "final_resolution": "a = 2 m/s²",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e dovom-e Newton",
+      "estekak-e jonbeshi",
+      "shetab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1402-Khordad",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: جملات شرطی نوع اول)",
+    "en": "Lesson 2: Look at the Future (Grammar: Conditional Sentences Type I)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Sharti)",
+    "pages": "48–55"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "جملهٔ شرطی زیر را با شکل صحیح افعال داخل پرانتز کامل کنید:\n⁦'If scientists (develop) clean energy sources, they (save) the environment from global warming.'⁩",
+     "grading_key": "- [0.5] برای استفاده از زمان حال ساده در بند شرط (⁦develop⁩)\n- [0.5] برای استفاده از زمان آیندهٔ ساده در بند جواب شرط (⁦will save⁩)",
+     "final_resolution": "⁦If scientists develop clean energy sources, they will save the environment from global warming.⁩",
+     "notes": "",
+     "keywords": [
+      "جملهٔ شرطی",
+      "حال ساده",
+      "آیندهٔ ساده",
+      "گرامر انگلیسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Complete the conditional sentence with the correct form of the verbs in parentheses:\n'If scientists (develop) clean energy sources, they (save) the environment from global warming.'",
+     "grading_key": "- [0.5] for using the Simple Present in the if-clause (develop).\n- [0.5] for using the Simple Future in the main clause (will save).",
+     "final_resolution": "If scientists develop clean energy sources, they will save the environment from global warming.",
+     "notes": "",
+     "keywords": [
+      "conditional sentence",
+      "simple present",
+      "simple future",
+      "grammar"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Jomle-ye sharti-ye zir ra ba shekl-e sahih-e fe'l-haye dakhel-e parantez kamel konid:\n'If scientists (develop) clean energy sources, they (save) the environment from global warming.'",
+     "grading_key": "- [0.5] baraye develop (hal-e sade)\n- [0.5] baraye will save (ayande)",
+     "final_resolution": "If scientists develop clean energy sources, they will save the environment from global warming.",
+     "notes": "",
+     "keywords": [
+      "jomle-ye sharti",
+      "hal-e sade",
+      "ayande"
+     ]
+    }
+   }
+  }
+ ]
+}

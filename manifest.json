@@ -1,4 +1,11 @@
 {
  "format": 1,
- "packs": []
+ "packs": [
+  {
+   "version": 1,
+   "format": 2,
+   "file": "pack-0001.json",
+   "sha256": "ec5054bb3ff53dc2aa25d948e34138fae57f2488782f1b76aa8b2dcc2a74830a"
+  }
+ ]
 }
