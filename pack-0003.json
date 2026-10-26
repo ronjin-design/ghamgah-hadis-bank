@@ -1,0 +1,232 @@
+{
+ "version": 3,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 0,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: اکسایش پیرووات و چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (Section 2: Pyruvate Oxidation and Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "70–75"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "سرنوشت مولکول پیرووات را پس از ورود به راکیزه (میتوکندری) در شرایط حضور اکسیژن شرح دهید و نام ترکیب حاصل از اکسایش آن را بیان کنید.",
+     "grading_key": "- [0.5] برای اشاره به اکسایش پیرووات، خروج یک مولکول دی‌اکسید کربن (⁦CO₂⁩) و تولید ⁦NADH⁩\n- [0.5] برای نام بردن از ترکیب نهایی حاصل یعنی استیل کوآنزیم آ (⁦Acetyl-CoA⁩)",
+     "final_resolution": "پیرووات اکسایش می‌یابد و با از دست دادن یک ⁦CO₂⁩ به گروه استیل تبدیل می‌شود؛ گروه استیل به کوآنزیم آ می‌پیوندد و استیل کوآنزیم آ (⁦Acetyl-CoA⁩) ساخته می‌شود.",
+     "notes": "",
+     "keywords": [
+      "راکیزه",
+      "اکسایش پیرووات",
+      "دی‌اکسید کربن",
+      "استیل کوآنزیم آ",
+      "تنفس هوازی"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Describe the fate of the pyruvate molecule after entering the mitochondrion under aerobic conditions and state the name of the compound produced from its oxidation.",
+     "grading_key": "- [0.5] for mentioning pyruvate oxidation, the release of a CO₂ molecule, and the production of NADH.\n- [0.5] for correctly naming the final resulting compound: Acetyl-Coenzyme A (Acetyl-CoA).",
+     "final_resolution": "Pyruvate undergoes oxidation, losing a CO₂ molecule to form an acetyl group, which binds to Coenzyme A to create Acetyl-CoA.",
+     "notes": "",
+     "keywords": [
+      "mitochondrion",
+      "pyruvate oxidation",
+      "carbon dioxide",
+      "Acetyl-CoA",
+      "aerobic respiration"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Sarnevesht-e molekul-e pyruvate ra pas az vorood be mitokondri dar sharayet-e hozoor-e oxygen sharh dahid va nam-e tarkib-e hasel az oksayesh-ash ra beguyid.",
+     "grading_key": "- [0.5] baraye oksayesh-e pyruvate, khorooj-e CO₂ va NADH\n- [0.5] baraye Acetyl-CoA",
+     "final_resolution": "Pyruvate oksayesh mi-yabad va ba az dast dadan-e yek CO₂ be goroh-e acetyl tabdil mishavad, ke be coenzyme A mi-peyvandad: Acetyl-CoA.",
+     "notes": "",
+     "keywords": [
+      "mitokondri",
+      "oksayesh-e pyruvate",
+      "carbon dioxide",
+      "Acetyl-CoA"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای بلوری)",
+    "en": "Chapter 3: Chemistry an Exhibition of Art, Beauty, and Durability (Crystalline Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar, Zibayi va Mandegari",
+    "pages": "78–85"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "تفاوت ساختاری و رسانایی الکتریکی دو دگرشکل کربن، یعنی الماس و گرافیت را بر اساس نوع پیوندها و آرایش اتم‌ها توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به ساختار سه‌بعدی و شبکه‌ای الماس با پیوندهای اشتراکی محکم (عایق الکتریکی)\n- [0.5] برای توضیح ساختار لایه‌ای گرافیت و وجود الکترون‌های غیرمستقر بین لایه‌ها (رسانای الکتریکی)",
+     "final_resolution": "الماس شبکه‌ای سه‌بعدی از پیوندهای اشتراکی است و الکترون آزاد ندارد (عایق)؛ گرافیت ساختار لایه‌ای دارد و الکترون‌های ⁦π⁩ غیرمستقر دارد (رسانا).",
+     "notes": "",
+     "keywords": [
+      "دگرشکل کربن",
+      "الماس",
+      "گرافیت",
+      "پیوند اشتراکی",
+      "الکترون غیرمستقر",
+      "رسانایی الکتریکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Explain the structural and electrical conductivity differences between the two allotropes of carbon, diamond and graphite, based on their bond types and atomic arrangements.",
+     "grading_key": "- [0.5] for specifying diamond's 3D covalent network with tightly bound electrons (electrical insulator).\n- [0.5] for explaining graphite's layered planar geometry containing free, delocalized π electrons (electrical conductor).",
+     "final_resolution": "Diamond has a 3D network of covalent bonds with no free electrons (insulator); graphite has a layered structure with delocalized π electrons (conductor).",
+     "notes": "",
+     "keywords": [
+      "carbon allotrope",
+      "diamond",
+      "graphite",
+      "covalent bond",
+      "delocalized electron",
+      "conductivity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Tafavot-e sakhtari va resanayi-ye electriki-ye do degarshekl-e carbon, yani almas va graphite ra bar asas-e no-e peyvand-ha va arayesh-e atom-ha sharh dahid.",
+     "grading_key": "- [0.5] baraye almas va shabake-ye se-bodi\n- [0.5] baraye graphite va sakhtar-e laye-i",
+     "final_resolution": "Almas shabake-ye se-bodi-ye peyvand-haye eshteraki ast va electron-e azad nadarad (ayegh); graphite laye-i ast va electron-haye π-ye gheyr-e mostaghar darad (resana).",
+     "notes": "",
+     "keywords": [
+      "carbon allotrope",
+      "almas",
+      "graphite",
+      "peyvand-e eshteraki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 0,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (مشخصات موج عرضی)",
+    "en": "Chapter 3: Oscillations and Waves (Characteristics of Transverse Waves)",
+    "tr": "Fasl 3: Navasan va Moj",
+    "pages": "74–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "رابطهٔ بین سرعت انتشار موج (⁦v⁩)، بسامد (⁦f⁩) و طول موج (⁦λ⁩) را بنویسید. اگر بسامد یک موج صوتی در هوا دو برابر شود، طول موج آن چه تغییری می‌کند؟",
+     "grading_key": "- [0.25] برای نوشتن رابطهٔ اصلی موج: ⁦v = f × λ⁩\n- [0.75] برای استدلال اینکه سرعت در یک محیط ثابت است، پس با دو برابر شدن بسامد، طول موج نصف می‌شود (⁦λ/2⁩)",
+     "final_resolution": "⁦v = f × λ⁩ ؛ چون سرعت در یک محیط ثابت است، با دو برابر شدن بسامد طول موج نصف می‌شود (⁦λ/2⁩).",
+     "notes": "",
+     "keywords": [
+      "سرعت انتشار موج",
+      "بسامد",
+      "طول موج",
+      "محیط انتشار",
+      "موج صوتی"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "Write the relationship between wave propagation speed (v), frequency (f), and wavelength (λ). If the frequency of a sound wave in air doubles, how does its wavelength change?",
+     "grading_key": "- [0.25] for writing the foundational wave equation: v = f × λ.\n- [0.75] for reasoning that since medium properties fix speed (v), doubling frequency halves the wavelength (λ/2).",
+     "final_resolution": "v = f × λ. Since speed (v) is constant in a fixed medium, doubling the frequency halves the wavelength (λ/2).",
+     "notes": "",
+     "keywords": [
+      "propagation speed",
+      "frequency",
+      "wavelength",
+      "wave medium",
+      "sound wave"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Rabeteh-ye beyn-e sorat-e enteshar-e moj (v), basamad (f) va tool-e moj (λ) ra benevisid. Agar basamad-e yek moj-e souti dar hava do barabar shavad, tool-e moj che taghyiri mikonad?",
+     "grading_key": "- [0.25] baraye formool-e v = f × λ\n- [0.75] baraye nesf shodan-e tool-e moj (λ/2)",
+     "final_resolution": "v = f × λ; sorat dar yek mohit sabet ast, pas ba do barabar shodan-e basamad tool-e moj nesf mishavad (λ/2).",
+     "notes": "",
+     "keywords": [
+      "sorat-e enteshar-e moj",
+      "basamad",
+      "tool-e moj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (درک مطلب متنی)",
+    "en": "Lesson 1: Sense of Appreciation (Reading Comprehension)",
+    "tr": "Dars 1: Hess-e Ghadrdani",
+    "pages": "14–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "با توجه به متن کتاب در مورد احترام به والدین، جملهٔ زیر را کامل کنید:\n⁦'We should show great respect to our parents because they are the ones who brought us up with love and _______.'⁩",
+     "grading_key": "- [1.0] برای یافتن و نوشتن املای صحیح واژهٔ متن کتاب (⁦care⁩)",
+     "final_resolution": "⁦care⁩",
+     "notes": "",
+     "keywords": [
+      "احترام به والدین",
+      "واژگان متنی",
+      "حس قدردانی",
+      "زبان انگلیسی دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Based on the textbook text regarding respect for parents, complete the following sentence:\n'We should show great respect to our parents because they are the ones who brought us up with love and _______.'",
+     "grading_key": "- [1.0] for correctly locating and spelling the authentic textbook vocabulary keyword (care).",
+     "final_resolution": "care",
+     "notes": "",
+     "keywords": [
+      "respecting parents",
+      "vocabulary context",
+      "sense of appreciation",
+      "Grade 12 English"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Ba tavajjoh be matn-e ketab, jomleh-ye zir ra kamel konid:\n'We should show great respect to our parents because they are the ones who brought us up with love and _______.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'care'",
+     "final_resolution": "care",
+     "notes": "",
+     "keywords": [
+      "hess-e ghadrdani",
+      "loghat",
+      "ketab-e Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}

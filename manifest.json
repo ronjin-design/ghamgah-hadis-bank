@@ -6,6 +6,18 @@
    "format": 2,
    "file": "pack-0001.json",
    "sha256": "ec5054bb3ff53dc2aa25d948e34138fae57f2488782f1b76aa8b2dcc2a74830a"
+  },
+  {
+   "version": 2,
+   "format": 2,
+   "file": "pack-0002.json",
+   "sha256": "a9ae3bb3df1d3d8673a7b32ded1a8a688b9e41ffcecea2891f3801824d694a3c"
+  },
+  {
+   "version": 3,
+   "format": 2,
+   "file": "pack-0003.json",
+   "sha256": "cb98c2e9a16b33e811723346aa6c40ea0780298a555ca4d69119e962a14cc5ee"
   }
  ]
 }

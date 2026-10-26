@@ -1,0 +1,230 @@
+{
+ "version": 2,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایه وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basic Concepts of Genetics)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "36–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "با فرض بارزیت کامل، از آمیزش دو فرد ناخالص (هتروزیگوت) برای یک صفت اتوزومی مغلوب، نسبت ژنوتیپی و فنوتیپی نسل اول (⁦F1⁩) را به دست آورید.",
+     "grading_key": "- [0.5] برای رسم صحیح مربع پانت و نوشتن ژنوتیپ‌ها (⁦AA, Aa, aa⁩) با نسبت ۱:۲:۱\n- [0.5] برای تعیین درست فنوتیپ‌ها (۳ فرد بارز و ۱ فرد مغلوب) با نسبت ۳:۱",
+     "final_resolution": "نسبت ژنوتیپی = ۱:۲:۱ ؛ نسبت فنوتیپی = ۳:۱",
+     "notes": "",
+     "keywords": [
+      "مربع پانت",
+      "ژنوتیپ",
+      "فنوتیپ",
+      "هتروزیگوت",
+      "بارزیت کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "Assuming complete dominance, derive the genotypic and phenotypic ratios of the first generation (F1) from a cross of two heterozygous individuals for an autosomal recessive trait.",
+     "grading_key": "- [0.5] for correctly drawing the Punnett square and listing genotypes (AA, Aa, aa) in a 1:2:1 ratio.\n- [0.5] for correctly determining phenotypes (3 dominant to 1 recessive) in a 3:1 ratio.",
+     "final_resolution": "Genotypic ratio = 1:2:1; Phenotypic ratio = 3:1.",
+     "notes": "",
+     "keywords": [
+      "Punnett square",
+      "genotype",
+      "phenotype",
+      "heterozygous",
+      "complete dominance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Ba farz-e bareziat-e kamel, az amizesh-e do fard-e nakhalis (heterozygote) baraye yek sefat-e autosomal-e maghloob, nesbat-e genotypi va phenotypi-ye nasl-e avval (F1) ra be dast avarid.",
+     "grading_key": "- [0.5] baraye morabba-e Punnett va ratio-ye genotypi\n- [0.5] baraye ratio-ye phenotypi",
+     "final_resolution": "Nesbat-e genotypi = 1:2:1; nesbat-e phenotypi = 3:1.",
+     "notes": "",
+     "keywords": [
+      "morabba-e Punnett",
+      "genotype",
+      "phenotype",
+      "heterozygote"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی آهن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Iron Corrosion)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi",
+    "pages": "52–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "فرآیند خوردگی آهن را در محیط مرطوب بررسی کنید.\nالف) نیم‌واکنش آندی اکسایش آهن را بنویسید.\nب) چرا حضور اکسیژن و آب برای پیشرفت خوردگی ضروری است؟",
+     "grading_key": "- [0.5] برای نوشتن صحیح نیم‌واکنش آندی: ⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩\n- [0.5] برای توضیح اینکه اکسیژن و آب در ناحیهٔ کاتدی کاهش یافته و الکترون‌های آزادشده از آند را مصرف می‌کنند",
+     "final_resolution": "نیم‌واکنش آندی: ⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩\nاکسیژن و آب در نیم‌واکنش کاهش در ناحیهٔ کاتدی شرکت می‌کنند و الکترون‌های آند را مصرف می‌کنند؛ بدون آن‌ها خوردگی پیش نمی‌رود.",
+     "notes": "",
+     "keywords": [
+      "خوردگی آهن",
+      "نیم‌واکنش آندی",
+      "کاتد",
+      "اکسایش",
+      "محیط مرطوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "Examine the corrosion process of iron in a moist environment.\na) Write the anodic half-reaction for iron oxidation.\nb) Why is the presence of oxygen and water necessary for corrosion to progress?",
+     "grading_key": "- [0.5] for correctly writing the anodic half-reaction: Fe(s) → Fe²⁺(aq) + 2e⁻.\n- [0.5] for explaining that oxygen and water undergo reduction at the cathodic region, consuming the electrons released from the anode.",
+     "final_resolution": "Anode half-reaction: Fe(s) → Fe²⁺(aq) + 2e⁻.\nOxygen and water drive the cathodic reduction half-reaction, consuming the electrons from the anode.",
+     "notes": "",
+     "keywords": [
+      "iron corrosion",
+      "anodic half-reaction",
+      "cathode",
+      "oxidation",
+      "moist environment"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Farayand-e khordegi-ye ahan ra dar mohit-e mortoob barresi konid.\na) Nim-vakonesh-e anodi-ye oksayesh-e ahan ra benevisid.\nb) Chera hozoor-e oxygen va ab zaroori ast?",
+     "grading_key": "- [0.5] baraye nim-vakonesh-e anodi: Fe(s) → Fe²⁺(aq) + 2e⁻\n- [0.5] baraye tozih-e nahiye-ye cathodi",
+     "final_resolution": "Nim-vakonesh-e anodi: Fe(s) → Fe²⁺(aq) + 2e⁻.\nOxygen va ab dar nahiye-ye cathodi kahesh mi-yaband va electron-haye anod ra masraf mikonand.",
+     "notes": "",
+     "keywords": [
+      "khordegi-ye ahan",
+      "nim-vakonesh-e anodi",
+      "cathode",
+      "oksayesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Introduction to Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Ashnai ba Fizik-e Atomi va Hastei",
+    "pages": "95–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، اگر طول موج نور ورودی کاهش یابد، بیشینهٔ انرژی جنبشی (⁦Kmax⁩) فوتوالکترون‌های گسیل‌شده چه تغییری می‌کند؟ با ذکر رابطهٔ فیزیکی توضیح دهید.",
+     "grading_key": "- [0.5] برای بیان فرمول انرژی فوتون ⁦E = hc/λ⁩ و اشاره به اینکه با کاهش طول موج، انرژی نور ورودی افزایش می‌یابد\n- [0.5] برای استفاده از معادلهٔ فوتوالکتریک ⁦Kmax = hf − W0⁩ و نتیجه‌گیری اینکه با افزایش انرژی فوتون، بیشینهٔ انرژی جنبشی نیز افزایش می‌یابد",
+     "final_resolution": "⁦Kmax⁩ افزایش می‌یابد، زیرا با کاهش طول موج انرژی فوتون (⁦E = hc/λ⁩) بیشتر می‌شود.",
+     "notes": "",
+     "keywords": [
+      "اثر فوتوالکتریک",
+      "انرژی جنبشی بیشینه",
+      "طول موج",
+      "انرژی فوتون",
+      "نظریهٔ کوانتومی"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, if the wavelength of the incident light decreases, how does the maximum kinetic energy (Kmax) of the emitted photoelectrons change? Explain using the relevant physical equation.",
+     "grading_key": "- [0.5] for stating the photon energy formula E = hc/λ, indicating that decreasing wavelength increases incident photon energy.\n- [0.5] for using the photoelectric equation Kmax = hf − W0 and concluding that higher photon energy directly increases maximum kinetic energy.",
+     "final_resolution": "Kmax increases because decreasing the wavelength increases the photon energy (E = hc/λ).",
+     "notes": "",
+     "keywords": [
+      "photoelectric effect",
+      "maximum kinetic energy",
+      "wavelength",
+      "photon energy",
+      "quantum theory"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, agar tool-e moj-e noor-e voroodi kahesh yabad, bishineh-ye enerji-ye jonbeshi (Kmax) che taghyiri mikonad? Ba zekr-e rabete-ye fiziki tozih dahid.",
+     "grading_key": "- [0.5] baraye formool-e enerji-ye photon: E = hc/λ\n- [0.5] baraye moadeleh-ye photoelectric: Kmax = hf − W0",
+     "final_resolution": "Kmax afzayesh mi-yabad, chon ba kahesh-e tool-e moj enerji-ye photon (E = hc/λ) bishtar mishavad.",
+     "notes": "",
+     "keywords": [
+      "asar-e photoelectric",
+      "enerji-ye jonbeshi-ye bishineh",
+      "tool-e moj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان و درک مطلب)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary & Reading Comprehension)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir",
+    "pages": "72–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "با توجه به مفاهیم درس انرژی‌های تجدیدپذیر، واژهٔ تعریف‌شده در جملهٔ زیر را مشخص کنید:\n⁦'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'⁩",
+     "grading_key": "- [1.0] برای تشخیص و نوشتن املای صحیح واژهٔ کلیدی (⁦renewable⁩)",
+     "final_resolution": "⁦renewable⁩",
+     "notes": "",
+     "keywords": [
+      "انرژی تجدیدپذیر",
+      "واژگان انگلیسی",
+      "باد و نور خورشید",
+      "کتاب ویژن ۳"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Based on the concepts of the renewable energy lesson, identify the word defined in the following sentence:\n'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'",
+     "grading_key": "- [1.0] for correctly identifying and spelling the target vocabulary key word (renewable).",
+     "final_resolution": "renewable",
+     "notes": "",
+     "keywords": [
+      "renewable energy",
+      "English vocabulary",
+      "wind and sunlight",
+      "Vision 3 textbook"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Ba tavajjoh be dars-e enerji-haye tajdid-pazir, vazheh-ye tarif shodeh ra moshakhas konid:\n'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'renewable'",
+     "final_resolution": "renewable",
+     "notes": "",
+     "keywords": [
+      "enerji-ye tajdid-pazir",
+      "loghat-e English",
+      "Vision 3"
+     ]
+    }
+   }
+  }
+ ]
+}
