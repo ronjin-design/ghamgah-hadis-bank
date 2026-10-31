@@ -1,0 +1,433 @@
+{
+ "version": 14,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 907,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: مهندسی ژنتیک)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Genetic Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1)",
+    "pages": "96–99"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در مهندسی ژنتیک، کدام آنزیم دنای ناقل (پلازمید) را در جایگاه تشخیص مشخص برش می‌دهد؟",
+     "grading_key": "- [1] آنزیم برش‌دهنده (محدودکننده)",
+     "final_resolution": "آنزیم برش‌دهنده (محدودکننده)",
+     "notes": "",
+     "keywords": [
+      "آنزیم برش‌دهنده"
+     ],
+     "distractors": [
+      "دی‌ان‌ای لیگاز",
+      "آر‌ان‌ای پلیمراز",
+      "هلیکاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In genetic engineering, which enzyme cuts the vector DNA (plasmid) at a specific recognition site?",
+     "grading_key": "- [1] Restriction enzyme",
+     "final_resolution": "Restriction enzyme",
+     "notes": "",
+     "keywords": [
+      "restriction enzyme"
+     ],
+     "distractors": [
+      "DNA ligase",
+      "RNA polymerase",
+      "Helicase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar mohandesi-ye zhenetik, kodam anzim DNA-ye nagel (plasmid) ra dar jaygah-e tashkhis-e moshakhas boresh midahad?",
+     "grading_key": "- [1] Anzim-e boresh-dahandeh",
+     "final_resolution": "Anzim-e boresh-dahandeh",
+     "notes": "",
+     "keywords": [
+      "anzim-e boresh-dahandeh"
+     ],
+     "distractors": [
+      "DNA ligase",
+      "RNA polymerase",
+      "Helicase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 907,
+   "topic_tag": "animal-behavior",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۸: رفتارهای جانوران (گفتار ۱: اساس رفتار)",
+    "en": "Chapter 8: Animal Behavior (Section 1: Basis of Behavior)",
+    "tr": "Fasl 8: Raftar-haye Janevaran (Goftar 1)",
+    "pages": "112–115"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "رفتارهای جانوران",
+     "question": "کدام رفتار یادگرفته به کاهش پاسخ جانور به محرکی تکراری اشاره دارد که نه سودی دارد نه زیانی؟",
+     "grading_key": "- [1] خوگیری",
+     "final_resolution": "خوگیری",
+     "notes": "",
+     "keywords": [
+      "خوگیری"
+     ],
+     "distractors": [
+      "شرطی شدن کلاسیک",
+      "شرطی شدن فعال",
+      "نقش‌پذیری"
+     ]
+    },
+    "en": {
+     "topic_label": "Animal Behavior",
+     "question": "Which learned behaviour is an animal's reduced response to a repeated stimulus that brings neither benefit nor harm?",
+     "grading_key": "- [1] Habituation",
+     "final_resolution": "Habituation",
+     "notes": "",
+     "keywords": [
+      "habituation"
+     ],
+     "distractors": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Imprinting"
+     ]
+    },
+    "tr": {
+     "topic_label": "Raftar-haye janevaran",
+     "question": "Kodam raftar-e yad-gerefte be kahesh-e pasokh-e janevar be moharreki tekrari eshare darad ke na soodi darad na ziani?",
+     "grading_key": "- [1] Khoo-giri",
+     "final_resolution": "Khoo-giri",
+     "notes": "",
+     "keywords": [
+      "khoo-giri"
+     ],
+     "distractors": [
+      "Sharti shodan-e classic",
+      "Sharti shodan-e faal",
+      "Naghsh-paziri"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 907,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای یونی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Ionic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Yoni)",
+    "pages": "82–85"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "نیرویی که یون‌های مثبت و منفی را در شبکهٔ بلوری یک جامد یونی محکم کنار هم نگه می‌دارد چه نام دارد؟",
+     "grading_key": "- [1] جاذبهٔ الکترواستاتیکی",
+     "final_resolution": "جاذبهٔ الکترواستاتیکی",
+     "notes": "",
+     "keywords": [
+      "جاذبهٔ الکترواستاتیکی"
+     ],
+     "distractors": [
+      "اشتراک الکترون (کووالانسی)",
+      "پیوند فلزی",
+      "نیروهای واندروالسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "What force holds the positive and negative ions tightly together in the crystal lattice of an ionic solid?",
+     "grading_key": "- [1] Electrostatic attraction",
+     "final_resolution": "Electrostatic attraction",
+     "notes": "",
+     "keywords": [
+      "electrostatic attraction"
+     ],
+     "distractors": [
+      "Covalent sharing",
+      "Metallic bonding",
+      "Van der Waals forces"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Niroo-i ke yon-haye mosbat va manfi ra dar shabake-ye boluri-ye yek jamed-e yoni mohkam kenar-e ham negah midarad che nam darad?",
+     "grading_key": "- [1] Jazebeh-ye electrostatic",
+     "final_resolution": "Jazebeh-ye electrostatic",
+     "notes": "",
+     "keywords": [
+      "jazebeh-ye electrostatic"
+     ],
+     "distractors": [
+      "Eshterak-e electron (covalent)",
+      "Peyvand-e felezi",
+      "Niroo-haye van der Waals"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 907,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (کاتالیزگر)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Catalysts)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Catalyzgar)",
+    "pages": "114–117"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "کاتالیزگر با تغییر کدام ویژگی مسیر واکنش، سرعت تبدیل واکنش‌دهنده‌ها به فرآورده‌ها را افزایش می‌دهد؟",
+     "grading_key": "- [1] کاهش انرژی فعال‌سازی",
+     "final_resolution": "کاهش انرژی فعال‌سازی",
+     "notes": "",
+     "keywords": [
+      "کاتالیزگر"
+     ],
+     "distractors": [
+      "افزایش آنتالپی واکنش (⁦ΔH⁩)",
+      "کاهش ثابت تعادل (⁦K⁩)",
+      "افزایش جرم واکنش‌دهنده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By changing which feature of the reaction pathway does a catalyst speed up the conversion of reactants to products?",
+     "grading_key": "- [1] Lowering the activation energy",
+     "final_resolution": "Lowering the activation energy",
+     "notes": "",
+     "keywords": [
+      "catalyst"
+     ],
+     "distractors": [
+      "Increasing the reaction enthalpy (ΔH)",
+      "Decreasing the equilibrium constant (K)",
+      "Increasing the reactant mass"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Catalyzgar ba taghyir-e kodam vizhegi-ye masir-e vakonesh, sorat-e tabdil-e vakonesh-dahande-ha be faravarde-ha ra afzayesh midahad?",
+     "grading_key": "- [1] Kahesh-e enerji-ye faal-sazi",
+     "final_resolution": "Kahesh-e enerji-ye faal-sazi",
+     "notes": "",
+     "keywords": [
+      "catalyzgar"
+     ],
+     "distractors": [
+      "Afzayesh-e antalpi-ye vakonesh (ΔH)",
+      "Kahesh-e sabet-e taadol (K)",
+      "Afzayesh-e jerm-e vakonesh-dahande-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1397-Khordad",
+   "number": 907,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (سقوط آزاد)",
+    "en": "Chapter 1: Motion Along a Straight Line (Free Fall)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Soghoot-e Azad)",
+    "pages": "24–27"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "جسمی از حال سکون در نزدیکی سطح زمین رها می‌شود و آزادانه سقوط می‌کند. مسافت طی‌شده با کدام کمیت متناسب است؟",
+     "grading_key": "- [1] مجذور زمان (⁦t²⁩)",
+     "final_resolution": "مجذور زمان (⁦t²⁩)",
+     "notes": "",
+     "keywords": [
+      "سقوط آزاد"
+     ],
+     "distractors": [
+      "زمان (⁦t⁩)",
+      "جرم جسم",
+      "سرعت اولیه"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "An object is dropped from rest near Earth's surface and falls freely. The distance it falls is proportional to what?",
+     "grading_key": "- [1] The square of the time (t²)",
+     "final_resolution": "The square of the time (t²)",
+     "notes": "",
+     "keywords": [
+      "free fall"
+     ],
+     "distractors": [
+      "The time (t)",
+      "The mass of the object",
+      "The initial velocity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Jesmi az hal-e sokoon dar nazdiki-ye sath-e zamin raha mishavad va azadane soghoot mikonad. Masafat-e tey-shode ba kodam kamiyat motenaseb ast?",
+     "grading_key": "- [1] Majzoor-e zaman (t²)",
+     "final_resolution": "Majzoor-e zaman (t²)",
+     "notes": "",
+     "keywords": [
+      "soghoot-e azad"
+     ],
+     "distractors": [
+      "Zaman (t)",
+      "Jerm-e jesm",
+      "Sorat-e avvaliye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 907,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست موج)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Moj)",
+    "pages": "80–83"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی یک موج مکانیکی از یک محیط وارد محیطی با چگالی متفاوت می‌شود، کدام ویژگی موج ثابت می‌ماند؟",
+     "grading_key": "- [1] بسامد (⁦f⁩)",
+     "final_resolution": "بسامد (⁦f⁩)",
+     "notes": "",
+     "keywords": [
+      "بسامد"
+     ],
+     "distractors": [
+      "طول موج (⁦λ⁩)",
+      "تندی انتشار (⁦v⁩)",
+      "دامنه (⁦A⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a mechanical wave passes into a medium of different density, which property of the wave stays the same?",
+     "grading_key": "- [1] Frequency (f)",
+     "final_resolution": "Frequency (f)",
+     "notes": "",
+     "keywords": [
+      "frequency"
+     ],
+     "distractors": [
+      "Wavelength (λ)",
+      "Propagation speed (v)",
+      "Amplitude (A)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti yek moj-e mekaniki az yek mohit vared-e mohiti ba chegali-ye motefavet mishavad, kodam vizhegi-ye moj sabet mimanad?",
+     "grading_key": "- [1] Basamad (f)",
+     "final_resolution": "Basamad (f)",
+     "notes": "",
+     "keywords": [
+      "basamad"
+     ],
+     "distractors": [
+      "Tool-e moj (λ)",
+      "Tondi-ye enteshar (v)",
+      "Damane (A)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 907,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: ضمیرهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Pronouns)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Zamir-haye Moosooli)",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "ضمیر موصولی درست را انتخاب کنید:\n⁦'The solar panels _______ were installed on the roof generate electricity.'⁩",
+     "grading_key": "- [1] ⁦which⁩",
+     "final_resolution": "⁦which⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیرهای موصولی"
+     ],
+     "distractors": [
+      "⁦who⁩",
+      "⁦whom⁩",
+      "⁦whose⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct relative pronoun:\n'The solar panels _______ were installed on the roof generate electricity.'",
+     "grading_key": "- [1] which",
+     "final_resolution": "which",
+     "notes": "",
+     "keywords": [
+      "relative pronoun"
+     ],
+     "distractors": [
+      "who",
+      "whom",
+      "whose"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Zamir-e moosooli-ye dorost ra entekhab konid:\n'The solar panels _______ were installed on the roof generate electricity.'",
+     "grading_key": "- [1] which",
+     "final_resolution": "which",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli"
+     ],
+     "distractors": [
+      "who",
+      "whom",
+      "whose"
+     ]
+    }
+   }
+  }
+ ]
+}
