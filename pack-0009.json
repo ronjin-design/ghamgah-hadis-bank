@@ -1,0 +1,446 @@
+{
+ "version": 9,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1397-Khordad",
+   "number": 901,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۲: همانندسازی دنا)",
+    "en": "Chapter 1: Informational Molecules (Section 2: DNA Replication)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 2)",
+    "pages": "8–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام آنزیم در فرآیند همانندسازی پروکاریوتی وظیفهٔ شکستن پیوندهای هیدروژنی بین بازهای مکمل را بر عهده دارد؟",
+     "grading_key": "- [1] هلیکاز",
+     "final_resolution": "هلیکاز",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "دی‌ان‌ای پلیمراز",
+      "آر‌ان‌ای پلیمراز",
+      "دی‌ان‌ای لیگاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which enzyme is responsible for breaking hydrogen bonds between complementary bases during prokaryotic DNA replication?",
+     "grading_key": "- [1] Helicase",
+     "final_resolution": "Helicase",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "DNA Polymerase",
+      "RNA Polymerase",
+      "DNA Ligase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam anzim dar farayand-e hamanand-sazi-ye prokaryoti vazife-ye shekastan-e peyvand-haye hidrozheni-ye beyn-e baz-haye mokammel ra bar ohde darad?",
+     "grading_key": "- [1] Helicase",
+     "final_resolution": "Helicase",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "DNA ligase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1398-Dey",
+   "number": 901,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "20–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در فرآیند رونویسی، آر‌ان‌ای پلیمراز برای شناسایی راه‌انداز (پروموتر) ابتدا به کدام بخش از رشتهٔ دنا متصل می‌شود؟",
+     "grading_key": "- [1] توالی راه‌انداز",
+     "final_resolution": "توالی راه‌انداز",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "جایگاه پایان",
+      "رشتهٔ الگو",
+      "رمزهٔ آغاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "During transcription, to which specific region of the DNA strand does RNA polymerase initially bind to recognize the promoter?",
+     "grading_key": "- [1] Promoter sequence",
+     "final_resolution": "Promoter sequence",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Terminator site",
+      "Template strand",
+      "Start codon"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar farayand-e roonevisi, RNA polymerase baraye shenasayi-ye rah-andaz (promoter) ebteda be kodam bakhsh az reshte-ye DNA motasel mishavad?",
+     "grading_key": "- [1] Tavali-ye rah-andaz",
+     "final_resolution": "Tavali-ye rah-andaz",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Jaygah-e payan",
+      "Reshte-ye olgoo",
+      "Ramze-ye aghaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 901,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (درجهٔ یونش)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Degree of Ionization)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Darajeh-ye Yonesh)",
+    "pages": "18–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "درجهٔ یونش (⁦α⁩) برای یک اسید بسیار قوی مانند هیدروکلریک اسید (⁦HCl⁩) در محلول آبی چقدر فرض می‌شود؟",
+     "grading_key": "- [1] ۱",
+     "final_resolution": "۱",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "۰",
+      "۰٫۵",
+      "بین ۰ و ۱"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "What is the degree of ionization (α) assumed to be for a very strong acid like hydrochloric acid (HCl) in an aqueous solution?",
+     "grading_key": "- [1] 1",
+     "final_resolution": "1",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "0",
+      "0.5",
+      "Between 0 and 1"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Darajeh-ye yonesh (α) baraye yek acid-e besyar ghavi mesl-e hydrochloric acid (HCl) dar mahlool-e abi cheghadr farz mishavad?",
+     "grading_key": "- [1] 1",
+     "final_resolution": "1",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "0",
+      "0.5",
+      "Beyn-e 0 va 1"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1398-Khordad",
+   "number": 901,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Corrosion)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi)",
+    "pages": "52–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در فرآیند خوردگی یا زنگ‌زدن آهن در محیط مرطوب، کدام ناحیه از فلز به‌عنوان آند عمل کرده و اکسایش می‌یابد؟",
+     "grading_key": "- [1] ناحیهٔ کم‌اکسیژن آهن",
+     "final_resolution": "ناحیهٔ کم‌اکسیژن آهن",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "ناحیهٔ پراکسیژن آهن",
+      "لایهٔ آب مرطوب",
+      "کاتد کربنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the process of corrosion or iron rusting in a moist environment, which region of the metal acts as the anode and undergoes oxidation?",
+     "grading_key": "- [1] Low-oxygen iron region",
+     "final_resolution": "Low-oxygen iron region",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "High-oxygen iron region",
+      "Moist water film",
+      "Carbon cathode"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar farayand-e khordegi ya zang-zadan-e ahan dar mohit-e mortoob, kodam nahiye az felez be onvan-e anode amal karde va oksayesh mi-yabad?",
+     "grading_key": "- [1] Nahiye-ye kam-oxygen-e ahan",
+     "final_resolution": "Nahiye-ye kam-oxygen-e ahan",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Nahiye-ye por-oxygen-e ahan",
+      "Laye-ye ab-e mortoob",
+      "Cathode-e karboni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Khordad",
+   "number": 901,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (نمودار مکان-زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Position-Time Graph)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Nemoodar-e Makan-Zaman)",
+    "pages": "8–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "شیب خط مماس بر نمودار مکان-زمان (⁦x-t⁩) در یک لحظهٔ مشخص، بیانگر کدام کمیت فیزیکی متحرک است؟",
+     "grading_key": "- [1] سرعت لحظه‌ای",
+     "final_resolution": "سرعت لحظه‌ای",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "سرعت متوسط",
+      "شتاب لحظه‌ای",
+      "تکانهٔ خطی"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "The slope of the tangent line to a position-time (x-t) graph at a given instant represents which physical quantity of the moving object?",
+     "grading_key": "- [1] Instantaneous velocity",
+     "final_resolution": "Instantaneous velocity",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Average velocity",
+      "Instantaneous acceleration",
+      "Linear momentum"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Shib-e khatt-e momas bar nemoodar-e makan-zaman (x-t) dar yek lahze-ye moshakhas, bayangar-e kodam kamiyat-e fiziki-ye motaharrek ast?",
+     "grading_key": "- [1] Sorat-e lahzei",
+     "final_resolution": "Sorat-e lahzei",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Sorat-e motevasset",
+      "Shetab-e lahzei",
+      "Takane-ye khatti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 901,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Light)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "هنگامی که یک پرتو نور تک‌رنگ از محیط غلیظ وارد محیط رقیق می‌شود، بسامد موج آن چه تغییری می‌کند؟",
+     "grading_key": "- [1] کاملاً ثابت می‌ماند",
+     "final_resolution": "کاملاً ثابت می‌ماند",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "افزایش می‌یابد",
+      "کاهش می‌یابد",
+      "به ضریب شکست بستگی دارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a monochromatic light ray travels from a dense medium into a less dense medium, how does its wave frequency change?",
+     "grading_key": "- [1] Remains completely constant",
+     "final_resolution": "Remains completely constant",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Increases",
+      "Decreases",
+      "Depends on the refractive index"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Hengami ke yek parto-ye noor-e tak-rang az mohit-e ghaliz vared-e mohit-e raghigh mishavad, basamad-e moj-ash che taghyiri mikonad?",
+     "grading_key": "- [1] Kamelan sabet mimanad",
+     "final_resolution": "Kamelan sabet mimanad",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "Afzayesh mi-yabad",
+      "Kahesh mi-yabad",
+      "Be zarib-e shekast bastegi darad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 901,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان متنی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "با توجه به ضرب‌المثل‌های درس اول، کدام واژه جملهٔ زیر را درست کامل می‌کند؟\n⁦'An empty vessel makes the most _______.'⁩",
+     "grading_key": "- [1] ⁦noise⁩",
+     "final_resolution": "⁦noise⁩",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "⁦sound⁩",
+      "⁦voice⁩",
+      "⁦words⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Based on the proverbs in lesson one, which word correctly completes the following statement?\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1] noise",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "sound",
+      "voice",
+      "words"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Ba tavajjoh be zarb-ol-masal-haye dars-e avval, kodam vazhe jomle-ye zir ra dorost kamel mikonad?\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1] noise",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "sound",
+      "voice",
+      "words"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 901,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: جمله‌های شرطی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Conditionals)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Sharti)",
+    "pages": "48–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "شکل صحیح فعل را در جملهٔ شرطی نوع اول انتخاب کنید:\n⁦'If scientists develop clean energy, they _______ the planet.'⁩",
+     "grading_key": "- [1] ⁦will save⁩",
+     "final_resolution": "⁦will save⁩",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "⁦would save⁩",
+      "⁦saved⁩",
+      "⁦have saved⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct verb form to complete the Type I conditional:\n'If scientists develop clean energy, they _______ the planet.'",
+     "grading_key": "- [1] will save",
+     "final_resolution": "will save",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "would save",
+      "saved",
+      "have saved"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Shekl-e sahih-e fe'l ra dar jomle-ye sharti-ye no-e avval entekhab konid:\n'If scientists develop clean energy, they _______ the planet.'",
+     "grading_key": "- [1] will save",
+     "final_resolution": "will save",
+     "notes": "",
+     "keywords": [],
+     "distractors": [
+      "would save",
+      "saved",
+      "have saved"
+     ]
+    }
+   }
+  }
+ ]
+}
