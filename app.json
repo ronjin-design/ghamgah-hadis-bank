@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2020,
- "versionName": "3.3.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2020/Ghamgah-E-Hadis.apk",
- "size": 39386830,
- "sha256": "e10fa5439219832d3135112dec4bb10deaea541ab139f2ce137823e89b03b85f",
+ "versionCode": 2021,
+ "versionName": "3.4.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2021/Ghamgah-E-Hadis.apk",
+ "size": 39796634,
+ "sha256": "9262044b9df475ee875f25c0518168bcea6877c7113f8174e8a7a14b1fa7f8a8",
  "notes": {
-  "fa": "شکوفه برای فصل‌هایی که سؤال تازه دارند، یادداشت‌ها بر اساس فصل، و سرعت خواندن در نمایه.",
-  "en": "Chapter blooms for new questions, notes grouped by chapter, reading speed on your Profile.",
-  "tr": "Shekoofe baraye fasl-haye ba soal-e taze, yaddasht-ha bar asas-e fasl, va sorat-e khandan dar namaye."
+  "fa": "نمایش مفهوم‌ها: مجهول‌سازی، سلول گالوانی، موج صوتی و مربع پانت را در حرکت ببین.",
+  "en": "Concept visualizers: see active → passive, a galvanic cell, sound waves and Punnett squares move.",
+  "tr": "Namayesh-e mafhoom-ha: majhool-sazi, selool-e galvani, moj-e souti va morabba-e Punnett ra dar harekat bebin."
  }
 }
