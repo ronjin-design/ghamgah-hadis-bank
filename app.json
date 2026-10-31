@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2019,
- "versionName": "3.2.2",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2019/Ghamgah-E-Hadis.apk",
- "size": 39370446,
- "sha256": "76717fbc70fd3aa0224ff78576378ed2e854535b7f2b05d39643375549d7258d",
+ "versionCode": 2020,
+ "versionName": "3.3.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2020/Ghamgah-E-Hadis.apk",
+ "size": 39386830,
+ "sha256": "e10fa5439219832d3135112dec4bb10deaea541ab139f2ce137823e89b03b85f",
  "notes": {
-  "fa": "به‌روزرسانی‌ها حالا چند ثانیه پس از انتشار دیده می‌شوند.",
-  "en": "Updates now appear within seconds of release.",
-  "tr": "Be-rooz-resani-ha hala chand sanie pas az enteshar dide mishavand."
+  "fa": "شکوفه برای فصل‌هایی که سؤال تازه دارند، یادداشت‌ها بر اساس فصل، و سرعت خواندن در نمایه.",
+  "en": "Chapter blooms for new questions, notes grouped by chapter, reading speed on your Profile.",
+  "tr": "Shekoofe baraye fasl-haye ba soal-e taze, yaddasht-ha bar asas-e fasl, va sorat-e khandan dar namaye."
  }
 }
