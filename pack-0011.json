@@ -1,0 +1,555 @@
+{
+ "version": 11,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 904,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام نوع پیوند اشتراکی، نوکلئوتیدهای مجاور را در یک رشتهٔ پلی‌نوکلئوتیدی دنا (⁦DNA⁩) به هم متصل می‌کند؟",
+     "grading_key": "- [1] پیوند فسفودی‌استر",
+     "final_resolution": "پیوند فسفودی‌استر",
+     "notes": "",
+     "keywords": [
+      "پیوند فسفودی‌استر"
+     ],
+     "distractors": [
+      "پیوند هیدروژنی",
+      "پیوند پپتیدی",
+      "پل دی‌سولفید"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which type of covalent bond connects adjacent nucleotides within a DNA polynucleotide strand?",
+     "grading_key": "- [1] Phosphodiester bond",
+     "final_resolution": "Phosphodiester bond",
+     "notes": "",
+     "keywords": [
+      "phosphodiester bond"
+     ],
+     "distractors": [
+      "Hydrogen bond",
+      "Peptide bond",
+      "Disulfide bridge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam no-e peyvand-e eshteraki, nucleotide-haye mojaver ra dar yek reshte-ye poly-nucleotide-e DNA be ham motasel mikonad?",
+     "grading_key": "- [1] Peyvand-e phosphodiester",
+     "final_resolution": "Peyvand-e phosphodiester",
+     "notes": "",
+     "keywords": [
+      "peyvand-e phosphodiester"
+     ],
+     "distractors": [
+      "Peyvand-e hidrozheni",
+      "Peyvand-e peptidi",
+      "Pol-e disulfide"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 904,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "22–25"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در رونویسی، آنزیم ⁦RNA⁩ پلیمراز روی کدام رشتهٔ دنا حرکت کرده و آن را به‌عنوان الگو می‌خواند؟",
+     "grading_key": "- [1] رشتهٔ الگو (⁦3′ → 5′⁩)",
+     "final_resolution": "رشتهٔ الگو (⁦3′ → 5′⁩)",
+     "notes": "",
+     "keywords": [
+      "رشتهٔ الگو"
+     ],
+     "distractors": [
+      "رشتهٔ رمزگذار",
+      "رشتهٔ راه‌انداز",
+      "قطعهٔ اوکازاکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "During transcription, along which DNA strand does RNA polymerase move, reading it as a template?",
+     "grading_key": "- [1] Template strand (3′ → 5′)",
+     "final_resolution": "Template strand (3′ → 5′)",
+     "notes": "",
+     "keywords": [
+      "template strand"
+     ],
+     "distractors": [
+      "Coding strand",
+      "Promoter strand",
+      "Okazaki fragment"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar roonevisi, anzim-e RNA polymerase rooy-e kodam reshte-ye DNA harekat karde va an ra be onvan-e olgoo mikhanad?",
+     "grading_key": "- [1] Reshte-ye olgoo (3′ → 5′)",
+     "final_resolution": "Reshte-ye olgoo (3′ → 5′)",
+     "notes": "",
+     "keywords": [
+      "reshte-ye olgoo"
+     ],
+     "distractors": [
+      "Reshte-ye ramz-gozar",
+      "Reshte-ye rah-andaz",
+      "Ghete-ye Okazaki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 904,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "33–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "کدام جایگاه در رناتن (ریبوزوم) محل خروج رنای ناقل (⁦tRNA⁩) بدون آمینواسید است؟",
+     "grading_key": "- [1] جایگاه ⁦E⁩",
+     "final_resolution": "جایگاه ⁦E⁩",
+     "notes": "",
+     "keywords": [
+      "جایگاه E"
+     ],
+     "distractors": [
+      "جایگاه ⁦A⁩",
+      "جایگاه ⁦P⁩",
+      "جایگاه راه‌انداز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Which ribosome site is the exit for the uncharged tRNA leaving the ribosome?",
+     "grading_key": "- [1] E site",
+     "final_resolution": "E site",
+     "notes": "",
+     "keywords": [
+      "E site"
+     ],
+     "distractors": [
+      "A site",
+      "P site",
+      "Promoter site"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Kodam jaygah dar ribosome mahall-e khorooj-e tRNA-ye bedoon-e amino acid ast?",
+     "grading_key": "- [1] Jaygah-e E",
+     "final_resolution": "Jaygah-e E",
+     "notes": "",
+     "keywords": [
+      "jaygah-e E"
+     ],
+     "distractors": [
+      "Jaygah-e A",
+      "Jaygah-e P",
+      "Jaygah-e rah-andaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 904,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (پاک‌کننده‌های غیرصابونی)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Non-soap Detergents)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Pak-konande-haye Gheyr-e Sabooni)",
+    "pages": "8–11"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام گروه عاملی قطبی در پاک‌کننده‌های غیرصابونی وجود دارد که با یون‌های آب سخت رسوب نمی‌دهد؟",
+     "grading_key": "- [1] گروه سولفونات (⁦−SO₃⁻⁩)",
+     "final_resolution": "گروه سولفونات (⁦−SO₃⁻⁩)",
+     "notes": "",
+     "keywords": [
+      "گروه سولفونات"
+     ],
+     "distractors": [
+      "گروه کربوکسیلات (⁦−COO⁻⁩)",
+      "گروه هیدروکسیل (⁦−OH⁩)",
+      "گروه آمین (⁦−NH₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which polar functional group in non-soap detergents does not form precipitates with hard-water ions?",
+     "grading_key": "- [1] Sulfonate group (−SO₃⁻)",
+     "final_resolution": "Sulfonate group (−SO₃⁻)",
+     "notes": "",
+     "keywords": [
+      "sulfonate group"
+     ],
+     "distractors": [
+      "Carboxylate group (−COO⁻)",
+      "Hydroxyl group (−OH)",
+      "Amine group (−NH₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam goroh-e amel-e ghotbi dar pak-konande-haye gheyr-e sabooni vojood darad ke ba yon-haye ab-e sakht rosoob nemidahad?",
+     "grading_key": "- [1] Goroh-e sulfonate (−SO₃⁻)",
+     "final_resolution": "Goroh-e sulfonate (−SO₃⁻)",
+     "notes": "",
+     "keywords": [
+      "goroh-e sulfonate"
+     ],
+     "distractors": [
+      "Goroh-e carboxylate (−COO⁻)",
+      "Goroh-e hydroxyl (−OH)",
+      "Goroh-e amine (−NH₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 904,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (پتانسیل استاندارد)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Standard Potential)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi",
+    "pages": "42–45"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در یک سلول گالوانی، اکسایش همواره در کدام الکترود رخ می‌دهد؟",
+     "grading_key": "- [1] آند",
+     "final_resolution": "آند",
+     "notes": "",
+     "keywords": [
+      "آند"
+     ],
+     "distractors": [
+      "کاتد",
+      "پل نمکی",
+      "ولت‌سنج"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In a galvanic cell, at which electrode does oxidation always occur?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "anode"
+     ],
+     "distractors": [
+      "Cathode",
+      "Salt bridge",
+      "Voltmeter"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar yek selool-e galvani, oksayesh hamvare dar kodam electrode rokh midahad?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "anode"
+     ],
+     "distractors": [
+      "Cathode",
+      "Pol-e namaki",
+      "Volt-sanj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 904,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (معادلات حرکت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Equations of Motion)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Moadelat-e Harekat)",
+    "pages": "14–17"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "جسمی روی خط راست در حال حرکت است و شتابش صفر است. نمودار مکان-زمان (⁦x-t⁩) آن چه شکلی دارد؟",
+     "grading_key": "- [1] خط راست شیب‌دار",
+     "final_resolution": "خط راست شیب‌دار",
+     "notes": "",
+     "keywords": [
+      "حرکت با سرعت ثابت"
+     ],
+     "distractors": [
+      "خط افقی",
+      "سهمی",
+      "خط قائم"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "An object is moving along a straight line with zero acceleration. What shape is its position-time (x-t) graph?",
+     "grading_key": "- [1] A straight sloping line",
+     "final_resolution": "A straight sloping line",
+     "notes": "",
+     "keywords": [
+      "constant velocity"
+     ],
+     "distractors": [
+      "A horizontal line",
+      "A parabola",
+      "A vertical line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Jesmi rooy-e khatt-e rast dar hal-e harekat ast va shetab-ash sefr ast. Nemoodar-e makan-zaman (x-t)-ash che shekli darad?",
+     "grading_key": "- [1] Khatt-e rast-e shib-dar",
+     "final_resolution": "Khatt-e rast-e shib-dar",
+     "notes": "",
+     "keywords": [
+      "harekat ba sorat-e sabet"
+     ],
+     "distractors": [
+      "Khatt-e ofoghi",
+      "Sahmi",
+      "Khatt-e ghaem"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 904,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (سرعت موج طولی)",
+    "en": "Chapter 3: Oscillations and Waves (Speed of Longitudinal Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Sorat-e Moj-e Tooli)",
+    "pages": "68–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "تندی انتشار یک موج صوتی عمدتاً به کدام مورد بستگی دارد؟",
+     "grading_key": "- [1] ویژگی‌های محیط",
+     "final_resolution": "ویژگی‌های محیط",
+     "notes": "",
+     "keywords": [
+      "ویژگی‌های محیط"
+     ],
+     "distractors": [
+      "بسامد چشمه",
+      "دامنهٔ موج",
+      "فاز اولیه"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "The speed of a sound wave depends mainly on what?",
+     "grading_key": "- [1] The properties of the medium",
+     "final_resolution": "The properties of the medium",
+     "notes": "",
+     "keywords": [
+      "properties of the medium"
+     ],
+     "distractors": [
+      "The source frequency",
+      "The wave amplitude",
+      "The initial phase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Tondi-ye enteshar-e yek moj-e souti omdatan be kodam mored bastegi darad?",
+     "grading_key": "- [1] Vizhegi-haye mohit",
+     "final_resolution": "Vizhegi-haye mohit",
+     "notes": "",
+     "keywords": [
+      "vizhegi-haye mohit"
+     ],
+     "distractors": [
+      "Basamad-e cheshme",
+      "Damane-ye moj",
+      "Faz-e avvaliye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 904,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: معلوم و مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Active and Passive)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Maloom va Majhool)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل مجهول گذشتهٔ سادهٔ فعل را برای کامل کردن جمله انتخاب کنید:\n⁦'A famous children’s hospital in Tehran _______ by Dr. Gharib.'⁩",
+     "grading_key": "- [1] ⁦was established⁩",
+     "final_resolution": "⁦was established⁩",
+     "notes": "",
+     "keywords": [
+      "past passive"
+     ],
+     "distractors": [
+      "⁦established⁩",
+      "⁦has established⁩",
+      "⁦is establishing⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the past passive form to complete the sentence:\n'A famous children’s hospital in Tehran _______ by Dr. Gharib.'",
+     "grading_key": "- [1] was established",
+     "final_resolution": "was established",
+     "notes": "",
+     "keywords": [
+      "past passive"
+     ],
+     "distractors": [
+      "established",
+      "has established",
+      "is establishing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e majhool-e gozashte-ye sade-ye fe'l ra baraye kamel kardan-e jomle entekhab konid:\n'A famous children’s hospital in Tehran _______ by Dr. Gharib.'",
+     "grading_key": "- [1] was established",
+     "final_resolution": "was established",
+     "notes": "",
+     "keywords": [
+      "past passive"
+     ],
+     "distractors": [
+      "established",
+      "has established",
+      "is establishing"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 904,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان ترکیبی)",
+    "en": "Lesson 2: Look at the Future (Collocations)",
+    "tr": "Dars 2: Negahi be Ayandeh (Collocations)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "کدام واژه ترکیب «کاهش گازهای گلخانه‌ای» را درست کامل می‌کند؟\n⁦'We must reduce greenhouse gas _______.'⁩",
+     "grading_key": "- [1] ⁦emissions⁩",
+     "final_resolution": "⁦emissions⁩",
+     "notes": "",
+     "keywords": [
+      "greenhouse gas emissions"
+     ],
+     "distractors": [
+      "⁦absorptions⁩",
+      "⁦creations⁩",
+      "⁦productions⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Which word completes the collocation for reducing greenhouse gases?\n'We must reduce greenhouse gas _______.'",
+     "grading_key": "- [1] emissions",
+     "final_resolution": "emissions",
+     "notes": "",
+     "keywords": [
+      "greenhouse gas emissions"
+     ],
+     "distractors": [
+      "absorptions",
+      "creations",
+      "productions"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Kodam vazhe tarkib-e 'kahesh-e gaz-haye golkhane-i' ra dorost kamel mikonad?\n'We must reduce greenhouse gas _______.'",
+     "grading_key": "- [1] emissions",
+     "final_resolution": "emissions",
+     "notes": "",
+     "keywords": [
+      "greenhouse gas emissions"
+     ],
+     "distractors": [
+      "absorptions",
+      "creations",
+      "productions"
+     ]
+    }
+   }
+  }
+ ]
+}
