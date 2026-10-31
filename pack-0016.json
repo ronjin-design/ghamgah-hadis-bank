@@ -1,0 +1,433 @@
+{
+ "version": 16,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 909,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۲: تغییر در تعداد کروموزوم‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 2: Changes in Chromosome Number)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 2)",
+    "pages": "60–63"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "جدا نشدن کروموزوم‌ها که به یاخته‌های آنوپلوئید می‌انجامد، در کدام مرحلهٔ کاستمان (میوز) رخ می‌دهد؟",
+     "grading_key": "- [1] آنافاز ۱ یا آنافاز ۲",
+     "final_resolution": "آنافاز ۱ یا آنافاز ۲",
+     "notes": "",
+     "keywords": [
+      "جدا نشدن کروموزوم‌ها"
+     ],
+     "distractors": [
+      "پروفاز ۱ یا پروفاز ۲",
+      "متافاز ۱ یا متافاز ۲",
+      "تلوفاز ۱ یا تلوفاز ۲"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "In which phase of meiosis does nondisjunction occur, producing aneuploid cells?",
+     "grading_key": "- [1] Anaphase I or anaphase II",
+     "final_resolution": "Anaphase I or anaphase II",
+     "notes": "",
+     "keywords": [
+      "nondisjunction"
+     ],
+     "distractors": [
+      "Prophase I or prophase II",
+      "Metaphase I or metaphase II",
+      "Telophase I or telophase II"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Joda nashodan-e chromosome-ha ke be yakhte-haye aneuploid mianjamad, dar kodam marhale-ye kastman (meiosis) rokh midahad?",
+     "grading_key": "- [1] Anaphase 1 ya anaphase 2",
+     "final_resolution": "Anaphase 1 ya anaphase 2",
+     "notes": "",
+     "keywords": [
+      "joda nashodan-e chromosome-ha"
+     ],
+     "distractors": [
+      "Prophase 1 ya prophase 2",
+      "Metaphase 1 ya metaphase 2",
+      "Telophase 1 ya telophase 2"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 909,
+   "topic_tag": "animal-behavior",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۸: رفتارهای جانوران (گفتار ۲: انتخاب طبیعی و رفتار)",
+    "en": "Chapter 8: Animal Behavior (Section 2: Natural Selection and Behavior)",
+    "tr": "Fasl 8: Raftar-haye Janevaran (Goftar 2)",
+    "pages": "118–121"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "رفتارهای جانوران",
+     "question": "رفتار دگرخواهی در جانوران عمدتاً شانس بقا و تولیدمثل کدام افراد را افزایش می‌دهد؟",
+     "grading_key": "- [1] خویشاوندان نزدیک که ژن‌های مشترک دارند",
+     "final_resolution": "خویشاوندان نزدیک که ژن‌های مشترک دارند",
+     "notes": "",
+     "keywords": [
+      "دگرخواهی"
+     ],
+     "distractors": [
+      "گونه‌های رقیب و غیرخویشاوند",
+      "فقط نرهای مسن و غالب",
+      "شکارچیان تنهای مهاجر"
+     ]
+    },
+    "en": {
+     "topic_label": "Animal Behavior",
+     "question": "Altruistic behaviour in animals mainly increases the survival and reproduction of which individuals?",
+     "grading_key": "- [1] Close relatives who share genes",
+     "final_resolution": "Close relatives who share genes",
+     "notes": "",
+     "keywords": [
+      "altruism"
+     ],
+     "distractors": [
+      "Unrelated competing species",
+      "Only older dominant males",
+      "Solitary migrating predators"
+     ]
+    },
+    "tr": {
+     "topic_label": "Raftar-haye janevaran",
+     "question": "Raftar-e degar-khahi dar janevaran omdatan shans-e bagha va tolid-e mesl-e kodam afrad ra afzayesh midahad?",
+     "grading_key": "- [1] Khishavandan-e nazdik ke zhen-haye moshtarak darand",
+     "final_resolution": "Khishavandan-e nazdik ke zhen-haye moshtarak darand",
+     "notes": "",
+     "keywords": [
+      "degar-khahi"
+     ],
+     "distractors": [
+      "Gone-haye raghib va gheyr-e khishavand",
+      "Faghat nar-haye mosen va ghaleb",
+      "Shekarchi-haye tanha-ye mohajer"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 909,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (سنجش حجمی اسید-باز)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acid-Base Titration)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Sanjesh-e Hajmi)",
+    "pages": "26–29"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "در سنجش حجمی اسید و باز، نقطه‌ای که در آن مقدار مول یون‌های هیدرونیوم با یون‌های هیدروکسید برابر می‌شود چه نام دارد؟",
+     "grading_key": "- [1] نقطهٔ هم‌ارزی",
+     "final_resolution": "نقطهٔ هم‌ارزی",
+     "notes": "",
+     "keywords": [
+      "نقطهٔ هم‌ارزی"
+     ],
+     "distractors": [
+      "نقطهٔ پایانی",
+      "آستانهٔ سیرشدگی",
+      "محلول بافر"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "In an acid-base titration, what is the point called at which the moles of hydronium ions exactly equal the moles of hydroxide ions?",
+     "grading_key": "- [1] Equivalence point",
+     "final_resolution": "Equivalence point",
+     "notes": "",
+     "keywords": [
+      "equivalence point"
+     ],
+     "distractors": [
+      "End point",
+      "Saturation threshold",
+      "Buffer solution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Dar sanjesh-e hajmi-ye acid va baz, noghte-i ke dar an meghdar-e mol-e yon-haye hydronium ba yon-haye hydroxide barabar mishavad che nam darad?",
+     "grading_key": "- [1] Noghte-ye ham-arzi",
+     "final_resolution": "Noghte-ye ham-arzi",
+     "notes": "",
+     "keywords": [
+      "noghteh-ye ham-arzi"
+     ],
+     "distractors": [
+      "Noghte-ye payani",
+      "Astane-ye sir-shodegi",
+      "Mahlool-e buffer"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Khordad",
+   "number": 909,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (سامانه‌های تعادلی)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Systems)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "110–113"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "بنابر اصل لوشاتلیه، افزایش فشار بر یک سامانهٔ تعادلی گازی در دمای ثابت، تعادل را به کدام سمت جابه‌جا می‌کند؟",
+     "grading_key": "- [1] به سمتی که مول گازی کمتری دارد",
+     "final_resolution": "به سمتی که مول گازی کمتری دارد",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه"
+     ],
+     "distractors": [
+      "به سمتی که مول گازی بیشتری دارد",
+      "مقدار ⁦K⁩ تغییر می‌کند",
+      "واکنش کاملاً متوقف می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By Le Chatelier's principle, how does increasing the pressure on a gaseous equilibrium at constant temperature shift it?",
+     "grading_key": "- [1] Toward the side with fewer moles of gas",
+     "final_resolution": "Toward the side with fewer moles of gas",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle"
+     ],
+     "distractors": [
+      "Toward the side with more moles of gas",
+      "K changes",
+      "The reaction stops completely"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Bena bar asl-e Le Chatelier, afzayesh-e feshar bar yek samane-ye taadoli-ye gazi dar damaye sabet, taadol ra be kodam samt jabeja mikonad?",
+     "grading_key": "- [1] Be samti ke mol-e gazi-ye kamtari darad",
+     "final_resolution": "Be samti ke mol-e gazi-ye kamtari darad",
+     "notes": "",
+     "keywords": [
+      "asl-e Le Chatelier"
+     ],
+     "distractors": [
+      "Be samti ke mol-e gazi-ye bishtari darad",
+      "K taghyir mikonad",
+      "Vakonesh kamelan motevaghef mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 909,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (نیروی عمودی تکیه‌گاه)",
+    "en": "Chapter 2: Dynamics and Forces (Normal Force)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Niroo-ye Amudi)",
+    "pages": "38–41"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "نیرویی که سطح تکیه‌گاه بر جسم وارد می‌کند و همواره بر سطح تماس عمود است چه نام دارد؟",
+     "grading_key": "- [1] نیروی عمودی تکیه‌گاه (⁦Fₙ⁩)",
+     "final_resolution": "نیروی عمودی تکیه‌گاه (⁦Fₙ⁩)",
+     "notes": "",
+     "keywords": [
+      "نیروی عمودی تکیه‌گاه"
+     ],
+     "distractors": [
+      "نیروی اصطکاک",
+      "نیروی گرانش",
+      "نیروی کشش"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "What is the force a supporting surface exerts on an object, always perpendicular to the contact surface, called?",
+     "grading_key": "- [1] Normal force (Fₙ)",
+     "final_resolution": "Normal force (Fₙ)",
+     "notes": "",
+     "keywords": [
+      "normal force"
+     ],
+     "distractors": [
+      "Friction force",
+      "Gravitational force",
+      "Tension force"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Niroo-i ke sath-e tekye-gah bar jesm vared mikonad va hamvare bar sath-e tamas amud ast che nam darad?",
+     "grading_key": "- [1] Niroo-ye amudi-ye tekye-gah (Fₙ)",
+     "final_resolution": "Niroo-ye amudi-ye tekye-gah (Fₙ)",
+     "notes": "",
+     "keywords": [
+      "niroo-ye amoodi"
+     ],
+     "distractors": [
+      "Niroo-ye estekak",
+      "Niroo-ye geranesh",
+      "Niroo-ye keshesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 909,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (لیزر)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Lasers)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Laser)",
+    "pages": "98–101"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "فرایند تولید نور همدوس و هم‌فاز در لیزر، که در آن فوتون ورودی گسیل فوتونی دیگر را القا می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] گسیل القایی",
+     "final_resolution": "گسیل القایی",
+     "notes": "",
+     "keywords": [
+      "گسیل القایی"
+     ],
+     "distractors": [
+      "گسیل خودبه‌خود",
+      "یونش فوتوالکتریکی",
+      "فلوئورسانس هسته‌ای"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What is the process in lasers, in which an incoming photon triggers the emission of another, producing coherent in-phase light?",
+     "grading_key": "- [1] Stimulated emission",
+     "final_resolution": "Stimulated emission",
+     "notes": "",
+     "keywords": [
+      "stimulated emission"
+     ],
+     "distractors": [
+      "Spontaneous emission",
+      "Photoelectric ionization",
+      "Nuclear fluorescence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Farayand-e tolid-e noor-e hamdoos va ham-faz dar laser, ke dar an photon-e voroodi gosil-e photon-e digari ra alghaa mikonad, che nam darad?",
+     "grading_key": "- [1] Gosil-e alghayi",
+     "final_resolution": "Gosil-e alghayi",
+     "notes": "",
+     "keywords": [
+      "gosil-e alghayi"
+     ],
+     "distractors": [
+      "Gosil-e khod-be-khod",
+      "Yonesh-e photoelectric",
+      "Fluorescence-e hastei"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 909,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "جمله را با کلمهٔ ربط تقابلی درست کامل کنید:\n⁦'Wind energy is clean and unlimited, _______ fossil fuels pollute the environment and are finite.'⁩",
+     "grading_key": "- [1] ⁦whereas⁩",
+     "final_resolution": "⁦whereas⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦therefore⁩",
+      "⁦because⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Complete the sentence with the correct contrast linker:\n'Wind energy is clean and unlimited, _______ fossil fuels pollute the environment and are finite.'",
+     "grading_key": "- [1] whereas",
+     "final_resolution": "whereas",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Jomle ra ba kalame-ye rabt-e taghaboli-ye dorost kamel konid:\n'Wind energy is clean and unlimited, _______ fossil fuels pollute the environment and are finite.'",
+     "grading_key": "- [1] whereas",
+     "final_resolution": "whereas",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}
