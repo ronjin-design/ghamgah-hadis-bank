@@ -1,0 +1,433 @@
+{
+ "version": 13,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 906,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: اکسایش پیرووات)",
+    "en": "Chapter 5: Energy Supply (Section 2: Pyruvate Oxidation)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "پیرووات پس از ورود به راکیزه (میتوکندری) و از دست دادن یک ⁦CO₂⁩، با کدام ترکیب پیوند می‌دهد تا استیل کوآنزیم آ ساخته شود؟",
+     "grading_key": "- [1] کوآنزیم آ",
+     "final_resolution": "کوآنزیم آ",
+     "notes": "",
+     "keywords": [
+      "استیل کوآنزیم آ"
+     ],
+     "distractors": [
+      "⁦NADH⁩ دهیدروژناز",
+      "اگزالواستات",
+      "سیتریک اسید"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "After entering the mitochondrion and losing a CO₂ molecule, with which coenzyme does pyruvate combine to form Acetyl-CoA?",
+     "grading_key": "- [1] Coenzyme A",
+     "final_resolution": "Coenzyme A",
+     "notes": "",
+     "keywords": [
+      "Acetyl-CoA"
+     ],
+     "distractors": [
+      "NADH dehydrogenase",
+      "Oxaloacetate",
+      "Citric acid"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Pyruvate pas az vorood be mitokondri va az dast dadan-e yek CO₂, ba kodam tarkib peyvand midahad ta acetyl coenzyme A sakhte shavad?",
+     "grading_key": "- [1] Coenzyme A",
+     "final_resolution": "Coenzyme A",
+     "notes": "",
+     "keywords": [
+      "acetyl coenzyme A"
+     ],
+     "distractors": [
+      "NADH dehydrogenase",
+      "Oxaloacetate",
+      "Citric acid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 906,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Maddeh (Goftar 1)",
+    "pages": "82–85"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در زنجیرهٔ انتقال الکترون غشای تیلاکوئید، الکترون‌های برانگیختهٔ فتوسیستم ۲ (⁦PSII⁩) ابتدا به کدام مولکول داده می‌شوند؟",
+     "grading_key": "- [1] پلاستوکینون",
+     "final_resolution": "پلاستوکینون",
+     "notes": "",
+     "keywords": [
+      "فتوسیستم ۲"
+     ],
+     "distractors": [
+      "پلاستوسیانین",
+      "فرودوکسین",
+      "مجموعهٔ سیتوکروم"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the thylakoid electron transport chain, which molecule first accepts the excited electrons from photosystem II (PSII)?",
+     "grading_key": "- [1] Plastoquinone",
+     "final_resolution": "Plastoquinone",
+     "notes": "",
+     "keywords": [
+      "photosystem II"
+     ],
+     "distractors": [
+      "Plastocyanin",
+      "Ferredoxin",
+      "Cytochrome complex"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar zanjire-ye enteghal-e electron-e ghesha-ye thylakoid, electron-haye barangikhte-ye photosystem 2 (PSII) ebteda be kodam molekul dade mishavand?",
+     "grading_key": "- [1] Plastoquinone",
+     "final_resolution": "Plastoquinone",
+     "notes": "",
+     "keywords": [
+      "photosystem do"
+     ],
+     "distractors": [
+      "Plastocyanin",
+      "Ferredoxin",
+      "Majmoo-e cytochrome"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 906,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (ثابت تفکیک اسیدی)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acid Dissociation Constant)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Sabet-e Tafkik-e Asidi)",
+    "pages": "22–25"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام رابطه ثابت تفکیک اسیدی (⁦Ka⁩) را برای یک اسید ضعیف تک‌پروتونی (⁦HA⁩) در آب درست بیان می‌کند؟",
+     "grading_key": "- [1] ⁦Ka = [H₃O⁺][A⁻] / [HA]⁩",
+     "final_resolution": "⁦Ka = [H₃O⁺][A⁻] / [HA]⁩",
+     "notes": "",
+     "keywords": [
+      "ثابت تفکیک اسیدی"
+     ],
+     "distractors": [
+      "⁦Ka = [HA] / [H₃O⁺][A⁻]⁩",
+      "⁦Ka = [H₃O⁺][HA] / [A⁻]⁩",
+      "⁦Ka = [A⁻] / [HA]⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which expression correctly gives the acid dissociation constant (Ka) of a weak monoprotic acid (HA) in water?",
+     "grading_key": "- [1] Ka = [H₃O⁺][A⁻] / [HA]",
+     "final_resolution": "Ka = [H₃O⁺][A⁻] / [HA]",
+     "notes": "",
+     "keywords": [
+      "acid dissociation constant"
+     ],
+     "distractors": [
+      "Ka = [HA] / [H₃O⁺][A⁻]",
+      "Ka = [H₃O⁺][HA] / [A⁻]",
+      "Ka = [A⁻] / [HA]"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam rabete sabet-e tafkik-e asidi (Ka) ra baraye yek acid-e zaif-e tak-protoni (HA) dar ab dorost bayan mikonad?",
+     "grading_key": "- [1] Ka = [H₃O⁺][A⁻] / [HA]",
+     "final_resolution": "Ka = [H₃O⁺][A⁻] / [HA]",
+     "notes": "",
+     "keywords": [
+      "sabet-e tafkik-e asidi"
+     ],
+     "distractors": [
+      "Ka = [HA] / [H₃O⁺][A⁻]",
+      "Ka = [H₃O⁺][HA] / [A⁻]",
+      "Ka = [A⁻] / [HA]"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 906,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft)",
+    "pages": "58–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در برقکافت آب، گاز اکسیژن (⁦O₂⁩) در کدام الکترود آزاد می‌شود؟",
+     "grading_key": "- [1] آند",
+     "final_resolution": "آند",
+     "notes": "",
+     "keywords": [
+      "برقکافت"
+     ],
+     "distractors": [
+      "کاتد",
+      "پل نمکی",
+      "پایانهٔ منفی"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the electrolysis of water, at which electrode is oxygen gas (O₂) released?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "electrolysis"
+     ],
+     "distractors": [
+      "Cathode",
+      "Salt bridge",
+      "Negative terminal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar barghkaft-e ab, gaz-e oxygen (O₂) dar kodam electrode azad mishavad?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "barghkaft"
+     ],
+     "distractors": [
+      "Cathode",
+      "Pol-e namaki",
+      "Payane-ye manfi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Khordad",
+   "number": 906,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–45"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "حاصل‌ضرب جرم یک متحرک در سرعت لحظه‌ای آن، کدام کمیت برداری است؟",
+     "grading_key": "- [1] تکانهٔ خطی (⁦p⁩)",
+     "final_resolution": "تکانهٔ خطی (⁦p⁩)",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی"
+     ],
+     "distractors": [
+      "ضربه (⁦J⁩)",
+      "انرژی جنبشی (⁦K⁩)",
+      "نیروی خالص"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "The product of a moving object's mass and its instantaneous velocity is which vector quantity?",
+     "grading_key": "- [1] Linear momentum (p)",
+     "final_resolution": "Linear momentum (p)",
+     "notes": "",
+     "keywords": [
+      "linear momentum"
+     ],
+     "distractors": [
+      "Impulse (J)",
+      "Kinetic energy (K)",
+      "Net force"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Hasel-e zarb-e jerm-e yek motaharrek dar sorat-e lahzei-ash, kodam kamiyat-e bordari ast?",
+     "grading_key": "- [1] Takane-ye khatti (p)",
+     "final_resolution": "Takane-ye khatti (p)",
+     "notes": "",
+     "keywords": [
+      "takaneh"
+     ],
+     "distractors": [
+      "Zarbe (J)",
+      "Enerji-ye jonbeshi (K)",
+      "Niroo-ye khales"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 906,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (نمودار موج)",
+    "en": "Chapter 3: Oscillations and Waves (Wave Graphs)",
+    "tr": "Fasl 3: Navasan va Moj (Nemoodar-e Moj)",
+    "pages": "72–75"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "فاصلهٔ بین دو قلهٔ متوالی یا دو درهٔ متوالی در یک موج عرضی چه نامیده می‌شود؟",
+     "grading_key": "- [1] طول موج (⁦λ⁩)",
+     "final_resolution": "طول موج (⁦λ⁩)",
+     "notes": "",
+     "keywords": [
+      "طول موج"
+     ],
+     "distractors": [
+      "دامنه (⁦A⁩)",
+      "دوره (⁦T⁩)",
+      "ثابت فاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the distance between two consecutive crests or two consecutive troughs of a transverse wave called?",
+     "grading_key": "- [1] Wavelength (λ)",
+     "final_resolution": "Wavelength (λ)",
+     "notes": "",
+     "keywords": [
+      "wavelength"
+     ],
+     "distractors": [
+      "Amplitude (A)",
+      "Period (T)",
+      "Phase constant"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Fasele-ye beyn-e do ghole-ye motevali ya do dare-ye motevali dar yek moj-e arzi che namide mishavad?",
+     "grading_key": "- [1] Tool-e moj (λ)",
+     "final_resolution": "Tool-e moj (λ)",
+     "notes": "",
+     "keywords": [
+      "tool-e moj"
+     ],
+     "distractors": [
+      "Damane (A)",
+      "Dowre (T)",
+      "Sabet-e faz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 906,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: مجهول با افعال کمکی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Modal Passive)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Modal Passive)",
+    "pages": "54–57"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "جملهٔ زیر را با شکل مجهول درست فعل کمکی کامل کنید:\n⁦'Endangered animals _______ from hunters to preserve nature.'⁩",
+     "grading_key": "- [1] ⁦must be protected⁩",
+     "final_resolution": "⁦must be protected⁩",
+     "notes": "",
+     "keywords": [
+      "افعال کمکی مجهول"
+     ],
+     "distractors": [
+      "⁦must protect⁩",
+      "⁦are protecting⁩",
+      "⁦have protected⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Complete the sentence with the correct passive modal form:\n'Endangered animals _______ from hunters to preserve nature.'",
+     "grading_key": "- [1] must be protected",
+     "final_resolution": "must be protected",
+     "notes": "",
+     "keywords": [
+      "modal passive"
+     ],
+     "distractors": [
+      "must protect",
+      "are protecting",
+      "have protected"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Jomle-ye zir ra ba shekl-e majhool-e dorost-e fe'l-e komaki kamel konid:\n'Endangered animals _______ from hunters to preserve nature.'",
+     "grading_key": "- [1] must be protected",
+     "final_resolution": "must be protected",
+     "notes": "",
+     "keywords": [
+      "modal passive"
+     ],
+     "distractors": [
+      "must protect",
+      "are protecting",
+      "have protected"
+     ]
+    }
+   }
+  }
+ ]
+}
