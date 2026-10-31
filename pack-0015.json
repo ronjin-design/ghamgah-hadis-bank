@@ -1,0 +1,433 @@
+{
+ "version": 15,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 908,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "کدام رمزه در رنای پیک (⁦mRNA⁩) رمزهٔ آغاز ترجمه است و آمینواسید متیونین را رمز می‌کند؟",
+     "grading_key": "- [1] ⁦AUG⁩",
+     "final_resolution": "⁦AUG⁩",
+     "notes": "",
+     "keywords": [
+      "رمزهٔ آغاز"
+     ],
+     "distractors": [
+      "⁦UAA⁩",
+      "⁦UAG⁩",
+      "⁦UGA⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Which codon in messenger RNA (mRNA) is the start codon for translation and codes for methionine?",
+     "grading_key": "- [1] AUG",
+     "final_resolution": "AUG",
+     "notes": "",
+     "keywords": [
+      "start codon"
+     ],
+     "distractors": [
+      "UAA",
+      "UAG",
+      "UGA"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Kodam ramze dar RNA-ye peyk (mRNA) ramze-ye aghaz-e tarjome ast va amino acid-e methionine ra ramz mikonad?",
+     "grading_key": "- [1] AUG",
+     "final_resolution": "AUG",
+     "notes": "",
+     "keywords": [
+      "ramzeh-ye aghaz"
+     ],
+     "distractors": [
+      "UAA",
+      "UAG",
+      "UGA"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 908,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "102–105"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "کدام رویکرد زیست‌فناوری با تغییر توالی آمینواسیدهای یک پروتئین، پایداری و کارایی آن را در شرایط صنعتی بهبود می‌دهد؟",
+     "grading_key": "- [1] مهندسی پروتئین",
+     "final_resolution": "مهندسی پروتئین",
+     "notes": "",
+     "keywords": [
+      "مهندسی پروتئین"
+     ],
+     "distractors": [
+      "نقشه‌یابی ژنی",
+      "الکتروفورز ژل",
+      "کشت بافت"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Which biotechnology approach improves the stability and efficiency of a protein in industrial conditions by changing its amino acid sequence?",
+     "grading_key": "- [1] Protein engineering",
+     "final_resolution": "Protein engineering",
+     "notes": "",
+     "keywords": [
+      "protein engineering"
+     ],
+     "distractors": [
+      "Gene mapping",
+      "Gel electrophoresis",
+      "Tissue culture"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Kodam rooykard-e zist-fanavari ba taghyir-e tavali-ye amino acid-haye yek protein, payedari va karayi-ash ra dar sharayet-e sanati behbood midahad?",
+     "grading_key": "- [1] Mohandesi-ye protein",
+     "final_resolution": "Mohandesi-ye protein",
+     "notes": "",
+     "keywords": [
+      "mohandesi-ye protein"
+     ],
+     "distractors": [
+      "Naghshe-yabi-ye zhen",
+      "Electrophoresis-e zhel",
+      "Kesht-e baft"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 908,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (آنتالپی فروپاشی شبکه)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Lattice Enthalpy)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Antalpi-ye Foroopashi-ye Shabake)",
+    "pages": "86–89"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "انرژی لازم برای فروپاشی یک مول از شبکهٔ بلوری یک جامد یونی و تبدیل آن به یون‌های گازی جدا از هم چه نام دارد؟",
+     "grading_key": "- [1] آنتالپی فروپاشی شبکه",
+     "final_resolution": "آنتالپی فروپاشی شبکه",
+     "notes": "",
+     "keywords": [
+      "آنتالپی فروپاشی شبکه"
+     ],
+     "distractors": [
+      "انرژی یونش",
+      "انرژی فعال‌سازی",
+      "آنتالپی آب‌پوشی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "What is the energy needed to break one mole of an ionic solid's crystal lattice into separate gaseous ions called?",
+     "grading_key": "- [1] Lattice energy",
+     "final_resolution": "Lattice energy",
+     "notes": "",
+     "keywords": [
+      "lattice energy"
+     ],
+     "distractors": [
+      "Ionization energy",
+      "Activation energy",
+      "Hydration enthalpy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Enerji-ye lazem baraye foroopashi-ye yek mol az shabake-ye boluri-ye yek jamed-e yoni va tabdil-ash be yon-haye gazi-ye joda az ham che nam darad?",
+     "grading_key": "- [1] Antalpi-ye foroopashi-ye shabake",
+     "final_resolution": "Antalpi-ye foroopashi-ye shabake",
+     "notes": "",
+     "keywords": [
+      "antalpi-ye foroopashi-ye shabakeh"
+     ],
+     "distractors": [
+      "Enerji-ye yonesh",
+      "Enerji-ye faal-sazi",
+      "Antalpi-ye ab-pooshi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 908,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (واکنش‌های برگشت‌پذیر)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Reversible Reactions)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "102–105"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "وقتی در یک سامانهٔ بسته سرعت واکنش رفت با سرعت واکنش برگشت برابر شود، سامانه به چه حالتی رسیده است؟",
+     "grading_key": "- [1] تعادل شیمیایی",
+     "final_resolution": "تعادل شیمیایی",
+     "notes": "",
+     "keywords": [
+      "تعادل شیمیایی"
+     ],
+     "distractors": [
+      "تفکیک کامل",
+      "پایان واکنش",
+      "توقف واکنش‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "When the forward rate equals the reverse rate in a closed system, what state has the system reached?",
+     "grading_key": "- [1] Chemical equilibrium",
+     "final_resolution": "Chemical equilibrium",
+     "notes": "",
+     "keywords": [
+      "chemical equilibrium"
+     ],
+     "distractors": [
+      "Complete dissociation",
+      "End of the reaction",
+      "Reactions stopped"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Vaghti dar yek samane-ye baste sorat-e vakonesh-e raft ba sorat-e vakonesh-e bargasht barabar shavad, samane be che halati reside ast?",
+     "grading_key": "- [1] Taadol-e shimiayi",
+     "final_resolution": "Taadol-e shimiayi",
+     "notes": "",
+     "keywords": [
+      "taadol-e shimiayi"
+     ],
+     "distractors": [
+      "Tafkik-e kamel",
+      "Payan-e vakonesh",
+      "Tavaghof-e vakonesh-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Dey",
+   "number": 908,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (بازتاب موج)",
+    "en": "Chapter 3: Oscillations and Waves (Reflection of Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Baztab-e Moj)",
+    "pages": "78–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "پرتوی نوری عمود بر سطح یک آینهٔ تخت می‌تابد. زاویهٔ بازتاب چند درجه است؟",
+     "grading_key": "- [1] ⁦0°⁩",
+     "final_resolution": "⁦0°⁩",
+     "notes": "",
+     "keywords": [
+      "بازتاب نور"
+     ],
+     "distractors": [
+      "⁦90°⁩",
+      "⁦45°⁩",
+      "⁦180°⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "A light ray strikes a flat mirror perpendicularly. What is the angle of reflection?",
+     "grading_key": "- [1] 0°",
+     "final_resolution": "0°",
+     "notes": "",
+     "keywords": [
+      "reflection of light"
+     ],
+     "distractors": [
+      "90°",
+      "45°",
+      "180°"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Partovi noori amud bar sath-e yek ayene-ye takht mitabad. Zavie-ye baztab chand daraje ast?",
+     "grading_key": "- [1] 0°",
+     "final_resolution": "0°",
+     "notes": "",
+     "keywords": [
+      "baztab-e noor"
+     ],
+     "distractors": [
+      "90°",
+      "45°",
+      "180°"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 908,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (طیف گسیلی)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Emission Spectrum)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Teyf-e Gosili)",
+    "pages": "94–97"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "بنابر مدل اتمی بور، وقتی الکترون از مداری با انرژی بالاتر به مداری با انرژی پایین‌تر می‌رود، چه رخ می‌دهد؟",
+     "grading_key": "- [1] گسیل فوتون",
+     "final_resolution": "گسیل فوتون",
+     "notes": "",
+     "keywords": [
+      "گسیل فوتون"
+     ],
+     "distractors": [
+      "جذب فوتون",
+      "شکافت هسته‌ای",
+      "واپاشی بتا"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the Bohr model, what happens when an electron moves from a higher-energy orbit to a lower-energy one?",
+     "grading_key": "- [1] A photon is emitted",
+     "final_resolution": "A photon is emitted",
+     "notes": "",
+     "keywords": [
+      "photon emission"
+     ],
+     "distractors": [
+      "A photon is absorbed",
+      "Nuclear fission",
+      "Beta decay"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Bena bar model-e atomi-ye Bohr, vaghti electron az madari ba enerji-ye balatar be madari ba enerji-ye paeen-tar miravad, che rokh midahad?",
+     "grading_key": "- [1] Gosil-e photon",
+     "final_resolution": "Gosil-e photon",
+     "notes": "",
+     "keywords": [
+      "gosil-e photon"
+     ],
+     "distractors": [
+      "Jazb-e photon",
+      "Shekafte-ye hastei",
+      "Vapashi-ye beta"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 908,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان و درک مطلب)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary and Reading)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan va Dark-e Matlab)",
+    "pages": "78–81"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "جمله را با کلمهٔ ربط درست کامل کنید:\n⁦'Fossil fuels are running out; _______, we need to focus more on renewable energy sources.'⁩",
+     "grading_key": "- [1] ⁦therefore⁩",
+     "final_resolution": "⁦therefore⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط"
+     ],
+     "distractors": [
+      "⁦instead⁩",
+      "⁦although⁩",
+      "⁦whereas⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Complete the sentence with the correct transition word:\n'Fossil fuels are running out; _______, we need to focus more on renewable energy sources.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "transition words"
+     ],
+     "distractors": [
+      "instead",
+      "although",
+      "whereas"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Jomle ra ba kalame-ye rabt-e dorost kamel konid:\n'Fossil fuels are running out; _______, we need to focus more on renewable energy sources.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt"
+     ],
+     "distractors": [
+      "instead",
+      "although",
+      "whereas"
+     ]
+    }
+   }
+  }
+ ]
+}
