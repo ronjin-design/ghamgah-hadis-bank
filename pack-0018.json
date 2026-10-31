@@ -1,0 +1,433 @@
+{
+ "version": 18,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Dey",
+   "number": 911,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایهٔ وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basic Concepts of Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "به شکل‌های گوناگون یک ژن که در جایگاه ژنی مشخصی روی کروموزوم‌های همتا قرار دارند چه می‌گویند؟",
+     "grading_key": "- [1] دگره‌ها (الل‌ها)",
+     "final_resolution": "دگره‌ها (الل‌ها)",
+     "notes": "",
+     "keywords": [
+      "دگره"
+     ],
+     "distractors": [
+      "فنوتیپ‌ها",
+      "ژنوتیپ‌ها",
+      "جهش‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "What are the different forms of a gene at a particular locus on homologous chromosomes called?",
+     "grading_key": "- [1] Alleles",
+     "final_resolution": "Alleles",
+     "notes": "",
+     "keywords": [
+      "allele"
+     ],
+     "distractors": [
+      "Phenotypes",
+      "Genotypes",
+      "Mutations"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Be shekl-haye gunagun-e yek zhen ke dar jaygah-e zhenti-ye moshakhasi rooy-e chromosome-haye hamta gharar darand che miguyand?",
+     "grading_key": "- [1] Degare-ha (allel-ha)",
+     "final_resolution": "Degare-ha (allel-ha)",
+     "notes": "",
+     "keywords": [
+      "degareh"
+     ],
+     "distractors": [
+      "Phenotype-ha",
+      "Genotype-ha",
+      "Jahesh-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 911,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۱: جهش)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 1: Mutation)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 1)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "کدام جهش نقطه‌ای جانشینی، آمینواسید رمزشده در پروتئین را تغییر می‌دهد اما طول زنجیره را نه؟",
+     "grading_key": "- [1] جهش دگرمعنی",
+     "final_resolution": "جهش دگرمعنی",
+     "notes": "",
+     "keywords": [
+      "جهش دگرمعنی"
+     ],
+     "distractors": [
+      "جهش خاموش",
+      "جهش بی‌معنی",
+      "جهش تغییر چارچوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Which substitution point mutation changes the amino acid coded in the protein without changing the chain length?",
+     "grading_key": "- [1] Missense mutation",
+     "final_resolution": "Missense mutation",
+     "notes": "",
+     "keywords": [
+      "missense mutation"
+     ],
+     "distractors": [
+      "Silent mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Kodam jahesh-e noghte-i-ye janeshini, amino acid-e ramz-shode dar protein ra taghyir midahad amma tool-e zanjire ra na?",
+     "grading_key": "- [1] Jahesh-e degar-mani",
+     "final_resolution": "Jahesh-e degar-mani",
+     "notes": "",
+     "keywords": [
+      "jahesh-e degar-mani"
+     ],
+     "distractors": [
+      "Jahesh-e khamoosh",
+      "Jahesh-e bi-mani",
+      "Jahesh-e taghyir-e charchoob"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 911,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (درجهٔ یونش)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Degree of Ionization)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Darajeh-ye Yonesh)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "نسبت شمار ذره‌های یونیده‌شده به شمار ذره‌های حل‌شدهٔ اولیه در یک محلول الکترولیت، کدام کمیت است؟",
+     "grading_key": "- [1] درجهٔ یونش (⁦α⁩)",
+     "final_resolution": "درجهٔ یونش (⁦α⁩)",
+     "notes": "",
+     "keywords": [
+      "درجهٔ یونش"
+     ],
+     "distractors": [
+      "ثابت یونش اسید (⁦Ka⁩)",
+      "⁦pH⁩",
+      "ثابت یونش آب (⁦Kw⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "The ratio of ionized particles to the particles originally dissolved in an electrolyte solution is which quantity?",
+     "grading_key": "- [1] Degree of ionization (α)",
+     "final_resolution": "Degree of ionization (α)",
+     "notes": "",
+     "keywords": [
+      "degree of ionization"
+     ],
+     "distractors": [
+      "Acid dissociation constant (Ka)",
+      "pH",
+      "Ionization constant of water (Kw)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Nesbat-e shomar-e zarre-haye yonide-shode be shomar-e zarre-haye hal-shode-ye avvaliye dar yek mahlool-e electrolyte, kodam kamiyat ast?",
+     "grading_key": "- [1] Darajeh-ye yonesh (α)",
+     "final_resolution": "Darajeh-ye yonesh (α)",
+     "notes": "",
+     "keywords": [
+      "darajeh-ye yonesh"
+     ],
+     "distractors": [
+      "Sabet-e yonesh-e acid (Ka)",
+      "pH",
+      "Sabet-e yonesh-e ab (Kw)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 911,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (سامانه‌های تعادلی)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Systems)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "واکنش‌هایی که در آن‌ها فرآورده‌ها می‌توانند دوباره با هم واکنش دهند و واکنش‌دهنده‌های اولیه را بسازند چه نام دارند؟",
+     "grading_key": "- [1] واکنش‌های برگشت‌پذیر",
+     "final_resolution": "واکنش‌های برگشت‌پذیر",
+     "notes": "",
+     "keywords": [
+      "واکنش برگشت‌پذیر"
+     ],
+     "distractors": [
+      "واکنش‌های برگشت‌ناپذیر",
+      "تبدیل‌های کاتالیزی",
+      "اکسایش‌های خودبه‌خود"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "What are reactions called in which the products can react together to re-form the original reactants?",
+     "grading_key": "- [1] Reversible reactions",
+     "final_resolution": "Reversible reactions",
+     "notes": "",
+     "keywords": [
+      "reversible reaction"
+     ],
+     "distractors": [
+      "Irreversible reactions",
+      "Catalytic conversions",
+      "Spontaneous oxidations"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Vakonesh-hayi ke dar anha faravarde-ha mitavanand dobare ba ham vakonesh dahand va vakonesh-dahande-haye avvaliye ra besazand che nam darand?",
+     "grading_key": "- [1] Vakonesh-haye bargasht-pazir",
+     "final_resolution": "Vakonesh-haye bargasht-pazir",
+     "notes": "",
+     "keywords": [
+      "vakonesh-e bargasht-pazir"
+     ],
+     "distractors": [
+      "Vakonesh-haye bargasht-napazir",
+      "Tabdil-haye catalyzi",
+      "Oksayesh-haye khod-be-khod"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 911,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "کدام کمیت برداری برابر با حاصل‌ضرب نیروی خالص متوسط وارد بر جسم در مدت اثر آن نیرو است؟",
+     "grading_key": "- [1] ضربه (⁦J⁩)",
+     "final_resolution": "ضربه (⁦J⁩)",
+     "notes": "",
+     "keywords": [
+      "ضربه"
+     ],
+     "distractors": [
+      "تکانهٔ خطی (⁦p⁩)",
+      "انرژی جنبشی (⁦K⁩)",
+      "کار (⁦W⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "Which vector quantity equals the average net force on an object multiplied by the time it acts?",
+     "grading_key": "- [1] Impulse (J)",
+     "final_resolution": "Impulse (J)",
+     "notes": "",
+     "keywords": [
+      "impulse"
+     ],
+     "distractors": [
+      "Linear momentum (p)",
+      "Kinetic energy (K)",
+      "Work (W)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Kodam kamiyat-e bordari barabar ba hasel-e zarb-e niroo-ye khales-e motevasset-e vared bar jesm dar moddat-e asar-e an niroo ast?",
+     "grading_key": "- [1] Zarbe (J)",
+     "final_resolution": "Zarbe (J)",
+     "notes": "",
+     "keywords": [
+      "zarbeh"
+     ],
+     "distractors": [
+      "Takane-ye khatti (p)",
+      "Enerji-ye jonbeshi (K)",
+      "Kar (W)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 911,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Asar-e Photoelectric)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، اگر شدت نور فرودی (با بسامدی بالاتر از بسامد آستانه) بیشتر شود، چه تغییری در فوتوالکترون‌ها رخ می‌دهد؟",
+     "grading_key": "- [1] شمار الکترون‌های گسیل‌شده بیشتر می‌شود",
+     "final_resolution": "شمار الکترون‌های گسیل‌شده بیشتر می‌شود",
+     "notes": "",
+     "keywords": [
+      "شدت نور"
+     ],
+     "distractors": [
+      "بیشینهٔ انرژی جنبشی (⁦Kmax⁩) بیشتر می‌شود",
+      "ولتاژ متوقف‌کننده (⁦V₀⁩) کم می‌شود",
+      "تابع کار فلز (⁦W₀⁩) تغییر می‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, how does raising the intensity of light above the threshold frequency affect the photoelectrons?",
+     "grading_key": "- [1] More electrons are emitted",
+     "final_resolution": "More electrons are emitted",
+     "notes": "",
+     "keywords": [
+      "light intensity"
+     ],
+     "distractors": [
+      "Their maximum kinetic energy (Kmax) rises",
+      "The stopping voltage (V₀) falls",
+      "The metal's work function (W₀) changes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, agar sheddat-e noor-e forudi (ba basamadi balatar az basamad-e astane) bishtar shavad, che taghyiri dar photoelectron-ha rokh midahad?",
+     "grading_key": "- [1] Shomar-e electron-haye gosil-shode bishtar mishavad",
+     "final_resolution": "Shomar-e electron-haye gosil-shode bishtar mishavad",
+     "notes": "",
+     "keywords": [
+      "sheddat-e noor"
+     ],
+     "distractors": [
+      "Bishine-ye enerji-ye jonbeshi (Kmax) bishtar mishavad",
+      "Voltage-e motevaghef-konande (V₀) kam mishavad",
+      "Tabe-e kar-e felez (W₀) taghyir mikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 911,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان متنی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Doctors often try to _______ their patients to change their bad lifestyle habits.'⁩",
+     "grading_key": "- [1] ⁦advise⁩",
+     "final_resolution": "⁦advise⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦appreciate⁩",
+      "⁦forgive⁩",
+      "⁦burst⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'Doctors often try to _______ their patients to change their bad lifestyle habits.'",
+     "grading_key": "- [1] advise",
+     "final_resolution": "advise",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "appreciate",
+      "forgive",
+      "burst"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Doctors often try to _______ their patients to change their bad lifestyle habits.'",
+     "grading_key": "- [1] advise",
+     "final_resolution": "advise",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "appreciate",
+      "forgive",
+      "burst"
+     ]
+    }
+   }
+  }
+ ]
+}
