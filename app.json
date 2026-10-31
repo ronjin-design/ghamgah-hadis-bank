@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2021,
- "versionName": "3.4.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2021/Ghamgah-E-Hadis.apk",
- "size": 39796634,
- "sha256": "9262044b9df475ee875f25c0518168bcea6877c7113f8174e8a7a14b1fa7f8a8",
+ "versionCode": 2022,
+ "versionName": "3.4.1",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2022/Ghamgah-E-Hadis.apk",
+ "size": 39796630,
+ "sha256": "07b328ea1e52c46da29d4ac68cb0018c8df6871b52396ce4105c68d73488a967",
  "notes": {
-  "fa": "نمایش مفهوم‌ها: مجهول‌سازی، سلول گالوانی، موج صوتی و مربع پانت را در حرکت ببین.",
-  "en": "Concept visualizers: see active → passive, a galvanic cell, sound waves and Punnett squares move.",
-  "tr": "Namayesh-e mafhoom-ha: majhool-sazi, selool-e galvani, moj-e souti va morabba-e Punnett ra dar harekat bebin."
+  "fa": "دفتر یادداشت: با دکمهٔ مداد یا «یادداشت تازه» همین‌جا بنویس. سرعت پاسخ: راهی روشن برای شروع تمرین.",
+  "en": "Notes Diary: write a note from the pencil or the New note button. Speed runs: a clear way to start practising.",
+  "tr": "Daftar-e yaddasht: ba dokme-ye medad ya 'Yaddasht-e taze' hamin-ja benevis. Sorat-e pasokh: rahi roshan baraye shoru-e tamrin."
  }
 }
