@@ -1,0 +1,433 @@
+{
+ "version": 17,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 910,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: ساختار نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Structure of Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام باز آلی پورین که ساختار دوحلقه‌ای دارد، در مولکول دنا (⁦DNA⁩) با تیمین پیوند هیدروژنی می‌دهد؟",
+     "grading_key": "- [1] آدنین",
+     "final_resolution": "آدنین",
+     "notes": "",
+     "keywords": [
+      "آدنین"
+     ],
+     "distractors": [
+      "گوانین",
+      "سیتوزین",
+      "یوراسیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which double-ringed purine base forms hydrogen bonds with thymine in DNA?",
+     "grading_key": "- [1] Adenine",
+     "final_resolution": "Adenine",
+     "notes": "",
+     "keywords": [
+      "adenine"
+     ],
+     "distractors": [
+      "Guanine",
+      "Cytosine",
+      "Uracil"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam baz-e ali-ye purine ke sakhtar-e do-halghe-i darad, dar molekul-e DNA ba thymine peyvand-e hidrozheni midahad?",
+     "grading_key": "- [1] Adenine",
+     "final_resolution": "Adenine",
+     "notes": "",
+     "keywords": [
+      "adenine"
+     ],
+     "distractors": [
+      "Guanine",
+      "Cytosine",
+      "Uracil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 910,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: تنفس بی‌هوازی)",
+    "en": "Chapter 5: Energy Supply (Section 2: Anaerobic Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در تخمیر لاکتیکی در ماهیچه‌های انسان، ⁦NAD⁺⁩ برای ادامهٔ قندکافت با کاهش کدام ترکیب سه‌کربنه بازسازی می‌شود؟",
+     "grading_key": "- [1] پیرووات",
+     "final_resolution": "پیرووات",
+     "notes": "",
+     "keywords": [
+      "تخمیر لاکتیکی"
+     ],
+     "distractors": [
+      "استیل کوآنزیم آ",
+      "لاکتات",
+      "اتانول"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In lactic acid fermentation in human muscle, NAD⁺ is regenerated to keep glycolysis going by reducing which 3-carbon compound?",
+     "grading_key": "- [1] Pyruvate",
+     "final_resolution": "Pyruvate",
+     "notes": "",
+     "keywords": [
+      "lactic acid fermentation"
+     ],
+     "distractors": [
+      "Acetyl-CoA",
+      "Lactate",
+      "Ethanol"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar takhmir-e lactici dar mahiche-haye ensan, NAD⁺ baraye edame-ye ghand-kaft ba kahesh-e kodam tarkib-e se-karbone bazsazi mishavad?",
+     "grading_key": "- [1] Pyruvate",
+     "final_resolution": "Pyruvate",
+     "notes": "",
+     "keywords": [
+      "takhmir-e lactici"
+     ],
+     "distractors": [
+      "Acetyl-CoA",
+      "Lactate",
+      "Ethanol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1398-Dey",
+   "number": 910,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (مفهوم pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (pH)",
+    "pages": "20–23"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "اگر غلظت یون هیدرونیوم (⁦H₃O⁺⁩) در محلولی آبی در دمای اتاق ⁦0.001 M⁩ باشد، ⁦pH⁩ آن چقدر است؟",
+     "grading_key": "- [1] ۳",
+     "final_resolution": "۳",
+     "notes": "",
+     "keywords": [
+      "مقیاس pH"
+     ],
+     "distractors": [
+      "۱",
+      "۷",
+      "۱۱"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "If the hydronium ion (H₃O⁺) concentration of an aqueous solution at room temperature is 0.001 M, what is its pH?",
+     "grading_key": "- [1] 3",
+     "final_resolution": "3",
+     "notes": "",
+     "keywords": [
+      "pH scale"
+     ],
+     "distractors": [
+      "1",
+      "7",
+      "11"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Agar ghelzat-e yon-e hydronium (H₃O⁺) dar mahlooli abi dar damaye otagh 0.001 M bashad, pH-e an cheghadr ast?",
+     "grading_key": "- [1] 3",
+     "final_resolution": "3",
+     "notes": "",
+     "keywords": [
+      "meghyas-e pH"
+     ],
+     "distractors": [
+      "1",
+      "7",
+      "11"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 910,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (سلول سوختی هیدروژن-اکسیژن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Hydrogen-Oxygen Fuel Cell)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Selool-e Sookhti)",
+    "pages": "46–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در سلول سوختی هیدروژن-اکسیژن، اکسایش گاز هیدروژن (⁦H₂⁩) در کدام الکترود انجام می‌شود؟",
+     "grading_key": "- [1] آند",
+     "final_resolution": "آند",
+     "notes": "",
+     "keywords": [
+      "سلول سوختی"
+     ],
+     "distractors": [
+      "کاتد",
+      "غشای مبادله‌کنندهٔ پروتون",
+      "پل نمکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In a hydrogen-oxygen fuel cell, at which electrode is hydrogen gas (H₂) oxidised?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "fuel cell"
+     ],
+     "distractors": [
+      "Cathode",
+      "Proton exchange membrane",
+      "Salt bridge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar selool-e sookhti-ye hydrogen-oxygen, oksayesh-e gaz-e hydrogen (H₂) dar kodam electrode anjam mishavad?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "selool-e sookhti"
+     ],
+     "distractors": [
+      "Cathode",
+      "Ghesha-ye mobadele-konande-ye proton",
+      "Pol-e namaki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 910,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با سرعت ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Velocity)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Sorat-e Sabet)",
+    "pages": "10–13"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت بر خط راست با سرعت ثابت، شتاب متحرک در هر لحظه چقدر است؟",
+     "grading_key": "- [1] صفر",
+     "final_resolution": "صفر",
+     "notes": "",
+     "keywords": [
+      "حرکت با سرعت ثابت"
+     ],
+     "distractors": [
+      "مقداری ثابت و مثبت",
+      "مقداری ثابت و منفی",
+      "به مکان اولیه بستگی دارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In straight-line motion at constant velocity, what is the acceleration at any instant?",
+     "grading_key": "- [1] Zero",
+     "final_resolution": "Zero",
+     "notes": "",
+     "keywords": [
+      "constant velocity motion"
+     ],
+     "distractors": [
+      "A constant positive value",
+      "A constant negative value",
+      "It depends on the starting position"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat bar khatt-e rast ba sorat-e sabet, shetab-e motaharrek dar har lahze cheghadr ast?",
+     "grading_key": "- [1] Sefr",
+     "final_resolution": "Sefr",
+     "notes": "",
+     "keywords": [
+      "harekat ba sorat-e sabet"
+     ],
+     "distractors": [
+      "Meghdari sabet va mosbat",
+      "Meghdari sabet va manfi",
+      "Be makan-e avvaliye bastegi darad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 910,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (مشخصات موج عرضی)",
+    "en": "Chapter 3: Oscillations and Waves (Features of Transverse Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Moshakhasat-e Moj-e Arzi)",
+    "pages": "54–57"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "بیشترین جابه‌جایی یک نوسانگر هماهنگ ساده، یا ذره‌های محیط در انتشار موج، از وضع تعادل چه نام دارد؟",
+     "grading_key": "- [1] دامنه (⁦A⁩)",
+     "final_resolution": "دامنه (⁦A⁩)",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ موج"
+     ],
+     "distractors": [
+      "طول موج (⁦λ⁩)",
+      "دوره (⁦T⁩)",
+      "زاویهٔ فاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the maximum displacement of a simple harmonic oscillator, or of the medium’s particles in a wave, from equilibrium called?",
+     "grading_key": "- [1] Amplitude (A)",
+     "final_resolution": "Amplitude (A)",
+     "notes": "",
+     "keywords": [
+      "wave amplitude"
+     ],
+     "distractors": [
+      "Wavelength (λ)",
+      "Period (T)",
+      "Phase angle"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Bishtarin jabejayi-ye yek navasan-gar-e hamahang-e sade, ya zarre-haye mohit dar enteshar-e moj, az vaz-e taadol che nam darad?",
+     "grading_key": "- [1] Damane (A)",
+     "final_resolution": "Damane (A)",
+     "notes": "",
+     "keywords": [
+      "damaneh-ye moj"
+     ],
+     "distractors": [
+      "Tool-e moj (λ)",
+      "Dowre (T)",
+      "Zavie-ye faz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1398-Khordad",
+   "number": 910,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان متنی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن تعریف را انتخاب کنید:\n⁦'To help someone grow or develop over time with care and love is to _______ someone.'⁩",
+     "grading_key": "- [1] ⁦bring up⁩",
+     "final_resolution": "⁦bring up⁩",
+     "notes": "",
+     "keywords": [
+      "اصطلاحات فعلی"
+     ],
+     "distractors": [
+      "⁦give up⁩",
+      "⁦take turns⁩",
+      "⁦pass away⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the definition:\n'To help someone grow or develop over time with care and love is to _______ someone.'",
+     "grading_key": "- [1] bring up",
+     "final_resolution": "bring up",
+     "notes": "",
+     "keywords": [
+      "phrasal verbs"
+     ],
+     "distractors": [
+      "give up",
+      "take turns",
+      "pass away"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e tarif ra entekhab konid:\n'To help someone grow or develop over time with care and love is to _______ someone.'",
+     "grading_key": "- [1] bring up",
+     "final_resolution": "bring up",
+     "notes": "",
+     "keywords": [
+      "estelahat-e fe'li"
+     ],
+     "distractors": [
+      "give up",
+      "take turns",
+      "pass away"
+     ]
+    }
+   }
+  }
+ ]
+}
