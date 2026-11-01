@@ -1,0 +1,433 @@
+{
+ "version": 34,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 927,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایهٔ وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basic Concepts of Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "رابطه‌ای که در آن هر دو دگرهٔ یک صفت در فرد ناخالص به‌طور کامل و جداگانه در رخ‌نمود ظاهر می‌شوند و گروه خونی ⁦AB⁩ نمونهٔ آن است چه نام دارد؟",
+     "grading_key": "- [1] هم‌توانی",
+     "final_resolution": "هم‌توانی",
+     "notes": "",
+     "keywords": [
+      "هم‌توانی"
+     ],
+     "distractors": [
+      "بارزیت ناقص",
+      "بارزیت کامل",
+      "صفت چندژنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "What is the relationship called in which both alleles of a gene are fully and separately expressed in a heterozygous individual, as in the AB blood group?",
+     "grading_key": "- [1] Codominance",
+     "final_resolution": "Codominance",
+     "notes": "",
+     "keywords": [
+      "codominance"
+     ],
+     "distractors": [
+      "Incomplete dominance",
+      "Complete dominance",
+      "Polygenic inheritance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Rabete-i ke dar an har do degare-ye yek sefat dar fard-e nakhales be tor-e kamel va jodagane dar rokh-namood zaher mishavand va goruh-e khooni-ye AB nemoone-ye an ast che nam darad?",
+     "grading_key": "- [1] Ham-tavani",
+     "final_resolution": "Ham-tavani",
+     "notes": "",
+     "keywords": [
+      "ham-tavani"
+     ],
+     "distractors": [
+      "Barezit-e naghes",
+      "Barezit-e kamel",
+      "Sefat-e chand-zheni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 927,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در تنفس یاخته‌ای هوازی، کدام گاز در انتهای زنجیرهٔ انتقال الکترون پذیرندهٔ نهایی الکترون‌هاست؟",
+     "grading_key": "- [1] اکسیژن (⁦O₂⁩)",
+     "final_resolution": "اکسیژن (⁦O₂⁩)",
+     "notes": "",
+     "keywords": [
+      "پذیرندهٔ نهایی الکترون"
+     ],
+     "distractors": [
+      "کربن دی‌اکسید (⁦CO₂⁩)",
+      "نیتروژن (⁦N₂⁩)",
+      "بخار آب (⁦H₂O⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In aerobic cellular respiration, which gas is the final electron acceptor at the end of the electron transport chain?",
+     "grading_key": "- [1] Oxygen (O₂)",
+     "final_resolution": "Oxygen (O₂)",
+     "notes": "",
+     "keywords": [
+      "final electron acceptor"
+     ],
+     "distractors": [
+      "Carbon dioxide (CO₂)",
+      "Nitrogen (N₂)",
+      "Water vapour (H₂O)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar tanaffos-e yakhte-i-ye havazi, kodam gaz dar entehay-e zanjire-ye enteghal-e electron pazirande-ye nahayi-ye electron-hast?",
+     "grading_key": "- [1] Oxygen (O₂)",
+     "final_resolution": "Oxygen (O₂)",
+     "notes": "",
+     "keywords": [
+      "pazirandeh-ye nahayi-ye electron"
+     ],
+     "distractors": [
+      "Carbon dioxide (CO₂)",
+      "Nitrogen (N₂)",
+      "Bokhar-e ab (H₂O)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 927,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "در دمای اتاق (⁦25 °C⁩)، محلولی که غلظت یون هیدرونیوم آن از غلظت یون هیدروکسید بیشتر است چه خاصیتی دارد؟",
+     "grading_key": "- [1] اسیدی (⁦pH < 7⁩)",
+     "final_resolution": "اسیدی (⁦pH < 7⁩)",
+     "notes": "",
+     "keywords": [
+      "محلول اسیدی"
+     ],
+     "distractors": [
+      "بازی (⁦pH > 7⁩)",
+      "خنثی (⁦pH = 7⁩)",
+      "آمفوتر"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "At room temperature (25 °C), a solution whose hydronium ion concentration is greater than its hydroxide ion concentration has which property?",
+     "grading_key": "- [1] Acidic (pH < 7)",
+     "final_resolution": "Acidic (pH < 7)",
+     "notes": "",
+     "keywords": [
+      "acidic solution"
+     ],
+     "distractors": [
+      "Basic (pH > 7)",
+      "Neutral (pH = 7)",
+      "Amphoteric"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Dar dama-ye otagh (25 °C), mahlooli ke ghelzat-e yon-e hydronium-ash az ghelzat-e yon-e hydroxide bishtar ast che khasiyati darad?",
+     "grading_key": "- [1] Asidi (pH < 7)",
+     "final_resolution": "Asidi (pH < 7)",
+     "notes": "",
+     "keywords": [
+      "mahlool-e asidi"
+     ],
+     "distractors": [
+      "Bazi (pH > 7)",
+      "Khonsa (pH = 7)",
+      "Amphoteric"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 927,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای فلزی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Metallic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Felezi)",
+    "pages": "90–92"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "جامدی که در آن اتم‌های فلز در شبکهٔ بلوری منظمی قرار دارند و جاذبهٔ میان کاتیون‌ها و دریای الکترون‌های غیرمستقر آن را نگه می‌دارد چه نام دارد؟",
+     "grading_key": "- [1] جامد فلزی",
+     "final_resolution": "جامد فلزی",
+     "notes": "",
+     "keywords": [
+      "جامد فلزی"
+     ],
+     "distractors": [
+      "جامد یونی",
+      "جامد کووالانسی (شبکه‌ای)",
+      "جامد مولکولی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "What is a solid called in which metal atoms sit in an ordered crystal lattice held together by the attraction between cations and a sea of delocalized electrons?",
+     "grading_key": "- [1] Metallic solid",
+     "final_resolution": "Metallic solid",
+     "notes": "",
+     "keywords": [
+      "metallic solid"
+     ],
+     "distractors": [
+      "Ionic solid",
+      "Covalent network solid",
+      "Molecular solid"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Jamedi ke dar an atom-haye felez dar shabake-ye boluri-ye monazzami gharar darand va jazebe-ye miyan-e cation-ha va darya-ye electron-haye gheyr-e mostaghar an ra negah midarad che nam darad?",
+     "grading_key": "- [1] Jamed-e felezi",
+     "final_resolution": "Jamed-e felezi",
+     "notes": "",
+     "keywords": [
+      "jamed-e felezi"
+     ],
+     "distractors": [
+      "Jamed-e yoni",
+      "Jamed-e covalent (shabake-i)",
+      "Jamed-e molekuli"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 927,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (نیمه‌عمر)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Half-life)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Nime-omr)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "مدت زمانی که طول می‌کشد تا شمار هسته‌های پرتوزای یک نمونه بر اثر واپاشی به نصف مقدار اولیه برسد چه نام دارد؟",
+     "grading_key": "- [1] نیمه‌عمر (⁦T½⁩)",
+     "final_resolution": "نیمه‌عمر (⁦T½⁩)",
+     "notes": "",
+     "keywords": [
+      "نیمه‌عمر"
+     ],
+     "distractors": [
+      "ثابت واپاشی",
+      "میانگین عمر",
+      "فعالیت (اکتیویته)"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What is the time it takes for the number of radioactive nuclei in a sample to fall to half of the initial number through decay called?",
+     "grading_key": "- [1] Half-life (T½)",
+     "final_resolution": "Half-life (T½)",
+     "notes": "",
+     "keywords": [
+      "half-life"
+     ],
+     "distractors": [
+      "Decay constant",
+      "Mean lifetime",
+      "Activity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Moddat zamani ke tool mikeshad ta shomar-e haste-haye partov-za-ye yek nemoone bar asar-e vapashi be nesf-e meghdar-e avvaliye beresad che nam darad?",
+     "grading_key": "- [1] Nime-omr (T½)",
+     "final_resolution": "Nime-omr (T½)",
+     "notes": "",
+     "keywords": [
+      "nimeh-omr"
+     ],
+     "distractors": [
+      "Sabet-e vapashi",
+      "Miyangin-e omr",
+      "Faaliyat (activity)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 927,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (کاستی جرم و انرژی بستگی)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Mass Defect and Binding Energy)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Kasti-ye Jerm)",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "جرم هر هسته از مجموع جرم نوکلئون‌های سازندهٔ آن کمتر است. این جرم کاسته‌شده (⁦Δm⁩) هم‌ارز کدام انرژی است؟",
+     "grading_key": "- [1] انرژی بستگی هسته (⁦E = Δmc²⁩)",
+     "final_resolution": "انرژی بستگی هسته (⁦E = Δmc²⁩)",
+     "notes": "",
+     "keywords": [
+      "کاستی جرم"
+     ],
+     "distractors": [
+      "انرژی جنبشی الکترون‌های اتم",
+      "انرژی یونش اتم",
+      "تابع کار فلز"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "A nucleus has less mass than the sum of the masses of its nucleons. This missing mass (Δm) is equivalent to which energy?",
+     "grading_key": "- [1] The nuclear binding energy (E = Δmc²)",
+     "final_resolution": "The nuclear binding energy (E = Δmc²)",
+     "notes": "",
+     "keywords": [
+      "mass defect"
+     ],
+     "distractors": [
+      "The kinetic energy of the atom's electrons",
+      "The ionization energy of the atom",
+      "The work function of a metal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Jerm-e har haste az majmoo-e jerm-e nucleon-haye sazande-ash kamtar ast. In jerm-e kaste-shode (Δm) ham-arz-e kodam enerji ast?",
+     "grading_key": "- [1] Enerji-ye bastegi-ye haste (E = Δmc²)",
+     "final_resolution": "Enerji-ye bastegi-ye haste (E = Δmc²)",
+     "notes": "",
+     "keywords": [
+      "kasti-ye jerm"
+     ],
+     "distractors": [
+      "Enerji-ye jonbeshi-ye electron-haye atom",
+      "Enerji-ye yonesh-e atom",
+      "Tabe-e kar-e felez"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 927,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: مجهول)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Passive Voice)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Majhool)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "شکل درست مجهولِ حال ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'Today, wind turbines _______ in many countries to generate clean electricity.'⁩",
+     "grading_key": "- [1] ⁦are used⁩",
+     "final_resolution": "⁦are used⁩",
+     "notes": "",
+     "keywords": [
+      "حال ساده مجهول"
+     ],
+     "distractors": [
+      "⁦is used⁩",
+      "⁦use⁩",
+      "⁦were used⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct simple present passive form to complete the sentence:\n'Today, wind turbines _______ in many countries to generate clean electricity.'",
+     "grading_key": "- [1] are used",
+     "final_resolution": "are used",
+     "notes": "",
+     "keywords": [
+      "simple present passive"
+     ],
+     "distractors": [
+      "is used",
+      "use",
+      "were used"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Shekl-e dorost-e majhool-e hal-e sade ra baraye kamel kardan-e jomle entekhab konid:\n'Today, wind turbines _______ in many countries to generate clean electricity.'",
+     "grading_key": "- [1] are used",
+     "final_resolution": "are used",
+     "notes": "",
+     "keywords": [
+      "hal-e sade-ye majhool"
+     ],
+     "distractors": [
+      "is used",
+      "use",
+      "were used"
+     ]
+    }
+   }
+  }
+ ]
+}
