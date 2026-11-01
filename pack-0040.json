@@ -1,0 +1,433 @@
+{
+ "version": 40,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 933,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در یاخته‌های یوکاریوتی، رونویسی از ژن‌های رنای ناقل (⁦tRNA⁩) را کدام رنابسپاراز انجام می‌دهد؟",
+     "grading_key": "- [1] رنابسپاراز ۳",
+     "final_resolution": "رنابسپاراز ۳",
+     "notes": "",
+     "keywords": [
+      "رنابسپاراز ۳"
+     ],
+     "distractors": [
+      "رنابسپاراز ۱",
+      "رنابسپاراز ۲",
+      "هلیکاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In eukaryotic cells, which RNA polymerase transcribes the genes for transfer RNA (tRNA)?",
+     "grading_key": "- [1] RNA polymerase III",
+     "final_resolution": "RNA polymerase III",
+     "notes": "",
+     "keywords": [
+      "RNA polymerase III"
+     ],
+     "distractors": [
+      "RNA polymerase I",
+      "RNA polymerase II",
+      "Helicase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar yakhte-haye eukaryoti, ronevisi az zhen-haye RNA-ye naghel (tRNA) ra kodam RNA-basparaz anjam midahad?",
+     "grading_key": "- [1] RNA-basparaz 3",
+     "final_resolution": "RNA-basparaz 3",
+     "notes": "",
+     "keywords": [
+      "RNA-basparaz 3"
+     ],
+     "distractors": [
+      "RNA-basparaz 1",
+      "RNA-basparaz 2",
+      "Helicase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 933,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (اکسایش پیرووات و چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (Pyruvate Oxidation and the Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Charkhe-ye Krebs)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در چرخهٔ کربس، تبدیل ترکیب پنج‌کربنی به ترکیب چهارکربنی با تولید کدام مولکول‌های پرانرژی و ناقل الکترون همراه است؟",
+     "grading_key": "- [1] ⁦NADH⁩ و ⁦ATP⁩",
+     "final_resolution": "⁦NADH⁩ و ⁦ATP⁩",
+     "notes": "",
+     "keywords": [
+      "چرخهٔ کربس"
+     ],
+     "distractors": [
+      "⁦FADH₂⁩ و ⁦NADH⁩",
+      "⁦NADPH⁩ و ⁦ADP⁩",
+      "پیرووات و استیل کوآنزیم آ"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the Krebs cycle, the conversion of the 5-carbon compound into a 4-carbon compound is accompanied by the production of which energy-rich and electron-carrier molecules?",
+     "grading_key": "- [1] NADH and ATP",
+     "final_resolution": "NADH and ATP",
+     "notes": "",
+     "keywords": [
+      "Krebs cycle"
+     ],
+     "distractors": [
+      "FADH₂ and NADH",
+      "NADPH and ADP",
+      "Pyruvate and acetyl-CoA"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar charkhe-ye Krebs, tabdil-e tarkib-e panj-karbani be tarkib-e chahar-karbani ba tolid-e kodam molekul-haye por-enerji va naghel-e electron hamrah ast?",
+     "grading_key": "- [1] NADH va ATP",
+     "final_resolution": "NADH va ATP",
+     "notes": "",
+     "keywords": [
+      "charkhe-ye Krebs"
+     ],
+     "distractors": [
+      "FADH₂ va NADH",
+      "NADPH va ADP",
+      "Pyruvate va acetyl coenzyme A"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 933,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (محلول‌های بافر)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Buffer Solutions)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Mahlool-haye Bafer)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام مخلوط می‌تواند به‌عنوان یک محلول بافر (تامپون) کارآمد، غلظت یون هیدرونیوم را کنترل کند و ⁦pH⁩ را ثابت نگه دارد؟",
+     "grading_key": "- [1] یک اسید ضعیف و نمک باز مزدوج آن",
+     "final_resolution": "یک اسید ضعیف و نمک باز مزدوج آن",
+     "notes": "",
+     "keywords": [
+      "محلول بافر"
+     ],
+     "distractors": [
+      "یک اسید قوی و نمک آن",
+      "یک باز قوی و یک نمک خنثی",
+      "مخلوط دو اسید قوی متفاوت"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which mixture can act as an efficient buffer solution, controlling the hydronium ion concentration and keeping the pH steady?",
+     "grading_key": "- [1] A weak acid and a salt of its conjugate base",
+     "final_resolution": "A weak acid and a salt of its conjugate base",
+     "notes": "",
+     "keywords": [
+      "buffer solution"
+     ],
+     "distractors": [
+      "A strong acid and its salt",
+      "A strong base and a neutral salt",
+      "A mixture of two different strong acids"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam makhloot mitavanad be onvan-e yek mahlool-e bafer (tampon)-e karamad, ghelzat-e yon-e hydronium ra control konad va pH ra sabet negah darad?",
+     "grading_key": "- [1] Yek acid-e zaif va namak-e baz-e mozdavaj-ash",
+     "final_resolution": "Yek acid-e zaif va namak-e baz-e mozdavaj-ash",
+     "notes": "",
+     "keywords": [
+      "mahlool-e bafer"
+     ],
+     "distractors": [
+      "Yek acid-e ghavi va namak-ash",
+      "Yek baz-e ghavi va yek namak-e khonsa",
+      "Makhloot-e do acid-e ghavi-ye motefavet"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 933,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت سدیم کلرید مذاب)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis of Molten Sodium Chloride)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft-e Sodium Chloride)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در سلول صنعتی داونز برای برقکافت سدیم کلرید مذاب، نقش توری آهنی میان دو الکترود چیست؟",
+     "grading_key": "- [1] جلوگیری از واکنش سدیم و کلر تولیدشده با یکدیگر",
+     "final_resolution": "جلوگیری از واکنش سدیم و کلر تولیدشده با یکدیگر",
+     "notes": "",
+     "keywords": [
+      "توری آهنی سلول داونز"
+     ],
+     "distractors": [
+      "کار کردن به‌عنوان آند اصلی",
+      "کاهش نقطهٔ ذوب مخلوط الکترولیت",
+      "رساندن جریان برق بیرونی به بدنهٔ سلول"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial Downs cell for the electrolysis of molten sodium chloride, what is the role of the iron screen between the two electrodes?",
+     "grading_key": "- [1] It keeps the sodium and chlorine produced from reacting with each other",
+     "final_resolution": "It keeps the sodium and chlorine produced from reacting with each other",
+     "notes": "",
+     "keywords": [
+      "iron screen in Downs cell"
+     ],
+     "distractors": [
+      "It acts as the main anode",
+      "It lowers the melting point of the electrolyte",
+      "It carries the external current to the cell shell"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar selool-e sanati-ye Downs baraye barghkaft-e sodium chloride-e mozab, naghsh-e toori-ye ahani miyan-e do electrode chist?",
+     "grading_key": "- [1] Jelogiri az vakonesh-e sodium va chlor-e tolid-shode ba yekdigar",
+     "final_resolution": "Jelogiri az vakonesh-e sodium va chlor-e tolid-shode ba yekdigar",
+     "notes": "",
+     "keywords": [
+      "toori-ye ahani dar selool-e Downs"
+     ],
+     "distractors": [
+      "Kar kardan be onvan-e anode-e asli",
+      "Kahesh-e noghte-ye zob-e makhloot-e electrolyte",
+      "Resandan-e jaryan-e bargh-e biruni be badane-ye selool"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 933,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با شتاب ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Acceleration)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Shetab-e Sabet)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت بر خط راست با شتاب ثابت، تغییر سرعت متحرک (⁦Δv⁩) در یک بازهٔ زمانی با کدام کمیت متناسب است؟",
+     "grading_key": "- [1] مدت زمان (⁦Δt⁩)",
+     "final_resolution": "مدت زمان (⁦Δt⁩)",
+     "notes": "",
+     "keywords": [
+      "تغییرات سرعت"
+     ],
+     "distractors": [
+      "مجذور زمان (⁦Δt²⁩)",
+      "مکان اولیه",
+      "مسافت کل پیموده‌شده"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In straight-line motion with constant acceleration, the change in velocity (Δv) over an interval is directly proportional to what?",
+     "grading_key": "- [1] The time interval (Δt)",
+     "final_resolution": "The time interval (Δt)",
+     "notes": "",
+     "keywords": [
+      "velocity change"
+     ],
+     "distractors": [
+      "The square of the time (Δt²)",
+      "The initial position",
+      "The total distance travelled"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat bar khatt-e rast ba shetab-e sabet, taghyir-e sorat-e motaharrek (Δv) dar yek baze-ye zamani ba kodam kamiyat motenaseb ast?",
+     "grading_key": "- [1] Moddat-e zaman (Δt)",
+     "final_resolution": "Moddat-e zaman (Δt)",
+     "notes": "",
+     "keywords": [
+      "taghyirat-e sorat"
+     ],
+     "distractors": [
+      "Majzoor-e zaman (Δt²)",
+      "Makan-e avvaliye",
+      "Masafat-e kol-e peymoode-shode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 933,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (ویژگی‌های صوت)",
+    "en": "Chapter 3: Oscillations and Waves (Properties of Sound)",
+    "tr": "Fasl 3: Navasan va Moj (Vizhegi-haye Sot)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "کدام ویژگی موج صوتی، شدت صوت و بلندی صدا را برای گوش انسان تعیین می‌کند؟",
+     "grading_key": "- [1] دامنهٔ موج (⁦A⁩)",
+     "final_resolution": "دامنهٔ موج (⁦A⁩)",
+     "notes": "",
+     "keywords": [
+      "بلندی صوت"
+     ],
+     "distractors": [
+      "بسامد (⁦f⁩)",
+      "تندی انتشار (⁦v⁩)",
+      "فاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "Which property of a sound wave determines its intensity and how loud it sounds to the human ear?",
+     "grading_key": "- [1] Wave amplitude (A)",
+     "final_resolution": "Wave amplitude (A)",
+     "notes": "",
+     "keywords": [
+      "sound loudness"
+     ],
+     "distractors": [
+      "Frequency (f)",
+      "Propagation speed (v)",
+      "Phase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Kodam vizhegi-ye moj-e soti, sheddat-e sot va bolandi-ye seda ra baraye goosh-e ensan taiin mikonad?",
+     "grading_key": "- [1] Damane-ye moj (A)",
+     "final_resolution": "Damane-ye moj (A)",
+     "notes": "",
+     "keywords": [
+      "bolandi-ye sot"
+     ],
+     "distractors": [
+      "Basamad (f)",
+      "Tondi-ye enteshar (v)",
+      "Faz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 933,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'The rapid industrial growth can _______ natural habitats and harm endangered animals.'⁩",
+     "grading_key": "- [1] ⁦destroy⁩",
+     "final_resolution": "⁦destroy⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦appreciate⁩",
+      "⁦protect⁩",
+      "⁦convert⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'The rapid industrial growth can _______ natural habitats and harm endangered animals.'",
+     "grading_key": "- [1] destroy",
+     "final_resolution": "destroy",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "appreciate",
+      "protect",
+      "convert"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'The rapid industrial growth can _______ natural habitats and harm endangered animals.'",
+     "grading_key": "- [1] destroy",
+     "final_resolution": "destroy",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "appreciate",
+      "protect",
+      "convert"
+     ]
+    }
+   }
+  }
+ ]
+}
