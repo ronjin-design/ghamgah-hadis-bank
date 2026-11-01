@@ -1,0 +1,433 @@
+{
+ "version": 33,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 926,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در یاخته‌های یوکاریوتی، رنای اولیه پیش از خروج از هسته دچار کدام تغییر می‌شود تا به رنای پیک (⁦mRNA⁩) بالغ تبدیل شود؟",
+     "grading_key": "- [1] پیرایش: حذف میانه‌ها (اینترون‌ها)",
+     "final_resolution": "پیرایش: حذف میانه‌ها (اینترون‌ها)",
+     "notes": "",
+     "keywords": [
+      "پیرایش رنا"
+     ],
+     "distractors": [
+      "حذف بیانه‌ها (اگزون‌ها)",
+      "ترجمه درون هسته",
+      "افزودن دنبالهٔ آمینواسیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In eukaryotic cells, what change does the primary RNA transcript undergo before leaving the nucleus to become mature mRNA?",
+     "grading_key": "- [1] Splicing: removal of introns",
+     "final_resolution": "Splicing: removal of introns",
+     "notes": "",
+     "keywords": [
+      "RNA splicing"
+     ],
+     "distractors": [
+      "Removal of exons",
+      "Translation inside the nucleus",
+      "Attachment of an amino acid tail"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar yakhte-haye eukaryoti, RNA-ye avvaliye pish az khorooj az haste dochar-e kodam taghyir mishavad ta be RNA-ye peyk (mRNA)-e baleg tabdil shavad?",
+     "grading_key": "- [1] Pirayesh: hazf-e miyane-ha (intron-ha)",
+     "final_resolution": "Pirayesh: hazf-e miyane-ha (intron-ha)",
+     "notes": "",
+     "keywords": [
+      "pirayesh-e RNA"
+     ],
+     "distractors": [
+      "Hazf-e biyane-ha (exon-ha)",
+      "Tarjome daroon-e haste",
+      "Afzoodan-e donbale-ye amino acidi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 926,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "کدام آنزیم مهندسی‌شده با پایداری حرارتی بیشتر، در صنایع غذایی برای تجزیهٔ نشاسته در دمای بالا به کار می‌رود؟",
+     "grading_key": "- [1] آمیلاز",
+     "final_resolution": "آمیلاز",
+     "notes": "",
+     "keywords": [
+      "آنزیم آمیلاز"
+     ],
+     "distractors": [
+      "لیگاز",
+      "سلولاز",
+      "پپسین"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Which engineered enzyme, with improved thermal stability, is widely used in the food industry to break down starch at high temperatures?",
+     "grading_key": "- [1] Amylase",
+     "final_resolution": "Amylase",
+     "notes": "",
+     "keywords": [
+      "amylase enzyme"
+     ],
+     "distractors": [
+      "Ligase",
+      "Cellulase",
+      "Pepsin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Kodam anzim-e mohandesi-shode ba paydari-ye hararti-ye bishtar, dar sanaye-e ghazayi baraye tajzie-ye nashaste dar dama-ye bala be kar miravad?",
+     "grading_key": "- [1] Amylase",
+     "final_resolution": "Amylase",
+     "notes": "",
+     "keywords": [
+      "anzim-e amylase"
+     ],
+     "distractors": [
+      "Ligase",
+      "Cellulase",
+      "Pepsin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 926,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بر پایهٔ نظریهٔ آرنیوس، بازها موادی‌اند که با حل شدن در آب، غلظت کدام یون را در محلول افزایش می‌دهند؟",
+     "grading_key": "- [1] یون هیدروکسید (⁦OH⁻⁩)",
+     "final_resolution": "یون هیدروکسید (⁦OH⁻⁩)",
+     "notes": "",
+     "keywords": [
+      "نظریهٔ آرنیوس"
+     ],
+     "distractors": [
+      "یون هیدرونیوم (⁦H₃O⁺⁩)",
+      "یون سدیم (⁦Na⁺⁩)",
+      "یون هیدروژن (⁦H⁺⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Arrhenius theory, bases are substances that increase the concentration of which ion when dissolved in water?",
+     "grading_key": "- [1] Hydroxide ion (OH⁻)",
+     "final_resolution": "Hydroxide ion (OH⁻)",
+     "notes": "",
+     "keywords": [
+      "Arrhenius theory"
+     ],
+     "distractors": [
+      "Hydronium ion (H₃O⁺)",
+      "Sodium ion (Na⁺)",
+      "Hydrogen ion (H⁺)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bar paye-ye nazariye-ye Arrhenius, baz-ha mavadi-and ke ba hal shodan dar ab, ghelzat-e kodam yon ra dar mahlool afzayesh midahand?",
+     "grading_key": "- [1] Yon-e hydroxide (OH⁻)",
+     "final_resolution": "Yon-e hydroxide (OH⁻)",
+     "notes": "",
+     "keywords": [
+      "nazariyeh-ye Arrhenius"
+     ],
+     "distractors": [
+      "Yon-e hydronium (H₃O⁺)",
+      "Yon-e sodium (Na⁺)",
+      "Yon-e hydrogen (H⁺)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 926,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت سدیم کلرید مذاب)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis of Molten Sodium Chloride)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft-e Sodium Chloride)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در استخراج صنعتی فلز سدیم در سلول داونز، کدام ترکیب را به سدیم کلرید می‌افزایند تا نقطهٔ ذوب آن کاهش یابد؟",
+     "grading_key": "- [1] کلسیم کلرید (⁦CaCl₂⁩)",
+     "final_resolution": "کلسیم کلرید (⁦CaCl₂⁩)",
+     "notes": "",
+     "keywords": [
+      "فرایند داونز"
+     ],
+     "distractors": [
+      "کریولیت (⁦Na₃AlF₆⁩)",
+      "سدیم هیدروکسید (⁦NaOH⁩)",
+      "سیلیسیم دی‌اکسید (⁦SiO₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial extraction of sodium in the Downs cell, which compound is added to sodium chloride to lower its melting point?",
+     "grading_key": "- [1] Calcium chloride (CaCl₂)",
+     "final_resolution": "Calcium chloride (CaCl₂)",
+     "notes": "",
+     "keywords": [
+      "Downs process"
+     ],
+     "distractors": [
+      "Cryolite (Na₃AlF₆)",
+      "Sodium hydroxide (NaOH)",
+      "Silicon dioxide (SiO₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar estekhraj-e sanati-ye felez-e sodium dar selool-e Downs, kodam tarkib ra be sodium chloride mifazayand ta noghte-ye zob-ash kahesh yabad?",
+     "grading_key": "- [1] Calcium chloride (CaCl₂)",
+     "final_resolution": "Calcium chloride (CaCl₂)",
+     "notes": "",
+     "keywords": [
+      "farayand-e Downs"
+     ],
+     "distractors": [
+      "Cryolite (Na₃AlF₆)",
+      "Sodium hydroxide (NaOH)",
+      "Silicon dioxide (SiO₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 926,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر سرعت جسمی با جرم ثابت نصف شود، تکانهٔ خطی آن (⁦p = mv⁩) چه تغییری می‌کند؟",
+     "grading_key": "- [1] نصف می‌شود",
+     "final_resolution": "نصف می‌شود",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی"
+     ],
+     "distractors": [
+      "تغییر نمی‌کند",
+      "دو برابر می‌شود",
+      "یک‌چهارم می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the velocity of an object of constant mass is halved, how does its linear momentum (p = mv) change?",
+     "grading_key": "- [1] It halves",
+     "final_resolution": "It halves",
+     "notes": "",
+     "keywords": [
+      "linear momentum"
+     ],
+     "distractors": [
+      "It stays the same",
+      "It doubles",
+      "It drops to one-quarter"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar sorat-e jesmi ba jerm-e sabet nesf shavad, takane-ye khatti-ash (p = mv) che taghyiri mikonad?",
+     "grading_key": "- [1] Nesf mishavad",
+     "final_resolution": "Nesf mishavad",
+     "notes": "",
+     "keywords": [
+      "takaneh-ye khatti"
+     ],
+     "distractors": [
+      "Taghyir nemikonad",
+      "Do barabar mishavad",
+      "Yek-chaharom mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 926,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (ساختار هسته)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Structure of the Nucleus)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Sakhtar-e Hasteh)",
+    "pages": "100–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "به اتم‌های یک عنصر که عدد اتمی (⁦Z⁩) یکسان ولی عدد جرمی (⁦A⁩) متفاوت دارند چه می‌گویند؟",
+     "grading_key": "- [1] ایزوتوپ‌ها (هم‌مکان‌ها)",
+     "final_resolution": "ایزوتوپ‌ها (هم‌مکان‌ها)",
+     "notes": "",
+     "keywords": [
+      "ایزوتوپ"
+     ],
+     "distractors": [
+      "دگرشکل‌ها",
+      "ایزوبارها (هم‌وزن‌ها)",
+      "ایزوتون‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What are atoms of the same element with the same atomic number (Z) but a different mass number (A) called?",
+     "grading_key": "- [1] Isotopes",
+     "final_resolution": "Isotopes",
+     "notes": "",
+     "keywords": [
+      "isotopes"
+     ],
+     "distractors": [
+      "Allotropes",
+      "Isobars",
+      "Isotones"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Be atom-haye yek onsor ke adad-e atomi (Z)-e yeksan vali adad-e jermi (A)-e motefavet darand che miguyand?",
+     "grading_key": "- [1] Isotope-ha (ham-makan-ha)",
+     "final_resolution": "Isotope-ha (ham-makan-ha)",
+     "notes": "",
+     "keywords": [
+      "isotope"
+     ],
+     "distractors": [
+      "Degar-shekl-ha",
+      "Isobar-ha",
+      "Isotone-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 926,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "حرف اضافهٔ درست را برای کامل کردن فعل دوبخشی به معنای «مراقبت کردن» انتخاب کنید:\n⁦'We should always remember to care for and look _______ elderly people in our society.'⁩",
+     "grading_key": "- [1] ⁦after⁩",
+     "final_resolution": "⁦after⁩",
+     "notes": "",
+     "keywords": [
+      "اصطلاحات فعلی"
+     ],
+     "distractors": [
+      "⁦for⁩",
+      "⁦into⁩",
+      "⁦up⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the preposition that completes the phrasal verb meaning 'to take care of':\n'We should always remember to care for and look _______ elderly people in our society.'",
+     "grading_key": "- [1] after",
+     "final_resolution": "after",
+     "notes": "",
+     "keywords": [
+      "phrasal verbs"
+     ],
+     "distractors": [
+      "for",
+      "into",
+      "up"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Harf-e ezafe-ye dorost ra baraye kamel kardan-e fel-e do-bakhshi be mani-ye 'moraghebat kardan' entekhab konid:\n'We should always remember to care for and look _______ elderly people in our society.'",
+     "grading_key": "- [1] after",
+     "final_resolution": "after",
+     "notes": "",
+     "keywords": [
+      "estelahat-e fe'li"
+     ],
+     "distractors": [
+      "for",
+      "into",
+      "up"
+     ]
+    }
+   }
+  }
+ ]
+}
