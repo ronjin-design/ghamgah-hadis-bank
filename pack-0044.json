@@ -1,0 +1,433 @@
+{
+ "version": 44,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 937,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام پروتئین‌ها با اتصال به مولکول‌های بیگانه یا ترشحات عوامل بیماری‌زا، در دستگاه ایمنی بدن انسان نقش دفاعی دارند؟",
+     "grading_key": "- [1] پادتن‌ها",
+     "final_resolution": "پادتن‌ها",
+     "notes": "",
+     "keywords": [
+      "پادتن"
+     ],
+     "distractors": [
+      "آنزیم‌ها",
+      "هورمون‌ها",
+      "گیرنده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which proteins play a defensive role in the human immune system by binding to foreign molecules or the secretions of pathogens?",
+     "grading_key": "- [1] Antibodies",
+     "final_resolution": "Antibodies",
+     "notes": "",
+     "keywords": [
+      "antibodies"
+     ],
+     "distractors": [
+      "Enzymes",
+      "Hormones",
+      "Receptors"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam protein-ha ba ettesal be molekul-haye bigane ya tarashohat-e avamel-e bimari-za, dar dastgah-e imeni-ye badan-e ensan naghsh-e defaei darand?",
+     "grading_key": "- [1] Padtan-ha",
+     "final_resolution": "Padtan-ha",
+     "notes": "",
+     "keywords": [
+      "padtan"
+     ],
+     "distractors": [
+      "Anzim-ha",
+      "Hormone-ha",
+      "Girande-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 937,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: زیست‌فناوری)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Biotechnology)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1)",
+    "pages": "98–101"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "کدام روش، جانوری تولید می‌کند که ژن‌های هسته‌ای آن با جانور دهندهٔ هستهٔ یاخته یکسان است (مانند گوسفند دالی)؟",
+     "grading_key": "- [1] انتقال هستهٔ یاختهٔ پیکری",
+     "final_resolution": "انتقال هستهٔ یاختهٔ پیکری",
+     "notes": "",
+     "keywords": [
+      "شبیه‌سازی جانوران"
+     ],
+     "distractors": [
+      "ژن‌درمانی",
+      "الکتروفورز ژل",
+      "انگشت‌نگاری دنا"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Which technique produces an animal with the same nuclear genes as the animal that donated the cell nucleus (as with Dolly the sheep)?",
+     "grading_key": "- [1] Somatic cell nuclear transfer",
+     "final_resolution": "Somatic cell nuclear transfer",
+     "notes": "",
+     "keywords": [
+      "animal cloning"
+     ],
+     "distractors": [
+      "Gene therapy",
+      "Gel electrophoresis",
+      "DNA fingerprinting"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Kodam ravesh, janevari tolid mikonad ke zhen-haye hastei-ash ba janevar-e dahande-ye haste-ye yakhte yeksan ast (manand-e goosfand-e Dolly)?",
+     "grading_key": "- [1] Enteghal-e haste-ye yakhte-ye peykari",
+     "final_resolution": "Enteghal-e haste-ye yakhte-ye peykari",
+     "notes": "",
+     "keywords": [
+      "shabih-sazi-ye janevaran"
+     ],
+     "distractors": [
+      "Zhen-darmani",
+      "Electrophoresis-e zhel",
+      "Angosht-negari-ye DNA"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1398-Khordad",
+   "number": 937,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "محلولی که اسید یا باز قوی افزوده‌شده را در گسترهٔ معینی خنثی می‌کند و مانع تغییر شدید ⁦pH⁩ می‌شود چه نام دارد؟",
+     "grading_key": "- [1] محلول بافر (تامپون)",
+     "final_resolution": "محلول بافر (تامپون)",
+     "notes": "",
+     "keywords": [
+      "محلول بافر"
+     ],
+     "distractors": [
+      "محلول سیرشده",
+      "پاک‌کنندهٔ خورنده",
+      "محلول الکترولیت"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "A solution that neutralizes added strong acid or base within a certain range and prevents sharp changes in pH is called what?",
+     "grading_key": "- [1] Buffer solution",
+     "final_resolution": "Buffer solution",
+     "notes": "",
+     "keywords": [
+      "buffer solution"
+     ],
+     "distractors": [
+      "Saturated solution",
+      "Corrosive cleaner",
+      "Electrolyte solution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Mahlooli ke acid ya baz-e ghavi-ye afzoode-shode ra dar gostare-ye moayyani khonsa mikonad va mane-e taghyir-e shadid-e pH mishavad che nam darad?",
+     "grading_key": "- [1] Mahlool-e bafer (tampon)",
+     "final_resolution": "Mahlool-e bafer (tampon)",
+     "notes": "",
+     "keywords": [
+      "mahlool-e bafer"
+     ],
+     "distractors": [
+      "Mahlool-e sir-shode",
+      "Pak-konande-ye khorande",
+      "Mahlool-e electrolyte"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 937,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت آب)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis of Water)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft-e Ab)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در برقکافت صنعتی آب، کاتیون‌های هیدروژن برای کاهش یافتن و تولید گاز هیدروژن (⁦H₂⁩) به سوی کدام الکترود می‌روند؟",
+     "grading_key": "- [1] کاتد",
+     "final_resolution": "کاتد",
+     "notes": "",
+     "keywords": [
+      "برقکافت آب"
+     ],
+     "distractors": [
+      "آند",
+      "پل نمکی",
+      "هر دو الکترود"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial electrolysis of water, hydrogen cations move toward which electrode to be reduced and produce hydrogen gas (H₂)?",
+     "grading_key": "- [1] Cathode",
+     "final_resolution": "Cathode",
+     "notes": "",
+     "keywords": [
+      "water electrolysis"
+     ],
+     "distractors": [
+      "Anode",
+      "Salt bridge",
+      "Both electrodes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar barghkaft-e sanati-ye ab, cation-haye hydrogen baraye kahesh yaftan va tolid-e gaz-e hydrogen (H₂) be sooy-e kodam electrode miravand?",
+     "grading_key": "- [1] Cathode",
+     "final_resolution": "Cathode",
+     "notes": "",
+     "keywords": [
+      "barghkaft-e ab"
+     ],
+     "distractors": [
+      "Anode",
+      "Pol-e namaki",
+      "Har do electrode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 937,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (سرعت لحظه‌ای)",
+    "en": "Chapter 1: Motion Along a Straight Line (Instantaneous Velocity)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Sorat-e Lahzei)",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "حد سرعت متوسط متحرک، وقتی بازهٔ زمانی به سمت صفر میل می‌کند، کدام کمیت برداری است؟",
+     "grading_key": "- [1] سرعت لحظه‌ای",
+     "final_resolution": "سرعت لحظه‌ای",
+     "notes": "",
+     "keywords": [
+      "سرعت لحظه‌ای"
+     ],
+     "distractors": [
+      "تندی متوسط",
+      "شتاب لحظه‌ای",
+      "بردار جابه‌جایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "The limit of the average velocity as the time interval approaches zero is which vector quantity?",
+     "grading_key": "- [1] Instantaneous velocity",
+     "final_resolution": "Instantaneous velocity",
+     "notes": "",
+     "keywords": [
+      "instantaneous velocity"
+     ],
+     "distractors": [
+      "Average speed",
+      "Instantaneous acceleration",
+      "Displacement"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Hadd-e sorat-e motavasset-e motaharrek, vaghti baze-ye zamani be samt-e sefr meyl mikonad, kodam kamiyat-e bordari ast?",
+     "grading_key": "- [1] Sorat-e lahzei",
+     "final_resolution": "Sorat-e lahzei",
+     "notes": "",
+     "keywords": [
+      "sorat-e lahzei"
+     ],
+     "distractors": [
+      "Tondi-ye motavasset",
+      "Shetab-e lahzei",
+      "Bordar-e jabejayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 937,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Asar-e Photoelectric)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، کدام ویژگی فلز بسامد آستانه (⁦f₀⁩) را برای گسیل فوتوالکترون از سطح آن تعیین می‌کند؟",
+     "grading_key": "- [1] تابع کار فلز (⁦W₀⁩)",
+     "final_resolution": "تابع کار فلز (⁦W₀⁩)",
+     "notes": "",
+     "keywords": [
+      "بسامد آستانه"
+     ],
+     "distractors": [
+      "شدت نور",
+      "طول موج نور",
+      "تعداد کل فوتون‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, which property of the metal determines the threshold frequency (f₀) for emitting photoelectrons from its surface?",
+     "grading_key": "- [1] The work function of the metal (W₀)",
+     "final_resolution": "The work function of the metal (W₀)",
+     "notes": "",
+     "keywords": [
+      "threshold frequency"
+     ],
+     "distractors": [
+      "The intensity of the light",
+      "The wavelength of the light",
+      "The total number of photons"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, kodam vizhegi-ye felez basamad-e astane (f₀) ra baraye gosil-e photoelectron az sath-ash taiin mikonad?",
+     "grading_key": "- [1] Tabe-e kar-e felez (W₀)",
+     "final_resolution": "Tabe-e kar-e felez (W₀)",
+     "notes": "",
+     "keywords": [
+      "basamad-e astaneh"
+     ],
+     "distractors": [
+      "Sheddat-e noor",
+      "Tool-e moj-e noor",
+      "Tedad-e kol-e photon-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 937,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'The student wanted to express his _______ to the teacher by writing a beautiful card.'⁩",
+     "grading_key": "- [1] ⁦gratitude⁩",
+     "final_resolution": "⁦gratitude⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦emissions⁩",
+      "⁦combination⁩",
+      "⁦generation⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'The student wanted to express his _______ to the teacher by writing a beautiful card.'",
+     "grading_key": "- [1] gratitude",
+     "final_resolution": "gratitude",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "emissions",
+      "combination",
+      "generation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'The student wanted to express his _______ to the teacher by writing a beautiful card.'",
+     "grading_key": "- [1] gratitude",
+     "final_resolution": "gratitude",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "emissions",
+      "combination",
+      "generation"
+     ]
+    }
+   }
+  }
+ ]
+}
