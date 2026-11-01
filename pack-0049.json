@@ -1,0 +1,1226 @@
+{
+ "version": 49,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 942,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: واکنش زنجیره‌ای پلیمراز)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Polymerase Chain Reaction)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1: PCR)",
+    "pages": "98–100"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در واکنش زنجیره‌ای پلیمراز (⁦PCR⁩)، هدف اصلی بالا بردن دما تا حدود ⁦94 °C⁩ در گام نخست چیست؟",
+     "grading_key": "- [1] جدا کردن دو رشتهٔ دنا با شکستن پیوندهای هیدروژنی",
+     "final_resolution": "جدا کردن دو رشتهٔ دنا با شکستن پیوندهای هیدروژنی",
+     "notes": "",
+     "keywords": [
+      "واکنش زنجیره‌ای پلیمراز"
+     ],
+     "distractors": [
+      "اتصال آغازگرها به رشته‌های الگو",
+      "فعال کردن آنزیم ⁦Taq⁩ پلیمراز",
+      "ساختن رشته‌های مکمل دنا"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In the polymerase chain reaction (PCR), what is the main purpose of raising the temperature to about 94 °C in the first step?",
+     "grading_key": "- [1] Separating the two DNA strands by breaking hydrogen bonds",
+     "final_resolution": "Separating the two DNA strands by breaking hydrogen bonds",
+     "notes": "",
+     "keywords": [
+      "polymerase chain reaction"
+     ],
+     "distractors": [
+      "Letting the primers bind to the template strands",
+      "Activating the Taq polymerase enzyme",
+      "Building the complementary DNA strands"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar vakonesh-e zanjire-i-ye polymerase (PCR), hadaf-e asli-ye bala bordan-e dama ta hodood-e 94 °C dar gam-e nakhost chist?",
+     "grading_key": "- [1] Joda kardan-e do reshte-ye DNA ba shekastan-e peyvand-haye hidrozheni",
+     "final_resolution": "Joda kardan-e do reshte-ye DNA ba shekastan-e peyvand-haye hidrozheni",
+     "notes": "",
+     "keywords": [
+      "vakonesh-e zanjire-i-ye polymerase"
+     ],
+     "distractors": [
+      "Ettesal-e aghazgar-ha be reshte-haye olgoo",
+      "Faal kardan-e anzim-e Taq polymerase",
+      "Sakhtan-e reshte-haye mokammel-e DNA"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 942,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: الکتروفورز ژل)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Gel Electrophoresis)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1: Electrophoresis)",
+    "pages": "100–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در الکتروفورز ژل، قطعه‌های دنا (⁦DNA⁩) چون بار منفی دارند، به سوی کدام قطب میدان الکتریکی می‌روند؟",
+     "grading_key": "- [1] قطب مثبت (آند)",
+     "final_resolution": "قطب مثبت (آند)",
+     "notes": "",
+     "keywords": [
+      "الکتروفورز"
+     ],
+     "distractors": [
+      "قطب منفی (کاتد)",
+      "حرکت نمی‌کنند و در چاهک می‌مانند",
+      "به‌طور یکسان به سوی هر دو قطب"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In gel electrophoresis, toward which pole of the electric field do DNA fragments move, because of their negative charge?",
+     "grading_key": "- [1] The positive pole (anode)",
+     "final_resolution": "The positive pole (anode)",
+     "notes": "",
+     "keywords": [
+      "gel electrophoresis"
+     ],
+     "distractors": [
+      "The negative pole (cathode)",
+      "They do not move and stay in the well",
+      "Equally toward both poles"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar electrophoresis-e zhel, ghet-e-haye DNA chon bar-e manfi darand, be sooy-e kodam ghotb-e meydan-e electriki miravand?",
+     "grading_key": "- [1] Ghotb-e mosbat (anode)",
+     "final_resolution": "Ghotb-e mosbat (anode)",
+     "notes": "",
+     "keywords": [
+      "gel electrophoresis"
+     ],
+     "distractors": [
+      "Ghotb-e manfi (cathode)",
+      "Harekat nemikonand va dar chahak mimanand",
+      "Be tor-e yeksan be sooy-e har do ghotb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 942,
+   "topic_tag": "animal-behavior",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۸: رفتارهای جانوران (گفتار ۲: انتخاب طبیعی و رفتار)",
+    "en": "Chapter 8: Animal Behavior (Section 2: Natural Selection and Behavior)",
+    "tr": "Fasl 8: Raftar-haye Janevaran (Goftar 2)",
+    "pages": "116–118"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "رفتارهای جانوران",
+     "question": "بنابر انتخاب طبیعی، جانوران رفتاری را برمی‌گزینند که بیشترین انرژی دریافتی را با کمترین هزینهٔ انرژی به دست دهد. این راهبرد چه نام دارد؟",
+     "grading_key": "- [1] رفتار غذایابی بهینه",
+     "final_resolution": "رفتار غذایابی بهینه",
+     "notes": "",
+     "keywords": [
+      "غذایابی بهینه"
+     ],
+     "distractors": [
+      "رفتار دگرخواهی",
+      "پاسخ شرطی شدن فعال",
+      "غریزهٔ دفاع از قلمرو"
+     ]
+    },
+    "en": {
+     "topic_label": "Animal Behavior",
+     "question": "By natural selection, animals tend to choose behaviour that gives the most energy gained for the least energy spent. What is this strategy called?",
+     "grading_key": "- [1] Optimal foraging",
+     "final_resolution": "Optimal foraging",
+     "notes": "",
+     "keywords": [
+      "optimal foraging"
+     ],
+     "distractors": [
+      "Altruistic behaviour",
+      "Operant conditioning response",
+      "Territorial defence instinct"
+     ]
+    },
+    "tr": {
+     "topic_label": "Raftar-haye janevaran",
+     "question": "Bena bar entekhab-e tabiei, janevaran raftari ra bar-migozinand ke bishtarin enerji-ye daryafti ra ba kamtarin hazine-ye enerji be dast dahad. In rahbord che nam darad?",
+     "grading_key": "- [1] Raftar-e ghaza-yabi-ye behine",
+     "final_resolution": "Raftar-e ghaza-yabi-ye behine",
+     "notes": "",
+     "keywords": [
+      "ghaza-yabi-ye behineh"
+     ],
+     "distractors": [
+      "Raftar-e degar-khahi",
+      "Pasokh-e sharti shodan-e faal",
+      "Gharize-ye defa az ghalamro"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 942,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (تنظیم رشد در گیاهان)",
+    "en": "Chapter 6: From Energy to Matter (Regulation of Plant Growth)",
+    "tr": "Fasl 6: Az Enerji be Madde (Tanzim-e Roshd dar Giahan)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "کدام هورمون گیاهیِ محرک رشد، با طویل کردن یاخته‌های سمت سایهٔ ساقه، عامل اصلی نورگرایی است؟",
+     "grading_key": "- [1] اکسین",
+     "final_resolution": "اکسین",
+     "notes": "",
+     "keywords": [
+      "اکسین"
+     ],
+     "distractors": [
+      "آبسیزیک اسید",
+      "اتیلن",
+      "سیتوکینین"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "Which growth-promoting plant hormone is mainly responsible for phototropism, by making the cells on the shaded side of the stem elongate?",
+     "grading_key": "- [1] Auxin",
+     "final_resolution": "Auxin",
+     "notes": "",
+     "keywords": [
+      "auxin"
+     ],
+     "distractors": [
+      "Abscisic acid",
+      "Ethylene",
+      "Cytokinin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Kodam hormone-e giahi-ye mohareke roshd, ba tavil kardan-e yakhte-haye samt-e saye-ye saghe, amel-e asli-ye noor-gerayi ast?",
+     "grading_key": "- [1] Auxin",
+     "final_resolution": "Auxin",
+     "notes": "",
+     "keywords": [
+      "auxin"
+     ],
+     "distractors": [
+      "Abscisic acid",
+      "Ethylene",
+      "Cytokinin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1402-Khordad",
+   "number": 942,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (تنظیم رشد در گیاهان)",
+    "en": "Chapter 6: From Energy to Matter (Regulation of Plant Growth)",
+    "tr": "Fasl 6: Az Enerji be Madde (Tanzim-e Roshd dar Giahan)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "کدام هورمون گیاهی گازی شکل است و رسیدن میوه‌ها و ریزش برگ‌ها را به‌شدت تسریع می‌کند؟",
+     "grading_key": "- [1] اتیلن",
+     "final_resolution": "اتیلن",
+     "notes": "",
+     "keywords": [
+      "اتیلن"
+     ],
+     "distractors": [
+      "جیبرلین",
+      "اکسین",
+      "سیتوکینین"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "Which plant hormone is a gas and strongly speeds up fruit ripening and leaf fall?",
+     "grading_key": "- [1] Ethylene",
+     "final_resolution": "Ethylene",
+     "notes": "",
+     "keywords": [
+      "ethylene"
+     ],
+     "distractors": [
+      "Gibberellin",
+      "Auxin",
+      "Cytokinin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Kodam hormone-e giahi gazi shekl ast va residan-e mive-ha va rizesh-e barg-ha ra be-shedat tasri mikonad?",
+     "grading_key": "- [1] Ethylene",
+     "final_resolution": "Ethylene",
+     "notes": "",
+     "keywords": [
+      "ethylene"
+     ],
+     "distractors": [
+      "Gibberellin",
+      "Auxin",
+      "Cytokinin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 942,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (یونش آب و pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Ionization of Water and pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Yonesh-e Ab va pH)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "در محلولی آبی در دمای اتاق (⁦25 °C⁩)، اگر غلظت یون هیدروکسید ⁦[OH⁻] = 10⁻⁵ M⁩ باشد، ⁦pH⁩ محلول چقدر است؟ (⁦Kw = 10⁻¹⁴⁩)",
+     "grading_key": "- [1] ۹",
+     "final_resolution": "۹",
+     "notes": "",
+     "keywords": [
+      "ثابت یونش آب"
+     ],
+     "distractors": [
+      "۵",
+      "۷",
+      "۱۴"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "In an aqueous solution at room temperature (25 °C), if the hydroxide ion concentration is [OH⁻] = 10⁻⁵ M, what is the pH? (Kw = 10⁻¹⁴)",
+     "grading_key": "- [1] 9",
+     "final_resolution": "9",
+     "notes": "",
+     "keywords": [
+      "ionization constant of water"
+     ],
+     "distractors": [
+      "5",
+      "7",
+      "14"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Dar mahlooli abi dar dama-ye otagh (25 °C), agar ghelzat-e yon-e hydroxide [OH⁻] = 10⁻⁵ M bashad, pH-e mahlool cheghadr ast? (Kw = 10⁻¹⁴)",
+     "grading_key": "- [1] 9",
+     "final_resolution": "9",
+     "notes": "",
+     "keywords": [
+      "sabet-e yonesh-e ab"
+     ],
+     "distractors": [
+      "5",
+      "7",
+      "14"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 942,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (انرژی فعال‌سازی)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Activation Energy)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Enerji-ye Faal-sazi)",
+    "pages": "114–116"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "کمترین انرژی لازم برای آغاز یک واکنش شیمیایی، تا واکنش‌دهنده‌ها به پیچیدهٔ فعال‌شده (حالت گذار) برسند، چه نام دارد؟",
+     "grading_key": "- [1] انرژی فعال‌سازی (⁦Ea⁩)",
+     "final_resolution": "انرژی فعال‌سازی (⁦Ea⁩)",
+     "notes": "",
+     "keywords": [
+      "انرژی فعال‌سازی"
+     ],
+     "distractors": [
+      "آنتالپی واکنش (⁦ΔH⁩)",
+      "انرژی آزاد گیبس",
+      "ثابت تعادل"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "What is the minimum energy needed to start a chemical reaction, so that the reactants reach the activated complex (transition state), called?",
+     "grading_key": "- [1] Activation energy (Ea)",
+     "final_resolution": "Activation energy (Ea)",
+     "notes": "",
+     "keywords": [
+      "activation energy"
+     ],
+     "distractors": [
+      "Reaction enthalpy (ΔH)",
+      "Gibbs free energy",
+      "Equilibrium constant"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Kamtarin enerji-ye lazem baraye aghaz-e yek vakonesh-e shimiayi, ta vakonesh-dahande-ha be pichide-ye faal-shode (halat-e gozar) beresand, che nam darad?",
+     "grading_key": "- [1] Enerji-ye faal-sazi (Ea)",
+     "final_resolution": "Enerji-ye faal-sazi (Ea)",
+     "notes": "",
+     "keywords": [
+      "enerji-ye faal-sazi"
+     ],
+     "distractors": [
+      "Antalpi-ye vakonesh (ΔH)",
+      "Enerji-ye azad-e Gibbs",
+      "Sabet-e taadol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 942,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (انرژی فعال‌سازی)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Activation Energy)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Enerji-ye Faal-sazi)",
+    "pages": "114–117"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در نمودار انرژی یک واکنش، اگر انرژی واکنش‌دهنده‌ها را از انرژی پیچیدهٔ فعال‌شده کم کنیم، حاصل کدام کمیت است؟",
+     "grading_key": "- [1] انرژی فعال‌سازی واکنش رفت (⁦Ea⁩)",
+     "final_resolution": "انرژی فعال‌سازی واکنش رفت (⁦Ea⁩)",
+     "notes": "",
+     "keywords": [
+      "پیچیدهٔ فعال‌شده"
+     ],
+     "distractors": [
+      "انرژی فعال‌سازی واکنش برگشت (⁦Ea′⁩)",
+      "آنتالپی واکنش (⁦ΔH⁩)",
+      "ظرفیت گرمایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "On a reaction's energy diagram, if the energy of the reactants is subtracted from the energy of the activated complex, what is the result?",
+     "grading_key": "- [1] The activation energy of the forward reaction (Ea)",
+     "final_resolution": "The activation energy of the forward reaction (Ea)",
+     "notes": "",
+     "keywords": [
+      "activated complex"
+     ],
+     "distractors": [
+      "The activation energy of the reverse reaction (Ea′)",
+      "The reaction enthalpy (ΔH)",
+      "The heat capacity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar nemoodar-e enerji-ye yek vakonesh, agar enerji-ye vakonesh-dahande-ha ra az enerji-ye pichide-ye faal-shode kam konim, hasel kodam kamiyat ast?",
+     "grading_key": "- [1] Enerji-ye faal-sazi-ye vakonesh-e raft (Ea)",
+     "final_resolution": "Enerji-ye faal-sazi-ye vakonesh-e raft (Ea)",
+     "notes": "",
+     "keywords": [
+      "pichideh-ye faal-shodeh"
+     ],
+     "distractors": [
+      "Enerji-ye faal-sazi-ye vakonesh-e bargasht (Ea′)",
+      "Antalpi-ye vakonesh (ΔH)",
+      "Zarfiyat-e garmayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 942,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (یونش آب و pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Ionization of Water and pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Yonesh-e Ab va pH)",
+    "pages": "18–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "حاصل‌ضرب غلظت مولی یون‌های هیدرونیوم و هیدروکسید (⁦Kw⁩) در آب خالص در دمای اتاق (⁦25 °C⁩) چقدر است؟",
+     "grading_key": "- [1] ⁦1.0 × 10⁻¹⁴⁩",
+     "final_resolution": "⁦1.0 × 10⁻¹⁴⁩",
+     "notes": "",
+     "keywords": [
+      "ثابت یونش آب"
+     ],
+     "distractors": [
+      "⁦1.0 × 10⁻⁷⁩",
+      "⁦1.0 × 10⁷⁩",
+      "۰"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "What is the product of the molar concentrations of hydronium and hydroxide ions (Kw) in pure water at room temperature (25 °C)?",
+     "grading_key": "- [1] 1.0 × 10⁻¹⁴",
+     "final_resolution": "1.0 × 10⁻¹⁴",
+     "notes": "",
+     "keywords": [
+      "ionization constant of water"
+     ],
+     "distractors": [
+      "1.0 × 10⁻⁷",
+      "1.0 × 10⁷",
+      "0"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Hasel-zarb-e ghelzat-e moli-ye yon-haye hydronium va hydroxide (Kw) dar ab-e khales dar dama-ye otagh (25 °C) cheghadr ast?",
+     "grading_key": "- [1] 1.0 × 10⁻¹⁴",
+     "final_resolution": "1.0 × 10⁻¹⁴",
+     "notes": "",
+     "keywords": [
+      "sabet-e yonesh-e ab"
+     ],
+     "distractors": [
+      "1.0 × 10⁻⁷",
+      "1.0 × 10⁷",
+      "0"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Khordad",
+   "number": 942,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (انرژی فعال‌سازی)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Activation Energy)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Enerji-ye Faal-sazi)",
+    "pages": "114–116"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "کاتالیزگر با فراهم کردن مسیر تازه‌ای برای واکنش، کدام کمیت انرژی را کاهش می‌دهد تا سرعت واکنش زیاد شود؟",
+     "grading_key": "- [1] انرژی فعال‌سازی (⁦Ea⁩)",
+     "final_resolution": "انرژی فعال‌سازی (⁦Ea⁩)",
+     "notes": "",
+     "keywords": [
+      "کاتالیزگر"
+     ],
+     "distractors": [
+      "آنتالپی واکنش (⁦ΔH⁩)",
+      "ثابت تعادل (⁦K⁩)",
+      "جرم کل واکنش‌دهنده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By offering a new pathway for the reaction, a catalyst lowers which energy quantity so that the reaction speeds up?",
+     "grading_key": "- [1] Activation energy (Ea)",
+     "final_resolution": "Activation energy (Ea)",
+     "notes": "",
+     "keywords": [
+      "catalyst"
+     ],
+     "distractors": [
+      "Reaction enthalpy (ΔH)",
+      "Equilibrium constant (K)",
+      "Total mass of the reactants"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Catalyzgar ba faraham kardan-e masir-e taze-i baraye vakonesh, kodam kamiyat-e enerji ra kahesh midahad ta sorat-e vakonesh ziad shavad?",
+     "grading_key": "- [1] Enerji-ye faal-sazi (Ea)",
+     "final_resolution": "Enerji-ye faal-sazi (Ea)",
+     "notes": "",
+     "keywords": [
+      "catalyzgar"
+     ],
+     "distractors": [
+      "Antalpi-ye vakonesh (ΔH)",
+      "Sabet-e taadol (K)",
+      "Jerm-e kol-e vakonesh-dahande-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 942,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (پرتاب قائم)",
+    "en": "Chapter 1: Motion Along a Straight Line (Vertical Projection)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Partab-e Ghaem)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در پرتاب قائم بدون مقاومت هوا، شتاب جسم در بالاترین نقطهٔ مسیر (اوج) چقدر است؟",
+     "grading_key": "- [1] برابر شتاب گرانش (⁦g⁩)",
+     "final_resolution": "برابر شتاب گرانش (⁦g⁩)",
+     "notes": "",
+     "keywords": [
+      "حرکت پرتابی"
+     ],
+     "distractors": [
+      "صفر",
+      "بیشترین مقدار ممکن",
+      "به تندی پرتاب بستگی دارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In vertical projection without air resistance, what is the acceleration of the object at the highest point of its path?",
+     "grading_key": "- [1] Equal to the gravitational acceleration (g)",
+     "final_resolution": "Equal to the gravitational acceleration (g)",
+     "notes": "",
+     "keywords": [
+      "projectile acceleration"
+     ],
+     "distractors": [
+      "Zero",
+      "Its largest possible value",
+      "It depends on the launch speed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar partab-e ghaem bedoon-e moghavemat-e hava, shetab-e jesm dar balatarin noghte-ye masir (owj) cheghadr ast?",
+     "grading_key": "- [1] Barabar-e shetab-e geranesh (g)",
+     "final_resolution": "Barabar-e shetab-e geranesh (g)",
+     "notes": "",
+     "keywords": [
+      "harekat-e partabi"
+     ],
+     "distractors": [
+      "Sefr",
+      "Bishtarin meghdar-e momken",
+      "Be tondi-ye partab bastegi darad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 942,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (حرکت دایره‌ای یکنواخت)",
+    "en": "Chapter 2: Dynamics and Forces (Uniform Circular Motion)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Harekat-e Dayere-i)",
+    "pages": "46–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "در حرکت دایره‌ای یکنواخت (تندی ثابت)، بردار شتاب مرکزگرا همواره به کدام سو است؟",
+     "grading_key": "- [1] به سوی مرکز مسیر دایره‌ای",
+     "final_resolution": "به سوی مرکز مسیر دایره‌ای",
+     "notes": "",
+     "keywords": [
+      "شتاب مرکزگرا"
+     ],
+     "distractors": [
+      "مماس بر مسیر",
+      "در خلاف جهت سرعت",
+      "به سوی بیرون دایره"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "In uniform circular motion (constant speed), which way does the centripetal acceleration vector always point?",
+     "grading_key": "- [1] Toward the centre of the circle",
+     "final_resolution": "Toward the centre of the circle",
+     "notes": "",
+     "keywords": [
+      "centripetal acceleration"
+     ],
+     "distractors": [
+      "Along the tangent to the path",
+      "Opposite to the velocity",
+      "Outward from the circle"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Dar harekat-e dayere-i-ye yeknavakht (tondi-ye sabet), bordar-e shetab-e markazgara hamvare be kodam soo ast?",
+     "grading_key": "- [1] Be sooy-e markaz-e masir-e dayere-i",
+     "final_resolution": "Be sooy-e markaz-e masir-e dayere-i",
+     "notes": "",
+     "keywords": [
+      "shetab-e markazgara"
+     ],
+     "distractors": [
+      "Momas bar masir",
+      "Dar khalaf-e jahat-e sorat",
+      "Be sooy-e biroon-e dayere"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 942,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (موج ایستاده در ریسمان)",
+    "en": "Chapter 3: Oscillations and Waves (Standing Waves on a String)",
+    "tr": "Fasl 3: Navasan va Moj (Moj-e Istade)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "در موج ایستاده روی ریسمانی با دو سر بسته، به نقطه‌هایی که دامنهٔ نوسان آن‌ها همیشه صفر است و ساکن می‌مانند چه می‌گویند؟",
+     "grading_key": "- [1] گره",
+     "final_resolution": "گره",
+     "notes": "",
+     "keywords": [
+      "گره موج"
+     ],
+     "distractors": [
+      "شکم (پادگره)",
+      "قله",
+      "دره"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "In a standing wave on a string fixed at both ends, what are the points whose amplitude is always zero, so that they stay still, called?",
+     "grading_key": "- [1] Nodes",
+     "final_resolution": "Nodes",
+     "notes": "",
+     "keywords": [
+      "standing wave nodes"
+     ],
+     "distractors": [
+      "Antinodes",
+      "Crests",
+      "Troughs"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Dar moj-e istade rooy-e rismani ba do sar-e baste, be noghte-hayi ke damane-ye navasan-e anha hamishe sefr ast va saken mimanand che miguyand?",
+     "grading_key": "- [1] Gereh",
+     "final_resolution": "Gereh",
+     "notes": "",
+     "keywords": [
+      "gereh-ye moj"
+     ],
+     "distractors": [
+      "Shekam (pad-gereh)",
+      "Ghole",
+      "Darre"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 942,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (واپاشی هسته‌ای)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Radioactive Decay)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Vapashi)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در واپاشی آلفا، عدد اتمی (⁦Z⁩) و عدد جرمی (⁦A⁩) هستهٔ دختر نسبت به هستهٔ مادر به ترتیب چه تغییری می‌کنند؟",
+     "grading_key": "- [1] ⁦Z⁩ دو واحد و ⁦A⁩ چهار واحد کم می‌شود",
+     "final_resolution": "⁦Z⁩ دو واحد و ⁦A⁩ چهار واحد کم می‌شود",
+     "notes": "",
+     "keywords": [
+      "واپاشی آلفا"
+     ],
+     "distractors": [
+      "⁦Z⁩ یک واحد زیاد می‌شود و ⁦A⁩ ثابت می‌ماند",
+      "⁦Z⁩ یک واحد و ⁦A⁩ دو واحد کم می‌شود",
+      "⁦Z⁩ ثابت می‌ماند و ⁦A⁩ چهار واحد کم می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In alpha decay, how do the atomic number (Z) and mass number (A) of the daughter nucleus change compared with the parent?",
+     "grading_key": "- [1] Z falls by 2, A falls by 4",
+     "final_resolution": "Z falls by 2, A falls by 4",
+     "notes": "",
+     "keywords": [
+      "alpha decay equation"
+     ],
+     "distractors": [
+      "Z rises by 1, A stays the same",
+      "Z falls by 1, A falls by 2",
+      "Z stays the same, A falls by 4"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar vapashi-ye alfa, adad-e atomi (Z) va adad-e jermi (A)-e haste-ye dokhtar nesbat be haste-ye madar be tartib che taghyiri mikonand?",
+     "grading_key": "- [1] Z do vahed va A chahar vahed kam mishavad",
+     "final_resolution": "Z do vahed va A chahar vahed kam mishavad",
+     "notes": "",
+     "keywords": [
+      "vapashi-ye alfa"
+     ],
+     "distractors": [
+      "Z yek vahed ziad mishavad va A sabet mimanad",
+      "Z yek vahed va A do vahed kam mishavad",
+      "Z sabet mimanad va A chahar vahed kam mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 942,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (واپاشی هسته‌ای)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Radioactive Decay)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Vapashi)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در واپاشی بتای منفی (⁦β⁻⁩)، عدد اتمی (⁦Z⁩) هستهٔ حاصل چه تغییری می‌کند؟",
+     "grading_key": "- [1] یک واحد زیاد می‌شود",
+     "final_resolution": "یک واحد زیاد می‌شود",
+     "notes": "",
+     "keywords": [
+      "واپاشی بتا"
+     ],
+     "distractors": [
+      "یک واحد کم می‌شود",
+      "دو واحد کم می‌شود",
+      "تغییر نمی‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In beta-minus (β⁻) decay, how does the atomic number (Z) of the daughter nucleus change?",
+     "grading_key": "- [1] It rises by 1",
+     "final_resolution": "It rises by 1",
+     "notes": "",
+     "keywords": [
+      "beta decay"
+     ],
+     "distractors": [
+      "It falls by 1",
+      "It falls by 2",
+      "It does not change"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar vapashi-ye beta-ye manfi (β⁻), adad-e atomi (Z)-e haste-ye hasel che taghyiri mikonad?",
+     "grading_key": "- [1] Yek vahed ziad mishavad",
+     "final_resolution": "Yek vahed ziad mishavad",
+     "notes": "",
+     "keywords": [
+      "vapashi-ye beta"
+     ],
+     "distractors": [
+      "Yek vahed kam mishavad",
+      "Do vahed kam mishavad",
+      "Taghyir nemikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 942,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ گذشتهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'The historical monuments of Isfahan _______ by thousands of tourists last summer.'⁩",
+     "grading_key": "- [1] ⁦were visited⁩",
+     "final_resolution": "⁦were visited⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦was visited⁩",
+      "⁦visited⁩",
+      "⁦have visited⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct simple past passive form to complete the sentence:\n'The historical monuments of Isfahan _______ by thousands of tourists last summer.'",
+     "grading_key": "- [1] were visited",
+     "final_resolution": "were visited",
+     "notes": "",
+     "keywords": [
+      "simple past passive"
+     ],
+     "distractors": [
+      "was visited",
+      "visited",
+      "have visited"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'The historical monuments of Isfahan _______ by thousands of tourists last summer.'",
+     "grading_key": "- [1] were visited",
+     "final_resolution": "were visited",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "was visited",
+      "visited",
+      "have visited"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 942,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن تعریف را انتخاب کنید:\n⁦'To keep someone or something safe from harm or danger is to _______ it.'⁩",
+     "grading_key": "- [1] ⁦protect⁩",
+     "final_resolution": "⁦protect⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦destroy⁩",
+      "⁦neglect⁩",
+      "⁦pollute⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the definition:\n'To keep someone or something safe from harm or danger is to _______ it.'",
+     "grading_key": "- [1] protect",
+     "final_resolution": "protect",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "destroy",
+      "neglect",
+      "pollute"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e tarif ra entekhab konid:\n'To keep someone or something safe from harm or danger is to _______ it.'",
+     "grading_key": "- [1] protect",
+     "final_resolution": "protect",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "destroy",
+      "neglect",
+      "pollute"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 942,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کاربردی)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Oil, gas, and coal take millions of years to form, so they are non-renewable fossil _______.'⁩",
+     "grading_key": "- [1] ⁦fuels⁩",
+     "final_resolution": "⁦fuels⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦panels⁩",
+      "⁦turbines⁩",
+      "⁦emissions⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Oil, gas, and coal take millions of years to form, so they are non-renewable fossil _______.'",
+     "grading_key": "- [1] fuels",
+     "final_resolution": "fuels",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "panels",
+      "turbines",
+      "emissions"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Oil, gas, and coal take millions of years to form, so they are non-renewable fossil _______.'",
+     "grading_key": "- [1] fuels",
+     "final_resolution": "fuels",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "panels",
+      "turbines",
+      "emissions"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 942,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: ضمیرهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Pronouns)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Zamir-haye Moosooli)",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "ضمیر موصولی درست را انتخاب کنید:\n⁦'The smart student _______ scored the highest rank on the national exam was highly praised.'⁩",
+     "grading_key": "- [1] ⁦who⁩",
+     "final_resolution": "⁦who⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیرهای موصولی"
+     ],
+     "distractors": [
+      "⁦which⁩",
+      "⁦whom⁩",
+      "⁦whose⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct relative pronoun:\n'The smart student _______ scored the highest rank on the national exam was highly praised.'",
+     "grading_key": "- [1] who",
+     "final_resolution": "who",
+     "notes": "",
+     "keywords": [
+      "relative pronoun"
+     ],
+     "distractors": [
+      "which",
+      "whom",
+      "whose"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Zamir-e moosooli-ye dorost ra entekhab konid:\n'The smart student _______ scored the highest rank on the national exam was highly praised.'",
+     "grading_key": "- [1] who",
+     "final_resolution": "who",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli"
+     ],
+     "distractors": [
+      "which",
+      "whom",
+      "whose"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 942,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (کلمات ربط)",
+    "en": "Lesson 3: Renewable Energy (Transition Words)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Kalamat-e Rabt)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط علت و معلولی درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Fossil fuels damage our environment; _______, we must invest heavily in solar infrastructure.'⁩",
+     "grading_key": "- [1] ⁦therefore⁩",
+     "final_resolution": "⁦therefore⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط"
+     ],
+     "distractors": [
+      "⁦however⁩",
+      "⁦although⁩",
+      "⁦whereas⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct cause-and-effect linker to complete the sentence:\n'Fossil fuels damage our environment; _______, we must invest heavily in solar infrastructure.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "transition words"
+     ],
+     "distractors": [
+      "however",
+      "although",
+      "whereas"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e ellat va maloli-ye dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Fossil fuels damage our environment; _______, we must invest heavily in solar infrastructure.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt"
+     ],
+     "distractors": [
+      "however",
+      "although",
+      "whereas"
+     ]
+    }
+   }
+  }
+ ]
+}
