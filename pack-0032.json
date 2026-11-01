@@ -1,0 +1,433 @@
+{
+ "version": 32,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 925,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام باز آلی پورین دوحلقه‌ای، هم در دنا و هم در رنا یافت می‌شود و با سیتوزین جفت می‌شود؟",
+     "grading_key": "- [1] گوانین",
+     "final_resolution": "گوانین",
+     "notes": "",
+     "keywords": [
+      "گوانین"
+     ],
+     "distractors": [
+      "آدنین",
+      "تیمین",
+      "یوراسیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which double-ringed purine base is found in both DNA and RNA and pairs with cytosine?",
+     "grading_key": "- [1] Guanine",
+     "final_resolution": "Guanine",
+     "notes": "",
+     "keywords": [
+      "guanine"
+     ],
+     "distractors": [
+      "Adenine",
+      "Thymine",
+      "Uracil"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam baz-e ali-ye purine-e do-halghe-i, ham dar DNA va ham dar RNA yaft mishavad va ba cytosine joft mishavad?",
+     "grading_key": "- [1] Guanine",
+     "final_resolution": "Guanine",
+     "notes": "",
+     "keywords": [
+      "guanine"
+     ],
+     "distractors": [
+      "Adenine",
+      "Thymine",
+      "Uracil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 925,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۱: جهش)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 1: Mutation)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 1)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "کدام جهش نقطه‌ای جانشینی، هیچ تغییری در توالی آمینواسیدهای پروتئین نهایی ایجاد نمی‌کند؟",
+     "grading_key": "- [1] جهش خاموش",
+     "final_resolution": "جهش خاموش",
+     "notes": "",
+     "keywords": [
+      "جهش خاموش"
+     ],
+     "distractors": [
+      "جهش دگرمعنی",
+      "جهش بی‌معنی",
+      "جهش تغییر چارچوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Which base-substitution point mutation causes no change in the amino acid sequence of the final protein?",
+     "grading_key": "- [1] Silent mutation",
+     "final_resolution": "Silent mutation",
+     "notes": "",
+     "keywords": [
+      "silent mutation"
+     ],
+     "distractors": [
+      "Missense mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Kodam jahesh-e noghte-i-ye janeshini, hich taghyiri dar tavali-ye amino acid-haye protein-e nahayi ijad nemikonad?",
+     "grading_key": "- [1] Jahesh-e khamoosh",
+     "final_resolution": "Jahesh-e khamoosh",
+     "notes": "",
+     "keywords": [
+      "jahesh-e khamoosh"
+     ],
+     "distractors": [
+      "Jahesh-e degar-mani",
+      "Jahesh-e bi-mani",
+      "Jahesh-e taghyir-e charchoob"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 925,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای کووالانسی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Covalent Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Covalent)",
+    "pages": "78–82"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "الماس و گرافیت، دو دگرشکل کربن با شبکهٔ کووالانسی غول‌آسا، به ترتیب چه رفتاری در رسانایی الکتریکی دارند؟",
+     "grading_key": "- [1] الماس نارسانا، گرافیت رسانا",
+     "final_resolution": "الماس نارسانا، گرافیت رسانا",
+     "notes": "",
+     "keywords": [
+      "رسانایی گرافیت"
+     ],
+     "distractors": [
+      "الماس رسانا، گرافیت نارسانا",
+      "هر دو رسانای عالی",
+      "هر دو کاملاً نارسانا"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Diamond and graphite, two allotropes of carbon with giant covalent lattices, show which electrical conductivity, respectively?",
+     "grading_key": "- [1] Diamond is an insulator, graphite is a conductor",
+     "final_resolution": "Diamond is an insulator, graphite is a conductor",
+     "notes": "",
+     "keywords": [
+      "graphite conductivity"
+     ],
+     "distractors": [
+      "Diamond is a conductor, graphite is an insulator",
+      "Both are excellent conductors",
+      "Both are complete insulators"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Almas va graphite, do degar-shekl-e carbon ba shabake-ye covalent-e ghool-asa, be tartib che raftari dar rasanayi-ye electriki darand?",
+     "grading_key": "- [1] Almas narasana, graphite rasana",
+     "final_resolution": "Almas narasana, graphite rasana",
+     "notes": "",
+     "keywords": [
+      "rasanayi-ye graphite"
+     ],
+     "distractors": [
+      "Almas rasana, graphite narasana",
+      "Har do rasana-ye ali",
+      "Har do kamelan narasana"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 925,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier’s Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
+    "pages": "110–112"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در یک واکنش تعادلی گازی گرماده، کاهش حجم ظرف در دمای ثابت تعادل را به کدام سمت جابه‌جا می‌کند؟",
+     "grading_key": "- [1] به سمتی که مول گازی کمتری دارد",
+     "final_resolution": "به سمتی که مول گازی کمتری دارد",
+     "notes": "",
+     "keywords": [
+      "اثر حجم بر تعادل"
+     ],
+     "distractors": [
+      "به سمتی که مول گازی بیشتری دارد",
+      "همیشه به سمت برگشت",
+      "اثری بر جایگاه تعادل ندارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "In an exothermic gaseous equilibrium, how does decreasing the container volume at constant temperature shift the equilibrium?",
+     "grading_key": "- [1] Toward the side with fewer moles of gas",
+     "final_resolution": "Toward the side with fewer moles of gas",
+     "notes": "",
+     "keywords": [
+      "volume effect on equilibrium"
+     ],
+     "distractors": [
+      "Toward the side with more moles of gas",
+      "Always toward the reverse side",
+      "It has no effect on the equilibrium position"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar yek vakonesh-e taadoli-ye gazi-ye garmade, kahesh-e hajm-e zarf dar dama-ye sabet taadol ra be kodam samt jabeja mikonad?",
+     "grading_key": "- [1] Be samti ke mol-e gazi-ye kamtari darad",
+     "final_resolution": "Be samti ke mol-e gazi-ye kamtari darad",
+     "notes": "",
+     "keywords": [
+      "asar-e hajm bar taadol"
+     ],
+     "distractors": [
+      "Be samti ke mol-e gazi-ye bishtari darad",
+      "Hamishe be samt-e bargasht",
+      "Asari bar jaygah-e taadol nadarad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 925,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "کدام قانون بیان می‌کند که اگر نیروی خالص خارجی بر یک سامانه وارد نشود، تکانهٔ خطی کل سامانه ثابت می‌ماند؟",
+     "grading_key": "- [1] قانون پایستگی تکانهٔ خطی",
+     "final_resolution": "قانون پایستگی تکانهٔ خطی",
+     "notes": "",
+     "keywords": [
+      "پایستگی تکانهٔ خطی"
+     ],
+     "distractors": [
+      "قانون دوم نیوتون",
+      "قانون سوم نیوتون",
+      "قانون هوک"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "Which law states that if no net external force acts on a system, the total linear momentum of the system stays constant?",
+     "grading_key": "- [1] The law of conservation of linear momentum",
+     "final_resolution": "The law of conservation of linear momentum",
+     "notes": "",
+     "keywords": [
+      "conservation of linear momentum"
+     ],
+     "distractors": [
+      "Newton's second law",
+      "Newton's third law",
+      "Hooke's law"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Kodam ghanoon bayan mikonad ke agar niroo-ye khales-e khareji bar yek samane vared nashavad, takane-ye khatti-ye kol-e samane sabet mimanad?",
+     "grading_key": "- [1] Ghanoon-e payestegi-ye takane-ye khatti",
+     "final_resolution": "Ghanoon-e payestegi-ye takane-ye khatti",
+     "notes": "",
+     "keywords": [
+      "payestegi-ye takaneh"
+     ],
+     "distractors": [
+      "Ghanoon-e dovom-e Newton",
+      "Ghanoon-e sevvom-e Newton",
+      "Ghanoon-e Hooke"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 925,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (ساختار هسته)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Structure of the Nucleus)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Sakhtar-e Hasteh)",
+    "pages": "100–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "شمار پروتون‌های هستهٔ یک اتم، که هویت شیمیایی عنصر را به‌طور یکتا مشخص می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] عدد اتمی (⁦Z⁩)",
+     "final_resolution": "عدد اتمی (⁦Z⁩)",
+     "notes": "",
+     "keywords": [
+      "عدد اتمی"
+     ],
+     "distractors": [
+      "عدد جرمی (⁦A⁩)",
+      "عدد نوترونی (⁦N⁩)",
+      "کاستی جرم"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What is the number of protons in an atomic nucleus, which uniquely identifies the element, called?",
+     "grading_key": "- [1] Atomic number (Z)",
+     "final_resolution": "Atomic number (Z)",
+     "notes": "",
+     "keywords": [
+      "atomic number"
+     ],
+     "distractors": [
+      "Mass number (A)",
+      "Neutron number (N)",
+      "Mass defect"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Shomar-e proton-haye haste-ye yek atom, ke hoviyat-e shimiayi-ye onsor ra be tor-e yekta moshakhas mikonad, che nam darad?",
+     "grading_key": "- [1] Adad-e atomi (Z)",
+     "final_resolution": "Adad-e atomi (Z)",
+     "notes": "",
+     "keywords": [
+      "adad-e atomi"
+     ],
+     "distractors": [
+      "Adad-e jermi (A)",
+      "Adad-e neutroni (N)",
+      "Kasti-ye jerm"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 925,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Solar panels can convert sunlight directly into electricity, which helps to _______ clean energy.'⁩",
+     "grading_key": "- [1] ⁦generate⁩",
+     "final_resolution": "⁦generate⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦destroy⁩",
+      "⁦deforest⁩",
+      "⁦forgive⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'Solar panels can convert sunlight directly into electricity, which helps to _______ clean energy.'",
+     "grading_key": "- [1] generate",
+     "final_resolution": "generate",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "destroy",
+      "deforest",
+      "forgive"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Solar panels can convert sunlight directly into electricity, which helps to _______ clean energy.'",
+     "grading_key": "- [1] generate",
+     "final_resolution": "generate",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "destroy",
+      "deforest",
+      "forgive"
+     ]
+    }
+   }
+  }
+ ]
+}
