@@ -1,0 +1,128 @@
+{
+ "version": 53,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 946,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در مولکول دنا (⁦DNA⁩)، نوکلئوتیدهای یک رشتهٔ پلی‌نوکلئوتیدی با کدام پیوند اشتراکی پشت سر هم به یکدیگر متصل می‌شوند؟",
+     "grading_key": "- [1] پیوند فسفودی‌استر",
+     "final_resolution": "پیوند فسفودی‌استر",
+     "notes": "",
+     "keywords": [
+      "پیوند فسفودی‌استر"
+     ],
+     "distractors": [
+      "پیوند هیدروژنی",
+      "پیوند پپتیدی",
+      "پل دی‌سولفیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In a DNA molecule, which covalent bond links the nucleotides of a single polynucleotide strand one after another?",
+     "grading_key": "- [1] Phosphodiester bond",
+     "final_resolution": "Phosphodiester bond",
+     "notes": "",
+     "keywords": [
+      "phosphodiester bond"
+     ],
+     "distractors": [
+      "Hydrogen bond",
+      "Peptide bond",
+      "Disulfide bridge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar molekul-e DNA, nucleotide-haye yek reshte-ye polynucleotide ba kodam peyvand-e eshteraki posht-e sar-e ham be yekdigar mottasel mishavand?",
+     "grading_key": "- [1] Peyvand-e phosphodiester",
+     "final_resolution": "Peyvand-e phosphodiester",
+     "notes": "",
+     "keywords": [
+      "peyvand-e phosphodiester"
+     ],
+     "distractors": [
+      "Peyvand-e hidrozheni",
+      "Peyvand-e peptidi",
+      "Pol-e disulfide"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 946,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Light)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی پرتو نور از هوا وارد شیشه می‌شود و بسامد آن ثابت می‌ماند، کدام ویژگی موج نور تغییر می‌کند؟",
+     "grading_key": "- [1] طول موج (⁦λ⁩)",
+     "final_resolution": "طول موج (⁦λ⁩)",
+     "notes": "",
+     "keywords": [
+      "شکست نور"
+     ],
+     "distractors": [
+      "دوره (⁦T⁩)",
+      "فاز",
+      "نوع موج (الکترومغناطیسی بودن)"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a light ray passes from air into glass and its frequency stays the same, which property of the light wave changes?",
+     "grading_key": "- [1] Wavelength (λ)",
+     "final_resolution": "Wavelength (λ)",
+     "notes": "",
+     "keywords": [
+      "light refraction"
+     ],
+     "distractors": [
+      "Period (T)",
+      "Phase",
+      "Its type (being electromagnetic)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti partov-e noor az hava vared-e shishe mishavad va basamad-ash sabet mimanad, kodam vizhegi-ye moj-e noor taghyir mikonad?",
+     "grading_key": "- [1] Tool-e moj (λ)",
+     "final_resolution": "Tool-e moj (λ)",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor"
+     ],
+     "distractors": [
+      "Dowre (T)",
+      "Faz",
+      "No-e moj (electromagnetic boodan)"
+     ]
+    }
+   }
+  }
+ ]
+}
