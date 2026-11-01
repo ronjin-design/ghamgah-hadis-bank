@@ -1,0 +1,433 @@
+{
+ "version": 28,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 921,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "افزودن اسید یا باز قوی به محلول، کدام ویژگی محیط را تغییر می‌دهد که پیوندهای یونی نگه‌دارندهٔ ساختار سه‌بعدی آنزیم را برهم می‌زند و آنزیم را غیرفعال می‌کند؟",
+     "grading_key": "- [1] ⁦pH⁩ محیط",
+     "final_resolution": "⁦pH⁩ محیط",
+     "notes": "",
+     "keywords": [
+      "تغییرات pH آنزیم"
+     ],
+     "distractors": [
+      "غلظت پیش‌ماده",
+      "شدت نور",
+      "فشار هوا"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Adding a strong acid or base to a solution changes which property of the environment, disrupting the ionic bonds that hold an enzyme's 3D shape and inactivating it?",
+     "grading_key": "- [1] The pH of the environment",
+     "final_resolution": "The pH of the environment",
+     "notes": "",
+     "keywords": [
+      "enzyme pH changes"
+     ],
+     "distractors": [
+      "Substrate concentration",
+      "Light intensity",
+      "Atmospheric pressure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Afzoodan-e acid ya baz-e ghavi be mahlool, kodam vizhegi-ye mohit ra taghyir midahad ke peyvand-haye yoni-ye negah-darande-ye sakhtar-e se-bodi-ye anzim ra barham mizanad va anzim ra gheyr-e faal mikonad?",
+     "grading_key": "- [1] pH-e mohit",
+     "final_resolution": "pH-e mohit",
+     "notes": "",
+     "keywords": [
+      "taghyirat-e pH-e anzim"
+     ],
+     "distractors": [
+      "Ghelzat-e pish-made",
+      "Sheddat-e noor",
+      "Feshar-e hava"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 921,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در زنجیرهٔ انتقال الکترون در غشای درونی راکیزه، انرژی جابه‌جایی الکترون‌ها صرف پمپ کردن پروتون‌ها به کدام فضای راکیزه می‌شود؟",
+     "grading_key": "- [1] فضای بین دو غشا",
+     "final_resolution": "فضای بین دو غشا",
+     "notes": "",
+     "keywords": [
+      "فضای بین دو غشا"
+     ],
+     "distractors": [
+      "بخش داخلی راکیزه (ماتریکس)",
+      "میان‌یاخته (سیتوپلاسم)",
+      "فضای درون تیلاکوئید"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the electron transport chain of the inner mitochondrial membrane, the energy of moving electrons is used to pump protons into which space of the mitochondrion?",
+     "grading_key": "- [1] Intermembrane space",
+     "final_resolution": "Intermembrane space",
+     "notes": "",
+     "keywords": [
+      "intermembrane space"
+     ],
+     "distractors": [
+      "Mitochondrial matrix",
+      "Cytoplasm",
+      "Thylakoid lumen"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar zanjire-ye enteghal-e electron dar ghesha-ye darooni-ye rakize, enerji-ye jabejayi-ye electron-ha sarf-e pomp kardan-e proton-ha be kodam faza-ye rakize mishavad?",
+     "grading_key": "- [1] Faza-ye beyn-e do ghesha",
+     "final_resolution": "Faza-ye beyn-e do ghesha",
+     "notes": "",
+     "keywords": [
+      "faza-ye beyn-e do ghesha"
+     ],
+     "distractors": [
+      "Bakhsh-e dakheli-ye rakize (matrix)",
+      "Miyan-yakhte (cytoplasm)",
+      "Faza-ye daroon-e thylakoid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 921,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بنابر نظریهٔ برونستد-لوری، ماده‌ای که در یک واکنش شیمیایی پروتون (⁦H⁺⁩) می‌گیرد چه نام دارد؟",
+     "grading_key": "- [1] باز برونستد-لوری",
+     "final_resolution": "باز برونستد-لوری",
+     "notes": "",
+     "keywords": [
+      "باز برونستد-لوری"
+     ],
+     "distractors": [
+      "اسید برونستد-لوری",
+      "اسید آرنیوس",
+      "یون تماشاگر"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Brønsted-Lowry theory, a substance that accepts a proton (H⁺) in a chemical reaction is called what?",
+     "grading_key": "- [1] Brønsted-Lowry base",
+     "final_resolution": "Brønsted-Lowry base",
+     "notes": "",
+     "keywords": [
+      "Brønsted-Lowry base"
+     ],
+     "distractors": [
+      "Brønsted-Lowry acid",
+      "Arrhenius acid",
+      "Spectator ion"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bena bar nazariye-ye Bronsted-Lowry, madde-i ke dar yek vakonesh-e shimiayi proton (H⁺) migirad che nam darad?",
+     "grading_key": "- [1] Baz-e Bronsted-Lowry",
+     "final_resolution": "Baz-e Bronsted-Lowry",
+     "notes": "",
+     "keywords": [
+      "baz-e Bronsted-Lowry"
+     ],
+     "distractors": [
+      "Acid-e Bronsted-Lowry",
+      "Acid-e Arrhenius",
+      "Yon-e tamashagar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 921,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی آهن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Corrosion of Iron)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi-ye Ahan)",
+    "pages": "52–55"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در خوردگی و زنگ‌زدن آهن در محیط مرطوب، گاز اکسیژن هوا همراه با مولکول‌های آب در کدام ناحیه کاهش می‌یابد؟",
+     "grading_key": "- [1] ناحیهٔ کاتدی (جای پراکسیژن)",
+     "final_resolution": "ناحیهٔ کاتدی (جای پراکسیژن)",
+     "notes": "",
+     "keywords": [
+      "ناحیهٔ کاتدی آهن"
+     ],
+     "distractors": [
+      "ناحیهٔ آندی (جای کم‌اکسیژن)",
+      "به‌طور یکنواخت در سراسر آهن",
+      "فقط درون لایهٔ زنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the corrosion (rusting) of iron in a moist environment, oxygen gas together with water molecules is reduced in which region?",
+     "grading_key": "- [1] The cathodic region (oxygen-rich area)",
+     "final_resolution": "The cathodic region (oxygen-rich area)",
+     "notes": "",
+     "keywords": [
+      "iron cathodic region"
+     ],
+     "distractors": [
+      "The anodic region (oxygen-poor area)",
+      "Evenly throughout the iron",
+      "Only inside the rust layer"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar khordegi va zang-zadan-e ahan dar mohit-e martoob, gaz-e oxygen-e hava hamrah ba molekul-haye ab dar kodam nahiye kahesh miyabad?",
+     "grading_key": "- [1] Nahiye-ye cathodi (jaye por-oxygen)",
+     "final_resolution": "Nahiye-ye cathodi (jaye por-oxygen)",
+     "notes": "",
+     "keywords": [
+      "nahiye-ye cathodi-ye ahan"
+     ],
+     "distractors": [
+      "Nahiye-ye anodi (jaye kam-oxygen)",
+      "Be tor-e yeknavakht dar sarasar-e ahan",
+      "Faghat daroon-e laye-ye zang"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 921,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با شتاب ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Acceleration)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Shetab-e Sabet)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "اگر نمودار مکان-زمان متحرکی که بر خط راست حرکت می‌کند یک سهمی (درجهٔ دوم) باشد، شتاب آن در طول حرکت چگونه است؟",
+     "grading_key": "- [1] ثابت و غیرصفر",
+     "final_resolution": "ثابت و غیرصفر",
+     "notes": "",
+     "keywords": [
+      "شتاب ثابت"
+     ],
+     "distractors": [
+      "صفر",
+      "به‌طور خطی با زمان افزایش می‌یابد",
+      "با جابه‌جایی نسبت وارون دارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "If the position-time graph of an object moving along a straight line is a parabola (second degree), what is its acceleration during the motion?",
+     "grading_key": "- [1] Constant and non-zero",
+     "final_resolution": "Constant and non-zero",
+     "notes": "",
+     "keywords": [
+      "constant acceleration"
+     ],
+     "distractors": [
+      "Zero",
+      "Increasing linearly with time",
+      "Inversely proportional to displacement"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Agar nemoodar-e makan-zaman-e motaharreki ke bar khatt-e rast harekat mikonad yek sahmi (daraje-ye dovom) bashad, shetab-ash dar tool-e harekat chegoone ast?",
+     "grading_key": "- [1] Sabet va gheyr-e sefr",
+     "final_resolution": "Sabet va gheyr-e sefr",
+     "notes": "",
+     "keywords": [
+      "shetab-e sabet"
+     ],
+     "distractors": [
+      "Sefr",
+      "Be tor-e khatti ba zaman afzayesh miyabad",
+      "Ba jabejayi nesbat-e varun darad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 921,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Light)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی پرتو نور از هوا وارد محیط شفافی مانند شیشه با ضریب شکست بزرگ‌تر از یک (⁦n > 1⁩) می‌شود، طول موج آن چه تغییری می‌کند؟",
+     "grading_key": "- [1] کم می‌شود (⁦λ′ = λ/n⁩)",
+     "final_resolution": "کم می‌شود (⁦λ′ = λ/n⁩)",
+     "notes": "",
+     "keywords": [
+      "شکست نور"
+     ],
+     "distractors": [
+      "زیاد می‌شود (⁦λ′ = nλ⁩)",
+      "تغییر نمی‌کند",
+      "همراه با بسامد دو برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a light ray passes from air into a transparent medium such as glass with a refractive index greater than one (n > 1), how does its wavelength change?",
+     "grading_key": "- [1] It decreases (λ′ = λ/n)",
+     "final_resolution": "It decreases (λ′ = λ/n)",
+     "notes": "",
+     "keywords": [
+      "light refraction"
+     ],
+     "distractors": [
+      "It increases (λ′ = nλ)",
+      "It does not change",
+      "It doubles, along with the frequency"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti partov-e noor az hava vared-e mohit-e shaffafi manand-e shishe ba zarib-e shekast-e bozorg-tar az yek (n > 1) mishavad, tool-e moj-ash che taghyiri mikonad?",
+     "grading_key": "- [1] Kam mishavad (λ′ = λ/n)",
+     "final_resolution": "Kam mishavad (λ′ = λ/n)",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor"
+     ],
+     "distractors": [
+      "Ziad mishavad (λ′ = nλ)",
+      "Taghyir nemikonad",
+      "Hamrah ba basamad do barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 921,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ گذشتهٔ کامل را برای کامل کردن جمله انتخاب کنید:\n⁦'The valuable antique book _______ safely before the fire spread.'⁩",
+     "grading_key": "- [1] ⁦had been saved⁩",
+     "final_resolution": "⁦had been saved⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ کامل مجهول"
+     ],
+     "distractors": [
+      "⁦has been saved⁩",
+      "⁦was saving⁩",
+      "⁦had saved⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct past perfect passive form to complete the sentence:\n'The valuable antique book _______ safely before the fire spread.'",
+     "grading_key": "- [1] had been saved",
+     "final_resolution": "had been saved",
+     "notes": "",
+     "keywords": [
+      "past perfect passive"
+     ],
+     "distractors": [
+      "has been saved",
+      "was saving",
+      "had saved"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye kamel ra baraye kamel kardan-e jomle entekhab konid:\n'The valuable antique book _______ safely before the fire spread.'",
+     "grading_key": "- [1] had been saved",
+     "final_resolution": "had been saved",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye kamel-e majhool"
+     ],
+     "distractors": [
+      "has been saved",
+      "was saving",
+      "had saved"
+     ]
+    }
+   }
+  }
+ ]
+}
