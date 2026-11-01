@@ -1,0 +1,433 @@
+{
+ "version": 42,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 935,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در یاخته‌های یوکاریوتی، رونویسی از ژن‌های رنای رِناتنی (⁦rRNA⁩) را کدام رنابسپاراز انجام می‌دهد؟",
+     "grading_key": "- [1] رنابسپاراز ۱",
+     "final_resolution": "رنابسپاراز ۱",
+     "notes": "",
+     "keywords": [
+      "رنابسپاراز ۱"
+     ],
+     "distractors": [
+      "رنابسپاراز ۲",
+      "رنابسپاراز ۳",
+      "هلیکاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In eukaryotic cells, which RNA polymerase transcribes the genes for ribosomal RNA (rRNA)?",
+     "grading_key": "- [1] RNA polymerase I",
+     "final_resolution": "RNA polymerase I",
+     "notes": "",
+     "keywords": [
+      "RNA polymerase I"
+     ],
+     "distractors": [
+      "RNA polymerase II",
+      "RNA polymerase III",
+      "Helicase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar yakhte-haye eukaryoti, ronevisi az zhen-haye RNA-ye ribosomi (rRNA) ra kodam RNA-basparaz anjam midahad?",
+     "grading_key": "- [1] RNA-basparaz 1",
+     "final_resolution": "RNA-basparaz 1",
+     "notes": "",
+     "keywords": [
+      "RNA-basparaz 1"
+     ],
+     "distractors": [
+      "RNA-basparaz 2",
+      "RNA-basparaz 3",
+      "Helicase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 935,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (The Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Charkhe-ye Krebs)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "چرخهٔ کربس افزون بر ناقل‌های الکترون (⁦NADH⁩ و ⁦FADH₂⁩)، به‌طور مستقیم کدام مولکول انرژی‌زای رایج یاخته را می‌سازد؟",
+     "grading_key": "- [1] ⁦ATP⁩",
+     "final_resolution": "⁦ATP⁩",
+     "notes": "",
+     "keywords": [
+      "چرخهٔ کربس"
+     ],
+     "distractors": [
+      "⁦NADPH⁩",
+      "گلوکز",
+      "پیرووات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Besides its electron carriers (NADH and FADH₂), which common energy molecule of the cell does the Krebs cycle make directly?",
+     "grading_key": "- [1] ATP",
+     "final_resolution": "ATP",
+     "notes": "",
+     "keywords": [
+      "Krebs cycle"
+     ],
+     "distractors": [
+      "NADPH",
+      "Glucose",
+      "Pyruvate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Charkhe-ye Krebs afzoon bar naghel-haye electron (NADH va FADH₂), be tor-e mostaghim kodam molekul-e enerji-za-ye rayej-e yakhte ra misazad?",
+     "grading_key": "- [1] ATP",
+     "final_resolution": "ATP",
+     "notes": "",
+     "keywords": [
+      "charkhe-ye Krebs"
+     ],
+     "distractors": [
+      "NADPH",
+      "Glucose",
+      "Pyruvate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 935,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بنابر نظریهٔ برونستد-لوری، به گونه‌ای که پس از پذیرفتن یک پروتون (⁦H⁺⁩) توسط یک باز پدید می‌آید چه می‌گویند؟",
+     "grading_key": "- [1] اسید مزدوج",
+     "final_resolution": "اسید مزدوج",
+     "notes": "",
+     "keywords": [
+      "اسید مزدوج"
+     ],
+     "distractors": [
+      "باز مزدوج",
+      "اسید آرنیوس",
+      "یون تماشاگر"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Brønsted-Lowry theory, what is the species called that forms after a base accepts a proton (H⁺)?",
+     "grading_key": "- [1] Conjugate acid",
+     "final_resolution": "Conjugate acid",
+     "notes": "",
+     "keywords": [
+      "conjugate acid"
+     ],
+     "distractors": [
+      "Conjugate base",
+      "Arrhenius acid",
+      "Spectator ion"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bena bar nazariye-ye Bronsted-Lowry, be goone-i ke pas az pazireftan-e yek proton (H⁺) tavassot-e yek baz padid miayad che miguyand?",
+     "grading_key": "- [1] Acid-e mozdavaj",
+     "final_resolution": "Acid-e mozdavaj",
+     "notes": "",
+     "keywords": [
+      "asid-e mozdavaj"
+     ],
+     "distractors": [
+      "Baz-e mozdavaj",
+      "Acid-e Arrhenius",
+      "Yon-e tamashagar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 935,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی فلزها)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Corrosion of Metals)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi-ye Felez-ha)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در حفاظت کاتدی از لوله‌های آهنی زیرزمینی، کدام فلز معمولاً به‌عنوان آند فداشونده به لوله وصل می‌شود؟",
+     "grading_key": "- [1] منیزیم (⁦Mg⁩) یا روی (⁦Zn⁩)",
+     "final_resolution": "منیزیم (⁦Mg⁩) یا روی (⁦Zn⁩)",
+     "notes": "",
+     "keywords": [
+      "آند فداشونده"
+     ],
+     "distractors": [
+      "مس (⁦Cu⁩)",
+      "نقره (⁦Ag⁩)",
+      "طلا (⁦Au⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In cathodic protection of underground iron pipes, which metal is usually connected to the pipe as a sacrificial anode?",
+     "grading_key": "- [1] Magnesium (Mg) or zinc (Zn)",
+     "final_resolution": "Magnesium (Mg) or zinc (Zn)",
+     "notes": "",
+     "keywords": [
+      "sacrificial anode"
+     ],
+     "distractors": [
+      "Copper (Cu)",
+      "Silver (Ag)",
+      "Gold (Au)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar hefazat-e cathodi az loole-haye ahani-ye zirzamini, kodam felez maamoolan be onvan-e anode-e fada-shavande be loole vasl mishavad?",
+     "grading_key": "- [1] Magnesium (Mg) ya rooy (Zn)",
+     "final_resolution": "Magnesium (Mg) ya rooy (Zn)",
+     "notes": "",
+     "keywords": [
+      "anode-e fada-shavande"
+     ],
+     "distractors": [
+      "Mes (Cu)",
+      "Noghre (Ag)",
+      "Tala (Au)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 935,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با شتاب ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Acceleration)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Shetab-e Sabet)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت بر خط راست با شتاب ثابت، نمودار سرعت-زمان (⁦v-t⁩) متحرک چه شکلی دارد؟",
+     "grading_key": "- [1] خطی راست و شیب‌دار",
+     "final_resolution": "خطی راست و شیب‌دار",
+     "notes": "",
+     "keywords": [
+      "نمودار سرعت-زمان"
+     ],
+     "distractors": [
+      "خطی افقی",
+      "سهمی",
+      "خطی قائم"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In straight-line motion with constant acceleration, what does the velocity-time (v-t) graph of the object look like?",
+     "grading_key": "- [1] A sloping straight line",
+     "final_resolution": "A sloping straight line",
+     "notes": "",
+     "keywords": [
+      "velocity-time graph"
+     ],
+     "distractors": [
+      "A horizontal line",
+      "A parabola",
+      "A vertical line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat bar khatt-e rast ba shetab-e sabet, nemoodar-e sorat-zaman (v-t)-e motaharrek che shekli darad?",
+     "grading_key": "- [1] Khatti rast va shib-dar",
+     "final_resolution": "Khatti rast va shib-dar",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e sorat-zaman"
+     ],
+     "distractors": [
+      "Khatti ofoghi",
+      "Sahmi",
+      "Khatti ghaem"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 935,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (تشدید)",
+    "en": "Chapter 3: Oscillations and Waves (Resonance)",
+    "tr": "Fasl 3: Navasan va Moj (Tashdid)",
+    "pages": "60–63"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی بسامد یک نیروی خارجی متناوب با بسامد طبیعی یک نوسانگر برابر شود، دامنهٔ نوسان به‌شدت زیاد می‌شود. این پدیده چه نام دارد؟",
+     "grading_key": "- [1] تشدید",
+     "final_resolution": "تشدید",
+     "notes": "",
+     "keywords": [
+      "تشدید"
+     ],
+     "distractors": [
+      "پراش",
+      "شکست",
+      "تداخل"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When the frequency of a periodic external force matches the natural frequency of an oscillator, the amplitude grows sharply. What is this called?",
+     "grading_key": "- [1] Resonance",
+     "final_resolution": "Resonance",
+     "notes": "",
+     "keywords": [
+      "resonance"
+     ],
+     "distractors": [
+      "Diffraction",
+      "Refraction",
+      "Interference"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti basamad-e yek niroo-ye khareji-ye motenaveb ba basamad-e tabiei-ye yek navasan-gar barabar shavad, damane-ye navasan be-shedat ziad mishavad. In padide che nam darad?",
+     "grading_key": "- [1] Tashdid",
+     "final_resolution": "Tashdid",
+     "notes": "",
+     "keywords": [
+      "tashdid"
+     ],
+     "distractors": [
+      "Parash",
+      "Shekast",
+      "Tadakhol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 935,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'We should never _______ our elderly parents when they grow old and need our help.'⁩",
+     "grading_key": "- [1] ⁦neglect⁩",
+     "final_resolution": "⁦neglect⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦appreciate⁩",
+      "⁦protect⁩",
+      "⁦generate⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'We should never _______ our elderly parents when they grow old and need our help.'",
+     "grading_key": "- [1] neglect",
+     "final_resolution": "neglect",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "appreciate",
+      "protect",
+      "generate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'We should never _______ our elderly parents when they grow old and need our help.'",
+     "grading_key": "- [1] neglect",
+     "final_resolution": "neglect",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "appreciate",
+      "protect",
+      "generate"
+     ]
+    }
+   }
+  }
+ ]
+}
