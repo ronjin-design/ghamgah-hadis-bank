@@ -1,0 +1,433 @@
+{
+ "version": 21,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 914,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "کدام بخش از آنزیم رنابسپاراز (⁦RNA⁩ پلیمراز) پروکاریوتی، توالی راه‌انداز (پروموتر) را روی دنا شناسایی می‌کند؟",
+     "grading_key": "- [1] عامل سیگما (⁦σ⁩)",
+     "final_resolution": "عامل سیگما (⁦σ⁩)",
+     "notes": "",
+     "keywords": [
+      "عامل سیگما"
+     ],
+     "distractors": [
+      "زیرواحد آلفای آنزیم مرکزی",
+      "زیرواحد بتای پریم",
+      "عامل پایان رو"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Which part of prokaryotic RNA polymerase is responsible for the initial recognition of the promoter sequence on DNA?",
+     "grading_key": "- [1] Sigma factor (σ)",
+     "final_resolution": "Sigma factor (σ)",
+     "notes": "",
+     "keywords": [
+      "sigma factor"
+     ],
+     "distractors": [
+      "Core enzyme alpha subunit",
+      "Beta prime (β') subunit",
+      "Rho termination factor"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Kodam bakhsh az anzim-e RNA-basparaz (RNA polymerase)-e prokaryoti, tavali-ye rah-andaz (promoter) ra rooy-e DNA shenasayi mikonad?",
+     "grading_key": "- [1] Amel-e sigma (σ)",
+     "final_resolution": "Amel-e sigma (σ)",
+     "notes": "",
+     "keywords": [
+      "amel-e sigma"
+     ],
+     "distractors": [
+      "Zirvahed-e alfa-ye anzim-e markazi",
+      "Zirvahed-e beta-ye prim",
+      "Amel-e payan-e Rho"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 914,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (اکسایش پیرووات و چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (Pyruvate Oxidation and the Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Charkhe-ye Krebs)",
+    "pages": "70–73"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در چرخهٔ کربس، استیل کوآنزیم آ ابتدا با کدام ترکیب چهارکربنی ترکیب می‌شود تا سیتریک اسید شش‌کربنی ساخته شود؟",
+     "grading_key": "- [1] اگزالواستات",
+     "final_resolution": "اگزالواستات",
+     "notes": "",
+     "keywords": [
+      "اگزالواستات"
+     ],
+     "distractors": [
+      "پیرووات",
+      "مالات",
+      "سوکسینات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the Krebs cycle, which 4-carbon compound does acetyl-CoA first combine with to form 6-carbon citric acid?",
+     "grading_key": "- [1] Oxaloacetate",
+     "final_resolution": "Oxaloacetate",
+     "notes": "",
+     "keywords": [
+      "oxaloacetate"
+     ],
+     "distractors": [
+      "Pyruvate",
+      "Malate",
+      "Succinate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar charkhe-ye Krebs, acetyl coenzyme A ebteda ba kodam tarkib-e chahar-karbani tarkib mishavad ta citric acid-e shesh-karbani sakhte shavad?",
+     "grading_key": "- [1] Oxaloacetate",
+     "final_resolution": "Oxaloacetate",
+     "notes": "",
+     "keywords": [
+      "oxaloacetate"
+     ],
+     "distractors": [
+      "Pyruvate",
+      "Malate",
+      "Succinate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1398-Dey",
+   "number": 914,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (مفهوم pH و محلول‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (pH and Solutions)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (pH va Mahlool-ha)",
+    "pages": "24–27"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "محلولی که مقدار کمی اسید یا باز قوی افزوده‌شده را خنثی می‌کند و از تغییر شدید ⁦pH⁩ جلوگیری می‌کند چه نام دارد؟",
+     "grading_key": "- [1] محلول بافر (تامپون)",
+     "final_resolution": "محلول بافر (تامپون)",
+     "notes": "",
+     "keywords": [
+      "محلول بافر"
+     ],
+     "distractors": [
+      "محلول سیرشده",
+      "محلول خورنده",
+      "محلول الکترولیت"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "A solution that neutralizes small amounts of added strong acid or base, preventing a sharp change in pH, is called what?",
+     "grading_key": "- [1] Buffer solution",
+     "final_resolution": "Buffer solution",
+     "notes": "",
+     "keywords": [
+      "buffer solution"
+     ],
+     "distractors": [
+      "Saturated solution",
+      "Corrosive solution",
+      "Electrolyte solution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Mahlooli ke meghdar-e kami acid ya baz-e ghavi-ye afzoode-shode ra khonsa mikonad va az taghyir-e shadid-e pH jelogiri mikonad che nam darad?",
+     "grading_key": "- [1] Mahlool-e bafer (tampon)",
+     "final_resolution": "Mahlool-e bafer (tampon)",
+     "notes": "",
+     "keywords": [
+      "mahlool-e bafer"
+     ],
+     "distractors": [
+      "Mahlool-e sir-shode",
+      "Mahlool-e khorande",
+      "Mahlool-e electrolyte"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 914,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت سدیم کلرید مذاب)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis of Molten Sodium Chloride)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft-e Sodium Chloride)",
+    "pages": "60–63"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در سلول صنعتی داونز برای برقکافت سدیم کلرید مذاب، کدام گاز سمی و واکنش‌پذیر در آند آزاد می‌شود؟",
+     "grading_key": "- [1] گاز کلر (⁦Cl₂⁩)",
+     "final_resolution": "گاز کلر (⁦Cl₂⁩)",
+     "notes": "",
+     "keywords": [
+      "گاز کلر"
+     ],
+     "distractors": [
+      "گاز هیدروژن (⁦H₂⁩)",
+      "بخار سدیم (⁦Na⁩)",
+      "گاز اکسیژن (⁦O₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial Downs cell for the electrolysis of molten sodium chloride, which toxic, reactive gas is released at the anode?",
+     "grading_key": "- [1] Chlorine gas (Cl₂)",
+     "final_resolution": "Chlorine gas (Cl₂)",
+     "notes": "",
+     "keywords": [
+      "chlorine gas"
+     ],
+     "distractors": [
+      "Hydrogen gas (H₂)",
+      "Sodium vapour (Na)",
+      "Oxygen gas (O₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar selool-e sanati-ye Downs baraye barghkaft-e sodium chloride-e mozab, kodam gaz-e sammi va vakonesh-pazir dar anode azad mishavad?",
+     "grading_key": "- [1] Gaz-e chlor (Cl₂)",
+     "final_resolution": "Gaz-e chlor (Cl₂)",
+     "notes": "",
+     "keywords": [
+      "gaz-e chlor"
+     ],
+     "distractors": [
+      "Gaz-e hydrogen (H₂)",
+      "Bokhar-e sodium (Na)",
+      "Gaz-e oxygen (O₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 914,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با شتاب ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Acceleration)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Shetab-e Sabet)",
+    "pages": "16–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت بر خط راست با شتاب ثابت، مسافت طی‌شدهٔ متحرکی که از حال سکون به راه می‌افتد با کدام کمیت متناسب است؟",
+     "grading_key": "- [1] مجذور زمان (⁦t²⁩)",
+     "final_resolution": "مجذور زمان (⁦t²⁩)",
+     "notes": "",
+     "keywords": [
+      "حرکت با شتاب ثابت"
+     ],
+     "distractors": [
+      "زمان (⁦t⁩)",
+      "جذر زمان (⁦√t⁩)",
+      "وارون زمان (⁦1/t⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In straight-line motion with constant acceleration, the distance travelled by an object starting from rest is proportional to what?",
+     "grading_key": "- [1] The square of the time (t²)",
+     "final_resolution": "The square of the time (t²)",
+     "notes": "",
+     "keywords": [
+      "constant acceleration motion"
+     ],
+     "distractors": [
+      "The time (t)",
+      "The square root of the time (√t)",
+      "The inverse of the time (1/t)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat bar khatt-e rast ba shetab-e sabet, masafat-e tey-shode-ye motaharreki ke az hal-e sokoon be rah miofted ba kodam kamiyat motenaseb ast?",
+     "grading_key": "- [1] Majzoor-e zaman (t²)",
+     "final_resolution": "Majzoor-e zaman (t²)",
+     "notes": "",
+     "keywords": [
+      "harekat ba shetab-e sabet"
+     ],
+     "distractors": [
+      "Zaman (t)",
+      "Jazr-e zaman (√t)",
+      "Varun-e zaman (1/t)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 914,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (جبههٔ موج)",
+    "en": "Chapter 3: Oscillations and Waves (Wavefronts)",
+    "tr": "Fasl 3: Navasan va Moj (Jebhe-ye Moj)",
+    "pages": "74–77"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "مکان هندسی همهٔ نقطه‌هایی از محیط که در یک لحظهٔ معین فاز نوسانی یکسانی دارند چه نام دارد؟",
+     "grading_key": "- [1] جبههٔ موج",
+     "final_resolution": "جبههٔ موج",
+     "notes": "",
+     "keywords": [
+      "جبههٔ موج"
+     ],
+     "distractors": [
+      "طول موج",
+      "دره (پایین‌ترین نقطهٔ موج)",
+      "خط گره"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the locus of all points in a medium that have the same phase of vibration at a given instant called?",
+     "grading_key": "- [1] Wavefront",
+     "final_resolution": "Wavefront",
+     "notes": "",
+     "keywords": [
+      "wavefront"
+     ],
+     "distractors": [
+      "Wavelength",
+      "Wave trough",
+      "Nodal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Makan-e hendesi-ye hame-ye noghte-hayi az mohit ke dar yek lahze-ye moayyan faz-e navasani-ye yeksani darand che nam darad?",
+     "grading_key": "- [1] Jebhe-ye moj",
+     "final_resolution": "Jebhe-ye moj",
+     "notes": "",
+     "keywords": [
+      "jebhe-ye moj"
+     ],
+     "distractors": [
+      "Tool-e moj",
+      "Darre",
+      "Khatt-e gereh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 914,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ حال کامل را برای کامل کردن جمله انتخاب کنید:\n⁦'Several important steps _______ recently by the team to improve the app.'⁩",
+     "grading_key": "- [1] ⁦have been taken⁩",
+     "final_resolution": "⁦have been taken⁩",
+     "notes": "",
+     "keywords": [
+      "حال کامل مجهول"
+     ],
+     "distractors": [
+      "⁦has been taken⁩",
+      "⁦have taken⁩",
+      "⁦are taking⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct present perfect passive form to complete the sentence:\n'Several important steps _______ recently by the team to improve the app.'",
+     "grading_key": "- [1] have been taken",
+     "final_resolution": "have been taken",
+     "notes": "",
+     "keywords": [
+      "present perfect passive"
+     ],
+     "distractors": [
+      "has been taken",
+      "have taken",
+      "are taking"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e hal-e kamel ra baraye kamel kardan-e jomle entekhab konid:\n'Several important steps _______ recently by the team to improve the app.'",
+     "grading_key": "- [1] have been taken",
+     "final_resolution": "have been taken",
+     "notes": "",
+     "keywords": [
+      "hal-e kamel-e majhool"
+     ],
+     "distractors": [
+      "has been taken",
+      "have taken",
+      "are taking"
+     ]
+    }
+   }
+  }
+ ]
+}
