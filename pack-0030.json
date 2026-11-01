@@ -1,0 +1,433 @@
+{
+ "version": 30,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 923,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۲: تغییر در تعداد کروموزوم‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 2: Changes in Chromosome Number)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 2)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "کدام نوع آنوپلوئیدی در انسان، به دلیل وجود یک کروموزوم شمارهٔ ۲۱ اضافی، نشانگان داون را پدید می‌آورد؟",
+     "grading_key": "- [1] تریزومی",
+     "final_resolution": "تریزومی",
+     "notes": "",
+     "keywords": [
+      "تریزومی ۲۱"
+     ],
+     "distractors": [
+      "مونوزومی",
+      "پلی‌پلوئیدی",
+      "تریپلوئیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Which type of aneuploidy in humans causes Down syndrome through an extra chromosome 21?",
+     "grading_key": "- [1] Trisomy",
+     "final_resolution": "Trisomy",
+     "notes": "",
+     "keywords": [
+      "trisomy 21"
+     ],
+     "distractors": [
+      "Monosomy",
+      "Polyploidy",
+      "Triploidy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Kodam no aneuploidy dar ensan, be dalil-e vojood-e yek chromosome-e shomare-ye 21-e ezafi, neshangan-e Down ra padid miavarad?",
+     "grading_key": "- [1] Trisomy",
+     "final_resolution": "Trisomy",
+     "notes": "",
+     "keywords": [
+      "trisomy 21"
+     ],
+     "distractors": [
+      "Monosomy",
+      "Polyploidy",
+      "Triploidy"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 923,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در تنفس یاخته‌ای هوازی، کدام مولکول حامل الکترون پرانرژی است و با دادن الکترون به زنجیرهٔ غشای راکیزه بیشترین ⁦ATP⁩ را به ازای هر مولکول پدید می‌آورد؟",
+     "grading_key": "- [1] ⁦NADH⁩",
+     "final_resolution": "⁦NADH⁩",
+     "notes": "",
+     "keywords": [
+      "ناقل الکترون NADH"
+     ],
+     "distractors": [
+      "⁦FADH₂⁩",
+      "پیرووات",
+      "⁦ADP⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In aerobic cellular respiration, which molecule is a high-energy electron carrier that yields the most ATP per molecule when it donates electrons to the mitochondrial membrane chain?",
+     "grading_key": "- [1] NADH",
+     "final_resolution": "NADH",
+     "notes": "",
+     "keywords": [
+      "NADH electron carrier"
+     ],
+     "distractors": [
+      "FADH₂",
+      "Pyruvate",
+      "ADP"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar tanaffos-e yakhte-i-ye havazi, kodam molekul hamel-e electron-e por-enerji ast va ba dadan-e electron be zanjire-ye ghesha-ye rakize bishtarin ATP ra be azay-e har molekul padid miavarad?",
+     "grading_key": "- [1] NADH",
+     "final_resolution": "NADH",
+     "notes": "",
+     "keywords": [
+      "naghel-e electron NADH"
+     ],
+     "distractors": [
+      "FADH₂",
+      "Pyruvate",
+      "ADP"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 923,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بنابر نظریهٔ برونستد-لوری، به گونه‌ای که پس از دادن یک پروتون (⁦H⁺⁩) از یک اسید باقی می‌ماند چه می‌گویند؟",
+     "grading_key": "- [1] باز مزدوج",
+     "final_resolution": "باز مزدوج",
+     "notes": "",
+     "keywords": [
+      "باز مزدوج"
+     ],
+     "distractors": [
+      "اسید مزدوج",
+      "باز آرنیوس",
+      "یون تماشاگر"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Brønsted-Lowry theory, what is the species called that remains after an acid donates a proton (H⁺)?",
+     "grading_key": "- [1] Conjugate base",
+     "final_resolution": "Conjugate base",
+     "notes": "",
+     "keywords": [
+      "conjugate base"
+     ],
+     "distractors": [
+      "Conjugate acid",
+      "Arrhenius base",
+      "Spectator ion"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bena bar nazariye-ye Bronsted-Lowry, be goone-i ke pas az dadan-e yek proton (H⁺) az yek acid baghi mimanad che miguyand?",
+     "grading_key": "- [1] Baz-e mozdavaj",
+     "final_resolution": "Baz-e mozdavaj",
+     "notes": "",
+     "keywords": [
+      "baz-e mozdavaj"
+     ],
+     "distractors": [
+      "Acid-e mozdavaj",
+      "Baz-e Arrhenius",
+      "Yon-e tamashagar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 923,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (سلول الکترولیتی)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolytic Cells)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Selool-e Electrolyti)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در یک سلول الکترولیتی، الکترون‌ها در مدار بیرونی همواره در کدام جهت حرکت می‌کنند؟",
+     "grading_key": "- [1] از آند به کاتد",
+     "final_resolution": "از آند به کاتد",
+     "notes": "",
+     "keywords": [
+      "سلول الکترولیتی"
+     ],
+     "distractors": [
+      "از کاتد به آند",
+      "از درون پل نمکی",
+      "به‌طور متناوب در هر دو جهت"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In an electrolytic cell, in which direction do electrons always flow through the external circuit?",
+     "grading_key": "- [1] From the anode to the cathode",
+     "final_resolution": "From the anode to the cathode",
+     "notes": "",
+     "keywords": [
+      "electrolytic cell"
+     ],
+     "distractors": [
+      "From the cathode to the anode",
+      "Through the salt bridge",
+      "Both ways, alternating"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar yek selool-e electrolyti, electron-ha dar madar-e biruni hamvare dar kodam jahat harekat mikonand?",
+     "grading_key": "- [1] Az anode be cathode",
+     "final_resolution": "Az anode be cathode",
+     "notes": "",
+     "keywords": [
+      "selool-e electrolyti"
+     ],
+     "distractors": [
+      "Az cathode be anode",
+      "Az daroon-e pol-e namaki",
+      "Be tor-e motenaveb dar har do jahat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Dey",
+   "number": 923,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "تکانهٔ خطی (⁦p = mv⁩) با کدام ویژگی حرکتی جسم نسبت مستقیم و خطی دارد؟",
+     "grading_key": "- [1] سرعت (⁦v⁩)",
+     "final_resolution": "سرعت (⁦v⁩)",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی"
+     ],
+     "distractors": [
+      "شتاب (⁦a⁩)",
+      "مجذور سرعت (⁦v²⁩)",
+      "مسافت کل پیموده‌شده"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "Linear momentum (p = mv) is directly and linearly proportional to which property of the moving object?",
+     "grading_key": "- [1] Velocity (v)",
+     "final_resolution": "Velocity (v)",
+     "notes": "",
+     "keywords": [
+      "linear momentum"
+     ],
+     "distractors": [
+      "Acceleration (a)",
+      "The square of the velocity (v²)",
+      "Total distance travelled"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Takane-ye khatti (p = mv) ba kodam vizhegi-ye harekati-ye jesm nesbat-e mostaghim va khatti darad?",
+     "grading_key": "- [1] Sorat (v)",
+     "final_resolution": "Sorat (v)",
+     "notes": "",
+     "keywords": [
+      "takaneh-ye khatti"
+     ],
+     "distractors": [
+      "Shetab (a)",
+      "Majzoor-e sorat (v²)",
+      "Masafat-e kol-e peymoode-shode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 923,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (ساختار هسته)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Structure of the Nucleus)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Sakhtar-e Hasteh)",
+    "pages": "100–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "مجموع شمار پروتون‌ها و نوترون‌های هستهٔ یک اتم، کدام کمیت را نشان می‌دهد؟",
+     "grading_key": "- [1] عدد جرمی (⁦A⁩)",
+     "final_resolution": "عدد جرمی (⁦A⁩)",
+     "notes": "",
+     "keywords": [
+      "عدد جرمی"
+     ],
+     "distractors": [
+      "عدد اتمی (⁦Z⁩)",
+      "عدد نوترونی (⁦N⁩)",
+      "کاستی جرم"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "The total number of protons and neutrons in an atomic nucleus is which quantity?",
+     "grading_key": "- [1] Mass number (A)",
+     "final_resolution": "Mass number (A)",
+     "notes": "",
+     "keywords": [
+      "mass number"
+     ],
+     "distractors": [
+      "Atomic number (Z)",
+      "Neutron number (N)",
+      "Mass defect"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Majmoo-e shomar-e proton-ha va neutron-haye haste-ye yek atom, kodam kamiyat ra neshan midahad?",
+     "grading_key": "- [1] Adad-e jermi (A)",
+     "final_resolution": "Adad-e jermi (A)",
+     "notes": "",
+     "keywords": [
+      "adad-e jermi"
+     ],
+     "distractors": [
+      "Adad-e atomi (Z)",
+      "Adad-e neutroni (N)",
+      "Kasti-ye jerm"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 923,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Children should learn to _______ their teachers for their hard work and dedication.'⁩",
+     "grading_key": "- [1] ⁦appreciate⁩",
+     "final_resolution": "⁦appreciate⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦forgive⁩",
+      "⁦shout⁩",
+      "⁦burst⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'Children should learn to _______ their teachers for their hard work and dedication.'",
+     "grading_key": "- [1] appreciate",
+     "final_resolution": "appreciate",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "forgive",
+      "shout",
+      "burst"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Children should learn to _______ their teachers for their hard work and dedication.'",
+     "grading_key": "- [1] appreciate",
+     "final_resolution": "appreciate",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "forgive",
+      "shout",
+      "burst"
+     ]
+    }
+   }
+  }
+ ]
+}
