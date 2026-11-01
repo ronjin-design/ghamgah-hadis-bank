@@ -1,0 +1,433 @@
+{
+ "version": 31,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 924,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بنابر قواعد جفت شدن بازها در مولکول دنا (⁦DNA⁩)، میان بازهای مکمل گوانین و سیتوزین چند پیوند هیدروژنی تشکیل می‌شود؟",
+     "grading_key": "- [1] ۳",
+     "final_resolution": "۳",
+     "notes": "",
+     "keywords": [
+      "پیوند هیدروژنی بازها"
+     ],
+     "distractors": [
+      "۲",
+      "۱",
+      "۴"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "By the base-pairing rules in DNA, how many hydrogen bonds form between the complementary bases guanine and cytosine?",
+     "grading_key": "- [1] 3",
+     "final_resolution": "3",
+     "notes": "",
+     "keywords": [
+      "base hydrogen bonding"
+     ],
+     "distractors": [
+      "2",
+      "1",
+      "4"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Bena bar ghavaed-e joft shodan-e baz-ha dar molekul-e DNA, miyan-e baz-haye mokammel-e guanine va cytosine chand peyvand-e hidrozheni tashkil mishavad?",
+     "grading_key": "- [1] 3",
+     "final_resolution": "3",
+     "notes": "",
+     "keywords": [
+      "peyvand-e hidrozheni-ye baz-ha"
+     ],
+     "distractors": [
+      "2",
+      "1",
+      "4"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 924,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)",
+    "pages": "82–85"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در واکنش‌های وابسته به نور، انباشته شدن پروتون‌ها (⁦H⁺⁩) در فضای درون تیلاکوئید شیب غلظتی می‌سازد که انرژی کدام مجموعهٔ آنزیمی را فراهم می‌کند؟",
+     "grading_key": "- [1] ⁦ATP⁩ ساز",
+     "final_resolution": "⁦ATP⁩ ساز",
+     "notes": "",
+     "keywords": [
+      "ATP ساز"
+     ],
+     "distractors": [
+      "روبیسکو",
+      "⁦NADP⁺⁩ ردوکتاز",
+      "فسفوگلیسرات کیناز"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the light-dependent reactions, the build-up of protons (H⁺) in the thylakoid lumen creates a concentration gradient that powers which enzyme complex?",
+     "grading_key": "- [1] ATP synthase",
+     "final_resolution": "ATP synthase",
+     "notes": "",
+     "keywords": [
+      "ATP synthase"
+     ],
+     "distractors": [
+      "Rubisco",
+      "NADP⁺ reductase",
+      "Phosphoglycerate kinase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar vakonesh-haye vabaste be noor, anbashte shodan-e proton-ha (H⁺) dar faza-ye daroon-e thylakoid shib-e ghelzati misazad ke enerji-ye kodam majmoo-e-ye anzimi ra faraham mikonad?",
+     "grading_key": "- [1] ATP-saz",
+     "final_resolution": "ATP-saz",
+     "notes": "",
+     "keywords": [
+      "ATP-saz"
+     ],
+     "distractors": [
+      "Rubisco",
+      "NADP⁺ reductase",
+      "Phosphoglycerate kinase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1398-Dey",
+   "number": 924,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (صابون‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Soaps)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Saboon-ha)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "افزودن نمک خوراکی (⁦NaCl⁩) به مخلوط کلوئیدی صابون باعث جدا شدن و رسوب صابون از فاز مایع می‌شود. این پدیده چه نام دارد؟",
+     "grading_key": "- [1] نمک‌زنی (جداسازی با نمک)",
+     "final_resolution": "نمک‌زنی (جداسازی با نمک)",
+     "notes": "",
+     "keywords": [
+      "نمک‌زنی صابون"
+     ],
+     "distractors": [
+      "خنثی‌شدن اسیدی",
+      "صابونی شدن",
+      "امولسیون‌سازی"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Adding table salt (NaCl) to a colloidal soap mixture makes the soap separate and precipitate from the liquid. What is this called?",
+     "grading_key": "- [1] Salting out",
+     "final_resolution": "Salting out",
+     "notes": "",
+     "keywords": [
+      "salting-out effect"
+     ],
+     "distractors": [
+      "Acid neutralization",
+      "Saponification",
+      "Emulsification"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Afzoodan-e namak-e khoraki (NaCl) be makhloot-e colloidi-ye saboon baes-e joda shodan va rosoob-e saboon az faz-e maye mishavad. In padide che nam darad?",
+     "grading_key": "- [1] Namak-zani (jodasazi ba namak)",
+     "final_resolution": "Namak-zani (jodasazi ba namak)",
+     "notes": "",
+     "keywords": [
+      "namak-zani-ye saboon"
+     ],
+     "distractors": [
+      "Khonsa-shodan-e asidi",
+      "Saboonai shodan",
+      "Emulsion-sazi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 924,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (استخراج آلومینیم)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Extracting Aluminium)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Estekhraj-e Aluminium)",
+    "pages": "62–64"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در فرایند صنعتی هال برای استخراج آلومینیم، کدام ترکیب مذاب برای کاهش نقطهٔ ذوب آلومینا (⁦Al₂O₃⁩) به کار می‌رود؟",
+     "grading_key": "- [1] کریولیت (⁦Na₃AlF₆⁩)",
+     "final_resolution": "کریولیت (⁦Na₃AlF₆⁩)",
+     "notes": "",
+     "keywords": [
+      "فرایند هال"
+     ],
+     "distractors": [
+      "سدیم کلرید (⁦NaCl⁩)",
+      "منیزیم اکسید (⁦MgO⁩)",
+      "سیلیسیم دی‌اکسید (⁦SiO₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial Hall process for extracting aluminium, which molten compound is used to lower the melting point of alumina (Al₂O₃)?",
+     "grading_key": "- [1] Cryolite (Na₃AlF₆)",
+     "final_resolution": "Cryolite (Na₃AlF₆)",
+     "notes": "",
+     "keywords": [
+      "Hall process"
+     ],
+     "distractors": [
+      "Sodium chloride (NaCl)",
+      "Magnesium oxide (MgO)",
+      "Silicon dioxide (SiO₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar farayand-e sanati-ye Hall baraye estekhraj-e aluminium, kodam tarkib-e mozab baraye kahesh-e noghte-ye zob-e alumina (Al₂O₃) be kar miravad?",
+     "grading_key": "- [1] Cryolite (Na₃AlF₆)",
+     "final_resolution": "Cryolite (Na₃AlF₆)",
+     "notes": "",
+     "keywords": [
+      "farayand-e Hall"
+     ],
+     "distractors": [
+      "Sodium chloride (NaCl)",
+      "Magnesium oxide (MgO)",
+      "Silicon dioxide (SiO₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 924,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (سرعت متوسط)",
+    "en": "Chapter 1: Motion Along a Straight Line (Average Velocity)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Sorat-e Motavasset)",
+    "pages": "6–9"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "نسبت جابه‌جایی کل متحرک (⁦Δx⁩) به بازهٔ زمانی آن، کدام کمیت فیزیکی است؟",
+     "grading_key": "- [1] سرعت متوسط",
+     "final_resolution": "سرعت متوسط",
+     "notes": "",
+     "keywords": [
+      "سرعت متوسط"
+     ],
+     "distractors": [
+      "تندی متوسط",
+      "شتاب لحظه‌ای",
+      "تکانهٔ خطی"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "The ratio of an object's total displacement (Δx) to the time interval is which physical quantity?",
+     "grading_key": "- [1] Average velocity",
+     "final_resolution": "Average velocity",
+     "notes": "",
+     "keywords": [
+      "average velocity"
+     ],
+     "distractors": [
+      "Average speed",
+      "Instantaneous acceleration",
+      "Linear momentum"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Nesbat-e jabejayi-ye kol-e motaharrek (Δx) be baze-ye zamani-ash, kodam kamiyat-e fiziki ast?",
+     "grading_key": "- [1] Sorat-e motavasset",
+     "final_resolution": "Sorat-e motavasset",
+     "notes": "",
+     "keywords": [
+      "sorat-e motavasset"
+     ],
+     "distractors": [
+      "Tondi-ye motavasset",
+      "Shetab-e lahzei",
+      "Takane-ye khatti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 924,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (گسترهٔ شنوایی انسان)",
+    "en": "Chapter 3: Oscillations and Waves (Range of Human Hearing)",
+    "tr": "Fasl 3: Navasan va Moj (Gostare-ye Shenavayi)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "گسترهٔ بسامد صوت‌هایی که گوش یک انسان سالم به‌طور طبیعی می‌شنود کدام است؟",
+     "grading_key": "- [1] ⁦20 Hz – 20 000 Hz⁩",
+     "final_resolution": "⁦20 Hz – 20 000 Hz⁩",
+     "notes": "",
+     "keywords": [
+      "محدودهٔ شنوایی"
+     ],
+     "distractors": [
+      "⁦2 Hz – 2 000 Hz⁩",
+      "⁦200 Hz – 200 000 Hz⁩",
+      "⁦0.2 Hz – 20 Hz⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the frequency range of sound that a healthy human ear can normally hear?",
+     "grading_key": "- [1] 20 Hz – 20 000 Hz",
+     "final_resolution": "20 Hz – 20 000 Hz",
+     "notes": "",
+     "keywords": [
+      "audible frequency range"
+     ],
+     "distractors": [
+      "2 Hz – 2 000 Hz",
+      "200 Hz – 200 000 Hz",
+      "0.2 Hz – 20 Hz"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Gostare-ye basamad-e sot-hayi ke goosh-e yek ensan-e salem be tor-e tabiei mishenavad kodam ast?",
+     "grading_key": "- [1] 20 Hz – 20 000 Hz",
+     "final_resolution": "20 Hz – 20 000 Hz",
+     "notes": "",
+     "keywords": [
+      "mahdoodeh-ye shenavayi"
+     ],
+     "distractors": [
+      "2 Hz – 2 000 Hz",
+      "200 Hz – 200 000 Hz",
+      "0.2 Hz – 20 Hz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 924,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ حال ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'Every year, the hard-working teachers _______ by the school principal during the ceremony.'⁩",
+     "grading_key": "- [1] ⁦are appreciated⁩",
+     "final_resolution": "⁦are appreciated⁩",
+     "notes": "",
+     "keywords": [
+      "حال ساده مجهول"
+     ],
+     "distractors": [
+      "⁦is appreciated⁩",
+      "⁦appreciated⁩",
+      "⁦were appreciated⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct simple present passive form to complete the sentence:\n'Every year, the hard-working teachers _______ by the school principal during the ceremony.'",
+     "grading_key": "- [1] are appreciated",
+     "final_resolution": "are appreciated",
+     "notes": "",
+     "keywords": [
+      "simple present passive"
+     ],
+     "distractors": [
+      "is appreciated",
+      "appreciated",
+      "were appreciated"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e hal-e sade ra baraye kamel kardan-e jomle entekhab konid:\n'Every year, the hard-working teachers _______ by the school principal during the ceremony.'",
+     "grading_key": "- [1] are appreciated",
+     "final_resolution": "are appreciated",
+     "notes": "",
+     "keywords": [
+      "hal-e sade-ye majhool"
+     ],
+     "distractors": [
+      "is appreciated",
+      "appreciated",
+      "were appreciated"
+     ]
+    }
+   }
+  }
+ ]
+}
