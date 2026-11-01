@@ -1,0 +1,433 @@
+{
+ "version": 25,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 918,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در ساختار دوم پروتئین‌ها (مارپیچ و صفحه‌ای)، پیوندهای هیدروژنی میان کدام بخش‌های آمینواسیدها برقرار می‌شود؟",
+     "grading_key": "- [1] گروه‌های اسکلت پیوندهای پپتیدی (⁦C=O⁩ و ⁦N–H⁩)",
+     "final_resolution": "گروه‌های اسکلت پیوندهای پپتیدی (⁦C=O⁩ و ⁦N–H⁩)",
+     "notes": "",
+     "keywords": [
+      "ساختار دوم پروتئین"
+     ],
+     "distractors": [
+      "زنجیره‌های جانبی آب‌گریز",
+      "پل‌های دی‌سولفیدی میان سیستئین‌ها",
+      "گروه‌های متیل (⁦–CH₃⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In the secondary structure of proteins (helices and sheets), hydrogen bonds form between which parts of the amino acids?",
+     "grading_key": "- [1] The backbone groups of the peptide bonds (C=O and N–H)",
+     "final_resolution": "The backbone groups of the peptide bonds (C=O and N–H)",
+     "notes": "",
+     "keywords": [
+      "secondary protein structure"
+     ],
+     "distractors": [
+      "Hydrophobic side chains",
+      "Disulfide bridges between cysteines",
+      "Methyl groups (–CH₃)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar sakhtar-e dovom-e protein-ha (marpich va safhe-i), peyvand-haye hidrozheni miyan-e kodam bakhsh-haye amino acid-ha barghrar mishavad?",
+     "grading_key": "- [1] Gorooh-haye eskelet-e peyvand-haye peptidi (C=O va N–H)",
+     "final_resolution": "Gorooh-haye eskelet-e peyvand-haye peptidi (C=O va N–H)",
+     "notes": "",
+     "keywords": [
+      "sakhtar-e dovom-e protein"
+     ],
+     "distractors": [
+      "Zanjire-haye janebi-ye ab-goriz",
+      "Pol-haye disulfide miyan-e cysteine-ha",
+      "Gorooh-haye methyl (–CH₃)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 918,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (جانداران فتوسنتزکنندهٔ دیگر)",
+    "en": "Chapter 6: From Energy to Matter (Other Photosynthetic Organisms)",
+    "tr": "Fasl 6: Az Enerji be Madde (Jandaran-e Photosynthesis-konande-ye Digar)",
+    "pages": "90–93"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در باکتری‌های گوگردی سبز فتوسنتزکننده، کدام ترکیب به‌عنوان دهندهٔ الکترون، کمبود الکترون مرکز واکنش را جبران می‌کند؟",
+     "grading_key": "- [1] هیدروژن سولفید (⁦H₂S⁩)",
+     "final_resolution": "هیدروژن سولفید (⁦H₂S⁩)",
+     "notes": "",
+     "keywords": [
+      "باکتری‌های گوگردی"
+     ],
+     "distractors": [
+      "آب (⁦H₂O⁩)",
+      "اکسیژن (⁦O₂⁩)",
+      "کربن دی‌اکسید (⁦CO₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In photosynthetic green sulfur bacteria, which compound acts as the electron donor that replaces the reaction centre's lost electrons?",
+     "grading_key": "- [1] Hydrogen sulfide (H₂S)",
+     "final_resolution": "Hydrogen sulfide (H₂S)",
+     "notes": "",
+     "keywords": [
+      "green sulfur bacteria"
+     ],
+     "distractors": [
+      "Water (H₂O)",
+      "Oxygen (O₂)",
+      "Carbon dioxide (CO₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar bacteri-haye googerdi-ye sabz-e photosynthesis-konande, kodam tarkib be onvan-e dahande-ye electron, kambood-e electron-e markaz-e vakonesh ra jobran mikonad?",
+     "grading_key": "- [1] Hydrogen sulfide (H₂S)",
+     "final_resolution": "Hydrogen sulfide (H₂S)",
+     "notes": "",
+     "keywords": [
+      "bacteri-haye googerdi"
+     ],
+     "distractors": [
+      "Ab (H₂O)",
+      "Oxygen (O₂)",
+      "Carbon dioxide (CO₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 918,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای فلزی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Metallic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Felezi)",
+    "pages": "90–93"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "کدام مدل پیوند، رسانایی الکتریکی بالا و چکش‌خواری فلزها را با حرکت آزادانهٔ الکترون‌های غیرمستقر توضیح می‌دهد؟",
+     "grading_key": "- [1] مدل دریای الکترونی",
+     "final_resolution": "مدل دریای الکترونی",
+     "notes": "",
+     "keywords": [
+      "دریای الکترونی"
+     ],
+     "distractors": [
+      "شبکهٔ کووالانسی مستقر",
+      "شبکهٔ بلوری یونی",
+      "چیدمان مولکولی واندروالسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Which bonding model explains the high electrical conductivity and malleability of metals through the free movement of delocalized electrons?",
+     "grading_key": "- [1] Electron sea model",
+     "final_resolution": "Electron sea model",
+     "notes": "",
+     "keywords": [
+      "electron sea model"
+     ],
+     "distractors": [
+      "Localized covalent network",
+      "Ionic crystal lattice",
+      "Van der Waals molecular packing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Kodam model-e peyvand, rasanayi-ye electriki-ye bala va chakosh-khari-ye felez-ha ra ba harekat-e azadane-ye electron-haye gheyr-e mostaghar tozih midahad?",
+     "grading_key": "- [1] Model-e darya-ye electroni",
+     "final_resolution": "Model-e darya-ye electroni",
+     "notes": "",
+     "keywords": [
+      "darya-ye electroni"
+     ],
+     "distractors": [
+      "Shabake-ye covalent-e mostaghar",
+      "Shabake-ye boluri-ye yoni",
+      "Chidman-e molekuli-ye van der Waals"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 918,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (تغییر غلظت در تعادل)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Changing Concentration at Equilibrium)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
+    "pages": "110–112"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "بنابر اصل لوشاتلیه، در یک سامانهٔ تعادلی گازی، خارج کردن پیوستهٔ فرآوردهٔ گازی از ظرف، تعادل را به کدام سمت جابه‌جا می‌کند؟",
+     "grading_key": "- [1] به سمت رفت (فرآورده‌ها)",
+     "final_resolution": "به سمت رفت (فرآورده‌ها)",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه"
+     ],
+     "distractors": [
+      "به سمت برگشت (واکنش‌دهنده‌ها)",
+      "مقدار ⁦K⁩ را تغییر می‌دهد",
+      "واکنش کاملاً متوقف می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By Le Chatelier's principle, in a gaseous equilibrium, how does continuously removing the gaseous product from the vessel shift the equilibrium?",
+     "grading_key": "- [1] Toward the forward (product) side",
+     "final_resolution": "Toward the forward (product) side",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle"
+     ],
+     "distractors": [
+      "Toward the reverse (reactant) side",
+      "It changes the value of K",
+      "The reaction stops completely"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Bena bar asl-e Le Chatelier, dar yek samane-ye taadoli-ye gazi, kharej kardan-e peyvaste-ye faravarde-ye gazi az zarf, taadol ra be kodam samt jabeja mikonad?",
+     "grading_key": "- [1] Be samt-e raft (faravarde-ha)",
+     "final_resolution": "Be samt-e raft (faravarde-ha)",
+     "notes": "",
+     "keywords": [
+      "asl-e Le Chatelier"
+     ],
+     "distractors": [
+      "Be samt-e bargasht (vakonesh-dahande-ha)",
+      "Meghdar-e K ra taghyir midahad",
+      "Vakonesh kamelan motevaghef mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Dey",
+   "number": 918,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (نیروی اصطکاک)",
+    "en": "Chapter 2: Dynamics and Forces (Friction)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Estekak)",
+    "pages": "36–39"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "نیروی اصطکاک جنبشی وارد بر جسمی که روی یک سطح افقی می‌لغزد (⁦fₖ = μₖFₙ⁩)، با کدام کمیت متناسب است؟",
+     "grading_key": "- [1] نیروی عمودی تکیه‌گاه (⁦Fₙ⁩)",
+     "final_resolution": "نیروی عمودی تکیه‌گاه (⁦Fₙ⁩)",
+     "notes": "",
+     "keywords": [
+      "اصطکاک جنبشی"
+     ],
+     "distractors": [
+      "مساحت سطح تماس",
+      "تندی جسم (⁦v⁩)",
+      "نیروی افقی هل‌دادن"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "The kinetic friction force on an object sliding over a horizontal surface (fₖ = μₖFₙ) is proportional to which quantity?",
+     "grading_key": "- [1] The normal force (Fₙ)",
+     "final_resolution": "The normal force (Fₙ)",
+     "notes": "",
+     "keywords": [
+      "kinetic friction"
+     ],
+     "distractors": [
+      "The contact surface area",
+      "The speed of the object (v)",
+      "The horizontal pushing force"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Niroo-ye estekak-e jonbeshi-ye vared bar jesmi ke rooy-e yek sath-e ofoghi milaghzad (fₖ = μₖFₙ), ba kodam kamiyat motenaseb ast?",
+     "grading_key": "- [1] Niroo-ye amudi-ye tekye-gah (Fₙ)",
+     "final_resolution": "Niroo-ye amudi-ye tekye-gah (Fₙ)",
+     "notes": "",
+     "keywords": [
+      "estekak-e jonbeshi"
+     ],
+     "distractors": [
+      "Masahat-e sath-e tamas",
+      "Tondi-ye jesm (v)",
+      "Niroo-ye ofoghi-ye hol-dadan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 918,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (بازتاب صوت)",
+    "en": "Chapter 3: Oscillations and Waves (Reflection of Sound)",
+    "tr": "Fasl 3: Navasan va Moj (Baztab-e Sot)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "بازتاب صوت از مانعی دور که باعث می‌شود صدا پس از مدتی دوباره شنیده شود چه نام دارد؟",
+     "grading_key": "- [1] پژواک",
+     "final_resolution": "پژواک",
+     "notes": "",
+     "keywords": [
+      "پژواک"
+     ],
+     "distractors": [
+      "پراش موج",
+      "شکست موج",
+      "تداخل موج"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the reflection of sound from a distant obstacle, which makes the sound heard again after a delay, called?",
+     "grading_key": "- [1] Echo",
+     "final_resolution": "Echo",
+     "notes": "",
+     "keywords": [
+      "echo"
+     ],
+     "distractors": [
+      "Diffraction",
+      "Refraction",
+      "Interference"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Baztab-e sot az manei door ke baes mishavad seda pas az moddati dobare shenide shavad che nam darad?",
+     "grading_key": "- [1] Pezhvak",
+     "final_resolution": "Pezhvak",
+     "notes": "",
+     "keywords": [
+      "pezhvak"
+     ],
+     "distractors": [
+      "Parash-e moj",
+      "Shekast-e moj",
+      "Tadakhol-e moj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 918,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "جمله را با کلمهٔ ربط تقابلی درست کامل کنید:\n⁦'Solar power is expensive to install initially; _______, it saves a lot of money in the long run.'⁩",
+     "grading_key": "- [1] ⁦however⁩",
+     "final_resolution": "⁦however⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦therefore⁩",
+      "⁦because⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Complete the sentence with the correct contrast linker:\n'Solar power is expensive to install initially; _______, it saves a lot of money in the long run.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Jomle ra ba kalame-ye rabt-e taghaboli-ye dorost kamel konid:\n'Solar power is expensive to install initially; _______, it saves a lot of money in the long run.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}
