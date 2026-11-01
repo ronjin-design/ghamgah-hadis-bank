@@ -1,0 +1,1226 @@
+{
+ "version": 52,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 945,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بنابر یافته‌های چارگاف دربارهٔ بازهای دنا (⁦DNA⁩)، نسبت کدام بازهای مکمل همواره نزدیک به یک است؟",
+     "grading_key": "- [1] آدنین به تیمین (⁦A/T⁩) یا گوانین به سیتوزین (⁦G/C⁩)",
+     "final_resolution": "آدنین به تیمین (⁦A/T⁩) یا گوانین به سیتوزین (⁦G/C⁩)",
+     "notes": "",
+     "keywords": [
+      "قانون چارگاف"
+     ],
+     "distractors": [
+      "آدنین به گوانین (⁦A/G⁩)",
+      "تیمین به سیتوزین (⁦T/C⁩)",
+      "یوراسیل به تیمین (⁦U/T⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "By Chargaff's findings on DNA bases, the ratio of which complementary bases is always close to one?",
+     "grading_key": "- [1] Adenine to thymine (A/T) or guanine to cytosine (G/C)",
+     "final_resolution": "Adenine to thymine (A/T) or guanine to cytosine (G/C)",
+     "notes": "",
+     "keywords": [
+      "Chargaff's rules"
+     ],
+     "distractors": [
+      "Adenine to guanine (A/G)",
+      "Thymine to cytosine (T/C)",
+      "Uracil to thymine (U/T)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Bena bar yafte-haye Chargaff darbare-ye baz-haye DNA, nesbat-e kodam baz-haye mokammel hamvare nazdik be yek ast?",
+     "grading_key": "- [1] Adenine be thymine (A/T) ya guanine be cytosine (G/C)",
+     "final_resolution": "Adenine be thymine (A/T) ya guanine be cytosine (G/C)",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e Chargaff"
+     ],
+     "distractors": [
+      "Adenine be guanine (A/G)",
+      "Thymine be cytosine (T/C)",
+      "Uracil be thymine (U/T)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 945,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در ترجمه، تشکیل پیوند پپتیدی میان آمینواسیدها را کدام بخش رِناتن کاتالیز می‌کند؟",
+     "grading_key": "- [1] رنای رِناتنی (⁦rRNA⁩) در زیرواحد بزرگ",
+     "final_resolution": "رنای رِناتنی (⁦rRNA⁩) در زیرواحد بزرگ",
+     "notes": "",
+     "keywords": [
+      "رنای رِناتنی"
+     ],
+     "distractors": [
+      "رنای پیک (⁦mRNA⁩)",
+      "پادرمزهٔ رنای ناقل (⁦tRNA⁩)",
+      "رنابسپاراز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "During translation, which part of the ribosome catalyses the formation of the peptide bond between amino acids?",
+     "grading_key": "- [1] The rRNA of the large subunit (a ribozyme)",
+     "final_resolution": "The rRNA of the large subunit (a ribozyme)",
+     "notes": "",
+     "keywords": [
+      "ribosomal RNA"
+     ],
+     "distractors": [
+      "The mRNA",
+      "The tRNA anticodon",
+      "RNA polymerase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar tarjome, tashkil-e peyvand-e peptidi miyan-e amino acid-ha ra kodam bakhsh-e ribosome catalyze mikonad?",
+     "grading_key": "- [1] RNA-ye ribosomi (rRNA) dar zirvahed-e bozorg",
+     "final_resolution": "RNA-ye ribosomi (rRNA) dar zirvahed-e bozorg",
+     "notes": "",
+     "keywords": [
+      "RNA-ye ribosomi"
+     ],
+     "distractors": [
+      "RNA-ye peyk (mRNA)",
+      "Padramze-ye RNA-ye naghel (tRNA)",
+      "RNA-basparaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 945,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (وراثت)",
+    "en": "Chapter 3: Transmission of Information (Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Verasat)",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "در انسان، دگرهٔ مربوط به گروه خونی ⁦Rh⁩ (مثبت یا منفی) روی کدام نوع کروموزوم قرار دارد؟",
+     "grading_key": "- [1] کروموزوم‌های غیرجنسی (اتوزوم)",
+     "final_resolution": "کروموزوم‌های غیرجنسی (اتوزوم)",
+     "notes": "",
+     "keywords": [
+      "کروموزوم‌های اتوزوم"
+     ],
+     "distractors": [
+      "کروموزوم جنسی ⁦X⁩",
+      "کروموزوم جنسی ⁦Y⁩",
+      "دنای حلقوی راکیزه"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "In humans, on which type of chromosome is the allele for the Rh blood group (positive or negative) found?",
+     "grading_key": "- [1] An autosome (non-sex chromosome)",
+     "final_resolution": "An autosome (non-sex chromosome)",
+     "notes": "",
+     "keywords": [
+      "autosomal chromosomes"
+     ],
+     "distractors": [
+      "The X chromosome",
+      "The Y chromosome",
+      "Circular mitochondrial DNA"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Dar ensan, degare-ye marboot be goruh-e khooni-ye Rh (mosbat ya manfi) rooy-e kodam no chromosome gharar darad?",
+     "grading_key": "- [1] Chromosome-haye gheyr-e jensi (autosome)",
+     "final_resolution": "Chromosome-haye gheyr-e jensi (autosome)",
+     "notes": "",
+     "keywords": [
+      "chromosome-haye autosome"
+     ],
+     "distractors": [
+      "Chromosome-e jensi-ye X",
+      "Chromosome-e jensi-ye Y",
+      "DNA-ye halghavi-ye rakize"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 945,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: تنفس بی‌هوازی)",
+    "en": "Chapter 5: Energy Supply (Section 2: Anaerobic Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در تخمیر لاکتیکی، انتقال الکترون‌ها از ⁦NADH⁩ به پیرووات مستقیماً کدام ترکیب سه‌کربنی نهایی را در میان‌یاخته پدید می‌آورد؟",
+     "grading_key": "- [1] لاکتات",
+     "final_resolution": "لاکتات",
+     "notes": "",
+     "keywords": [
+      "لاکتات"
+     ],
+     "distractors": [
+      "اتانول",
+      "استیل کوآنزیم آ",
+      "اگزالواستات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In lactic acid fermentation, passing electrons from NADH to pyruvate directly produces which final 3-carbon compound in the cytoplasm?",
+     "grading_key": "- [1] Lactate",
+     "final_resolution": "Lactate",
+     "notes": "",
+     "keywords": [
+      "lactate"
+     ],
+     "distractors": [
+      "Ethanol",
+      "Acetyl-CoA",
+      "Oxaloacetate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar takhmir-e lactici, enteghal-e electron-ha az NADH be pyruvate mostaghiman kodam tarkib-e se-karbani-ye nahayi ra dar miyan-yakhte padid miavarad?",
+     "grading_key": "- [1] Lactate",
+     "final_resolution": "Lactate",
+     "notes": "",
+     "keywords": [
+      "lactate"
+     ],
+     "distractors": [
+      "Ethanol",
+      "Acetyl coenzyme A",
+      "Oxaloacetate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1402-Khordad",
+   "number": 945,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (چرخهٔ کالوین)",
+    "en": "Chapter 6: From Energy to Matter (The Calvin Cycle)",
+    "tr": "Fasl 6: Az Enerji be Madde (Charkhe-ye Calvin)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در چرخهٔ کالوین، گام پایانی بازسازی ریبولوز بیس‌فسفات (⁦RuBP⁩) مستقیماً کدام مولکول پرانرژی را مصرف می‌کند؟",
+     "grading_key": "- [1] ⁦ATP⁩",
+     "final_resolution": "⁦ATP⁩",
+     "notes": "",
+     "keywords": [
+      "چرخهٔ کالوین"
+     ],
+     "distractors": [
+      "⁦NADPH⁩",
+      "⁦NADH⁩",
+      "⁦GTP⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the Calvin cycle, the final step that regenerates ribulose bisphosphate (RuBP) directly uses up which energy molecule?",
+     "grading_key": "- [1] ATP",
+     "final_resolution": "ATP",
+     "notes": "",
+     "keywords": [
+      "Calvin cycle"
+     ],
+     "distractors": [
+      "NADPH",
+      "NADH",
+      "GTP"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar charkhe-ye Calvin, gam-e payani-ye bazsazi-ye ribulose bisphosphate (RuBP) mostaghiman kodam molekul-e por-enerji ra masraf mikonad?",
+     "grading_key": "- [1] ATP",
+     "final_resolution": "ATP",
+     "notes": "",
+     "keywords": [
+      "charkhe-ye Calvin"
+     ],
+     "distractors": [
+      "NADPH",
+      "NADH",
+      "GTP"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 945,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بنابر نظریهٔ برونستد-لوری، هیدروکلریک اسید (⁦HCl⁩) پس از دادن یک پروتون، خودش به کدام گونه تبدیل می‌شود؟",
+     "grading_key": "- [1] یون کلرید (⁦Cl⁻⁩)، باز مزدوج آن",
+     "final_resolution": "یون کلرید (⁦Cl⁻⁩)، باز مزدوج آن",
+     "notes": "",
+     "keywords": [
+      "باز مزدوج"
+     ],
+     "distractors": [
+      "یون هیدرونیوم (⁦H₃O⁺⁩)",
+      "یون هیدروکسید (⁦OH⁻⁩)",
+      "گاز کلر (⁦Cl₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Brønsted-Lowry theory, what does hydrochloric acid (HCl) itself become after it donates a proton?",
+     "grading_key": "- [1] The chloride ion (Cl⁻), its conjugate base",
+     "final_resolution": "The chloride ion (Cl⁻), its conjugate base",
+     "notes": "",
+     "keywords": [
+      "conjugate base"
+     ],
+     "distractors": [
+      "The hydronium ion (H₃O⁺)",
+      "The hydroxide ion (OH⁻)",
+      "Chlorine gas (Cl₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bena bar nazariye-ye Bronsted-Lowry, hydrochloric acid (HCl) pas az dadan-e yek proton, khod-ash be kodam goone tabdil mishavad?",
+     "grading_key": "- [1] Yon-e chloride (Cl⁻), baz-e mozdavaj-ash",
+     "final_resolution": "Yon-e chloride (Cl⁻), baz-e mozdavaj-ash",
+     "notes": "",
+     "keywords": [
+      "baz-e mozdavaj"
+     ],
+     "distractors": [
+      "Yon-e hydronium (H₃O⁺)",
+      "Yon-e hydroxide (OH⁻)",
+      "Gaz-e chlor (Cl₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 945,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (فرایند هال)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (The Hall Process)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Farayand-e Hall)",
+    "pages": "62–64"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در فرایند هال، آلومینیم مذاب در کدام الکترود کاهش می‌یابد و جمع می‌شود؟",
+     "grading_key": "- [1] کاتد (پوشش کربنی/گرافیتی کف سلول)",
+     "final_resolution": "کاتد (پوشش کربنی/گرافیتی کف سلول)",
+     "notes": "",
+     "keywords": [
+      "فرایند هال"
+     ],
+     "distractors": [
+      "آندهای گرافیتی",
+      "الکترولیت کریولیت",
+      "سیم‌های مسی مدار"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the Hall process, at which electrode is the molten aluminium reduced and collected?",
+     "grading_key": "- [1] The cathode (the carbon/graphite lining of the cell)",
+     "final_resolution": "The cathode (the carbon/graphite lining of the cell)",
+     "notes": "",
+     "keywords": [
+      "Hall process"
+     ],
+     "distractors": [
+      "The graphite anodes",
+      "The cryolite electrolyte",
+      "The copper wires of the circuit"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar farayand-e Hall, aluminium-e mozab dar kodam electrode kahesh miyabad va jam mishavad?",
+     "grading_key": "- [1] Cathode (pooshesh-e carboni/graphiti-ye kaf-e selool)",
+     "final_resolution": "Cathode (pooshesh-e carboni/graphiti-ye kaf-e selool)",
+     "notes": "",
+     "keywords": [
+      "farayand-e Hall"
+     ],
+     "distractors": [
+      "Anode-haye graphiti",
+      "Electrolyte-e cryolite",
+      "Sim-haye mesi-ye madar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 945,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (الماس)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Diamond)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Almas)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "الماس به دلیل پیوندهای اشتراکی کربن‌ـکربن در یک شبکهٔ سه‌بعدی غول‌آسا، کدام ویژگی فیزیکی برجسته را دارد؟",
+     "grading_key": "- [1] سختی بسیار زیاد و نقطهٔ ذوب بسیار بالا",
+     "final_resolution": "سختی بسیار زیاد و نقطهٔ ذوب بسیار بالا",
+     "notes": "",
+     "keywords": [
+      "جامد کووالانسی"
+     ],
+     "distractors": [
+      "رسانایی الکتریکی زیاد",
+      "چگالی کم",
+      "انحلال آسان در آب"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Because of its carbon–carbon covalent bonds in a giant 3D network, which outstanding physical property does diamond have?",
+     "grading_key": "- [1] Extreme hardness and a very high melting point",
+     "final_resolution": "Extreme hardness and a very high melting point",
+     "notes": "",
+     "keywords": [
+      "covalent solid"
+     ],
+     "distractors": [
+      "High electrical conductivity",
+      "Low density",
+      "Dissolving easily in water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Almas be dalil-e peyvand-haye eshteraki-ye carbon-carbon dar yek shabake-ye se-bodi-ye ghool-asa, kodam vizhegi-ye fiziki-ye barjaste ra darad?",
+     "grading_key": "- [1] Sakhti-ye besyar ziad va noghte-ye zob-e besyar bala",
+     "final_resolution": "Sakhti-ye besyar ziad va noghte-ye zob-e besyar bala",
+     "notes": "",
+     "keywords": [
+      "jamed-e covalent"
+     ],
+     "distractors": [
+      "Rasanayi-ye electriki-ye ziad",
+      "Chegali-ye kam",
+      "Enhelal-e asan dar ab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 945,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier’s Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
+    "pages": "112–114"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "بنابر اصل لوشاتلیه، در یک سامانهٔ تعادلی گازی گرماده، افزایش دما تعادل را به کدام سمت جابه‌جا می‌کند؟",
+     "grading_key": "- [1] به سمت برگشت (واکنش‌دهنده‌ها)",
+     "final_resolution": "به سمت برگشت (واکنش‌دهنده‌ها)",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه"
+     ],
+     "distractors": [
+      "به سمت رفت (فرآورده‌ها)",
+      "مقدار ⁦K⁩ را افزایش می‌دهد",
+      "واکنش بی‌درنگ متوقف می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By Le Chatelier's principle, in an exothermic gaseous equilibrium, how does raising the temperature shift the equilibrium?",
+     "grading_key": "- [1] Toward the reverse (reactant) side",
+     "final_resolution": "Toward the reverse (reactant) side",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle"
+     ],
+     "distractors": [
+      "Toward the forward (product) side",
+      "It increases the value of K",
+      "The reaction stops immediately"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Bena bar asl-e Le Chatelier, dar yek samane-ye taadoli-ye gazi-ye garmade, afzayesh-e dama taadol ra be kodam samt jabeja mikonad?",
+     "grading_key": "- [1] Be samt-e bargasht (vakonesh-dahande-ha)",
+     "final_resolution": "Be samt-e bargasht (vakonesh-dahande-ha)",
+     "notes": "",
+     "keywords": [
+      "asl-e Le Chatelier"
+     ],
+     "distractors": [
+      "Be samt-e raft (faravarde-ha)",
+      "Meghdar-e K ra afzayesh midahad",
+      "Vakonesh bi-derang motevaghef mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Khordad",
+   "number": 945,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (صابون و آب سخت)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Soap and Hard Water)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Saboon va Ab-e Sakht)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام کاتیون‌های موجود در آب سخت با بخش کربوکسیلات صابون واکنش می‌دهند و رسوب نامحلول می‌سازند؟",
+     "grading_key": "- [1] یون کلسیم (⁦Ca²⁺⁩) یا منیزیم (⁦Mg²⁺⁩)",
+     "final_resolution": "یون کلسیم (⁦Ca²⁺⁩) یا منیزیم (⁦Mg²⁺⁩)",
+     "notes": "",
+     "keywords": [
+      "آب سخت"
+     ],
+     "distractors": [
+      "یون سدیم (⁦Na⁺⁩)",
+      "یون پتاسیم (⁦K⁺⁩)",
+      "یون آمونیوم (⁦NH₄⁺⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which cations in hard water react with the carboxylate part of soap to form an insoluble precipitate?",
+     "grading_key": "- [1] Calcium (Ca²⁺) or magnesium (Mg²⁺) ions",
+     "final_resolution": "Calcium (Ca²⁺) or magnesium (Mg²⁺) ions",
+     "notes": "",
+     "keywords": [
+      "hard water"
+     ],
+     "distractors": [
+      "Sodium ions (Na⁺)",
+      "Potassium ions (K⁺)",
+      "Ammonium ions (NH₄⁺)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam cation-haye mojood dar ab-e sakht ba bakhsh-e carboxylate-e saboon vakonesh midahand va rosoob-e namahlool misazand?",
+     "grading_key": "- [1] Yon-e calcium (Ca²⁺) ya magnesium (Mg²⁺)",
+     "final_resolution": "Yon-e calcium (Ca²⁺) ya magnesium (Mg²⁺)",
+     "notes": "",
+     "keywords": [
+      "ab-e sakht"
+     ],
+     "distractors": [
+      "Yon-e sodium (Na⁺)",
+      "Yon-e potassium (K⁺)",
+      "Yon-e ammonium (NH₄⁺)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 945,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (نمودار مکان-زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Position-Time Graph)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Nemoodar-e Makan-Zaman)",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در نمودار مکان-زمان (⁦x-t⁩) متحرکی بر خط راست، اگر شیب خط مماس بر نمودار همه‌جا ثابت بماند، شتاب لحظه‌ای آن چقدر است؟",
+     "grading_key": "- [1] صفر",
+     "final_resolution": "صفر",
+     "notes": "",
+     "keywords": [
+      "نمودار مکان-زمان"
+     ],
+     "distractors": [
+      "مقداری ثابت و مثبت",
+      "مقداری ثابت و منفی",
+      "با زمان به‌طور خطی افزایش می‌یابد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "On the position-time (x-t) graph of an object moving along a straight line, if the slope of the tangent stays the same everywhere, what is its instantaneous acceleration?",
+     "grading_key": "- [1] Zero",
+     "final_resolution": "Zero",
+     "notes": "",
+     "keywords": [
+      "position-time graph"
+     ],
+     "distractors": [
+      "A constant positive value",
+      "A constant negative value",
+      "Increasing linearly with time"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar nemoodar-e makan-zaman (x-t)-e motaharreki bar khatt-e rast, agar shib-e khatt-e momas bar nemoodar hame-ja sabet bemanad, shetab-e lahzei-ash cheghadr ast?",
+     "grading_key": "- [1] Sefr",
+     "final_resolution": "Sefr",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e makan-zaman"
+     ],
+     "distractors": [
+      "Meghdari sabet va mosbat",
+      "Meghdari sabet va manfi",
+      "Ba zaman be tor-e khatti afzayesh miyabad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 945,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (اصطکاک جنبشی)",
+    "en": "Chapter 2: Dynamics and Forces (Kinetic Friction)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Estekak-e Jonbeshi)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "ضریب اصطکاک جنبشی (⁦μₖ⁩) میان دو سطح، عمدتاً به کدام عامل بستگی دارد؟",
+     "grading_key": "- [1] جنس و حالت دو سطح در تماس",
+     "final_resolution": "جنس و حالت دو سطح در تماس",
+     "notes": "",
+     "keywords": [
+      "ضریب اصطکاک جنبشی"
+     ],
+     "distractors": [
+      "اندازهٔ نیروی عمودی تکیه‌گاه (⁦Fₙ⁩)",
+      "مساحت سطح تماس",
+      "تندی جسم (⁦v⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "The coefficient of kinetic friction (μₖ) between two surfaces depends mainly on what?",
+     "grading_key": "- [1] The materials and condition of the two surfaces in contact",
+     "final_resolution": "The materials and condition of the two surfaces in contact",
+     "notes": "",
+     "keywords": [
+      "kinetic friction coefficient"
+     ],
+     "distractors": [
+      "The size of the normal force (Fₙ)",
+      "The contact area",
+      "The speed of the object (v)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Zarib-e estekak-e jonbeshi (μₖ) miyan-e do sath, omdatan be kodam amel bastegi darad?",
+     "grading_key": "- [1] Jens va halat-e do sath dar tamas",
+     "final_resolution": "Jens va halat-e do sath dar tamas",
+     "notes": "",
+     "keywords": [
+      "zarib-e estekak-e jonbeshi"
+     ],
+     "distractors": [
+      "Andaze-ye niroo-ye amudi-ye tekye-gah (Fₙ)",
+      "Masahat-e sath-e tamas",
+      "Tondi-ye jesm (v)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 945,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (بسامد زاویه‌ای)",
+    "en": "Chapter 3: Oscillations and Waves (Angular Frequency)",
+    "tr": "Fasl 3: Navasan va Moj (Basamad-e Zaviei)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "رابطهٔ میان بسامد زاویه‌ای (⁦ω⁩) و بسامد (⁦f⁩) یک نوسانگر هماهنگ ساده کدام است؟",
+     "grading_key": "- [1] ⁦ω = 2πf⁩",
+     "final_resolution": "⁦ω = 2πf⁩",
+     "notes": "",
+     "keywords": [
+      "بسامد زاویه‌ای"
+     ],
+     "distractors": [
+      "⁦ω = πf⁩",
+      "⁦ω = 2f⁩",
+      "⁦ω = f/2π⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the relationship between the angular frequency (ω) and the frequency (f) of a simple harmonic oscillator?",
+     "grading_key": "- [1] ω = 2πf",
+     "final_resolution": "ω = 2πf",
+     "notes": "",
+     "keywords": [
+      "angular frequency"
+     ],
+     "distractors": [
+      "ω = πf",
+      "ω = 2f",
+      "ω = f/2π"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Rabete-ye miyan-e basamad-e zaviei (ω) va basamad (f)-e yek navasan-gar-e hamahang-e sade kodam ast?",
+     "grading_key": "- [1] ω = 2πf",
+     "final_resolution": "ω = 2πf",
+     "notes": "",
+     "keywords": [
+      "basamad-e zaviei"
+     ],
+     "distractors": [
+      "ω = πf",
+      "ω = 2f",
+      "ω = f/2π"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 945,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Light)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی پرتو نور از شیشه وارد هوا می‌شود، تندی انتشار آن چه تغییری می‌کند؟",
+     "grading_key": "- [1] زیاد می‌شود",
+     "final_resolution": "زیاد می‌شود",
+     "notes": "",
+     "keywords": [
+      "شکست نور"
+     ],
+     "distractors": [
+      "کم می‌شود",
+      "تغییر نمی‌کند",
+      "همراه با بسامد صفر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a light ray passes from glass into air, how does its speed change?",
+     "grading_key": "- [1] It increases",
+     "final_resolution": "It increases",
+     "notes": "",
+     "keywords": [
+      "light refraction"
+     ],
+     "distractors": [
+      "It decreases",
+      "It does not change",
+      "It drops to zero along with the frequency"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti partov-e noor az shishe vared-e hava mishavad, tondi-ye enteshar-ash che taghyiri mikonad?",
+     "grading_key": "- [1] Ziad mishavad",
+     "final_resolution": "Ziad mishavad",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor"
+     ],
+     "distractors": [
+      "Kam mishavad",
+      "Taghyir nemikonad",
+      "Hamrah ba basamad sefr mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 945,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Asar-e Photoelectric)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، ولتاژ متوقف‌کننده (⁦V₀⁩) برای یک فلز معین، به کدام ویژگی نور فرودی بستگی ندارد؟",
+     "grading_key": "- [1] شدت نور",
+     "final_resolution": "شدت نور",
+     "notes": "",
+     "keywords": [
+      "ولتاژ متوقف‌کننده"
+     ],
+     "distractors": [
+      "بسامد نور (⁦f⁩)",
+      "طول موج نور (⁦λ⁩)",
+      "انرژی هر فوتون"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, the stopping potential (V₀) for a given metal does not depend on which property of the incident light?",
+     "grading_key": "- [1] The intensity of the light",
+     "final_resolution": "The intensity of the light",
+     "notes": "",
+     "keywords": [
+      "stopping potential"
+     ],
+     "distractors": [
+      "The frequency of the light (f)",
+      "The wavelength of the light (λ)",
+      "The energy of each photon"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, voltage-e motevaghef-konande (V₀) baraye yek felez-e moayyan, be kodam vizhegi-ye noor-e forudi bastegi nadarad?",
+     "grading_key": "- [1] Sheddat-e noor",
+     "final_resolution": "Sheddat-e noor",
+     "notes": "",
+     "keywords": [
+      "voltage-e motevaghef-konandeh"
+     ],
+     "distractors": [
+      "Basamad-e noor (f)",
+      "Tool-e moj-e noor (λ)",
+      "Enerji-ye har photon"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 945,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'We must always speak kindly to elderly people and avoid _______ their sensitive feelings.'⁩",
+     "grading_key": "- [1] ⁦hurting⁩",
+     "final_resolution": "⁦hurting⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦appreciating⁩",
+      "⁦protecting⁩",
+      "⁦generating⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'We must always speak kindly to elderly people and avoid _______ their sensitive feelings.'",
+     "grading_key": "- [1] hurting",
+     "final_resolution": "hurting",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "appreciating",
+      "protecting",
+      "generating"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'We must always speak kindly to elderly people and avoid _______ their sensitive feelings.'",
+     "grading_key": "- [1] hurting",
+     "final_resolution": "hurting",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "appreciating",
+      "protecting",
+      "generating"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 945,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: مجهول)",
+    "en": "Lesson 2: Look at the Future (Grammar: Passive Voice)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Majhool)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "شکل درست مجهولِ گذشتهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'The solar panels _______ safely by the technician yesterday afternoon.'⁩",
+     "grading_key": "- [1] ⁦were installed⁩",
+     "final_resolution": "⁦were installed⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦was installed⁩",
+      "⁦installed⁩",
+      "⁦are installing⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct simple past passive form to complete the sentence:\n'The solar panels _______ safely by the technician yesterday afternoon.'",
+     "grading_key": "- [1] were installed",
+     "final_resolution": "were installed",
+     "notes": "",
+     "keywords": [
+      "simple past passive"
+     ],
+     "distractors": [
+      "was installed",
+      "installed",
+      "are installing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'The solar panels _______ safely by the technician yesterday afternoon.'",
+     "grading_key": "- [1] were installed",
+     "final_resolution": "were installed",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "was installed",
+      "installed",
+      "are installing"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 945,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کاربردی)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Solar panels and wind turbines are clean technologies that protect our environment from heavy _______.'⁩",
+     "grading_key": "- [1] ⁦pollution⁩",
+     "final_resolution": "⁦pollution⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦heritage⁩",
+      "⁦combination⁩",
+      "⁦generation⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Solar panels and wind turbines are clean technologies that protect our environment from heavy _______.'",
+     "grading_key": "- [1] pollution",
+     "final_resolution": "pollution",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "heritage",
+      "combination",
+      "generation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Solar panels and wind turbines are clean technologies that protect our environment from heavy _______.'",
+     "grading_key": "- [1] pollution",
+     "final_resolution": "pollution",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "heritage",
+      "combination",
+      "generation"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 945,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: ضمیرهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Pronouns)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Zamir-haye Moosooli)",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "ضمیر موصولی درست را انتخاب کنید:\n⁦'The wind turbines _______ generate electricity are clean and eco-friendly.'⁩",
+     "grading_key": "- [1] ⁦which⁩",
+     "final_resolution": "⁦which⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیرهای موصولی"
+     ],
+     "distractors": [
+      "⁦who⁩",
+      "⁦whom⁩",
+      "⁦whose⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct relative pronoun:\n'The wind turbines _______ generate electricity are clean and eco-friendly.'",
+     "grading_key": "- [1] which",
+     "final_resolution": "which",
+     "notes": "",
+     "keywords": [
+      "relative pronoun"
+     ],
+     "distractors": [
+      "who",
+      "whom",
+      "whose"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Zamir-e moosooli-ye dorost ra entekhab konid:\n'The wind turbines _______ generate electricity are clean and eco-friendly.'",
+     "grading_key": "- [1] which",
+     "final_resolution": "which",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli"
+     ],
+     "distractors": [
+      "who",
+      "whom",
+      "whose"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 945,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط تقابلی درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Dams produce huge amounts of electricity; _______, their installation costs are currently high.'⁩",
+     "grading_key": "- [1] ⁦however⁩",
+     "final_resolution": "⁦however⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦therefore⁩",
+      "⁦because⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct contrast linker to complete the sentence:\n'Dams produce huge amounts of electricity; _______, their installation costs are currently high.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e taghaboli-ye dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Dams produce huge amounts of electricity; _______, their installation costs are currently high.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}
