@@ -1,0 +1,433 @@
+{
+ "version": 22,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 915,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۲: تغییر در ساختار کروموزوم‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 2: Changes in Chromosome Structure)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "در کدام جهش ساختاری کروموزوم، قطعه‌ای از یک کروموزوم جدا می‌شود و به کروموزوم همتای آن متصل می‌شود؟",
+     "grading_key": "- [1] مضاعف شدن",
+     "final_resolution": "مضاعف شدن",
+     "notes": "",
+     "keywords": [
+      "مضاعف شدن"
+     ],
+     "distractors": [
+      "حذف",
+      "واژگونی",
+      "جابه‌جایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "In which structural chromosome mutation is a segment detached from one chromosome and attached to its homologous chromosome?",
+     "grading_key": "- [1] Duplication",
+     "final_resolution": "Duplication",
+     "notes": "",
+     "keywords": [
+      "duplication"
+     ],
+     "distractors": [
+      "Deletion",
+      "Inversion",
+      "Translocation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Dar kodam jahesh-e sakhtari-ye chromosome, ghet-e-i az yek chromosome joda mishavad va be chromosome-e hamta-ye an mottasel mishavad?",
+     "grading_key": "- [1] Mozaaf shodan",
+     "final_resolution": "Mozaaf shodan",
+     "notes": "",
+     "keywords": [
+      "mozaaf shodan"
+     ],
+     "distractors": [
+      "Hazf",
+      "Vazhguni",
+      "Jabejayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 915,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در مهندسی پروتئین، کدام ویژگی آنزیم بهبود داده می‌شود تا آنزیم در دمای بالای فرایندهای صنعتی همچنان فعال بماند؟",
+     "grading_key": "- [1] پایداری حرارتی (مقاومت در برابر گرما)",
+     "final_resolution": "پایداری حرارتی (مقاومت در برابر گرما)",
+     "notes": "",
+     "keywords": [
+      "پایداری حرارتی"
+     ],
+     "distractors": [
+      "انحلال‌پذیری در آب",
+      "جرم مولکولی",
+      "⁦pH⁩ بهینه"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In protein engineering, which property of an enzyme is improved so that it stays active at the high temperatures of industrial processes?",
+     "grading_key": "- [1] Thermal stability (heat resistance)",
+     "final_resolution": "Thermal stability (heat resistance)",
+     "notes": "",
+     "keywords": [
+      "thermal stability"
+     ],
+     "distractors": [
+      "Solubility in water",
+      "Molecular mass",
+      "Optimum pH"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar mohandesi-ye protein, kodam vizhegi-ye anzim behbood dade mishavad ta anzim dar dama-ye bala-ye farayand-haye sanati hamchenan faal bemanad?",
+     "grading_key": "- [1] Paydari-ye hararti (moghavemat dar barabar-e garma)",
+     "final_resolution": "Paydari-ye hararti (moghavemat dar barabar-e garma)",
+     "notes": "",
+     "keywords": [
+      "paydari-ye hararti"
+     ],
+     "distractors": [
+      "Enhelal-paziri dar ab",
+      "Jerm-e molekuli",
+      "pH-e behine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 915,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای مولکولی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Molecular Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Molkooli)",
+    "pages": "68–71"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "بلورهای یخ خشک (⁦CO₂⁩ جامد) با توجه به چیدمان ذره‌ها و نیروهای ضعیف واندروالسی میان مولکول‌ها، جزو کدام دسته از جامدها هستند؟",
+     "grading_key": "- [1] جامد مولکولی",
+     "final_resolution": "جامد مولکولی",
+     "notes": "",
+     "keywords": [
+      "جامد مولکولی"
+     ],
+     "distractors": [
+      "جامد یونی",
+      "جامد کووالانسی (شبکه‌ای)",
+      "جامد فلزی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Based on particle arrangement and the weak van der Waals forces between molecules, dry ice crystals (solid CO₂) belong to which category of solids?",
+     "grading_key": "- [1] Molecular solid",
+     "final_resolution": "Molecular solid",
+     "notes": "",
+     "keywords": [
+      "molecular solid"
+     ],
+     "distractors": [
+      "Ionic solid",
+      "Covalent network solid",
+      "Metallic solid"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Boloor-haye yakh-e khoshk (CO₂-e jamed) ba tavajjoh be chidman-e zarre-ha va niroo-haye zaif-e van der Waals miyan-e molekul-ha, joz-e kodam daste az jamed-ha hastand?",
+     "grading_key": "- [1] Jamed-e molekuli",
+     "final_resolution": "Jamed-e molekuli",
+     "notes": "",
+     "keywords": [
+      "jamed-e molekuli"
+     ],
+     "distractors": [
+      "Jamed-e yoni",
+      "Jamed-e covalent (shabake-i)",
+      "Jamed-e felezi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 915,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier’s Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
+    "pages": "112–115"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "بنابر اصل لوشاتلیه، در یک واکنش تعادلی گازی گرماده، کاهش دمای سامانه تعادل را به کدام سمت جابه‌جا می‌کند؟",
+     "grading_key": "- [1] به سمت رفت (فرآورده‌ها)",
+     "final_resolution": "به سمت رفت (فرآورده‌ها)",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه"
+     ],
+     "distractors": [
+      "به سمت برگشت (واکنش‌دهنده‌ها)",
+      "حجم ظرف را تغییر می‌دهد",
+      "مقدار ⁦K⁩ را کم می‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "By Le Chatelier's principle, in an exothermic gaseous equilibrium, how does lowering the temperature shift the equilibrium?",
+     "grading_key": "- [1] Toward the forward (product) side",
+     "final_resolution": "Toward the forward (product) side",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle"
+     ],
+     "distractors": [
+      "Toward the reverse (reactant) side",
+      "It changes the volume of the vessel",
+      "It decreases the value of K"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Bena bar asl-e Le Chatelier, dar yek vakonesh-e taadoli-ye gazi-ye garmade, kahesh-e dama-ye samane taadol ra be kodam samt jabeja mikonad?",
+     "grading_key": "- [1] Be samt-e raft (faravarde-ha)",
+     "final_resolution": "Be samt-e raft (faravarde-ha)",
+     "notes": "",
+     "keywords": [
+      "asl-e Le Chatelier"
+     ],
+     "distractors": [
+      "Be samt-e bargasht (vakonesh-dahande-ha)",
+      "Hajm-e zarf ra taghyir midahad",
+      "Meghdar-e K ra kam mikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Khordad",
+   "number": 915,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "وقتی خودرویی ترمز می‌کند و می‌ایستد، تغییر تکانهٔ خطی افقی آن با کدام کمیت برداری برابر است؟",
+     "grading_key": "- [1] ضربه (⁦J⁩)",
+     "final_resolution": "ضربه (⁦J⁩)",
+     "notes": "",
+     "keywords": [
+      "قضیهٔ تکانه-نیرو"
+     ],
+     "distractors": [
+      "نیروی خالص افقی",
+      "تغییر انرژی جنبشی",
+      "کار کل (⁦W⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "When a car brakes and comes to a complete stop, its change in horizontal linear momentum equals which vector quantity?",
+     "grading_key": "- [1] Impulse (J)",
+     "final_resolution": "Impulse (J)",
+     "notes": "",
+     "keywords": [
+      "impulse-momentum theorem"
+     ],
+     "distractors": [
+      "Net horizontal force",
+      "Change in kinetic energy",
+      "Total work (W)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Vaghti khodrooyi tormoz mikonad va miistad, taghyir-e takane-ye khatti-ye ofoghi-ash ba kodam kamiyat-e bordari barabar ast?",
+     "grading_key": "- [1] Zarbe (J)",
+     "final_resolution": "Zarbe (J)",
+     "notes": "",
+     "keywords": [
+      "ghaziyeh-ye takaneh-niroo"
+     ],
+     "distractors": [
+      "Niroo-ye khales-e ofoghi",
+      "Taghyir-e enerji-ye jonbeshi",
+      "Kar-e kol (W)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 915,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Asar-e Photoelectric)",
+    "pages": "92–95"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، بیشینهٔ انرژی جنبشی فوتوالکترون‌ها (⁦Kmax = hf − W₀⁩) با افزایش کدام ویژگی نور فرودی به‌طور خطی افزایش می‌یابد؟",
+     "grading_key": "- [1] بسامد نور (⁦f⁩)",
+     "final_resolution": "بسامد نور (⁦f⁩)",
+     "notes": "",
+     "keywords": [
+      "اثر فوتوالکتریک"
+     ],
+     "distractors": [
+      "شدت نور",
+      "طول موج نور (⁦λ⁩)",
+      "تعداد کل فوتون‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, the maximum kinetic energy of the photoelectrons (Kmax = hf − W₀) rises linearly as which property of the incident light increases?",
+     "grading_key": "- [1] Frequency of the light (f)",
+     "final_resolution": "Frequency of the light (f)",
+     "notes": "",
+     "keywords": [
+      "photoelectric effect"
+     ],
+     "distractors": [
+      "Intensity of the light",
+      "Wavelength of the light (λ)",
+      "Total number of photons"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, bishine-ye enerji-ye jonbeshi-ye photoelectron-ha (Kmax = hf − W₀) ba afzayesh-e kodam vizhegi-ye noor-e forudi be tor-e khatti afzayesh miyabad?",
+     "grading_key": "- [1] Basamad-e noor (f)",
+     "final_resolution": "Basamad-e noor (f)",
+     "notes": "",
+     "keywords": [
+      "asar-e photoelectric"
+     ],
+     "distractors": [
+      "Sheddat-e noor",
+      "Tool-e moj-e noor (λ)",
+      "Tedad-e kol-e photon-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 915,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط تقابلی درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Some people prefer fossil fuels, _______ others advocate for solar energy.'⁩",
+     "grading_key": "- [1] ⁦while⁩",
+     "final_resolution": "⁦while⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦because⁩",
+      "⁦therefore⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct contrast linker to complete the sentence:\n'Some people prefer fossil fuels, _______ others advocate for solar energy.'",
+     "grading_key": "- [1] while",
+     "final_resolution": "while",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "because",
+      "therefore",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e taghaboli-ye dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Some people prefer fossil fuels, _______ others advocate for solar energy.'",
+     "grading_key": "- [1] while",
+     "final_resolution": "while",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "because",
+      "therefore",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}
