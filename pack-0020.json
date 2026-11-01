@@ -1,0 +1,433 @@
+{
+ "version": 20,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 913,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "28–31"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در فرایند ترجمه در رِناتن (ریبوزوم)، کدام مولکول آمینواسیدها را به جایگاه‌های ویژهٔ رِناتن می‌آورد؟",
+     "grading_key": "- [1] رنای ناقل (⁦tRNA⁩)",
+     "final_resolution": "رنای ناقل (⁦tRNA⁩)",
+     "notes": "",
+     "keywords": [
+      "رنای ناقل"
+     ],
+     "distractors": [
+      "رنای پیک (⁦mRNA⁩)",
+      "رنای رِناتنی (⁦rRNA⁩)",
+      "دنا بسپاراز (⁦DNA polymerase⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "During translation, which molecule carries amino acids to the designated sites on the ribosome?",
+     "grading_key": "- [1] Transfer RNA (tRNA)",
+     "final_resolution": "Transfer RNA (tRNA)",
+     "notes": "",
+     "keywords": [
+      "transfer RNA"
+     ],
+     "distractors": [
+      "Messenger RNA (mRNA)",
+      "Ribosomal RNA (rRNA)",
+      "DNA polymerase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar farayand-e tarjome dar ribosome, kodam molekul amino acid-ha ra be jaygah-haye vizhe-ye ribosome miavarad?",
+     "grading_key": "- [1] RNA-ye naghel (tRNA)",
+     "final_resolution": "RNA-ye naghel (tRNA)",
+     "notes": "",
+     "keywords": [
+      "RNA-ye naghel"
+     ],
+     "distractors": [
+      "RNA-ye peyk (mRNA)",
+      "RNA-ye ribosomi (rRNA)",
+      "DNA polymerase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 913,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایهٔ وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basic Concepts of Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "جایگاه مشخص و ثابتی از کروموزوم که یک ژن یا دگره‌های آن را در خود دارد، در ژن‌شناسی چه نام دارد؟",
+     "grading_key": "- [1] جایگاه ژنی",
+     "final_resolution": "جایگاه ژنی",
+     "notes": "",
+     "keywords": [
+      "جایگاه ژنی"
+     ],
+     "distractors": [
+      "سانترومر",
+      "تلومر",
+      "کینه‌توکور"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "What is the specific, fixed location on a chromosome occupied by a gene or its alleles called in genetics?",
+     "grading_key": "- [1] Locus",
+     "final_resolution": "Locus",
+     "notes": "",
+     "keywords": [
+      "locus"
+     ],
+     "distractors": [
+      "Centromere",
+      "Telomere",
+      "Kinetochore"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Jaygah-e moshakhas va sabeti az chromosome ke yek zhen ya degare-haye an ra dar khod darad, dar zhen-shenasi che nam darad?",
+     "grading_key": "- [1] Jaygah-e zheni",
+     "final_resolution": "Jaygah-e zheni",
+     "notes": "",
+     "keywords": [
+      "jaygah-e jeni"
+     ],
+     "distractors": [
+      "Centromere",
+      "Telomere",
+      "Kinetochore"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 913,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "بر پایهٔ نظریهٔ آرنیوس، اسیدها موادی‌اند که با حل شدن در آب، غلظت کدام یون را در محلول افزایش می‌دهند؟",
+     "grading_key": "- [1] یون هیدرونیوم (⁦H₃O⁺⁩)",
+     "final_resolution": "یون هیدرونیوم (⁦H₃O⁺⁩)",
+     "notes": "",
+     "keywords": [
+      "نظریهٔ آرنیوس"
+     ],
+     "distractors": [
+      "یون هیدروکسید (⁦OH⁻⁩)",
+      "یون سدیم (⁦Na⁺⁩)",
+      "یون کلرید (⁦Cl⁻⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "According to the Arrhenius theory, acids are substances that increase the concentration of which ion when dissolved in water?",
+     "grading_key": "- [1] Hydronium ion (H₃O⁺)",
+     "final_resolution": "Hydronium ion (H₃O⁺)",
+     "notes": "",
+     "keywords": [
+      "Arrhenius theory"
+     ],
+     "distractors": [
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Bar paye-ye nazariye-ye Arrhenius, acid-ha mavadi-and ke ba hal shodan dar ab, ghelzat-e kodam yon ra dar mahlool afzayesh midahand?",
+     "grading_key": "- [1] Yon-e hydronium (H₃O⁺)",
+     "final_resolution": "Yon-e hydronium (H₃O⁺)",
+     "notes": "",
+     "keywords": [
+      "nazariyeh-ye Arrhenius"
+     ],
+     "distractors": [
+      "Yon-e hydroxide (OH⁻)",
+      "Yon-e sodium (Na⁺)",
+      "Yon-e chloride (Cl⁻)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 913,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (ثابت تعادل)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Constant)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Sabet-e Taadol)",
+    "pages": "106–109"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "اگر مقدار عددی ثابت تعادل (⁦K⁩) یک واکنش بسیار بزرگ باشد، این نشان‌دهندهٔ کدام وضعیت در سامانهٔ تعادلی است؟",
+     "grading_key": "- [1] فرآورده‌ها بر واکنش‌دهنده‌ها برتری چشمگیر دارند",
+     "final_resolution": "فرآورده‌ها بر واکنش‌دهنده‌ها برتری چشمگیر دارند",
+     "notes": "",
+     "keywords": [
+      "مقدار ثابت تعادل"
+     ],
+     "distractors": [
+      "واکنش‌دهنده‌ها بر فرآورده‌ها برتری چشمگیر دارند",
+      "سرعت واکنش صفر است",
+      "انرژی فعال‌سازی کاهش یافته است"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "If the equilibrium constant (K) of a reaction is very large, what does this indicate about the equilibrium system?",
+     "grading_key": "- [1] Products are strongly favoured over reactants",
+     "final_resolution": "Products are strongly favoured over reactants",
+     "notes": "",
+     "keywords": [
+      "equilibrium constant value"
+     ],
+     "distractors": [
+      "Reactants are strongly favoured over products",
+      "The reaction rate is zero",
+      "The activation energy has been lowered"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Agar meghdar-e adadi-ye sabet-e taadol (K) yek vakonesh besyar bozorg bashad, in neshan-dahande-ye kodam vaziyat dar samane-ye taadoli ast?",
+     "grading_key": "- [1] Faravarde-ha bar vakonesh-dahande-ha bartari-ye cheshmgir darand",
+     "final_resolution": "Faravarde-ha bar vakonesh-dahande-ha bartari-ye cheshmgir darand",
+     "notes": "",
+     "keywords": [
+      "meghdar-e sabet-e taadol"
+     ],
+     "distractors": [
+      "Vakonesh-dahande-ha bar faravarde-ha bartari-ye cheshmgir darand",
+      "Sorat-e vakonesh sefr ast",
+      "Enerji-ye faal-sazi kahesh yafte ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Dey",
+   "number": 913,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (شتاب متوسط)",
+    "en": "Chapter 1: Motion Along a Straight Line (Average Acceleration)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Shetab-e Motavasset)",
+    "pages": "12–15"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "نسبت تغییر سرعت لحظه‌ای متحرک به بازهٔ زمانی این تغییر، کدام کمیت فیزیکی است؟",
+     "grading_key": "- [1] شتاب متوسط",
+     "final_resolution": "شتاب متوسط",
+     "notes": "",
+     "keywords": [
+      "شتاب متوسط"
+     ],
+     "distractors": [
+      "تندی لحظه‌ای",
+      "سرعت متوسط",
+      "بردار جابه‌جایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "The ratio of an object's change in instantaneous velocity to the time interval of that change is which physical quantity?",
+     "grading_key": "- [1] Average acceleration",
+     "final_resolution": "Average acceleration",
+     "notes": "",
+     "keywords": [
+      "average acceleration"
+     ],
+     "distractors": [
+      "Instantaneous speed",
+      "Average velocity",
+      "Displacement vector"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Nesbat-e taghyir-e sorat-e lahzei-ye motaharrek be baze-ye zamani-ye in taghyir, kodam kamiyat-e fiziki ast?",
+     "grading_key": "- [1] Shetab-e motavasset",
+     "final_resolution": "Shetab-e motavasset",
+     "notes": "",
+     "keywords": [
+      "shetab-e motavasset"
+     ],
+     "distractors": [
+      "Tondi-ye lahzei",
+      "Sorat-e motavasset",
+      "Bordar-e jabejayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 913,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (تندی موج در ریسمان)",
+    "en": "Chapter 3: Oscillations and Waves (Wave Speed in a String)",
+    "tr": "Fasl 3: Navasan va Moj (Tondi-ye Moj dar Risman)",
+    "pages": "70–73"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "تندی انتشار موج عرضی در یک ریسمان کشیده، با جذر کدام ویژگی ریسمان رابطهٔ وارون دارد؟",
+     "grading_key": "- [1] چگالی خطی (⁦μ⁩)",
+     "final_resolution": "چگالی خطی (⁦μ⁩)",
+     "notes": "",
+     "keywords": [
+      "چگالی خطی"
+     ],
+     "distractors": [
+      "نیروی کشش (⁦F⁩)",
+      "طول ریسمان (⁦L⁩)",
+      "بسامد موج (⁦f⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "The speed of a transverse wave on a stretched string is inversely proportional to the square root of which property of the string?",
+     "grading_key": "- [1] Linear mass density (μ)",
+     "final_resolution": "Linear mass density (μ)",
+     "notes": "",
+     "keywords": [
+      "linear mass density"
+     ],
+     "distractors": [
+      "Tension (F)",
+      "Length (L)",
+      "Wave frequency (f)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Tondi-ye enteshar-e moj-e arzi dar yek risman-e keshide, ba jazr-e kodam vizhegi-ye risman rabete-ye varun darad?",
+     "grading_key": "- [1] Chegali-ye khatti (μ)",
+     "final_resolution": "Chegali-ye khatti (μ)",
+     "notes": "",
+     "keywords": [
+      "chegali-ye khatti"
+     ],
+     "distractors": [
+      "Niroo-ye keshesh (F)",
+      "Tool-e risman (L)",
+      "Basamad-e moj (f)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 913,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: سؤال‌های ضمیمه)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Tag Questions)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Soalat-e Zamimeh)",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست سؤال ضمیمه را برای کامل کردن جمله انتخاب کنید:\n⁦'You haven't seen my grammar book today, _______?'⁩",
+     "grading_key": "- [1] ⁦have you⁩",
+     "final_resolution": "⁦have you⁩",
+     "notes": "",
+     "keywords": [
+      "سؤالات ضمیمه"
+     ],
+     "distractors": [
+      "⁦haven't you⁩",
+      "⁦do you⁩",
+      "⁦did you⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct tag question to complete the sentence:\n'You haven't seen my grammar book today, _______?'",
+     "grading_key": "- [1] have you",
+     "final_resolution": "have you",
+     "notes": "",
+     "keywords": [
+      "tag questions"
+     ],
+     "distractors": [
+      "haven't you",
+      "do you",
+      "did you"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e soal-e zamime ra baraye kamel kardan-e jomle entekhab konid:\n'You haven't seen my grammar book today, _______?'",
+     "grading_key": "- [1] have you",
+     "final_resolution": "have you",
+     "notes": "",
+     "keywords": [
+      "soalat-e zamimeh"
+     ],
+     "distractors": [
+      "haven't you",
+      "do you",
+      "did you"
+     ]
+    }
+   }
+  }
+ ]
+}
