@@ -1,0 +1,433 @@
+{
+ "version": 41,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 934,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در عمل آنزیم، پیش‌ماده ابتدا به کدام بخش ویژهٔ آنزیم که ساختار فضایی مکمل آن را دارد متصل می‌شود؟",
+     "grading_key": "- [1] جایگاه فعال",
+     "final_resolution": "جایگاه فعال",
+     "notes": "",
+     "keywords": [
+      "جایگاه فعال"
+     ],
+     "distractors": [
+      "جایگاه آلوستری",
+      "کوآنزیم",
+      "زنجیرهٔ اصلی (اسکلت)"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "When an enzyme works, to which specific region with a complementary shape does the substrate first bind?",
+     "grading_key": "- [1] Active site",
+     "final_resolution": "Active site",
+     "notes": "",
+     "keywords": [
+      "active site"
+     ],
+     "distractors": [
+      "Allosteric site",
+      "Coenzyme",
+      "Backbone chain"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar amal-e anzim, pish-made ebteda be kodam bakhsh-e vizhe-ye anzim ke sakhtar-e fazayi-ye mokammel-ash ra darad mottasel mishavad?",
+     "grading_key": "- [1] Jaygah-e faal",
+     "final_resolution": "Jaygah-e faal",
+     "notes": "",
+     "keywords": [
+      "jaygah-e faal"
+     ],
+     "distractors": [
+      "Jaygah-e allosteric",
+      "Coenzyme",
+      "Zanjire-ye asli (eskelet)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 934,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: واکنش‌های وابسته به نور)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Light-Dependent Reactions)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در زنجیرهٔ انتقال الکترون غشای تیلاکوئید، پروتون‌های حاصل از تجزیهٔ نوری آب مستقیماً در کدام فضا انباشته می‌شوند؟",
+     "grading_key": "- [1] فضای درون تیلاکوئید",
+     "final_resolution": "فضای درون تیلاکوئید",
+     "notes": "",
+     "keywords": [
+      "فضای درون تیلاکوئید"
+     ],
+     "distractors": [
+      "بستره (استروما)",
+      "فضای بین دو غشا",
+      "میان‌یاخته (سیتوپلاسم)"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the electron transport chain of the thylakoid membrane, the protons released by the photolysis of water collect directly in which space?",
+     "grading_key": "- [1] Thylakoid lumen",
+     "final_resolution": "Thylakoid lumen",
+     "notes": "",
+     "keywords": [
+      "thylakoid lumen"
+     ],
+     "distractors": [
+      "Stroma",
+      "Intermembrane space",
+      "Cytoplasm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar zanjire-ye enteghal-e electron-e ghesha-ye thylakoid, proton-haye hasel az tajzie-ye noori-ye ab mostaghiman dar kodam faza anbashte mishavand?",
+     "grading_key": "- [1] Faza-ye daroon-e thylakoid",
+     "final_resolution": "Faza-ye daroon-e thylakoid",
+     "notes": "",
+     "keywords": [
+      "faza-ye daroon-e thylakoid"
+     ],
+     "distractors": [
+      "Bastare (stroma)",
+      "Faza-ye beyn-e do ghesha",
+      "Miyan-yakhte (cytoplasm)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 934,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (صابون‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Soaps)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Saboon-ha)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "سرِ قطبی و آب‌دوست (باردار) در مولکول یک صابون معمولی، کدام گروه عاملی یونی است؟",
+     "grading_key": "- [1] گروه کربوکسیلات (⁦–COO⁻⁩)",
+     "final_resolution": "گروه کربوکسیلات (⁦–COO⁻⁩)",
+     "notes": "",
+     "keywords": [
+      "گروه کربوکسیلات"
+     ],
+     "distractors": [
+      "گروه سولفونات (⁦–SO₃⁻⁩)",
+      "گروه هیدروکسیل (⁦–OH⁩)",
+      "گروه آمین (⁦–NH₂⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "The polar, water-loving (charged) head of an ordinary soap molecule is which ionic functional group?",
+     "grading_key": "- [1] Carboxylate group (–COO⁻)",
+     "final_resolution": "Carboxylate group (–COO⁻)",
+     "notes": "",
+     "keywords": [
+      "carboxylate group"
+     ],
+     "distractors": [
+      "Sulfonate group (–SO₃⁻)",
+      "Hydroxyl group (–OH)",
+      "Amine group (–NH₂)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Sar-e ghotbi va ab-doost (bardar) dar molekul-e yek saboon-e maamooli, kodam gorooh-e ameli-ye yoni ast?",
+     "grading_key": "- [1] Gorooh-e carboxylate (–COO⁻)",
+     "final_resolution": "Gorooh-e carboxylate (–COO⁻)",
+     "notes": "",
+     "keywords": [
+      "gorooh-e carboxylate"
+     ],
+     "distractors": [
+      "Gorooh-e sulfonate (–SO₃⁻)",
+      "Gorooh-e hydroxyl (–OH)",
+      "Gorooh-e amine (–NH₂)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 934,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (سلول گالوانی روی-مس)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Zinc-Copper Galvanic Cell)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Selool-e Galvani-ye Rooy-Mes)",
+    "pages": "38–41"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در یک سلول گالوانی استاندارد روی-مس، فلز روی چون پتانسیل کاهشی استاندارد (⁦E°⁩) کمتری از مس دارد، کدام الکترود است؟",
+     "grading_key": "- [1] آند",
+     "final_resolution": "آند",
+     "notes": "",
+     "keywords": [
+      "الکترود آند"
+     ],
+     "distractors": [
+      "کاتد",
+      "پل نمکی",
+      "قطب مثبت"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In a standard zinc-copper galvanic cell, which electrode is the zinc, because its standard reduction potential (E°) is lower than copper’s?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "anode electrode"
+     ],
+     "distractors": [
+      "Cathode",
+      "Salt bridge",
+      "Positive terminal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar yek selool-e galvani-ye standard-e rooy-mes, felez-e rooy chon potansiel-e kaheshi-ye standard (E°)-e kamtari az mes darad, kodam electrode ast?",
+     "grading_key": "- [1] Anode",
+     "final_resolution": "Anode",
+     "notes": "",
+     "keywords": [
+      "electrode-e anode"
+     ],
+     "distractors": [
+      "Cathode",
+      "Pol-e namaki",
+      "Ghotb-e mosbat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 934,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون سوم نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Third Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Sevvom-e Newton)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون سوم نیوتون، نیروهای کنش و واکنش همواره بر چند جسم وارد می‌شوند؟",
+     "grading_key": "- [1] دو جسم متفاوت",
+     "final_resolution": "دو جسم متفاوت",
+     "notes": "",
+     "keywords": [
+      "نیروهای کنش و واکنش"
+     ],
+     "distractors": [
+      "یک جسم واحد",
+      "یک نقطهٔ منفرد",
+      "سه جسم به‌طور هم‌زمان"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Newton's third law, action and reaction forces always act on how many objects?",
+     "grading_key": "- [1] Two different objects",
+     "final_resolution": "Two different objects",
+     "notes": "",
+     "keywords": [
+      "action and reaction forces"
+     ],
+     "distractors": [
+      "One and the same object",
+      "A single point",
+      "Three objects at once"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e sevvom-e Newton, niroo-haye konesh va vakonesh hamvare bar chand jesm vared mishavand?",
+     "grading_key": "- [1] Do jesm-e motefavet",
+     "final_resolution": "Do jesm-e motefavet",
+     "notes": "",
+     "keywords": [
+      "niroo-haye konesh va vakonesh"
+     ],
+     "distractors": [
+      "Yek jesm-e vahed",
+      "Yek noghte-ye monfared",
+      "Se jesm be tor-e ham-zaman"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 934,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست موج)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Moj)",
+    "pages": "80–82"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی موج صوتی از هوای گرم وارد هوای سرد می‌شود (بسامد ثابت می‌ماند)، طول موج آن چه تغییری می‌کند؟",
+     "grading_key": "- [1] کم می‌شود",
+     "final_resolution": "کم می‌شود",
+     "notes": "",
+     "keywords": [
+      "طول موج صوت"
+     ],
+     "distractors": [
+      "زیاد می‌شود",
+      "تغییر نمی‌کند",
+      "همراه با بسامد دو برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a sound wave passes from warm air into cold air (its frequency stays the same), how does its wavelength change?",
+     "grading_key": "- [1] It decreases",
+     "final_resolution": "It decreases",
+     "notes": "",
+     "keywords": [
+      "sound wavelength"
+     ],
+     "distractors": [
+      "It increases",
+      "It does not change",
+      "It doubles, along with the frequency"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti moj-e soti az hava-ye garm vared-e hava-ye sard mishavad (basamad sabet mimanad), tool-e moj-ash che taghyiri mikonad?",
+     "grading_key": "- [1] Kam mishavad",
+     "final_resolution": "Kam mishavad",
+     "notes": "",
+     "keywords": [
+      "tool-e moj-e soti"
+     ],
+     "distractors": [
+      "Ziad mishavad",
+      "Taghyir nemikonad",
+      "Hamrah ba basamad do barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 934,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'We must avoid cutting down trees because it can cause serious _______ to the ecosystem.'⁩",
+     "grading_key": "- [1] ⁦damage⁩",
+     "final_resolution": "⁦damage⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦appreciation⁩",
+      "⁦protection⁩",
+      "⁦production⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'We must avoid cutting down trees because it can cause serious _______ to the ecosystem.'",
+     "grading_key": "- [1] damage",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "appreciation",
+      "protection",
+      "production"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'We must avoid cutting down trees because it can cause serious _______ to the ecosystem.'",
+     "grading_key": "- [1] damage",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "appreciation",
+      "protection",
+      "production"
+     ]
+    }
+   }
+  }
+ ]
+}
