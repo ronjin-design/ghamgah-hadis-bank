@@ -1,0 +1,433 @@
+{
+ "version": 26,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 919,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در ساختار سوم پروتئین‌ها، تشکیل کدام پیوند اشتراکی قوی میان گروه‌های سولفیدریل آمینواسیدهای سیستئین، ساختار سه‌بعدی زنجیره را پایدار می‌کند؟",
+     "grading_key": "- [1] پیوند (پل) دی‌سولفیدی",
+     "final_resolution": "پیوند (پل) دی‌سولفیدی",
+     "notes": "",
+     "keywords": [
+      "پیوند دی‌سولفیدی"
+     ],
+     "distractors": [
+      "پیوند هیدروژنی",
+      "پیوند یونی",
+      "پیوند پپتیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In the tertiary structure of proteins, which strong covalent bond between the sulfhydryl groups of cysteines stabilizes the three-dimensional chain?",
+     "grading_key": "- [1] Disulfide bridge",
+     "final_resolution": "Disulfide bridge",
+     "notes": "",
+     "keywords": [
+      "disulfide bridge"
+     ],
+     "distractors": [
+      "Hydrogen bond",
+      "Ionic bond",
+      "Peptide bond"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar sakhtar-e sevvom-e protein-ha, tashkil-e kodam peyvand-e eshteraki-ye ghavi miyan-e gorooh-haye sulfhydryl-e amino acid-haye cysteine, sakhtar-e se-bodi-ye zanjire ra payedar mikonad?",
+     "grading_key": "- [1] Peyvand (pol)-e disulfide",
+     "final_resolution": "Peyvand (pol)-e disulfide",
+     "notes": "",
+     "keywords": [
+      "peyvand-e disulfide"
+     ],
+     "distractors": [
+      "Peyvand-e hidrozheni",
+      "Peyvand-e yoni",
+      "Peyvand-e peptidi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 919,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در مهندسی پروتئین، با جایگزینی آمینواسیدهای یک آنزیم کاری می‌کنند که آنزیم در محیطی اسیدی‌تر یا خنثی‌تر بهتر کار کند. کدام ویژگی آنزیم تغییر داده شده است؟",
+     "grading_key": "- [1] ⁦pH⁩ بهینه",
+     "final_resolution": "⁦pH⁩ بهینه",
+     "notes": "",
+     "keywords": [
+      "pH بهینه"
+     ],
+     "distractors": [
+      "پایداری حرارتی",
+      "جرم مولکولی",
+      "انحلال‌پذیری در آب"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In protein engineering, amino acids of an enzyme are replaced so that it works better in a more acidic or more neutral environment. Which property of the enzyme has been changed?",
+     "grading_key": "- [1] Optimum pH",
+     "final_resolution": "Optimum pH",
+     "notes": "",
+     "keywords": [
+      "optimum pH"
+     ],
+     "distractors": [
+      "Thermal stability",
+      "Molecular mass",
+      "Solubility in water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar mohandesi-ye protein, ba jaygozini-ye amino acid-haye yek anzim kari mikonand ke anzim dar mohiti asidi-tar ya khonsa-tar behtar kar konad. Kodam vizhegi-ye anzim taghyir dade shode ast?",
+     "grading_key": "- [1] pH-e behine",
+     "final_resolution": "pH-e behine",
+     "notes": "",
+     "keywords": [
+      "pH-e behineh"
+     ],
+     "distractors": [
+      "Paydari-ye hararti",
+      "Jerm-e molekuli",
+      "Enhelal-paziri dar ab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 919,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای یونی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Ionic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Yoni)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "رسانایی الکتریکی خوب در حالت مذاب و محلول، اما نارسانا بودن در حالت جامد، ویژگی اصلی کدام دسته از جامدهاست؟",
+     "grading_key": "- [1] جامد یونی",
+     "final_resolution": "جامد یونی",
+     "notes": "",
+     "keywords": [
+      "جامد یونی"
+     ],
+     "distractors": [
+      "جامد مولکولی",
+      "جامد کووالانسی (شبکه‌ای)",
+      "جامد فلزی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Good electrical conductivity when molten or dissolved, but no conductivity in the solid state, is the main feature of which class of solids?",
+     "grading_key": "- [1] Ionic solid",
+     "final_resolution": "Ionic solid",
+     "notes": "",
+     "keywords": [
+      "ionic solid"
+     ],
+     "distractors": [
+      "Molecular solid",
+      "Covalent network solid",
+      "Metallic solid"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Rasanayi-ye electriki-ye khoob dar halat-e mozab va mahlool, amma narasana boodan dar halat-e jamed, vizhegi-ye asli-ye kodam daste az jamed-hast?",
+     "grading_key": "- [1] Jamed-e yoni",
+     "final_resolution": "Jamed-e yoni",
+     "notes": "",
+     "keywords": [
+      "jamed-e yoni"
+     ],
+     "distractors": [
+      "Jamed-e molekuli",
+      "Jamed-e covalent (shabake-i)",
+      "Jamed-e felezi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 919,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier’s Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
+    "pages": "114–116"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "افزودن یک کاتالیزگر مناسب به یک سامانهٔ گازی در حال تعادل، چه اثری بر جهت تعادل و غلظت‌های تعادلی دارد؟",
+     "grading_key": "- [1] تعادل جابه‌جا نمی‌شود و غلظت‌های تعادلی تغییر نمی‌کنند",
+     "final_resolution": "تعادل جابه‌جا نمی‌شود و غلظت‌های تعادلی تغییر نمی‌کنند",
+     "notes": "",
+     "keywords": [
+      "اثر کاتالیزگر بر تعادل"
+     ],
+     "distractors": [
+      "تعادل به سمت رفت (فرآورده‌ها) جابه‌جا می‌شود",
+      "تعادل به سمت برگشت (واکنش‌دهنده‌ها) جابه‌جا می‌شود",
+      "مقدار ثابت تعادل (⁦K⁩) افزایش می‌یابد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "How does adding a suitable catalyst to a gaseous system at equilibrium affect the direction of the equilibrium and the equilibrium concentrations?",
+     "grading_key": "- [1] No shift, and the equilibrium concentrations do not change",
+     "final_resolution": "No shift, and the equilibrium concentrations do not change",
+     "notes": "",
+     "keywords": [
+      "catalyst effect on equilibrium"
+     ],
+     "distractors": [
+      "It shifts toward the forward (product) side",
+      "It shifts toward the reverse (reactant) side",
+      "It increases the equilibrium constant K"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Afzoodan-e yek catalyzgar-e monaseb be yek samane-ye gazi dar hal-e taadol, che asari bar jahat-e taadol va ghelzat-haye taadoli darad?",
+     "grading_key": "- [1] Taadol jabeja nemishavad va ghelzat-haye taadoli taghyir nemikonand",
+     "final_resolution": "Taadol jabeja nemishavad va ghelzat-haye taadoli taghyir nemikonand",
+     "notes": "",
+     "keywords": [
+      "asar-e catalyzgar bar taadol"
+     ],
+     "distractors": [
+      "Taadol be samt-e raft (faravarde-ha) jabeja mishavad",
+      "Taadol be samt-e bargasht (vakonesh-dahande-ha) jabeja mishavad",
+      "Meghdar-e sabet-e taadol (K) afzayesh miyabad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 919,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون سوم نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Third Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Sevvom-e Newton)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون سوم نیوتون، نیروهای کنش و واکنش همواره در کدام ویژگی یکسان‌اند؟",
+     "grading_key": "- [1] اندازه",
+     "final_resolution": "اندازه",
+     "notes": "",
+     "keywords": [
+      "قانون سوم نیوتون"
+     ],
+     "distractors": [
+      "جهت",
+      "جسمی که بر آن وارد می‌شوند",
+      "اثری (شتابی) که ایجاد می‌کنند"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Newton's third law, action and reaction forces are always identical in which property?",
+     "grading_key": "- [1] Magnitude",
+     "final_resolution": "Magnitude",
+     "notes": "",
+     "keywords": [
+      "Newton's third law"
+     ],
+     "distractors": [
+      "Direction",
+      "The object they act on",
+      "The effect (acceleration) they produce"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e sevvom-e Newton, niroo-haye konesh va vakonesh hamvare dar kodam vizhegi yeksan-and?",
+     "grading_key": "- [1] Andaze",
+     "final_resolution": "Andaze",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e sevvom-e Newton"
+     ],
+     "distractors": [
+      "Jahat",
+      "Jesmi ke bar an vared mishavand",
+      "Asari (shetabi) ke ijad mikonand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 919,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (بازتاب موج)",
+    "en": "Chapter 3: Oscillations and Waves (Reflection of Waves)",
+    "tr": "Fasl 3: Navasan va Moj (Baztab-e Moj)",
+    "pages": "78–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی موجی که در یک ریسمان پیش می‌رود به تکیه‌گاهی صلب و ثابت می‌رسد و بازمی‌تابد، فاز موج بازتابیده چه تغییری می‌کند؟",
+     "grading_key": "- [1] ۱۸۰ درجه (⁦π⁩ رادیان) تغییر فاز می‌دهد (وارونه می‌شود)",
+     "final_resolution": "۱۸۰ درجه (⁦π⁩ رادیان) تغییر فاز می‌دهد (وارونه می‌شود)",
+     "notes": "",
+     "keywords": [
+      "بازتاب از مرز سخت"
+     ],
+     "distractors": [
+      "فاز آن تغییر نمی‌کند",
+      "۹۰ درجه تغییر فاز می‌دهد",
+      "بسامد آن دو برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a wave travelling along a string reaches a rigid, fixed support and reflects, how does the phase of the reflected wave change?",
+     "grading_key": "- [1] It shifts by 180° (π radians) — the wave is inverted",
+     "final_resolution": "It shifts by 180° (π radians) — the wave is inverted",
+     "notes": "",
+     "keywords": [
+      "reflection from fixed boundary"
+     ],
+     "distractors": [
+      "Its phase does not change",
+      "It shifts by 90°",
+      "Its frequency doubles"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti moji ke dar yek risman pish miravad be tekye-gahi solb va sabet miresad va baz-mitabad, faz-e moj-e baztabide che taghyiri mikonad?",
+     "grading_key": "- [1] 180 daraje (π radian) taghyir-e faz midahad (varune mishavad)",
+     "final_resolution": "180 daraje (π radian) taghyir-e faz midahad (varune mishavad)",
+     "notes": "",
+     "keywords": [
+      "baztab az marz-e sakht"
+     ],
+     "distractors": [
+      "Faz-ash taghyir nemikonad",
+      "90 daraje taghyir-e faz midahad",
+      "Basamad-ash do barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 919,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Fossil fuels cause severe air pollution; _______, they are still used in many old factories.'⁩",
+     "grading_key": "- [1] ⁦yet⁩",
+     "final_resolution": "⁦yet⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦because⁩",
+      "⁦therefore⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct linking word to complete the sentence:\n'Fossil fuels cause severe air pollution; _______, they are still used in many old factories.'",
+     "grading_key": "- [1] yet",
+     "final_resolution": "yet",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "because",
+      "therefore",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Fossil fuels cause severe air pollution; _______, they are still used in many old factories.'",
+     "grading_key": "- [1] yet",
+     "final_resolution": "yet",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "because",
+      "therefore",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}

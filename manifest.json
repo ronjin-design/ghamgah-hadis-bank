@@ -150,6 +150,12 @@
    "format": 2,
    "file": "pack-0025.json",
    "sha256": "ae5c56dded505f3be593fc4f347dfc18b24ff7006b8bd0acff0b0b5d59ca027c"
+  },
+  {
+   "version": 26,
+   "format": 2,
+   "file": "pack-0026.json",
+   "sha256": "243b4832b2067c4c47c962a4afefc5d568478e90db7257921dab5142587c3944"
   }
  ]
 }
