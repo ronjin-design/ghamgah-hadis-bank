@@ -492,67 +492,6 @@
   },
   {
    "subject": "Chemistry",
-   "session": "1401-Dey",
-   "number": 945,
-   "topic_tag": "kinetics-equilibrium",
-   "total_points": 1.0,
-   "source": "official",
-   "textbook": {
-    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
-    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier’s Principle)",
-    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Asl-e Le Chatelier)",
-    "pages": "112–114"
-   },
-   "text": {
-    "fa": {
-     "topic_label": "سینتیک و تعادل",
-     "question": "بنابر اصل لوشاتلیه، در یک سامانهٔ تعادلی گازی گرماده، افزایش دما تعادل را به کدام سمت جابه‌جا می‌کند؟",
-     "grading_key": "- [1] به سمت برگشت (واکنش‌دهنده‌ها)",
-     "final_resolution": "به سمت برگشت (واکنش‌دهنده‌ها)",
-     "notes": "",
-     "keywords": [
-      "اصل لوشاتلیه"
-     ],
-     "distractors": [
-      "به سمت رفت (فرآورده‌ها)",
-      "مقدار ⁦K⁩ را افزایش می‌دهد",
-      "واکنش بی‌درنگ متوقف می‌شود"
-     ]
-    },
-    "en": {
-     "topic_label": "Kinetics & Equilibrium",
-     "question": "By Le Chatelier's principle, in an exothermic gaseous equilibrium, how does raising the temperature shift the equilibrium?",
-     "grading_key": "- [1] Toward the reverse (reactant) side",
-     "final_resolution": "Toward the reverse (reactant) side",
-     "notes": "",
-     "keywords": [
-      "Le Chatelier's principle"
-     ],
-     "distractors": [
-      "Toward the forward (product) side",
-      "It increases the value of K",
-      "The reaction stops immediately"
-     ]
-    },
-    "tr": {
-     "topic_label": "Sinetik va taadol",
-     "question": "Bena bar asl-e Le Chatelier, dar yek samane-ye taadoli-ye gazi-ye garmade, afzayesh-e dama taadol ra be kodam samt jabeja mikonad?",
-     "grading_key": "- [1] Be samt-e bargasht (vakonesh-dahande-ha)",
-     "final_resolution": "Be samt-e bargasht (vakonesh-dahande-ha)",
-     "notes": "",
-     "keywords": [
-      "asl-e Le Chatelier"
-     ],
-     "distractors": [
-      "Be samt-e raft (faravarde-ha)",
-      "Meghdar-e K ra afzayesh midahad",
-      "Vakonesh bi-derang motevaghef mishavad"
-     ]
-    }
-   }
-  },
-  {
-   "subject": "Chemistry",
    "session": "1402-Khordad",
    "number": 945,
    "topic_tag": "health-cleansing",
