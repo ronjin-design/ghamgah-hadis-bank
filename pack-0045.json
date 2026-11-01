@@ -1,0 +1,1226 @@
+{
+ "version": 45,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 938,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام دانشمند با پراش پرتو ایکس، ساختار مارپیچی دنا (⁦DNA⁩) را نشان داد، بی‌آنکه قواعد دقیق جفت شدن بازها را کشف کند؟",
+     "grading_key": "- [1] روزالیند فرانکلین",
+     "final_resolution": "روزالیند فرانکلین",
+     "notes": "",
+     "keywords": [
+      "پراش پرتو ایکس"
+     ],
+     "distractors": [
+      "جیمز واتسون",
+      "فرانسیس کریک",
+      "اروین شارگاف"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which scientist used X-ray diffraction to reveal the helical structure of DNA, without discovering the exact base-pairing rules?",
+     "grading_key": "- [1] Rosalind Franklin",
+     "final_resolution": "Rosalind Franklin",
+     "notes": "",
+     "keywords": [
+      "X-ray diffraction"
+     ],
+     "distractors": [
+      "James Watson",
+      "Francis Crick",
+      "Erwin Chargaff"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam daneshmand ba parash-e partov-e X, sakhtar-e marpichi-ye DNA ra neshan dad, bi-anke ghavaed-e daghigh-e joft shodan-e baz-ha ra kashf konad?",
+     "grading_key": "- [1] Rosalind Franklin",
+     "final_resolution": "Rosalind Franklin",
+     "notes": "",
+     "keywords": [
+      "parash-e partov-e X"
+     ],
+     "distractors": [
+      "James Watson",
+      "Francis Crick",
+      "Erwin Chargaff"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 938,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "32–35"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در مرحلهٔ طویل شدن ترجمه، کدام پیوند اشتراکی آمینواسیدهای مجاور را در زنجیرهٔ پلی‌پپتیدی در حال ساخت به هم وصل می‌کند؟",
+     "grading_key": "- [1] پیوند پپتیدی",
+     "final_resolution": "پیوند پپتیدی",
+     "notes": "",
+     "keywords": [
+      "پیوند پپتیدی"
+     ],
+     "distractors": [
+      "پیوند هیدروژنی",
+      "پیوند فسفودی‌استر",
+      "پل دی‌سولفیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In the elongation stage of translation, which covalent bond links neighbouring amino acids in the growing polypeptide chain?",
+     "grading_key": "- [1] Peptide bond",
+     "final_resolution": "Peptide bond",
+     "notes": "",
+     "keywords": [
+      "peptide bond"
+     ],
+     "distractors": [
+      "Hydrogen bond",
+      "Phosphodiester bond",
+      "Disulfide bridge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar marhale-ye tavil shodan-e tarjome, kodam peyvand-e eshteraki amino acid-haye mojaver ra dar zanjire-ye polypeptide-e dar hal-e sakht be ham vasl mikonad?",
+     "grading_key": "- [1] Peyvand-e peptidi",
+     "final_resolution": "Peyvand-e peptidi",
+     "notes": "",
+     "keywords": [
+      "peyvand-e peptidi"
+     ],
+     "distractors": [
+      "Peyvand-e hidrozheni",
+      "Peyvand-e phosphodiester",
+      "Pol-e disulfide"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 938,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (وراثت وابسته به جنس)",
+    "en": "Chapter 3: Transmission of Information (Sex-Linked Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Verasat-e Vabaste be Jens)",
+    "pages": "44–47"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "بیماری هموفیلی در انسان نمونهٔ کدام الگوی وراثت است؟",
+     "grading_key": "- [1] وابسته به ⁦X⁩ نهفته",
+     "final_resolution": "وابسته به ⁦X⁩ نهفته",
+     "notes": "",
+     "keywords": [
+      "وراثت وابسته به X"
+     ],
+     "distractors": [
+      "اتوزومی بارز",
+      "بارزیت ناقص",
+      "هم‌توانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "Hemophilia in humans is a classic example of which inheritance pattern?",
+     "grading_key": "- [1] X-linked recessive",
+     "final_resolution": "X-linked recessive",
+     "notes": "",
+     "keywords": [
+      "X-linked inheritance"
+     ],
+     "distractors": [
+      "Autosomal dominant",
+      "Incomplete dominance",
+      "Codominance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Bimari-ye hemophilia dar ensan nemoone-ye kodam olgoo-ye verasat ast?",
+     "grading_key": "- [1] Vabaste be X-e nahofte",
+     "final_resolution": "Vabaste be X-e nahofte",
+     "notes": "",
+     "keywords": [
+      "verasat-e vabasteh be X"
+     ],
+     "distractors": [
+      "Autosomi-ye barez",
+      "Barezit-e naghes",
+      "Ham-tavani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 938,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (The Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Charkhe-ye Krebs)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "کدام ترکیب چهارکربنی در گام پایانی چرخهٔ کربس بازسازی می‌شود تا دوباره با استیل کوآنزیم آ ترکیب شود؟",
+     "grading_key": "- [1] اگزالواستات",
+     "final_resolution": "اگزالواستات",
+     "notes": "",
+     "keywords": [
+      "اگزالواستات"
+     ],
+     "distractors": [
+      "سیترات",
+      "پیرووات",
+      "مالات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Which 4-carbon compound is regenerated in the last step of the Krebs cycle so that it can combine with acetyl-CoA again?",
+     "grading_key": "- [1] Oxaloacetate",
+     "final_resolution": "Oxaloacetate",
+     "notes": "",
+     "keywords": [
+      "oxaloacetate"
+     ],
+     "distractors": [
+      "Citrate",
+      "Pyruvate",
+      "Malate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Kodam tarkib-e chahar-karbani dar gam-e payani-ye charkhe-ye Krebs bazsazi mishavad ta dobare ba acetyl coenzyme A tarkib shavad?",
+     "grading_key": "- [1] Oxaloacetate",
+     "final_resolution": "Oxaloacetate",
+     "notes": "",
+     "keywords": [
+      "oxaloacetate"
+     ],
+     "distractors": [
+      "Citrate",
+      "Pyruvate",
+      "Malate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1402-Khordad",
+   "number": 938,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (تنفس نوری)",
+    "en": "Chapter 6: From Energy to Matter (Photorespiration)",
+    "tr": "Fasl 6: Az Enerji be Madde (Tanaffos-e Noori)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در تنفس نوری گیاهان ⁦C3⁩، آنزیم روبیسکو به جای کربن دی‌اکسید با کدام گاز واکنش می‌دهد؟",
+     "grading_key": "- [1] اکسیژن (⁦O₂⁩)",
+     "final_resolution": "اکسیژن (⁦O₂⁩)",
+     "notes": "",
+     "keywords": [
+      "تنفس نوری"
+     ],
+     "distractors": [
+      "نیتروژن (⁦N₂⁩)",
+      "هیدروژن سولفید (⁦H₂S⁩)",
+      "بخار آب (⁦H₂O⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the photorespiration of C3 plants, the enzyme Rubisco reacts with which gas instead of carbon dioxide?",
+     "grading_key": "- [1] Oxygen (O₂)",
+     "final_resolution": "Oxygen (O₂)",
+     "notes": "",
+     "keywords": [
+      "photorespiration"
+     ],
+     "distractors": [
+      "Nitrogen (N₂)",
+      "Hydrogen sulfide (H₂S)",
+      "Water vapour (H₂O)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar tanaffos-e noori-ye giahan-e C3, anzim-e Rubisco be jaye carbon dioxide ba kodam gaz vakonesh midahad?",
+     "grading_key": "- [1] Oxygen (O₂)",
+     "final_resolution": "Oxygen (O₂)",
+     "notes": "",
+     "keywords": [
+      "tanaffos-e noori"
+     ],
+     "distractors": [
+      "Nitrogen (N₂)",
+      "Hydrogen sulfide (H₂S)",
+      "Bokhar-e ab (H₂O)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 938,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Asid-ha va Baz-ha)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام ماده یک اسید قوی آرنیوس است که محلول آبی آن غلظت یون هیدرونیوم را به‌شدت افزایش می‌دهد؟",
+     "grading_key": "- [1] هیدروکلریک اسید (⁦HCl⁩)",
+     "final_resolution": "هیدروکلریک اسید (⁦HCl⁩)",
+     "notes": "",
+     "keywords": [
+      "اسید آرنیوس"
+     ],
+     "distractors": [
+      "آمونیاک (⁦NH₃⁩)",
+      "استیک اسید (⁦CH₃COOH⁩)",
+      "سدیم هیدروکسید (⁦NaOH⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which substance is a strong Arrhenius acid whose aqueous solution sharply raises the hydronium ion concentration?",
+     "grading_key": "- [1] Hydrochloric acid (HCl)",
+     "final_resolution": "Hydrochloric acid (HCl)",
+     "notes": "",
+     "keywords": [
+      "Arrhenius acid"
+     ],
+     "distractors": [
+      "Ammonia (NH₃)",
+      "Acetic acid (CH₃COOH)",
+      "Sodium hydroxide (NaOH)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam madde yek acid-e ghavi-ye Arrhenius ast ke mahlool-e abi-ash ghelzat-e yon-e hydronium ra be-shedat afzayesh midahad?",
+     "grading_key": "- [1] Hydrochloric acid (HCl)",
+     "final_resolution": "Hydrochloric acid (HCl)",
+     "notes": "",
+     "keywords": [
+      "asid-e Arrhenius"
+     ],
+     "distractors": [
+      "Ammonia (NH₃)",
+      "Acetic acid (CH₃COOH)",
+      "Sodium hydroxide (NaOH)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 938,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی آهن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Corrosion of Iron)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi-ye Ahan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در زنگ‌زدن آهن در محیط مرطوب، کدام نیم‌واکنش کاهش در ناحیهٔ کاتدی رخ می‌دهد؟",
+     "grading_key": "- [1] ⁦O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)⁩",
+     "final_resolution": "⁦O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)⁩",
+     "notes": "",
+     "keywords": [
+      "ناحیهٔ کاتدی آهن"
+     ],
+     "distractors": [
+      "⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩",
+      "⁦2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)⁩",
+      "⁦Fe²⁺(aq) + 2e⁻ → Fe(s)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "When iron rusts in a moist environment, which reduction half-reaction takes place in the cathodic region?",
+     "grading_key": "- [1] O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+     "final_resolution": "O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+     "notes": "",
+     "keywords": [
+      "iron cathodic region"
+     ],
+     "distractors": [
+      "Fe(s) → Fe²⁺(aq) + 2e⁻",
+      "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)",
+      "Fe²⁺(aq) + 2e⁻ → Fe(s)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar zang-zadan-e ahan dar mohit-e martoob, kodam nim-vakonesh-e kahesh dar nahiye-ye cathodi rokh midahad?",
+     "grading_key": "- [1] O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+     "final_resolution": "O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+     "notes": "",
+     "keywords": [
+      "nahiye-ye cathodi-ye ahan"
+     ],
+     "distractors": [
+      "Fe(s) → Fe²⁺(aq) + 2e⁻",
+      "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)",
+      "Fe²⁺(aq) + 2e⁻ → Fe(s)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 938,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای یونی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Ionic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Yoni)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "به دلیل سختی شبکهٔ بلوری و چیدمان فشردهٔ کاتیون‌ها و آنیون‌ها، کدام ویژگی در جامدهای یونی دیده می‌شود؟",
+     "grading_key": "- [1] شکنندگی (خرد شدن زیر ضربه)",
+     "final_resolution": "شکنندگی (خرد شدن زیر ضربه)",
+     "notes": "",
+     "keywords": [
+      "جامد یونی"
+     ],
+     "distractors": [
+      "چکش‌خواری زیاد",
+      "رسانایی الکتریکی عالی در حالت جامد",
+      "نقطهٔ ذوب پایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Because their crystal lattice is rigid and the ions are tightly packed, which property do ionic solids show?",
+     "grading_key": "- [1] Brittleness (they shatter under stress)",
+     "final_resolution": "Brittleness (they shatter under stress)",
+     "notes": "",
+     "keywords": [
+      "ionic solid"
+     ],
+     "distractors": [
+      "High malleability",
+      "Excellent electrical conductivity as a solid",
+      "A low melting point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Be dalil-e sakhti-ye shabake-ye boluri va chidman-e feshorde-ye cation-ha va anion-ha, kodam vizhegi dar jamed-haye yoni dide mishavad?",
+     "grading_key": "- [1] Shekanandegi (khord shodan zir-e zarbe)",
+     "final_resolution": "Shekanandegi (khord shodan zir-e zarbe)",
+     "notes": "",
+     "keywords": [
+      "jamed-e yoni"
+     ],
+     "distractors": [
+      "Chakosh-khari-ye ziad",
+      "Rasanayi-ye electriki-ye ali dar halat-e jamed",
+      "Noghte-ye zob-e payin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 938,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (ثابت تعادل)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Constant)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Sabet-e Taadol)",
+    "pages": "108–110"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "تغییر کدام عامل، مقدار عددی ثابت تعادل (⁦K⁩) یک واکنش گازی را تغییر می‌دهد؟",
+     "grading_key": "- [1] دما",
+     "final_resolution": "دما",
+     "notes": "",
+     "keywords": [
+      "مقدار ثابت تعادل"
+     ],
+     "distractors": [
+      "فشار کل",
+      "حجم ظرف",
+      "غلظت واکنش‌دهنده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "Changing which factor alters the numerical value of the equilibrium constant (K) of a gaseous reaction?",
+     "grading_key": "- [1] Temperature",
+     "final_resolution": "Temperature",
+     "notes": "",
+     "keywords": [
+      "equilibrium constant value"
+     ],
+     "distractors": [
+      "Total pressure",
+      "Volume of the container",
+      "Reactant concentrations"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Taghyir-e kodam amel, meghdar-e adadi-ye sabet-e taadol (K)-e yek vakonesh-e gazi ra taghyir midahad?",
+     "grading_key": "- [1] Dama",
+     "final_resolution": "Dama",
+     "notes": "",
+     "keywords": [
+      "meghdar-e sabet-e taadol"
+     ],
+     "distractors": [
+      "Feshar-e kol",
+      "Hajm-e zarf",
+      "Ghelzat-e vakonesh-dahande-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Khordad",
+   "number": 938,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (محلول‌های بافر)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Buffer Solutions)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Mahlool-haye Bafer)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام مخلوط، بافر طبیعی بدن انسان برای ثابت نگه داشتن ⁦pH⁩ خون است؟",
+     "grading_key": "- [1] کربنیک اسید و بی‌کربنات (⁦H₂CO₃ / HCO₃⁻⁩)",
+     "final_resolution": "کربنیک اسید و بی‌کربنات (⁦H₂CO₃ / HCO₃⁻⁩)",
+     "notes": "",
+     "keywords": [
+      "بافر خون"
+     ],
+     "distractors": [
+      "هیدروکلریک اسید و سدیم کلرید",
+      "آمونیاک و آمونیوم کلرید",
+      "استیک اسید و استات"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which mixture is the human body's natural buffer for keeping blood pH steady?",
+     "grading_key": "- [1] Carbonic acid and bicarbonate (H₂CO₃ / HCO₃⁻)",
+     "final_resolution": "Carbonic acid and bicarbonate (H₂CO₃ / HCO₃⁻)",
+     "notes": "",
+     "keywords": [
+      "blood buffer system"
+     ],
+     "distractors": [
+      "Hydrochloric acid and sodium chloride",
+      "Ammonia and ammonium chloride",
+      "Acetic acid and acetate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam makhloot, bafer-e tabiei-ye badan-e ensan baraye sabet negah dashtan-e pH-e khoon ast?",
+     "grading_key": "- [1] Carbonic acid va bicarbonate (H₂CO₃ / HCO₃⁻)",
+     "final_resolution": "Carbonic acid va bicarbonate (H₂CO₃ / HCO₃⁻)",
+     "notes": "",
+     "keywords": [
+      "bafer-e khoon"
+     ],
+     "distractors": [
+      "Hydrochloric acid va sodium chloride",
+      "Ammonia va ammonium chloride",
+      "Acetic acid va acetate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 938,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (معادلهٔ مستقل از زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Time-Independent Equation)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Moadele-ye Mostaghel az Zaman)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت بر خط راست با شتاب ثابت، معادلهٔ مستقل از زمان که سرعت را به جابه‌جایی مربوط می‌کند کدام است؟",
+     "grading_key": "- [1] ⁦v² − v₀² = 2aΔx⁩",
+     "final_resolution": "⁦v² − v₀² = 2aΔx⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ مستقل از زمان"
+     ],
+     "distractors": [
+      "⁦x = ½at² + v₀t⁩",
+      "⁦v = at + v₀⁩",
+      "⁦Δx = ½(v + v₀)t⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In straight-line motion with constant acceleration, which is the time-independent equation relating velocity and displacement?",
+     "grading_key": "- [1] v² − v₀² = 2aΔx",
+     "final_resolution": "v² − v₀² = 2aΔx",
+     "notes": "",
+     "keywords": [
+      "time-independent equation"
+     ],
+     "distractors": [
+      "x = ½at² + v₀t",
+      "v = at + v₀",
+      "Δx = ½(v + v₀)t"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat bar khatt-e rast ba shetab-e sabet, moadele-ye mostaghel az zaman ke sorat ra be jabejayi mortabet mikonad kodam ast?",
+     "grading_key": "- [1] v² − v₀² = 2aΔx",
+     "final_resolution": "v² − v₀² = 2aΔx",
+     "notes": "",
+     "keywords": [
+      "moadeleh-ye mostaghel az zaman"
+     ],
+     "distractors": [
+      "x = ½at² + v₀t",
+      "v = at + v₀",
+      "Δx = ½(v + v₀)t"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 938,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون دوم نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Second Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Dovom-e Newton)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر جرم جسمی ثابت بماند و نیروی خالص وارد بر آن سه برابر شود، شتاب آن (⁦a = F/m⁩) چند برابر می‌شود؟",
+     "grading_key": "- [1] سه برابر",
+     "final_resolution": "سه برابر",
+     "notes": "",
+     "keywords": [
+      "قانون دوم نیوتون"
+     ],
+     "distractors": [
+      "نه برابر",
+      "نصف",
+      "تغییر نمی‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the mass of an object stays the same and the net force on it triples, how does its acceleration (a = F/m) change?",
+     "grading_key": "- [1] It triples",
+     "final_resolution": "It triples",
+     "notes": "",
+     "keywords": [
+      "Newton's second law"
+     ],
+     "distractors": [
+      "It becomes nine times larger",
+      "It halves",
+      "It stays the same"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar jerm-e jesmi sabet bemanad va niroo-ye khales-e vared bar an se barabar shavad, shetab-ash (a = F/m) chand barabar mishavad?",
+     "grading_key": "- [1] Se barabar",
+     "final_resolution": "Se barabar",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e dovom-e Newton"
+     ],
+     "distractors": [
+      "Noh barabar",
+      "Nesf",
+      "Taghyir nemikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 938,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (دورهٔ تناوب)",
+    "en": "Chapter 3: Oscillations and Waves (Period)",
+    "tr": "Fasl 3: Navasan va Moj (Dowre-ye Tanavob)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "مدت زمانی که یک نوسانگر هماهنگ ساده یک نوسان کامل انجام می‌دهد چه نام دارد؟",
+     "grading_key": "- [1] دوره (⁦T⁩)",
+     "final_resolution": "دوره (⁦T⁩)",
+     "notes": "",
+     "keywords": [
+      "دورهٔ تناوب"
+     ],
+     "distractors": [
+      "بسامد (⁦f⁩)",
+      "دامنه (⁦A⁩)",
+      "فاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the time a simple harmonic oscillator takes to complete one full oscillation called?",
+     "grading_key": "- [1] Period (T)",
+     "final_resolution": "Period (T)",
+     "notes": "",
+     "keywords": [
+      "wave period"
+     ],
+     "distractors": [
+      "Frequency (f)",
+      "Amplitude (A)",
+      "Phase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Moddat zamani ke yek navasan-gar-e hamahang-e sade yek navasan-e kamel anjam midahad che nam darad?",
+     "grading_key": "- [1] Dowre (T)",
+     "final_resolution": "Dowre (T)",
+     "notes": "",
+     "keywords": [
+      "dowre-ye tanavob"
+     ],
+     "distractors": [
+      "Basamad (f)",
+      "Damane (A)",
+      "Faz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 938,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شدت صوت)",
+    "en": "Chapter 3: Oscillations and Waves (Sound Intensity)",
+    "tr": "Fasl 3: Navasan va Moj (Sheddat-e Sot)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "انرژی صوتی که در هر ثانیه از واحد سطحِ عمود بر جهت انتشار موج می‌گذرد، کدام کمیت است؟",
+     "grading_key": "- [1] شدت صوت (⁦I⁩)",
+     "final_resolution": "شدت صوت (⁦I⁩)",
+     "notes": "",
+     "keywords": [
+      "شدت صوت"
+     ],
+     "distractors": [
+      "بلندی صوت",
+      "بسامد (⁦f⁩)",
+      "تندی صوت (⁦v⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "The sound energy passing each second through a unit area perpendicular to the direction of propagation defines which quantity?",
+     "grading_key": "- [1] Sound intensity (I)",
+     "final_resolution": "Sound intensity (I)",
+     "notes": "",
+     "keywords": [
+      "sound intensity"
+     ],
+     "distractors": [
+      "Loudness",
+      "Frequency (f)",
+      "Speed of sound (v)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Enerji-ye soti ke dar har saniye az vahed-e sath-e amud bar jahat-e enteshar-e moj migozarad, kodam kamiyat ast?",
+     "grading_key": "- [1] Sheddat-e sot (I)",
+     "final_resolution": "Sheddat-e sot (I)",
+     "notes": "",
+     "keywords": [
+      "sheddat-e sot"
+     ],
+     "distractors": [
+      "Bolandi-ye sot",
+      "Basamad (f)",
+      "Tondi-ye sot (v)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 938,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Asar-e Photoelectric)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، ولتاژ متوقف‌کننده (⁦V₀⁩) به‌طور خطی به کدام ویژگی نور فرودی بستگی دارد؟",
+     "grading_key": "- [1] بسامد نور (⁦f⁩)",
+     "final_resolution": "بسامد نور (⁦f⁩)",
+     "notes": "",
+     "keywords": [
+      "ولتاژ متوقف‌کننده"
+     ],
+     "distractors": [
+      "شدت نور",
+      "تعداد کل فوتون‌ها",
+      "مساحت سطح فلز"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, the stopping potential (V₀) depends linearly on which property of the incident light?",
+     "grading_key": "- [1] The frequency of the light (f)",
+     "final_resolution": "The frequency of the light (f)",
+     "notes": "",
+     "keywords": [
+      "stopping potential"
+     ],
+     "distractors": [
+      "The intensity of the light",
+      "The total number of photons",
+      "The surface area of the metal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, voltage-e motevaghef-konande (V₀) be tor-e khatti be kodam vizhegi-ye noor-e forudi bastegi darad?",
+     "grading_key": "- [1] Basamad-e noor (f)",
+     "final_resolution": "Basamad-e noor (f)",
+     "notes": "",
+     "keywords": [
+      "voltage-e motevaghef-konandeh"
+     ],
+     "distractors": [
+      "Sheddat-e noor",
+      "Tedad-e kol-e photon-ha",
+      "Masahat-e sath-e felez"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 938,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (واژگان کاربردی)",
+    "en": "Lesson 1: Sense of Appreciation (Vocabulary in Context)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'We should learn to _______ the value of our parents' sacrifices while they are alive.'⁩",
+     "grading_key": "- [1] ⁦appreciate⁩",
+     "final_resolution": "⁦appreciate⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦neglect⁩",
+      "⁦destroy⁩",
+      "⁦pollute⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the word that completes the sentence:\n'We should learn to _______ the value of our parents' sacrifices while they are alive.'",
+     "grading_key": "- [1] appreciate",
+     "final_resolution": "appreciate",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "neglect",
+      "destroy",
+      "pollute"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'We should learn to _______ the value of our parents' sacrifices while they are alive.'",
+     "grading_key": "- [1] appreciate",
+     "final_resolution": "appreciate",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "neglect",
+      "destroy",
+      "pollute"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 938,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: معلوم و مجهول)",
+    "en": "Lesson 2: Look at the Future (Grammar: Active and Passive)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Maloom va Majhool)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "شکل درست مجهولِ گذشتهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'The old factory _______ down by the government last year to reduce city pollution.'⁩",
+     "grading_key": "- [1] ⁦was shut⁩",
+     "final_resolution": "⁦was shut⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦shuts⁩",
+      "⁦has shut⁩",
+      "⁦were shut⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct simple past passive form to complete the sentence:\n'The old factory _______ down by the government last year to reduce city pollution.'",
+     "grading_key": "- [1] was shut",
+     "final_resolution": "was shut",
+     "notes": "",
+     "keywords": [
+      "simple past passive"
+     ],
+     "distractors": [
+      "shuts",
+      "has shut",
+      "were shut"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'The old factory _______ down by the government last year to reduce city pollution.'",
+     "grading_key": "- [1] was shut",
+     "final_resolution": "was shut",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "shuts",
+      "has shut",
+      "were shut"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 938,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کاربردی)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Coal, oil, and natural gas are non-renewable resources that are called _______ fuels.'⁩",
+     "grading_key": "- [1] ⁦fossil⁩",
+     "final_resolution": "⁦fossil⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦clean⁩",
+      "⁦infinite⁩",
+      "⁦kinetic⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Coal, oil, and natural gas are non-renewable resources that are called _______ fuels.'",
+     "grading_key": "- [1] fossil",
+     "final_resolution": "fossil",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "clean",
+      "infinite",
+      "kinetic"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Coal, oil, and natural gas are non-renewable resources that are called _______ fuels.'",
+     "grading_key": "- [1] fossil",
+     "final_resolution": "fossil",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "clean",
+      "infinite",
+      "kinetic"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 938,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: ضمیرهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Pronouns)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Zamir-haye Moosooli)",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "ضمیر موصولی درست را انتخاب کنید:\n⁦'The scientist _______ discovered the new vaccine was appreciated by everyone.'⁩",
+     "grading_key": "- [1] ⁦who⁩",
+     "final_resolution": "⁦who⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیرهای موصولی"
+     ],
+     "distractors": [
+      "⁦which⁩",
+      "⁦whom⁩",
+      "⁦whose⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct relative pronoun:\n'The scientist _______ discovered the new vaccine was appreciated by everyone.'",
+     "grading_key": "- [1] who",
+     "final_resolution": "who",
+     "notes": "",
+     "keywords": [
+      "relative pronoun"
+     ],
+     "distractors": [
+      "which",
+      "whom",
+      "whose"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Zamir-e moosooli-ye dorost ra entekhab konid:\n'The scientist _______ discovered the new vaccine was appreciated by everyone.'",
+     "grading_key": "- [1] who",
+     "final_resolution": "who",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli"
+     ],
+     "distractors": [
+      "which",
+      "whom",
+      "whose"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 938,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: کلمات ربط تقابلی)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Contrast Linkers)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Kalamat-e Rabt-e Taghaboli)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط تقابلی درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Hydroelectric power is a wonderful energy option; _______, building dams can impact local ecosystems.'⁩",
+     "grading_key": "- [1] ⁦however⁩",
+     "final_resolution": "⁦however⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط تقابلی"
+     ],
+     "distractors": [
+      "⁦therefore⁩",
+      "⁦because⁩",
+      "⁦so that⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct contrast linker to complete the sentence:\n'Hydroelectric power is a wonderful energy option; _______, building dams can impact local ecosystems.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "contrast linkers"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e taghaboli-ye dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Hydroelectric power is a wonderful energy option; _______, building dams can impact local ecosystems.'",
+     "grading_key": "- [1] however",
+     "final_resolution": "however",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt-e taghaboli"
+     ],
+     "distractors": [
+      "therefore",
+      "because",
+      "so that"
+     ]
+    }
+   }
+  }
+ ]
+}
