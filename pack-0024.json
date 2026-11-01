@@ -1,0 +1,433 @@
+{
+ "version": 24,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 917,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۱: ساختار نوکلئیک اسیدها)",
+    "en": "Chapter 1: Informational Molecules (Section 1: Structure of Nucleic Acids)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 1)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام باز آلی پیریمیدین تک‌حلقه‌ای فقط در ساختار مولکول رنا (⁦RNA⁩) یافت می‌شود؟",
+     "grading_key": "- [1] یوراسیل",
+     "final_resolution": "یوراسیل",
+     "notes": "",
+     "keywords": [
+      "یوراسیل"
+     ],
+     "distractors": [
+      "تیمین",
+      "آدنین",
+      "سیتوزین"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which single-ringed pyrimidine base is found only in RNA?",
+     "grading_key": "- [1] Uracil",
+     "final_resolution": "Uracil",
+     "notes": "",
+     "keywords": [
+      "uracil"
+     ],
+     "distractors": [
+      "Thymine",
+      "Adenine",
+      "Cytosine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam baz-e ali-ye pyrimidine-e tak-halghe-i faghat dar sakhtar-e molekul-e RNA yaft mishavad?",
+     "grading_key": "- [1] Uracil",
+     "final_resolution": "Uracil",
+     "notes": "",
+     "keywords": [
+      "uracil"
+     ],
+     "distractors": [
+      "Thymine",
+      "Adenine",
+      "Cytosine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 917,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۲: تغییر در ساختار کروموزوم‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 2: Changes in Chromosome Structure)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "در کدام جهش ساختاری کروموزوم، قطعه‌ای از کروموزوم جدا می‌شود و پس از چرخش ۱۸۰ درجه دوباره به همان کروموزوم متصل می‌شود؟",
+     "grading_key": "- [1] واژگونی",
+     "final_resolution": "واژگونی",
+     "notes": "",
+     "keywords": [
+      "واژگونی"
+     ],
+     "distractors": [
+      "حذف",
+      "مضاعف شدن",
+      "جابه‌جایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "In which structural chromosome mutation is a segment detached and reattached to the same chromosome after a 180° rotation?",
+     "grading_key": "- [1] Inversion",
+     "final_resolution": "Inversion",
+     "notes": "",
+     "keywords": [
+      "inversion"
+     ],
+     "distractors": [
+      "Deletion",
+      "Duplication",
+      "Translocation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Dar kodam jahesh-e sakhtari-ye chromosome, ghet-e-i az chromosome joda mishavad va pas az charkhesh-e 180 daraje dobare be haman chromosome mottasel mishavad?",
+     "grading_key": "- [1] Vazhguni",
+     "final_resolution": "Vazhguni",
+     "notes": "",
+     "keywords": [
+      "vazhguni"
+     ],
+     "distractors": [
+      "Hazf",
+      "Mozaaf shodan",
+      "Jabejayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 917,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (درجهٔ یونش)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Degree of Ionization)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Darajeh-ye Yonesh)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام اسید، نمونه‌ای از اسید ضعیف با درجهٔ یونش (⁦α⁩) بسیار کوچک‌تر از یک در محلول آبی است؟",
+     "grading_key": "- [1] هیدروفلوئوریک اسید (⁦HF⁩)",
+     "final_resolution": "هیدروفلوئوریک اسید (⁦HF⁩)",
+     "notes": "",
+     "keywords": [
+      "اسید ضعیف"
+     ],
+     "distractors": [
+      "هیدروکلریک اسید (⁦HCl⁩)",
+      "نیتریک اسید (⁦HNO₃⁩)",
+      "سولفوریک اسید (⁦H₂SO₄⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which acid is an example of a weak acid, with a degree of ionization (α) much less than one in aqueous solution?",
+     "grading_key": "- [1] Hydrofluoric acid (HF)",
+     "final_resolution": "Hydrofluoric acid (HF)",
+     "notes": "",
+     "keywords": [
+      "weak acid"
+     ],
+     "distractors": [
+      "Hydrochloric acid (HCl)",
+      "Nitric acid (HNO₃)",
+      "Sulfuric acid (H₂SO₄)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam acid, nemoone-i az acid-e zaif ba daraje-ye yonesh (α)-e besyar koochak-tar az yek dar mahlool-e abi ast?",
+     "grading_key": "- [1] Hydrofluoric acid (HF)",
+     "final_resolution": "Hydrofluoric acid (HF)",
+     "notes": "",
+     "keywords": [
+      "asid-e zaif"
+     ],
+     "distractors": [
+      "Hydrochloric acid (HCl)",
+      "Nitric acid (HNO₃)",
+      "Sulfuric acid (H₂SO₄)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 917,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (برقکافت آب)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electrolysis of Water)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Barghkaft-e Ab)",
+    "pages": "58–61"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در برقکافت آب، گاز هیدروژن (⁦H₂⁩) در کدام الکترود تولید و آزاد می‌شود؟",
+     "grading_key": "- [1] کاتد",
+     "final_resolution": "کاتد",
+     "notes": "",
+     "keywords": [
+      "برقکافت آب"
+     ],
+     "distractors": [
+      "آند",
+      "پل نمکی",
+      "هر دو الکترود"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the electrolysis of water, at which electrode is hydrogen gas (H₂) produced and released?",
+     "grading_key": "- [1] Cathode",
+     "final_resolution": "Cathode",
+     "notes": "",
+     "keywords": [
+      "water electrolysis"
+     ],
+     "distractors": [
+      "Anode",
+      "Salt bridge",
+      "Both electrodes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar barghkaft-e ab, gaz-e hydrogen (H₂) dar kodam electrode tolid va azad mishavad?",
+     "grading_key": "- [1] Cathode",
+     "final_resolution": "Cathode",
+     "notes": "",
+     "keywords": [
+      "barghkaft-e ab"
+     ],
+     "distractors": [
+      "Anode",
+      "Pol-e namaki",
+      "Har do electrode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 917,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر تکانهٔ خطی جسمی با جرم ثابت سه برابر شود، انرژی جنبشی آن (⁦K = p²/2m⁩) چه تغییری می‌کند؟",
+     "grading_key": "- [1] نه برابر می‌شود",
+     "final_resolution": "نه برابر می‌شود",
+     "notes": "",
+     "keywords": [
+      "تکانه و انرژی جنبشی"
+     ],
+     "distractors": [
+      "سه برابر می‌شود",
+      "شش برابر می‌شود",
+      "تغییر نمی‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the linear momentum of an object of constant mass triples, how does its kinetic energy (K = p²/2m) change?",
+     "grading_key": "- [1] It becomes nine times larger",
+     "final_resolution": "It becomes nine times larger",
+     "notes": "",
+     "keywords": [
+      "momentum and kinetic energy"
+     ],
+     "distractors": [
+      "It becomes three times larger",
+      "It becomes six times larger",
+      "It stays the same"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar takane-ye khatti-ye jesmi ba jerm-e sabet se barabar shavad, enerji-ye jonbeshi-ash (K = p²/2m) che taghyiri mikonad?",
+     "grading_key": "- [1] Noh barabar mishavad",
+     "final_resolution": "Noh barabar mishavad",
+     "notes": "",
+     "keywords": [
+      "takaneh va enerji-ye jonbeshi"
+     ],
+     "distractors": [
+      "Se barabar mishavad",
+      "Shesh barabar mishavad",
+      "Taghyir nemikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 917,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (ساختار هسته)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Structure of the Nucleus)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Sakhtar-e Hasteh)",
+    "pages": "100–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "به اتم‌های یک عنصر که شمار پروتون‌های یکسان ولی شمار نوترون‌های متفاوتی در هستهٔ خود دارند چه می‌گویند؟",
+     "grading_key": "- [1] ایزوتوپ‌ها (هم‌مکان‌ها)",
+     "final_resolution": "ایزوتوپ‌ها (هم‌مکان‌ها)",
+     "notes": "",
+     "keywords": [
+      "ایزوتوپ"
+     ],
+     "distractors": [
+      "ایزوبارها (هم‌وزن‌ها)",
+      "ایزوتون‌ها",
+      "دگرشکل‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What are atoms of the same element with the same number of protons but a different number of neutrons in the nucleus called?",
+     "grading_key": "- [1] Isotopes",
+     "final_resolution": "Isotopes",
+     "notes": "",
+     "keywords": [
+      "isotopes"
+     ],
+     "distractors": [
+      "Isobars",
+      "Isotones",
+      "Allotropes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Be atom-haye yek onsor ke shomar-e proton-haye yeksan vali shomar-e neutron-haye motefaveti dar haste-ye khod darand che miguyand?",
+     "grading_key": "- [1] Isotope-ha (ham-makan-ha)",
+     "final_resolution": "Isotope-ha (ham-makan-ha)",
+     "notes": "",
+     "keywords": [
+      "isotope"
+     ],
+     "distractors": [
+      "Isobar-ha",
+      "Isotone-ha",
+      "Degar-shekl-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 917,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: مجهول)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Passive Voice)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Majhool)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "شکل درست مجهولِ آیندهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'Clean fuels and energy resources _______ more widely by industries in the coming decades.'⁩",
+     "grading_key": "- [1] ⁦will be used⁩",
+     "final_resolution": "⁦will be used⁩",
+     "notes": "",
+     "keywords": [
+      "آیندهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦will use⁩",
+      "⁦are using⁩",
+      "⁦have been used⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct simple future passive form to complete the sentence:\n'Clean fuels and energy resources _______ more widely by industries in the coming decades.'",
+     "grading_key": "- [1] will be used",
+     "final_resolution": "will be used",
+     "notes": "",
+     "keywords": [
+      "simple future passive"
+     ],
+     "distractors": [
+      "will use",
+      "are using",
+      "have been used"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Shekl-e dorost-e majhool-e ayande-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'Clean fuels and energy resources _______ more widely by industries in the coming decades.'",
+     "grading_key": "- [1] will be used",
+     "final_resolution": "will be used",
+     "notes": "",
+     "keywords": [
+      "ayande-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "will use",
+      "are using",
+      "have been used"
+     ]
+    }
+   }
+  }
+ ]
+}
