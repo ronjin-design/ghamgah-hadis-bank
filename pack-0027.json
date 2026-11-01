@@ -1,0 +1,433 @@
+{
+ "version": 27,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 920,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام عامل با اتصال به آنزیم یا تغییر شکل جایگاه فعال آن، به‌طور موقت یا دائمی از اتصال پیش‌ماده جلوگیری می‌کند و فعالیت آنزیم را کم یا متوقف می‌کند؟",
+     "grading_key": "- [1] مهارکننده",
+     "final_resolution": "مهارکننده",
+     "notes": "",
+     "keywords": [
+      "مهارکنندهٔ آنزیم"
+     ],
+     "distractors": [
+      "کوآنزیم",
+      "فعال‌کننده",
+      "پیش‌ماده"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which agent, by binding to an enzyme or changing the shape of its active site, temporarily or permanently prevents substrate binding and reduces or stops the enzyme's activity?",
+     "grading_key": "- [1] Inhibitor",
+     "final_resolution": "Inhibitor",
+     "notes": "",
+     "keywords": [
+      "enzyme inhibitor"
+     ],
+     "distractors": [
+      "Coenzyme",
+      "Activator",
+      "Substrate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam amel ba ettesal be anzim ya taghyir-e shekl-e jaygah-e faal-ash, be tor-e movaghat ya daemi az ettesal-e pish-made jelogiri mikonad va faaliyat-e anzim ra kam ya motevaghef mikonad?",
+     "grading_key": "- [1] Mahar-konande",
+     "final_resolution": "Mahar-konande",
+     "notes": "",
+     "keywords": [
+      "mahar-konandeh-ye anzim"
+     ],
+     "distractors": [
+      "Coenzyme",
+      "Faal-konande",
+      "Pish-made"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 920,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "گرما ابتدا کدام پیوندهای ضعیف آنزیم‌هایی مانند آمیلاز را می‌شکند؛ دلیلی که در مهندسی پروتئین پیوندهای دی‌سولفیدی قوی‌تر به آن‌ها افزوده می‌شود؟",
+     "grading_key": "- [1] پیوندهای هیدروژنی",
+     "final_resolution": "پیوندهای هیدروژنی",
+     "notes": "",
+     "keywords": [
+      "پیوندهای هیدروژنی"
+     ],
+     "distractors": [
+      "پیوندهای پپتیدی",
+      "پیوندهای فسفودی‌استر",
+      "پیوندهای گلیکوزیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Heat first breaks which weak bonds in enzymes such as amylase — the reason protein engineers add stronger disulfide bridges to them?",
+     "grading_key": "- [1] Hydrogen bonds",
+     "final_resolution": "Hydrogen bonds",
+     "notes": "",
+     "keywords": [
+      "hydrogen bonds"
+     ],
+     "distractors": [
+      "Peptide bonds",
+      "Phosphodiester bonds",
+      "Glycosidic bonds"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Garma ebteda kodam peyvand-haye zaif-e anzim-hayi manand-e amylase ra mishekanad; dalili ke dar mohandesi-ye protein peyvand-haye disulfide-e ghavi-tar be anha afzoode mishavad?",
+     "grading_key": "- [1] Peyvand-haye hidrozheni",
+     "final_resolution": "Peyvand-haye hidrozheni",
+     "notes": "",
+     "keywords": [
+      "peyvand-haye hidrozheni"
+     ],
+     "distractors": [
+      "Peyvand-haye peptidi",
+      "Peyvand-haye phosphodiester",
+      "Peyvand-haye glycosidic"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 920,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای مولکولی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Molecular Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Molkooli)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "نقطهٔ ذوب و جوش نسبتاً پایین و فرار بودن (اغلب) در دمای اتاق، ویژگی بارز کدام دسته از جامدهاست؟",
+     "grading_key": "- [1] جامد مولکولی",
+     "final_resolution": "جامد مولکولی",
+     "notes": "",
+     "keywords": [
+      "جامد مولکولی"
+     ],
+     "distractors": [
+      "جامد یونی",
+      "جامد کووالانسی (شبکه‌ای)",
+      "جامد فلزی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Relatively low melting and boiling points, and often volatility at room temperature, are the main features of which class of solids?",
+     "grading_key": "- [1] Molecular solid",
+     "final_resolution": "Molecular solid",
+     "notes": "",
+     "keywords": [
+      "molecular solid"
+     ],
+     "distractors": [
+      "Ionic solid",
+      "Covalent network solid",
+      "Metallic solid"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Noghte-ye zob va jush-e nesbatan payin va farar boodan (aghlab) dar dama-ye otagh, vizhegi-ye bariz-e kodam daste az jamed-hast?",
+     "grading_key": "- [1] Jamed-e molekuli",
+     "final_resolution": "Jamed-e molekuli",
+     "notes": "",
+     "keywords": [
+      "jamed-e molekuli"
+     ],
+     "distractors": [
+      "Jamed-e yoni",
+      "Jamed-e covalent (shabake-i)",
+      "Jamed-e felezi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 920,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (ثابت تعادل)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Constant)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Sabet-e Taadol)",
+    "pages": "106–108"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "اگر مقدار عددی ثابت تعادل (⁦K⁩) یک واکنش گازی بسیار کوچک (نزدیک به صفر) باشد، این نشان‌دهندهٔ کدام وضعیت در سامانهٔ تعادلی است؟",
+     "grading_key": "- [1] واکنش‌دهنده‌ها بر فرآورده‌ها برتری چشمگیر دارند",
+     "final_resolution": "واکنش‌دهنده‌ها بر فرآورده‌ها برتری چشمگیر دارند",
+     "notes": "",
+     "keywords": [
+      "ثابت تعادل کوچک"
+     ],
+     "distractors": [
+      "فرآورده‌ها بر واکنش‌دهنده‌ها برتری چشمگیر دارند",
+      "سرعت واکنش رفت صفر است",
+      "انرژی فعال‌سازی کاهش یافته است"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "If the equilibrium constant (K) of a gaseous reaction is very small (close to zero), what does this indicate about the equilibrium system?",
+     "grading_key": "- [1] Reactants are strongly favoured over products",
+     "final_resolution": "Reactants are strongly favoured over products",
+     "notes": "",
+     "keywords": [
+      "small equilibrium constant"
+     ],
+     "distractors": [
+      "Products are strongly favoured over reactants",
+      "The forward reaction rate is zero",
+      "The activation energy has dropped"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Agar meghdar-e adadi-ye sabet-e taadol (K)-e yek vakonesh-e gazi besyar koochak (nazdik be sefr) bashad, in neshan-dahande-ye kodam vaziyat dar samane-ye taadoli ast?",
+     "grading_key": "- [1] Vakonesh-dahande-ha bar faravarde-ha bartari-ye cheshmgir darand",
+     "final_resolution": "Vakonesh-dahande-ha bar faravarde-ha bartari-ye cheshmgir darand",
+     "notes": "",
+     "keywords": [
+      "sabet-e taadol-e koochak"
+     ],
+     "distractors": [
+      "Faravarde-ha bar vakonesh-dahande-ha bartari-ye cheshmgir darand",
+      "Sorat-e vakonesh-e raft sefr ast",
+      "Enerji-ye faal-sazi kahesh yafte ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 920,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (اصطکاک ایستایی)",
+    "en": "Chapter 2: Dynamics and Forces (Static Friction)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Estekak-e Istayi)",
+    "pages": "35–37"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "نیروی اصطکاکی که در آستانهٔ حرکت جسمی روی سطح افقی وارد می‌شود و مانع شروع حرکت آن است چه نام دارد؟",
+     "grading_key": "- [1] بیشینهٔ نیروی اصطکاک ایستایی (⁦fₛ,max⁩)",
+     "final_resolution": "بیشینهٔ نیروی اصطکاک ایستایی (⁦fₛ,max⁩)",
+     "notes": "",
+     "keywords": [
+      "اصطکاک ایستایی"
+     ],
+     "distractors": [
+      "نیروی اصطکاک جنبشی",
+      "نیروی عمودی تکیه‌گاه",
+      "نیروی کشش"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "What is the friction force called that acts on an object on a horizontal surface when it is just about to move, and keeps it from starting to move?",
+     "grading_key": "- [1] Maximum static friction (fₛ,max)",
+     "final_resolution": "Maximum static friction (fₛ,max)",
+     "notes": "",
+     "keywords": [
+      "static friction"
+     ],
+     "distractors": [
+      "Kinetic friction",
+      "Normal force",
+      "Tension"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Niroo-ye estekaki ke dar astane-ye harekat-e jesmi rooy-e sath-e ofoghi vared mishavad va mane-e shoroo-e harekat-ash ast che nam darad?",
+     "grading_key": "- [1] Bishine-ye niroo-ye estekak-e istayi (fₛ,max)",
+     "final_resolution": "Bishine-ye niroo-ye estekak-e istayi (fₛ,max)",
+     "notes": "",
+     "keywords": [
+      "estekak-e istayi"
+     ],
+     "distractors": [
+      "Niroo-ye estekak-e jonbeshi",
+      "Niroo-ye amudi-ye tekye-gah",
+      "Niroo-ye keshesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 920,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (پژواک)",
+    "en": "Chapter 3: Oscillations and Waves (Echo)",
+    "tr": "Fasl 3: Navasan va Moj (Pezhvak)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "کمترین فاصلهٔ زمانی میان صدای اصلی و صدای بازتابیده، تا گوش انسان پژواک را به‌طور جداگانه و واضح بشنود، چند ثانیه است؟",
+     "grading_key": "- [1] ⁦0.1 s⁩",
+     "final_resolution": "⁦0.1 s⁩",
+     "notes": "",
+     "keywords": [
+      "پژواک صوتی"
+     ],
+     "distractors": [
+      "⁦1.0 s⁩",
+      "⁦0.5 s⁩",
+      "⁦0.01 s⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the minimum time between the original sound and its reflection for the human ear to hear a separate, clear echo?",
+     "grading_key": "- [1] 0.1 s",
+     "final_resolution": "0.1 s",
+     "notes": "",
+     "keywords": [
+      "sound echo"
+     ],
+     "distractors": [
+      "1.0 s",
+      "0.5 s",
+      "0.01 s"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Kamtarin fasele-ye zamani miyan-e seda-ye asli va seda-ye baztabide, ta goosh-e ensan pezhvak ra be tor-e jodagane va vazeh beshnavad, chand saniye ast?",
+     "grading_key": "- [1] 0.1 s",
+     "final_resolution": "0.1 s",
+     "notes": "",
+     "keywords": [
+      "pezhvak-e soti"
+     ],
+     "distractors": [
+      "1.0 s",
+      "0.5 s",
+      "0.01 s"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 920,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Sunlight and wind are clean sources of energy that do not _______ the air.'⁩",
+     "grading_key": "- [1] ⁦pollute⁩",
+     "final_resolution": "⁦pollute⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦protect⁩",
+      "⁦generate⁩",
+      "⁦appreciate⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Sunlight and wind are clean sources of energy that do not _______ the air.'",
+     "grading_key": "- [1] pollute",
+     "final_resolution": "pollute",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "protect",
+      "generate",
+      "appreciate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Sunlight and wind are clean sources of energy that do not _______ the air.'",
+     "grading_key": "- [1] pollute",
+     "final_resolution": "pollute",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "protect",
+      "generate",
+      "appreciate"
+     ]
+    }
+   }
+  }
+ ]
+}
