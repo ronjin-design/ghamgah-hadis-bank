@@ -1,0 +1,433 @@
+{
+ "version": 38,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 931,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بسیاری از آنزیم‌ها برای فعالیت به مولکول‌های غیرپروتئینی مانند ویتامین‌ها یا یون‌های فلزی نیاز دارند. این دو به ترتیب چه نام دارند؟",
+     "grading_key": "- [1] کوآنزیم‌ها و کوفاکتورها",
+     "final_resolution": "کوآنزیم‌ها و کوفاکتورها",
+     "notes": "",
+     "keywords": [
+      "کوآنزیم و کوفاکتور"
+     ],
+     "distractors": [
+      "مهارکننده‌ها و فعال‌کننده‌ها",
+      "پیش‌ماده‌ها و فرآورده‌ها",
+      "زنجیره‌های اصلی و زنجیره‌های جانبی"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Many enzymes need non-protein molecules such as vitamins or metal ions to work. What are these called, respectively?",
+     "grading_key": "- [1] Coenzymes and cofactors",
+     "final_resolution": "Coenzymes and cofactors",
+     "notes": "",
+     "keywords": [
+      "coenzymes and cofactors"
+     ],
+     "distractors": [
+      "Inhibitors and activators",
+      "Substrates and products",
+      "Backbone chains and side chains"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Besyari az anzim-ha baraye faaliyat be molekul-haye gheyr-e proteini manand-e vitamin-ha ya yon-haye felezi niaz darand. In do be tartib che nam darand?",
+     "grading_key": "- [1] Coenzyme-ha va cofactor-ha",
+     "final_resolution": "Coenzyme-ha va cofactor-ha",
+     "notes": "",
+     "keywords": [
+      "coenzyme va cofactor"
+     ],
+     "distractors": [
+      "Mahar-konande-ha va faal-konande-ha",
+      "Pish-made-ha va faravarde-ha",
+      "Zanjire-haye asli va zanjire-haye janebi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 931,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: تنفس بی‌هوازی)",
+    "en": "Chapter 5: Energy Supply (Section 2: Anaerobic Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در تخمیر الکلی در مخمرها، بازسازی ⁦NAD⁺⁩ با آزاد شدن کربن دی‌اکسید (⁦CO₂⁩) و تبدیل پیرووات به کدام فرآوردهٔ نهایی همراه است؟",
+     "grading_key": "- [1] اتانول",
+     "final_resolution": "اتانول",
+     "notes": "",
+     "keywords": [
+      "تخمیر الکلی"
+     ],
+     "distractors": [
+      "لاکتات",
+      "استیل کوآنزیم آ",
+      "اگزالواستات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In alcoholic fermentation in yeast, the regeneration of NAD⁺ comes with the release of CO₂ and the conversion of pyruvate into which final product?",
+     "grading_key": "- [1] Ethanol",
+     "final_resolution": "Ethanol",
+     "notes": "",
+     "keywords": [
+      "alcoholic fermentation"
+     ],
+     "distractors": [
+      "Lactate",
+      "Acetyl-CoA",
+      "Oxaloacetate"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar takhmir-e alkoli dar makhmar-ha, bazsazi-ye NAD⁺ ba azad shodan-e carbon dioxide (CO₂) va tabdil-e pyruvate be kodam faravarde-ye nahayi hamrah ast?",
+     "grading_key": "- [1] Ethanol",
+     "final_resolution": "Ethanol",
+     "notes": "",
+     "keywords": [
+      "takhmir-e alkoli"
+     ],
+     "distractors": [
+      "Lactate",
+      "Acetyl coenzyme A",
+      "Oxaloacetate"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 931,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (محلول‌های بافر)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Buffer Solutions)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Mahlool-haye Bafer)",
+    "pages": "24–27"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "ویژگی اصلی یک محلول بافر (تامپون) در سامانه‌های آزمایشگاهی یا زیستی چیست؟",
+     "grading_key": "- [1] در برابر تغییر شدید ⁦pH⁩ هنگام افزودن مقدار کمی اسید یا باز مقاومت می‌کند",
+     "final_resolution": "در برابر تغییر شدید ⁦pH⁩ هنگام افزودن مقدار کمی اسید یا باز مقاومت می‌کند",
+     "notes": "",
+     "keywords": [
+      "محلول بافر"
+     ],
+     "distractors": [
+      "درجهٔ یونش اسیدهای قوی را کامل افزایش می‌دهد",
+      "مقدار ثابت تعادل را به‌شدت کاهش می‌دهد",
+      "یون‌های کلسیم و منیزیم آب سخت را رسوب می‌دهد"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "What is the main property of a buffer solution in laboratory or biological systems?",
+     "grading_key": "- [1] It resists sharp changes in pH when small amounts of acid or base are added",
+     "final_resolution": "It resists sharp changes in pH when small amounts of acid or base are added",
+     "notes": "",
+     "keywords": [
+      "buffer solution"
+     ],
+     "distractors": [
+      "It fully increases the degree of ionization of strong acids",
+      "It sharply lowers the equilibrium constant",
+      "It precipitates the calcium and magnesium ions of hard water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Vizhegi-ye asli-ye yek mahlool-e bafer (tampon) dar samane-haye azmayeshgahi ya zisti chist?",
+     "grading_key": "- [1] Dar barabar-e taghyir-e shadid-e pH hengam-e afzoodan-e meghdar-e kami acid ya baz moghavemat mikonad",
+     "final_resolution": "Dar barabar-e taghyir-e shadid-e pH hengam-e afzoodan-e meghdar-e kami acid ya baz moghavemat mikonad",
+     "notes": "",
+     "keywords": [
+      "mahlool-e bafer"
+     ],
+     "distractors": [
+      "Daraje-ye yonesh-e acid-haye ghavi ra kamel afzayesh midahad",
+      "Meghdar-e sabet-e taadol ra be-shedat kahesh midahad",
+      "Yon-haye calcium va magnesium-e ab-e sakht ra rosoob midahad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 931,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی گالوانی)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Galvanic Corrosion)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi-ye Galvani)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "وقتی آهن در محیطی مرطوب در تماس مستقیم با مس قرار می‌گیرد، چرا آهن بسیار سریع‌تر خورده و اکسید می‌شود؟",
+     "grading_key": "- [1] پتانسیل کاهشی استاندارد (⁦E°⁩) آهن از مس کمتر است و آهن آند می‌شود",
+     "final_resolution": "پتانسیل کاهشی استاندارد (⁦E°⁩) آهن از مس کمتر است و آهن آند می‌شود",
+     "notes": "",
+     "keywords": [
+      "خوردگی گالوانی"
+     ],
+     "distractors": [
+      "پتانسیل کاهشی استاندارد (⁦E°⁩) مس از آهن کمتر است و مس آند می‌شود",
+      "آهن به دلیل کاهش غلظت اکسیژن در نقش کاتد کاهش می‌یابد",
+      "مس با آب واکنش می‌دهد و هیدروژن آزاد می‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "When iron is in direct contact with copper in a moist environment, why does the iron corrode (oxidize) much faster?",
+     "grading_key": "- [1] Iron has a lower standard reduction potential (E°) than copper, so iron becomes the anode",
+     "final_resolution": "Iron has a lower standard reduction potential (E°) than copper, so iron becomes the anode",
+     "notes": "",
+     "keywords": [
+      "galvanic corrosion"
+     ],
+     "distractors": [
+      "Copper has a lower standard reduction potential (E°) than iron, so copper becomes the anode",
+      "Iron is reduced as the cathode because the oxygen concentration drops",
+      "Copper reacts with the water and releases hydrogen"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Vaghti ahan dar mohiti martoob dar tamas-e mostaghim ba mes gharar migirad, chera ahan besyar sari-tar khorde va oxid mishavad?",
+     "grading_key": "- [1] Potansiel-e kaheshi-ye standard (E°)-e ahan az mes kamtar ast va ahan anode mishavad",
+     "final_resolution": "Potansiel-e kaheshi-ye standard (E°)-e ahan az mes kamtar ast va ahan anode mishavad",
+     "notes": "",
+     "keywords": [
+      "khordegi-ye galvani"
+     ],
+     "distractors": [
+      "Potansiel-e kaheshi-ye standard (E°)-e mes az ahan kamtar ast va mes anode mishavad",
+      "Ahan be dalil-e kahesh-e ghelzat-e oxygen dar naghsh-e cathode kahesh miyabad",
+      "Mes ba ab vakonesh midahad va hydrogen azad mikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 931,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون هوک)",
+    "en": "Chapter 2: Dynamics and Forces (Hooke's Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Hooke)",
+    "pages": "40–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون هوک (⁦F = kx⁩)، اگر تغییر طول یک فنر آرمانی با ثابت ⁦k⁩ سه برابر شود، نیروی کشسانی فنر چند برابر می‌شود؟",
+     "grading_key": "- [1] سه برابر",
+     "final_resolution": "سه برابر",
+     "notes": "",
+     "keywords": [
+      "قانون هوک"
+     ],
+     "distractors": [
+      "نه برابر",
+      "نصف",
+      "تغییر نمی‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Hooke's law (F = kx), if the extension of an ideal spring with constant k is tripled, how does the spring's elastic force change?",
+     "grading_key": "- [1] It triples",
+     "final_resolution": "It triples",
+     "notes": "",
+     "keywords": [
+      "Hooke's law"
+     ],
+     "distractors": [
+      "It becomes nine times larger",
+      "It halves",
+      "It stays the same"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e Hooke (F = kx), agar taghyir-e tool-e yek fanar-e armani ba sabet-e k se barabar shavad, niroo-ye keshsani-ye fanar chand barabar mishavad?",
+     "grading_key": "- [1] Se barabar",
+     "final_resolution": "Se barabar",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e Hooke"
+     ],
+     "distractors": [
+      "Noh barabar",
+      "Nesf",
+      "Taghyir nemikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 931,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Refraction of Light)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی پرتو نور تک‌رنگ از شیشه وارد هوا (محیطی با ضریب شکست کمتر) می‌شود، مسیر آن نسبت به خط عمود بر سطح چه تغییری می‌کند؟",
+     "grading_key": "- [1] از خط عمود دور می‌شود",
+     "final_resolution": "از خط عمود دور می‌شود",
+     "notes": "",
+     "keywords": [
+      "شکست نور"
+     ],
+     "distractors": [
+      "به خط عمود نزدیک می‌شود",
+      "بدون انحراف مستقیم ادامه می‌دهد",
+      "همیشه به‌طور کامل به درون شیشه بازمی‌تابد"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a monochromatic light ray passes from glass into air (a medium with a lower refractive index), how does its path change relative to the normal?",
+     "grading_key": "- [1] It bends away from the normal",
+     "final_resolution": "It bends away from the normal",
+     "notes": "",
+     "keywords": [
+      "light refraction"
+     ],
+     "distractors": [
+      "It bends toward the normal",
+      "It continues straight without bending",
+      "It is always totally reflected back into the glass"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti partov-e noor-e tak-rang az shishe vared-e hava (mohiti ba zarib-e shekast-e kamtar) mishavad, masir-ash nesbat be khatt-e amud bar sath che taghyiri mikonad?",
+     "grading_key": "- [1] Az khatt-e amud door mishavad",
+     "final_resolution": "Az khatt-e amud door mishavad",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor"
+     ],
+     "distractors": [
+      "Be khatt-e amud nazdik mishavad",
+      "Bedoon-e enheraf mostaghim edame midahad",
+      "Hamishe be tor-e kamel be daroon-e shishe baz-mitabad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 931,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (کلمات ربط)",
+    "en": "Lesson 3: Renewable Energy (Transition Words)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Kalamat-e Rabt)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "کلمهٔ ربط علت و معلولی درست را برای کامل کردن جمله انتخاب کنید:\n⁦'Fossil fuels are limited and cause heavy pollution; _______, solar and wind energy are getting more popular.'⁩",
+     "grading_key": "- [1] ⁦therefore⁩",
+     "final_resolution": "⁦therefore⁩",
+     "notes": "",
+     "keywords": [
+      "کلمات ربط"
+     ],
+     "distractors": [
+      "⁦although⁩",
+      "⁦whereas⁩",
+      "⁦instead⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct cause-and-effect linker to complete the sentence:\n'Fossil fuels are limited and cause heavy pollution; _______, solar and wind energy are getting more popular.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "transition words"
+     ],
+     "distractors": [
+      "although",
+      "whereas",
+      "instead"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Kalame-ye rabt-e ellat va maloli-ye dorost ra baraye kamel kardan-e jomle entekhab konid:\n'Fossil fuels are limited and cause heavy pollution; _______, solar and wind energy are getting more popular.'",
+     "grading_key": "- [1] therefore",
+     "final_resolution": "therefore",
+     "notes": "",
+     "keywords": [
+      "kalamat-e rabt"
+     ],
+     "distractors": [
+      "although",
+      "whereas",
+      "instead"
+     ]
+    }
+   }
+  }
+ ]
+}
