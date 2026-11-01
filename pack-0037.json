@@ -1,0 +1,433 @@
+{
+ "version": 37,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 930,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بخش ویژه‌ای از ساختار سه‌بعدی آنزیم که پیش‌ماده با شکل فضایی مکمل به آن متصل می‌شود چه نام دارد؟",
+     "grading_key": "- [1] جایگاه فعال",
+     "final_resolution": "جایگاه فعال",
+     "notes": "",
+     "keywords": [
+      "جایگاه فعال"
+     ],
+     "distractors": [
+      "جایگاه آلوستری",
+      "کوآنزیم",
+      "پیوند پپتیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "What is the specific region of an enzyme's three-dimensional structure where a substrate with a complementary shape binds?",
+     "grading_key": "- [1] Active site",
+     "final_resolution": "Active site",
+     "notes": "",
+     "keywords": [
+      "active site"
+     ],
+     "distractors": [
+      "Allosteric site",
+      "Coenzyme",
+      "Peptide bond"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Bakhsh-e vizhe-i az sakhtar-e se-bodi-ye anzim ke pish-made ba shekl-e fazayi-ye mokammel be an mottasel mishavad che nam darad?",
+     "grading_key": "- [1] Jaygah-e faal",
+     "final_resolution": "Jaygah-e faal",
+     "notes": "",
+     "keywords": [
+      "jaygah-e faal"
+     ],
+     "distractors": [
+      "Jaygah-e allosteric",
+      "Coenzyme",
+      "Peyvand-e peptidi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1398-Dey",
+   "number": 930,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (اکسایش پیرووات و چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (Pyruvate Oxidation and the Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Charkhe-ye Krebs)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در چرخهٔ کربس، هنگام تبدیل ترکیب شش‌کربنی به اسید پنج‌کربنی، کدام ناقل الکترون همراه با کربن دی‌اکسید (⁦CO₂⁩) تولید می‌شود؟",
+     "grading_key": "- [1] ⁦NADH⁩",
+     "final_resolution": "⁦NADH⁩",
+     "notes": "",
+     "keywords": [
+      "چرخهٔ کربس"
+     ],
+     "distractors": [
+      "⁦FADH₂⁩",
+      "⁦NADPH⁩",
+      "⁦ATP⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the Krebs cycle, when the 6-carbon compound is converted into a 5-carbon acid, which electron carrier is produced along with carbon dioxide (CO₂)?",
+     "grading_key": "- [1] NADH",
+     "final_resolution": "NADH",
+     "notes": "",
+     "keywords": [
+      "Krebs cycle"
+     ],
+     "distractors": [
+      "FADH₂",
+      "NADPH",
+      "ATP"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar charkhe-ye Krebs, hengam-e tabdil-e tarkib-e shesh-karbani be acid-e panj-karbani, kodam naghel-e electron hamrah ba carbon dioxide (CO₂) tolid mishavad?",
+     "grading_key": "- [1] NADH",
+     "final_resolution": "NADH",
+     "notes": "",
+     "keywords": [
+      "charkhe-ye Krebs"
+     ],
+     "distractors": [
+      "FADH₂",
+      "NADPH",
+      "ATP"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 930,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (درجهٔ یونش)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Degree of Ionization)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Darajeh-ye Yonesh)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام اسید، اسیدی قوی است که در محلول آبی به‌طور کامل یونیده می‌شود و درجهٔ یونش آن برابر یک در نظر گرفته می‌شود؟",
+     "grading_key": "- [1] نیتریک اسید (⁦HNO₃⁩)",
+     "final_resolution": "نیتریک اسید (⁦HNO₃⁩)",
+     "notes": "",
+     "keywords": [
+      "اسید قوی"
+     ],
+     "distractors": [
+      "استیک اسید (⁦CH₃COOH⁩)",
+      "هیدروفلوئوریک اسید (⁦HF⁩)",
+      "فورمیک اسید (⁦HCOOH⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which acid is a strong acid that ionizes completely in aqueous solution, with a degree of ionization taken as one?",
+     "grading_key": "- [1] Nitric acid (HNO₃)",
+     "final_resolution": "Nitric acid (HNO₃)",
+     "notes": "",
+     "keywords": [
+      "strong acid"
+     ],
+     "distractors": [
+      "Acetic acid (CH₃COOH)",
+      "Hydrofluoric acid (HF)",
+      "Formic acid (HCOOH)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam acid, acidi ghavi ast ke dar mahlool-e abi be tor-e kamel yonide mishavad va daraje-ye yonesh-ash barabar-e yek dar nazar gerefte mishavad?",
+     "grading_key": "- [1] Nitric acid (HNO₃)",
+     "final_resolution": "Nitric acid (HNO₃)",
+     "notes": "",
+     "keywords": [
+      "asid-e ghavi"
+     ],
+     "distractors": [
+      "Acetic acid (CH₃COOH)",
+      "Hydrofluoric acid (HF)",
+      "Formic acid (HCOOH)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 930,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (استخراج آلومینیم)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Extracting Aluminium)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Estekhraj-e Aluminium)",
+    "pages": "62–64"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در فرایند صنعتی هال برای استخراج آلومینیم مذاب از آلومینا، کاتد سلول که آلومینیم روی آن کاهش می‌یابد از چه ماده‌ای است؟",
+     "grading_key": "- [1] پوشش کربنی (گرافیتی) دیوارهٔ سلول",
+     "final_resolution": "پوشش کربنی (گرافیتی) دیوارهٔ سلول",
+     "notes": "",
+     "keywords": [
+      "فرایند هال"
+     ],
+     "distractors": [
+      "میلهٔ نقرهٔ خالص",
+      "لایهٔ کریولیت مایع",
+      "تور سیمی مسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the industrial Hall process for extracting molten aluminium from alumina, what is the cell's cathode, on which the aluminium is reduced, made of?",
+     "grading_key": "- [1] The carbon (graphite) lining of the cell",
+     "final_resolution": "The carbon (graphite) lining of the cell",
+     "notes": "",
+     "keywords": [
+      "Hall process"
+     ],
+     "distractors": [
+      "A pure silver rod",
+      "A layer of liquid cryolite",
+      "A copper wire mesh"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar farayand-e sanati-ye Hall baraye estekhraj-e aluminium-e mozab az alumina, cathode-e selool ke aluminium rooy-e an kahesh miyabad az che madde-i ast?",
+     "grading_key": "- [1] Pooshesh-e carboni (graphiti)-ye divare-ye selool",
+     "final_resolution": "Pooshesh-e carboni (graphiti)-ye divare-ye selool",
+     "notes": "",
+     "keywords": [
+      "farayand-e Hall"
+     ],
+     "distractors": [
+      "Mile-ye noghre-ye khales",
+      "Laye-ye cryolite-e maye",
+      "Toor-e simi-ye mesi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 930,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر سرعت جسمی با جرم ثابت سه برابر شود، تکانهٔ خطی آن (⁦p = mv⁩) چه تغییری می‌کند؟",
+     "grading_key": "- [1] سه برابر می‌شود",
+     "final_resolution": "سه برابر می‌شود",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی"
+     ],
+     "distractors": [
+      "نه برابر می‌شود",
+      "شش برابر می‌شود",
+      "تغییر نمی‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the velocity of an object of constant mass triples, how does its linear momentum (p = mv) change?",
+     "grading_key": "- [1] It triples",
+     "final_resolution": "It triples",
+     "notes": "",
+     "keywords": [
+      "linear momentum"
+     ],
+     "distractors": [
+      "It becomes nine times larger",
+      "It becomes six times larger",
+      "It stays the same"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar sorat-e jesmi ba jerm-e sabet se barabar shavad, takane-ye khatti-ash (p = mv) che taghyiri mikonad?",
+     "grading_key": "- [1] Se barabar mishavad",
+     "final_resolution": "Se barabar mishavad",
+     "notes": "",
+     "keywords": [
+      "takaneh-ye khatti"
+     ],
+     "distractors": [
+      "Noh barabar mishavad",
+      "Shesh barabar mishavad",
+      "Taghyir nemikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 930,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (واپاشی هسته‌ای)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Radioactive Decay)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Vapashi)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در واپاشی هسته‌ای، گسیل کدام پرتو الکترومغناطیسی پرانرژی بدون بار و جرم است و عدد اتمی و عدد جرمی را تغییر نمی‌دهد؟",
+     "grading_key": "- [1] پرتو گاما (⁦γ⁩)",
+     "final_resolution": "پرتو گاما (⁦γ⁩)",
+     "notes": "",
+     "keywords": [
+      "واپاشی گاما"
+     ],
+     "distractors": [
+      "ذرهٔ آلفا (⁦α⁩)",
+      "ذرهٔ بتای منفی (⁦β⁻⁩)",
+      "پوزیترون (⁦β⁺⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In radioactive decay, the emission of which high-energy electromagnetic radiation carries no charge or mass and leaves both the atomic and mass numbers unchanged?",
+     "grading_key": "- [1] Gamma ray (γ)",
+     "final_resolution": "Gamma ray (γ)",
+     "notes": "",
+     "keywords": [
+      "gamma decay"
+     ],
+     "distractors": [
+      "Alpha particle (α)",
+      "Beta-minus particle (β⁻)",
+      "Positron (β⁺)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar vapashi-ye hastei, gosil-e kodam partov-e electromagnetic-e por-enerji bedoon-e bar va jerm ast va adad-e atomi va adad-e jermi ra taghyir nemidahad?",
+     "grading_key": "- [1] Partov-e gamma (γ)",
+     "final_resolution": "Partov-e gamma (γ)",
+     "notes": "",
+     "keywords": [
+      "vapashi-ye gamma"
+     ],
+     "distractors": [
+      "Zarre-ye alfa (α)",
+      "Zarre-ye beta-ye manfi (β⁻)",
+      "Positron (β⁺)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 930,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Wind and solar radiation are renewable energy sources that can be _______ into clean electricity.'⁩",
+     "grading_key": "- [1] ⁦converted⁩",
+     "final_resolution": "⁦converted⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦destroyed⁩",
+      "⁦deforested⁩",
+      "⁦forgiven⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'Wind and solar radiation are renewable energy sources that can be _______ into clean electricity.'",
+     "grading_key": "- [1] converted",
+     "final_resolution": "converted",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "destroyed",
+      "deforested",
+      "forgiven"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Wind and solar radiation are renewable energy sources that can be _______ into clean electricity.'",
+     "grading_key": "- [1] converted",
+     "final_resolution": "converted",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "destroyed",
+      "deforested",
+      "forgiven"
+     ]
+    }
+   }
+  }
+ ]
+}
