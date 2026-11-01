@@ -1,0 +1,433 @@
+{
+ "version": 39,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 932,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "اتصال برخی مولکول‌های تنظیم‌کننده به جایگاهی غیر از جایگاه فعال آنزیم، که شکل فضایی آنزیم را تغییر می‌دهد و فعالیت آن را تنظیم می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] تنظیم آلوستریک",
+     "final_resolution": "تنظیم آلوستریک",
+     "notes": "",
+     "keywords": [
+      "تنظیم آلوستریک"
+     ],
+     "distractors": [
+      "مهار رقابتی",
+      "اشباع پیش‌ماده",
+      "واسرشت شدن"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "What is it called when certain regulatory molecules bind to a site other than the active site, changing the enzyme's shape and regulating its activity?",
+     "grading_key": "- [1] Allosteric regulation",
+     "final_resolution": "Allosteric regulation",
+     "notes": "",
+     "keywords": [
+      "allosteric regulation"
+     ],
+     "distractors": [
+      "Competitive inhibition",
+      "Substrate saturation",
+      "Denaturation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Ettesal-e barkhi molekul-haye tanzim-konande be jaygahi gheyr az jaygah-e faal-e anzim, ke shekl-e fazayi-ye anzim ra taghyir midahad va faaliyat-ash ra tanzim mikonad, che nam darad?",
+     "grading_key": "- [1] Tanzim-e allosteric",
+     "final_resolution": "Tanzim-e allosteric",
+     "notes": "",
+     "keywords": [
+      "tanzim-e allosteric"
+     ],
+     "distractors": [
+      "Mahar-e reghabati",
+      "Eshba-e pish-made",
+      "Vasoresht shodan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 932,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۲: مهندسی پروتئین)",
+    "en": "Chapter 7: Modern Biotechnology (Section 2: Protein Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 2)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "در مهندسی پروتئین، پایداری و کارایی کدام آنزیم را در برابر شوینده‌ها و سفیدکننده‌ها افزایش می‌دهند تا لکه‌های پروتئینی (مانند خون) بهتر پاک شوند؟",
+     "grading_key": "- [1] پروتئاز",
+     "final_resolution": "پروتئاز",
+     "notes": "",
+     "keywords": [
+      "آنزیم پروتئاز"
+     ],
+     "distractors": [
+      "آمیلاز",
+      "دنا لیگاز",
+      "رنابسپاراز"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "In protein engineering, which enzyme is made more stable and efficient in the presence of detergents and bleach, so that protein stains (such as blood) are removed better?",
+     "grading_key": "- [1] Protease",
+     "final_resolution": "Protease",
+     "notes": "",
+     "keywords": [
+      "protease enzyme"
+     ],
+     "distractors": [
+      "Amylase",
+      "DNA ligase",
+      "RNA polymerase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Dar mohandesi-ye protein, paydari va karayi-ye kodam anzim ra dar barabar-e shooyande-ha va sefid-konande-ha afzayesh midahand ta lake-haye proteini (manand-e khoon) behtar pak shavand?",
+     "grading_key": "- [1] Protease",
+     "final_resolution": "Protease",
+     "notes": "",
+     "keywords": [
+      "anzim-e protease"
+     ],
+     "distractors": [
+      "Amylase",
+      "DNA ligase",
+      "RNA-basparaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 932,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (محاسبهٔ pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Calculating pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Mohasebe-ye pH)",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "اگر محلول یک اسید قوی را در دمای اتاق با آب مقطر ده برابر رقیق کنیم، ⁦pH⁩ محلول چه تغییری می‌کند؟",
+     "grading_key": "- [1] یک واحد افزایش می‌یابد",
+     "final_resolution": "یک واحد افزایش می‌یابد",
+     "notes": "",
+     "keywords": [
+      "رقیق کردن اسید"
+     ],
+     "distractors": [
+      "یک واحد کاهش می‌یابد",
+      "تغییر نمی‌کند",
+      "ده برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "If a strong acid solution is diluted ten times with distilled water at room temperature, how does its pH change?",
+     "grading_key": "- [1] It rises by 1 unit",
+     "final_resolution": "It rises by 1 unit",
+     "notes": "",
+     "keywords": [
+      "acid dilution"
+     ],
+     "distractors": [
+      "It falls by 1 unit",
+      "It does not change",
+      "It becomes ten times larger"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Agar mahlool-e yek acid-e ghavi ra dar dama-ye otagh ba ab-e moghattar dah barabar raghigh konim, pH-e mahlool che taghyiri mikonad?",
+     "grading_key": "- [1] Yek vahed afzayesh miyabad",
+     "final_resolution": "Yek vahed afzayesh miyabad",
+     "notes": "",
+     "keywords": [
+      "raghigh kardan-e asid"
+     ],
+     "distractors": [
+      "Yek vahed kahesh miyabad",
+      "Taghyir nemikonad",
+      "Dah barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 932,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (استخراج آلومینیم)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Extracting Aluminium)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Estekhraj-e Aluminium)",
+    "pages": "62–64"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در فرایند هال برای استخراج آلومینیم، گاز کربن دی‌اکسید (⁦CO₂⁩) از واکنش اکسیژن آزادشده با کدام بخش سلول پدید می‌آید؟",
+     "grading_key": "- [1] آندهای گرافیتی (کربنی)",
+     "final_resolution": "آندهای گرافیتی (کربنی)",
+     "notes": "",
+     "keywords": [
+      "مصرف آند در فرایند هال"
+     ],
+     "distractors": [
+      "الکترولیت کریولیت مذاب",
+      "پوستهٔ فولادی سلول",
+      "سیم‌های رابط مسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the Hall process for extracting aluminium, carbon dioxide (CO₂) forms when the released oxygen reacts with which part of the cell?",
+     "grading_key": "- [1] The graphite (carbon) anodes",
+     "final_resolution": "The graphite (carbon) anodes",
+     "notes": "",
+     "keywords": [
+      "anode consumption in Hall process"
+     ],
+     "distractors": [
+      "The molten cryolite electrolyte",
+      "The steel shell of the cell",
+      "The copper connecting wires"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar farayand-e Hall baraye estekhraj-e aluminium, gaz-e carbon dioxide (CO₂) az vakonesh-e oxygen-e azad-shode ba kodam bakhsh-e selool padid miayad?",
+     "grading_key": "- [1] Anode-haye graphiti (carboni)",
+     "final_resolution": "Anode-haye graphiti (carboni)",
+     "notes": "",
+     "keywords": [
+      "masraf-e anode dar farayand-e Hall"
+     ],
+     "distractors": [
+      "Electrolyte-e cryolite-e mozab",
+      "Pooste-ye fooladi-ye selool",
+      "Sim-haye rabet-e mesi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 932,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (نمودار مکان-زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Position-Time Graph)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Nemoodar-e Makan-Zaman)",
+    "pages": "8–10"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "اگر نمودار مکان-زمان (⁦x-t⁩) جسمی خطی راست و افقی باشد، سرعت لحظه‌ای آن در آن بازه چقدر است؟",
+     "grading_key": "- [1] صفر",
+     "final_resolution": "صفر",
+     "notes": "",
+     "keywords": [
+      "نمودار مکان-زمان افقی"
+     ],
+     "distractors": [
+      "مقداری ثابت و مثبت",
+      "مقداری ثابت و منفی",
+      "با زمان به‌طور خطی افزایش می‌یابد"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "If the position-time (x-t) graph of an object is a horizontal straight line, what is its instantaneous velocity over that interval?",
+     "grading_key": "- [1] Zero",
+     "final_resolution": "Zero",
+     "notes": "",
+     "keywords": [
+      "horizontal position-time graph"
+     ],
+     "distractors": [
+      "A constant positive value",
+      "A constant negative value",
+      "Increasing linearly with time"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Agar nemoodar-e makan-zaman (x-t)-e jesmi khatti rast va ofoghi bashad, sorat-e lahzei-ash dar an baze cheghadr ast?",
+     "grading_key": "- [1] Sefr",
+     "final_resolution": "Sefr",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e makan-zaman-e ofoghi"
+     ],
+     "distractors": [
+      "Meghdari sabet va mosbat",
+      "Meghdari sabet va manfi",
+      "Ba zaman be tor-e khatti afzayesh miyabad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 932,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (ویژگی‌های صوت)",
+    "en": "Chapter 3: Oscillations and Waves (Properties of Sound)",
+    "tr": "Fasl 3: Navasan va Moj (Vizhegi-haye Sot)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "کدام ویژگی موج صوتی، ارتفاع صوت (زیر یا بم بودن صدا) را برای گوش انسان تعیین می‌کند؟",
+     "grading_key": "- [1] بسامد (⁦f⁩)",
+     "final_resolution": "بسامد (⁦f⁩)",
+     "notes": "",
+     "keywords": [
+      "ارتفاع صوت"
+     ],
+     "distractors": [
+      "دامنه (⁦A⁩)",
+      "شدت (⁦I⁩)",
+      "تندی انتشار (⁦v⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "Which property of a sound wave determines its pitch (how high or low it sounds) to the human ear?",
+     "grading_key": "- [1] Frequency (f)",
+     "final_resolution": "Frequency (f)",
+     "notes": "",
+     "keywords": [
+      "sound pitch"
+     ],
+     "distractors": [
+      "Amplitude (A)",
+      "Intensity (I)",
+      "Propagation speed (v)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Kodam vizhegi-ye moj-e soti, ertefa-ye sot (zir ya bam boodan-e seda) ra baraye goosh-e ensan taiin mikonad?",
+     "grading_key": "- [1] Basamad (f)",
+     "final_resolution": "Basamad (f)",
+     "notes": "",
+     "keywords": [
+      "ertefa-ye sot"
+     ],
+     "distractors": [
+      "Damane (A)",
+      "Sheddat (I)",
+      "Tondi-ye enteshar (v)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 932,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کاربردی)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Wind turbines can capture the _______ energy of wind and convert it into electrical power.'⁩",
+     "grading_key": "- [1] ⁦kinetic⁩",
+     "final_resolution": "⁦kinetic⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦fossil⁩",
+      "⁦chemical⁩",
+      "⁦thermal⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Wind turbines can capture the _______ energy of wind and convert it into electrical power.'",
+     "grading_key": "- [1] kinetic",
+     "final_resolution": "kinetic",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "fossil",
+      "chemical",
+      "thermal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Wind turbines can capture the _______ energy of wind and convert it into electrical power.'",
+     "grading_key": "- [1] kinetic",
+     "final_resolution": "kinetic",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "fossil",
+      "chemical",
+      "thermal"
+     ]
+    }
+   }
+  }
+ ]
+}
