@@ -1,0 +1,433 @@
+{
+ "version": 35,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 928,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "تاخوردن منظم مارپیچ‌های آلفا و صفحه‌های بتا در یک ساختار سه‌بعدی فشرده، کدام سطح ساختار پروتئین است؟",
+     "grading_key": "- [1] ساختار سوم",
+     "final_resolution": "ساختار سوم",
+     "notes": "",
+     "keywords": [
+      "ساختار سوم پروتئین"
+     ],
+     "distractors": [
+      "ساختار اول",
+      "ساختار دوم",
+      "ساختار چهارم"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "The organized folding of alpha helices and beta sheets into a compact three-dimensional shape is which level of protein structure?",
+     "grading_key": "- [1] Tertiary structure",
+     "final_resolution": "Tertiary structure",
+     "notes": "",
+     "keywords": [
+      "tertiary protein structure"
+     ],
+     "distractors": [
+      "Primary structure",
+      "Secondary structure",
+      "Quaternary structure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Takhordan-e monazzam-e marpich-haye alfa va safhe-haye beta dar yek sakhtar-e se-bodi-ye feshorde, kodam sath-e sakhtar-e protein ast?",
+     "grading_key": "- [1] Sakhtar-e sevvom",
+     "final_resolution": "Sakhtar-e sevvom",
+     "notes": "",
+     "keywords": [
+      "sakhtar-e sevvom-e protein"
+     ],
+     "distractors": [
+      "Sakhtar-e avval",
+      "Sakhtar-e dovom",
+      "Sakhtar-e chaharom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 928,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در واکنش‌های وابسته به نور در غشای تیلاکوئید، الکترون‌های پرانرژی خروجی از فتوسیستم ۱ (⁦PSI⁩) سرانجام به کدام مولکول ناقل می‌رسند؟",
+     "grading_key": "- [1] ⁦NADP⁺⁩",
+     "final_resolution": "⁦NADP⁺⁩",
+     "notes": "",
+     "keywords": [
+      "ناقل NADP⁺"
+     ],
+     "distractors": [
+      "⁦NAD⁺⁩",
+      "⁦FAD⁩",
+      "پلاستوکینون"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the light-dependent reactions, the high-energy electrons leaving photosystem I (PSI) are finally passed to which carrier molecule?",
+     "grading_key": "- [1] NADP⁺",
+     "final_resolution": "NADP⁺",
+     "notes": "",
+     "keywords": [
+      "NADP⁺ carrier"
+     ],
+     "distractors": [
+      "NAD⁺",
+      "FAD",
+      "Plastoquinone"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar vakonesh-haye vabaste be noor dar ghesha-ye thylakoid, electron-haye por-enerji-ye khorooji az photosystem 1 (PSI) saranjam be kodam molekul-e naghel miresand?",
+     "grading_key": "- [1] NADP⁺",
+     "final_resolution": "NADP⁺",
+     "notes": "",
+     "keywords": [
+      "naghel-e NADP⁺"
+     ],
+     "distractors": [
+      "NAD⁺",
+      "FAD",
+      "Plastoquinone"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 928,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (درجهٔ یونش)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Degree of Ionization)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Darajeh-ye Yonesh)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "برای یک اسید ضعیف تک‌پروتونی در محلول آبی، نسبت غلظت مولی گونه‌های یونیده به غلظت کل اسید حل‌شدهٔ اولیه چه نام دارد؟",
+     "grading_key": "- [1] درجهٔ یونش (⁦α⁩)",
+     "final_resolution": "درجهٔ یونش (⁦α⁩)",
+     "notes": "",
+     "keywords": [
+      "درجهٔ یونش"
+     ],
+     "distractors": [
+      "ثابت یونش اسید (⁦Ka⁩)",
+      "ثابت یونش آب (⁦Kw⁩)",
+      "ثابت حاصل‌ضرب انحلال‌پذیری (⁦Ksp⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "For a weak monoprotic acid in aqueous solution, what is the ratio of the molar concentration of ionized species to the total initial concentration of dissolved acid called?",
+     "grading_key": "- [1] Degree of ionization (α)",
+     "final_resolution": "Degree of ionization (α)",
+     "notes": "",
+     "keywords": [
+      "degree of ionization"
+     ],
+     "distractors": [
+      "Acid dissociation constant (Ka)",
+      "Ionization constant of water (Kw)",
+      "Solubility product constant (Ksp)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Baraye yek acid-e zaif-e tak-protoni dar mahlool-e abi, nesbat-e ghelzat-e moli-ye goone-haye yonide be ghelzat-e kol-e acid-e hal-shode-ye avvaliye che nam darad?",
+     "grading_key": "- [1] Darajeh-ye yonesh (α)",
+     "final_resolution": "Darajeh-ye yonesh (α)",
+     "notes": "",
+     "keywords": [
+      "darajeh-ye yonesh"
+     ],
+     "distractors": [
+      "Sabet-e yonesh-e acid (Ka)",
+      "Sabet-e yonesh-e ab (Kw)",
+      "Sabet-e hasel-zarb-e enhelal-paziri (Ksp)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 928,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (عبارت ثابت تعادل)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Equilibrium Constant Expression)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar (Sabet-e Taadol)",
+    "pages": "104–106"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در عبارت ثابت تعادل (⁦K⁩) برای یک واکنش گازی همگن، غلظت مولی کدام گونه‌ها در صورت کسر قرار می‌گیرد؟",
+     "grading_key": "- [1] فرآورده‌های گازی",
+     "final_resolution": "فرآورده‌های گازی",
+     "notes": "",
+     "keywords": [
+      "فرآورده‌های گازی"
+     ],
+     "distractors": [
+      "واکنش‌دهنده‌های گازی",
+      "کاتالیزگرهای جامد",
+      "حلال‌های مایع"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "In the equilibrium constant (K) expression for a homogeneous gaseous reaction, the molar concentrations of which species go in the numerator?",
+     "grading_key": "- [1] Gaseous products",
+     "final_resolution": "Gaseous products",
+     "notes": "",
+     "keywords": [
+      "gaseous products"
+     ],
+     "distractors": [
+      "Gaseous reactants",
+      "Solid catalysts",
+      "Liquid solvents"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar ebarat-e sabet-e taadol (K) baraye yek vakonesh-e gazi-ye hamgen, ghelzat-e moli-ye kodam goone-ha dar soorat-e kasr gharar migirad?",
+     "grading_key": "- [1] Faravarde-haye gazi",
+     "final_resolution": "Faravarde-haye gazi",
+     "notes": "",
+     "keywords": [
+      "faravardeh-haye gazi"
+     ],
+     "distractors": [
+      "Vakonesh-dahande-haye gazi",
+      "Catalyzgar-haye jamed",
+      "Halal-haye maye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 928,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (حرکت با سرعت ثابت)",
+    "en": "Chapter 1: Motion Along a Straight Line (Constant Velocity)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Sorat-e Sabet)",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت یکنواخت بر خط راست (با سرعت ثابت)، نمودار سرعت-زمان (⁦v-t⁩) متحرک چه شکلی دارد؟",
+     "grading_key": "- [1] خطی افقی",
+     "final_resolution": "خطی افقی",
+     "notes": "",
+     "keywords": [
+      "نمودار سرعت-زمان"
+     ],
+     "distractors": [
+      "خطی راست و شیب‌دار",
+      "سهمی",
+      "خطی قائم"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In uniform straight-line motion (constant velocity), what does the velocity-time (v-t) graph of the object look like?",
+     "grading_key": "- [1] A horizontal line",
+     "final_resolution": "A horizontal line",
+     "notes": "",
+     "keywords": [
+      "velocity-time graph"
+     ],
+     "distractors": [
+      "A sloping straight line",
+      "A parabola",
+      "A vertical line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat-e yeknavakht bar khatt-e rast (ba sorat-e sabet), nemoodar-e sorat-zaman (v-t)-e motaharrek che shekli darad?",
+     "grading_key": "- [1] Khatti ofoghi",
+     "final_resolution": "Khatti ofoghi",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e sorat-zaman"
+     ],
+     "distractors": [
+      "Khatti rast va shib-dar",
+      "Sahmi",
+      "Khatti ghaem"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 928,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (پراش موج)",
+    "en": "Chapter 3: Oscillations and Waves (Diffraction)",
+    "tr": "Fasl 3: Navasan va Moj (Parash-e Moj)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "خم شدن و پخش شدن موج‌های صوتی یا نوری هنگام گذر از لبهٔ یک مانع یا یک شکاف باریک چه نام دارد؟",
+     "grading_key": "- [1] پراش",
+     "final_resolution": "پراش",
+     "notes": "",
+     "keywords": [
+      "پراش موج"
+     ],
+     "distractors": [
+      "شکست",
+      "بازتاب",
+      "تداخل"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "What is the bending and spreading of sound or light waves as they pass the edge of an obstacle or go through a narrow slit called?",
+     "grading_key": "- [1] Diffraction",
+     "final_resolution": "Diffraction",
+     "notes": "",
+     "keywords": [
+      "wave diffraction"
+     ],
+     "distractors": [
+      "Refraction",
+      "Reflection",
+      "Interference"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Kham shodan va pakhsh shodan-e moj-haye soti ya noori hengam-e gozar az labe-ye yek mane ya yek shekaf-e barik che nam darad?",
+     "grading_key": "- [1] Parash",
+     "final_resolution": "Parash",
+     "notes": "",
+     "keywords": [
+      "parash-e moj"
+     ],
+     "distractors": [
+      "Shekast",
+      "Baztab",
+      "Tadakhol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 928,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ گذشتهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'The valuable medical papers _______ translated into Persian centuries ago.'⁩",
+     "grading_key": "- [1] ⁦were⁩",
+     "final_resolution": "⁦were⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦was⁩",
+      "⁦have been⁩",
+      "⁦are⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct simple past passive form to complete the sentence:\n'The valuable medical papers _______ translated into Persian centuries ago.'",
+     "grading_key": "- [1] were",
+     "final_resolution": "were",
+     "notes": "",
+     "keywords": [
+      "simple past passive"
+     ],
+     "distractors": [
+      "was",
+      "have been",
+      "are"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'The valuable medical papers _______ translated into Persian centuries ago.'",
+     "grading_key": "- [1] were",
+     "final_resolution": "were",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "was",
+      "have been",
+      "are"
+     ]
+    }
+   }
+  }
+ ]
+}
