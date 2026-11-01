@@ -1,0 +1,433 @@
+{
+ "version": 29,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 922,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "کدام سطح ساختار پروتئین‌ها از کنار هم قرار گرفتن دو یا چند زنجیرهٔ پلی‌پپتیدی تاخورده پدید می‌آید و هموگلوبین نمونهٔ بارز آن است؟",
+     "grading_key": "- [1] ساختار چهارم",
+     "final_resolution": "ساختار چهارم",
+     "notes": "",
+     "keywords": [
+      "ساختار چهارم پروتئین"
+     ],
+     "distractors": [
+      "ساختار اول",
+      "ساختار دوم",
+      "ساختار سوم"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Which level of protein structure is formed when two or more folded polypeptide chains come together, with hemoglobin as a prime example?",
+     "grading_key": "- [1] Quaternary structure",
+     "final_resolution": "Quaternary structure",
+     "notes": "",
+     "keywords": [
+      "quaternary protein structure"
+     ],
+     "distractors": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Kodam sath-e sakhtar-e protein-ha az kenar-e ham gharar gereftan-e do ya chand zanjire-ye polypeptide-e takhorde padid miayad va hemoglobin nemoone-ye bariz-e an ast?",
+     "grading_key": "- [1] Sakhtar-e chaharom",
+     "final_resolution": "Sakhtar-e chaharom",
+     "notes": "",
+     "keywords": [
+      "sakhtar-e chaharom-e protein"
+     ],
+     "distractors": [
+      "Sakhtar-e avval",
+      "Sakhtar-e dovom",
+      "Sakhtar-e sevvom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 922,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "در چرخهٔ کالوین، تثبیت کربن دی‌اکسید (⁦CO₂⁩) و ترکیب آن با ریبولوز بیس‌فسفات (⁦RuBP⁩) را کدام آنزیم انجام می‌دهد؟",
+     "grading_key": "- [1] روبیسکو",
+     "final_resolution": "روبیسکو",
+     "notes": "",
+     "keywords": [
+      "آنزیم روبیسکو"
+     ],
+     "distractors": [
+      "⁦ATP⁩ ساز",
+      "⁦PEP⁩ کربوکسیلاز",
+      "⁦NADP⁩ ردوکتاز"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In the Calvin cycle, which enzyme fixes carbon dioxide (CO₂) by combining it with ribulose bisphosphate (RuBP)?",
+     "grading_key": "- [1] Rubisco",
+     "final_resolution": "Rubisco",
+     "notes": "",
+     "keywords": [
+      "Rubisco enzyme"
+     ],
+     "distractors": [
+      "ATP synthase",
+      "PEP carboxylase",
+      "NADP reductase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Dar charkhe-ye Calvin, tasbit-e carbon dioxide (CO₂) va tarkib-ash ba ribulose bisphosphate (RuBP) ra kodam anzim anjam midahad?",
+     "grading_key": "- [1] Rubisco",
+     "final_resolution": "Rubisco",
+     "notes": "",
+     "keywords": [
+      "anzim-e Rubisco"
+     ],
+     "distractors": [
+      "ATP-saz",
+      "PEP carboxylase",
+      "NADP reductase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 922,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (صابون‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Soaps)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Saboon-ha)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "صابون‌های مایع نمک پتاسیم (⁦K⁺⁩) یا آمونیوم اسیدهای چرب‌اند؛ صابون‌های جامد معمولی نمک کدام کاتیون فلزی‌اند؟",
+     "grading_key": "- [1] یون سدیم (⁦Na⁺⁩)",
+     "final_resolution": "یون سدیم (⁦Na⁺⁩)",
+     "notes": "",
+     "keywords": [
+      "صابون جامد"
+     ],
+     "distractors": [
+      "یون کلسیم (⁦Ca²⁺⁩)",
+      "یون منیزیم (⁦Mg²⁺⁩)",
+      "یون آلومینیم (⁦Al³⁺⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Liquid soaps are potassium (K⁺) or ammonium salts of fatty acids; ordinary solid soaps are salts of which metal cation?",
+     "grading_key": "- [1] Sodium ion (Na⁺)",
+     "final_resolution": "Sodium ion (Na⁺)",
+     "notes": "",
+     "keywords": [
+      "solid soap"
+     ],
+     "distractors": [
+      "Calcium ion (Ca²⁺)",
+      "Magnesium ion (Mg²⁺)",
+      "Aluminium ion (Al³⁺)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Saboon-haye maye namak-e potassium (K⁺) ya ammonium-e acid-haye charb-and; saboon-haye jamed-e maamooli namak-e kodam cation-e felezi-and?",
+     "grading_key": "- [1] Yon-e sodium (Na⁺)",
+     "final_resolution": "Yon-e sodium (Na⁺)",
+     "notes": "",
+     "keywords": [
+      "saboon-e jamed"
+     ],
+     "distractors": [
+      "Yon-e calcium (Ca²⁺)",
+      "Yon-e magnesium (Mg²⁺)",
+      "Yon-e aluminium (Al³⁺)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 922,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی آهن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Corrosion of Iron)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Khordegi-ye Ahan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در خوردگی الکتروشیمیایی (زنگ‌زدن) آهن در محیط مرطوب، کدام نیم‌واکنش در آند رخ می‌دهد؟",
+     "grading_key": "- [1] ⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩",
+     "final_resolution": "⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩",
+     "notes": "",
+     "keywords": [
+      "نیم‌واکنش آندی آهن"
+     ],
+     "distractors": [
+      "⁦O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)⁩",
+      "⁦Fe²⁺(aq) + 2e⁻ → Fe(s)⁩",
+      "⁦2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In the electrochemical corrosion (rusting) of iron in a moist environment, which half-reaction takes place at the anode?",
+     "grading_key": "- [1] Fe(s) → Fe²⁺(aq) + 2e⁻",
+     "final_resolution": "Fe(s) → Fe²⁺(aq) + 2e⁻",
+     "notes": "",
+     "keywords": [
+      "iron anodic half-reaction"
+     ],
+     "distractors": [
+      "O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+      "Fe²⁺(aq) + 2e⁻ → Fe(s)",
+      "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar khordegi-ye electrochemical (zang-zadan)-e ahan dar mohit-e martoob, kodam nim-vakonesh dar anode rokh midahad?",
+     "grading_key": "- [1] Fe(s) → Fe²⁺(aq) + 2e⁻",
+     "final_resolution": "Fe(s) → Fe²⁺(aq) + 2e⁻",
+     "notes": "",
+     "keywords": [
+      "nim-vakonesh-e anodi-ye ahan"
+     ],
+     "distractors": [
+      "O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)",
+      "Fe²⁺(aq) + 2e⁻ → Fe(s)",
+      "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 922,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون دوم نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Second Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Dovom-e Newton)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون دوم نیوتون، بردار شتاب (⁦a⁩) متحرک در هر لحظه همواره هم‌جهت با کدام کمیت برداری است؟",
+     "grading_key": "- [1] نیروی خالص (⁦Fnet⁩)",
+     "final_resolution": "نیروی خالص (⁦Fnet⁩)",
+     "notes": "",
+     "keywords": [
+      "جهت شتاب و نیرو"
+     ],
+     "distractors": [
+      "سرعت لحظه‌ای (⁦v⁩)",
+      "تکانهٔ خطی (⁦p⁩)",
+      "جابه‌جایی (⁦Δx⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Newton's second law, the acceleration vector (a) of a moving object is always in the same direction as which vector quantity at every instant?",
+     "grading_key": "- [1] Net force (Fnet)",
+     "final_resolution": "Net force (Fnet)",
+     "notes": "",
+     "keywords": [
+      "acceleration and net force direction"
+     ],
+     "distractors": [
+      "Instantaneous velocity (v)",
+      "Linear momentum (p)",
+      "Displacement (Δx)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e dovom-e Newton, bordar-e shetab (a)-e motaharrek dar har lahze hamvare ham-jahat ba kodam kamiyat-e bordari ast?",
+     "grading_key": "- [1] Niroo-ye khales (Fnet)",
+     "final_resolution": "Niroo-ye khales (Fnet)",
+     "notes": "",
+     "keywords": [
+      "jahat-e shetab va niroo"
+     ],
+     "distractors": [
+      "Sorat-e lahzei (v)",
+      "Takane-ye khatti (p)",
+      "Jabejayi (Δx)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 922,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (انرژی فوتون)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Photon Energy)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Enerji-ye Photon)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "بنابر رابطهٔ اینشتین، انرژی هر فوتون (⁦E⁩) از ضرب ثابت پلانک (⁦h⁩) در کدام ویژگی نور به دست می‌آید؟",
+     "grading_key": "- [1] بسامد (⁦f⁩)",
+     "final_resolution": "بسامد (⁦f⁩)",
+     "notes": "",
+     "keywords": [
+      "انرژی فوتون"
+     ],
+     "distractors": [
+      "طول موج (⁦λ⁩)",
+      "شدت نور",
+      "تندی نور (⁦c⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "By Einstein's relation, the energy of each photon (E) is found by multiplying Planck's constant (h) by which property of the light?",
+     "grading_key": "- [1] Frequency (f)",
+     "final_resolution": "Frequency (f)",
+     "notes": "",
+     "keywords": [
+      "photon energy relation"
+     ],
+     "distractors": [
+      "Wavelength (λ)",
+      "Intensity",
+      "Speed of light (c)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Bena bar rabete-ye Einstein, enerji-ye har photon (E) az zarb-e sabet-e Planck (h) dar kodam vizhegi-ye noor be dast miayad?",
+     "grading_key": "- [1] Basamad (f)",
+     "final_resolution": "Basamad (f)",
+     "notes": "",
+     "keywords": [
+      "enerji-ye photon"
+     ],
+     "distractors": [
+      "Tool-e moj (λ)",
+      "Sheddat-e noor",
+      "Tondi-ye noor (c)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 922,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Hard work and concentration are essential factors to _______ success in competitive life.'⁩",
+     "grading_key": "- [1] ⁦achieve⁩",
+     "final_resolution": "⁦achieve⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦deforest⁩",
+      "⁦forgive⁩",
+      "⁦pollute⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'Hard work and concentration are essential factors to _______ success in competitive life.'",
+     "grading_key": "- [1] achieve",
+     "final_resolution": "achieve",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "deforest",
+      "forgive",
+      "pollute"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Hard work and concentration are essential factors to _______ success in competitive life.'",
+     "grading_key": "- [1] achieve",
+     "final_resolution": "achieve",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "deforest",
+      "forgive",
+      "pollute"
+     ]
+    }
+   }
+  }
+ ]
+}
