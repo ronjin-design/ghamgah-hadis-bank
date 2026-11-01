@@ -132,6 +132,12 @@
    "format": 2,
    "file": "pack-0022.json",
    "sha256": "34f9192ca90d2805c8a6313f70639d46eb28a384a5459d500a9c8b681e438804"
+  },
+  {
+   "version": 23,
+   "format": 2,
+   "file": "pack-0023.json",
+   "sha256": "41f11324d19eb17a537bd561b04718d2c4772fc3280a3cc820304bc433ac24a7"
   }
  ]
 }

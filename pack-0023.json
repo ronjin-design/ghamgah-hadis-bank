@@ -1,0 +1,433 @@
+{
+ "version": 23,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 916,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۱: رونویسی)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 1: Transcription)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 1)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در رونویسی در یاخته‌های یوکاریوتی، کدام رنابسپاراز پیش‌ساز رنای پیک (⁦mRNA⁩) را می‌سازد؟",
+     "grading_key": "- [1] رنابسپاراز ۲",
+     "final_resolution": "رنابسپاراز ۲",
+     "notes": "",
+     "keywords": [
+      "رنابسپاراز ۲"
+     ],
+     "distractors": [
+      "رنابسپاراز ۱",
+      "رنابسپاراز ۳",
+      "هلیکاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In eukaryotic transcription, which RNA polymerase synthesizes the precursors of messenger RNA (mRNA)?",
+     "grading_key": "- [1] RNA polymerase II",
+     "final_resolution": "RNA polymerase II",
+     "notes": "",
+     "keywords": [
+      "RNA polymerase II"
+     ],
+     "distractors": [
+      "RNA polymerase I",
+      "RNA polymerase III",
+      "Helicase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar ronevisi dar yakhte-haye eukaryoti, kodam RNA-basparaz pish-saz-e RNA-ye peyk (mRNA) ra misazad?",
+     "grading_key": "- [1] RNA-basparaz 2",
+     "final_resolution": "RNA-basparaz 2",
+     "notes": "",
+     "keywords": [
+      "RNA-basparaz 2"
+     ],
+     "distractors": [
+      "RNA-basparaz 1",
+      "RNA-basparaz 3",
+      "Helicase"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Dey",
+   "number": 916,
+   "topic_tag": "animal-behavior",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۸: رفتارهای جانوران (گفتار ۱: اساس رفتار)",
+    "en": "Chapter 8: Animal Behavior (Section 1: Basis of Behavior)",
+    "tr": "Fasl 8: Raftar-haye Janevaran (Goftar 1)",
+    "pages": "108–111"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "رفتارهای جانوران",
+     "question": "رفتارهایی که جانور از بدو تولد و بدون نیاز به تجربهٔ قبلی به‌صورت غریزی انجام می‌دهد، عمدتاً تحت کنترل کدام عامل‌اند؟",
+     "grading_key": "- [1] ژن‌ها (برنامهٔ ژنی)",
+     "final_resolution": "ژن‌ها (برنامهٔ ژنی)",
+     "notes": "",
+     "keywords": [
+      "رفتار غریزی"
+     ],
+     "distractors": [
+      "شرطی شدن فعال",
+      "خوگیری",
+      "نقش‌پذیری"
+     ]
+    },
+    "en": {
+     "topic_label": "Animal Behavior",
+     "question": "Behaviours an animal performs instinctively from birth, without any prior experience, are mainly controlled by which factor?",
+     "grading_key": "- [1] Genes (genetic programming)",
+     "final_resolution": "Genes (genetic programming)",
+     "notes": "",
+     "keywords": [
+      "instinctive behavior"
+     ],
+     "distractors": [
+      "Operant conditioning",
+      "Habituation",
+      "Imprinting"
+     ]
+    },
+    "tr": {
+     "topic_label": "Raftar-haye janevaran",
+     "question": "Raftar-hayi ke janevar az bad-e tavallod va bedoon-e niaz be tajrobe-ye ghabli be soorat-e gharizi anjam midahad, omdatan tahte control-e kodam amel-and?",
+     "grading_key": "- [1] Zhen-ha (barname-ye zheni)",
+     "final_resolution": "Zhen-ha (barname-ye zheni)",
+     "notes": "",
+     "keywords": [
+      "raftar-e gharizi"
+     ],
+     "distractors": [
+      "Sharti shodan-e faal",
+      "Khoo-giri",
+      "Naghsh-paziri"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 916,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (پاک‌کننده‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Cleaning Agents)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Pak-konandeh-ha)",
+    "pages": "12–15"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "کدام پاک‌کننده افزون بر برهم‌کنش میان‌مولکولی با آلاینده‌ها، با خودِ آلاینده‌ها (مانند چربی‌ها) واکنش شیمیایی می‌دهد و آن‌ها را از بین می‌برد؟",
+     "grading_key": "- [1] پاک‌کنندهٔ خورنده (مانند ⁦NaOH⁩)",
+     "final_resolution": "پاک‌کنندهٔ خورنده (مانند ⁦NaOH⁩)",
+     "notes": "",
+     "keywords": [
+      "پاک‌کنندهٔ خورنده"
+     ],
+     "distractors": [
+      "صابون",
+      "پاک‌کنندهٔ غیرصابونی (سولفوناتی)",
+      "پارافین مایع"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Which cleaning agent, besides intermolecular interactions with the dirt, reacts chemically with the dirt itself (such as fats) to remove it?",
+     "grading_key": "- [1] Corrosive cleaner (such as NaOH)",
+     "final_resolution": "Corrosive cleaner (such as NaOH)",
+     "notes": "",
+     "keywords": [
+      "corrosive cleaner"
+     ],
+     "distractors": [
+      "Soap",
+      "Non-soap (sulfonate) detergent",
+      "Liquid paraffin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Kodam pak-konande afzoon bar barham-konesh-e miyan-molekuli ba aleyande-ha, ba khod-e aleyande-ha (manand-e charbi-ha) vakonesh-e shimiayi midahad va anha ra az bein mibarad?",
+     "grading_key": "- [1] Pak-konande-ye khorande (manand-e NaOH)",
+     "final_resolution": "Pak-konande-ye khorande (manand-e NaOH)",
+     "notes": "",
+     "keywords": [
+      "pak-konandeh-ye khorandeh"
+     ],
+     "distractors": [
+      "Saboon",
+      "Pak-konande-ye gheyr-e saboonai (sulfonati)",
+      "Paraffin-e maye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 916,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (آبکاری فلزها)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Electroplating)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Abkari)",
+    "pages": "54–57"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در آبکاری یک قاشق فولادی با نقره، فلز نقرهٔ خالص و قاشق به ترتیب باید کدام الکترود باشند؟",
+     "grading_key": "- [1] نقره آند، قاشق کاتد",
+     "final_resolution": "نقره آند، قاشق کاتد",
+     "notes": "",
+     "keywords": [
+      "آبکاری"
+     ],
+     "distractors": [
+      "قاشق آند، نقره کاتد",
+      "هر دو کاتد",
+      "هر دو آند"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In electroplating a steel spoon with silver, which electrodes should the pure silver and the spoon be, respectively?",
+     "grading_key": "- [1] Silver the anode, spoon the cathode",
+     "final_resolution": "Silver the anode, spoon the cathode",
+     "notes": "",
+     "keywords": [
+      "electroplating"
+     ],
+     "distractors": [
+      "Spoon the anode, silver the cathode",
+      "Both the cathode",
+      "Both the anode"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar abkari-ye yek ghashogh-e fooladi ba noghre, felez-e noghre-ye khales va ghashogh be tartib bayad kodam electrode bashand?",
+     "grading_key": "- [1] Noghre anode, ghashogh cathode",
+     "final_resolution": "Noghre anode, ghashogh cathode",
+     "notes": "",
+     "keywords": [
+      "abkari"
+     ],
+     "distractors": [
+      "Ghashogh anode, noghre cathode",
+      "Har do cathode",
+      "Har do anode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 916,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون هوک)",
+    "en": "Chapter 2: Dynamics and Forces (Hooke's Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Hooke)",
+    "pages": "40–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون هوک (⁦F = kx⁩)، اگر نیروی وارد بر یک فنر آرمانی دو برابر شود، تغییر طول فنر چه تغییری می‌کند؟",
+     "grading_key": "- [1] دو برابر می‌شود",
+     "final_resolution": "دو برابر می‌شود",
+     "notes": "",
+     "keywords": [
+      "قانون هوک"
+     ],
+     "distractors": [
+      "تغییر نمی‌کند",
+      "نصف می‌شود",
+      "چهار برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Hooke's law (F = kx), if the force on an ideal spring is doubled, how does the spring's extension change?",
+     "grading_key": "- [1] It doubles",
+     "final_resolution": "It doubles",
+     "notes": "",
+     "keywords": [
+      "Hooke's law"
+     ],
+     "distractors": [
+      "It stays the same",
+      "It halves",
+      "It becomes four times larger"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e Hooke (F = kx), agar niroo-ye vared bar yek fanar-e armani do barabar shavad, taghyir-e tool-e fanar che taghyiri mikonad?",
+     "grading_key": "- [1] Do barabar mishavad",
+     "final_resolution": "Do barabar mishavad",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e Hooke"
+     ],
+     "distractors": [
+      "Taghyir nemikonad",
+      "Nesf mishavad",
+      "Chahar barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 916,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شدت صوت)",
+    "en": "Chapter 3: Oscillations and Waves (Sound Intensity)",
+    "tr": "Fasl 3: Navasan va Moj (Sheddat-e Sot)",
+    "pages": "76–79"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "صوت یک چشمهٔ نقطه‌ای به‌طور یکنواخت در همهٔ جهت‌ها پخش می‌شود. اگر فاصله از چشمه سه برابر شود، شدت صوت دریافتی چه تغییری می‌کند؟",
+     "grading_key": "- [1] یک‌نهم می‌شود (⁦1/9⁩)",
+     "final_resolution": "یک‌نهم می‌شود (⁦1/9⁩)",
+     "notes": "",
+     "keywords": [
+      "شدت صوت"
+     ],
+     "distractors": [
+      "یک‌سوم می‌شود (⁦1/3⁩)",
+      "ثابت می‌ماند",
+      "سه برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "A point source sends sound out evenly in all directions. If the distance from the source is tripled, how does the received intensity change?",
+     "grading_key": "- [1] It drops to one-ninth (1/9)",
+     "final_resolution": "It drops to one-ninth (1/9)",
+     "notes": "",
+     "keywords": [
+      "sound intensity"
+     ],
+     "distractors": [
+      "It drops to one-third (1/3)",
+      "It stays the same",
+      "It triples"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Sot-e yek cheshme-ye noghte-i be tor-e yeknavakht dar hame-ye jahat-ha pakhsh mishavad. Agar fasele az cheshme se barabar shavad, sheddat-e sot-e daryafti che taghyiri mikonad?",
+     "grading_key": "- [1] Yek-nohom mishavad (1/9)",
+     "final_resolution": "Yek-nohom mishavad (1/9)",
+     "notes": "",
+     "keywords": [
+      "sheddat-e sot"
+     ],
+     "distractors": [
+      "Yek-sevvom mishavad (1/3)",
+      "Sabet mimanad",
+      "Se barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 916,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Passive Voice)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Majhool)",
+    "pages": "22–25"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست مجهولِ گذشتهٔ ساده را برای کامل کردن جمله انتخاب کنید:\n⁦'The ideas of Persian doctors _______ carefully by scholars centuries ago.'⁩",
+     "grading_key": "- [1] ⁦were recorded⁩",
+     "final_resolution": "⁦were recorded⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ ساده مجهول"
+     ],
+     "distractors": [
+      "⁦was recorded⁩",
+      "⁦recorded⁩",
+      "⁦have recorded⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct simple past passive form to complete the sentence:\n'The ideas of Persian doctors _______ carefully by scholars centuries ago.'",
+     "grading_key": "- [1] were recorded",
+     "final_resolution": "were recorded",
+     "notes": "",
+     "keywords": [
+      "simple past passive"
+     ],
+     "distractors": [
+      "was recorded",
+      "recorded",
+      "have recorded"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e majhool-e gozashte-ye sade ra baraye kamel kardan-e jomle entekhab konid:\n'The ideas of Persian doctors _______ carefully by scholars centuries ago.'",
+     "grading_key": "- [1] were recorded",
+     "final_resolution": "were recorded",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye sade-ye majhool"
+     ],
+     "distractors": [
+      "was recorded",
+      "recorded",
+      "have recorded"
+     ]
+    }
+   }
+  }
+ ]
+}
