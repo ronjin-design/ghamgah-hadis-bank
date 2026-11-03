@@ -1,0 +1,1226 @@
+{
+ "version": 55,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 948,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۳: پروتئین‌ها و آنزیم‌ها)",
+    "en": "Chapter 1: Informational Molecules (Section 3: Proteins and Enzymes)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 3)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در ساختار چهارم پروتئین‌ها (مانند هموگلوبین)، زنجیره‌های پلی‌پپتیدی جداگانه عمدتاً با کدام نوع پیوندها کنار هم نگه داشته می‌شوند؟",
+     "grading_key": "- [1] برهم‌کنش‌های غیراشتراکی (یونی، هیدروژنی و آب‌گریز)",
+     "final_resolution": "برهم‌کنش‌های غیراشتراکی (یونی، هیدروژنی و آب‌گریز)",
+     "notes": "",
+     "keywords": [
+      "ساختار چهارم پروتئین"
+     ],
+     "distractors": [
+      "پیوندهای پپتیدی اشتراکی",
+      "پل‌های دی‌سولفیدی اشتراکی",
+      "پیوندهای فسفودی‌استر"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In the quaternary structure of proteins (such as hemoglobin), the separate polypeptide chains are held together mainly by which kind of bonds?",
+     "grading_key": "- [1] Non-covalent interactions (ionic, hydrogen and hydrophobic)",
+     "final_resolution": "Non-covalent interactions (ionic, hydrogen and hydrophobic)",
+     "notes": "",
+     "keywords": [
+      "quaternary protein structure"
+     ],
+     "distractors": [
+      "Covalent peptide bonds",
+      "Covalent disulfide bridges",
+      "Phosphodiester bonds"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar sakhtar-e chaharom-e protein-ha (manand-e hemoglobin), zanjire-haye polypeptide-e jodagane omdatan ba kodam no peyvand-ha kenar-e ham negah dashte mishavand?",
+     "grading_key": "- [1] Barham-konesh-haye gheyr-e eshteraki (yoni, hidrozheni va ab-goriz)",
+     "final_resolution": "Barham-konesh-haye gheyr-e eshteraki (yoni, hidrozheni va ab-goriz)",
+     "notes": "",
+     "keywords": [
+      "sakhtar-e chaharom-e protein"
+     ],
+     "distractors": [
+      "Peyvand-haye peptidi-ye eshteraki",
+      "Pol-haye disulfide-e eshteraki",
+      "Peyvand-haye phosphodiester"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 948,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۲: تنظیم بیان ژن)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 2: Regulation of Gene Expression)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 2)",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "در یاخته‌های یوکاریوتی، پروتئین‌هایی که با اتصال به توالی‌های ویژه‌ای از دنا (مانند افزاینده) رونویسی را آسان یا مهار می‌کنند چه نام دارند؟",
+     "grading_key": "- [1] عوامل رونویسی",
+     "final_resolution": "عوامل رونویسی",
+     "notes": "",
+     "keywords": [
+      "عوامل رونویسی"
+     ],
+     "distractors": [
+      "آنزیم‌های برش‌دهنده",
+      "رنابسپاراز",
+      "رنای ناقل آغازگر"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "In eukaryotic cells, what are the proteins called that help or block transcription by binding to particular DNA sequences (such as enhancers)?",
+     "grading_key": "- [1] Transcription factors",
+     "final_resolution": "Transcription factors",
+     "notes": "",
+     "keywords": [
+      "transcription factors"
+     ],
+     "distractors": [
+      "Restriction enzymes",
+      "RNA polymerase",
+      "Initiator tRNA"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Dar yakhte-haye eukaryoti, protein-hayi ke ba ettesal be tavali-haye vizhe-i az DNA (manand-e afzayande) ronevisi ra asan ya mahar mikonand che nam darand?",
+     "grading_key": "- [1] Avamel-e ronevisi",
+     "final_resolution": "Avamel-e ronevisi",
+     "notes": "",
+     "keywords": [
+      "avamel-e ronevisi"
+     ],
+     "distractors": [
+      "Anzim-haye boresh-dahande",
+      "RNA-basparaz",
+      "RNA-ye naghel-e aghazgar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Khordad",
+   "number": 948,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (دودمانه)",
+    "en": "Chapter 3: Transmission of Information (Pedigrees)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Doodmaneh)",
+    "pages": "46–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "در بررسی یک دودمانه (شجره‌نامه)، اگر صفتی در همهٔ نسل‌ها ظاهر شود و والدین بیمار بتوانند فرزند سالم داشته باشند، الگوی وراثت آن صفت کدام است؟",
+     "grading_key": "- [1] اتوزومی بارز",
+     "final_resolution": "اتوزومی بارز",
+     "notes": "",
+     "keywords": [
+      "دودمانه"
+     ],
+     "distractors": [
+      "اتوزومی نهفته",
+      "وابسته به ⁦X⁩ نهفته",
+      "وابسته به ⁦Y⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "In a pedigree, if a trait appears in every generation and affected parents can have unaffected children, what is its inheritance pattern?",
+     "grading_key": "- [1] Autosomal dominant",
+     "final_resolution": "Autosomal dominant",
+     "notes": "",
+     "keywords": [
+      "pedigree"
+     ],
+     "distractors": [
+      "Autosomal recessive",
+      "X-linked recessive",
+      "Y-linked"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Dar barresi-ye yek doodmane (shajare-name), agar sefati dar hame-ye nasl-ha zaher shavad va valedeyn-e bimar betavanand farzand-e salem dashte bashand, olgoo-ye verasat-e an sefat kodam ast?",
+     "grading_key": "- [1] Autosomi-ye barez",
+     "final_resolution": "Autosomi-ye barez",
+     "notes": "",
+     "keywords": [
+      "doodmaneh"
+     ],
+     "distractors": [
+      "Autosomi-ye nahofte",
+      "Vabaste be X-e nahofte",
+      "Vabaste be Y"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 948,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در زنجیرهٔ انتقال الکترون غشای درونی راکیزه، کدام مجموعهٔ پروتئینی الکترون‌ها را مستقیماً از ⁦FADH₂⁩ می‌گیرد؟",
+     "grading_key": "- [1] مجموعهٔ ۲ (سوکسینات دهیدروژناز)",
+     "final_resolution": "مجموعهٔ ۲ (سوکسینات دهیدروژناز)",
+     "notes": "",
+     "keywords": [
+      "زنجیرهٔ انتقال الکترون"
+     ],
+     "distractors": [
+      "مجموعهٔ ۱",
+      "مجموعهٔ ۳",
+      "سیتوکروم ⁦c⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the electron transport chain of the inner mitochondrial membrane, which protein complex receives electrons directly from FADH₂?",
+     "grading_key": "- [1] Complex II (succinate dehydrogenase)",
+     "final_resolution": "Complex II (succinate dehydrogenase)",
+     "notes": "",
+     "keywords": [
+      "mitochondrial electron transport chain"
+     ],
+     "distractors": [
+      "Complex I",
+      "Complex III",
+      "Cytochrome c"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar zanjire-ye enteghal-e electron-e ghesha-ye darooni-ye rakize, kodam majmoo-e-ye proteini electron-ha ra mostaghiman az FADH₂ migirad?",
+     "grading_key": "- [1] Majmoo-e-ye 2 (succinate dehydrogenase)",
+     "final_resolution": "Majmoo-e-ye 2 (succinate dehydrogenase)",
+     "notes": "",
+     "keywords": [
+      "zanjireh-ye enteghal-e electron"
+     ],
+     "distractors": [
+      "Majmoo-e-ye 1",
+      "Majmoo-e-ye 3",
+      "Cytochrome c"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1402-Khordad",
+   "number": 948,
+   "topic_tag": "animal-behavior",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۸: رفتارهای جانوران (گفتار ۱: اساس رفتار)",
+    "en": "Chapter 8: Animal Behavior (Section 1: Basis of Behavior)",
+    "tr": "Fasl 8: Raftar-haye Janevaran (Goftar 1)",
+    "pages": "114–116"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "رفتارهای جانوران",
+     "question": "جانوری که با رفتارهای تهاجمی از محدوده و منابع غذایی خود در برابر هم‌گونه‌های رقیب دفاع می‌کند، کدام رفتار را نشان می‌دهد؟",
+     "grading_key": "- [1] قلمروخواهی",
+     "final_resolution": "قلمروخواهی",
+     "notes": "",
+     "keywords": [
+      "قلمروخواهی"
+     ],
+     "distractors": [
+      "جفت‌یابی",
+      "دگرخواهی",
+      "غذایابی بهینه"
+     ]
+    },
+    "en": {
+     "topic_label": "Animal Behavior",
+     "question": "An animal that defends its area and food against rivals of its own species with aggressive behaviour is showing which behaviour?",
+     "grading_key": "- [1] Territorial behaviour",
+     "final_resolution": "Territorial behaviour",
+     "notes": "",
+     "keywords": [
+      "territorial behavior"
+     ],
+     "distractors": [
+      "Courtship behaviour",
+      "Altruistic behaviour",
+      "Optimal foraging"
+     ]
+    },
+    "tr": {
+     "topic_label": "Raftar-haye janevaran",
+     "question": "Janevari ke ba raftar-haye tahajomi az mahdoode va manabe-e ghazayi-ye khod dar barabar-e ham-goone-haye raghib defa mikonad, kodam raftar ra neshan midahad?",
+     "grading_key": "- [1] Ghalamro-khahi",
+     "final_resolution": "Ghalamro-khahi",
+     "notes": "",
+     "keywords": [
+      "ghalamro-khahi"
+     ],
+     "distractors": [
+      "Joft-yabi",
+      "Degar-khahi",
+      "Ghaza-yabi-ye behine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 948,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (یونش آب و pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Ionization of Water and pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Yonesh-e Ab va pH)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "با افزایش دمای آب، مقدار ثابت یونش آب (⁦Kw⁩) چه تغییری می‌کند؟",
+     "grading_key": "- [1] زیاد می‌شود، چون یونش آب گرماگیر است",
+     "final_resolution": "زیاد می‌شود، چون یونش آب گرماگیر است",
+     "notes": "",
+     "keywords": [
+      "ثابت یونش آب"
+     ],
+     "distractors": [
+      "کم می‌شود، چون یونش آب گرماده است",
+      "همیشه برابر ⁦10⁻¹⁴⁩ می‌ماند",
+      "صفر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "How does the ionization constant of water (Kw) change as the temperature of the water rises?",
+     "grading_key": "- [1] It increases, because the ionization of water is endothermic",
+     "final_resolution": "It increases, because the ionization of water is endothermic",
+     "notes": "",
+     "keywords": [
+      "ionization constant of water"
+     ],
+     "distractors": [
+      "It decreases, because the ionization of water is exothermic",
+      "It always stays at 10⁻¹⁴",
+      "It drops to zero"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Ba afzayesh-e dama-ye ab, meghdar-e sabet-e yonesh-e ab (Kw) che taghyiri mikonad?",
+     "grading_key": "- [1] Ziad mishavad, chon yonesh-e ab garmagir ast",
+     "final_resolution": "Ziad mishavad, chon yonesh-e ab garmagir ast",
+     "notes": "",
+     "keywords": [
+      "sabet-e yonesh-e ab"
+     ],
+     "distractors": [
+      "Kam mishavad, chon yonesh-e ab garmade ast",
+      "Hamishe barabar-e 10⁻¹⁴ mimanad",
+      "Sefr mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Dey",
+   "number": 948,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "110–112"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در یک واکنش گازی همگن، افزایش غلظت واکنش‌دهنده‌ها با کدام سازوکار سرعت واکنش را زیاد می‌کند؟",
+     "grading_key": "- [1] افزایش تعداد برخوردها در واحد حجم در هر ثانیه",
+     "final_resolution": "افزایش تعداد برخوردها در واحد حجم در هر ثانیه",
+     "notes": "",
+     "keywords": [
+      "نظریهٔ برخورد"
+     ],
+     "distractors": [
+      "افزایش میانگین انرژی جنبشی ذره‌ها",
+      "کاهش انرژی فعال‌سازی",
+      "تغییر آنتالپی واکنش"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "In a homogeneous gaseous reaction, by what mechanism does increasing the reactant concentration speed up the reaction?",
+     "grading_key": "- [1] More collisions per unit volume each second",
+     "final_resolution": "More collisions per unit volume each second",
+     "notes": "",
+     "keywords": [
+      "collision theory"
+     ],
+     "distractors": [
+      "A higher average kinetic energy of the particles",
+      "A lower activation energy",
+      "A change in the reaction enthalpy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar yek vakonesh-e gazi-ye hamgen, afzayesh-e ghelzat-e vakonesh-dahande-ha ba kodam sazokar sorat-e vakonesh ra ziad mikonad?",
+     "grading_key": "- [1] Afzayesh-e tedad-e barkhord-ha dar vahed-e hajm dar har saniye",
+     "final_resolution": "Afzayesh-e tedad-e barkhord-ha dar vahed-e hajm dar har saniye",
+     "notes": "",
+     "keywords": [
+      "nazariyeh-ye barkhord"
+     ],
+     "distractors": [
+      "Afzayesh-e miyangin-e enerji-ye jonbeshi-ye zarre-ha",
+      "Kahesh-e enerji-ye faal-sazi",
+      "Taghyir-e antalpi-ye vakonesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 948,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای فلزی)",
+    "en": "Chapter 3: Chemistry, Art, Beauty and Durability (Metallic Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar (Jamed-haye Felezi)",
+    "pages": "90–92"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "کدام ویژگی ساختار فلزها رسانایی گرمایی و الکتریکی بالای آن‌ها را در حالت جامد و مذاب توضیح می‌دهد؟",
+     "grading_key": "- [1] دریای الکترون‌های ظرفیت غیرمستقر",
+     "final_resolution": "دریای الکترون‌های ظرفیت غیرمستقر",
+     "notes": "",
+     "keywords": [
+      "دریای الکترونی"
+     ],
+     "distractors": [
+      "یون‌های ثابت در شبکهٔ بلوری",
+      "شبکهٔ پیوندهای کووالانسی",
+      "نیروهای ضعیف میان مولکول‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Which feature of metallic structure explains the high thermal and electrical conductivity of metals, both solid and molten?",
+     "grading_key": "- [1] The sea of delocalized valence electrons",
+     "final_resolution": "The sea of delocalized valence electrons",
+     "notes": "",
+     "keywords": [
+      "electron sea model"
+     ],
+     "distractors": [
+      "Ions fixed in a crystal lattice",
+      "A network of covalent bonds",
+      "Weak forces between molecules"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Kodam vizhegi-ye sakhtar-e felez-ha rasanayi-ye garmayi va electriki-ye bala-ye anha ra dar halat-e jamed va mozab tozih midahad?",
+     "grading_key": "- [1] Darya-ye electron-haye zarfiyat-e gheyr-e mostaghar",
+     "final_resolution": "Darya-ye electron-haye zarfiyat-e gheyr-e mostaghar",
+     "notes": "",
+     "keywords": [
+      "darya-ye electroni"
+     ],
+     "distractors": [
+      "Yon-haye sabet dar shabake-ye boluri",
+      "Shabake-ye peyvand-haye covalent",
+      "Niroo-haye zaif miyan-e molekul-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 948,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (یونش آب و pH)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Ionization of Water and pH)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Yonesh-e Ab va pH)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "اگر غلظت یون هیدرونیوم در یک نمونهٔ آبی ⁦10⁻³ M⁩ باشد، ⁦pOH⁩ محلول در دمای اتاق چقدر است؟",
+     "grading_key": "- [1] ۱۱",
+     "final_resolution": "۱۱",
+     "notes": "",
+     "keywords": [
+      "مقیاس pH"
+     ],
+     "distractors": [
+      "۳",
+      "۷",
+      "۱۴"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "If the hydronium ion concentration of an aqueous sample is 10⁻³ M, what is the pOH of the solution at room temperature?",
+     "grading_key": "- [1] 11",
+     "final_resolution": "11",
+     "notes": "",
+     "keywords": [
+      "pH scale"
+     ],
+     "distractors": [
+      "3",
+      "7",
+      "14"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Agar ghelzat-e yon-e hydronium dar yek nemoone-ye abi 10⁻³ M bashad, pOH-e mahlool dar dama-ye otagh cheghadr ast?",
+     "grading_key": "- [1] 11",
+     "final_resolution": "11",
+     "notes": "",
+     "keywords": [
+      "meghyas-e pH"
+     ],
+     "distractors": [
+      "3",
+      "7",
+      "14"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1402-Khordad",
+   "number": 948,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "110–112"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "اگر به یک سامانهٔ تعادلی گازی همگن در حجم و دمای ثابت گازی بی‌اثر بیفزاییم تا فشار کل زیاد شود، چه اثری بر جایگاه تعادل و مقدار ⁦K⁩ دارد؟",
+     "grading_key": "- [1] نه جایگاه تعادل تغییر می‌کند و نه مقدار ⁦K⁩",
+     "final_resolution": "نه جایگاه تعادل تغییر می‌کند و نه مقدار ⁦K⁩",
+     "notes": "",
+     "keywords": [
+      "ثابت تعادل"
+     ],
+     "distractors": [
+      "تعادل به سمت مول گازی کمتر جابه‌جا می‌شود",
+      "مقدار ⁦K⁩ مستقیماً زیاد می‌شود",
+      "واکنش رفت بی‌درنگ متوقف می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "If an inert gas is added to a homogeneous gaseous equilibrium at constant volume and temperature, raising the total pressure, how are the equilibrium position and K affected?",
+     "grading_key": "- [1] Neither the equilibrium position nor K changes",
+     "final_resolution": "Neither the equilibrium position nor K changes",
+     "notes": "",
+     "keywords": [
+      "equilibrium constant"
+     ],
+     "distractors": [
+      "The equilibrium shifts toward fewer moles of gas",
+      "K increases directly",
+      "The forward reaction stops immediately"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Agar be yek samane-ye taadoli-ye gazi-ye hamgen dar hajm va dama-ye sabet gazi bi-asar biafzayim ta feshar-e kol ziad shavad, che asari bar jaygah-e taadol va meghdar-e K darad?",
+     "grading_key": "- [1] Na jaygah-e taadol taghyir mikonad va na meghdar-e K",
+     "final_resolution": "Na jaygah-e taadol taghyir mikonad va na meghdar-e K",
+     "notes": "",
+     "keywords": [
+      "sabet-e taadol"
+     ],
+     "distractors": [
+      "Taadol be samt-e mol-e gazi-ye kamtar jabeja mishavad",
+      "Meghdar-e K mostaghiman ziad mishavad",
+      "Vakonesh-e raft bi-derang motevaghef mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 948,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت (حرکت پرتابی)",
+    "en": "Chapter 1: Motion (Projectile Motion)",
+    "tr": "Fasl 1: Harekat (Harekat-e Partabi)",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "در حرکت پرتابی دوبعدی بدون مقاومت هوا، سرعت پرتابه در بالاترین نقطهٔ مسیر (اوج) برابر کدام است؟",
+     "grading_key": "- [1] مؤلفهٔ افقی ثابت سرعت (⁦vₓ⁩)",
+     "final_resolution": "مؤلفهٔ افقی ثابت سرعت (⁦vₓ⁩)",
+     "notes": "",
+     "keywords": [
+      "حرکت پرتابی"
+     ],
+     "distractors": [
+      "صفر",
+      "سرعت قائم اولیه",
+      "شتاب گرانش (⁦g⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "In two-dimensional projectile motion without air resistance, what is the velocity of the projectile at the highest point of its path?",
+     "grading_key": "- [1] The constant horizontal component of velocity (vₓ)",
+     "final_resolution": "The constant horizontal component of velocity (vₓ)",
+     "notes": "",
+     "keywords": [
+      "projectile motion"
+     ],
+     "distractors": [
+      "Zero",
+      "The initial vertical velocity",
+      "The gravitational acceleration (g)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Dar harekat-e partabi-ye do-bodi bedoon-e moghavemat-e hava, sorat-e partabe dar balatarin noghte-ye masir (owj) barabar-e kodam ast?",
+     "grading_key": "- [1] Moalefe-ye ofoghi-ye sabet-e sorat (vₓ)",
+     "final_resolution": "Moalefe-ye ofoghi-ye sabet-e sorat (vₓ)",
+     "notes": "",
+     "keywords": [
+      "harekat-e partabi"
+     ],
+     "distractors": [
+      "Sefr",
+      "Sorat-e ghaem-e avvaliye",
+      "Shetab-e geranesh (g)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 948,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون هوک)",
+    "en": "Chapter 2: Dynamics and Forces (Hooke's Law)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Ghanoon-e Hooke)",
+    "pages": "40–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "وقتی یک فنر آرمانی فشرده می‌شود، نیروی بازگردانندهٔ فنر همواره در کدام جهت است؟",
+     "grading_key": "- [1] در خلاف جهت جابه‌جایی (به سوی وضع تعادل)",
+     "final_resolution": "در خلاف جهت جابه‌جایی (به سوی وضع تعادل)",
+     "notes": "",
+     "keywords": [
+      "نیروی بازگرداننده فنر"
+     ],
+     "distractors": [
+      "در جهت جابه‌جایی",
+      "عمود بر راستای فنر",
+      "همیشه قائم و رو به پایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "When an ideal spring is compressed, which way does its restoring force always point?",
+     "grading_key": "- [1] Opposite to the displacement (toward equilibrium)",
+     "final_resolution": "Opposite to the displacement (toward equilibrium)",
+     "notes": "",
+     "keywords": [
+      "spring restoring force"
+     ],
+     "distractors": [
+      "In the same direction as the displacement",
+      "Perpendicular to the spring",
+      "Always vertically downward"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Vaghti yek fanar-e armani feshorde mishavad, niroo-ye bazgardanande-ye fanar hamvare dar kodam jahat ast?",
+     "grading_key": "- [1] Dar khalaf-e jahat-e jabejayi (be sooy-e vaz-e taadol)",
+     "final_resolution": "Dar khalaf-e jahat-e jabejayi (be sooy-e vaz-e taadol)",
+     "notes": "",
+     "keywords": [
+      "niroo-ye bazgardanandeh"
+     ],
+     "distractors": [
+      "Dar jahat-e jabejayi",
+      "Amud bar rasta-ye fanar",
+      "Hamishe ghaem va roo be payin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 948,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (آونگ ساده)",
+    "en": "Chapter 3: Oscillations and Waves (Simple Pendulum)",
+    "tr": "Fasl 3: Navasan va Moj (Avang-e Sade)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "اگر جرم وزنهٔ یک آونگ ساده را بدون تغییر طول نخ دو برابر کنیم، دورهٔ (⁦T⁩) نوسان‌های کوچک آن چه تغییری می‌کند؟",
+     "grading_key": "- [1] تغییر نمی‌کند",
+     "final_resolution": "تغییر نمی‌کند",
+     "notes": "",
+     "keywords": [
+      "دورهٔ آونگ ساده"
+     ],
+     "distractors": [
+      "دو برابر می‌شود",
+      "نصف می‌شود",
+      "⁦√2⁩ برابر می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "If the mass of the bob of a simple pendulum is doubled without changing the string length, how does its period (T) for small oscillations change?",
+     "grading_key": "- [1] It does not change",
+     "final_resolution": "It does not change",
+     "notes": "",
+     "keywords": [
+      "pendulum period"
+     ],
+     "distractors": [
+      "It doubles",
+      "It halves",
+      "It becomes √2 times larger"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Agar jerm-e vazne-ye yek avang-e sade ra bedoon-e taghyir-e tool-e nakh do barabar konim, dowre (T)-ye navasan-haye koochak-ash che taghyiri mikonad?",
+     "grading_key": "- [1] Taghyir nemikonad",
+     "final_resolution": "Taghyir nemikonad",
+     "notes": "",
+     "keywords": [
+      "dowre-ye avang-e sadeh"
+     ],
+     "distractors": [
+      "Do barabar mishavad",
+      "Nesf mishavad",
+      "√2 barabar mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 948,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (مدل اتمی بور)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Bohr Model)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Model-e Bohr)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "بنابر مدل بور، شعاع مدارهای مجاز الکترون در اتم هیدروژن با کدام کمیتِ شمارهٔ مدار (⁦n⁩) متناسب است؟",
+     "grading_key": "- [1] مجذور شمارهٔ مدار (⁦n²⁩)",
+     "final_resolution": "مجذور شمارهٔ مدار (⁦n²⁩)",
+     "notes": "",
+     "keywords": [
+      "مدل بور"
+     ],
+     "distractors": [
+      "شمارهٔ مدار (⁦n⁩)",
+      "جذر شمارهٔ مدار (⁦√n⁩)",
+      "وارون شمارهٔ مدار (⁦1/n⁩)"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "According to the Bohr model, the radii of the allowed electron orbits in hydrogen are proportional to which function of the orbit number (n)?",
+     "grading_key": "- [1] The square of the orbit number (n²)",
+     "final_resolution": "The square of the orbit number (n²)",
+     "notes": "",
+     "keywords": [
+      "Bohr model"
+     ],
+     "distractors": [
+      "The orbit number (n)",
+      "The square root of the orbit number (√n)",
+      "The inverse of the orbit number (1/n)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Bena bar model-e Bohr, shoa-e madar-haye mojaz-e electron dar atom-e hydrogen ba kodam kamiyat-e shomare-ye madar (n) motenaseb ast?",
+     "grading_key": "- [1] Majzoor-e shomare-ye madar (n²)",
+     "final_resolution": "Majzoor-e shomare-ye madar (n²)",
+     "notes": "",
+     "keywords": [
+      "model-e Bohr"
+     ],
+     "distractors": [
+      "Shomare-ye madar (n)",
+      "Jazr-e shomare-ye madar (√n)",
+      "Varun-e shomare-ye madar (1/n)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Khordad",
+   "number": 948,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (مدل اتمی بور)",
+    "en": "Chapter 4: Atomic and Nuclear Physics (Bohr Model)",
+    "tr": "Fasl 4: Fizik-e Atomi va Hastei (Model-e Bohr)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "کمترین انرژی لازم برای جدا کردن الکترون اتم هیدروژن از حالت پایه و بردن آن به بی‌نهایت چه نام دارد؟",
+     "grading_key": "- [1] انرژی یونش",
+     "final_resolution": "انرژی یونش",
+     "notes": "",
+     "keywords": [
+      "انرژی یونش"
+     ],
+     "distractors": [
+      "تابع کار",
+      "انرژی برانگیختگی",
+      "انرژی بستگی هسته"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "What is the minimum energy needed to remove the electron of a hydrogen atom from its ground state to infinity called?",
+     "grading_key": "- [1] Ionization energy",
+     "final_resolution": "Ionization energy",
+     "notes": "",
+     "keywords": [
+      "ionization energy"
+     ],
+     "distractors": [
+      "Work function",
+      "Excitation energy",
+      "Nuclear binding energy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Kamtarin enerji-ye lazem baraye joda kardan-e electron-e atom-e hydrogen az halat-e paye va bordan-ash be bi-nahayat che nam darad?",
+     "grading_key": "- [1] Enerji-ye yonesh",
+     "final_resolution": "Enerji-ye yonesh",
+     "notes": "",
+     "keywords": [
+      "enerji-ye yonesh"
+     ],
+     "distractors": [
+      "Tabe-e kar",
+      "Enerji-ye barangikhtegi",
+      "Enerji-ye bastegi-ye haste"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 948,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (صفت تفضیلی)",
+    "en": "Lesson 1: Sense of Appreciation (Comparative Adjectives)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Sefat-e Tafzili)",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل درست صفت تفضیلی را برای کامل کردن جمله انتخاب کنید:\n⁦'Caring for elderly parents is _______ than neglecting them in our moral culture.'⁩",
+     "grading_key": "- [1] ⁦more important⁩",
+     "final_resolution": "⁦more important⁩",
+     "notes": "",
+     "keywords": [
+      "صفت تفضیلی"
+     ],
+     "distractors": [
+      "⁦most important⁩",
+      "⁦as important as⁩",
+      "⁦important⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the correct comparative form to complete the sentence:\n'Caring for elderly parents is _______ than neglecting them in our moral culture.'",
+     "grading_key": "- [1] more important",
+     "final_resolution": "more important",
+     "notes": "",
+     "keywords": [
+      "comparative adjectives"
+     ],
+     "distractors": [
+      "most important",
+      "as important as",
+      "important"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e dorost-e sefat-e tafzili ra baraye kamel kardan-e jomle entekhab konid:\n'Caring for elderly parents is _______ than neglecting them in our moral culture.'",
+     "grading_key": "- [1] more important",
+     "final_resolution": "more important",
+     "notes": "",
+     "keywords": [
+      "sefat-e tafzili"
+     ],
+     "distractors": [
+      "most important",
+      "as important as",
+      "important"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 948,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: اسم مصدر)",
+    "en": "Lesson 2: Look at the Future (Grammar: Gerunds)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Esm-e Masdar)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "شکل درست فعل (اسم مصدر) را پس از ⁦finish⁩ انتخاب کنید:\n⁦'They finished _______ the clean solar power station lines yesterday.'⁩",
+     "grading_key": "- [1] ⁦installing⁩",
+     "final_resolution": "⁦installing⁩",
+     "notes": "",
+     "keywords": [
+      "اسم مصدر"
+     ],
+     "distractors": [
+      "⁦to install⁩",
+      "⁦install⁩",
+      "⁦installed⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct gerund to follow the verb 'finish':\n'They finished _______ the clean solar power station lines yesterday.'",
+     "grading_key": "- [1] installing",
+     "final_resolution": "installing",
+     "notes": "",
+     "keywords": [
+      "gerunds"
+     ],
+     "distractors": [
+      "to install",
+      "install",
+      "installed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Shekl-e dorost-e fel (esm-e masdar) ra pas az 'finish' entekhab konid:\n'They finished _______ the clean solar power station lines yesterday.'",
+     "grading_key": "- [1] installing",
+     "final_resolution": "installing",
+     "notes": "",
+     "keywords": [
+      "esm-e masdar"
+     ],
+     "distractors": [
+      "to install",
+      "install",
+      "installed"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 948,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کاربردی)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'Wind and solar infrastructures are highly active systems that can _______ clean power for cities.'⁩",
+     "grading_key": "- [1] ⁦provide⁩",
+     "final_resolution": "⁦provide⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦destroy⁩",
+      "⁦deforest⁩",
+      "⁦forgive⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the word that completes the sentence:\n'Wind and solar infrastructures are highly active systems that can _______ clean power for cities.'",
+     "grading_key": "- [1] provide",
+     "final_resolution": "provide",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "destroy",
+      "deforest",
+      "forgive"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'Wind and solar infrastructures are highly active systems that can _______ clean power for cities.'",
+     "grading_key": "- [1] provide",
+     "final_resolution": "provide",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "destroy",
+      "deforest",
+      "forgive"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1400-Khordad",
+   "number": 948,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان کاربردی)",
+    "en": "Lesson 2: Look at the Future (Vocabulary)",
+    "tr": "Dars 2: Negahi be Ayandeh (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "واژهٔ مناسب برای کامل کردن جمله را انتخاب کنید:\n⁦'The high amount of greenhouse gases can create a serious global _______ threat.'⁩",
+     "grading_key": "- [1] ⁦warming⁩",
+     "final_resolution": "⁦warming⁩",
+     "notes": "",
+     "keywords": [
+      "واژگان کاربردی"
+     ],
+     "distractors": [
+      "⁦cooling⁩",
+      "⁦protection⁩",
+      "⁦appreciation⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the word that completes the sentence:\n'The high amount of greenhouse gases can create a serious global _______ threat.'",
+     "grading_key": "- [1] warming",
+     "final_resolution": "warming",
+     "notes": "",
+     "keywords": [
+      "applied vocabulary"
+     ],
+     "distractors": [
+      "cooling",
+      "protection",
+      "appreciation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Vazhe-ye monaseb baraye kamel kardan-e jomle ra entekhab konid:\n'The high amount of greenhouse gases can create a serious global _______ threat.'",
+     "grading_key": "- [1] warming",
+     "final_resolution": "warming",
+     "notes": "",
+     "keywords": [
+      "vazhegan-e karbordi"
+     ],
+     "distractors": [
+      "cooling",
+      "protection",
+      "appreciation"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 948,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: مصدر با to)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Infinitives with to)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar: Masdar ba to)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "شکل درست مصدر را پس از صفت برای کامل کردن جمله انتخاب کنید:\n⁦'It is important _______ clean energy resources to save our planet from pollution.'⁩",
+     "grading_key": "- [1] ⁦to use⁩",
+     "final_resolution": "⁦to use⁩",
+     "notes": "",
+     "keywords": [
+      "مصدر با to"
+     ],
+     "distractors": [
+      "⁦using⁩",
+      "⁦use⁩",
+      "⁦used⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Choose the correct infinitive to follow the adjective:\n'It is important _______ clean energy resources to save our planet from pollution.'",
+     "grading_key": "- [1] to use",
+     "final_resolution": "to use",
+     "notes": "",
+     "keywords": [
+      "infinitives with to"
+     ],
+     "distractors": [
+      "using",
+      "use",
+      "used"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Shekl-e dorost-e masdar ra pas az sefat baraye kamel kardan-e jomle entekhab konid:\n'It is important _______ clean energy resources to save our planet from pollution.'",
+     "grading_key": "- [1] to use",
+     "final_resolution": "to use",
+     "notes": "",
+     "keywords": [
+      "masdar ba to"
+     ],
+     "distractors": [
+      "using",
+      "use",
+      "used"
+     ]
+    }
+   }
+  }
+ ]
+}
