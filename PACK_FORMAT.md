@@ -57,6 +57,29 @@ SHA-256 checksums stay exact.
   multiple-choice Crucible. They must be distinct and must not repeat
   `final_resolution`. Without them the app uses three keywords from the same
   subject's Codex. Older apps ignore the field, so the format stays 2.
+- **Format 3** (app 3.6.0+) adds the chapter reader's content. A format 3
+  pack may hold only these, with no questions:
+  - **`reader_cards`**: short concept cards for a chapter, in our own words
+    (never copied textbook text):
+    `{"subject": "Biology", "chapter": 2, "position": 1, "key": "bio-2-membrane",
+    "title": {"fa": "…", "en": "…", "tr": "…"}, "body": {"fa": "…", "en": "…", "tr": "…"}}`.
+    Codex terms in the body become tap-links on their own.
+  - **`barom`**: Ministry Barom-Bandi notes for a chapter, only from
+    official keys:
+    `{"subject": "Biology", "chapter": 2, "key": "bio-2-transport", "points": 1.25,
+    "source": "1403-Khordad Q7", "topic": {"fa": "…", "en": "…", "tr": "…"},
+    "note": {"fa": "…", "en": "…", "tr": "…"}}` (`note` is optional).
+  - `chapter` is 1 or more. `key` is unique within the pack. A later pack
+    with the same subject and `key` replaces the card or note.
+  - `points` must be a positive multiple of 0.25, and `source` is required.
+  - The reader also builds its Official Examiners' View from the official
+    grading keys already in the bank, so it is never empty for a chapter
+    with real questions.
+- **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
+  need to add it). It has three final-exam components, as `topic_tag`:
+  `vocabulary` (shown as flashcards: `question` on the front,
+  `final_resolution` on the back), `literary-devices` and `thematic-pairs`.
+  Lessons go in `textbook` as «درس N» / "Lesson N".
 - A pack with a newer `format` than the app knows stops the update there, and
   the app asks her to update. Packs before it are still applied.
 
