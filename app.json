@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2024,
- "versionName": "3.6.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2024/Ghamgah-E-Hadis.apk",
- "size": 40388890,
- "sha256": "3e6f1ba00b5f40d50c156e1ce9e4d6c0ba8ea18d2f25835a849961bb21ac94ab",
+ "versionCode": 2025,
+ "versionName": "3.7.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2025/Ghamgah-E-Hadis.apk",
+ "size": 40618674,
+ "sha256": "cba8d08f2211cb670ae4d3670562773afd68fffa0fa2cf336c6fc0daa8143cfa",
  "notes": {
-  "fa": "صفحهٔ اصلی کشویی، ادبیات فارسی ۳ (کارت‌های واژه و سه بخش امتحان)، کتاب‌خوان فصل‌ها با واژه‌های لمسی، نگاه مصحح رسمی و دکمه‌های تمرین فصل",
-  "en": "Home slider, Persian 3 (flashcards and its three exam parts), chapter reader with tap-to-define terms, the Official Examiners' View and a chapter dock",
-  "tr": "Safhe-ye asli-ye keshooyi, Adabiyat-e Farsi 3, Ketab-khan ba vazhe-haye lamsi, Negah-e mosahhehe rasmi"
+  "fa": "شبیه‌ساز امتحان نهایی: برگهٔ کامل تمام‌صفحه با زمان واقعی، از ۲۰؛ عکس چرک‌نویس‌ها را برای تصحیح بفرست یا با بارم‌بندی رسمی خودت را تصحیح کن",
+  "en": "Board exam simulator: full-screen papers at the real time limit, out of 20; send photos of your scratch pages for marking, or mark yourself with the official Barom-Bandi",
+  "tr": "Shabih-saz-e emtehan-e nahayi: barge-ye kamel ba zaman-e vaghei, az 20; aks-e cherk-nevis ya khod-arzyabi ba barom-bandi"
  }
 }
