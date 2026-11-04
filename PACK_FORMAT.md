@@ -96,3 +96,26 @@ SHA-256 checksums stay exact.
 Without `correction`, a question already on the phone is skipped, never
 overwritten. A pack never changes her profile, notes, progress, streak,
 speed runs, exam dates or bookmarks.
+
+## Exam schedule (`exams.json`, app 3.8.0+)
+
+The examiner's desk in the app writes this file and it is published here.
+The student's app reads it when it opens and when she checks for updates,
+then counts down to each exam in her phone's own time zone.
+
+```json
+{"format": 1, "exams": [
+  {"id": "BIO-20261110-0900", "subject": "Biology", "session": "1403-Khordad",
+   "minutes": 90, "track": "concierge", "unlock_at": "2026-11-10T05:30:00Z"}
+]}
+```
+
+- `unlock_at` is UTC and must end in `Z`.
+- `track` is `concierge` (photos sent for marking) or `sandbox` (she marks
+  herself with the Barom-Bandi).
+- Only ids, papers and times go here, nothing about the student.
+- An exam removed from the file disappears from her phone unless she has
+  already sat it. Each exam can be sat once.
+- Publish with `python tool/release/publish_exams.py exams.json` from the
+  app repository.
+
