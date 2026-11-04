@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2025,
- "versionName": "3.7.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2025/Ghamgah-E-Hadis.apk",
- "size": 40618674,
- "sha256": "cba8d08f2211cb670ae4d3670562773afd68fffa0fa2cf336c6fc0daa8143cfa",
+ "versionCode": 2026,
+ "versionName": "3.8.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2026/Ghamgah-E-Hadis.apk",
+ "size": 41799578,
+ "sha256": "6025f66b512f3d807ec725ce2e5687a84299b51de242e6f47602e9c4134ca329",
  "notes": {
-  "fa": "شبیه‌ساز امتحان نهایی: برگهٔ کامل تمام‌صفحه با زمان واقعی، از ۲۰؛ عکس چرک‌نویس‌ها را برای تصحیح بفرست یا با بارم‌بندی رسمی خودت را تصحیح کن",
-  "en": "Board exam simulator: full-screen papers at the real time limit, out of 20; send photos of your scratch pages for marking, or mark yourself with the official Barom-Bandi",
-  "tr": "Shabih-saz-e emtehan-e nahayi: barge-ye kamel ba zaman-e vaghei, az 20; aks-e cherk-nevis ya khod-arzyabi ba barom-bandi"
+  "fa": "آزمون‌های زمان‌بندی‌شده با شمارش معکوس در صفحهٔ اصلی، میز مصحح، و کارنامه با نقاط قوت، ضعف‌ها و آنچه باید مرور شود",
+  "en": "Scheduled exams with a countdown on the home page, the examiner's desk, and report cards with strengths, weaknesses and what to revise",
+  "tr": "Azmoon-haye zaman-bandi-shode ba shomaresh-e makoos, miz-e mosahheh va karname"
  }
 }
