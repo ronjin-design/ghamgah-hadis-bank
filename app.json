@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2023,
- "versionName": "3.5.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2023/Ghamgah-E-Hadis.apk",
- "size": 40224150,
- "sha256": "6229929193d43c8dd042dd3889148e6f009392cb111b75cbdcdf4df5d89d5179",
+ "versionCode": 2024,
+ "versionName": "3.6.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2024/Ghamgah-E-Hadis.apk",
+ "size": 40388890,
+ "sha256": "3e6f1ba00b5f40d50c156e1ce9e4d6c0ba8ea18d2f25835a849961bb21ac94ab",
  "notes": {
-  "fa": "پرسش‌نامهٔ فصل‌ها، کوره‌ای هوشمندتر (۸۰٪ فصل‌های خوانده، ۲۰٪ پیش‌نمایش فصل بعد)، پشتیبان رمزدار هفتگی و بازگردانی",
-  "en": "Chapter survey, smarter Crucible (80% your chapters, 20% a preview of the next), weekly encrypted backup with restore",
-  "tr": "Porseshname-ye fasl-ha, Kure-ye hooshmandtar, poshtiban-e ramzdar-e haftegi va bazgardani"
+  "fa": "صفحهٔ اصلی کشویی، ادبیات فارسی ۳ (کارت‌های واژه و سه بخش امتحان)، کتاب‌خوان فصل‌ها با واژه‌های لمسی، نگاه مصحح رسمی و دکمه‌های تمرین فصل",
+  "en": "Home slider, Persian 3 (flashcards and its three exam parts), chapter reader with tap-to-define terms, the Official Examiners' View and a chapter dock",
+  "tr": "Safhe-ye asli-ye keshooyi, Adabiyat-e Farsi 3, Ketab-khan ba vazhe-haye lamsi, Negah-e mosahhehe rasmi"
  }
 }
