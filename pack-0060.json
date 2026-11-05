@@ -1,0 +1,1252 @@
+{
+ "version": 60,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 953,
+   "topic_tag": "social-action",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: موجودات اجتماعی (کنش اجتماعی)",
+    "en": "Lesson 1: Social Beings (Social Action)",
+    "tr": "Dars 1: Mojoodat-e Ejtemai (Konesh-e Ejtemai)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کنش اجتماعی",
+     "question": "کدام ویژگی، یک کنش انسانی را «کنش اجتماعی» می‌کند و آن را از کنش‌های صرفاً فردی جدا می‌سازد؟",
+     "grading_key": "- [1] آگاهانه بودن و توجه به دیگران",
+     "final_resolution": "آگاهانه بودن و توجه به دیگران",
+     "notes": "",
+     "keywords": [
+      "کنش اجتماعی"
+     ],
+     "distractors": [
+      "انجام شدن در مکانی شلوغ",
+      "نیاز به مجوز قانونی",
+      "صرف انرژی جسمی زیاد"
+     ]
+    },
+    "en": {
+     "topic_label": "Social Action",
+     "question": "Which feature makes a human action a 'social action', setting it apart from purely individual actions?",
+     "grading_key": "- [1] It is meaningful and takes others into account",
+     "final_resolution": "It is meaningful and takes others into account",
+     "notes": "",
+     "keywords": [
+      "social action"
+     ],
+     "distractors": [
+      "It happens in a crowded place",
+      "It needs legal permission",
+      "It uses a lot of physical energy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Konesh-e Ejtemai",
+     "question": "Kodam vizhegi, yek konesh-e ensani ra 'konesh-e ejtemai' mikonad va an ra az konesh-haye serfan fardi joda misazad?",
+     "grading_key": "- [1] Agahane boodan va tavajjoh be digaran",
+     "final_resolution": "Agahane boodan va tavajjoh be digaran",
+     "notes": "",
+     "keywords": [
+      "konesh-e ejtemai"
+     ],
+     "distractors": [
+      "Anjam shodan dar makani sholoogh",
+      "Niyaz be mojavvez-e ghanooni",
+      "Sarf-e enerji-ye jesmi-ye ziyad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 953,
+   "topic_tag": "social-phenomena",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: پدیده‌های اجتماعی (نهاد اجتماعی)",
+    "en": "Lesson 2: Social Phenomena (Social Institutions)",
+    "tr": "Dars 2: Padide-haye Ejtemai (Nahad-e Ejtemai)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "پدیده‌های اجتماعی",
+     "question": "مجموعه‌ای پایدار از ارزش‌ها، هنجارها و کنش‌ها که برای برآوردن نیازهای بنیادین جامعه (مانند خانواده یا آموزش) شکل می‌گیرد، چه نام دارد؟",
+     "grading_key": "- [1] نهاد اجتماعی",
+     "final_resolution": "نهاد اجتماعی",
+     "notes": "",
+     "keywords": [
+      "نهاد اجتماعی"
+     ],
+     "distractors": [
+      "کنترل اجتماعی",
+      "تأخیر فرهنگی",
+      "گروه غیررسمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Social Phenomena",
+     "question": "What is a lasting set of values, norms and actions that forms to meet a society's basic needs (such as family or education) called?",
+     "grading_key": "- [1] A social institution",
+     "final_resolution": "A social institution",
+     "notes": "",
+     "keywords": [
+      "social institution"
+     ],
+     "distractors": [
+      "Social control",
+      "Cultural lag",
+      "An informal group"
+     ]
+    },
+    "tr": {
+     "topic_label": "Padide-haye Ejtemai",
+     "question": "Majmooe-i payedar az arzesh-ha, hanjar-ha va konesh-ha ke baraye baravardan-e niyaz-haye bonyadin-e jame shekl migirad, che nam darad?",
+     "grading_key": "- [1] Nahad-e ejtemai",
+     "final_resolution": "Nahad-e ejtemai",
+     "notes": "",
+     "keywords": [
+      "nahad-e ejtemai"
+     ],
+     "distractors": [
+      "Kontrol-e ejtemai",
+      "Takhir-e farhangi",
+      "Gorooh-e gheyr-e rasmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 953,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (جهان اجتماعی)",
+    "en": "Lesson 3: The Cultural World (The Social World)",
+    "tr": "Dars 3: Jahan-e Farhangi (Jahan-e Ejtemai)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "مجموعهٔ پدیده‌ها، کنش‌ها و ساختارهای اجتماعی که بر پایهٔ آگاهی و فرهنگ مشترک انسان‌ها شکل می‌گیرد، چه نام دارد؟",
+     "grading_key": "- [1] جهان اجتماعی",
+     "final_resolution": "جهان اجتماعی",
+     "notes": "",
+     "keywords": [
+      "جهان اجتماعی"
+     ],
+     "distractors": [
+      "جهان طبیعی",
+      "مرزهای سیاسی",
+      "ذهن فردی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "What is the whole of the social phenomena, actions and structures built on shared human awareness and culture called?",
+     "grading_key": "- [1] The social world",
+     "final_resolution": "The social world",
+     "notes": "",
+     "keywords": [
+      "social world"
+     ],
+     "distractors": [
+      "The natural world",
+      "Political borders",
+      "The individual mind"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Majmooe-ye padide-ha, konesh-ha va sakhtar-haye ejtemai ke bar paye-ye agahi va farhang-e moshtarak-e ensan-ha shekl migirad, che nam darad?",
+     "grading_key": "- [1] Jahan-e ejtemai",
+     "final_resolution": "Jahan-e ejtemai",
+     "notes": "",
+     "keywords": [
+      "jahan-e ejtemai"
+     ],
+     "distractors": [
+      "Jahan-e tabiei",
+      "Marz-haye siyasi",
+      "Zehn-e fardi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 953,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: اجزای جهان اجتماعی (هنجارهای اجتماعی)",
+    "en": "Lesson 4: Parts of the Social World (Social Norms)",
+    "tr": "Dars 4: Ajza-ye Jahan-e Ejtemai (Hanjar-ha)",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "قواعد رفتاری که اعضای جامعه در موقعیت‌های گوناگون رعایت می‌کنند و سرپیچی از آن‌ها کیفر یا سرزنش در پی دارد، چه نام دارد؟",
+     "grading_key": "- [1] هنجارهای اجتماعی",
+     "final_resolution": "هنجارهای اجتماعی",
+     "notes": "",
+     "keywords": [
+      "هنجار اجتماعی"
+     ],
+     "distractors": [
+      "ارزش‌های اجتماعی",
+      "آرمان‌های فرهنگی",
+      "عادت‌های فردی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "What are the rules of behaviour that members of a society follow in different situations, and whose breach brings penalties or disapproval, called?",
+     "grading_key": "- [1] Social norms",
+     "final_resolution": "Social norms",
+     "notes": "",
+     "keywords": [
+      "social norms"
+     ],
+     "distractors": [
+      "Social values",
+      "Cultural ideals",
+      "Personal habits"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Ghavaed-e raftari ke aza-ye jame dar mogheiyat-haye goonagoon reayat mikonand va sarpichi az anha keyfar ya sarzanesh dar pey darad, che nam darad?",
+     "grading_key": "- [1] Hanjar-haye ejtemai",
+     "final_resolution": "Hanjar-haye ejtemai",
+     "notes": "",
+     "keywords": [
+      "hanjar-e ejtemai"
+     ],
+     "distractors": [
+      "Arzesh-haye ejtemai",
+      "Arman-haye farhangi",
+      "Adat-haye fardi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Dey",
+   "number": 953,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: لایه‌های جهان اجتماعی (عقاید و ارزش‌های بنیادین)",
+    "en": "Lesson 5: Layers of the Social World (Core Beliefs and Values)",
+    "tr": "Dars 5: Laye-haye Jahan-e Ejtemai (Aghayed)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "عمیق‌ترین لایهٔ جهان اجتماعی که هنجارها بر پایهٔ آن شکل می‌گیرند و تغییرش کل جامعه را دگرگون می‌کند، کدام است؟",
+     "grading_key": "- [1] عقاید و ارزش‌های بنیادین",
+     "final_resolution": "عقاید و ارزش‌های بنیادین",
+     "notes": "",
+     "keywords": [
+      "عقاید و ارزش‌های بنیادین"
+     ],
+     "distractors": [
+      "نمادهای اجتماعی",
+      "رسوم سطحی",
+      "مقررات اداری روزمره"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "Which is the deepest layer of the social world, on which norms are built and whose change transforms the whole society?",
+     "grading_key": "- [1] Core beliefs and values",
+     "final_resolution": "Core beliefs and values",
+     "notes": "",
+     "keywords": [
+      "core beliefs and values"
+     ],
+     "distractors": [
+      "Social symbols",
+      "Surface customs",
+      "Everyday administrative rules"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Amigh-tarin laye-ye jahan-e ejtemai ke hanjar-ha bar paye-ye an shekl migirand va taghyirash kol-e jame ra degargoon mikonad, kodam ast?",
+     "grading_key": "- [1] Aghayed va arzesh-haye bonyadin",
+     "final_resolution": "Aghayed va arzesh-haye bonyadin",
+     "notes": "",
+     "keywords": [
+      "aghayed va arzesh-haye bonyadin"
+     ],
+     "distractors": [
+      "Namad-haye ejtemai",
+      "Rosoom-e sathi",
+      "Moghararat-e edari-ye roozmare"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 953,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = 1/x⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦−∞⁩",
+      "⁦1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = 1/x as x tends to +∞?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦−∞⁩",
+      "⁦1⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = 1/x vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦−∞⁩",
+      "⁦1⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 953,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق تابع ثابت)",
+    "en": "Chapter 4: Derivatives (Derivative of a Constant)",
+    "tr": "Fasl 4: Moshtagh (Tabe-e Sabet)",
+    "pages": "70–71"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ثابت ⁦f(x) = c⁩ کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق تابع ثابت"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦c⁩",
+      "⁦∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of a constant function f(x) = c?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of a constant function"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦c⁩",
+      "⁦∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e sabet-e f(x) = c kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e tabe-e sabet"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦c⁩",
+      "⁦∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 953,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع یک‌به‌یک)",
+    "en": "Chapter 1: Functions (One-to-One Functions)",
+    "tr": "Fasl 1: Tabe (Tabe-e Yek-be-yek)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "تابعی که به هر دو ورودی متمایز، خروجی‌های متمایز نسبت می‌دهد و هر خط افقی نمودارش را حداکثر در یک نقطه قطع می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] تابع یک‌به‌یک",
+     "final_resolution": "تابع یک‌به‌یک",
+     "notes": "",
+     "keywords": [
+      "تابع یک‌به‌یک"
+     ],
+     "distractors": [
+      "تابع ثابت",
+      "تابع متناوب",
+      "تابع زوج"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "A function that gives different outputs for any two different inputs, so that every horizontal line meets its graph at most once, is called what?",
+     "grading_key": "- [1] One-to-one function",
+     "final_resolution": "One-to-one function",
+     "notes": "",
+     "keywords": [
+      "one-to-one function"
+     ],
+     "distractors": [
+      "Constant function",
+      "Periodic function",
+      "Even function"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Tabei ke be har do vorudi-ye motamayez, khorooji-haye motamayez nesbat midahad va har khatt-e ofoghi nemoodarash ra hadde-aksar dar yek noghte ghat mikonad, che nam darad?",
+     "grading_key": "- [1] Tabe-e yek-be-yek",
+     "final_resolution": "Tabe-e yek-be-yek",
+     "notes": "",
+     "keywords": [
+      "tabe-e yek-be-yek"
+     ],
+     "distractors": [
+      "Tabe-e sabet",
+      "Tabe-e motenaveb",
+      "Tabe-e zoj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 953,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق توابع رادیکالی)",
+    "en": "Chapter 4: Derivatives (Derivatives of Radicals)",
+    "tr": "Fasl 4: Moshtagh (Radikali)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = √x⁩ در دامنه‌اش کدام است؟",
+     "grading_key": "- [1] ⁦1/(2√x)⁩",
+     "final_resolution": "⁦1/(2√x)⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق رادیکال"
+     ],
+     "distractors": [
+      "⁦2√x⁩",
+      "⁦1/√x⁩",
+      "⁦√x/2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = √x on its domain?",
+     "grading_key": "- [1] ⁦1/(2√x)⁩",
+     "final_resolution": "⁦1/(2√x)⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of a square root"
+     ],
+     "distractors": [
+      "⁦2√x⁩",
+      "⁦1/√x⁩",
+      "⁦√x/2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = √x dar damane-ash kodam ast?",
+     "grading_key": "- [1] ⁦1/(2√x)⁩",
+     "final_resolution": "⁦1/(2√x)⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e radikal"
+     ],
+     "distractors": [
+      "⁦2√x⁩",
+      "⁦1/√x⁩",
+      "⁦√x/2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 953,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (حد بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Infinite Limits)",
+    "tr": "Fasl 3: Had-e Bi-nahayat",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = −2/x³⁩ وقتی ⁦x⁩ از راست به صفر نزدیک می‌شود، کدام است؟",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = −2/x³ as x approaches zero from the right?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "infinite limits"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = −2/x³ vaghti x az rast be sefr nazdik mishavad, kodam ast?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "had-e bi-nahayat"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 953,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: یگانهٔ بی‌همتا (توحید در ربوبیت)",
+    "en": "Lesson 2: The Matchless One (Monotheism in Lordship)",
+    "tr": "Dars 2: Yegane-ye Bi-hamta (Robubiyat)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "تدبیر و اداره کردن جهان هستی تنها به دست خداوند، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در ربوبیت",
+     "final_resolution": "توحید در ربوبیت",
+     "notes": "",
+     "keywords": [
+      "توحید در ربوبیت"
+     ],
+     "distractors": [
+      "توحید در خالقیت",
+      "توحید عبادی",
+      "توحید ذاتی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "That God alone runs and directs the whole of creation is which rank of monotheism?",
+     "grading_key": "- [1] Monotheism in lordship (rububiyyat)",
+     "final_resolution": "Monotheism in lordship (rububiyyat)",
+     "notes": "",
+     "keywords": [
+      "monotheism in lordship"
+     ],
+     "distractors": [
+      "Monotheism in creation (khaleghiyat)",
+      "Monotheism in worship",
+      "Monotheism of the essence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Tadbir va edare kardan-e jahan-e hasti tanha be dast-e Khodavand, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar robubiyat",
+     "final_resolution": "Towhid dar robubiyat",
+     "notes": "",
+     "keywords": [
+      "towhid dar robubiyat"
+     ],
+     "distractors": [
+      "Towhid dar khaleghiyat",
+      "Towhid-e ebadi",
+      "Towhid-e zati"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 953,
+   "topic_tag": "practical-monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: توحید و سبک زندگی (توحید عملی)",
+    "en": "Lesson 3: Monotheism and Way of Life (Practical Monotheism)",
+    "tr": "Dars 3: Towhid va Sabk-e Zendegi",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "توحید و سبک زندگی",
+     "question": "جهت دادن همهٔ ابعاد زندگی و همهٔ بندگی‌ها تنها برای خشنودی خدا، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید عملی (عبادی)",
+     "final_resolution": "توحید عملی (عبادی)",
+     "notes": "",
+     "keywords": [
+      "توحید عملی"
+     ],
+     "distractors": [
+      "توحید نظری",
+      "توحید در خالقیت",
+      "توحید در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "Monotheism and Way of Life",
+     "question": "Directing every part of life and all one's worship to God's pleasure alone is which level of monotheism?",
+     "grading_key": "- [1] Practical monotheism (in worship)",
+     "final_resolution": "Practical monotheism (in worship)",
+     "notes": "",
+     "keywords": [
+      "practical monotheism"
+     ],
+     "distractors": [
+      "Theoretical monotheism",
+      "Monotheism in creation",
+      "Monotheism in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Towhid va Sabk-e Zendegi",
+     "question": "Jahat dadan-e hame-ye abad-e zendegi va hame-ye bandegi-ha tanha baraye khoshnoodi-ye Khoda, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid-e amali (ebadi)",
+     "final_resolution": "Towhid-e amali (ebadi)",
+     "notes": "",
+     "keywords": [
+      "towhid-e amali"
+     ],
+     "distractors": [
+      "Towhid-e nazari",
+      "Towhid dar khaleghiyat",
+      "Towhid dar robubiyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 953,
+   "topic_tag": "sincerity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: فقط برای تو (اخلاص)",
+    "en": "Lesson 4: Only for You (Sincerity)",
+    "tr": "Dars 4: Faghat Baraye To (Ekhlas)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فقط برای تو",
+     "question": "پاک کردن دل از نیت‌های غیرالهی و انجام دادن وظایف تنها برای نزدیکی به خدا، چه نام دارد؟",
+     "grading_key": "- [1] اخلاص",
+     "final_resolution": "اخلاص",
+     "notes": "",
+     "keywords": [
+      "اخلاص"
+     ],
+     "distractors": [
+      "توبه",
+      "توکل",
+      "صبر"
+     ]
+    },
+    "en": {
+     "topic_label": "Only for You (Sincerity)",
+     "question": "Clearing the heart of every aim but God and doing one's duties only to draw near to Him is called what?",
+     "grading_key": "- [1] Sincerity (ekhlas)",
+     "final_resolution": "Sincerity (ekhlas)",
+     "notes": "",
+     "keywords": [
+      "sincerity (ekhlas)"
+     ],
+     "distractors": [
+      "Repentance (tawba)",
+      "Trust in God (tawakkul)",
+      "Patience (sabr)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Faghat Baraye To",
+     "question": "Pak kardan-e del az niyat-haye gheyr-e elahi va anjam dadan-e vazayef tanha baraye nazdiki be Khoda, che nam darad?",
+     "grading_key": "- [1] Ekhlas",
+     "final_resolution": "Ekhlas",
+     "notes": "",
+     "keywords": [
+      "ekhlas"
+     ],
+     "distractors": [
+      "Towbe",
+      "Tavakkol",
+      "Sabr"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 953,
+   "topic_tag": "divine-laws",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: سنت‌های خداوند در زندگی (سنت استدراج)",
+    "en": "Lesson 6: Divine Laws in Life (Gradual Entrapment)",
+    "tr": "Dars 6: Sonnat-haye Khodavand (Estedraj)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سنت‌های خداوند در زندگی",
+     "question": "مهلت دادن پیاپی به گناهکارانِ لجوج و غرق کردن آنان در نعمت‌ها تا ناگهان سقوط کنند، کدام سنت الهی است؟",
+     "grading_key": "- [1] سنت استدراج",
+     "final_resolution": "سنت استدراج",
+     "notes": "",
+     "keywords": [
+      "سنت استدراج"
+     ],
+     "distractors": [
+      "سنت ابتلا",
+      "سنت سبقت رحمت بر غضب",
+      "سنت امداد"
+     ]
+    },
+    "en": {
+     "topic_label": "Divine Laws in Life",
+     "question": "Giving stubborn sinners respite after respite and drowning them in blessings until they suddenly fall is which divine law?",
+     "grading_key": "- [1] Gradual entrapment (estedraj)",
+     "final_resolution": "Gradual entrapment (estedraj)",
+     "notes": "",
+     "keywords": [
+      "law of gradual entrapment (estedraj)"
+     ],
+     "distractors": [
+      "Trial (ebtela)",
+      "Mercy outpacing wrath",
+      "Divine help (emdad)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sonnat-haye Khodavand dar Zendegi",
+     "question": "Mohlat dadan-e peyapey be gonahkaran-e lajooj va gharg kardan-e anan dar nemat-ha ta nagahan soghoot konand, kodam sonnat-e elahi ast?",
+     "grading_key": "- [1] Sonnat-e estedraj",
+     "final_resolution": "Sonnat-e estedraj",
+     "notes": "",
+     "keywords": [
+      "sonnat-e estedraj"
+     ],
+     "distractors": [
+      "Sonnat-e ebtela",
+      "Sonnat-e sebghat-e rahmat bar ghazab",
+      "Sonnat-e emdad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Dey",
+   "number": 953,
+   "topic_tag": "repentance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: بازگشت (توبه)",
+    "en": "Lesson 7: The Return (Repentance)",
+    "tr": "Dars 7: Bazgasht (Towbe)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بازگشت",
+     "question": "پشیمانی قلبی از گناهان گذشته همراه با تصمیم قطعی بر بازگشت به راه بندگی خدا، چه نام دارد؟",
+     "grading_key": "- [1] توبه",
+     "final_resolution": "توبه",
+     "notes": "",
+     "keywords": [
+      "توبه"
+     ],
+     "distractors": [
+      "تقوا",
+      "زهد",
+      "اخلاص"
+     ]
+    },
+    "en": {
+     "topic_label": "The Return (Repentance)",
+     "question": "Heartfelt regret for past sins together with a firm decision to return to God's path is called what?",
+     "grading_key": "- [1] Repentance (tawba)",
+     "final_resolution": "Repentance (tawba)",
+     "notes": "",
+     "keywords": [
+      "repentance (tawba)"
+     ],
+     "distractors": [
+      "Piety (taqwa)",
+      "Asceticism (zuhd)",
+      "Sincerity (ekhlas)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bazgasht",
+     "question": "Pashimani-ye ghalbi az gonahan-e gozashte hamrah ba tasmim-e ghatei bar bazgasht be rah-e bandegi-ye Khoda, che nam darad?",
+     "grading_key": "- [1] Towbe",
+     "final_resolution": "Towbe",
+     "notes": "",
+     "keywords": [
+      "towbe"
+     ],
+     "distractors": [
+      "Taghva",
+      "Zohd",
+      "Ekhlas"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 953,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «جالِس» در عبارت زیر کدام است؟\n«جالِسِ العُلَماءَ لِیَزدادَ عِلمُکَ.»",
+     "grading_key": "- [1] همنشینی کن",
+     "final_resolution": "همنشینی کن",
+     "notes": "",
+     "keywords": [
+      "جالِس"
+     ],
+     "distractors": [
+      "آموزش بده",
+      "دوری کن",
+      "گوش فرا بده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does the imperative «جالِس» mean in this saying?\n«جالِسِ العُلَماءَ لِیَزدادَ عِلمُکَ.»",
+     "grading_key": "- [1] Keep company with",
+     "final_resolution": "Keep company with",
+     "notes": "",
+     "keywords": [
+      "jalis (keep company with)"
+     ],
+     "distractors": [
+      "Teach",
+      "Keep away from",
+      "Listen to"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «jalis» dar ebarat-e zir kodam ast?\n«جالِسِ العُلَماءَ لِیَزدادَ عِلمُکَ.»",
+     "grading_key": "- [1] Hamneshini kon",
+     "final_resolution": "Hamneshini kon",
+     "notes": "",
+     "keywords": [
+      "jalis"
+     ],
+     "distractors": [
+      "Amoozesh bede",
+      "Doori kon",
+      "Goosh fara bede"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 953,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (قواعد: لای نفی جنس)",
+    "en": "Arabic 3 (Grammar: The La of Absolute Negation)",
+    "tr": "Arabi 3 (La-ye Nafy-e Jens)",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "اسمی که بی‌درنگ پس از «لای نفی جنس» می‌آید (مانند «لا صَبرَ») کدام ویژگی‌ها را دارد؟",
+     "grading_key": "- [1] نکره است و «ال» و تنوین نمی‌گیرد",
+     "final_resolution": "نکره است و «ال» و تنوین نمی‌گیرد",
+     "notes": "",
+     "keywords": [
+      "اسم لای نفی جنس"
+     ],
+     "distractors": [
+      "معرفه به «ال» است و ضمه می‌گیرد",
+      "اسم خاص است و تنوین دارد",
+      "همیشه جمع مؤنث با کسره است"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which features does the noun right after the la of absolute negation (as in «لا صَبرَ») have?",
+     "grading_key": "- [1] It is indefinite and takes neither «ال» nor tanwin",
+     "final_resolution": "It is indefinite and takes neither «ال» nor tanwin",
+     "notes": "",
+     "keywords": [
+      "noun after the la of absolute negation"
+     ],
+     "distractors": [
+      "It is made definite with «ال» and takes damma",
+      "It is a proper noun with tanwin",
+      "It is always a feminine plural with kasra"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Esmi ke bi-derang pas az «la-ye nafy-e jens» miayad (manand-e «la sabra») kodam vizhegi-ha ra darad?",
+     "grading_key": "- [1] Nakare ast va «al» va tanvin nemigirad",
+     "final_resolution": "Nakare ast va «al» va tanvin nemigirad",
+     "notes": "",
+     "keywords": [
+      "esm-e la-ye nafy-e jens"
+     ],
+     "distractors": [
+      "Marefe be «al» ast va zamme migirad",
+      "Esm-e khas ast va tanvin darad",
+      "Hamishe jam-e moannas ba kasre ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 953,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «التَّوَدُّد» در حدیث زیر کدام است؟\n«رَأْسُ الْعَقْلِ بَعْدَ الْإِیمَانِ بِاللَّهِ التَّوَدُّدُ إِلَى النَّاسِ.»",
+     "grading_key": "- [1] دوستی کردن",
+     "final_resolution": "دوستی کردن",
+     "notes": "",
+     "keywords": [
+      "التَّوَدُّد"
+     ],
+     "distractors": [
+      "خودبزرگ‌بینی",
+      "شکیبایی در سختی",
+      "بخشش مال"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «التَّوَدُّد» mean in this hadith?\n«رَأْسُ الْعَقْلِ بَعْدَ الْإِیمَانِ بِاللَّهِ التَّوَدُّدُ إِلَى النَّاسِ.»",
+     "grading_key": "- [1] Showing friendliness",
+     "final_resolution": "Showing friendliness",
+     "notes": "",
+     "keywords": [
+      "tawaddud (friendliness)"
+     ],
+     "distractors": [
+      "Arrogance",
+      "Patience in hardship",
+      "Giving away wealth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «at-tawaddud» dar hadis-e zir kodam ast?\n«رَأْسُ الْعَقْلِ بَعْدَ الْإِیمَانِ بِاللَّهِ التَّوَدُّدُ إِلَى النَّاسِ.»",
+     "grading_key": "- [1] Doosti kardan",
+     "final_resolution": "Doosti kardan",
+     "notes": "",
+     "keywords": [
+      "at-tawaddud"
+     ],
+     "distractors": [
+      "Khod-bozorg-bini",
+      "Shakibayi dar sakhti",
+      "Bakhshesh-e mal"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 953,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (حروف مشبهة بالفعل)",
+    "en": "Lesson 1: Religion and Religiosity (Particles Resembling Verbs)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Horoof-e Moshabbaha bel-Fe'l)",
+    "pages": "8–10"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "در عبارت «لَعَلَّ اللهَ یَرحَمُنا»، حرف «لَعَلَّ» چه معنایی دارد؟",
+     "grading_key": "- [1] امید (ترجّی)",
+     "final_resolution": "امید (ترجّی)",
+     "notes": "",
+     "keywords": [
+      "لَعَلَّ"
+     ],
+     "distractors": [
+      "آرزوی دست‌نیافتنی (تمنّی)",
+      "علت و دلیل",
+      "نفی کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "In «لَعَلَّ اللهَ یَرحَمُنا», what meaning does «لَعَلَّ» carry?",
+     "grading_key": "- [1] Hope (tarajji)",
+     "final_resolution": "Hope (tarajji)",
+     "notes": "",
+     "keywords": [
+      "la'alla (hope)"
+     ],
+     "distractors": [
+      "Wishing for the unattainable (tamanni)",
+      "Cause or reason",
+      "Complete negation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Dar ebarat-e «لَعَلَّ اللهَ یَرحَمُنا», harf-e «la'alla» che manayi darad?",
+     "grading_key": "- [1] Omid (tarajji)",
+     "final_resolution": "Omid (tarajji)",
+     "notes": "",
+     "keywords": [
+      "la'alla"
+     ],
+     "distractors": [
+      "Arezoo-ye dast-nayaftani (tamanni)",
+      "Ellat va dalil",
+      "Nafy-e kamel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 953,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (واژگان)",
+    "en": "Lesson 1: Religion and Religiosity (Vocabulary)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Vazhegan)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْحَطَب» در حدیث زیر کدام است؟\n«اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ.»",
+     "grading_key": "- [1] هیزم",
+     "final_resolution": "هیزم",
+     "notes": "",
+     "keywords": [
+      "الحَطَب"
+     ],
+     "distractors": [
+      "علف خشک",
+      "برگ سبز",
+      "سنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْحَطَب» mean in this hadith?\n«اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ.»",
+     "grading_key": "- [1] Firewood",
+     "final_resolution": "Firewood",
+     "notes": "",
+     "keywords": [
+      "hatab (firewood)"
+     ],
+     "distractors": [
+      "Dry grass",
+      "Green leaves",
+      "Stones"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-hatab» dar hadis-e zir kodam ast?\n«اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ.»",
+     "grading_key": "- [1] Hizom",
+     "final_resolution": "Hizom",
+     "notes": "",
+     "keywords": [
+      "al-hatab"
+     ],
+     "distractors": [
+      "Alaf-e khoshk",
+      "Barg-e sabz",
+      "Sang"
+     ]
+    }
+   }
+  }
+ ]
+}
