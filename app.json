@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2026,
- "versionName": "3.8.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2026/Ghamgah-E-Hadis.apk",
- "size": 41799578,
- "sha256": "6025f66b512f3d807ec725ce2e5687a84299b51de242e6f47602e9c4134ca329",
+ "versionCode": 2027,
+ "versionName": "3.9.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2027/Ghamgah-E-Hadis.apk",
+ "size": 41800326,
+ "sha256": "0f792ea4dbcbd1f62f5035b8b23116c55086081296f5acf8b3d0f62c4e270eea",
  "notes": {
-  "fa": "آزمون‌های زمان‌بندی‌شده با شمارش معکوس در صفحهٔ اصلی، میز مصحح، و کارنامه با نقاط قوت، ضعف‌ها و آنچه باید مرور شود",
-  "en": "Scheduled exams with a countdown on the home page, the examiner's desk, and report cards with strengths, weaknesses and what to revise",
-  "tr": "Azmoon-haye zaman-bandi-shode ba shomaresh-e makoos, miz-e mosahheh va karname"
+  "fa": "ده درس: ریاضیات ۳، دین و زندگی ۳، عربی ۳، سلامت و بهداشت و هویت اجتماعی به صفحهٔ اصلی آمدند، همراه با دروازهٔ آزمون‌های جامع",
+  "en": "Ten subjects: Mathematics 3, Religion and Life 3, Arabic 3, Health and Hygiene and Social Identity join the home slider, plus the Mock Exams Gatekeeper",
+  "tr": "Dah dars: Riaziyat 3, Din va Zendegi 3, Arabi 3, Salamat va Behdasht, Hoviyat-e Ejtemai, va azmoon-haye jame"
  }
 }
