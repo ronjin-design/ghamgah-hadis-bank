@@ -1,0 +1,258 @@
+{
+ "version": 56,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Persian",
+   "fa": "ادبیات فارسی ۳",
+   "tr": "Adabiyat-e Farsi 3",
+   "sort_order": 5
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 949,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "قلمرو زبانی (واژگان و املای متن)",
+    "en": "Linguistic Domain (Vocabulary and Spelling)",
+    "tr": "Ghalamro-ye Zabani (Vazhegan va Emla)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای واژهٔ «فراست» در عبارت زیر چیست؟\n«طبیب حاذق، علّت بیمار را به فراست دریافت.»",
+     "grading_key": "- [1] زیرکی و تیزبینی",
+     "final_resolution": "زیرکی و تیزبینی",
+     "notes": "",
+     "keywords": [
+      "فراست"
+     ],
+     "distractors": [
+      "نادانی و درنگ",
+      "تنها تجربه",
+      "ابزار پزشکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does the word «فراست» mean in this sentence?\n«طبیب حاذق، علّت بیمار را به فراست دریافت.» (The skilled physician grasped the cause of the illness through ferasat.)",
+     "grading_key": "- [1] Insight and sharp intelligence",
+     "final_resolution": "Insight and sharp intelligence",
+     "notes": "",
+     "keywords": [
+      "insight (ferasat)"
+     ],
+     "distractors": [
+      "Ignorance and delay",
+      "Experience alone",
+      "Medical instruments"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye vazhe-ye «ferasat» dar ebarat-e zir chist?\n«Tabib-e hazegh, ellat-e bimar ra be ferasat daryaft.»",
+     "grading_key": "- [1] Ziraki va tizbini",
+     "final_resolution": "Ziraki va tizbini",
+     "notes": "",
+     "keywords": [
+      "ferasat"
+     ],
+     "distractors": [
+      "Nadani va derang",
+      "Tanha tajrobe",
+      "Abzar-e pezeshki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 949,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "قلمرو ادبی (آرایه‌های ادبی: جناس تام)",
+    "en": "Literary Domain (Literary Devices: Complete Pun)",
+    "tr": "Ghalamro-ye Adabi (Arayeh-ha: Jenas-e Tam)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "در کدام بیت آرایهٔ «جناس تام» (دو واژهٔ هم‌شکل و هم‌آوا با دو معنای متفاوت) به کار رفته است؟",
+     "grading_key": "- [1] خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "final_resolution": "خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "notes": "",
+     "keywords": [
+      "جناس تام"
+     ],
+     "distractors": [
+      "دل می‌رود ز دستم صاحب‌دلان خدا را / دردا که راز پنهان خواهد شد آشکارا",
+      "سرو چمان من چرا میل چمن نمی‌کند / همدم گل نمی‌شود یاد سمن نمی‌کند",
+      "ما ز یاران چشم یاری داشتیم / خود غلط بود آنچه ما پنداشتیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "In which couplet is the device «جناس تام» (jinas-e tam: two words spelled and pronounced the same with different meanings) used?",
+     "grading_key": "- [1] خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "final_resolution": "خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "notes": "",
+     "keywords": [
+      "complete pun (jinas-e tam)"
+     ],
+     "distractors": [
+      "دل می‌رود ز دستم صاحب‌دلان خدا را / دردا که راز پنهان خواهد شد آشکارا",
+      "سرو چمان من چرا میل چمن نمی‌کند / همدم گل نمی‌شود یاد سمن نمی‌کند",
+      "ما ز یاران چشم یاری داشتیم / خود غلط بود آنچه ما پنداشتیم"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Dar kodam beit arayeh-ye «jenas-e tam» (do vazhe-ye ham-shekl va ham-ava ba do mani-ye motafavet) be kar rafte ast?",
+     "grading_key": "- [1] خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "final_resolution": "خرامان بشد سوی آب روان / چنان چون شده بازیابد روان",
+     "notes": "",
+     "keywords": [
+      "jenas-e tam"
+     ],
+     "distractors": [
+      "دل می‌رود ز دستم صاحب‌دلان خدا را / دردا که راز پنهان خواهد شد آشکارا",
+      "سرو چمان من چرا میل چمن نمی‌کند / همدم گل نمی‌شود یاد سمن نمی‌کند",
+      "ما ز یاران چشم یاری داشتیم / خود غلط بود آنچه ما پنداشتیم"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 949,
+   "topic_tag": "thematic-pairs",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "قلمرو فکری (قرابت معنایی)",
+    "en": "Intellectual Domain (Thematic Concept Pairs)",
+    "tr": "Ghalamro-ye Fekri (Gharabat-e Manayi)",
+    "pages": "78–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قرابت معنایی",
+     "question": "کدام بیت با بیت زیر قرابت معنایی دارد؟\n«میازار موری که دانه‌کش است / که جان دارد و جان شیرین خوش است»",
+     "grading_key": "- [1] سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "final_resolution": "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "notes": "",
+     "keywords": [
+      "قرابت معنایی"
+     ],
+     "distractors": [
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "تو کجایی تا شوم من چاکرت / چارقت دوزم کنم شانه سرت",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    },
+    "en": {
+     "topic_label": "Thematic Concept Pairs",
+     "question": "Which couplet shares the meaning (gharabat-e manayi) of this couplet, on not harming even an ant?\n«میازار موری که دانه‌کش است / که جان دارد و جان شیرین خوش است»",
+     "grading_key": "- [1] سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "final_resolution": "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "notes": "",
+     "keywords": [
+      "thematic concept pairing"
+     ],
+     "distractors": [
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "تو کجایی تا شوم من چاکرت / چارقت دوزم کنم شانه سرت",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    },
+    "tr": {
+     "topic_label": "Gharabat-e Manayi",
+     "question": "Kodam beit ba beit-e zir gharabat-e manayi darad?\n«میازار موری که دانه‌کش است / که جان دارد و جان شیرین خوش است»",
+     "grading_key": "- [1] سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "final_resolution": "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+     "notes": "",
+     "keywords": [
+      "gharabat-e manayi"
+     ],
+     "distractors": [
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "تو کجایی تا شوم من چاکرت / چارقت دوزم کنم شانه سرت",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 949,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "قلمرو زبانی (املای واژه‌های هم‌آوا)",
+    "en": "Linguistic Domain (Spelling of Homophones)",
+    "tr": "Ghalamro-ye Zabani (Emla-ye Vazhe-haye Ham-ava)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «بند و زنجیر» است، در کدام گزینه آمده است؟",
+     "grading_key": "- [1] غُل و زنجیر",
+     "final_resolution": "غُل و زنجیر",
+     "notes": "",
+     "keywords": [
+      "املای هم‌آوا"
+     ],
+     "distractors": [
+      "قُل و زنجیر",
+      "غول و زنجیر",
+      "قلع و زنجیر"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which option spells correctly the word that means 'fetters and chains'?",
+     "grading_key": "- [1] غُل و زنجیر",
+     "final_resolution": "غُل و زنجیر",
+     "notes": "",
+     "keywords": [
+      "homophone spelling"
+     ],
+     "distractors": [
+      "قُل و زنجیر",
+      "غول و زنجیر",
+      "قلع و زنجیر"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye «band va zanjir» ast, dar kodam gozine amade ast?",
+     "grading_key": "- [1] غُل و زنجیر",
+     "final_resolution": "غُل و زنجیر",
+     "notes": "",
+     "keywords": [
+      "emla-ye ham-ava"
+     ],
+     "distractors": [
+      "قُل و زنجیر",
+      "غول و زنجیر",
+      "قلع و زنجیر"
+     ]
+    }
+   }
+  }
+ ]
+}
