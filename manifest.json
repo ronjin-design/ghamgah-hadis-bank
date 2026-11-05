@@ -360,6 +360,12 @@
    "format": 2,
    "file": "pack-0060.json",
    "sha256": "eded6b7c28b6cbdd49cf8e9c378b5ce97513a433271ef063d41e1e3896f062f8"
+  },
+  {
+   "version": 61,
+   "format": 2,
+   "file": "pack-0061.json",
+   "sha256": "8618c938f176b406570baa5eaff664d6315ca86b9dce079a03a0855b0a197830"
   }
  ]
 }

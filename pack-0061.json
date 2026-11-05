@@ -1,0 +1,508 @@
+{
+ "version": 61,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 954,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی",
+    "en": "Lesson 6: Social Power",
+    "tr": "Dars 6: Ghodrat-e Ejtemai",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "توانایی انسان برای اثر گذاشتن بر ارادهٔ دیگران به منظور رسیدن به هدف‌هایی معین، کدام مفهوم است؟",
+     "grading_key": "- [1] قدرت اجتماعی",
+     "final_resolution": "قدرت اجتماعی",
+     "notes": "",
+     "keywords": [
+      "قدرت اجتماعی"
+     ],
+     "distractors": [
+      "ثروت اجتماعی",
+      "استعداد فردی",
+      "هویت فرهنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "The human ability to influence the will of others in order to reach particular goals is which concept?",
+     "grading_key": "- [1] Social power",
+     "final_resolution": "Social power",
+     "notes": "",
+     "keywords": [
+      "social power"
+     ],
+     "distractors": [
+      "Social wealth",
+      "Individual talent",
+      "Cultural identity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Tavanayi-ye ensan baraye asar gozashtan bar erade-ye digaran be manzoor-e residan be hadaf-hayi moayan, kodam mafhoom ast?",
+     "grading_key": "- [1] Ghodrat-e ejtemai",
+     "final_resolution": "Ghodrat-e ejtemai",
+     "notes": "",
+     "keywords": [
+      "ghodrat-e ejtemai"
+     ],
+     "distractors": [
+      "Servat-e ejtemai",
+      "Esteedad-e fardi",
+      "Hoviyat-e farhangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 954,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (اقتدار)",
+    "en": "Lesson 7: Authority and Acceptance (Authority)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "قدرتی که با رضایت درونی کسانی که از آن اثر می‌پذیرند همراه است و به‌گونه‌ای مشروع به کار می‌رود، چه نام دارد؟",
+     "grading_key": "- [1] اقتدار",
+     "final_resolution": "اقتدار",
+     "notes": "",
+     "keywords": [
+      "اقتدار"
+     ],
+     "distractors": [
+      "زور",
+      "جذابیت ظاهری",
+      "رهبری غیررسمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "Power that comes with the inner consent of those it affects, and is used legitimately, is called what?",
+     "grading_key": "- [1] Authority",
+     "final_resolution": "Authority",
+     "notes": "",
+     "keywords": [
+      "authority"
+     ],
+     "distractors": [
+      "Force (coercion)",
+      "Surface charm",
+      "Informal leadership"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Ghodrati ke ba rezayat-e darooni-ye kasani ke az an asar mipazirand hamrah ast va be goone-i mashroo be kar miravad, che nam darad?",
+     "grading_key": "- [1] Eghtedar",
+     "final_resolution": "Eghtedar",
+     "notes": "",
+     "keywords": [
+      "eghtedar"
+     ],
+     "distractors": [
+      "Zoor",
+      "Jazzabiyat-e zaheri",
+      "Rahbari-ye gheyr-e rasmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 954,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی",
+    "en": "Lesson 8: Politics and the Political System",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "مجموعهٔ نهادها و ساختارهایی که مدیریت قدرت اجتماعی و ادارهٔ امور جامعه را بر عهده دارند، چه نام دارد؟",
+     "grading_key": "- [1] نظام سیاسی",
+     "final_resolution": "نظام سیاسی",
+     "notes": "",
+     "keywords": [
+      "نظام سیاسی"
+     ],
+     "distractors": [
+      "شبکهٔ اقتصادی",
+      "نهاد آموزش",
+      "ساختار خانواده"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are the institutions and structures that manage social power and run a society's affairs called, taken together?",
+     "grading_key": "- [1] The political system",
+     "final_resolution": "The political system",
+     "notes": "",
+     "keywords": [
+      "political system"
+     ],
+     "distractors": [
+      "The economic network",
+      "The education institution",
+      "The family structure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Majmooe-ye nahad-ha va sakhtar-hayi ke modiriyat-e ghodrat-e ejtemai va edare-ye omoor-e jame ra bar ohde darand, che nam darad?",
+     "grading_key": "- [1] Nezam-e siyasi",
+     "final_resolution": "Nezam-e siyasi",
+     "notes": "",
+     "keywords": [
+      "nezam-e siyasi"
+     ],
+     "distractors": [
+      "Shabake-ye eghtesadi",
+      "Nahad-e amoozesh",
+      "Sakhtar-e khanevade"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 954,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: جهان‌های اجتماعی",
+    "en": "Lesson 5: Social Worlds",
+    "tr": "Dars 5: Jahan-haye Ejtemai",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان‌های اجتماعی گوناگون بیش از هر چیز بر پایهٔ کدام ویژگی از یکدیگر متمایز می‌شوند و راه‌های تاریخی متفاوتی می‌پیمایند؟",
+     "grading_key": "- [1] عقاید و ارزش‌های بنیادین",
+     "final_resolution": "عقاید و ارزش‌های بنیادین",
+     "notes": "",
+     "keywords": [
+      "جهان‌های اجتماعی"
+     ],
+     "distractors": [
+      "وسعت جغرافیایی",
+      "شمار جمعیت",
+      "ابزارهای صنعتی پیشرفته"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "Above all, by which feature are different social worlds told apart, so that they follow different paths through history?",
+     "grading_key": "- [1] Their core beliefs and values",
+     "final_resolution": "Their core beliefs and values",
+     "notes": "",
+     "keywords": [
+      "social worlds"
+     ],
+     "distractors": [
+      "Their geographical size",
+      "Their population",
+      "Their advanced industrial tools"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-haye ejtemai-ye goonagoon bish az har chiz bar paye-ye kodam vizhegi az yekdigar motamayez mishavand?",
+     "grading_key": "- [1] Aghayed va arzesh-haye bonyadin",
+     "final_resolution": "Aghayed va arzesh-haye bonyadin",
+     "notes": "",
+     "keywords": [
+      "jahan-haye ejtemai"
+     ],
+     "distractors": [
+      "Vosat-e joghrafiyayi",
+      "Shomar-e jamiyat",
+      "Abzar-haye sanati-ye pishrafte"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Dey",
+   "number": 954,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (مقبولیت)",
+    "en": "Lesson 7: Authority and Acceptance (Acceptance)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "پذیرش داوطلبانه و رضایت مردم نسبت به یک نظام سیاسی یا قدرت حاکم، کدام ویژگی است؟",
+     "grading_key": "- [1] مقبولیت",
+     "final_resolution": "مقبولیت",
+     "notes": "",
+     "keywords": [
+      "مقبولیت"
+     ],
+     "distractors": [
+      "مشروعیت",
+      "برتری نظامی",
+      "کارایی اداری"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "The people's willing acceptance of, and consent to, a political system or ruling power is which feature?",
+     "grading_key": "- [1] Acceptance (maqbuliyyat)",
+     "final_resolution": "Acceptance (maqbuliyyat)",
+     "notes": "",
+     "keywords": [
+      "acceptance (maqbuliyyat)"
+     ],
+     "distractors": [
+      "Legitimacy (mashru'iyyat)",
+      "Military supremacy",
+      "Administrative efficiency"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Paziresh-e davtalabane va rezayat-e mardom nesbat be yek nezam-e siyasi ya ghodrat-e hakem, kodam vizhegi ast?",
+     "grading_key": "- [1] Maghbooliyat",
+     "final_resolution": "Maghbooliyat",
+     "notes": "",
+     "keywords": [
+      "maghbooliyat"
+     ],
+     "distractors": [
+      "Mashrooiyat",
+      "Bartari-ye nezami",
+      "Karayi-ye edari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 954,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (راهکارهای پیشگیری)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (Prevention)",
+    "tr": "Fasl 3: Bimari-haye Vagir va Gheyr-e Vagir (Pishgiri)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کارآمدترین راه برای ایجاد ایمنی فعال در جامعه در برابر بیماری‌های میکروبی خطرناک چیست؟",
+     "grading_key": "- [1] واکسیناسیون",
+     "final_resolution": "واکسیناسیون",
+     "notes": "",
+     "keywords": [
+      "واکسیناسیون"
+     ],
+     "distractors": [
+      "درمان با آنتی‌بیوتیک",
+      "تزریق سرم (ایمنی غیرفعال)",
+      "قرنطینه"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the most effective way to build active immunity in a population against dangerous microbial diseases?",
+     "grading_key": "- [1] Vaccination",
+     "final_resolution": "Vaccination",
+     "notes": "",
+     "keywords": [
+      "vaccination"
+     ],
+     "distractors": [
+      "Antibiotic treatment",
+      "Serum injection (passive immunity)",
+      "Quarantine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Karamad-tarin rah baraye ijad-e imeni-ye faal dar jame dar barabar-e bimari-haye mikrobi-ye khatarnak chist?",
+     "grading_key": "- [1] Vaksinasion",
+     "final_resolution": "Vaksinasion",
+     "notes": "",
+     "keywords": [
+      "vaksinasion"
+     ],
+     "distractors": [
+      "Darman ba antibiotic",
+      "Tazrigh-e serom (imeni-ye gheyr-e faal)",
+      "Gharantine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 954,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (ویتامین‌ها و ریزمغذی‌ها)",
+    "en": "Chapter 1: Health and Lifestyle (Vitamins and Micronutrients)",
+    "tr": "Fasl 1: Salamat va Sabk-e Zendegi (Vitamin-ha)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کمبود شدید کدام ویتامین محلول در چربی، علت اصلی کاهش تراکم استخوان و نرمی استخوان است؟",
+     "grading_key": "- [1] ویتامین ⁦D⁩",
+     "final_resolution": "ویتامین ⁦D⁩",
+     "notes": "",
+     "keywords": [
+      "ویتامین دی"
+     ],
+     "distractors": [
+      "ویتامین ⁦C⁩",
+      "ویتامین ⁦B12⁩",
+      "ویتامین ⁦A⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "A severe lack of which fat-soluble vitamin is the main cause of low bone density and rickets?",
+     "grading_key": "- [1] Vitamin D",
+     "final_resolution": "Vitamin D",
+     "notes": "",
+     "keywords": [
+      "vitamin D"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kambood-e shadid-e kodam vitamin-e mahlool dar charbi, ellat-e asli-ye kahesh-e tarakom-e ostokhan va narmi-ye ostokhan ast?",
+     "grading_key": "- [1] Vitamin D",
+     "final_resolution": "Vitamin D",
+     "notes": "",
+     "keywords": [
+      "vitamin D"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 954,
+   "topic_tag": "reproductive-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: بهداشت ازدواج و باروری (آزمایش‌های پیش از ازدواج)",
+    "en": "Chapter 5: Marriage and Reproductive Health (Pre-marriage Tests)",
+    "tr": "Fasl 5: Behdasht-e Ezdevaj va Barvari",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت ازدواج و باروری",
+     "question": "کدام آزمایش پیش از ازدواج برای شناسایی ناقلان تالاسمی مینور و پیشگیری از تولد نوزاد مبتلا به تالاسمی ماژور انجام می‌شود؟",
+     "grading_key": "- [1] شمارش کامل خون (⁦CBC⁩) و الکتروفورز هموگلوبین",
+     "final_resolution": "شمارش کامل خون (⁦CBC⁩) و الکتروفورز هموگلوبین",
+     "notes": "",
+     "keywords": [
+      "آزمایش تالاسمی"
+     ],
+     "distractors": [
+      "بررسی کاریوتیپ کروموزوم‌ها",
+      "تعیین گروه خون و ⁦Rh⁩ به‌تنهایی",
+      "آزمایش آنزیم‌های کبدی"
+     ]
+    },
+    "en": {
+     "topic_label": "Marriage and Reproductive Health",
+     "question": "Which pre-marriage test is done to find thalassaemia minor carriers and prevent the birth of a baby with thalassaemia major?",
+     "grading_key": "- [1] Complete blood count (CBC) and haemoglobin electrophoresis",
+     "final_resolution": "Complete blood count (CBC) and haemoglobin electrophoresis",
+     "notes": "",
+     "keywords": [
+      "thalassaemia screening"
+     ],
+     "distractors": [
+      "Chromosome karyotyping",
+      "Blood group and Rh typing alone",
+      "Liver enzyme tests"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Ezdevaj va Barvari",
+     "question": "Kodam azmayesh pish az ezdevaj baraye shenasayi-ye naghelan-e talasemi minor va pishgiri az tavallod-e nozad-e mobtala be talasemi major anjam mishavad?",
+     "grading_key": "- [1] Shomaresh-e kamel-e khoon (CBC) va elektroforez-e hemoglobin",
+     "final_resolution": "Shomaresh-e kamel-e khoon (CBC) va elektroforez-e hemoglobin",
+     "notes": "",
+     "keywords": [
+      "azmayesh-e talasemi"
+     ],
+     "distractors": [
+      "Barresi-ye karyotype-e chromosome-ha",
+      "Tayin-e gorooh-e khoon va Rh be tanhayi",
+      "Azmayesh-e anzim-haye kabedi"
+     ]
+    }
+   }
+  }
+ ]
+}
