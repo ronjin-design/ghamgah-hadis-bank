@@ -1,0 +1,752 @@
+{
+ "version": 57,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 950,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایه وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basics of Inheritance)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "40–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "در ژنتیک مندلی، آمیزش فردی با رخ‌نمود (فنوتیپ) بارز و ژن‌نمود (ژنوتیپ) نامعلوم با فردی خالص نهفته، برای تعیین ژن‌نمود او چه نام دارد؟",
+     "grading_key": "- [1] آمیزش آزمون",
+     "final_resolution": "آمیزش آزمون",
+     "notes": "",
+     "keywords": [
+      "آمیزش آزمون"
+     ],
+     "distractors": [
+      "آمیزش تک‌صفتی",
+      "آمیزش دوصفتی",
+      "خودلقاحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "In Mendelian genetics, what is a cross between an individual with the dominant phenotype but an unknown genotype and a homozygous recessive individual, made to find that genotype, called?",
+     "grading_key": "- [1] Testcross",
+     "final_resolution": "Testcross",
+     "notes": "",
+     "keywords": [
+      "testcross"
+     ],
+     "distractors": [
+      "Monohybrid cross",
+      "Dihybrid cross",
+      "Self-fertilization"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Dar zhenetik-e Mendeli, amizesh-e fardi ba rokhnemood-e barez va zhennemood-e namaloom ba fardi khales-e nahofte, baraye tayin-e zhennemood-e oo che nam darad?",
+     "grading_key": "- [1] Amizesh-e azmoon",
+     "final_resolution": "Amizesh-e azmoon",
+     "notes": "",
+     "keywords": [
+      "amizesh-e azmoon"
+     ],
+     "distractors": [
+      "Amizesh-e tak-sefati",
+      "Amizesh-e do-sefati",
+      "Khod-laghahi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1402-Khordad",
+   "number": 950,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (قندکافت)",
+    "en": "Chapter 5: Energy Supply (Glycolysis)",
+    "tr": "Fasl 5: Tamin-e Enerji (Ghandkaft)",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در گام دوم قندکافت در سیتوپلاسم، تبدیل گلوکز ۶-فسفات به فروکتوز ۶-فسفات نمونهٔ کدام نوع تغییر مولکولی است؟",
+     "grading_key": "- [1] ایزومری شدن (هم‌پاری)",
+     "final_resolution": "ایزومری شدن (هم‌پاری)",
+     "notes": "",
+     "keywords": [
+      "ایزومری شدن"
+     ],
+     "distractors": [
+      "فسفات‌دار شدن",
+      "اکسایش",
+      "کربن‌زدایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In the second step of glycolysis in the cytoplasm, the conversion of glucose 6-phosphate into fructose 6-phosphate is which kind of molecular change?",
+     "grading_key": "- [1] Isomerization",
+     "final_resolution": "Isomerization",
+     "notes": "",
+     "keywords": [
+      "isomerization"
+     ],
+     "distractors": [
+      "Phosphorylation",
+      "Oxidation",
+      "Decarboxylation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Dar gam-e dovom-e ghandkaft dar cytoplasm, tabdil-e glucose 6-phosphate be fructose 6-phosphate nemoone-ye kodam no taghyir-e molkooli ast?",
+     "grading_key": "- [1] Izomeri shodan",
+     "final_resolution": "Izomeri shodan",
+     "notes": "",
+     "keywords": [
+      "izomeri shodan"
+     ],
+     "distractors": [
+      "Phosphat-dar shodan",
+      "Oksayesh",
+      "Karbon-zodayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 950,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (ثابت یونش اسیدها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acid Ionization Constants)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Sabet-e Yonesh-e Acid-ha)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "مقدار ثابت یونش (⁦Ka⁩) یک اسید ضعیف معین در محلول آبی، تنها با تغییر کدام عامل تغییر می‌کند؟",
+     "grading_key": "- [1] دما",
+     "final_resolution": "دما",
+     "notes": "",
+     "keywords": [
+      "ثابت یونش اسید"
+     ],
+     "distractors": [
+      "غلظت اولیهٔ اسید",
+      "حجم حلال",
+      "⁦pH⁩ محلول"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "The value of the acid ionization constant (Ka) of a given weak acid in water changes only when which factor is changed?",
+     "grading_key": "- [1] Temperature",
+     "final_resolution": "Temperature",
+     "notes": "",
+     "keywords": [
+      "acid ionization constant"
+     ],
+     "distractors": [
+      "The initial acid concentration",
+      "The volume of solvent",
+      "The pH of the solution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Meghdar-e sabet-e yonesh (Ka)-e yek acid-e zaeef-e moayan dar mahlool-e abi, tanha ba taghyir-e kodam amel taghyir mikonad?",
+     "grading_key": "- [1] Dama",
+     "final_resolution": "Dama",
+     "notes": "",
+     "keywords": [
+      "sabet-e yonesh-e acid"
+     ],
+     "distractors": [
+      "Ghelzat-e avalie-ye acid",
+      "Hajm-e hallal",
+      "pH-e mahlool"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 950,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-ha (Takane-ye Khatti)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "بنابر قانون دوم نیوتون بر حسب تکانهٔ خطی، نیروی خالص وارد بر جسم برابر با کدام کمیت است؟",
+     "grading_key": "- [1] آهنگ تغییر تکانهٔ خطی (⁦Δp/Δt⁩)",
+     "final_resolution": "آهنگ تغییر تکانهٔ خطی (⁦Δp/Δt⁩)",
+     "notes": "",
+     "keywords": [
+      "قانون دوم نیوتون"
+     ],
+     "distractors": [
+      "کار کل انجام‌شده",
+      "بیشترین تغییر انرژی جنبشی",
+      "حاصل‌ضرب جرم در جابه‌جایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "By Newton's second law written in terms of linear momentum, the net force on an object equals which quantity?",
+     "grading_key": "- [1] The rate of change of linear momentum (Δp/Δt)",
+     "final_resolution": "The rate of change of linear momentum (Δp/Δt)",
+     "notes": "",
+     "keywords": [
+      "Newton's second law"
+     ],
+     "distractors": [
+      "The total work done",
+      "The largest change in kinetic energy",
+      "Mass times displacement"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Bena bar ghanoon-e dovom-e Newton bar hasb-e takane-ye khatti, niroo-ye khales-e vared bar jesm barabar ba kodam kamiyat ast?",
+     "grading_key": "- [1] Ahang-e taghyir-e takane-ye khatti (Δp/Δt)",
+     "final_resolution": "Ahang-e taghyir-e takane-ye khatti (Δp/Δt)",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e dovom-e Newton"
+     ],
+     "distractors": [
+      "Kar-e kol-e anjam-shode",
+      "Bishtarin taghyir-e enerji-ye jonbeshi",
+      "Hasel-zarb-e jerm dar jabejayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 950,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۱)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 1)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 1)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "اگر حد یک تابع گویا وقتی ⁦x⁩ به عدد حقیقی ⁦c⁩ نزدیک می‌شود بی‌نهایت شود، خط ⁦x = c⁩ نسبت به نمودار تابع چه نام دارد؟",
+     "grading_key": "- [1] مجانب قائم",
+     "final_resolution": "مجانب قائم",
+     "notes": "",
+     "keywords": [
+      "مجانب قائم"
+     ],
+     "distractors": [
+      "مجانب افقی",
+      "خط مماس مایل",
+      "محور تقارن سهمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "If the limit of a rational function is infinite as x approaches a real number c, what is the line x = c called relative to the graph?",
+     "grading_key": "- [1] Vertical asymptote",
+     "final_resolution": "Vertical asymptote",
+     "notes": "",
+     "keywords": [
+      "vertical asymptote"
+     ],
+     "distractors": [
+      "Horizontal asymptote",
+      "Oblique tangent line",
+      "Axis of symmetry of a parabola"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Agar had-e yek tabe-e gooya vaghti x be adad-e haghighi-ye c nazdik mishavad bi-nahayat shavad, khatt-e x = c nesbat be nemoodar-e tabe che nam darad?",
+     "grading_key": "- [1] Mojaneb-e ghaem",
+     "final_resolution": "Mojaneb-e ghaem",
+     "notes": "",
+     "keywords": [
+      "mojaneb-e ghaem"
+     ],
+     "distractors": [
+      "Mojaneb-e ofoghi",
+      "Khatt-e mamas-e mayel",
+      "Mehvar-e taghaarom-e sahmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 950,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (آهنگ تغییر لحظه‌ای)",
+    "en": "Chapter 4: Derivatives (Instantaneous Rate of Change)",
+    "tr": "Fasl 4: Moshtagh (Ahang-e Taghyir-e Lahzei)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مقدار مشتق یک تابع در یک نقطه از نمودارش، بیانگر کدام ویژگی خط مماس بر نمودار در آن نقطه است؟",
+     "grading_key": "- [1] شیب خط مماس",
+     "final_resolution": "شیب خط مماس",
+     "notes": "",
+     "keywords": [
+      "مشتق"
+     ],
+     "distractors": [
+      "طول وتر",
+      "شعاع انحنا",
+      "عرض از مبدأ خط مماس"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The value of a function's derivative at a point on its graph gives which property of the tangent line there?",
+     "grading_key": "- [1] The slope of the tangent line",
+     "final_resolution": "The slope of the tangent line",
+     "notes": "",
+     "keywords": [
+      "derivative"
+     ],
+     "distractors": [
+      "The length of a chord",
+      "The radius of curvature",
+      "The y-intercept of the tangent line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Meghdar-e moshtagh-e yek tabe dar yek noghte az nemoodarash, bayangar-e kodam vizhegi-ye khatt-e mamas bar nemoodar dar an noghte ast?",
+     "grading_key": "- [1] Shib-e khatt-e mamas",
+     "final_resolution": "Shib-e khatt-e mamas",
+     "notes": "",
+     "keywords": [
+      "moshtagh"
+     ],
+     "distractors": [
+      "Tool-e vatar",
+      "Shoa-e enhena",
+      "Arz az mabda-e khatt-e mamas"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 950,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: یگانهٔ بی‌همتا (توحید در خالقیت)",
+    "en": "Lesson 2: The Matchless One (Monotheism in Creation)",
+    "tr": "Dars 2: Yegane-ye Bi-hamta (Towhid dar Khaleghiyat)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "آیهٔ شریفهٔ «قُلِ اللَّهُ خَالِقُ کُلِّ شَیْءٍ» بر کدام مرتبهٔ توحید دلالت دارد؟",
+     "grading_key": "- [1] توحید در خالقیت",
+     "final_resolution": "توحید در خالقیت",
+     "notes": "",
+     "keywords": [
+      "توحید در خالقیت"
+     ],
+     "distractors": [
+      "توحید در ربوبیت",
+      "توحید در ولایت",
+      "توحید در مالکیت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "The verse «قُلِ اللَّهُ خَالِقُ کُلِّ شَیْءٍ» (\"Say: God is the Creator of all things\") points to which rank of monotheism?",
+     "grading_key": "- [1] Monotheism in creation (towhid dar khaleghiyat)",
+     "final_resolution": "Monotheism in creation (towhid dar khaleghiyat)",
+     "notes": "",
+     "keywords": [
+      "monotheism in creation"
+     ],
+     "distractors": [
+      "Monotheism in lordship (rububiyyat)",
+      "Monotheism in guardianship (velayat)",
+      "Monotheism in ownership (malekiyyat)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Aye-ye sharife-ye «qul-illahu khaliqu kulli shay» bar kodam martabe-ye towhid delalat darad?",
+     "grading_key": "- [1] Towhid dar khaleghiyat",
+     "final_resolution": "Towhid dar khaleghiyat",
+     "notes": "",
+     "keywords": [
+      "towhid dar khaleghiyat"
+     ],
+     "distractors": [
+      "Towhid dar robubiyat",
+      "Towhid dar velayat",
+      "Towhid dar malekiyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 950,
+   "topic_tag": "divine-laws",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: سنت‌های خداوند در زندگی (سنت ابتلا)",
+    "en": "Lesson 6: Divine Laws in Life (The Law of Trial)",
+    "tr": "Dars 6: Sonnat-haye Khodavand dar Zendegi (Sonnat-e Ebtela)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سنت‌های خداوند در زندگی",
+     "question": "کدام سنت الهی در کتاب دین و زندگی ۳، به آزمایش‌های پیاپی زندگی برای شکوفا شدن استعدادهای انسان اشاره دارد؟",
+     "grading_key": "- [1] سنت ابتلا",
+     "final_resolution": "سنت ابتلا",
+     "notes": "",
+     "keywords": [
+      "سنت ابتلا"
+     ],
+     "distractors": [
+      "سنت امداد",
+      "سنت استدراج",
+      "سنت سبقت رحمت بر غضب"
+     ]
+    },
+    "en": {
+     "topic_label": "Divine Laws in Life",
+     "question": "Which divine law in the Religion and Life 3 book refers to the continuous trials of life through which human talents flourish?",
+     "grading_key": "- [1] The law of trial (sonnat-e ebtela)",
+     "final_resolution": "The law of trial (sonnat-e ebtela)",
+     "notes": "",
+     "keywords": [
+      "law of trial (ebtela)"
+     ],
+     "distractors": [
+      "The law of divine help (emdad)",
+      "The law of gradual entrapment (estedraj)",
+      "The law of mercy outpacing wrath"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sonnat-haye Khodavand dar Zendegi",
+     "question": "Kodam sonnat-e elahi dar ketab-e Din va Zendegi 3, be azmayesh-haye peyapey-e zendegi baraye shekoofa shodan-e esteedad-haye ensan eshare darad?",
+     "grading_key": "- [1] Sonnat-e ebtela",
+     "final_resolution": "Sonnat-e ebtela",
+     "notes": "",
+     "keywords": [
+      "sonnat-e ebtela"
+     ],
+     "distractors": [
+      "Sonnat-e emdad",
+      "Sonnat-e estedraj",
+      "Sonnat-e sebghat-e rahmat bar ghazab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 950,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: شکر نعمت (قلمرو زبانی: واژگان)",
+    "en": "Lesson 1: Gratitude for Blessings (Vocabulary)",
+    "tr": "Dars 1: Shokr-e Nemat (Vazhegan)",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای واژهٔ «بحر» در بیت زیر چیست؟\n«بحر آفرید و برّ و شجر ساخت و آدمی / خورشید و ماه و انجم و لیل و نهار کرد»",
+     "grading_key": "- [1] دریا",
+     "final_resolution": "دریا",
+     "notes": "",
+     "keywords": [
+      "بحر"
+     ],
+     "distractors": [
+      "بیابان",
+      "رشته‌کوه",
+      "ابر"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does the word «بحر» mean in this couplet from lesson one?\n«بحر آفرید و برّ و شجر ساخت و آدمی / خورشید و ماه و انجم و لیل و نهار کرد»",
+     "grading_key": "- [1] Sea",
+     "final_resolution": "Sea",
+     "notes": "",
+     "keywords": [
+      "sea (bahr)"
+     ],
+     "distractors": [
+      "Desert",
+      "Mountain range",
+      "Clouds"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye vazhe-ye «bahr» dar beit-e zir chist?\n«بحر آفرید و برّ و شجر ساخت و آدمی / خورشید و ماه و انجم و لیل و نهار کرد»",
+     "grading_key": "- [1] Darya",
+     "final_resolution": "Darya",
+     "notes": "",
+     "keywords": [
+      "bahr"
+     ],
+     "distractors": [
+      "Biaban",
+      "Reshte-kooh",
+      "Abr"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 950,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: مست و هشیار (قلمرو ادبی: مراعات نظیر)",
+    "en": "Lesson 2: The Drunk and the Sober (Literary Devices: Moraat-e Nazir)",
+    "tr": "Dars 2: Mast va Hoshyar (Moraat-e Nazir)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "در بیت زیر، کدام واژه‌ها آرایهٔ «مراعات نظیر» می‌سازند؟\n«محتسب مستی به ره دید و گریبانش گرفت / مست گفت ای دوست این پیراهن است افسار نیست»",
+     "grading_key": "- [1] گریبان، پیراهن",
+     "final_resolution": "گریبان، پیراهن",
+     "notes": "",
+     "keywords": [
+      "مراعات نظیر"
+     ],
+     "distractors": [
+      "محتسب، مست",
+      "دوست، افسار",
+      "ره، دید"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "In this couplet from lesson two, which words make the device «مراعات نظیر» (moraat-e nazir: words from one family of meaning)?\n«محتسب مستی به ره دید و گریبانش گرفت / مست گفت ای دوست این پیراهن است افسار نیست»",
+     "grading_key": "- [1] گریبان، پیراهن",
+     "final_resolution": "گریبان، پیراهن",
+     "notes": "",
+     "keywords": [
+      "congruity (moraat-e nazir)"
+     ],
+     "distractors": [
+      "محتسب، مست",
+      "دوست، افسار",
+      "ره، دید"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Dar beit-e zir, kodam vazhe-ha arayeh-ye «moraat-e nazir» misazand?\n«محتسب مستی به ره دید و گریبانش گرفت / مست گفت ای دوست این پیراهن است افسار نیست»",
+     "grading_key": "- [1] گریبان، پیراهن",
+     "final_resolution": "گریبان، پیراهن",
+     "notes": "",
+     "keywords": [
+      "moraat-e nazir"
+     ],
+     "distractors": [
+      "محتسب، مست",
+      "دوست، افسار",
+      "ره، دید"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 950,
+   "topic_tag": "thematic-pairs",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: آزادی (قلمرو فکری: قرابت معنایی)",
+    "en": "Lesson 3: Freedom (Thematic Concept Pairs)",
+    "tr": "Dars 3: Azadi (Gharabat-e Manayi)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قرابت معنایی",
+     "question": "کدام بیت با این بیت فرخی یزدی قرابت معنایی دارد؟\n«آن زمان که بنهادم سر به پای آزادی / دست خود ز جان شستم از برای آزادی»",
+     "grading_key": "- [1] همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "final_resolution": "همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "notes": "",
+     "keywords": [
+      "جان‌فشانی برای میهن"
+     ],
+     "distractors": [
+      "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    },
+    "en": {
+     "topic_label": "Thematic Concept Pairs",
+     "question": "Which couplet shares the meaning of this couplet by Farrokhi Yazdi (giving one's life for freedom and the homeland)?\n«آن زمان که بنهادم سر به پای آزادی / دست خود ز جان شستم از برای آزادی»",
+     "grading_key": "- [1] همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "final_resolution": "همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "notes": "",
+     "keywords": [
+      "sacrifice for the homeland"
+     ],
+     "distractors": [
+      "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    },
+    "tr": {
+     "topic_label": "Gharabat-e Manayi",
+     "question": "Kodam beit ba in beit-e Farrokhi Yazdi gharabat-e manayi darad?\n«آن زمان که بنهادم سر به پای آزادی / دست خود ز جان شستم از برای آزادی»",
+     "grading_key": "- [1] همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "final_resolution": "همه سر به سر تن به کشتن دهیم / از آن به که کشور به دشمن دهیم",
+     "notes": "",
+     "keywords": [
+      "jan-feshani baraye mihan"
+     ],
+     "distractors": [
+      "سیاه‌اندرون باشد و سنگ‌دل / که خواهد که موری شود تنگ‌دل",
+      "برو کار می‌کن مگو چیست کار / که سرمایهٔ جاودانی است کار",
+      "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 950,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: دماوندیه (قلمرو زبانی: واژگان)",
+    "en": "Lesson 4: Damavandiyeh (Vocabulary)",
+    "tr": "Dars 4: Damavandiyeh (Vazhegan)",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "در این بیت از دماوندیهٔ بهار، «بنهفته» به چه معناست؟\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] نهان کرده",
+     "final_resolution": "نهان کرده",
+     "notes": "",
+     "keywords": [
+      "بنهفته"
+     ],
+     "distractors": [
+      "عیان کرده",
+      "آشکار کرده",
+      "هویدا کرده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "In this couplet from Bahar's Damavandiyeh, what does «بنهفته» mean?\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] نهان کرده",
+     "final_resolution": "نهان کرده",
+     "notes": "",
+     "keywords": [
+      "concealed (benehofte)"
+     ],
+     "distractors": [
+      "عیان کرده",
+      "آشکار کرده",
+      "هویدا کرده"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Dar in beit az Damavandiye-ye Bahar, «benehofte» be che manast?\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] نهان کرده",
+     "final_resolution": "نهان کرده",
+     "notes": "",
+     "keywords": [
+      "benehofte"
+     ],
+     "distractors": [
+      "عیان کرده",
+      "آشکار کرده",
+      "هویدا کرده"
+     ]
+    }
+   }
+  }
+ ]
+}
