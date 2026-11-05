@@ -1,0 +1,953 @@
+{
+ "version": 67,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 960,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (4x² + 5)/(2x³ − x)⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦2⁩",
+      "⁦+∞⁩",
+      "⁦5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (4x² + 5)/(2x³ − x) as x tends to +∞?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦2⁩",
+      "⁦+∞⁩",
+      "⁦5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (4x² + 5)/(2x³ − x) vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦2⁩",
+      "⁦+∞⁩",
+      "⁦5⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 960,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق توان‌های کسری)",
+    "en": "Chapter 4: Derivatives (Fractional Powers)",
+    "tr": "Fasl 4: Moshtagh (Tavan-e Kasri)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = x√x⁩ در دامنه‌اش کدام است؟",
+     "grading_key": "- [1] ⁦(3/2)√x⁩",
+     "final_resolution": "⁦(3/2)√x⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق توان کسری"
+     ],
+     "distractors": [
+      "⁦(1/2)√x⁩",
+      "⁦1/(2√x)⁩",
+      "⁦3x√x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = x√x on its domain?",
+     "grading_key": "- [1] ⁦(3/2)√x⁩",
+     "final_resolution": "⁦(3/2)√x⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of a fractional power"
+     ],
+     "distractors": [
+      "⁦(1/2)√x⁩",
+      "⁦1/(2√x)⁩",
+      "⁦3x√x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = x√x dar damane-ash kodam ast?",
+     "grading_key": "- [1] ⁦(3/2)√x⁩",
+     "final_resolution": "⁦(3/2)√x⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e tavan-e kasri"
+     ],
+     "distractors": [
+      "⁦(1/2)√x⁩",
+      "⁦1/(2√x)⁩",
+      "⁦3x√x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 960,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (یکنوایی)",
+    "en": "Chapter 5: Applications of Derivatives (Monotonicity)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Yeknavayi)",
+    "pages": null
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "اگر در یک بازه برای همهٔ نقاط ⁦f′(x) < 0⁩ باشد، تابع ⁦f⁩ در آن بازه چگونه است؟",
+     "grading_key": "- [1] اکیداً نزولی",
+     "final_resolution": "اکیداً نزولی",
+     "notes": "",
+     "keywords": [
+      "علامت مشتق و یکنوایی"
+     ],
+     "distractors": [
+      "اکیداً صعودی",
+      "ثابت",
+      "نه صعودی نه نزولی"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "If f′(x) < 0 at every point of an interval, how does f behave on that interval?",
+     "grading_key": "- [1] It is strictly decreasing",
+     "final_resolution": "It is strictly decreasing",
+     "notes": "",
+     "keywords": [
+      "sign of the derivative and monotonicity"
+     ],
+     "distractors": [
+      "It is strictly increasing",
+      "It is constant",
+      "It is neither increasing nor decreasing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Agar dar yek baze baraye hame-ye noghat f′(x) < 0 bashad, tabe-e f dar an baze chegoone ast?",
+     "grading_key": "- [1] Akidan nozooli",
+     "final_resolution": "Akidan nozooli",
+     "notes": "",
+     "keywords": [
+      "alamat-e moshtagh va yeknavayi"
+     ],
+     "distractors": [
+      "Akidan sooudi",
+      "Sabet",
+      "Na sooudi na nozooli"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 960,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۱: حد بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 1)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 1)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = −3/(x − 5)⁩ وقتی ⁦x⁩ از راست به ۵ نزدیک می‌شود، کدام است؟",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = −3/(x − 5) as x approaches 5 from the right?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "infinite limits"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = −3/(x − 5) vaghti x az rast be 5 nazdik mishavad, kodam ast?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "had-e bi-nahayat"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 960,
+   "topic_tag": "divine-laws",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: سنت‌های خداوند در زندگی (سنت توفیق)",
+    "en": "Lesson 6: Divine Laws in Life (Divine Success)",
+    "tr": "Dars 6: Sonnat-haye Khodavand (Towfigh)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سنت‌های خداوند در زندگی",
+     "question": "کدام سنت الهی به یاری ویژه، هدایت بیشتر و پاداش معنوی برای کسانی اشاره دارد که در راه بندگی گام برمی‌دارند؟",
+     "grading_key": "- [1] سنت توفیق الهی (امداد خاص)",
+     "final_resolution": "سنت توفیق الهی (امداد خاص)",
+     "notes": "",
+     "keywords": [
+      "سنت توفیق الهی"
+     ],
+     "distractors": [
+      "سنت امداد عام",
+      "سنت استدراج",
+      "سنت نابودی همگانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Divine Laws in Life",
+     "question": "Which divine law refers to the special help, extra guidance and spiritual reward given to those who walk the path of obedience?",
+     "grading_key": "- [1] Divine success (towfiq, special help)",
+     "final_resolution": "Divine success (towfiq, special help)",
+     "notes": "",
+     "keywords": [
+      "law of divine success (towfiq)"
+     ],
+     "distractors": [
+      "Universal help (emdad-e am)",
+      "Gradual entrapment (estedraj)",
+      "Universal destruction"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sonnat-haye Khodavand dar Zendegi",
+     "question": "Kodam sonnat-e elahi be yari-ye vizhe, hedayat-e bishtar va padash-e manavi baraye kasani eshare darad ke dar rah-e bandegi gam bar midarand?",
+     "grading_key": "- [1] Sonnat-e towfigh-e elahi (emdad-e khas)",
+     "final_resolution": "Sonnat-e towfigh-e elahi (emdad-e khas)",
+     "notes": "",
+     "keywords": [
+      "sonnat-e towfigh-e elahi"
+     ],
+     "distractors": [
+      "Sonnat-e emdad-e am",
+      "Sonnat-e estedraj",
+      "Sonnat-e naboodi-ye hamegani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 960,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (ولایت فقیه)",
+    "en": "Religion and Life (Guardianship of the Jurist)",
+    "tr": "Din va Zendegi (Velayat-e Faghih)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "در دوران غیبت امام زمان (عج)، مرجعیت دینی و سرپرستی امور سیاسی جامعه بر عهدهٔ کیست؟",
+     "grading_key": "- [1] فقیه جامع‌الشرایط (ولی فقیه)",
+     "final_resolution": "فقیه جامع‌الشرایط (ولی فقیه)",
+     "notes": "",
+     "keywords": [
+      "ولایت فقیه"
+     ],
+     "distractors": [
+      "نخبگان مجلس سکولار",
+      "شورای سنتی قبیله",
+      "فرماندهان نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "During the occultation of the Imam of the Age, who carries religious authority and the leadership of society's political affairs?",
+     "grading_key": "- [1] The fully qualified jurist (vali-ye faqih)",
+     "final_resolution": "The fully qualified jurist (vali-ye faqih)",
+     "notes": "",
+     "keywords": [
+      "guardianship of the jurist"
+     ],
+     "distractors": [
+      "A secular parliamentary elite",
+      "A tribe's traditional council",
+      "Military commanders"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Dar dowran-e gheybat-e Emam-e Zaman, marjaiyat-e dini va sarparasti-ye omoor-e siyasi-ye jame bar ohde-ye kist?",
+     "grading_key": "- [1] Faghih-e jame-osh-sharayet (vali-ye faghih)",
+     "final_resolution": "Faghih-e jame-osh-sharayet (vali-ye faghih)",
+     "notes": "",
+     "keywords": [
+      "velayat-e faghih"
+     ],
+     "distractors": [
+      "Nokhbegan-e majles-e sekolar",
+      "Shora-ye sonnati-ye ghabile",
+      "Farmandehan-e nezami"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 960,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (مسئولیت‌های پیامبر)",
+    "en": "Religion and Life (The Prophet's Duties)",
+    "tr": "Din va Zendegi (Masooliyat-haye Payambar)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "نخستین و بنیادی‌ترین قلمرو رسالت پیامبر اکرم (ص) کدام است؟",
+     "grading_key": "- [1] دریافت و ابلاغ وحی",
+     "final_resolution": "دریافت و ابلاغ وحی",
+     "notes": "",
+     "keywords": [
+      "دریافت و ابلاغ وحی"
+     ],
+     "distractors": [
+      "مرجعیت دینی",
+      "ولایت ظاهری و حکومت",
+      "داوری در اختلاف‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "What is the first and most basic sphere of the Prophet's mission?",
+     "grading_key": "- [1] Receiving and conveying the revelation",
+     "final_resolution": "Receiving and conveying the revelation",
+     "notes": "",
+     "keywords": [
+      "receiving and conveying revelation"
+     ],
+     "distractors": [
+      "Religious authority",
+      "Government (outward guardianship)",
+      "Judging disputes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Nakhostin va bonyadi-tarin ghalamro-ye resalat-e Payambar-e Akram kodam ast?",
+     "grading_key": "- [1] Daryaft va eblagh-e vahy",
+     "final_resolution": "Daryaft va eblagh-e vahy",
+     "notes": "",
+     "keywords": [
+      "daryaft va eblagh-e vahy"
+     ],
+     "distractors": [
+      "Marjaiyat-e dini",
+      "Velayat-e zaheri va hokoomat",
+      "Davari dar ekhtelaf-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 960,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «فَرِیضَةٌ» در حدیث زیر کدام است؟\n«طَلَبُ الْعِلْمِ فَرِیضَةٌ عَلَى کُلِّ مُسْلِمٍ.»",
+     "grading_key": "- [1] واجب",
+     "final_resolution": "واجب",
+     "notes": "",
+     "keywords": [
+      "فَرِیضَة"
+     ],
+     "distractors": [
+      "اختیاری",
+      "حرام",
+      "مالیات"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «فَرِیضَةٌ» mean in this hadith?\n«طَلَبُ الْعِلْمِ فَرِیضَةٌ عَلَى کُلِّ مُسْلِمٍ.»",
+     "grading_key": "- [1] An obligation",
+     "final_resolution": "An obligation",
+     "notes": "",
+     "keywords": [
+      "farida (obligation)"
+     ],
+     "distractors": [
+      "Optional",
+      "Forbidden",
+      "A tax"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «farida» dar hadis-e zir kodam ast?\n«طَلَبُ الْعِلْمِ فَرِیضَةٌ عَلَى کُلِّ مُسْلِمٍ.»",
+     "grading_key": "- [1] Vajeb",
+     "final_resolution": "Vajeb",
+     "notes": "",
+     "keywords": [
+      "farida"
+     ],
+     "distractors": [
+      "Ekhtiyari",
+      "Haram",
+      "Maliyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 960,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (حروف مشبهة بالفعل)",
+    "en": "Lesson 1: Religion and Religiosity (Particles Resembling Verbs)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Horoof-e Moshabbaha bel-Fe'l)",
+    "pages": "8–10"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "هرگاه ضمیر متصل به حرف مشبهة بالفعل بچسبد (مانند «کَ» در «إنَّکَ»)، آن ضمیر چه نقشی دارد؟",
+     "grading_key": "- [1] اسم «إنَّ»",
+     "final_resolution": "اسم «إنَّ»",
+     "notes": "",
+     "keywords": [
+      "ضمیر متصل پس از إنّ"
+     ],
+     "distractors": [
+      "خبر «إنَّ»",
+      "مضاف‌الیه",
+      "اسم موصول"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "When a pronoun is attached to one of the particles resembling verbs (like «کَ» in «إنَّکَ»), what is its role?",
+     "grading_key": "- [1] The noun of «إنَّ»",
+     "final_resolution": "The noun of «إنَّ»",
+     "notes": "",
+     "keywords": [
+      "attached pronoun after inna"
+     ],
+     "distractors": [
+      "The predicate of «إنَّ»",
+      "A possessor (mudaf ilayh)",
+      "A relative pronoun"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Hargah zamir-e mottasel be harf-e moshabbaha bel-fe'l bechasbad (manand-e «ka» dar «innaka»), an zamir che naghshi darad?",
+     "grading_key": "- [1] Esm-e «inna»",
+     "final_resolution": "Esm-e «inna»",
+     "notes": "",
+     "keywords": [
+      "zamir-e mottasel pas az inna"
+     ],
+     "distractors": [
+      "Khabar-e «inna»",
+      "Mozaf-elayh",
+      "Esm-e mosool"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 960,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان)",
+    "en": "Arabic 3 (Vocabulary)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَمَل» در عبارت زیر کدام است؟\n«الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ.»",
+     "grading_key": "- [1] آرزو",
+     "final_resolution": "آرزو",
+     "notes": "",
+     "keywords": [
+      "أَمَل"
+     ],
+     "distractors": [
+      "دانش",
+      "وزن",
+      "ترس"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَمَل» mean in this saying?\n«الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ.»",
+     "grading_key": "- [1] Hope, wishful thinking",
+     "final_resolution": "Hope, wishful thinking",
+     "notes": "",
+     "keywords": [
+      "amal (hope)"
+     ],
+     "distractors": [
+      "Knowledge",
+      "Weight",
+      "Fear"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «amal» dar ebarat-e zir kodam ast?\n«الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ.»",
+     "grading_key": "- [1] Arezoo",
+     "final_resolution": "Arezoo",
+     "notes": "",
+     "keywords": [
+      "amal"
+     ],
+     "distractors": [
+      "Danesh",
+      "Vazn",
+      "Tars"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 960,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (نظام‌های نژادپرست)",
+    "en": "Lesson 8: Politics and the Political System (Racist Systems)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌هایی که قدرت، ثروت و حقوق شهروندی را تنها بر پایهٔ نژاد یا قومیت برتر تقسیم می‌کنند، چه نام دارند؟",
+     "grading_key": "- [1] نظام‌های نژادپرست (آپارتاید)",
+     "final_resolution": "نظام‌های نژادپرست (آپارتاید)",
+     "notes": "",
+     "keywords": [
+      "آپارتاید"
+     ],
+     "distractors": [
+      "دموکراسی‌های لیبرال",
+      "حکومت‌های دینی",
+      "دولت‌های سکولار"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are systems called that share out power, wealth and citizens' rights only by a ruling race or ethnic group?",
+     "grading_key": "- [1] Racist systems (apartheid)",
+     "final_resolution": "Racist systems (apartheid)",
+     "notes": "",
+     "keywords": [
+      "apartheid"
+     ],
+     "distractors": [
+      "Liberal democracies",
+      "Religious governments",
+      "Secular states"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-hayi ke ghodrat, servat va hoghoogh-e shahrvandi ra tanha bar paye-ye nezhad ya ghomiyat-e bartar taghsim mikonand, che nam darand?",
+     "grading_key": "- [1] Nezam-haye nezhadparast (apartayd)",
+     "final_resolution": "Nezam-haye nezhadparast (apartayd)",
+     "notes": "",
+     "keywords": [
+      "apartayd"
+     ],
+     "distractors": [
+      "Demokrasi-haye liberal",
+      "Hokoomat-haye dini",
+      "Dowlat-haye sekolar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 960,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (فروپاشی قدرت)",
+    "en": "Lesson 7: Authority and Acceptance (Collapse of Power)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "هرگاه یک نظام سیاسی هم مقبولیت و هم مشروعیت خود را از دست بدهد، به کدام وضعیت می‌رسد؟",
+     "grading_key": "- [1] فروپاشی کامل قدرت حاکم",
+     "final_resolution": "فروپاشی کامل قدرت حاکم",
+     "notes": "",
+     "keywords": [
+      "فروپاشی قدرت"
+     ],
+     "distractors": [
+      "کندی موقت اداری",
+      "بهینه‌سازی سطحی دیوان‌سالاری",
+      "هماهنگی قانونی غیرمتمرکز"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "When a political system loses both its acceptance and its legitimacy, what does it come to?",
+     "grading_key": "- [1] The complete collapse of the ruling power",
+     "final_resolution": "The complete collapse of the ruling power",
+     "notes": "",
+     "keywords": [
+      "collapse of power"
+     ],
+     "distractors": [
+      "A temporary administrative slowdown",
+      "Surface bureaucratic tidying",
+      "Decentralised legal alignment"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Hargah yek nezam-e siyasi ham maghbooliyat va ham mashrooiyat-e khod ra az dast bedahad, be kodam vaziyat miresad?",
+     "grading_key": "- [1] Foroopashi-ye kamel-e ghodrat-e hakem",
+     "final_resolution": "Foroopashi-ye kamel-e ghodrat-e hakem",
+     "notes": "",
+     "keywords": [
+      "foroopashi-ye ghodrat"
+     ],
+     "distractors": [
+      "Kondi-ye movaghat-e edari",
+      "Behine-sazi-ye sathi-ye divan-salari",
+      "Hamahangi-ye ghanooni-ye gheyr-e motamarkez"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 960,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (تحرک و ارگونومی)",
+    "en": "Chapter 1: Health and Lifestyle (Movement and Ergonomics)",
+    "tr": "Fasl 1: Salamat (Ergonomi)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "دانش طراحی و هماهنگ کردن محیط کار، ابزارها و تجهیزات با ویژگی‌های جسمی و روانی انسان برای پیشگیری از آسیب‌های اسکلتی‌عضلانی چه نام دارد؟",
+     "grading_key": "- [1] ارگونومی",
+     "final_resolution": "ارگونومی",
+     "notes": "",
+     "keywords": [
+      "ارگونومی"
+     ],
+     "distractors": [
+      "بیومکانیک",
+      "آسیب‌شناسی",
+      "حرکت‌شناسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "What is the science called that fits workplaces, tools and equipment to people's bodies and minds so as to prevent injuries to muscles and bones?",
+     "grading_key": "- [1] Ergonomics",
+     "final_resolution": "Ergonomics",
+     "notes": "",
+     "keywords": [
+      "ergonomics"
+     ],
+     "distractors": [
+      "Biomechanics",
+      "Pathology",
+      "Kinesiology"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Danesh-e tarahi va hamahang kardan-e mohit-e kar, abzar-ha va tajhizat ba vizhegi-haye jesmi va ravani-ye ensan che nam darad?",
+     "grading_key": "- [1] Ergonomi",
+     "final_resolution": "Ergonomi",
+     "notes": "",
+     "keywords": [
+      "ergonomi"
+     ],
+     "distractors": [
+      "Biomekanik",
+      "Asib-shenasi",
+      "Harekat-shenasi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 960,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (ناقلان بیماری)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (Vectors)",
+    "tr": "Fasl 3: Bimari-ha (Naghelan)",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "جاندارانی مانند پشهٔ آنوفل یا شپش که عامل بیماری را از یک میزبان به دیگری می‌رسانند، چه نام دارند؟",
+     "grading_key": "- [1] ناقلان بیماری",
+     "final_resolution": "ناقلان بیماری",
+     "notes": "",
+     "keywords": [
+      "ناقل بیماری"
+     ],
+     "distractors": [
+      "مخزن‌های زیستی",
+      "انگل‌ها",
+      "هاگ‌های قارچی"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What are animals such as the Anopheles mosquito or lice, which carry a disease agent from one host to another, called?",
+     "grading_key": "- [1] Vectors",
+     "final_resolution": "Vectors",
+     "notes": "",
+     "keywords": [
+      "disease vector"
+     ],
+     "distractors": [
+      "Reservoirs",
+      "Parasites",
+      "Fungal spores"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Janevarani manand-e pashe-ye anofel ya shepesh ke amel-e bimari ra az yek mizban be digari miresanand, che nam darand?",
+     "grading_key": "- [1] Naghelan-e bimari",
+     "final_resolution": "Naghelan-e bimari",
+     "notes": "",
+     "keywords": [
+      "naghel-e bimari"
+     ],
+     "distractors": [
+      "Makhzan-haye zisti",
+      "Angal-ha",
+      "Hag-haye gharchi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 960,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (سکتهٔ مغزی)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (Stroke)",
+    "tr": "Fasl 3: Bimari-ha (Sekte-ye Maghzi)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "بسته شدن ناگهانی یا پارگی سرخرگ‌های خون‌رسان به مغز که یاخته‌های عصبی را از اکسیژن محروم می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] سکتهٔ مغزی",
+     "final_resolution": "سکتهٔ مغزی",
+     "notes": "",
+     "keywords": [
+      "سکتهٔ مغزی"
+     ],
+     "distractors": [
+      "سکتهٔ قلبی",
+      "تشنج صرعی",
+      "بیماری مزمن مغزی"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the sudden blocking or bursting of an artery feeding the brain, which starves nerve cells of oxygen, called?",
+     "grading_key": "- [1] A stroke",
+     "final_resolution": "A stroke",
+     "notes": "",
+     "keywords": [
+      "stroke"
+     ],
+     "distractors": [
+      "A heart attack",
+      "An epileptic seizure",
+      "A chronic brain disease"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Baste shodan-e nagahani ya paregi-ye sorkhrag-haye khoon-resan be maghz ke yakhte-haye asabi ra az oksizhen mahroom mikonad, che nam darad?",
+     "grading_key": "- [1] Sekte-ye maghzi",
+     "final_resolution": "Sekte-ye maghzi",
+     "notes": "",
+     "keywords": [
+      "sekte-ye maghzi"
+     ],
+     "distractors": [
+      "Sekte-ye ghalbi",
+      "Tashannoj-e sare-i",
+      "Bimari-ye mozmen-e maghzi"
+     ]
+    }
+   }
+  }
+ ]
+}
