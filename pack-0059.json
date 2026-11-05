@@ -1,0 +1,514 @@
+{
+ "version": 59,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 952,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۲: همانندسازی دنا)",
+    "en": "Chapter 1: Informational Molecules (Section 2: DNA Replication)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 2)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در همانندسازی دنا، دنابسپاراز نوکلئوتیدهای تازه را همواره در کدام جهت به رشتهٔ در حال ساخت می‌افزاید؟",
+     "grading_key": "- [1] از ⁦5′⁩ به ⁦3′⁩",
+     "final_resolution": "از ⁦5′⁩ به ⁦3′⁩",
+     "notes": "",
+     "keywords": [
+      "جهت همانندسازی"
+     ],
+     "distractors": [
+      "از ⁦3′⁩ به ⁦5′⁩",
+      "از ⁦5′⁩ به ⁦5′⁩",
+      "در هر دو جهت، به‌تصادف"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In DNA replication, in which direction does DNA polymerase always add new nucleotides to the growing strand?",
+     "grading_key": "- [1] 5′ to 3′",
+     "final_resolution": "5′ to 3′",
+     "notes": "",
+     "keywords": [
+      "direction of DNA synthesis"
+     ],
+     "distractors": [
+      "3′ to 5′",
+      "5′ to 5′",
+      "Either way, at random"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar hamanand-sazi-ye DNA, DNA-basparaz nucleotide-haye taze ra hamvare dar kodam jahat be reshte-ye dar hal-e sakht miafzayad?",
+     "grading_key": "- [1] Az 5′ be 3′",
+     "final_resolution": "Az 5′ be 3′",
+     "notes": "",
+     "keywords": [
+      "jahat-e hamanand-sazi"
+     ],
+     "distractors": [
+      "Az 3′ be 5′",
+      "Az 5′ be 5′",
+      "Dar har do jahat, be tasadof"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 952,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2: Limits at Infinity)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = x³⁩ وقتی ⁦x⁩ به ⁦−∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = x³ as x tends to −∞?",
+     "grading_key": "- [1] −∞",
+     "final_resolution": "−∞",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "+∞",
+      "0",
+      "1"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = x³ vaghti x be −∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] −∞",
+     "final_resolution": "−∞",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "+∞",
+      "0",
+      "1"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 952,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (قاعدهٔ مشتق توابع توانی)",
+    "en": "Chapter 4: Derivatives (The Power Rule)",
+    "tr": "Fasl 4: Moshtagh (Ghaede-ye Tavani)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = x⁵⁩ کدام است؟",
+     "grading_key": "- [1] ⁦5x⁴⁩",
+     "final_resolution": "⁦5x⁴⁩",
+     "notes": "",
+     "keywords": [
+      "قاعدهٔ مشتق توانی"
+     ],
+     "distractors": [
+      "⁦5x⁵⁩",
+      "⁦4x⁴⁩",
+      "⁦x⁴⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = x⁵?",
+     "grading_key": "- [1] 5x⁴",
+     "final_resolution": "5x⁴",
+     "notes": "",
+     "keywords": [
+      "power rule"
+     ],
+     "distractors": [
+      "5x⁵",
+      "4x⁴",
+      "x⁴"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = x⁵ kodam ast?",
+     "grading_key": "- [1] 5x⁴",
+     "final_resolution": "5x⁴",
+     "notes": "",
+     "keywords": [
+      "ghaede-ye moshtagh-e tavani"
+     ],
+     "distractors": [
+      "5x⁵",
+      "4x⁴",
+      "x⁴"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 952,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (توابع صعودی و نزولی)",
+    "en": "Chapter 1: Functions (Increasing and Decreasing Functions)",
+    "tr": "Fasl 1: Tabe (Tavabe-e Sooudi va Nozooli)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر در یک بازه، با افزایش ⁦x⁩ مقدار ⁦f(x)⁩ همواره افزایش یابد، تابع در آن بازه چه نام دارد؟",
+     "grading_key": "- [1] اکیداً صعودی",
+     "final_resolution": "اکیداً صعودی",
+     "notes": "",
+     "keywords": [
+      "تابع صعودی"
+     ],
+     "distractors": [
+      "اکیداً نزولی",
+      "ثابت",
+      "متناوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If on an interval f(x) always increases as x increases, what is the function called on that interval?",
+     "grading_key": "- [1] Strictly increasing",
+     "final_resolution": "Strictly increasing",
+     "notes": "",
+     "keywords": [
+      "increasing function"
+     ],
+     "distractors": [
+      "Strictly decreasing",
+      "Constant",
+      "Periodic"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar dar yek baze, ba afzayesh-e x meghdar-e f(x) hamvare afzayesh yabad, tabe dar an baze che nam darad?",
+     "grading_key": "- [1] Akidan sooudi",
+     "final_resolution": "Akidan sooudi",
+     "notes": "",
+     "keywords": [
+      "tabe-e sooudi"
+     ],
+     "distractors": [
+      "Akidan nozooli",
+      "Sabet",
+      "Motenaveb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 952,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan va Tarjome)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «عَداوَة» در عبارت زیر کدام است؟\n«عَداوَةُ العاقِلِ خَیرٌ مِن صَداقَةِ الجاهِلِ.»",
+     "grading_key": "- [1] دشمنی",
+     "final_resolution": "دشمنی",
+     "notes": "",
+     "keywords": [
+      "عَداوَة"
+     ],
+     "distractors": [
+      "دوستی",
+      "نادانی",
+      "خرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «عَداوَة» mean in this saying?\n«عَداوَةُ العاقِلِ خَیرٌ مِن صَداقَةِ الجاهِلِ.»",
+     "grading_key": "- [1] Enmity",
+     "final_resolution": "Enmity",
+     "notes": "",
+     "keywords": [
+      "adawa (enmity)"
+     ],
+     "distractors": [
+      "Friendship",
+      "Ignorance",
+      "Wisdom"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «adawa» dar ebarat-e zir kodam ast?\n«عَداوَةُ العاقِلِ خَیرٌ مِن صَداقَةِ الجاهِلِ.»",
+     "grading_key": "- [1] Doshmani",
+     "final_resolution": "Doshmani",
+     "notes": "",
+     "keywords": [
+      "adawa"
+     ],
+     "distractors": [
+      "Doosti",
+      "Nadani",
+      "Kherad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 952,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (قواعد: لای نفی جنس)",
+    "en": "Arabic 3 (Grammar: The La of Absolute Negation)",
+    "tr": "Arabi 3 (La-ye Nafy-e Jens)",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "در عبارت «لا خَیرَ فی صَداقَةِ الکَذّابِ»، واژهٔ «خَیرَ» پس از لای نفی جنس چه حرکتی دارد؟",
+     "grading_key": "- [1] فتحه، بدون تنوین",
+     "final_resolution": "فتحه، بدون تنوین",
+     "notes": "",
+     "keywords": [
+      "اسم لای نفی جنس"
+     ],
+     "distractors": [
+      "فتحه با تنوین",
+      "ضمه با تنوین",
+      "کسره، بدون تنوین"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "In «لا خَیرَ فی صَداقَةِ الکَذّابِ», which vowel ending does «خَیرَ» take after the la of absolute negation?",
+     "grading_key": "- [1] Fatha, without tanwin",
+     "final_resolution": "Fatha, without tanwin",
+     "notes": "",
+     "keywords": [
+      "noun after the la of absolute negation"
+     ],
+     "distractors": [
+      "Fatha with tanwin",
+      "Damma with tanwin",
+      "Kasra, without tanwin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Dar ebarat-e «لا خَیرَ فی صَداقَةِ الکَذّابِ», vazhe-ye «khayra» pas az la-ye nafy-e jens che harakati darad?",
+     "grading_key": "- [1] Fathe, bedoon-e tanvin",
+     "final_resolution": "Fathe, bedoon-e tanvin",
+     "notes": "",
+     "keywords": [
+      "esm-e la-ye nafy-e jens"
+     ],
+     "distractors": [
+      "Fathe ba tanvin",
+      "Zamme ba tanvin",
+      "Kasre, bedoon-e tanvin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 952,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (تغذیه و سلامت)",
+    "en": "Chapter 1: Health and Lifestyle (Nutrition and Health)",
+    "tr": "Fasl 1: Salamat va Sabk-e Zendegi (Taghzie)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کدام نوع چربی غذایی به‌دلیل داشتن پیوند دوگانه میان کربن‌ها، در دمای اتاق مایع است و خطر کمتری برای رسوب در رگ‌ها دارد؟",
+     "grading_key": "- [1] اسیدهای چرب غیراشباع",
+     "final_resolution": "اسیدهای چرب غیراشباع",
+     "notes": "",
+     "keywords": [
+      "اسیدهای چرب غیراشباع"
+     ],
+     "distractors": [
+      "اسیدهای چرب اشباع",
+      "چربی‌های ترانس (روغن‌های هیدروژنه)",
+      "چربی‌های جامد حیوانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "Which kind of dietary fat, because of its carbon–carbon double bonds, is liquid at room temperature and carries less risk of plaque in the arteries?",
+     "grading_key": "- [1] Unsaturated fatty acids",
+     "final_resolution": "Unsaturated fatty acids",
+     "notes": "",
+     "keywords": [
+      "unsaturated fatty acids"
+     ],
+     "distractors": [
+      "Saturated fatty acids",
+      "Trans fats (hydrogenated oils)",
+      "Solid animal fats"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kodam no charbi-ye ghazayi be dalil-e dashtan-e peyvand-e dogane miyan-e karbon-ha, dar dama-ye otagh maye ast va khatar-e kamtari baraye resoob dar rag-ha darad?",
+     "grading_key": "- [1] Acid-haye charb-e gheyr-e eshba",
+     "final_resolution": "Acid-haye charb-e gheyr-e eshba",
+     "notes": "",
+     "keywords": [
+      "acid-haye charb-e gheyr-e eshba"
+     ],
+     "distractors": [
+      "Acid-haye charb-e eshba",
+      "Charbi-haye trans (roghan-haye hidrozhene)",
+      "Charbi-haye jamed-e heyvani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 952,
+   "topic_tag": "mental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: بهداشت در دوران نوجوانی (سلامت روان و استرس)",
+    "en": "Chapter 2: Health in Adolescence (Mental Health and Stress)",
+    "tr": "Fasl 2: Behdasht dar Doran-e Nojavani (Salamat-e Ravan)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت روان و استرس",
+     "question": "کدام هورمون غدد فوق کلیه در پاسخ به استرس‌های طولانی‌مدت ترشح می‌شود و می‌تواند دستگاه ایمنی را تضعیف کند؟",
+     "grading_key": "- [1] کورتیزول",
+     "final_resolution": "کورتیزول",
+     "notes": "",
+     "keywords": [
+      "کورتیزول"
+     ],
+     "distractors": [
+      "آدرنالین",
+      "تیروکسین",
+      "انسولین"
+     ]
+    },
+    "en": {
+     "topic_label": "Mental Health and Stress",
+     "question": "Which adrenal hormone is released in response to long-term stress and can weaken the immune system?",
+     "grading_key": "- [1] Cortisol",
+     "final_resolution": "Cortisol",
+     "notes": "",
+     "keywords": [
+      "cortisol"
+     ],
+     "distractors": [
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat-e Ravan va Esteres",
+     "question": "Kodam hormon-e godad-e fogh-e kolie dar pasokh be esteres-haye toolani-modat tarashoh mishavad va mitavanad dastgah-e imeni ra tazif konad?",
+     "grading_key": "- [1] Cortisol",
+     "final_resolution": "Cortisol",
+     "notes": "",
+     "keywords": [
+      "cortisol"
+     ],
+     "distractors": [
+      "Adrenalin",
+      "Tiroksin",
+      "Insulin"
+     ]
+    }
+   }
+  }
+ ]
+}
