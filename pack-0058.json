@@ -1,0 +1,630 @@
+{
+ "version": 58,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 951,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (گفتار ۲: همانندسازی دنا)",
+    "en": "Chapter 1: Informational Molecules (Section 2: DNA Replication)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Goftar 2)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "در همانندسازی دنا، کدام توانایی دنابسپاراز باعث می‌شود نوکلئوتیدهای نادرستِ افزوده‌شده را شناسایی و حذف کند؟",
+     "grading_key": "- [1] فعالیت ویرایش",
+     "final_resolution": "فعالیت ویرایش",
+     "notes": "",
+     "keywords": [
+      "ویرایش"
+     ],
+     "distractors": [
+      "پیرایش رنا",
+      "اتصال عوامل رونویسی",
+      "فعالیت هلیکازی"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "In DNA replication, which ability of DNA polymerase lets it find and remove wrongly added nucleotides?",
+     "grading_key": "- [1] Proofreading",
+     "final_resolution": "Proofreading",
+     "notes": "",
+     "keywords": [
+      "proofreading"
+     ],
+     "distractors": [
+      "RNA splicing",
+      "Binding transcription factors",
+      "Helicase activity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Dar hamanand-sazi-ye DNA, kodam tavanayi-ye DNA-basparaz baes mishavad nucleotide-haye nadorost-e afzoode-shode ra shenasayi va hazf konad?",
+     "grading_key": "- [1] Faaliyat-e virayesh",
+     "final_resolution": "Faaliyat-e virayesh",
+     "notes": "",
+     "keywords": [
+      "virayesh"
+     ],
+     "distractors": [
+      "Pirayesh-e RNA",
+      "Ettesal-e avamel-e ronevisi",
+      "Faaliyat-e helicazi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 951,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Limits at Infinity)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Had dar Bi-nahayat)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "اگر حد تابعی وقتی ⁦x⁩ به مثبت یا منفی بی‌نهایت میل می‌کند برابر عدد حقیقی ⁦L⁩ شود، خط ⁦y = L⁩ نسبت به نمودار تابع چه نام دارد؟",
+     "grading_key": "- [1] مجانب افقی",
+     "final_resolution": "مجانب افقی",
+     "notes": "",
+     "keywords": [
+      "مجانب افقی"
+     ],
+     "distractors": [
+      "مجانب قائم",
+      "خط مماس مایل",
+      "خط قائم بر نمودار"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "If the limit of a function as x tends to plus or minus infinity is a real number L, what is the line y = L called relative to the graph?",
+     "grading_key": "- [1] Horizontal asymptote",
+     "final_resolution": "Horizontal asymptote",
+     "notes": "",
+     "keywords": [
+      "horizontal asymptote"
+     ],
+     "distractors": [
+      "Vertical asymptote",
+      "Oblique tangent line",
+      "Normal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Agar had-e tabei vaghti x be mosbat ya manfi bi-nahayat meyl mikonad barabar-e adad-e haghighi-ye L shavad, khatt-e y = L nesbat be nemoodar che nam darad?",
+     "grading_key": "- [1] Mojaneb-e ofoghi",
+     "final_resolution": "Mojaneb-e ofoghi",
+     "notes": "",
+     "keywords": [
+      "mojaneb-e ofoghi"
+     ],
+     "distractors": [
+      "Mojaneb-e ghaem",
+      "Khatt-e mamas-e mayel",
+      "Khatt-e ghaem bar nemoodar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 951,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (تعریف مشتق)",
+    "en": "Chapter 4: Derivatives (Definition of the Derivative)",
+    "tr": "Fasl 4: Moshtagh (Taarif-e Moshtagh)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "حد نسبت تغییر تابع (⁦Δy⁩) به تغییر متغیر (⁦Δx⁩) وقتی ⁦Δx⁩ به صفر میل می‌کند، کدام مفهوم است؟",
+     "grading_key": "- [1] مشتق تابع",
+     "final_resolution": "مشتق تابع",
+     "notes": "",
+     "keywords": [
+      "تعریف مشتق"
+     ],
+     "distractors": [
+      "آهنگ متوسط تغییر",
+      "مساحت زیر نمودار",
+      "مرز بازهٔ پیوستگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The limit of the ratio of the change in the function (Δy) to the change in the variable (Δx) as Δx tends to zero defines which concept?",
+     "grading_key": "- [1] The derivative of the function",
+     "final_resolution": "The derivative of the function",
+     "notes": "",
+     "keywords": [
+      "definition of the derivative"
+     ],
+     "distractors": [
+      "The average rate of change",
+      "The area under the graph",
+      "The edge of an interval of continuity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Had-e nesbat-e taghyir-e tabe (Δy) be taghyir-e moteghayer (Δx) vaghti Δx be sefr meyl mikonad, kodam mafhoom ast?",
+     "grading_key": "- [1] Moshtagh-e tabe",
+     "final_resolution": "Moshtagh-e tabe",
+     "notes": "",
+     "keywords": [
+      "taarif-e moshtagh"
+     ],
+     "distractors": [
+      "Ahang-e motavasset-e taghyir",
+      "Masahat-e zir-e nemoodar",
+      "Marz-e baze-ye peyvastegi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 951,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (حد بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Infinite Limits)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Had-e Bi-nahayat)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = 1/x²⁩ وقتی ⁦x⁩ از چپ یا راست به صفر نزدیک می‌شود، کدام است؟",
+     "grading_key": "- [1] ⁦+∞⁩",
+     "final_resolution": "⁦+∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦−∞⁩",
+      "⁦0⁩",
+      "⁦1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = 1/x² as x approaches zero from either side?",
+     "grading_key": "- [1] +∞",
+     "final_resolution": "+∞",
+     "notes": "",
+     "keywords": [
+      "infinite limits"
+     ],
+     "distractors": [
+      "−∞",
+      "0",
+      "1"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = 1/x² vaghti x az chap ya rast be sefr nazdik mishavad, kodam ast?",
+     "grading_key": "- [1] +∞",
+     "final_resolution": "+∞",
+     "notes": "",
+     "keywords": [
+      "had-e bi-nahayat"
+     ],
+     "distractors": [
+      "−∞",
+      "0",
+      "1"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 951,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (واژگان و ترجمه)",
+    "en": "Lesson 1: Religion and Religiosity (Vocabulary and Translation)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Vazhegan va Tarjome)",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «العَفو» در عبارت زیر کدام است؟\n«عَلیکَ بِالعَفوِ عِندَ المَقدِرَةِ.»",
+     "grading_key": "- [1] گذشت و بخشش",
+     "final_resolution": "گذشت و بخشش",
+     "notes": "",
+     "keywords": [
+      "العَفو"
+     ],
+     "distractors": [
+      "کیفر",
+      "دادگری",
+      "فروخوردن خشم"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «العَفو» mean in this saying?\n«عَلیکَ بِالعَفوِ عِندَ المَقدِرَةِ.»",
+     "grading_key": "- [1] Forgiveness, pardon",
+     "final_resolution": "Forgiveness, pardon",
+     "notes": "",
+     "keywords": [
+      "al-afw (forgiveness)"
+     ],
+     "distractors": [
+      "Punishment",
+      "Justice",
+      "Holding back anger"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «al-afw» dar ebarat-e zir kodam ast?\n«عَلیکَ بِالعَفوِ عِندَ المَقدِرَةِ.»",
+     "grading_key": "- [1] Gozasht va bakhshesh",
+     "final_resolution": "Gozasht va bakhshesh",
+     "notes": "",
+     "keywords": [
+      "al-afw"
+     ],
+     "distractors": [
+      "Keyfar",
+      "Dadgari",
+      "Foroo-khordan-e khashm"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 951,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (حروف مشبهة بالفعل)",
+    "en": "Lesson 1: Religion and Religiosity (Particles Resembling Verbs)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Horoof-e Moshabbaha bel-Fe'l)",
+    "pages": "8–10"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "در عربی ۳، حرف «إنَّ» از حروف مشبهة بالفعل، چه معنایی به جملهٔ اسمیه می‌افزاید؟",
+     "grading_key": "- [1] تأکید",
+     "final_resolution": "تأکید",
+     "notes": "",
+     "keywords": [
+      "حروف مشبهة بالفعل"
+     ],
+     "distractors": [
+      "شک و تردید",
+      "شرط",
+      "آرزو (تمنّی)"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "In Arabic 3, what meaning does «إنَّ», one of the particles resembling verbs, add to a nominal sentence?",
+     "grading_key": "- [1] Emphasis (ta'kid)",
+     "final_resolution": "Emphasis (ta'kid)",
+     "notes": "",
+     "keywords": [
+      "particles resembling verbs (inna and her sisters)"
+     ],
+     "distractors": [
+      "Doubt",
+      "Condition",
+      "Wishing (tamanni)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Dar Arabi 3, harf-e «inna» az horoof-e moshabbaha bel-fe'l, che manayi be jomle-ye esmie miafzayad?",
+     "grading_key": "- [1] Ta'kid",
+     "final_resolution": "Ta'kid",
+     "notes": "",
+     "keywords": [
+      "horoof-e moshabbaha bel-fe'l"
+     ],
+     "distractors": [
+      "Shak va tardid",
+      "Shart",
+      "Arezoo (tamanni)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 951,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan va Tarjome)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَفَعَ» در حدیث زیر کدام است؟\n«خَیرُ النّاسِ مَن نَفَعَ النّاسَ.»",
+     "grading_key": "- [1] سود رساند",
+     "final_resolution": "سود رساند",
+     "notes": "",
+     "keywords": [
+      "نَفَعَ"
+     ],
+     "distractors": [
+      "زیان رساند",
+      "ستایش کرد",
+      "آموزش داد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does the verb «نَفَعَ» mean in this hadith?\n«خَیرُ النّاسِ مَن نَفَعَ النّاسَ.»",
+     "grading_key": "- [1] Benefited",
+     "final_resolution": "Benefited",
+     "notes": "",
+     "keywords": [
+      "nafa'a (benefited)"
+     ],
+     "distractors": [
+      "Harmed",
+      "Praised",
+      "Taught"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «nafa'a» dar hadis-e zir kodam ast?\n«خَیرُ النّاسِ مَن نَفَعَ النّاسَ.»",
+     "grading_key": "- [1] Sood resand",
+     "final_resolution": "Sood resand",
+     "notes": "",
+     "keywords": [
+      "nafa'a"
+     ],
+     "distractors": [
+      "Ziyan resand",
+      "Setayesh kard",
+      "Amoozesh dad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 951,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (لای نفی جنس)",
+    "en": "Arabic 3 (The La of Absolute Negation)",
+    "tr": "Arabi 3 (La-ye Nafy-e Jens)",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "حرف «لا» در عبارت «لا اِکْراهَ فِی الدّینِ» کدام است؟",
+     "grading_key": "- [1] لای نفی جنس",
+     "final_resolution": "لای نفی جنس",
+     "notes": "",
+     "keywords": [
+      "لای نفی جنس"
+     ],
+     "distractors": [
+      "لای نهی",
+      "لای نفی فعل",
+      "حرف استفهام"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which kind of «لا» is it in «لا اِکْراهَ فِی الدّینِ»?",
+     "grading_key": "- [1] La of absolute negation (la-ye nafy-e jens)",
+     "final_resolution": "La of absolute negation (la-ye nafy-e jens)",
+     "notes": "",
+     "keywords": [
+      "la of absolute negation"
+     ],
+     "distractors": [
+      "Prohibitive la (la-ye nahy)",
+      "La negating a verb",
+      "An interrogative particle"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Harf-e «la» dar ebarat-e «لا اِکْراهَ فِی الدّینِ» kodam ast?",
+     "grading_key": "- [1] La-ye nafy-e jens",
+     "final_resolution": "La-ye nafy-e jens",
+     "notes": "",
+     "keywords": [
+      "la-ye nafy-e jens"
+     ],
+     "distractors": [
+      "La-ye nahy",
+      "La-ye nafy-e fe'l",
+      "Harf-e estefham"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 951,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: شکر نعمت (قلمرو زبانی: واژگان)",
+    "en": "Lesson 1: Gratitude for Blessings (Vocabulary)",
+    "tr": "Dars 1: Shokr-e Nemat (Vazhegan)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای واژهٔ «صهبا» در ادب فارسی چیست؟",
+     "grading_key": "- [1] شراب سرخ",
+     "final_resolution": "شراب سرخ",
+     "notes": "",
+     "keywords": [
+      "صهبا"
+     ],
+     "distractors": [
+      "نسیم سحری",
+      "عسل ناب",
+      "ابر تیره"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "In classical Persian, what does the word «صهبا» mean?",
+     "grading_key": "- [1] Red wine",
+     "final_resolution": "Red wine",
+     "notes": "",
+     "keywords": [
+      "sahba (red wine)"
+     ],
+     "distractors": [
+      "Morning breeze",
+      "Pure honey",
+      "Dark cloud"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye vazhe-ye «sahba» dar adab-e Farsi chist?",
+     "grading_key": "- [1] Sharab-e sorkh",
+     "final_resolution": "Sharab-e sorkh",
+     "notes": "",
+     "keywords": [
+      "sahba"
+     ],
+     "distractors": [
+      "Nasim-e sahari",
+      "Asal-e nab",
+      "Abr-e tire"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 951,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: دماوندیه (قلمرو زبانی: املای واژگان)",
+    "en": "Lesson 4: Damavandiyeh (Spelling)",
+    "tr": "Dars 4: Damavandiyeh (Emla)",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «پاشیده‌شده» است، کدام است؟",
+     "grading_key": "- [1] افشانده",
+     "final_resolution": "افشانده",
+     "notes": "",
+     "keywords": [
+      "افشانده"
+     ],
+     "distractors": [
+      "افشاده",
+      "اعشانده",
+      "هفشانده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'scattered, sprinkled'?",
+     "grading_key": "- [1] افشانده",
+     "final_resolution": "افشانده",
+     "notes": "",
+     "keywords": [
+      "scattered (afshande)"
+     ],
+     "distractors": [
+      "افشاده",
+      "اعشانده",
+      "هفشانده"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'pashide-shode' ast, kodam ast?",
+     "grading_key": "- [1] افشانده",
+     "final_resolution": "افشانده",
+     "notes": "",
+     "keywords": [
+      "afshande"
+     ],
+     "distractors": [
+      "افشاده",
+      "اعشانده",
+      "هفشانده"
+     ]
+    }
+   }
+  }
+ ]
+}
