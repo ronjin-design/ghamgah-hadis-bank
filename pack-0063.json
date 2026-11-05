@@ -1,0 +1,508 @@
+{
+ "version": 63,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 956,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (5x² − 3)/(2x² + x)⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦5/2⁩",
+     "final_resolution": "⁦5/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (5x² − 3)/(2x² + x) as x tends to +∞?",
+     "grading_key": "- [1] ⁦5/2⁩",
+     "final_resolution": "⁦5/2⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (5x² − 3)/(2x² + x) vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦5/2⁩",
+     "final_resolution": "⁦5/2⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 956,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق توابع کسری)",
+    "en": "Chapter 4: Derivatives (Derivatives of Quotients)",
+    "tr": "Fasl 4: Moshtagh (Kasri)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = 1/x⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−1/x²⁩",
+     "final_resolution": "⁦−1/x²⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق توابع کسری"
+     ],
+     "distractors": [
+      "⁦1/x²⁩",
+      "⁦ln x⁩",
+      "⁦1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = 1/x?",
+     "grading_key": "- [1] ⁦−1/x²⁩",
+     "final_resolution": "⁦−1/x²⁩",
+     "notes": "",
+     "keywords": [
+      "quotient rule"
+     ],
+     "distractors": [
+      "⁦1/x²⁩",
+      "⁦ln x⁩",
+      "⁦1⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = 1/x kodam ast?",
+     "grading_key": "- [1] ⁦−1/x²⁩",
+     "final_resolution": "⁦−1/x²⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e kasri"
+     ],
+     "distractors": [
+      "⁦1/x²⁩",
+      "⁦ln x⁩",
+      "⁦1⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 956,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (توابع زوج و فرد)",
+    "en": "Chapter 1: Functions (Even and Odd Functions)",
+    "tr": "Fasl 1: Tabe (Zoj va Fard)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "نمودار یک تابع فرد (مانند ⁦f(x) = x³⁩) نسبت به کدام قرینه است؟",
+     "grading_key": "- [1] مبدأ مختصات",
+     "final_resolution": "مبدأ مختصات",
+     "notes": "",
+     "keywords": [
+      "تابع فرد"
+     ],
+     "distractors": [
+      "محور عرض‌ها",
+      "محور طول‌ها",
+      "خط ⁦y = x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "The graph of an odd function (such as f(x) = x³) is symmetric about what?",
+     "grading_key": "- [1] The origin",
+     "final_resolution": "The origin",
+     "notes": "",
+     "keywords": [
+      "odd function"
+     ],
+     "distractors": [
+      "The y-axis",
+      "The x-axis",
+      "The line y = x"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Nemoodar-e yek tabe-e fard (manand-e f(x) = x³) nesbat be kodam gharine ast?",
+     "grading_key": "- [1] Mabda-e mokhtasat",
+     "final_resolution": "Mabda-e mokhtasat",
+     "notes": "",
+     "keywords": [
+      "tabe-e fard"
+     ],
+     "distractors": [
+      "Mehvar-e arz-ha",
+      "Mehvar-e tool-ha",
+      "Khatt-e y = x"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 956,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (x² − 4)/(2x² + 7)⁩ وقتی ⁦x⁩ به ⁦−∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−4/7⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (x² − 4)/(2x² + 7) as x tends to −∞?",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−4/7⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (x² − 4)/(2x² + 7) vaghti x be −∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−4/7⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 956,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (ترکیب توابع)",
+    "en": "Chapter 1: Functions (Composition of Functions)",
+    "tr": "Fasl 1: Tabe (Tarkib)",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر ⁦f(x) = 2x⁩ و ⁦g(x) = x − 3⁩، ضابطهٔ ⁦(g∘f)(x)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2x − 3⁩",
+     "final_resolution": "⁦2x − 3⁩",
+     "notes": "",
+     "keywords": [
+      "ترکیب توابع"
+     ],
+     "distractors": [
+      "⁦2x − 6⁩",
+      "⁦2x + 3⁩",
+      "⁦x − 6⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If f(x) = 2x and g(x) = x − 3, what is (g∘f)(x)?",
+     "grading_key": "- [1] ⁦2x − 3⁩",
+     "final_resolution": "⁦2x − 3⁩",
+     "notes": "",
+     "keywords": [
+      "composition of functions"
+     ],
+     "distractors": [
+      "⁦2x − 6⁩",
+      "⁦2x + 3⁩",
+      "⁦x − 6⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar f(x) = 2x va g(x) = x − 3, zabete-ye (g∘f)(x) kodam ast?",
+     "grading_key": "- [1] ⁦2x − 3⁩",
+     "final_resolution": "⁦2x − 3⁩",
+     "notes": "",
+     "keywords": [
+      "tarkib-e tavabe"
+     ],
+     "distractors": [
+      "⁦2x − 6⁩",
+      "⁦2x + 3⁩",
+      "⁦x − 6⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 956,
+   "topic_tag": "modern-civilization",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱۰: تمدن جدید و مسئولیت ما",
+    "en": "Lesson 10: Modern Civilization and Our Responsibility",
+    "tr": "Dars 10: Tamaddon-e Jadid va Masooliyat-e Ma",
+    "pages": "114–116"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تمدن جدید و مسئولیت ما",
+     "question": "درست‌ترین شیوهٔ رویارویی مسلمانان با دستاوردهای تمدن جدید غرب کدام است؟",
+     "grading_key": "- [1] پذیرش گزینشی بر پایهٔ معیارهای اسلامی",
+     "final_resolution": "پذیرش گزینشی بر پایهٔ معیارهای اسلامی",
+     "notes": "",
+     "keywords": [
+      "رویارویی با تمدن جدید"
+     ],
+     "distractors": [
+      "پذیرش کامل و بی‌قیدوشرط",
+      "رد کامل همهٔ دستاوردها",
+      "همانندشدن منفعلانه و سطحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Civilization and Our Responsibility",
+     "question": "What is the right way for Muslims to meet the achievements of modern Western civilization?",
+     "grading_key": "- [1] Selective acceptance by Islamic standards",
+     "final_resolution": "Selective acceptance by Islamic standards",
+     "notes": "",
+     "keywords": [
+      "facing modern civilization"
+     ],
+     "distractors": [
+      "Complete, unconditional acceptance",
+      "Rejecting every achievement outright",
+      "Passive, shallow imitation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamaddon-e Jadid va Masooliyat-e Ma",
+     "question": "Dorost-tarin shive-ye rooyarooyi-ye mosalmanan ba dastavard-haye tamaddon-e jadid-e gharb kodam ast?",
+     "grading_key": "- [1] Paziresh-e gozineshi bar paye-ye meyar-haye eslami",
+     "final_resolution": "Paziresh-e gozineshi bar paye-ye meyar-haye eslami",
+     "notes": "",
+     "keywords": [
+      "rooyarooyi ba tamaddon-e jadid"
+     ],
+     "distractors": [
+      "Paziresh-e kamel va bi-ghayd-o-shart",
+      "Radd-e kamel-e hame-ye dastavard-ha",
+      "Hamanand-shodan-e monfaelane va sathi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 956,
+   "topic_tag": "divine-laws",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: سنت‌های خداوند در زندگی (سنت امداد)",
+    "en": "Lesson 6: Divine Laws in Life (Divine Help)",
+    "tr": "Dars 6: Sonnat-haye Khodavand (Emdad)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سنت‌های خداوند در زندگی",
+     "question": "بهره‌مند کردن همهٔ انسان‌ها، چه نیکوکار و چه بدکار، از امکانات دنیا بر پایهٔ تلاش خودشان، کدام سنت الهی است؟",
+     "grading_key": "- [1] سنت امداد عام",
+     "final_resolution": "سنت امداد عام",
+     "notes": "",
+     "keywords": [
+      "سنت امداد"
+     ],
+     "distractors": [
+      "سنت استدراج",
+      "سنت ابتلا",
+      "سنت کیفر ویژه"
+     ]
+    },
+    "en": {
+     "topic_label": "Divine Laws in Life",
+     "question": "Giving every person, good or bad, the means of this world according to their own effort is which divine law?",
+     "grading_key": "- [1] Universal divine help (emdad-e am)",
+     "final_resolution": "Universal divine help (emdad-e am)",
+     "notes": "",
+     "keywords": [
+      "law of divine help (emdad)"
+     ],
+     "distractors": [
+      "Gradual entrapment (estedraj)",
+      "Trial (ebtela)",
+      "Special punishment"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sonnat-haye Khodavand dar Zendegi",
+     "question": "Bahremand kardan-e hame-ye ensan-ha, che nikookar va che badkar, az emkanat-e donya bar paye-ye talash-e khodeshan, kodam sonnat-e elahi ast?",
+     "grading_key": "- [1] Sonnat-e emdad-e am",
+     "final_resolution": "Sonnat-e emdad-e am",
+     "notes": "",
+     "keywords": [
+      "sonnat-e emdad"
+     ],
+     "distractors": [
+      "Sonnat-e estedraj",
+      "Sonnat-e ebtela",
+      "Sonnat-e keyfar-e vizhe"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Dey",
+   "number": 956,
+   "topic_tag": "repentance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: بازگشت (مراحل توبه)",
+    "en": "Lesson 7: The Return (Steps of Repentance)",
+    "tr": "Dars 7: Bazgasht (Marahel-e Towbe)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بازگشت",
+     "question": "نخستین و بنیادی‌ترین گام توبهٔ واقعی کدام است؟",
+     "grading_key": "- [1] پشیمانی از گناه",
+     "final_resolution": "پشیمانی از گناه",
+     "notes": "",
+     "keywords": [
+      "مراحل توبه"
+     ],
+     "distractors": [
+      "جبران حقوق مالی مردم",
+      "استغفار به زبان",
+      "انجام کارهای نیک داوطلبانه"
+     ]
+    },
+    "en": {
+     "topic_label": "The Return (Repentance)",
+     "question": "What is the first and most basic step of true repentance?",
+     "grading_key": "- [1] Regret for the sin",
+     "final_resolution": "Regret for the sin",
+     "notes": "",
+     "keywords": [
+      "steps of repentance"
+     ],
+     "distractors": [
+      "Making good people's financial rights",
+      "Asking forgiveness aloud (istighfar)",
+      "Doing voluntary good works"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bazgasht",
+     "question": "Nakhostin va bonyadi-tarin gam-e towbe-ye vaghei kodam ast?",
+     "grading_key": "- [1] Pashimani az gonah",
+     "final_resolution": "Pashimani az gonah",
+     "notes": "",
+     "keywords": [
+      "marahel-e towbe"
+     ],
+     "distractors": [
+      "Jobran-e hoghoogh-e mali-ye mardom",
+      "Esteghfar be zaban",
+      "Anjam-e kar-haye nik-e davtalabane"
+     ]
+    }
+   }
+  }
+ ]
+}
