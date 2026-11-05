@@ -1,0 +1,1197 @@
+{
+ "version": 64,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 957,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (6x² − x)/(3x² + 5)⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1/5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (6x² − x)/(3x² + 5) as x tends to +∞?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1/5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (6x² − x)/(3x² + 5) vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1/5⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 957,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (قاعدهٔ زنجیره‌ای)",
+    "en": "Chapter 4: Derivatives (The Chain Rule)",
+    "tr": "Fasl 4: Moshtagh (Zanjirei)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = √(2x + 1)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦1/√(2x + 1)⁩",
+     "final_resolution": "⁦1/√(2x + 1)⁩",
+     "notes": "",
+     "keywords": [
+      "قاعدهٔ زنجیره‌ای"
+     ],
+     "distractors": [
+      "⁦1/(2√(2x + 1))⁩",
+      "⁦2/√(2x + 1)⁩",
+      "⁦√(2x + 1)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = √(2x + 1)?",
+     "grading_key": "- [1] ⁦1/√(2x + 1)⁩",
+     "final_resolution": "⁦1/√(2x + 1)⁩",
+     "notes": "",
+     "keywords": [
+      "chain rule"
+     ],
+     "distractors": [
+      "⁦1/(2√(2x + 1))⁩",
+      "⁦2/√(2x + 1)⁩",
+      "⁦√(2x + 1)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = √(2x + 1) kodam ast?",
+     "grading_key": "- [1] ⁦1/√(2x + 1)⁩",
+     "final_resolution": "⁦1/√(2x + 1)⁩",
+     "notes": "",
+     "keywords": [
+      "ghaede-ye zanjirei"
+     ],
+     "distractors": [
+      "⁦1/(2√(2x + 1))⁩",
+      "⁦2/√(2x + 1)⁩",
+      "⁦√(2x + 1)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 957,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (توابع صعودی و نزولی)",
+    "en": "Chapter 1: Functions (Increasing and Decreasing Functions)",
+    "tr": "Fasl 1: Tabe (Sooudi va Nozooli)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر در یک بازه، با افزایش ⁦x⁩ مقدار ⁦f(x)⁩ هرگز کم نشود (بزرگ‌تر یا مساوی مقدار پیشین باشد)، تابع در آن بازه چه نام دارد؟",
+     "grading_key": "- [1] صعودی",
+     "final_resolution": "صعودی",
+     "notes": "",
+     "keywords": [
+      "تابع صعودی"
+     ],
+     "distractors": [
+      "اکیداً صعودی",
+      "نزولی",
+      "اکیداً نزولی"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If on an interval f(x) never goes down as x increases (each value is greater than or equal to the one before), what is the function called there?",
+     "grading_key": "- [1] Increasing (non-decreasing)",
+     "final_resolution": "Increasing (non-decreasing)",
+     "notes": "",
+     "keywords": [
+      "increasing (non-decreasing) function"
+     ],
+     "distractors": [
+      "Strictly increasing",
+      "Decreasing",
+      "Strictly decreasing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar dar yek baze, ba afzayesh-e x meghdar-e f(x) hargez kam nashavad, tabe dar an baze che nam darad?",
+     "grading_key": "- [1] Sooudi",
+     "final_resolution": "Sooudi",
+     "notes": "",
+     "keywords": [
+      "tabe-e sooudi"
+     ],
+     "distractors": [
+      "Akidan sooudi",
+      "Nozooli",
+      "Akidan nozooli"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 957,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۱: حد بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 1)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 1)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = 1/(x − 2)⁩ وقتی ⁦x⁩ از راست به ۲ نزدیک می‌شود، کدام است؟",
+     "grading_key": "- [1] ⁦+∞⁩",
+     "final_resolution": "⁦+∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦−∞⁩",
+      "⁦0⁩",
+      "⁦1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = 1/(x − 2) as x approaches 2 from the right?",
+     "grading_key": "- [1] ⁦+∞⁩",
+     "final_resolution": "⁦+∞⁩",
+     "notes": "",
+     "keywords": [
+      "infinite limits"
+     ],
+     "distractors": [
+      "⁦−∞⁩",
+      "⁦0⁩",
+      "⁦1⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = 1/(x − 2) vaghti x az rast be 2 nazdik mishavad, kodam ast?",
+     "grading_key": "- [1] ⁦+∞⁩",
+     "final_resolution": "⁦+∞⁩",
+     "notes": "",
+     "keywords": [
+      "had-e bi-nahayat"
+     ],
+     "distractors": [
+      "⁦−∞⁩",
+      "⁦0⁩",
+      "⁦1⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 957,
+   "topic_tag": "divine-rulings",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: زندگی در دنیای امروز و عمل به احکام الهی",
+    "en": "Lesson 8: Life Today and Following the Divine Rulings",
+    "tr": "Dars 8: Zendegi dar Donya-ye Emrooz",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "زندگی در دنیای امروز و عمل به احکام الهی",
+     "question": "بنابر درس هشتم، عمل به احکام الهی در زندگی امروز بیش از هر چیز به چه کار می‌آید؟",
+     "grading_key": "- [1] حفظ کرامت و آزادی واقعی انسان",
+     "final_resolution": "حفظ کرامت و آزادی واقعی انسان",
+     "notes": "",
+     "keywords": [
+      "عمل به احکام الهی"
+     ],
+     "distractors": [
+      "جدا کردن مسلمانان از تجارت جهانی",
+      "پایبندی به آیین‌ها و رکود",
+      "کنار گذاشتن پیشرفت علمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Life Today and Following the Divine Rulings",
+     "question": "By lesson eight, what does following the divine rulings in today's life serve above all?",
+     "grading_key": "- [1] Keeping human dignity and true freedom",
+     "final_resolution": "Keeping human dignity and true freedom",
+     "notes": "",
+     "keywords": [
+      "following the divine rulings"
+     ],
+     "distractors": [
+      "Cutting Muslims off from world trade",
+      "Clinging to ritual and standing still",
+      "Setting scientific progress aside"
+     ]
+    },
+    "tr": {
+     "topic_label": "Zendegi dar Donya-ye Emrooz",
+     "question": "Bena bar dars-e hashtom, amal be ahkam-e elahi dar zendegi-ye emrooz bish az har chiz be che kar miayad?",
+     "grading_key": "- [1] Hefz-e keramat va azadi-ye vaghei-ye ensan",
+     "final_resolution": "Hefz-e keramat va azadi-ye vaghei-ye ensan",
+     "notes": "",
+     "keywords": [
+      "amal be ahkam-e elahi"
+     ],
+     "distractors": [
+      "Joda kardan-e mosalmanan az tejarat-e jahani",
+      "Paybandi be ayin-ha va rokood",
+      "Kenar gozashtan-e pishraft-e elmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 957,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: یگانهٔ بی‌همتا (توحید در مالکیت)",
+    "en": "Lesson 2: The Matchless One (Monotheism in Ownership)",
+    "tr": "Dars 2: Yegane-ye Bi-hamta (Malekiyat)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "باور به اینکه همهٔ موجودات جهان ملک حقیقی خداوندند و تصرف در آن‌ها بی‌اجازهٔ او روا نیست، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در مالکیت",
+     "final_resolution": "توحید در مالکیت",
+     "notes": "",
+     "keywords": [
+      "توحید در مالکیت"
+     ],
+     "distractors": [
+      "توحید در خالقیت",
+      "توحید در ربوبیت",
+      "توحید ذاتی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "The belief that everything in the world truly belongs to God, and may not be used without His leave, is which rank of monotheism?",
+     "grading_key": "- [1] Monotheism in ownership (malekiyyat)",
+     "final_resolution": "Monotheism in ownership (malekiyyat)",
+     "notes": "",
+     "keywords": [
+      "monotheism in ownership"
+     ],
+     "distractors": [
+      "Monotheism in creation",
+      "Monotheism in lordship",
+      "Monotheism of the essence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Bavar be inke hame-ye mojoodat-e jahan melk-e haghighi-ye Khodavand-and va tasarrof dar anha bi ejaze-ye oo rava nist, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar malekiyat",
+     "final_resolution": "Towhid dar malekiyat",
+     "notes": "",
+     "keywords": [
+      "towhid dar malekiyat"
+     ],
+     "distractors": [
+      "Towhid dar khaleghiyat",
+      "Towhid dar robubiyat",
+      "Towhid-e zati"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 957,
+   "topic_tag": "sincerity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: فقط برای تو (ثمرات اخلاص)",
+    "en": "Lesson 4: Only for You (Fruits of Sincerity)",
+    "tr": "Dars 4: Faghat Baraye To (Samarat-e Ekhlas)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فقط برای تو",
+     "question": "بنابر درس چهارم، میوه‌های اخلاص در بندگی کدام است؟",
+     "grading_key": "- [1] در امان ماندن از نفوذ شیطان و دستیابی به حکمت",
+     "final_resolution": "در امان ماندن از نفوذ شیطان و دستیابی به حکمت",
+     "notes": "",
+     "keywords": [
+      "ثمرات اخلاص"
+     ],
+     "distractors": [
+      "نفوذ سیاسی جهانی",
+      "ثروت گذرا",
+      "رها شدن از همهٔ مسئولیت‌های دنیا"
+     ]
+    },
+    "en": {
+     "topic_label": "Only for You (Sincerity)",
+     "question": "By lesson four, what are the fruits of sincerity in worship?",
+     "grading_key": "- [1] Being beyond the Devil's reach and gaining wisdom",
+     "final_resolution": "Being beyond the Devil's reach and gaining wisdom",
+     "notes": "",
+     "keywords": [
+      "fruits of sincerity"
+     ],
+     "distractors": [
+      "Worldwide political influence",
+      "Passing wealth",
+      "Freedom from every worldly duty"
+     ]
+    },
+    "tr": {
+     "topic_label": "Faghat Baraye To",
+     "question": "Bena bar dars-e chaharom, mive-haye ekhlas dar bandegi kodam ast?",
+     "grading_key": "- [1] Dar aman mandan az nofooz-e sheytan va dastyabi be hekmat",
+     "final_resolution": "Dar aman mandan az nofooz-e sheytan va dastyabi be hekmat",
+     "notes": "",
+     "keywords": [
+      "samarat-e ekhlas"
+     ],
+     "distractors": [
+      "Nofooz-e siyasi-ye jahani",
+      "Servat-e gozara",
+      "Raha shodan az hame-ye masooliyat-haye donya"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 957,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «تَجْذِبُ» در عبارت زیر کدام است؟\n«تَجْذِبُ الْأَرْضُ الْأَجْسَامَ نَحْوَ مَرْکَزِهَا بِقُوَّةِ الْجَاذِبِیَّةِ.»",
+     "grading_key": "- [1] جذب می‌کند (می‌کشد)",
+     "final_resolution": "جذب می‌کند (می‌کشد)",
+     "notes": "",
+     "keywords": [
+      "تَجْذِبُ"
+     ],
+     "distractors": [
+      "دور می‌کند",
+      "می‌چرخد",
+      "می‌شکند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَجْذِبُ» mean in this sentence?\n«تَجْذِبُ الْأَرْضُ الْأَجْسَامَ نَحْوَ مَرْکَزِهَا بِقُوَّةِ الْجَاذِبِیَّةِ.»",
+     "grading_key": "- [1] Attracts (pulls)",
+     "final_resolution": "Attracts (pulls)",
+     "notes": "",
+     "keywords": [
+      "tajdhibu (attracts)"
+     ],
+     "distractors": [
+      "Pushes away",
+      "Rotates",
+      "Refracts"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «tajzibu» dar ebarat-e zir kodam ast?\n«تَجْذِبُ الْأَرْضُ الْأَجْسَامَ نَحْوَ مَرْکَزِهَا بِقُوَّةِ الْجَاذِبِیَّةِ.»",
+     "grading_key": "- [1] Jazb mikonad (mikeshad)",
+     "final_resolution": "Jazb mikonad (mikeshad)",
+     "notes": "",
+     "keywords": [
+      "tajzibu"
+     ],
+     "distractors": [
+      "Door mikonad",
+      "Micharkhad",
+      "Mishekanad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 957,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (حروف مشبهة بالفعل)",
+    "en": "Arabic 3 (Particles Resembling Verbs)",
+    "tr": "Arabi 3 (Horoof-e Moshabbaha bel-Fe'l)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "حرف «لَیْتَ» چه معنایی به جمله می‌دهد؟",
+     "grading_key": "- [1] تمنّی (آرزوی دست‌نیافتنی یا دور)",
+     "final_resolution": "تمنّی (آرزوی دست‌نیافتنی یا دور)",
+     "notes": "",
+     "keywords": [
+      "لَیْتَ"
+     ],
+     "distractors": [
+      "ترجّی (امید به امری شدنی)",
+      "تأکید",
+      "استدراک"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "What meaning does «لَیْتَ» give a sentence?",
+     "grading_key": "- [1] Wishing (tamanni) for the impossible or far-off",
+     "final_resolution": "Wishing (tamanni) for the impossible or far-off",
+     "notes": "",
+     "keywords": [
+      "layta (wishing)"
+     ],
+     "distractors": [
+      "Hope (tarajji) for something likely",
+      "Emphasis",
+      "Rectification (istidrak)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Harf-e «layta» che manayi be jomle midahad?",
+     "grading_key": "- [1] Tamanni (arezoo-ye dast-nayaftani)",
+     "final_resolution": "Tamanni (arezoo-ye dast-nayaftani)",
+     "notes": "",
+     "keywords": [
+      "layta"
+     ],
+     "distractors": [
+      "Tarajji (omid be amri shodani)",
+      "Ta'kid",
+      "Estedrak"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 957,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان)",
+    "en": "Arabic 3 (Vocabulary)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الشُّهُب» در عبارت زیر کدام است؟\n«تَظْهَرُ الشُّهُبُ فِی السَّمَاءِ کَخُطُوطٍ مُضِیئَةٍ.»",
+     "grading_key": "- [1] شهاب‌ها",
+     "final_resolution": "شهاب‌ها",
+     "notes": "",
+     "keywords": [
+      "الشُّهُب"
+     ],
+     "distractors": [
+      "دهانه‌های آتشفشان",
+      "سیاه‌چاله‌ها",
+      "جزر و مد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الشُّهُب» mean in this sentence?\n«تَظْهَرُ الشُّهُبُ فِی السَّمَاءِ کَخُطُوطٍ مُضِیئَةٍ.»",
+     "grading_key": "- [1] Meteors (shooting stars)",
+     "final_resolution": "Meteors (shooting stars)",
+     "notes": "",
+     "keywords": [
+      "shuhub (meteors)"
+     ],
+     "distractors": [
+      "Volcanic craters",
+      "Black holes",
+      "Tides"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ash-shuhub» dar ebarat-e zir kodam ast?\n«تَظْهَرُ الشُّهُبُ فِی السَّمَاءِ کَخُطُوطٍ مُضِیئَةٍ.»",
+     "grading_key": "- [1] Shahab-ha",
+     "final_resolution": "Shahab-ha",
+     "notes": "",
+     "keywords": [
+      "ash-shuhub"
+     ],
+     "distractors": [
+      "Dahane-haye atashfeshan",
+      "Siyah-chale-ha",
+      "Jazr va madd"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 957,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (اسم و خبر حروف مشبهة بالفعل)",
+    "en": "Arabic 3 (Noun and Predicate of Inna)",
+    "tr": "Arabi 3 (Esm va Khabar-e Inna)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "در جملهٔ «إنَّ الْعِلْمَ نُورٌ»، اسم منصوبِ «إنَّ» کدام است؟",
+     "grading_key": "- [1] الْعِلْمَ",
+     "final_resolution": "الْعِلْمَ",
+     "notes": "",
+     "keywords": [
+      "اسم إنَّ"
+     ],
+     "distractors": [
+      "نُورٌ",
+      "إنَّ",
+      "ضمیر پنهان"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "In «إنَّ الْعِلْمَ نُورٌ», which word is the accusative noun of «إنَّ»?",
+     "grading_key": "- [1] الْعِلْمَ",
+     "final_resolution": "الْعِلْمَ",
+     "notes": "",
+     "keywords": [
+      "the noun of inna"
+     ],
+     "distractors": [
+      "نُورٌ",
+      "إنَّ",
+      "ضمیر پنهان"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Dar jomle-ye «إنَّ الْعِلْمَ نُورٌ», esm-e mansoob-e «inna» kodam ast?",
+     "grading_key": "- [1] الْعِلْمَ",
+     "final_resolution": "الْعِلْمَ",
+     "notes": "",
+     "keywords": [
+      "esm-e inna"
+     ],
+     "distractors": [
+      "نُورٌ",
+      "إنَّ",
+      "ضمیر پنهان"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 957,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (نظام‌های سکولار)",
+    "en": "Lesson 8: Politics and the Political System (Secular Systems)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌های سیاسی‌ای که هدف نهایی خود را تنها تأمین آزادی‌های فردی و منافع مادی دنیوی می‌دانند و ارزش‌های الهی را کنار می‌گذارند، چه نام دارند؟",
+     "grading_key": "- [1] نظام‌های سکولار (لیبرال)",
+     "final_resolution": "نظام‌های سکولار (لیبرال)",
+     "notes": "",
+     "keywords": [
+      "نظام سیاسی سکولار"
+     ],
+     "distractors": [
+      "نظام‌های دینی",
+      "پادشاهی‌های مطلقهٔ سنتی",
+      "حکومت‌های الهی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are political systems called that take individual freedoms and worldly material interests as their final aim and set divine values aside?",
+     "grading_key": "- [1] Secular (liberal) systems",
+     "final_resolution": "Secular (liberal) systems",
+     "notes": "",
+     "keywords": [
+      "secular political system"
+     ],
+     "distractors": [
+      "Religious systems",
+      "Traditional absolute monarchies",
+      "Divine governments"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-haye siyasi-i ke hadaf-e nahayi-ye khod ra tanha tamin-e azadi-haye fardi va manafe-e maddi-ye donyavi midanand, che nam darand?",
+     "grading_key": "- [1] Nezam-haye sekolar (liberal)",
+     "final_resolution": "Nezam-haye sekolar (liberal)",
+     "notes": "",
+     "keywords": [
+      "nezam-e siyasi-ye sekolar"
+     ],
+     "distractors": [
+      "Nezam-haye dini",
+      "Padeshahi-haye motlaghe-ye sonnati",
+      "Hokoomat-haye elahi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 957,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (اقتدار کاریزمایی)",
+    "en": "Lesson 7: Authority and Acceptance (Charismatic Authority)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "اقتداری که بر پایهٔ ویژگی‌های اخلاقی، معنوی یا شخصیتی فوق‌العادهٔ یک رهبر شکل می‌گیرد، چه نام دارد؟",
+     "grading_key": "- [1] اقتدار کاریزمایی",
+     "final_resolution": "اقتدار کاریزمایی",
+     "notes": "",
+     "keywords": [
+      "اقتدار کاریزمایی"
+     ],
+     "distractors": [
+      "اقتدار سنتی",
+      "اقتدار قانونی",
+      "سلطهٔ نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What is authority called that rests on a leader's extraordinary moral, spiritual or personal qualities?",
+     "grading_key": "- [1] Charismatic authority",
+     "final_resolution": "Charismatic authority",
+     "notes": "",
+     "keywords": [
+      "charismatic authority"
+     ],
+     "distractors": [
+      "Traditional authority",
+      "Legal authority",
+      "Military domination"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Eghtedari ke bar paye-ye vizhegi-haye akhlaghi, manavi ya shakhsiyati-ye fogh-ol-ade-ye yek rahbar shekl migirad, che nam darad?",
+     "grading_key": "- [1] Eghtedar-e karizmayi",
+     "final_resolution": "Eghtedar-e karizmayi",
+     "notes": "",
+     "keywords": [
+      "eghtedar-e karizmayi"
+     ],
+     "distractors": [
+      "Eghtedar-e sonnati",
+      "Eghtedar-e ghanooni",
+      "Solte-ye nezami"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 957,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی (ابزارهای قدرت)",
+    "en": "Lesson 6: Social Power (Means of Power)",
+    "tr": "Dars 6: Ghodrat-e Ejtemai",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "پایدارترین ابزار اعمال قدرت اجتماعی، که با اقناع ذهن و پذیرش قلبی، اراده‌ها را همراه می‌کند، کدام است؟",
+     "grading_key": "- [1] ارزش‌ها، آگاهی و اقناع فرهنگی",
+     "final_resolution": "ارزش‌ها، آگاهی و اقناع فرهنگی",
+     "notes": "",
+     "keywords": [
+      "ابزار پایدار قدرت"
+     ],
+     "distractors": [
+      "سلاح و زور",
+      "ثروت و جریمه",
+      "تهدیدهای اداری"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "Which is the most lasting means of exercising social power, winning wills over through persuasion and inner acceptance?",
+     "grading_key": "- [1] Values, awareness and cultural persuasion",
+     "final_resolution": "Values, awareness and cultural persuasion",
+     "notes": "",
+     "keywords": [
+      "lasting means of power"
+     ],
+     "distractors": [
+      "Weapons and force",
+      "Wealth and fines",
+      "Administrative threats"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Payedar-tarin abzar-e emal-e ghodrat-e ejtemai, ke ba eghna-e zehn va paziresh-e ghalbi, erade-ha ra hamrah mikonad, kodam ast?",
+     "grading_key": "- [1] Arzesh-ha, agahi va eghna-e farhangi",
+     "final_resolution": "Arzesh-ha, agahi va eghna-e farhangi",
+     "notes": "",
+     "keywords": [
+      "abzar-e payedar-e ghodrat"
+     ],
+     "distractors": [
+      "Selah va zoor",
+      "Servat va jarime",
+      "Tahdid-haye edari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 957,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (اقتدار قانونی)",
+    "en": "Lesson 7: Authority and Acceptance (Legal Authority)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "48–51"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "هرگاه مشروعیت یک حاکمیت تنها بر پایهٔ قوانین مکتوب و روال‌های اداری تعریف شود، این اقتدار چه نام دارد؟",
+     "grading_key": "- [1] اقتدار قانونی (عقلانی)",
+     "final_resolution": "اقتدار قانونی (عقلانی)",
+     "notes": "",
+     "keywords": [
+      "اقتدار قانونی"
+     ],
+     "distractors": [
+      "اقتدار سنتی",
+      "اقتدار کاریزمایی",
+      "دیکتاتوری نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "When a government's legitimacy rests only on written laws and administrative procedure, what kind of authority is it?",
+     "grading_key": "- [1] Rational-legal authority",
+     "final_resolution": "Rational-legal authority",
+     "notes": "",
+     "keywords": [
+      "rational-legal authority"
+     ],
+     "distractors": [
+      "Traditional authority",
+      "Charismatic authority",
+      "Military dictatorship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Hargah mashrooiyat-e yek hakemiyat tanha bar paye-ye ghavanin-e maktoob va ravval-haye edari tarif shavad, in eghtedar che nam darad?",
+     "grading_key": "- [1] Eghtedar-e ghanooni (aghlani)",
+     "final_resolution": "Eghtedar-e ghanooni (aghlani)",
+     "notes": "",
+     "keywords": [
+      "eghtedar-e ghanooni"
+     ],
+     "distractors": [
+      "Eghtedar-e sonnati",
+      "Eghtedar-e karizmayi",
+      "Diktatori-ye nezami"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 957,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (دیابت)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (Diabetes)",
+    "tr": "Fasl 3: Bimari-ha (Diabet)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام بیماری مزمن متابولیک، ناتوانی یاخته‌های بدن در جذب گلوکز به‌دلیل کمبود انسولین یا مقاومت به آن است؟",
+     "grading_key": "- [1] دیابت شیرین",
+     "final_resolution": "دیابت شیرین",
+     "notes": "",
+     "keywords": [
+      "دیابت"
+     ],
+     "distractors": [
+      "پرکاری تیروئید",
+      "کم‌خونی مزمن",
+      "فشار خون بالا"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which long-term metabolic disease is the body cells' failure to take up glucose because of too little insulin or resistance to it?",
+     "grading_key": "- [1] Diabetes mellitus",
+     "final_resolution": "Diabetes mellitus",
+     "notes": "",
+     "keywords": [
+      "diabetes"
+     ],
+     "distractors": [
+      "Hyperthyroidism",
+      "Chronic anaemia",
+      "High blood pressure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam bimari-ye mozmen-e metabolik, natavani-ye yakhte-haye badan dar jazb-e glucose be dalil-e kambood-e insulin ya moghavemat be an ast?",
+     "grading_key": "- [1] Diabet-e shirin",
+     "final_resolution": "Diabet-e shirin",
+     "notes": "",
+     "keywords": [
+      "diabet"
+     ],
+     "distractors": [
+      "Porkari-ye tiroeid",
+      "Kam-khooni-ye mozmen",
+      "Feshar-e khoon-e bala"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 957,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (دخانیات)",
+    "en": "Chapter 1: Health and Lifestyle (Tobacco)",
+    "tr": "Fasl 1: Salamat (Dokhaniyat)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "کدام گاز بی‌رنگ و بی‌بوی دود سیگار و قلیان، با اتصال پایدار به هموگلوبین، رسیدن اکسیژن به بافت‌ها را مختل می‌کند؟",
+     "grading_key": "- [1] کربن مونوکسید (⁦CO⁩)",
+     "final_resolution": "کربن مونوکسید (⁦CO⁩)",
+     "notes": "",
+     "keywords": [
+      "کربن مونوکسید"
+     ],
+     "distractors": [
+      "کربن دی‌اکسید (⁦CO₂⁩)",
+      "نیتروژن",
+      "گوگرد دی‌اکسید"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "Which colourless, odourless gas in cigarette and hookah smoke binds firmly to haemoglobin and stops oxygen reaching the tissues?",
+     "grading_key": "- [1] Carbon monoxide (CO)",
+     "final_resolution": "Carbon monoxide (CO)",
+     "notes": "",
+     "keywords": [
+      "carbon monoxide"
+     ],
+     "distractors": [
+      "Carbon dioxide (CO₂)",
+      "Nitrogen",
+      "Sulfur dioxide"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Kodam gaz-e bi-rang va bi-boo-ye dood-e sigar va ghalyan, ba ettesal-e payedar be hemoglobin, residan-e oksizhen be baft-ha ra mokhtal mikonad?",
+     "grading_key": "- [1] Karbon monoksid (CO)",
+     "final_resolution": "Karbon monoksid (CO)",
+     "notes": "",
+     "keywords": [
+      "karbon monoksid"
+     ],
+     "distractors": [
+      "Karbon dioksid (CO₂)",
+      "Nitrozhen",
+      "Gogerd dioksid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 957,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (مواد معدنی)",
+    "en": "Chapter 1: Health and Lifestyle (Minerals)",
+    "tr": "Fasl 1: Salamat (Mavad-e Madani)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کمبود کدام عنصر معدنی کم‌مقدار، علت اصلی کاهش ساخت هموگلوبین و کم‌خونی است؟",
+     "grading_key": "- [1] آهن",
+     "final_resolution": "آهن",
+     "notes": "",
+     "keywords": [
+      "کم‌خونی فقر آهن"
+     ],
+     "distractors": [
+      "کلسیم",
+      "روی",
+      "سدیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "A lack of which trace mineral is the main cause of reduced haemoglobin production and anaemia?",
+     "grading_key": "- [1] Iron",
+     "final_resolution": "Iron",
+     "notes": "",
+     "keywords": [
+      "iron-deficiency anaemia"
+     ],
+     "distractors": [
+      "Calcium",
+      "Zinc",
+      "Sodium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kambood-e kodam onsor-e madani-ye kam-meghdar, ellat-e asli-ye kahesh-e sakht-e hemoglobin va kam-khooni ast?",
+     "grading_key": "- [1] Ahan",
+     "final_resolution": "Ahan",
+     "notes": "",
+     "keywords": [
+      "kam-khooni-ye faghr-e ahan"
+     ],
+     "distractors": [
+      "Kalsiom",
+      "Rooy",
+      "Sodiom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 957,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: بهداشت محیط و کار (کمک‌های اولیه)",
+    "en": "Chapter 4: Environmental and Workplace Health (First Aid)",
+    "tr": "Fasl 4: Behdasht-e Mohit (Komak-haye Avvalie)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "برای نجات فردی که راه هوایی‌اش با جسم خارجی بسته شده و در حال خفگی است، کدام اقدام فوری انجام می‌شود؟",
+     "grading_key": "- [1] مانور هایملیک",
+     "final_resolution": "مانور هایملیک",
+     "notes": "",
+     "keywords": [
+      "مانور هایملیک"
+     ],
+     "distractors": [
+      "احیای قلبی‌ریوی (⁦CPR⁩)",
+      "وضعیت بهبود",
+      "ماساژ شریان گردن"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "Which immediate step is used to save someone choking on a foreign body blocking the airway?",
+     "grading_key": "- [1] The Heimlich manoeuvre",
+     "final_resolution": "The Heimlich manoeuvre",
+     "notes": "",
+     "keywords": [
+      "Heimlich manoeuvre"
+     ],
+     "distractors": [
+      "Cardiopulmonary resuscitation (CPR)",
+      "The recovery position",
+      "Neck-artery massage"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Baraye nejat-e fardi ke rah-e havayi-ash ba jesm-e khareji baste shode va dar hal-e khafegi ast, kodam eghdam-e fori anjam mishavad?",
+     "grading_key": "- [1] Manovr-e Heimlich",
+     "final_resolution": "Manovr-e Heimlich",
+     "notes": "",
+     "keywords": [
+      "manovr-e Heimlich"
+     ],
+     "distractors": [
+      "Ehya-ye ghalbi-riyavi (CPR)",
+      "Vaziyat-e behbood",
+      "Masazh-e sharyan-e gardan"
+     ]
+    }
+   }
+  }
+ ]
+}
