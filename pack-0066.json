@@ -1,0 +1,953 @@
+{
+ "version": 66,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 959,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (3x − 5)/(x² + 1)⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦3⁩",
+      "⁦+∞⁩",
+      "⁦−5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (3x − 5)/(x² + 1) as x tends to +∞?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦3⁩",
+      "⁦+∞⁩",
+      "⁦−5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (3x − 5)/(x² + 1) vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦3⁩",
+      "⁦+∞⁩",
+      "⁦−5⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 959,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق توابع مثلثاتی)",
+    "en": "Chapter 4: Derivatives (Trigonometric Functions)",
+    "tr": "Fasl 4: Moshtagh (Mosallasati)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = cos x⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−sin x⁩",
+     "final_resolution": "⁦−sin x⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق کسینوس"
+     ],
+     "distractors": [
+      "⁦sin x⁩",
+      "⁦cos x⁩",
+      "⁦−cos x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = cos x?",
+     "grading_key": "- [1] ⁦−sin x⁩",
+     "final_resolution": "⁦−sin x⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of cosine"
+     ],
+     "distractors": [
+      "⁦sin x⁩",
+      "⁦cos x⁩",
+      "⁦−cos x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = cos x kodam ast?",
+     "grading_key": "- [1] ⁦−sin x⁩",
+     "final_resolution": "⁦−sin x⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e kosinoos"
+     ],
+     "distractors": [
+      "⁦sin x⁩",
+      "⁦cos x⁩",
+      "⁦−cos x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 959,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۱: حد بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 1)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 1)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = 2/(x − 4)⁩ وقتی ⁦x⁩ از چپ به ۴ نزدیک می‌شود، کدام است؟",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "حد بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = 2/(x − 4) as x approaches 4 from the left?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "infinite limits"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = 2/(x − 4) vaghti x az chap be 4 nazdik mishavad, kodam ast?",
+     "grading_key": "- [1] ⁦−∞⁩",
+     "final_resolution": "⁦−∞⁩",
+     "notes": "",
+     "keywords": [
+      "had-e bi-nahayat"
+     ],
+     "distractors": [
+      "⁦+∞⁩",
+      "⁦0⁩",
+      "⁦−2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 959,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: هستی‌بخش (نیاز در بقا)",
+    "en": "Lesson 1: The Giver of Being (Need in Continuing)",
+    "tr": "Dars 1: Hasti-bakhsh",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "در درس اول، نیاز همیشگی موجودات به خداوند برای ادامهٔ هستی، به کدام مثال تشبیه شده است؟",
+     "grading_key": "- [1] نیاز روشنایی لامپ به جریان پیوستهٔ برق",
+     "final_resolution": "نیاز روشنایی لامپ به جریان پیوستهٔ برق",
+     "notes": "",
+     "keywords": [
+      "نیاز در بقا"
+     ],
+     "distractors": [
+      "ساختمانی که بنّا آن را ساخته است",
+      "ساعتی که خودبه‌خود کار می‌کند",
+      "نظم ستارگان در یک صورت فلکی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "In lesson one, the lasting need of every being for God, to go on existing, is likened to what?",
+     "grading_key": "- [1] A lamp's light needing a steady flow of electricity",
+     "final_resolution": "A lamp's light needing a steady flow of electricity",
+     "notes": "",
+     "keywords": [
+      "need in continuing to exist"
+     ],
+     "distractors": [
+      "A building put up by a builder",
+      "A clock that runs by itself",
+      "The order of stars in a constellation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Dar dars-e aval, niyaz-e hamishegi-ye mojoodat be Khodavand baraye edame-ye hasti, be kodam mesal tashbih shode ast?",
+     "grading_key": "- [1] Niyaz-e roshanayi-ye lamp be jaryan-e peyvaste-ye bargh",
+     "final_resolution": "Niyaz-e roshanayi-ye lamp be jaryan-e peyvaste-ye bargh",
+     "notes": "",
+     "keywords": [
+      "niyaz dar bagha"
+     ],
+     "distractors": [
+      "Sakhtemani ke banna an ra sakhte ast",
+      "Saati ke khod-be-khod kar mikonad",
+      "Nazm-e setaregan dar yek soorat-e falaki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 959,
+   "topic_tag": "practical-monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: توحید و سبک زندگی (شرک عملی)",
+    "en": "Lesson 3: Monotheism and Way of Life (Practical Polytheism)",
+    "tr": "Dars 3: Towhid va Sabk-e Zendegi",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "توحید و سبک زندگی",
+     "question": "پرستش بت‌ها، قربانی کردن برای خدایان دروغین و اطاعت از طاغوت، نمونه‌هایی از کدام مفهوم است؟",
+     "grading_key": "- [1] شرک عملی (عبادی)",
+     "final_resolution": "شرک عملی (عبادی)",
+     "notes": "",
+     "keywords": [
+      "شرک عملی"
+     ],
+     "distractors": [
+      "شرک نظری",
+      "شرک در خالقیت",
+      "شرک در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "Monotheism and Way of Life",
+     "question": "Worshipping idols, sacrificing to false gods and obeying tyrants are examples of which idea?",
+     "grading_key": "- [1] Practical polytheism (in worship)",
+     "final_resolution": "Practical polytheism (in worship)",
+     "notes": "",
+     "keywords": [
+      "practical polytheism"
+     ],
+     "distractors": [
+      "Theoretical polytheism",
+      "Polytheism in creation",
+      "Polytheism in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Towhid va Sabk-e Zendegi",
+     "question": "Parastesh-e bot-ha, ghorbani kardan baraye khodayan-e doroogh va eta-at az taghoot, nemoone-hayi az kodam mafhoom ast?",
+     "grading_key": "- [1] Sherk-e amali (ebadi)",
+     "final_resolution": "Sherk-e amali (ebadi)",
+     "notes": "",
+     "keywords": [
+      "sherk-e amali"
+     ],
+     "distractors": [
+      "Sherk-e nazari",
+      "Sherk dar khaleghiyat",
+      "Sherk dar robubiyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 959,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «عِبادِ» در عبارت زیر کدام است؟\n«أَفضَلُ النّاسِ أَنفَعُهُم لِعِبادِ اللهِ.»",
+     "grading_key": "- [1] بندگان",
+     "final_resolution": "بندگان",
+     "notes": "",
+     "keywords": [
+      "عِباد"
+     ],
+     "distractors": [
+      "رهبران",
+      "دانشمندان",
+      "سربازان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «عِبادِ» mean in this saying?\n«أَفضَلُ النّاسِ أَنفَعُهُم لِعِبادِ اللهِ.»",
+     "grading_key": "- [1] Servants",
+     "final_resolution": "Servants",
+     "notes": "",
+     "keywords": [
+      "ibad (servants)"
+     ],
+     "distractors": [
+      "Leaders",
+      "Scholars",
+      "Soldiers"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «ibad» dar ebarat-e zir kodam ast?\n«أَفضَلُ النّاسِ أَنفَعُهُم لِعِبادِ اللهِ.»",
+     "grading_key": "- [1] Bandegan",
+     "final_resolution": "Bandegan",
+     "notes": "",
+     "keywords": [
+      "ibad"
+     ],
+     "distractors": [
+      "Rahbaran",
+      "Daneshmandan",
+      "Sarbazan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 959,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: اَلدّینُ وَ التَّدَیُّنُ (حروف مشبهة بالفعل)",
+    "en": "Lesson 1: Religion and Religiosity (Particles Resembling Verbs)",
+    "tr": "Dars 1: Ad-din va at-tadayyon (Horoof-e Moshabbaha bel-Fe'l)",
+    "pages": "8–10"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "حرف «أَنَّ» (با همزهٔ مفتوح) میان دو جمله چه نقشی دارد؟",
+     "grading_key": "- [1] دو جمله را به هم پیوند می‌دهد و به معنای «که» است",
+     "final_resolution": "دو جمله را به هم پیوند می‌دهد و به معنای «که» است",
+     "notes": "",
+     "keywords": [
+      "أَنَّ"
+     ],
+     "distractors": [
+      "تأکید در آغاز جمله",
+      "آرزو (تمنّی)",
+      "نفی کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "What does «أَنَّ» (with an a-vowel hamza) do between two clauses?",
+     "grading_key": "- [1] It joins them, meaning 'that'",
+     "final_resolution": "It joins them, meaning 'that'",
+     "notes": "",
+     "keywords": [
+      "anna (that)"
+     ],
+     "distractors": [
+      "Emphasis at the start of a sentence",
+      "Wishing (tamanni)",
+      "Complete negation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Harf-e «anna» miyan-e do jomle che naghshi darad?",
+     "grading_key": "- [1] Do jomle ra be ham peyvand midahad va be mani-ye 'ke' ast",
+     "final_resolution": "Do jomle ra be ham peyvand midahad va be mani-ye 'ke' ast",
+     "notes": "",
+     "keywords": [
+      "anna"
+     ],
+     "distractors": [
+      "Ta'kid dar aghaz-e jomle",
+      "Arezoo (tamanni)",
+      "Nafy-e kamel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 959,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان)",
+    "en": "Arabic 3 (Vocabulary)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْإِحْسَان» در عبارت زیر کدام است؟\n«اَلْإِنْسَانُ عَبْدُ الْإِحْسَانِ.»",
+     "grading_key": "- [1] نیکی",
+     "final_resolution": "نیکی",
+     "notes": "",
+     "keywords": [
+      "الإِحسان"
+     ],
+     "distractors": [
+      "خودبزرگ‌بینی",
+      "فقر",
+      "دانش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْإِحْسَان» mean in this saying?\n«اَلْإِنْسَانُ عَبْدُ الْإِحْسَانِ.»",
+     "grading_key": "- [1] Kindness",
+     "final_resolution": "Kindness",
+     "notes": "",
+     "keywords": [
+      "ihsan (kindness)"
+     ],
+     "distractors": [
+      "Arrogance",
+      "Poverty",
+      "Knowledge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-ihsan» dar ebarat-e zir kodam ast?\n«اَلْإِنْسَانُ عَبْدُ الْإِحْسَانِ.»",
+     "grading_key": "- [1] Niki",
+     "final_resolution": "Niki",
+     "notes": "",
+     "keywords": [
+      "al-ihsan"
+     ],
+     "distractors": [
+      "Khod-bozorg-bini",
+      "Faghr",
+      "Danesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 959,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (نظام‌های تمامیت‌خواه)",
+    "en": "Lesson 8: Politics and the Political System (Totalitarian Systems)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌هایی که همهٔ ابعاد زندگی فردی و اجتماعی شهروندان را زیر نظارت شدید و زور قرار می‌دهند، چه نام دارند؟",
+     "grading_key": "- [1] نظام‌های تمامیت‌خواه (توتالیتر)",
+     "final_resolution": "نظام‌های تمامیت‌خواه (توتالیتر)",
+     "notes": "",
+     "keywords": [
+      "نظام تمامیت‌خواه"
+     ],
+     "distractors": [
+      "دموکراسی‌های لیبرال",
+      "مردم‌سالاری‌های دینی",
+      "حکومت‌های سنتی غیرمتمرکز"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are systems called that put every part of citizens' personal and social life under close watch and force?",
+     "grading_key": "- [1] Totalitarian systems",
+     "final_resolution": "Totalitarian systems",
+     "notes": "",
+     "keywords": [
+      "totalitarian system"
+     ],
+     "distractors": [
+      "Liberal democracies",
+      "Religious democracies",
+      "Decentralised traditional rule"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-hayi ke hame-ye abad-e zendegi-ye fardi va ejtemai-ye shahrvandan ra zir-e nezarat-e shadid va zoor gharar midahand, che nam darand?",
+     "grading_key": "- [1] Nezam-haye tamamiyat-khah (totaliter)",
+     "final_resolution": "Nezam-haye tamamiyat-khah (totaliter)",
+     "notes": "",
+     "keywords": [
+      "nezam-e tamamiyat-khah"
+     ],
+     "distractors": [
+      "Demokrasi-haye liberal",
+      "Mardom-salari-haye dini",
+      "Hokoomat-haye sonnati-ye gheyr-e motamarkez"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 959,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی (مشروعیت و مقبولیت)",
+    "en": "Lesson 6: Social Power (Legitimacy and Acceptance)",
+    "tr": "Dars 6: Ghodrat-e Ejtemai",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "اگر قدرتی معیارهای عقلانی یا شرعی حاکمیت را داشته باشد اما مردم آن را داوطلبانه نپذیرند، آن قدرت چه وضعی دارد؟",
+     "grading_key": "- [1] مشروع است اما مقبولیت ندارد",
+     "final_resolution": "مشروع است اما مقبولیت ندارد",
+     "notes": "",
+     "keywords": [
+      "مشروعیت و مقبولیت"
+     ],
+     "distractors": [
+      "مقبول است اما مشروع نیست",
+      "هم مشروع است هم مقبول",
+      "نه مشروع است نه مقبول"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "If a power meets the rational or religious standards for rule but the people do not willingly accept it, what is its standing?",
+     "grading_key": "- [1] Legitimate, but without acceptance",
+     "final_resolution": "Legitimate, but without acceptance",
+     "notes": "",
+     "keywords": [
+      "legitimacy and acceptance"
+     ],
+     "distractors": [
+      "Accepted, but not legitimate",
+      "Both legitimate and accepted",
+      "Neither legitimate nor accepted"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Agar ghodrati meyar-haye aghlani ya sharei-ye hakemiyat ra dashte bashad amma mardom an ra davtalabane napazirand, an ghodrat che vazi darad?",
+     "grading_key": "- [1] Mashroo ast amma maghbooliyat nadarad",
+     "final_resolution": "Mashroo ast amma maghbooliyat nadarad",
+     "notes": "",
+     "keywords": [
+      "mashrooiyat va maghbooliyat"
+     ],
+     "distractors": [
+      "Maghbool ast amma mashroo nist",
+      "Ham mashroo ast ham maghbool",
+      "Na mashroo ast na maghbool"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 959,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (منشأ مشروعیت)",
+    "en": "Lesson 7: Authority and Acceptance (Source of Legitimacy)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "در اندیشهٔ دینی، منشأ اصلی مشروعیت حاکمیت و حق قانون‌گذاری از آنِ کیست؟",
+     "grading_key": "- [1] خداوند",
+     "final_resolution": "خداوند",
+     "notes": "",
+     "keywords": [
+      "منشأ مشروعیت"
+     ],
+     "distractors": [
+      "خواست اکثریت",
+      "رسوم قبیله‌ای",
+      "شورای فرماندهی نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "In religious thought, to whom does the first source of political legitimacy and the right to make law belong?",
+     "grading_key": "- [1] God",
+     "final_resolution": "God",
+     "notes": "",
+     "keywords": [
+      "source of legitimacy"
+     ],
+     "distractors": [
+      "The will of the majority",
+      "Tribal custom",
+      "A military command council"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Dar andishe-ye dini, manshae asli-ye mashrooiyat-e hakemiyat va hagh-e ghanoon-gozari az an-e kist?",
+     "grading_key": "- [1] Khodavand",
+     "final_resolution": "Khodavand",
+     "notes": "",
+     "keywords": [
+      "manshae mashrooiyat"
+     ],
+     "distractors": [
+      "Khast-e aksariyat",
+      "Rosoom-e ghabilei",
+      "Shora-ye farmandehi-ye nezami"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 959,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: اقتدار و مقبولیت (بحران مقبولیت)",
+    "en": "Lesson 7: Authority and Acceptance (Acceptance Crisis)",
+    "tr": "Dars 7: Eghtedar va Maghbooliyat",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "هرگاه یک نظام مشروع، حمایت و پذیرش داوطلبانهٔ مردم را از دست بدهد، با کدام بحران روبه‌رو می‌شود؟",
+     "grading_key": "- [1] بحران مقبولیت",
+     "final_resolution": "بحران مقبولیت",
+     "notes": "",
+     "keywords": [
+      "بحران مقبولیت"
+     ],
+     "distractors": [
+      "بحران مشروعیت",
+      "فروپاشی کارایی اداری",
+      "جابه‌جایی مرزها"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "When a legitimate system loses the people's support and willing acceptance, which crisis does it face?",
+     "grading_key": "- [1] An acceptance crisis",
+     "final_resolution": "An acceptance crisis",
+     "notes": "",
+     "keywords": [
+      "acceptance crisis"
+     ],
+     "distractors": [
+      "A legitimacy crisis",
+      "A collapse of administrative efficiency",
+      "A shift of borders"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Hargah yek nezam-e mashroo, hemayat va paziresh-e davtalabane-ye mardom ra az dast bedahad, ba kodam bohran rooberoo mishavad?",
+     "grading_key": "- [1] Bohran-e maghbooliyat",
+     "final_resolution": "Bohran-e maghbooliyat",
+     "notes": "",
+     "keywords": [
+      "bohran-e maghbooliyat"
+     ],
+     "distractors": [
+      "Bohran-e mashrooiyat",
+      "Foroopashi-ye karayi-ye edari",
+      "Jabejayi-ye marz-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 959,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (ایمنی فعال و غیرفعال)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (Active and Passive Immunity)",
+    "tr": "Fasl 3: Bimari-ha (Imeni)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "تزریق کدام فراوردهٔ آماده از خون جانداران دیگر، ایمنی غیرفعال فوری اما کوتاه‌مدت پدید می‌آورد؟",
+     "grading_key": "- [1] سرم (پادتن آماده)",
+     "final_resolution": "سرم (پادتن آماده)",
+     "notes": "",
+     "keywords": [
+      "ایمنی غیرفعال"
+     ],
+     "distractors": [
+      "واکسن",
+      "آنتی‌بیوتیک",
+      "مکمل ویتامین و مواد معدنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Injecting which ready-made product from the blood of other animals gives immediate but short-lived passive immunity?",
+     "grading_key": "- [1] Serum (ready-made antibodies)",
+     "final_resolution": "Serum (ready-made antibodies)",
+     "notes": "",
+     "keywords": [
+      "passive immunity"
+     ],
+     "distractors": [
+      "A vaccine",
+      "An antibiotic",
+      "A vitamin and mineral supplement"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Tazrigh-e kodam faravarde-ye amade az khoon-e janevaran-e digar, imeni-ye gheyr-e faal-e fori amma kootah-modat padid miavarad?",
+     "grading_key": "- [1] Serom (padtan-e amade)",
+     "final_resolution": "Serom (padtan-e amade)",
+     "notes": "",
+     "keywords": [
+      "imeni-ye gheyr-e faal"
+     ],
+     "distractors": [
+      "Vaksan",
+      "Antibiotic",
+      "Mokammel-e vitamin va mavad-e madani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 959,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (دخانیات)",
+    "en": "Chapter 1: Health and Lifestyle (Tobacco)",
+    "tr": "Fasl 1: Salamat (Dokhaniyat)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "کدام مادهٔ قهوه‌ای و چسبناک دود سیگار در کیسه‌های هوایی ریه رسوب می‌کند، تبادل گازها را مختل می‌کند و عامل اصلی سرطان ریه است؟",
+     "grading_key": "- [1] قطران",
+     "final_resolution": "قطران",
+     "notes": "",
+     "keywords": [
+      "قطران"
+     ],
+     "distractors": [
+      "نیکوتین",
+      "کربن مونوکسید",
+      "فرمالدهید"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "Which brown, sticky substance in cigarette smoke settles in the air sacs of the lungs, hinders gas exchange and is the chief cause of lung cancer?",
+     "grading_key": "- [1] Tar",
+     "final_resolution": "Tar",
+     "notes": "",
+     "keywords": [
+      "tar"
+     ],
+     "distractors": [
+      "Nicotine",
+      "Carbon monoxide",
+      "Formaldehyde"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Kodam madde-ye ghahvei va chasbnak-e dood-e sigar dar kise-haye havayi-ye riye resoob mikonad va amel-e asli-ye saratan-e riye ast?",
+     "grading_key": "- [1] Ghatran",
+     "final_resolution": "Ghatran",
+     "notes": "",
+     "keywords": [
+      "ghatran"
+     ],
+     "distractors": [
+      "Nikotin",
+      "Karbon monoksid",
+      "Formaldehid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 959,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: بهداشت محیط و کار (آلودگی صوتی)",
+    "en": "Chapter 4: Environmental and Workplace Health (Noise Pollution)",
+    "tr": "Fasl 4: Behdasht-e Mohit (Aloodegi-ye Sooti)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "یکای اندازه‌گیری تراز شدت صوت برای پایش سلامت شنوایی در محیط کار و زندگی چیست؟",
+     "grading_key": "- [1] دسی‌بل (⁦dB⁩)",
+     "final_resolution": "دسی‌بل (⁦dB⁩)",
+     "notes": "",
+     "keywords": [
+      "دسی‌بل"
+     ],
+     "distractors": [
+      "هرتز (⁦Hz⁩)",
+      "نیوتون",
+      "پاسکال"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What unit is used to measure sound level when checking hearing safety at work and at home?",
+     "grading_key": "- [1] The decibel (dB)",
+     "final_resolution": "The decibel (dB)",
+     "notes": "",
+     "keywords": [
+      "decibel"
+     ],
+     "distractors": [
+      "The hertz (Hz)",
+      "The newton",
+      "The pascal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Yeka-ye andaze-giri-ye taraz-e shedat-e soot baraye payesh-e salamat-e shenavayi dar mohit-e kar va zendegi chist?",
+     "grading_key": "- [1] Desibel (dB)",
+     "final_resolution": "Desibel (dB)",
+     "notes": "",
+     "keywords": [
+      "desibel"
+     ],
+     "distractors": [
+      "Hertz (Hz)",
+      "Newton",
+      "Pascal"
+     ]
+    }
+   }
+  }
+ ]
+}
