@@ -119,3 +119,29 @@ then counts down to each exam in her phone's own time zone.
 - Publish with `python tool/release/publish_exams.py exams.json` from the
   app repository.
 
+## Subjects (app 3.9.0+)
+
+The app ships ten subjects. A pack must use these exact `subject` keys:
+
+| Key | Subject | Board time |
+|---|---|---|
+| `Biology` | زیست‌شناسی ۳ | 90 min |
+| `Chemistry` | شیمی ۳ | 100 min |
+| `Physics` | فیزیک ۳ | 100 or 120 min |
+| `English` | زبان انگلیسی ۳ | 90 or 120 min |
+| `Persian` | ادبیات فارسی ۳ | 90 or 120 min |
+| `Mathematics` | ریاضیات ۳ | 120 min |
+| `Religion and Life` | دین و زندگی ۳ | 90 min |
+| `Arabic` | عربی ۳ | 75 min |
+| `Health and Hygiene` | سلامت و بهداشت | 90 min |
+| `Social Identity` | هویت اجتماعی | 75 min |
+
+Every board paper is out of 20 with no negative marking. English, Persian,
+Religion and Life, Arabic, Health and Hygiene, and Social Identity count in
+lessons («درس N» / "Lesson N"); the others count in chapters («فصل N» /
+"Chapter N").
+
+A pack for the five newest subjects should also list the subject in
+`subjects` (as pack 56 does for Persian). Apps older than 3.9 can then add
+the subject instead of stopping on an unknown key.
+
