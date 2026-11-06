@@ -1,0 +1,1014 @@
+{
+ "version": 77,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 970,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (دایره)",
+    "en": "Chapter 6: Conic Sections (Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Dayere)",
+    "pages": "122–124"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "مجموعهٔ نقاطی از صفحه که فاصلهٔ همهٔ آن‌ها از یک نقطهٔ ثابت (مرکز) برابر یک عدد مثبت ثابت (شعاع) است، چه نام دارد؟",
+     "grading_key": "- [1] دایره",
+     "final_resolution": "دایره",
+     "notes": "",
+     "keywords": [
+      "دایره"
+     ],
+     "distractors": [
+      "سهمی",
+      "بیضی",
+      "هذلولی"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "The set of points in a plane that are all the same positive distance (the radius) from one fixed point (the centre) is called what?",
+     "grading_key": "- [1] Circle",
+     "final_resolution": "Circle",
+     "notes": "",
+     "keywords": [
+      "circle"
+     ],
+     "distractors": [
+      "Parabola",
+      "Ellipse",
+      "Hyperbola"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Majmoo'e-ye noghati az safhe ke fasele-ye hame-ye anha az yek noghte-ye sabet (markaz) barabar-e yek adad-e mosbat-e sabet (sho'a) ast, che nam darad?",
+     "grading_key": "- [1] Dayere",
+     "final_resolution": "Dayere",
+     "notes": "",
+     "keywords": [
+      "dayere"
+     ],
+     "distractors": [
+      "Sahmi",
+      "Beyzi",
+      "Hozloli"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 970,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (معادلهٔ دایره)",
+    "en": "Chapter 6: Conic Sections (Equation of a Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Moadele-ye Dayere)",
+    "pages": "124–126"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "معادلهٔ دایره‌ای به مرکز مبدأ ⁦(0, 0)⁩ و شعاع ⁦R⁩ کدام است؟",
+     "grading_key": "- [1] ⁦x² + y² = R²⁩",
+     "final_resolution": "⁦x² + y² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ دایره"
+     ],
+     "distractors": [
+      "⁦x² − y² = R²⁩",
+      "⁦x + y = R⁩",
+      "⁦y = x² + R⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the equation of a circle with its centre at the origin (0, 0) and radius R?",
+     "grading_key": "- [1] ⁦x² + y² = R²⁩",
+     "final_resolution": "⁦x² + y² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "equation of a circle"
+     ],
+     "distractors": [
+      "⁦x² − y² = R²⁩",
+      "⁦x + y = R⁩",
+      "⁦y = x² + R⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Moadele-ye dayere-i be markaz-e mabda (0, 0) va sho'a-e R kodam ast?",
+     "grading_key": "- [1] ⁦x² + y² = R²⁩",
+     "final_resolution": "⁦x² + y² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye dayere"
+     ],
+     "distractors": [
+      "⁦x² − y² = R²⁩",
+      "⁦x + y = R⁩",
+      "⁦y = x² + R⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 970,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (بیضی)",
+    "en": "Chapter 6: Conic Sections (Ellipse)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Beyzi)",
+    "pages": "128–130"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "مجموعهٔ نقاطی از صفحه که مجموع فاصله‌های هر یک از دو نقطهٔ ثابت (کانون‌ها) عددی ثابت و بزرگ‌تر از فاصلهٔ دو کانون است، چه نام دارد؟",
+     "grading_key": "- [1] بیضی",
+     "final_resolution": "بیضی",
+     "notes": "",
+     "keywords": [
+      "بیضی"
+     ],
+     "distractors": [
+      "سهمی",
+      "هذلولی",
+      "دایره"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "The set of points in a plane whose distances from two fixed points (the foci) always add up to the same number, greater than the distance between the foci, is called what?",
+     "grading_key": "- [1] Ellipse",
+     "final_resolution": "Ellipse",
+     "notes": "",
+     "keywords": [
+      "ellipse"
+     ],
+     "distractors": [
+      "Parabola",
+      "Hyperbola",
+      "Circle"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Majmoo'e-ye noghati az safhe ke majmoo'-e fasele-haye har yek az do noghte-ye sabet (kanoon-ha) adadi sabet va bozorgtar az fasele-ye do kanoon ast, che nam darad?",
+     "grading_key": "- [1] Beyzi",
+     "final_resolution": "Beyzi",
+     "notes": "",
+     "keywords": [
+      "beyzi"
+     ],
+     "distractors": [
+      "Sahmi",
+      "Hozloli",
+      "Dayere"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 970,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (تفاضل کمان‌ها)",
+    "en": "Chapter 2: Trigonometry (Difference of Angles)",
+    "tr": "Fasl 2: Mosallasat (Tafazol-e Kaman-ha)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "⁦cos(α − β)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦cos α cos β + sin α sin β⁩",
+     "final_resolution": "⁦cos α cos β + sin α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "روابط تفاضل کمان‌ها"
+     ],
+     "distractors": [
+      "⁦cos α cos β − sin α sin β⁩",
+      "⁦sin α cos β + cos α sin β⁩",
+      "⁦sin α sin β − cos α cos β⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is cos(α − β) equal to?",
+     "grading_key": "- [1] ⁦cos α cos β + sin α sin β⁩",
+     "final_resolution": "⁦cos α cos β + sin α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "angle-difference identities"
+     ],
+     "distractors": [
+      "⁦cos α cos β − sin α sin β⁩",
+      "⁦sin α cos β + cos α sin β⁩",
+      "⁦sin α sin β − cos α cos β⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "cos(α − β) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦cos α cos β + sin α sin β⁩",
+     "final_resolution": "⁦cos α cos β + sin α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "ravabet-e tafazol-e kaman-ha"
+     ],
+     "distractors": [
+      "⁦cos α cos β − sin α sin β⁩",
+      "⁦sin α cos β + cos α sin β⁩",
+      "⁦sin α sin β − cos α cos β⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 970,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (توحید در ذات)",
+    "en": "Religion and Life (Oneness of the Essence)",
+    "tr": "Din va Zendegi (Towhid dar Zat)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "باور به یکتایی ذات خداوند، که بی آن مراتب دیگر توحید معنا ندارد و پایهٔ همهٔ آن‌هاست، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در ذات",
+     "final_resolution": "توحید در ذات",
+     "notes": "",
+     "keywords": [
+      "توحید در ذات"
+     ],
+     "distractors": [
+      "توحید در خالقیت",
+      "توحید در ربوبیت",
+      "توحید عملی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "Belief that God's essence is one and unique, the base without which the other ranks of monotheism mean nothing, is which rank?",
+     "grading_key": "- [1] Oneness of the essence",
+     "final_resolution": "Oneness of the essence",
+     "notes": "",
+     "keywords": [
+      "oneness of the essence"
+     ],
+     "distractors": [
+      "Oneness in creation",
+      "Oneness in lordship",
+      "Practical monotheism"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Bavar be yektayi-ye zat-e Khodavand, ke bi an marateb-e digar-e towhid ma'na nadarad va paye-ye hame-ye anhast, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar zat",
+     "final_resolution": "Towhid dar zat",
+     "notes": "",
+     "keywords": [
+      "towhid dar zat"
+     ],
+     "distractors": [
+      "Towhid dar khaleghiyat",
+      "Towhid dar rooboobiyat",
+      "Towhid-e amali"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 970,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: هستی‌بخش (آگاهی از نیاز)",
+    "en": "Lesson 1: The Giver of Being (Awareness of Need)",
+    "tr": "Dars 1: Hasti-bakhsh",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "در درس اول، تفاوت انسان با دیگر موجودات در نیاز به خداوند چیست؟",
+     "grading_key": "- [1] همه نیازمندند، اما انسان می‌تواند از این نیاز آگاه شود و هرچه معرفتش بیشتر شود آن را بیشتر درمی‌یابد",
+     "final_resolution": "همه نیازمندند، اما انسان می‌تواند از این نیاز آگاه شود و هرچه معرفتش بیشتر شود آن را بیشتر درمی‌یابد",
+     "notes": "",
+     "keywords": [
+      "آگاهی از نیاز به خدا"
+     ],
+     "distractors": [
+      "انسان کمتر از دیگر موجودات به خدا نیاز دارد",
+      "تنها انسان به خدا نیازمند است",
+      "انسان فقط در آغاز پیدایش به خدا نیاز دارد"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "By lesson one, how do humans differ from other beings in their need for God?",
+     "grading_key": "- [1] All beings need Him, but humans can become aware of this need, and feel it more the more they know",
+     "final_resolution": "All beings need Him, but humans can become aware of this need, and feel it more the more they know",
+     "notes": "",
+     "keywords": [
+      "awareness of need for God"
+     ],
+     "distractors": [
+      "Humans need God less than other beings",
+      "Only humans need God",
+      "Humans need God only at the start of their existence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Dar dars-e avval, tafavot-e ensan ba digar mojoodat dar niyaz be Khodavand chist?",
+     "grading_key": "- [1] Hame niyazmandand, amma ensan mitavanad az in niyaz agah shavad va har che ma'refatash bishtar shavad an ra bishtar dar-miyabad",
+     "final_resolution": "Hame niyazmandand, amma ensan mitavanad az in niyaz agah shavad va har che ma'refatash bishtar shavad an ra bishtar dar-miyabad",
+     "notes": "",
+     "keywords": [
+      "agahi az niyaz be Khoda"
+     ],
+     "distractors": [
+      "Ensan kamtar az digar mojoodat be Khoda niyaz darad",
+      "Tanha ensan be Khoda niyazmand ast",
+      "Ensan faghat dar aghaz-e peydayesh be Khoda niyaz darad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 970,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (هدایت تکوینی)",
+    "en": "Religion and Life (Built-in Guidance)",
+    "tr": "Din va Zendegi (Hedayat-e Takvini)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "هدایت همهٔ موجودات به سوی هدفشان از راه سرشت و غریزه‌ای که خدا در آن‌ها نهاده (مانند ساختن کندو به دست زنبور عسل)، کدام نوع هدایت است؟",
+     "grading_key": "- [1] هدایت تکوینی (عام)",
+     "final_resolution": "هدایت تکوینی (عام)",
+     "notes": "",
+     "keywords": [
+      "هدایت تکوینی"
+     ],
+     "distractors": [
+      "هدایت تشریعی (از راه پیامبران)",
+      "سنت استدراج",
+      "سنت املا"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "God guiding every creature toward its goal through the nature and instinct He placed in it (like the bee building its hive) is which kind of guidance?",
+     "grading_key": "- [1] Built-in (takvini) guidance",
+     "final_resolution": "Built-in (takvini) guidance",
+     "notes": "",
+     "keywords": [
+      "built-in (takvini) guidance"
+     ],
+     "distractors": [
+      "Revealed (tashri'i) guidance through the prophets",
+      "Gradual entrapment (estedraj)",
+      "Respite (imla)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Hedayat-e hame-ye mojoodat be sooye hadafeshan az rah-e seresht va gharize-i ke Khoda dar anha nahade (manand-e sakhtan-e kandoo be dast-e zanboor-e asal), kodam no' hedayat ast?",
+     "grading_key": "- [1] Hedayat-e takvini (am)",
+     "final_resolution": "Hedayat-e takvini (am)",
+     "notes": "",
+     "keywords": [
+      "hedayat-e takvini"
+     ],
+     "distractors": [
+      "Hedayat-e tashri'i (az rah-e payambaran)",
+      "Sonnat-e estedraj",
+      "Sonnat-e emla"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 970,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سِرَاجاً» در عبارت زیر کدام است؟\n«وَ جَعَلَ الْقَمَرَ فِیهِنَّ نُوراً وَ جَعَلَ الشَّمْسَ سِرَاجاً.»",
+     "grading_key": "- [1] چراغی",
+     "final_resolution": "چراغی",
+     "notes": "",
+     "keywords": [
+      "سِرَاجاً"
+     ],
+     "distractors": [
+      "ابری تیره",
+      "موجی",
+      "ستونی سنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سِرَاجاً» mean in this verse?\n«وَ جَعَلَ الْقَمَرَ فِیهِنَّ نُوراً وَ جَعَلَ الشَّمْسَ سِرَاجاً.»",
+     "grading_key": "- [1] A lamp",
+     "final_resolution": "A lamp",
+     "notes": "",
+     "keywords": [
+      "siraj (a lamp)"
+     ],
+     "distractors": [
+      "A dark cloud",
+      "A wave",
+      "A stone pillar"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sirajan» dar ebarat-e zir kodam ast?\n«وَ جَعَلَ الْقَمَرَ فِیهِنَّ نُوراً وَ جَعَلَ الشَّمْسَ سِرَاجاً.»",
+     "grading_key": "- [1] Cheraghi",
+     "final_resolution": "Cheraghi",
+     "notes": "",
+     "keywords": [
+      "sirajan"
+     ],
+     "distractors": [
+      "Abri tire",
+      "Mowji",
+      "Sotooni sangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 970,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا یَغْتَبْ» در عبارت زیر کدام است؟\n«وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً.»",
+     "grading_key": "- [1] غیبت نکند",
+     "final_resolution": "غیبت نکند",
+     "notes": "",
+     "keywords": [
+      "لَا یَغْتَبْ"
+     ],
+     "distractors": [
+      "ستایش نکند",
+      "یاری نکند",
+      "آموزش ندهد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا یَغْتَبْ» mean in this verse?\n«وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً.»",
+     "grading_key": "- [1] Should not backbite",
+     "final_resolution": "Should not backbite",
+     "notes": "",
+     "keywords": [
+      "la yaghtab (do not backbite)"
+     ],
+     "distractors": [
+      "Should not praise",
+      "Should not help",
+      "Should not teach"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la yaghtab» dar ebarat-e zir kodam ast?\n«وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً.»",
+     "grading_key": "- [1] Gheybat nakonad",
+     "final_resolution": "Gheybat nakonad",
+     "notes": "",
+     "keywords": [
+      "la yaghtab"
+     ],
+     "distractors": [
+      "Setayesh nakonad",
+      "Yari nakonad",
+      "Amoozesh nadahad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 970,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «طُوبَى» در عبارت زیر کدام است؟\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] خوشا به حال",
+     "final_resolution": "خوشا به حال",
+     "notes": "",
+     "keywords": [
+      "طُوبَى"
+     ],
+     "distractors": [
+      "وای بر",
+      "تنگدستی",
+      "بدهکاری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «طُوبَى» mean in this saying?\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] Blessed is, happy is",
+     "final_resolution": "Blessed is, happy is",
+     "notes": "",
+     "keywords": [
+      "tuba (blessed is)"
+     ],
+     "distractors": [
+      "Woe to",
+      "Poverty",
+      "Debt"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tuba» dar ebarat-e zir kodam ast?\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] Khosha be hal-e",
+     "final_resolution": "Khosha be hal-e",
+     "notes": "",
+     "keywords": [
+      "tuba"
+     ],
+     "distractors": [
+      "Vay bar",
+      "Tangdasti",
+      "Bedehkari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 970,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْأَحْمَقِ» در عبارت زیر کدام است؟\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] نادان، احمق",
+     "final_resolution": "نادان، احمق",
+     "notes": "",
+     "keywords": [
+      "الْأَحْمَقِ"
+     ],
+     "distractors": [
+      "دانشمند",
+      "بازرگان",
+      "سرباز دلیر"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْأَحْمَقِ» mean in this saying?\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] The fool",
+     "final_resolution": "The fool",
+     "notes": "",
+     "keywords": [
+      "al-ahmaq (the fool)"
+     ],
+     "distractors": [
+      "The scholar",
+      "The merchant",
+      "The brave soldier"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-ahmaq» dar ebarat-e zir kodam ast?\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] Nadan, ahmagh",
+     "final_resolution": "Nadan, ahmagh",
+     "notes": "",
+     "keywords": [
+      "al-ahmaq"
+     ],
+     "distractors": [
+      "Daneshmand",
+      "Bazargan",
+      "Sarbaz-e delir"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 970,
+   "topic_tag": "social-action",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: کنش‌های ما (پیامدهای کنش)",
+    "en": "Lesson 1: Our Actions (Consequences of Action)",
+    "tr": "Dars 1: Konesh-haye Ma",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کنش اجتماعی",
+     "question": "نتیجه‌هایی از کنش که به ارادهٔ کنشگر وابسته نیستند (مانند خستگی پس از ورزش)، چه نام دارند؟",
+     "grading_key": "- [1] پیامدهای غیرارادی کنش",
+     "final_resolution": "پیامدهای غیرارادی کنش",
+     "notes": "",
+     "keywords": [
+      "پیامدهای غیرارادی کنش"
+     ],
+     "distractors": [
+      "پیامدهای ارادی کنش",
+      "نهادهای اجتماعی",
+      "هنجارهای اجتماعی"
+     ]
+    },
+    "en": {
+     "topic_label": "Social Action",
+     "question": "What are the results of an action called that do not depend on the actor's will (such as tiredness after exercise)?",
+     "grading_key": "- [1] Involuntary consequences of action",
+     "final_resolution": "Involuntary consequences of action",
+     "notes": "",
+     "keywords": [
+      "involuntary consequences of action"
+     ],
+     "distractors": [
+      "Voluntary consequences of action",
+      "Social institutions",
+      "Social norms"
+     ]
+    },
+    "tr": {
+     "topic_label": "Konesh-e Ejtemai",
+     "question": "Natije-hayi az konesh ke be erade-ye koneshgar vabaste nistand (manand-e khastegi pas az varzesh), che nam darand?",
+     "grading_key": "- [1] Payamad-haye gheyr-e eradi-ye konesh",
+     "final_resolution": "Payamad-haye gheyr-e eradi-ye konesh",
+     "notes": "",
+     "keywords": [
+      "payamad-haye gheyr-e eradi-ye konesh"
+     ],
+     "distractors": [
+      "Payamad-haye eradi-ye konesh",
+      "Nahad-haye ejtemai",
+      "Hanjar-haye ejtemai"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 970,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (جهان طبیعی و جهان اجتماعی)",
+    "en": "Lesson 3: The Cultural World (Natural and Social Worlds)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "پدیده‌های طبیعی (مانند ستارگان یا معدن‌های زیرزمینی) چگونه وارد جهان اجتماعی می‌شوند؟",
+     "grading_key": "- [1] با وارد شدن به قلمرو آگاهی و کنش انسان‌ها",
+     "final_resolution": "با وارد شدن به قلمرو آگاهی و کنش انسان‌ها",
+     "notes": "",
+     "keywords": [
+      "جهان طبیعی و جهان اجتماعی"
+     ],
+     "distractors": [
+      "تنها با بودنشان در جهان مادی",
+      "هرگز وارد جهان اجتماعی نمی‌شوند",
+      "با تبدیل شدن به نهاد اجتماعی بدون دخالت انسان"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "How do things of the natural world (such as stars or underground mines) come into the social world?",
+     "grading_key": "- [1] By entering the sphere of human awareness and action",
+     "final_resolution": "By entering the sphere of human awareness and action",
+     "notes": "",
+     "keywords": [
+      "natural and social worlds"
+     ],
+     "distractors": [
+      "Simply by existing in the material world",
+      "They never enter the social world",
+      "By turning into social institutions with no human part"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Padide-haye tabiei (manand-e setaregan ya ma'dan-haye zirzamini) chegoone vared-e jahan-e ejtemai mishavand?",
+     "grading_key": "- [1] Ba vared shodan be ghalamrow-e agahi va konesh-e ensan-ha",
+     "final_resolution": "Ba vared shodan be ghalamrow-e agahi va konesh-e ensan-ha",
+     "notes": "",
+     "keywords": [
+      "jahan-e tabiei va jahan-e ejtemai"
+     ],
+     "distractors": [
+      "Tanha ba boodaneshan dar jahan-e maddi",
+      "Hargez vared-e jahan-e ejtemai nemishavand",
+      "Ba tabdil shodan be nahad-e ejtemai bedoon-e dekhalat-e ensan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 970,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "رفتن سلول‌های سرطانی تومور بدخیم از راه خون یا لنف به بافت‌های دور بدن و پدید آوردن توده‌های تازه، چه نام دارد؟",
+     "grading_key": "- [1] متاستاز",
+     "final_resolution": "متاستاز",
+     "notes": "",
+     "keywords": [
+      "متاستاز"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "رگ‌زایی (آنژیوژنز)",
+      "مرگ برنامه‌ریزی‌شدهٔ سلول (آپوپتوز)"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is it called when cancer cells from a malignant tumour travel through the blood or lymph to distant tissues and start new growths?",
+     "grading_key": "- [1] Metastasis",
+     "final_resolution": "Metastasis",
+     "notes": "",
+     "keywords": [
+      "metastasis"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Angiogenesis (new blood vessels)",
+      "Apoptosis (programmed cell death)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Raftan-e sellool-haye saratani-ye tumor-e bad-khim az rah-e khoon ya lanf be baft-haye door-e badan va padid avardan-e tode-haye taze, che nam darad?",
+     "grading_key": "- [1] Metastaz",
+     "final_resolution": "Metastaz",
+     "notes": "",
+     "keywords": [
+      "metastaz"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Rag-zayi (anzhiyozhenez)",
+      "Marg-e barname-rizi-shode-ye sellool (apoptoz)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 970,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "ورود فاضلاب انسانی و فضولات دامی به منابع آب آشامیدنی، بیش از همه کدام نوع آلودگی را پدید می‌آورد؟",
+     "grading_key": "- [1] آلودگی میکروبی (زیستی)",
+     "final_resolution": "آلودگی میکروبی (زیستی)",
+     "notes": "",
+     "keywords": [
+      "آلودگی میکروبی آب"
+     ],
+     "distractors": [
+      "آلودگی حرارتی",
+      "آلودگی با فلزات سنگین",
+      "آلودگی پرتوزا"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Human sewage and animal waste getting into drinking-water sources mainly cause which kind of pollution?",
+     "grading_key": "- [1] Microbial (biological) pollution",
+     "final_resolution": "Microbial (biological) pollution",
+     "notes": "",
+     "keywords": [
+      "microbial water pollution"
+     ],
+     "distractors": [
+      "Thermal pollution",
+      "Heavy-metal pollution",
+      "Radioactive pollution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Vorood-e fazelab-e ensani va fozoolat-e dami be manabe-e ab-e ashamidani, bish az hame kodam no' aloodegi ra padid miavarad?",
+     "grading_key": "- [1] Aloodegi-ye mikrobi (zisti)",
+     "final_resolution": "Aloodegi-ye mikrobi (zisti)",
+     "notes": "",
+     "keywords": [
+      "aloodegi-ye mikrobi-ye ab"
+     ],
+     "distractors": [
+      "Aloodegi-ye harareti",
+      "Aloodegi ba felezat-e sangin",
+      "Aloodegi-ye partoza"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 970,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در کمک‌های اولیه برای شکستگی استخوان دست یا پا، هدف اصلی آتل‌بندی چیست؟",
+     "grading_key": "- [1] بی‌حرکت کردن عضو تا آسیب بیشتر به بافت‌ها، رگ‌ها و عصب‌ها نرسد",
+     "final_resolution": "بی‌حرکت کردن عضو تا آسیب بیشتر به بافت‌ها، رگ‌ها و عصب‌ها نرسد",
+     "notes": "",
+     "keywords": [
+      "آتل‌بندی"
+     ],
+     "distractors": [
+      "جا انداختن استخوان با دست",
+      "تند کردن جریان خون در محل",
+      "ضدعفونی کردن پوست"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In first aid for a broken arm or leg bone, what is the main aim of splinting?",
+     "grading_key": "- [1] Keeping the limb still so tissues, vessels and nerves are not hurt further",
+     "final_resolution": "Keeping the limb still so tissues, vessels and nerves are not hurt further",
+     "notes": "",
+     "keywords": [
+      "splinting"
+     ],
+     "distractors": [
+      "Setting the bone back in place by hand",
+      "Speeding up blood flow to the area",
+      "Disinfecting the skin"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar komak-haye avvaliye baraye shekastegi-ye ostokhan-e dast ya pa, hadaf-e asli-ye atel-bandi chist?",
+     "grading_key": "- [1] Bi-harekat kardan-e ozv ta asib-e bishtar be baft-ha, rag-ha va asab-ha naresad",
+     "final_resolution": "Bi-harekat kardan-e ozv ta asib-e bishtar be baft-ha, rag-ha va asab-ha naresad",
+     "notes": "",
+     "keywords": [
+      "atel-bandi"
+     ],
+     "distractors": [
+      "Ja andakhtan-e ostokhan ba dast",
+      "Tond kardan-e jaryan-e khoon dar mahall",
+      "Zedd-e ofooni kardan-e poost"
+     ]
+    }
+   }
+  }
+ ]
+}
