@@ -1,0 +1,819 @@
+{
+ "version": 98,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 991,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (بُرد تابع 1/x)",
+    "en": "Chapter 1: Functions (Range of 1/x)",
+    "tr": "Fasl 1: Tabe' (Bord-e 1/x)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "بُرد تابع ⁦f(x) = 1/x⁩ کدام است؟",
+     "grading_key": "- [1] ⁦ℝ − {0}⁩",
+     "final_resolution": "⁦ℝ − {0}⁩",
+     "notes": "",
+     "keywords": [
+      "بُرد تابع 1/x"
+     ],
+     "distractors": [
+      "⁦ℝ⁩",
+      "⁦(0, +∞)⁩",
+      "⁦ℤ⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the range of f(x) = 1/x?",
+     "grading_key": "- [1] ⁦ℝ − {0}⁩",
+     "final_resolution": "⁦ℝ − {0}⁩",
+     "notes": "",
+     "keywords": [
+      "range of 1/x"
+     ],
+     "distractors": [
+      "⁦ℝ⁩",
+      "⁦(0, +∞)⁩",
+      "⁦ℤ⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Bord-e tabe'-e f(x) = 1/x kodam ast?",
+     "grading_key": "- [1] ⁦ℝ − {0}⁩",
+     "final_resolution": "⁦ℝ − {0}⁩",
+     "notes": "",
+     "keywords": [
+      "bord-e 1/x"
+     ],
+     "distractors": [
+      "⁦ℝ⁩",
+      "⁦(0, +∞)⁩",
+      "⁦ℤ⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 991,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «کُوِّرَتْ» در عبارت زیر کدام است؟\n«إِذَا الشَّمْسُ کُوِّرَتْ.»",
+     "grading_key": "- [1] در هم پیچیده و تاریک شد",
+     "final_resolution": "در هم پیچیده و تاریک شد",
+     "notes": "",
+     "keywords": [
+      "کُوِّرَتْ"
+     ],
+     "distractors": [
+      "درخشان‌تر شد",
+      "گسترده شد",
+      "فرو افتاد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «کُوِّرَتْ» mean in this verse?\n«إِذَا الشَّمْسُ کُوِّرَتْ.»",
+     "grading_key": "- [1] Was wrapped up and darkened",
+     "final_resolution": "Was wrapped up and darkened",
+     "notes": "",
+     "keywords": [
+      "kuwwirat (was wrapped up, darkened)"
+     ],
+     "distractors": [
+      "Shone brighter",
+      "Spread wider",
+      "Fell down"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «kuwwirat» dar ebarat-e zir kodam ast?\n«إِذَا الشَّمْسُ کُوِّرَتْ.»",
+     "grading_key": "- [1] Dar ham pichide va tarik shod",
+     "final_resolution": "Dar ham pichide va tarik shod",
+     "notes": "",
+     "keywords": [
+      "kuwwirat"
+     ],
+     "distractors": [
+      "Derakhshan-tar shod",
+      "Gostarde shod",
+      "Foroo oftad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 991,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «انْکَدَرَتْ» در عبارت زیر کدام است؟\n«وَ إِذَا النُّجُومُ انْکَدَرَتْ.»",
+     "grading_key": "- [1] تیره و بی‌فروغ شدند",
+     "final_resolution": "تیره و بی‌فروغ شدند",
+     "notes": "",
+     "keywords": [
+      "انْکَدَرَتْ"
+     ],
+     "distractors": [
+      "بزرگ‌تر شدند",
+      "تندتر چرخیدند",
+      "بی‌حرکت ماندند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «انْکَدَرَتْ» mean in this verse?\n«وَ إِذَا النُّجُومُ انْکَدَرَتْ.»",
+     "grading_key": "- [1] Lost their light, grew dim",
+     "final_resolution": "Lost their light, grew dim",
+     "notes": "",
+     "keywords": [
+      "inkadarat (lost their light)"
+     ],
+     "distractors": [
+      "Grew larger",
+      "Spun faster",
+      "Stayed still"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «inkadarat» dar ebarat-e zir kodam ast?\n«وَ إِذَا النُّجُومُ انْکَدَرَتْ.»",
+     "grading_key": "- [1] Tire va bi-forough shodand",
+     "final_resolution": "Tire va bi-forough shodand",
+     "notes": "",
+     "keywords": [
+      "inkadarat"
+     ],
+     "distractors": [
+      "Bozorg-tar shodand",
+      "Tond-tar charkhidand",
+      "Bi-harekat mandand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 991,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «انْفَطَرَتْ» در عبارت زیر کدام است؟\n«إِذَا السَّمَاءُ انْفَطَرَتْ.»",
+     "grading_key": "- [1] شکافت",
+     "final_resolution": "شکافت",
+     "notes": "",
+     "keywords": [
+      "انْفَطَرَتْ"
+     ],
+     "distractors": [
+      "صاف و روشن شد",
+      "سوخت",
+      "به دریا ریخت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «انْفَطَرَتْ» mean in this verse?\n«إِذَا السَّمَاءُ انْفَطَرَتْ.»",
+     "grading_key": "- [1] Split apart",
+     "final_resolution": "Split apart",
+     "notes": "",
+     "keywords": [
+      "infatarat (split apart)"
+     ],
+     "distractors": [
+      "Became clear",
+      "Burned",
+      "Poured into the sea"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «infatarat» dar ebarat-e zir kodam ast?\n«إِذَا السَّمَاءُ انْفَطَرَتْ.»",
+     "grading_key": "- [1] Shekaft",
+     "final_resolution": "Shekaft",
+     "notes": "",
+     "keywords": [
+      "infatarat"
+     ],
+     "distractors": [
+      "Saf va rowshan shod",
+      "Sookht",
+      "Be darya rikht"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 991,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «انْتَثَرَتْ» در عبارت زیر کدام است؟\n«وَ إِذَا الْکَوَاکِبُ انْتَثَرَتْ.»",
+     "grading_key": "- [1] پراکنده شدند",
+     "final_resolution": "پراکنده شدند",
+     "notes": "",
+     "keywords": [
+      "انْتَثَرَتْ"
+     ],
+     "distractors": [
+      "به صف شدند",
+      "بزرگ‌تر شدند",
+      "ایستادند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «انْتَثَرَتْ» mean in this verse?\n«وَ إِذَا الْکَوَاکِبُ انْتَثَرَتْ.»",
+     "grading_key": "- [1] Were scattered",
+     "final_resolution": "Were scattered",
+     "notes": "",
+     "keywords": [
+      "intatharat (were scattered)"
+     ],
+     "distractors": [
+      "Lined up in rows",
+      "Grew larger",
+      "Stood still"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «intatharat» dar ebarat-e zir kodam ast?\n«وَ إِذَا الْکَوَاکِبُ انْتَثَرَتْ.»",
+     "grading_key": "- [1] Parakande shodand",
+     "final_resolution": "Parakande shodand",
+     "notes": "",
+     "keywords": [
+      "intatharat"
+     ],
+     "distractors": [
+      "Be saf shodand",
+      "Bozorg-tar shodand",
+      "Istadand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 991,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «غَرَّکَ» در عبارت زیر کدام است؟\n«یَا أَیُّهَا الْإِنْسَانُ مَا غَرَّکَ بِرَبِّکَ الْکَرِیمِ.»",
+     "grading_key": "- [1] تو را فریفت",
+     "final_resolution": "تو را فریفت",
+     "notes": "",
+     "keywords": [
+      "غَرَّکَ"
+     ],
+     "distractors": [
+      "به تو دانش آموخت",
+      "به تو یاری مالی کرد",
+      "تو را نگاه داشت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «غَرَّکَ» mean in this verse?\n«یَا أَیُّهَا الْإِنْسَانُ مَا غَرَّکَ بِرَبِّکَ الْکَرِیمِ.»",
+     "grading_key": "- [1] Deceived you, made you heedless",
+     "final_resolution": "Deceived you, made you heedless",
+     "notes": "",
+     "keywords": [
+      "gharraka (deceived you)"
+     ],
+     "distractors": [
+      "Taught you",
+      "Helped you with money",
+      "Kept you safe"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «gharraka» dar ebarat-e zir kodam ast?\n«یَا أَیُّهَا الْإِنْسَانُ مَا غَرَّکَ بِرَبِّکَ الْکَرِیمِ.»",
+     "grading_key": "- [1] To ra farift",
+     "final_resolution": "To ra farift",
+     "notes": "",
+     "keywords": [
+      "gharraka"
+     ],
+     "distractors": [
+      "Be to danesh amookht",
+      "Be to yari-ye mali kard",
+      "To ra negah dasht"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 991,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ملاطفت» در جملهٔ زیر چیست؟\n«آنان با ملاطفت و مهربانی، غبار اندوه را از چهرهٔ یتیمان زدودند.»",
+     "grading_key": "- [1] نرم‌خویی و مهربانی",
+     "final_resolution": "نرم‌خویی و مهربانی",
+     "notes": "",
+     "keywords": [
+      "ملاطفت"
+     ],
+     "distractors": [
+      "ستم و خشم",
+      "زور",
+      "گرانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ملاطفت» mean in this sentence?\n«آنان با ملاطفت و مهربانی، غبار اندوه را از چهرهٔ یتیمان زدودند.»",
+     "grading_key": "- [1] Gentle kindness",
+     "final_resolution": "Gentle kindness",
+     "notes": "",
+     "keywords": [
+      "molatefat (gentle kindness)"
+     ],
+     "distractors": [
+      "Cruelty and anger",
+      "Force",
+      "High prices"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «molatefat» dar jomle-ye zir chist?\n«آنان با ملاطفت و مهربانی، غبار اندوه را از چهرهٔ یتیمان زدودند.»",
+     "grading_key": "- [1] Narm-khooyi va mehrabani",
+     "final_resolution": "Narm-khooyi va mehrabani",
+     "notes": "",
+     "keywords": [
+      "molatefat"
+     ],
+     "distractors": [
+      "Setam va khashm",
+      "Zoor",
+      "Gerani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 991,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مودت» در جملهٔ زیر چیست؟\n«پیوند مودت میان مردم، مایهٔ استواری جامعه است.»",
+     "grading_key": "- [1] دوستی و محبت",
+     "final_resolution": "دوستی و محبت",
+     "notes": "",
+     "keywords": [
+      "مودت"
+     ],
+     "distractors": [
+      "دشمنی",
+      "سرمایه‌گذاری",
+      "خلأ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مودت» mean in this sentence?\n«پیوند مودت میان مردم، مایهٔ استواری جامعه است.»",
+     "grading_key": "- [1] Affection, friendship",
+     "final_resolution": "Affection, friendship",
+     "notes": "",
+     "keywords": [
+      "mavaddat (affection)"
+     ],
+     "distractors": [
+      "Hostility",
+      "An investment",
+      "Emptiness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mavaddat» dar jomle-ye zir chist?\n«پیوند مودت میان مردم، مایهٔ استواری جامعه است.»",
+     "grading_key": "- [1] Doosti va mohabbat",
+     "final_resolution": "Doosti va mohabbat",
+     "notes": "",
+     "keywords": [
+      "mavaddat"
+     ],
+     "distractors": [
+      "Doshmani",
+      "Sarmaye-gozari",
+      "Khala'"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 991,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «وقار» در جملهٔ زیر چیست؟\n«در آن کویر بی‌پایان، گویی شب با وقار خود بر جهان سایه می‌گستراند.»",
+     "grading_key": "- [1] سنگینی و متانت",
+     "final_resolution": "سنگینی و متانت",
+     "notes": "",
+     "keywords": [
+      "وقار"
+     ],
+     "distractors": [
+      "سبکی و جلفی",
+      "درد",
+      "خط"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «وقار» mean in this sentence?\n«در آن کویر بی‌پایان، گویی شب با وقار خود بر جهان سایه می‌گستراند.»",
+     "grading_key": "- [1] Dignified calm, gravity",
+     "final_resolution": "Dignified calm, gravity",
+     "notes": "",
+     "keywords": [
+      "veghar (dignified calm)"
+     ],
+     "distractors": [
+      "Lightness, frivolity",
+      "Pain",
+      "A line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «veghar» dar jomle-ye zir chist?\n«در آن کویر بی‌پایان، گویی شب با وقار خود بر جهان سایه می‌گستراند.»",
+     "grading_key": "- [1] Sangini va metanat",
+     "final_resolution": "Sangini va metanat",
+     "notes": "",
+     "keywords": [
+      "veghar"
+     ],
+     "distractors": [
+      "Sabki va jelfi",
+      "Dard",
+      "Khatt"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 991,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: اسلوب معادله)",
+    "en": "Persian 3 (Literary Devices: Poetic Equation)",
+    "tr": "Adabiyat-e Farsi 3 (Osloob-e Moadele)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "هرگاه یک مصراع ادعایی باشد و مصراع دیگر مثالی برای آن، چنان‌که بتوان جای دو مصراع را عوض کرد و میانشان نشانهٔ برابری گذاشت، کدام آرایه است؟",
+     "grading_key": "- [1] اسلوب معادله",
+     "final_resolution": "اسلوب معادله",
+     "notes": "",
+     "keywords": [
+      "اسلوب معادله"
+     ],
+     "distractors": [
+      "ترصیع",
+      "جناس تام",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "When one half-line makes a claim and the other gives an example of it, so the two can swap places with an equals sign between them, which device is it?",
+     "grading_key": "- [1] Osloob-e moadele (poetic equation)",
+     "final_resolution": "Osloob-e moadele (poetic equation)",
+     "notes": "",
+     "keywords": [
+      "osloob-e moadele (poetic equation)"
+     ],
+     "distractors": [
+      "Tarsi' (jewelled balance)",
+      "Jinas-e tam (perfect pun)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Hargah yek mesra' edde'ayi bashad va mesra'-e digar mesali baraye an, chenan-ke betavan jaye do mesra' ra avaz kard va miyaneshan neshane-ye barabari gozasht, kodam araye ast?",
+     "grading_key": "- [1] Osloob-e moadele",
+     "final_resolution": "Osloob-e moadele",
+     "notes": "",
+     "keywords": [
+      "osloob-e moadele"
+     ],
+     "distractors": [
+      "Tarsi'",
+      "Jenas-e tam",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 991,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «کارگزاران و فرستادگان دولتی» است، کدام است؟",
+     "grading_key": "- [1] مأموران",
+     "final_resolution": "مأموران",
+     "notes": "",
+     "keywords": [
+      "مأموران"
+     ],
+     "distractors": [
+      "معموران",
+      "محموران",
+      "مامعوران"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'government officials, envoys'?",
+     "grading_key": "- [1] مأموران",
+     "final_resolution": "مأموران",
+     "notes": "",
+     "keywords": [
+      "ma'mooran (officials)"
+     ],
+     "distractors": [
+      "معموران",
+      "محموران",
+      "مامعوران"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'kargozaran va ferestadegan-e dowlati' ast, kodam ast?",
+     "grading_key": "- [1] مأموران",
+     "final_resolution": "مأموران",
+     "notes": "",
+     "keywords": [
+      "ma'mooran"
+     ],
+     "distractors": [
+      "معموران",
+      "محموران",
+      "مامعوران"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 991,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام شاخص برای سنجش و اعلام روزانهٔ شدت پرتو فرابنفش خورشید، برای محافظت از پوست، به کار می‌رود؟",
+     "grading_key": "- [1] شاخص پرتو فرابنفش (UV Index)",
+     "final_resolution": "شاخص پرتو فرابنفش (UV Index)",
+     "notes": "",
+     "keywords": [
+      "شاخص UV"
+     ],
+     "distractors": [
+      "شاخص کیفیت هوا (AQI)",
+      "دسی‌بل",
+      "هرتز"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which index is used to measure and report the daily strength of the sun's ultraviolet rays, to protect the skin?",
+     "grading_key": "- [1] The UV index",
+     "final_resolution": "The UV index",
+     "notes": "",
+     "keywords": [
+      "UV index"
+     ],
+     "distractors": [
+      "The Air Quality Index (AQI)",
+      "Decibels",
+      "Hertz"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam shakhes baraye sanjesh va e'lam-e roozane-ye shoddat-e parto-ye farabanafsh-e khorshid, baraye mohafezat az poost, be kar miravad?",
+     "grading_key": "- [1] Shakhes-e parto-ye farabanafsh (UV Index)",
+     "final_resolution": "Shakhes-e parto-ye farabanafsh (UV Index)",
+     "notes": "",
+     "keywords": [
+      "shakhes-e UV"
+     ],
+     "distractors": [
+      "Shakhes-e keyfiyat-e hava (AQI)",
+      "Desibel",
+      "Hertz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 991,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سنگین، که از معدن‌کاری و ذوب فلز وارد خاک می‌شود، حساسیت پوستی (درماتیت) و سرطان راه‌های تنفسی پدید می‌آورد؟",
+     "grading_key": "- [1] نیکل",
+     "final_resolution": "نیکل",
+     "notes": "",
+     "keywords": [
+      "نیکل"
+     ],
+     "distractors": [
+      "آهن",
+      "کلسیم",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which heavy metal, entering the soil from mining and smelting, causes skin allergy (dermatitis) and cancers of the airways?",
+     "grading_key": "- [1] Nickel",
+     "final_resolution": "Nickel",
+     "notes": "",
+     "keywords": [
+      "nickel"
+     ],
+     "distractors": [
+      "Iron",
+      "Calcium",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sangin, ke az ma'dan-kari va zob-e felez vared-e khak mishavad, hasasiyat-e poosti (dermatit) va saratan-e rah-haye tanaffosi padid miavarad?",
+     "grading_key": "- [1] Nikel",
+     "final_resolution": "Nikel",
+     "notes": "",
+     "keywords": [
+      "nikel"
+     ],
+     "distractors": [
+      "Ahan",
+      "Kalsiyom",
+      "Heliyom"
+     ]
+    }
+   }
+  }
+ ]
+}
