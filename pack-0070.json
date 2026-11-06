@@ -1,0 +1,947 @@
+{
+ "version": 70,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 963,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (تقعر)",
+    "en": "Chapter 5: Applications of Derivatives (Concavity)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Taghaor)",
+    "pages": "88–90"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "اگر در یک بازه همواره ⁦f″(x) > 0⁩ باشد، تقعر نمودار تابع در آن بازه به کدام سو است؟",
+     "grading_key": "- [1] رو به بالا",
+     "final_resolution": "رو به بالا",
+     "notes": "",
+     "keywords": [
+      "تقعر"
+     ],
+     "distractors": [
+      "رو به پایین",
+      "یک در میان به چپ و راست",
+      "نمودار خط افقی است"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "If f″(x) > 0 throughout an interval, which way does the graph's concavity face there?",
+     "grading_key": "- [1] Upward",
+     "final_resolution": "Upward",
+     "notes": "",
+     "keywords": [
+      "concavity"
+     ],
+     "distractors": [
+      "Downward",
+      "Alternately left and right",
+      "The graph is a horizontal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Agar dar yek baze hamvare f″(x) > 0 bashad, taghaor-e nemoodar-e tabe dar an baze be kodam soo ast?",
+     "grading_key": "- [1] Roo be bala",
+     "final_resolution": "Roo be bala",
+     "notes": "",
+     "keywords": [
+      "taghaor"
+     ],
+     "distractors": [
+      "Roo be payin",
+      "Yek dar miyan be chap va rast",
+      "Nemoodar khatt-e ofoghi ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 963,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (نقطهٔ عطف)",
+    "en": "Chapter 5: Applications of Derivatives (Inflection Points)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Noghte-ye Atf)",
+    "pages": "90–92"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "نقطه‌ای از نمودار تابع پیوسته که جهت تقعر در آن عوض می‌شود و خط مماس دارد، چه نام دارد؟",
+     "grading_key": "- [1] نقطهٔ عطف",
+     "final_resolution": "نقطهٔ عطف",
+     "notes": "",
+     "keywords": [
+      "نقطهٔ عطف"
+     ],
+     "distractors": [
+      "نقطهٔ بحرانی",
+      "ماکزیمم نسبی",
+      "مینیمم مطلق"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "What is a point on the graph of a continuous function, where the concavity changes and there is a tangent line, called?",
+     "grading_key": "- [1] An inflection point",
+     "final_resolution": "An inflection point",
+     "notes": "",
+     "keywords": [
+      "inflection point"
+     ],
+     "distractors": [
+      "A critical point",
+      "A relative maximum",
+      "An absolute minimum"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Noghte-i az nemoodar-e tabe-e peyvaste ke jahat-e taghaor dar an avaz mishavad va khatt-e mamas darad, che nam darad?",
+     "grading_key": "- [1] Noghte-ye atf",
+     "final_resolution": "Noghte-ye atf",
+     "notes": "",
+     "keywords": [
+      "noghte-ye atf"
+     ],
+     "distractors": [
+      "Noghte-ye bohrani",
+      "Maksimom-e nesbi",
+      "Minimom-e motlagh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 963,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (معادلات مثلثاتی)",
+    "en": "Chapter 2: Trigonometry (Trigonometric Equations)",
+    "tr": "Fasl 2: Mosallasat (Moadelat)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "جواب کلی معادلهٔ ⁦cos x = 1⁩ کدام است؟ (⁦k⁩ عدد صحیح است)",
+     "grading_key": "- [1] ⁦x = 2kπ⁩",
+     "final_resolution": "⁦x = 2kπ⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ مثلثاتی"
+     ],
+     "distractors": [
+      "⁦x = kπ⁩",
+      "⁦x = 2kπ + π⁩",
+      "⁦x = kπ + π/2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is the general solution of cos x = 1? (k is an integer)",
+     "grading_key": "- [1] ⁦x = 2kπ⁩",
+     "final_resolution": "⁦x = 2kπ⁩",
+     "notes": "",
+     "keywords": [
+      "trigonometric equation"
+     ],
+     "distractors": [
+      "⁦x = kπ⁩",
+      "⁦x = 2kπ + π⁩",
+      "⁦x = kπ + π/2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Javab-e kolli-ye moadele-ye cos x = 1 kodam ast? (k adad-e sahih ast)",
+     "grading_key": "- [1] ⁦x = 2kπ⁩",
+     "final_resolution": "⁦x = 2kπ⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye mosallasati"
+     ],
+     "distractors": [
+      "⁦x = kπ⁩",
+      "⁦x = 2kπ + π⁩",
+      "⁦x = kπ + π/2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 963,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (پیشامدهای مستقل)",
+    "en": "Chapter 7: Probability (Independent Events)",
+    "tr": "Fasl 7: Ehtemal (Mostaghel)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "اگر رخ دادن پیشامد ⁦A⁩ هیچ اثری بر احتمال رخ دادن ⁦B⁩ نداشته باشد، این دو پیشامد چه نام دارند؟",
+     "grading_key": "- [1] پیشامدهای مستقل",
+     "final_resolution": "پیشامدهای مستقل",
+     "notes": "",
+     "keywords": [
+      "پیشامدهای مستقل"
+     ],
+     "distractors": [
+      "پیشامدهای ناسازگار",
+      "پیشامدهای وابسته",
+      "افراز فضای نمونه"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "If A happening has no effect at all on the probability of B, what are the two events called?",
+     "grading_key": "- [1] Independent events",
+     "final_resolution": "Independent events",
+     "notes": "",
+     "keywords": [
+      "independent events"
+     ],
+     "distractors": [
+      "Mutually exclusive events",
+      "Dependent events",
+      "A partition of the sample space"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Agar rokh dadan-e pishamad-e A hich asari bar ehtemal-e rokh dadan-e B nadashte bashad, in do pishamad che nam darand?",
+     "grading_key": "- [1] Pishamad-haye mostaghel",
+     "final_resolution": "Pishamad-haye mostaghel",
+     "notes": "",
+     "keywords": [
+      "pishamad-haye mostaghel"
+     ],
+     "distractors": [
+      "Pishamad-haye nasazegar",
+      "Pishamad-haye vabaste",
+      "Efraz-e faza-ye nemoone"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 963,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (قلمروهای امامت: ولایت ظاهری)",
+    "en": "Religion and Life (Spheres of Imamate: Government)",
+    "tr": "Din va Zendegi (Velayat-e Zaheri)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "حق حکومت، ادارهٔ امور جامعه و اجرای قوانین الهی پس از پیامبر (ص)، کدام قلمرو امامت است؟",
+     "grading_key": "- [1] ولایت ظاهری (حکومت)",
+     "final_resolution": "ولایت ظاهری (حکومت)",
+     "notes": "",
+     "keywords": [
+      "ولایت ظاهری"
+     ],
+     "distractors": [
+      "مرجعیت دینی",
+      "ولایت معنوی",
+      "دریافت وحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "The right to govern, run society's affairs and carry out the divine laws after the Prophet is which sphere of the Imamate?",
+     "grading_key": "- [1] Outward guardianship (government)",
+     "final_resolution": "Outward guardianship (government)",
+     "notes": "",
+     "keywords": [
+      "outward guardianship (government)"
+     ],
+     "distractors": [
+      "Religious authority",
+      "Spiritual guardianship",
+      "Receiving revelation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Hagh-e hokoomat, edare-ye omoor-e jame va ejra-ye ghavanin-e elahi pas az Payambar, kodam ghalamro-ye emamat ast?",
+     "grading_key": "- [1] Velayat-e zaheri (hokoomat)",
+     "final_resolution": "Velayat-e zaheri (hokoomat)",
+     "notes": "",
+     "keywords": [
+      "velayat-e zaheri"
+     ],
+     "distractors": [
+      "Marjaiyat-e dini",
+      "Velayat-e manavi",
+      "Daryaft-e vahy"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 963,
+   "topic_tag": "divine-laws",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: سنت‌های خداوند در زندگی (سنت املا)",
+    "en": "Lesson 6: Divine Laws in Life (Respite)",
+    "tr": "Dars 6: Sonnat-haye Khodavand (Emla)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سنت‌های خداوند در زندگی",
+     "question": "سنتی که به گناهکاران سرکش مهلت می‌دهد تا بر گناه خود بیفزایند و بار سنگین‌تری بردارند، چه نام دارد؟",
+     "grading_key": "- [1] سنت املا (مهلت دادن)",
+     "final_resolution": "سنت املا (مهلت دادن)",
+     "notes": "",
+     "keywords": [
+      "سنت املا"
+     ],
+     "distractors": [
+      "سنت توفیق",
+      "سنت ابتلا",
+      "سنت سبقت رحمت بر غضب"
+     ]
+    },
+    "en": {
+     "topic_label": "Divine Laws in Life",
+     "question": "Which divine law gives defiant sinners time, so that they add to their sins and carry a heavier load?",
+     "grading_key": "- [1] Respite (imla)",
+     "final_resolution": "Respite (imla)",
+     "notes": "",
+     "keywords": [
+      "law of respite (imla)"
+     ],
+     "distractors": [
+      "Divine success (towfiq)",
+      "Trial (ebtela)",
+      "Mercy outpacing wrath"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sonnat-haye Khodavand dar Zendegi",
+     "question": "Sonnati ke be gonahkaran-e sarkesh mohlat midahad ta bar gonah-e khod biafzayand, che nam darad?",
+     "grading_key": "- [1] Sonnat-e emla (mohlat dadan)",
+     "final_resolution": "Sonnat-e emla (mohlat dadan)",
+     "notes": "",
+     "keywords": [
+      "sonnat-e emla"
+     ],
+     "distractors": [
+      "Sonnat-e towfigh",
+      "Sonnat-e ebtela",
+      "Sonnat-e sebghat-e rahmat bar ghazab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 963,
+   "topic_tag": "divine-rulings",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: زندگی در دنیای امروز و عمل به احکام الهی (شرایط مرجع تقلید)",
+    "en": "Lesson 8: Life Today and Following the Divine Rulings (The Jurist Followed)",
+    "tr": "Dars 8: Zendegi dar Donya-ye Emrooz",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "زندگی در دنیای امروز و عمل به احکام الهی",
+     "question": "شرط اعلم و عادل بودن فقیهی که مردم از او تقلید می‌کنند، برای چیست؟",
+     "grading_key": "- [1] تا عمل مردم درست با شریعت منطبق شود",
+     "final_resolution": "تا عمل مردم درست با شریعت منطبق شود",
+     "notes": "",
+     "keywords": [
+      "شرایط مرجع تقلید"
+     ],
+     "distractors": [
+      "گردآوری ثروت",
+      "به دست آوردن قدرت دنیوی",
+      "از میان بردن همهٔ اختلاف‌های حقوقی کشورها"
+     ]
+    },
+    "en": {
+     "topic_label": "Life Today and Following the Divine Rulings",
+     "question": "Why must the jurist people follow be the most learned and just?",
+     "grading_key": "- [1] So that people's practice truly matches the divine law",
+     "final_resolution": "So that people's practice truly matches the divine law",
+     "notes": "",
+     "keywords": [
+      "conditions for the jurist one follows"
+     ],
+     "distractors": [
+      "To gather wealth",
+      "To gain worldly power",
+      "To remove every legal difference between countries"
+     ]
+    },
+    "tr": {
+     "topic_label": "Zendegi dar Donya-ye Emrooz",
+     "question": "Shart-e aalam va adel boodan-e faghihi ke mardom az oo taghlid mikonand, baraye chist?",
+     "grading_key": "- [1] Ta amal-e mardom dorost ba shariat montabegh shavad",
+     "final_resolution": "Ta amal-e mardom dorost ba shariat montabegh shavad",
+     "notes": "",
+     "keywords": [
+      "sharayet-e marja-e taghlid"
+     ],
+     "distractors": [
+      "Gerdavari-ye servat",
+      "Be dast avardan-e ghodrat-e donyavi",
+      "Az miyan bordan-e hame-ye ekhtelaf-haye hoghooghi-ye keshvar-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 963,
+   "topic_tag": "modern-civilization",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱۰: تمدن جدید و مسئولیت ما (گام نخست)",
+    "en": "Lesson 10: Modern Civilization and Our Responsibility (First Step)",
+    "tr": "Dars 10: Tamaddon-e Jadid",
+    "pages": "116–118"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تمدن جدید و مسئولیت ما",
+     "question": "بنابر درس دهم، نخستین گام نسل جوان مسلمان برای ورود فعال به ساختن تمدن نوین اسلامی چیست؟",
+     "grading_key": "- [1] ژرف کردن آگاهی دینی و توانمندی علمی",
+     "final_resolution": "ژرف کردن آگاهی دینی و توانمندی علمی",
+     "notes": "",
+     "keywords": [
+      "گام نخست تمدن‌سازی"
+     ],
+     "distractors": [
+      "پذیرش منفعلانهٔ اندیشه‌های بیگانه",
+      "کنار گذاشتن ابزارهای ارتباطی نو",
+      "تقلید ظاهری از الگوهای گذشته"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Civilization and Our Responsibility",
+     "question": "By lesson ten, what is the first step for young Muslims to take an active part in building a new Islamic civilization?",
+     "grading_key": "- [1] Deepening religious understanding and scientific strength",
+     "final_resolution": "Deepening religious understanding and scientific strength",
+     "notes": "",
+     "keywords": [
+      "first step in building a civilization"
+     ],
+     "distractors": [
+      "Passively taking on foreign ideas",
+      "Giving up modern means of communication",
+      "Copying the outward forms of the past"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamaddon-e Jadid va Masooliyat-e Ma",
+     "question": "Bena bar dars-e dahom, nakhostin gam-e nasl-e javan-e mosalman baraye vorood-e faal be sakhtan-e tamaddon-e novin-e eslami chist?",
+     "grading_key": "- [1] Zharf kardan-e agahi-ye dini va tavanmandi-ye elmi",
+     "final_resolution": "Zharf kardan-e agahi-ye dini va tavanmandi-ye elmi",
+     "notes": "",
+     "keywords": [
+      "gam-e nakhost-e tamaddon-sazi"
+     ],
+     "distractors": [
+      "Paziresh-e monfaelane-ye andishe-haye bigane",
+      "Kenar gozashtan-e abzar-haye ertebati-ye no",
+      "Taghlid-e zaheri az olgoo-haye gozashte"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 963,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «الْقَنَاعَة» در عبارت زیر کدام است؟\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] قناعت، خرسندی",
+     "final_resolution": "قناعت، خرسندی",
+     "notes": "",
+     "keywords": [
+      "القَناعَة"
+     ],
+     "distractors": [
+      "آز",
+      "تجارت",
+      "خودبزرگ‌بینی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْقَنَاعَة» mean in this saying?\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] Contentment",
+     "final_resolution": "Contentment",
+     "notes": "",
+     "keywords": [
+      "qana'a (contentment)"
+     ],
+     "distractors": [
+      "Greed",
+      "Trade",
+      "Arrogance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «al-qana'a» dar ebarat-e zir kodam ast?\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] Ghenaat, khorsandi",
+     "final_resolution": "Ghenaat, khorsandi",
+     "notes": "",
+     "keywords": [
+      "al-qana'a"
+     ],
+     "distractors": [
+      "Az",
+      "Tejarat",
+      "Khod-bozorg-bini"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 963,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان)",
+    "en": "Arabic 3 (Vocabulary)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «زَرَعَ» در عبارت زیر کدام است؟\n«وَ لَا یَمْلِکُ حَاصِلَ الْعُمْرِ إِلَّا الَّذِی زَرَعَ الْخَیْرَ.»",
+     "grading_key": "- [1] کاشت",
+     "final_resolution": "کاشت",
+     "notes": "",
+     "keywords": [
+      "زَرَعَ"
+     ],
+     "distractors": [
+      "درو کرد",
+      "سوزاند",
+      "خرید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «زَرَعَ» mean in this saying?\n«وَ لَا یَمْلِکُ حَاصِلَ الْعُمْرِ إِلَّا الَّذِی زَرَعَ الْخَیْرَ.»",
+     "grading_key": "- [1] Planted",
+     "final_resolution": "Planted",
+     "notes": "",
+     "keywords": [
+      "zara'a (planted)"
+     ],
+     "distractors": [
+      "Harvested",
+      "Burned",
+      "Bought"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «zara'a» dar ebarat-e zir kodam ast?\n«وَ لَا یَمْلِکُ حَاصِلَ الْعُمْرِ إِلَّا الَّذِی زَرَعَ الْخَیْرَ.»",
+     "grading_key": "- [1] Kasht",
+     "final_resolution": "Kasht",
+     "notes": "",
+     "keywords": [
+      "zara'a"
+     ],
+     "distractors": [
+      "Deroo kard",
+      "Soozand",
+      "Kharid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 963,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (مردم‌سالاری دینی)",
+    "en": "Lesson 8: Politics and the Political System (Religious Democracy)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظامی که حاکمیت در آن بر پایهٔ خواست و مشارکت مردم اما در چارچوب قوانین و ارزش‌های الهی است، چه نام دارد؟",
+     "grading_key": "- [1] مردم‌سالاری دینی",
+     "final_resolution": "مردم‌سالاری دینی",
+     "notes": "",
+     "keywords": [
+      "مردم‌سالاری دینی"
+     ],
+     "distractors": [
+      "دموکراسی لیبرال",
+      "اشرافیت سکولار",
+      "رژیم تمامیت‌خواه"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What is a system called in which rule rests on the people's will and participation, but within divine law and values?",
+     "grading_key": "- [1] Religious democracy",
+     "final_resolution": "Religious democracy",
+     "notes": "",
+     "keywords": [
+      "religious democracy"
+     ],
+     "distractors": [
+      "Liberal democracy",
+      "Secular aristocracy",
+      "A totalitarian regime"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezami ke hakemiyat dar an bar paye-ye khast va mosharekat-e mardom amma dar charchoob-e ghavanin va arzesh-haye elahi ast, che nam darad?",
+     "grading_key": "- [1] Mardom-salari-ye dini",
+     "final_resolution": "Mardom-salari-ye dini",
+     "notes": "",
+     "keywords": [
+      "mardom-salari-ye dini"
+     ],
+     "distractors": [
+      "Demokrasi-ye liberal",
+      "Ashrafiyat-e sekolar",
+      "Rezhim-e tamamiyat-khah"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 963,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی (زور)",
+    "en": "Lesson 6: Social Power (Force)",
+    "tr": "Dars 6: Ghodrat-e Ejtemai (Zoor)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "قدرتی که بی‌پشتوانهٔ قانونی، عقلی یا شرعی و تنها با تکیه بر تنبیه جسمی تحمیل شود، چه نام دارد؟",
+     "grading_key": "- [1] زور عریان",
+     "final_resolution": "زور عریان",
+     "notes": "",
+     "keywords": [
+      "زور عریان"
+     ],
+     "distractors": [
+      "اقتدار مشروع",
+      "نفوذ کاریزمایی",
+      "ساختار اداری"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What is power called that is forced on people without legal, rational or religious backing, resting only on physical punishment?",
+     "grading_key": "- [1] Naked force",
+     "final_resolution": "Naked force",
+     "notes": "",
+     "keywords": [
+      "naked force"
+     ],
+     "distractors": [
+      "Legitimate authority",
+      "Charismatic influence",
+      "Administrative structure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Ghodrati ke bi-poshtvane-ye ghanooni, aghli ya sharei va tanha ba tekye bar tanbih-e jesmi tahmil shavad, che nam darad?",
+     "grading_key": "- [1] Zoor-e oryan",
+     "final_resolution": "Zoor-e oryan",
+     "notes": "",
+     "keywords": [
+      "zoor-e oryan"
+     ],
+     "distractors": [
+      "Eghtedar-e mashroo",
+      "Nofooz-e karizmayi",
+      "Sakhtar-e edari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 963,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کویر (قلمرو زبانی: واژگان)",
+    "en": "Kavir (Vocabulary)",
+    "tr": "Kavir (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «سطوت» در جملهٔ زیر چیست؟\n«در کویر، آدمی غرق در سطوت و عظمت آسمان می‌شود.»",
+     "grading_key": "- [1] شکوه و هیبت",
+     "final_resolution": "شکوه و هیبت",
+     "notes": "",
+     "keywords": [
+      "سطوت"
+     ],
+     "distractors": [
+      "آرامش",
+      "تهیدستی",
+      "توفان شن"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «سطوت» mean in this sentence?\n«در کویر، آدمی غرق در سطوت و عظمت آسمان می‌شود.»",
+     "grading_key": "- [1] Majesty, awe",
+     "final_resolution": "Majesty, awe",
+     "notes": "",
+     "keywords": [
+      "satvat (majesty)"
+     ],
+     "distractors": [
+      "Quiet",
+      "Poverty",
+      "A sandstorm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «satvat» dar jomle-ye zir chist?\n«در کویر، آدمی غرق در سطوت و عظمت آسمان می‌شود.»",
+     "grading_key": "- [1] Shokooh va heybat",
+     "final_resolution": "Shokooh va heybat",
+     "notes": "",
+     "keywords": [
+      "satvat"
+     ],
+     "distractors": [
+      "Aramesh",
+      "Tahidasti",
+      "Toofan-e shen"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 963,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "قلمرو ادبی (تلمیح)",
+    "en": "Literary Devices (Allusion)",
+    "tr": "Arayeh-ha (Talmih)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "اشارهٔ شاعر یا نویسنده به داستانی تاریخی، آیه‌ای از قرآن یا رویدادی مذهبی، کدام آرایه است؟",
+     "grading_key": "- [1] تلمیح",
+     "final_resolution": "تلمیح",
+     "notes": "",
+     "keywords": [
+      "تلمیح"
+     ],
+     "distractors": [
+      "ایهام",
+      "حسن تعلیل",
+      "سجع"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "A writer pointing to a historical story, a Quranic verse or a religious event is which device?",
+     "grading_key": "- [1] Allusion (talmih)",
+     "final_resolution": "Allusion (talmih)",
+     "notes": "",
+     "keywords": [
+      "allusion (talmih)"
+     ],
+     "distractors": [
+      "Iham (double meaning)",
+      "Husn-e ta'lil (poetic cause)",
+      "Saj' (rhymed prose)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Esharat-e shaer ya nevisande be dastani tarikhi, aye-i az Ghoran ya rooydadi mazhabi, kodam arayeh ast?",
+     "grading_key": "- [1] Talmih",
+     "final_resolution": "Talmih",
+     "notes": "",
+     "keywords": [
+      "talmih"
+     ],
+     "distractors": [
+      "Iham",
+      "Hosn-e ta'lil",
+      "Saj'"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 963,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "از پاریز تا پاریس (قلمرو زبانی: املا)",
+    "en": "From Pariz to Paris (Spelling)",
+    "tr": "Az Pariz ta Paris (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «جهانگردان» است، کدام است؟",
+     "grading_key": "- [1] سیاحان",
+     "final_resolution": "سیاحان",
+     "notes": "",
+     "keywords": [
+      "سیاحان"
+     ],
+     "distractors": [
+      "صیاحان",
+      "سیاه‌حان",
+      "صیّاحان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'travellers'?",
+     "grading_key": "- [1] سیاحان",
+     "final_resolution": "سیاحان",
+     "notes": "",
+     "keywords": [
+      "sayyahan (travellers)"
+     ],
+     "distractors": [
+      "صیاحان",
+      "سیاه‌حان",
+      "صیّاحان"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'jahangardan' ast, kodam ast?",
+     "grading_key": "- [1] سیاحان",
+     "final_resolution": "سیاحان",
+     "notes": "",
+     "keywords": [
+      "sayyahan"
+     ],
+     "distractors": [
+      "صیاحان",
+      "سیاه‌حان",
+      "صیّاحان"
+     ]
+    }
+   }
+  }
+ ]
+}
