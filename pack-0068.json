@@ -1,0 +1,831 @@
+{
+ "version": 68,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 961,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد بی‌نهایت و حد در بی‌نهایت (گفتار ۲: حد در بی‌نهایت)",
+    "en": "Chapter 3: Infinite Limits and Limits at Infinity (Section 2)",
+    "tr": "Fasl 3: Had-e Bi-nahayat (Goftar 2)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = (8x − 2)/(2x + 5)⁩ وقتی ⁦x⁩ به ⁦+∞⁩ میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−2/5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = (8x − 2)/(2x + 5) as x tends to +∞?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "limits at infinity"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−2/5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe-e f(x) = (8x − 2)/(2x + 5) vaghti x be +∞ meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "had dar bi-nahayat"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−2/5⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 961,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (قاعدهٔ زنجیره‌ای)",
+    "en": "Chapter 4: Derivatives (The Chain Rule)",
+    "tr": "Fasl 4: Moshtagh (Zanjirei)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = √(3x + 1)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦3/(2√(3x + 1))⁩",
+     "final_resolution": "⁦3/(2√(3x + 1))⁩",
+     "notes": "",
+     "keywords": [
+      "قاعدهٔ زنجیره‌ای"
+     ],
+     "distractors": [
+      "⁦1/(2√(3x + 1))⁩",
+      "⁦3/√(3x + 1)⁩",
+      "⁦√(3x + 1)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = √(3x + 1)?",
+     "grading_key": "- [1] ⁦3/(2√(3x + 1))⁩",
+     "final_resolution": "⁦3/(2√(3x + 1))⁩",
+     "notes": "",
+     "keywords": [
+      "chain rule"
+     ],
+     "distractors": [
+      "⁦1/(2√(3x + 1))⁩",
+      "⁦3/√(3x + 1)⁩",
+      "⁦√(3x + 1)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe-e f(x) = √(3x + 1) kodam ast?",
+     "grading_key": "- [1] ⁦3/(2√(3x + 1))⁩",
+     "final_resolution": "⁦3/(2√(3x + 1))⁩",
+     "notes": "",
+     "keywords": [
+      "ghaede-ye zanjirei"
+     ],
+     "distractors": [
+      "⁦1/(2√(3x + 1))⁩",
+      "⁦3/√(3x + 1)⁩",
+      "⁦√(3x + 1)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 961,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (توابع صعودی و نزولی)",
+    "en": "Chapter 1: Functions (Increasing and Decreasing Functions)",
+    "tr": "Fasl 1: Tabe (Sooudi va Nozooli)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر در یک بازه، با افزایش ⁦x⁩ مقدار ⁦f(x)⁩ هرگز زیاد نشود (کوچک‌تر یا مساوی مقدار پیشین باشد)، تابع در آن بازه چه نام دارد؟",
+     "grading_key": "- [1] نزولی",
+     "final_resolution": "نزولی",
+     "notes": "",
+     "keywords": [
+      "تابع نزولی"
+     ],
+     "distractors": [
+      "اکیداً نزولی",
+      "صعودی",
+      "اکیداً صعودی"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If on an interval f(x) never goes up as x increases (each value is less than or equal to the one before), what is the function called there?",
+     "grading_key": "- [1] Decreasing (non-increasing)",
+     "final_resolution": "Decreasing (non-increasing)",
+     "notes": "",
+     "keywords": [
+      "decreasing (non-increasing) function"
+     ],
+     "distractors": [
+      "Strictly decreasing",
+      "Increasing",
+      "Strictly increasing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar dar yek baze, ba afzayesh-e x meghdar-e f(x) hargez ziyad nashavad, tabe dar an baze che nam darad?",
+     "grading_key": "- [1] Nozooli",
+     "final_resolution": "Nozooli",
+     "notes": "",
+     "keywords": [
+      "tabe-e nozooli"
+     ],
+     "distractors": [
+      "Akidan nozooli",
+      "Sooudi",
+      "Akidan sooudi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 961,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: هستی‌بخش (نیاز در پیدایش و بقا)",
+    "en": "Lesson 1: The Giver of Being (Need in Coming to Be and Continuing)",
+    "tr": "Dars 1: Hasti-bakhsh",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "در درس اول، کدام مثال نیازی را نشان می‌دهد که تنها در «پیدایش» است و پس از آن از میان می‌رود (برخلاف نیاز موجودات به خدا)؟",
+     "grading_key": "- [1] نیاز ساختمان به بنّا",
+     "final_resolution": "نیاز ساختمان به بنّا",
+     "notes": "",
+     "keywords": [
+      "بنا و بنّا"
+     ],
+     "distractors": [
+      "نیاز روشنایی لامپ به جریان برق",
+      "کار کردن ساعت به‌خودی‌خود",
+      "بازتاب نور در آینه"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "In lesson one, which example shows a need that exists only in coming to be and then ends (unlike every being's need of God)?",
+     "grading_key": "- [1] A building's need of its builder",
+     "final_resolution": "A building's need of its builder",
+     "notes": "",
+     "keywords": [
+      "the building and its builder"
+     ],
+     "distractors": [
+      "A lamp's light needing electricity",
+      "A clock running by itself",
+      "Light reflected in a mirror"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Dar dars-e aval, kodam mesal niyazi ra neshan midahad ke tanha dar «peydayesh» ast va pas az an az miyan miravad?",
+     "grading_key": "- [1] Niyaz-e sakhteman be banna",
+     "final_resolution": "Niyaz-e sakhteman be banna",
+     "notes": "",
+     "keywords": [
+      "bana va banna"
+     ],
+     "distractors": [
+      "Niyaz-e roshanayi-ye lamp be jaryan-e bargh",
+      "Kar kardan-e saat be khodi-ye khod",
+      "Baztab-e noor dar ayene"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 961,
+   "topic_tag": "afterlife",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (معاد: برهان عدل)",
+    "en": "Religion and Life (The Afterlife: Argument from Justice)",
+    "tr": "Din va Zendegi (Ma'ad: Borhan-e Adl)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "معاد",
+     "question": "اینکه پاداش و کیفر کامل نیکوکاران و بدکاران در دنیا شدنی نیست و عدل الهی برپایی سرای آخرت را لازم می‌کند، کدام دلیل ضرورت معاد است؟",
+     "grading_key": "- [1] برهان عدل",
+     "final_resolution": "برهان عدل",
+     "notes": "",
+     "keywords": [
+      "برهان عدل"
+     ],
+     "distractors": [
+      "برهان حکمت",
+      "برهان حرکت",
+      "برهان فطرت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Afterlife",
+     "question": "That the full reward of the good and punishment of the wicked cannot happen in this world, so God's justice requires the hereafter, is which argument for the afterlife?",
+     "grading_key": "- [1] The argument from justice",
+     "final_resolution": "The argument from justice",
+     "notes": "",
+     "keywords": [
+      "argument from justice"
+     ],
+     "distractors": [
+      "The argument from wisdom",
+      "The argument from motion",
+      "The argument from innate nature"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ma'ad",
+     "question": "Inke padash va keyfar-e kamel-e nikookaran va badkaran dar donya shodani nist va adl-e elahi barpayi-ye saray-e akherat ra lazem mikonad, kodam dalil-e zaroorat-e maad ast?",
+     "grading_key": "- [1] Borhan-e adl",
+     "final_resolution": "Borhan-e adl",
+     "notes": "",
+     "keywords": [
+      "borhan-e adl"
+     ],
+     "distractors": [
+      "Borhan-e hekmat",
+      "Borhan-e harekat",
+      "Borhan-e fetrat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 961,
+   "topic_tag": "practical-monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: توحید و سبک زندگی (شرک نظری)",
+    "en": "Lesson 3: Monotheism and Way of Life (Theoretical Polytheism)",
+    "tr": "Dars 3: Towhid va Sabk-e Zendegi",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "توحید و سبک زندگی",
+     "question": "باور به چند سرچشمهٔ مستقل برای آفرینش یا تدبیر جهان، نمونهٔ کدام مفهوم است؟",
+     "grading_key": "- [1] شرک نظری",
+     "final_resolution": "شرک نظری",
+     "notes": "",
+     "keywords": [
+      "شرک نظری"
+     ],
+     "distractors": [
+      "شرک عملی",
+      "توحید نظری",
+      "توحید عملی"
+     ]
+    },
+    "en": {
+     "topic_label": "Monotheism and Way of Life",
+     "question": "Believing in several independent sources for the creation or running of the world is an example of which idea?",
+     "grading_key": "- [1] Theoretical polytheism",
+     "final_resolution": "Theoretical polytheism",
+     "notes": "",
+     "keywords": [
+      "theoretical polytheism"
+     ],
+     "distractors": [
+      "Practical polytheism",
+      "Theoretical monotheism",
+      "Practical monotheism"
+     ]
+    },
+    "tr": {
+     "topic_label": "Towhid va Sabk-e Zendegi",
+     "question": "Bavar be chand sarcheshme-ye mostaghel baraye afarinesh ya tadbir-e jahan, nemoone-ye kodam mafhoom ast?",
+     "grading_key": "- [1] Sherk-e nazari",
+     "final_resolution": "Sherk-e nazari",
+     "notes": "",
+     "keywords": [
+      "sherk-e nazari"
+     ],
+     "distractors": [
+      "Sherk-e amali",
+      "Towhid-e nazari",
+      "Towhid-e amali"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 961,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "ترجمهٔ درست «أهدى» در عبارت زیر کدام است؟\n«خَیرُ إخوانِکُم مَن أهدى إلَیکُم عُیُوبَکُم.»",
+     "grading_key": "- [1] هدیه داد",
+     "final_resolution": "هدیه داد",
+     "notes": "",
+     "keywords": [
+      "أَهْدى"
+     ],
+     "distractors": [
+      "پنهان کرد",
+      "ستایش کرد",
+      "سرزنش کرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أهدى» mean in this saying?\n«خَیرُ إخوانِکُم مَن أهدى إلَیکُم عُیُوبَکُم.»",
+     "grading_key": "- [1] Gave as a gift",
+     "final_resolution": "Gave as a gift",
+     "notes": "",
+     "keywords": [
+      "ahda (gave as a gift)"
+     ],
+     "distractors": [
+      "Hid",
+      "Praised",
+      "Scolded"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Tarjome-ye dorost-e «ahda» dar ebarat-e zir kodam ast?\n«خَیرُ إخوانِکُم مَن أهدى إلَیکُم عُیُوبَکُم.»",
+     "grading_key": "- [1] Hedie dad",
+     "final_resolution": "Hedie dad",
+     "notes": "",
+     "keywords": [
+      "ahda"
+     ],
+     "distractors": [
+      "Penhan kard",
+      "Setayesh kard",
+      "Sarzanesh kard"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 961,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان)",
+    "en": "Arabic 3 (Vocabulary)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سَلَکَ» در حدیث زیر کدام است؟\n«مَن سَلَکَ طَریقاً یَطلُبُ فِیهِ عِلماً سَلَکَ اللهُ بِهِ طَریقاً إلَى الجَنَّةِ.»",
+     "grading_key": "- [1] پیمود (راهی را رفت)",
+     "final_resolution": "پیمود (راهی را رفت)",
+     "notes": "",
+     "keywords": [
+      "سَلَکَ"
+     ],
+     "distractors": [
+      "بست",
+      "دوری کرد",
+      "خرید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سَلَکَ» mean in this hadith?\n«مَن سَلَکَ طَریقاً یَطلُبُ فِیهِ عِلماً سَلَکَ اللهُ بِهِ طَریقاً إلَى الجَنَّةِ.»",
+     "grading_key": "- [1] Travelled (a path)",
+     "final_resolution": "Travelled (a path)",
+     "notes": "",
+     "keywords": [
+      "salaka (travelled a path)"
+     ],
+     "distractors": [
+      "Blocked",
+      "Avoided",
+      "Bought"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «salaka» dar hadis-e zir kodam ast?\n«مَن سَلَکَ طَریقاً یَطلُبُ فِیهِ عِلماً سَلَکَ اللهُ بِهِ طَریقاً إلَى الجَنَّةِ.»",
+     "grading_key": "- [1] Peymood (rahi ra raft)",
+     "final_resolution": "Peymood (rahi ra raft)",
+     "notes": "",
+     "keywords": [
+      "salaka"
+     ],
+     "distractors": [
+      "Bast",
+      "Doori kard",
+      "Kharid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 961,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (استبداد دینی)",
+    "en": "Lesson 8: Politics and the Political System (Religious Despotism)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌هایی که مشروعیت خود را به دین نسبت می‌دهند اما در عمل قوانین الهی را تحریف و حکومتی استبدادی برپا می‌کنند، چه نام دارند؟",
+     "grading_key": "- [1] تئوکراسی (استبداد دینی)",
+     "final_resolution": "تئوکراسی (استبداد دینی)",
+     "notes": "",
+     "keywords": [
+      "تئوکراسی"
+     ],
+     "distractors": [
+      "دموکراسی‌های لیبرال",
+      "دولت‌های سکولار",
+      "حکومت‌های الهی راستین"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are systems called that claim religion as the ground of their legitimacy but in practice distort divine law and rule as despots?",
+     "grading_key": "- [1] Theocracy (religious despotism)",
+     "final_resolution": "Theocracy (religious despotism)",
+     "notes": "",
+     "keywords": [
+      "theocracy (religious despotism)"
+     ],
+     "distractors": [
+      "Liberal democracies",
+      "Secular states",
+      "True divine governments"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-hayi ke mashrooiyat-e khod ra be din nesbat midahand amma dar amal ghavanin-e elahi ra tahrif va hokoomati estebdadi barpa mikonand, che nam darand?",
+     "grading_key": "- [1] Te-okrasi (estebdad-e dini)",
+     "final_resolution": "Te-okrasi (estebdad-e dini)",
+     "notes": "",
+     "keywords": [
+      "te-okrasi"
+     ],
+     "distractors": [
+      "Demokrasi-haye liberal",
+      "Dowlat-haye sekolar",
+      "Hokoomat-haye elahi-ye rastin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 961,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی (مقاومت منفی)",
+    "en": "Lesson 6: Social Power (Passive Resistance)",
+    "tr": "Dars 6: Ghodrat-e Ejtemai",
+    "pages": "46–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "خودداری داوطلبانهٔ شهروندان از همکاری با قدرتی نامشروع، که مقبولیت آن را به‌تدریج تضعیف می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] مقاومت منفی",
+     "final_resolution": "مقاومت منفی",
+     "notes": "",
+     "keywords": [
+      "مقاومت منفی"
+     ],
+     "distractors": [
+      "شورش مسلحانه",
+      "همانندسازی کامل",
+      "تأخیر فرهنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What is citizens' willing refusal to cooperate with an illegitimate power, which wears down its acceptance over time, called?",
+     "grading_key": "- [1] Passive (negative) resistance",
+     "final_resolution": "Passive (negative) resistance",
+     "notes": "",
+     "keywords": [
+      "passive (negative) resistance"
+     ],
+     "distractors": [
+      "Armed revolt",
+      "Complete assimilation",
+      "Cultural lag"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Khoddari-ye davtalabane-ye shahrvandan az hamkari ba ghodrati namashroo, ke maghbooliyat-e an ra be tadrij tazif mikonad, che nam darad?",
+     "grading_key": "- [1] Moghavemat-e manfi",
+     "final_resolution": "Moghavemat-e manfi",
+     "notes": "",
+     "keywords": [
+      "moghavemat-e manfi"
+     ],
+     "distractors": [
+      "Shooresh-e mosallahane",
+      "Hamanand-sazi-ye kamel",
+      "Takhir-e farhangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 961,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: سلامت و سبک زندگی (دخانیات)",
+    "en": "Chapter 1: Health and Lifestyle (Tobacco)",
+    "tr": "Fasl 1: Salamat (Dokhaniyat)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "بالا رفتن ناگهانی ضربان قلب و فشار خون و تنگ شدن رگ‌ها بلافاصله پس از کشیدن سیگار، از اثر کدام ماده است؟",
+     "grading_key": "- [1] نیکوتین",
+     "final_resolution": "نیکوتین",
+     "notes": "",
+     "keywords": [
+      "اثر نیکوتین بر قلب"
+     ],
+     "distractors": [
+      "کربن مونوکسید",
+      "قطران",
+      "فرمالدهید"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "The sudden rise in heart rate and blood pressure and the narrowing of blood vessels right after smoking come from which substance?",
+     "grading_key": "- [1] Nicotine",
+     "final_resolution": "Nicotine",
+     "notes": "",
+     "keywords": [
+      "effect of nicotine on the heart"
+     ],
+     "distractors": [
+      "Carbon monoxide",
+      "Tar",
+      "Formaldehyde"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Bala raftan-e nagahani-ye zarban-e ghalb va feshar-e khoon va tang shodan-e rag-ha belafasele pas az keshidan-e sigar, az asar-e kodam madde ast?",
+     "grading_key": "- [1] Nikotin",
+     "final_resolution": "Nikotin",
+     "notes": "",
+     "keywords": [
+      "asar-e nikotin bar ghalb"
+     ],
+     "distractors": [
+      "Karbon monoksid",
+      "Ghatran",
+      "Formaldehid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 961,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: بیماری‌های واگیر و غیرواگیر (فشار خون بالا)",
+    "en": "Chapter 3: Communicable and Non-communicable Diseases (High Blood Pressure)",
+    "tr": "Fasl 3: Bimari-ha (Feshar-e Khoon)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام بیماری قلبی‌عروقی را «قاتل خاموش» می‌نامند، چون سال‌ها بی‌نشانه می‌ماند و رگ‌ها را آسیب می‌زند؟",
+     "grading_key": "- [1] فشار خون بالا",
+     "final_resolution": "فشار خون بالا",
+     "notes": "",
+     "keywords": [
+      "فشار خون بالا"
+     ],
+     "distractors": [
+      "دیابت نوع ۲",
+      "کم‌خونی فقر آهن",
+      "تصلب شرایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which heart-and-vessel disease is called the 'silent killer', because it stays without symptoms for years while it damages the vessels?",
+     "grading_key": "- [1] High blood pressure",
+     "final_resolution": "High blood pressure",
+     "notes": "",
+     "keywords": [
+      "high blood pressure"
+     ],
+     "distractors": [
+      "Type 2 diabetes",
+      "Iron-deficiency anaemia",
+      "Atherosclerosis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam bimari-ye ghalbi-oroghi ra «ghatel-e khamoosh» minamand, chon sal-ha bi-neshane mimanad va rag-ha ra asib mizanad?",
+     "grading_key": "- [1] Feshar-e khoon-e bala",
+     "final_resolution": "Feshar-e khoon-e bala",
+     "notes": "",
+     "keywords": [
+      "feshar-e khoon-e bala"
+     ],
+     "distractors": [
+      "Diabet-e no-e 2",
+      "Kam-khooni-ye faghr-e ahan",
+      "Tasallob-e sharayin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 961,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: بهداشت محیط و کار (احیای قلبی‌ریوی)",
+    "en": "Chapter 4: Environmental and Workplace Health (CPR)",
+    "tr": "Fasl 4: Behdasht-e Mohit (Ehya)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در احیای قلبی‌ریوی فرد بالغ، قفسهٔ سینه را باید چه اندازه فشرد؟",
+     "grading_key": "- [1] ⁦5–6 cm⁩",
+     "final_resolution": "⁦5–6 cm⁩",
+     "notes": "",
+     "keywords": [
+      "عمق فشردن قفسهٔ سینه"
+     ],
+     "distractors": [
+      "⁦1–2 cm⁩",
+      "⁦8–10 cm⁩",
+      "⁦12 cm⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In adult CPR, how deep should the chest be pressed?",
+     "grading_key": "- [1] ⁦5–6 cm⁩",
+     "final_resolution": "⁦5–6 cm⁩",
+     "notes": "",
+     "keywords": [
+      "depth of chest compressions"
+     ],
+     "distractors": [
+      "⁦1–2 cm⁩",
+      "⁦8–10 cm⁩",
+      "⁦12 cm⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar ehya-ye ghalbi-riyavi-ye fard-e baleg, ghafase-ye sine ra bayad che andaze feshord?",
+     "grading_key": "- [1] ⁦5–6 cm⁩",
+     "final_resolution": "⁦5–6 cm⁩",
+     "notes": "",
+     "keywords": [
+      "omgh-e feshordan-e ghafase-ye sine"
+     ],
+     "distractors": [
+      "⁦1–2 cm⁩",
+      "⁦8–10 cm⁩",
+      "⁦12 cm⁩"
+     ]
+    }
+   }
+  }
+ ]
+}
