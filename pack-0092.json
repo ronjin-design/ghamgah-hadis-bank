@@ -1,0 +1,941 @@
+{
+ "version": 92,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 985,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام با ریشهٔ دوم)",
+    "en": "Chapter 3: Limits (Square-Root 0/0)",
+    "tr": "Fasl 3: Had (Rishe-ye Dovvom)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦(x − 4) / (√x − 2)⁩ وقتی ⁦x → 4⁩ کدام است؟",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "حد با ریشهٔ دوم"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦8⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of (x − 4) / (√x − 2) as x → 4?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "square-root limit"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦8⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e (x − 4) / (√x − 2) vaghti x → 4 kodam ast?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "had ba rishe-ye dovvom"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦8⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 985,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع پله‌ای)",
+    "en": "Chapter 1: Functions (Step Function)",
+    "tr": "Fasl 1: Tabe' (Tabe'-e Pelle-i)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "تابعی که دامنه‌اش به چند بازه بخش می‌شود و در هر بازه مقداری ثابت دارد، چه نام دارد؟",
+     "grading_key": "- [1] تابع پله‌ای",
+     "final_resolution": "تابع پله‌ای",
+     "notes": "",
+     "keywords": [
+      "تابع پله‌ای"
+     ],
+     "distractors": [
+      "تابع خطی",
+      "تابع متناوب مثلثاتی",
+      "تابع نمایی یک‌به‌یک"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is a function called whose domain is split into intervals, with a constant value on each one?",
+     "grading_key": "- [1] A step function",
+     "final_resolution": "A step function",
+     "notes": "",
+     "keywords": [
+      "step function"
+     ],
+     "distractors": [
+      "A linear function",
+      "A periodic trigonometric function",
+      "A one-to-one exponential function"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Tabe'i ke damane-ash be chand baze bakhsh mishavad va dar har baze meghdari sabet darad, che nam darad?",
+     "grading_key": "- [1] Tabe'-e pelle-i",
+     "final_resolution": "Tabe'-e pelle-i",
+     "notes": "",
+     "keywords": [
+      "tabe'-e pelle-i"
+     ],
+     "distractors": [
+      "Tabe'-e khatti",
+      "Tabe'-e motanaveb-e mosallasati",
+      "Tabe'-e nemayi-ye yek-be-yek"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 985,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (ترکیب تابع با وارونش)",
+    "en": "Chapter 1: Functions (A Function with Its Inverse)",
+    "tr": "Fasl 1: Tabe' (Varoon)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر ⁦f⁩ یک‌به‌یک و وارون‌پذیر باشد، ⁦(f^(−1)∘f)(x)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦x⁩",
+     "final_resolution": "⁦x⁩",
+     "notes": "",
+     "keywords": [
+      "ترکیب تابع و وارون"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦f(x)⁩",
+      "⁦f^(−1)(x)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If f is one-to-one and invertible, what is (f^(−1)∘f)(x) equal to?",
+     "grading_key": "- [1] ⁦x⁩",
+     "final_resolution": "⁦x⁩",
+     "notes": "",
+     "keywords": [
+      "composing a function with its inverse"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦f(x)⁩",
+      "⁦f^(−1)(x)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar f yek-be-yek va varoon-pazir bashad, (f^(−1)∘f)(x) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦x⁩",
+     "final_resolution": "⁦x⁩",
+     "notes": "",
+     "keywords": [
+      "tarkib-e tabe' va varoon"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦f(x)⁩",
+      "⁦f^(−1)(x)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 985,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «غَرْقاً» در عبارت زیر کدام است؟\n«وَ النَّازِعَاتِ غَرْقاً.»",
+     "grading_key": "- [1] به سختی و از ژرفا",
+     "final_resolution": "به سختی و از ژرفا",
+     "notes": "",
+     "keywords": [
+      "غَرْقاً"
+     ],
+     "distractors": [
+      "به آرامی",
+      "به‌تصادف",
+      "در خاموشی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «غَرْقاً» mean in this verse?\n«وَ النَّازِعَاتِ غَرْقاً.»",
+     "grading_key": "- [1] Forcefully, from deep within",
+     "final_resolution": "Forcefully, from deep within",
+     "notes": "",
+     "keywords": [
+      "gharq (forcefully, deeply)"
+     ],
+     "distractors": [
+      "Gently",
+      "By chance",
+      "In silence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «gharqan» dar ebarat-e zir kodam ast?\n«وَ النَّازِعَاتِ غَرْقاً.»",
+     "grading_key": "- [1] Be sakhti va az zharfa",
+     "final_resolution": "Be sakhti va az zharfa",
+     "notes": "",
+     "keywords": [
+      "gharqan"
+     ],
+     "distractors": [
+      "Be arami",
+      "Be-tasadof",
+      "Dar khamooshi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 985,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَشْطاً» در عبارت زیر کدام است؟\n«وَ النَّاشِطَاتِ نَشْطاً.»",
+     "grading_key": "- [1] به نرمی و آسانی",
+     "final_resolution": "به نرمی و آسانی",
+     "notes": "",
+     "keywords": [
+      "نَشْطاً"
+     ],
+     "distractors": [
+      "با خشونت بسیار",
+      "در ابرهای تیره",
+      "با شتاب به عقب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «نَشْطاً» mean in this verse?\n«وَ النَّاشِطَاتِ نَشْطاً.»",
+     "grading_key": "- [1] Gently, with ease",
+     "final_resolution": "Gently, with ease",
+     "notes": "",
+     "keywords": [
+      "nasht (gently, easily)"
+     ],
+     "distractors": [
+      "With great violence",
+      "In dark clouds",
+      "Rushing backwards"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «nashtan» dar ebarat-e zir kodam ast?\n«وَ النَّاشِطَاتِ نَشْطاً.»",
+     "grading_key": "- [1] Be narmi va asani",
+     "final_resolution": "Be narmi va asani",
+     "notes": "",
+     "keywords": [
+      "nashtan"
+     ],
+     "distractors": [
+      "Ba khoshoonat-e besyar",
+      "Dar abr-haye tire",
+      "Ba shetab be aghab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 985,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «صَبَبْنَا» در عبارت زیر کدام است؟\n«أَنَّا صَبَبْنَا الْمَاءَ صَبّاً.»",
+     "grading_key": "- [1] فرو ریختیم، باراندیم",
+     "final_resolution": "فرو ریختیم، باراندیم",
+     "notes": "",
+     "keywords": [
+      "صَبَبْنَا"
+     ],
+     "distractors": [
+      "خشکاندیم",
+      "بستیم",
+      "از سنگ آفریدیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «صَبَبْنَا» mean in this verse?\n«أَنَّا صَبَبْنَا الْمَاءَ صَبّاً.»",
+     "grading_key": "- [1] We poured down",
+     "final_resolution": "We poured down",
+     "notes": "",
+     "keywords": [
+      "sababna (we poured down)"
+     ],
+     "distractors": [
+      "We dried up",
+      "We blocked",
+      "We made from stone"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sababna» dar ebarat-e zir kodam ast?\n«أَنَّا صَبَبْنَا الْمَاءَ صَبّاً.»",
+     "grading_key": "- [1] Foroo rikhtim, barandim",
+     "final_resolution": "Foroo rikhtim, barandim",
+     "notes": "",
+     "keywords": [
+      "sababna"
+     ],
+     "distractors": [
+      "Khoshkandim",
+      "Bastim",
+      "Az sang afaridim"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 985,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شَقَقْنَا» در عبارت زیر کدام است؟\n«ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً.»",
+     "grading_key": "- [1] شکافتیم",
+     "final_resolution": "شکافتیم",
+     "notes": "",
+     "keywords": [
+      "شَقَقْنَا"
+     ],
+     "distractors": [
+      "هموار کردیم",
+      "سوزاندیم",
+      "غرق آب کردیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شَقَقْنَا» mean in this verse?\n«ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً.»",
+     "grading_key": "- [1] We split open",
+     "final_resolution": "We split open",
+     "notes": "",
+     "keywords": [
+      "shaqaqna (we split open)"
+     ],
+     "distractors": [
+      "We levelled",
+      "We burned",
+      "We flooded"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «shaqaqna» dar ebarat-e zir kodam ast?\n«ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً.»",
+     "grading_key": "- [1] Shekaftim",
+     "final_resolution": "Shekaftim",
+     "notes": "",
+     "keywords": [
+      "shaqaqna"
+     ],
+     "distractors": [
+      "Hamvar kardim",
+      "Soozandim",
+      "Ghargh-e ab kardim"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 985,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «قَضْباً» در عبارت زیر کدام است؟\n«فَأَنْبَتْنَا فِیهَا حَبّاً * وَ عِنَباً وَ قَضْباً.»",
+     "grading_key": "- [1] سبزی تازه، یونجه",
+     "final_resolution": "سبزی تازه، یونجه",
+     "notes": "",
+     "keywords": [
+      "قَضْباً"
+     ],
+     "distractors": [
+      "هیزم خشک",
+      "عسل",
+      "سنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «قَضْباً» mean in this verse?\n«فَأَنْبَتْنَا فِیهَا حَبّاً * وَ عِنَباً وَ قَضْباً.»",
+     "grading_key": "- [1] Fresh green plants, fodder",
+     "final_resolution": "Fresh green plants, fodder",
+     "notes": "",
+     "keywords": [
+      "qadb (green fodder)"
+     ],
+     "distractors": [
+      "Dry firewood",
+      "Honey",
+      "Stones"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «qadban» dar ebarat-e zir kodam ast?\n«فَأَنْبَتْنَا فِیهَا حَبّاً * وَ عِنَباً وَ قَضْباً.»",
+     "grading_key": "- [1] Sabzi-ye taze, yoonje",
+     "final_resolution": "Sabzi-ye taze, yoonje",
+     "notes": "",
+     "keywords": [
+      "qadban"
+     ],
+     "distractors": [
+      "Hizom-e khoshk",
+      "Asal",
+      "Sang"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 985,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مستغنی» در جملهٔ زیر چیست؟\n«انسان وارسته با مناعت نفس، خود را از مادیات دنیا مستغنی می‌داند.»",
+     "grading_key": "- [1] بی‌نیاز",
+     "final_resolution": "بی‌نیاز",
+     "notes": "",
+     "keywords": [
+      "مستغنی"
+     ],
+     "distractors": [
+      "نیازمند",
+      "نگران",
+      "زخمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مستغنی» mean in this sentence?\n«انسان وارسته با مناعت نفس، خود را از مادیات دنیا مستغنی می‌داند.»",
+     "grading_key": "- [1] Free of need, self-sufficient",
+     "final_resolution": "Free of need, self-sufficient",
+     "notes": "",
+     "keywords": [
+      "mostaghni (free of need)"
+     ],
+     "distractors": [
+      "Needy",
+      "Anxious",
+      "Injured"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mostaghni» dar jomle-ye zir chist?\n«انسان وارسته با مناعت نفس، خود را از مادیات دنیا مستغنی می‌داند.»",
+     "grading_key": "- [1] Bi-niyaz",
+     "final_resolution": "Bi-niyaz",
+     "notes": "",
+     "keywords": [
+      "mostaghni"
+     ],
+     "distractors": [
+      "Niyazmand",
+      "Negaran",
+      "Zakhmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 985,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «الفت» در جملهٔ زیر چیست؟\n«پیوند الفت و صمیمیت میان مردم، مایهٔ همبستگی جامعه است.»",
+     "grading_key": "- [1] دوستی و انس",
+     "final_resolution": "دوستی و انس",
+     "notes": "",
+     "keywords": [
+      "الفت"
+     ],
+     "distractors": [
+      "دشمنی",
+      "کمبود",
+      "خلأ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «الفت» mean in this sentence?\n«پیوند الفت و صمیمیت میان مردم، مایهٔ همبستگی جامعه است.»",
+     "grading_key": "- [1] Friendship, closeness",
+     "final_resolution": "Friendship, closeness",
+     "notes": "",
+     "keywords": [
+      "olfat (fond familiarity)"
+     ],
+     "distractors": [
+      "Hostility",
+      "Shortage",
+      "Emptiness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «olfat» dar jomle-ye zir chist?\n«پیوند الفت و صمیمیت میان مردم، مایهٔ همبستگی جامعه است.»",
+     "grading_key": "- [1] Doosti va ons",
+     "final_resolution": "Doosti va ons",
+     "notes": "",
+     "keywords": [
+      "olfat"
+     ],
+     "distractors": [
+      "Doshmani",
+      "Kambood",
+      "Khala'"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 985,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «پهنه» در جملهٔ زیر چیست؟\n«در آن پهنهٔ وهم‌انگیز، گویی جانم دچار حیرت می‌شد.»",
+     "grading_key": "- [1] گستره، میدان پهناور",
+     "final_resolution": "گستره، میدان پهناور",
+     "notes": "",
+     "keywords": [
+      "پهنه"
+     ],
+     "distractors": [
+      "تنگه",
+      "چاه",
+      "نقطه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «پهنه» mean in this sentence?\n«در آن پهنهٔ وهم‌انگیز، گویی جانم دچار حیرت می‌شد.»",
+     "grading_key": "- [1] An expanse, a wide stretch",
+     "final_resolution": "An expanse, a wide stretch",
+     "notes": "",
+     "keywords": [
+      "pahne (expanse)"
+     ],
+     "distractors": [
+      "A narrow pass",
+      "A well",
+      "A point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «pahne» dar jomle-ye zir chist?\n«در آن پهنهٔ وهم‌انگیز، گویی جانم دچار حیرت می‌شد.»",
+     "grading_key": "- [1] Gostare, meydan-e pahnavar",
+     "final_resolution": "Gostare, meydan-e pahnavar",
+     "notes": "",
+     "keywords": [
+      "pahne"
+     ],
+     "distractors": [
+      "Tange",
+      "Chah",
+      "Noghte"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 985,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: کنایه)",
+    "en": "Persian 3 (Literary Devices: Kenaye)",
+    "tr": "Adabiyat-e Farsi 3 (Kenaye)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "کنایهٔ «پای در دامن کشیدن» به چه معناست؟",
+     "grading_key": "- [1] گوشه‌گیری کردن و کناره گرفتن",
+     "final_resolution": "گوشه‌گیری کردن و کناره گرفتن",
+     "notes": "",
+     "keywords": [
+      "پای در دامن کشیدن"
+     ],
+     "distractors": [
+      "تند دویدن",
+      "به قدرت رسیدن",
+      "دارایی خریدن"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "What does the figure of speech «پای در دامن کشیدن» (drawing one's foot into one's robe) mean?",
+     "grading_key": "- [1] Withdrawing from the world, living in seclusion",
+     "final_resolution": "Withdrawing from the world, living in seclusion",
+     "notes": "",
+     "keywords": [
+      "pay dar daman keshidan (to withdraw)"
+     ],
+     "distractors": [
+      "Running fast",
+      "Coming to power",
+      "Buying property"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Kenaye-ye \"pay dar daman keshidan\" be che ma'nast?",
+     "grading_key": "- [1] Gooshe-giri kardan va kenare gereftan",
+     "final_resolution": "Gooshe-giri kardan va kenare gereftan",
+     "notes": "",
+     "keywords": [
+      "pay dar daman keshidan"
+     ],
+     "distractors": [
+      "Tond davidan",
+      "Be ghodrat residan",
+      "Darayi kharidan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 985,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «پادشاهان و فرمانروایان» است، کدام است؟",
+     "grading_key": "- [1] سلاطین",
+     "final_resolution": "سلاطین",
+     "notes": "",
+     "keywords": [
+      "سلاطین"
+     ],
+     "distractors": [
+      "صلاطین",
+      "ثلاطین",
+      "سلاتین"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'kings, rulers'?",
+     "grading_key": "- [1] سلاطین",
+     "final_resolution": "سلاطین",
+     "notes": "",
+     "keywords": [
+      "salatin (sultans)"
+     ],
+     "distractors": [
+      "صلاطین",
+      "ثلاطین",
+      "سلاتین"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'padeshahan va farmanravayan' ast, kodam ast?",
+     "grading_key": "- [1] سلاطین",
+     "final_resolution": "سلاطین",
+     "notes": "",
+     "keywords": [
+      "salatin"
+     ],
+     "distractors": [
+      "صلاطین",
+      "ثلاطین",
+      "سلاتین"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 985,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "امواجی که از دکل‌های مخابراتی و شبکه‌های وای‌فای پخش می‌شوند و جزو پرتوهای غیریونیزان پایش می‌شوند، کدام‌اند؟",
+     "grading_key": "- [1] امواج رادیویی و ریزموج (مایکروویو)",
+     "final_resolution": "امواج رادیویی و ریزموج (مایکروویو)",
+     "notes": "",
+     "keywords": [
+      "پرتوهای غیریونیزان"
+     ],
+     "distractors": [
+      "پرتو آلفا",
+      "پرتو ایکس",
+      "بخار جیوه"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which waves, sent out by phone masts and Wi-Fi networks, are monitored as non-ionising radiation?",
+     "grading_key": "- [1] Radio waves and microwaves",
+     "final_resolution": "Radio waves and microwaves",
+     "notes": "",
+     "keywords": [
+      "non-ionising radiation"
+     ],
+     "distractors": [
+      "Alpha radiation",
+      "X-rays",
+      "Mercury vapour"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Amvaji ke az dakal-haye mokhabarati va shabake-haye vay-fay pakhsh mishavand va jozv-e parto-haye gheyr-e yonizan payesh mishavand, kodam-and?",
+     "grading_key": "- [1] Amvaj-e radiyoyi va riz-moj (maykroveyv)",
+     "final_resolution": "Amvaj-e radiyoyi va riz-moj (maykroveyv)",
+     "notes": "",
+     "keywords": [
+      "parto-haye gheyr-e yonizan"
+     ],
+     "distractors": [
+      "Parto-ye alfa",
+      "Parto-ye iks",
+      "Bokhar-e jive"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 985,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "ورود شوینده‌های فسفات‌دار به رودها و دریاچه‌ها، با رشد بی‌رویهٔ جلبک‌ها و کم شدن اکسیژن آب، کدام آسیب را پدید می‌آورد؟",
+     "grading_key": "- [1] پرغذایی آب (اوتریفیکاسیون) و خفگی آبزیان",
+     "final_resolution": "پرغذایی آب (اوتریفیکاسیون) و خفگی آبزیان",
+     "notes": "",
+     "keywords": [
+      "پرغذایی آب"
+     ],
+     "distractors": [
+      "انباشت کادمیوم",
+      "گاز رادون",
+      "شوری خاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Phosphate detergents reaching rivers and lakes cause runaway algae growth and loss of oxygen in the water. What is this harm called?",
+     "grading_key": "- [1] Eutrophication, suffocating water life",
+     "final_resolution": "Eutrophication, suffocating water life",
+     "notes": "",
+     "keywords": [
+      "eutrophication"
+     ],
+     "distractors": [
+      "Cadmium build-up",
+      "Radon gas",
+      "Salty soil"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Vorood-e shooyande-haye fosfat-dar be rood-ha va daryache-ha, ba roshd-e bi-raviye-ye jolbak-ha va kam shodan-e oksizhen-e ab, kodam asib ra padid miavarad?",
+     "grading_key": "- [1] Por-ghazayi-ye ab (otrifikasiyon) va khafegi-ye abziyan",
+     "final_resolution": "Por-ghazayi-ye ab (otrifikasiyon) va khafegi-ye abziyan",
+     "notes": "",
+     "keywords": [
+      "por-ghazayi-ye ab"
+     ],
+     "distractors": [
+      "Anbasht-e kadmiyom",
+      "Gaz-e radon",
+      "Shoori-ye khak"
+     ]
+    }
+   }
+  }
+ ]
+}
