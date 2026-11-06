@@ -1,0 +1,941 @@
+{
+ "version": 96,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 989,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (بُرد تابع سینوسی)",
+    "en": "Chapter 1: Functions (Range of a Sine Function)",
+    "tr": "Fasl 1: Tabe' (Bord)",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "بُرد تابع ⁦f(x) = 3sin x + 2⁩ کدام است؟",
+     "grading_key": "- [1] ⁦[−1, 5]⁩",
+     "final_resolution": "⁦[−1, 5]⁩",
+     "notes": "",
+     "keywords": [
+      "بُرد تابع"
+     ],
+     "distractors": [
+      "⁦[−3, 3]⁩",
+      "⁦[1, 5]⁩",
+      "⁦[−1, 1]⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the range of f(x) = 3sin x + 2?",
+     "grading_key": "- [1] ⁦[−1, 5]⁩",
+     "final_resolution": "⁦[−1, 5]⁩",
+     "notes": "",
+     "keywords": [
+      "range of a function"
+     ],
+     "distractors": [
+      "⁦[−3, 3]⁩",
+      "⁦[1, 5]⁩",
+      "⁦[−1, 1]⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Bord-e tabe'-e f(x) = 3sin x + 2 kodam ast?",
+     "grading_key": "- [1] ⁦[−1, 5]⁩",
+     "final_resolution": "⁦[−1, 5]⁩",
+     "notes": "",
+     "keywords": [
+      "bord-e tabe'"
+     ],
+     "distractors": [
+      "⁦[−3, 3]⁩",
+      "⁦[1, 5]⁩",
+      "⁦[−1, 1]⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 989,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (وارون تابع خطی)",
+    "en": "Chapter 1: Functions (Inverse of a Linear Function)",
+    "tr": "Fasl 1: Tabe' (Varoon-e Tabe'-e Khatti)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "وارون تابع ⁦f(x) = 2x + 4⁩ کدام است؟",
+     "grading_key": "- [1] ⁦(x − 4) / 2⁩",
+     "final_resolution": "⁦(x − 4) / 2⁩",
+     "notes": "",
+     "keywords": [
+      "وارون تابع خطی"
+     ],
+     "distractors": [
+      "⁦(x + 4) / 2⁩",
+      "⁦2x − 4⁩",
+      "⁦x/2 − 4⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the inverse of f(x) = 2x + 4?",
+     "grading_key": "- [1] ⁦(x − 4) / 2⁩",
+     "final_resolution": "⁦(x − 4) / 2⁩",
+     "notes": "",
+     "keywords": [
+      "inverse of a linear function"
+     ],
+     "distractors": [
+      "⁦(x + 4) / 2⁩",
+      "⁦2x − 4⁩",
+      "⁦x/2 − 4⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Varoon-e tabe'-e f(x) = 2x + 4 kodam ast?",
+     "grading_key": "- [1] ⁦(x − 4) / 2⁩",
+     "final_resolution": "⁦(x − 4) / 2⁩",
+     "notes": "",
+     "keywords": [
+      "varoon-e tabe'-e khatti"
+     ],
+     "distractors": [
+      "⁦(x + 4) / 2⁩",
+      "⁦2x − 4⁩",
+      "⁦x/2 − 4⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 989,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «طَغَى» در عبارت زیر کدام است؟\n«فَأَمَّا مَنْ طَغَى.»",
+     "grading_key": "- [1] سرکشی کرد",
+     "final_resolution": "سرکشی کرد",
+     "notes": "",
+     "keywords": [
+      "طَغَى"
+     ],
+     "distractors": [
+      "فروتنی کرد",
+      "فراموش کرد",
+      "به آرامی مرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «طَغَى» mean in this verse?\n«فَأَمَّا مَنْ طَغَى.»",
+     "grading_key": "- [1] Rebelled, went beyond all bounds",
+     "final_resolution": "Rebelled, went beyond all bounds",
+     "notes": "",
+     "keywords": [
+      "tagha (rebelled, went too far)"
+     ],
+     "distractors": [
+      "Was humble",
+      "Forgot",
+      "Died peacefully"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tagha» dar ebarat-e zir kodam ast?\n«فَأَمَّا مَنْ طَغَى.»",
+     "grading_key": "- [1] Sarkeshi kard",
+     "final_resolution": "Sarkeshi kard",
+     "notes": "",
+     "keywords": [
+      "tagha"
+     ],
+     "distractors": [
+      "Forootani kard",
+      "Faramoosh kard",
+      "Be arami mord"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 989,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «آثَرَ» در عبارت زیر کدام است؟\n«وَ آثَرَ الْحَیَاةَ الدُّنْیَا.»",
+     "grading_key": "- [1] برگزید، ترجیح داد",
+     "final_resolution": "برگزید، ترجیح داد",
+     "notes": "",
+     "keywords": [
+      "آثَرَ"
+     ],
+     "distractors": [
+      "رها کرد",
+      "سخت بیزار شد",
+      "حساب کرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «آثَرَ» mean in this verse?\n«وَ آثَرَ الْحَیَاةَ الدُّنْیَا.»",
+     "grading_key": "- [1] Preferred, chose above all",
+     "final_resolution": "Preferred, chose above all",
+     "notes": "",
+     "keywords": [
+      "athara (preferred)"
+     ],
+     "distractors": [
+      "Gave up",
+      "Hated",
+      "Calculated"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «athara» dar ebarat-e zir kodam ast?\n«وَ آثَرَ الْحَیَاةَ الدُّنْیَا.»",
+     "grading_key": "- [1] Bargozid, tarjih dad",
+     "final_resolution": "Bargozid, tarjih dad",
+     "notes": "",
+     "keywords": [
+      "athara"
+     ],
+     "distractors": [
+      "Raha kard",
+      "Sakht bizar shod",
+      "Hesab kard"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 989,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمَأْوَى» در عبارت زیر کدام است؟\n«فَإِنَّ الْجَحِیمَ هِیَ الْمَأْوَى.»",
+     "grading_key": "- [1] جایگاه، پناهگاه",
+     "final_resolution": "جایگاه، پناهگاه",
+     "notes": "",
+     "keywords": [
+      "الْمَأْوَى"
+     ],
+     "distractors": [
+      "بازار",
+      "چراغ",
+      "چاه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمَأْوَى» mean in this verse?\n«فَإِنَّ الْجَحِیمَ هِیَ الْمَأْوَى.»",
+     "grading_key": "- [1] The abode, the dwelling place",
+     "final_resolution": "The abode, the dwelling place",
+     "notes": "",
+     "keywords": [
+      "al-ma'wa (the abode)"
+     ],
+     "distractors": [
+      "A market",
+      "A lamp",
+      "A well"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-ma'wa» dar ebarat-e zir kodam ast?\n«فَإِنَّ الْجَحِیمَ هِیَ الْمَأْوَى.»",
+     "grading_key": "- [1] Jaygah, panahgah",
+     "final_resolution": "Jaygah, panahgah",
+     "notes": "",
+     "keywords": [
+      "al-ma'wa"
+     ],
+     "distractors": [
+      "Bazar",
+      "Cheragh",
+      "Chah"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 989,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَهَى» در عبارت زیر کدام است؟\n«وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى.»",
+     "grading_key": "- [1] بازداشت",
+     "final_resolution": "بازداشت",
+     "notes": "",
+     "keywords": [
+      "نَهَى"
+     ],
+     "distractors": [
+      "تشویق کرد",
+      "ستود",
+      "فراموش کرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «نَهَى» mean in this verse?\n«وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى.»",
+     "grading_key": "- [1] Held back, restrained",
+     "final_resolution": "Held back, restrained",
+     "notes": "",
+     "keywords": [
+      "naha (held back, forbade)"
+     ],
+     "distractors": [
+      "Urged on",
+      "Praised",
+      "Forgot"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «naha» dar ebarat-e zir kodam ast?\n«وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى.»",
+     "grading_key": "- [1] Bazdasht",
+     "final_resolution": "Bazdasht",
+     "notes": "",
+     "keywords": [
+      "naha"
+     ],
+     "distractors": [
+      "Tashvigh kard",
+      "Setood",
+      "Faramoosh kard"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 989,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَیَّانَ» در عبارت زیر کدام است؟\n«یَسْأَلُونَکَ عَنِ السَّاعَةِ أَیَّانَ مُرْسَاهَا.»",
+     "grading_key": "- [1] چه وقت",
+     "final_resolution": "چه وقت",
+     "notes": "",
+     "keywords": [
+      "أَیَّانَ"
+     ],
+     "distractors": [
+      "کجا",
+      "چه کسی",
+      "چگونه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَیَّانَ» mean in this verse?\n«یَسْأَلُونَکَ عَنِ السَّاعَةِ أَیَّانَ مُرْسَاهَا.»",
+     "grading_key": "- [1] When",
+     "final_resolution": "When",
+     "notes": "",
+     "keywords": [
+      "ayyana (when)"
+     ],
+     "distractors": [
+      "Where",
+      "Who",
+      "How"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ayyana» dar ebarat-e zir kodam ast?\n«یَسْأَلُونَکَ عَنِ السَّاعَةِ أَیَّانَ مُرْسَاهَا.»",
+     "grading_key": "- [1] Che vaght",
+     "final_resolution": "Che vaght",
+     "notes": "",
+     "keywords": [
+      "ayyana"
+     ],
+     "distractors": [
+      "Koja",
+      "Che kasi",
+      "Chegoone"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 989,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تضرع» در جملهٔ زیر چیست؟\n«دل‌های مشتاق با تضرع و خشوع، درگاه پروردگار را می‌جستند.»",
+     "grading_key": "- [1] زاری و التماس فروتنانه",
+     "final_resolution": "زاری و التماس فروتنانه",
+     "notes": "",
+     "keywords": [
+      "تضرع"
+     ],
+     "distractors": [
+      "غرور",
+      "خستگی",
+      "زور"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تضرع» mean in this sentence?\n«دل‌های مشتاق با تضرع و خشوع، درگاه پروردگار را می‌جستند.»",
+     "grading_key": "- [1] Humble pleading, beseeching",
+     "final_resolution": "Humble pleading, beseeching",
+     "notes": "",
+     "keywords": [
+      "tazarro' (humble pleading)"
+     ],
+     "distractors": [
+      "Pride",
+      "Tiredness",
+      "Force"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tazarro'» dar jomle-ye zir chist?\n«دل‌های مشتاق با تضرع و خشوع، درگاه پروردگار را می‌جستند.»",
+     "grading_key": "- [1] Zari va eltemas-e forootanane",
+     "final_resolution": "Zari va eltemas-e forootanane",
+     "notes": "",
+     "keywords": [
+      "tazarro'"
+     ],
+     "distractors": [
+      "Ghoroor",
+      "Khastegi",
+      "Zoor"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 989,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «کدورت» در جملهٔ زیر چیست؟\n«پرتو محبت، زنگار کدورت و کینه را از آینهٔ دل‌ها می‌زداید.»",
+     "grading_key": "- [1] تیرگی و رنجش خاطر",
+     "final_resolution": "تیرگی و رنجش خاطر",
+     "notes": "",
+     "keywords": [
+      "کدورت"
+     ],
+     "distractors": [
+      "پاکی و روشنی",
+      "سود",
+      "شتاب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «کدورت» mean in this sentence?\n«پرتو محبت، زنگار کدورت و کینه را از آینهٔ دل‌ها می‌زداید.»",
+     "grading_key": "- [1] Ill feeling, bad blood",
+     "final_resolution": "Ill feeling, bad blood",
+     "notes": "",
+     "keywords": [
+      "kodoorat (ill feeling)"
+     ],
+     "distractors": [
+      "Purity, clarity",
+      "Profit",
+      "Speed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «kodoorat» dar jomle-ye zir chist?\n«پرتو محبت، زنگار کدورت و کینه را از آینهٔ دل‌ها می‌زداید.»",
+     "grading_key": "- [1] Tiregi va ranjesh-e khater",
+     "final_resolution": "Tiregi va ranjesh-e khater",
+     "notes": "",
+     "keywords": [
+      "kodoorat"
+     ],
+     "distractors": [
+      "Paki va rowshani",
+      "Sood",
+      "Shetab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 989,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «خلسه» در جملهٔ زیر چیست؟\n«در دل آن کویر خاموش، گویی جانم در خلسهٔ رازآمیز آسمان فرو می‌رفت.»",
+     "grading_key": "- [1] بیخودی و فرو رفتن در خود",
+     "final_resolution": "بیخودی و فرو رفتن در خود",
+     "notes": "",
+     "keywords": [
+      "خلسه"
+     ],
+     "distractors": [
+      "هراس ناگهانی",
+      "هیاهو",
+      "خط افقی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «خلسه» mean in this sentence?\n«در دل آن کویر خاموش، گویی جانم در خلسهٔ رازآمیز آسمان فرو می‌رفت.»",
+     "grading_key": "- [1] Rapture, a trance",
+     "final_resolution": "Rapture, a trance",
+     "notes": "",
+     "keywords": [
+      "khalse (rapture, trance)"
+     ],
+     "distractors": [
+      "Sudden panic",
+      "Uproar",
+      "A horizontal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «khalse» dar jomle-ye zir chist?\n«در دل آن کویر خاموش، گویی جانم در خلسهٔ رازآمیز آسمان فرو می‌رفت.»",
+     "grading_key": "- [1] Bikhodi va foroo raftan dar khod",
+     "final_resolution": "Bikhodi va foroo raftan dar khod",
+     "notes": "",
+     "keywords": [
+      "khalse"
+     ],
+     "distractors": [
+      "Heras-e nagahani",
+      "Hayahoo",
+      "Khatt-e ofoghi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 989,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «فرو رفتن در گل و گرفتار شدن» است، کدام است؟",
+     "grading_key": "- [1] وحلت",
+     "final_resolution": "وحلت",
+     "notes": "",
+     "keywords": [
+      "وحلت"
+     ],
+     "distractors": [
+      "وهلت",
+      "وحلط",
+      "وهلط"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'getting stuck in mud, being caught in a plight'?",
+     "grading_key": "- [1] وحلت",
+     "final_resolution": "وحلت",
+     "notes": "",
+     "keywords": [
+      "vahlat (being stuck in mud)"
+     ],
+     "distractors": [
+      "وهلت",
+      "وحلط",
+      "وهلط"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'foroo raftan dar gel va gereftar shodan' ast, kodam ast?",
+     "grading_key": "- [1] وحلت",
+     "final_resolution": "وحلت",
+     "notes": "",
+     "keywords": [
+      "vahlat"
+     ],
+     "distractors": [
+      "وهلت",
+      "وحلط",
+      "وهلط"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 989,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سنگین سمی، که از کارگاه‌های دباغی و چرم‌سازی وارد آب می‌شود، سرطان‌زاست و به ریه آسیب می‌زند؟",
+     "grading_key": "- [1] کروم",
+     "final_resolution": "کروم",
+     "notes": "",
+     "keywords": [
+      "کروم"
+     ],
+     "distractors": [
+      "آهن",
+      "کلسیم",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which toxic heavy metal, released into water by tanneries, causes cancer and harms the lungs?",
+     "grading_key": "- [1] Chromium",
+     "final_resolution": "Chromium",
+     "notes": "",
+     "keywords": [
+      "chromium"
+     ],
+     "distractors": [
+      "Iron",
+      "Calcium",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sangin-e sammi, ke az kargah-haye dabbaghi va charm-sazi vared-e ab mishavad, saratan-zast va be riye asib mizanad?",
+     "grading_key": "- [1] Krom",
+     "final_resolution": "Krom",
+     "notes": "",
+     "keywords": [
+      "krom"
+     ],
+     "distractors": [
+      "Ahan",
+      "Kalsiyom",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 989,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "سوزاندن غیراستاندارد زبالهٔ پلاستیکی کدام ترکیب‌های بسیار سمی و سرطان‌زا را در هوا پخش می‌کند؟",
+     "grading_key": "- [1] دی‌اکسین‌ها",
+     "final_resolution": "دی‌اکسین‌ها",
+     "notes": "",
+     "keywords": [
+      "دی‌اکسین"
+     ],
+     "distractors": [
+      "کربن دی‌اکسید",
+      "بخار آب",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Burning plastic rubbish carelessly releases which very toxic, cancer-causing compounds into the air?",
+     "grading_key": "- [1] Dioxins",
+     "final_resolution": "Dioxins",
+     "notes": "",
+     "keywords": [
+      "dioxins"
+     ],
+     "distractors": [
+      "Carbon dioxide",
+      "Water vapour",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Soozandan-e gheyr-e estandard-e zobale-ye pelastiki kodam tarkib-haye besyar sammi va saratan-za ra dar hava pakhsh mikonad?",
+     "grading_key": "- [1] Di-oksin-ha",
+     "final_resolution": "Di-oksin-ha",
+     "notes": "",
+     "keywords": [
+      "di-oksin"
+     ],
+     "distractors": [
+      "Karbon di-oksid",
+      "Bokhar-e ab",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 989,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در تصفیهٔ آب و فاضلاب، افزودن موادی مانند زاج تا ذرات بسیار ریز معلق به هم بچسبند و ته‌نشین شوند، چه نام دارد؟",
+     "grading_key": "- [1] انعقاد و لخته‌سازی",
+     "final_resolution": "انعقاد و لخته‌سازی",
+     "notes": "",
+     "keywords": [
+      "انعقاد و لخته‌سازی"
+     ],
+     "distractors": [
+      "آشغال‌گیری",
+      "اکسایش بی‌هوازی",
+      "جوشاندن"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In water and sewage treatment, adding chemicals such as alum so tiny suspended particles clump together and settle is called what?",
+     "grading_key": "- [1] Coagulation and flocculation",
+     "final_resolution": "Coagulation and flocculation",
+     "notes": "",
+     "keywords": [
+      "coagulation and flocculation"
+     ],
+     "distractors": [
+      "Screening",
+      "Anaerobic oxidation",
+      "Boiling"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar tasfiye-ye ab va fazelab, afzoodan-e mavadi manand-e zaj ta zarrat-e besyar riz-e mo'allagh be ham bechasband va tah-neshin shavand, che nam darad?",
+     "grading_key": "- [1] En'eghad va lakhte-sazi",
+     "final_resolution": "En'eghad va lakhte-sazi",
+     "notes": "",
+     "keywords": [
+      "en'eghad va lakhte-sazi"
+     ],
+     "distractors": [
+      "Ashghal-giri",
+      "Oksayesh-e bi-havazi",
+      "Jooshandan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 989,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "برای تعیین ضربان قلب مناسب در ورزش هوازی، از کدام شاخص استفاده می‌شود که از رابطهٔ «۲۲۰ منهای سن» به دست می‌آید؟",
+     "grading_key": "- [1] بیشینهٔ ضربان قلب",
+     "final_resolution": "بیشینهٔ ضربان قلب",
+     "notes": "",
+     "keywords": [
+      "بیشینهٔ ضربان قلب"
+     ],
+     "distractors": [
+      "فشار خون در حال استراحت",
+      "گنجایش ریه",
+      "انرژی مصرفی روزانه"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "To set the right heart rate for aerobic exercise, which measure is used, found from \"220 minus age\"?",
+     "grading_key": "- [1] Maximum heart rate",
+     "final_resolution": "Maximum heart rate",
+     "notes": "",
+     "keywords": [
+      "maximum heart rate"
+     ],
+     "distractors": [
+      "Resting blood pressure",
+      "Lung capacity",
+      "Daily energy use"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Baraye ta'yin-e zarban-e ghalb-e monaseb dar varzesh-e havazi, az kodam shakhes estefade mishavad ke az rabete-ye \"220 menha-ye senn\" be dast miayad?",
+     "grading_key": "- [1] Bishine-ye zarban-e ghalb",
+     "final_resolution": "Bishine-ye zarban-e ghalb",
+     "notes": "",
+     "keywords": [
+      "bishine-ye zarban-e ghalb"
+     ],
+     "distractors": [
+      "Feshar-e khoon dar hal-e esterahat",
+      "Gonjayesh-e riye",
+      "Enerzhi-ye masrafi-ye roozane"
+     ]
+    }
+   }
+  }
+ ]
+}
