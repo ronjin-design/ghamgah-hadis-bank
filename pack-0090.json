@@ -1,0 +1,1063 @@
+{
+ "version": 90,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 983,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد تابع جزء صحیح)",
+    "en": "Chapter 3: Limits (Floor Function)",
+    "tr": "Fasl 3: Had (Jozv-e Sahih)",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد راست تابع جزء صحیح ⁦f(x) = [x]⁩ وقتی ⁦x → 2+⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "حد راست جزء صحیح"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦0⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the right-hand limit of the floor function f(x) = [x] as x → 2+?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "right-hand limit of the floor function"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦0⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e rast-e tabe'-e jozv-e sahih-e f(x) = [x] vaghti x → 2+ kodam ast?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e rast-e jozv-e sahih"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦0⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 983,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (شتاب لحظه‌ای)",
+    "en": "Chapter 4: The Derivative (Instantaneous Acceleration)",
+    "tr": "Fasl 4: Moshtagh (Shetab)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع سرعت ⁦v(t)⁩ (یا مشتق دوم تابع مکان) نسبت به زمان، کدام کمیت است؟",
+     "grading_key": "- [1] Instantaneous acceleration",
+     "final_resolution": "Instantaneous acceleration",
+     "notes": "",
+     "keywords": [
+      "شتاب لحظه‌ای"
+     ],
+     "distractors": [
+      "Instantaneous velocity",
+      "Average displacement",
+      "Friction"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The derivative of the velocity function v(t) (or the second derivative of position) with respect to time is which quantity?",
+     "grading_key": "- [1] Instantaneous acceleration",
+     "final_resolution": "Instantaneous acceleration",
+     "notes": "",
+     "keywords": [
+      "instantaneous acceleration"
+     ],
+     "distractors": [
+      "Instantaneous velocity",
+      "Average displacement",
+      "Friction"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe'-e sor'at-e v(t) (ya moshtagh-e dovvom-e tabe'-e makan) nesbat be zaman, kodam kamiyat ast?",
+     "grading_key": "- [1] Instantaneous acceleration",
+     "final_resolution": "Instantaneous acceleration",
+     "notes": "",
+     "keywords": [
+      "shetab-e lahze-i"
+     ],
+     "distractors": [
+      "Instantaneous velocity",
+      "Average displacement",
+      "Friction"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 983,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام ۰/۰ با تجزیه)",
+    "en": "Chapter 3: Limits (0/0 by Factoring)",
+    "tr": "Fasl 3: Had (Tajziye)",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦(x² − 4) / (x − 2)⁩ وقتی ⁦x → 2⁩ کدام است؟",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "رفع ابهام با تجزیه"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of (x² − 4) / (x − 2) as x → 2?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "clearing 0/0 by factoring"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e (x² − 4) / (x − 2) vaghti x → 2 kodam ast?",
+     "grading_key": "- [1] ⁦4⁩",
+     "final_resolution": "⁦4⁩",
+     "notes": "",
+     "keywords": [
+      "rafe'-e ebham ba tajziye"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦2⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 983,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَحْصَیْنَاهُ» در عبارت زیر کدام است؟\n«وَ کُلَّ شَیْءٍ أَحْصَیْنَاهُ کِتَاباً.»",
+     "grading_key": "- [1] آن را برشمردیم",
+     "final_resolution": "آن را برشمردیم",
+     "notes": "",
+     "keywords": [
+      "أَحْصَیْنَاهُ"
+     ],
+     "distractors": [
+      "آن را فراموش کردیم",
+      "آن را پنهان کردیم",
+      "آن را نابود کردیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَحْصَیْنَاهُ» mean in this verse?\n«وَ کُلَّ شَیْءٍ أَحْصَیْنَاهُ کِتَاباً.»",
+     "grading_key": "- [1] We have counted it all",
+     "final_resolution": "We have counted it all",
+     "notes": "",
+     "keywords": [
+      "ahsaynahu (we counted it)"
+     ],
+     "distractors": [
+      "We have forgotten it",
+      "We have hidden it",
+      "We have destroyed it"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ahsaynahu» dar ebarat-e zir kodam ast?\n«وَ کُلَّ شَیْءٍ أَحْصَیْنَاهُ کِتَاباً.»",
+     "grading_key": "- [1] An ra bar-shemordim",
+     "final_resolution": "An ra bar-shemordim",
+     "notes": "",
+     "keywords": [
+      "ahsaynahu"
+     ],
+     "distractors": [
+      "An ra faramoosh kardim",
+      "An ra penhan kardim",
+      "An ra nabood kardim"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 983,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَفَازاً» در عبارت زیر کدام است؟\n«إِنَّ لِلْمُتَّقِینَ مَفَازاً.»",
+     "grading_key": "- [1] رستگاری و پیروزی",
+     "final_resolution": "رستگاری و پیروزی",
+     "notes": "",
+     "keywords": [
+      "مَفَازاً"
+     ],
+     "distractors": [
+      "کیفر سخت",
+      "سیاه‌چال",
+      "بازار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَفَازاً» mean in this verse?\n«إِنَّ لِلْمُتَّقِینَ مَفَازاً.»",
+     "grading_key": "- [1] Triumph, salvation",
+     "final_resolution": "Triumph, salvation",
+     "notes": "",
+     "keywords": [
+      "mafaz (triumph)"
+     ],
+     "distractors": [
+      "Harsh punishment",
+      "A dungeon",
+      "A market"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «mafazan» dar ebarat-e zir kodam ast?\n«إِنَّ لِلْمُتَّقِینَ مَفَازاً.»",
+     "grading_key": "- [1] Rastegari va piroozi",
+     "final_resolution": "Rastegari va piroozi",
+     "notes": "",
+     "keywords": [
+      "mafazan"
+     ],
+     "distractors": [
+      "Keyfar-e sakht",
+      "Siyah-chal",
+      "Bazar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 983,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «حَدَائِقَ» در عبارت زیر کدام است؟\n«حَدَائِقَ وَ أَعْنَاباً.»",
+     "grading_key": "- [1] باغ‌ها",
+     "final_resolution": "باغ‌ها",
+     "notes": "",
+     "keywords": [
+      "حَدَائِقَ"
+     ],
+     "distractors": [
+      "تپه‌های شنی",
+      "کوه‌های سنگی",
+      "آبراه‌های زیرزمینی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «حَدَائِقَ» mean in this verse?\n«حَدَائِقَ وَ أَعْنَاباً.»",
+     "grading_key": "- [1] Gardens",
+     "final_resolution": "Gardens",
+     "notes": "",
+     "keywords": [
+      "hada'iq (gardens)"
+     ],
+     "distractors": [
+      "Sand dunes",
+      "Rocky mountains",
+      "Underground channels"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «hada'iq» dar ebarat-e zir kodam ast?\n«حَدَائِقَ وَ أَعْنَاباً.»",
+     "grading_key": "- [1] Bagh-ha",
+     "final_resolution": "Bagh-ha",
+     "notes": "",
+     "keywords": [
+      "hada'iq"
+     ],
+     "distractors": [
+      "Tappe-haye sheni",
+      "Kooh-haye sangi",
+      "Abrah-haye zirzamini"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 983,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَتْرَاباً» در عبارت زیر کدام است؟\n«وَ کَوَاعِبَ أَتْرَاباً.»",
+     "grading_key": "- [1] هم‌سن و سال",
+     "final_resolution": "هم‌سن و سال",
+     "notes": "",
+     "keywords": [
+      "أَتْرَاباً"
+     ],
+     "distractors": [
+      "بسیار سالخورده",
+      "تنها",
+      "گذرا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَتْرَاباً» mean in this verse?\n«وَ کَوَاعِبَ أَتْرَاباً.»",
+     "grading_key": "- [1] Of equal age",
+     "final_resolution": "Of equal age",
+     "notes": "",
+     "keywords": [
+      "atrab (of equal age)"
+     ],
+     "distractors": [
+      "Very old",
+      "Alone",
+      "Passing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «atraban» dar ebarat-e zir kodam ast?\n«وَ کَوَاعِبَ أَتْرَاباً.»",
+     "grading_key": "- [1] Ham-senn va sal",
+     "final_resolution": "Ham-senn va sal",
+     "notes": "",
+     "keywords": [
+      "atraban"
+     ],
+     "distractors": [
+      "Besyar salkhorde",
+      "Tanha",
+      "Gozara"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 983,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «دِهَاقاً» در عبارت زیر کدام است؟\n«وَ کَأْساً دِهَاقاً.»",
+     "grading_key": "- [1] پر و لبالب",
+     "final_resolution": "پر و لبالب",
+     "notes": "",
+     "keywords": [
+      "دِهَاقاً"
+     ],
+     "distractors": [
+      "تهی",
+      "یخ‌زده",
+      "زهرآگین"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «دِهَاقاً» mean in this verse?\n«وَ کَأْساً دِهَاقاً.»",
+     "grading_key": "- [1] Full to the brim",
+     "final_resolution": "Full to the brim",
+     "notes": "",
+     "keywords": [
+      "dihaq (brimming)"
+     ],
+     "distractors": [
+      "Empty",
+      "Frozen",
+      "Poisonous"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «dihaqan» dar ebarat-e zir kodam ast?\n«وَ کَأْساً دِهَاقاً.»",
+     "grading_key": "- [1] Por va labalab",
+     "final_resolution": "Por va labalab",
+     "notes": "",
+     "keywords": [
+      "dihaqan"
+     ],
+     "distractors": [
+      "Tohi",
+      "Yakh-zade",
+      "Zahr-agin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 983,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ابهت» در جملهٔ زیر چیست؟\n«رفتار منصفانه و پاسداری از حقوق زیردستان، مایهٔ ابهت و بزرگی فرمانروا است.»",
+     "grading_key": "- [1] شکوه و عظمت",
+     "final_resolution": "شکوه و عظمت",
+     "notes": "",
+     "keywords": [
+      "ابهت"
+     ],
+     "distractors": [
+      "خواری",
+      "سردرگمی",
+      "تهیدستی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ابهت» mean in this sentence?\n«رفتار منصفانه و پاسداری از حقوق زیردستان، مایهٔ ابهت و بزرگی فرمانروا است.»",
+     "grading_key": "- [1] Grandeur, majesty",
+     "final_resolution": "Grandeur, majesty",
+     "notes": "",
+     "keywords": [
+      "obohhat (grandeur)"
+     ],
+     "distractors": [
+      "Humiliation",
+      "Confusion",
+      "Poverty"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «obohhat» dar jomle-ye zir chist?\n«رفتار منصفانه و پاسداری از حقوق زیردستان، مایهٔ ابهت و بزرگی فرمانروا است.»",
+     "grading_key": "- [1] Shokooh va azemat",
+     "final_resolution": "Shokooh va azemat",
+     "notes": "",
+     "keywords": [
+      "obohhat"
+     ],
+     "distractors": [
+      "Khari",
+      "Sardargomi",
+      "Tahidasti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 983,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تمنا» در جملهٔ زیر چیست؟\n«سزاوار نیست که انسان شرافت روح خود را خرج تمنای مادیات دنیا کند.»",
+     "grading_key": "- [1] آرزو و خواهش",
+     "final_resolution": "آرزو و خواهش",
+     "notes": "",
+     "keywords": [
+      "تمنا"
+     ],
+     "distractors": [
+      "نپذیرفتن",
+      "فراموشی",
+      "فشار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تمنا» mean in this sentence?\n«سزاوار نیست که انسان شرافت روح خود را خرج تمنای مادیات دنیا کند.»",
+     "grading_key": "- [1] Longing, desire",
+     "final_resolution": "Longing, desire",
+     "notes": "",
+     "keywords": [
+      "tamanna (longing)"
+     ],
+     "distractors": [
+      "Refusal",
+      "Forgetting",
+      "Pressure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tamanna» dar jomle-ye zir chist?\n«سزاوار نیست که انسان شرافت روح خود را خرج تمنای مادیات دنیا کند.»",
+     "grading_key": "- [1] Arezoo va khahesh",
+     "final_resolution": "Arezoo va khahesh",
+     "notes": "",
+     "keywords": [
+      "tamanna"
+     ],
+     "distractors": [
+      "Napaziroftan",
+      "Faramooshi",
+      "Feshar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 983,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «سماجت» در جملهٔ زیر چیست؟\n«در بیابان تفته، گیاهان خاردار با سماجت به زندگی خود ادامه می‌دهند.»",
+     "grading_key": "- [1] پافشاری و سرسختی",
+     "final_resolution": "پافشاری و سرسختی",
+     "notes": "",
+     "keywords": [
+      "سماجت"
+     ],
+     "distractors": [
+      "تسلیم شتاب‌زده",
+      "خاموشی",
+      "گرمای شدید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «سماجت» mean in this sentence?\n«در بیابان تفته، گیاهان خاردار با سماجت به زندگی خود ادامه می‌دهند.»",
+     "grading_key": "- [1] Persistence, stubbornness",
+     "final_resolution": "Persistence, stubbornness",
+     "notes": "",
+     "keywords": [
+      "semajat (persistence)"
+     ],
+     "distractors": [
+      "Quick surrender",
+      "Silence",
+      "Intense heat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «semajat» dar jomle-ye zir chist?\n«در بیابان تفته، گیاهان خاردار با سماجت به زندگی خود ادامه می‌دهند.»",
+     "grading_key": "- [1] Pafeshari va sarsakhti",
+     "final_resolution": "Pafeshari va sarsakhti",
+     "notes": "",
+     "keywords": [
+      "semajat"
+     ],
+     "distractors": [
+      "Taslim-e shetab-zade",
+      "Khamooshi",
+      "Garma-ye shadid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 983,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: جناس ناهمسان)",
+    "en": "Persian 3 (Literary Devices: Partial Pun)",
+    "tr": "Adabiyat-e Farsi 3 (Jenas-e Nahamsan)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "آوردن واژه‌هایی که در لفظ نزدیک‌اند و تنها در یک حرف یا یک صدا با هم فرق دارند، و معنایشان یکسره جداست (مانند «چاه» و «راه»)، کدام آرایه است؟",
+     "grading_key": "- [1] جناس ناهمسان (ناقص)",
+     "final_resolution": "جناس ناهمسان (ناقص)",
+     "notes": "",
+     "keywords": [
+      "جناس ناهمسان"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Using words that sound nearly the same, differing by just one letter or sound, with completely different meanings (like «چاه» and «راه»), is which device?",
+     "grading_key": "- [1] Jenas-e nahamsan (partial pun)",
+     "final_resolution": "Jenas-e nahamsan (partial pun)",
+     "notes": "",
+     "keywords": [
+      "jenas-e nahamsan (partial pun)"
+     ],
+     "distractors": [
+      "Jinas-e tam (perfect pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Avardan-e vazhe-hayi ke dar lafz nazdik-and va tanha dar yek harf ya yek seda ba ham fargh darand, va ma'nayeshan yeksare jodast (manand-e \"chah\" va \"rah\"), kodam araye ast?",
+     "grading_key": "- [1] Jenas-e nahamsan (naghes)",
+     "final_resolution": "Jenas-e nahamsan (naghes)",
+     "notes": "",
+     "keywords": [
+      "jenas-e nahamsan"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 983,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «درخشش و تابش» است، کدام است؟",
+     "grading_key": "- [1] تلألؤ",
+     "final_resolution": "تلألؤ",
+     "notes": "",
+     "keywords": [
+      "تلألؤ"
+     ],
+     "distractors": [
+      "تلئلو",
+      "تلالو",
+      "طلالؤ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'gleaming, shining'?",
+     "grading_key": "- [1] تلألؤ",
+     "final_resolution": "تلألؤ",
+     "notes": "",
+     "keywords": [
+      "tala'lo' (gleaming)"
+     ],
+     "distractors": [
+      "تلئلو",
+      "تلالو",
+      "طلالؤ"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'derakhshesh va tabesh' ast, kodam ast?",
+     "grading_key": "- [1] تلألؤ",
+     "final_resolution": "تلألؤ",
+     "notes": "",
+     "keywords": [
+      "tala'lo'"
+     ],
+     "distractors": [
+      "تلئلو",
+      "تلالو",
+      "طلالؤ"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 983,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام حشره‌کش قدیمی، آلایندهٔ آلی ماندگاری است که در بافت چربی جانداران انباشته می‌شود و دهه‌ها در طبیعت می‌ماند؟",
+     "grading_key": "- [1] دی‌دی‌تی (DDT)",
+     "final_resolution": "دی‌دی‌تی (DDT)",
+     "notes": "",
+     "keywords": [
+      "دی‌دی‌تی"
+     ],
+     "distractors": [
+      "کربنات کلسیم",
+      "سلولز",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which old insecticide is a persistent organic pollutant that builds up in the body fat of living things and stays in nature for decades?",
+     "grading_key": "- [1] DDT",
+     "final_resolution": "DDT",
+     "notes": "",
+     "keywords": [
+      "DDT"
+     ],
+     "distractors": [
+      "Calcium carbonate",
+      "Cellulose",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam hashare-kosh-e ghadimi, aloodande-ye ali-ye mandegari ast ke dar baft-e charbi-ye jandaran anbashte mishavad va dahe-ha dar tabiat mimanad?",
+     "grading_key": "- [1] DDT",
+     "final_resolution": "DDT",
+     "notes": "",
+     "keywords": [
+      "DDT"
+     ],
+     "distractors": [
+      "Karbonat-e kalsiyom",
+      "Selooloz",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 983,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "90–92"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام گاز، که از سوختن سوخت‌های فسیلی و فعالیت صنعتی آزاد می‌شود، عامل اصلی اثر گلخانه‌ای و گرم شدن زمین است؟",
+     "grading_key": "- [1] کربن دی‌اکسید (CO₂)",
+     "final_resolution": "کربن دی‌اکسید (CO₂)",
+     "notes": "",
+     "keywords": [
+      "اثر گلخانه‌ای"
+     ],
+     "distractors": [
+      "نیتروژن",
+      "اکسیژن",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which gas, released by burning fossil fuels and by industry, is the main cause of the greenhouse effect and global warming?",
+     "grading_key": "- [1] Carbon dioxide (CO₂)",
+     "final_resolution": "Carbon dioxide (CO₂)",
+     "notes": "",
+     "keywords": [
+      "greenhouse effect"
+     ],
+     "distractors": [
+      "Nitrogen",
+      "Oxygen",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam gaz, ke az sookhtan-e sookht-haye fosili va fa'aliyat-e san'ati azad mishavad, amel-e asli-ye asar-e golkhane-i va garm shodan-e zamin ast?",
+     "grading_key": "- [1] Karbon di-oksid (CO₂)",
+     "final_resolution": "Karbon di-oksid (CO₂)",
+     "notes": "",
+     "keywords": [
+      "asar-e golkhane-i"
+     ],
+     "distractors": [
+      "Nitrozhen",
+      "Oksizhen",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 983,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در تصفیهٔ فاضلاب، جدا شدن ذرات سنگین که در حوضچه‌های آرام به ته می‌نشینند و لجن می‌سازند، چه نام دارد؟",
+     "grading_key": "- [1] ته‌نشینی",
+     "final_resolution": "ته‌نشینی",
+     "notes": "",
+     "keywords": [
+      "ته‌نشینی"
+     ],
+     "distractors": [
+      "کلرزنی",
+      "هوادهی",
+      "گرفتن فلزات سنگین"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In sewage treatment, heavy particles sinking to the bottom of still tanks and forming sludge is called what?",
+     "grading_key": "- [1] Sedimentation (settling)",
+     "final_resolution": "Sedimentation (settling)",
+     "notes": "",
+     "keywords": [
+      "sedimentation"
+     ],
+     "distractors": [
+      "Chlorination",
+      "Aeration",
+      "Removing heavy metals"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar tasfiye-ye fazelab, joda shodan-e zarrat-e sangin ke dar howzche-haye aram be tah mineshinand va lajan misazand, che nam darad?",
+     "grading_key": "- [1] Tah-neshini",
+     "final_resolution": "Tah-neshini",
+     "notes": "",
+     "keywords": [
+      "tah-neshini"
+     ],
+     "distractors": [
+      "Kolor-zani",
+      "Hava-dehi",
+      "Gereftan-e felezat-e sangin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 983,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "بیشترین مقدار نمکی که یک بزرگسال برای حفظ سلامت رگ‌ها و پیشگیری از فشار خون بالا در روز باید بخورد، چقدر است؟",
+     "grading_key": "- [1] ۵ گرم",
+     "final_resolution": "۵ گرم",
+     "notes": "",
+     "keywords": [
+      "حد مصرف نمک"
+     ],
+     "distractors": [
+      "۱۵ گرم",
+      "۲۵ گرم",
+      "۵۰ گرم"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "What is the most salt an adult should eat in a day to protect the blood vessels and prevent high blood pressure?",
+     "grading_key": "- [1] 5 grams",
+     "final_resolution": "5 grams",
+     "notes": "",
+     "keywords": [
+      "daily salt limit"
+     ],
+     "distractors": [
+      "15 grams",
+      "25 grams",
+      "50 grams"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Bishtarin meghdar-e namaki ke yek bozorgsal baraye hefz-e salamat-e rag-ha va pishgiri az feshar-e khoon-e bala dar rooz bayad bokhorad, cheghadr ast?",
+     "grading_key": "- [1] 5 geram",
+     "final_resolution": "5 geram",
+     "notes": "",
+     "keywords": [
+      "hadd-e masraf-e namak"
+     ],
+     "distractors": [
+      "15 geram",
+      "25 geram",
+      "50 geram"
+     ]
+    }
+   }
+  }
+ ]
+}
