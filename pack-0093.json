@@ -1,0 +1,1063 @@
+{
+ "version": 93,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 986,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد یک‌طرفه با قدر مطلق)",
+    "en": "Chapter 3: Limits (One-sided Limit with Absolute Value)",
+    "tr": "Fasl 3: Had (Ghadr-e Motlagh)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد راست ⁦(x − 3) / |x − 3|⁩ وقتی ⁦x → 3+⁩ کدام است؟",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "حد یک‌طرفه با قدر مطلق"
+     ],
+     "distractors": [
+      "⁦−1⁩",
+      "⁦0⁩",
+      "⁦3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the right-hand limit of (x − 3) / |x − 3| as x → 3+?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "one-sided limit with absolute value"
+     ],
+     "distractors": [
+      "⁦−1⁩",
+      "⁦0⁩",
+      "⁦3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e rast-e (x − 3) / |x − 3| vaghti x → 3+ kodam ast?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "had-e yek-tarafe ba ghadr-e motlagh"
+     ],
+     "distractors": [
+      "⁦−1⁩",
+      "⁦0⁩",
+      "⁦3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 986,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق قدر مطلق)",
+    "en": "Chapter 4: The Derivative (Absolute Value)",
+    "tr": "Fasl 4: Moshtagh (Ghadr-e Motlagh)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = |x|⁩ در نقطهٔ ⁦x = −5⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق |x|"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = |x| at x = −5?",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of |x|"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe'-e f(x) = |x| dar noghte-ye x = −5 kodam ast?",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e |x|"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 986,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تساوی دو تابع)",
+    "en": "Chapter 1: Functions (Equal Functions)",
+    "tr": "Fasl 1: Tabe' (Tasavi-ye Do Tabe')",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "دو تابع ⁦f⁩ و ⁦g⁩ وقتی برابرند که دامنه‌شان یکی باشد و به ازای هر ⁦x⁩ از دامنه، کدام شرط برقرار باشد؟",
+     "grading_key": "- [1] ⁦f(x) = g(x)⁩",
+     "final_resolution": "⁦f(x) = g(x)⁩",
+     "notes": "",
+     "keywords": [
+      "تساوی دو تابع"
+     ],
+     "distractors": [
+      "فقط بُرد آن‌ها برابر باشد",
+      "⁦f′(x) = g′(x)⁩ باشد",
+      "هر دو تابع ثابت باشند"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "Two functions f and g are equal when they have the same domain and which condition holds for every x in it?",
+     "grading_key": "- [1] ⁦f(x) = g(x)⁩",
+     "final_resolution": "⁦f(x) = g(x)⁩",
+     "notes": "",
+     "keywords": [
+      "equal functions"
+     ],
+     "distractors": [
+      "Only their ranges are equal",
+      "f′(x) = g′(x)",
+      "Both are constant functions"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Do tabe'-e f va g vaghti barabarand ke damane-shan yeki bashad va be ezaye har x az damane, kodam shart barghrar bashad?",
+     "grading_key": "- [1] ⁦f(x) = g(x)⁩",
+     "final_resolution": "⁦f(x) = g(x)⁩",
+     "notes": "",
+     "keywords": [
+      "tasavi-ye do tabe'"
+     ],
+     "distractors": [
+      "Faghat bord-e anha barabar bashad",
+      "f′(x) = g′(x) bashad",
+      "Har do tabe' sabet bashand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 986,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تَرْجُفُ» در عبارت زیر کدام است؟\n«یَوْمَ تَرْجُفُ الرَّاجِفَةُ.»",
+     "grading_key": "- [1] به لرزه درمی‌آید",
+     "final_resolution": "به لرزه درمی‌آید",
+     "notes": "",
+     "keywords": [
+      "تَرْجُفُ"
+     ],
+     "distractors": [
+      "خاموش می‌شود",
+      "می‌درخشد",
+      "آرام می‌ماند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَرْجُفُ» mean in this verse?\n«یَوْمَ تَرْجُفُ الرَّاجِفَةُ.»",
+     "grading_key": "- [1] Quakes, shakes violently",
+     "final_resolution": "Quakes, shakes violently",
+     "notes": "",
+     "keywords": [
+      "tarjufu (quakes)"
+     ],
+     "distractors": [
+      "Fades out",
+      "Shines",
+      "Stays still"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tarjufu» dar ebarat-e zir kodam ast?\n«یَوْمَ تَرْجُفُ الرَّاجِفَةُ.»",
+     "grading_key": "- [1] Be larze dar-miayad",
+     "final_resolution": "Be larze dar-miayad",
+     "notes": "",
+     "keywords": [
+      "tarjufu"
+     ],
+     "distractors": [
+      "Khamoosh mishavad",
+      "Miderakhshad",
+      "Aram mimanad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 986,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَاجِفَةٌ» در عبارت زیر کدام است؟\n«قُلُوبٌ یَوْمَئِذٍ وَاجِفَةٌ.»",
+     "grading_key": "- [1] هراسان و لرزان",
+     "final_resolution": "هراسان و لرزان",
+     "notes": "",
+     "keywords": [
+      "وَاجِفَةٌ"
+     ],
+     "distractors": [
+      "آرام",
+      "شادمان",
+      "درخشان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَاجِفَةٌ» mean in this verse?\n«قُلُوبٌ یَوْمَئِذٍ وَاجِفَةٌ.»",
+     "grading_key": "- [1] Trembling with fear",
+     "final_resolution": "Trembling with fear",
+     "notes": "",
+     "keywords": [
+      "wajifa (trembling with fear)"
+     ],
+     "distractors": [
+      "Calm",
+      "Joyful",
+      "Shining"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wajifa» dar ebarat-e zir kodam ast?\n«قُلُوبٌ یَوْمَئِذٍ وَاجِفَةٌ.»",
+     "grading_key": "- [1] Harasan va larzan",
+     "final_resolution": "Harasan va larzan",
+     "notes": "",
+     "keywords": [
+      "wajifa"
+     ],
+     "distractors": [
+      "Aram",
+      "Shadman",
+      "Derakhshan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 986,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «غُلْباً» در عبارت زیر کدام است؟\n«وَ زَیْتُوناً وَ نَخْلاً * وَ حَدَائِقَ غُلْباً.»",
+     "grading_key": "- [1] انبوه و پردرخت",
+     "final_resolution": "انبوه و پردرخت",
+     "notes": "",
+     "keywords": [
+      "غُلْباً"
+     ],
+     "distractors": [
+      "خشکیده",
+      "شنی و خالی",
+      "هموار و ساختگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «غُلْباً» mean in this verse?\n«وَ زَیْتُوناً وَ نَخْلاً * وَ حَدَائِقَ غُلْباً.»",
+     "grading_key": "- [1] Thick with trees, dense",
+     "final_resolution": "Thick with trees, dense",
+     "notes": "",
+     "keywords": [
+      "ghulb (thick, dense)"
+     ],
+     "distractors": [
+      "Withered",
+      "Sandy and empty",
+      "Flat and man-made"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ghulban» dar ebarat-e zir kodam ast?\n«وَ زَیْتُوناً وَ نَخْلاً * وَ حَدَائِقَ غُلْباً.»",
+     "grading_key": "- [1] Anbooh va por-derakht",
+     "final_resolution": "Anbooh va por-derakht",
+     "notes": "",
+     "keywords": [
+      "ghulban"
+     ],
+     "distractors": [
+      "Khoshkide",
+      "Sheni va khali",
+      "Hamvar va sakhtegi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 986,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَبّاً» در عبارت زیر کدام است؟\n«وَ فَاکِهَةً وَ أَبّاً.»",
+     "grading_key": "- [1] چراگاه، علف",
+     "final_resolution": "چراگاه، علف",
+     "notes": "",
+     "keywords": [
+      "أَبّاً"
+     ],
+     "distractors": [
+      "بازار",
+      "چشمهٔ عسل",
+      "دیوار سنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَبّاً» mean in this verse?\n«وَ فَاکِهَةً وَ أَبّاً.»",
+     "grading_key": "- [1] Pasture, grazing grass",
+     "final_resolution": "Pasture, grazing grass",
+     "notes": "",
+     "keywords": [
+      "abb (pasture)"
+     ],
+     "distractors": [
+      "A market",
+      "A spring of honey",
+      "A stone wall"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «abban» dar ebarat-e zir kodam ast?\n«وَ فَاکِهَةً وَ أَبّاً.»",
+     "grading_key": "- [1] Charagah, alaf",
+     "final_resolution": "Charagah, alaf",
+     "notes": "",
+     "keywords": [
+      "abban"
+     ],
+     "distractors": [
+      "Bazar",
+      "Cheshme-ye asal",
+      "Divar-e sangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 986,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الصَّاخَّةُ» در عبارت زیر کدام است؟\n«فَإِذَا جَاءَتِ الصَّاخَّةُ.»",
+     "grading_key": "- [1] بانگ کرکننده",
+     "final_resolution": "بانگ کرکننده",
+     "notes": "",
+     "keywords": [
+      "الصَّاخَّةُ"
+     ],
+     "distractors": [
+      "نسیم صبحگاهی",
+      "نیمه‌شب آرام",
+      "جریان آرام آب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الصَّاخَّةُ» mean in this verse?\n«فَإِذَا جَاءَتِ الصَّاخَّةُ.»",
+     "grading_key": "- [1] The deafening blast",
+     "final_resolution": "The deafening blast",
+     "notes": "",
+     "keywords": [
+      "as-sakhkha (the deafening blast)"
+     ],
+     "distractors": [
+      "A morning breeze",
+      "A quiet midnight",
+      "A slow stream"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «as-sakhkha» dar ebarat-e zir kodam ast?\n«فَإِذَا جَاءَتِ الصَّاخَّةُ.»",
+     "grading_key": "- [1] Bang-e kar-konande",
+     "final_resolution": "Bang-e kar-konande",
+     "notes": "",
+     "keywords": [
+      "as-sakhkha"
+     ],
+     "distractors": [
+      "Nasim-e sobhgahi",
+      "Nime-shab-e aram",
+      "Jaryan-e aram-e ab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 986,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مذلت» در جملهٔ زیر چیست؟\n«تن دادن به پستی و خواری، مایهٔ مذلت و سرافکندگی روح بلند انسان است.»",
+     "grading_key": "- [1] خواری و پستی",
+     "final_resolution": "خواری و پستی",
+     "notes": "",
+     "keywords": [
+      "مذلت"
+     ],
+     "distractors": [
+      "سربلندی",
+      "کامیابی",
+      "آرامش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مذلت» mean in this sentence?\n«تن دادن به پستی و خواری، مایهٔ مذلت و سرافکندگی روح بلند انسان است.»",
+     "grading_key": "- [1] Humiliation, disgrace",
+     "final_resolution": "Humiliation, disgrace",
+     "notes": "",
+     "keywords": [
+      "mazallat (humiliation)"
+     ],
+     "distractors": [
+      "Honour",
+      "Success",
+      "Calm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mazallat» dar jomle-ye zir chist?\n«تن دادن به پستی و خواری، مایهٔ مذلت و سرافکندگی روح بلند انسان است.»",
+     "grading_key": "- [1] Khari va pasti",
+     "final_resolution": "Khari va pasti",
+     "notes": "",
+     "keywords": [
+      "mazallat"
+     ],
+     "distractors": [
+      "Sarbolandi",
+      "Kamyabi",
+      "Aramesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 986,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مستور» در جملهٔ زیر چیست؟\n«حقایق والای آفرینش، در ژرفای این عالم مستور مانده است.»",
+     "grading_key": "- [1] پوشیده و پنهان",
+     "final_resolution": "پوشیده و پنهان",
+     "notes": "",
+     "keywords": [
+      "مستور"
+     ],
+     "distractors": [
+      "آشکار",
+      "شکسته",
+      "گسترده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مستور» mean in this sentence?\n«حقایق والای آفرینش، در ژرفای این عالم مستور مانده است.»",
+     "grading_key": "- [1] Hidden, veiled",
+     "final_resolution": "Hidden, veiled",
+     "notes": "",
+     "keywords": [
+      "mastoor (hidden)"
+     ],
+     "distractors": [
+      "Plain to see",
+      "Broken",
+      "Wide open"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mastoor» dar jomle-ye zir chist?\n«حقایق والای آفرینش، در ژرفای این عالم مستور مانده است.»",
+     "grading_key": "- [1] Pooshide va penhan",
+     "final_resolution": "Pooshide va penhan",
+     "notes": "",
+     "keywords": [
+      "mastoor"
+     ],
+     "distractors": [
+      "Ashkar",
+      "Shekaste",
+      "Gostarde"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 986,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «جذبه» در جملهٔ زیر چیست؟\n«نویسنده در آن تنهایی، خود را دستخوش جذبهٔ مرموز آسمان شب می‌دید.»",
+     "grading_key": "- [1] کشش و گیرایی",
+     "final_resolution": "کشش و گیرایی",
+     "notes": "",
+     "keywords": [
+      "جذبه"
+     ],
+     "distractors": [
+      "دفع و راندن",
+      "درد",
+      "ایستایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «جذبه» mean in this sentence?\n«نویسنده در آن تنهایی، خود را دستخوش جذبهٔ مرموز آسمان شب می‌دید.»",
+     "grading_key": "- [1] Pull, allure",
+     "final_resolution": "Pull, allure",
+     "notes": "",
+     "keywords": [
+      "jazbe (pull, allure)"
+     ],
+     "distractors": [
+      "Pushing away",
+      "Pain",
+      "Stillness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «jazbe» dar jomle-ye zir chist?\n«نویسنده در آن تنهایی، خود را دستخوش جذبهٔ مرموز آسمان شب می‌دید.»",
+     "grading_key": "- [1] Keshesh va girayi",
+     "final_resolution": "Keshesh va girayi",
+     "notes": "",
+     "keywords": [
+      "jazbe"
+     ],
+     "distractors": [
+      "Daf' va randan",
+      "Dard",
+      "Istayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 986,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «حسابداران و خزانه‌داران دیوانی» است، کدام است؟",
+     "grading_key": "- [1] مستوفیان",
+     "final_resolution": "مستوفیان",
+     "notes": "",
+     "keywords": [
+      "مستوفی"
+     ],
+     "distractors": [
+      "مستوفییان",
+      "مسطوفیان",
+      "مصتوفیان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'royal accountants, treasury officials'?",
+     "grading_key": "- [1] مستوفیان",
+     "final_resolution": "مستوفیان",
+     "notes": "",
+     "keywords": [
+      "mostowfi (royal accountant)"
+     ],
+     "distractors": [
+      "مستوفییان",
+      "مسطوفیان",
+      "مصتوفیان"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'hesabdaran va khazane-daran-e divani' ast, kodam ast?",
+     "grading_key": "- [1] مستوفیان",
+     "final_resolution": "مستوفیان",
+     "notes": "",
+     "keywords": [
+      "mostowfi"
+     ],
+     "distractors": [
+      "مستوفییان",
+      "مسطوفیان",
+      "مصتوفیان"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 986,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام بیماری مزمن دستگاه عصبی مرکزی از آن روست که دستگاه ایمنی، غلاف میلین یاخته‌های عصبی را تخریب می‌کند؟",
+     "grading_key": "- [1] ام‌اس (مالتیپل اسکلروزیس)",
+     "final_resolution": "ام‌اس (مالتیپل اسکلروزیس)",
+     "notes": "",
+     "keywords": [
+      "ام‌اس"
+     ],
+     "distractors": [
+      "دیابت نوع ۲",
+      "آسیب شبکیه در فشار خون",
+      "تصلب شرایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which long-term disease of the central nervous system comes from the immune system destroying the myelin sheath of nerve cells?",
+     "grading_key": "- [1] Multiple sclerosis (MS)",
+     "final_resolution": "Multiple sclerosis (MS)",
+     "notes": "",
+     "keywords": [
+      "multiple sclerosis"
+     ],
+     "distractors": [
+      "Type 2 diabetes",
+      "Hypertensive retinopathy",
+      "Atherosclerosis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam bimari-ye mozmen-e dastgah-e asabi-ye markazi az an roost ke dastgah-e imeni, ghalaf-e miyelin-e yakhte-haye asabi ra takhrib mikonad?",
+     "grading_key": "- [1] Em-es (maltipel eskleroz)",
+     "final_resolution": "Em-es (maltipel eskleroz)",
+     "notes": "",
+     "keywords": [
+      "em-es"
+     ],
+     "distractors": [
+      "Diabet-e no'-e 2",
+      "Asib-e shabakiye dar feshar-e khoon",
+      "Tasallob-e sharayin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 986,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سمی که در قطعات الکترونیکی به کار می‌رود، با تنفس گرد آن به بیماری مزمن ریه می‌انجامد؟",
+     "grading_key": "- [1] بریلیوم",
+     "final_resolution": "بریلیوم",
+     "notes": "",
+     "keywords": [
+      "بریلیوم"
+     ],
+     "distractors": [
+      "آهن",
+      "کلسیم",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which toxic metal used in electronic parts causes long-term lung disease when its dust is breathed in?",
+     "grading_key": "- [1] Beryllium",
+     "final_resolution": "Beryllium",
+     "notes": "",
+     "keywords": [
+      "beryllium"
+     ],
+     "distractors": [
+      "Iron",
+      "Calcium",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sammi ke dar ghate'at-e elektroniki be kar miravad, ba tanaffos-e gard-e an be bimari-ye mozmen-e riye mianjamad?",
+     "grading_key": "- [1] Beriliyom",
+     "final_resolution": "Beriliyom",
+     "notes": "",
+     "keywords": [
+      "beriliyom"
+     ],
+     "distractors": [
+      "Ahan",
+      "Kalsiyom",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 986,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "گازهای متان و کربن دی‌اکسید که از تجزیهٔ بی‌هوازی زباله در لایه‌های زیرین محل دفن پدید می‌آیند، چه نام دارند؟",
+     "grading_key": "- [1] گاز محل دفن زباله (زیست‌گاز)",
+     "final_resolution": "گاز محل دفن زباله (زیست‌گاز)",
+     "notes": "",
+     "keywords": [
+      "گاز محل دفن زباله"
+     ],
+     "distractors": [
+      "شیرابهٔ زباله",
+      "گاز رادون",
+      "بخار کادمیوم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What are the methane and carbon dioxide formed by rubbish breaking down without air deep inside a landfill called?",
+     "grading_key": "- [1] Landfill gas (biogas)",
+     "final_resolution": "Landfill gas (biogas)",
+     "notes": "",
+     "keywords": [
+      "landfill gas"
+     ],
+     "distractors": [
+      "Leachate",
+      "Radon gas",
+      "Cadmium vapour"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Gaz-haye metan va karbon di-oksid ke az tajziye-ye bi-havazi-ye zobale dar laye-haye zirin-e mahall-e dafn padid miayand, che nam darand?",
+     "grading_key": "- [1] Gaz-e mahall-e dafn-e zobale (zist-gaz)",
+     "final_resolution": "Gaz-e mahall-e dafn-e zobale (zist-gaz)",
+     "notes": "",
+     "keywords": [
+      "gaz-e mahall-e dafn-e zobale"
+     ],
+     "distractors": [
+      "Shirabe-ye zobale",
+      "Gaz-e radon",
+      "Bokhar-e kadmiyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 986,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "کدام هورمون، که غدهٔ پینه‌آل در تاریکی شب ترشح می‌کند، نقش اصلی را در تنظیم چرخهٔ خواب و بیداری دارد؟",
+     "grading_key": "- [1] ملاتونین",
+     "final_resolution": "ملاتونین",
+     "notes": "",
+     "keywords": [
+      "ملاتونین"
+     ],
+     "distractors": [
+      "کورتیزول",
+      "انسولین",
+      "تیروکسین"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "Which hormone, released by the pineal gland in the dark of night, plays the main part in regulating the sleep-wake cycle?",
+     "grading_key": "- [1] Melatonin",
+     "final_resolution": "Melatonin",
+     "notes": "",
+     "keywords": [
+      "melatonin"
+     ],
+     "distractors": [
+      "Cortisol",
+      "Insulin",
+      "Thyroxine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Kodam hormon, ke ghodde-ye pineal dar tariki-ye shab tarashoh mikonad, naghsh-e asli ra dar tanzim-e charkhe-ye khab va bidari darad?",
+     "grading_key": "- [1] Melatonin",
+     "final_resolution": "Melatonin",
+     "notes": "",
+     "keywords": [
+      "melatonin"
+     ],
+     "distractors": [
+      "Kortizol",
+      "Ensulin",
+      "Tiroksin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 986,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام ویروس، که از راه خون منتقل می‌شود، التهاب مزمن کبد پدید می‌آورد، بی‌درمان به سیروز می‌انجامد و واکسن آن در برنامهٔ واکسیناسیون هست؟",
+     "grading_key": "- [1] ویروس هپاتیت B",
+     "final_resolution": "ویروس هپاتیت B",
+     "notes": "",
+     "keywords": [
+      "هپاتیت B"
+     ],
+     "distractors": [
+      "ویروس HIV",
+      "ویروس آنفلوانزا",
+      "باکتری وبا"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which blood-borne virus causes long-term liver inflammation, can lead to cirrhosis if untreated, and has a vaccine in the routine schedule?",
+     "grading_key": "- [1] Hepatitis B virus",
+     "final_resolution": "Hepatitis B virus",
+     "notes": "",
+     "keywords": [
+      "hepatitis B"
+     ],
+     "distractors": [
+      "HIV",
+      "Influenza virus",
+      "Cholera bacteria"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam viroos, ke az rah-e khoon montaghel mishavad, eltehab-e mozmen-e kabed padid miavarad, bi-darman be siroz mianjamad va vaksan-e an dar barname-ye vaksinasiyon hast?",
+     "grading_key": "- [1] Viroos-e hepatit B",
+     "final_resolution": "Viroos-e hepatit B",
+     "notes": "",
+     "keywords": [
+      "hepatit B"
+     ],
+     "distractors": [
+      "Viroos-e HIV",
+      "Viroos-e anfolanza",
+      "Bakteri-ye vaba"
+     ]
+    }
+   }
+  }
+ ]
+}
