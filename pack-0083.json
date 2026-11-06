@@ -1,0 +1,1124 @@
+{
+ "version": 83,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 976,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (رابطهٔ a، b و c در هذلولی)",
+    "en": "Chapter 6: Conic Sections (a, b and c in a Hyperbola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (a, b, c dar Hozloli)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در هذلولی، بین ⁦a⁩ (نیم‌قطر کانونی)، ⁦b⁩ (نیم‌قطر دیگر) و ⁦c⁩ (فاصلهٔ کانون تا مرکز) کدام رابطه برقرار است؟",
+     "grading_key": "- [1] ⁦c² = a² + b²⁩",
+     "final_resolution": "⁦c² = a² + b²⁩",
+     "notes": "",
+     "keywords": [
+      "رابطهٔ هذلولی"
+     ],
+     "distractors": [
+      "⁦a² = b² + c²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦c = a + b⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In a hyperbola, which relation holds between a (the semi-transverse axis), b (the semi-conjugate axis) and c (centre to focus)?",
+     "grading_key": "- [1] ⁦c² = a² + b²⁩",
+     "final_resolution": "⁦c² = a² + b²⁩",
+     "notes": "",
+     "keywords": [
+      "hyperbola relation"
+     ],
+     "distractors": [
+      "⁦a² = b² + c²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦c = a + b⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar hozloli, beyn-e a (nim-ghotr-e kanooni), b (nim-ghotr-e digar) va c (fasele-ye kanoon ta markaz) kodam rabete barghrar ast?",
+     "grading_key": "- [1] ⁦c² = a² + b²⁩",
+     "final_resolution": "⁦c² = a² + b²⁩",
+     "notes": "",
+     "keywords": [
+      "rabete-ye hozloli"
+     ],
+     "distractors": [
+      "⁦a² = b² + c²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦c = a + b⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 976,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (رابطهٔ a، b و c در بیضی)",
+    "en": "Chapter 6: Conic Sections (a, b and c in an Ellipse)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (a, b, c dar Beyzi)",
+    "pages": "128–130"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در بیضی، بین ⁦a⁩ (نیم‌قطر بزرگ)، ⁦b⁩ (نیم‌قطر کوچک) و ⁦c⁩ (فاصلهٔ کانون تا مرکز) کدام رابطه برقرار است؟",
+     "grading_key": "- [1] ⁦a² = b² + c²⁩",
+     "final_resolution": "⁦a² = b² + c²⁩",
+     "notes": "",
+     "keywords": [
+      "رابطهٔ بیضی"
+     ],
+     "distractors": [
+      "⁦c² = a² + b²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦a = b + c⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In an ellipse, which relation holds between a (the semi-major axis), b (the semi-minor axis) and c (centre to focus)?",
+     "grading_key": "- [1] ⁦a² = b² + c²⁩",
+     "final_resolution": "⁦a² = b² + c²⁩",
+     "notes": "",
+     "keywords": [
+      "ellipse relation"
+     ],
+     "distractors": [
+      "⁦c² = a² + b²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦a = b + c⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar beyzi, beyn-e a (nim-ghotr-e bozorg), b (nim-ghotr-e koochak) va c (fasele-ye kanoon ta markaz) kodam rabete barghrar ast?",
+     "grading_key": "- [1] ⁦a² = b² + c²⁩",
+     "final_resolution": "⁦a² = b² + c²⁩",
+     "notes": "",
+     "keywords": [
+      "rabete-ye beyzi"
+     ],
+     "distractors": [
+      "⁦c² = a² + b²⁩",
+      "⁦b² = a² + c²⁩",
+      "⁦a = b + c⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 976,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (توزیع دوجمله‌ای)",
+    "en": "Chapter 7: Probability (Binomial Distribution)",
+    "tr": "Fasl 7: Ehtemal (Tozi'-e Do-jomle-i)",
+    "pages": "144–146"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "اگر احتمال موفقیت در هر آزمایش برنولی ⁦p⁩ باشد، احتمال دقیقاً ⁦k⁩ موفقیت در ⁦n⁩ آزمایش مستقل کدام است؟",
+     "grading_key": "- [1] ⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "final_resolution": "⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "notes": "",
+     "keywords": [
+      "توزیع دوجمله‌ای"
+     ],
+     "distractors": [
+      "⁦p^k · (1 − p)^(n − k)⁩",
+      "⁦C(n, k) · p^k⁩",
+      "⁦1 − p^n⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "If the chance of success in each Bernoulli trial is p, what is the probability of exactly k successes in n independent trials?",
+     "grading_key": "- [1] ⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "final_resolution": "⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "notes": "",
+     "keywords": [
+      "binomial distribution"
+     ],
+     "distractors": [
+      "⁦p^k · (1 − p)^(n − k)⁩",
+      "⁦C(n, k) · p^k⁩",
+      "⁦1 − p^n⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Agar ehtemal-e movaffaghiyat dar har azmayesh-e Bernooli p bashad, ehtemal-e daghighan k movaffaghiyat dar n azmayesh-e mostaghel kodam ast?",
+     "grading_key": "- [1] ⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "final_resolution": "⁦C(n, k) · p^k · (1 − p)^(n − k)⁩",
+     "notes": "",
+     "keywords": [
+      "tozi'-e do-jomle-i"
+     ],
+     "distractors": [
+      "⁦p^k · (1 − p)^(n − k)⁩",
+      "⁦C(n, k) · p^k⁩",
+      "⁦1 − p^n⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 976,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (امید ریاضی)",
+    "en": "Chapter 7: Probability (Expected Value)",
+    "tr": "Fasl 7: Ehtemal (Omid-e Riazi)",
+    "pages": "142–144"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "میانگین بلندمدت یک متغیر تصادفی گسسته، که از جمع حاصل‌ضرب هر مقدار در احتمالش به دست می‌آید، چه نام دارد؟",
+     "grading_key": "- [1] امید ریاضی",
+     "final_resolution": "امید ریاضی",
+     "notes": "",
+     "keywords": [
+      "امید ریاضی"
+     ],
+     "distractors": [
+      "واریانس",
+      "انحراف معیار",
+      "تابع توزیع"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "What is the long-run average of a discrete random variable, found by adding up each value times its probability, called?",
+     "grading_key": "- [1] The expected value",
+     "final_resolution": "The expected value",
+     "notes": "",
+     "keywords": [
+      "expected value"
+     ],
+     "distractors": [
+      "The variance",
+      "The standard deviation",
+      "The distribution function"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Miangin-e boland-moddat-e yek moteghayyer-e tasadofi-ye gosaste, ke az jam'-e hasel-zarb-e har meghdar dar ehtemalash be dast miayad, che nam darad?",
+     "grading_key": "- [1] Omid-e riazi",
+     "final_resolution": "Omid-e riazi",
+     "notes": "",
+     "keywords": [
+      "omid-e riazi"
+     ],
+     "distractors": [
+      "Variyans",
+      "Enheraf-e me'yar",
+      "Tabe'-e tozi'"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 976,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (واریانس)",
+    "en": "Chapter 7: Probability (Variance)",
+    "tr": "Fasl 7: Ehtemal (Variyans)",
+    "pages": "142–144"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "شاخصی که پراکندگی مقدارهای یک متغیر تصادفی را حول امید ریاضی آن می‌سنجد و با ⁦Var(X)⁩ نشان داده می‌شود، چه نام دارد؟",
+     "grading_key": "- [1] واریانس",
+     "final_resolution": "واریانس",
+     "notes": "",
+     "keywords": [
+      "واریانس"
+     ],
+     "distractors": [
+      "امید ریاضی",
+      "میانه",
+      "احتمال شرطی"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "What is the measure called that shows how spread out a random variable's values are around its expected value, written Var(X)?",
+     "grading_key": "- [1] The variance",
+     "final_resolution": "The variance",
+     "notes": "",
+     "keywords": [
+      "variance"
+     ],
+     "distractors": [
+      "The expected value",
+      "The median",
+      "The conditional probability"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Shakhesi ke parakandegi-ye meghdar-haye yek moteghayyer-e tasadofi ra hol-e omid-e riazi-ye an misanjad va ba Var(X) neshan dade mishavad, che nam darad?",
+     "grading_key": "- [1] Variyans",
+     "final_resolution": "Variyans",
+     "notes": "",
+     "keywords": [
+      "variyans"
+     ],
+     "distractors": [
+      "Omid-e riazi",
+      "Miane",
+      "Ehtemal-e sharti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 976,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَرَاءَ» در عبارت زیر کدام است؟\n«لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَ قَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ.»",
+     "grading_key": "- [1] پشت",
+     "final_resolution": "پشت",
+     "notes": "",
+     "keywords": [
+      "وَرَاءَ"
+     ],
+     "distractors": [
+      "جلوی",
+      "درون",
+      "بالای"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَرَاءَ» mean in this saying?\n«لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَ قَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ.»",
+     "grading_key": "- [1] Behind",
+     "final_resolution": "Behind",
+     "notes": "",
+     "keywords": [
+      "wara'a (behind)"
+     ],
+     "distractors": [
+      "In front of",
+      "Inside",
+      "Above"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wara'a» dar ebarat-e zir kodam ast?\n«لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَ قَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ.»",
+     "grading_key": "- [1] Posht",
+     "final_resolution": "Posht",
+     "notes": "",
+     "keywords": [
+      "wara'a"
+     ],
+     "distractors": [
+      "Jeloye",
+      "Daroon",
+      "Balaye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 976,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْغِنَى» در عبارت زیر کدام است؟\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] توانگری، بی‌نیازی",
+     "final_resolution": "توانگری، بی‌نیازی",
+     "notes": "",
+     "keywords": [
+      "الْغِنَى"
+     ],
+     "distractors": [
+      "تهیدستی",
+      "مرز",
+      "ترس"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْغِنَى» mean in this saying?\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] Wealth, not being in need",
+     "final_resolution": "Wealth, not being in need",
+     "notes": "",
+     "keywords": [
+      "al-ghina (wealth)"
+     ],
+     "distractors": [
+      "Poverty",
+      "A border",
+      "Fear"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-ghina» dar ebarat-e zir kodam ast?\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] Tavangari, bi-niyazi",
+     "final_resolution": "Tavangari, bi-niyazi",
+     "notes": "",
+     "keywords": [
+      "al-ghina"
+     ],
+     "distractors": [
+      "Tahidasti",
+      "Marz",
+      "Tars"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 976,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْغُرْبَةِ» در عبارت زیر کدام است؟\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] دوری از وطن، غربت",
+     "final_resolution": "دوری از وطن، غربت",
+     "notes": "",
+     "keywords": [
+      "الْغُرْبَةِ"
+     ],
+     "distractors": [
+      "امنیت وطن",
+      "فراوانی ثروت",
+      "قبیله"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْغُرْبَةِ» mean in this saying?\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] Being far from home, exile",
+     "final_resolution": "Being far from home, exile",
+     "notes": "",
+     "keywords": [
+      "al-ghurba (being far from home)"
+     ],
+     "distractors": [
+      "The safety of home",
+      "Plenty of wealth",
+      "A tribe"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-ghurba» dar ebarat-e zir kodam ast?\n«الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.»",
+     "grading_key": "- [1] Doori az vatan, ghorbat",
+     "final_resolution": "Doori az vatan, ghorbat",
+     "notes": "",
+     "keywords": [
+      "al-ghurba"
+     ],
+     "distractors": [
+      "Amniyat-e vatan",
+      "Faravani-ye servat",
+      "Ghabile"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 976,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کویر (قلمرو زبانی: واژگان)",
+    "en": "Kavir (Vocabulary)",
+    "tr": "Kavir (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «طمأنینه» در جملهٔ زیر چیست؟\n«در دل کویر، گویی طمأنینه و سکوتی آسمانی حکم‌فرما بود.»",
+     "grading_key": "- [1] آرامش و آسودگی دل",
+     "final_resolution": "آرامش و آسودگی دل",
+     "notes": "",
+     "keywords": [
+      "طمأنینه"
+     ],
+     "distractors": [
+      "نگرانی و هراس",
+      "توفان شن",
+      "تهیدستی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «طمأنینه» mean in this sentence?\n«در دل کویر، گویی طمأنینه و سکوتی آسمانی حکم‌فرما بود.»",
+     "grading_key": "- [1] Calm, peace of heart",
+     "final_resolution": "Calm, peace of heart",
+     "notes": "",
+     "keywords": [
+      "toma'nine (calm)"
+     ],
+     "distractors": [
+      "Worry and fear",
+      "A sandstorm",
+      "Poverty"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «toma'nine» dar jomle-ye zir chist?\n«در دل کویر، گویی طمأنینه و سکوتی آسمانی حکم‌فرما بود.»",
+     "grading_key": "- [1] Aramesh va asoodegi-ye del",
+     "final_resolution": "Aramesh va asoodegi-ye del",
+     "notes": "",
+     "keywords": [
+      "toma'nine"
+     ],
+     "distractors": [
+      "Negarani va heras",
+      "Toofan-e shen",
+      "Tahidasti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 976,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کویر (قلمرو زبانی: واژگان)",
+    "en": "Kavir (Vocabulary)",
+    "tr": "Kavir (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «اقلیم» در جملهٔ زیر چیست؟\n«شب‌های کویر، در این اقلیم پررمز و راز، آسمان به زمین نزدیک می‌شود.»",
+     "grading_key": "- [1] سرزمین، ناحیه",
+     "final_resolution": "سرزمین، ناحیه",
+     "notes": "",
+     "keywords": [
+      "اقلیم"
+     ],
+     "distractors": [
+      "جریان دریایی",
+      "دره‌ای ژرف",
+      "صورت فلکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «اقلیم» mean in this sentence?\n«شب‌های کویر، در این اقلیم پررمز و راز، آسمان به زمین نزدیک می‌شود.»",
+     "grading_key": "- [1] Land, region",
+     "final_resolution": "Land, region",
+     "notes": "",
+     "keywords": [
+      "eghlim (land, region)"
+     ],
+     "distractors": [
+      "An ocean current",
+      "A deep canyon",
+      "A constellation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «eghlim» dar jomle-ye zir chist?\n«شب‌های کویر، در این اقلیم پررمز و راز، آسمان به زمین نزدیک می‌شود.»",
+     "grading_key": "- [1] Sarzamin, nahiye",
+     "final_resolution": "Sarzamin, nahiye",
+     "notes": "",
+     "keywords": [
+      "eghlim"
+     ],
+     "distractors": [
+      "Jaryan-e daryayi",
+      "Dare-i zharf",
+      "Soorat-e falaki"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 976,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "از پاریز تا پاریس (قلمرو زبانی: واژگان)",
+    "en": "From Pariz to Paris (Vocabulary)",
+    "tr": "Az Pariz ta Paris (Vazhegan)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تعب» در جملهٔ زیر چیست؟\n«با دیدن کاروان‌سرا، گویی غبار تعب و خستگی از تن مسافران زدوده می‌شد.»",
+     "grading_key": "- [1] رنج و سختی",
+     "final_resolution": "رنج و سختی",
+     "notes": "",
+     "keywords": [
+      "تعب"
+     ],
+     "distractors": [
+      "ثروت",
+      "شادمانی",
+      "دانش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تعب» mean in this sentence?\n«با دیدن کاروان‌سرا، گویی غبار تعب و خستگی از تن مسافران زدوده می‌شد.»",
+     "grading_key": "- [1] Toil, weariness",
+     "final_resolution": "Toil, weariness",
+     "notes": "",
+     "keywords": [
+      "ta'ab (toil, weariness)"
+     ],
+     "distractors": [
+      "Wealth",
+      "Joy",
+      "Knowledge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ta'ab» dar jomle-ye zir chist?\n«با دیدن کاروان‌سرا، گویی غبار تعب و خستگی از تن مسافران زدوده می‌شد.»",
+     "grading_key": "- [1] Ranj va sakhti",
+     "final_resolution": "Ranj va sakhti",
+     "notes": "",
+     "keywords": [
+      "ta'ab"
+     ],
+     "distractors": [
+      "Servat",
+      "Shadmani",
+      "Danesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 976,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "مست و هشیار (قلمرو ادبی: مناظره)",
+    "en": "Drunk and Sober (Debate Poem)",
+    "tr": "Mast va Hoshyar (Monazere)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "گفت‌وگوی پیاپی و پرسش و پاسخ میان دو شخصیت رو در رو (مانند محتسب و مست در شعر پروین اعتصامی) چه نام دارد؟",
+     "grading_key": "- [1] مناظره",
+     "final_resolution": "مناظره",
+     "notes": "",
+     "keywords": [
+      "مناظره"
+     ],
+     "distractors": [
+      "حسن تعلیل",
+      "سجع",
+      "تلمیح"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "A back-and-forth dialogue of questions and answers between two opposing characters (like the officer and the drunk in Parvin E'tesami's poem) is called what?",
+     "grading_key": "- [1] Debate poem (monazere)",
+     "final_resolution": "Debate poem (monazere)",
+     "notes": "",
+     "keywords": [
+      "debate poem (monazere)"
+     ],
+     "distractors": [
+      "Poetic cause (husn-e ta'lil)",
+      "Rhymed prose (saj')",
+      "Allusion (talmih)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Goft-o-gooye peyapey va porsesh va pasokh miyan-e do shakhsiyat-e roo dar roo (manand-e mohtaseb va mast dar she'r-e Parvin E'tesami) che nam darad?",
+     "grading_key": "- [1] Monazere",
+     "final_resolution": "Monazere",
+     "notes": "",
+     "keywords": [
+      "monazere"
+     ],
+     "distractors": [
+      "Hosn-e ta'lil",
+      "Saj'",
+      "Talmih"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 976,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "از پاریز تا پاریس (قلمرو زبانی: املا)",
+    "en": "From Pariz to Paris (Spelling)",
+    "tr": "Az Pariz ta Paris (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «شگفتی و به شگفت آوردن» است، کدام است؟",
+     "grading_key": "- [1] اعجاب",
+     "final_resolution": "اعجاب",
+     "notes": "",
+     "keywords": [
+      "اعجاب"
+     ],
+     "distractors": [
+      "ایجاب",
+      "اهجاب",
+      "احجاب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'wonder, causing amazement'?",
+     "grading_key": "- [1] اعجاب",
+     "final_resolution": "اعجاب",
+     "notes": "",
+     "keywords": [
+      "e'jab (wonder)"
+     ],
+     "distractors": [
+      "ایجاب",
+      "اهجاب",
+      "احجاب"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'shegefti va be shegeft avardan' ast, kodam ast?",
+     "grading_key": "- [1] اعجاب",
+     "final_resolution": "اعجاب",
+     "notes": "",
+     "keywords": [
+      "e'jab"
+     ],
+     "distractors": [
+      "ایجاب",
+      "اهجاب",
+      "احجاب"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 976,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام آلودگی محیط شهری، علت اختلال خواب، بالا رفتن فشار خون و کاهش تمرکز در نوجوانان است؟",
+     "grading_key": "- [1] آلودگی صوتی",
+     "final_resolution": "آلودگی صوتی",
+     "notes": "",
+     "keywords": [
+      "آلودگی صوتی"
+     ],
+     "distractors": [
+      "آلودگی حرارتی آب",
+      "آلودگی با سرب",
+      "شوری خاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which kind of city pollution causes poor sleep, higher blood pressure and weaker concentration in teenagers?",
+     "grading_key": "- [1] Noise pollution",
+     "final_resolution": "Noise pollution",
+     "notes": "",
+     "keywords": [
+      "noise pollution"
+     ],
+     "distractors": [
+      "Thermal water pollution",
+      "Lead pollution",
+      "Salty soil"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam aloodegi-ye mohit-e shahri, ellat-e ekhtelal-e khab, bala raftan-e feshar-e khoon va kahesh-e tamarkoz dar nowjavanan ast?",
+     "grading_key": "- [1] Aloodegi-ye sooti",
+     "final_resolution": "Aloodegi-ye sooti",
+     "notes": "",
+     "keywords": [
+      "aloodegi-ye sooti"
+     ],
+     "distractors": [
+      "Aloodegi-ye harareti-ye ab",
+      "Aloodegi ba sorb",
+      "Shoori-ye khak"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 976,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "رسیدن عامل بیماری به میزبان تازه از راه آب، غذا یا شیر آلوده، کدام راه انتقال است؟",
+     "grading_key": "- [1] انتقال غیرمستقیم از راه آب و غذای آلوده",
+     "final_resolution": "انتقال غیرمستقیم از راه آب و غذای آلوده",
+     "notes": "",
+     "keywords": [
+      "انتقال از راه آب و غذا"
+     ],
+     "distractors": [
+      "انتقال مستقیم با قطره‌های تنفسی",
+      "تماس مستقیم پوستی",
+      "نیش ناقل"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "A disease agent reaching a new host through contaminated water, food or milk is which route of transmission?",
+     "grading_key": "- [1] Indirect transmission through contaminated food and water",
+     "final_resolution": "Indirect transmission through contaminated food and water",
+     "notes": "",
+     "keywords": [
+      "transmission through food and water"
+     ],
+     "distractors": [
+      "Direct transmission by respiratory droplets",
+      "Direct skin contact",
+      "The bite of a vector"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Residan-e amel-e bimari be mizban-e taze az rah-e ab, ghaza ya shir-e aloode, kodam rah-e enteghal ast?",
+     "grading_key": "- [1] Enteghal-e gheyr-e mostaghim az rah-e ab va ghaza-ye aloode",
+     "final_resolution": "Enteghal-e gheyr-e mostaghim az rah-e ab va ghaza-ye aloode",
+     "notes": "",
+     "keywords": [
+      "enteghal az rah-e ab va ghaza"
+     ],
+     "distractors": [
+      "Enteghal-e mostaghim ba ghatre-haye tanaffosi",
+      "Tamas-e mostaghim-e poosti",
+      "Nish-e naghel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 976,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "آسیب مزمن و برگشت‌ناپذیر بافت کبد بر اثر نوشیدن طولانی الکل، که بافت سالم را به بافت سخت و زخمی بدل می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] سیروز کبدی",
+     "final_resolution": "سیروز کبدی",
+     "notes": "",
+     "keywords": [
+      "سیروز کبدی"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "سکتهٔ قلبی",
+      "دیابت نوع ۲"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "What is the long-term, permanent damage to the liver from years of drinking alcohol, which turns healthy tissue into hard scar tissue, called?",
+     "grading_key": "- [1] Cirrhosis of the liver",
+     "final_resolution": "Cirrhosis of the liver",
+     "notes": "",
+     "keywords": [
+      "cirrhosis of the liver"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Heart attack",
+      "Type 2 diabetes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Asib-e mozmen va bargasht-napazir-e baft-e kabed bar asar-e noshidan-e toolani-ye alkol, ke baft-e salem ra be baft-e sakht va zakhmi badal mikonad, che nam darad?",
+     "grading_key": "- [1] Siroz-e kabedi",
+     "final_resolution": "Siroz-e kabedi",
+     "notes": "",
+     "keywords": [
+      "siroz-e kabedi"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Sekte-ye ghalbi",
+      "Diabet-e no'-e 2"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 976,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "برای مصدومی با نشانه‌های شوک (پوست سرد و رنگ‌پریده، نبض تند) بر اثر خون‌ریزی داخلی، مناسب‌ترین کار چیست؟",
+     "grading_key": "- [1] گرم نگه داشتن، بالا بردن پاها و رساندن فوری به مرکز درمانی",
+     "final_resolution": "گرم نگه داشتن، بالا بردن پاها و رساندن فوری به مرکز درمانی",
+     "notes": "",
+     "keywords": [
+      "کمک‌های اولیه در شوک"
+     ],
+     "distractors": [
+      "ریختن آب سرد روی مصدوم",
+      "فشار دادن محکم قفسهٔ سینه",
+      "دادن نوشیدنی گرم به زور"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "For a casualty showing signs of shock (cold, pale skin and a fast pulse) from internal bleeding, what is the right thing to do?",
+     "grading_key": "- [1] Keep them warm, raise their legs and get them to hospital at once",
+     "final_resolution": "Keep them warm, raise their legs and get them to hospital at once",
+     "notes": "",
+     "keywords": [
+      "first aid for shock"
+     ],
+     "distractors": [
+      "Pour cold water over them",
+      "Press hard on the chest",
+      "Make them drink something warm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Baraye masdoomi ba neshane-haye shok (poost-e sard va rang-paride, nabz-e tond) bar asar-e khoonrizi-ye dakheli, monaseb-tarin kar chist?",
+     "grading_key": "- [1] Garm negah dashtan, bala bordan-e pa-ha va resandan-e fori be markaz-e darmani",
+     "final_resolution": "Garm negah dashtan, bala bordan-e pa-ha va resandan-e fori be markaz-e darmani",
+     "notes": "",
+     "keywords": [
+      "komak-haye avvaliye dar shok"
+     ],
+     "distractors": [
+      "Rikhtan-e ab-e sard rooye masdoom",
+      "Feshar dadan-e mohkam-e ghafase-ye sine",
+      "Dadan-e nooshidani-ye garm be zoor"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 976,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "برای حفظ سلامت قلب، دست‌کم چه مدت فعالیت بدنی هوازی با شدت متوسط در بیشتر روزهای هفته توصیه می‌شود؟",
+     "grading_key": "- [1] ۳۰ دقیقه در روز",
+     "final_resolution": "۳۰ دقیقه در روز",
+     "notes": "",
+     "keywords": [
+      "فعالیت بدنی و سلامت قلب"
+     ],
+     "distractors": [
+      "۵ دقیقه در روز",
+      "۱۰ دقیقه در روز",
+      "۳ ساعت در روز"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "To protect heart health, at least how much moderate aerobic exercise is advised on most days of the week?",
+     "grading_key": "- [1] 30 minutes a day",
+     "final_resolution": "30 minutes a day",
+     "notes": "",
+     "keywords": [
+      "exercise and heart health"
+     ],
+     "distractors": [
+      "5 minutes a day",
+      "10 minutes a day",
+      "3 hours a day"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Baraye hefz-e salamat-e ghalb, dast-kam che moddat fa'aliyat-e badani-ye havazi ba shoddat-e motavasset dar bishtar-e rooz-haye hafte towsie mishavad?",
+     "grading_key": "- [1] 30 daghighe dar rooz",
+     "final_resolution": "30 daghighe dar rooz",
+     "notes": "",
+     "keywords": [
+      "fa'aliyat-e badani va salamat-e ghalb"
+     ],
+     "distractors": [
+      "5 daghighe dar rooz",
+      "10 daghighe dar rooz",
+      "3 sa'at dar rooz"
+     ]
+    }
+   }
+  }
+ ]
+}
