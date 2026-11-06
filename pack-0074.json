@@ -1,0 +1,1014 @@
+{
+ "version": 74,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 967,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (قضیهٔ مقدار میانگین)",
+    "en": "Chapter 5: Applications of the Derivative (Mean Value Theorem)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Meghdar-e Miangin)",
+    "pages": "108–110"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "طبق قضیهٔ مقدار میانگین، اگر ⁦f⁩ روی ⁦[a, b]⁩ پیوسته و روی ⁦(a, b)⁩ مشتق‌پذیر باشد، دست‌کم یک نقطهٔ ⁦c⁩ هست که ⁦f′(c)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦(f(b) − f(a)) / (b − a)⁩",
+     "final_resolution": "⁦(f(b) − f(a)) / (b − a)⁩",
+     "notes": "",
+     "keywords": [
+      "قضیهٔ مقدار میانگین"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(b) + f(a)) / 2⁩",
+      "⁦f′(a) + f′(b)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "By the mean value theorem, if f is continuous on [a, b] and differentiable on (a, b), there is at least one point c where f′(c) equals what?",
+     "grading_key": "- [1] ⁦(f(b) − f(a)) / (b − a)⁩",
+     "final_resolution": "⁦(f(b) − f(a)) / (b − a)⁩",
+     "notes": "",
+     "keywords": [
+      "mean value theorem"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(b) + f(a)) / 2⁩",
+      "⁦f′(a) + f′(b)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Tebgh-e ghaziye-ye meghdar-e miangin, agar f rooye [a, b] peyvaste va rooye (a, b) moshtagh-pazir bashad, dast-kam yek noghte-ye c hast ke f′(c) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦(f(b) − f(a)) / (b − a)⁩",
+     "final_resolution": "⁦(f(b) − f(a)) / (b − a)⁩",
+     "notes": "",
+     "keywords": [
+      "ghaziye-ye meghdar-e miangin"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(b) + f(a)) / 2⁩",
+      "⁦f′(a) + f′(b)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 967,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (کمان دو برابر)",
+    "en": "Chapter 2: Trigonometry (Double Angle)",
+    "tr": "Fasl 2: Mosallasat (Kaman-e Do Barabar)",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "عبارت ⁦1 − 2sin²x⁩ با کدام برابر است؟",
+     "grading_key": "- [1] ⁦cos 2x⁩",
+     "final_resolution": "⁦cos 2x⁩",
+     "notes": "",
+     "keywords": [
+      "روابط کمان دو برابر"
+     ],
+     "distractors": [
+      "⁦sin 2x⁩",
+      "⁦cos²x⁩",
+      "⁦1 − cos 2x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is 1 − 2sin²x equal to?",
+     "grading_key": "- [1] ⁦cos 2x⁩",
+     "final_resolution": "⁦cos 2x⁩",
+     "notes": "",
+     "keywords": [
+      "double-angle identities"
+     ],
+     "distractors": [
+      "⁦sin 2x⁩",
+      "⁦cos²x⁩",
+      "⁦1 − cos 2x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Ebarat-e 1 − 2sin²x ba kodam barabar ast?",
+     "grading_key": "- [1] ⁦cos 2x⁩",
+     "final_resolution": "⁦cos 2x⁩",
+     "notes": "",
+     "keywords": [
+      "ravabet-e kaman-e do barabar"
+     ],
+     "distractors": [
+      "⁦sin 2x⁩",
+      "⁦cos²x⁩",
+      "⁦1 − cos 2x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 967,
+   "topic_tag": "free-will",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: قدرت پرواز (قضای الهی)",
+    "en": "Lesson 5: The Power to Fly (Divine Decree)",
+    "tr": "Dars 5: Ghodrat-e Parvaz (Ghaza)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت پرواز",
+     "question": "حکم و فرمان قطعی خداوند که اندازه‌ها و ویژگی‌های تعیین‌شدهٔ هر موجود را به مرحلهٔ تحقق و حتمیت می‌رساند، کدام مفهوم است؟",
+     "grading_key": "- [1] قضای الهی",
+     "final_resolution": "قضای الهی",
+     "notes": "",
+     "keywords": [
+      "قضای الهی"
+     ],
+     "distractors": [
+      "تقدیر الهی",
+      "فقر ذاتی",
+      "شرک عملی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Power to Fly (Free Will)",
+     "question": "God's final decree, which brings the measures and features set for every being to the point of coming true for certain, is which concept?",
+     "grading_key": "- [1] Divine decree (qada)",
+     "final_resolution": "Divine decree (qada)",
+     "notes": "",
+     "keywords": [
+      "divine decree (qada)"
+     ],
+     "distractors": [
+      "Divine measuring (taqdir)",
+      "Essential poverty",
+      "Practical polytheism"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat-e Parvaz",
+     "question": "Hokm va farman-e ghat'i-ye Khodavand ke andaze-ha va vizhegi-haye ta'yin-shode-ye har mojood ra be marhale-ye tahaghogh va hatmiyat miresanad, kodam mafhoom ast?",
+     "grading_key": "- [1] Ghaza-ye elahi",
+     "final_resolution": "Ghaza-ye elahi",
+     "notes": "",
+     "keywords": [
+      "ghaza-ye elahi"
+     ],
+     "distractors": [
+      "Taghdir-e elahi",
+      "Faghr-e zati",
+      "Sherk-e amali"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 967,
+   "topic_tag": "repentance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: بازگشت (آمرزش)",
+    "en": "Lesson 7: The Return (Forgiveness)",
+    "tr": "Dars 7: Bazgasht (Amorzesh)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بازگشت",
+     "question": "مهم‌ترین ثمرهٔ توبهٔ واقعی، که گناهان را از نامهٔ عمل انسان پاک می‌کند، چیست؟",
+     "grading_key": "- [1] آمرزش (مغفرت) الهی",
+     "final_resolution": "آمرزش (مغفرت) الهی",
+     "notes": "",
+     "keywords": [
+      "مغفرت الهی"
+     ],
+     "distractors": [
+      "آثار طبیعی گناه",
+      "مهلت دادن به گناهکار (املا)",
+      "حفظ آبروی اجتماعی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Return (Repentance)",
+     "question": "What is the chief fruit of true repentance, which wipes the sins from a person's record of deeds?",
+     "grading_key": "- [1] Divine forgiveness (maghfirat)",
+     "final_resolution": "Divine forgiveness (maghfirat)",
+     "notes": "",
+     "keywords": [
+      "divine forgiveness (maghfirat)"
+     ],
+     "distractors": [
+      "The natural effects of sin",
+      "Respite for the sinner (imla)",
+      "Keeping one's social standing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bazgasht",
+     "question": "Mohem-tarin samare-ye towbe-ye vaghe'i, ke gonahan ra az name-ye amal-e ensan pak mikonad, chist?",
+     "grading_key": "- [1] Amorzesh (maghferat)-e elahi",
+     "final_resolution": "Amorzesh (maghferat)-e elahi",
+     "notes": "",
+     "keywords": [
+      "maghferat-e elahi"
+     ],
+     "distractors": [
+      "Asar-e tabiei-ye gonah",
+      "Mohlat dadan be gonahkar (emla)",
+      "Hefz-e abroo-ye ejtemai"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 967,
+   "topic_tag": "divine-rulings",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: زندگی در دنیای امروز و عمل به احکام الهی (فتوا)",
+    "en": "Lesson 8: Life Today and Following the Divine Rulings (Fatwa)",
+    "tr": "Dars 8: Zendegi dar Donya-ye Emrooz (Fatva)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "زندگی در دنیای امروز و عمل به احکام الهی",
+     "question": "حکم شرعی‌ای که فقیه جامع‌الشرایط با اجتهاد از منابع دینی به دست می‌آورد و برای مقلدان بیان می‌کند (و در رسالهٔ توضیح‌المسائل گرد می‌آید)، چه نام دارد؟",
+     "grading_key": "- [1] فتوا",
+     "final_resolution": "فتوا",
+     "notes": "",
+     "keywords": [
+      "فتوا"
+     ],
+     "distractors": [
+      "تقلید",
+      "اجتهاد",
+      "استدراج"
+     ]
+    },
+    "en": {
+     "topic_label": "Life Today and Following the Divine Rulings",
+     "question": "What is a religious ruling called that a fully qualified jurist derives from the sources through ijtihad and states for his followers (gathered in the resaleh)?",
+     "grading_key": "- [1] Fatwa",
+     "final_resolution": "Fatwa",
+     "notes": "",
+     "keywords": [
+      "fatwa"
+     ],
+     "distractors": [
+      "Taqlid",
+      "Ijtihad",
+      "Istidraj"
+     ]
+    },
+    "tr": {
+     "topic_label": "Zendegi dar Donya-ye Emrooz",
+     "question": "Hokm-e shar'i-i ke faghih-e jame'-osh-sharayet ba ejtehad az manabe-e dini be dast miavarad va baraye moghalledan bayan mikonad (va dar resale-ye towzih-ol-masael gerd miayad), che nam darad?",
+     "grading_key": "- [1] Fatva",
+     "final_resolution": "Fatva",
+     "notes": "",
+     "keywords": [
+      "fatva"
+     ],
+     "distractors": [
+      "Taghlid",
+      "Ejtehad",
+      "Estedraj"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 967,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "فعل «اِنْکَسَرَ» از کدام باب ثلاثی مزید است؟",
+     "grading_key": "- [1] انفعال",
+     "final_resolution": "انفعال",
+     "notes": "",
+     "keywords": [
+      "باب انفعال"
+     ],
+     "distractors": [
+      "افتعال",
+      "تفعیل",
+      "تفاعل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form (bab) is «اِنْکَسَرَ» from?",
+     "grading_key": "- [1] Infi'al",
+     "final_resolution": "Infi'al",
+     "notes": "",
+     "keywords": [
+      "bab of infi'al"
+     ],
+     "distractors": [
+      "Ifti'al",
+      "Taf'il",
+      "Tafa'ul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Fe'l-e «inkasara» az kodam bab-e solasi-ye mazid ast?",
+     "grading_key": "- [1] Enfe'al",
+     "final_resolution": "Enfe'al",
+     "notes": "",
+     "keywords": [
+      "bab-e enfe'al"
+     ],
+     "distractors": [
+      "Efte'al",
+      "Taf'il",
+      "Tafa'ol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 967,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "فعل «یَجْتَمِعُ» از کدام باب ثلاثی مزید است؟",
+     "grading_key": "- [1] افتعال",
+     "final_resolution": "افتعال",
+     "notes": "",
+     "keywords": [
+      "باب افتعال"
+     ],
+     "distractors": [
+      "انفعال",
+      "مفاعله",
+      "تفاعل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form (bab) is «یَجْتَمِعُ» from?",
+     "grading_key": "- [1] Ifti'al",
+     "final_resolution": "Ifti'al",
+     "notes": "",
+     "keywords": [
+      "bab of ifti'al"
+     ],
+     "distractors": [
+      "Infi'al",
+      "Mufa'ala",
+      "Tafa'ul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Fe'l-e «yajtami'u» az kodam bab-e solasi-ye mazid ast?",
+     "grading_key": "- [1] Efte'al",
+     "final_resolution": "Efte'al",
+     "notes": "",
+     "keywords": [
+      "bab-e efte'al"
+     ],
+     "distractors": [
+      "Enfe'al",
+      "Mofa'ele",
+      "Tafa'ol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 967,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمُشْتَرِی» در عبارت زیر کدام است؟\n«تَبْلُغُ جَاذِبِیَّةُ الْمُشْتَرِی أَکْثَرَ مِنْ جَاذِبِیَّةِ الْأَرْضِ.»",
+     "grading_key": "- [1] سیارهٔ مشتری",
+     "final_resolution": "سیارهٔ مشتری",
+     "notes": "",
+     "keywords": [
+      "الْمُشْتَرِی"
+     ],
+     "distractors": [
+      "سیارهٔ مریخ",
+      "سیارهٔ زحل",
+      "خریدار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمُشْتَرِی» mean in this sentence?\n«تَبْلُغُ جَاذِبِیَّةُ الْمُشْتَرِی أَکْثَرَ مِنْ جَاذِبِیَّةِ الْأَرْضِ.»",
+     "grading_key": "- [1] Jupiter",
+     "final_resolution": "Jupiter",
+     "notes": "",
+     "keywords": [
+      "al-mushtari (Jupiter)"
+     ],
+     "distractors": [
+      "Mars",
+      "Saturn",
+      "The buyer"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-moshtari» dar ebarat-e zir kodam ast?\n«تَبْلُغُ جَاذِبِیَّةُ الْمُشْتَرِی أَکْثَرَ مِنْ جَاذِبِیَّةِ الْأَرْضِ.»",
+     "grading_key": "- [1] Sayyare-ye Moshtari",
+     "final_resolution": "Sayyare-ye Moshtari",
+     "notes": "",
+     "keywords": [
+      "al-moshtari"
+     ],
+     "distractors": [
+      "Sayyare-ye Merrikh",
+      "Sayyare-ye Zohal",
+      "Kharidar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 967,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «امْرَأً» در عبارت زیر کدام است؟\n«رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَ لَمْ یَتَعَدَّ طَوْرَهُ.»",
+     "grading_key": "- [1] انسانی، مردی",
+     "final_resolution": "انسانی، مردی",
+     "notes": "",
+     "keywords": [
+      "امْرَأً"
+     ],
+     "distractors": [
+      "زنی",
+      "فرشته‌ای",
+      "جانوری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «امْرَأً» mean in this saying?\n«رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَ لَمْ یَتَعَدَّ طَوْرَهُ.»",
+     "grading_key": "- [1] A person, a man",
+     "final_resolution": "A person, a man",
+     "notes": "",
+     "keywords": [
+      "imra'an (a man, a person)"
+     ],
+     "distractors": [
+      "A woman",
+      "An angel",
+      "An animal"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «emra'an» dar ebarat-e zir kodam ast?\n«رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَ لَمْ یَتَعَدَّ طَوْرَهُ.»",
+     "grading_key": "- [1] Ensani, mardi",
+     "final_resolution": "Ensani, mardi",
+     "notes": "",
+     "keywords": [
+      "emra'an"
+     ],
+     "distractors": [
+      "Zani",
+      "Fereshte-i",
+      "Janevari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 967,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: کنش‌های ما (کنش درونی)",
+    "en": "Lesson 1: Our Actions (Inner Action)",
+    "tr": "Dars 1: Konesh-haye Ma",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "اندیشیدن و تخیل در ذهن انسان، نمونهٔ کدام نوع کنش است؟",
+     "grading_key": "- [1] کنش درونی و فردی",
+     "final_resolution": "کنش درونی و فردی",
+     "notes": "",
+     "keywords": [
+      "کنش درونی"
+     ],
+     "distractors": [
+      "کنش بیرونی و اجتماعی",
+      "رویداد طبیعی و غیرارادی",
+      "کنش بیرونی و فردی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "Thinking and imagining in the human mind are examples of which kind of action?",
+     "grading_key": "- [1] Inner, individual action",
+     "final_resolution": "Inner, individual action",
+     "notes": "",
+     "keywords": [
+      "inner action"
+     ],
+     "distractors": [
+      "Outward, social action",
+      "A natural, involuntary event",
+      "Outward, individual action"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Andishidan va takhayyol dar zehn-e ensan, nemoone-ye kodam no' konesh ast?",
+     "grading_key": "- [1] Konesh-e darooni va fardi",
+     "final_resolution": "Konesh-e darooni va fardi",
+     "notes": "",
+     "keywords": [
+      "konesh-e darooni"
+     ],
+     "distractors": [
+      "Konesh-e birooni va ejtemai",
+      "Rooydad-e tabiei va gheyr-e eradi",
+      "Konesh-e birooni va fardi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 967,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (هدف جهان معنوی)",
+    "en": "Lesson 3: The Cultural World (Aim of the Spiritual World)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان فرهنگی معنوی، پدیده‌های جهان مادی را در خدمت کدام هدف نهایی انسان قرار می‌دهد؟",
+     "grading_key": "- [1] سعادت جاودان و کمال معنوی",
+     "final_resolution": "سعادت جاودان و کمال معنوی",
+     "notes": "",
+     "keywords": [
+      "جهان فرهنگی معنوی"
+     ],
+     "distractors": [
+      "انباشت ثروت و لذت دنیوی",
+      "گسترش نظامی و کشورگشایی",
+      "پاسداری از اسطوره‌ها و افسانه‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "A spiritual cultural world puts the things of the material world at the service of which final human aim?",
+     "grading_key": "- [1] Eternal happiness and spiritual perfection",
+     "final_resolution": "Eternal happiness and spiritual perfection",
+     "notes": "",
+     "keywords": [
+      "spiritual cultural world"
+     ],
+     "distractors": [
+      "Piling up wealth and worldly pleasure",
+      "Military expansion and conquest",
+      "Keeping myths and legends alive"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e farhangi-ye ma'navi, padide-haye jahan-e maddi ra dar khedmat-e kodam hadaf-e nahayi-ye ensan gharar midahad?",
+     "grading_key": "- [1] Sa'adat-e javdan va kamal-e ma'navi",
+     "final_resolution": "Sa'adat-e javdan va kamal-e ma'navi",
+     "notes": "",
+     "keywords": [
+      "jahan-e farhangi-ye ma'navi"
+     ],
+     "distractors": [
+      "Anbasht-e servat va lezzat-e donyavi",
+      "Gostaresh-e nezami va keshvar-goshayi",
+      "Pasdari az ostoore-ha va afsane-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 967,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۴: تشریح جهان اجتماعی (سطح کلان)",
+    "en": "Lesson 4: The Social World Explained (Macro Level)",
+    "tr": "Dars 4: Tashrih-e Jahan-e Ejtemai",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "نهادها و سازمان‌های اجتماعی، مانند خانواده، آموزش و دولت، در کدام سطح جهان اجتماعی جای دارند؟",
+     "grading_key": "- [1] سطح کلان",
+     "final_resolution": "سطح کلان",
+     "notes": "",
+     "keywords": [
+      "پدیده‌های کلان اجتماعی"
+     ],
+     "distractors": [
+      "سطح خُرد (کنش‌های فردی)",
+      "بیرون از جهان اجتماعی (پدیده‌های طبیعی)",
+      "سطح اندیشه‌های شخصی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "In which level of the social world do social institutions and organizations, such as the family, education and government, belong?",
+     "grading_key": "- [1] The macro level",
+     "final_resolution": "The macro level",
+     "notes": "",
+     "keywords": [
+      "macro social phenomena"
+     ],
+     "distractors": [
+      "The micro level (individual actions)",
+      "Outside the social world (natural phenomena)",
+      "The level of private thoughts"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Nahad-ha va sazman-haye ejtemai, manand-e khanevade, amoozesh va dowlat, dar kodam sath-e jahan-e ejtemai jay darand?",
+     "grading_key": "- [1] Sath-e kalan",
+     "final_resolution": "Sath-e kalan",
+     "notes": "",
+     "keywords": [
+      "padide-haye kalan-e ejtemai"
+     ],
+     "distractors": [
+      "Sath-e khord (konesh-haye fardi)",
+      "Biroon az jahan-e ejtemai (padide-haye tabiei)",
+      "Sath-e andishe-haye shakhsi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 967,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "توده‌های سلولی غیرعادی که رشد محدودی دارند، به بافت‌های اطراف حمله نمی‌کنند و معمولاً جان بیمار را تهدید نمی‌کنند، چه نام دارند؟",
+     "grading_key": "- [1] تومورهای خوش‌خیم",
+     "final_resolution": "تومورهای خوش‌خیم",
+     "notes": "",
+     "keywords": [
+      "تومور خوش‌خیم"
+     ],
+     "distractors": [
+      "تومورهای بدخیم",
+      "متاستاز (گسترش سرطان)",
+      "پلاک‌های تصلب شرایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What are abnormal cell masses called that grow only so far, do not invade nearby tissue and usually do not threaten the patient's life?",
+     "grading_key": "- [1] Benign tumours",
+     "final_resolution": "Benign tumours",
+     "notes": "",
+     "keywords": [
+      "benign tumour"
+     ],
+     "distractors": [
+      "Malignant tumours",
+      "Metastases (spreading cancer)",
+      "Atherosclerotic plaques"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Tode-haye sellooli-ye gheyr-e adi ke roshd-e mahdoodi darand, be baft-haye atraf hamle nemikonand va ma'moolan jan-e bimar ra tahdid nemikonand, che nam darand?",
+     "grading_key": "- [1] Tumor-haye khosh-khim",
+     "final_resolution": "Tumor-haye khosh-khim",
+     "notes": "",
+     "keywords": [
+      "tumor-e khosh-khim"
+     ],
+     "distractors": [
+      "Tumor-haye bad-khim",
+      "Metastaz (gostaresh-e saratan)",
+      "Pelak-haye tasallob-e sharayin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 967,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "کدام ترکیب سمی و سرطان‌زا، که در ساخت رزین‌ها و پلاستیک‌ها و نگهداری اجساد هم به کار می‌رود، در دود سیگار وجود دارد؟",
+     "grading_key": "- [1] فرمالدئید",
+     "final_resolution": "فرمالدئید",
+     "notes": "",
+     "keywords": [
+      "فرمالدئید"
+     ],
+     "distractors": [
+      "گاز نیتروژن خالص",
+      "کربنات کلسیم",
+      "گلوکز"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "Which toxic, cancer-causing compound, also used to make resins and plastics and to preserve bodies, is found in cigarette smoke?",
+     "grading_key": "- [1] Formaldehyde",
+     "final_resolution": "Formaldehyde",
+     "notes": "",
+     "keywords": [
+      "formaldehyde"
+     ],
+     "distractors": [
+      "Pure nitrogen gas",
+      "Calcium carbonate",
+      "Glucose"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Kodam tarkib-e sammi va saratan-za, ke dar sakht-e rezin-ha va pelastik-ha va negahdari-ye ajsad ham be kar miravad, dar dood-e sigar vojood darad?",
+     "grading_key": "- [1] Formaldehid",
+     "final_resolution": "Formaldehid",
+     "notes": "",
+     "keywords": [
+      "formaldehid"
+     ],
+     "distractors": [
+      "Gaz-e nitrozhen-e khales",
+      "Karbonat-e kalsiyom",
+      "Glukoz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 967,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کدام ویتامین محلول در چربی، که در سبزی‌های برگ‌سبز فراوان است، نقش اصلی را در انعقاد خون و جلوگیری از خون‌ریزی دارد؟",
+     "grading_key": "- [1] ویتامین K",
+     "final_resolution": "ویتامین K",
+     "notes": "",
+     "keywords": [
+      "ویتامین K"
+     ],
+     "distractors": [
+      "ویتامین C",
+      "ویتامین B12",
+      "ویتامین A"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "Which fat-soluble vitamin, plentiful in green leafy vegetables, plays the main part in blood clotting and in preventing bleeding?",
+     "grading_key": "- [1] Vitamin K",
+     "final_resolution": "Vitamin K",
+     "notes": "",
+     "keywords": [
+      "vitamin K"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kodam vitamin-e mahlool dar charbi, ke dar sabzi-haye barg-sabz faravan ast, naghsh-e asli ra dar en'eghad-e khoon va jelogiri az khoonrizi darad?",
+     "grading_key": "- [1] Vitamin K",
+     "final_resolution": "Vitamin K",
+     "notes": "",
+     "keywords": [
+      "vitamin K"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 967,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در کمک‌های اولیه برای سوختگی درجهٔ یک با حرارت، بهترین کار نخست برای خنک کردن محل سوختگی چیست؟",
+     "grading_key": "- [1] گرفتن محل زیر آب خنک جاری، دست‌کم ۱۰ دقیقه",
+     "final_resolution": "گرفتن محل زیر آب خنک جاری، دست‌کم ۱۰ دقیقه",
+     "notes": "",
+     "keywords": [
+      "کمک‌های اولیه در سوختگی"
+     ],
+     "distractors": [
+      "گذاشتن مستقیم یخ روی پوست",
+      "مالیدن فوری پماد یا روغن غلیظ",
+      "بستن محکم با باند خشک"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In first aid for a first-degree heat burn, what is the best first step to cool the burned area?",
+     "grading_key": "- [1] Holding it under cool running water for at least 10 minutes",
+     "final_resolution": "Holding it under cool running water for at least 10 minutes",
+     "notes": "",
+     "keywords": [
+      "burn first aid"
+     ],
+     "distractors": [
+      "Putting ice straight on the skin",
+      "Rubbing on a thick ointment or oil at once",
+      "Binding it tightly with a dry bandage"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar komak-haye avvaliye baraye sookhtegi-ye daraje-ye yek ba hararat, behtarin kar-e nokhost baraye khonak kardan-e mahall-e sookhtegi chist?",
+     "grading_key": "- [1] Gereftan-e mahall zir-e ab-e khonak-e jari, dast-kam 10 daghighe",
+     "final_resolution": "Gereftan-e mahall zir-e ab-e khonak-e jari, dast-kam 10 daghighe",
+     "notes": "",
+     "keywords": [
+      "komak-haye avvaliye dar sookhtegi"
+     ],
+     "distractors": [
+      "Gozashtan-e mostaghim-e yakh rooye poost",
+      "Malidan-e fori-ye pomad ya roghan-e ghaliz",
+      "Bastan-e mohkam ba band-e khoshk"
+     ]
+    }
+   }
+  }
+ ]
+}
