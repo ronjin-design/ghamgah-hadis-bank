@@ -1,0 +1,520 @@
+{
+ "version": 80,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 973,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (سینوس دو برابر بر حسب تانژانت)",
+    "en": "Chapter 2: Trigonometry (sin 2x from tan x)",
+    "tr": "Fasl 2: Mosallasat",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "عبارت ⁦2tan x / (1 + tan²x)⁩ با کدام برابر است؟",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "روابط کمان دو برابر"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2sin x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is 2tan x / (1 + tan²x) equal to?",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "double-angle identities"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2sin x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Ebarat-e 2tan x / (1 + tan²x) ba kodam barabar ast?",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "ravabet-e kaman-e do barabar"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2sin x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 973,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (تانژانت مجموع کمان‌ها)",
+    "en": "Chapter 2: Trigonometry (tan of a Sum)",
+    "tr": "Fasl 2: Mosallasat (Majmoo-e Kaman-ha)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "⁦tan(α + β)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "final_resolution": "⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "notes": "",
+     "keywords": [
+      "روابط مجموع کمان‌ها"
+     ],
+     "distractors": [
+      "⁦(tan α − tan β) / (1 + tan α tan β)⁩",
+      "⁦(tan α + tan β) / (1 + tan α tan β)⁩",
+      "⁦tan α + tan β⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is tan(α + β) equal to?",
+     "grading_key": "- [1] ⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "final_resolution": "⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "notes": "",
+     "keywords": [
+      "angle-sum identities"
+     ],
+     "distractors": [
+      "⁦(tan α − tan β) / (1 + tan α tan β)⁩",
+      "⁦(tan α + tan β) / (1 + tan α tan β)⁩",
+      "⁦tan α + tan β⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "tan(α + β) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "final_resolution": "⁦(tan α + tan β) / (1 − tan α tan β)⁩",
+     "notes": "",
+     "keywords": [
+      "ravabet-e majmoo-e kaman-ha"
+     ],
+     "distractors": [
+      "⁦(tan α − tan β) / (1 + tan α tan β)⁩",
+      "⁦(tan α + tan β) / (1 + tan α tan β)⁩",
+      "⁦tan α + tan β⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 973,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: یگانهٔ بی‌همتا (خالقیت و ربوبیت)",
+    "en": "Lesson 2: The Matchless One (Creation and Lordship)",
+    "tr": "Dars 2: Yegane-ye Bi-hamta",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "اینکه چون آفرینش جهان تنها از آنِ خداست، تدبیر و پروردگاری آن نیز تنها با اوست، کدام رابطه را نشان می‌دهد؟",
+     "grading_key": "- [1] ربوبیت از خالقیت جدا نیست و از آن نتیجه می‌شود",
+     "final_resolution": "ربوبیت از خالقیت جدا نیست و از آن نتیجه می‌شود",
+     "notes": "",
+     "keywords": [
+      "رابطهٔ خالقیت و ربوبیت"
+     ],
+     "distractors": [
+      "خالقیت و ربوبیت با هم ناسازگارند",
+      "آفریدن با خداست اما تدبیر با دیگران است",
+      "تدبیر جهان به آفرینش آن ربطی ندارد"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "That since creating the world belongs to God alone, running and sustaining it also belong to Him alone, shows which link?",
+     "grading_key": "- [1] Lordship cannot be separated from creation and follows from it",
+     "final_resolution": "Lordship cannot be separated from creation and follows from it",
+     "notes": "",
+     "keywords": [
+      "creation and lordship"
+     ],
+     "distractors": [
+      "Creation and lordship contradict each other",
+      "God creates, but others run the world",
+      "Running the world has nothing to do with creating it"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Inke chon afarinesh-e jahan tanha az an-e Khodast, tadbir va parvardegari-ye an niz tanha ba oost, kodam rabete ra neshan midahad?",
+     "grading_key": "- [1] Rooboobiyat az khaleghiyat joda nist va az an natije mishavad",
+     "final_resolution": "Rooboobiyat az khaleghiyat joda nist va az an natije mishavad",
+     "notes": "",
+     "keywords": [
+      "rabete-ye khaleghiyat va rooboobiyat"
+     ],
+     "distractors": [
+      "Khaleghiyat va rooboobiyat ba ham nasazgarand",
+      "Afaridan ba Khodast amma tadbir ba digaran ast",
+      "Tadbir-e jahan be afarinesh-e an rabti nadarad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 973,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْحِلْمُ» در عبارت زیر کدام است؟\n«الْحِلْمُ غِطَاءٌ سَاتِرٌ.»",
+     "grading_key": "- [1] بردباری",
+     "final_resolution": "بردباری",
+     "notes": "",
+     "keywords": [
+      "الْحِلْمُ"
+     ],
+     "distractors": [
+      "نادانی",
+      "خشم",
+      "ثروت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْحِلْمُ» mean in this saying?\n«الْحِلْمُ غِطَاءٌ سَاتِرٌ.»",
+     "grading_key": "- [1] Forbearance, patience",
+     "final_resolution": "Forbearance, patience",
+     "notes": "",
+     "keywords": [
+      "al-hilm (forbearance)"
+     ],
+     "distractors": [
+      "Ignorance",
+      "Anger",
+      "Wealth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-hilmu» dar ebarat-e zir kodam ast?\n«الْحِلْمُ غِطَاءٌ سَاتِرٌ.»",
+     "grading_key": "- [1] Bordbari",
+     "final_resolution": "Bordbari",
+     "notes": "",
+     "keywords": [
+      "al-hilmu"
+     ],
+     "distractors": [
+      "Nadani",
+      "Khashm",
+      "Servat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 973,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «فَیَضُرَّکَ» در عبارت زیر کدام است؟\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] پس به تو زیان می‌رساند",
+     "final_resolution": "پس به تو زیان می‌رساند",
+     "notes": "",
+     "keywords": [
+      "فَیَضُرَّکَ"
+     ],
+     "distractors": [
+      "پس به تو سود می‌رساند",
+      "پس تو را می‌ستاید",
+      "پس به تو می‌آموزد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «فَیَضُرَّکَ» mean in this saying?\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] And so he harms you",
+     "final_resolution": "And so he harms you",
+     "notes": "",
+     "keywords": [
+      "yadurru (harms)"
+     ],
+     "distractors": [
+      "And so he benefits you",
+      "And so he praises you",
+      "And so he teaches you"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «fa-yadurraka» dar ebarat-e zir kodam ast?\n«إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.»",
+     "grading_key": "- [1] Pas be to ziyan miresanad",
+     "final_resolution": "Pas be to ziyan miresanad",
+     "notes": "",
+     "keywords": [
+      "fa-yadurraka"
+     ],
+     "distractors": [
+      "Pas be to sood miresanad",
+      "Pas to ra misetayad",
+      "Pas be to miamoozad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 973,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «التَّجَارِبُ» در عبارت زیر کدام است؟\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] تجربه‌ها",
+     "final_resolution": "تجربه‌ها",
+     "notes": "",
+     "keywords": [
+      "التَّجَارِبُ"
+     ],
+     "distractors": [
+      "کتاب‌ها",
+      "فرمول‌ها",
+      "افسانه‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «التَّجَارِبُ» mean in this saying?\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] Experiences",
+     "final_resolution": "Experiences",
+     "notes": "",
+     "keywords": [
+      "tajarib (experiences)"
+     ],
+     "distractors": [
+      "Books",
+      "Formulas",
+      "Legends"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «at-tajarib» dar ebarat-e zir kodam ast?\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] Tajrobe-ha",
+     "final_resolution": "Tajrobe-ha",
+     "notes": "",
+     "keywords": [
+      "at-tajarib"
+     ],
+     "distractors": [
+      "Ketab-ha",
+      "Formool-ha",
+      "Afsane-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 973,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شَغَلَهُ» در عبارت زیر کدام است؟\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] او را مشغول کرد",
+     "final_resolution": "او را مشغول کرد",
+     "notes": "",
+     "keywords": [
+      "شَغَلَهُ"
+     ],
+     "distractors": [
+      "او را پنهان کرد",
+      "او را ستود",
+      "او را رها کرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شَغَلَهُ» mean in this saying?\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] Kept him busy",
+     "final_resolution": "Kept him busy",
+     "notes": "",
+     "keywords": [
+      "shaghala (kept busy)"
+     ],
+     "distractors": [
+      "Hid him",
+      "Praised him",
+      "Let him go"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «shaghalahu» dar ebarat-e zir kodam ast?\n«طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ.»",
+     "grading_key": "- [1] Oo ra mashghool kard",
+     "final_resolution": "Oo ra mashghool kard",
+     "notes": "",
+     "keywords": [
+      "shaghalahu"
+     ],
+     "distractors": [
+      "Oo ra penhan kard",
+      "Oo ra setood",
+      "Oo ra raha kard"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Khordad",
+   "number": 973,
+   "topic_tag": "social-phenomena",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: پدیده‌های اجتماعی (عینی بودن)",
+    "en": "Lesson 2: Social Phenomena (Objectivity)",
+    "tr": "Dars 2: Padide-haye Ejtemai",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "پدیده‌های اجتماعی",
+     "question": "کدام ویژگی پدیده‌های اجتماعی باعث می‌شود که مستقل از ارادهٔ هر فرد وجود داشته باشند و بر او اثر بگذارند؟",
+     "grading_key": "- [1] بیرونی و عینی بودن آن‌ها",
+     "final_resolution": "بیرونی و عینی بودن آن‌ها",
+     "notes": "",
+     "keywords": [
+      "عینی بودن پدیده‌های اجتماعی"
+     ],
+     "distractors": [
+      "درونی و ذهنی بودن آن‌ها",
+      "وابستگی کامل به میل هر فرد",
+      "زودگذر بودن آن‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Social Phenomena",
+     "question": "Which feature of social phenomena lets them exist and act on a person regardless of that person's own will?",
+     "grading_key": "- [1] They are external and objective",
+     "final_resolution": "They are external and objective",
+     "notes": "",
+     "keywords": [
+      "objectivity of social phenomena"
+     ],
+     "distractors": [
+      "They are inner and subjective",
+      "They depend wholly on each person's wish",
+      "They are fleeting"
+     ]
+    },
+    "tr": {
+     "topic_label": "Padide-haye Ejtemai",
+     "question": "Kodam vizhegi-ye padide-haye ejtemai ba'es mishavad ke mostaghel az erade-ye har fard vojood dashte bashand va bar oo asar begozarand?",
+     "grading_key": "- [1] Birooni va eyni boodan-e anha",
+     "final_resolution": "Birooni va eyni boodan-e anha",
+     "notes": "",
+     "keywords": [
+      "eyni boodan-e padide-haye ejtemai"
+     ],
+     "distractors": [
+      "Darooni va zehni boodan-e anha",
+      "Vabastegi-ye kamel be meyl-e har fard",
+      "Zood-gozar boodan-e anha"
+     ]
+    }
+   }
+  }
+ ]
+}
