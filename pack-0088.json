@@ -1,0 +1,1002 @@
+{
+ "version": 88,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد مثلثاتی بنیادی)",
+    "en": "Chapter 3: Limits (Basic Trigonometric Limit)",
+    "tr": "Fasl 3: Had (Mosallasati)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = sin x / x⁩ وقتی ⁦x⁩ به سمت صفر میل می‌کند کدام است؟",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "حد sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = f(x) = sin x / x as x approaches 0?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "limit of sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = sin x / x vaghti x be samt-e sefr meyl mikonad kodam ast?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "had-e sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد در بی‌نهایت تابع رادیکالی)",
+    "en": "Chapter 3: Limits (Radical Functions at Infinity)",
+    "tr": "Fasl 3: Had (Tabe'-e Radikali)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = √(4x² + 1) / (3x − 2)⁩ وقتی ⁦x → +∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "حد تابع رادیکالی در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = f(x) = √(4x² + 1) / (3x − 2) as x → +∞?",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "radical limit at infinity"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = √(4x² + 1) / (3x − 2) vaghti x → +∞ kodam ast?",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "had-e radikali dar binahayat"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام ۰/۰ رادیکالی)",
+    "en": "Chapter 3: Limits (0/0 with Radicals)",
+    "tr": "Fasl 3: Had (Rafe' Ebham)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "برای رفع ابهام ۰/۰ در حدی که عبارت رادیکالی دارد، کارآمدترین گام نخست چیست؟",
+     "grading_key": "- [1] ضرب صورت و مخرج در مزدوج عبارت رادیکالی",
+     "final_resolution": "ضرب صورت و مخرج در مزدوج عبارت رادیکالی",
+     "notes": "",
+     "keywords": [
+      "ضرب در مزدوج"
+     ],
+     "distractors": [
+      "فاکتور گرفتن از بزرگ‌ترین توان",
+      "گذاشتن بی‌نهایت به جای x",
+      "مشتق گرفتن با قاعدهٔ توان"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "To remove a 0/0 indeterminate form in a limit with a radical expression, what is the most useful first step?",
+     "grading_key": "- [1] Multiply the top and bottom by the conjugate of the radical",
+     "final_resolution": "Multiply the top and bottom by the conjugate of the radical",
+     "notes": "",
+     "keywords": [
+      "multiplying by the conjugate"
+     ],
+     "distractors": [
+      "Factor out the highest power",
+      "Put infinity in place of x",
+      "Differentiate with the power rule"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Baraye rafe'-e ebham-e 0/0 dar haddi ke ebarat-e radikali darad, karamad-tarin gam-e nokhost chist?",
+     "grading_key": "- [1] Zarb-e soorat va makhraj dar mozdavaj-e ebarat-e radikali",
+     "final_resolution": "Zarb-e soorat va makhraj dar mozdavaj-e ebarat-e radikali",
+     "notes": "",
+     "keywords": [
+      "zarb dar mozdavaj"
+     ],
+     "distractors": [
+      "Faktor gereftan az bozorg-tarin tavan",
+      "Gozashtan-e binahayat be jaye x",
+      "Moshtagh gereftan ba ghaede-ye tavan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد در بی‌نهایت تابع رادیکالی)",
+    "en": "Chapter 3: Limits (Radical Functions at Infinity)",
+    "tr": "Fasl 3: Had (Tabe'-e Radikali)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = √(x² + 2) / (2x + 1)⁩ وقتی ⁦x → −∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد تابع رادیکالی در منفی بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = f(x) = √(x² + 2) / (2x + 1) as x → −∞?",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "radical limit at minus infinity"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = √(x² + 2) / (2x + 1) vaghti x → −∞ kodam ast?",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e radikali dar manfi-ye binahayat"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 981,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سُیِّرَتِ» در عبارت زیر کدام است؟\n«وَ سُیِّرَتِ الْجِبَالُ فَکَانَتْ سَرَاباً.»",
+     "grading_key": "- [1] روان ساخته شدند",
+     "final_resolution": "روان ساخته شدند",
+     "notes": "",
+     "keywords": [
+      "سُیِّرَتِ"
+     ],
+     "distractors": [
+      "یخ زدند",
+      "آفریده شدند",
+      "پنهان شدند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سُیِّرَتِ» mean in this verse?\n«وَ سُیِّرَتِ الْجِبَالُ فَکَانَتْ سَرَاباً.»",
+     "grading_key": "- [1] Were set moving",
+     "final_resolution": "Were set moving",
+     "notes": "",
+     "keywords": [
+      "suyyirat (were set moving)"
+     ],
+     "distractors": [
+      "Froze",
+      "Were created",
+      "Were hidden"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «suyyirat» dar ebarat-e zir kodam ast?\n«وَ سُیِّرَتِ الْجِبَالُ فَکَانَتْ سَرَاباً.»",
+     "grading_key": "- [1] Ravan sakhte shodand",
+     "final_resolution": "Ravan sakhte shodand",
+     "notes": "",
+     "keywords": [
+      "suyyirat"
+     ],
+     "distractors": [
+      "Yakh zadand",
+      "Afaride shodand",
+      "Penhan shodand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 981,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مِرْصَاداً» در عبارت زیر کدام است؟\n«إِنَّ جَهَنَّمَ کَانَتْ مِرْصَاداً.»",
+     "grading_key": "- [1] کمین‌گاه",
+     "final_resolution": "کمین‌گاه",
+     "notes": "",
+     "keywords": [
+      "مِرْصَاداً"
+     ],
+     "distractors": [
+      "کاخی بزرگ",
+      "رودی روان",
+      "سایه‌ای گذرا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مِرْصَاداً» mean in this verse?\n«إِنَّ جَهَنَّمَ کَانَتْ مِرْصَاداً.»",
+     "grading_key": "- [1] A place of ambush",
+     "final_resolution": "A place of ambush",
+     "notes": "",
+     "keywords": [
+      "mirsad (a place of ambush)"
+     ],
+     "distractors": [
+      "A great palace",
+      "A flowing river",
+      "A passing shadow"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «mirsadan» dar ebarat-e zir kodam ast?\n«إِنَّ جَهَنَّمَ کَانَتْ مِرْصَاداً.»",
+     "grading_key": "- [1] Kamin-gah",
+     "final_resolution": "Kamin-gah",
+     "notes": "",
+     "keywords": [
+      "mirsadan"
+     ],
+     "distractors": [
+      "Kakhi bozorg",
+      "Roodi ravan",
+      "Saye-i gozara"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 981,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَآباً» در عبارت زیر کدام است؟\n«لِلطَّاغِینَ مَآباً.»",
+     "grading_key": "- [1] بازگشت‌گاه، جایگاه",
+     "final_resolution": "بازگشت‌گاه، جایگاه",
+     "notes": "",
+     "keywords": [
+      "مَآباً"
+     ],
+     "distractors": [
+      "سپر",
+      "بازار",
+      "چاه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَآباً» mean in this verse?\n«لِلطَّاغِینَ مَآباً.»",
+     "grading_key": "- [1] A place of return, an abode",
+     "final_resolution": "A place of return, an abode",
+     "notes": "",
+     "keywords": [
+      "ma'ab (place of return)"
+     ],
+     "distractors": [
+      "A shield",
+      "A market",
+      "A well"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ma'aban» dar ebarat-e zir kodam ast?\n«لِلطَّاغِینَ مَآباً.»",
+     "grading_key": "- [1] Bazgasht-gah, jaygah",
+     "final_resolution": "Bazgasht-gah, jaygah",
+     "notes": "",
+     "keywords": [
+      "ma'aban"
+     ],
+     "distractors": [
+      "Separ",
+      "Bazar",
+      "Chah"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 981,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَحْقَاباً» در عبارت زیر کدام است؟\n«لَابِثِینَ فِیهَا أَحْقَاباً.»",
+     "grading_key": "- [1] روزگارانی دراز",
+     "final_resolution": "روزگارانی دراز",
+     "notes": "",
+     "keywords": [
+      "أَحْقَاباً"
+     ],
+     "distractors": [
+      "چند ساعت",
+      "چند هفته",
+      "چند لحظه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَحْقَاباً» mean in this verse?\n«لَابِثِینَ فِیهَا أَحْقَاباً.»",
+     "grading_key": "- [1] For long ages",
+     "final_resolution": "For long ages",
+     "notes": "",
+     "keywords": [
+      "ahqab (long ages)"
+     ],
+     "distractors": [
+      "For a few hours",
+      "For a few weeks",
+      "For a few moments"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ahqaban» dar ebarat-e zir kodam ast?\n«لَابِثِینَ فِیهَا أَحْقَاباً.»",
+     "grading_key": "- [1] Roozgarani deraz",
+     "final_resolution": "Roozgarani deraz",
+     "notes": "",
+     "keywords": [
+      "ahqaban"
+     ],
+     "distractors": [
+      "Chand sa'at",
+      "Chand hafte",
+      "Chand lahze"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 981,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا یَذُوقُونَ» در عبارت زیر کدام است؟\n«لَا یَذُوقُونَ فِیهَا بَرْداً وَ لَا شَرَاباً.»",
+     "grading_key": "- [1] نمی‌چشند",
+     "final_resolution": "نمی‌چشند",
+     "notes": "",
+     "keywords": [
+      "لَا یَذُوقُونَ"
+     ],
+     "distractors": [
+      "نمی‌بینند",
+      "سخن نمی‌گویند",
+      "وارد نمی‌شوند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا یَذُوقُونَ» mean in this verse?\n«لَا یَذُوقُونَ فِیهَا بَرْداً وَ لَا شَرَاباً.»",
+     "grading_key": "- [1] They do not taste",
+     "final_resolution": "They do not taste",
+     "notes": "",
+     "keywords": [
+      "la yadhuquna (they do not taste)"
+     ],
+     "distractors": [
+      "They do not see",
+      "They do not speak",
+      "They do not enter"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la yadhuquna» dar ebarat-e zir kodam ast?\n«لَا یَذُوقُونَ فِیهَا بَرْداً وَ لَا شَرَاباً.»",
+     "grading_key": "- [1] Nemicheshand",
+     "final_resolution": "Nemicheshand",
+     "notes": "",
+     "keywords": [
+      "la yadhuquna"
+     ],
+     "distractors": [
+      "Nemibinand",
+      "Sokhan nemigooyand",
+      "Vared nemishavand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 981,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «رأفت» در جملهٔ زیر چیست؟\n«استاد با سعهٔ صدر و رأفت، به سخنان شاگردان گوش فرا داد.»",
+     "grading_key": "- [1] مهربانی و دلسوزی",
+     "final_resolution": "مهربانی و دلسوزی",
+     "notes": "",
+     "keywords": [
+      "رأفت"
+     ],
+     "distractors": [
+      "خشم و ستم",
+      "اجبار",
+      "هراس"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «رأفت» mean in this sentence?\n«استاد با سعهٔ صدر و رأفت، به سخنان شاگردان گوش فرا داد.»",
+     "grading_key": "- [1] Kindness, compassion",
+     "final_resolution": "Kindness, compassion",
+     "notes": "",
+     "keywords": [
+      "ra'fat (kindness)"
+     ],
+     "distractors": [
+      "Anger and cruelty",
+      "Force",
+      "Panic"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ra'fat» dar jomle-ye zir chist?\n«استاد با سعهٔ صدر و رأفت، به سخنان شاگردان گوش فرا داد.»",
+     "grading_key": "- [1] Mehrabani va delsoozi",
+     "final_resolution": "Mehrabani va delsoozi",
+     "notes": "",
+     "keywords": [
+      "ra'fat"
+     ],
+     "distractors": [
+      "Khashm va setam",
+      "Ejbar",
+      "Heras"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 981,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «نزهت» در جملهٔ زیر چیست؟\n«در دل آن شوره‌زار، چشمه‌ای زلال روان بود که مایهٔ نزهت خاطر مسافران می‌شد.»",
+     "grading_key": "- [1] خرمی و شادابی، صفا",
+     "final_resolution": "خرمی و شادابی، صفا",
+     "notes": "",
+     "keywords": [
+      "نزهت"
+     ],
+     "distractors": [
+      "آلودگی",
+      "اندوه",
+      "گرمای سوزان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «نزهت» mean in this sentence?\n«در دل آن شوره‌زار، چشمه‌ای زلال روان بود که مایهٔ نزهت خاطر مسافران می‌شد.»",
+     "grading_key": "- [1] Pleasure, freshness of mind",
+     "final_resolution": "Pleasure, freshness of mind",
+     "notes": "",
+     "keywords": [
+      "nozhat (pleasantness)"
+     ],
+     "distractors": [
+      "Filth",
+      "Sorrow",
+      "Scorching heat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «nozhat» dar jomle-ye zir chist?\n«در دل آن شوره‌زار، چشمه‌ای زلال روان بود که مایهٔ نزهت خاطر مسافران می‌شد.»",
+     "grading_key": "- [1] Khorrami va shadabi, safa",
+     "final_resolution": "Khorrami va shadabi, safa",
+     "notes": "",
+     "keywords": [
+      "nozhat"
+     ],
+     "distractors": [
+      "Aloodegi",
+      "Andooh",
+      "Garma-ye soozan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 981,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: تشبیه)",
+    "en": "Persian 3 (Literary Devices: Simile)",
+    "tr": "Adabiyat-e Farsi 3 (Tashbih)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "مانند کردن چیزی به چیز دیگر به سبب ویژگی مشترکی که دارند (مانند «قدی چون سرو»)، کدام آرایه است؟",
+     "grading_key": "- [1] تشبیه",
+     "final_resolution": "تشبیه",
+     "notes": "",
+     "keywords": [
+      "تشبیه"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Likening one thing to another because of a quality they share (like \"a figure tall as a cypress\") is which device?",
+     "grading_key": "- [1] Tashbih (simile)",
+     "final_resolution": "Tashbih (simile)",
+     "notes": "",
+     "keywords": [
+      "tashbih (simile)"
+     ],
+     "distractors": [
+      "Jinas-e tam (homonym pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Manand kardan-e chizi be chiz-e digar be sabab-e vizhegi-ye moshtaraki ke darand (manand-e \"ghaddi chon sarv\"), kodam araye ast?",
+     "grading_key": "- [1] Tashbih",
+     "final_resolution": "Tashbih",
+     "notes": "",
+     "keywords": [
+      "tashbih"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 981,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «مهمان‌خانه‌ها و کاروان‌سراها» (جمع فندق) است، کدام است؟",
+     "grading_key": "- [1] فنادق",
+     "final_resolution": "فنادق",
+     "notes": "",
+     "keywords": [
+      "فنادق"
+     ],
+     "distractors": [
+      "فنادیق",
+      "فنادغ",
+      "فضادق"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'inns, lodging houses' (plural of fondogh)?",
+     "grading_key": "- [1] فنادق",
+     "final_resolution": "فنادق",
+     "notes": "",
+     "keywords": [
+      "fanadegh (inns)"
+     ],
+     "distractors": [
+      "فنادیق",
+      "فنادغ",
+      "فضادق"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'mehman-khane-ha va karvansara-ha' (jam'-e fondogh) ast, kodam ast?",
+     "grading_key": "- [1] فنادق",
+     "final_resolution": "فنادق",
+     "notes": "",
+     "keywords": [
+      "fanadegh"
+     ],
+     "distractors": [
+      "فنادیق",
+      "فنادغ",
+      "فضادق"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 981,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "رها شدن کدام مواد مصنوعی تجزیه‌ناپذیر در طبیعت، به سبب ماندن صدها ساله در خاک و راه یافتن ریزذرات آن به زنجیرهٔ غذایی، تهدیدی جدی برای سلامت است؟",
+     "grading_key": "- [1] پلاستیک‌ها",
+     "final_resolution": "پلاستیک‌ها",
+     "notes": "",
+     "keywords": [
+      "آلودگی پلاستیکی"
+     ],
+     "distractors": [
+      "کود کمپوست",
+      "کاغذ",
+      "آهن"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which man-made, non-biodegradable materials, lasting hundreds of years in the soil and entering the food chain as tiny particles, are a serious health threat when dumped?",
+     "grading_key": "- [1] Plastics",
+     "final_resolution": "Plastics",
+     "notes": "",
+     "keywords": [
+      "plastic pollution"
+     ],
+     "distractors": [
+      "Compost",
+      "Paper",
+      "Iron"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Raha shodan-e kodam mavad-e masnooi-ye tajziye-napazir dar tabiat, be sabab-e mandan-e sadha sale dar khak va rah yaftan-e riz-zarrat-e an be zanjire-ye ghazayi, tahdidi jeddi baraye salamat ast?",
+     "grading_key": "- [1] Pelastik-ha",
+     "final_resolution": "Pelastik-ha",
+     "notes": "",
+     "keywords": [
+      "aloodegi-ye pelastiki"
+     ],
+     "distractors": [
+      "Kood-e kompost",
+      "Kaghaz",
+      "Ahan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 981,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "نوجوان برای کار درست بدن و دفع مواد زائد، روزانه دست‌کم چه مقدار آب باید بنوشد؟",
+     "grading_key": "- [1] ۶ تا ۸ لیوان",
+     "final_resolution": "۶ تا ۸ لیوان",
+     "notes": "",
+     "keywords": [
+      "نوشیدن آب"
+     ],
+     "distractors": [
+      "۱ تا ۲ لیوان",
+      "۱۵ لیوان",
+      "۱ لیوان"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "At least how much water should a teenager drink each day for the body to work well and clear its waste?",
+     "grading_key": "- [1] 6 to 8 glasses",
+     "final_resolution": "6 to 8 glasses",
+     "notes": "",
+     "keywords": [
+      "drinking water"
+     ],
+     "distractors": [
+      "1 to 2 glasses",
+      "15 glasses",
+      "1 glass"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Nowjavan baraye kar-e dorost-e badan va daf'-e mavad-e za'ed, roozane dast-kam che meghdar ab bayad benooshad?",
+     "grading_key": "- [1] 6 ta 8 livan",
+     "final_resolution": "6 ta 8 livan",
+     "notes": "",
+     "keywords": [
+      "nooshidan-e ab"
+     ],
+     "distractors": [
+      "1 ta 2 livan",
+      "15 livan",
+      "1 livan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 981,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "پرخوری، تشنگی زیاد و پرادراری، سه نشانهٔ اصلی کدام بیماری‌اند؟",
+     "grading_key": "- [1] دیابت شیرین",
+     "final_resolution": "دیابت شیرین",
+     "notes": "",
+     "keywords": [
+      "نشانه‌های دیابت"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "کم‌خونی فقر آهن",
+      "فشار خون پایین"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Eating a lot, great thirst and passing a lot of urine are the three main signs of which disease?",
+     "grading_key": "- [1] Diabetes mellitus",
+     "final_resolution": "Diabetes mellitus",
+     "notes": "",
+     "keywords": [
+      "signs of diabetes"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Iron-deficiency anaemia",
+      "Low blood pressure"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Porkhori, teshnegi-ye ziyad va por-edrari, se neshane-ye asli-ye kodam bimari-and?",
+     "grading_key": "- [1] Diabet-e shirin",
+     "final_resolution": "Diabet-e shirin",
+     "notes": "",
+     "keywords": [
+      "neshane-haye diabet"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Kam-khooni-ye faghr-e ahan",
+      "Feshar-e khoon-e payin"
+     ]
+    }
+   }
+  }
+ ]
+}
