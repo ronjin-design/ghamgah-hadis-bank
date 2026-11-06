@@ -1,0 +1,581 @@
+{
+ "version": 75,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 968,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (پیشامد متمم)",
+    "en": "Chapter 7: Probability (Complementary Event)",
+    "tr": "Fasl 7: Ehtemal (Motammem)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "اگر احتمال پیشامد ⁦A⁩ برابر ⁦P(A)⁩ باشد، احتمال پیشامد متمم آن، ⁦P(A′)⁩، کدام است؟",
+     "grading_key": "- [1] ⁦1 − P(A)⁩",
+     "final_resolution": "⁦1 − P(A)⁩",
+     "notes": "",
+     "keywords": [
+      "پیشامد متمم"
+     ],
+     "distractors": [
+      "⁦P(A) − 1⁩",
+      "⁦1 ÷ P(A)⁩",
+      "⁦1 + P(A)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "If the probability of event A is P(A), what is the probability of its complement, P(A′)?",
+     "grading_key": "- [1] ⁦1 − P(A)⁩",
+     "final_resolution": "⁦1 − P(A)⁩",
+     "notes": "",
+     "keywords": [
+      "complementary event"
+     ],
+     "distractors": [
+      "⁦P(A) − 1⁩",
+      "⁦1 ÷ P(A)⁩",
+      "⁦1 + P(A)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Agar ehtemal-e pishamad-e A barabar-e P(A) bashad, ehtemal-e pishamad-e motammem-e an, P(A′), kodam ast?",
+     "grading_key": "- [1] ⁦1 − P(A)⁩",
+     "final_resolution": "⁦1 − P(A)⁩",
+     "notes": "",
+     "keywords": [
+      "pishamad-e motammem"
+     ],
+     "distractors": [
+      "⁦P(A) − 1⁩",
+      "⁦1 ÷ P(A)⁩",
+      "⁦1 + P(A)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 968,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «بِئْراً» در عبارت زیر کدام است؟\n«مَنْ حَفَرَ بِئْراً لِأَخِیهِ وَقَعَ فِیهَا.»",
+     "grading_key": "- [1] چاهی",
+     "final_resolution": "چاهی",
+     "notes": "",
+     "keywords": [
+      "بِئْراً"
+     ],
+     "distractors": [
+      "خانه‌ای",
+      "کوره‌راهی",
+      "پلی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «بِئْراً» mean in this saying?\n«مَنْ حَفَرَ بِئْراً لِأَخِیهِ وَقَعَ فِیهَا.»",
+     "grading_key": "- [1] A well, a pit",
+     "final_resolution": "A well, a pit",
+     "notes": "",
+     "keywords": [
+      "bi'r (a well)"
+     ],
+     "distractors": [
+      "A house",
+      "A mountain path",
+      "A bridge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «bi'ran» dar ebarat-e zir kodam ast?\n«مَنْ حَفَرَ بِئْراً لِأَخِیهِ وَقَعَ فِیهَا.»",
+     "grading_key": "- [1] Chahi",
+     "final_resolution": "Chahi",
+     "notes": "",
+     "keywords": [
+      "bi'ran"
+     ],
+     "distractors": [
+      "Khane-i",
+      "Koore-rahi",
+      "Pol-i"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 968,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمَدِّ وَ الْجَزْرِ» در عبارت زیر کدام است؟\n«جَاذِبِیَّةُ الْقَمَرِ تُؤَثِّرُ فِی حَرَکَةِ الْمَدِّ وَ الْجَزْرِ.»",
+     "grading_key": "- [1] جزر و مد دریا",
+     "final_resolution": "جزر و مد دریا",
+     "notes": "",
+     "keywords": [
+      "الْمَدِّ وَ الْجَزْرِ"
+     ],
+     "distractors": [
+      "آتشفشان‌ها",
+      "زمین‌لرزه‌ها",
+      "حرکت ابرها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمَدِّ وَ الْجَزْرِ» mean in this sentence?\n«جَاذِبِیَّةُ الْقَمَرِ تُؤَثِّرُ فِی حَرَکَةِ الْمَدِّ وَ الْجَزْرِ.»",
+     "grading_key": "- [1] The tides (high and low tide)",
+     "final_resolution": "The tides (high and low tide)",
+     "notes": "",
+     "keywords": [
+      "al-madd wa al-jazr (the tides)"
+     ],
+     "distractors": [
+      "Volcanic eruptions",
+      "Earthquakes",
+      "The movement of clouds"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-madd va al-jazr» dar ebarat-e zir kodam ast?\n«جَاذِبِیَّةُ الْقَمَرِ تُؤَثِّرُ فِی حَرَکَةِ الْمَدِّ وَ الْجَزْرِ.»",
+     "grading_key": "- [1] Jazr va madd-e darya",
+     "final_resolution": "Jazr va madd-e darya",
+     "notes": "",
+     "keywords": [
+      "al-madd va al-jazr"
+     ],
+     "distractors": [
+      "Atashfeshan-ha",
+      "Zamin-larze-ha",
+      "Harekat-e abr-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 968,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شَرَفُ» در عبارت زیر کدام است؟\n«شَرَفُ الْمَرْءِ بِالْعِلْمِ وَ الْأَدَبِ لَا بِالْأَصْلِ وَ النَّسَبِ.»",
+     "grading_key": "- [1] شرف و بزرگواری",
+     "final_resolution": "شرف و بزرگواری",
+     "notes": "",
+     "keywords": [
+      "شَرَفُ"
+     ],
+     "distractors": [
+      "ثروت",
+      "تبار و نژاد",
+      "نیروی بدنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شَرَفُ» mean in this saying?\n«شَرَفُ الْمَرْءِ بِالْعِلْمِ وَ الْأَدَبِ لَا بِالْأَصْلِ وَ النَّسَبِ.»",
+     "grading_key": "- [1] Honour, nobility",
+     "final_resolution": "Honour, nobility",
+     "notes": "",
+     "keywords": [
+      "sharaf (honour)"
+     ],
+     "distractors": [
+      "Wealth",
+      "Lineage",
+      "Physical strength"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sharafu» dar ebarat-e zir kodam ast?\n«شَرَفُ الْمَرْءِ بِالْعِلْمِ وَ الْأَدَبِ لَا بِالْأَصْلِ وَ النَّسَبِ.»",
+     "grading_key": "- [1] Sharaf va bozorgvari",
+     "final_resolution": "Sharaf va bozorgvari",
+     "notes": "",
+     "keywords": [
+      "sharafu"
+     ],
+     "distractors": [
+      "Servat",
+      "Tabar va nezhad",
+      "Niroo-ye badani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 968,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «عِزُّ» در عبارت زیر کدام است؟\n«عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ.»",
+     "grading_key": "- [1] عزت و ارجمندی",
+     "final_resolution": "عزت و ارجمندی",
+     "notes": "",
+     "keywords": [
+      "عِزُّ"
+     ],
+     "distractors": [
+      "خواری",
+      "تنگدستی",
+      "زیبایی ظاهری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «عِزُّ» mean in this saying?\n«عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ.»",
+     "grading_key": "- [1] Honour, dignity",
+     "final_resolution": "Honour, dignity",
+     "notes": "",
+     "keywords": [
+      "'izz (honour, might)"
+     ],
+     "distractors": [
+      "Humiliation",
+      "Poverty",
+      "Outward beauty"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «'izzu» dar ebarat-e zir kodam ast?\n«عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ.»",
+     "grading_key": "- [1] Ezzat va arjmandi",
+     "final_resolution": "Ezzat va arjmandi",
+     "notes": "",
+     "keywords": [
+      "'izzu"
+     ],
+     "distractors": [
+      "Khari",
+      "Tangdasti",
+      "Zibayi-ye zaheri"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 968,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (جهان سکولار)",
+    "en": "Lesson 3: The Cultural World (Secular)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان فرهنگی سکولار، پدیده‌ها و ساختارهای اجتماعی را بر چه پایه‌ای تبیین می‌کند؟",
+     "grading_key": "- [1] تنها بر پایهٔ امور دنیوی، با نفی یا نادیده گرفتن ماورای طبیعت",
+     "final_resolution": "تنها بر پایهٔ امور دنیوی، با نفی یا نادیده گرفتن ماورای طبیعت",
+     "notes": "",
+     "keywords": [
+      "جهان فرهنگی سکولار"
+     ],
+     "distractors": [
+      "نگاه توحیدی و باور به عالم غیب",
+      "باور به خدایان متعدد و افسانه‌ها",
+      "پیروی کامل از وحی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "On what basis does a secular cultural world explain social phenomena and structures?",
+     "grading_key": "- [1] This world alone, denying or ignoring anything beyond nature",
+     "final_resolution": "This world alone, denying or ignoring anything beyond nature",
+     "notes": "",
+     "keywords": [
+      "secular cultural world"
+     ],
+     "distractors": [
+      "A monotheistic outlook and belief in the unseen",
+      "Belief in many gods and legends",
+      "Full obedience to revelation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e farhangi-ye sekolar, padide-ha va sakhtar-haye ejtemai ra bar che paye-i tabyin mikonad?",
+     "grading_key": "- [1] Tanha bar paye-ye omoor-e donyavi, ba nafy ya nadide gereftan-e mavara-ye tabiat",
+     "final_resolution": "Tanha bar paye-ye omoor-e donyavi, ba nafy ya nadide gereftan-e mavara-ye tabiat",
+     "notes": "",
+     "keywords": [
+      "jahan-e farhangi-ye sekolar"
+     ],
+     "distractors": [
+      "Negah-e towhidi va bavar be alam-e gheyb",
+      "Bavar be khodayan-e mota'added va afsane-ha",
+      "Peyravi-ye kamel az vahy"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 968,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "90–92"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام گاز، که از سوختن سوخت‌های فسیلی گوگرددار در نیروگاه‌ها و خودروها آزاد می‌شود، از علت‌های اصلی باران اسیدی است؟",
+     "grading_key": "- [1] گوگرد دی‌اکسید",
+     "final_resolution": "گوگرد دی‌اکسید",
+     "notes": "",
+     "keywords": [
+      "باران اسیدی"
+     ],
+     "distractors": [
+      "کربن مونوکسید",
+      "متان",
+      "آرگون"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which gas, released by burning sulfur-containing fossil fuels in power stations and vehicles, is a main cause of acid rain?",
+     "grading_key": "- [1] Sulfur dioxide (SO₂)",
+     "final_resolution": "Sulfur dioxide (SO₂)",
+     "notes": "",
+     "keywords": [
+      "acid rain"
+     ],
+     "distractors": [
+      "Carbon monoxide (CO)",
+      "Methane",
+      "Argon"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam gaz, ke az sookhtan-e sookht-haye fosili-ye gogerd-dar dar niroogah-ha va khodro-ha azad mishavad, az ellat-haye asli-ye baran-e asidi ast?",
+     "grading_key": "- [1] Gogerd di-oksid",
+     "final_resolution": "Gogerd di-oksid",
+     "notes": "",
+     "keywords": [
+      "baran-e asidi"
+     ],
+     "distractors": [
+      "Karbon monoksid",
+      "Metan",
+      "Argon"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 968,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کمبود شدید کدام ویتامین محلول در چربی، علت اصلی شب‌کوری و آسیب به سلامت بینایی است؟",
+     "grading_key": "- [1] ویتامین A",
+     "final_resolution": "ویتامین A",
+     "notes": "",
+     "keywords": [
+      "ویتامین A"
+     ],
+     "distractors": [
+      "ویتامین C",
+      "ویتامین D",
+      "ویتامین K"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "A severe lack of which fat-soluble vitamin is the main cause of night blindness and harm to eyesight?",
+     "grading_key": "- [1] Vitamin A",
+     "final_resolution": "Vitamin A",
+     "notes": "",
+     "keywords": [
+      "vitamin A"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kambood-e shadid-e kodam vitamin-e mahlool dar charbi, ellat-e asli-ye shab-koori va asib be salamat-e binayi ast?",
+     "grading_key": "- [1] Vitamin A",
+     "final_resolution": "Vitamin A",
+     "notes": "",
+     "keywords": [
+      "vitamin A"
+     ],
+     "distractors": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 968,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "تاول‌های دردناک، قرمزی شدید و آسیب به اپیدرم و بخشی از درم، نشانهٔ کدام درجهٔ سوختگی است؟",
+     "grading_key": "- [1] سوختگی درجهٔ دو",
+     "final_resolution": "سوختگی درجهٔ دو",
+     "notes": "",
+     "keywords": [
+      "سوختگی درجهٔ دو"
+     ],
+     "distractors": [
+      "سوختگی درجهٔ یک",
+      "سوختگی درجهٔ سه",
+      "سرمازدگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Painful blisters, deep redness and damage to the epidermis and part of the dermis are signs of which degree of burn?",
+     "grading_key": "- [1] A second-degree burn",
+     "final_resolution": "A second-degree burn",
+     "notes": "",
+     "keywords": [
+      "second-degree burn"
+     ],
+     "distractors": [
+      "A first-degree burn",
+      "A third-degree burn",
+      "Frostbite"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Taval-haye dardnak, ghermezi-ye shadid va asib be epiderm va bakhshi az derm, neshane-ye kodam daraje-ye sookhtegi ast?",
+     "grading_key": "- [1] Sookhtegi-ye daraje-ye do",
+     "final_resolution": "Sookhtegi-ye daraje-ye do",
+     "notes": "",
+     "keywords": [
+      "sookhtegi-ye daraje-ye do"
+     ],
+     "distractors": [
+      "Sookhtegi-ye daraje-ye yek",
+      "Sookhtegi-ye daraje-ye se",
+      "Sarma-zadegi"
+     ]
+    }
+   }
+  }
+ ]
+}
