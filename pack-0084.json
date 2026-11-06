@@ -1,0 +1,941 @@
+{
+ "version": 84,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 977,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (معادلهٔ سهمی)",
+    "en": "Chapter 6: Conic Sections (Equation of a Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Moadele-ye Sahmi)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "معادلهٔ سهمی قائم با رأس ⁦(h, k)⁩ و فاصلهٔ کانون تا رأس ⁦p⁩ (رو به بالا) کدام است؟",
+     "grading_key": "- [1] ⁦(x − h)² = 4p(y − k)⁩",
+     "final_resolution": "⁦(x − h)² = 4p(y − k)⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ سهمی"
+     ],
+     "distractors": [
+      "⁦(y − k)² = 4p(x − h)⁩",
+      "⁦(x + h)² = 4p(y + k)⁩",
+      "⁦(x − h)² = −4p(y − k)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the equation of an upward-opening vertical parabola with vertex (h, k) and focus-to-vertex distance p?",
+     "grading_key": "- [1] ⁦(x − h)² = 4p(y − k)⁩",
+     "final_resolution": "⁦(x − h)² = 4p(y − k)⁩",
+     "notes": "",
+     "keywords": [
+      "equation of a parabola"
+     ],
+     "distractors": [
+      "⁦(y − k)² = 4p(x − h)⁩",
+      "⁦(x + h)² = 4p(y + k)⁩",
+      "⁦(x − h)² = −4p(y − k)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Moadele-ye sahmi-ye ghaem ba ra's-e (h, k) va fasele-ye kanoon ta ra's-e p (roo be bala) kodam ast?",
+     "grading_key": "- [1] ⁦(x − h)² = 4p(y − k)⁩",
+     "final_resolution": "⁦(x − h)² = 4p(y − k)⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye sahmi"
+     ],
+     "distractors": [
+      "⁦(y − k)² = 4p(x − h)⁩",
+      "⁦(x + h)² = 4p(y + k)⁩",
+      "⁦(x − h)² = −4p(y − k)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 977,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ تابع رادیکالی)",
+    "en": "Chapter 1: Functions (Domain of a Radical Function)",
+    "tr": "Fasl 1: Tabe' (Damane)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای تابع رادیکالی با فرجهٔ زوج، مانند ⁦√f(x)⁩، عبارت زیر رادیکال باید چه شرطی داشته باشد؟",
+     "grading_key": "- [1] ⁦f(x) ≥ 0⁩",
+     "final_resolution": "⁦f(x) ≥ 0⁩",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ تابع رادیکالی"
+     ],
+     "distractors": [
+      "⁦f(x) > 0⁩",
+      "⁦f(x) ≠ 0⁩",
+      "⁦f(x) < 0⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "For a radical function with an even index, such as √f(x), what condition must the expression under the root meet?",
+     "grading_key": "- [1] ⁦f(x) ≥ 0⁩",
+     "final_resolution": "⁦f(x) ≥ 0⁩",
+     "notes": "",
+     "keywords": [
+      "domain of a radical function"
+     ],
+     "distractors": [
+      "⁦f(x) > 0⁩",
+      "⁦f(x) ≠ 0⁩",
+      "⁦f(x) < 0⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye tabe'-e radikali ba farje-ye zoj, manand-e √f(x), ebarat-e zir-e radikal bayad che sharti dashte bashad?",
+     "grading_key": "- [1] ⁦f(x) ≥ 0⁩",
+     "final_resolution": "⁦f(x) ≥ 0⁩",
+     "notes": "",
+     "keywords": [
+      "damane-ye tabe'-e radikali"
+     ],
+     "distractors": [
+      "⁦f(x) > 0⁩",
+      "⁦f(x) ≠ 0⁩",
+      "⁦f(x) < 0⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 977,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (واریانس برنولی)",
+    "en": "Chapter 7: Probability (Variance of a Bernoulli Trial)",
+    "tr": "Fasl 7: Ehtemal (Variyans-e Bernooli)",
+    "pages": "144–146"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "در آزمایش برنولی با احتمال موفقیت ⁦p⁩ و احتمال شکست ⁦q = 1 − p⁩، واریانس کدام است؟",
+     "grading_key": "- [1] ⁦Var(X) = pq⁩",
+     "final_resolution": "⁦Var(X) = pq⁩",
+     "notes": "",
+     "keywords": [
+      "واریانس برنولی"
+     ],
+     "distractors": [
+      "⁦Var(X) = p(1 + p)⁩",
+      "⁦Var(X) = p ÷ q⁩",
+      "⁦Var(X) = p²⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "In a Bernoulli trial with success probability p and failure probability q = 1 − p, what is the variance?",
+     "grading_key": "- [1] ⁦Var(X) = pq⁩",
+     "final_resolution": "⁦Var(X) = pq⁩",
+     "notes": "",
+     "keywords": [
+      "Bernoulli variance"
+     ],
+     "distractors": [
+      "⁦Var(X) = p(1 + p)⁩",
+      "⁦Var(X) = p ÷ q⁩",
+      "⁦Var(X) = p²⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Dar azmayesh-e Bernooli ba ehtemal-e movaffaghiyat-e p va ehtemal-e shekast-e q = 1 − p, variyans kodam ast?",
+     "grading_key": "- [1] ⁦Var(X) = pq⁩",
+     "final_resolution": "⁦Var(X) = pq⁩",
+     "notes": "",
+     "keywords": [
+      "variyans-e Bernooli"
+     ],
+     "distractors": [
+      "⁦Var(X) = p(1 + p)⁩",
+      "⁦Var(X) = p ÷ q⁩",
+      "⁦Var(X) = p²⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 977,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (انحراف معیار)",
+    "en": "Chapter 7: Probability (Standard Deviation)",
+    "tr": "Fasl 7: Ehtemal (Enheraf-e Me'yar)",
+    "pages": "142–144"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "انحراف معیار (σ) یک متغیر تصادفی چه رابطه‌ای با واریانس آن دارد؟",
+     "grading_key": "- [1] ریشهٔ دوم مثبت واریانس است",
+     "final_resolution": "ریشهٔ دوم مثبت واریانس است",
+     "notes": "",
+     "keywords": [
+      "انحراف معیار"
+     ],
+     "distractors": [
+      "مجذور واریانس است",
+      "وارون واریانس است",
+      "تفاضل امید ریاضی و واریانس است"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "How is the standard deviation (σ) of a random variable related to its variance?",
+     "grading_key": "- [1] It is the positive square root of the variance",
+     "final_resolution": "It is the positive square root of the variance",
+     "notes": "",
+     "keywords": [
+      "standard deviation"
+     ],
+     "distractors": [
+      "It is the square of the variance",
+      "It is one over the variance",
+      "It is the expected value minus the variance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Enheraf-e me'yar (σ)-e yek moteghayyer-e tasadofi che rabete-i ba variyans-e an darad?",
+     "grading_key": "- [1] Rishe-ye dovvom-e mosbat-e variyans ast",
+     "final_resolution": "Rishe-ye dovvom-e mosbat-e variyans ast",
+     "notes": "",
+     "keywords": [
+      "enheraf-e me'yar"
+     ],
+     "distractors": [
+      "Majzoor-e variyans ast",
+      "Varoon-e variyans ast",
+      "Tafazol-e omid-e riazi va variyans ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 977,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَزْرَعَةُ» در عبارت زیر کدام است؟\n«الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ.»",
+     "grading_key": "- [1] کشتزار",
+     "final_resolution": "کشتزار",
+     "notes": "",
+     "keywords": [
+      "مَزْرَعَةُ"
+     ],
+     "distractors": [
+      "بازار",
+      "زندان",
+      "کوهستان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَزْرَعَةُ» mean in this saying?\n«الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ.»",
+     "grading_key": "- [1] A farm, a field",
+     "final_resolution": "A farm, a field",
+     "notes": "",
+     "keywords": [
+      "mazra'a (farm)"
+     ],
+     "distractors": [
+      "A market",
+      "A prison",
+      "A mountain range"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «mazra'atu» dar ebarat-e zir kodam ast?\n«الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ.»",
+     "grading_key": "- [1] Keshtzar",
+     "final_resolution": "Keshtzar",
+     "notes": "",
+     "keywords": [
+      "mazra'atu"
+     ],
+     "distractors": [
+      "Bazar",
+      "Zendan",
+      "Koohestan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 977,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سَقَطُهُ» در عبارت زیر کدام است؟\n«مَنْ کَثُرَ کَلَامُهُ کَثُرَ سَقَطُهُ.»",
+     "grading_key": "- [1] لغزش و خطای او",
+     "final_resolution": "لغزش و خطای او",
+     "notes": "",
+     "keywords": [
+      "سَقَطُهُ"
+     ],
+     "distractors": [
+      "ثروت او",
+      "دانش او",
+      "آرامش او"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سَقَطُهُ» mean in this saying?\n«مَنْ کَثُرَ کَلَامُهُ کَثُرَ سَقَطُهُ.»",
+     "grading_key": "- [1] His slips, his mistakes",
+     "final_resolution": "His slips, his mistakes",
+     "notes": "",
+     "keywords": [
+      "saqat (slip, error)"
+     ],
+     "distractors": [
+      "His wealth",
+      "His knowledge",
+      "His calm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «saqatuhu» dar ebarat-e zir kodam ast?\n«مَنْ کَثُرَ کَلَامُهُ کَثُرَ سَقَطُهُ.»",
+     "grading_key": "- [1] Laghzesh va khata-ye oo",
+     "final_resolution": "Laghzesh va khata-ye oo",
+     "notes": "",
+     "keywords": [
+      "saqatuhu"
+     ],
+     "distractors": [
+      "Servat-e oo",
+      "Danesh-e oo",
+      "Aramesh-e oo"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 977,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْجَهْلِ» در عبارت زیر کدام است؟\n«الْعِلْمُ حَیَاةُ الْقُلُوبِ مِنَ الْجَهْلِ.»",
+     "grading_key": "- [1] نادانی",
+     "final_resolution": "نادانی",
+     "notes": "",
+     "keywords": [
+      "الْجَهْلِ"
+     ],
+     "distractors": [
+      "دانایی",
+      "پاکدامنی",
+      "توانگری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْجَهْلِ» mean in this saying?\n«الْعِلْمُ حَیَاةُ الْقُلُوبِ مِنَ الْجَهْلِ.»",
+     "grading_key": "- [1] Ignorance",
+     "final_resolution": "Ignorance",
+     "notes": "",
+     "keywords": [
+      "al-jahl (ignorance)"
+     ],
+     "distractors": [
+      "Wisdom",
+      "Chastity",
+      "Wealth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-jahl» dar ebarat-e zir kodam ast?\n«الْعِلْمُ حَیَاةُ الْقُلُوبِ مِنَ الْجَهْلِ.»",
+     "grading_key": "- [1] Nadani",
+     "final_resolution": "Nadani",
+     "notes": "",
+     "keywords": [
+      "al-jahl"
+     ],
+     "distractors": [
+      "Danayi",
+      "Pakdamani",
+      "Tavangari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 977,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَفْسَهُ» در عبارت زیر کدام است؟\n«مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ.»",
+     "grading_key": "- [1] خودش، خویشتن",
+     "final_resolution": "خودش، خویشتن",
+     "notes": "",
+     "keywords": [
+      "نَفْسَهُ"
+     ],
+     "distractors": [
+      "بدنش",
+      "دارایی‌اش",
+      "پیرامونش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «نَفْسَهُ» mean in this saying?\n«مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ.»",
+     "grading_key": "- [1] Himself, his own self",
+     "final_resolution": "Himself, his own self",
+     "notes": "",
+     "keywords": [
+      "nafs (self)"
+     ],
+     "distractors": [
+      "His body",
+      "His property",
+      "His surroundings"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «nafsahu» dar ebarat-e zir kodam ast?\n«مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ.»",
+     "grading_key": "- [1] Khodash, khishtan",
+     "final_resolution": "Khodash, khishtan",
+     "notes": "",
+     "keywords": [
+      "nafsahu"
+     ],
+     "distractors": [
+      "Badanash",
+      "Darayi-ash",
+      "Piramoonash"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 977,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «طلیعه» در جملهٔ زیر چیست؟\n«در آن غربتکده، چشمان خسته‌ام به دنبال طلیعهٔ امید می‌گشت.»",
+     "grading_key": "- [1] آغاز و نخستین نشانهٔ هر چیز",
+     "final_resolution": "آغاز و نخستین نشانهٔ هر چیز",
+     "notes": "",
+     "keywords": [
+      "طلیعه"
+     ],
+     "distractors": [
+      "پایان کار",
+      "تاریکی نیمه‌شب",
+      "دفتر حساب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «طلیعه» mean in this sentence?\n«در آن غربتکده، چشمان خسته‌ام به دنبال طلیعهٔ امید می‌گشت.»",
+     "grading_key": "- [1] The first sign, the dawn of something",
+     "final_resolution": "The first sign, the dawn of something",
+     "notes": "",
+     "keywords": [
+      "tali'e (first sign, dawn)"
+     ],
+     "distractors": [
+      "The very end",
+      "Midnight darkness",
+      "An account book"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tali'e» dar jomle-ye zir chist?\n«در آن غربتکده، چشمان خسته‌ام به دنبال طلیعهٔ امید می‌گشت.»",
+     "grading_key": "- [1] Aghaz va nokhostin neshane-ye har chiz",
+     "final_resolution": "Aghaz va nokhostin neshane-ye har chiz",
+     "notes": "",
+     "keywords": [
+      "tali'e"
+     ],
+     "distractors": [
+      "Payan-e kar",
+      "Tariki-ye nime-shab",
+      "Daftar-e hesab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 977,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «خذلان» در جملهٔ زیر چیست؟\n«سرسپردگی کورکورانه به ظواهر فرهنگ بیگانه، مایهٔ خذلان و گمراهی است.»",
+     "grading_key": "- [1] خواری و بی‌یاور ماندن",
+     "final_resolution": "خواری و بی‌یاور ماندن",
+     "notes": "",
+     "keywords": [
+      "خذلان"
+     ],
+     "distractors": [
+      "پیروزی",
+      "سود",
+      "آرامش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «خذلان» mean in this sentence?\n«سرسپردگی کورکورانه به ظواهر فرهنگ بیگانه، مایهٔ خذلان و گمراهی است.»",
+     "grading_key": "- [1] Disgrace, being left without help",
+     "final_resolution": "Disgrace, being left without help",
+     "notes": "",
+     "keywords": [
+      "khezlan (being left helpless)"
+     ],
+     "distractors": [
+      "Victory",
+      "Profit",
+      "Peace"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «khezlan» dar jomle-ye zir chist?\n«سرسپردگی کورکورانه به ظواهر فرهنگ بیگانه، مایهٔ خذلان و گمراهی است.»",
+     "grading_key": "- [1] Khari va bi-yavar mandan",
+     "final_resolution": "Khari va bi-yavar mandan",
+     "notes": "",
+     "keywords": [
+      "khezlan"
+     ],
+     "distractors": [
+      "Piroozi",
+      "Sood",
+      "Aramesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 977,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «غدر» در جملهٔ زیر چیست؟\n«پهلوان از شنیدن خبر غدر و مکر دشمنان، دگرگون گشت.»",
+     "grading_key": "- [1] پیمان‌شکنی، خیانت",
+     "final_resolution": "پیمان‌شکنی، خیانت",
+     "notes": "",
+     "keywords": [
+      "غدر"
+     ],
+     "distractors": [
+      "یاری دلیرانه",
+      "بخشش",
+      "دادگری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «غدر» mean in this sentence?\n«پهلوان از شنیدن خبر غدر و مکر دشمنان، دگرگون گشت.»",
+     "grading_key": "- [1] Treachery, betrayal",
+     "final_resolution": "Treachery, betrayal",
+     "notes": "",
+     "keywords": [
+      "ghadr (treachery)"
+     ],
+     "distractors": [
+      "Brave support",
+      "Generosity",
+      "Justice"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ghadr» dar jomle-ye zir chist?\n«پهلوان از شنیدن خبر غدر و مکر دشمنان، دگرگون گشت.»",
+     "grading_key": "- [1] Peyman-shekani, khiyanat",
+     "final_resolution": "Peyman-shekani, khiyanat",
+     "notes": "",
+     "keywords": [
+      "ghadr"
+     ],
+     "distractors": [
+      "Yari-ye delirane",
+      "Bakhshesh",
+      "Dadgari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 977,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «درخواست و خواهش» است، کدام است؟",
+     "grading_key": "- [1] استدعا",
+     "final_resolution": "استدعا",
+     "notes": "",
+     "keywords": [
+      "استدعا"
+     ],
+     "distractors": [
+      "استدا",
+      "استضاد",
+      "اصتدعا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'request, plea'?",
+     "grading_key": "- [1] استدعا",
+     "final_resolution": "استدعا",
+     "notes": "",
+     "keywords": [
+      "ested'a (request)"
+     ],
+     "distractors": [
+      "استدا",
+      "استضاد",
+      "اصتدعا"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'darkhast va khahesh' ast, kodam ast?",
+     "grading_key": "- [1] استدعا",
+     "final_resolution": "استدعا",
+     "notes": "",
+     "keywords": [
+      "ested'a"
+     ],
+     "distractors": [
+      "استدا",
+      "استضاد",
+      "اصتدعا"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 977,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در تصفیهٔ زیستی فاضلاب، دمیدن هوا به حوضچه‌های لجن فعال تا باکتری‌های هوازی مواد آلی را تجزیه کنند، چه نام دارد؟",
+     "grading_key": "- [1] هوادهی (اکسایش زیستی)",
+     "final_resolution": "هوادهی (اکسایش زیستی)",
+     "notes": "",
+     "keywords": [
+      "هوادهی در تصفیهٔ فاضلاب"
+     ],
+     "distractors": [
+      "آشغال‌گیری",
+      "کلرزنی",
+      "گرفتن فلزات سنگین"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In biological sewage treatment, blowing air into activated-sludge tanks so aerobic bacteria break down organic matter is called what?",
+     "grading_key": "- [1] Aeration (biological oxidation)",
+     "final_resolution": "Aeration (biological oxidation)",
+     "notes": "",
+     "keywords": [
+      "aeration in sewage treatment"
+     ],
+     "distractors": [
+      "Screening",
+      "Chlorination",
+      "Removing heavy metals"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar tasfiye-ye zisti-ye fazelab, damidan-e hava be howzche-haye lajan-e fa'al ta bakteri-haye havazi mavad-e ali ra tajziye konand, che nam darad?",
+     "grading_key": "- [1] Hava-dehi (oksayesh-e zisti)",
+     "final_resolution": "Hava-dehi (oksayesh-e zisti)",
+     "notes": "",
+     "keywords": [
+      "hava-dehi dar tasfiye-ye fazelab"
+     ],
+     "distractors": [
+      "Ashghal-giri",
+      "Kolor-zani",
+      "Gereftan-e felezat-e sangin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 977,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در CPR بزرگسال، پاشنهٔ دست‌ها را دقیقاً کجا باید گذاشت؟",
+     "grading_key": "- [1] وسط قفسهٔ سینه، روی نیمهٔ پایینی جناغ",
+     "final_resolution": "وسط قفسهٔ سینه، روی نیمهٔ پایینی جناغ",
+     "notes": "",
+     "keywords": [
+      "جای دست‌ها در CPR"
+     ],
+     "distractors": [
+      "روی ترقوهٔ چپ",
+      "روی دنده‌های پایینی کناری",
+      "وسط شکم"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In adult CPR, where exactly should the heels of the hands go?",
+     "grading_key": "- [1] The centre of the chest, on the lower half of the breastbone",
+     "final_resolution": "The centre of the chest, on the lower half of the breastbone",
+     "notes": "",
+     "keywords": [
+      "hand position in CPR"
+     ],
+     "distractors": [
+      "On the left collarbone",
+      "On the lower side ribs",
+      "The middle of the belly"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar CPR bozorgsal, pashne-ye dast-ha ra daghighan koja bayad gozasht?",
+     "grading_key": "- [1] Vasat-e ghafase-ye sine, rooye nime-ye payini-ye jenagh",
+     "final_resolution": "Vasat-e ghafase-ye sine, rooye nime-ye payini-ye jenagh",
+     "notes": "",
+     "keywords": [
+      "jaye dast-ha dar CPR"
+     ],
+     "distractors": [
+      "Rooye targhove-ye chap",
+      "Rooye dande-haye payini-ye kenari",
+      "Vasat-e shekam"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 977,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "آتلی که برای بی‌حرکت کردن استخوان شکسته بسته می‌شود، باید کدام بخش‌ها را در بر بگیرد؟",
+     "grading_key": "- [1] مفصل بالا و مفصل پایین محل شکستگی",
+     "final_resolution": "مفصل بالا و مفصل پایین محل شکستگی",
+     "notes": "",
+     "keywords": [
+      "اندازهٔ آتل"
+     ],
+     "distractors": [
+      "فقط پوست روی زخم",
+      "کل ستون فقرات",
+      "فقط مفصل پایینی"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "A splint put on to keep a broken bone still must cover which parts?",
+     "grading_key": "- [1] The joint above and the joint below the break",
+     "final_resolution": "The joint above and the joint below the break",
+     "notes": "",
+     "keywords": [
+      "what a splint must cover"
+     ],
+     "distractors": [
+      "Only the skin over the wound",
+      "The whole spine",
+      "Only the joint below"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Ateli ke baraye bi-harekat kardan-e ostokhan-e shekaste baste mishavad, bayad kodam bakhsh-ha ra dar bar begirad?",
+     "grading_key": "- [1] Mafsal-e bala va mafsal-e payin-e mahall-e shekastegi",
+     "final_resolution": "Mafsal-e bala va mafsal-e payin-e mahall-e shekastegi",
+     "notes": "",
+     "keywords": [
+      "andaze-ye atel"
+     ],
+     "distractors": [
+      "Faghat poost-e rooye zakhm",
+      "Koll-e sotoon-e faghrat",
+      "Faghat mafsal-e payini"
+     ]
+    }
+   }
+  }
+ ]
+}

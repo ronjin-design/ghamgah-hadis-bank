@@ -498,6 +498,12 @@
    "format": 2,
    "file": "pack-0083.json",
    "sha256": "a4bd72a184eb6b11d6a038b5b1f27b0b0a9de5b6fc646179d067ecf2eb802da9"
+  },
+  {
+   "version": 84,
+   "format": 2,
+   "file": "pack-0084.json",
+   "sha256": "1ef3aee4b7238db641d4f9b2cb61a86fb6d512b880e8ec55e9b7d94d8bdf8bd1"
   }
  ]
 }
