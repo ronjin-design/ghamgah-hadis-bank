@@ -1,0 +1,1124 @@
+{
+ "version": 91,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 984,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام با ریشهٔ سوم)",
+    "en": "Chapter 3: Limits (Cube-Root 0/0)",
+    "tr": "Fasl 3: Had (Rishe-ye Sevvom)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦(x − 8) / (∛x − 2)⁩ وقتی ⁦x → 8⁩ کدام است؟",
+     "grading_key": "- [1] ⁦12⁩",
+     "final_resolution": "⁦12⁩",
+     "notes": "",
+     "keywords": [
+      "حد با ریشهٔ سوم"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦6⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of (x − 8) / (∛x − 2) as x → 8?",
+     "grading_key": "- [1] ⁦12⁩",
+     "final_resolution": "⁦12⁩",
+     "notes": "",
+     "keywords": [
+      "cube-root limit"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦6⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e (x − 8) / (∛x − 2) vaghti x → 8 kodam ast?",
+     "grading_key": "- [1] ⁦12⁩",
+     "final_resolution": "⁦12⁩",
+     "notes": "",
+     "keywords": [
+      "had ba rishe-ye sevvom"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦6⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 984,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (شتاب از معادلهٔ حرکت)",
+    "en": "Chapter 4: The Derivative (Acceleration from Position)",
+    "tr": "Fasl 4: Moshtagh (Shetab)",
+    "pages": "78–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "اگر معادلهٔ مکان جسمی ⁦f(t) = t³ − 3t² + 2⁩ باشد، شتاب لحظه‌ای آن ⁦a(t)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦6t − 6⁩",
+     "final_resolution": "⁦6t − 6⁩",
+     "notes": "",
+     "keywords": [
+      "شتاب از معادلهٔ مکان"
+     ],
+     "distractors": [
+      "⁦3t² − 6t⁩",
+      "⁦6t⁩",
+      "⁦3t − 3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "If an object's position is f(t) = t³ − 3t² + 2, what is its instantaneous acceleration a(t)?",
+     "grading_key": "- [1] ⁦6t − 6⁩",
+     "final_resolution": "⁦6t − 6⁩",
+     "notes": "",
+     "keywords": [
+      "acceleration from position"
+     ],
+     "distractors": [
+      "⁦3t² − 6t⁩",
+      "⁦6t⁩",
+      "⁦3t − 3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Agar moadele-ye makan-e jesmi f(t) = t³ − 3t² + 2 bashad, shetab-e lahze-i-ye an a(t) kodam ast?",
+     "grading_key": "- [1] ⁦6t − 6⁩",
+     "final_resolution": "⁦6t − 6⁩",
+     "notes": "",
+     "keywords": [
+      "shetab az moadele-ye makan"
+     ],
+     "distractors": [
+      "⁦3t² − 6t⁩",
+      "⁦6t⁩",
+      "⁦3t − 3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 984,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام ۰ × ∞)",
+    "en": "Chapter 3: Limits (0 × ∞)",
+    "tr": "Fasl 3: Had (0 × ∞)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "برای رفع ابهام «صفر ضرب در بی‌نهایت» (۰ × ∞) در یک حد، نخستین کار مناسب چیست؟",
+     "grading_key": "- [1] نوشتن عبارت به شکل کسری که ابهام ۰/۰ یا ∞/∞ داشته باشد",
+     "final_resolution": "نوشتن عبارت به شکل کسری که ابهام ۰/۰ یا ∞/∞ داشته باشد",
+     "notes": "",
+     "keywords": [
+      "ابهام صفر ضرب در بی‌نهایت"
+     ],
+     "distractors": [
+      "گذاشتن صفر به جای x",
+      "مشتق گرفتن با قاعدهٔ خارج قسمت",
+      "فاکتور گرفتن از کوچک‌ترین توان"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "To clear a \"zero times infinity\" (0 × ∞) form in a limit, what is the right first step?",
+     "grading_key": "- [1] Rewrite it as a fraction giving 0/0 or ∞/∞",
+     "final_resolution": "Rewrite it as a fraction giving 0/0 or ∞/∞",
+     "notes": "",
+     "keywords": [
+      "zero times infinity form"
+     ],
+     "distractors": [
+      "Put zero in place of x",
+      "Differentiate with the quotient rule",
+      "Factor out the lowest power"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Baraye rafe'-e ebham-e \"sefr zarb dar binahayat\" (0 × ∞) dar yek had, nokhostin kar-e monaseb chist?",
+     "grading_key": "- [1] Neveshtan-e ebarat be shekl-e kasri ke ebham-e 0/0 ya ∞/∞ dashte bashad",
+     "final_resolution": "Neveshtan-e ebarat be shekl-e kasri ke ebham-e 0/0 ya ∞/∞ dashte bashad",
+     "notes": "",
+     "keywords": [
+      "ebham-e sefr zarb dar binahayat"
+     ],
+     "distractors": [
+      "Gozashtan-e sefr be jaye x",
+      "Moshtagh gereftan ba ghaede-ye kharej-ghesmat",
+      "Faktor gereftan az koochak-tarin tavan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 984,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَغْواً» در عبارت زیر کدام است؟\n«لَا یَسْمَعُونَ فِیهَا لَغْواً وَ لَا کِذَّاباً.»",
+     "grading_key": "- [1] سخن بیهوده",
+     "final_resolution": "سخن بیهوده",
+     "notes": "",
+     "keywords": [
+      "لَغْواً"
+     ],
+     "distractors": [
+      "سخن حکیمانه",
+      "آهنگ زیبا",
+      "تأیید راست"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَغْواً» mean in this verse?\n«لَا یَسْمَعُونَ فِیهَا لَغْواً وَ لَا کِذَّاباً.»",
+     "grading_key": "- [1] Idle, empty talk",
+     "final_resolution": "Idle, empty talk",
+     "notes": "",
+     "keywords": [
+      "laghw (idle talk)"
+     ],
+     "distractors": [
+      "Wise words",
+      "A lovely tune",
+      "True confirmation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «laghwan» dar ebarat-e zir kodam ast?\n«لَا یَسْمَعُونَ فِیهَا لَغْواً وَ لَا کِذَّاباً.»",
+     "grading_key": "- [1] Sokhan-e bihoode",
+     "final_resolution": "Sokhan-e bihoode",
+     "notes": "",
+     "keywords": [
+      "laghwan"
+     ],
+     "distractors": [
+      "Sokhan-e hakimane",
+      "Ahang-e ziba",
+      "Ta'yid-e rast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 984,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «خِطَاباً» در عبارت زیر کدام است؟\n«الرَّحْمَنِ لَا یَمْلِکُونَ مِنْهُ خِطَاباً.»",
+     "grading_key": "- [1] حق سخن گفتن",
+     "final_resolution": "حق سخن گفتن",
+     "notes": "",
+     "keywords": [
+      "خِطَاباً"
+     ],
+     "distractors": [
+      "مالیات",
+      "دیوار",
+      "خاموشی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «خِطَاباً» mean in this verse?\n«الرَّحْمَنِ لَا یَمْلِکُونَ مِنْهُ خِطَاباً.»",
+     "grading_key": "- [1] The right to speak, to address",
+     "final_resolution": "The right to speak, to address",
+     "notes": "",
+     "keywords": [
+      "khitab (right to speak)"
+     ],
+     "distractors": [
+      "A tax",
+      "A wall",
+      "Silence"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «khitaban» dar ebarat-e zir kodam ast?\n«الرَّحْمَنِ لَا یَمْلِکُونَ مِنْهُ خِطَاباً.»",
+     "grading_key": "- [1] Hagh-e sokhan goftan",
+     "final_resolution": "Hagh-e sokhan goftan",
+     "notes": "",
+     "keywords": [
+      "khitaban"
+     ],
+     "distractors": [
+      "Maliyat",
+      "Divar",
+      "Khamooshi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 984,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «صَفّاً» در عبارت زیر کدام است؟\n«یَوْمَ یَقُومُ الرُّوحُ وَ الْمَلَائِکَةُ صَفّاً.»",
+     "grading_key": "- [1] صف‌بسته، به صف",
+     "final_resolution": "صف‌بسته، به صف",
+     "notes": "",
+     "keywords": [
+      "صَفّاً"
+     ],
+     "distractors": [
+      "پراکنده",
+      "پنهان",
+      "شتابان در گردش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «صَفّاً» mean in this verse?\n«یَوْمَ یَقُومُ الرُّوحُ وَ الْمَلَائِکَةُ صَفّاً.»",
+     "grading_key": "- [1] In rows, in ranks",
+     "final_resolution": "In rows, in ranks",
+     "notes": "",
+     "keywords": [
+      "saff (in rows)"
+     ],
+     "distractors": [
+      "Scattered",
+      "Hidden",
+      "Rushing round"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «saffan» dar ebarat-e zir kodam ast?\n«یَوْمَ یَقُومُ الرُّوحُ وَ الْمَلَائِکَةُ صَفّاً.»",
+     "grading_key": "- [1] Saf-baste, be saf",
+     "final_resolution": "Saf-baste, be saf",
+     "notes": "",
+     "keywords": [
+      "saffan"
+     ],
+     "distractors": [
+      "Parakande",
+      "Penhan",
+      "Shetaban dar gardesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 984,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شَاءَ» در عبارت زیر کدام است؟\n«فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآباً.»",
+     "grading_key": "- [1] خواست",
+     "final_resolution": "خواست",
+     "notes": "",
+     "keywords": [
+      "شَاءَ"
+     ],
+     "distractors": [
+      "نپذیرفت",
+      "فراموش کرد",
+      "مرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شَاءَ» mean in this verse?\n«فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآباً.»",
+     "grading_key": "- [1] Willed, wished",
+     "final_resolution": "Willed, wished",
+     "notes": "",
+     "keywords": [
+      "sha'a (willed)"
+     ],
+     "distractors": [
+      "Refused",
+      "Forgot",
+      "Died"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sha'a» dar ebarat-e zir kodam ast?\n«فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآباً.»",
+     "grading_key": "- [1] Khast",
+     "final_resolution": "Khast",
+     "notes": "",
+     "keywords": [
+      "sha'a"
+     ],
+     "distractors": [
+      "Napazireft",
+      "Faramoosh kard",
+      "Mord"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 984,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تُرَاباً» در عبارت زیر کدام است؟\n«وَ یَقُولُ الْکَافِرُ یَا لَیْتَنِی کُنْتُ تُرَاباً.»",
+     "grading_key": "- [1] خاک",
+     "final_resolution": "خاک",
+     "notes": "",
+     "keywords": [
+      "تُرَاباً"
+     ],
+     "distractors": [
+      "آتش",
+      "درخت",
+      "سنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تُرَاباً» mean in this verse?\n«وَ یَقُولُ الْکَافِرُ یَا لَیْتَنِی کُنْتُ تُرَاباً.»",
+     "grading_key": "- [1] Dust, earth",
+     "final_resolution": "Dust, earth",
+     "notes": "",
+     "keywords": [
+      "turab (dust)"
+     ],
+     "distractors": [
+      "Fire",
+      "A tree",
+      "Stone"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «turaban» dar ebarat-e zir kodam ast?\n«وَ یَقُولُ الْکَافِرُ یَا لَیْتَنِی کُنْتُ تُرَاباً.»",
+     "grading_key": "- [1] Khak",
+     "final_resolution": "Khak",
+     "notes": "",
+     "keywords": [
+      "turaban"
+     ],
+     "distractors": [
+      "Atash",
+      "Derakht",
+      "Sang"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 984,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «عطوفت» در جملهٔ زیر چیست؟\n«آغوش مادر، کانون عطوفت و شفقت بی‌پایان است.»",
+     "grading_key": "- [1] مهربانی و دلسوزی",
+     "final_resolution": "مهربانی و دلسوزی",
+     "notes": "",
+     "keywords": [
+      "عطوفت"
+     ],
+     "distractors": [
+      "دشمنی و تندی",
+      "هراس",
+      "کمبود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «عطوفت» mean in this sentence?\n«آغوش مادر، کانون عطوفت و شفقت بی‌پایان است.»",
+     "grading_key": "- [1] Tenderness, affection",
+     "final_resolution": "Tenderness, affection",
+     "notes": "",
+     "keywords": [
+      "otoofat (tenderness)"
+     ],
+     "distractors": [
+      "Hostility and harshness",
+      "Panic",
+      "Shortage"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «otoofat» dar jomle-ye zir chist?\n«آغوش مادر، کانون عطوفت و شفقت بی‌پایان است.»",
+     "grading_key": "- [1] Mehrabani va delsoozi",
+     "final_resolution": "Mehrabani va delsoozi",
+     "notes": "",
+     "keywords": [
+      "otoofat"
+     ],
+     "distractors": [
+      "Doshmani va tondi",
+      "Heras",
+      "Kambood"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 984,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مملو» در جملهٔ زیر چیست؟\n«دل آن عارف وارسته، مملو از عشق به کمال و معرفت پروردگار بود.»",
+     "grading_key": "- [1] پر و آکنده",
+     "final_resolution": "پر و آکنده",
+     "notes": "",
+     "keywords": [
+      "مملو"
+     ],
+     "distractors": [
+      "تهی",
+      "شکسته",
+      "غافل"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مملو» mean in this sentence?\n«دل آن عارف وارسته، مملو از عشق به کمال و معرفت پروردگار بود.»",
+     "grading_key": "- [1] Full, filled",
+     "final_resolution": "Full, filled",
+     "notes": "",
+     "keywords": [
+      "mamloo (full)"
+     ],
+     "distractors": [
+      "Empty",
+      "Broken",
+      "Careless"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mamloo» dar jomle-ye zir chist?\n«دل آن عارف وارسته، مملو از عشق به کمال و معرفت پروردگار بود.»",
+     "grading_key": "- [1] Por va akande",
+     "final_resolution": "Por va akande",
+     "notes": "",
+     "keywords": [
+      "mamloo"
+     ],
+     "distractors": [
+      "Tohi",
+      "Shekaste",
+      "Ghafel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 984,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «سموم» در جملهٔ زیر چیست؟\n«در آن کویر تفته، ذرات شن همواره دستخوش بادهای سموم بودند.»",
+     "grading_key": "- [1] باد سوزان و زهرآگین",
+     "final_resolution": "باد سوزان و زهرآگین",
+     "notes": "",
+     "keywords": [
+      "سموم"
+     ],
+     "distractors": [
+      "کولاک برف",
+      "نسیم مرطوب صبحگاهی",
+      "شیار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «سموم» mean in this sentence?\n«در آن کویر تفته، ذرات شن همواره دستخوش بادهای سموم بودند.»",
+     "grading_key": "- [1] Scorching, poisonous desert wind",
+     "final_resolution": "Scorching, poisonous desert wind",
+     "notes": "",
+     "keywords": [
+      "samoom (scorching wind)"
+     ],
+     "distractors": [
+      "A snowstorm",
+      "A damp morning breeze",
+      "A furrow"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «samoom» dar jomle-ye zir chist?\n«در آن کویر تفته، ذرات شن همواره دستخوش بادهای سموم بودند.»",
+     "grading_key": "- [1] Bad-e soozan va zahr-agin",
+     "final_resolution": "Bad-e soozan va zahr-agin",
+     "notes": "",
+     "keywords": [
+      "samoom"
+     ],
+     "distractors": [
+      "Koolak-e barf",
+      "Nasim-e martoob-e sobhgahi",
+      "Shiyar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 984,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: سجع)",
+    "en": "Persian 3 (Literary Devices: Saj')",
+    "tr": "Adabiyat-e Farsi 3 (Saj')",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "آوردن واژه‌های هم‌وزن یا هم‌قافیه در پایان جمله‌های یک متن نثر، برای پدید آوردن آهنگ، کدام آرایه است؟",
+     "grading_key": "- [1] سجع",
+     "final_resolution": "سجع",
+     "notes": "",
+     "keywords": [
+      "سجع"
+     ],
+     "distractors": [
+      "جناس تام",
+      "حسن تعلیل",
+      "اغراق"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Ending the sentences of a prose passage with words that match in weight or rhyme, to give it rhythm, is which device?",
+     "grading_key": "- [1] Saj' (rhymed prose)",
+     "final_resolution": "Saj' (rhymed prose)",
+     "notes": "",
+     "keywords": [
+      "saj' (rhymed prose)"
+     ],
+     "distractors": [
+      "Jinas-e tam (perfect pun)",
+      "Husn-e ta'lil (poetic cause)",
+      "Eghragh (hyperbole)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Avardan-e vazhe-haye ham-vazn ya ham-ghafiye dar payan-e jomle-haye yek matn-e nasr, baraye padid avardan-e ahang, kodam araye ast?",
+     "grading_key": "- [1] Saj'",
+     "final_resolution": "Saj'",
+     "notes": "",
+     "keywords": [
+      "saj'"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Hosn-e ta'lil",
+      "Eghragh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 984,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «حوضچه‌ها و تشت‌های شست‌وشو» است، کدام است؟",
+     "grading_key": "- [1] آبزن‌ها",
+     "final_resolution": "آبزن‌ها",
+     "notes": "",
+     "keywords": [
+      "آبزن"
+     ],
+     "distractors": [
+      "آبذن‌ها",
+      "آبظن‌ها",
+      "آبضن‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'wash-basins, bathing tubs'?",
+     "grading_key": "- [1] آبزن‌ها",
+     "final_resolution": "آبزن‌ها",
+     "notes": "",
+     "keywords": [
+      "abzan (wash-basin)"
+     ],
+     "distractors": [
+      "آبذن‌ها",
+      "آبظن‌ها",
+      "آبضن‌ها"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'howzche-ha va tasht-haye shost-o-shoo' ast, kodam ast?",
+     "grading_key": "- [1] آبزن‌ها",
+     "final_resolution": "آبزن‌ها",
+     "notes": "",
+     "keywords": [
+      "abzan"
+     ],
+     "distractors": [
+      "آبذن‌ها",
+      "آبظن‌ها",
+      "آبضن‌ها"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 984,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "یکای اندازه‌گیری بسامد صوت (شمار لرزش‌ها در ثانیه)، که زیر یا بم بودن صدا را نشان می‌دهد، کدام است؟",
+     "grading_key": "- [1] هرتز (Hz)",
+     "final_resolution": "هرتز (Hz)",
+     "notes": "",
+     "keywords": [
+      "هرتز"
+     ],
+     "distractors": [
+      "دسی‌بل (dB)",
+      "پاسکال (Pa)",
+      "نیوتن (N)"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What is the unit for the frequency of a sound (vibrations per second), which shows how high or low it is?",
+     "grading_key": "- [1] Hertz (Hz)",
+     "final_resolution": "Hertz (Hz)",
+     "notes": "",
+     "keywords": [
+      "hertz"
+     ],
+     "distractors": [
+      "Decibel (dB)",
+      "Pascal (Pa)",
+      "Newton (N)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Yeka-ye andaze-giri-ye basamad-e soot (shomar-e larzesh-ha dar sanie), ke zir ya bam boodan-e seda ra neshan midahad, kodam ast?",
+     "grading_key": "- [1] Hertz (Hz)",
+     "final_resolution": "Hertz (Hz)",
+     "notes": "",
+     "keywords": [
+      "hertz"
+     ],
+     "distractors": [
+      "Desibel (dB)",
+      "Paskal (Pa)",
+      "Niyootan (N)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 984,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام عارضهٔ فشار خون بالای درازمدت، با آسیب به مویرگ‌های شبکیهٔ چشم، به تاری دید یا نابینایی می‌انجامد؟",
+     "grading_key": "- [1] آسیب شبکیه (رتینوپاتی)",
+     "final_resolution": "آسیب شبکیه (رتینوپاتی)",
+     "notes": "",
+     "keywords": [
+      "آسیب شبکیه در فشار خون"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "دیابت نوع ۲",
+      "پوکی استخوان"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which complication of long-term high blood pressure damages the tiny vessels of the retina and leads to blurred vision or blindness?",
+     "grading_key": "- [1] Retinopathy (damage to the retina)",
+     "final_resolution": "Retinopathy (damage to the retina)",
+     "notes": "",
+     "keywords": [
+      "hypertensive retinopathy"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Type 2 diabetes",
+      "Osteoporosis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam areze-ye feshar-e khoon-e bala-ye deraz-moddat, ba asib be mooyrag-haye shabakiye-ye cheshm, be tari-ye did ya nabinayi mianjamad?",
+     "grading_key": "- [1] Asib-e shabakiye (retinopati)",
+     "final_resolution": "Asib-e shabakiye (retinopati)",
+     "notes": "",
+     "keywords": [
+      "asib-e shabakiye dar feshar-e khoon"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Diabet-e no'-e 2",
+      "Pooki-ye ostokhan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 984,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کسی که نشانه‌های بیماری‌اش از میان رفته ولی در دورهٔ نقاهت هنوز عامل بیماری را به دیگران می‌دهد، چه نام دارد؟",
+     "grading_key": "- [1] ناقل دورهٔ نقاهت",
+     "final_resolution": "ناقل دورهٔ نقاهت",
+     "notes": "",
+     "keywords": [
+      "ناقل دورهٔ نقاهت"
+     ],
+     "distractors": [
+      "ناقل دورهٔ نهفتگی",
+      "مخزن بیماری",
+      "حشرهٔ ناقل"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Someone whose symptoms have gone but who still passes the disease agent to others while recovering is called what?",
+     "grading_key": "- [1] A convalescent carrier",
+     "final_resolution": "A convalescent carrier",
+     "notes": "",
+     "keywords": [
+      "convalescent carrier"
+     ],
+     "distractors": [
+      "An incubation carrier",
+      "A reservoir",
+      "An insect vector"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kasi ke neshane-haye bimari-ash az miyan rafte vali dar dowre-ye nekahat hanooz amel-e bimari ra be digaran midahad, che nam darad?",
+     "grading_key": "- [1] Naghel-e dowre-ye nekahat",
+     "final_resolution": "Naghel-e dowre-ye nekahat",
+     "notes": "",
+     "keywords": [
+      "naghel-e dowre-ye nekahat"
+     ],
+     "distractors": [
+      "Naghel-e dowre-ye nahoftegi",
+      "Makhzan-e bimari",
+      "Hashare-ye naghel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 984,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام پسماند بسیار خطرناک، به سبب پرتوهای یونیزان کشنده و ماندگاری بسیار دراز، باید در پوشش‌های ضخیم بتنی در ژرفای زمین دفن شود؟",
+     "grading_key": "- [1] پسماند پرتوزا (هسته‌ای)",
+     "final_resolution": "پسماند پرتوزا (هسته‌ای)",
+     "notes": "",
+     "keywords": [
+      "پسماند پرتوزا"
+     ],
+     "distractors": [
+      "کود کمپوست",
+      "بی‌فنیل‌های پلی‌کلره",
+      "لجن کادمیوم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which very dangerous waste, because of its deadly ionising radiation and very long life, must be buried deep underground in thick concrete?",
+     "grading_key": "- [1] Radioactive (nuclear) waste",
+     "final_resolution": "Radioactive (nuclear) waste",
+     "notes": "",
+     "keywords": [
+      "radioactive waste"
+     ],
+     "distractors": [
+      "Compost",
+      "PCBs",
+      "Cadmium sludge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam pasmand-e besyar khatarnak, be sabab-e parto-haye yonizan-e koshande va mandegari-ye besyar deraz, bayad dar pooshesh-haye zakhim-e betoni dar zharfa-ye zamin dafn shavad?",
+     "grading_key": "- [1] Pasmand-e partoza (haste-i)",
+     "final_resolution": "Pasmand-e partoza (haste-i)",
+     "notes": "",
+     "keywords": [
+      "pasmand-e partoza"
+     ],
+     "distractors": [
+      "Kood-e kompost",
+      "Bi-fenil-haye poli-kolore",
+      "Lajan-e kadmiyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 984,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "آسیب پیش‌رونده به صافی‌های کلیه (نفرون‌ها) بر اثر دیابت کنترل‌نشده، که سرانجام به نارسایی کلیه می‌رسد، چه نام دارد؟",
+     "grading_key": "- [1] بیماری کلیوی دیابتی (نفروپاتی)",
+     "final_resolution": "بیماری کلیوی دیابتی (نفروپاتی)",
+     "notes": "",
+     "keywords": [
+      "آسیب کلیه در دیابت"
+     ],
+     "distractors": [
+      "آسیب شبکیه در فشار خون",
+      "تصلب شرایین",
+      "پوکی استخوان"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the gradual damage to the kidney filters (nephrons) from uncontrolled diabetes, ending in kidney failure, called?",
+     "grading_key": "- [1] Diabetic kidney disease (nephropathy)",
+     "final_resolution": "Diabetic kidney disease (nephropathy)",
+     "notes": "",
+     "keywords": [
+      "diabetic kidney disease"
+     ],
+     "distractors": [
+      "Hypertensive retinopathy",
+      "Atherosclerosis",
+      "Osteoporosis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Asib-e pish-ravande be safi-haye kolie (nefron-ha) bar asar-e diabet-e kontrol-nashode, ke saranjam be narasayi-ye kolie miresad, che nam darad?",
+     "grading_key": "- [1] Bimari-ye koliyavi-ye diabeti (nefropati)",
+     "final_resolution": "Bimari-ye koliyavi-ye diabeti (nefropati)",
+     "notes": "",
+     "keywords": [
+      "asib-e kolie dar diabet"
+     ],
+     "distractors": [
+      "Asib-e shabakiye dar feshar-e khoon",
+      "Tasallob-e sharayin",
+      "Pooki-ye ostokhan"
+     ]
+    }
+   }
+  }
+ ]
+}
