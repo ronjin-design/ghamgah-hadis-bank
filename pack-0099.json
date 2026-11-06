@@ -1,0 +1,880 @@
+{
+ "version": 99,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 992,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد و پیوستگی (قضیهٔ مقدار میانی)",
+    "en": "Chapter 3: Limits and Continuity (Intermediate Value Theorem)",
+    "tr": "Fasl 3: Had (Meghdar-e Miyani)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "طبق قضیهٔ مقدار میانی، اگر ⁦f⁩ روی ⁦[a, b]⁩ پیوسته باشد و عدد ⁦C⁩ بین ⁦f(a)⁩ و ⁦f(b)⁩ باشد، دست‌کم یک ⁦c⁩ در ⁦(a, b)⁩ هست که ⁦f(c)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦C⁩",
+     "final_resolution": "⁦C⁩",
+     "notes": "",
+     "keywords": [
+      "قضیهٔ مقدار میانی"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(a) + f(b)) / 2⁩",
+      "⁦f(a) · f(b)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "By the intermediate value theorem, if f is continuous on [a, b] and C lies between f(a) and f(b), there is at least one c in (a, b) with f(c) equal to what?",
+     "grading_key": "- [1] ⁦C⁩",
+     "final_resolution": "⁦C⁩",
+     "notes": "",
+     "keywords": [
+      "intermediate value theorem"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(a) + f(b)) / 2⁩",
+      "⁦f(a) · f(b)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Tebgh-e ghaziye-ye meghdar-e miyani, agar f rooye [a, b] peyvaste bashad va adad-e C beyn-e f(a) va f(b) bashad, dast-kam yek c dar (a, b) hast ke f(c) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦C⁩",
+     "final_resolution": "⁦C⁩",
+     "notes": "",
+     "keywords": [
+      "ghaziye-ye meghdar-e miyani"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦(f(a) + f(b)) / 2⁩",
+      "⁦f(a) · f(b)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 992,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (نقطهٔ بازگشت)",
+    "en": "Chapter 4: The Derivative (Cusp)",
+    "tr": "Fasl 4: Moshtagh (Noghte-ye Bazgasht)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "نقطه‌ای روی نمودار یک تابع پیوسته که مشتق چپ و راست در آن هر دو بی‌نهایت ولی با علامت‌های مخالف‌اند (یکی ∞+ و دیگری ∞−)، چه نام دارد؟",
+     "grading_key": "- [1] نقطهٔ بازگشت",
+     "final_resolution": "نقطهٔ بازگشت",
+     "notes": "",
+     "keywords": [
+      "نقطهٔ بازگشت"
+     ],
+     "distractors": [
+      "نقطهٔ عطف",
+      "نقطهٔ مماس قائم با علامت‌های یکسان",
+      "رأس مجانب افقی"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is a point on the graph of a continuous function called where the left and right derivatives are both infinite but with opposite signs (one +∞, one −∞)?",
+     "grading_key": "- [1] A cusp",
+     "final_resolution": "A cusp",
+     "notes": "",
+     "keywords": [
+      "cusp"
+     ],
+     "distractors": [
+      "An inflection point",
+      "A vertical tangent with matching signs",
+      "The vertex of a horizontal asymptote"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Noghte-i rooye nemoodar-e yek tabe'-e peyvaste ke moshtagh-e chap va rast dar an har do binahayat vali ba alamat-haye mokhalef-and (yeki +∞ va digari −∞), che nam darad?",
+     "grading_key": "- [1] Noghte-ye bazgasht",
+     "final_resolution": "Noghte-ye bazgasht",
+     "notes": "",
+     "keywords": [
+      "noghte-ye bazgasht"
+     ],
+     "distractors": [
+      "Noghte-ye atf",
+      "Noghte-ye momas-e ghaem ba alamat-haye yeksan",
+      "Ra's-e mojaneb-e ofoghi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 992,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (یکنوایی تفاضل دو تابع)",
+    "en": "Chapter 1: Functions (Monotonicity of a Difference)",
+    "tr": "Fasl 1: Tabe' (Tafazol-e Do Tabe')",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر ⁦f⁩ اکیداً صعودی و ⁦g⁩ اکیداً نزولی باشد، ⁦f − g⁩ چگونه است؟",
+     "grading_key": "- [1] اکیداً صعودی",
+     "final_resolution": "اکیداً صعودی",
+     "notes": "",
+     "keywords": [
+      "یکنوایی تفاضل توابع"
+     ],
+     "distractors": [
+      "اکیداً نزولی",
+      "ثابت",
+      "متناوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If f is strictly increasing and g is strictly decreasing, what is f − g?",
+     "grading_key": "- [1] Strictly increasing",
+     "final_resolution": "Strictly increasing",
+     "notes": "",
+     "keywords": [
+      "monotonicity of a difference"
+     ],
+     "distractors": [
+      "Strictly decreasing",
+      "Constant",
+      "Periodic"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar f akidan so'oodi va g akidan nozooli bashad, f − g chegoone ast?",
+     "grading_key": "- [1] Akidan so'oodi",
+     "final_resolution": "Akidan so'oodi",
+     "notes": "",
+     "keywords": [
+      "yeknavayi-ye tafazol-e tavabe'"
+     ],
+     "distractors": [
+      "Akidan nozooli",
+      "Sabet",
+      "Motanaveb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 992,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (قضیهٔ فشردگی)",
+    "en": "Chapter 3: Limits (Squeeze Theorem)",
+    "tr": "Fasl 3: Had (Feshordegi)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦[x] / x⁩ وقتی ⁦x → +∞⁩ (با قضیهٔ فشردگی) کدام است؟",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "قضیهٔ فشردگی"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦1/2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of [x] / x as x → +∞ (using the squeeze theorem)?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "squeeze theorem"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦1/2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e [x] / x vaghti x → +∞ (ba ghaziye-ye feshordegi) kodam ast?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "ghaziye-ye feshordegi"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦1/2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 992,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَیْلٌ» در عبارت زیر کدام است؟\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] وای بر، نابودی",
+     "final_resolution": "وای بر، نابودی",
+     "notes": "",
+     "keywords": [
+      "وَیْلٌ"
+     ],
+     "distractors": [
+      "خوشا",
+      "سود فراوان",
+      "رودی روان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَیْلٌ» mean in this verse?\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] Woe to, ruin",
+     "final_resolution": "Woe to, ruin",
+     "notes": "",
+     "keywords": [
+      "wayl (woe)"
+     ],
+     "distractors": [
+      "Blessed is",
+      "Great profit",
+      "A flowing river"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «waylun» dar ebarat-e zir kodam ast?\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] Vay bar, naboodi",
+     "final_resolution": "Vay bar, naboodi",
+     "notes": "",
+     "keywords": [
+      "waylun"
+     ],
+     "distractors": [
+      "Khosha",
+      "Sood-e faravan",
+      "Roodi ravan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 992,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمُطَفِّفِینَ» در عبارت زیر کدام است؟\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] کم‌فروشان",
+     "final_resolution": "کم‌فروشان",
+     "notes": "",
+     "keywords": [
+      "الْمُطَفِّفِینَ"
+     ],
+     "distractors": [
+      "بازرگانان درستکار",
+      "بخشندگان",
+      "کشاورزان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمُطَفِّفِینَ» mean in this verse?\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] Those who give short measure",
+     "final_resolution": "Those who give short measure",
+     "notes": "",
+     "keywords": [
+      "al-mutaffifin (those who give short measure)"
+     ],
+     "distractors": [
+      "Honest traders",
+      "Generous givers",
+      "Farmers"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-mutaffifin» dar ebarat-e zir kodam ast?\n«وَیْلٌ لِلْمُطَفِّفِینَ.»",
+     "grading_key": "- [1] Kam-forooshan",
+     "final_resolution": "Kam-forooshan",
+     "notes": "",
+     "keywords": [
+      "al-mutaffifin"
+     ],
+     "distractors": [
+      "Bazarganan-e dorostkar",
+      "Bakhshandegan",
+      "Keshavarzan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 992,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَسْتَوْفُونَ» در عبارت زیر کدام است؟\n«الَّذِینَ إِذَا اکْتَالُوا عَلَى النَّاسِ یَسْتَوْفُونَ.»",
+     "grading_key": "- [1] تمام و کامل می‌گیرند",
+     "final_resolution": "تمام و کامل می‌گیرند",
+     "notes": "",
+     "keywords": [
+      "یَسْتَوْفُونَ"
+     ],
+     "distractors": [
+      "کم می‌دهند",
+      "زیان می‌بینند",
+      "پنهان می‌کنند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَسْتَوْفُونَ» mean in this verse?\n«الَّذِینَ إِذَا اکْتَالُوا عَلَى النَّاسِ یَسْتَوْفُونَ.»",
+     "grading_key": "- [1] They take in full",
+     "final_resolution": "They take in full",
+     "notes": "",
+     "keywords": [
+      "yastawfun (take in full)"
+     ],
+     "distractors": [
+      "They give short",
+      "They lose money",
+      "They hide things"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yastawfun» dar ebarat-e zir kodam ast?\n«الَّذِینَ إِذَا اکْتَالُوا عَلَى النَّاسِ یَسْتَوْفُونَ.»",
+     "grading_key": "- [1] Tamam va kamel migirand",
+     "final_resolution": "Tamam va kamel migirand",
+     "notes": "",
+     "keywords": [
+      "yastawfun"
+     ],
+     "distractors": [
+      "Kam midahand",
+      "Ziyan mibinand",
+      "Penhan mikonand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 992,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یُخْسِرُونَ» در عبارت زیر کدام است؟\n«وَ إِذَا کَالُوهُمْ أَوْ وَزَنُوهُمْ یُخْسِرُونَ.»",
+     "grading_key": "- [1] کم می‌گذارند",
+     "final_resolution": "کم می‌گذارند",
+     "notes": "",
+     "keywords": [
+      "یُخْسِرُونَ"
+     ],
+     "distractors": [
+      "بیشتر می‌دهند",
+      "می‌ستایند",
+      "می‌خوانند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یُخْسِرُونَ» mean in this verse?\n«وَ إِذَا کَالُوهُمْ أَوْ وَزَنُوهُمْ یُخْسِرُونَ.»",
+     "grading_key": "- [1] They give less than is due",
+     "final_resolution": "They give less than is due",
+     "notes": "",
+     "keywords": [
+      "yukhsirun (give less than due)"
+     ],
+     "distractors": [
+      "They give extra",
+      "They praise",
+      "They read"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yukhsirun» dar ebarat-e zir kodam ast?\n«وَ إِذَا کَالُوهُمْ أَوْ وَزَنُوهُمْ یُخْسِرُونَ.»",
+     "grading_key": "- [1] Kam migozarand",
+     "final_resolution": "Kam migozarand",
+     "notes": "",
+     "keywords": [
+      "yukhsirun"
+     ],
+     "distractors": [
+      "Bishtar midahand",
+      "Misetayand",
+      "Mikhanand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 992,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَبْعُوثُونَ» در عبارت زیر کدام است؟\n«أَلَا یَظُنُّ أُولَئِکَ أَنَّهُمْ مَبْعُوثُونَ.»",
+     "grading_key": "- [1] برانگیخته‌شدگان",
+     "final_resolution": "برانگیخته‌شدگان",
+     "notes": "",
+     "keywords": [
+      "مَبْعُوثُونَ"
+     ],
+     "distractors": [
+      "نابودشدگان",
+      "خفتگان همیشگی",
+      "بازرگانان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَبْعُوثُونَ» mean in this verse?\n«أَلَا یَظُنُّ أُولَئِکَ أَنَّهُمْ مَبْعُوثُونَ.»",
+     "grading_key": "- [1] Raised to life again",
+     "final_resolution": "Raised to life again",
+     "notes": "",
+     "keywords": [
+      "mab'uthun (raised to life again)"
+     ],
+     "distractors": [
+      "Wiped out",
+      "Asleep for ever",
+      "Merchants"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «mab'uthun» dar ebarat-e zir kodam ast?\n«أَلَا یَظُنُّ أُولَئِکَ أَنَّهُمْ مَبْعُوثُونَ.»",
+     "grading_key": "- [1] Barangikhte-shodegan",
+     "final_resolution": "Barangikhte-shodegan",
+     "notes": "",
+     "keywords": [
+      "mab'uthun"
+     ],
+     "distractors": [
+      "Nabood-shodegan",
+      "Khoftegan-e hamishegi",
+      "Bazarganan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 992,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «انس» در جملهٔ زیر چیست؟\n«انسان خیرخواه با مهربانی، پیوند انس با دیگران برقرار می‌سازد.»",
+     "grading_key": "- [1] خو گرفتن و همدمی",
+     "final_resolution": "خو گرفتن و همدمی",
+     "notes": "",
+     "keywords": [
+      "انس"
+     ],
+     "distractors": [
+      "دشمنی و تنهایی",
+      "هراس",
+      "محاسبه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «انس» mean in this sentence?\n«انسان خیرخواه با مهربانی، پیوند انس با دیگران برقرار می‌سازد.»",
+     "grading_key": "- [1] Close companionship, feeling at home with",
+     "final_resolution": "Close companionship, feeling at home with",
+     "notes": "",
+     "keywords": [
+      "ons (close companionship)"
+     ],
+     "distractors": [
+      "Hostility and loneliness",
+      "Panic",
+      "Calculation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ons» dar jomle-ye zir chist?\n«انسان خیرخواه با مهربانی، پیوند انس با دیگران برقرار می‌سازد.»",
+     "grading_key": "- [1] Khoo gereftan va hamdami",
+     "final_resolution": "Khoo gereftan va hamdami",
+     "notes": "",
+     "keywords": [
+      "ons"
+     ],
+     "distractors": [
+      "Doshmani va tanhayi",
+      "Heras",
+      "Mohasebe"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 992,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «خلل» در جملهٔ زیر چیست؟\n«طوفان‌های سهمگین روزگار نتوانست خللی در ارادهٔ استوار آن پهلوان پدید آورد.»",
+     "grading_key": "- [1] رخنه و آسیب",
+     "final_resolution": "رخنه و آسیب",
+     "notes": "",
+     "keywords": [
+      "خلل"
+     ],
+     "distractors": [
+      "استواری",
+      "فراوانی",
+      "شتاب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «خلل» mean in this sentence?\n«طوفان‌های سهمگین روزگار نتوانست خللی در ارادهٔ استوار آن پهلوان پدید آورد.»",
+     "grading_key": "- [1] A flaw, a breach",
+     "final_resolution": "A flaw, a breach",
+     "notes": "",
+     "keywords": [
+      "khalal (a flaw, a breach)"
+     ],
+     "distractors": [
+      "Firmness",
+      "Plenty",
+      "Speed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «khalal» dar jomle-ye zir chist?\n«طوفان‌های سهمگین روزگار نتوانست خللی در ارادهٔ استوار آن پهلوان پدید آورد.»",
+     "grading_key": "- [1] Rakhne va asib",
+     "final_resolution": "Rakhne va asib",
+     "notes": "",
+     "keywords": [
+      "khalal"
+     ],
+     "distractors": [
+      "Ostovari",
+      "Faravani",
+      "Shetab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 992,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «بدوی» در جملهٔ زیر چیست؟\n«سیاه‌چادرهای عشایر، جلوه‌ای از زندگی بدوی و اصیل را در افق کویر نشان می‌دادند.»",
+     "grading_key": "- [1] ابتدایی و چادرنشینی",
+     "final_resolution": "ابتدایی و چادرنشینی",
+     "notes": "",
+     "keywords": [
+      "بدوی"
+     ],
+     "distractors": [
+      "صنعتی و نو",
+      "شهری و اداری",
+      "هموار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «بدوی» mean in this sentence?\n«سیاه‌چادرهای عشایر، جلوه‌ای از زندگی بدوی و اصیل را در افق کویر نشان می‌دادند.»",
+     "grading_key": "- [1] Primitive, nomadic",
+     "final_resolution": "Primitive, nomadic",
+     "notes": "",
+     "keywords": [
+      "badavi (primitive, nomadic)"
+     ],
+     "distractors": [
+      "Modern and industrial",
+      "Urban and bureaucratic",
+      "Flat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «badavi» dar jomle-ye zir chist?\n«سیاه‌چادرهای عشایر، جلوه‌ای از زندگی بدوی و اصیل را در افق کویر نشان می‌دادند.»",
+     "grading_key": "- [1] Ebtedayi va chador-neshini",
+     "final_resolution": "Ebtedayi va chador-neshini",
+     "notes": "",
+     "keywords": [
+      "badavi"
+     ],
+     "distractors": [
+      "San'ati va now",
+      "Shahri va edari",
+      "Hamvar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 992,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "شسته شدن و جابه‌جا شدن خاک حاصل‌خیز سطحی به دست باد یا سیلاب چه نام دارد؟",
+     "grading_key": "- [1] فرسایش خاک",
+     "final_resolution": "فرسایش خاک",
+     "notes": "",
+     "keywords": [
+      "فرسایش خاک"
+     ],
+     "distractors": [
+      "شوری خاک",
+      "پرغذایی آب",
+      "نفوذ PCB"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What is it called when fertile topsoil is washed or blown away by wind or floods?",
+     "grading_key": "- [1] Soil erosion",
+     "final_resolution": "Soil erosion",
+     "notes": "",
+     "keywords": [
+      "soil erosion"
+     ],
+     "distractors": [
+      "Soil salinisation",
+      "Eutrophication",
+      "PCB seepage"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Shoste shodan va jabeja shodan-e khak-e hasel-khiz-e sathi be dast-e bad ya seylab che nam darad?",
+     "grading_key": "- [1] Farsayesh-e khak",
+     "final_resolution": "Farsayesh-e khak",
+     "notes": "",
+     "keywords": [
+      "farsayesh-e khak"
+     ],
+     "distractors": [
+      "Shoori-ye khak",
+      "Por-ghazayi-ye ab",
+      "Nofooz-e PCB"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 992,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "تبدیل زمین‌های حاصل‌خیز به بیابان بر اثر نابودی پوشش گیاهی، فرسایش خاک و بهره‌برداری بی‌رویه چه نام دارد؟",
+     "grading_key": "- [1] بیابان‌زایی",
+     "final_resolution": "بیابان‌زایی",
+     "notes": "",
+     "keywords": [
+      "بیابان‌زایی"
+     ],
+     "distractors": [
+      "پرغذایی آب",
+      "اثر گلخانه‌ای",
+      "انباشت شیرابه"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What is the turning of fertile land into desert, through loss of plant cover, soil erosion and overuse, called?",
+     "grading_key": "- [1] Desertification",
+     "final_resolution": "Desertification",
+     "notes": "",
+     "keywords": [
+      "desertification"
+     ],
+     "distractors": [
+      "Eutrophication",
+      "The greenhouse effect",
+      "Leachate build-up"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Tabdil-e zamin-haye hasel-khiz be biyaban bar asar-e naboodi-ye pooshesh-e giyahi, farsayesh-e khak va bahre-bardari-ye bi-raviye che nam darad?",
+     "grading_key": "- [1] Biyaban-zayi",
+     "final_resolution": "Biyaban-zayi",
+     "notes": "",
+     "keywords": [
+      "biyaban-zayi"
+     ],
+     "distractors": [
+      "Por-ghazayi-ye ab",
+      "Asar-e golkhane-i",
+      "Anbasht-e shirabe"
+     ]
+    }
+   }
+  }
+ ]
+}
