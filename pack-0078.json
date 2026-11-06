@@ -1,0 +1,770 @@
+{
+ "version": 78,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 971,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (معادلهٔ دایره)",
+    "en": "Chapter 6: Conic Sections (Equation of a Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Moadele-ye Dayere)",
+    "pages": "124–126"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "معادلهٔ دایره‌ای به مرکز ⁦(h, k)⁩ و شعاع ⁦R⁩ کدام است؟",
+     "grading_key": "- [1] ⁦(x − h)² + (y − k)² = R²⁩",
+     "final_resolution": "⁦(x − h)² + (y − k)² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ دایره"
+     ],
+     "distractors": [
+      "⁦(x + h)² + (y + k)² = R²⁩",
+      "⁦(x − h)² − (y − k)² = R²⁩",
+      "⁦(x − h) + (y − k) = R⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the equation of a circle with centre (h, k) and radius R?",
+     "grading_key": "- [1] ⁦(x − h)² + (y − k)² = R²⁩",
+     "final_resolution": "⁦(x − h)² + (y − k)² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "equation of a circle"
+     ],
+     "distractors": [
+      "⁦(x + h)² + (y + k)² = R²⁩",
+      "⁦(x − h)² − (y − k)² = R²⁩",
+      "⁦(x − h) + (y − k) = R⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Moadele-ye dayere-i be markaz-e (h, k) va sho'a-e R kodam ast?",
+     "grading_key": "- [1] ⁦(x − h)² + (y − k)² = R²⁩",
+     "final_resolution": "⁦(x − h)² + (y − k)² = R²⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye dayere"
+     ],
+     "distractors": [
+      "⁦(x + h)² + (y + k)² = R²⁩",
+      "⁦(x − h)² − (y − k)² = R²⁩",
+      "⁦(x − h) + (y − k) = R⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 971,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (سهمی)",
+    "en": "Chapter 6: Conic Sections (Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Sahmi)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "مجموعهٔ نقاطی از صفحه که فاصلهٔ هر یک از یک نقطهٔ ثابت (کانون) و یک خط ثابت (خط هادی) برابر است، چه نام دارد؟",
+     "grading_key": "- [1] سهمی",
+     "final_resolution": "سهمی",
+     "notes": "",
+     "keywords": [
+      "سهمی"
+     ],
+     "distractors": [
+      "دایره",
+      "بیضی",
+      "هذلولی"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "The set of points in a plane that are each the same distance from a fixed point (the focus) and a fixed line (the directrix) is called what?",
+     "grading_key": "- [1] Parabola",
+     "final_resolution": "Parabola",
+     "notes": "",
+     "keywords": [
+      "parabola"
+     ],
+     "distractors": [
+      "Circle",
+      "Ellipse",
+      "Hyperbola"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Majmoo'e-ye noghati az safhe ke fasele-ye har yek az yek noghte-ye sabet (kanoon) va yek khatt-e sabet (khatt-e hadi) barabar ast, che nam darad?",
+     "grading_key": "- [1] Sahmi",
+     "final_resolution": "Sahmi",
+     "notes": "",
+     "keywords": [
+      "sahmi"
+     ],
+     "distractors": [
+      "Dayere",
+      "Beyzi",
+      "Hozloli"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 971,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (قطر بزرگ بیضی)",
+    "en": "Chapter 6: Conic Sections (Major Axis of an Ellipse)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Ghotr-e Bozorg)",
+    "pages": "128–130"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در بیضی، پاره‌خطی که از مرکز می‌گذرد و دو سر بیضی را که از هم دورترند به هم وصل می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] قطر بزرگ",
+     "final_resolution": "قطر بزرگ",
+     "notes": "",
+     "keywords": [
+      "قطر بزرگ"
+     ],
+     "distractors": [
+      "قطر کوچک",
+      "فاصلهٔ کانونی",
+      "خط هادی"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In an ellipse, the line segment through the centre that joins the two ends of the ellipse farthest apart is called what?",
+     "grading_key": "- [1] The major axis",
+     "final_resolution": "The major axis",
+     "notes": "",
+     "keywords": [
+      "major axis"
+     ],
+     "distractors": [
+      "The minor axis",
+      "The focal distance",
+      "The directrix"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar beyzi, pare-khatti ke az markaz migozarad va do sar-e beyzi ra ke az ham doortarand be ham vasl mikonad, che nam darad?",
+     "grading_key": "- [1] Ghotr-e bozorg",
+     "final_resolution": "Ghotr-e bozorg",
+     "notes": "",
+     "keywords": [
+      "ghotr-e bozorg"
+     ],
+     "distractors": [
+      "Ghotr-e koochak",
+      "Fasele-ye kanooni",
+      "Khatt-e hadi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 971,
+   "topic_tag": "free-will",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: قدرت پرواز (اراده و علت‌ها)",
+    "en": "Lesson 5: The Power to Fly (Will and Causes)",
+    "tr": "Dars 5: Ghodrat-e Parvaz (Erade va Ellat-ha)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت پرواز",
+     "question": "در درس پنجم، ارادهٔ انسان در انجام یک کار اختیاری، چه جایگاهی در زنجیرهٔ علت‌های آن کار دارد؟",
+     "grading_key": "- [1] آخرین حلقه (علت نزدیک) در زنجیرهٔ علت‌هاست",
+     "final_resolution": "آخرین حلقه (علت نزدیک) در زنجیرهٔ علت‌هاست",
+     "notes": "",
+     "keywords": [
+      "ارادهٔ انسان در زنجیرهٔ علت‌ها"
+     ],
+     "distractors": [
+      "کاملاً بیرون از زنجیرهٔ علت‌هاست",
+      "پنداری بی‌اثر است",
+      "همان نخستین علت مادی است"
+     ]
+    },
+    "en": {
+     "topic_label": "The Power to Fly (Free Will)",
+     "question": "By lesson five, where does a person's will stand in the chain of causes of a voluntary act?",
+     "grading_key": "- [1] It is the last link (the nearest cause) in the chain",
+     "final_resolution": "It is the last link (the nearest cause) in the chain",
+     "notes": "",
+     "keywords": [
+      "human will in the chain of causes"
+     ],
+     "distractors": [
+      "It stands wholly outside the chain of causes",
+      "It is an illusion with no effect",
+      "It is the very first material cause"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat-e Parvaz",
+     "question": "Dar dars-e panjom, erade-ye ensan dar anjam-e yek kar-e ekhtiyari, che jaygahi dar zanjire-ye ellat-haye an kar darad?",
+     "grading_key": "- [1] Akharin halghe (ellat-e nazdik) dar zanjire-ye ellat-hast",
+     "final_resolution": "Akharin halghe (ellat-e nazdik) dar zanjire-ye ellat-hast",
+     "notes": "",
+     "keywords": [
+      "erade-ye ensan dar zanjire-ye ellat-ha"
+     ],
+     "distractors": [
+      "Kamelan biroon az zanjire-ye ellat-hast",
+      "Pendari bi-asar ast",
+      "Haman nokhostin ellat-e maddi ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 971,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «رَوَاسِیَ» در عبارت زیر کدام است؟\n«وَ أَلْقَى فِی الْأَرْضِ رَوَاسِیَ أَنْ تَمِیدَ بِکُمْ.»",
+     "grading_key": "- [1] کوه‌های استوار",
+     "final_resolution": "کوه‌های استوار",
+     "notes": "",
+     "keywords": [
+      "رَوَاسِیَ"
+     ],
+     "distractors": [
+      "رودهای ژرف",
+      "ابرهای باران‌زا",
+      "تپه‌های روان شن"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «رَوَاسِیَ» mean in this verse?\n«وَ أَلْقَى فِی الْأَرْضِ رَوَاسِیَ أَنْ تَمِیدَ بِکُمْ.»",
+     "grading_key": "- [1] Firm mountains",
+     "final_resolution": "Firm mountains",
+     "notes": "",
+     "keywords": [
+      "rawasi (firm mountains)"
+     ],
+     "distractors": [
+      "Deep rivers",
+      "Rain clouds",
+      "Shifting sand dunes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «rawasiya» dar ebarat-e zir kodam ast?\n«وَ أَلْقَى فِی الْأَرْضِ رَوَاسِیَ أَنْ تَمِیدَ بِکُمْ.»",
+     "grading_key": "- [1] Kooh-haye ostovar",
+     "final_resolution": "Kooh-haye ostovar",
+     "notes": "",
+     "keywords": [
+      "rawasiya"
+     ],
+     "distractors": [
+      "Rood-haye zharf",
+      "Abr-haye baran-za",
+      "Tappe-haye ravan-e shen"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 971,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَعَظَتْهُ» در عبارت زیر کدام است؟\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] او را پند داد",
+     "final_resolution": "او را پند داد",
+     "notes": "",
+     "keywords": [
+      "وَعَظَتْهُ"
+     ],
+     "distractors": [
+      "به او آسیب زد",
+      "او را فریب داد",
+      "او را ستود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَعَظَتْهُ» mean in this saying?\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] Taught him a lesson, admonished him",
+     "final_resolution": "Taught him a lesson, admonished him",
+     "notes": "",
+     "keywords": [
+      "wa'azathu (taught him a lesson)"
+     ],
+     "distractors": [
+      "Harmed him",
+      "Deceived him",
+      "Praised him"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wa'azathu» dar ebarat-e zir kodam ast?\n«الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ.»",
+     "grading_key": "- [1] Oo ra pand dad",
+     "final_resolution": "Oo ra pand dad",
+     "notes": "",
+     "keywords": [
+      "wa'azathu"
+     ],
+     "distractors": [
+      "Be oo asib zad",
+      "Oo ra farib dad",
+      "Oo ra setood"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 971,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمِحَنِ» در عبارت زیر کدام است؟\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] رنج‌ها و گرفتاری‌ها",
+     "final_resolution": "رنج‌ها و گرفتاری‌ها",
+     "notes": "",
+     "keywords": [
+      "الْمِحَنِ"
+     ],
+     "distractors": [
+      "سودها",
+      "کشف‌های علمی",
+      "قدرت‌های دنیوی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمِحَنِ» mean in this saying?\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] Hardships, afflictions",
+     "final_resolution": "Hardships, afflictions",
+     "notes": "",
+     "keywords": [
+      "al-mihan (hardships)"
+     ],
+     "distractors": [
+      "Profits",
+      "Scientific discoveries",
+      "Worldly powers"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-mihan» dar ebarat-e zir kodam ast?\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] Ranj-ha va gereftari-ha",
+     "final_resolution": "Ranj-ha va gereftari-ha",
+     "notes": "",
+     "keywords": [
+      "al-mihan"
+     ],
+     "distractors": [
+      "Sood-ha",
+      "Kashf-haye elmi",
+      "Ghodrat-haye donyavi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 971,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: جهان‌های اجتماعی (غرب جدید)",
+    "en": "Lesson 5: Social Worlds (The Modern West)",
+    "tr": "Dars 5: Jahan-haye Ejtemai",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان اجتماعی غرب جدید بر پایهٔ کدام رویکرد بنیادین شکل گرفته است؟",
+     "grading_key": "- [1] سکولاریسم و اومانیسم (انسان‌محوری)",
+     "final_resolution": "سکولاریسم و اومانیسم (انسان‌محوری)",
+     "notes": "",
+     "keywords": [
+      "جهان اجتماعی غرب"
+     ],
+     "distractors": [
+      "توحید و وحی الهی",
+      "باور به خدایان اساطیری",
+      "پیروی از آداب کهن قبیله‌ای"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "On which basic outlook is the modern Western social world built?",
+     "grading_key": "- [1] Secularism and humanism (man at the centre)",
+     "final_resolution": "Secularism and humanism (man at the centre)",
+     "notes": "",
+     "keywords": [
+      "modern Western social world"
+     ],
+     "distractors": [
+      "Monotheism and divine revelation",
+      "Belief in mythical gods",
+      "Following old tribal customs"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e ejtemai-ye gharb-e jadid bar paye-ye kodam rooykard-e bonyadin shekl gerefte ast?",
+     "grading_key": "- [1] Sekolarism va omanism (ensan-mehvari)",
+     "final_resolution": "Sekolarism va omanism (ensan-mehvari)",
+     "notes": "",
+     "keywords": [
+      "jahan-e ejtemai-ye gharb"
+     ],
+     "distractors": [
+      "Towhid va vahy-e elahi",
+      "Bavar be khodayan-e asatiri",
+      "Peyravi az adab-e kohan-e ghabile-i"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 971,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: جهان‌های اجتماعی (حق و باطل)",
+    "en": "Lesson 5: Social Worlds (True and False)",
+    "tr": "Dars 5: Jahan-haye Ejtemai",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان اجتماعی‌ای که باورهای بنیادینش بر نادانی، خرافه یا انکار حقیقت‌های ماورای طبیعت استوار است، در کدام دسته جای می‌گیرد؟",
+     "grading_key": "- [1] جهان اجتماعی باطل",
+     "final_resolution": "جهان اجتماعی باطل",
+     "notes": "",
+     "keywords": [
+      "جهان اجتماعی باطل"
+     ],
+     "distractors": [
+      "جهان اجتماعی حق",
+      "جهان فرهنگی معنوی",
+      "جهان اجتماعی توحیدی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "A social world whose core beliefs rest on ignorance, superstition or denying the truths beyond nature belongs to which group?",
+     "grading_key": "- [1] A false social world",
+     "final_resolution": "A false social world",
+     "notes": "",
+     "keywords": [
+      "false social world"
+     ],
+     "distractors": [
+      "A true social world",
+      "A spiritual cultural world",
+      "A monotheistic social world"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e ejtemai-i ke bavar-haye bonyadinash bar nadani, khorafe ya enkar-e haghighat-haye mavara-ye tabiat ostovar ast, dar kodam daste jay migirad?",
+     "grading_key": "- [1] Jahan-e ejtemai-ye batel",
+     "final_resolution": "Jahan-e ejtemai-ye batel",
+     "notes": "",
+     "keywords": [
+      "jahan-e ejtemai-ye batel"
+     ],
+     "distractors": [
+      "Jahan-e ejtemai-ye hagh",
+      "Jahan-e farhangi-ye ma'navi",
+      "Jahan-e ejtemai-ye towhidi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 971,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "انتقال عامل بیماری از راه سرفه، عطسه یا حرف زدن فرد بیمار به فرد سالمِ نزدیک، کدام راه انتقال است؟",
+     "grading_key": "- [1] انتقال مستقیم با قطره‌های تنفسی",
+     "final_resolution": "انتقال مستقیم با قطره‌های تنفسی",
+     "notes": "",
+     "keywords": [
+      "انتقال قطره‌ای"
+     ],
+     "distractors": [
+      "انتقال غیرمستقیم با ناقل",
+      "انتقال از راه آب آلوده",
+      "انتقال از راه خون"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Passing a disease agent from a sick person to a healthy person nearby by coughing, sneezing or talking is which route of transmission?",
+     "grading_key": "- [1] Direct transmission by respiratory droplets",
+     "final_resolution": "Direct transmission by respiratory droplets",
+     "notes": "",
+     "keywords": [
+      "droplet transmission"
+     ],
+     "distractors": [
+      "Indirect transmission by a vector",
+      "Transmission through polluted water",
+      "Transmission through blood"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Enteghal-e amel-e bimari az rah-e sorfe, atse ya harf zadan-e fard-e bimar be fard-e salem-e nazdik, kodam rah-e enteghal ast?",
+     "grading_key": "- [1] Enteghal-e mostaghim ba ghatre-haye tanaffosi",
+     "final_resolution": "Enteghal-e mostaghim ba ghatre-haye tanaffosi",
+     "notes": "",
+     "keywords": [
+      "enteghal-e ghatre-i"
+     ],
+     "distractors": [
+      "Enteghal-e gheyr-e mostaghim ba naghel",
+      "Enteghal az rah-e ab-e aloode",
+      "Enteghal az rah-e khoon"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 971,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "هر گرم از کدام گروه مواد مغذی در بدن بیشترین انرژی (حدود ۹ کیلوکالری) را آزاد می‌کند؟",
+     "grading_key": "- [1] چربی‌ها",
+     "final_resolution": "چربی‌ها",
+     "notes": "",
+     "keywords": [
+      "انرژی چربی‌ها"
+     ],
+     "distractors": [
+      "کربوهیدرات‌ها",
+      "پروتئین‌ها",
+      "ویتامین‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "One gram of which nutrient group releases the most energy in the body (about 9 kcal)?",
+     "grading_key": "- [1] Fats",
+     "final_resolution": "Fats",
+     "notes": "",
+     "keywords": [
+      "energy in fats"
+     ],
+     "distractors": [
+      "Carbohydrates",
+      "Proteins",
+      "Vitamins"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Har geram az kodam goroohe mavad-e moghazzi dar badan bishtarin enerzhi (hodood-e 9 kilokalori) ra azad mikonad?",
+     "grading_key": "- [1] Charbi-ha",
+     "final_resolution": "Charbi-ha",
+     "notes": "",
+     "keywords": [
+      "enerzhi-ye charbi-ha"
+     ],
+     "distractors": [
+      "Karbohidrat-ha",
+      "Protein-ha",
+      "Vitamin-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 971,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "مصرف زیاد و پیوستهٔ کدام نهاده‌های کشاورزی، به شور شدن خاک، نابودی ریزجانداران سودمند و آلودگی آب‌های زیرزمینی می‌انجامد؟",
+     "grading_key": "- [1] کودها و سموم شیمیایی",
+     "final_resolution": "کودها و سموم شیمیایی",
+     "notes": "",
+     "keywords": [
+      "آلودگی خاک"
+     ],
+     "distractors": [
+      "کود کمپوست طبیعی",
+      "دشمنان طبیعی آفت‌ها",
+      "آب شیرین آبیاری"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Heavy, constant use of which farming inputs leads to salty soil, the death of useful microbes and polluted groundwater?",
+     "grading_key": "- [1] Chemical fertilisers and pesticides",
+     "final_resolution": "Chemical fertilisers and pesticides",
+     "notes": "",
+     "keywords": [
+      "soil pollution"
+     ],
+     "distractors": [
+      "Natural compost",
+      "Pests' natural enemies",
+      "Fresh irrigation water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Masraf-e ziyad va peyvaste-ye kodam nahade-haye keshavarzi, be shoor shodan-e khak, naboodi-ye riz-jandaran-e soodmand va aloodegi-ye ab-haye zirzamini mianjamad?",
+     "grading_key": "- [1] Kood-ha va somoom-e shimiyayi",
+     "final_resolution": "Kood-ha va somoom-e shimiyayi",
+     "notes": "",
+     "keywords": [
+      "aloodegi-ye khak"
+     ],
+     "distractors": [
+      "Kood-e kompost-e tabiei",
+      "Doshmanan-e tabiei-ye afat-ha",
+      "Ab-e shirin-e abyari"
+     ]
+    }
+   }
+  }
+ ]
+}
