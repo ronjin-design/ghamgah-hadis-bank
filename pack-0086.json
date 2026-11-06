@@ -1,0 +1,1063 @@
+{
+ "version": 86,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 979,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع متناوب)",
+    "en": "Chapter 1: Functions (Periodic Function)",
+    "tr": "Fasl 1: Tabe' (Tabe'-e Motanaveb)",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "کوچک‌ترین عدد مثبت ⁦T⁩ که به ازای هر ⁦x⁩ در دامنه، ⁦f(x + T) = f(x)⁩ باشد، چه نام دارد؟",
+     "grading_key": "- [1] The period of the function",
+     "final_resolution": "The period of the function",
+     "notes": "",
+     "keywords": [
+      "دورهٔ تناوب"
+     ],
+     "distractors": [
+      "The amplitude",
+      "The phase shift",
+      "An inflection point"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the smallest positive number T, such that f(x + T) = f(x) for every x in the domain, called?",
+     "grading_key": "- [1] The period of the function",
+     "final_resolution": "The period of the function",
+     "notes": "",
+     "keywords": [
+      "period of a function"
+     ],
+     "distractors": [
+      "The amplitude",
+      "The phase shift",
+      "An inflection point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Koochak-tarin adad-e mosbat-e T ke be ezaye har x dar damane, f(x + T) = f(x) bashad, che nam darad?",
+     "grading_key": "- [1] The period of the function",
+     "final_resolution": "The period of the function",
+     "notes": "",
+     "keywords": [
+      "dowre-ye tanavob"
+     ],
+     "distractors": [
+      "The amplitude",
+      "The phase shift",
+      "An inflection point"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 979,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ تابع مرکب)",
+    "en": "Chapter 1: Functions (Domain of a Composite Function)",
+    "tr": "Fasl 1: Tabe' (Damane-ye Tabe'-e Morakkab)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای اینکه ⁦x⁩ در دامنهٔ ⁦f∘g⁩ باشد، افزون بر اینکه ⁦x⁩ در دامنهٔ ⁦g⁩ است، ⁦g(x)⁩ باید عضو کدام مجموعه باشد؟",
+     "grading_key": "- [1] The domain of f",
+     "final_resolution": "The domain of f",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ تابع مرکب"
+     ],
+     "distractors": [
+      "The range of f",
+      "The roots of the denominator",
+      "The positive real numbers"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "For x to be in the domain of f∘g, besides x being in the domain of g, which set must g(x) belong to?",
+     "grading_key": "- [1] The domain of f",
+     "final_resolution": "The domain of f",
+     "notes": "",
+     "keywords": [
+      "domain of a composite function"
+     ],
+     "distractors": [
+      "The range of f",
+      "The roots of the denominator",
+      "The positive real numbers"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye inke x dar damane-ye f∘g bashad, afzoon bar inke x dar damane-ye g ast, g(x) bayad ozv-e kodam majmoo'e bashad?",
+     "grading_key": "- [1] The domain of f",
+     "final_resolution": "The domain of f",
+     "notes": "",
+     "keywords": [
+      "damane-ye tabe'-e morakkab"
+     ],
+     "distractors": [
+      "The range of f",
+      "The roots of the denominator",
+      "The positive real numbers"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 979,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لِبَاساً» در عبارت زیر کدام است؟\n«وَ جَعَلْنَا اللَّیْلَ لِبَاساً.»",
+     "grading_key": "- [1] پوشش، جامه",
+     "final_resolution": "پوشش، جامه",
+     "notes": "",
+     "keywords": [
+      "لِبَاساً"
+     ],
+     "distractors": [
+      "چراغی فروزان",
+      "راهی پیوسته",
+      "دیواری سنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لِبَاساً» mean in this verse?\n«وَ جَعَلْنَا اللَّیْلَ لِبَاساً.»",
+     "grading_key": "- [1] A covering, a garment",
+     "final_resolution": "A covering, a garment",
+     "notes": "",
+     "keywords": [
+      "libas (a covering)"
+     ],
+     "distractors": [
+      "A blazing lamp",
+      "A long road",
+      "A stone wall"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «libasan» dar ebarat-e zir kodam ast?\n«وَ جَعَلْنَا اللَّیْلَ لِبَاساً.»",
+     "grading_key": "- [1] Pooshesh, jame",
+     "final_resolution": "Pooshesh, jame",
+     "notes": "",
+     "keywords": [
+      "libasan"
+     ],
+     "distractors": [
+      "Cheraghi foroozan",
+      "Rahi peyvaste",
+      "Divari sangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 979,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شِدَاداً» در عبارت زیر کدام است؟\n«وَ بَنَیْنَا فَوْقَکُمْ سَبْعاً شِدَاداً.»",
+     "grading_key": "- [1] استوار و محکم",
+     "final_resolution": "استوار و محکم",
+     "notes": "",
+     "keywords": [
+      "شِدَاداً"
+     ],
+     "distractors": [
+      "سست و شکننده",
+      "تیره و ابری",
+      "گذرا و لرزان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شِدَاداً» mean in this verse?\n«وَ بَنَیْنَا فَوْقَکُمْ سَبْعاً شِدَاداً.»",
+     "grading_key": "- [1] Strong, firm",
+     "final_resolution": "Strong, firm",
+     "notes": "",
+     "keywords": [
+      "shidad (strong, firm)"
+     ],
+     "distractors": [
+      "Weak and fragile",
+      "Dark and cloudy",
+      "Passing and shaky"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «shidadan» dar ebarat-e zir kodam ast?\n«وَ بَنَیْنَا فَوْقَکُمْ سَبْعاً شِدَاداً.»",
+     "grading_key": "- [1] Ostovar va mohkam",
+     "final_resolution": "Ostovar va mohkam",
+     "notes": "",
+     "keywords": [
+      "shidadan"
+     ],
+     "distractors": [
+      "Sost va shekanande",
+      "Tire va abri",
+      "Gozara va larzan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 979,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْمُعْصِرَاتِ» در عبارت زیر کدام است؟\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] ابرهای باران‌زا",
+     "final_resolution": "ابرهای باران‌زا",
+     "notes": "",
+     "keywords": [
+      "الْمُعْصِرَاتِ"
+     ],
+     "distractors": [
+      "دهانه‌های آتشفشان",
+      "تپه‌های شنی",
+      "معدن‌های فلز"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْمُعْصِرَاتِ» mean in this verse?\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] Rain clouds",
+     "final_resolution": "Rain clouds",
+     "notes": "",
+     "keywords": [
+      "al-mu'sirat (rain clouds)"
+     ],
+     "distractors": [
+      "Volcanic craters",
+      "Sand dunes",
+      "Metal mines"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-mu'sirat» dar ebarat-e zir kodam ast?\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] Abr-haye baran-za",
+     "final_resolution": "Abr-haye baran-za",
+     "notes": "",
+     "keywords": [
+      "al-mu'sirat"
+     ],
+     "distractors": [
+      "Dahane-haye atashfeshan",
+      "Tappe-haye sheni",
+      "Ma'dan-haye felez"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 979,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «ثَجَّاجاً» در عبارت زیر کدام است؟\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] ریزان و فراوان",
+     "final_resolution": "ریزان و فراوان",
+     "notes": "",
+     "keywords": [
+      "ثَجَّاجاً"
+     ],
+     "distractors": [
+      "یخ‌زده",
+      "تبخیرشونده و سمی",
+      "راکد و گل‌آلود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «ثَجَّاجاً» mean in this verse?\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] Pouring down in plenty",
+     "final_resolution": "Pouring down in plenty",
+     "notes": "",
+     "keywords": [
+      "thajjaj (pouring abundantly)"
+     ],
+     "distractors": [
+      "Frozen",
+      "Evaporating and poisonous",
+      "Still and muddy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «thajjajan» dar ebarat-e zir kodam ast?\n«وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً.»",
+     "grading_key": "- [1] Rizan va faravan",
+     "final_resolution": "Rizan va faravan",
+     "notes": "",
+     "keywords": [
+      "thajjajan"
+     ],
+     "distractors": [
+      "Yakh-zade",
+      "Tabkhir-shavande va sammi",
+      "Raked va gel-alood"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 979,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «حَبّاً» در عبارت زیر کدام است؟\n«لِنُخْرِجَ بِهِ حَبّاً وَ نَبَاتاً.»",
+     "grading_key": "- [1] دانه",
+     "final_resolution": "دانه",
+     "notes": "",
+     "keywords": [
+      "حَبّاً"
+     ],
+     "distractors": [
+      "برگ",
+      "ریشه",
+      "خاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «حَبّاً» mean in this verse?\n«لِنُخْرِجَ بِهِ حَبّاً وَ نَبَاتاً.»",
+     "grading_key": "- [1] Grain, seeds",
+     "final_resolution": "Grain, seeds",
+     "notes": "",
+     "keywords": [
+      "habb (grain)"
+     ],
+     "distractors": [
+      "Leaves",
+      "Roots",
+      "Soil"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «habban» dar ebarat-e zir kodam ast?\n«لِنُخْرِجَ بِهِ حَبّاً وَ نَبَاتاً.»",
+     "grading_key": "- [1] Dane",
+     "final_resolution": "Dane",
+     "notes": "",
+     "keywords": [
+      "habban"
+     ],
+     "distractors": [
+      "Barg",
+      "Rishe",
+      "Khak"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 979,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مفاسد» در جملهٔ زیر چیست؟\n«آن مصلح خیرخواه، عمری را در راه اصلاح مفاسد جامعه سپری کرد.»",
+     "grading_key": "- [1] تباهی‌ها و بدی‌ها",
+     "final_resolution": "تباهی‌ها و بدی‌ها",
+     "notes": "",
+     "keywords": [
+      "مفاسد"
+     ],
+     "distractors": [
+      "پیشرفت‌ها",
+      "کشف‌های علمی",
+      "آرامش‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مفاسد» mean in this sentence?\n«آن مصلح خیرخواه، عمری را در راه اصلاح مفاسد جامعه سپری کرد.»",
+     "grading_key": "- [1] Corruptions, evils",
+     "final_resolution": "Corruptions, evils",
+     "notes": "",
+     "keywords": [
+      "mafased (corruptions)"
+     ],
+     "distractors": [
+      "Advances",
+      "Scientific discoveries",
+      "Moments of peace"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mafased» dar jomle-ye zir chist?\n«آن مصلح خیرخواه، عمری را در راه اصلاح مفاسد جامعه سپری کرد.»",
+     "grading_key": "- [1] Tabahi-ha va badi-ha",
+     "final_resolution": "Tabahi-ha va badi-ha",
+     "notes": "",
+     "keywords": [
+      "mafased"
+     ],
+     "distractors": [
+      "Pishraft-ha",
+      "Kashf-haye elmi",
+      "Aramesh-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 979,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ثمن بخس» در جملهٔ زیر چیست؟\n«نباید سرمایهٔ استقلال کشور را به ثمن بخس فروخت.»",
+     "grading_key": "- [1] بهایی بسیار اندک و ناچیز",
+     "final_resolution": "بهایی بسیار اندک و ناچیز",
+     "notes": "",
+     "keywords": [
+      "ثمن بخس"
+     ],
+     "distractors": [
+      "بهایی بسیار گران",
+      "سرمایه‌گذاری بزرگ",
+      "جریمهٔ قانونی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ثمن بخس» mean in this sentence?\n«نباید سرمایهٔ استقلال کشور را به ثمن بخس فروخت.»",
+     "grading_key": "- [1] A paltry, worthless price",
+     "final_resolution": "A paltry, worthless price",
+     "notes": "",
+     "keywords": [
+      "saman-e bakhs (a paltry price)"
+     ],
+     "distractors": [
+      "A very high price",
+      "A large investment",
+      "A legal fine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «saman-e bakhs» dar jomle-ye zir chist?\n«نباید سرمایهٔ استقلال کشور را به ثمن بخس فروخت.»",
+     "grading_key": "- [1] Bahayi besyar andak va nachiz",
+     "final_resolution": "Bahayi besyar andak va nachiz",
+     "notes": "",
+     "keywords": [
+      "saman-e bakhs"
+     ],
+     "distractors": [
+      "Bahayi besyar geran",
+      "Sarmaye-gozari-ye bozorg",
+      "Jarime-ye ghanooni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 979,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «زوال» در جملهٔ زیر چیست؟\n«در آن کویر بی‌پایان، گویی همه چیز دستخوش زوال و دگرگونی بود.»",
+     "grading_key": "- [1] نابودی و از میان رفتن",
+     "final_resolution": "نابودی و از میان رفتن",
+     "notes": "",
+     "keywords": [
+      "زوال"
+     ],
+     "distractors": [
+      "رشد و افزایش",
+      "پایداری همیشگی",
+      "یخ‌زدگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «زوال» mean in this sentence?\n«در آن کویر بی‌پایان، گویی همه چیز دستخوش زوال و دگرگونی بود.»",
+     "grading_key": "- [1] Decline, passing away",
+     "final_resolution": "Decline, passing away",
+     "notes": "",
+     "keywords": [
+      "zaval (decline, passing away)"
+     ],
+     "distractors": [
+      "Growth and increase",
+      "Lasting stability",
+      "Freezing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «zaval» dar jomle-ye zir chist?\n«در آن کویر بی‌پایان، گویی همه چیز دستخوش زوال و دگرگونی بود.»",
+     "grading_key": "- [1] Naboodi va az miyan raftan",
+     "final_resolution": "Naboodi va az miyan raftan",
+     "notes": "",
+     "keywords": [
+      "zaval"
+     ],
+     "distractors": [
+      "Roshd va afzayesh",
+      "Paydari-ye hamishegi",
+      "Yakh-zadegi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 979,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: اغراق)",
+    "en": "Persian 3 (Literary Devices: Eghragh)",
+    "tr": "Adabiyat-e Farsi 3 (Eghragh)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "بزرگ‌نمایی یک ویژگی یا رویداد تا حدی که باورکردنی نباشد (مانند گریستن به اندازهٔ رود جیحون)، به‌ویژه در شعر حماسی، کدام آرایه است؟",
+     "grading_key": "- [1] اغراق (مبالغه)",
+     "final_resolution": "اغراق (مبالغه)",
+     "notes": "",
+     "keywords": [
+      "اغراق"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Blowing up a quality or event beyond belief (like weeping as much as the Oxus river), especially in epic poetry, is which device?",
+     "grading_key": "- [1] Eghragh (hyperbole)",
+     "final_resolution": "Eghragh (hyperbole)",
+     "notes": "",
+     "keywords": [
+      "eghragh (hyperbole)"
+     ],
+     "distractors": [
+      "Jinas-e tam (homonym pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Bozorg-nemayi-ye yek vizhegi ya rooydad ta haddi ke bavar-kardani nabashad (manand-e geristan be andaze-ye rood-e Jeyhoon), be-vizhe dar she'r-e hamasi, kodam araye ast?",
+     "grading_key": "- [1] Eghragh (mobaleghe)",
+     "final_resolution": "Eghragh (mobaleghe)",
+     "notes": "",
+     "keywords": [
+      "eghragh"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 979,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «شوق و حرص شدید» است، کدام است؟",
+     "grading_key": "- [1] ولع",
+     "final_resolution": "ولع",
+     "notes": "",
+     "keywords": [
+      "ولع"
+     ],
+     "distractors": [
+      "ولأ",
+      "ولذ",
+      "والع"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'keen craving, intense eagerness'?",
+     "grading_key": "- [1] ولع",
+     "final_resolution": "ولع",
+     "notes": "",
+     "keywords": [
+      "vala' (keen craving)"
+     ],
+     "distractors": [
+      "ولأ",
+      "ولذ",
+      "والع"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'shogh va hers-e shadid' ast, kodam ast?",
+     "grading_key": "- [1] ولع",
+     "final_resolution": "ولع",
+     "notes": "",
+     "keywords": [
+      "vala'"
+     ],
+     "distractors": [
+      "ولأ",
+      "ولذ",
+      "والع"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 979,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سنگین سمی در باتری‌ها و پساب آبکاری، در بدن انباشته می‌شود و به کلیه‌ها و استخوان‌ها آسیب جدی می‌زند؟",
+     "grading_key": "- [1] کادمیوم",
+     "final_resolution": "کادمیوم",
+     "notes": "",
+     "keywords": [
+      "کادمیوم"
+     ],
+     "distractors": [
+      "کلسیم",
+      "آهن",
+      "منیزیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which toxic heavy metal in batteries and plating waste builds up in the body and badly damages the kidneys and bones?",
+     "grading_key": "- [1] Cadmium",
+     "final_resolution": "Cadmium",
+     "notes": "",
+     "keywords": [
+      "cadmium"
+     ],
+     "distractors": [
+      "Calcium",
+      "Iron",
+      "Magnesium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sangin-e sammi dar batri-ha va pasab-e abkari, dar badan anbashte mishavad va be kolie-ha va ostokhan-ha asib-e jeddi mizanad?",
+     "grading_key": "- [1] Kadmiyom",
+     "final_resolution": "Kadmiyom",
+     "notes": "",
+     "keywords": [
+      "kadmiyom"
+     ],
+     "distractors": [
+      "Kalsiyom",
+      "Ahan",
+      "Monizim"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 979,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سنگین مایع و فرار، که در دماسنج‌های قدیمی هست، به دستگاه عصبی، به‌ویژه در جنین، آسیب شدید می‌زند؟",
+     "grading_key": "- [1] جیوه",
+     "final_resolution": "جیوه",
+     "notes": "",
+     "keywords": [
+      "جیوه"
+     ],
+     "distractors": [
+      "کادمیوم",
+      "سرب",
+      "آهن"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which liquid, easily evaporating heavy metal, found in old thermometers, badly harms the nervous system, especially in an unborn baby?",
+     "grading_key": "- [1] Mercury",
+     "final_resolution": "Mercury",
+     "notes": "",
+     "keywords": [
+      "mercury"
+     ],
+     "distractors": [
+      "Cadmium",
+      "Lead",
+      "Iron"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sangin-e maye' va farar, ke dar damasanj-haye ghadimi hast, be dastgah-e asabi, be-vizhe dar janin, asib-e shadid mizanad?",
+     "grading_key": "- [1] Jive",
+     "final_resolution": "Jive",
+     "notes": "",
+     "keywords": [
+      "jive"
+     ],
+     "distractors": [
+      "Kadmiyom",
+      "Sorb",
+      "Ahan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 979,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در ارزیابی مصدوم بزرگسال بیهوش، برای اطمینان از گردش خون، نبض کدام سرخرگ را باید گرفت؟",
+     "grading_key": "- [1] سرخرگ کاروتید در گردن",
+     "final_resolution": "سرخرگ کاروتید در گردن",
+     "notes": "",
+     "keywords": [
+      "نبض کاروتید"
+     ],
+     "distractors": [
+      "سرخرگ مچ دست",
+      "سرخرگ ران",
+      "سرخرگ روی پا"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "When assessing an unconscious adult, which artery's pulse should you check to make sure blood is circulating?",
+     "grading_key": "- [1] The carotid artery in the neck",
+     "final_resolution": "The carotid artery in the neck",
+     "notes": "",
+     "keywords": [
+      "carotid pulse"
+     ],
+     "distractors": [
+      "The artery at the wrist",
+      "The artery in the groin",
+      "The artery on top of the foot"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar arzyabi-ye masdoom-e bozorgsal-e bihoosh, baraye etminan az gardesh-e khoon, nabz-e kodam sorkhrag ra bayad gereft?",
+     "grading_key": "- [1] Sorkhrag-e karotid dar gardan",
+     "final_resolution": "Sorkhrag-e karotid dar gardan",
+     "notes": "",
+     "keywords": [
+      "nabz-e karotid"
+     ],
+     "distractors": [
+      "Sorkhrag-e moch-e dast",
+      "Sorkhrag-e ran",
+      "Sorkhrag-e rooye pa"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 979,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام راهکار سبک زندگی نقش اصلی را در کاهش مقاومت به انسولین و پیشگیری از دیابت نوع ۲ دارد؟",
+     "grading_key": "- [1] فعالیت بدنی منظم و کنترل وزن",
+     "final_resolution": "فعالیت بدنی منظم و کنترل وزن",
+     "notes": "",
+     "keywords": [
+      "پیشگیری از دیابت نوع ۲"
+     ],
+     "distractors": [
+      "کشیدن سیگار بیشتر",
+      "کم‌تحرکی",
+      "خوردن چربی حیوانی بیشتر"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which lifestyle habit plays the main part in lowering insulin resistance and preventing type 2 diabetes?",
+     "grading_key": "- [1] Regular exercise and keeping a healthy weight",
+     "final_resolution": "Regular exercise and keeping a healthy weight",
+     "notes": "",
+     "keywords": [
+      "preventing type 2 diabetes"
+     ],
+     "distractors": [
+      "Smoking more",
+      "Moving less",
+      "Eating more animal fat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam rahkar-e sabk-e zendegi naghsh-e asli ra dar kahesh-e moghavemat be ensulin va pishgiri az diabet-e no'-e 2 darad?",
+     "grading_key": "- [1] Fa'aliyat-e badani-ye monazzam va kontrol-e vazn",
+     "final_resolution": "Fa'aliyat-e badani-ye monazzam va kontrol-e vazn",
+     "notes": "",
+     "keywords": [
+      "pishgiri az diabet-e no'-e 2"
+     ],
+     "distractors": [
+      "Keshidan-e sigar-e bishtar",
+      "Kam-taharroki",
+      "Khordan-e charbi-ye heyvani-ye bishtar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 979,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "اگر فشار مستقیم و باند فشاری هیچ‌کدام خون‌ریزی شدید و جهندهٔ سرخرگی دست یا پا را بند نیاورد، گام پایانی چیست؟",
+     "grading_key": "- [1] بستن شریان‌بند (تورنیکه) بالای زخم",
+     "final_resolution": "بستن شریان‌بند (تورنیکه) بالای زخم",
+     "notes": "",
+     "keywords": [
+      "شریان‌بند (تورنیکه)"
+     ],
+     "distractors": [
+      "شستن زخم زیر آب",
+      "مالیدن پماد",
+      "برداشتن همهٔ پانسمان‌ها برای دیدن زخم"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "If neither direct pressure nor a pressure bandage stops heavy, spurting arterial bleeding from an arm or leg, what is the last step?",
+     "grading_key": "- [1] Tie a tourniquet above the wound",
+     "final_resolution": "Tie a tourniquet above the wound",
+     "notes": "",
+     "keywords": [
+      "tourniquet"
+     ],
+     "distractors": [
+      "Wash the wound under the tap",
+      "Rub on ointment",
+      "Take off all the dressings to look at the wound"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Agar feshar-e mostaghim va band-e feshari hich-kodam khoonrizi-ye shadid va jahande-ye sorkhragi-ye dast ya pa ra band nayavarad, gam-e payani chist?",
+     "grading_key": "- [1] Bastan-e sharyan-band (toornike) balaye zakhm",
+     "final_resolution": "Bastan-e sharyan-band (toornike) balaye zakhm",
+     "notes": "",
+     "keywords": [
+      "sharyan-band (toornike)"
+     ],
+     "distractors": [
+      "Shostan-e zakhm zir-e ab",
+      "Malidan-e pomad",
+      "Bardashtan-e hame-ye pansman-ha baraye didan-e zakhm"
+     ]
+    }
+   }
+  }
+ ]
+}
