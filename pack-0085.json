@@ -1,0 +1,880 @@
+{
+ "version": 85,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 978,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ تابع گویا)",
+    "en": "Chapter 1: Functions (Domain of a Rational Function)",
+    "tr": "Fasl 1: Tabe' (Damane-ye Tabe'-e Gooya)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای پیدا کردن دامنهٔ تابع گویای ⁦f(x) = P(x) / Q(x)⁩، کدام عددها را باید از ⁦ℝ⁩ کنار گذاشت؟",
+     "grading_key": "- [1] The roots of the denominator Q(x)",
+     "final_resolution": "The roots of the denominator Q(x)",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ تابع گویا"
+     ],
+     "distractors": [
+      "The roots of the numerator P(x)",
+      "Only x = 0",
+      "The points where f changes sign"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "To find the domain of the rational function f(x) = P(x) / Q(x), which numbers must be removed from ℝ?",
+     "grading_key": "- [1] The roots of the denominator Q(x)",
+     "final_resolution": "The roots of the denominator Q(x)",
+     "notes": "",
+     "keywords": [
+      "domain of a rational function"
+     ],
+     "distractors": [
+      "The roots of the numerator P(x)",
+      "Only x = 0",
+      "The points where f changes sign"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye peyda kardan-e damane-ye tabe'-e gooya-ye f(x) = P(x) / Q(x), kodam adad-ha ra bayad az ℝ kenar gozasht?",
+     "grading_key": "- [1] The roots of the denominator Q(x)",
+     "final_resolution": "The roots of the denominator Q(x)",
+     "notes": "",
+     "keywords": [
+      "damane-ye tabe'-e gooya"
+     ],
+     "distractors": [
+      "The roots of the numerator P(x)",
+      "Only x = 0",
+      "The points where f changes sign"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 978,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (سهمی قائم)",
+    "en": "Chapter 6: Conic Sections (Vertical Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Sahmi-ye Ghaem)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "معادلهٔ خط هادی سهمی ⁦(x − h)² = 4p(y − k)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦y = k − p⁩",
+     "final_resolution": "⁦y = k − p⁩",
+     "notes": "",
+     "keywords": [
+      "خط هادی سهمی"
+     ],
+     "distractors": [
+      "⁦y = k + p⁩",
+      "⁦x = h − p⁩",
+      "⁦x = h + p⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the equation of the directrix of the parabola (x − h)² = 4p(y − k)?",
+     "grading_key": "- [1] ⁦y = k − p⁩",
+     "final_resolution": "⁦y = k − p⁩",
+     "notes": "",
+     "keywords": [
+      "directrix of a parabola"
+     ],
+     "distractors": [
+      "⁦y = k + p⁩",
+      "⁦x = h − p⁩",
+      "⁦x = h + p⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Moadele-ye khatt-e hadi-ye sahmi-ye (x − h)² = 4p(y − k) kodam ast?",
+     "grading_key": "- [1] ⁦y = k − p⁩",
+     "final_resolution": "⁦y = k − p⁩",
+     "notes": "",
+     "keywords": [
+      "khatt-e hadi-ye sahmi"
+     ],
+     "distractors": [
+      "⁦y = k + p⁩",
+      "⁦x = h − p⁩",
+      "⁦x = h + p⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 978,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (سهمی قائم)",
+    "en": "Chapter 6: Conic Sections (Vertical Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Sahmi-ye Ghaem)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "کانون سهمی ⁦(x − h)² = 4p(y − k)⁩ کدام نقطه است؟",
+     "grading_key": "- [1] ⁦(h, k + p)⁩",
+     "final_resolution": "⁦(h, k + p)⁩",
+     "notes": "",
+     "keywords": [
+      "کانون سهمی"
+     ],
+     "distractors": [
+      "⁦(h, k − p)⁩",
+      "⁦(h + p, k)⁩",
+      "⁦(h − p, k)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the focus of the parabola (x − h)² = 4p(y − k)?",
+     "grading_key": "- [1] ⁦(h, k + p)⁩",
+     "final_resolution": "⁦(h, k + p)⁩",
+     "notes": "",
+     "keywords": [
+      "focus of a parabola"
+     ],
+     "distractors": [
+      "⁦(h, k − p)⁩",
+      "⁦(h + p, k)⁩",
+      "⁦(h − p, k)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Kanoon-e sahmi-ye (x − h)² = 4p(y − k) kodam noghte ast?",
+     "grading_key": "- [1] ⁦(h, k + p)⁩",
+     "final_resolution": "⁦(h, k + p)⁩",
+     "notes": "",
+     "keywords": [
+      "kanoon-e sahmi"
+     ],
+     "distractors": [
+      "⁦(h, k − p)⁩",
+      "⁦(h + p, k)⁩",
+      "⁦(h − p, k)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 978,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا تَبْخَسُوا» در عبارت زیر کدام است؟\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] کم مدهید، از ارزشش نکاهید",
+     "final_resolution": "کم مدهید، از ارزشش نکاهید",
+     "notes": "",
+     "keywords": [
+      "لَا تَبْخَسُوا"
+     ],
+     "distractors": [
+      "نخرید",
+      "نکارید",
+      "بسیار نستایید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا تَبْخَسُوا» mean in this verse?\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] Do not short-change, do not cut the value of",
+     "final_resolution": "Do not short-change, do not cut the value of",
+     "notes": "",
+     "keywords": [
+      "la tabkhasu (do not short-change)"
+     ],
+     "distractors": [
+      "Do not buy",
+      "Do not plant",
+      "Do not overpraise"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la tabkhasu» dar ebarat-e zir kodam ast?\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] Kam madahid, az arzeshash nakahid",
+     "final_resolution": "Kam madahid, az arzeshash nakahid",
+     "notes": "",
+     "keywords": [
+      "la tabkhasu"
+     ],
+     "distractors": [
+      "Nakharid",
+      "Nakarid",
+      "Besyar nasetayid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 978,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا تَعْثَوْا» در عبارت زیر کدام است؟\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] تبهکاری و فساد مکنید",
+     "final_resolution": "تبهکاری و فساد مکنید",
+     "notes": "",
+     "keywords": [
+      "لَا تَعْثَوْا"
+     ],
+     "distractors": [
+      "سفر مکنید",
+      "خانه مسازید",
+      "دانش را پنهان مکنید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا تَعْثَوْا» mean in this verse?\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] Do not spread mischief and corruption",
+     "final_resolution": "Do not spread mischief and corruption",
+     "notes": "",
+     "keywords": [
+      "la ta'thaw (do not spread mischief)"
+     ],
+     "distractors": [
+      "Do not travel",
+      "Do not build houses",
+      "Do not hide knowledge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la ta'thaw» dar ebarat-e zir kodam ast?\n«وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.»",
+     "grading_key": "- [1] Tabahkari va fesad makonid",
+     "final_resolution": "Tabahkari va fesad makonid",
+     "notes": "",
+     "keywords": [
+      "la ta'thaw"
+     ],
+     "distractors": [
+      "Safar makonid",
+      "Khane masazid",
+      "Danesh ra penhan makonid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 978,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «طوع» در جملهٔ زیر چیست؟\n«آن دلداده با طوع و رغبت، سختی‌های راه را به جان خرید.»",
+     "grading_key": "- [1] فرمان‌برداری از روی میل",
+     "final_resolution": "فرمان‌برداری از روی میل",
+     "notes": "",
+     "keywords": [
+      "طوع"
+     ],
+     "distractors": [
+      "اجبار و ناخشنودی",
+      "هراس",
+      "بی‌اعتنایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «طوع» mean in this sentence?\n«آن دلداده با طوع و رغبت، سختی‌های راه را به جان خرید.»",
+     "grading_key": "- [1] Willing obedience, free consent",
+     "final_resolution": "Willing obedience, free consent",
+     "notes": "",
+     "keywords": [
+      "tow' (willing obedience)"
+     ],
+     "distractors": [
+      "Force and resentment",
+      "Panic",
+      "Indifference"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tow'» dar jomle-ye zir chist?\n«آن دلداده با طوع و رغبت، سختی‌های راه را به جان خرید.»",
+     "grading_key": "- [1] Farman-bardari az rooye meyl",
+     "final_resolution": "Farman-bardari az rooye meyl",
+     "notes": "",
+     "keywords": [
+      "tow'"
+     ],
+     "distractors": [
+      "Ejbar va nakhoshnoodi",
+      "Heras",
+      "Bi-e'tenayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 978,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «متنبه» در جملهٔ زیر چیست؟\n«سخنان حکیمانهٔ استاد، جان غافل مرا متنبه ساخت.»",
+     "grading_key": "- [1] آگاه و بیدار شده، پند گرفته",
+     "final_resolution": "آگاه و بیدار شده، پند گرفته",
+     "notes": "",
+     "keywords": [
+      "متنبه"
+     ],
+     "distractors": [
+      "فریب خورده",
+      "غافل و خفته",
+      "زخمی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «متنبه» mean in this sentence?\n«سخنان حکیمانهٔ استاد، جان غافل مرا متنبه ساخت.»",
+     "grading_key": "- [1] Awakened, brought to their senses",
+     "final_resolution": "Awakened, brought to their senses",
+     "notes": "",
+     "keywords": [
+      "motanabbeh (awakened, warned)"
+     ],
+     "distractors": [
+      "Deceived",
+      "Asleep, careless",
+      "Injured"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «motanabbeh» dar jomle-ye zir chist?\n«سخنان حکیمانهٔ استاد، جان غافل مرا متنبه ساخت.»",
+     "grading_key": "- [1] Agah va bidar shode, pand gerefte",
+     "final_resolution": "Agah va bidar shode, pand gerefte",
+     "notes": "",
+     "keywords": [
+      "motanabbeh"
+     ],
+     "distractors": [
+      "Farib khorde",
+      "Ghafel va khofte",
+      "Zakhmi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 978,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «صلابت» در جملهٔ زیر چیست؟\n«در افق کویر، تک‌درختان گز نمودار صلابت و پایداری بودند.»",
+     "grading_key": "- [1] استواری و سختی",
+     "final_resolution": "استواری و سختی",
+     "notes": "",
+     "keywords": [
+      "صلابت"
+     ],
+     "distractors": [
+      "شکنندگی",
+      "خاموشی",
+      "گرمای سوزان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «صلابت» mean in this sentence?\n«در افق کویر، تک‌درختان گز نمودار صلابت و پایداری بودند.»",
+     "grading_key": "- [1] Firmness, toughness",
+     "final_resolution": "Firmness, toughness",
+     "notes": "",
+     "keywords": [
+      "salabat (firmness)"
+     ],
+     "distractors": [
+      "Fragility",
+      "Silence",
+      "Scorching heat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «salabat» dar jomle-ye zir chist?\n«در افق کویر، تک‌درختان گز نمودار صلابت و پایداری بودند.»",
+     "grading_key": "- [1] Ostovari va sakhti",
+     "final_resolution": "Ostovari va sakhti",
+     "notes": "",
+     "keywords": [
+      "salabat"
+     ],
+     "distractors": [
+      "Shekanandegi",
+      "Khamooshi",
+      "Garma-ye soozan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 978,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: کنایه)",
+    "en": "Persian 3 (Literary Devices: Kenaye)",
+    "tr": "Adabiyat-e Farsi 3 (Kenaye)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "به کار بردن عبارتی در معنای دور آن، به گونه‌ای که معنای نزدیک هم پذیرفتنی باشد (مانند «ریش‌سفید» برای بزرگ و باتجربه)، کدام آرایه است؟",
+     "grading_key": "- [1] کنایه",
+     "final_resolution": "کنایه",
+     "notes": "",
+     "keywords": [
+      "کنایه"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Using a phrase for its far meaning while the near, literal meaning still makes sense (like \"white-bearded\" for an experienced elder) is which device?",
+     "grading_key": "- [1] Kenaye (implied meaning)",
+     "final_resolution": "Kenaye (implied meaning)",
+     "notes": "",
+     "keywords": [
+      "kenaye (implied meaning)"
+     ],
+     "distractors": [
+      "Jinas-e tam (homonym pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Be kar bordan-e ebarati dar ma'na-ye door-e an, be goone-i ke ma'na-ye nazdik ham paziroftani bashad (manand-e \"rish-sefid\" baraye bozorg va ba-tajrobe), kodam araye ast?",
+     "grading_key": "- [1] Kenaye",
+     "final_resolution": "Kenaye",
+     "notes": "",
+     "keywords": [
+      "kenaye"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 978,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «منسوب به شهر حلب» است، در ترکیب «آبگینهٔ ...» کدام است؟",
+     "grading_key": "- [1] آبگینهٔ حلبی",
+     "final_resolution": "آبگینهٔ حلبی",
+     "notes": "",
+     "keywords": [
+      "حلبی"
+     ],
+     "distractors": [
+      "آبگینهٔ هلبی",
+      "آبگینهٔ حالبی",
+      "آبگینهٔ حلبئ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling, in 'آبگینهٔ ...', of the word meaning 'from the city of Aleppo'?",
+     "grading_key": "- [1] آبگینهٔ حلبی",
+     "final_resolution": "آبگینهٔ حلبی",
+     "notes": "",
+     "keywords": [
+      "halabi (of Aleppo)"
+     ],
+     "distractors": [
+      "آبگینهٔ هلبی",
+      "آبگینهٔ حالبی",
+      "آبگینهٔ حلبئ"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'mansoob be shahr-e Halab' ast, dar tarkib-e 'abgine-ye ...' kodam ast?",
+     "grading_key": "- [1] آبگینهٔ حلبی",
+     "final_resolution": "آبگینهٔ حلبی",
+     "notes": "",
+     "keywords": [
+      "halabi"
+     ],
+     "distractors": [
+      "آبگینهٔ هلبی",
+      "آبگینهٔ حالبی",
+      "آبگینهٔ حلبئ"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 978,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "50–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "استفادهٔ مشترک از سرنگ، سوزن یا وسایل تیز استریل‌نشده، نمونهٔ آشکار کدام راه انتقال است؟",
+     "grading_key": "- [1] انتقال از راه خون",
+     "final_resolution": "انتقال از راه خون",
+     "notes": "",
+     "keywords": [
+      "انتقال از راه خون"
+     ],
+     "distractors": [
+      "انتقال با ناقل",
+      "انتقال با قطره‌های تنفسی",
+      "انتقال از راه آب و غذا"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Sharing unsterilised syringes, needles or sharp tools is a clear example of which route of transmission?",
+     "grading_key": "- [1] Transmission through blood",
+     "final_resolution": "Transmission through blood",
+     "notes": "",
+     "keywords": [
+      "blood-borne transmission"
+     ],
+     "distractors": [
+      "Transmission by a vector",
+      "Transmission by respiratory droplets",
+      "Transmission through food and water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Estefade-ye moshtarak az sorang, soozan ya vasayel-e tiz-e esteril-nashode, nemoone-ye ashkar-e kodam rah-e enteghal ast?",
+     "grading_key": "- [1] Enteghal az rah-e khoon",
+     "final_resolution": "Enteghal az rah-e khoon",
+     "notes": "",
+     "keywords": [
+      "enteghal az rah-e khoon"
+     ],
+     "distractors": [
+      "Enteghal ba naghel",
+      "Enteghal ba ghatre-haye tanaffosi",
+      "Enteghal az rah-e ab va ghaza"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 978,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "اگر فشار مستقیم روی زخم، خون‌ریزی شدید دست یا پا را بند نیاورد، گام بعدی چیست؟",
+     "grading_key": "- [1] بستن باند فشاری و بالا نگه داشتن عضو",
+     "final_resolution": "بستن باند فشاری و بالا نگه داشتن عضو",
+     "notes": "",
+     "keywords": [
+      "باند فشاری"
+     ],
+     "distractors": [
+      "شستن زخم با آب جوش",
+      "مالیدن روغن",
+      "برداشتن پانسمان نخست برای دیدن زخم"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "If direct pressure on the wound does not stop heavy bleeding from an arm or leg, what is the next step?",
+     "grading_key": "- [1] Put on a pressure bandage and raise the limb",
+     "final_resolution": "Put on a pressure bandage and raise the limb",
+     "notes": "",
+     "keywords": [
+      "pressure bandage"
+     ],
+     "distractors": [
+      "Wash the wound with boiling water",
+      "Rub oil on it",
+      "Remove the first dressing to look at the wound"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Agar feshar-e mostaghim rooye zakhm, khoonrizi-ye shadid-e dast ya pa ra band nayavarad, gam-e ba'di chist?",
+     "grading_key": "- [1] Bastan-e band-e feshari va bala negah dashtan-e ozv",
+     "final_resolution": "Bastan-e band-e feshari va bala negah dashtan-e ozv",
+     "notes": "",
+     "keywords": [
+      "band-e feshari"
+     ],
+     "distractors": [
+      "Shostan-e zakhm ba ab-e joosh",
+      "Malidan-e roghan",
+      "Bardashtan-e pansman-e nokhost baraye didan-e zakhm"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 978,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کدام کربوهیدرات‌های پیچیدهٔ گوارش‌ناپذیر در سبزی‌ها و غلات کامل، حرکات روده را آسان می‌کنند و از یبوست پیشگیری می‌کنند؟",
+     "grading_key": "- [1] فیبرهای غذایی",
+     "final_resolution": "فیبرهای غذایی",
+     "notes": "",
+     "keywords": [
+      "فیبر غذایی"
+     ],
+     "distractors": [
+      "چربی‌های اشباع",
+      "گلیکوژن",
+      "اسیدهای آمینه"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "Which indigestible complex carbohydrates in vegetables and whole grains help the bowel move and prevent constipation?",
+     "grading_key": "- [1] Dietary fibre",
+     "final_resolution": "Dietary fibre",
+     "notes": "",
+     "keywords": [
+      "dietary fibre"
+     ],
+     "distractors": [
+      "Saturated fats",
+      "Glycogen",
+      "Amino acids"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kodam karbohidrat-haye pichide-ye govaresh-napazir dar sabzi-ha va gholat-e kamel, harekat-e roode ra asan mikonand va az yaboosat pishgiri mikonand?",
+     "grading_key": "- [1] Fibr-haye ghazayi",
+     "final_resolution": "Fibr-haye ghazayi",
+     "notes": "",
+     "keywords": [
+      "fibr-e ghazayi"
+     ],
+     "distractors": [
+      "Charbi-haye eshba'",
+      "Glikozhen",
+      "Asid-haye amine"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 978,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "برای فهمیدن اینکه مصدوم بیهوش به محرک‌ها پاسخ می‌دهد یا نه، نخست چه باید کرد؟",
+     "grading_key": "- [1] صدا زدن بلند و تکان دادن آرام شانه‌ها",
+     "final_resolution": "صدا زدن بلند و تکان دادن آرام شانه‌ها",
+     "notes": "",
+     "keywords": [
+      "بررسی پاسخ‌دهی"
+     ],
+     "distractors": [
+      "شروع فوری فشردن قفسهٔ سینه",
+      "سوزن زدن به انگشت",
+      "ریختن آب سرد روی صورت"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "To find out whether an unconscious casualty responds, what should you do first?",
+     "grading_key": "- [1] Tap their shoulders gently and call out loudly",
+     "final_resolution": "Tap their shoulders gently and call out loudly",
+     "notes": "",
+     "keywords": [
+      "checking responsiveness"
+     ],
+     "distractors": [
+      "Start chest compressions at once",
+      "Prick a finger with a needle",
+      "Pour cold water on their face"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Baraye fahmidan-e inke masdoom-e bihoosh be moharrek-ha pasokh midahad ya na, nokhost che bayad kard?",
+     "grading_key": "- [1] Seda zadan-e boland va tekan dadan-e aram-e shane-ha",
+     "final_resolution": "Seda zadan-e boland va tekan dadan-e aram-e shane-ha",
+     "notes": "",
+     "keywords": [
+      "barrasi-ye pasokh-dehi"
+     ],
+     "distractors": [
+      "Shoroo'-e fori-ye feshordan-e ghafase-ye sine",
+      "Soozan zadan be angosht",
+      "Rikhtan-e ab-e sard rooye soorat"
+     ]
+    }
+   }
+  }
+ ]
+}
