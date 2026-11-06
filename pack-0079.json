@@ -1,0 +1,953 @@
+{
+ "version": 79,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 972,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (معادلهٔ گستردهٔ دایره)",
+    "en": "Chapter 6: Conic Sections (General Equation of a Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Moadele-ye Gostarde-ye Dayere)",
+    "pages": "126–128"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "معادلهٔ ⁦x² + y² + ax + by + c = 0⁩ وقتی یک دایرهٔ واقعی است که کدام شرط برقرار باشد؟",
+     "grading_key": "- [1] ⁦a² + b² − 4c > 0⁩",
+     "final_resolution": "⁦a² + b² − 4c > 0⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ گستردهٔ دایره"
+     ],
+     "distractors": [
+      "⁦a² + b² − c > 0⁩",
+      "⁦a² + b² + 4c > 0⁩",
+      "⁦a + b − c > 0⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "The equation x² + y² + ax + by + c = 0 is a real circle when which condition holds?",
+     "grading_key": "- [1] ⁦a² + b² − 4c > 0⁩",
+     "final_resolution": "⁦a² + b² − 4c > 0⁩",
+     "notes": "",
+     "keywords": [
+      "general equation of a circle"
+     ],
+     "distractors": [
+      "⁦a² + b² − c > 0⁩",
+      "⁦a² + b² + 4c > 0⁩",
+      "⁦a + b − c > 0⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Moadele-ye x² + y² + ax + by + c = 0 vaghti yek dayere-ye vaghe'i ast ke kodam shart barghrar bashad?",
+     "grading_key": "- [1] ⁦a² + b² − 4c > 0⁩",
+     "final_resolution": "⁦a² + b² − 4c > 0⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye gostarde-ye dayere"
+     ],
+     "distractors": [
+      "⁦a² + b² − c > 0⁩",
+      "⁦a² + b² + 4c > 0⁩",
+      "⁦a + b − c > 0⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 972,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (هذلولی)",
+    "en": "Chapter 6: Conic Sections (Hyperbola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Hozloli)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "مجموعهٔ نقاطی از صفحه که قدر مطلق تفاضل فاصله‌هایشان از دو نقطهٔ ثابت (کانون‌ها) عددی ثابت و کمتر از فاصلهٔ دو کانون است، چه نام دارد؟",
+     "grading_key": "- [1] هذلولی",
+     "final_resolution": "هذلولی",
+     "notes": "",
+     "keywords": [
+      "هذلولی"
+     ],
+     "distractors": [
+      "بیضی",
+      "سهمی",
+      "دایره"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "The set of points in a plane for which the absolute difference of their distances from two fixed points (the foci) is a constant, smaller than the distance between the foci, is called what?",
+     "grading_key": "- [1] Hyperbola",
+     "final_resolution": "Hyperbola",
+     "notes": "",
+     "keywords": [
+      "hyperbola"
+     ],
+     "distractors": [
+      "Ellipse",
+      "Parabola",
+      "Circle"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Majmoo'e-ye noghati az safhe ke ghadr-e motlagh-e tafazol-e fasele-hayeshan az do noghte-ye sabet (kanoon-ha) adadi sabet va kamtar az fasele-ye do kanoon ast, che nam darad?",
+     "grading_key": "- [1] Hozloli",
+     "final_resolution": "Hozloli",
+     "notes": "",
+     "keywords": [
+      "hozloli"
+     ],
+     "distractors": [
+      "Beyzi",
+      "Sahmi",
+      "Dayere"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 972,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (محور تقارن سهمی)",
+    "en": "Chapter 6: Conic Sections (Axis of a Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Mehvar-e Tagharon)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در سهمی، خطی که از کانون می‌گذرد، بر خط هادی عمود است و سهمی را به دو نیمهٔ قرینه تقسیم می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] محور تقارن",
+     "final_resolution": "محور تقارن",
+     "notes": "",
+     "keywords": [
+      "محور تقارن سهمی"
+     ],
+     "distractors": [
+      "وتر کانونی",
+      "قطر بزرگ",
+      "مجانب"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In a parabola, the line through the focus, perpendicular to the directrix, that splits the parabola into two mirror halves is called what?",
+     "grading_key": "- [1] The axis of symmetry",
+     "final_resolution": "The axis of symmetry",
+     "notes": "",
+     "keywords": [
+      "parabola's axis of symmetry"
+     ],
+     "distractors": [
+      "A focal chord",
+      "The major axis",
+      "An asymptote"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar sahmi, khatti ke az kanoon migozarad, bar khatt-e hadi amood ast va sahmi ra be do nime-ye gharine taghsim mikonad, che nam darad?",
+     "grading_key": "- [1] Mehvar-e tagharon",
+     "final_resolution": "Mehvar-e tagharon",
+     "notes": "",
+     "keywords": [
+      "mehvar-e tagharon-e sahmi"
+     ],
+     "distractors": [
+      "Vatar-e kanooni",
+      "Ghotr-e bozorg",
+      "Mojaneb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 972,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (معادلهٔ گستردهٔ دایره)",
+    "en": "Chapter 6: Conic Sections (General Equation of a Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Moadele-ye Gostarde-ye Dayere)",
+    "pages": "126–127"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "مرکز دایرهٔ ⁦x² + y² + ax + by + c = 0⁩ کدام نقطه است؟",
+     "grading_key": "- [1] ⁦(−a/2, −b/2)⁩",
+     "final_resolution": "⁦(−a/2, −b/2)⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ گستردهٔ دایره"
+     ],
+     "distractors": [
+      "⁦(a/2, b/2)⁩",
+      "⁦(−a, −b)⁩",
+      "⁦(a, b)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "What is the centre of the circle x² + y² + ax + by + c = 0?",
+     "grading_key": "- [1] ⁦(−a/2, −b/2)⁩",
+     "final_resolution": "⁦(−a/2, −b/2)⁩",
+     "notes": "",
+     "keywords": [
+      "general equation of a circle"
+     ],
+     "distractors": [
+      "⁦(a/2, b/2)⁩",
+      "⁦(−a, −b)⁩",
+      "⁦(a, b)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Markaz-e dayere-ye x² + y² + ax + by + c = 0 kodam noghte ast?",
+     "grading_key": "- [1] ⁦(−a/2, −b/2)⁩",
+     "final_resolution": "⁦(−a/2, −b/2)⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye gostarde-ye dayere"
+     ],
+     "distractors": [
+      "⁦(a/2, b/2)⁩",
+      "⁦(−a, −b)⁩",
+      "⁦(a, b)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 972,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (هدفمندی جهان)",
+    "en": "Religion and Life (A World with a Purpose)",
+    "tr": "Din va Zendegi (Hadafmandi-ye Jahan)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "اینکه نظام هماهنگ آفرینش همهٔ موجودات را به سوی هدفی نهایی می‌برد، کدام حقیقت را نشان می‌دهد؟",
+     "grading_key": "- [1] هدفمندی جهان",
+     "final_resolution": "هدفمندی جهان",
+     "notes": "",
+     "keywords": [
+      "هدفمندی جهان"
+     ],
+     "distractors": [
+      "پیدایش تصادفی جهان",
+      "بی‌نیازی ماده از آفریننده",
+      "شرک در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "That the harmonious order of creation carries every being toward a final goal shows which truth?",
+     "grading_key": "- [1] The world has a purpose",
+     "final_resolution": "The world has a purpose",
+     "notes": "",
+     "keywords": [
+      "purposefulness of the world"
+     ],
+     "distractors": [
+      "The world came about by chance",
+      "Matter needs no creator",
+      "Polytheism in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Inke nezam-e hamahang-e afarinesh hame-ye mojoodat ra be sooye hadafi nahayi mibarad, kodam haghighat ra neshan midahad?",
+     "grading_key": "- [1] Hadafmandi-ye jahan",
+     "final_resolution": "Hadafmandi-ye jahan",
+     "notes": "",
+     "keywords": [
+      "hadafmandi-ye jahan"
+     ],
+     "distractors": [
+      "Peydayesh-e tasadofi-ye jahan",
+      "Bi-niyazi-ye madde az afarinande",
+      "Sherk dar rooboobiyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 972,
+   "topic_tag": "practical-monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: توحید و سبک زندگی (شخصیت یکپارچه)",
+    "en": "Lesson 3: Monotheism and Way of Life (A Whole Personality)",
+    "tr": "Dars 3: Towhid va Sabk-e Zendegi",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "توحید و سبک زندگی",
+     "question": "مهم‌ترین اثر درونی توحید عملی بر روح انسان، که در سختی‌ها شخصیت او را از درهم‌شکستن نگه می‌دارد، چیست؟",
+     "grading_key": "- [1] آرامش روحی و شخصیت یکپارچه",
+     "final_resolution": "آرامش روحی و شخصیت یکپارچه",
+     "notes": "",
+     "keywords": [
+      "آثار توحید عملی"
+     ],
+     "distractors": [
+      "غرور و خودپسندی",
+      "به دست آوردن سریع ثروت",
+      "رها شدن از همهٔ وظایف اجتماعی"
+     ]
+    },
+    "en": {
+     "topic_label": "Monotheism and Way of Life",
+     "question": "What is the chief inner fruit of practical monotheism for the soul, which keeps a person from falling apart in hard times?",
+     "grading_key": "- [1] Peace of mind and a whole, undivided personality",
+     "final_resolution": "Peace of mind and a whole, undivided personality",
+     "notes": "",
+     "keywords": [
+      "fruits of practical monotheism"
+     ],
+     "distractors": [
+      "Pride and vanity",
+      "Getting rich quickly",
+      "Freedom from every social duty"
+     ]
+    },
+    "tr": {
+     "topic_label": "Towhid va Sabk-e Zendegi",
+     "question": "Mohem-tarin asar-e darooni-ye towhid-e amali bar rooh-e ensan, ke dar sakhti-ha shakhsiyat-e oo ra az daham-shekastan negah midarad, chist?",
+     "grading_key": "- [1] Aramesh-e roohi va shakhsiyat-e yekparche",
+     "final_resolution": "Aramesh-e roohi va shakhsiyat-e yekparche",
+     "notes": "",
+     "keywords": [
+      "asar-e towhid-e amali"
+     ],
+     "distractors": [
+      "Ghoroor va khodpasandi",
+      "Be dast avardan-e sari'-e servat",
+      "Raha shodan az hame-ye vazayef-e ejtemai"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 972,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَخِیمَةٌ» در عبارت زیر کدام است؟\n«عَاقِبَةُ الظُّلْمِ وَخِیمَةٌ.»",
+     "grading_key": "- [1] ناگوار، وخیم",
+     "final_resolution": "ناگوار، وخیم",
+     "notes": "",
+     "keywords": [
+      "وَخِیمَةٌ"
+     ],
+     "distractors": [
+      "خوشایند",
+      "پنهان",
+      "بازرگانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَخِیمَةٌ» mean in this saying?\n«عَاقِبَةُ الظُّلْمِ وَخِیمَةٌ.»",
+     "grading_key": "- [1] Disastrous, grim",
+     "final_resolution": "Disastrous, grim",
+     "notes": "",
+     "keywords": [
+      "wakhima (disastrous)"
+     ],
+     "distractors": [
+      "Pleasant",
+      "Hidden",
+      "Commercial"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wakhimatun» dar ebarat-e zir kodam ast?\n«عَاقِبَةُ الظُّلْمِ وَخِیمَةٌ.»",
+     "grading_key": "- [1] Nagovar, vakhim",
+     "final_resolution": "Nagovar, vakhim",
+     "notes": "",
+     "keywords": [
+      "wakhimatun"
+     ],
+     "distractors": [
+      "Khoshayand",
+      "Penhan",
+      "Bazargani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 972,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تَمَّ» در عبارت زیر کدام است؟\n«إِذَا تَمَّ الْعَقْلُ نَقَصَ الْکَلَامُ.»",
+     "grading_key": "- [1] کامل شد",
+     "final_resolution": "کامل شد",
+     "notes": "",
+     "keywords": [
+      "تَمَّ"
+     ],
+     "distractors": [
+      "کم شد",
+      "شکست خورد",
+      "سخن گفت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَمَّ» mean in this saying?\n«إِذَا تَمَّ الْعَقْلُ نَقَصَ الْکَلَامُ.»",
+     "grading_key": "- [1] Became complete",
+     "final_resolution": "Became complete",
+     "notes": "",
+     "keywords": [
+      "tamma (became complete)"
+     ],
+     "distractors": [
+      "Became less",
+      "Failed",
+      "Spoke"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tamma» dar ebarat-e zir kodam ast?\n«إِذَا تَمَّ الْعَقْلُ نَقَصَ الْکَلَامُ.»",
+     "grading_key": "- [1] Kamel shod",
+     "final_resolution": "Kamel shod",
+     "notes": "",
+     "keywords": [
+      "tamma"
+     ],
+     "distractors": [
+      "Kam shod",
+      "Shekast khord",
+      "Sokhan goft"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 972,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «ضِیَاءً» در عبارت زیر کدام است؟\n«هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً.»",
+     "grading_key": "- [1] روشنایی، نور درخشان",
+     "final_resolution": "روشنایی، نور درخشان",
+     "notes": "",
+     "keywords": [
+      "ضِیَاءً"
+     ],
+     "distractors": [
+      "سایه",
+      "گرانش",
+      "مدار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «ضِیَاءً» mean in this verse?\n«هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً.»",
+     "grading_key": "- [1] Bright light, radiance",
+     "final_resolution": "Bright light, radiance",
+     "notes": "",
+     "keywords": [
+      "diya' (bright light)"
+     ],
+     "distractors": [
+      "Shadow",
+      "Gravity",
+      "Orbit"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «diya'an» dar ebarat-e zir kodam ast?\n«هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً.»",
+     "grading_key": "- [1] Rowshanayi, noor-e derakhshan",
+     "final_resolution": "Rowshanayi, noor-e derakhshan",
+     "notes": "",
+     "keywords": [
+      "diya'an"
+     ],
+     "distractors": [
+      "Saye",
+      "Geranesh",
+      "Madar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 972,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (بحران جهان سکولار)",
+    "en": "Lesson 3: The Cultural World (Crisis of the Secular World)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "نادیده گرفتن نیازهای معنوی انسان در جهان فرهنگی سکولار، کدام بحران را پدید می‌آورد؟",
+     "grading_key": "- [1] بحران معنویت و هویت",
+     "final_resolution": "بحران معنویت و هویت",
+     "notes": "",
+     "keywords": [
+      "بحران معنوی جهان سکولار"
+     ],
+     "distractors": [
+      "بحران مرزهای جغرافیایی",
+      "عقب‌ماندگی صنعتی",
+      "کمبود مواد خام"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "Ignoring people's spiritual needs in a secular cultural world brings about which crisis?",
+     "grading_key": "- [1] A crisis of meaning and identity",
+     "final_resolution": "A crisis of meaning and identity",
+     "notes": "",
+     "keywords": [
+      "spiritual crisis of the secular world"
+     ],
+     "distractors": [
+      "A crisis over geographic borders",
+      "Falling behind in industry",
+      "A shortage of raw materials"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Nadide gereftan-e niyaz-haye ma'navi-ye ensan dar jahan-e farhangi-ye sekolar, kodam bohran ra padid miavarad?",
+     "grading_key": "- [1] Bohran-e ma'naviyat va hoviyat",
+     "final_resolution": "Bohran-e ma'naviyat va hoviyat",
+     "notes": "",
+     "keywords": [
+      "bohran-e ma'navi-ye jahan-e sekolar"
+     ],
+     "distractors": [
+      "Bohran-e marz-haye joghrafiyayi",
+      "Aghab-mandegi-ye san'ati",
+      "Kambood-e mavad-e kham"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 972,
+   "topic_tag": "social-action",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: کنش‌های ما (هدف کنش)",
+    "en": "Lesson 1: Our Actions (Goal of an Action)",
+    "tr": "Dars 1: Konesh-haye Ma",
+    "pages": "4–6"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کنش اجتماعی",
+     "question": "مقصودی که کنشگر پیش از انجام کنش در ذهن دارد و کنش را برای رسیدن به آن انجام می‌دهد، چه نام دارد؟",
+     "grading_key": "- [1] هدف کنش",
+     "final_resolution": "هدف کنش",
+     "notes": "",
+     "keywords": [
+      "هدف کنش"
+     ],
+     "distractors": [
+      "پیامد غیرارادی کنش",
+      "هنجار اجتماعی",
+      "نماد اجتماعی"
+     ]
+    },
+    "en": {
+     "topic_label": "Social Action",
+     "question": "What is the aim called that an actor has in mind before acting, and acts in order to reach?",
+     "grading_key": "- [1] The goal of the action",
+     "final_resolution": "The goal of the action",
+     "notes": "",
+     "keywords": [
+      "goal of an action"
+     ],
+     "distractors": [
+      "An involuntary consequence",
+      "A social norm",
+      "A social symbol"
+     ]
+    },
+    "tr": {
+     "topic_label": "Konesh-e Ejtemai",
+     "question": "Maghsoodi ke koneshgar pish az anjam-e konesh dar zehn darad va konesh ra baraye residan be an anjam midahad, che nam darad?",
+     "grading_key": "- [1] Hadaf-e konesh",
+     "final_resolution": "Hadaf-e konesh",
+     "notes": "",
+     "keywords": [
+      "hadaf-e konesh"
+     ],
+     "distractors": [
+      "Payamad-e gheyr-e eradi-ye konesh",
+      "Hanjar-e ejtemai",
+      "Nemad-e ejtemai"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 972,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "برای پیدا کردن زودهنگام دیابت بی‌نشانه در افراد بالای ۴۰ سال، ساده‌ترین و کارآمدترین آزمایش کدام است؟",
+     "grading_key": "- [1] آزمایش قند خون ناشتا (FBS)",
+     "final_resolution": "آزمایش قند خون ناشتا (FBS)",
+     "notes": "",
+     "keywords": [
+      "آزمایش قند خون ناشتا"
+     ],
+     "distractors": [
+      "شمارش کامل خون (CBC)",
+      "الکتروفورز هموگلوبین",
+      "آزمایش اسید اوریک"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "To find hidden diabetes early in people over 40, which test is the simplest and most useful?",
+     "grading_key": "- [1] Fasting blood sugar (FBS)",
+     "final_resolution": "Fasting blood sugar (FBS)",
+     "notes": "",
+     "keywords": [
+      "fasting blood sugar test"
+     ],
+     "distractors": [
+      "Complete blood count (CBC)",
+      "Haemoglobin electrophoresis",
+      "Uric acid test"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Baraye peyda kardan-e zood-hengam-e diabet-e bi-neshane dar afrad-e balaye 40 sal, sade-tarin va karamad-tarin azmayesh kodam ast?",
+     "grading_key": "- [1] Azmayesh-e ghand-e khoon-e nashta (FBS)",
+     "final_resolution": "Azmayesh-e ghand-e khoon-e nashta (FBS)",
+     "notes": "",
+     "keywords": [
+      "azmayesh-e ghand-e khoon-e nashta"
+     ],
+     "distractors": [
+      "Shomaresh-e kamel-e khoon (CBC)",
+      "Elektroforez-e hemoglobin",
+      "Azmayesh-e asid-e urik"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 972,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در تصفیه‌خانهٔ آب آشامیدنی شهری، نخستین گام فیزیکی برای جدا کردن ذرات درشت، شاخ و برگ و زباله چیست؟",
+     "grading_key": "- [1] آشغال‌گیری (عبور از توری)",
+     "final_resolution": "آشغال‌گیری (عبور از توری)",
+     "notes": "",
+     "keywords": [
+      "آشغال‌گیری در تصفیهٔ آب"
+     ],
+     "distractors": [
+      "کلرزنی",
+      "هوادهی",
+      "گرفتن فلزات سنگین با مواد شیمیایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In a city drinking-water treatment plant, what is the first physical step to remove large particles, leaves and rubbish?",
+     "grading_key": "- [1] Screening (passing through grids)",
+     "final_resolution": "Screening (passing through grids)",
+     "notes": "",
+     "keywords": [
+      "screening in water treatment"
+     ],
+     "distractors": [
+      "Chlorination",
+      "Aeration",
+      "Removing heavy metals with chemicals"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar tasfiye-khane-ye ab-e ashamidani-ye shahri, nokhostin gam-e fiziki baraye joda kardan-e zarrat-e dorosht, shakh va barg va zobale chist?",
+     "grading_key": "- [1] Ashghal-giri (oboor az toori)",
+     "final_resolution": "Ashghal-giri (oboor az toori)",
+     "notes": "",
+     "keywords": [
+      "ashghal-giri dar tasfiye-ye ab"
+     ],
+     "distractors": [
+      "Kolor-zani",
+      "Hava-dehi",
+      "Gereftan-e felezat-e sangin ba mavad-e shimiyayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 972,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "به کار بردن حرارت زیاد، الکل یا ترکیب‌های کلردار روی اشیای بی‌جان برای نابود کردن عوامل بیماری‌زا، کدام روش است؟",
+     "grading_key": "- [1] گندزدایی (ضدعفونی)",
+     "final_resolution": "گندزدایی (ضدعفونی)",
+     "notes": "",
+     "keywords": [
+      "گندزدایی"
+     ],
+     "distractors": [
+      "واکسیناسیون",
+      "درمان با آنتی‌بیوتیک",
+      "جداسازی بیمار (قرنطینه)"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Using strong heat, alcohol or chlorine compounds on non-living objects to destroy disease agents is which method?",
+     "grading_key": "- [1] Disinfection",
+     "final_resolution": "Disinfection",
+     "notes": "",
+     "keywords": [
+      "disinfection"
+     ],
+     "distractors": [
+      "Vaccination",
+      "Antibiotic treatment",
+      "Isolating the patient (quarantine)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Be kar bordan-e hararat-e ziyad, alkol ya tarkib-haye kolordar rooye ashya-ye bi-jan baraye naboodi-ye avamel-e bimari-za, kodam ravesh ast?",
+     "grading_key": "- [1] Gand-zodayi (zedd-e ofooni)",
+     "final_resolution": "Gand-zodayi (zedd-e ofooni)",
+     "notes": "",
+     "keywords": [
+      "gand-zodayi"
+     ],
+     "distractors": [
+      "Vaksinasiyon",
+      "Darman ba antibiyotik",
+      "Joda-sazi-ye bimar (gharantine)"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 972,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در کمک‌های اولیه، نخستین گام در صحنهٔ یک تصادف، پیش از دست زدن به مصدوم، چیست؟",
+     "grading_key": "- [1] بررسی و ایمن کردن صحنهٔ حادثه",
+     "final_resolution": "بررسی و ایمن کردن صحنهٔ حادثه",
+     "notes": "",
+     "keywords": [
+      "ایمنی صحنهٔ حادثه"
+     ],
+     "distractors": [
+      "شروع فوری ماساژ قلبی",
+      "ریختن آب سرد روی مصدوم",
+      "بررسی شکستگی‌های داخلی"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In first aid, what is the first step at an accident scene, before touching the injured person?",
+     "grading_key": "- [1] Checking and making the scene safe",
+     "final_resolution": "Checking and making the scene safe",
+     "notes": "",
+     "keywords": [
+      "scene safety"
+     ],
+     "distractors": [
+      "Starting chest compressions at once",
+      "Pouring cold water on the casualty",
+      "Checking for internal fractures"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar komak-haye avvaliye, nokhostin gam dar sahne-ye yek tasadof, pish az dast zadan be masdoom, chist?",
+     "grading_key": "- [1] Barrasi va imen kardan-e sahne-ye hadese",
+     "final_resolution": "Barrasi va imen kardan-e sahne-ye hadese",
+     "notes": "",
+     "keywords": [
+      "imeni-ye sahne-ye hadese"
+     ],
+     "distractors": [
+      "Shoroo'-e fori-ye masazh-e ghalbi",
+      "Rikhtan-e ab-e sard rooye masdoom",
+      "Barrasi-ye shekastegi-haye dakheli"
+     ]
+    }
+   }
+  }
+ ]
+}
