@@ -1,0 +1,880 @@
+{
+ "version": 87,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 980,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دورهٔ تناوب sin bx)",
+    "en": "Chapter 1: Functions (Period of sin bx)",
+    "tr": "Fasl 1: Tabe' (Dowre-ye Tanavob)",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "دورهٔ تناوب تابع ⁦f(x) = sin(bx)⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2π / |b|⁩",
+     "final_resolution": "⁦2π / |b|⁩",
+     "notes": "",
+     "keywords": [
+      "دورهٔ تناوب سینوس"
+     ],
+     "distractors": [
+      "⁦π / |b|⁩",
+      "⁦2π|b|⁩",
+      "⁦2π / b²⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the period of the function f(x) = sin(bx)?",
+     "grading_key": "- [1] ⁦2π / |b|⁩",
+     "final_resolution": "⁦2π / |b|⁩",
+     "notes": "",
+     "keywords": [
+      "period of sine"
+     ],
+     "distractors": [
+      "⁦π / |b|⁩",
+      "⁦2π|b|⁩",
+      "⁦2π / b²⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Dowre-ye tanavob-e tabe'-e f(x) = sin(bx) kodam ast?",
+     "grading_key": "- [1] ⁦2π / |b|⁩",
+     "final_resolution": "⁦2π / |b|⁩",
+     "notes": "",
+     "keywords": [
+      "dowre-ye tanavob-e sinoos"
+     ],
+     "distractors": [
+      "⁦π / |b|⁩",
+      "⁦2π|b|⁩",
+      "⁦2π / b²⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 980,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَعَاشاً» در عبارت زیر کدام است؟\n«وَ جَعَلْنَا النَّهَارَ مَعَاشاً.»",
+     "grading_key": "- [1] زمان کسب روزی",
+     "final_resolution": "زمان کسب روزی",
+     "notes": "",
+     "keywords": [
+      "مَعَاشاً"
+     ],
+     "distractors": [
+      "زمان خواب",
+      "ابری تیره",
+      "بنایی سنگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَعَاشاً» mean in this verse?\n«وَ جَعَلْنَا النَّهَارَ مَعَاشاً.»",
+     "grading_key": "- [1] A time for earning a living",
+     "final_resolution": "A time for earning a living",
+     "notes": "",
+     "keywords": [
+      "ma'ash (livelihood)"
+     ],
+     "distractors": [
+      "A time for sleep",
+      "A dark cloud",
+      "A stone building"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ma'ashan» dar ebarat-e zir kodam ast?\n«وَ جَعَلْنَا النَّهَارَ مَعَاشاً.»",
+     "grading_key": "- [1] Zaman-e kasb-e roozi",
+     "final_resolution": "Zaman-e kasb-e roozi",
+     "notes": "",
+     "keywords": [
+      "ma'ashan"
+     ],
+     "distractors": [
+      "Zaman-e khab",
+      "Abri tire",
+      "Banayi sangi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 980,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَلْفَافاً» در عبارت زیر کدام است؟\n«وَ جَنَّاتٍ أَلْفَافاً.»",
+     "grading_key": "- [1] درهم‌تنیده و انبوه",
+     "final_resolution": "درهم‌تنیده و انبوه",
+     "notes": "",
+     "keywords": [
+      "أَلْفَافاً"
+     ],
+     "distractors": [
+      "خشکیده",
+      "تهی و بی‌بر",
+      "ردیف‌شده و ساختگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَلْفَافاً» mean in this verse?\n«وَ جَنَّاتٍ أَلْفَافاً.»",
+     "grading_key": "- [1] Thick, densely grown",
+     "final_resolution": "Thick, densely grown",
+     "notes": "",
+     "keywords": [
+      "alfaf (thick, dense)"
+     ],
+     "distractors": [
+      "Withered",
+      "Empty and barren",
+      "Planted in neat rows"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «alfafan» dar ebarat-e zir kodam ast?\n«وَ جَنَّاتٍ أَلْفَافاً.»",
+     "grading_key": "- [1] Daham-tanide va anbooh",
+     "final_resolution": "Daham-tanide va anbooh",
+     "notes": "",
+     "keywords": [
+      "alfafan"
+     ],
+     "distractors": [
+      "Khoshkide",
+      "Tohi va bi-bar",
+      "Radif-shode va sakhtegi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 980,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مِیقَاتاً» در عبارت زیر کدام است؟\n«إِنَّ یَوْمَ الْفَصْلِ کَانَ مِیقَاتاً.»",
+     "grading_key": "- [1] زمانی معین، وعده‌گاه",
+     "final_resolution": "زمانی معین، وعده‌گاه",
+     "notes": "",
+     "keywords": [
+      "مِیقَاتاً"
+     ],
+     "distractors": [
+      "بازار",
+      "دروازهٔ زندان",
+      "کف دریا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مِیقَاتاً» mean in this verse?\n«إِنَّ یَوْمَ الْفَصْلِ کَانَ مِیقَاتاً.»",
+     "grading_key": "- [1] An appointed time",
+     "final_resolution": "An appointed time",
+     "notes": "",
+     "keywords": [
+      "miqat (appointed time)"
+     ],
+     "distractors": [
+      "A market",
+      "A prison gate",
+      "The sea floor"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «miqatan» dar ebarat-e zir kodam ast?\n«إِنَّ یَوْمَ الْفَصْلِ کَانَ مِیقَاتاً.»",
+     "grading_key": "- [1] Zamani mo'ayyan, va'de-gah",
+     "final_resolution": "Zamani mo'ayyan, va'de-gah",
+     "notes": "",
+     "keywords": [
+      "miqatan"
+     ],
+     "distractors": [
+      "Bazar",
+      "Darvaze-ye zendan",
+      "Kaf-e darya"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 980,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَفْوَاجاً» در عبارت زیر کدام است؟\n«یَوْمَ یُنْفَخُ فِی الصُّورِ فَتَأْتُونَ أَفْوَاجاً.»",
+     "grading_key": "- [1] گروه گروه",
+     "final_resolution": "گروه گروه",
+     "notes": "",
+     "keywords": [
+      "أَفْوَاجاً"
+     ],
+     "distractors": [
+      "تک‌تک و تنها",
+      "خاموش و پراکنده",
+      "بی‌حرکت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَفْوَاجاً» mean in this verse?\n«یَوْمَ یُنْفَخُ فِی الصُّورِ فَتَأْتُونَ أَفْوَاجاً.»",
+     "grading_key": "- [1] In crowds, group after group",
+     "final_resolution": "In crowds, group after group",
+     "notes": "",
+     "keywords": [
+      "afwaj (crowds)"
+     ],
+     "distractors": [
+      "One by one, alone",
+      "Silent and scattered",
+      "Motionless"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «afwajan» dar ebarat-e zir kodam ast?\n«یَوْمَ یُنْفَخُ فِی الصُّورِ فَتَأْتُونَ أَفْوَاجاً.»",
+     "grading_key": "- [1] Gorooh gorooh",
+     "final_resolution": "Gorooh gorooh",
+     "notes": "",
+     "keywords": [
+      "afwajan"
+     ],
+     "distractors": [
+      "Tak-tak va tanha",
+      "Khamoosh va parakande",
+      "Bi-harekat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 980,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «فُتِحَتِ» در عبارت زیر کدام است؟\n«وَ فُتِحَتِ السَّمَاءُ فَکَانَتْ أَبْوَاباً.»",
+     "grading_key": "- [1] گشوده شد",
+     "final_resolution": "گشوده شد",
+     "notes": "",
+     "keywords": [
+      "فُتِحَتِ"
+     ],
+     "distractors": [
+      "بسته شد",
+      "سوخت",
+      "آفریده شد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «فُتِحَتِ» mean in this verse?\n«وَ فُتِحَتِ السَّمَاءُ فَکَانَتْ أَبْوَاباً.»",
+     "grading_key": "- [1] Was opened",
+     "final_resolution": "Was opened",
+     "notes": "",
+     "keywords": [
+      "futihat (was opened)"
+     ],
+     "distractors": [
+      "Was closed",
+      "Was burned",
+      "Was created"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «futihat» dar ebarat-e zir kodam ast?\n«وَ فُتِحَتِ السَّمَاءُ فَکَانَتْ أَبْوَاباً.»",
+     "grading_key": "- [1] Gooshoode shod",
+     "final_resolution": "Gooshoode shod",
+     "notes": "",
+     "keywords": [
+      "futihat"
+     ],
+     "distractors": [
+      "Baste shod",
+      "Sookht",
+      "Afaride shod"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 980,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «نغز» در جملهٔ زیر چیست؟\n«نویسنده با سخنان نغز، توجه همگان را به ارزش‌های اخلاقی جلب کرد.»",
+     "grading_key": "- [1] نیکو و دلپذیر",
+     "final_resolution": "نیکو و دلپذیر",
+     "notes": "",
+     "keywords": [
+      "نغز"
+     ],
+     "distractors": [
+      "زشت",
+      "ملال‌آور",
+      "سطحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «نغز» mean in this sentence?\n«نویسنده با سخنان نغز، توجه همگان را به ارزش‌های اخلاقی جلب کرد.»",
+     "grading_key": "- [1] Fine, delightful",
+     "final_resolution": "Fine, delightful",
+     "notes": "",
+     "keywords": [
+      "naghz (fine, choice)"
+     ],
+     "distractors": [
+      "Ugly",
+      "Tedious",
+      "Shallow"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «naghz» dar jomle-ye zir chist?\n«نویسنده با سخنان نغز، توجه همگان را به ارزش‌های اخلاقی جلب کرد.»",
+     "grading_key": "- [1] Nikoo va delpazir",
+     "final_resolution": "Nikoo va delpazir",
+     "notes": "",
+     "keywords": [
+      "naghz"
+     ],
+     "distractors": [
+      "Zesht",
+      "Malal-avar",
+      "Sathi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 980,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «بهجت» در جملهٔ زیر چیست؟\n«در آن محفل انس، صفا و صمیمیت مایهٔ بهجت و سرور حاضران شد.»",
+     "grading_key": "- [1] شادی و خرمی",
+     "final_resolution": "شادی و خرمی",
+     "notes": "",
+     "keywords": [
+      "بهجت"
+     ],
+     "distractors": [
+      "اندوه",
+      "گرانی",
+      "خستگی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «بهجت» mean in this sentence?\n«در آن محفل انس، صفا و صمیمیت مایهٔ بهجت و سرور حاضران شد.»",
+     "grading_key": "- [1] Joy, delight",
+     "final_resolution": "Joy, delight",
+     "notes": "",
+     "keywords": [
+      "behjat (joy)"
+     ],
+     "distractors": [
+      "Sorrow",
+      "High prices",
+      "Tiredness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «behjat» dar jomle-ye zir chist?\n«در آن محفل انس، صفا و صمیمیت مایهٔ بهجت و سرور حاضران شد.»",
+     "grading_key": "- [1] Shadi va khorrami",
+     "final_resolution": "Shadi va khorrami",
+     "notes": "",
+     "keywords": [
+      "behjat"
+     ],
+     "distractors": [
+      "Andooh",
+      "Gerani",
+      "Khastegi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 980,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تفته» در جملهٔ زیر چیست؟\n«مسافر خسته پس از پیمودن بیابان‌های تفته، به آبادی رسید.»",
+     "grading_key": "- [1] سوزان و بسیار گرم",
+     "final_resolution": "سوزان و بسیار گرم",
+     "notes": "",
+     "keywords": [
+      "تفته"
+     ],
+     "distractors": [
+      "یخ‌زده",
+      "گل‌آلود",
+      "هموار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تفته» mean in this sentence?\n«مسافر خسته پس از پیمودن بیابان‌های تفته، به آبادی رسید.»",
+     "grading_key": "- [1] Scorching hot",
+     "final_resolution": "Scorching hot",
+     "notes": "",
+     "keywords": [
+      "tafte (scorching hot)"
+     ],
+     "distractors": [
+      "Frozen",
+      "Muddy",
+      "Flat"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tafte» dar jomle-ye zir chist?\n«مسافر خسته پس از پیمودن بیابان‌های تفته، به آبادی رسید.»",
+     "grading_key": "- [1] Soozan va besyar garm",
+     "final_resolution": "Soozan va besyar garm",
+     "notes": "",
+     "keywords": [
+      "tafte"
+     ],
+     "distractors": [
+      "Yakh-zade",
+      "Gel-alood",
+      "Hamvar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 980,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: واج‌آرایی)",
+    "en": "Persian 3 (Literary Devices: Alliteration)",
+    "tr": "Adabiyat-e Farsi 3 (Vaj-arayi)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "تکرار هنرمندانهٔ یک صامت یا مصوت در واژه‌های یک بیت یا جمله برای پدید آوردن موسیقی (مانند تکرار «خ» در «خیزید و خزید»)، کدام آرایه است؟",
+     "grading_key": "- [1] واج‌آرایی (نغمهٔ حروف)",
+     "final_resolution": "واج‌آرایی (نغمهٔ حروف)",
+     "notes": "",
+     "keywords": [
+      "واج‌آرایی"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Artfully repeating one consonant or vowel across the words of a line to create music (like the repeated \"kh\" in «خیزید و خزید») is which device?",
+     "grading_key": "- [1] Vaj-arayi (alliteration)",
+     "final_resolution": "Vaj-arayi (alliteration)",
+     "notes": "",
+     "keywords": [
+      "vaj-arayi (alliteration)"
+     ],
+     "distractors": [
+      "Jinas-e tam (homonym pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Tekrar-e honarmandane-ye yek samet ya mosavvet dar vazhe-haye yek beyt ya jomle baraye padid avardan-e moosighi (manand-e tekrar-e \"kh\" dar \"khizid va khazid\"), kodam araye ast?",
+     "grading_key": "- [1] Vaj-arayi (naghme-ye horoof)",
+     "final_resolution": "Vaj-arayi (naghme-ye horoof)",
+     "notes": "",
+     "keywords": [
+      "vaj-arayi"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 980,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «سزاواری و شایستگی» است، کدام است؟",
+     "grading_key": "- [1] استحقاق",
+     "final_resolution": "استحقاق",
+     "notes": "",
+     "keywords": [
+      "استحقاق"
+     ],
+     "distractors": [
+      "استحکاق",
+      "اصتحقاق",
+      "استهقاق"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'deserving, worthiness'?",
+     "grading_key": "- [1] استحقاق",
+     "final_resolution": "استحقاق",
+     "notes": "",
+     "keywords": [
+      "estehghagh (deserving)"
+     ],
+     "distractors": [
+      "استحکاق",
+      "اصتحقاق",
+      "استهقاق"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'sezavari va shayestegi' ast, kodam ast?",
+     "grading_key": "- [1] استحقاق",
+     "final_resolution": "استحقاق",
+     "notes": "",
+     "keywords": [
+      "estehghagh"
+     ],
+     "distractors": [
+      "استحکاق",
+      "اصتحقاق",
+      "استهقاق"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 980,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "نخستین مرحلهٔ آسیب کبد بر اثر الکل، که با انباشت چربی در سلول‌های کبد همراه است و برگشت‌پذیر است، چه نام دارد؟",
+     "grading_key": "- [1] کبد چرب",
+     "final_resolution": "کبد چرب",
+     "notes": "",
+     "keywords": [
+      "کبد چرب"
+     ],
+     "distractors": [
+      "سیروز کبدی",
+      "تصلب شرایین",
+      "هپاتیت B"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "What is the first, reversible stage of alcohol damage to the liver, in which fat builds up in the liver cells, called?",
+     "grading_key": "- [1] Fatty liver",
+     "final_resolution": "Fatty liver",
+     "notes": "",
+     "keywords": [
+      "fatty liver"
+     ],
+     "distractors": [
+      "Cirrhosis",
+      "Atherosclerosis",
+      "Hepatitis B"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Nokhostin marhale-ye asib-e kabed bar asar-e alkol, ke ba anbasht-e charbi dar sellool-haye kabed hamrah ast va bargasht-pazir ast, che nam darad?",
+     "grading_key": "- [1] Kabed-e charb",
+     "final_resolution": "Kabed-e charb",
+     "notes": "",
+     "keywords": [
+      "kabed-e charb"
+     ],
+     "distractors": [
+      "Siroz-e kabedi",
+      "Tasallob-e sharayin",
+      "Hepatit B"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 980,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "فاصلهٔ زمانی میان ورود عامل بیماری به بدن تا پیدا شدن نخستین نشانه‌های بیماری چه نام دارد؟",
+     "grading_key": "- [1] دورهٔ نهفتگی (کمون)",
+     "final_resolution": "دورهٔ نهفتگی (کمون)",
+     "notes": "",
+     "keywords": [
+      "دورهٔ نهفتگی"
+     ],
+     "distractors": [
+      "دورهٔ نقاهت",
+      "ایمنی غیرفعال",
+      "اوج بیماری"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the time between a disease agent entering the body and the first signs of illness called?",
+     "grading_key": "- [1] The incubation period",
+     "final_resolution": "The incubation period",
+     "notes": "",
+     "keywords": [
+      "incubation period"
+     ],
+     "distractors": [
+      "The recovery period",
+      "Passive immunity",
+      "The peak of the illness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Fasele-ye zamani miyan-e vorood-e amel-e bimari be badan ta peyda shodan-e nokhostin neshane-haye bimari che nam darad?",
+     "grading_key": "- [1] Dowre-ye nahoftegi (komoon)",
+     "final_resolution": "Dowre-ye nahoftegi (komoon)",
+     "notes": "",
+     "keywords": [
+      "dowre-ye nahoftegi"
+     ],
+     "distractors": [
+      "Dowre-ye nekahat",
+      "Imeni-ye gheyr-e fa'al",
+      "Owj-e bimari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 980,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام گاز پرتوزای بی‌رنگ، که از خاک و سنگ زیر ساختمان‌ها بیرون می‌آید، در فضاهای بی‌تهویه انباشته می‌شود و از علت‌های مهم سرطان ریه است؟",
+     "grading_key": "- [1] گاز رادون",
+     "final_resolution": "گاز رادون",
+     "notes": "",
+     "keywords": [
+      "گاز رادون"
+     ],
+     "distractors": [
+      "پرتو فرابنفش",
+      "کربن مونوکسید",
+      "فرمالدئید"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which colourless radioactive gas, seeping from the soil and rock under buildings, builds up in unventilated rooms and is a major cause of lung cancer?",
+     "grading_key": "- [1] Radon gas",
+     "final_resolution": "Radon gas",
+     "notes": "",
+     "keywords": [
+      "radon gas"
+     ],
+     "distractors": [
+      "Ultraviolet rays",
+      "Carbon monoxide",
+      "Formaldehyde"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam gaz-e partoza-ye bi-rang, ke az khak va sang-e zir-e sakhteman-ha biroon miayad, dar faza-haye bi-tahviye anbashte mishavad va az ellat-haye mohem-e saratan-e riye ast?",
+     "grading_key": "- [1] Gaz-e radon",
+     "final_resolution": "Gaz-e radon",
+     "notes": "",
+     "keywords": [
+      "gaz-e radon"
+     ],
+     "distractors": [
+      "Parto-ye farabanafsh",
+      "Karbon monoksid",
+      "Formaldehid"
+     ]
+    }
+   }
+  }
+ ]
+}
