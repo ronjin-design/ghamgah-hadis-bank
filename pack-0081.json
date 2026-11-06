@@ -1,0 +1,697 @@
+{
+ "version": 81,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 974,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (مجانب‌های هذلولی)",
+    "en": "Chapter 6: Conic Sections (Asymptotes of a Hyperbola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Mojaneb-ha)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در هذلولی، دو خطی که از مرکز می‌گذرند و نمودار در بی‌نهایت به آن‌ها نزدیک می‌شود ولی آن‌ها را قطع نمی‌کند، چه نام دارند؟",
+     "grading_key": "- [1] مجانب‌ها",
+     "final_resolution": "مجانب‌ها",
+     "notes": "",
+     "keywords": [
+      "مجانب هذلولی"
+     ],
+     "distractors": [
+      "خط‌های هادی",
+      "محورهای کانونی",
+      "رأس‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In a hyperbola, what are the two lines through the centre that the curve approaches at infinity but never meets called?",
+     "grading_key": "- [1] The asymptotes",
+     "final_resolution": "The asymptotes",
+     "notes": "",
+     "keywords": [
+      "asymptotes of a hyperbola"
+     ],
+     "distractors": [
+      "The directrices",
+      "The focal axes",
+      "The vertices"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar hozloli, do khatti ke az markaz migozarand va nemoodar dar binahayat be anha nazdik mishavad vali anha ra ghat' nemikonad, che nam darand?",
+     "grading_key": "- [1] Mojaneb-ha",
+     "final_resolution": "Mojaneb-ha",
+     "notes": "",
+     "keywords": [
+      "mojaneb-e hozloli"
+     ],
+     "distractors": [
+      "Khatt-haye hadi",
+      "Mehvar-haye kanooni",
+      "Ra's-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 974,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (خروج از مرکز)",
+    "en": "Chapter 6: Conic Sections (Eccentricity)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Khorooj az Markaz)",
+    "pages": "130–132"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در بیضی، نسبت فاصلهٔ کانونی (2c) به طول قطر بزرگ (2a)، که کشیدگی یا گردی بیضی را نشان می‌دهد، چه نام دارد؟",
+     "grading_key": "- [1] خروج از مرکز",
+     "final_resolution": "خروج از مرکز",
+     "notes": "",
+     "keywords": [
+      "خروج از مرکز"
+     ],
+     "distractors": [
+      "طول وتر کانونی",
+      "قطر کوچک",
+      "فاصلهٔ خط هادی"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In an ellipse, what is the ratio of the focal distance (2c) to the length of the major axis (2a), which shows how stretched or round it is, called?",
+     "grading_key": "- [1] Eccentricity",
+     "final_resolution": "Eccentricity",
+     "notes": "",
+     "keywords": [
+      "eccentricity"
+     ],
+     "distractors": [
+      "The length of the latus rectum",
+      "The minor axis",
+      "The distance to the directrix"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar beyzi, nesbat-e fasele-ye kanooni (2c) be tool-e ghotr-e bozorg (2a), ke keshidegi ya gerdi-ye beyzi ra neshan midahad, che nam darad?",
+     "grading_key": "- [1] Khorooj az markaz",
+     "final_resolution": "Khorooj az markaz",
+     "notes": "",
+     "keywords": [
+      "khorooj az markaz"
+     ],
+     "distractors": [
+      "Tool-e vatar-e kanooni",
+      "Ghotr-e koochak",
+      "Fasele-ye khatt-e hadi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 974,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (وتر کانونی قائم سهمی)",
+    "en": "Chapter 6: Conic Sections (Latus Rectum of a Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Vatar-e Kanooni)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "در سهمی، پاره‌خطی که از کانون می‌گذرد، بر محور تقارن عمود است و دو سر آن روی سهمی است، چه نام دارد؟",
+     "grading_key": "- [1] وتر کانونی قائم (لاتوس رکتوم)",
+     "final_resolution": "وتر کانونی قائم (لاتوس رکتوم)",
+     "notes": "",
+     "keywords": [
+      "وتر کانونی قائم"
+     ],
+     "distractors": [
+      "بخشی از خط هادی",
+      "قطر بزرگ",
+      "مجانب"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "In a parabola, what is the line segment through the focus, perpendicular to the axis of symmetry, with both ends on the curve, called?",
+     "grading_key": "- [1] The latus rectum",
+     "final_resolution": "The latus rectum",
+     "notes": "",
+     "keywords": [
+      "latus rectum"
+     ],
+     "distractors": [
+      "Part of the directrix",
+      "The major axis",
+      "An asymptote"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Dar sahmi, pare-khatti ke az kanoon migozarad, bar mehvar-e tagharon amood ast va do sar-e an rooye sahmi ast, che nam darad?",
+     "grading_key": "- [1] Vatar-e kanooni-ye ghaem (latus rectum)",
+     "final_resolution": "Vatar-e kanooni-ye ghaem (latus rectum)",
+     "notes": "",
+     "keywords": [
+      "vatar-e kanooni-ye ghaem"
+     ],
+     "distractors": [
+      "Bakhshi az khatt-e hadi",
+      "Ghotr-e bozorg",
+      "Mojaneb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 974,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (آزمایش برنولی)",
+    "en": "Chapter 7: Probability (Bernoulli Trial)",
+    "tr": "Fasl 7: Ehtemal (Bernooli)",
+    "pages": "144–146"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "آزمایشی تصادفی که فقط دو نتیجهٔ ممکن (مانند موفقیت یا شکست) با احتمال‌های ثابت دارد، چه نام دارد؟",
+     "grading_key": "- [1] آزمایش برنولی",
+     "final_resolution": "آزمایش برنولی",
+     "notes": "",
+     "keywords": [
+      "آزمایش برنولی"
+     ],
+     "distractors": [
+      "افراز فضای نمونه",
+      "توزیع پیوسته",
+      "نمودار درختی احتمال شرطی"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "What is a random experiment called that has only two possible outcomes (such as success or failure) with fixed probabilities?",
+     "grading_key": "- [1] A Bernoulli trial",
+     "final_resolution": "A Bernoulli trial",
+     "notes": "",
+     "keywords": [
+      "Bernoulli trial"
+     ],
+     "distractors": [
+      "A partition of the sample space",
+      "A continuous distribution",
+      "A conditional-probability tree"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Azmayeshi tasadofi ke faghat do natije-ye momken (manand-e movaffaghiyat ya shekast) ba ehtemal-haye sabet darad, che nam darad?",
+     "grading_key": "- [1] Azmayesh-e Bernooli",
+     "final_resolution": "Azmayesh-e Bernooli",
+     "notes": "",
+     "keywords": [
+      "azmayesh-e Bernooli"
+     ],
+     "distractors": [
+      "Efraz-e faza-ye nemoone",
+      "Tozi'-e peyvaste",
+      "Nemoodar-e derakhti-ye ehtemal-e sharti"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 974,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وَهَّاجاً» در عبارت زیر کدام است؟\n«وَ جَعَلْنَا سِرَاجاً وَهَّاجاً.»",
+     "grading_key": "- [1] بسیار درخشان و فروزان",
+     "final_resolution": "بسیار درخشان و فروزان",
+     "notes": "",
+     "keywords": [
+      "وَهَّاجاً"
+     ],
+     "distractors": [
+      "کم‌نور و رو به خاموشی",
+      "سرد و یخ‌زده",
+      "شکسته"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وَهَّاجاً» mean in this verse?\n«وَ جَعَلْنَا سِرَاجاً وَهَّاجاً.»",
+     "grading_key": "- [1] Blazing, brilliantly bright",
+     "final_resolution": "Blazing, brilliantly bright",
+     "notes": "",
+     "keywords": [
+      "wahhaj (blazing)"
+     ],
+     "distractors": [
+      "Dim and fading",
+      "Cold and frozen",
+      "Broken"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wahhajan» dar ebarat-e zir kodam ast?\n«وَ جَعَلْنَا سِرَاجاً وَهَّاجاً.»",
+     "grading_key": "- [1] Besyar derakhshan va foroozan",
+     "final_resolution": "Besyar derakhshan va foroozan",
+     "notes": "",
+     "keywords": [
+      "wahhajan"
+     ],
+     "distractors": [
+      "Kam-noor va roo be khamooshi",
+      "Sard va yakh-zade",
+      "Shekaste"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 974,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَبْخَلْ» در عبارت زیر کدام است؟\n«وَ مَنْ یَبْخَلْ فَإِنَّمَا یَبْخَلُ عَنْ نَفْسِهِ.»",
+     "grading_key": "- [1] بخل بورزد",
+     "final_resolution": "بخل بورزد",
+     "notes": "",
+     "keywords": [
+      "یَبْخَلْ"
+     ],
+     "distractors": [
+      "بخشش کند",
+      "یاری کند",
+      "آموزش دهد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَبْخَلْ» mean in this verse?\n«وَ مَنْ یَبْخَلْ فَإِنَّمَا یَبْخَلُ عَنْ نَفْسِهِ.»",
+     "grading_key": "- [1] Is stingy, holds back",
+     "final_resolution": "Is stingy, holds back",
+     "notes": "",
+     "keywords": [
+      "yabkhal (is stingy)"
+     ],
+     "distractors": [
+      "Is generous",
+      "Helps",
+      "Teaches"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yabkhal» dar ebarat-e zir kodam ast?\n«وَ مَنْ یَبْخَلْ فَإِنَّمَا یَبْخَلُ عَنْ نَفْسِهِ.»",
+     "grading_key": "- [1] Bokhl bevarzad",
+     "final_resolution": "Bokhl bevarzad",
+     "notes": "",
+     "keywords": [
+      "yabkhal"
+     ],
+     "distractors": [
+      "Bakhshesh konad",
+      "Yari konad",
+      "Amoozesh dahad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 974,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا یَنْفَدُ» در عبارت زیر کدام است؟\n«الْقَنَاعَةُ مَالٌ لَا یَنْفَدُ.»",
+     "grading_key": "- [1] تمام نمی‌شود",
+     "final_resolution": "تمام نمی‌شود",
+     "notes": "",
+     "keywords": [
+      "لَا یَنْفَدُ"
+     ],
+     "distractors": [
+      "افزون نمی‌شود",
+      "پنهان نمی‌شود",
+      "خرج نمی‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا یَنْفَدُ» mean in this saying?\n«الْقَنَاعَةُ مَالٌ لَا یَنْفَدُ.»",
+     "grading_key": "- [1] Never runs out",
+     "final_resolution": "Never runs out",
+     "notes": "",
+     "keywords": [
+      "la yanfadu (never runs out)"
+     ],
+     "distractors": [
+      "Never grows",
+      "Is never hidden",
+      "Is never spent"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la yanfadu» dar ebarat-e zir kodam ast?\n«الْقَنَاعَةُ مَالٌ لَا یَنْفَدُ.»",
+     "grading_key": "- [1] Tamam nemishavad",
+     "final_resolution": "Tamam nemishavad",
+     "notes": "",
+     "keywords": [
+      "la yanfadu"
+     ],
+     "distractors": [
+      "Afzoon nemishavad",
+      "Penhan nemishavad",
+      "Kharj nemishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 974,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «عَجَلٍ» در عبارت زیر کدام است؟\n«خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ.»",
+     "grading_key": "- [1] شتاب",
+     "final_resolution": "شتاب",
+     "notes": "",
+     "keywords": [
+      "عَجَلٍ"
+     ],
+     "distractors": [
+      "شکیبایی",
+      "دانایی",
+      "ثروت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «عَجَلٍ» mean in this verse?\n«خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ.»",
+     "grading_key": "- [1] Haste",
+     "final_resolution": "Haste",
+     "notes": "",
+     "keywords": [
+      "'ajal (haste)"
+     ],
+     "distractors": [
+      "Patience",
+      "Wisdom",
+      "Wealth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «'ajalin» dar ebarat-e zir kodam ast?\n«خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ.»",
+     "grading_key": "- [1] Shetab",
+     "final_resolution": "Shetab",
+     "notes": "",
+     "keywords": [
+      "'ajalin"
+     ],
+     "distractors": [
+      "Shakibayi",
+      "Danayi",
+      "Servat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 974,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "سرطان، به تعریف کلی، از کدام رویداد در سلول‌ها پدید می‌آید؟",
+     "grading_key": "- [1] تکثیر و تقسیم مهارنشدهٔ سلول‌ها",
+     "final_resolution": "تکثیر و تقسیم مهارنشدهٔ سلول‌ها",
+     "notes": "",
+     "keywords": [
+      "سرطان"
+     ],
+     "distractors": [
+      "سخت شدن و از دست رفتن کشسانی دیوارهٔ رگ‌ها",
+      "ناتوانی سلول‌ها در جذب گلوکز",
+      "کاهش شدید تراکم مواد معدنی استخوان"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "By its general definition, cancer arises from which event in the cells?",
+     "grading_key": "- [1] Uncontrolled growth and division of cells",
+     "final_resolution": "Uncontrolled growth and division of cells",
+     "notes": "",
+     "keywords": [
+      "cancer"
+     ],
+     "distractors": [
+      "Hardening and loss of elasticity of the artery walls",
+      "Cells' failure to take up glucose",
+      "A severe drop in bone mineral density"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Saratan, be ta'rif-e kolli, az kodam rooydad dar sellool-ha padid miayad?",
+     "grading_key": "- [1] Taksir va taghsim-e mahar-nashode-ye sellool-ha",
+     "final_resolution": "Taksir va taghsim-e mahar-nashode-ye sellool-ha",
+     "notes": "",
+     "keywords": [
+      "saratan"
+     ],
+     "distractors": [
+      "Sakht shodan va az dast raftan-e keshsani-ye divare-ye rag-ha",
+      "Natavani-ye sellool-ha dar jazb-e glukoz",
+      "Kahesh-e shadid-e tarakom-e mavad-e madani-ye ostokhan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 974,
+   "topic_tag": "harmful-substances",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "26–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دخانیات و مواد زیان‌آور",
+     "question": "نوشیدن الکل با سرکوب دستگاه عصبی مرکزی و کند کردن واکنش‌ها، خطر کدام را به شدت بالا می‌برد؟",
+     "grading_key": "- [1] حادثه‌ها و از دست رفتن تعادل حرکتی",
+     "final_resolution": "حادثه‌ها و از دست رفتن تعادل حرکتی",
+     "notes": "",
+     "keywords": [
+      "آثار الکل"
+     ],
+     "distractors": [
+      "بهتر شدن حافظه",
+      "پایین آمدن همیشگی ضربان قلب",
+      "ایمنی در برابر میکروب‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Tobacco and Harmful Substances",
+     "question": "By depressing the central nervous system and slowing reactions, drinking alcohol sharply raises the risk of what?",
+     "grading_key": "- [1] Accidents and loss of coordination",
+     "final_resolution": "Accidents and loss of coordination",
+     "notes": "",
+     "keywords": [
+      "effects of alcohol"
+     ],
+     "distractors": [
+      "Better memory",
+      "A permanently lower heart rate",
+      "Immunity to germs"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dokhaniyat va Mavad-e Ziyan-avar",
+     "question": "Noshidan-e alkol ba sarkoob-e dastgah-e asabi-ye markazi va kond kardan-e vakonesh-ha, khatar-e kodam ra be shoddat bala mibarad?",
+     "grading_key": "- [1] Hadese-ha va az dast raftan-e ta'adol-e harekati",
+     "final_resolution": "Hadese-ha va az dast raftan-e ta'adol-e harekati",
+     "notes": "",
+     "keywords": [
+      "asar-e alkol"
+     ],
+     "distractors": [
+      "Behtar shodan-e hafeze",
+      "Payin amadan-e hamishegi-ye zarban-e ghalb",
+      "Imeni dar barabar-e mikrob-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 974,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در احیای قلبی-ریوی (CPR) بزرگسال، قفسهٔ سینه را با چه سرعتی باید فشرد؟",
+     "grading_key": "- [1] ۱۰۰ تا ۱۲۰ بار در دقیقه",
+     "final_resolution": "۱۰۰ تا ۱۲۰ بار در دقیقه",
+     "notes": "",
+     "keywords": [
+      "سرعت فشردن قفسهٔ سینه در CPR"
+     ],
+     "distractors": [
+      "۵۰ تا ۶۰ بار در دقیقه",
+      "۱۵۰ تا ۲۰۰ بار در دقیقه",
+      "۳۰ بار در دقیقه"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In adult CPR, how fast should the chest be pressed?",
+     "grading_key": "- [1] 100 to 120 times a minute",
+     "final_resolution": "100 to 120 times a minute",
+     "notes": "",
+     "keywords": [
+      "CPR compression rate"
+     ],
+     "distractors": [
+      "50 to 60 times a minute",
+      "150 to 200 times a minute",
+      "30 times a minute"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar ehya-ye ghalbi-riyavi (CPR) bozorgsal, ghafase-ye sine ra ba che sor'ati bayad feshord?",
+     "grading_key": "- [1] 100 ta 120 bar dar daghighe",
+     "final_resolution": "100 ta 120 bar dar daghighe",
+     "notes": "",
+     "keywords": [
+      "sor'at-e feshordan dar CPR"
+     ],
+     "distractors": [
+      "50 ta 60 bar dar daghighe",
+      "150 ta 200 bar dar daghighe",
+      "30 bar dar daghighe"
+     ]
+    }
+   }
+  }
+ ]
+}
