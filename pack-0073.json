@@ -1,0 +1,648 @@
+{
+ "version": 73,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 966,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (پیشامدهای مستقل)",
+    "en": "Chapter 7: Probability (Independent Events)",
+    "tr": "Fasl 7: Ehtemal (Mostaghel)",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "اگر ⁦A⁩ و ⁦B⁩ دو پیشامد مستقل باشند، ⁦P(A ∩ B)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦P(A) × P(B)⁩",
+     "final_resolution": "⁦P(A) × P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "قانون ضرب احتمال"
+     ],
+     "distractors": [
+      "⁦P(A) + P(B)⁩",
+      "⁦P(A) + P(B) − P(A ∪ B)⁩",
+      "⁦P(A) ÷ P(B)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "If A and B are independent events, what is P(A ∩ B) equal to?",
+     "grading_key": "- [1] ⁦P(A) × P(B)⁩",
+     "final_resolution": "⁦P(A) × P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "multiplication rule"
+     ],
+     "distractors": [
+      "⁦P(A) + P(B)⁩",
+      "⁦P(A) + P(B) − P(A ∪ B)⁩",
+      "⁦P(A) ÷ P(B)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Agar A va B do pishamad-e mostaghel bashand, P(A ∩ B) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦P(A) × P(B)⁩",
+     "final_resolution": "⁦P(A) × P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e zarb-e ehtemal"
+     ],
+     "distractors": [
+      "⁦P(A) + P(B)⁩",
+      "⁦P(A) + P(B) − P(A ∪ B)⁩",
+      "⁦P(A) ÷ P(B)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 966,
+   "topic_tag": "free-will",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: قدرت پرواز (تقدیر الهی)",
+    "en": "Lesson 5: The Power to Fly (Divine Measuring)",
+    "tr": "Dars 5: Ghodrat-e Parvaz (Taghdir)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت پرواز",
+     "question": "اندازه‌گیری و تعیین ویژگی‌ها، حدود و جایگاه هر موجود به دست خداوند، کدام مفهوم است؟",
+     "grading_key": "- [1] تقدیر الهی",
+     "final_resolution": "تقدیر الهی",
+     "notes": "",
+     "keywords": [
+      "تقدیر الهی"
+     ],
+     "distractors": [
+      "قضای الهی",
+      "فقر ذاتی",
+      "شرک عملی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Power to Fly (Free Will)",
+     "question": "God's measuring out and setting the features, limits and place of every being is which concept?",
+     "grading_key": "- [1] Divine measuring (taqdir)",
+     "final_resolution": "Divine measuring (taqdir)",
+     "notes": "",
+     "keywords": [
+      "divine measuring (taqdir)"
+     ],
+     "distractors": [
+      "Divine decree (qada)",
+      "Essential poverty",
+      "Practical polytheism"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat-e Parvaz",
+     "question": "Andaze-giri va ta'yin-e vizhegi-ha, hodood va jaygah-e har mojood be dast-e Khodavand, kodam mafhoom ast?",
+     "grading_key": "- [1] Taghdir-e elahi",
+     "final_resolution": "Taghdir-e elahi",
+     "notes": "",
+     "keywords": [
+      "taghdir-e elahi"
+     ],
+     "distractors": [
+      "Ghaza-ye elahi",
+      "Faghr-e zati",
+      "Sherk-e amali"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 966,
+   "topic_tag": "repentance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: بازگشت (آثار گناه)",
+    "en": "Lesson 7: The Return (Effects of Sin)",
+    "tr": "Dars 7: Bazgasht (Asar-e Gonah)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بازگشت",
+     "question": "تیره شدن دل، از دست رفتن نشاط روحی و محرومیت از توفیق، که خودبه‌خود در پی گناه می‌آید، کدام است؟",
+     "grading_key": "- [1] آثار طبیعی (وضعی) گناه",
+     "final_resolution": "آثار طبیعی (وضعی) گناه",
+     "notes": "",
+     "keywords": [
+      "آثار طبیعی گناه"
+     ],
+     "distractors": [
+      "کیفرهای قانونی دادگاه",
+      "از دست رفتن جایگاه اجتماعی",
+      "نابودی فوری در دنیا"
+     ]
+    },
+    "en": {
+     "topic_label": "The Return (Repentance)",
+     "question": "The darkening of the heart, loss of spiritual vigour and being deprived of divine help, which follow sin of themselves, are what?",
+     "grading_key": "- [1] The natural effects of sin",
+     "final_resolution": "The natural effects of sin",
+     "notes": "",
+     "keywords": [
+      "natural effects of sin"
+     ],
+     "distractors": [
+      "A court's legal penalties",
+      "Losing social standing",
+      "Instant destruction in this world"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bazgasht",
+     "question": "Tire shodan-e del, az dast raftan-e neshat-e roohi va mahroomiyat az towfigh, ke khod-be-khod dar pey-e gonah miayad, kodam ast?",
+     "grading_key": "- [1] Asar-e tabiei (vaz'i)-ye gonah",
+     "final_resolution": "Asar-e tabiei (vaz'i)-ye gonah",
+     "notes": "",
+     "keywords": [
+      "asar-e tabiei-ye gonah"
+     ],
+     "distractors": [
+      "Keyfar-haye ghanooni-ye dadgah",
+      "Az dast raftan-e jaygah-e ejtemai",
+      "Naboodi-ye fori dar donya"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 966,
+   "topic_tag": "divine-rulings",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: زندگی در دنیای امروز و عمل به احکام الهی (اجتهاد)",
+    "en": "Lesson 8: Life Today and Following the Divine Rulings (Ijtihad)",
+    "tr": "Dars 8: Zendegi dar Donya-ye Emrooz (Ejtehad)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "زندگی در دنیای امروز و عمل به احکام الهی",
+     "question": "پویایی فقه اسلامی و پاسخ‌گویی آن به مسائل نوپدید، حاصل کدام فرایند پیوسته است؟",
+     "grading_key": "- [1] اجتهاد (استنباط احکام از منابع دینی)",
+     "final_resolution": "اجتهاد (استنباط احکام از منابع دینی)",
+     "notes": "",
+     "keywords": [
+      "اجتهاد"
+     ],
+     "distractors": [
+      "پیروی بی‌بازنگری از فتواهای گذشته",
+      "کنار گذاشتن احکام دینی",
+      "تغییر احکام بر پایهٔ پسند مردم"
+     ]
+    },
+    "en": {
+     "topic_label": "Life Today and Following the Divine Rulings",
+     "question": "Islamic jurisprudence staying alive and answering new questions is the fruit of which ongoing process?",
+     "grading_key": "- [1] Ijtihad (deriving rulings from the sources)",
+     "final_resolution": "Ijtihad (deriving rulings from the sources)",
+     "notes": "",
+     "keywords": [
+      "ijtihad"
+     ],
+     "distractors": [
+      "Following past rulings without review",
+      "Setting the religious rulings aside",
+      "Changing the rulings to suit public taste"
+     ]
+    },
+    "tr": {
+     "topic_label": "Zendegi dar Donya-ye Emrooz",
+     "question": "Pooyayi-ye feghh-e eslami va pasokhgooyi-ye an be masael-e no-padid, hasel-e kodam farayand-e peyvaste ast?",
+     "grading_key": "- [1] Ejtehad (estenbat-e ahkam az manabe-e dini)",
+     "final_resolution": "Ejtehad (estenbat-e ahkam az manabe-e dini)",
+     "notes": "",
+     "keywords": [
+      "ejtehad"
+     ],
+     "distractors": [
+      "Peyravi-ye bi-baznegari az fatva-haye gozashte",
+      "Kenar gozashtan-e ahkam-e dini",
+      "Taghyir-e ahkam bar paye-ye pasand-e mardom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 966,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَسْتَمِدُّ» در عبارت زیر کدام است؟\n«یَسْتَمِدُّ الْقَمَرُ ضَوْءَهُ مِنَ الشَّمْسِ.»",
+     "grading_key": "- [1] می‌گیرد، یاری می‌گیرد",
+     "final_resolution": "می‌گیرد، یاری می‌گیرد",
+     "notes": "",
+     "keywords": [
+      "یَسْتَمِدُّ"
+     ],
+     "distractors": [
+      "می‌شکند",
+      "دور می‌کند",
+      "محو می‌شود در"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَسْتَمِدُّ» mean in this sentence?\n«یَسْتَمِدُّ الْقَمَرُ ضَوْءَهُ مِنَ الشَّمْسِ.»",
+     "grading_key": "- [1] Draws (from), takes",
+     "final_resolution": "Draws (from), takes",
+     "notes": "",
+     "keywords": [
+      "yastamiddu (draws from)"
+     ],
+     "distractors": [
+      "Breaks up",
+      "Pushes away",
+      "Fades into"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yastamiddu» dar ebarat-e zir kodam ast?\n«یَسْتَمِدُّ الْقَمَرُ ضَوْءَهُ مِنَ الشَّمْسِ.»",
+     "grading_key": "- [1] Migirad, yari migirad",
+     "final_resolution": "Migirad, yari migirad",
+     "notes": "",
+     "keywords": [
+      "yastamiddu"
+     ],
+     "distractors": [
+      "Mishekanad",
+      "Door mikonad",
+      "Mahv mishavad dar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 966,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "32–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَدَارَات» در عبارت زیر کدام است؟\n«جَاذِبِیَّةُ الشَّمْسِ تَجْعَلُ الْکَوَاکِبَ تَدُورُ فِی مَدَارَاتِهَا.»",
+     "grading_key": "- [1] مدارها، مسیرهای گردش",
+     "final_resolution": "مدارها، مسیرهای گردش",
+     "notes": "",
+     "keywords": [
+      "مَدَارَات"
+     ],
+     "distractors": [
+      "ابرها",
+      "کف اقیانوس‌ها",
+      "میدان‌های مغناطیسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَدَارَات» mean in this sentence?\n«جَاذِبِیَّةُ الشَّمْسِ تَجْعَلُ الْکَوَاکِبَ تَدُورُ فِی مَدَارَاتِهَا.»",
+     "grading_key": "- [1] Orbits",
+     "final_resolution": "Orbits",
+     "notes": "",
+     "keywords": [
+      "madarat (orbits)"
+     ],
+     "distractors": [
+      "Clouds",
+      "Ocean floors",
+      "Magnetic fields"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «madarat» dar ebarat-e zir kodam ast?\n«جَاذِبِیَّةُ الشَّمْسِ تَجْعَلُ الْکَوَاکِبَ تَدُورُ فِی مَدَارَاتِهَا.»",
+     "grading_key": "- [1] Madar-ha, masir-haye gardesh",
+     "final_resolution": "Madar-ha, masir-haye gardesh",
+     "notes": "",
+     "keywords": [
+      "madarat"
+     ],
+     "distractors": [
+      "Abr-ha",
+      "Kaf-e oghyanoos-ha",
+      "Meydan-haye meghnatisi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 966,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (نظام سوسیالیستی)",
+    "en": "Lesson 8: Politics and the Political System (Socialist Systems)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌های سکولاری که مالکیت خصوصی بزرگ را از میان می‌برند و اقتصاد و توزیع قدرت را زیر کنترل شدید دولت می‌گذارند، چه نام دارند؟",
+     "grading_key": "- [1] نظام‌های سیاسی سوسیالیستی",
+     "final_resolution": "نظام‌های سیاسی سوسیالیستی",
+     "notes": "",
+     "keywords": [
+      "نظام سیاسی سوسیالیستی"
+     ],
+     "distractors": [
+      "نظام‌های سیاسی سرمایه‌داری",
+      "دموکراسی‌های لیبرال",
+      "نظام‌های دینی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are secular systems called that abolish large private ownership and put the economy and the sharing of power under tight state control?",
+     "grading_key": "- [1] Socialist political systems",
+     "final_resolution": "Socialist political systems",
+     "notes": "",
+     "keywords": [
+      "socialist political system"
+     ],
+     "distractors": [
+      "Capitalist political systems",
+      "Liberal democracies",
+      "Religious systems"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-haye sekolari ke malekiyat-e khosoosi-ye bozorg ra az miyan mibarand va eghtesad va tozi-e ghodrat ra zir-e kontrol-e shadid-e dowlat migozarand, che nam darand?",
+     "grading_key": "- [1] Nezam-haye siyasi-ye sosiyalisti",
+     "final_resolution": "Nezam-haye siyasi-ye sosiyalisti",
+     "notes": "",
+     "keywords": [
+      "nezam-e siyasi-ye sosiyalisti"
+     ],
+     "distractors": [
+      "Nezam-haye siyasi-ye sarmaye-dari",
+      "Demokrasi-haye liberal",
+      "Nezam-haye dini"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 966,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام بیماری مزمن و بی‌صدا از کاهش شدید تراکم مواد معدنی استخوان پدید می‌آید و خطر شکستگی را بسیار بالا می‌برد؟",
+     "grading_key": "- [1] پوکی استخوان",
+     "final_resolution": "پوکی استخوان",
+     "notes": "",
+     "keywords": [
+      "پوکی استخوان"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "آرتریت روماتوئید",
+      "سرطان خون"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which long-term, silent disease comes from a severe drop in bone mineral density and greatly raises the risk of fractures?",
+     "grading_key": "- [1] Osteoporosis",
+     "final_resolution": "Osteoporosis",
+     "notes": "",
+     "keywords": [
+      "osteoporosis"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Rheumatoid arthritis",
+      "Leukaemia"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam bimari-ye mozmen va bi-seda az kahesh-e shadid-e tarakom-e mavad-e madani-ye ostokhan padid miayad va khatar-e shekastegi ra besyar bala mibarad?",
+     "grading_key": "- [1] Pooki-ye ostokhan",
+     "final_resolution": "Pooki-ye ostokhan",
+     "notes": "",
+     "keywords": [
+      "pooki-ye ostokhan"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Artrit-e romatoeid",
+      "Saratan-e khoon"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 966,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "کمبود شدید کدام ویتامین محلول در آب، علت اصلی خون‌ریزی لثه‌ها (اسکوروی) و سستی دیوارهٔ رگ‌هاست؟",
+     "grading_key": "- [1] ویتامین C",
+     "final_resolution": "ویتامین C",
+     "notes": "",
+     "keywords": [
+      "ویتامین C"
+     ],
+     "distractors": [
+      "ویتامین D",
+      "ویتامین A",
+      "ویتامین B12"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "A severe lack of which water-soluble vitamin is the main cause of bleeding gums (scurvy) and weak blood-vessel walls?",
+     "grading_key": "- [1] Vitamin C",
+     "final_resolution": "Vitamin C",
+     "notes": "",
+     "keywords": [
+      "vitamin C"
+     ],
+     "distractors": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin B12"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Kambood-e shadid-e kodam vitamin-e mahlool dar ab, ellat-e asli-ye khoonrizi-ye lase-ha (eskorbut) va sosti-ye divare-ye rag-hast?",
+     "grading_key": "- [1] Vitamin C",
+     "final_resolution": "Vitamin C",
+     "notes": "",
+     "keywords": [
+      "vitamin C"
+     ],
+     "distractors": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin B12"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 966,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام فلز سنگین در پساب‌های صنعتی، با انباشته شدن در بافت عصبی، مسمومیت مزمن و اختلال یادگیری در کودکان پدید می‌آورد؟",
+     "grading_key": "- [1] سرب",
+     "final_resolution": "سرب",
+     "notes": "",
+     "keywords": [
+      "سرب"
+     ],
+     "distractors": [
+      "آهن",
+      "کلسیم",
+      "منیزیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which heavy metal in industrial waste water builds up in nerve tissue and causes chronic poisoning and learning problems in children?",
+     "grading_key": "- [1] Lead",
+     "final_resolution": "Lead",
+     "notes": "",
+     "keywords": [
+      "lead (Pb)"
+     ],
+     "distractors": [
+      "Iron",
+      "Calcium",
+      "Magnesium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam felez-e sangin dar pasab-haye san'ati, ba anbashte shodan dar baft-e asabi, masmoomiyat-e mozmen va ekhtelal-e yadgiri dar koodakan padid miavarad?",
+     "grading_key": "- [1] Sorb",
+     "final_resolution": "Sorb",
+     "notes": "",
+     "keywords": [
+      "sorb"
+     ],
+     "distractors": [
+      "Ahan",
+      "Kalsiyom",
+      "Monizim"
+     ]
+    }
+   }
+  }
+ ]
+}
