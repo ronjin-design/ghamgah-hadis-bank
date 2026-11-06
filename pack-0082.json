@@ -1,0 +1,758 @@
+{
+ "version": 82,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 975,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (خط و دایره)",
+    "en": "Chapter 6: Conic Sections (Line and Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Khatt va Dayere)",
+    "pages": "126–128"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "اگر فاصلهٔ مرکز دایره از یک خط (⁦d⁩) دقیقاً برابر شعاع باشد (⁦d = R⁩)، خط نسبت به دایره چه وضعی دارد؟",
+     "grading_key": "- [1] Tangent to the circle",
+     "final_resolution": "Tangent to the circle",
+     "notes": "",
+     "keywords": [
+      "وضع خط و دایره"
+     ],
+     "distractors": [
+      "Cuts it at two points",
+      "Lies wholly outside it",
+      "Passes through the centre"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "If the distance d from the centre of a circle to a line is exactly the radius (d = R), how does the line sit relative to the circle?",
+     "grading_key": "- [1] Tangent to the circle",
+     "final_resolution": "Tangent to the circle",
+     "notes": "",
+     "keywords": [
+      "line and circle"
+     ],
+     "distractors": [
+      "Cuts it at two points",
+      "Lies wholly outside it",
+      "Passes through the centre"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Agar fasele-ye markaz-e dayere az yek khatt (d) daghighan barabar-e sho'a bashad (d = R), khatt nesbat be dayere che vaz'i darad?",
+     "grading_key": "- [1] Tangent to the circle",
+     "final_resolution": "Tangent to the circle",
+     "notes": "",
+     "keywords": [
+      "vaz'-e khatt va dayere"
+     ],
+     "distractors": [
+      "Cuts it at two points",
+      "Lies wholly outside it",
+      "Passes through the centre"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 975,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (سهمی افقی)",
+    "en": "Chapter 6: Conic Sections (Horizontal Parabola)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Sahmi-ye Ofoghi)",
+    "pages": "132–134"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "اگر محور تقارن یک سهمی موازی محور x باشد، دهانهٔ سهمی به کدام سو باز می‌شود؟",
+     "grading_key": "- [1] به راست یا به چپ",
+     "final_resolution": "به راست یا به چپ",
+     "notes": "",
+     "keywords": [
+      "سهمی افقی"
+     ],
+     "distractors": [
+      "به بالا یا به پایین",
+      "به‌طور مورب",
+      "به هیچ سو؛ بسته است"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "If a parabola's axis of symmetry is parallel to the x-axis, which way does it open?",
+     "grading_key": "- [1] To the right or to the left",
+     "final_resolution": "To the right or to the left",
+     "notes": "",
+     "keywords": [
+      "horizontal parabola"
+     ],
+     "distractors": [
+      "Upward or downward",
+      "Diagonally",
+      "Nowhere; it is closed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Agar mehvar-e tagharon-e yek sahmi movazi-ye mehvar-e x bashad, dahane-ye sahmi be kodam soo baz mishavad?",
+     "grading_key": "- [1] Be rast ya be chap",
+     "final_resolution": "Be rast ya be chap",
+     "notes": "",
+     "keywords": [
+      "sahmi-ye ofoghi"
+     ],
+     "distractors": [
+      "Be bala ya be payin",
+      "Be-toor-e movarrab",
+      "Be hich soo; baste ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 975,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (متغیر تصادفی)",
+    "en": "Chapter 7: Probability (Random Variable)",
+    "tr": "Fasl 7: Ehtemal (Moteghayyer-e Tasadofi)",
+    "pages": "140–142"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "تابعی که به هر برآمد فضای نمونهٔ یک آزمایش تصادفی دقیقاً یک عدد حقیقی نسبت می‌دهد، چه نام دارد؟",
+     "grading_key": "- [1] متغیر تصادفی",
+     "final_resolution": "متغیر تصادفی",
+     "notes": "",
+     "keywords": [
+      "متغیر تصادفی"
+     ],
+     "distractors": [
+      "افراز فضای نمونه",
+      "آزمایش برنولی",
+      "پیشامد متمم"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "What is a function called that gives each outcome in the sample space of a random experiment exactly one real number?",
+     "grading_key": "- [1] A random variable",
+     "final_resolution": "A random variable",
+     "notes": "",
+     "keywords": [
+      "random variable"
+     ],
+     "distractors": [
+      "A partition of the sample space",
+      "A Bernoulli trial",
+      "A complementary event"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Tabe'i ke be har baramad-e faza-ye nemoone-ye yek azmayesh-e tasadofi daghighan yek adad-e haghighi nesbat midahad, che nam darad?",
+     "grading_key": "- [1] Moteghayyer-e tasadofi",
+     "final_resolution": "Moteghayyer-e tasadofi",
+     "notes": "",
+     "keywords": [
+      "moteghayyer-e tasadofi"
+     ],
+     "distractors": [
+      "Efraz-e faza-ye nemoone",
+      "Azmayesh-e Bernooli",
+      "Pishamad-e motammem"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 975,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (توزیع احتمال)",
+    "en": "Chapter 7: Probability (Probability Distribution)",
+    "tr": "Fasl 7: Ehtemal (Tozi'-e Ehtemal)",
+    "pages": "142–144"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "در جدول توزیع احتمال یک متغیر تصادفی گسسته، مجموع احتمال همهٔ مقدارهای ممکن همیشه برابر کدام است؟",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "توزیع احتمال"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦0.5⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "In the probability distribution table of a discrete random variable, what do the probabilities of all possible values always add up to?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "probability distribution"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦0.5⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Dar jadval-e tozi'-e ehtemal-e yek moteghayyer-e tasadofi-ye gosaste, majmoo'-e ehtemal-e hame-ye meghdar-haye momken hamishe barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "tozi'-e ehtemal"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦0.5⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 975,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تَعِشْ» در عبارت زیر کدام است؟\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] زندگی می‌کنی",
+     "final_resolution": "زندگی می‌کنی",
+     "notes": "",
+     "keywords": [
+      "تَعِشْ"
+     ],
+     "distractors": [
+      "می‌خری",
+      "می‌میری",
+      "سفر می‌کنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَعِشْ» mean in this saying?\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] You will live",
+     "final_resolution": "You will live",
+     "notes": "",
+     "keywords": [
+      "ta'ish (you will live)"
+     ],
+     "distractors": [
+      "You will buy",
+      "You will die",
+      "You will travel"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ta'ish» dar ebarat-e zir kodam ast?\n«خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.»",
+     "grading_key": "- [1] Zendegi mikoni",
+     "final_resolution": "Zendegi mikoni",
+     "notes": "",
+     "keywords": [
+      "ta'ish"
+     ],
+     "distractors": [
+      "Mikhari",
+      "Mimiri",
+      "Safar mikoni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 975,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْهَوَى» در عبارت زیر کدام است؟\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] هوای نفس",
+     "final_resolution": "هوای نفس",
+     "notes": "",
+     "keywords": [
+      "الْهَوَى"
+     ],
+     "distractors": [
+      "خرد",
+      "دانش",
+      "ترس"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْهَوَى» mean in this saying?\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] Selfish desire, whim",
+     "final_resolution": "Selfish desire, whim",
+     "notes": "",
+     "keywords": [
+      "al-hawa (whim, desire)"
+     ],
+     "distractors": [
+      "Reason",
+      "Knowledge",
+      "Fear"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-hawa» dar ebarat-e zir kodam ast?\n«الْهَوَى أُسُّ الْمِحَنِ.»",
+     "grading_key": "- [1] Hava-ye nafs",
+     "final_resolution": "Hava-ye nafs",
+     "notes": "",
+     "keywords": [
+      "al-hawa"
+     ],
+     "distractors": [
+      "Kherad",
+      "Danesh",
+      "Tars"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 975,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "خستگی شدید، کم شدن تمرکز و ضعف دستگاه ایمنی در نوجوانان، پیامد مستقیم کدام رفتار است؟",
+     "grading_key": "- [1] کم‌خوابی",
+     "final_resolution": "کم‌خوابی",
+     "notes": "",
+     "keywords": [
+      "کم‌خوابی"
+     ],
+     "distractors": [
+      "ورزش منظم",
+      "خوردن پروتئین کافی",
+      "نشستن درست پشت میز"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "Severe tiredness, poor concentration and a weaker immune system in teenagers are direct results of which habit?",
+     "grading_key": "- [1] Not getting enough sleep",
+     "final_resolution": "Not getting enough sleep",
+     "notes": "",
+     "keywords": [
+      "lack of sleep"
+     ],
+     "distractors": [
+      "Regular exercise",
+      "Eating enough protein",
+      "Sitting properly at a desk"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Khastegi-ye shadid, kam shodan-e tamarkoz va za'f-e dastgah-e imeni dar nowjavanan, payamad-e mostaghim-e kodam raftar ast?",
+     "grading_key": "- [1] Kam-khabi",
+     "final_resolution": "Kam-khabi",
+     "notes": "",
+     "keywords": [
+      "kam-khabi"
+     ],
+     "distractors": [
+      "Varzesh-e monazzam",
+      "Khordan-e protein-e kafi",
+      "Neshastan-e dorost posht-e miz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 975,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در تصفیه‌خانه‌های آب، کدام روش برای از بین بردن بو، مزهٔ نامطبوع و ترکیب‌های آلی محلول در آب به کار می‌رود؟",
+     "grading_key": "- [1] جذب سطحی با کربن فعال",
+     "final_resolution": "جذب سطحی با کربن فعال",
+     "notes": "",
+     "keywords": [
+      "کربن فعال"
+     ],
+     "distractors": [
+      "آشغال‌گیری با توری",
+      "کلرزنی",
+      "گرم کردن آب"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In water treatment plants, which method removes bad smells, tastes and dissolved organic compounds from the water?",
+     "grading_key": "- [1] Adsorption on activated carbon",
+     "final_resolution": "Adsorption on activated carbon",
+     "notes": "",
+     "keywords": [
+      "activated carbon"
+     ],
+     "distractors": [
+      "Screening through grids",
+      "Chlorination",
+      "Heating the water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar tasfiye-khane-haye ab, kodam ravesh baraye az beyn bordan-e boo, maze-ye namatboo' va tarkib-haye ali-ye mahlool dar ab be kar miravad?",
+     "grading_key": "- [1] Jazb-e sathi ba karbon-e fa'al",
+     "final_resolution": "Jazb-e sathi ba karbon-e fa'al",
+     "notes": "",
+     "keywords": [
+      "karbon-e fa'al"
+     ],
+     "distractors": [
+      "Ashghal-giri ba toori",
+      "Kolor-zani",
+      "Garm kardan-e ab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 975,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در کمک‌های اولیه، برای بررسی تنفس طبیعی مصدوم بیهوش پیش از شروع احیا، حداکثر چه مدت باید صرف کرد؟",
+     "grading_key": "- [1] ۱۰ ثانیه",
+     "final_resolution": "۱۰ ثانیه",
+     "notes": "",
+     "keywords": [
+      "بررسی تنفس"
+     ],
+     "distractors": [
+      "۱ دقیقه",
+      "۳۰ ثانیه",
+      "۲ ثانیه"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In first aid, at most how long should you spend checking an unconscious person for normal breathing before starting CPR?",
+     "grading_key": "- [1] 10 seconds",
+     "final_resolution": "10 seconds",
+     "notes": "",
+     "keywords": [
+      "checking breathing"
+     ],
+     "distractors": [
+      "1 minute",
+      "30 seconds",
+      "2 seconds"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar komak-haye avvaliye, baraye barrasi-ye tanaffos-e tabi'i-ye masdoom-e bihoosh pish az shoroo'-e ehya, hadde-aksar che moddat bayad sarf kard?",
+     "grading_key": "- [1] 10 sanie",
+     "final_resolution": "10 sanie",
+     "notes": "",
+     "keywords": [
+      "barrasi-ye tanaffos"
+     ],
+     "distractors": [
+      "1 daghighe",
+      "30 sanie",
+      "2 sanie"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 975,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "در کمک‌های اولیه برای خون‌ریزی شدید بیرونی از دست یا پا، نخستین و مؤثرترین کار چیست؟",
+     "grading_key": "- [1] فشار مستقیم و محکم روی محل زخم",
+     "final_resolution": "فشار مستقیم و محکم روی محل زخم",
+     "notes": "",
+     "keywords": [
+      "کنترل خون‌ریزی"
+     ],
+     "distractors": [
+      "شستن زخم زیر آب سرد",
+      "مالیدن پماد چرب",
+      "بستن فوری تورنیکه پیش از هر کار دیگر"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "In first aid for heavy external bleeding from an arm or leg, what is the first and most effective step?",
+     "grading_key": "- [1] Pressing directly and firmly on the wound",
+     "final_resolution": "Pressing directly and firmly on the wound",
+     "notes": "",
+     "keywords": [
+      "controlling bleeding"
+     ],
+     "distractors": [
+      "Washing the wound under cold water",
+      "Rubbing on a greasy ointment",
+      "Tying a tourniquet at once, before anything else"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Dar komak-haye avvaliye baraye khoonrizi-ye shadid-e birooni az dast ya pa, nokhostin va mo'asser-tarin kar chist?",
+     "grading_key": "- [1] Feshar-e mostaghim va mohkam rooye mahall-e zakhm",
+     "final_resolution": "Feshar-e mostaghim va mohkam rooye mahall-e zakhm",
+     "notes": "",
+     "keywords": [
+      "kontrol-e khoonrizi"
+     ],
+     "distractors": [
+      "Shostan-e zakhm zir-e ab-e sard",
+      "Malidan-e pomad-e charb",
+      "Bastan-e fori-ye toornike pish az har kar-e digar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Khordad",
+   "number": 975,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام تغییر در شیوهٔ زندگی نقش اصلی را در پیشگیری از فشار خون بالا دارد؟",
+     "grading_key": "- [1] کم کردن مصرف نمک (سدیم)",
+     "final_resolution": "کم کردن مصرف نمک (سدیم)",
+     "notes": "",
+     "keywords": [
+      "پیشگیری از فشار خون بالا"
+     ],
+     "distractors": [
+      "خوردن چربی اشباع بیشتر",
+      "کم‌تحرکی",
+      "کشیدن سیگار بیشتر"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which lifestyle change plays the main part in preventing high blood pressure?",
+     "grading_key": "- [1] Eating less salt (sodium)",
+     "final_resolution": "Eating less salt (sodium)",
+     "notes": "",
+     "keywords": [
+      "preventing high blood pressure"
+     ],
+     "distractors": [
+      "Eating more saturated fat",
+      "Moving less",
+      "Smoking more"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam taghyir dar shive-ye zendegi naghsh-e asli ra dar pishgiri az feshar-e khoon-e bala darad?",
+     "grading_key": "- [1] Kam kardan-e masraf-e namak (sodiyom)",
+     "final_resolution": "Kam kardan-e masraf-e namak (sodiyom)",
+     "notes": "",
+     "keywords": [
+      "pishgiri az feshar-e khoon-e bala"
+     ],
+     "distractors": [
+      "Khordan-e charbi-ye eshba'-e bishtar",
+      "Kam-taharroki",
+      "Keshidan-e sigar-e bishtar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 975,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "وقتی جانداری عامل بیماری را فقط روی بدنش جابه‌جا می‌کند (مانند میکروب‌های روی پای مگس که به غذا می‌رسد)، چه نوع ناقلی است؟",
+     "grading_key": "- [1] ناقل مکانیکی",
+     "final_resolution": "ناقل مکانیکی",
+     "notes": "",
+     "keywords": [
+      "ناقل مکانیکی"
+     ],
+     "distractors": [
+      "ناقل زیستی",
+      "مخزن بیماری",
+      "ناقل قطره‌ای"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "When a creature carries a disease agent only on the outside of its body (like germs on a housefly's feet reaching food), what kind of vector is it?",
+     "grading_key": "- [1] A mechanical vector",
+     "final_resolution": "A mechanical vector",
+     "notes": "",
+     "keywords": [
+      "mechanical vector"
+     ],
+     "distractors": [
+      "A biological vector",
+      "A reservoir",
+      "A droplet carrier"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Vaghti jandari amel-e bimari ra faghat rooye badanash jabeja mikonad (manand-e mikrob-haye rooye pa-ye magas ke be ghaza miresad), che no' naghel-i ast?",
+     "grading_key": "- [1] Naghel-e mekaniki",
+     "final_resolution": "Naghel-e mekaniki",
+     "notes": "",
+     "keywords": [
+      "naghel-e mekaniki"
+     ],
+     "distractors": [
+      "Naghel-e zisti",
+      "Makhzan-e bimari",
+      "Naghel-e ghatre-i"
+     ]
+    }
+   }
+  }
+ ]
+}
