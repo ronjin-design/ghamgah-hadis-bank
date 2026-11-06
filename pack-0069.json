@@ -1,0 +1,935 @@
+{
+ "version": 69,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 962,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (نقاط بحرانی)",
+    "en": "Chapter 5: Applications of Derivatives (Critical Points)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Noghat-e Bohrani)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "نقاطی از دامنهٔ یک تابع پیوسته که در آن‌ها مشتق صفر است یا وجود ندارد، چه نام دارند؟",
+     "grading_key": "- [1] نقاط بحرانی",
+     "final_resolution": "نقاط بحرانی",
+     "notes": "",
+     "keywords": [
+      "نقاط بحرانی"
+     ],
+     "distractors": [
+      "نقاط عطف",
+      "نقاط مجانبی",
+      "رأس‌های تقارن"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "What are the points in the domain of a continuous function where the derivative is zero or does not exist called?",
+     "grading_key": "- [1] Critical points",
+     "final_resolution": "Critical points",
+     "notes": "",
+     "keywords": [
+      "critical points"
+     ],
+     "distractors": [
+      "Inflection points",
+      "Asymptotic points",
+      "Vertices of symmetry"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Noghati az damane-ye yek tabe-e peyvaste ke dar anha moshtagh sefr ast ya vojood nadarad, che nam darand?",
+     "grading_key": "- [1] Noghat-e bohrani",
+     "final_resolution": "Noghat-e bohrani",
+     "notes": "",
+     "keywords": [
+      "noghat-e bohrani"
+     ],
+     "distractors": [
+      "Noghat-e atf",
+      "Noghat-e mojanebi",
+      "Ra's-haye taghaarom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 962,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (آزمون مشتق اول)",
+    "en": "Chapter 5: Applications of Derivatives (First-Derivative Test)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Azmoon-e Moshtagh-e Aval)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "اگر علامت ⁦f′(x)⁩ هنگام گذر از نقطهٔ بحرانی ⁦c⁩ از مثبت به منفی تغییر کند، تابع در ⁦c⁩ چه دارد؟",
+     "grading_key": "- [1] ماکزیمم نسبی",
+     "final_resolution": "ماکزیمم نسبی",
+     "notes": "",
+     "keywords": [
+      "ماکزیمم نسبی"
+     ],
+     "distractors": [
+      "مینیمم نسبی",
+      "نقطهٔ عطف بدون اکسترمم",
+      "مجانب افقی"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "If f′(x) changes from positive to negative as x passes a critical point c, what does f have at c?",
+     "grading_key": "- [1] A relative maximum",
+     "final_resolution": "A relative maximum",
+     "notes": "",
+     "keywords": [
+      "relative maximum"
+     ],
+     "distractors": [
+      "A relative minimum",
+      "An inflection point with no extremum",
+      "A horizontal asymptote"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Agar alamat-e f′(x) hengam-e gozar az noghte-ye bohrani-ye c az mosbat be manfi taghyir konad, tabe dar c che darad?",
+     "grading_key": "- [1] Maksimom-e nesbi",
+     "final_resolution": "Maksimom-e nesbi",
+     "notes": "",
+     "keywords": [
+      "maksimom-e nesbi"
+     ],
+     "distractors": [
+      "Minimom-e nesbi",
+      "Noghte-ye atf bedoon-e ekstremom",
+      "Mojaneb-e ofoghi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 962,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (اکسترمم مطلق)",
+    "en": "Chapter 5: Applications of Derivatives (Absolute Extrema)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Ekstremom-e Motlagh)",
+    "pages": "102–104"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "بیشترین مقدار یک تابع پیوسته روی بازهٔ بستهٔ ⁦[a, b]⁩ همواره در کدام نقاط رخ می‌دهد؟",
+     "grading_key": "- [1] در نقاط بحرانی یا دو سر بازه",
+     "final_resolution": "در نقاط بحرانی یا دو سر بازه",
+     "notes": "",
+     "keywords": [
+      "اکسترمم مطلق"
+     ],
+     "distractors": [
+      "تنها جایی که ⁦f′(x) = 0⁩",
+      "همیشه در ⁦x = 0⁩",
+      "تنها در نقاط عطف"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "On a closed interval [a, b], where does the greatest value of a continuous function always occur?",
+     "grading_key": "- [1] At a critical point or an endpoint",
+     "final_resolution": "At a critical point or an endpoint",
+     "notes": "",
+     "keywords": [
+      "absolute extremum"
+     ],
+     "distractors": [
+      "Only where f′(x) = 0",
+      "Always at x = 0",
+      "Only at inflection points"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Bishtarin meghdar-e yek tabe-e peyvaste rooye baze-ye baste-ye [a, b] hamvare dar kodam noghat rokh midahad?",
+     "grading_key": "- [1] Dar noghat-e bohrani ya do sar-e baze",
+     "final_resolution": "Dar noghat-e bohrani ya do sar-e baze",
+     "notes": "",
+     "keywords": [
+      "ekstremom-e motlagh"
+     ],
+     "distractors": [
+      "Tanha jayi ke f′(x) = 0",
+      "Hamishe dar x = 0",
+      "Tanha dar noghat-e atf"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 962,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (معادلات مثلثاتی)",
+    "en": "Chapter 2: Trigonometry (Trigonometric Equations)",
+    "tr": "Fasl 2: Mosallasat (Moadelat)",
+    "pages": "34–36"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "جواب کلی معادلهٔ ⁦sin x = 0⁩ کدام است؟ (⁦k⁩ عدد صحیح است)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ مثلثاتی"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = 2kπ + π⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is the general solution of sin x = 0? (k is an integer)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "trigonometric equation"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = 2kπ + π⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Javab-e kolli-ye moadele-ye sin x = 0 kodam ast? (k adad-e sahih ast)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye mosallasati"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = 2kπ + π⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 962,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (روابط کمان دوبرابر)",
+    "en": "Chapter 2: Trigonometry (Double-Angle Formulas)",
+    "tr": "Fasl 2: Mosallasat (Kaman-e Do-barabar)",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "عبارت ⁦2 sin x cos x⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "کمان دوبرابر"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2 sin 2x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is 2 sin x cos x equal to?",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "double angle"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2 sin 2x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Ebarat-e 2 sin x cos x barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦sin 2x⁩",
+     "final_resolution": "⁦sin 2x⁩",
+     "notes": "",
+     "keywords": [
+      "kaman-e do-barabar"
+     ],
+     "distractors": [
+      "⁦cos 2x⁩",
+      "⁦tan 2x⁩",
+      "⁦2 sin 2x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1399-Khordad",
+   "number": 962,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (قانون احتمال کل)",
+    "en": "Chapter 7: Probability (Law of Total Probability)",
+    "tr": "Fasl 7: Ehtemal (Ehtemal-e Kol)",
+    "pages": "142–144"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "اگر فضای نمونه به چند پیشامد جدا از هم افراز شود، احتمال یک پیشامد دلخواه ⁦B⁩ با کدام قانون به دست می‌آید؟",
+     "grading_key": "- [1] قانون احتمال کل",
+     "final_resolution": "قانون احتمال کل",
+     "notes": "",
+     "keywords": [
+      "قانون احتمال کل"
+     ],
+     "distractors": [
+      "تنها تعریف احتمال شرطی",
+      "توزیع دوجمله‌ای",
+      "قانون ضرب پیشامدهای مستقل"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "If the sample space is split into several mutually exclusive events, which law gives the probability of any event B?",
+     "grading_key": "- [1] The law of total probability",
+     "final_resolution": "The law of total probability",
+     "notes": "",
+     "keywords": [
+      "law of total probability"
+     ],
+     "distractors": [
+      "The definition of conditional probability alone",
+      "The binomial distribution",
+      "The product rule for independent events"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Agar faza-ye nemoone be chand pishamad-e joda az ham efraz shavad, ehtemal-e yek pishamad-e delkhah-e B ba kodam ghanoon be dast miayad?",
+     "grading_key": "- [1] Ghanoon-e ehtemal-e kol",
+     "final_resolution": "Ghanoon-e ehtemal-e kol",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e ehtemal-e kol"
+     ],
+     "distractors": [
+      "Tanha tarif-e ehtemal-e sharti",
+      "Tozi-e do-jomlei",
+      "Ghanoon-e zarb-e pishamad-haye mostaghel"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 962,
+   "topic_tag": "free-will",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: قدرت پرواز (اختیار)",
+    "en": "Lesson 5: The Power to Fly (Free Will)",
+    "tr": "Dars 5: Ghodrat-e Parvaz (Ekhtiyar)",
+    "pages": "64–66"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت پرواز",
+     "question": "بنابر درس پنجم، «قدرت پرواز» انسان، که او را از دیگر موجودات جدا می‌کند و مسئولیت می‌آورد، چیست؟",
+     "grading_key": "- [1] اختیار (توانایی انتخاب)",
+     "final_resolution": "اختیار (توانایی انتخاب)",
+     "notes": "",
+     "keywords": [
+      "اختیار"
+     ],
+     "distractors": [
+      "غرایز حیوانی",
+      "پیروی از مد روز",
+      "تأیید دیگران"
+     ]
+    },
+    "en": {
+     "topic_label": "The Power to Fly (Free Will)",
+     "question": "By lesson five, what is man's 'power to fly', which sets him apart from other beings and brings responsibility?",
+     "grading_key": "- [1] Free will (the power to choose)",
+     "final_resolution": "Free will (the power to choose)",
+     "notes": "",
+     "keywords": [
+      "free will (ikhtiyar)"
+     ],
+     "distractors": [
+      "Animal instincts",
+      "Following fashion",
+      "Others' approval"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat-e Parvaz",
+     "question": "Bena bar dars-e panjom, «ghodrat-e parvaz»-e ensan, ke oo ra az digar mojoodat joda mikonad va masooliyat miavarad, chist?",
+     "grading_key": "- [1] Ekhtiyar (tavanayi-ye entekhab)",
+     "final_resolution": "Ekhtiyar (tavanayi-ye entekhab)",
+     "notes": "",
+     "keywords": [
+      "ekhtiyar"
+     ],
+     "distractors": [
+      "Gharayez-e heyvani",
+      "Peyravi az mod-e rooz",
+      "Ta'yid-e digaran"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 962,
+   "topic_tag": "self",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (مراتب نفس)",
+    "en": "Religion and Life (Levels of the Self)",
+    "tr": "Din va Zendegi (Marateb-e Nafs)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مراتب نفس",
+     "question": "مرتبه‌ای از نفس که پس از گناه، انسان را سرزنش می‌کند و به جبران و توبه می‌کشاند، چه نام دارد؟",
+     "grading_key": "- [1] نفس لوامه",
+     "final_resolution": "نفس لوامه",
+     "notes": "",
+     "keywords": [
+      "نفس لوامه"
+     ],
+     "distractors": [
+      "نفس اماره",
+      "نفس مطمئنه",
+      "نفس حیوانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Levels of the Self",
+     "question": "Which level of the soul blames a person after sin and pushes them to make amends and repent?",
+     "grading_key": "- [1] The self-reproaching soul (nafs-e lawwama)",
+     "final_resolution": "The self-reproaching soul (nafs-e lawwama)",
+     "notes": "",
+     "keywords": [
+      "the self-reproaching soul (nafs-e lawwama)"
+     ],
+     "distractors": [
+      "The commanding soul (nafs-e ammara)",
+      "The soul at peace (nafs-e mutma'inna)",
+      "The animal soul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Marateb-e Nafs",
+     "question": "Martabe-i az nafs ke pas az gonah, ensan ra sarzanesh mikonad va be jobran va towbe mikeshanad, che nam darad?",
+     "grading_key": "- [1] Nafs-e lavvame",
+     "final_resolution": "Nafs-e lavvame",
+     "notes": "",
+     "keywords": [
+      "nafs-e lavvame"
+     ],
+     "distractors": [
+      "Nafs-e ammare",
+      "Nafs-e motmaenne",
+      "Nafs-e heyvani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 962,
+   "topic_tag": "modern-civilization",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱۰: تمدن جدید و مسئولیت ما (مسئولیت ما)",
+    "en": "Lesson 10: Modern Civilization and Our Responsibility (Our Task)",
+    "tr": "Dars 10: Tamaddon-e Jadid",
+    "pages": "116–118"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تمدن جدید و مسئولیت ما",
+     "question": "بنابر درس دهم، بزرگ‌ترین مسئولیت نسل جوان مسلمان در برابر تمدن مادی غرب چیست؟",
+     "grading_key": "- [1] تلاش برای ساختن تمدن نوین اسلامی",
+     "final_resolution": "تلاش برای ساختن تمدن نوین اسلامی",
+     "notes": "",
+     "keywords": [
+      "تمدن نوین اسلامی"
+     ],
+     "distractors": [
+      "همانندشدن کامل با سبک زندگی غربی",
+      "کناره‌گیری از همهٔ علوم جدید",
+      "نظاره‌گری منفعلانه"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Civilization and Our Responsibility",
+     "question": "By lesson ten, what is the young Muslim generation's greatest task in the face of the West's materialist civilization?",
+     "grading_key": "- [1] Working to build a new Islamic civilization",
+     "final_resolution": "Working to build a new Islamic civilization",
+     "notes": "",
+     "keywords": [
+      "new Islamic civilization"
+     ],
+     "distractors": [
+      "Adopting the Western way of life completely",
+      "Turning away from all modern science",
+      "Watching passively"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamaddon-e Jadid va Masooliyat-e Ma",
+     "question": "Bena bar dars-e dahom, bozorg-tarin masooliyat-e nasl-e javan-e mosalman dar barabar-e tamaddon-e maddi-ye gharb chist?",
+     "grading_key": "- [1] Talash baraye sakhtan-e tamaddon-e novin-e eslami",
+     "final_resolution": "Talash baraye sakhtan-e tamaddon-e novin-e eslami",
+     "notes": "",
+     "keywords": [
+      "tamaddon-e novin-e eslami"
+     ],
+     "distractors": [
+      "Hamanand-shodan-e kamel ba sabk-e zendegi-ye gharbi",
+      "Kenare-giri az hame-ye oloom-e jadid",
+      "Nazare-gari-ye monfaelane"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 962,
+   "topic_tag": "divine-rulings",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: زندگی در دنیای امروز و عمل به احکام الهی (تقلید)",
+    "en": "Lesson 8: Life Today and Following the Divine Rulings (Taqlid)",
+    "tr": "Dars 8: Zendegi dar Donya-ye Emrooz (Taghlid)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "زندگی در دنیای امروز و عمل به احکام الهی",
+     "question": "رجوع کسی که در احکام دین متخصص نیست به فقیه جامع‌الشرایط برای شناخت وظایف شرعی، چه نام دارد؟",
+     "grading_key": "- [1] تقلید",
+     "final_resolution": "تقلید",
+     "notes": "",
+     "keywords": [
+      "تقلید"
+     ],
+     "distractors": [
+      "اجتهاد",
+      "گمان شخصی",
+      "پیروی کورکورانه از رسوم"
+     ]
+    },
+    "en": {
+     "topic_label": "Life Today and Following the Divine Rulings",
+     "question": "What is it called when someone who is not an expert in religious rulings turns to a fully qualified jurist to learn their duties?",
+     "grading_key": "- [1] Taqlid (following a jurist)",
+     "final_resolution": "Taqlid (following a jurist)",
+     "notes": "",
+     "keywords": [
+      "following a jurist (taqlid)"
+     ],
+     "distractors": [
+      "Ijtihad",
+      "Personal guesswork",
+      "Blindly following custom"
+     ]
+    },
+    "tr": {
+     "topic_label": "Zendegi dar Donya-ye Emrooz",
+     "question": "Rojoo-e kasi ke dar ahkam-e din motekhasses nist be faghih-e jame-osh-sharayet baraye shenakht-e vazayef-e sharei, che nam darad?",
+     "grading_key": "- [1] Taghlid",
+     "final_resolution": "Taghlid",
+     "notes": "",
+     "keywords": [
+      "taghlid"
+     ],
+     "distractors": [
+      "Ejtehad",
+      "Goman-e shakhsi",
+      "Peyravi-ye koorkoorane az rosoom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Dey",
+   "number": 962,
+   "topic_tag": "repentance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۷: بازگشت (شرایط پذیرش توبه)",
+    "en": "Lesson 7: The Return (When Repentance Is Accepted)",
+    "tr": "Dars 7: Bazgasht",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بازگشت",
+     "question": "بنابر درس هفتم، شرط لازم برای پذیرفته شدن توبه و پاک شدن اثر گناه چیست؟",
+     "grading_key": "- [1] اصلاح و جبران رفتارهای گذشته",
+     "final_resolution": "اصلاح و جبران رفتارهای گذشته",
+     "notes": "",
+     "keywords": [
+      "شرط پذیرش توبه"
+     ],
+     "distractors": [
+      "تکرار زبانی چند ذکر",
+      "کناره‌گیری همیشگی از مردم",
+      "گردآوری ثروت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Return (Repentance)",
+     "question": "By lesson seven, what is required for repentance to be accepted and the effect of sin wiped away?",
+     "grading_key": "- [1] Reforming oneself and making good past wrongs",
+     "final_resolution": "Reforming oneself and making good past wrongs",
+     "notes": "",
+     "keywords": [
+      "condition for repentance to be accepted"
+     ],
+     "distractors": [
+      "Repeating a few words aloud",
+      "Withdrawing from people for ever",
+      "Building up wealth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bazgasht",
+     "question": "Bena bar dars-e haftom, shart-e lazem baraye paziroofte shodan-e towbe va pak shodan-e asar-e gonah chist?",
+     "grading_key": "- [1] Eslah va jobran-e raftar-haye gozashte",
+     "final_resolution": "Eslah va jobran-e raftar-haye gozashte",
+     "notes": "",
+     "keywords": [
+      "shart-e paziresh-e towbe"
+     ],
+     "distractors": [
+      "Tekrar-e zabani-ye chand zekr",
+      "Kenare-giri-ye hamishegi az mardom",
+      "Gerdavari-ye servat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 962,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: دماوندیه (قلمرو زبانی: واژگان)",
+    "en": "Lesson 5: Damavandiyeh (Vocabulary)",
+    "tr": "Dars 5: Damavandiyeh (Vazhegan)",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «چهر» در بیت زیر از دماوندیهٔ بهار چیست؟\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] چهره",
+     "final_resolution": "چهره",
+     "notes": "",
+     "keywords": [
+      "چهر"
+     ],
+     "distractors": [
+      "تاج",
+      "گیسو",
+      "ردپا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «چهر» mean in this couplet from Bahar's Damavandiyeh?\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] Face",
+     "final_resolution": "Face",
+     "notes": "",
+     "keywords": [
+      "chehr (face)"
+     ],
+     "distractors": [
+      "Crown",
+      "Lock of hair",
+      "Footprint"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «chehr» dar beit-e zir az Damavandiye-ye Bahar chist?\n«تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند»",
+     "grading_key": "- [1] Chehre",
+     "final_resolution": "Chehre",
+     "notes": "",
+     "keywords": [
+      "chehr"
+     ],
+     "distractors": [
+      "Taj",
+      "Gisoo",
+      "Radd-e pa"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 962,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: از پاریز تا پاریس (قلمرو زبانی: املا)",
+    "en": "Lesson 8: From Pariz to Paris (Spelling)",
+    "tr": "Dars 8: Az Pariz ta Paris (Emla)",
+    "pages": "82–84"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «آبگیر» است، کدام است؟",
+     "grading_key": "- [1] برکه",
+     "final_resolution": "برکه",
+     "notes": "",
+     "keywords": [
+      "برکه"
+     ],
+     "distractors": [
+      "بحرکه",
+      "برقه",
+      "بهرکه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'pool, pond'?",
+     "grading_key": "- [1] برکه",
+     "final_resolution": "برکه",
+     "notes": "",
+     "keywords": [
+      "berke (pool)"
+     ],
+     "distractors": [
+      "بحرکه",
+      "برقه",
+      "بهرکه"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'abgir' ast, kodam ast?",
+     "grading_key": "- [1] برکه",
+     "final_resolution": "برکه",
+     "notes": "",
+     "keywords": [
+      "berke"
+     ],
+     "distractors": [
+      "بحرکه",
+      "برقه",
+      "بهرکه"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 962,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: نیایش (قلمرو ادبی: حسن تعلیل)",
+    "en": "Lesson 6: Prayer (Literary Devices: Husn-e Ta'lil)",
+    "tr": "Dars 6: Niyayesh (Hosn-e Ta'lil)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "آوردن علتی زیبا و شاعرانه اما غیرواقعی برای یک پدیده، کدام آرایه است؟",
+     "grading_key": "- [1] حسن تعلیل",
+     "final_resolution": "حسن تعلیل",
+     "notes": "",
+     "keywords": [
+      "حسن تعلیل"
+     ],
+     "distractors": [
+      "ایهام",
+      "مراعات نظیر",
+      "جناس تام"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "Giving a beautiful, poetic but unreal reason for something is which device?",
+     "grading_key": "- [1] Husn-e ta'lil (poetic cause)",
+     "final_resolution": "Husn-e ta'lil (poetic cause)",
+     "notes": "",
+     "keywords": [
+      "poetic cause (husn-e ta'lil)"
+     ],
+     "distractors": [
+      "Iham (double meaning)",
+      "Moraat-e nazir (congruity)",
+      "Jinas-e tam (complete pun)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Avordan-e ellati ziba va shaerane amma gheyr-e vaghei baraye yek padide, kodam arayeh ast?",
+     "grading_key": "- [1] Hosn-e ta'lil",
+     "final_resolution": "Hosn-e ta'lil",
+     "notes": "",
+     "keywords": [
+      "hosn-e ta'lil"
+     ],
+     "distractors": [
+      "Iham",
+      "Moraat-e nazir",
+      "Jenas-e tam"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 962,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: از پاریز تا پاریس (قلمرو زبانی: واژگان)",
+    "en": "Lesson 8: From Pariz to Paris (Vocabulary)",
+    "tr": "Dars 8: Az Pariz ta Paris (Vazhegan)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ابنیه» در جملهٔ زیر چیست؟\n«سیاحان از تماشای ابنیهٔ تاریخی غرق در شگفتی شدند.»",
+     "grading_key": "- [1] بناها، ساختمان‌ها",
+     "final_resolution": "بناها، ساختمان‌ها",
+     "notes": "",
+     "keywords": [
+      "ابنیه"
+     ],
+     "distractors": [
+      "توفان‌ها",
+      "بازارها",
+      "راه‌های بیابانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ابنیه» mean in this sentence?\n«سیاحان از تماشای ابنیهٔ تاریخی غرق در شگفتی شدند.»",
+     "grading_key": "- [1] Buildings",
+     "final_resolution": "Buildings",
+     "notes": "",
+     "keywords": [
+      "abniye (buildings)"
+     ],
+     "distractors": [
+      "Storms",
+      "Markets",
+      "Desert roads"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «abniye» dar jomle-ye zir chist?\n«سیاحان از تماشای ابنیهٔ تاریخی غرق در شگفتی شدند.»",
+     "grading_key": "- [1] Bana-ha, sakhteman-ha",
+     "final_resolution": "Bana-ha, sakhteman-ha",
+     "notes": "",
+     "keywords": [
+      "abniye"
+     ],
+     "distractors": [
+      "Toofan-ha",
+      "Bazar-ha",
+      "Rah-haye biyabani"
+     ]
+    }
+   }
+  }
+ ]
+}
