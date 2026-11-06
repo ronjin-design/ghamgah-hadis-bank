@@ -1,0 +1,941 @@
+{
+ "version": 97,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 990,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (یکنوایی تابع مرکب)",
+    "en": "Chapter 1: Functions (Monotonicity of a Composite)",
+    "tr": "Fasl 1: Tabe' (Yeknavayi-ye Morakkab)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر ⁦f⁩ اکیداً صعودی و ⁦g⁩ اکیداً نزولی باشد، ⁦f∘g⁩ چگونه است؟",
+     "grading_key": "- [1] اکیداً نزولی",
+     "final_resolution": "اکیداً نزولی",
+     "notes": "",
+     "keywords": [
+      "یکنوایی تابع مرکب"
+     ],
+     "distractors": [
+      "اکیداً صعودی",
+      "ثابت",
+      "متناوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If f is strictly increasing and g is strictly decreasing, what is f∘g?",
+     "grading_key": "- [1] Strictly decreasing",
+     "final_resolution": "Strictly decreasing",
+     "notes": "",
+     "keywords": [
+      "monotonicity of a composite"
+     ],
+     "distractors": [
+      "Strictly increasing",
+      "Constant",
+      "Periodic"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar f akidan so'oodi va g akidan nozooli bashad, f∘g chegoone ast?",
+     "grading_key": "- [1] Akidan nozooli",
+     "final_resolution": "Akidan nozooli",
+     "notes": "",
+     "keywords": [
+      "yeknavayi-ye tabe'-e morakkab"
+     ],
+     "distractors": [
+      "Akidan so'oodi",
+      "Sabet",
+      "Motanaveb"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 990,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنه با تعیین علامت)",
+    "en": "Chapter 1: Functions (Domain by Sign Analysis)",
+    "tr": "Fasl 1: Tabe' (Damane ba Ta'yin-e Alamat)",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "دامنهٔ تابع ⁦f(x) = √(x / (x − 2))⁩ کدام است؟",
+     "grading_key": "- [1] ⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "final_resolution": "⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "notes": "",
+     "keywords": [
+      "دامنه با تعیین علامت"
+     ],
+     "distractors": [
+      "⁦[0, 2)⁩",
+      "⁦(−∞, 0) ∪ [2, +∞)⁩",
+      "⁦[0, 2]⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the domain of f(x) = √(x / (x − 2))?",
+     "grading_key": "- [1] ⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "final_resolution": "⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "notes": "",
+     "keywords": [
+      "domain by sign analysis"
+     ],
+     "distractors": [
+      "⁦[0, 2)⁩",
+      "⁦(−∞, 0) ∪ [2, +∞)⁩",
+      "⁦[0, 2]⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Damane-ye tabe'-e f(x) = √(x / (x − 2)) kodam ast?",
+     "grading_key": "- [1] ⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "final_resolution": "⁦(−∞, 0] ∪ (2, +∞)⁩",
+     "notes": "",
+     "keywords": [
+      "damane ba ta'yin-e alamat"
+     ],
+     "distractors": [
+      "⁦[0, 2)⁩",
+      "⁦(−∞, 0) ∪ [2, +∞)⁩",
+      "⁦[0, 2]⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 990,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَفِرُّ» در عبارت زیر کدام است؟\n«یَوْمَ یَفِرُّ الْمَرْءُ مِنْ أَخِیهِ.»",
+     "grading_key": "- [1] می‌گریزد",
+     "final_resolution": "می‌گریزد",
+     "notes": "",
+     "keywords": [
+      "یَفِرُّ"
+     ],
+     "distractors": [
+      "نزدیک می‌شود",
+      "فریاد می‌زند",
+      "آرام می‌خوابد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَفِرُّ» mean in this verse?\n«یَوْمَ یَفِرُّ الْمَرْءُ مِنْ أَخِیهِ.»",
+     "grading_key": "- [1] Flees",
+     "final_resolution": "Flees",
+     "notes": "",
+     "keywords": [
+      "yafirru (flees)"
+     ],
+     "distractors": [
+      "Comes close",
+      "Shouts",
+      "Sleeps peacefully"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yafirru» dar ebarat-e zir kodam ast?\n«یَوْمَ یَفِرُّ الْمَرْءُ مِنْ أَخِیهِ.»",
+     "grading_key": "- [1] Migorizad",
+     "final_resolution": "Migorizad",
+     "notes": "",
+     "keywords": [
+      "yafirru"
+     ],
+     "distractors": [
+      "Nazdik mishavad",
+      "Faryad mizanad",
+      "Aram mikhabad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 990,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مُسْفِرَةٌ» در عبارت زیر کدام است؟\n«وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ.»",
+     "grading_key": "- [1] درخشان و روشن",
+     "final_resolution": "درخشان و روشن",
+     "notes": "",
+     "keywords": [
+      "مُسْفِرَةٌ"
+     ],
+     "distractors": [
+      "تیره و غمگین",
+      "هراسان",
+      "پوشیده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مُسْفِرَةٌ» mean in this verse?\n«وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ.»",
+     "grading_key": "- [1] Bright, radiant",
+     "final_resolution": "Bright, radiant",
+     "notes": "",
+     "keywords": [
+      "musfira (bright, radiant)"
+     ],
+     "distractors": [
+      "Dark and gloomy",
+      "Terrified",
+      "Veiled"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «musfira» dar ebarat-e zir kodam ast?\n«وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ.»",
+     "grading_key": "- [1] Derakhshan va rowshan",
+     "final_resolution": "Derakhshan va rowshan",
+     "notes": "",
+     "keywords": [
+      "musfira"
+     ],
+     "distractors": [
+      "Tire va ghamgin",
+      "Harasan",
+      "Pooshide"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 990,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «غَبَرَةٌ» در عبارت زیر کدام است؟\n«وَ وُجُوهٌ یَوْمَئِذٍ عَلَیْهَا غَبَرَةٌ.»",
+     "grading_key": "- [1] گرد و غبار، تیرگی",
+     "final_resolution": "گرد و غبار، تیرگی",
+     "notes": "",
+     "keywords": [
+      "غَبَرَةٌ"
+     ],
+     "distractors": [
+      "روشنایی",
+      "عسل",
+      "رنگ سبز"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «غَبَرَةٌ» mean in this verse?\n«وَ وُجُوهٌ یَوْمَئِذٍ عَلَیْهَا غَبَرَةٌ.»",
+     "grading_key": "- [1] Dust, a dusty gloom",
+     "final_resolution": "Dust, a dusty gloom",
+     "notes": "",
+     "keywords": [
+      "ghabara (dust)"
+     ],
+     "distractors": [
+      "Brightness",
+      "Honey",
+      "Green colour"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ghabara» dar ebarat-e zir kodam ast?\n«وَ وُجُوهٌ یَوْمَئِذٍ عَلَیْهَا غَبَرَةٌ.»",
+     "grading_key": "- [1] Gard va ghobar, tiregi",
+     "final_resolution": "Gard va ghobar, tiregi",
+     "notes": "",
+     "keywords": [
+      "ghabara"
+     ],
+     "distractors": [
+      "Rowshanayi",
+      "Asal",
+      "Rang-e sabz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 990,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تَرْهَقُهَا» در عبارت زیر کدام است؟\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] آن را فرا می‌گیرد",
+     "final_resolution": "آن را فرا می‌گیرد",
+     "notes": "",
+     "keywords": [
+      "تَرْهَقُهَا"
+     ],
+     "distractors": [
+      "آن را می‌زداید",
+      "آن را روشن می‌کند",
+      "آن را نابود می‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَرْهَقُهَا» mean in this verse?\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] Covers it, overcomes it",
+     "final_resolution": "Covers it, overcomes it",
+     "notes": "",
+     "keywords": [
+      "tarhaqu (covers, overcomes)"
+     ],
+     "distractors": [
+      "Clears it away",
+      "Lights it up",
+      "Destroys it"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tarhaquha» dar ebarat-e zir kodam ast?\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] An ra fara migirad",
+     "final_resolution": "An ra fara migirad",
+     "notes": "",
+     "keywords": [
+      "tarhaquha"
+     ],
+     "distractors": [
+      "An ra mizodayad",
+      "An ra rowshan mikonad",
+      "An ra nabood mikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 990,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «قَتَرَةٌ» در عبارت زیر کدام است؟\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] سیاهی و تیرگی",
+     "final_resolution": "سیاهی و تیرگی",
+     "notes": "",
+     "keywords": [
+      "قَتَرَةٌ"
+     ],
+     "distractors": [
+      "سپیدی نقره‌ای",
+      "آب زلال",
+      "تاج زرین"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «قَتَرَةٌ» mean in this verse?\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] Blackness, darkness",
+     "final_resolution": "Blackness, darkness",
+     "notes": "",
+     "keywords": [
+      "qatara (blackness)"
+     ],
+     "distractors": [
+      "Silver whiteness",
+      "Clear water",
+      "A golden crown"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «qatara» dar ebarat-e zir kodam ast?\n«تَرْهَقُهَا قَتَرَةٌ.»",
+     "grading_key": "- [1] Siyahi va tiregi",
+     "final_resolution": "Siyahi va tiregi",
+     "notes": "",
+     "keywords": [
+      "qatara"
+     ],
+     "distractors": [
+      "Sepidi-ye noghre-i",
+      "Ab-e zolal",
+      "Taj-e zarrin"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 990,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تهور» در جملهٔ زیر چیست؟\n«نویسنده با تهور و شجاعت، به نقد ساختارهای ظالمانه پرداخت.»",
+     "grading_key": "- [1] بی‌باکی و جسارت",
+     "final_resolution": "بی‌باکی و جسارت",
+     "notes": "",
+     "keywords": [
+      "تهور"
+     ],
+     "distractors": [
+      "ترس و بزدلی",
+      "خستگی",
+      "رازداری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تهور» mean in this sentence?\n«نویسنده با تهور و شجاعت، به نقد ساختارهای ظالمانه پرداخت.»",
+     "grading_key": "- [1] Daring, boldness",
+     "final_resolution": "Daring, boldness",
+     "notes": "",
+     "keywords": [
+      "tahavvor (daring)"
+     ],
+     "distractors": [
+      "Fear and cowardice",
+      "Tiredness",
+      "Secrecy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tahavvor» dar jomle-ye zir chist?\n«نویسنده با تهور و شجاعت، به نقد ساختارهای ظالمانه پرداخت.»",
+     "grading_key": "- [1] Bibaki va jesarat",
+     "final_resolution": "Bibaki va jesarat",
+     "notes": "",
+     "keywords": [
+      "tahavvor"
+     ],
+     "distractors": [
+      "Tars va bozdeli",
+      "Khastegi",
+      "Razdari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 990,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مفاخرت» در جملهٔ زیر چیست؟\n«فداکاری قهرمانان، مایهٔ مفاخرت و سربلندی یک ملت است.»",
+     "grading_key": "- [1] نازش و افتخار",
+     "final_resolution": "نازش و افتخار",
+     "notes": "",
+     "keywords": [
+      "مفاخرت"
+     ],
+     "distractors": [
+      "خواری",
+      "کمبود",
+      "شتاب"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مفاخرت» mean in this sentence?\n«فداکاری قهرمانان، مایهٔ مفاخرت و سربلندی یک ملت است.»",
+     "grading_key": "- [1] Pride, glory",
+     "final_resolution": "Pride, glory",
+     "notes": "",
+     "keywords": [
+      "mofakherat (pride, glory)"
+     ],
+     "distractors": [
+      "Disgrace",
+      "Shortage",
+      "Speed"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mofakherat» dar jomle-ye zir chist?\n«فداکاری قهرمانان، مایهٔ مفاخرت و سربلندی یک ملت است.»",
+     "grading_key": "- [1] Nazesh va eftekhar",
+     "final_resolution": "Nazesh va eftekhar",
+     "notes": "",
+     "keywords": [
+      "mofakherat"
+     ],
+     "distractors": [
+      "Khari",
+      "Kambood",
+      "Shetab"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 990,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «عجز» در جملهٔ زیر چیست؟\n«در افق آن صحرای خشک، ذرات غبار گویی نمودار عجز و ناتوانی انسان بودند.»",
+     "grading_key": "- [1] ناتوانی و درماندگی",
+     "final_resolution": "ناتوانی و درماندگی",
+     "notes": "",
+     "keywords": [
+      "عجز"
+     ],
+     "distractors": [
+      "فرمانروایی",
+      "سختی",
+      "رشد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «عجز» mean in this sentence?\n«در افق آن صحرای خشک، ذرات غبار گویی نمودار عجز و ناتوانی انسان بودند.»",
+     "grading_key": "- [1] Helplessness, inability",
+     "final_resolution": "Helplessness, inability",
+     "notes": "",
+     "keywords": [
+      "ajz (helplessness)"
+     ],
+     "distractors": [
+      "Power, rule",
+      "Hardness",
+      "Growth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ajz» dar jomle-ye zir chist?\n«در افق آن صحرای خشک، ذرات غبار گویی نمودار عجز و ناتوانی انسان بودند.»",
+     "grading_key": "- [1] Natavani va darmandegi",
+     "final_resolution": "Natavani va darmandegi",
+     "notes": "",
+     "keywords": [
+      "ajz"
+     ],
+     "distractors": [
+      "Farmanravayi",
+      "Sakhti",
+      "Roshd"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 990,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام عنصر سمی، که در حشره‌کش‌های قدیمی و برخی آب‌های زیرزمینی یافت می‌شود، با تغییر رنگ پوست و سرطان همراه است؟",
+     "grading_key": "- [1] آرسنیک",
+     "final_resolution": "آرسنیک",
+     "notes": "",
+     "keywords": [
+      "آرسنیک"
+     ],
+     "distractors": [
+      "آهن",
+      "کلسیم",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which toxic element, found in old insecticides and some groundwater, causes changes in skin colour and cancer?",
+     "grading_key": "- [1] Arsenic",
+     "final_resolution": "Arsenic",
+     "notes": "",
+     "keywords": [
+      "arsenic"
+     ],
+     "distractors": [
+      "Iron",
+      "Calcium",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam onsor-e sammi, ke dar hashare-kosh-haye ghadimi va barkhi ab-haye zirzamini yaft mishavad, ba taghyir-e rang-e poost va saratan hamrah ast?",
+     "grading_key": "- [1] Arsenik",
+     "final_resolution": "Arsenik",
+     "notes": "",
+     "keywords": [
+      "arsenik"
+     ],
+     "distractors": [
+      "Ahan",
+      "Kalsiyom",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 990,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "سوختن پلاستیک PVC کدام گاز اسیدی و سمی را آزاد می‌کند که راه‌های تنفسی را به شدت می‌سوزاند؟",
+     "grading_key": "- [1] هیدروژن کلرید (HCl)",
+     "final_resolution": "هیدروژن کلرید (HCl)",
+     "notes": "",
+     "keywords": [
+      "سوختن PVC"
+     ],
+     "distractors": [
+      "کربن دی‌اکسید",
+      "بخار آب",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Burning PVC plastic releases which toxic acid gas that badly irritates the airways?",
+     "grading_key": "- [1] Hydrogen chloride (HCl)",
+     "final_resolution": "Hydrogen chloride (HCl)",
+     "notes": "",
+     "keywords": [
+      "burning PVC"
+     ],
+     "distractors": [
+      "Carbon dioxide",
+      "Water vapour",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Sookhtan-e pelastik-e PVC kodam gaz-e asidi va sammi ra azad mikonad ke rah-haye tanaffosi ra be shoddat misoozanad?",
+     "grading_key": "- [1] Hidrozhen kolorid (HCl)",
+     "final_resolution": "Hidrozhen kolorid (HCl)",
+     "notes": "",
+     "keywords": [
+      "sookhtan-e PVC"
+     ],
+     "distractors": [
+      "Karbon di-oksid",
+      "Bokhar-e ab",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 990,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در آغاز تصفیهٔ فاضلاب، ته‌نشین کردن شن، ماسه و ذرات سنگین معدنی در کانال‌های ویژه برای محافظت از پمپ‌ها چه نام دارد؟",
+     "grading_key": "- [1] دانه‌گیری (شن‌گیری)",
+     "final_resolution": "دانه‌گیری (شن‌گیری)",
+     "notes": "",
+     "keywords": [
+      "دانه‌گیری"
+     ],
+     "distractors": [
+      "هوادهی",
+      "کلرزنی",
+      "لجن فعال"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "At the start of sewage treatment, letting sand, grit and heavy mineral particles settle in special channels to protect the pumps is called what?",
+     "grading_key": "- [1] Grit removal",
+     "final_resolution": "Grit removal",
+     "notes": "",
+     "keywords": [
+      "grit removal"
+     ],
+     "distractors": [
+      "Aeration",
+      "Chlorination",
+      "Activated sludge"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar aghaz-e tasfiye-ye fazelab, tah-neshin kardan-e shen, mase va zarrat-e sangin-e madani dar kanal-haye vizhe baraye mohafezat az pomp-ha che nam darad?",
+     "grading_key": "- [1] Dane-giri (shen-giri)",
+     "final_resolution": "Dane-giri (shen-giri)",
+     "notes": "",
+     "keywords": [
+      "dane-giri"
+     ],
+     "distractors": [
+      "Hava-dehi",
+      "Kolor-zani",
+      "Lajan-e fa'al"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 990,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "در ورزش هوازی با شدت متوسط، ضربان قلب باید چند درصد بیشینهٔ ضربان قلب (۲۲۰ منهای سن) باشد؟",
+     "grading_key": "- [1] ۵۰ تا ۷۰ درصد",
+     "final_resolution": "۵۰ تا ۷۰ درصد",
+     "notes": "",
+     "keywords": [
+      "ضربان قلب هدف"
+     ],
+     "distractors": [
+      "۱۰ تا ۲۰ درصد",
+      "۹۵ تا ۱۰۰ درصد",
+      "۳۰ درصد"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "In moderate aerobic exercise, what share of the maximum heart rate (220 minus age) should the heart rate be?",
+     "grading_key": "- [1] 50 to 70 percent",
+     "final_resolution": "50 to 70 percent",
+     "notes": "",
+     "keywords": [
+      "target heart rate"
+     ],
+     "distractors": [
+      "10 to 20 percent",
+      "95 to 100 percent",
+      "30 percent"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Dar varzesh-e havazi ba shoddat-e motavasset, zarban-e ghalb bayad chand darsad-e bishine-ye zarban-e ghalb (220 menha-ye senn) bashad?",
+     "grading_key": "- [1] 50 ta 70 darsad",
+     "final_resolution": "50 ta 70 darsad",
+     "notes": "",
+     "keywords": [
+      "zarban-e ghalb-e hadaf"
+     ],
+     "distractors": [
+      "10 ta 20 darsad",
+      "95 ta 100 darsad",
+      "30 darsad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 990,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام عامل رایج خانگی، مهم‌ترین برانگیزانندهٔ حملهٔ آسم است؟",
+     "grading_key": "- [1] مواد حساسیت‌زا مانند هیره‌های گرد و خاک و گرده",
+     "final_resolution": "مواد حساسیت‌زا مانند هیره‌های گرد و خاک و گرده",
+     "notes": "",
+     "keywords": [
+      "محرک‌های آسم"
+     ],
+     "distractors": [
+      "بخار آب",
+      "اکسیژن",
+      "آب مقطر"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which common thing in the home is the main trigger of asthma attacks?",
+     "grading_key": "- [1] Allergens such as dust mites and pollen",
+     "final_resolution": "Allergens such as dust mites and pollen",
+     "notes": "",
+     "keywords": [
+      "asthma triggers"
+     ],
+     "distractors": [
+      "Water vapour",
+      "Oxygen",
+      "Distilled water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam amel-e raje'-e khanegi, mohem-tarin barangizande-ye hamle-ye asm ast?",
+     "grading_key": "- [1] Mavad-e hasasiyat-za manand-e hire-haye gard-o-khak va garde",
+     "final_resolution": "Mavad-e hasasiyat-za manand-e hire-haye gard-o-khak va garde",
+     "notes": "",
+     "keywords": [
+      "moharrek-haye asm"
+     ],
+     "distractors": [
+      "Bokhar-e ab",
+      "Oksizhen",
+      "Ab-e moghattar"
+     ]
+    }
+   }
+  }
+ ]
+}
