@@ -426,6 +426,12 @@
    "format": 2,
    "file": "pack-0071.json",
    "sha256": "3d757f2def6dd979c931ddc66edda4bc6b2e1660e7077dfa7a867456a6fa39c1"
+  },
+  {
+   "version": 72,
+   "format": 2,
+   "file": "pack-0072.json",
+   "sha256": "5f5f8c58ee8602e1a0b35a005fae1ba013efbe9d326fd1690570407c90da2846"
   }
  ]
 }

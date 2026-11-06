@@ -1,0 +1,758 @@
+{
+ "version": 72,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 965,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (توحید در صفات)",
+    "en": "Religion and Life (Oneness in the Attributes)",
+    "tr": "Din va Zendegi (Towhid dar Sefat)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "باور به اینکه صفات خداوند (مانند علم و قدرت) عین ذات او هستند و از ذات و از یکدیگر جدا نیستند، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در صفات",
+     "final_resolution": "توحید در صفات",
+     "notes": "",
+     "keywords": [
+      "توحید در صفات"
+     ],
+     "distractors": [
+      "توحید در ذات",
+      "توحید در خالقیت",
+      "توحید در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "Believing that God's attributes (such as knowledge and power) are one with His essence, and not separate from it or from each other, is which rank of monotheism?",
+     "grading_key": "- [1] Oneness in the attributes",
+     "final_resolution": "Oneness in the attributes",
+     "notes": "",
+     "keywords": [
+      "oneness in the attributes"
+     ],
+     "distractors": [
+      "Oneness of the essence",
+      "Oneness in creation",
+      "Oneness in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Bavar be inke sefat-e Khodavand (manand-e elm va ghodrat) eyn-e zat-e oo hastand va az zat va az yekdigar joda nistand, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar sefat",
+     "final_resolution": "Towhid dar sefat",
+     "notes": "",
+     "keywords": [
+      "towhid dar sefat"
+     ],
+     "distractors": [
+      "Towhid dar zat",
+      "Towhid dar khaleghiyat",
+      "Towhid dar rooboobiyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 965,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "فعل «عَلَّمَ» از کدام باب ثلاثی مزید است؟",
+     "grading_key": "- [1] تفعیل",
+     "final_resolution": "تفعیل",
+     "notes": "",
+     "keywords": [
+      "باب تفعیل"
+     ],
+     "distractors": [
+      "افتعال",
+      "مفاعله",
+      "تفاعل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form (bab) is «عَلَّمَ» from?",
+     "grading_key": "- [1] Taf'il",
+     "final_resolution": "Taf'il",
+     "notes": "",
+     "keywords": [
+      "bab of taf'il"
+     ],
+     "distractors": [
+      "Ifti'al",
+      "Mufa'ala",
+      "Tafa'ul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Fe'l-e «'allama» az kodam bab-e solasi-ye mazid ast?",
+     "grading_key": "- [1] Taf'il",
+     "final_resolution": "Taf'il",
+     "notes": "",
+     "keywords": [
+      "bab-e taf'il"
+     ],
+     "distractors": [
+      "Efte'al",
+      "Mofa'ele",
+      "Tafa'ol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 965,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "فعل «یُجاهِدُ» از کدام باب ثلاثی مزید است؟",
+     "grading_key": "- [1] مفاعله",
+     "final_resolution": "مفاعله",
+     "notes": "",
+     "keywords": [
+      "باب مفاعله"
+     ],
+     "distractors": [
+      "افتعال",
+      "تفعیل",
+      "استفعال"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form (bab) is «یُجاهِدُ» from?",
+     "grading_key": "- [1] Mufa'ala",
+     "final_resolution": "Mufa'ala",
+     "notes": "",
+     "keywords": [
+      "bab of mufa'ala"
+     ],
+     "distractors": [
+      "Ifti'al",
+      "Taf'il",
+      "Istif'al"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Fe'l-e «yujahidu» az kodam bab-e solasi-ye mazid ast?",
+     "grading_key": "- [1] Mofa'ele",
+     "final_resolution": "Mofa'ele",
+     "notes": "",
+     "keywords": [
+      "bab-e mofa'ele"
+     ],
+     "distractors": [
+      "Efte'al",
+      "Taf'il",
+      "Estef'al"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 965,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "فعل «اِسْتَغْفِرْ» از کدام باب ثلاثی مزید است؟",
+     "grading_key": "- [1] استفعال",
+     "final_resolution": "استفعال",
+     "notes": "",
+     "keywords": [
+      "باب استفعال"
+     ],
+     "distractors": [
+      "افتعال",
+      "انفعال",
+      "تفاعل"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form (bab) is «اِسْتَغْفِرْ» from?",
+     "grading_key": "- [1] Istif'al",
+     "final_resolution": "Istif'al",
+     "notes": "",
+     "keywords": [
+      "bab of istif'al"
+     ],
+     "distractors": [
+      "Ifti'al",
+      "Infi'al",
+      "Tafa'ul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Fe'l-e «istaghfir» az kodam bab-e solasi-ye mazid ast?",
+     "grading_key": "- [1] Estef'al",
+     "final_resolution": "Estef'al",
+     "notes": "",
+     "keywords": [
+      "bab-e estef'al"
+     ],
+     "distractors": [
+      "Efte'al",
+      "Enfe'al",
+      "Tafa'ol"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 965,
+   "topic_tag": "arabic-grammar",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی (ثلاثی مزید)",
+    "en": "Arabic (Augmented Verb Forms)",
+    "tr": "Arabi (Solasi-ye Mazid)",
+    "pages": "6–8"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قواعد",
+     "question": "کدام باب ثلاثی مزید، مانند «تَعاوَنَ»، بیشتر معنای انجام کاری با هم و دوطرفه (مشارکت) را می‌رساند؟",
+     "grading_key": "- [1] تفاعل",
+     "final_resolution": "تفاعل",
+     "notes": "",
+     "keywords": [
+      "باب تفاعل"
+     ],
+     "distractors": [
+      "إفعال",
+      "تفعیل",
+      "انفعال"
+     ]
+    },
+    "en": {
+     "topic_label": "Grammar",
+     "question": "Which augmented verb form, like «تَعاوَنَ», mainly carries the meaning of doing something together, both ways (participation)?",
+     "grading_key": "- [1] Tafa'ul",
+     "final_resolution": "Tafa'ul",
+     "notes": "",
+     "keywords": [
+      "bab of tafa'ul"
+     ],
+     "distractors": [
+      "If'al",
+      "Taf'il",
+      "Infi'al"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghavaed",
+     "question": "Kodam bab-e solasi-ye mazid, manand-e «ta'awana», bishtar mani-ye anjam-e kari ba ham va do-tarafe (mosharekat) ra miresanad?",
+     "grading_key": "- [1] Tafa'ol",
+     "final_resolution": "Tafa'ol",
+     "notes": "",
+     "keywords": [
+      "bab-e tafa'ol"
+     ],
+     "distractors": [
+      "Ef'al",
+      "Taf'il",
+      "Enfe'al"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 965,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: جهان‌های اجتماعی (امپراتوری)",
+    "en": "Lesson 5: Social Worlds (Empire)",
+    "tr": "Dars 5: Jahan-haye Ejtemai",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان اجتماعی‌ای که ساختار سیاسی و فرهنگی خود را با گسترش نظامی و غارت ثروت ملت‌های دیگر می‌سازد، چه نام دارد؟",
+     "grading_key": "- [1] جهان اجتماعی امپراتوری",
+     "final_resolution": "جهان اجتماعی امپراتوری",
+     "notes": "",
+     "keywords": [
+      "جهان اجتماعی امپراتوری"
+     ],
+     "distractors": [
+      "نظام لیبرال مدرن",
+      "حکومت دینی عادلانه",
+      "جامعهٔ قبیله‌ای پراکنده"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "What is a social world called that builds its political and cultural order through military expansion and plundering other nations?",
+     "grading_key": "- [1] An imperial social world (empire)",
+     "final_resolution": "An imperial social world (empire)",
+     "notes": "",
+     "keywords": [
+      "imperial social world"
+     ],
+     "distractors": [
+      "A modern liberal system",
+      "A just religious government",
+      "A scattered tribal society"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e ejtemai-i ke sakhtar-e siyasi va farhangi-ye khod ra ba gostaresh-e nezami va gharat-e servat-e mellat-haye digar misazad, che nam darad?",
+     "grading_key": "- [1] Jahan-e ejtemai-ye emperatoori",
+     "final_resolution": "Jahan-e ejtemai-ye emperatoori",
+     "notes": "",
+     "keywords": [
+      "jahan-e ejtemai-ye emperatoori"
+     ],
+     "distractors": [
+      "Nezam-e liberal-e modern",
+      "Hokoomat-e dini-ye adelane",
+      "Jame'e-ye ghabileyi-ye parakande"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1400-Dey",
+   "number": 965,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (جهان معنوی)",
+    "en": "Lesson 3: The Cultural World (Spiritual)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان فرهنگی‌ای که همهٔ پدیده‌ها و ساختارهای اجتماعی را با نگاه توحیدی و باور به عالم غیب تبیین می‌کند، چه نام دارد؟",
+     "grading_key": "- [1] جهان فرهنگی معنوی (توحیدی)",
+     "final_resolution": "جهان فرهنگی معنوی (توحیدی)",
+     "notes": "",
+     "keywords": [
+      "جهان فرهنگی معنوی"
+     ],
+     "distractors": [
+      "جهان فرهنگی سکولار",
+      "جهان فرهنگی اساطیری",
+      "جهان فرهنگی مادی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "What is a cultural world called that explains all social phenomena and structures through a monotheistic outlook and belief in the unseen?",
+     "grading_key": "- [1] A spiritual (monotheistic) cultural world",
+     "final_resolution": "A spiritual (monotheistic) cultural world",
+     "notes": "",
+     "keywords": [
+      "spiritual cultural world"
+     ],
+     "distractors": [
+      "A secular cultural world",
+      "A mythological cultural world",
+      "A materialist cultural world"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e farhangi-i ke hame-ye padide-ha va sakhtar-haye ejtemai ra ba negah-e towhidi va bavar be alam-e gheyb tabyin mikonad, che nam darad?",
+     "grading_key": "- [1] Jahan-e farhangi-ye ma'navi (towhidi)",
+     "final_resolution": "Jahan-e farhangi-ye ma'navi (towhidi)",
+     "notes": "",
+     "keywords": [
+      "jahan-e farhangi-ye ma'navi"
+     ],
+     "distractors": [
+      "Jahan-e farhangi-ye sekolar",
+      "Jahan-e farhangi-ye asatiri",
+      "Jahan-e farhangi-ye maddi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 965,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: جهان فرهنگی (جهان اساطیری)",
+    "en": "Lesson 3: The Cultural World (Mythological)",
+    "tr": "Dars 3: Jahan-e Farhangi",
+    "pages": "20–22"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "جهان فرهنگی‌ای که پدیده‌های هستی را با باور به خدایان متعدد، نیروهای خیالی و افسانه‌ها تبیین می‌کند، کدام است؟",
+     "grading_key": "- [1] جهان فرهنگی اساطیری",
+     "final_resolution": "جهان فرهنگی اساطیری",
+     "notes": "",
+     "keywords": [
+      "جهان فرهنگی اساطیری"
+     ],
+     "distractors": [
+      "جهان فرهنگی توحیدی",
+      "جهان فرهنگی سکولار",
+      "نظام اداری عقلانی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "Which cultural world explains the phenomena of existence through belief in many gods, imaginary forces and legends?",
+     "grading_key": "- [1] A mythological cultural world",
+     "final_resolution": "A mythological cultural world",
+     "notes": "",
+     "keywords": [
+      "mythological cultural world"
+     ],
+     "distractors": [
+      "A monotheistic cultural world",
+      "A secular cultural world",
+      "A rational bureaucratic order"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Jahan-e farhangi-i ke padide-haye hasti ra ba bavar be khodayan-e mota'added, niroo-haye khiyali va afsane-ha tabyin mikonad, kodam ast?",
+     "grading_key": "- [1] Jahan-e farhangi-ye asatiri",
+     "final_resolution": "Jahan-e farhangi-ye asatiri",
+     "notes": "",
+     "keywords": [
+      "jahan-e farhangi-ye asatiri"
+     ],
+     "distractors": [
+      "Jahan-e farhangi-ye towhidi",
+      "Jahan-e farhangi-ye sekolar",
+      "Nezam-e edari-ye aghlani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1402-Dey",
+   "number": 965,
+   "topic_tag": "social-world",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: جهان‌های اجتماعی (ازخودبیگانگی فرهنگی)",
+    "en": "Lesson 5: Social Worlds (Cultural Alienation)",
+    "tr": "Dars 5: Jahan-haye Ejtemai",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جهان اجتماعی",
+     "question": "اگر مردم یک جامعه از شیفتگی به فرهنگی بیگانه، باورهای بنیادین خود را فراموش کنند و هویت خود را از دست بدهند، دچار چه می‌شوند؟",
+     "grading_key": "- [1] ازخودبیگانگی فرهنگی",
+     "final_resolution": "ازخودبیگانگی فرهنگی",
+     "notes": "",
+     "keywords": [
+      "ازخودبیگانگی فرهنگی"
+     ],
+     "distractors": [
+      "مقاومت فرهنگی",
+      "یکپارچگی اجتماعی",
+      "تعامل فرهنگی سنجیده"
+     ]
+    },
+    "en": {
+     "topic_label": "The Social World",
+     "question": "If the people of a society, infatuated with a foreign culture, forget their core beliefs and lose their identity, what do they suffer from?",
+     "grading_key": "- [1] Cultural alienation",
+     "final_resolution": "Cultural alienation",
+     "notes": "",
+     "keywords": [
+      "cultural alienation"
+     ],
+     "distractors": [
+      "Cultural resilience",
+      "Social cohesion",
+      "Measured cultural exchange"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jahan-e Ejtemai",
+     "question": "Agar mardom-e yek jame'e az shiftegi be farhangi bigane, bavar-haye bonyadin-e khod ra faramoosh konand va hoviyat-e khod ra az dast bedahand, dochar-e che mishavand?",
+     "grading_key": "- [1] Az-khod-biganegi-ye farhangi",
+     "final_resolution": "Az-khod-biganegi-ye farhangi",
+     "notes": "",
+     "keywords": [
+      "az-khod-biganegi-ye farhangi"
+     ],
+     "distractors": [
+      "Moghavemat-e farhangi",
+      "Yekparchegi-ye ejtemai",
+      "Ta'amol-e farhangi-ye sanjide"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 965,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کویر (قلمرو زبانی: واژگان)",
+    "en": "Kavir (Vocabulary)",
+    "tr": "Kavir (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «نیلگون» در جملهٔ زیر چیست؟\n«آسمان کویر، این نیلگونِ پاک و بی‌انتها.»",
+     "grading_key": "- [1] به رنگ نیل، کبود و لاجوردی",
+     "final_resolution": "به رنگ نیل، کبود و لاجوردی",
+     "notes": "",
+     "keywords": [
+      "نیلگون"
+     ],
+     "distractors": [
+      "خاکستری تیره",
+      "زرین",
+      "سفید و بی‌رنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «نیلگون» mean in this sentence?\n«آسمان کویر، این نیلگونِ پاک و بی‌انتها.»",
+     "grading_key": "- [1] Deep blue, azure",
+     "final_resolution": "Deep blue, azure",
+     "notes": "",
+     "keywords": [
+      "nilgun (deep blue)"
+     ],
+     "distractors": [
+      "Dark grey",
+      "Golden",
+      "Colourless white"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «nilgun» dar jomle-ye zir chist?\n«آسمان کویر، این نیلگونِ پاک و بی‌انتها.»",
+     "grading_key": "- [1] Be rang-e nil, kabood va lajvardi",
+     "final_resolution": "Be rang-e nil, kabood va lajvardi",
+     "notes": "",
+     "keywords": [
+      "nilgun"
+     ],
+     "distractors": [
+      "Khakestari-ye tire",
+      "Zarrin",
+      "Sefid va bi-rang"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 965,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "از پاریز تا پاریس (قلمرو زبانی: املا)",
+    "en": "From Pariz to Paris (Spelling)",
+    "tr": "Az Pariz ta Paris (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «وسایل و اسباب سفر و خانه» است، کدام است؟",
+     "grading_key": "- [1] اثاثیه",
+     "final_resolution": "اثاثیه",
+     "notes": "",
+     "keywords": [
+      "اثاثیه"
+     ],
+     "distractors": [
+      "اساسیه",
+      "اصاصیه",
+      "اساثیه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'belongings, travel and household things'?",
+     "grading_key": "- [1] اثاثیه",
+     "final_resolution": "اثاثیه",
+     "notes": "",
+     "keywords": [
+      "asasiye (belongings)"
+     ],
+     "distractors": [
+      "اساسیه",
+      "اصاصیه",
+      "اساثیه"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'vasayel va asbab-e safar va khane' ast, kodam ast?",
+     "grading_key": "- [1] اثاثیه",
+     "final_resolution": "اثاثیه",
+     "notes": "",
+     "keywords": [
+      "asasiye"
+     ],
+     "distractors": [
+      "اساسیه",
+      "اصاصیه",
+      "اساثیه"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 965,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کویر (قلمرو زبانی: واژگان)",
+    "en": "Kavir (Vocabulary)",
+    "tr": "Kavir (Vazhegan)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «صولت» در جملهٔ زیر چیست؟\n«سیاه‌چادرهای عشایر در افق کویر، نمودار صولت بادهای شبانه بودند.»",
+     "grading_key": "- [1] حمله و تندی، هیبت",
+     "final_resolution": "حمله و تندی، هیبت",
+     "notes": "",
+     "keywords": [
+      "صولت"
+     ],
+     "distractors": [
+      "آرامش",
+      "تهیدستی",
+      "خنکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «صولت» mean in this sentence?\n«سیاه‌چادرهای عشایر در افق کویر، نمودار صولت بادهای شبانه بودند.»",
+     "grading_key": "- [1] Onslaught, fury",
+     "final_resolution": "Onslaught, fury",
+     "notes": "",
+     "keywords": [
+      "sowlat (fury, onslaught)"
+     ],
+     "distractors": [
+      "Calm",
+      "Poverty",
+      "Coolness"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «sowlat» dar jomle-ye zir chist?\n«سیاه‌چادرهای عشایر در افق کویر، نمودار صولت بادهای شبانه بودند.»",
+     "grading_key": "- [1] Hamle va tondi, heybat",
+     "final_resolution": "Hamle va tondi, heybat",
+     "notes": "",
+     "keywords": [
+      "sowlat"
+     ],
+     "distractors": [
+      "Aramesh",
+      "Tahidasti",
+      "Khonaki"
+     ]
+    }
+   }
+  }
+ ]
+}
