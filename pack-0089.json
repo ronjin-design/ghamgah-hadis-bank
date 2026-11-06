@@ -1,0 +1,1063 @@
+{
+ "version": 89,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 982,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد مثلثاتی با ضریب)",
+    "en": "Chapter 3: Limits (Trigonometric Limit with Coefficients)",
+    "tr": "Fasl 3: Had (Mosallasati ba Zarib)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦sin(3x) / (2x)⁩ وقتی ⁦x⁩ به سمت صفر میل می‌کند، کدام است؟",
+     "grading_key": "- [1] ⁦3/2⁩",
+     "final_resolution": "⁦3/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد sin ax / bx"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2/3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of sin(3x) / (2x) as x approaches 0?",
+     "grading_key": "- [1] ⁦3/2⁩",
+     "final_resolution": "⁦3/2⁩",
+     "notes": "",
+     "keywords": [
+      "limit of sin ax / bx"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2/3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e sin(3x) / (2x) vaghti x be samt-e sefr meyl mikonad, kodam ast?",
+     "grading_key": "- [1] ⁦3/2⁩",
+     "final_resolution": "⁦3/2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e sin ax / bx"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2/3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 982,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (رفع ابهام ۰/۰ با ریشهٔ سوم)",
+    "en": "Chapter 3: Limits (0/0 with Cube Roots)",
+    "tr": "Fasl 3: Had (Rishe-ye Sevvom)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "برای رفع ابهام ۰/۰ در حدی که ریشهٔ سوم دارد، صورت و مخرج را در کدام عامل ضرب می‌کنیم تا گویا شود؟",
+     "grading_key": "- [1] عامل مزدوج اتحاد چاق و لاغر (مجموع یا تفاضل مکعب‌ها)",
+     "final_resolution": "عامل مزدوج اتحاد چاق و لاغر (مجموع یا تفاضل مکعب‌ها)",
+     "notes": "",
+     "keywords": [
+      "اتحاد چاق و لاغر"
+     ],
+     "distractors": [
+      "مزدوج ساده با جملهٔ دوم قرینه",
+      "ضریب بزرگ‌ترین توان",
+      "قدر مطلق x"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "To clear a 0/0 form in a limit with a cube root, top and bottom are multiplied by which factor to remove the root?",
+     "grading_key": "- [1] The partner factor from the sum/difference of cubes identity",
+     "final_resolution": "The partner factor from the sum/difference of cubes identity",
+     "notes": "",
+     "keywords": [
+      "sum and difference of cubes"
+     ],
+     "distractors": [
+      "The simple conjugate with the second term negated",
+      "The coefficient of the highest power",
+      "The absolute value of x"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Baraye rafe'-e ebham-e 0/0 dar haddi ke rishe-ye sevvom darad, soorat va makhraj ra dar kodam amel zarb mikonim ta gooya shavad?",
+     "grading_key": "- [1] Amel-e mozdavaj-e ettehad-e chagh va laghar (majmoo' ya tafazol-e moka'ab-ha)",
+     "final_resolution": "Amel-e mozdavaj-e ettehad-e chagh va laghar (majmoo' ya tafazol-e moka'ab-ha)",
+     "notes": "",
+     "keywords": [
+      "ettehad-e chagh va laghar"
+     ],
+     "distractors": [
+      "Mozdavaj-e sade ba jomle-ye dovvom-e gharine",
+      "Zarib-e bozorg-tarin tavan",
+      "Ghadr-e motlagh-e x"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 982,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد در بی‌نهایت با قدر مطلق)",
+    "en": "Chapter 3: Limits (Absolute Value at Infinity)",
+    "tr": "Fasl 3: Had (Ghadr-e Motlagh)",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦(2x + |x|) / (3x − 1)⁩ وقتی ⁦x → −∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦1/3⁩",
+     "final_resolution": "⁦1/3⁩",
+     "notes": "",
+     "keywords": [
+      "حد با قدر مطلق در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦−1/3⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of (2x + |x|) / (3x − 1) as x → −∞?",
+     "grading_key": "- [1] ⁦1/3⁩",
+     "final_resolution": "⁦1/3⁩",
+     "notes": "",
+     "keywords": [
+      "absolute value limit at infinity"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦−1/3⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e (2x + |x|) / (3x − 1) vaghti x → −∞ kodam ast?",
+     "grading_key": "- [1] ⁦1/3⁩",
+     "final_resolution": "⁦1/3⁩",
+     "notes": "",
+     "keywords": [
+      "had ba ghadr-e motlagh"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦3⁩",
+      "⁦−1/3⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 982,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «حَمِیماً» در عبارت زیر کدام است؟\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] آب جوشان",
+     "final_resolution": "آب جوشان",
+     "notes": "",
+     "keywords": [
+      "حَمِیماً"
+     ],
+     "distractors": [
+      "یخ",
+      "عسل",
+      "آب زلال چشمه"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «حَمِیماً» mean in this verse?\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] Boiling water",
+     "final_resolution": "Boiling water",
+     "notes": "",
+     "keywords": [
+      "hamim (boiling water)"
+     ],
+     "distractors": [
+      "Ice",
+      "Honey",
+      "Clear spring water"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «hamiman» dar ebarat-e zir kodam ast?\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] Ab-e jooshan",
+     "final_resolution": "Ab-e jooshan",
+     "notes": "",
+     "keywords": [
+      "hamiman"
+     ],
+     "distractors": [
+      "Yakh",
+      "Asal",
+      "Ab-e zolal-e cheshme"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 982,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «غَسَّاقاً» در عبارت زیر کدام است؟\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] چرکاب و زرداب بدبو",
+     "final_resolution": "چرکاب و زرداب بدبو",
+     "notes": "",
+     "keywords": [
+      "غَسَّاقاً"
+     ],
+     "distractors": [
+      "شیر تازه",
+      "جامهٔ زرین",
+      "عود خوشبو"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «غَسَّاقاً» mean in this verse?\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] Foul pus and discharge",
+     "final_resolution": "Foul pus and discharge",
+     "notes": "",
+     "keywords": [
+      "ghassaq (foul discharge)"
+     ],
+     "distractors": [
+      "Fresh milk",
+      "Golden robes",
+      "Fragrant incense"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ghassaqan» dar ebarat-e zir kodam ast?\n«إِلَّا حَمِیماً وَ غَسَّاقاً.»",
+     "grading_key": "- [1] Cherkab va zardab-e badboo",
+     "final_resolution": "Cherkab va zardab-e badboo",
+     "notes": "",
+     "keywords": [
+      "ghassaqan"
+     ],
+     "distractors": [
+      "Shir-e taze",
+      "Jame-ye zarrin",
+      "Ood-e khoshboo"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 982,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «وِفَاقاً» در عبارت زیر کدام است؟\n«جَزَاءً وِفَاقاً.»",
+     "grading_key": "- [1] متناسب و درخور",
+     "final_resolution": "متناسب و درخور",
+     "notes": "",
+     "keywords": [
+      "وِفَاقاً"
+     ],
+     "distractors": [
+      "ناعادلانه",
+      "تصادفی",
+      "ناپیدا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «وِفَاقاً» mean in this verse?\n«جَزَاءً وِفَاقاً.»",
+     "grading_key": "- [1] Fitting, in proportion",
+     "final_resolution": "Fitting, in proportion",
+     "notes": "",
+     "keywords": [
+      "wifaq (fitting)"
+     ],
+     "distractors": [
+      "Unfair",
+      "Random",
+      "Missing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «wifaqan» dar ebarat-e zir kodam ast?\n«جَزَاءً وِفَاقاً.»",
+     "grading_key": "- [1] Motanaseb va darkhor",
+     "final_resolution": "Motanaseb va darkhor",
+     "notes": "",
+     "keywords": [
+      "wifaqan"
+     ],
+     "distractors": [
+      "Na-adelane",
+      "Tasadofi",
+      "Napeyda"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 982,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لَا یَرْجُونَ» در عبارت زیر کدام است؟\n«إِنَّهُمْ کَانُوا لَا یَرْجُونَ حِسَاباً.»",
+     "grading_key": "- [1] انتظار و بیم نداشتند",
+     "final_resolution": "انتظار و بیم نداشتند",
+     "notes": "",
+     "keywords": [
+      "لَا یَرْجُونَ"
+     ],
+     "distractors": [
+      "حساب نمی‌کردند",
+      "نمی‌نوشتند",
+      "سفر نمی‌کردند"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لَا یَرْجُونَ» mean in this verse?\n«إِنَّهُمْ کَانُوا لَا یَرْجُونَ حِسَاباً.»",
+     "grading_key": "- [1] Did not expect, did not fear",
+     "final_resolution": "Did not expect, did not fear",
+     "notes": "",
+     "keywords": [
+      "la yarjuna (did not expect)"
+     ],
+     "distractors": [
+      "Did not do sums",
+      "Did not write",
+      "Did not travel"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «la yarjuna» dar ebarat-e zir kodam ast?\n«إِنَّهُمْ کَانُوا لَا یَرْجُونَ حِسَاباً.»",
+     "grading_key": "- [1] Entezar va bim nadashtand",
+     "final_resolution": "Entezar va bim nadashtand",
+     "notes": "",
+     "keywords": [
+      "la yarjuna"
+     ],
+     "distractors": [
+      "Hesab nemikardand",
+      "Neminevashtand",
+      "Safar nemikardand"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 982,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «کِذَّاباً» در عبارت زیر کدام است؟\n«وَ کَذَّبُوا بِآیَاتِنَا کِذَّاباً.»",
+     "grading_key": "- [1] تکذیبی سخت",
+     "final_resolution": "تکذیبی سخت",
+     "notes": "",
+     "keywords": [
+      "کِذَّاباً"
+     ],
+     "distractors": [
+      "تأیید راستین",
+      "سازش خاموش",
+      "سفر"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «کِذَّاباً» mean in this verse?\n«وَ کَذَّبُوا بِآیَاتِنَا کِذَّاباً.»",
+     "grading_key": "- [1] Utter, stubborn denial",
+     "final_resolution": "Utter, stubborn denial",
+     "notes": "",
+     "keywords": [
+      "kidhdhab (utter denial)"
+     ],
+     "distractors": [
+      "True confirmation",
+      "Silent compromise",
+      "A journey"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «kidhdhaban» dar ebarat-e zir kodam ast?\n«وَ کَذَّبُوا بِآیَاتِنَا کِذَّاباً.»",
+     "grading_key": "- [1] Takzibi sakht",
+     "final_resolution": "Takzibi sakht",
+     "notes": "",
+     "keywords": [
+      "kidhdhaban"
+     ],
+     "distractors": [
+      "Ta'yid-e rastin",
+      "Sazesh-e khamoosh",
+      "Safar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 982,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مناعت» در جملهٔ زیر چیست؟\n«آن قهرمان نامدار با صلابت و مناعت، در برابر تهدیدهای حاکم ستمگر ایستادگی کرد.»",
+     "grading_key": "- [1] بلندطبعی و عزت نفس",
+     "final_resolution": "بلندطبعی و عزت نفس",
+     "notes": "",
+     "keywords": [
+      "مناعت"
+     ],
+     "distractors": [
+      "خواری و فرمان‌بری",
+      "آزمندی",
+      "نگرانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مناعت» mean in this sentence?\n«آن قهرمان نامدار با صلابت و مناعت، در برابر تهدیدهای حاکم ستمگر ایستادگی کرد.»",
+     "grading_key": "- [1] Dignity, self-respect",
+     "final_resolution": "Dignity, self-respect",
+     "notes": "",
+     "keywords": [
+      "mana'at (dignity)"
+     ],
+     "distractors": [
+      "Humiliation and submission",
+      "Greed",
+      "Anxiety"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «mana'at» dar jomle-ye zir chist?\n«آن قهرمان نامدار با صلابت و مناعت، در برابر تهدیدهای حاکم ستمگر ایستادگی کرد.»",
+     "grading_key": "- [1] Boland-tab'i va ezzat-e nafs",
+     "final_resolution": "Boland-tab'i va ezzat-e nafs",
+     "notes": "",
+     "keywords": [
+      "mana'at"
+     ],
+     "distractors": [
+      "Khari va farman-bari",
+      "Azmandi",
+      "Negarani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 982,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ودیعه» در جملهٔ زیر چیست؟\n«مهر مادری، ودیعه‌ای الهی است که در نهاد انسان به امانت گذاشته شده است.»",
+     "grading_key": "- [1] امانت، سپرده",
+     "final_resolution": "امانت، سپرده",
+     "notes": "",
+     "keywords": [
+      "ودیعه"
+     ],
+     "distractors": [
+      "سود بازرگانی",
+      "کیفر",
+      "ابزار"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ودیعه» mean in this sentence?\n«مهر مادری، ودیعه‌ای الهی است که در نهاد انسان به امانت گذاشته شده است.»",
+     "grading_key": "- [1] Something held in trust",
+     "final_resolution": "Something held in trust",
+     "notes": "",
+     "keywords": [
+      "vadi'e (something held in trust)"
+     ],
+     "distractors": [
+      "Trading profit",
+      "A punishment",
+      "A tool"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «vadi'e» dar jomle-ye zir chist?\n«مهر مادری، ودیعه‌ای الهی است که در نهاد انسان به امانت گذاشته شده است.»",
+     "grading_key": "- [1] Amanat, seporde",
+     "final_resolution": "Amanat, seporde",
+     "notes": "",
+     "keywords": [
+      "vadi'e"
+     ],
+     "distractors": [
+      "Sood-e bazargani",
+      "Keyfar",
+      "Abzar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 982,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «تجانس» در جملهٔ زیر چیست؟\n«در افق کویر، گویی زمین و آسمان در نقطه‌ای وهم‌انگیز به تجانس می‌رسیدند.»",
+     "grading_key": "- [1] هم‌جنسی و همانندی",
+     "final_resolution": "هم‌جنسی و همانندی",
+     "notes": "",
+     "keywords": [
+      "تجانس"
+     ],
+     "distractors": [
+      "ستیز و ناسازگاری",
+      "خلأ",
+      "لرزش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «تجانس» mean in this sentence?\n«در افق کویر، گویی زمین و آسمان در نقطه‌ای وهم‌انگیز به تجانس می‌رسیدند.»",
+     "grading_key": "- [1] Likeness, being of one kind",
+     "final_resolution": "Likeness, being of one kind",
+     "notes": "",
+     "keywords": [
+      "tajanos (likeness)"
+     ],
+     "distractors": [
+      "Clash and conflict",
+      "A vacuum",
+      "Trembling"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «tajanos» dar jomle-ye zir chist?\n«در افق کویر، گویی زمین و آسمان در نقطه‌ای وهم‌انگیز به تجانس می‌رسیدند.»",
+     "grading_key": "- [1] Ham-jensi va hamanandi",
+     "final_resolution": "Ham-jensi va hamanandi",
+     "notes": "",
+     "keywords": [
+      "tajanos"
+     ],
+     "distractors": [
+      "Setiz va nasazgari",
+      "Khala",
+      "Larzesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 982,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: موازنه)",
+    "en": "Persian 3 (Literary Devices: Balance)",
+    "tr": "Adabiyat-e Farsi 3 (Movazene)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "هرگاه واژه‌های دو مصراع یا دو جمله، نظیر به نظیر هم‌وزن باشند (بی‌آنکه لزوماً هم‌قافیه باشند)، کدام آرایه پدید می‌آید؟",
+     "grading_key": "- [1] موازنه",
+     "final_resolution": "موازنه",
+     "notes": "",
+     "keywords": [
+      "موازنه"
+     ],
+     "distractors": [
+      "جناس تام",
+      "سجع",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "When the words of two half-lines or two sentences match one for one in metre (without needing to rhyme), which device is formed?",
+     "grading_key": "- [1] Movazene (balance)",
+     "final_resolution": "Movazene (balance)",
+     "notes": "",
+     "keywords": [
+      "movazene (balance)"
+     ],
+     "distractors": [
+      "Jinas-e tam (homonym pun)",
+      "Saj' (rhymed prose)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Hargah vazhe-haye do mesra' ya do jomle, nazir be nazir ham-vazn bashand (bi-anke lozooman ham-ghafiye bashand), kodam araye padid miayad?",
+     "grading_key": "- [1] Movazene",
+     "final_resolution": "Movazene",
+     "notes": "",
+     "keywords": [
+      "movazene"
+     ],
+     "distractors": [
+      "Jenas-e tam",
+      "Saj'",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 982,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست ترکیبی که به معنای «تخت پادشاهی» است، کدام است؟",
+     "grading_key": "- [1] سریر سلطنت",
+     "final_resolution": "سریر سلطنت",
+     "notes": "",
+     "keywords": [
+      "سریر"
+     ],
+     "distractors": [
+      "صریر سلطنت",
+      "ثریر سلطنت",
+      "سریر سلتنت"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the phrase that means 'the royal throne'?",
+     "grading_key": "- [1] سریر سلطنت",
+     "final_resolution": "سریر سلطنت",
+     "notes": "",
+     "keywords": [
+      "sarir (throne)"
+     ],
+     "distractors": [
+      "صریر سلطنت",
+      "ثریر سلطنت",
+      "سریر سلتنت"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e tarkibi ke be mani-ye 'takht-e padeshahi' ast, kodam ast?",
+     "grading_key": "- [1] سریر سلطنت",
+     "final_resolution": "سریر سلطنت",
+     "notes": "",
+     "keywords": [
+      "sarir"
+     ],
+     "distractors": [
+      "صریر سلطنت",
+      "ثریر سلطنت",
+      "سریر سلتنت"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 982,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام ترکیب آلی سمی و پایدار، که در خازن‌ها و ترانسفورماتورهای قدیمی به کار می‌رفت، آلایندهٔ آلی ماندگار و سرطان‌زا شناخته می‌شود؟",
+     "grading_key": "- [1] بی‌فنیل‌های پلی‌کلره (PCB)",
+     "final_resolution": "بی‌فنیل‌های پلی‌کلره (PCB)",
+     "notes": "",
+     "keywords": [
+      "بی‌فنیل‌های پلی‌کلره"
+     ],
+     "distractors": [
+      "سرب",
+      "گلوکز",
+      "هلیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which toxic, long-lasting organic compound, once used in old capacitors and transformers, is known as a persistent, cancer-causing pollutant?",
+     "grading_key": "- [1] Polychlorinated biphenyls (PCBs)",
+     "final_resolution": "Polychlorinated biphenyls (PCBs)",
+     "notes": "",
+     "keywords": [
+      "PCBs"
+     ],
+     "distractors": [
+      "Lead",
+      "Glucose",
+      "Helium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam tarkib-e ali-ye sammi va paydar, ke dar khazen-ha va teransformator-haye ghadimi be kar miraft, aloodande-ye ali-ye mandegar va saratan-za shenakhte mishavad?",
+     "grading_key": "- [1] Bi-fenil-haye poli-kolore (PCB)",
+     "final_resolution": "Bi-fenil-haye poli-kolore (PCB)",
+     "notes": "",
+     "keywords": [
+      "PCB"
+     ],
+     "distractors": [
+      "Sorb",
+      "Glukoz",
+      "Heliyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 982,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "مرحلهٔ پایانی یک بیماری واگیر، که نشانه‌ها از میان می‌روند و بدن رو به بهبود می‌گذارد، چه نام دارد؟",
+     "grading_key": "- [1] دورهٔ نقاهت",
+     "final_resolution": "دورهٔ نقاهت",
+     "notes": "",
+     "keywords": [
+      "دورهٔ نقاهت"
+     ],
+     "distractors": [
+      "دورهٔ نهفتگی",
+      "اوج بیماری",
+      "ایمنی غیرفعال"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the last stage of an infectious illness, when the symptoms fade and the body recovers, called?",
+     "grading_key": "- [1] Convalescence (recovery)",
+     "final_resolution": "Convalescence (recovery)",
+     "notes": "",
+     "keywords": [
+      "convalescence"
+     ],
+     "distractors": [
+      "The incubation period",
+      "The peak of the illness",
+      "Passive immunity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Marhale-ye payani-ye yek bimari-ye vagir, ke neshane-ha az miyan miravand va badan roo be behbood migozarad, che nam darad?",
+     "grading_key": "- [1] Dowre-ye nekahat",
+     "final_resolution": "Dowre-ye nekahat",
+     "notes": "",
+     "keywords": [
+      "dowre-ye nekahat"
+     ],
+     "distractors": [
+      "Dowre-ye nahoftegi",
+      "Owj-e bimari",
+      "Imeni-ye gheyr-e fa'al"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 982,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "در دفن بهداشتی زباله، لایه‌بندی و لوله‌گذاری برای مهار کدام مایع سمی انجام می‌شود که از زباله‌ها تراوش می‌کند؟",
+     "grading_key": "- [1] شیرابهٔ زباله",
+     "final_resolution": "شیرابهٔ زباله",
+     "notes": "",
+     "keywords": [
+      "شیرابهٔ زباله"
+     ],
+     "distractors": [
+      "کربن فعال",
+      "باران اسیدی",
+      "بخار کادمیوم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "In sanitary landfills, layering and drainage pipes are used to contain which toxic liquid that seeps out of the rubbish?",
+     "grading_key": "- [1] Leachate",
+     "final_resolution": "Leachate",
+     "notes": "",
+     "keywords": [
+      "leachate"
+     ],
+     "distractors": [
+      "Activated carbon",
+      "Acid rain",
+      "Cadmium vapour"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Dar dafn-e behdashti-ye zobale, laye-bandi va loole-gozari baraye mahar-e kodam maye'-e sammi anjam mishavad ke az zobale-ha tarayosh mikonad?",
+     "grading_key": "- [1] Shirabe-ye zobale",
+     "final_resolution": "Shirabe-ye zobale",
+     "notes": "",
+     "keywords": [
+      "shirabe-ye zobale"
+     ],
+     "distractors": [
+      "Karbon-e fa'al",
+      "Baran-e asidi",
+      "Bokhar-e kadmiyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 982,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "10–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "هرگاه انرژی دریافتی از غذا در روز کمتر از انرژی مصرفی بدن باشد، چه پیش می‌آید؟",
+     "grading_key": "- [1] تعادل منفی انرژی و کاهش وزن",
+     "final_resolution": "تعادل منفی انرژی و کاهش وزن",
+     "notes": "",
+     "keywords": [
+      "تعادل منفی انرژی"
+     ],
+     "distractors": [
+      "تعادل مثبت انرژی و ذخیرهٔ چربی",
+      "ثابت ماندن وزن",
+      "کلسیمی شدن ماهیچه‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "When the energy taken in from food each day is less than the energy the body uses, what happens?",
+     "grading_key": "- [1] A negative energy balance and weight loss",
+     "final_resolution": "A negative energy balance and weight loss",
+     "notes": "",
+     "keywords": [
+      "negative energy balance"
+     ],
+     "distractors": [
+      "A positive energy balance and fat storage",
+      "Weight stays the same",
+      "The muscles calcify"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Hargah enerzhi-ye daryafti az ghaza dar rooz kamtar az enerzhi-ye masrafi-ye badan bashad, che pish miayad?",
+     "grading_key": "- [1] Ta'adol-e manfi-ye enerzhi va kahesh-e vazn",
+     "final_resolution": "Ta'adol-e manfi-ye enerzhi va kahesh-e vazn",
+     "notes": "",
+     "keywords": [
+      "ta'adol-e manfi-ye enerzhi"
+     ],
+     "distractors": [
+      "Ta'adol-e mosbat-e enerzhi va zakhire-ye charbi",
+      "Sabet mandan-e vazn",
+      "Kalsimi shodan-e mahiche-ha"
+     ]
+    }
+   }
+  }
+ ]
+}
