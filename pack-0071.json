@@ -1,0 +1,831 @@
+{
+ "version": 71,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  },
+  {
+   "key": "Social Identity",
+   "fa": "هویت اجتماعی",
+   "tr": "Hoviyat-e Ejtemai",
+   "sort_order": 10
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 964,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (آزمون مشتق دوم)",
+    "en": "Chapter 5: Applications of Derivatives (Second Derivative Test)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Azmoon-e Moshtagh-e Dovom)",
+    "pages": "98–100"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "اگر در نقطهٔ بحرانی ⁦c⁩، ⁦f′(c) = 0⁩ و ⁦f″(c) < 0⁩ باشد، تابع در ⁦c⁩ چه اکسترممی دارد؟",
+     "grading_key": "- [1] ماکزیمم نسبی",
+     "final_resolution": "ماکزیمم نسبی",
+     "notes": "",
+     "keywords": [
+      "آزمون مشتق دوم"
+     ],
+     "distractors": [
+      "مینیمم نسبی",
+      "نقطهٔ عطف",
+      "هیچ اکسترممی ندارد"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "If f′(c) = 0 and f″(c) < 0 at a critical point c, what extremum does the function have at c?",
+     "grading_key": "- [1] A relative maximum",
+     "final_resolution": "A relative maximum",
+     "notes": "",
+     "keywords": [
+      "second derivative test"
+     ],
+     "distractors": [
+      "A relative minimum",
+      "An inflection point",
+      "No extremum"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Agar dar noghte-ye bohrani-ye c, f′(c) = 0 va f″(c) < 0 bashad, tabe dar c che ekstremomi darad?",
+     "grading_key": "- [1] Maksimom-e nesbi",
+     "final_resolution": "Maksimom-e nesbi",
+     "notes": "",
+     "keywords": [
+      "azmoon-e moshtagh-e dovom"
+     ],
+     "distractors": [
+      "Minimom-e nesbi",
+      "Noghte-ye atf",
+      "Hich ekstremomi nadarad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 964,
+   "topic_tag": "derivative-applications",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: کاربرد مشتق (بهینه‌سازی)",
+    "en": "Chapter 5: Applications of Derivatives (Optimization)",
+    "tr": "Fasl 5: Karbord-e Moshtagh (Behine-sazi)",
+    "pages": "106–108"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کاربرد مشتق",
+     "question": "یافتن بیشترین سود، کمترین هزینه یا بهترین ابعاد یک شکل به کمک مشتق، چه نام دارد؟",
+     "grading_key": "- [1] بهینه‌سازی",
+     "final_resolution": "بهینه‌سازی",
+     "notes": "",
+     "keywords": [
+      "بهینه‌سازی"
+     ],
+     "distractors": [
+      "برون‌یابی",
+      "درون‌یابی خطی",
+      "تجزیه"
+     ]
+    },
+    "en": {
+     "topic_label": "Applications of Derivatives",
+     "question": "Using the derivative to find the greatest profit, the lowest cost or the best dimensions of a shape is called what?",
+     "grading_key": "- [1] Optimization",
+     "final_resolution": "Optimization",
+     "notes": "",
+     "keywords": [
+      "optimization"
+     ],
+     "distractors": [
+      "Extrapolation",
+      "Linear interpolation",
+      "Factorization"
+     ]
+    },
+    "tr": {
+     "topic_label": "Karbord-e Moshtagh",
+     "question": "Yaftan-e bishtarin sood, kamtarin hazine ya behtarin ab'ad-e yek shekl be komak-e moshtagh, che nam darad?",
+     "grading_key": "- [1] Behine-sazi",
+     "final_resolution": "Behine-sazi",
+     "notes": "",
+     "keywords": [
+      "behine-sazi"
+     ],
+     "distractors": [
+      "Boroon-yabi",
+      "Daroon-yabi-ye khatti",
+      "Tajziye"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (معادلات مثلثاتی)",
+    "en": "Chapter 2: Trigonometry (Trigonometric Equations)",
+    "tr": "Fasl 2: Mosallasat (Moadelat)",
+    "pages": "38–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "جواب کلی معادلهٔ ⁦tan x = 0⁩ کدام است؟ (⁦k⁩ عدد صحیح است)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "معادلهٔ مثلثاتی"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = kπ/2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is the general solution of tan x = 0? (k is an integer)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "trigonometric equation"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = kπ/2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "Javab-e kolli-ye moadele-ye tan x = 0 kodam ast? (k adad-e sahih ast)",
+     "grading_key": "- [1] ⁦x = kπ⁩",
+     "final_resolution": "⁦x = kπ⁩",
+     "notes": "",
+     "keywords": [
+      "moadele-ye mosallasati"
+     ],
+     "distractors": [
+      "⁦x = 2kπ⁩",
+      "⁦x = kπ + π/2⁩",
+      "⁦x = kπ/2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (قلمروهای امامت: ولایت معنوی)",
+    "en": "Religion and Life (Spheres of Imamate: Spiritual Guardianship)",
+    "tr": "Din va Zendegi (Velayat-e Manavi)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "هدایت باطنی انسان‌ها به سوی کمال به دست امام معصوم (ع)، که واسطهٔ فیض الهی است، کدام قلمرو امامت است؟",
+     "grading_key": "- [1] ولایت معنوی (باطنی)",
+     "final_resolution": "ولایت معنوی (باطنی)",
+     "notes": "",
+     "keywords": [
+      "ولایت معنوی"
+     ],
+     "distractors": [
+      "ولایت ظاهری (حکومت)",
+      "مرجعیت دینی",
+      "دریافت وحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "Guiding people inwardly toward perfection by the infallible Imam, as a channel of divine grace, is which sphere of the Imamate?",
+     "grading_key": "- [1] Spiritual (inner) guardianship",
+     "final_resolution": "Spiritual (inner) guardianship",
+     "notes": "",
+     "keywords": [
+      "spiritual guardianship"
+     ],
+     "distractors": [
+      "Outward guardianship (government)",
+      "Religious authority",
+      "Receiving revelation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Hedayat-e bateni-ye ensan-ha be soo-ye kamal be dast-e emam-e masoom, ke vasete-ye feyz-e elahi ast, kodam ghalamro-ye emamat ast?",
+     "grading_key": "- [1] Velayat-e manavi (bateni)",
+     "final_resolution": "Velayat-e manavi (bateni)",
+     "notes": "",
+     "keywords": [
+      "velayat-e manavi"
+     ],
+     "distractors": [
+      "Velayat-e zaheri (hokoomat)",
+      "Marjaiyat-e dini",
+      "Daryaft-e vahy"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 964,
+   "topic_tag": "afterlife",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "دین و زندگی (عالم برزخ)",
+    "en": "Religion and Life (The Intermediate World)",
+    "tr": "Din va Zendegi (Alam-e Barzakh)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "معاد",
+     "question": "زندگی انسان در فاصلهٔ میان مرگ تا برپایی قیامت، در کدام عالم می‌گذرد؟",
+     "grading_key": "- [1] عالم برزخ",
+     "final_resolution": "عالم برزخ",
+     "notes": "",
+     "keywords": [
+      "عالم برزخ"
+     ],
+     "distractors": [
+      "عالم دنیا",
+      "بهشت جاویدان",
+      "عالم ذر"
+     ]
+    },
+    "en": {
+     "topic_label": "The Afterlife",
+     "question": "In which world does a person live in the time between death and the Resurrection?",
+     "grading_key": "- [1] Barzakh (the intermediate world)",
+     "final_resolution": "Barzakh (the intermediate world)",
+     "notes": "",
+     "keywords": [
+      "barzakh (intermediate world)"
+     ],
+     "distractors": [
+      "This world",
+      "Eternal paradise",
+      "The world of pre-existence (zarr)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ma'ad",
+     "question": "Zendegi-ye ensan dar fasele-ye miyan-e marg ta barpayi-ye ghiyamat, dar kodam alam migozarad?",
+     "grading_key": "- [1] Alam-e barzakh",
+     "final_resolution": "Alam-e barzakh",
+     "notes": "",
+     "keywords": [
+      "alam-e barzakh"
+     ],
+     "distractors": [
+      "Alam-e donya",
+      "Behesht-e javidan",
+      "Alam-e zarr"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 964,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «تَبْعُدُ» در عبارت زیر کدام است؟\n«تَبْعُدُ الْأَرْضُ عَنِ الشَّمْسِ خَمْسَةً وَ تِسْعِینَ مِلْیُونَ مِیلٍ.»",
+     "grading_key": "- [1] فاصله دارد، دور است",
+     "final_resolution": "فاصله دارد، دور است",
+     "notes": "",
+     "keywords": [
+      "تَبْعُدُ"
+     ],
+     "distractors": [
+      "نزدیک می‌شود",
+      "به سرعت می‌چرخد",
+      "کم‌نور می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «تَبْعُدُ» mean in this sentence?\n«تَبْعُدُ الْأَرْضُ عَنِ الشَّمْسِ خَمْسَةً وَ تِسْعِینَ مِلْیُونَ مِیلٍ.»",
+     "grading_key": "- [1] Is far from",
+     "final_resolution": "Is far from",
+     "notes": "",
+     "keywords": [
+      "tab'udu (is far from)"
+     ],
+     "distractors": [
+      "Comes close to",
+      "Spins fast around",
+      "Grows dim"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «tab'udu» dar ebarat-e zir kodam ast?\n«تَبْعُدُ الْأَرْضُ عَنِ الشَّمْسِ خَمْسَةً وَ تِسْعِینَ مِلْیُونَ مِیلٍ.»",
+     "grading_key": "- [1] Fasele darad, door ast",
+     "final_resolution": "Fasele darad, door ast",
+     "notes": "",
+     "keywords": [
+      "tab'udu"
+     ],
+     "distractors": [
+      "Nazdik mishavad",
+      "Be sor'at micharkhad",
+      "Kam-noor mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَاتِجٌ» در عبارت زیر کدام است؟\n«ضَوْءُ الشَّمْسِ نَاتِجٌ عَنِ التَّفَاعُلَاتِ النَّوَوِیَّةِ.»",
+     "grading_key": "- [1] حاصل، ناشی",
+     "final_resolution": "حاصل، ناشی",
+     "notes": "",
+     "keywords": [
+      "نَاتِج"
+     ],
+     "distractors": [
+      "مصرف‌شده",
+      "رانده‌شده",
+      "بی‌نیاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «نَاتِجٌ» mean in this sentence?\n«ضَوْءُ الشَّمْسِ نَاتِجٌ عَنِ التَّفَاعُلَاتِ النَّوَوِیَّةِ.»",
+     "grading_key": "- [1] Resulting (from)",
+     "final_resolution": "Resulting (from)",
+     "notes": "",
+     "keywords": [
+      "natij (resulting from)"
+     ],
+     "distractors": [
+      "Used up (by)",
+      "Driven away (from)",
+      "Independent (of)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «natijun» dar ebarat-e zir kodam ast?\n«ضَوْءُ الشَّمْسِ نَاتِجٌ عَنِ التَّفَاعُلَاتِ النَّوَوِیَّةِ.»",
+     "grading_key": "- [1] Hasel, nashi",
+     "final_resolution": "Hasel, nashi",
+     "notes": "",
+     "keywords": [
+      "natij"
+     ],
+     "distractors": [
+      "Masraf-shode",
+      "Rande-shode",
+      "Bi-niyaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Khordad",
+   "number": 964,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۸: سیاست و نظام سیاسی (نظام سرمایه‌داری)",
+    "en": "Lesson 8: Politics and the Political System (Capitalist Systems)",
+    "tr": "Dars 8: Siyasat va Nezam-e Siyasi",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "نظام‌های سکولاری که قانون و قدرت اجرایی خود را در خدمت منافع صاحبان ثروت و سرمایه‌داران بزرگ می‌گذارند، چه نام دارند؟",
+     "grading_key": "- [1] نظام‌های سیاسی سرمایه‌داری",
+     "final_resolution": "نظام‌های سیاسی سرمایه‌داری",
+     "notes": "",
+     "keywords": [
+      "نظام سیاسی سرمایه‌داری"
+     ],
+     "distractors": [
+      "نظام‌های دینی",
+      "نظام‌های تعاونی سوسیالیستی",
+      "نظام‌های سنتی قبیله‌ای"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "What are secular systems called that put their laws and executive power at the service of the wealthy and big capitalists?",
+     "grading_key": "- [1] Capitalist political systems",
+     "final_resolution": "Capitalist political systems",
+     "notes": "",
+     "keywords": [
+      "capitalist political system"
+     ],
+     "distractors": [
+      "Religious systems",
+      "Socialist cooperative systems",
+      "Traditional tribal systems"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Nezam-haye sekolari ke ghanoon va ghodrat-e ejrayi-ye khod ra dar khedmat-e manafe-e sahebane servat va sarmaye-daran-e bozorg migozarand, che nam darand?",
+     "grading_key": "- [1] Nezam-haye siyasi-ye sarmaye-dari",
+     "final_resolution": "Nezam-haye siyasi-ye sarmaye-dari",
+     "notes": "",
+     "keywords": [
+      "nezam-e siyasi-ye sarmaye-dari"
+     ],
+     "distractors": [
+      "Nezam-haye dini",
+      "Nezam-haye taavoni-ye sosiyalisti",
+      "Nezam-haye sonnati-ye ghabileyi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Social Identity",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "social-power",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۶: قدرت اجتماعی (تبعیت با کراهت)",
+    "en": "Lesson 6: Social Power (Unwilling Obedience)",
+    "tr": "Dars 6: Ghodrat-e Ejtemai",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت و سیاست",
+     "question": "اگر فرمان‌برداری مردم از قدرت حاکم تنها از ترس مجازات یا زور بیرونی باشد، این تبعیت چه نام دارد؟",
+     "grading_key": "- [1] تبعیت با کراهت (غیرارادی)",
+     "final_resolution": "تبعیت با کراهت (غیرارادی)",
+     "notes": "",
+     "keywords": [
+      "تبعیت با کراهت"
+     ],
+     "distractors": [
+      "تبعیت با رضایت",
+      "پیروی کاریزمایی",
+      "پیروی قانونی-عقلانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Power and Politics",
+     "question": "If people obey the ruling power only out of fear of punishment or outside force, what is this obedience called?",
+     "grading_key": "- [1] Unwilling obedience (by compulsion)",
+     "final_resolution": "Unwilling obedience (by compulsion)",
+     "notes": "",
+     "keywords": [
+      "unwilling obedience"
+     ],
+     "distractors": [
+      "Willing obedience",
+      "Charismatic following",
+      "Rational-legal following"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat va Siyasat",
+     "question": "Agar farmanbardari-ye mardom az ghodrat-e hakem tanha az tars-e mojazat ya zoor-e biruni bashad, in tabaiyat che nam darad?",
+     "grading_key": "- [1] Tabaiyat ba kerahat",
+     "final_resolution": "Tabaiyat ba kerahat",
+     "notes": "",
+     "keywords": [
+      "tabaiyat ba kerahat"
+     ],
+     "distractors": [
+      "Tabaiyat ba rezayat",
+      "Peyravi-ye karizmayi",
+      "Peyravi-ye ghanooni-aghlani"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 964,
+   "topic_tag": "nutrition",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "14–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغذیه و سلامت",
+     "question": "وجود کدام عنصر در آب آشامیدنی، مینای دندان را محکم می‌کند و از پوسیدگی دندان پیشگیری می‌کند؟",
+     "grading_key": "- [1] فلوئور",
+     "final_resolution": "فلوئور",
+     "notes": "",
+     "keywords": [
+      "فلوئور"
+     ],
+     "distractors": [
+      "آهن",
+      "ید",
+      "سدیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Nutrition and Health",
+     "question": "Which element in drinking water strengthens tooth enamel and helps prevent tooth decay?",
+     "grading_key": "- [1] Fluoride",
+     "final_resolution": "Fluoride",
+     "notes": "",
+     "keywords": [
+      "fluoride"
+     ],
+     "distractors": [
+      "Iron",
+      "Iodine",
+      "Sodium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghzie va Salamat",
+     "question": "Vojood-e kodam onsor dar ab-e ashamidani, mina-ye dandan ra mohkam mikonad va az poosidegi-ye dandan pishgiri mikonad?",
+     "grading_key": "- [1] Fluor",
+     "final_resolution": "Fluor",
+     "notes": "",
+     "keywords": [
+      "fluor"
+     ],
+     "distractors": [
+      "Ahan",
+      "Yod",
+      "Sodiyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 964,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "48–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "محلی که عامل بیماری‌زا به طور طبیعی در آن زندگی و تکثیر می‌کند و برای بقا به آن وابسته است (مانند بدن انسان، خاک یا آب)، چه نام دارد؟",
+     "grading_key": "- [1] مخزن بیماری",
+     "final_resolution": "مخزن بیماری",
+     "notes": "",
+     "keywords": [
+      "مخزن بیماری"
+     ],
+     "distractors": [
+      "ناقل",
+      "انگل",
+      "واکسن"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the place where a disease agent naturally lives and multiplies, and depends on to survive (such as the human body, soil or water), called?",
+     "grading_key": "- [1] The reservoir",
+     "final_resolution": "The reservoir",
+     "notes": "",
+     "keywords": [
+      "reservoir of infection"
+     ],
+     "distractors": [
+      "The vector",
+      "The parasite",
+      "The vaccine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Mahalli ke amel-e bimari-za be tor-e tabiei dar an zendegi va taksir mikonad va baraye bagha be an vabaste ast, che nam darad?",
+     "grading_key": "- [1] Makhzan-e bimari",
+     "final_resolution": "Makhzan-e bimari",
+     "notes": "",
+     "keywords": [
+      "makhzan-e bimari"
+     ],
+     "distractors": [
+      "Naghel",
+      "Angal",
+      "Vaksan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "بسته شدن ناگهانی سرخرگ‌های کرونری قلب، که به مرگ یاخته‌های ماهیچهٔ قلب می‌انجامد، چه نام دارد؟",
+     "grading_key": "- [1] سکتهٔ قلبی",
+     "final_resolution": "سکتهٔ قلبی",
+     "notes": "",
+     "keywords": [
+      "سکتهٔ قلبی"
+     ],
+     "distractors": [
+      "سکتهٔ مغزی",
+      "فشار خون بالا",
+      "سرطان خون"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "What is the sudden blocking of the coronary arteries, which kills heart muscle cells, called?",
+     "grading_key": "- [1] A heart attack (myocardial infarction)",
+     "final_resolution": "A heart attack (myocardial infarction)",
+     "notes": "",
+     "keywords": [
+      "heart attack (myocardial infarction)"
+     ],
+     "distractors": [
+      "A stroke",
+      "High blood pressure",
+      "Leukaemia"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Baste shodan-e nagahani-ye sorkhrag-haye koronari-ye ghalb, ke be marg-e yakhte-haye mahiche-ye ghalb mianjamad, che nam darad?",
+     "grading_key": "- [1] Sekte-ye ghalbi",
+     "final_resolution": "Sekte-ye ghalbi",
+     "notes": "",
+     "keywords": [
+      "sekte-ye ghalbi"
+     ],
+     "distractors": [
+      "Sekte-ye maghzi",
+      "Feshar-e khoon-e bala",
+      "Saratan-e khoon"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 964,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "شیوهٔ زندگی بدون فعالیت بدنی کافی، که خطر بیماری قلبی، دیابت و چاقی را بسیار بالا می‌برد، چه نام دارد؟",
+     "grading_key": "- [1] سبک زندگی کم‌تحرک",
+     "final_resolution": "سبک زندگی کم‌تحرک",
+     "notes": "",
+     "keywords": [
+      "کم‌تحرکی"
+     ],
+     "distractors": [
+      "سبک زندگی فعال",
+      "سوءتغذیه",
+      "خستگی مزمن"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "What is a way of life without enough physical activity, which greatly raises the risk of heart disease, diabetes and obesity, called?",
+     "grading_key": "- [1] A sedentary lifestyle",
+     "final_resolution": "A sedentary lifestyle",
+     "notes": "",
+     "keywords": [
+      "sedentary lifestyle"
+     ],
+     "distractors": [
+      "An active lifestyle",
+      "Malnutrition",
+      "Chronic fatigue"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Shive-ye zendegi bedoon-e faaliyat-e badani-ye kafi, ke khatar-e bimari-ye ghalbi, diyabet va chaghi ra besyar bala mibarad, che nam darad?",
+     "grading_key": "- [1] Sabk-e zendegi-ye kam-taharrok",
+     "final_resolution": "Sabk-e zendegi-ye kam-taharrok",
+     "notes": "",
+     "keywords": [
+      "kam-taharroki"
+     ],
+     "distractors": [
+      "Sabk-e zendegi-ye faal",
+      "Soo-e taghziye",
+      "Khastegi-ye mozmen"
+     ]
+    }
+   }
+  }
+ ]
+}
