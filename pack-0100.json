@@ -1,0 +1,758 @@
+{
+ "version": 100,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 993,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (جزء صحیح قدر مطلق)",
+    "en": "Chapter 3: Limits (Floor of an Absolute Value)",
+    "tr": "Fasl 3: Had (Jozv-e Sahih-e Ghadr-e Motlagh)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد راست ⁦[|x|]⁩ وقتی ⁦x → −1+⁩ کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد [|x|]"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the right-hand limit of [|x|] as x → −1+?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "limit of [|x|]"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e rast-e [|x|] vaghti x → −1+ kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had-e [|x|]"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 993,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق‌پذیری روی بازه)",
+    "en": "Chapter 4: The Derivative (Differentiable on an Interval)",
+    "tr": "Fasl 4: Moshtagh (Moshtagh-paziri rooye Baze)",
+    "pages": "70–72"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "تابع ⁦f⁩ کی روی بازهٔ باز ⁦(a, b)⁩ مشتق‌پذیر است؟",
+     "grading_key": "- [1] وقتی در تک‌تک نقاط بازه مشتق‌پذیر باشد",
+     "final_resolution": "وقتی در تک‌تک نقاط بازه مشتق‌پذیر باشد",
+     "notes": "",
+     "keywords": [
+      "مشتق‌پذیری روی بازهٔ باز"
+     ],
+     "distractors": [
+      "وقتی فقط در نقطهٔ وسط بازه مشتق‌پذیر باشد",
+      "وقتی فقط در دو سر بازه پیوسته باشد",
+      "وقتی مشتقش در سراسر بازه ثابت باشد"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "When is a function f differentiable on an open interval (a, b)?",
+     "grading_key": "- [1] When it is differentiable at every point of the interval",
+     "final_resolution": "When it is differentiable at every point of the interval",
+     "notes": "",
+     "keywords": [
+      "differentiable on an open interval"
+     ],
+     "distractors": [
+      "When it is differentiable only at the midpoint",
+      "When it is continuous only at the ends",
+      "When its derivative is constant throughout"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Tabe'-e f key rooye baze-ye baz-e (a, b) moshtagh-pazir ast?",
+     "grading_key": "- [1] Vaghti dar tak-tak-e noghat-e baze moshtagh-pazir bashad",
+     "final_resolution": "Vaghti dar tak-tak-e noghat-e baze moshtagh-pazir bashad",
+     "notes": "",
+     "keywords": [
+      "moshtagh-paziri rooye baze-ye baz"
+     ],
+     "distractors": [
+      "Vaghti faghat dar noghte-ye vasat-e baze moshtagh-pazir bashad",
+      "Vaghti faghat dar do sar-e baze peyvaste bashad",
+      "Vaghti moshtaghash dar sarasar-e baze sabet bashad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 993,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (مزدوج مثلثاتی)",
+    "en": "Chapter 3: Limits (Trigonometric Conjugate)",
+    "tr": "Fasl 3: Had (Mozdavaj-e Mosallasati)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "برای رفع ابهام ۰/۰ در حدی که عبارت ⁦1 − cos x⁩ دارد، صورت و مخرج را در کدام عبارت ضرب می‌کنیم؟",
+     "grading_key": "- [1] ⁦1 + cos x⁩",
+     "final_resolution": "⁦1 + cos x⁩",
+     "notes": "",
+     "keywords": [
+      "مزدوج 1 − cos x"
+     ],
+     "distractors": [
+      "⁦1 − sin x⁩",
+      "⁦tan x⁩",
+      "⁦sin²x⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "To clear a 0/0 form in a limit containing 1 − cos x, top and bottom are multiplied by what?",
+     "grading_key": "- [1] ⁦1 + cos x⁩",
+     "final_resolution": "⁦1 + cos x⁩",
+     "notes": "",
+     "keywords": [
+      "conjugate of 1 − cos x"
+     ],
+     "distractors": [
+      "⁦1 − sin x⁩",
+      "⁦tan x⁩",
+      "⁦sin²x⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Baraye rafe'-e ebham-e 0/0 dar haddi ke ebarat-e 1 − cos x darad, soorat va makhraj ra dar kodam ebarat zarb mikonim?",
+     "grading_key": "- [1] ⁦1 + cos x⁩",
+     "final_resolution": "⁦1 + cos x⁩",
+     "notes": "",
+     "keywords": [
+      "mozdavaj-e 1 − cos x"
+     ],
+     "distractors": [
+      "⁦1 − sin x⁩",
+      "⁦tan x⁩",
+      "⁦sin²x⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 993,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ متقارن)",
+    "en": "Chapter 1: Functions (Symmetric Domain)",
+    "tr": "Fasl 1: Tabe' (Damane-ye Motagharen)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "نخستین شرط لازم برای اینکه تابعی بتواند زوج یا فرد باشد، دربارهٔ دامنه‌اش چیست؟",
+     "grading_key": "- [1] دامنه نسبت به مبدأ متقارن باشد",
+     "final_resolution": "دامنه نسبت به مبدأ متقارن باشد",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ متقارن"
+     ],
+     "distractors": [
+      "دامنه فقط عددهای صحیح مثبت باشد",
+      "دامنه هیچ عدد گویایی نداشته باشد",
+      "دامنه بازه‌ای بی‌کران به سمت ∞+ باشد"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the first condition a function's domain must meet for the function to be even or odd?",
+     "grading_key": "- [1] The domain must be symmetric about the origin",
+     "final_resolution": "The domain must be symmetric about the origin",
+     "notes": "",
+     "keywords": [
+      "symmetric domain"
+     ],
+     "distractors": [
+      "The domain must be only positive integers",
+      "The domain must contain no rational numbers",
+      "The domain must be an unbounded interval toward +∞"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Nokhostin shart-e lazem baraye inke tabe'i betavanad zoj ya fard bashad, darbare-ye damane-ash chist?",
+     "grading_key": "- [1] Damane nesbat be mabda motagharen bashad",
+     "final_resolution": "Damane nesbat be mabda motagharen bashad",
+     "notes": "",
+     "keywords": [
+      "damane-ye motagharen"
+     ],
+     "distractors": [
+      "Damane faghat adad-haye sahih-e mosbat bashad",
+      "Damane hich adad-e gooyayi nadashte bashad",
+      "Damane baze-i bi-karan be samt-e +∞ bashad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 993,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَقُومُ» در عبارت زیر کدام است؟\n«یَوْمَ یَقُومُ النَّاسُ لِرَبِّ الْعَالَمِینَ.»",
+     "grading_key": "- [1] برمی‌خیزد، می‌ایستد",
+     "final_resolution": "برمی‌خیزد، می‌ایستد",
+     "notes": "",
+     "keywords": [
+      "یَقُومُ"
+     ],
+     "distractors": [
+      "می‌خوابد",
+      "می‌گریزد",
+      "محو می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَقُومُ» mean in this verse?\n«یَوْمَ یَقُومُ النَّاسُ لِرَبِّ الْعَالَمِینَ.»",
+     "grading_key": "- [1] Stands up, rises",
+     "final_resolution": "Stands up, rises",
+     "notes": "",
+     "keywords": [
+      "yaqumu (stands up)"
+     ],
+     "distractors": [
+      "Sleeps",
+      "Flees",
+      "Fades away"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yaqumu» dar ebarat-e zir kodam ast?\n«یَوْمَ یَقُومُ النَّاسُ لِرَبِّ الْعَالَمِینَ.»",
+     "grading_key": "- [1] Barmikhizad, miistad",
+     "final_resolution": "Barmikhizad, miistad",
+     "notes": "",
+     "keywords": [
+      "yaqumu"
+     ],
+     "distractors": [
+      "Mikhabad",
+      "Migorizad",
+      "Mahv mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 993,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْفُجَّارِ» در عبارت زیر کدام است؟\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] بدکاران",
+     "final_resolution": "بدکاران",
+     "notes": "",
+     "keywords": [
+      "الْفُجَّارِ"
+     ],
+     "distractors": [
+      "نیکوکاران",
+      "بازرگانان درستکار",
+      "فرشتگان نگهبان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْفُجَّارِ» mean in this verse?\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] The wicked",
+     "final_resolution": "The wicked",
+     "notes": "",
+     "keywords": [
+      "al-fujjar (the wicked)"
+     ],
+     "distractors": [
+      "The righteous",
+      "Honest traders",
+      "Guardian angels"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-fujjar» dar ebarat-e zir kodam ast?\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] Badkaran",
+     "final_resolution": "Badkaran",
+     "notes": "",
+     "keywords": [
+      "al-fujjar"
+     ],
+     "distractors": [
+      "Nikookaran",
+      "Bazarganan-e dorostkar",
+      "Fereshtegan-e negahban"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 993,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سِجِّینٍ» در عبارت زیر کدام است؟\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] دیوان اعمال بدکاران (در ژرفای دوزخ)",
+     "final_resolution": "دیوان اعمال بدکاران (در ژرفای دوزخ)",
+     "notes": "",
+     "keywords": [
+      "سِجِّینٍ"
+     ],
+     "distractors": [
+      "باغ بهشت",
+      "بازار بزرگ",
+      "چشمهٔ روان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سِجِّینٍ» mean in this verse?\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] The register of the wicked (in the depths of Hell)",
+     "final_resolution": "The register of the wicked (in the depths of Hell)",
+     "notes": "",
+     "keywords": [
+      "sijjin (the register of the wicked)"
+     ],
+     "distractors": [
+      "A garden of Paradise",
+      "A great market",
+      "A flowing spring"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sijjin» dar ebarat-e zir kodam ast?\n«کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ.»",
+     "grading_key": "- [1] Divan-e a'mal-e badkaran (dar zharfa-ye doozakh)",
+     "final_resolution": "Divan-e a'mal-e badkaran (dar zharfa-ye doozakh)",
+     "notes": "",
+     "keywords": [
+      "sijjin"
+     ],
+     "distractors": [
+      "Bagh-e behesht",
+      "Bazar-e bozorg",
+      "Cheshme-ye ravan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 993,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مَرْقُومٌ» در عبارت زیر کدام است؟\n«کِتَابٌ مَرْقُومٌ.»",
+     "grading_key": "- [1] نوشته‌شده",
+     "final_resolution": "نوشته‌شده",
+     "notes": "",
+     "keywords": [
+      "مَرْقُومٌ"
+     ],
+     "distractors": [
+      "پاک‌شده",
+      "سوخته",
+      "فراموش‌شده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مَرْقُومٌ» mean in this verse?\n«کِتَابٌ مَرْقُومٌ.»",
+     "grading_key": "- [1] Written, inscribed",
+     "final_resolution": "Written, inscribed",
+     "notes": "",
+     "keywords": [
+      "marqum (inscribed)"
+     ],
+     "distractors": [
+      "Erased",
+      "Burned",
+      "Forgotten"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «marqum» dar ebarat-e zir kodam ast?\n«کِتَابٌ مَرْقُومٌ.»",
+     "grading_key": "- [1] Neveshte-shode",
+     "final_resolution": "Neveshte-shode",
+     "notes": "",
+     "keywords": [
+      "marqum"
+     ],
+     "distractors": [
+      "Pak-shode",
+      "Sookhte",
+      "Faramoosh-shode"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 993,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «لِلْمُکَذِّبِینَ» در عبارت زیر کدام است؟\n«وَیْلٌ یَوْمَئِذٍ لِلْمُکَذِّبِینَ.»",
+     "grading_key": "- [1] تکذیب‌کنندگان",
+     "final_resolution": "تکذیب‌کنندگان",
+     "notes": "",
+     "keywords": [
+      "لِلْمُکَذِّبِینَ"
+     ],
+     "distractors": [
+      "تأییدکنندگان",
+      "خاموشان",
+      "پادشاهان کهن"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «لِلْمُکَذِّبِینَ» mean in this verse?\n«وَیْلٌ یَوْمَئِذٍ لِلْمُکَذِّبِینَ.»",
+     "grading_key": "- [1] The deniers",
+     "final_resolution": "The deniers",
+     "notes": "",
+     "keywords": [
+      "mukadhdhibin (deniers)"
+     ],
+     "distractors": [
+      "Those who confirm",
+      "The silent ones",
+      "Ancient kings"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «lil-mukadhdhibin» dar ebarat-e zir kodam ast?\n«وَیْلٌ یَوْمَئِذٍ لِلْمُکَذِّبِینَ.»",
+     "grading_key": "- [1] Takzib-konandegan",
+     "final_resolution": "Takzib-konandegan",
+     "notes": "",
+     "keywords": [
+      "lil-mukadhdhibin"
+     ],
+     "distractors": [
+      "Ta'yid-konandegan",
+      "Khamooshan",
+      "Padeshahan-e kohan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 993,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «ضلالت» در جملهٔ زیر چیست؟\n«آن نویسنده، غبار ضلالت و گمراهی را از اندیشهٔ خوانندگان زدود.»",
+     "grading_key": "- [1] گمراهی",
+     "final_resolution": "گمراهی",
+     "notes": "",
+     "keywords": [
+      "ضلالت"
+     ],
+     "distractors": [
+      "راه راست",
+      "دانش",
+      "آرامش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «ضلالت» mean in this sentence?\n«آن نویسنده، غبار ضلالت و گمراهی را از اندیشهٔ خوانندگان زدود.»",
+     "grading_key": "- [1] Going astray, error",
+     "final_resolution": "Going astray, error",
+     "notes": "",
+     "keywords": [
+      "zalalat (going astray)"
+     ],
+     "distractors": [
+      "The right path",
+      "Knowledge",
+      "Calm"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «zalalat» dar jomle-ye zir chist?\n«آن نویسنده، غبار ضلالت و گمراهی را از اندیشهٔ خوانندگان زدود.»",
+     "grading_key": "- [1] Gomrahi",
+     "final_resolution": "Gomrahi",
+     "notes": "",
+     "keywords": [
+      "zalalat"
+     ],
+     "distractors": [
+      "Rah-e rast",
+      "Danesh",
+      "Aramesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 993,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مأمن» در جملهٔ زیر چیست؟\n«کاروان خسته سرانجام در آن صحرای تفته به مأمنی رسید.»",
+     "grading_key": "- [1] پناهگاه، جای امن",
+     "final_resolution": "پناهگاه، جای امن",
+     "notes": "",
+     "keywords": [
+      "مأمن"
+     ],
+     "distractors": [
+      "تنگهٔ خطرناک",
+      "سیاه‌چاله",
+      "خط افقی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مأمن» mean in this sentence?\n«کاروان خسته سرانجام در آن صحرای تفته به مأمنی رسید.»",
+     "grading_key": "- [1] A safe haven, a refuge",
+     "final_resolution": "A safe haven, a refuge",
+     "notes": "",
+     "keywords": [
+      "ma'man (a safe haven)"
+     ],
+     "distractors": [
+      "A dangerous pass",
+      "A black hole",
+      "A horizontal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «ma'man» dar jomle-ye zir chist?\n«کاروان خسته سرانجام در آن صحرای تفته به مأمنی رسید.»",
+     "grading_key": "- [1] Panahgah, jaye amn",
+     "final_resolution": "Panahgah, jaye amn",
+     "notes": "",
+     "keywords": [
+      "ma'man"
+     ],
+     "distractors": [
+      "Tange-ye khatarnak",
+      "Siyah-chale",
+      "Khatt-e ofoghi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 993,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "جایگزین کردن پلاستیک‌های نفتی با کدام نوع پلاستیک (مثلاً ساخته‌شده از نشاستهٔ ذرت) راهی برای کم کردن آلودگی ماندگار خاک است؟",
+     "grading_key": "- [1] پلاستیک زیست‌تخریب‌پذیر",
+     "final_resolution": "پلاستیک زیست‌تخریب‌پذیر",
+     "notes": "",
+     "keywords": [
+      "پلاستیک زیست‌تخریب‌پذیر"
+     ],
+     "distractors": [
+      "ورق PVC",
+      "بی‌فنیل‌های پلی‌کلره",
+      "کلر جامد"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Replacing oil-based plastics with which kind of plastic (made, for example, from corn starch) is a way to cut long-lasting soil pollution?",
+     "grading_key": "- [1] Biodegradable plastic",
+     "final_resolution": "Biodegradable plastic",
+     "notes": "",
+     "keywords": [
+      "biodegradable plastic"
+     ],
+     "distractors": [
+      "PVC sheet",
+      "PCBs",
+      "Solid chlorine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Jaygozin kardan-e pelastik-haye nafti ba kodam no' pelastik (masalan sakhte-shode az nashaste-ye zorrat) rahi baraye kam kardan-e aloodegi-ye mandegar-e khak ast?",
+     "grading_key": "- [1] Pelastik-e zist-takhrib-pazir",
+     "final_resolution": "Pelastik-e zist-takhrib-pazir",
+     "notes": "",
+     "keywords": [
+      "pelastik-e zist-takhrib-pazir"
+     ],
+     "distractors": [
+      "Varagh-e PVC",
+      "Bi-fenil-haye poli-kolore",
+      "Kolor-e jamed"
+     ]
+    }
+   }
+  }
+ ]
+}
