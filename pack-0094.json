@@ -1,0 +1,1002 @@
+{
+ "version": 94,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 987,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد مثلثاتی با کسینوس)",
+    "en": "Chapter 3: Limits (Cosine Limit)",
+    "tr": "Fasl 3: Had (Kosinoos)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦(1 − cos x) / x²⁩ وقتی ⁦x → 0⁩ کدام است؟",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد (1 − cos x)/x²"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of (1 − cos x) / x² as x → 0?",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "limit of (1 − cos x)/x²"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e (1 − cos x) / x² vaghti x → 0 kodam ast?",
+     "grading_key": "- [1] ⁦1/2⁩",
+     "final_resolution": "⁦1/2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e (1 − cos x)/x²"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦2⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 987,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع علامت)",
+    "en": "Chapter 1: Functions (Sign Function)",
+    "tr": "Fasl 1: Tabe' (Tabe'-e Alamat)",
+    "pages": "24–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "تابعی که برای ورودی مثبت ۱، برای ورودی منفی ۱− و برای صفر، صفر می‌دهد، چه نام دارد؟",
+     "grading_key": "- [1] تابع علامت",
+     "final_resolution": "تابع علامت",
+     "notes": "",
+     "keywords": [
+      "تابع علامت"
+     ],
+     "distractors": [
+      "تابع پله‌ای",
+      "تابع جزء صحیح",
+      "تابع قدر مطلق"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the function called that gives 1 for positive inputs, −1 for negative inputs and 0 for zero?",
+     "grading_key": "- [1] The sign function",
+     "final_resolution": "The sign function",
+     "notes": "",
+     "keywords": [
+      "sign function"
+     ],
+     "distractors": [
+      "A step function",
+      "The floor function",
+      "The absolute value function"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Tabe'i ke baraye vorudi-ye mosbat 1, baraye vorudi-ye manfi −1 va baraye sefr, sefr midahad, che nam darad?",
+     "grading_key": "- [1] Tabe'-e alamat",
+     "final_resolution": "Tabe'-e alamat",
+     "notes": "",
+     "keywords": [
+      "tabe'-e alamat"
+     ],
+     "distractors": [
+      "Tabe'-e pelle-i",
+      "Tabe'-e jozv-e sahih",
+      "Tabe'-e ghadr-e motlagh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 987,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق ریشهٔ سوم در صفر)",
+    "en": "Chapter 4: The Derivative (Cube Root at 0)",
+    "tr": "Fasl 4: Moshtagh (Rishe-ye Sevvom)",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = ∛x⁩ در ⁦x = 0⁩ چه وضعی دارد؟",
+     "grading_key": "- [1] وجود ندارد؛ نمودار در این نقطه مماس قائم دارد",
+     "final_resolution": "وجود ندارد؛ نمودار در این نقطه مماس قائم دارد",
+     "notes": "",
+     "keywords": [
+      "مماس قائم"
+     ],
+     "distractors": [
+      "دقیقاً صفر است",
+      "دقیقاً ۱ است",
+      "دقیقاً ۱− است"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the state of the derivative of f(x) = ∛x at x = 0?",
+     "grading_key": "- [1] It does not exist; the graph has a vertical tangent there",
+     "final_resolution": "It does not exist; the graph has a vertical tangent there",
+     "notes": "",
+     "keywords": [
+      "vertical tangent"
+     ],
+     "distractors": [
+      "It is exactly 0",
+      "It is exactly 1",
+      "It is exactly −1"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe'-e f(x) = ∛x dar x = 0 che vaz'i darad?",
+     "grading_key": "- [1] Vojood nadarad; nemoodar dar in noghte momas-e ghaem darad",
+     "final_resolution": "Vojood nadarad; nemoodar dar in noghte momas-e ghaem darad",
+     "notes": "",
+     "keywords": [
+      "momas-e ghaem"
+     ],
+     "distractors": [
+      "Daghighan sefr ast",
+      "Daghighan 1 ast",
+      "Daghighan −1 ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 987,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (∞ − ∞ با رادیکال)",
+    "en": "Chapter 3: Limits (∞ − ∞ with a Root)",
+    "tr": "Fasl 3: Had (∞ − ∞)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد ⁦√(x² + 4x) − x⁩ وقتی ⁦x → +∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "حد √(x² + 4x) − x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of √(x² + 4x) − x as x → +∞?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "limit of √(x² + 4x) − x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e √(x² + 4x) − x vaghti x → +∞ kodam ast?",
+     "grading_key": "- [1] ⁦2⁩",
+     "final_resolution": "⁦2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e √(x² + 4x) − x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦4⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 987,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «نَخِرَةً» در عبارت زیر کدام است؟\n«أَ إِذَا کُنَّا عِظَاماً نَخِرَةً.»",
+     "grading_key": "- [1] پوسیده و از هم پاشیده",
+     "final_resolution": "پوسیده و از هم پاشیده",
+     "notes": "",
+     "keywords": [
+      "نَخِرَةً"
+     ],
+     "distractors": [
+      "سخت و محکم",
+      "درخشان",
+      "زنده"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «نَخِرَةً» mean in this verse?\n«أَ إِذَا کُنَّا عِظَاماً نَخِرَةً.»",
+     "grading_key": "- [1] Crumbling, decayed",
+     "final_resolution": "Crumbling, decayed",
+     "notes": "",
+     "keywords": [
+      "nakhira (crumbling, decayed)"
+     ],
+     "distractors": [
+      "Hard and strong",
+      "Shining",
+      "Alive"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «nakhiratan» dar ebarat-e zir kodam ast?\n«أَ إِذَا کُنَّا عِظَاماً نَخِرَةً.»",
+     "grading_key": "- [1] Poosideh va az ham pashide",
+     "final_resolution": "Poosideh va az ham pashide",
+     "notes": "",
+     "keywords": [
+      "nakhiratan"
+     ],
+     "distractors": [
+      "Sakht va mohkam",
+      "Derakhshan",
+      "Zende"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 987,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «السَّاهِرَةِ» در عبارت زیر کدام است؟\n«فَإِذَا هُمْ بِالسَّاهِرَةِ.»",
+     "grading_key": "- [1] دشت هموار و گسترده (عرصهٔ رستاخیز)",
+     "final_resolution": "دشت هموار و گسترده (عرصهٔ رستاخیز)",
+     "notes": "",
+     "keywords": [
+      "السَّاهِرَةِ"
+     ],
+     "distractors": [
+      "کف دریا",
+      "قلهٔ کوه",
+      "سیاه‌چال"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «السَّاهِرَةِ» mean in this verse?\n«فَإِذَا هُمْ بِالسَّاهِرَةِ.»",
+     "grading_key": "- [1] The wide open plain (of the Resurrection)",
+     "final_resolution": "The wide open plain (of the Resurrection)",
+     "notes": "",
+     "keywords": [
+      "as-sahira (the open plain)"
+     ],
+     "distractors": [
+      "The sea floor",
+      "A mountain top",
+      "A dungeon"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «as-sahira» dar ebarat-e zir kodam ast?\n«فَإِذَا هُمْ بِالسَّاهِرَةِ.»",
+     "grading_key": "- [1] Dasht-e hamvar va gostarde (arse-ye rastakhiz)",
+     "final_resolution": "Dasht-e hamvar va gostarde (arse-ye rastakhiz)",
+     "notes": "",
+     "keywords": [
+      "as-sahira"
+     ],
+     "distractors": [
+      "Kaf-e darya",
+      "Ghole-ye kooh",
+      "Siyah-chal"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 987,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «صُحُفٍ» در عبارت زیر کدام است؟\n«فِی صُحُفٍ مُکَرَّمَةٍ * مَرْفُوعَةٍ مُطَهَّرَةٍ.»",
+     "grading_key": "- [1] نامه‌ها و نوشته‌ها",
+     "final_resolution": "نامه‌ها و نوشته‌ها",
+     "notes": "",
+     "keywords": [
+      "صُحُفٍ"
+     ],
+     "distractors": [
+      "برج‌های سنگی",
+      "سپرهای آهنی",
+      "چشمه‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «صُحُفٍ» mean in this verse?\n«فِی صُحُفٍ مُکَرَّمَةٍ * مَرْفُوعَةٍ مُطَهَّرَةٍ.»",
+     "grading_key": "- [1] Scrolls, written pages",
+     "final_resolution": "Scrolls, written pages",
+     "notes": "",
+     "keywords": [
+      "suhuf (scrolls, pages)"
+     ],
+     "distractors": [
+      "Stone towers",
+      "Iron shields",
+      "Springs"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «suhufin» dar ebarat-e zir kodam ast?\n«فِی صُحُفٍ مُکَرَّمَةٍ * مَرْفُوعَةٍ مُطَهَّرَةٍ.»",
+     "grading_key": "- [1] Name-ha va neveshte-ha",
+     "final_resolution": "Name-ha va neveshte-ha",
+     "notes": "",
+     "keywords": [
+      "suhufin"
+     ],
+     "distractors": [
+      "Borj-haye sangi",
+      "Separ-haye ahani",
+      "Cheshme-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 987,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سَفَرَةٍ» در عبارت زیر کدام است؟\n«بِأَیْدِی سَفَرَةٍ * کِرَامٍ بَرَرَةٍ.»",
+     "grading_key": "- [1] نویسندگان (فرشتگان نگارنده)",
+     "final_resolution": "نویسندگان (فرشتگان نگارنده)",
+     "notes": "",
+     "keywords": [
+      "سَفَرَةٍ"
+     ],
+     "distractors": [
+      "بازرگانان",
+      "ستمگران",
+      "چارپایان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سَفَرَةٍ» mean in this verse?\n«بِأَیْدِی سَفَرَةٍ * کِرَامٍ بَرَرَةٍ.»",
+     "grading_key": "- [1] Scribes (the recording angels)",
+     "final_resolution": "Scribes (the recording angels)",
+     "notes": "",
+     "keywords": [
+      "safara (angel scribes)"
+     ],
+     "distractors": [
+      "Merchants",
+      "Tyrants",
+      "Grazing animals"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «safaratin» dar ebarat-e zir kodam ast?\n«بِأَیْدِی سَفَرَةٍ * کِرَامٍ بَرَرَةٍ.»",
+     "grading_key": "- [1] Nevisandegan (fereshtegan-e negarande)",
+     "final_resolution": "Nevisandegan (fereshtegan-e negarande)",
+     "notes": "",
+     "keywords": [
+      "safaratin"
+     ],
+     "distractors": [
+      "Bazarganan",
+      "Setamgaran",
+      "Charpayan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 987,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «شَأْنٌ» در عبارت زیر کدام است؟\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] کاری و گرفتاری",
+     "final_resolution": "کاری و گرفتاری",
+     "notes": "",
+     "keywords": [
+      "شَأْنٌ"
+     ],
+     "distractors": [
+      "سودی",
+      "آسایشی",
+      "ابزاری"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «شَأْنٌ» mean in this verse?\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] A matter, a concern",
+     "final_resolution": "A matter, a concern",
+     "notes": "",
+     "keywords": [
+      "sha'n (a matter, a concern)"
+     ],
+     "distractors": [
+      "A profit",
+      "A rest",
+      "A tool"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sha'nun» dar ebarat-e zir kodam ast?\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] Kari va gereftari",
+     "final_resolution": "Kari va gereftari",
+     "notes": "",
+     "keywords": [
+      "sha'nun"
+     ],
+     "distractors": [
+      "Soodi",
+      "Asayeshi",
+      "Abzari"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 987,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «زخارف» در جملهٔ زیر چیست؟\n«دل بستن به زخارف دنیا، مایهٔ تیرگی روان آدمی است.»",
+     "grading_key": "- [1] زیورها و آرایش‌های ناپایدار دنیا",
+     "final_resolution": "زیورها و آرایش‌های ناپایدار دنیا",
+     "notes": "",
+     "keywords": [
+      "زخارف"
+     ],
+     "distractors": [
+      "حقیقت‌های معنوی",
+      "شکست‌ها",
+      "قاعده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «زخارف» mean in this sentence?\n«دل بستن به زخارف دنیا، مایهٔ تیرگی روان آدمی است.»",
+     "grading_key": "- [1] Worldly finery, passing glitter",
+     "final_resolution": "Worldly finery, passing glitter",
+     "notes": "",
+     "keywords": [
+      "zakharef (worldly glitter)"
+     ],
+     "distractors": [
+      "Spiritual truths",
+      "Failures",
+      "Rules"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «zakharef» dar jomle-ye zir chist?\n«دل بستن به زخارف دنیا، مایهٔ تیرگی روان آدمی است.»",
+     "grading_key": "- [1] Zivar-ha va arayesh-haye napaydar-e donya",
+     "final_resolution": "Zivar-ha va arayesh-haye napaydar-e donya",
+     "notes": "",
+     "keywords": [
+      "zakharef"
+     ],
+     "distractors": [
+      "Haghighat-haye ma'navi",
+      "Shekast-ha",
+      "Ghaede-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 987,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «زبونی» در جملهٔ زیر چیست؟\n«در آن کویر، گویی ذرات شن همواره در برابر باد دچار زبونی و تسلیم بودند.»",
+     "grading_key": "- [1] خواری و ناتوانی",
+     "final_resolution": "خواری و ناتوانی",
+     "notes": "",
+     "keywords": [
+      "زبونی"
+     ],
+     "distractors": [
+      "فرمانروایی",
+      "سختی و استواری",
+      "رشد شتابان"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «زبونی» mean in this sentence?\n«در آن کویر، گویی ذرات شن همواره در برابر باد دچار زبونی و تسلیم بودند.»",
+     "grading_key": "- [1] Helplessness, weakness",
+     "final_resolution": "Helplessness, weakness",
+     "notes": "",
+     "keywords": [
+      "zabooni (helplessness)"
+     ],
+     "distractors": [
+      "Rule, mastery",
+      "Hardness, firmness",
+      "Rapid growth"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «zabooni» dar jomle-ye zir chist?\n«در آن کویر، گویی ذرات شن همواره در برابر باد دچار زبونی و تسلیم بودند.»",
+     "grading_key": "- [1] Khari va natavani",
+     "final_resolution": "Khari va natavani",
+     "notes": "",
+     "keywords": [
+      "zabooni"
+     ],
+     "distractors": [
+      "Farmanravayi",
+      "Sakhti va ostovari",
+      "Roshd-e shetaban"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Khordad",
+   "number": 987,
+   "topic_tag": "literary-devices",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو ادبی: ترصیع)",
+    "en": "Persian 3 (Literary Devices: Tarsi')",
+    "tr": "Adabiyat-e Farsi 3 (Tarsi')",
+    "pages": "136–138"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "آرایه‌های ادبی",
+     "question": "هرگاه واژه‌های دو مصراع یا دو جمله نظیر به نظیر هم‌وزن و هم‌قافیه (سجع متوازی) باشند، کدام آرایه پدید می‌آید؟",
+     "grading_key": "- [1] ترصیع",
+     "final_resolution": "ترصیع",
+     "notes": "",
+     "keywords": [
+      "ترصیع"
+     ],
+     "distractors": [
+      "موازنه",
+      "جناس تام",
+      "حسن تعلیل"
+     ]
+    },
+    "en": {
+     "topic_label": "Literary Devices",
+     "question": "When the words of two half-lines or sentences match one for one in both metre and rhyme, which device is formed?",
+     "grading_key": "- [1] Tarsi' (jewelled balance)",
+     "final_resolution": "Tarsi' (jewelled balance)",
+     "notes": "",
+     "keywords": [
+      "tarsi' (jewelled balance)"
+     ],
+     "distractors": [
+      "Movazene (balance in metre only)",
+      "Jinas-e tam (perfect pun)",
+      "Husn-e ta'lil (poetic cause)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Arayeh-haye Adabi",
+     "question": "Hargah vazhe-haye do mesra' ya do jomle nazir be nazir ham-vazn va ham-ghafiye (saj'-e motavazi) bashand, kodam araye padid miayad?",
+     "grading_key": "- [1] Tarsi'",
+     "final_resolution": "Tarsi'",
+     "notes": "",
+     "keywords": [
+      "tarsi'"
+     ],
+     "distractors": [
+      "Movazene",
+      "Jenas-e tam",
+      "Hosn-e ta'lil"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1402-Dey",
+   "number": 987,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: املا)",
+    "en": "Persian 3 (Spelling)",
+    "tr": "Adabiyat-e Farsi 3 (Emla)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "املای درست واژه‌ای که به معنای «گودی‌ها و فرورفتگی‌ها» است، کدام است؟",
+     "grading_key": "- [1] حفره‌ها",
+     "final_resolution": "حفره‌ها",
+     "notes": "",
+     "keywords": [
+      "حفره"
+     ],
+     "distractors": [
+      "هفره‌ها",
+      "حفره‌حا",
+      "هفرها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "Which is the correct spelling of the word that means 'hollows, pits'?",
+     "grading_key": "- [1] حفره‌ها",
+     "final_resolution": "حفره‌ها",
+     "notes": "",
+     "keywords": [
+      "hofre (hollow)"
+     ],
+     "distractors": [
+      "هفره‌ها",
+      "حفره‌حا",
+      "هفرها"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Emla-ye dorost-e vazhe-i ke be mani-ye 'goodi-ha va foroo-raftegi-ha' ast, kodam ast?",
+     "grading_key": "- [1] حفره‌ها",
+     "final_resolution": "حفره‌ها",
+     "notes": "",
+     "keywords": [
+      "hofre"
+     ],
+     "distractors": [
+      "هفره‌ها",
+      "حفره‌حا",
+      "هفرها"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 987,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "انباشت کدام آلاینده از کودهای نیتروژنه در آب آشامیدنی، در بدن نوزاد به نیتریت تبدیل می‌شود و «نشانگان کودک کبود» پدید می‌آورد؟",
+     "grading_key": "- [1] نیترات‌ها",
+     "final_resolution": "نیترات‌ها",
+     "notes": "",
+     "keywords": [
+      "نیترات در آب"
+     ],
+     "distractors": [
+      "کادمیوم",
+      "بی‌فنیل‌های پلی‌کلره",
+      "کلسیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which pollutant from nitrogen fertilisers, building up in drinking water, turns into nitrite in a baby's body and causes \"blue baby syndrome\"?",
+     "grading_key": "- [1] Nitrates",
+     "final_resolution": "Nitrates",
+     "notes": "",
+     "keywords": [
+      "nitrates in water"
+     ],
+     "distractors": [
+      "Cadmium",
+      "PCBs",
+      "Calcium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Anbasht-e kodam aloodande az kood-haye nitrozhene dar ab-e ashamidani, dar badan-e nowzad be nitrit tabdil mishavad va \"neshangan-e koodak-e kabood\" padid miavarad?",
+     "grading_key": "- [1] Nitrat-ha",
+     "final_resolution": "Nitrat-ha",
+     "notes": "",
+     "keywords": [
+      "nitrat dar ab"
+     ],
+     "distractors": [
+      "Kadmiyom",
+      "Bi-fenil-haye poli-kolore",
+      "Kalsiyom"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 987,
+   "topic_tag": "first-aid",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "کمک‌های اولیه",
+    "en": "First Aid",
+    "tr": "Komak-haye Avvaliye",
+    "pages": "74–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "کمک‌های اولیه",
+     "question": "بالا رفتن دمای بدن به بیش از ۴۰ درجه، آشفتگی هوشیاری و قطع تعریق پس از ماندن طولانی در گرمای شدید، نشانهٔ کدام وضعیت اورژانسی است؟",
+     "grading_key": "- [1] گرمازدگی (سکتهٔ گرمایی)",
+     "final_resolution": "گرمازدگی (سکتهٔ گرمایی)",
+     "notes": "",
+     "keywords": [
+      "گرمازدگی"
+     ],
+     "distractors": [
+      "سوختگی درجهٔ یک",
+      "سرمازدگی",
+      "سکتهٔ قلبی"
+     ]
+    },
+    "en": {
+     "topic_label": "First Aid",
+     "question": "A body temperature above 40 °C, confusion and no sweating after long exposure to great heat are signs of which emergency?",
+     "grading_key": "- [1] Heatstroke",
+     "final_resolution": "Heatstroke",
+     "notes": "",
+     "keywords": [
+      "heatstroke"
+     ],
+     "distractors": [
+      "A first-degree burn",
+      "Frostbite",
+      "A heart attack"
+     ]
+    },
+    "tr": {
+     "topic_label": "Komak-haye Avvalie",
+     "question": "Bala raftan-e dama-ye badan be bish az 40 daraje, ashoftegi-ye hoshyari va ghat'-e ta'arroq pas az mandan-e toolani dar garma-ye shadid, neshane-ye kodam vaz'iyat-e orzhansi ast?",
+     "grading_key": "- [1] Garma-zadegi (sekte-ye garmayi)",
+     "final_resolution": "Garma-zadegi (sekte-ye garmayi)",
+     "notes": "",
+     "keywords": [
+      "garma-zadegi"
+     ],
+     "distractors": [
+      "Sookhtegi-ye daraje-ye yek",
+      "Sarma-zadegi",
+      "Sekte-ye ghalbi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 987,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "کدام بیماری التهابی مزمن راه‌های هوایی، با تنگ شدن گاه‌به‌گاه نایژه‌ها و تنگی نفس همراه است؟",
+     "grading_key": "- [1] آسم",
+     "final_resolution": "آسم",
+     "notes": "",
+     "keywords": [
+      "آسم"
+     ],
+     "distractors": [
+      "تصلب شرایین",
+      "دیابت نوع ۲",
+      "آسیب شبکیه در فشار خون"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Which long-term inflammatory disease of the airways comes with bouts of narrowed bronchi and shortness of breath?",
+     "grading_key": "- [1] Asthma",
+     "final_resolution": "Asthma",
+     "notes": "",
+     "keywords": [
+      "asthma"
+     ],
+     "distractors": [
+      "Atherosclerosis",
+      "Type 2 diabetes",
+      "Hypertensive retinopathy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Kodam bimari-ye eltehabi-ye mozmen-e rah-haye havayi, ba tang shodan-e gah-be-gah-e nayzhe-ha va tangi-ye nafas hamrah ast?",
+     "grading_key": "- [1] Asm",
+     "final_resolution": "Asm",
+     "notes": "",
+     "keywords": [
+      "asm"
+     ],
+     "distractors": [
+      "Tasallob-e sharayin",
+      "Diabet-e no'-e 2",
+      "Asib-e shabakiye dar feshar-e khoon"
+     ]
+    }
+   }
+  }
+ ]
+}
