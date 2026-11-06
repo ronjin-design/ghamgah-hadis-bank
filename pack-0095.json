@@ -1,0 +1,941 @@
+{
+ "version": 95,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 988,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (جزء صحیح و سینوس)",
+    "en": "Chapter 3: Limits (Floor Times Sine)",
+    "tr": "Fasl 3: Had (Jozv-e Sahih va Sinoos)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد راست ⁦[x] · sin x⁩ وقتی ⁦x → 0+⁩ کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد [x] sin x"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the right-hand limit of [x] · sin x as x → 0+?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "limit of [x] sin x"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e rast-e [x] · sin x vaghti x → 0+ kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had-e [x] sin x"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 988,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (وارون تابع درجهٔ دوم)",
+    "en": "Chapter 1: Functions (Inverse of a Quadratic)",
+    "tr": "Fasl 1: Tabe' (Varoon-e Daraje-ye Do)",
+    "pages": "18–20"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای اینکه تابع ⁦y = x²⁩ وارون داشته باشد، با دامنهٔ آن چه باید کرد؟",
+     "grading_key": "- [1] دامنه را به بازه‌ای محدود کرد که تابع در آن اکیداً یکنوا باشد",
+     "final_resolution": "دامنه را به بازه‌ای محدود کرد که تابع در آن اکیداً یکنوا باشد",
+     "notes": "",
+     "keywords": [
+      "محدود کردن دامنه برای وارون"
+     ],
+     "distractors": [
+      "دامنه را همهٔ ℝ گرفت",
+      "فقط صفر را از دامنه حذف کرد",
+      "هیچ کاری لازم نیست"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "For y = x² to have an inverse, what must be done to its domain?",
+     "grading_key": "- [1] Restrict it to an interval where the function is strictly monotonic",
+     "final_resolution": "Restrict it to an interval where the function is strictly monotonic",
+     "notes": "",
+     "keywords": [
+      "restricting the domain for an inverse"
+     ],
+     "distractors": [
+      "Take it as all of ℝ",
+      "Remove only x = 0",
+      "Nothing; it already has one"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye inke tabe'-e y = x² varoon dashte bashad, ba damane-ye an che bayad kard?",
+     "grading_key": "- [1] Damane ra be baze-i mahdood kard ke tabe' dar an akidan yeknava bashad",
+     "final_resolution": "Damane ra be baze-i mahdood kard ke tabe' dar an akidan yeknava bashad",
+     "notes": "",
+     "keywords": [
+      "mahdood kardan-e damane baraye varoon"
+     ],
+     "distractors": [
+      "Damane ra hame-ye ℝ gereft",
+      "Faghat sefr ra az damane hazf kard",
+      "Hich kari lazem nist"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 988,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع ثابت)",
+    "en": "Chapter 1: Functions (Constant Function)",
+    "tr": "Fasl 1: Tabe' (Tabe'-e Sabet)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "اگر تابعی روی یک بازه هم صعودی (غیراکید) و هم نزولی (غیراکید) باشد، روی آن بازه چگونه تابعی است؟",
+     "grading_key": "- [1] تابع ثابت",
+     "final_resolution": "تابع ثابت",
+     "notes": "",
+     "keywords": [
+      "صعودی و نزولی هم‌زمان"
+     ],
+     "distractors": [
+      "تابع اکیداً صعودی",
+      "تابع متناوب",
+      "تابعی با مماس قائم"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "If a function is both non-decreasing and non-increasing on an interval, what kind of function is it there?",
+     "grading_key": "- [1] A constant function",
+     "final_resolution": "A constant function",
+     "notes": "",
+     "keywords": [
+      "both non-decreasing and non-increasing"
+     ],
+     "distractors": [
+      "A strictly increasing function",
+      "A periodic function",
+      "A function with a vertical tangent"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Agar tabe'i rooye yek baze ham so'oodi (gheyr-e akid) va ham nozooli (gheyr-e akid) bashad, rooye an baze chegoone tabe'i ast?",
+     "grading_key": "- [1] Tabe'-e sabet",
+     "final_resolution": "Tabe'-e sabet",
+     "notes": "",
+     "keywords": [
+      "so'oodi va nozooli ham-zaman"
+     ],
+     "distractors": [
+      "Tabe'-e akidan so'oodi",
+      "Tabe'-e motanaveb",
+      "Tabe'i ba momas-e ghaem"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 988,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الطَّامَّةُ» در عبارت زیر کدام است؟\n«فَإِذَا جَاءَتِ الطَّامَّةُ الْکُبْرَى.»",
+     "grading_key": "- [1] رویداد بزرگ و فراگیر (رستاخیز)",
+     "final_resolution": "رویداد بزرگ و فراگیر (رستاخیز)",
+     "notes": "",
+     "keywords": [
+      "الطَّامَّةُ"
+     ],
+     "distractors": [
+      "چراغی روشن",
+      "رودی روان",
+      "سایه‌ای گذرا"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الطَّامَّةُ» mean in this verse?\n«فَإِذَا جَاءَتِ الطَّامَّةُ الْکُبْرَى.»",
+     "grading_key": "- [1] The overwhelming catastrophe (the Resurrection)",
+     "final_resolution": "The overwhelming catastrophe (the Resurrection)",
+     "notes": "",
+     "keywords": [
+      "at-tamma (the overwhelming calamity)"
+     ],
+     "distractors": [
+      "A bright lamp",
+      "A flowing river",
+      "A passing shadow"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «at-tamma» dar ebarat-e zir kodam ast?\n«فَإِذَا جَاءَتِ الطَّامَّةُ الْکُبْرَى.»",
+     "grading_key": "- [1] Rooydad-e bozorg va faragir (rastakhiz)",
+     "final_resolution": "Rooydad-e bozorg va faragir (rastakhiz)",
+     "notes": "",
+     "keywords": [
+      "at-tamma"
+     ],
+     "distractors": [
+      "Cheraghi rowshan",
+      "Roodi ravan",
+      "Saye-i gozara"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 988,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «سَعَى» در عبارت زیر کدام است؟\n«یَوْمَ یَتَذَکَّرُ الْإِنْسَانُ مَا سَعَى.»",
+     "grading_key": "- [1] کوشید",
+     "final_resolution": "کوشید",
+     "notes": "",
+     "keywords": [
+      "سَعَى"
+     ],
+     "distractors": [
+      "خوابید",
+      "پنهان کرد",
+      "خرید"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «سَعَى» mean in this verse?\n«یَوْمَ یَتَذَکَّرُ الْإِنْسَانُ مَا سَعَى.»",
+     "grading_key": "- [1] Strove, worked for",
+     "final_resolution": "Strove, worked for",
+     "notes": "",
+     "keywords": [
+      "sa'a (strove)"
+     ],
+     "distractors": [
+      "Slept",
+      "Hid",
+      "Bought"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «sa'a» dar ebarat-e zir kodam ast?\n«یَوْمَ یَتَذَکَّرُ الْإِنْسَانُ مَا سَعَى.»",
+     "grading_key": "- [1] Kooshid",
+     "final_resolution": "Kooshid",
+     "notes": "",
+     "keywords": [
+      "sa'a"
+     ],
+     "distractors": [
+      "Khabid",
+      "Penhan kard",
+      "Kharid"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 988,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «بُرِّزَتِ» در عبارت زیر کدام است؟\n«وَ بُرِّزَتِ الْجَحِیمُ لِمَنْ یَرَى.»",
+     "grading_key": "- [1] آشکار شد، نمایان گردید",
+     "final_resolution": "آشکار شد، نمایان گردید",
+     "notes": "",
+     "keywords": [
+      "بُرِّزَتِ"
+     ],
+     "distractors": [
+      "پنهان شد",
+      "بسته شد",
+      "خاموش شد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «بُرِّزَتِ» mean in this verse?\n«وَ بُرِّزَتِ الْجَحِیمُ لِمَنْ یَرَى.»",
+     "grading_key": "- [1] Was laid open to view",
+     "final_resolution": "Was laid open to view",
+     "notes": "",
+     "keywords": [
+      "burrizat (was laid open to view)"
+     ],
+     "distractors": [
+      "Was hidden",
+      "Was shut",
+      "Was put out"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «burrizat» dar ebarat-e zir kodam ast?\n«وَ بُرِّزَتِ الْجَحِیمُ لِمَنْ یَرَى.»",
+     "grading_key": "- [1] Ashkar shod, namayan gardid",
+     "final_resolution": "Ashkar shod, namayan gardid",
+     "notes": "",
+     "keywords": [
+      "burrizat"
+     ],
+     "distractors": [
+      "Penhan shod",
+      "Baste shod",
+      "Khamoosh shod"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 988,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یُغْنِیهِ» در عبارت زیر کدام است؟\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] او را (از دیگران) بی‌نیاز و سرگرم خود می‌کند",
+     "final_resolution": "او را (از دیگران) بی‌نیاز و سرگرم خود می‌کند",
+     "notes": "",
+     "keywords": [
+      "یُغْنِیهِ"
+     ],
+     "distractors": [
+      "به او آسیب می‌زند",
+      "او را می‌ستاید",
+      "به او می‌آموزد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یُغْنِیهِ» mean in this verse?\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] Keeps him fully occupied (with no thought for others)",
+     "final_resolution": "Keeps him fully occupied (with no thought for others)",
+     "notes": "",
+     "keywords": [
+      "yughnihi (keeps him fully occupied)"
+     ],
+     "distractors": [
+      "Harms him",
+      "Praises him",
+      "Teaches him"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yughnihi» dar ebarat-e zir kodam ast?\n«لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.»",
+     "grading_key": "- [1] Oo ra (az digaran) bi-niyaz va sargarm-e khod mikonad",
+     "final_resolution": "Oo ra (az digaran) bi-niyaz va sargarm-e khod mikonad",
+     "notes": "",
+     "keywords": [
+      "yughnihi"
+     ],
+     "distractors": [
+      "Be oo asib mizanad",
+      "Oo ra misetayad",
+      "Be oo miamoozad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Dey",
+   "number": 988,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «مُسْتَبْشِرَةٌ» در عبارت زیر کدام است؟\n«ضَاحِکَةٌ مُسْتَبْشِرَةٌ.»",
+     "grading_key": "- [1] شادمان و خرسند",
+     "final_resolution": "شادمان و خرسند",
+     "notes": "",
+     "keywords": [
+      "مُسْتَبْشِرَةٌ"
+     ],
+     "distractors": [
+      "گریان",
+      "هراسان",
+      "خاموش"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «مُسْتَبْشِرَةٌ» mean in this verse?\n«ضَاحِکَةٌ مُسْتَبْشِرَةٌ.»",
+     "grading_key": "- [1] Rejoicing, full of joy",
+     "final_resolution": "Rejoicing, full of joy",
+     "notes": "",
+     "keywords": [
+      "mustabshira (rejoicing)"
+     ],
+     "distractors": [
+      "Weeping",
+      "Terrified",
+      "Silent"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «mustabshira» dar ebarat-e zir kodam ast?\n«ضَاحِکَةٌ مُسْتَبْشِرَةٌ.»",
+     "grading_key": "- [1] Shadman va khorsand",
+     "final_resolution": "Shadman va khorsand",
+     "notes": "",
+     "keywords": [
+      "mustabshira"
+     ],
+     "distractors": [
+      "Geryan",
+      "Harasan",
+      "Khamoosh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Khordad",
+   "number": 988,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مسکنت» در جملهٔ زیر چیست؟\n«سزاوار نیست که انسان شرافت خود را با مذلت و مسکنت سودا کند.»",
+     "grading_key": "- [1] بیچارگی و تهیدستی",
+     "final_resolution": "بیچارگی و تهیدستی",
+     "notes": "",
+     "keywords": [
+      "مسکنت"
+     ],
+     "distractors": [
+      "فرمانروایی",
+      "توانگری",
+      "ایمنی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مسکنت» mean in this sentence?\n«سزاوار نیست که انسان شرافت خود را با مذلت و مسکنت سودا کند.»",
+     "grading_key": "- [1] Wretchedness, abject poverty",
+     "final_resolution": "Wretchedness, abject poverty",
+     "notes": "",
+     "keywords": [
+      "maskanat (wretched poverty)"
+     ],
+     "distractors": [
+      "Rule, power",
+      "Wealth",
+      "Safety"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «maskanat» dar jomle-ye zir chist?\n«سزاوار نیست که انسان شرافت خود را با مذلت و مسکنت سودا کند.»",
+     "grading_key": "- [1] Bicharegi va tahidasti",
+     "final_resolution": "Bicharegi va tahidasti",
+     "notes": "",
+     "keywords": [
+      "maskanat"
+     ],
+     "distractors": [
+      "Farmanravayi",
+      "Tavangari",
+      "Imeni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1400-Dey",
+   "number": 988,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «مواسات» در جملهٔ زیر چیست؟\n«در برخورد با محرومان، مهربانی و مواسات باید پایهٔ رفتار باشد.»",
+     "grading_key": "- [1] همدردی و یاری برادرانه",
+     "final_resolution": "همدردی و یاری برادرانه",
+     "notes": "",
+     "keywords": [
+      "مواسات"
+     ],
+     "distractors": [
+      "دشمنی و رها کردن",
+      "جریمه",
+      "دارایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «مواسات» mean in this sentence?\n«در برخورد با محرومان، مهربانی و مواسات باید پایهٔ رفتار باشد.»",
+     "grading_key": "- [1] Fellow feeling, sharing what one has",
+     "final_resolution": "Fellow feeling, sharing what one has",
+     "notes": "",
+     "keywords": [
+      "movasat (sharing, fellow feeling)"
+     ],
+     "distractors": [
+      "Hostility and abandonment",
+      "A fine",
+      "Property"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «movasat» dar jomle-ye zir chist?\n«در برخورد با محرومان، مهربانی و مواسات باید پایهٔ رفتار باشد.»",
+     "grading_key": "- [1] Hamdardi va yari-ye baradarane",
+     "final_resolution": "Hamdardi va yari-ye baradarane",
+     "notes": "",
+     "keywords": [
+      "movasat"
+     ],
+     "distractors": [
+      "Doshmani va raha kardan",
+      "Jarime",
+      "Darayi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Persian",
+   "session": "1401-Dey",
+   "number": 988,
+   "topic_tag": "vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "ادبیات فارسی ۳ (قلمرو زبانی: واژگان)",
+    "en": "Persian 3 (Vocabulary)",
+    "tr": "Adabiyat-e Farsi 3 (Vazhegan)",
+    "pages": "52–54"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و املای متن",
+     "question": "معنای «کورسو» در جملهٔ زیر چیست؟\n«کاروان خسته در آن بیابان تفته، در پی کورسویی از آبادی گام برمی‌داشت.»",
+     "grading_key": "- [1] روشنایی بسیار کم",
+     "final_resolution": "روشنایی بسیار کم",
+     "notes": "",
+     "keywords": [
+      "کورسو"
+     ],
+     "distractors": [
+      "تابش تند خورشید",
+      "خلأ",
+      "خط افقی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Spelling",
+     "question": "What does «کورسو» mean in this sentence?\n«کاروان خسته در آن بیابان تفته، در پی کورسویی از آبادی گام برمی‌داشت.»",
+     "grading_key": "- [1] A faint glimmer of light",
+     "final_resolution": "A faint glimmer of light",
+     "notes": "",
+     "keywords": [
+      "koorsoo (faint glimmer)"
+     ],
+     "distractors": [
+      "Blazing sunlight",
+      "A vacuum",
+      "A horizontal line"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Emla-ye Matn",
+     "question": "Mani-ye «koorsoo» dar jomle-ye zir chist?\n«کاروان خسته در آن بیابان تفته، در پی کورسویی از آبادی گام برمی‌داشت.»",
+     "grading_key": "- [1] Rowshanayi-ye besyar kam",
+     "final_resolution": "Rowshanayi-ye besyar kam",
+     "notes": "",
+     "keywords": [
+      "koorsoo"
+     ],
+     "distractors": [
+      "Tabesh-e tond-e khorshid",
+      "Khala'",
+      "Khatt-e ofoghi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 988,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "بیماری ام‌اس (MS) در زنان چگونه است، در مقایسه با مردان؟",
+     "grading_key": "- [1] در زنان شایع‌تر است",
+     "final_resolution": "در زنان شایع‌تر است",
+     "notes": "",
+     "keywords": [
+      "شیوع ام‌اس"
+     ],
+     "distractors": [
+      "در دو جنس یکسان است",
+      "در مردان شایع‌تر است",
+      "در زنان دیده نمی‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Compared with men, how common is multiple sclerosis (MS) in women?",
+     "grading_key": "- [1] It is more common in women",
+     "final_resolution": "It is more common in women",
+     "notes": "",
+     "keywords": [
+      "who gets MS"
+     ],
+     "distractors": [
+      "It is the same in both sexes",
+      "It is more common in men",
+      "It never occurs in women"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Bimari-ye em-es (MS) dar zanan chegoone ast, dar moghayese ba mardan?",
+     "grading_key": "- [1] Dar zanan sha'ye'-tar ast",
+     "final_resolution": "Dar zanan sha'ye'-tar ast",
+     "notes": "",
+     "keywords": [
+      "shoyoo'-e em-es"
+     ],
+     "distractors": [
+      "Dar do jens yeksan ast",
+      "Dar mardan sha'ye'-tar ast",
+      "Dar zanan dide nemishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Dey",
+   "number": 988,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "نخستین و مهم‌ترین گام در مدیریت پایدار زبالهٔ شهری، برای کم کردن زبالهٔ دفنی و رونق بازیافت، چیست؟",
+     "grading_key": "- [1] تفکیک زباله از مبدأ",
+     "final_resolution": "تفکیک زباله از مبدأ",
+     "notes": "",
+     "keywords": [
+      "تفکیک از مبدأ"
+     ],
+     "distractors": [
+      "سوزاندن",
+      "تصفیهٔ شیرابه",
+      "تولید زیست‌گاز"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What is the first and most important step in sustainable city waste management, to cut landfill and boost recycling?",
+     "grading_key": "- [1] Sorting rubbish at source",
+     "final_resolution": "Sorting rubbish at source",
+     "notes": "",
+     "keywords": [
+      "sorting at source"
+     ],
+     "distractors": [
+      "Burning it",
+      "Treating leachate",
+      "Making biogas"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Nokhostin va mohem-tarin gam dar modiriyat-e paydar-e zobale-ye shahri, baraye kam kardan-e zobale-ye dafni va rownagh-e baz-yaft, chist?",
+     "grading_key": "- [1] Tafkik-e zobale az mabda",
+     "final_resolution": "Tafkik-e zobale az mabda",
+     "notes": "",
+     "keywords": [
+      "tafkik az mabda"
+     ],
+     "distractors": [
+      "Soozandan",
+      "Tasfiye-ye shirabe",
+      "Tolid-e zist-gaz"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Khordad",
+   "number": 988,
+   "topic_tag": "lifestyle",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "سلامت و سبک زندگی",
+    "en": "Health and Lifestyle",
+    "tr": "Salamat va Sabk-e Zendegi",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سلامت و سبک زندگی",
+     "question": "کم‌خوابی مزمن و به هم خوردن چرخهٔ شبانه‌روزی در نوجوانان، در درازمدت کدام اختلال سوخت‌وسازی را در پی دارد؟",
+     "grading_key": "- [1] مقاومت به انسولین و خطر دیابت نوع ۲",
+     "final_resolution": "مقاومت به انسولین و خطر دیابت نوع ۲",
+     "notes": "",
+     "keywords": [
+      "کم‌خوابی و مقاومت به انسولین"
+     ],
+     "distractors": [
+      "افزایش هورمون تیروئید",
+      "پایین افتادن دمای بدن",
+      "کاهش تراکم استخوان"
+     ]
+    },
+    "en": {
+     "topic_label": "Health and Lifestyle",
+     "question": "In the long run, which metabolic problem follows chronic lack of sleep and a broken body clock in teenagers?",
+     "grading_key": "- [1] Insulin resistance and a higher risk of type 2 diabetes",
+     "final_resolution": "Insulin resistance and a higher risk of type 2 diabetes",
+     "notes": "",
+     "keywords": [
+      "sleep loss and insulin resistance"
+     ],
+     "distractors": [
+      "Too much thyroid hormone",
+      "A falling body temperature",
+      "Lower bone density"
+     ]
+    },
+    "tr": {
+     "topic_label": "Salamat va Sabk-e Zendegi",
+     "question": "Kam-khabi-ye mozmen va be ham khordan-e charkhe-ye shabane-roozi dar nowjavanan, dar deraz-moddat kodam ekhtelal-e sookht-o-sazi ra dar pey darad?",
+     "grading_key": "- [1] Moghavemat be ensulin va khatar-e diabet-e no'-e 2",
+     "final_resolution": "Moghavemat be ensulin va khatar-e diabet-e no'-e 2",
+     "notes": "",
+     "keywords": [
+      "kam-khabi va moghavemat be ensulin"
+     ],
+     "distractors": [
+      "Afzayesh-e hormon-e tiroeid",
+      "Payin oftadan-e dama-ye badan",
+      "Kahesh-e tarakom-e ostokhan"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1402-Dey",
+   "number": 988,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "برای جلوگیری از انباشت گاز رادون در زیرزمین خانه‌ها، مؤثرترین کار چیست؟",
+     "grading_key": "- [1] تهویهٔ مناسب و درزگیری کف ساختمان",
+     "final_resolution": "تهویهٔ مناسب و درزگیری کف ساختمان",
+     "notes": "",
+     "keywords": [
+      "پیشگیری از رادون"
+     ],
+     "distractors": [
+      "نصب دکل مخابراتی در نزدیکی",
+      "رنگ سرب‌دار زدن به وسایل",
+      "سم‌پاشی کلردار"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "What is the most effective way to stop radon gas building up in house basements?",
+     "grading_key": "- [1] Good ventilation and sealing cracks in the floor",
+     "final_resolution": "Good ventilation and sealing cracks in the floor",
+     "notes": "",
+     "keywords": [
+      "keeping radon out"
+     ],
+     "distractors": [
+      "Putting a phone mast nearby",
+      "Painting furniture with lead paint",
+      "Spraying chlorine"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Baraye jelogiri az anbasht-e gaz-e radon dar zirzamin-e khane-ha, mo'asser-tarin kar chist?",
+     "grading_key": "- [1] Tahviye-ye monaseb va darz-giri-ye kaf-e sakhteman",
+     "final_resolution": "Tahviye-ye monaseb va darz-giri-ye kaf-e sakhteman",
+     "notes": "",
+     "keywords": [
+      "pishgiri az radon"
+     ],
+     "distractors": [
+      "Nasb-e dakal-e mokhabarati dar nazdiki",
+      "Rang-e sorb-dar zadan be vasayel",
+      "Sam-pashi-ye kolordar"
+     ]
+    }
+   }
+  }
+ ]
+}
