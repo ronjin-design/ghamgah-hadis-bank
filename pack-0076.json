@@ -1,0 +1,703 @@
+{
+ "version": 76,
+ "format": 2,
+ "subjects": [
+  {
+   "key": "Mathematics",
+   "fa": "ریاضیات ۳",
+   "tr": "Riaziyat 3",
+   "sort_order": 6
+  },
+  {
+   "key": "Religion and Life",
+   "fa": "دین و زندگی ۳",
+   "tr": "Din va Zendegi 3",
+   "sort_order": 7
+  },
+  {
+   "key": "Arabic",
+   "fa": "عربی ۳",
+   "tr": "Arabi 3",
+   "sort_order": 8
+  },
+  {
+   "key": "Health and Hygiene",
+   "fa": "سلامت و بهداشت",
+   "tr": "Salamat va Behdasht",
+   "sort_order": 9
+  }
+ ],
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 969,
+   "topic_tag": "probability",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: احتمال (احتمال شرطی)",
+    "en": "Chapter 7: Probability (Conditional Probability)",
+    "tr": "Fasl 7: Ehtemal (Sharti)",
+    "pages": "138–140"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "احتمال",
+     "question": "احتمال شرطی ⁦P(A|B)⁩، یعنی احتمال ⁦A⁩ به شرط رخ دادن ⁦B⁩، برابر کدام است؟",
+     "grading_key": "- [1] ⁦P(A ∩ B) ÷ P(B)⁩",
+     "final_resolution": "⁦P(A ∩ B) ÷ P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "احتمال شرطی"
+     ],
+     "distractors": [
+      "⁦P(A ∩ B) ÷ P(A)⁩",
+      "⁦P(A) ÷ P(B)⁩",
+      "⁦P(A) × P(B)⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Probability",
+     "question": "What is the conditional probability P(A|B), the probability of A given that B has happened, equal to?",
+     "grading_key": "- [1] ⁦P(A ∩ B) ÷ P(B)⁩",
+     "final_resolution": "⁦P(A ∩ B) ÷ P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "conditional probability"
+     ],
+     "distractors": [
+      "⁦P(A ∩ B) ÷ P(A)⁩",
+      "⁦P(A) ÷ P(B)⁩",
+      "⁦P(A) × P(B)⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ehtemal",
+     "question": "Ehtemal-e sharti-ye P(A|B), yani ehtemal-e A be shart-e rokh dadan-e B, barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦P(A ∩ B) ÷ P(B)⁩",
+     "final_resolution": "⁦P(A ∩ B) ÷ P(B)⁩",
+     "notes": "",
+     "keywords": [
+      "ehtemal-e sharti"
+     ],
+     "distractors": [
+      "⁦P(A ∩ B) ÷ P(A)⁩",
+      "⁦P(A) ÷ P(B)⁩",
+      "⁦P(A) × P(B)⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 969,
+   "topic_tag": "trigonometry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: مثلثات (مجموع کمان‌ها)",
+    "en": "Chapter 2: Trigonometry (Sum of Angles)",
+    "tr": "Fasl 2: Mosallasat (Majmoo-e Kaman-ha)",
+    "pages": "36–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مثلثات",
+     "question": "⁦sin(α + β)⁩ برابر کدام است؟",
+     "grading_key": "- [1] ⁦sin α cos β + cos α sin β⁩",
+     "final_resolution": "⁦sin α cos β + cos α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "روابط مجموع کمان‌ها"
+     ],
+     "distractors": [
+      "⁦sin α sin β + cos α cos β⁩",
+      "⁦sin α cos β − cos α sin β⁩",
+      "⁦cos α cos β − sin α sin β⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Trigonometry",
+     "question": "What is sin(α + β) equal to?",
+     "grading_key": "- [1] ⁦sin α cos β + cos α sin β⁩",
+     "final_resolution": "⁦sin α cos β + cos α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "angle-sum identities"
+     ],
+     "distractors": [
+      "⁦sin α sin β + cos α cos β⁩",
+      "⁦sin α cos β − cos α sin β⁩",
+      "⁦cos α cos β − sin α sin β⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mosallasat",
+     "question": "sin(α + β) barabar-e kodam ast?",
+     "grading_key": "- [1] ⁦sin α cos β + cos α sin β⁩",
+     "final_resolution": "⁦sin α cos β + cos α sin β⁩",
+     "notes": "",
+     "keywords": [
+      "ravabet-e majmoo-e kaman-ha"
+     ],
+     "distractors": [
+      "⁦sin α sin β + cos α cos β⁩",
+      "⁦sin α cos β − cos α sin β⁩",
+      "⁦cos α cos β − sin α sin β⁩"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 969,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (آهنگ متوسط تغییر)",
+    "en": "Chapter 4: The Derivative (Average Rate of Change)",
+    "tr": "Fasl 4: Moshtagh (Ahang-e Motavasset)",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "نسبت تغییر تابع (⁦Δy⁩) به تغییر متغیر (⁦Δx⁩) روی یک بازهٔ مشخص ⁦[a, b]⁩، بدون حد گرفتن، کدام مفهوم است؟",
+     "grading_key": "- [1] Average rate of change",
+     "final_resolution": "Average rate of change",
+     "notes": "",
+     "keywords": [
+      "آهنگ متوسط تغییر"
+     ],
+     "distractors": [
+      "Instantaneous rate of change",
+      "Second derivative",
+      "Critical point"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The ratio of the change in the function (Δy) to the change in the variable (Δx) over a given interval [a, b], with no limit taken, is which concept?",
+     "grading_key": "- [1] Average rate of change",
+     "final_resolution": "Average rate of change",
+     "notes": "",
+     "keywords": [
+      "average rate of change"
+     ],
+     "distractors": [
+      "Instantaneous rate of change",
+      "Second derivative",
+      "Critical point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Nesbat-e taghyir-e tabe (Δy) be taghyir-e moteghayyer (Δx) rooye yek baze-ye moshakhkhas-e [a, b], bedoon-e had gereftan, kodam mafhoom ast?",
+     "grading_key": "- [1] Average rate of change",
+     "final_resolution": "Average rate of change",
+     "notes": "",
+     "keywords": [
+      "ahang-e motavasset-e taghyir"
+     ],
+     "distractors": [
+      "Instantaneous rate of change",
+      "Second derivative",
+      "Critical point"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 969,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد در بی‌نهایت (جملهٔ با بزرگ‌ترین توان)",
+    "en": "Chapter 3: Limits at Infinity (Highest-Degree Term)",
+    "tr": "Fasl 3: Had dar Binahayat",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد یک تابع چندجمله‌ای وقتی x به سمت بی‌نهایت میل می‌کند، با حد کدام جملهٔ آن برابر است؟",
+     "grading_key": "- [1] The term with the highest degree",
+     "final_resolution": "The term with the highest degree",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "The constant term",
+      "The term with the lowest non-zero degree",
+      "The sum of the coefficients"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "As x tends to infinity, the limit of a polynomial function equals the limit of which of its terms?",
+     "grading_key": "- [1] The term with the highest degree",
+     "final_resolution": "The term with the highest degree",
+     "notes": "",
+     "keywords": [
+      "limit at infinity"
+     ],
+     "distractors": [
+      "The constant term",
+      "The term with the lowest non-zero degree",
+      "The sum of the coefficients"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e yek tabe-e chand-jomle-i vaghti x be samt-e binahayat meyl mikonad, ba had-e kodam jomle-ye an barabar ast?",
+     "grading_key": "- [1] The term with the highest degree",
+     "final_resolution": "The term with the highest degree",
+     "notes": "",
+     "keywords": [
+      "had dar binahayat"
+     ],
+     "distractors": [
+      "The constant term",
+      "The term with the lowest non-zero degree",
+      "The sum of the coefficients"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 969,
+   "topic_tag": "free-will",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۵: قدرت پرواز (اختیار و تقدیر)",
+    "en": "Lesson 5: The Power to Fly (Free Will and Taqdir)",
+    "tr": "Dars 5: Ghodrat-e Parvaz (Ekhtiyar va Taghdir)",
+    "pages": "76–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "قدرت پرواز",
+     "question": "اینکه نظام علّی جهان چنان طراحی شده که انسان با ارادهٔ خود سرنوشتش را رقم بزند، دربارهٔ رابطهٔ اختیار و تقدیر چه نشان می‌دهد؟",
+     "grading_key": "- [1] اختیار انسان خود یک تقدیر الهی است",
+     "final_resolution": "اختیار انسان خود یک تقدیر الهی است",
+     "notes": "",
+     "keywords": [
+      "رابطهٔ اختیار و تقدیر"
+     ],
+     "distractors": [
+      "اختیار با تقدیر الهی کاملاً ناسازگار است",
+      "اختیار، انسان را از نظام علّت‌ها بیرون می‌برد",
+      "اختیار پنداری بی‌پایه است"
+     ]
+    },
+    "en": {
+     "topic_label": "The Power to Fly (Free Will)",
+     "question": "That the world's system of causes is built so people can shape their own destiny by their will shows what about free will and taqdir?",
+     "grading_key": "- [1] Free will is itself part of the divine measuring",
+     "final_resolution": "Free will is itself part of the divine measuring",
+     "notes": "",
+     "keywords": [
+      "free will and divine measuring"
+     ],
+     "distractors": [
+      "Free will fully contradicts the divine measuring",
+      "Free will lifts people out of the chain of causes",
+      "Free will is a baseless illusion"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ghodrat-e Parvaz",
+     "question": "Inke nezam-e elli-ye jahan chenan tarrahi shode ke ensan ba erade-ye khod sarneveshtash ra ragham bezanad, darbare-ye rabete-ye ekhtiyar va taghdir che neshan midahad?",
+     "grading_key": "- [1] Ekhtiyar-e ensan khod yek taghdir-e elahi ast",
+     "final_resolution": "Ekhtiyar-e ensan khod yek taghdir-e elahi ast",
+     "notes": "",
+     "keywords": [
+      "rabete-ye ekhtiyar va taghdir"
+     ],
+     "distractors": [
+      "Ekhtiyar ba taghdir-e elahi kamelan nasazgar ast",
+      "Ekhtiyar, ensan ra az nezam-e ellat-ha biroon mibarad",
+      "Ekhtiyar pendari bi-paye ast"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Khordad",
+   "number": 969,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "30–32"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَیَّامٍ» در عبارت زیر کدام است؟\n«هُوَ الَّذِی خَلَقَ السَّمَاوَاتِ وَ الْأَرْضَ فِی سِتَّةِ أَیَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ.»",
+     "grading_key": "- [1] روزها (دوره‌ها)",
+     "final_resolution": "روزها (دوره‌ها)",
+     "notes": "",
+     "keywords": [
+      "أَیَّامٍ"
+     ],
+     "distractors": [
+      "سال‌ها",
+      "ماه‌ها",
+      "سده‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَیَّامٍ» mean in this verse?\n«هُوَ الَّذِی خَلَقَ السَّمَاوَاتِ وَ الْأَرْضَ فِی سِتَّةِ أَیَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ.»",
+     "grading_key": "- [1] Days (periods)",
+     "final_resolution": "Days (periods)",
+     "notes": "",
+     "keywords": [
+      "ayyam (days)"
+     ],
+     "distractors": [
+      "Years",
+      "Months",
+      "Centuries"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «ayyamin» dar ebarat-e zir kodam ast?\n«هُوَ الَّذِی خَلَقَ السَّمَاوَاتِ وَ الْأَرْضَ فِی سِتَّةِ أَیَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ.»",
+     "grading_key": "- [1] Rooz-ha (dowre-ha)",
+     "final_resolution": "Rooz-ha (dowre-ha)",
+     "notes": "",
+     "keywords": [
+      "ayyamin"
+     ],
+     "distractors": [
+      "Sal-ha",
+      "Mah-ha",
+      "Sade-ha"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1400-Dey",
+   "number": 969,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «یَفْنَى» در عبارت زیر کدام است؟\n«الْعِلْمُ کَنْزٌ عَظِیمٌ لَا یَفْنَى.»",
+     "grading_key": "- [1] نابود می‌شود، پایان می‌یابد",
+     "final_resolution": "نابود می‌شود، پایان می‌یابد",
+     "notes": "",
+     "keywords": [
+      "یَفْنَى"
+     ],
+     "distractors": [
+      "افزون می‌شود",
+      "پنهان می‌شود",
+      "خرج می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «یَفْنَى» mean in this saying?\n«الْعِلْمُ کَنْزٌ عَظِیمٌ لَا یَفْنَى.»",
+     "grading_key": "- [1] Perishes, comes to an end",
+     "final_resolution": "Perishes, comes to an end",
+     "notes": "",
+     "keywords": [
+      "yafna (perishes)"
+     ],
+     "distractors": [
+      "Grows",
+      "Is hidden",
+      "Is spent"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «yafna» dar ebarat-e zir kodam ast?\n«الْعِلْمُ کَنْزٌ عَظِیمٌ لَا یَفْنَى.»",
+     "grading_key": "- [1] Nabood mishavad, payan miyabad",
+     "final_resolution": "Nabood mishavad, payan miyabad",
+     "notes": "",
+     "keywords": [
+      "yafna"
+     ],
+     "distractors": [
+      "Afzoon mishavad",
+      "Penhan mishavad",
+      "Kharj mishavad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1401-Dey",
+   "number": 969,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "42–44"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «الْخُسْرَانَ» در عبارت زیر کدام است؟\n«مَنْ زَرَعَ الْعُدْوَانَ حَصَدَ الْخُسْرَانَ.»",
+     "grading_key": "- [1] زیان",
+     "final_resolution": "زیان",
+     "notes": "",
+     "keywords": [
+      "الْخُسْرَانَ"
+     ],
+     "distractors": [
+      "سود",
+      "قدرت",
+      "پیروزی"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «الْخُسْرَانَ» mean in this saying?\n«مَنْ زَرَعَ الْعُدْوَانَ حَصَدَ الْخُسْرَانَ.»",
+     "grading_key": "- [1] Loss, ruin",
+     "final_resolution": "Loss, ruin",
+     "notes": "",
+     "keywords": [
+      "al-khusran (loss)"
+     ],
+     "distractors": [
+      "Profit",
+      "Power",
+      "Victory"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «al-khusran» dar ebarat-e zir kodam ast?\n«مَنْ زَرَعَ الْعُدْوَانَ حَصَدَ الْخُسْرَانَ.»",
+     "grading_key": "- [1] Ziyan",
+     "final_resolution": "Ziyan",
+     "notes": "",
+     "keywords": [
+      "al-khusran"
+     ],
+     "distractors": [
+      "Sood",
+      "Ghodrat",
+      "Piroozi"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Arabic",
+   "session": "1402-Khordad",
+   "number": 969,
+   "topic_tag": "arabic-vocabulary",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "عربی ۳ (واژگان و ترجمه)",
+    "en": "Arabic 3 (Vocabulary and Translation)",
+    "tr": "Arabi 3 (Vazhegan)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "واژگان و ترجمه",
+     "question": "معنای «أَعَانَ» در عبارت زیر کدام است؟\n«وَ أَعَانَهُ عَلَیْهِ قَوْمٌ آخَرُونَ.»",
+     "grading_key": "- [1] یاری کرد",
+     "final_resolution": "یاری کرد",
+     "notes": "",
+     "keywords": [
+      "أَعَانَ"
+     ],
+     "distractors": [
+      "آزار داد",
+      "دوری کرد",
+      "ستایش کرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Vocabulary and Translation",
+     "question": "What does «أَعَانَ» mean in this verse?\n«وَ أَعَانَهُ عَلَیْهِ قَوْمٌ آخَرُونَ.»",
+     "grading_key": "- [1] Helped",
+     "final_resolution": "Helped",
+     "notes": "",
+     "keywords": [
+      "a'ana (helped)"
+     ],
+     "distractors": [
+      "Harmed",
+      "Kept away from",
+      "Praised"
+     ]
+    },
+    "tr": {
+     "topic_label": "Vazhegan va Tarjome",
+     "question": "Mani-ye «a'ana» dar ebarat-e zir kodam ast?\n«وَ أَعَانَهُ عَلَیْهِ قَوْمٌ آخَرُونَ.»",
+     "grading_key": "- [1] Yari kard",
+     "final_resolution": "Yari kard",
+     "notes": "",
+     "keywords": [
+      "a'ana"
+     ],
+     "distractors": [
+      "Azar dad",
+      "Doori kard",
+      "Setayesh kard"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1401-Khordad",
+   "number": 969,
+   "topic_tag": "disease-prevention",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بیماری‌های واگیر و غیرواگیر",
+    "en": "Communicable and Non-communicable Diseases",
+    "tr": "Bimari-haye Vagir va Gheyr-e Vagir",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بیماری‌های واگیر و غیرواگیر",
+     "question": "دوری از دخانیات، کم کردن تماس با پرتو فرابنفش خورشید و خوردن میوه و سبزی بیشتر، از مهم‌ترین راه‌های پیشگیری از کدام بیماری است؟",
+     "grading_key": "- [1] سرطان",
+     "final_resolution": "سرطان",
+     "notes": "",
+     "keywords": [
+      "پیشگیری از سرطان"
+     ],
+     "distractors": [
+      "تالاسمی",
+      "دیابت نوع ۱",
+      "هموفیلی"
+     ]
+    },
+    "en": {
+     "topic_label": "Communicable and Non-communicable Diseases",
+     "question": "Avoiding tobacco, cutting exposure to the sun's ultraviolet rays and eating more fruit and vegetables are among the main ways to prevent which disease?",
+     "grading_key": "- [1] Cancer",
+     "final_resolution": "Cancer",
+     "notes": "",
+     "keywords": [
+      "cancer prevention"
+     ],
+     "distractors": [
+      "Thalassaemia",
+      "Type 1 diabetes",
+      "Haemophilia"
+     ]
+    },
+    "tr": {
+     "topic_label": "Bimari-haye Vagir va Gheyr-e Vagir",
+     "question": "Doori az dokhaniyat, kam kardan-e tamas ba parto-ye farabanafsh-e khorshid va khordan-e mive va sabzi-ye bishtar, az mohem-tarin rah-haye pishgiri az kodam bimari ast?",
+     "grading_key": "- [1] Saratan",
+     "final_resolution": "Saratan",
+     "notes": "",
+     "keywords": [
+      "pishgiri az saratan"
+     ],
+     "distractors": [
+      "Talasemi",
+      "Diabet-e no-e 1",
+      "Hemofili"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Health and Hygiene",
+   "session": "1400-Dey",
+   "number": 969,
+   "topic_tag": "environmental-health",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بهداشت محیط و کار",
+    "en": "Environmental and Workplace Health",
+    "tr": "Behdasht-e Mohit va Kar",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "بهداشت محیط و کار",
+     "question": "کدام نوع آلودگی آب، با بالا بردن دمای آب (مثلاً با پساب گرم نیروگاه‌ها) و کم کردن اکسیژن محلول، زیست‌بوم‌های آبی را نابود می‌کند؟",
+     "grading_key": "- [1] آلودگی حرارتی",
+     "final_resolution": "آلودگی حرارتی",
+     "notes": "",
+     "keywords": [
+      "آلودگی حرارتی آب"
+     ],
+     "distractors": [
+      "آلودگی با فلزات سنگین",
+      "آلودگی صوتی",
+      "آلودگی پرتوزا"
+     ]
+    },
+    "en": {
+     "topic_label": "Environmental and Workplace Health",
+     "question": "Which kind of water pollution destroys water ecosystems by raising the water temperature (for example with hot discharge from power stations) and lowering dissolved oxygen?",
+     "grading_key": "- [1] Thermal pollution",
+     "final_resolution": "Thermal pollution",
+     "notes": "",
+     "keywords": [
+      "thermal water pollution"
+     ],
+     "distractors": [
+      "Heavy-metal pollution",
+      "Noise pollution",
+      "Radioactive pollution"
+     ]
+    },
+    "tr": {
+     "topic_label": "Behdasht-e Mohit va Kar",
+     "question": "Kodam no' aloodegi-ye ab, ba bala bordan-e dama-ye ab (masalan ba pasab-e garm-e niroogah-ha) va kam kardan-e oksizhen-e mahlool, zist-boom-haye abi ra nabood mikonad?",
+     "grading_key": "- [1] Aloodegi-ye harareti",
+     "final_resolution": "Aloodegi-ye harareti",
+     "notes": "",
+     "keywords": [
+      "aloodegi-ye harareti-ye ab"
+     ],
+     "distractors": [
+      "Aloodegi ba felezat-e sangin",
+      "Aloodegi-ye sooti",
+      "Aloodegi-ye partoza"
+     ]
+    }
+   }
+  }
+ ]
+}
