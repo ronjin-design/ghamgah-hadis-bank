@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2027,
- "versionName": "3.9.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2027/Ghamgah-E-Hadis.apk",
+ "versionCode": 2028,
+ "versionName": "3.9.1",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2028/Ghamgah-E-Hadis.apk",
  "size": 41800326,
- "sha256": "0f792ea4dbcbd1f62f5035b8b23116c55086081296f5acf8b3d0f62c4e270eea",
+ "sha256": "3bcc3a67ef985f177a1e71e9703484c7ff3f51b8b36de1e264b37362257800c5",
  "notes": {
-  "fa": "ده درس: ریاضیات ۳، دین و زندگی ۳، عربی ۳، سلامت و بهداشت و هویت اجتماعی به صفحهٔ اصلی آمدند، همراه با دروازهٔ آزمون‌های جامع",
-  "en": "Ten subjects: Mathematics 3, Religion and Life 3, Arabic 3, Health and Hygiene and Social Identity join the home slider, plus the Mock Exams Gatekeeper",
-  "tr": "Dah dars: Riaziyat 3, Din va Zendegi 3, Arabi 3, Salamat va Behdasht, Hoviyat-e Ejtemai, va azmoon-haye jame"
+  "fa": "رفع خطای بارگذاری همهٔ پرسش‌ها، اکنون که بانک بیش از ۱۰۰۰ پرسش دارد",
+  "en": "Fixes a crash when loading all questions now that the bank has more than 1,000",
+  "tr": "Raf-e khata-ye bargozari-ye hame-ye porsesh-ha, aknoon ke bank bish az 1000 porsesh darad"
  }
 }
