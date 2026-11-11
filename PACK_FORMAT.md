@@ -75,6 +75,46 @@ SHA-256 checksums stay exact.
   - The reader also builds its Official Examiners' View from the official
     grading keys already in the bank, so it is never empty for a chapter
     with real questions.
+- **Format 4** (app 3.11.0+) adds structured **`lessons`**: a chapter taught
+  in ordered units, each with explanations, formulas, worked examples, exam
+  traps and the bank questions that practise it. A format 4 pack may hold
+  only lessons. Publish one only after the phone has the app that reads it:
+  an older app stops at it, and every pack after it waits too.
+
+  ```json
+  "lessons": [{
+    "subject": "Mathematics", "chapter": 1, "unit": 1, "key": "math-1-domain-range",
+    "title":   {"fa": "…", "en": "…", "tr": "…"},
+    "summary": {"fa": "…", "en": "…", "tr": "…"},
+    "blocks": [
+      {"type": "explain", "title": {…}, "body": {…}},
+      {"type": "formula", "math": "√g(x)  ⟹  g(x) ≥ 0", "caption": {…}},
+      {"type": "example", "title": {…},
+       "steps": [{"text": {…}, "math": "x(x − 2) ≥ 0"}, {"text": {…}}],
+       "answer": {…}},
+      {"type": "trap", "body": {…}}
+    ],
+    "questions": [{"session": "1401-Dey", "number": 977}]
+  }]
+  ```
+
+  - `chapter` and `unit` are 1 or more; units show in `unit` order. `key` is
+    unique in the pack, and a later pack with the same subject and `key`
+    replaces the whole unit.
+  - Every `{…}` is fa, en and tr, all non-empty. `summary`, a block's
+    `title`, a formula's `caption`, a step's `math` and an example's `answer`
+    are optional; everything else is required.
+  - Block types are `explain`, `formula`, `example` (at least one step) and
+    `trap`, at least one block per unit. Any other type rejects the pack.
+  - Math is plain Unicode in one shared string (`math`), shown left to right
+    in all three languages: `√`, `²`, `³`, `∘`, `≥`, `≠`, `ℝ`, `∈`, `⟹`.
+    Write inverses as `f^(−1)`: no superscript letters or signs. Inside
+    text, put math between backticks (`` `f(x) = 2x + 4` ``) so it reads left
+    to right inside a Persian sentence; backticks must pair up.
+  - `questions` names bank questions of the same subject by session and
+    number, in practice order (an empty list is allowed). The app skips one
+    it does not have yet. Explanations and examples are in our own words,
+    never copied textbook text, and examples never add new exam questions.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,

@@ -1,0 +1,220 @@
+========================================================================
+GHAMGAH-E-HADIS: COVERED TOPICS LEDGER (PACKS 1-100, CHECKED AGAINST THE LIVE BANK)
+========================================================================
+Generated 2026-11-06 straight from the published pack files (1131 questions).
+Pack 101 (2026-11-12) is the Mathematics 3 Chapter 1 lesson: no questions. THE NEXT
+QUESTION BLOCK IS PACK 102.
+Every item below is already in the bank. Do not ask it again in any form:
+not reworded, not inverted (asking for the opposite case), and not as a
+new example of the same rule.
+Science (Biology, Chemistry, Physics) and English are not listed here.
+
+BEFORE SENDING ANY ITEM, LOOK UP ITS CORRECT ANSWER IN THIS FILE. If the answer is
+already here, the item is a repeat, however new the stem looks. (Pack 81: all 4 Religion
+and all 4 Social Identity items failed this check.)
+
+AN ITEM IS A REPEAT IF ITS CORRECT ANSWER IS ALREADY AN ANSWER BELOW, even when the
+stem is worded differently (e.g. "power to fly" = free will; "restoring people's rights"
+= making good past wrongs; "stance on Western tools" = selective acceptance).
+An item is also a repeat if it is the OPPOSITE CASE of a listed item
+(f''>0 vs f''<0, benign vs malignant, inner vs outward action, deep vs outer layer).
+
+FULL, SEND NOTHING MORE ON: Social Identity lessons 6-8 (power, legitimacy, acceptance,
+crises, authority types, every political system); action types; Religion lessons 7 and 8
+(repentance, taqlid/ijtihad/istinbat/fatwa) and the Imamate spheres; vitamins and minerals;
+burn degrees; tobacco; ALL TRIG IDENTITIES (double-angle, sum/difference, tan forms);
+independence;
+sincerity (lesson 4); micro/macro levels; core beliefs as the layer whose
+change or collapse transforms/ends a social world; cancer (benign, malignant, metastasis).
+OPEN GROUND: any lesson or chapter of these books that has no line below, and new facts
+inside listed lessons whose answer is not already listed (e.g. Religion lesson 6 laws
+not named here, unused words from the Arabic lesson texts, Math chapter 6).
+------------------------------------------------------------------------
+
+1. MATHEMATICS 3 (137 questions)
+   Limits and asymptotes:
+   - Vertical asymptote x = c (infinite limit at c); horizontal asymptote y = L.
+   - Limits at infinity of rationals, worked examples: (2x-1)/(x+4)=2, (3x^3-2x+1)/(x^3+5)=3,
+     (5x^2-3)/(2x^2+x)=5/2, (x^2-4)/(2x^2+7)=1/2, (6x^2-x)/(3x^2+5)=2, (7x^3-5x)/(x^3+2)=7,
+     (3x-5)/(x^2+1)=0, (4x^2+5)/(2x^3-x)=0, (8x-2)/(2x+5)=4.
+   - lim 1/x (x -> +inf) = 0; lim x^3 (x -> -inf) = -inf; a polynomial's limit at infinity = its highest-degree term;
+     lim sin x / x = 1 (x -> 0); sin(3x)/(2x) -> 3/2 (other sin ax/bx, tan ax/x count as covered);
+     conjugate to clear 0/0 or inf - inf with square roots; sum/difference-of-cubes factor for cube roots;
+     (2x + |x|)/(3x - 1) -> 1/3 at -inf; right-hand limit of [x] at 2 = 2 (left-hand counts as covered);
+     (x^2 - 4)/(x - 2) -> 4 by factoring; root-over-linear limits at infinity are full;
+     (x - 8)/(cbrt x - 2) -> 12; (x - 4)/(sqrt x - 2) -> 4 (other (x - a^2)/(sqrt x - a) count as covered);
+     right-hand limit of (x - 3)/|x - 3| = 1 (left-hand counts as covered);
+     (1 - cos x)/x^2 -> 1/2; sqrt(x^2 + 4x) - x -> 2; worked root 0/0 examples are full;
+     right-hand limit of [x] sin x at 0 = 0; intermediate value theorem; squeeze theorem ([x]/x -> 1);
+     right-hand limit of [|x|] at -1 = 0; multiply by 1 + cos x to clear 0/0 with 1 - cos x; powers like tan^3(2x)/x^3 count as covered; [x] limits at other integers count as covered; 0 x inf: rewrite as 0/0 or inf/inf; |sin x|/x and other
+     absolute-value limits at infinity count as covered;
+     radical fractions at infinity: sqrt(4x^2+1)/(3x-2) -> 2/3 (+inf), sqrt(x^2+2)/(2x+1) -> -1/2 (-inf).
+   - Infinite limits: 1/x^2 at 0 = +inf; -2/x^3 at 0+ = -inf; 1/(x-2) at 2+ = +inf;
+     2/(x-4) at 4- = -inf; -3/(x-5) at 5+ = -inf; -1/(x-3)^2 at 3 = -inf.
+   Derivatives:
+   - Definition (limit of dy/dx); average rate of change (no limit); acceleration = derivative of velocity; a(t) of t^3 - 3t^2 + 2 is 6t - 6; derivative of |x| at a negative point = -1; cube root has no derivative at 0 (vertical tangent); cusp (one-sided derivatives +inf and -inf); differentiable on (a, b) = at every point; derivative = slope of the tangent line.
+   - x^5, constant c, sqrt(x), 1/x, x*sqrt(x), x*sin x, sin x, cos x, sqrt(2x+1), sqrt(3x+1).
+   Functions:
+   - Domain of an even-index radical: the radicand >= 0 (1/sqrt(x) needing x > 0 counts as covered);
+     domain of a rational function: remove the roots of the denominator;
+     domain of f o g: x in the domain of g and g(x) in the domain of f (g o f counts as covered);
+     period of a periodic function; period of sin(bx) = 2pi/|b|; step function;
+     (f^-1 o f)(x) = x; two functions are equal when domains match and f(x) = g(x); sign function;
+     restrict x^2 to a strictly monotonic interval to invert it; both non-decreasing and
+     non-increasing = constant; range of 3sin x + 2 = [-1, 5] (other a sin/cos + b ranges
+     count as covered); inverse of 2x + 4 = (x - 4)/2; increasing o decreasing = decreasing
+     (other monotonic compositions count as covered); domain of sqrt(x/(x - 2)) = (-inf, 0] U (2, +inf); range of 1/x = R - {0}; increasing - decreasing = increasing; even/odd needs a domain symmetric about 0; inverses of simple
+     functions (2x + 4, cbrt x) count as covered;
+     max/min of a sin x + b, sin(u)/u limits, x/tan(ax), and x^(p/q) derivatives count as covered.
+     MATH NOTE: most remaining items are the same shapes with new numbers; please send new CONCEPTS.
+     "monotonic" and "strictly monotonic" = covered by the increasing/decreasing items;
+   - One-to-one (horizontal line test); f o g and g o f examples; even function symmetric
+     about the y-axis; odd function symmetric about the origin.
+   - Strictly increasing, strictly decreasing, increasing (non-decreasing), decreasing
+     (non-increasing); f'(x) < 0 means strictly decreasing.
+   Applications of the derivative:
+   - Critical points; first-derivative test (+ to - = relative max); second-derivative test
+     (f'(c)=0, f''(c)<0 = relative max; the f''>0 = minimum case counts as covered); absolute max on [a,b] at a critical point or an
+     endpoint; optimization (definition and word problems, saturated); f''>0 = concave up; inflection point;
+     mean value theorem f'(c) = (f(b)-f(a))/(b-a); a vertical tangent counts as a critical point.
+   Trigonometry:
+   - sin x = 0 -> x = k*pi; cos x = 1 -> x = 2k*pi; tan x = 0 -> x = k*pi; 2 sin x cos x = sin 2x; 1 - 2sin^2 x = cos 2x. Double-angle identities are saturated (no tan 2x);
+     sin(a + b) = sin a cos b + cos a sin b; cos(a - b) = cos a cos b + sin a sin b;
+     tan(a + b) = (tan a + tan b)/(1 - tan a tan b); 2tan x/(1 + tan^2 x) = sin 2x.
+     Every tan-form of these (tan(a - b), (1 - tan^2)/(1 + tan^2), tan x = m) counts as covered.
+   Conic sections:
+   - Circle (definition); x^2 + y^2 = R^2; (x-h)^2 + (y-k)^2 = R^2; ellipse (sum of distances
+     to the foci); ellipse major axis; parabola (focus and directrix);
+     parabola axis of symmetry; hyperbola (difference of distances); general equation
+     x^2+y^2+ax+by+c=0: centre (-a/2,-b/2) and real circle when a^2+b^2-4c>0 (= 0 point, < 0 none: covered);
+     hyperbola asymptotes; ellipse eccentricity (c/a; hyperbola eccentricity counts as covered);
+     parabola latus rectum; minor axis counts as covered (opposite of major axis);
+     line tangent to a circle when d = R (d < R and d > R count as covered);
+     parabola with axis parallel to x opens left/right;
+     hyperbola c^2 = a^2 + b^2; ellipse a^2 = b^2 + c^2 (so 2b = 2*sqrt(a^2 - c^2) is covered);
+     vertical parabola (x - h)^2 = 4p(y - k), its focus (h, k + p) and directrix y = k - p;
+     the horizontal form (y - k)^2 = 4p(x - h), its focus and directrix count as covered.
+   - Same-shape trig equations are saturated: no more "general solution of [trig] x = [value]".
+   Probability:
+   - Law of total probability; independent events (definition); P(A n B) = P(A) x P(B);
+     P(A|B) = P(A) for independent events. Independence is saturated.
+     Complement rule P(A') = 1 - P(A); conditional probability P(A|B) = P(A n B) / P(B);
+     Bernoulli trial (two outcomes, fixed probabilities); random variable (definition);
+     probabilities in a distribution add up to 1; binomial formula C(n,k) p^k (1-p)^(n-k);
+     expected value; variance; Bernoulli variance pq; standard deviation = sqrt(variance).
+
+2. RELIGION AND LIFE 3 (55 questions)
+   - Lesson 1: creation's essential poverty; building-and-builder (need only in coming to be);
+     lamp-and-electricity (lasting need); all beings need God but humans can become aware of it.
+   - Lesson 2: monotheism in creation, lordship, ownership, attributes (attributes one with essence); oneness of the essence as the base (shirk in the essence counts as covered);
+     lordship follows from creation (the two cannot be separated);
+     God needing no helper in His acts = creation/lordship (covered).
+   - Lesson 3: practical monotheism (worship); practical polytheism; theoretical polytheism;
+     fruit of practical monotheism = peace of mind and a whole personality.
+   - Lesson 4: sincerity (ikhlas) definition; fruits of sincerity (beyond the Devil's reach, wisdom).
+   - Lesson 5: free will as the "power to fly"; divine measuring (taqdir); divine decree (qada); free will is itself a divine taqdir;
+     human will is the last link in the chain of causes. Lesson 5 is nearly full.
+   - Lesson 6 (divine laws): trial (ebtela); gradual entrapment (estedraj); respite (imla);
+     universal help (emdad-e am); divine success (towfiq).
+   - Lesson 7: repentance definition; first step = regret; condition of acceptance = reforming
+     oneself and making good past wrongs; natural effects of sin; self-reproaching soul
+     (nafs-e lawwama); fruit of repentance = divine forgiveness (maghfirat).
+   - Lesson 8: divine laws cover every part of life; following them keeps dignity and freedom;
+     taqlid; why the jurist must be most learned and just; ijtihad keeps jurisprudence alive; fatwa.
+   - Lesson 10: greatest shortcoming of Western civilization (neglect of the spiritual);
+     youth's task = build a new Islamic civilization; first step = religious understanding plus
+     scientific strength; selective acceptance of Western achievements.
+   - Other (from earlier books / general): argument from justice for the hereafter; barzakh;
+     Prophet's first mission sphere = receiving and conveying revelation; aim of the Medina
+     government (justice and divine laws); infallible Imams as religious authority; Imamate's
+     outward guardianship (government) and inner (spiritual) guardianship; vali-ye faqih in the
+     occultation; chastity (efaf); self-respect (ezzat-e nafs); aim of family («لِتَسْکُنُوا إِلَیْهَا»);
+     built-in (takvini) guidance, e.g. the bee; the world has a purpose.
+
+3. ARABIC 3 (158 questions)
+   Grammar, saturated (send no more):
+   - إنّ and sisters: إنّ = emphasis; noun accusative / predicate nominative; accusative noun in
+     «إنَّ الْعِلْمَ نُورٌ»; attached pronoun as noun of إنّ (إنَّکَ); لٰکِنَّ = rectification;
+     لَعَلَّ = hope; لَیْتَ = wishing; أَنَّ = "that".
+   - لا of absolute negation: identifying it («لا اِکْراهَ»); noun takes fatha without tanwin
+     («لا خَیرَ»); noun indefinite, no ال or tanwin («لا صَبرَ»); predicate nominative, sometimes
+     omitted; role of «لِبَاسَ» in «لا لِبَاسَ أَجْمَلُ...».
+   - Augmented verb forms: عَلَّمَ = taf'il; یُجاهِدُ = mufa'ala; اِسْتَغْفِرْ = istif'al;
+     تَعاوَنَ / participation = tafa'ul;
+     اِنْکَسَرَ = infi'al; یَجْتَمِعُ = ifti'al. Which-bab drills are saturated.
+   Vocabulary already asked:
+   العَفو، نَفَعَ، عَداوَة، جالِس، التَّوَدُّد، الحَطَب، عِباد، الإحسان، فَرِیضَة، أَمَل، أهدى، سَلَکَ،
+   القَناعَة، زَرَعَ، اِسْتَصْبِحُوا، تَستَضیءُ، یَتَأَلَّفُ، تَجْذِبُ، الشُّهُب، السَّیّارات، أَقْوَى، تَبْعُدُ،
+   نَاتِج، یَسْتَمِدُّ، مَدَارَات، الْمُشْتَرِی، امْرَأً، بِئْر، الْمَدّ وَ الْجَزْر، شَرَف، عِزّ، أَیَّام، یَفْنَى، الْخُسْرَان، أَعَانَ، سِرَاج، لَا یَغْتَبْ، طُوبَى، الْأَحْمَق، رَوَاسِی، وَعَظَتْهُ، الْمِحَن، وَخِیمَة، تَمَّ، ضِیَاء، الْحِلْم، یَضُرّ، التَّجَارِب، شَغَلَ، وَهَّاج، یَبْخَل، لَا یَنْفَد، عَجَل، تَعِشْ، الْهَوَى، وَرَاءَ، الْغِنَى، الْغُرْبَة، مَزْرَعَة، سَقَط، الْجَهْل، نَفْسَهُ، لَا تَبْخَسُوا، لَا تَعْثَوْا (verse 11:85 used up)،
+   لِبَاس، شِدَاد، الْمُعْصِرَات، ثَجَّاج، حَبّ، مَعَاش، أَلْفَاف، مِیقَات، أَفْوَاج، فُتِحَتْ، سُیِّرَتْ، مِرْصَاد، مَآب، أَحْقَاب، لَا یَذُوقُونَ، حَمِیم، غَسَّاق، وِفَاق، لَا یَرْجُونَ، کِذَّاب، أَحْصَیْنَاهُ، مَفَاز، حَدَائِق، أَتْرَاب، دِهَاق، لَغْو، خِطَاب، صَفّ، شَاءَ، تُرَاب (SURAH NABA IS USED UP: 78:10-40).
+   غَرْق، نَشْط، تَرْجُفُ، وَاجِفَة، نَخِرَة، السَّاهِرَة، الطَّامَّة، سَعَى، بُرِّزَتْ، طَغَى، آثَرَ، الْمَأْوَى، نَهَى، أَیَّانَ (Nazi'at 79:1-42); صَبَبْنَا، شَقَقْنَا، قَضْب، غُلْب، أَبّ، الصَّاخَّة،
+   صُحُف، سَفَرَة، شَأْن، یُغْنِیهِ، مُسْتَبْشِرَة، یَفِرُّ، مُسْفِرَة، غَبَرَة، تَرْهَقُ، قَتَرَة (Abasa 80:13-41; 80:37 and 80:41 used up).
+   کُوِّرَتْ، انْکَدَرَتْ (Takwir 81:1-2); انْفَطَرَتْ، انْتَثَرَتْ، غَرَّکَ (Infitar 82:1-6);
+   وَیْل، الْمُطَفِّفِین، یَسْتَوْفُونَ، یُخْسِرُونَ، مَبْعُوثُونَ، یَقُومُ، الْفُجَّار، سِجِّین، مَرْقُوم، الْمُکَذِّبِین
+   (Mutaffifin 83:1-10; 83:1 and 83:7 used up).
+   AT MOST TWO WORDS PER SAYING. These sayings are used up (two words each), send no more
+   words from them: «خُذِ الْقَنَاعَةَ...»، «الْهَوَى أُسُّ الْمِحَنِ»، «الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ»،
+   «إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ...»، «طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ...». «الْمَرْء» = «امْرَأً» (covered).
+   Also used up: «الْغِنَى فِی الْغُرْبَةِ وَطَنٌ...» (two words).
+   More untraceable lines: «رَحِمَ اللهُ مَنِ اعْتَدَلَ قَدْرُهُ...»، «مَنْ عَادَى النَّاسَ، حُرِمَ السَّلَامَةَ»، «الْحَقُّ سَیْفٌ عَلَى أَهْلِ الْبَاطِلِ»، «الْعَدَاوَةُ تَمْحُو الْحَسَنَاتِ...»،
+   «مَنْ زَرَعَ الْإِحْسَانَ حَصَدَ الْغِبْطَةَ»، «کَمْ مِنْ صَبِیٍّ أَصْبَحَ شَیْخاً...».
+   Do not rework a known saying by swapping words («الحسد یأکل الحسنات» -> «العداوة تمحو...»).
+   Untraceable lines, never resend: «رَحِمَ اللَّهُ امْرَأً دَفَعَ الشَّهْوَةَ...»، «رَحِمَ اللَّهُ امْرَأً أَعَانَ...»،
+   «مَنْ غَرَسَ شَجَرَ الْعِلْمِ...»، «عِزُّ الْمَرْءِ طَاعَتُهُ...»، «الْمُؤْمِنُ قَلِیلُ الْکَلَامِ...»،
+   «الْعَاقِلُ لَا یَکْذِبُ وَ لَا یَبْخَلُ...»، «إِیَّاکَ وَ الْعَجَلَةَ فَإِنَّهَا أُمُّ النَّدَامَةِ».
+
+4. SOCIAL IDENTITY (48 questions)
+   - Social phenomena are external and objective (independent of one person's will);
+   - Social action (meaningful, takes others into account); involuntary consequences of action; goal of an action;
+     natural things enter the social world through human awareness and action; social institution; social world;
+     social norms; core beliefs and values as the deepest layer (and its inverse: symbols/norms as the
+     outer layer, do not ask); inner individual action (thinking; action-type classification is saturated); institutions at the macro level; social worlds told apart by
+     core beliefs and values; cultural resilience.
+   - Cultural worlds: spiritual (monotheistic), and its aim (eternal happiness); secular; modern West built on secularism and humanism;
+     secular world brings a crisis of meaning and identity;
+     false (batil) social world (the true/monotheistic one is covered by the spiritual world); mythological; imperial social world (empire);
+     cultural alienation.
+   - Power: social power; persuasion and awareness as the most lasting means; unwilling obedience
+     (by compulsion); naked force; passive (negative) resistance.
+   - Legitimacy grid, saturated (send no more): authority; acceptance; legitimate government;
+     God as first source of legitimacy; legitimacy crisis; acceptance crisis; legitimate but
+     without acceptance; loss of both = complete collapse.
+   - Authority types, saturated: traditional, charismatic, rational-legal.
+   - Political systems: political system (definition); secular (liberal); liberal democracy;
+     religious political systems; religious democracy; totalitarian; racist (apartheid);
+     theocracy (religious despotism); capitalist; socialist.
+
+5. HEALTH AND HYGIENE (121 questions)
+   - Nutrition: unsaturated fatty acids; vitamin D / rickets; vitamin C / scurvy; iron / anaemia;
+     iodine / goitre; fluoride / enamel; fats give the most energy (9 kcal/g; carbs/protein per gram count as covered); dietary fibre; 6-8 glasses of water a day; negative energy balance -> weight loss (positive balance counts as covered); at most 5 g of salt a day; vitamin K / clotting; vitamin A / night blindness. Vitamin and mineral deficiencies are saturated.
+   - Tobacco: carbon monoxide; nicotine as addiction cause; nicotine raising heart rate and
+     blood pressure; tar; formaldehyde. Tobacco is saturated.
+     Alcohol depresses the nervous system and raises accident risk; liver cirrhosis; fatty liver. ALCOHOL IS FULL.
+   - Disease: diabetes; fasting blood sugar (FBS) to screen for it; exercise and weight control prevent type 2; the three signs (eating, thirst, urine); diabetic kidney disease; atherosclerosis; high blood pressure ("silent killer"); hypertensive retinopathy; heart attack;
+     stroke (its warning signs count as covered); osteoporosis; cancer = uncontrolled cell division; benign tumours (malignant counts as covered); cancer prevention; metastasis; sedentary lifestyle; cortisol and long-term stress; melatonin and the sleep cycle; multiple sclerosis (more common in women; MS is full); asthma (allergens trigger it; ASTHMA IS FULL); lack of sleep -> insulin resistance; lack of sleep (tiredness, poor focus, weak immunity);
+     less salt prevents high blood pressure; 30 minutes of moderate exercise a day for the heart; maximum heart rate (220 - age; worked ages count as covered); target zone 50-70% (other zones count as covered).
+   - Immunity and spread: vaccination (active); serum (passive); vectors (Anopheles, lice; "biological vector" counts as covered); droplet transmission (coughing, sneezing); disinfection of objects; mechanical vector (housefly); indirect transmission through contaminated food and water; blood-borne (shared needles); hepatitis B; incubation period; convalescence; convalescent carrier (disease stages are full);
+     reservoir.
+   - First aid: CPR 30:2; compression depth 5-6 cm; compression rate 100-120 a minute; check breathing for at most 10 seconds; hands on the lower half of the breastbone (CPR is full);
+     direct pressure for heavy bleeding; heatstroke; shock (keep warm, raise legs, hospital); pressure bandage and raising the limb;
+     checking responsiveness (tap shoulders, call out); carotid pulse; tourniquet as
+     the last resort for bleeding. FIRST AID IS FULL. Heimlich manoeuvre; cooling a burn under running water; second-degree burn (blisters); splinting a fracture (cover the joint above and below); scene safety comes first.
+   - Environment and work: decibel; ergonomics; lead poisoning; sulfur dioxide and acid rain; thermal water pollution; microbial pollution from sewage; soil pollution from chemical fertilisers and pesticides;
+     screening as the first step of water treatment; chlorination = disinfection (covered); activated carbon for smell and taste; noise pollution and its effects; aeration in sewage treatment; cadmium; mercury (Minamata covered); radon; nitrogen oxides and acid rain (covered with SO2); plastic pollution; PCBs; landfill leachate; DDT; CO2 and the greenhouse effect; sedimentation; hertz (sound frequency);
+     radioactive waste burial; radio waves/microwaves (non-ionising); eutrophication; beryllium; landfill gas; nitrates and blue baby syndrome; activated sludge (covered); sorting waste at source;
+     keeping radon out (ventilation, sealing floors); cadmium from fertiliser (covered);
+     chromium (tanneries); dioxins from burning plastic; coagulation and flocculation;
+     arsenic; HCl from burning PVC; grit removal; UV index; nickel. TOXIC METALS ARE FULL. Soil erosion; desertification; biodegradable plastics. Lead near roads (covered). WATER/SEWAGE TREATMENT STEPS ARE FULL.
+   - Marriage: pre-marriage CBC and haemoglobin electrophoresis (thalassaemia).
+
+6. PERSIAN LITERATURE 3 (96 questions)
+   - Word meanings: فراست، بحر، صهبا، بنهفته، چهر، ابنیه، سطوت، نیلگون، صولت، طمأنینه، اقلیم، تعب، طلیعه، خذلان، غدر، طوع، متنبه، صلابت، مفاسد، ثمن بخس، زوال، نغز، بهجت، تفته، رأفت، نزهت، مناعت، ودیعه، تجانس، ابهت، تمنا، سماجت، عطوفت، مملو، سموم، مستغنی، الفت، پهنه، مذلت، مستور (and مستوران)، جذبه، زخارف، زبونی، مسکنت، مواسات، کورسو، تضرع، کدورت، خلسه، تهور، مفاخرت، عجز، ملاطفت، مودت، وقار، انس، خلل، بدوی، ضلالت، مأمن. «ابتهاج» = «بهجت» (covered).
+   «صریر» means a creaking/scratching sound (not "roaring"); the سریر/صریر pair is used. «تنبه» = «متنبه» (covered).
+   - Spelling: غُل و زنجیر، افشانده، برکه، سیاحان، اثاثیه، اعجاب، استدعا، حلبی، ولع، استحقاق، فنادق، سریر، تلألؤ، آبزن، سلاطین، مستوفیان، حفره، وحلت، مأموران.
+   - Devices: جناس تام; مراعات نظیر (گریبان، پیراهن); حسن تعلیل; تلمیح; مناظره (مست و هشیار); کنایه (definition); اغراق (hyperbole); واج‌آرایی (alliteration); تشبیه (simile); موازنه (balance); جناس ناهمسان (partial pun); سجع (rhymed prose); کنایهٔ «پای در دامن کشیدن» (withdrawing); ترصیع (jewelled balance); اسلوب معادله (poetic equation).
+   - Device questions need a REAL, traceable couplet (made-up «شمع و پروانه», «تیر و کمان» and
+     «گل و بلبل», a fake "Sana'i" and a fake "Gorgani" couplet were refused).
+     PLEASE STOP SENDING مراعات نظیر COUPLETS; five in a row were made up. Send مراعات نظیر only with a real couplet and its poet.
+   - Shared meaning (gharabat): «میازار موری که دانه‌کش است» (not harming an ant);
+     Farrokhi Yazdi's couplet on giving one's life for freedom and the homeland.
+========================================================================
