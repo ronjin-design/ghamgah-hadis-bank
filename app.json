@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2029,
- "versionName": "3.10.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2029/Ghamgah-E-Hadis.apk",
- "size": 41816754,
- "sha256": "cd500910de6114d9393286ec964c74d4921c4b5f1174903f85a07e6f954e572c",
+ "versionCode": 2030,
+ "versionName": "3.11.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2030/Ghamgah-E-Hadis.apk",
+ "size": 41964546,
+ "sha256": "75bb06bea611c36abf9db902abc4ce78667fe7fc698f5f7b5751afa457962bf4",
  "notes": {
-  "fa": "درس‌ها اکنون فصل به فصل باز می‌شوند: کارت هر فصل پرسش‌ها، آنچه مسلط شده‌ای و جایی که هستی را نشان می‌دهد. برگه‌های سال‌های گذشته به پیوندی در پایین صفحه رفتند و هر پرسش فصلش را نشان می‌دهد.",
-  "en": "Subjects now open chapter by chapter: each chapter card shows its questions, what you have mastered and where you are. Past papers by year moved to a link at the bottom, and each question shows its chapter.",
-  "tr": "Dars-ha aknoon fasl be fasl baz mishavand: kart-e har fasl porsesh-ha, anche mosallat shode-i va jayi ke hasti ra neshan midahad. Barge-haye sal-haye gozashte be peyvandi dar payin-e safhe raftand va har porsesh faslash ra neshan midahad."
+  "fa": "درس‌نامهٔ فصل‌ها: یک فصل را باز کن و بخش به بخش یاد بگیر، با توضیح، فرمول، مثال حل‌شده و دام‌های امتحانی، و بعد پرسش‌های هر بخش را تمرین کن. نخستین درس‌نامه، فصل ۱ ریاضی، با بستهٔ بعدی می‌رسد.",
+  "en": "Chapter lessons: open a chapter and learn it unit by unit, with explanations, formulas, worked examples and exam traps, then practise each unit's questions. The first lesson, Mathematics Chapter 1, arrives in the next pack.",
+  "tr": "Darsname-ye fasl-ha: yek fasl ra baz kon va bakhsh be bakhsh yad begir, ba tozih, formool, mesal-e hal-shode va dam-haye emtehani, va ba'd porsesh-haye har bakhsh ra tamrin kon. Nakhostin darsname, fasl-e 1 riazi, ba baste-ye badi miresad."
  }
 }
