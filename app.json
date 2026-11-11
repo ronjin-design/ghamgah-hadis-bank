@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2028,
- "versionName": "3.9.1",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2028/Ghamgah-E-Hadis.apk",
- "size": 41800326,
- "sha256": "3bcc3a67ef985f177a1e71e9703484c7ff3f51b8b36de1e264b37362257800c5",
+ "versionCode": 2029,
+ "versionName": "3.10.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2029/Ghamgah-E-Hadis.apk",
+ "size": 41816754,
+ "sha256": "cd500910de6114d9393286ec964c74d4921c4b5f1174903f85a07e6f954e572c",
  "notes": {
-  "fa": "رفع خطای بارگذاری همهٔ پرسش‌ها، اکنون که بانک بیش از ۱۰۰۰ پرسش دارد",
-  "en": "Fixes a crash when loading all questions now that the bank has more than 1,000",
-  "tr": "Raf-e khata-ye bargozari-ye hame-ye porsesh-ha, aknoon ke bank bish az 1000 porsesh darad"
+  "fa": "درس‌ها اکنون فصل به فصل باز می‌شوند: کارت هر فصل پرسش‌ها، آنچه مسلط شده‌ای و جایی که هستی را نشان می‌دهد. برگه‌های سال‌های گذشته به پیوندی در پایین صفحه رفتند و هر پرسش فصلش را نشان می‌دهد.",
+  "en": "Subjects now open chapter by chapter: each chapter card shows its questions, what you have mastered and where you are. Past papers by year moved to a link at the bottom, and each question shows its chapter.",
+  "tr": "Dars-ha aknoon fasl be fasl baz mishavand: kart-e har fasl porsesh-ha, anche mosallat shode-i va jayi ke hasti ra neshan midahad. Barge-haye sal-haye gozashte be peyvandi dar payin-e safhe raftand va har porsesh faslash ra neshan midahad."
  }
 }
