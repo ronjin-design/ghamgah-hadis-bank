@@ -1,0 +1,1118 @@
+{
+ "version": 106,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 4,
+   "unit": 1,
+   "key": "math-4-rate-tangent",
+   "title": {
+    "fa": "آهنگ تغییر و شیب خط مماس",
+    "en": "Rate of change and the slope of the tangent",
+    "tr": "Ahang-e taghyir va shib-e khat-e momas"
+   },
+   "summary": {
+    "fa": "از سرعت متوسط یک سفر تا عددی که سرعت‌سنج نشان می‌دهد.",
+    "en": "From the average speed of a trip to the number on the speedometer.",
+    "tr": "Az sor'at-e motavaset-e yek safar ta adadi ke sor'at-sanj neshan midahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سرعت‌سنج",
+      "en": "Understand first: the speedometer",
+      "tr": "Avval befahm: sor'at-sanj"
+     },
+     "body": {
+      "fa": "اگر ۱۵۰ کیلومتر را در ۲ ساعت بروی، سرعت متوسطت ۷۵ کیلومتر بر ساعت است. ولی سرعت‌سنج ماشین در هر لحظه عدد دیگری نشان می‌دهد: سرعت «همین حالا». چطور سرعت همین لحظه را حساب کنیم؟ بازهٔ زمانی را کوچک و کوچک‌تر کن: سرعت متوسط در یک دقیقه، در یک ثانیه، در یک‌هزارم ثانیه... عددی که به آن نزدیک می‌شوی، سرعت لحظه‌ای است. مشتق همین است: آهنگ تغییر در یک لحظه.",
+      "en": "If you drive 150 km in 2 hours, your average speed is 75 km/h. But the speedometer shows a different number at every moment: the speed \"right now\". How do we work out the speed at one instant? Shrink the time window: the average speed over a minute, over a second, over a thousandth of a second... The number you close in on is the instantaneous speed. That is what a derivative is: the rate of change at one instant.",
+      "tr": "Agar 150 kilometr ra dar 2 sa'at beravi, sor'at-e motavasetat 75 kilometr bar sa'at ast. Vali sor'at-sanj-e mashin dar har lahze adad-e digari neshan midahad: sor'at-e \"hamin hala\". Chetor sor'at-e hamin lahze ra hesab konim? Baze-ye zamani ra koochak va koochak-tar kon: sor'at-e motavaset dar yek daghighe, dar yek sanie, dar yek-hezarom sanie... Adadi ke be an nazdik mishavi, sor'at-e lahze-i ast. Moshtagh hamin ast: ahang-e taghyir dar yek lahze."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "متوسط و لحظه‌ای",
+      "en": "Average and instantaneous",
+      "tr": "Motavaset va lahze-i"
+     },
+     "body": {
+      "fa": "نسبت تغییر تابع به تغییر متغیر روی یک بازه، بدون گرفتن حد، «آهنگ متوسط تغییر» است (آزمون دی ۱۴۰۱). اگر همین نسبت را بگیری و بازه را با حد به صفر برسانی، «مشتق» به دست می‌آید (آزمون دی ۱۴۰۰).",
+      "en": "The ratio of the change in the function to the change in the variable over an interval, with no limit taken, is the \"average rate of change\" (Dey 1401 paper). Take that same ratio and shrink the interval to zero with a limit, and you get the \"derivative\" (Dey 1400 paper).",
+      "tr": "Nesbat-e taghyir-e tabe' be taghyir-e moteghayyer rooye yek baze, bedoon-e gereftan-e had, \"ahang-e motavaset-e taghyir\" ast (azmoon-e Dey 1401). Agar hamin nesbat ra begiri va baze ra ba had be sefr beresani, \"moshtagh\" be dast miayad (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f(b) − f(a)) / (b − a)",
+     "caption": {
+      "fa": "آهنگ متوسط تغییر روی `[a, b]`",
+      "en": "The average rate of change on `[a, b]`",
+      "tr": "Ahang-e motavaset-e taghyir rooye `[a, b]`"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(a) = lim (h → 0)  (f(a + h) − f(a)) / h",
+     "caption": {
+      "fa": "مشتق: همان نسبت، وقتی بازه به صفر می‌رسد",
+      "en": "The derivative: the same ratio as the interval shrinks to zero",
+      "tr": "Moshtagh: haman nesbat, vaghti baze be sefr miresad"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "از خط قاطع تا خط مماس",
+      "en": "From secant to tangent",
+      "tr": "Az khat-e ghate' ta khat-e momas"
+     },
+     "body": {
+      "fa": "روی نمودار، آهنگ متوسط شیب خط «قاطع» است که از دو نقطهٔ P و Q می‌گذرد. حالا Q را روی منحنی به سمت P بلغزان. خط قاطع می‌چرخد و در نهایت به خطی می‌رسد که منحنی را در P فقط لمس می‌کند: «خط مماس». پس مقدار مشتق در یک نقطه، شیب خط مماس در آن نقطه است (آزمون دی ۱۴۰۰). مثل این است که روی منحنی آن‌قدر زوم کنی که صاف به نظر برسد.",
+      "en": "On a graph, the average rate is the slope of the \"secant\" line through two points P and Q. Now slide Q along the curve towards P. The secant turns and ends up as the line that only touches the curve at P: the \"tangent line\". So the value of the derivative at a point is the slope of the tangent there (Dey 1400 paper). It is like zooming in on the curve until it looks straight.",
+      "tr": "Rooye nemoodar, ahang-e motavaset shib-e khat-e \"ghate'\" ast ke az do noghte-ye P va Q migozarad. Hala Q ra rooye monhani be samt-e P belaghzan. Khat-e ghate' micharkhad va dar nahayat be khati miresad ke monhani ra dar P faghat lams mikonad: \"khat-e momas\". Pas meghdar-e moshtagh dar yek noghte, shib-e khat-e momas dar an noghte ast (azmoon-e Dey 1400). Mesl-e in ast ke rooye monhani an-ghadr zoom koni ke saf be nazar beresad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  f(x) = x^2,   P = (1, 1)\n\n   h       Q              slope PQ\n  ---------------------------------\n   1       (2, 4)           3\n   0.1     (1.1, 1.21)      2.1\n   0.01    (1.01, 1.0201)   2.01\n   h -> 0                   2",
+     "caption": {
+      "fa": "هر چه Q به P نزدیک‌تر شود، شیب قاطع به ۲ نزدیک‌تر می‌شود: شیب مماس در P برابر ۲ است.",
+      "en": "The closer Q gets to P, the closer the secant slope gets to 2: the tangent slope at P is 2.",
+      "tr": "Har che Q be P nazdik-tar shavad, shib-e ghate' be 2 nazdik-tar mishavad: shib-e momas dar P barabar-e 2 ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  zoom in on the curve at P\n\n   x1          x10         x100\n       ..-'        /          /\n     .'          ./          /\n    *P          *P          *P\n   /           /           /\n  /           /           /\n  curved      less        straight:\n              curved      tangent",
+     "caption": {
+      "fa": "هر چه نزدیک‌تر به P زوم کنی، منحنی صاف‌تر به نظر می‌رسد تا به خط مماس تبدیل شود؛ شیب همین خط، مشتق است.",
+      "en": "The closer you zoom in at P, the straighter the curve looks, until it becomes the tangent line; the slope of that line is the derivative.",
+      "tr": "Har che nazdik-tar be P zoom koni, monhani saf-tar be nazar miresad ta be khat-e momas tabdil shavad; shib-e hamin khat, moshtagh ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "y − f(a) = f'(a) (x − a)",
+     "caption": {
+      "fa": "معادلهٔ خط مماس در `x = a`",
+      "en": "The equation of the tangent at `x = a`",
+      "tr": "Moadele-ye khat-e momas dar `x = a`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آهنگ متوسط تغییر `f(x) = x²` روی `[1, 3]`",
+      "en": "Warm-up: the average rate of change of `f(x) = x²` on `[1, 3]`",
+      "tr": "Garm kardan: ahang-e motavaset-e taghyir-e `f(x) = x²` rooye `[1, 3]`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آهنگ متوسط یعنی «چقدر تغییر کرد تقسیم بر در چه فاصله‌ای». اول مقدار تابع را در دو سر بازه پیدا کن.",
+        "en": "An average rate means \"how much it changed divided by over what distance\". First find the function at both ends.",
+        "tr": "Ahang-e motavaset ya'ni \"cheghadr taghyir kard taghsim bar dar che fasele-i\". Avval meghdar-e tabe' ra dar do sar-e baze peyda kon."
+       },
+       "math": "f(1) = 1 ,   f(3) = 9"
+      },
+      {
+       "text": {
+        "fa": "تغییر تابع را بر تغییر x تقسیم کن. حدی نمی‌گیریم، چون متوسط است.",
+        "en": "Divide the change in the function by the change in x. No limit, because this is an average.",
+        "tr": "Taghyir-e tabe' ra bar taghyir-e x taghsim kon. Haddi nemigirim, chon motavaset ast."
+       },
+       "math": "(9 − 1) / (3 − 1) = 8 / 2"
+      }
+     ],
+     "answer": {
+      "fa": "`4`",
+      "en": "`4`",
+      "tr": "`4`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مشتق `f(x) = x²` در `x = 1` از روی تعریف (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: the derivative of `f(x) = x²` at `x = 1` from the definition (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: moshtagh-e `f(x) = x²` dar `x = 1` az rooye ta'rif (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تعریف را بنویس: آهنگ متوسط روی بازهٔ کوچک `[1, 1 + h]`، و بعد h را به صفر برسان.",
+        "en": "Write the definition: the average rate over the small interval `[1, 1 + h]`, then let h go to zero.",
+        "tr": "Ta'rif ra benevis: ahang-e motavaset rooye baze-ye koochak-e `[1, 1 + h]`، va ba'd h ra be sefr beresan."
+       },
+       "math": "((1 + h)² − 1) / h"
+      },
+      {
+       "text": {
+        "fa": "صورت را باز کن. h را هنوز نمی‌توانیم صفر بگذاریم، چون `0/0` می‌شود؛ پس اول ساده کن.",
+        "en": "Expand the top. We cannot put h = 0 yet, because that gives `0/0`; simplify first.",
+        "tr": "Soorat ra baz kon. h ra hanooz nemitavanim sefr bogzarim, chon `0/0` mishavad; pas avval sade kon."
+       },
+       "math": "(1 + 2h + h² − 1) / h = (2h + h²) / h = 2 + h"
+      },
+      {
+       "text": {
+        "fa": "حالا h را به صفر برسان. این همان عددی است که جدول قاطع‌ها نشان داد، و شیب خط مماس در `(1, 1)` است.",
+        "en": "Now let h go to zero. This is the number the secant table showed, and it is the slope of the tangent at `(1, 1)`.",
+        "tr": "Hala h ra be sefr beresan. In haman adadi ast ke jadval-e ghate'-ha neshan dad, va shib-e khat-e momas dar `(1, 1)` ast."
+       },
+       "math": "2 + h  →  2"
+      }
+     ],
+     "answer": {
+      "fa": "`f'(1) = 2`",
+      "en": "`f'(1) = 2`",
+      "tr": "`f'(1) = 2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معادلهٔ خط مماس بر `y = x²` در `x = 3`",
+      "en": "Exam twist: the equation of the tangent to `y = x²` at `x = 3`",
+      "tr": "Pich-e emtehani: moadele-ye khat-e momas bar `y = x²` dar `x = 3`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: شیب تنها کافی نیست؛ یک خط به یک شیب و یک نقطه نیاز دارد. اول نقطه را پیدا کن.",
+        "en": "The twist: the slope alone is not enough; a line needs a slope and a point. Find the point first.",
+        "tr": "Pich-e emtehan: shib-e tanha kafi nist; yek khat be yek shib va yek noghte niaz darad. Avval noghte ra peyda kon."
+       },
+       "math": "f(3) = 9   ⟹   point (3, 9)"
+      },
+      {
+       "text": {
+        "fa": "شیب را مثل مثال قبل از تعریف بگیر.",
+        "en": "Get the slope from the definition, as in the previous example.",
+        "tr": "Shib ra mesl-e mesal-e ghabl az ta'rif begir."
+       },
+       "math": "((3 + h)² − 9) / h = 6 + h  →  6"
+      },
+      {
+       "text": {
+        "fa": "شیب و نقطه را در معادلهٔ خط مماس بگذار و ساده کن.",
+        "en": "Put the slope and the point into the tangent equation and simplify.",
+        "tr": "Shib va noghte ra dar moadele-ye khat-e momas bogzar va sade kon."
+       },
+       "math": "y − 9 = 6(x − 3)"
+      }
+     ],
+     "answer": {
+      "fa": "`y = 6x − 9`",
+      "en": "`y = 6x − 9`",
+      "tr": "`y = 6x − 9`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آهنگ متوسط بدون حد است و آهنگ لحظه‌ای (مشتق) با حد. اگر سؤال «روی بازهٔ `[a, b]`» گفت، حد نگیر.",
+      "en": "The average rate has no limit and the instantaneous rate (the derivative) has one. If the question says \"over the interval `[a, b]`\", do not take a limit.",
+      "tr": "Ahang-e motavaset bedoon-e had ast va ahang-e lahze-i (moshtagh) ba had. Agar so'al \"rooye baze-ye `[a, b]`\" goft, had nagir."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مشتق، «شیب» خط مماس است، نه معادلهٔ آن. برای معادله، نقطهٔ تماس `(a, f(a))` را هم لازم داری.",
+      "en": "The derivative is the \"slope\" of the tangent, not its equation. For the equation you also need the point of contact `(a, f(a))`.",
+      "tr": "Moshtagh, \"shib\"-e khat-e momas ast, na moadele-ye an. Baraye moadele, noghte-ye tamas-e `(a, f(a))` ra ham lazem dari."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 969
+    },
+    {
+     "session": "1400-Dey",
+     "number": 951
+    },
+    {
+     "session": "1400-Dey",
+     "number": 950
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 4,
+   "unit": 2,
+   "key": "math-4-basic-rules",
+   "title": {
+    "fa": "قاعده‌های پایهٔ مشتق",
+    "en": "The basic derivative rules",
+    "tr": "Ghaede-haye paye-ye moshtagh"
+   },
+   "summary": {
+    "fa": "ثابت، توان، رادیکال، و سینوس و کسینوس: بدون حد گرفتن هر بار.",
+    "en": "Constants, powers, roots, sine and cosine: without taking a limit every time.",
+    "tr": "Sabet, tavan, radikal, va sinus va kosinus: bedoon-e had gereftan har bar."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مُهر توان",
+      "en": "Understand first: the power stamp",
+      "tr": "Avval befahm: mohr-e tavan"
+     },
+     "body": {
+      "fa": "حد گرفتن برای هر تابع خسته‌کننده است، پس ریاضی‌دان‌ها الگوها را یک بار پیدا کرده‌اند. جادهٔ کاملاً صاف شیب ندارد: مشتق هر عدد ثابت صفر است (آزمون دی ۱۴۰۰). برای توان‌ها الگو مثل یک مُهر است: «توان را جلو بیاور و یکی از آن کم کن». در واحد قبل دیدیم مشتق `x²` برابر `2x` است؛ همین مُهر است.",
+      "en": "Taking a limit for every function is tiring, so mathematicians found the patterns once. A perfectly flat road has no slope: the derivative of any constant is zero (Dey 1400 paper). For powers the pattern is like a stamp: \"bring the power down in front and take one off it\". In the last unit we saw the derivative of `x²` is `2x`; that is this stamp.",
+      "tr": "Had gereftan baraye har tabe' khaste-konande ast, pas riazi-dan-ha olgoo-ha ra yek bar peyda karde-and. Jadde-ye kamelan saf shib nadarad: moshtagh-e har adad-e sabet sefr ast (azmoon-e Dey 1400). Baraye tavan-ha olgoo mesl-e yek mohr ast: \"tavan ra jelo biavar va yeki az an kam kon\". Dar vahed-e ghabl didim moshtagh-e `x²` barabar-e `2x` ast; hamin mohr ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   f(x)        f'(x)\n  ----------------------\n   c           0\n   x           1\n   x^2         2x\n   x^3         3x^2\n   x^5         5x^4\n   x^n         n x^(n-1)",
+     "caption": {
+      "fa": "مُهر توان: توان جلو می‌آید و یکی کم می‌شود.",
+      "en": "The power stamp: the power comes to the front and drops by one.",
+      "tr": "Mohr-e tavan: tavan jelo miayad va yeki kam mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(c)' = 0",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۰",
+      "en": "Dey 1400 paper",
+      "tr": "Azmoon-e Dey 1400"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(x^n)' = n x^(n − 1)",
+     "caption": {
+      "fa": "برای هر توان، حتی کسری یا منفی",
+      "en": "For any power, even a fraction or a negative",
+      "tr": "Baraye har tavan, hatta kasri ya manfi"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رادیکال یعنی توان کسری",
+      "en": "A root is a fractional power",
+      "tr": "Radikal ya'ni tavan-e kasri"
+     },
+     "body": {
+      "fa": "رادیکال‌ها هم توان‌اند، فقط توان کسری: `√x = x^(1/2)`. پس همان مُهر کار می‌کند. ترفند همیشگی: قبل از مشتق گرفتن، رادیکال و کسر را به شکل توان بنویس.",
+      "en": "Roots are powers too, just fractional ones: `√x = x^(1/2)`. So the same stamp works. The trick every time: before differentiating, rewrite roots and fractions as powers.",
+      "tr": "Radikal-ha ham tavan-and, faghat tavan-e kasri: `√x = x^(1/2)`. Pas haman mohr kar mikonad. Tarfand-e hamishegi: ghabl az moshtagh gereftan, radikal va kasr ra be shekl-e tavan benevis."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(√x)' = 1 / (2√x)",
+     "caption": {
+      "fa": "آزمون خرداد ۱۴۰۲",
+      "en": "Khordad 1402 paper",
+      "tr": "Azmoon-e Khordad 1402"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرخهٔ سینوس و کسینوس",
+      "en": "The sine-cosine cycle",
+      "tr": "Charkhe-ye sinus va kosinus"
+     },
+     "body": {
+      "fa": "سینوس و کسینوس دور یک چرخه می‌چرخند: مشتق سینوس، کسینوس است، و مشتق کسینوس، منفی سینوس (آزمون دی ۱۴۰۰). اگر ادامه بدهی، بعد از چهار بار مشتق گرفتن دوباره به سینوس برمی‌گردی.",
+      "en": "Sine and cosine go round a cycle: the derivative of sine is cosine, and the derivative of cosine is minus sine (Dey 1400 paper). Keep going and after four derivatives you are back at sine.",
+      "tr": "Sinus va kosinus dor-e yek charkhe micharkhand: moshtagh-e sinus, kosinus ast, va moshtagh-e kosinus, manfi-ye sinus (azmoon-e Dey 1400). Agar edame bedahi, ba'd az chahar bar moshtagh gereftan dobare be sinus barmigardi."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "    sin x  ------>  cos x\n      ^               |\n      |               v\n   -cos x  <------  -sin x\n\n  each arrow = take the derivative",
+     "caption": {
+      "fa": "هر پیکان یعنی یک بار مشتق گرفتن. منفی فقط موقع مشتق کسینوس ظاهر می‌شود.",
+      "en": "Each arrow means one derivative. The minus sign first appears when you differentiate cosine.",
+      "tr": "Har peykan ya'ni yek bar moshtagh gereftan. Manfi faghat moghe'-e moshtagh-e kosinus zaher mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(sin x)' = cos x   ,   (cos x)' = −sin x"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مشتق `f(x) = x⁵` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: the derivative of `f(x) = x⁵` (Dey 1400 paper)",
+      "tr": "Garm kardan: moshtagh-e `f(x) = x⁵` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مُهر توان را بزن: توان ۵ جلو می‌آید.",
+        "en": "Apply the power stamp: the power 5 comes to the front.",
+        "tr": "Mohr-e tavan ra bezan: tavan-e 5 jelo miayad."
+       },
+       "math": "5 · x^(5 − 1)"
+      },
+      {
+       "text": {
+        "fa": "یکی از توان کم کن.",
+        "en": "Take one off the power.",
+        "tr": "Yeki az tavan kam kon."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`5x⁴`",
+      "en": "`5x⁴`",
+      "tr": "`5x⁴`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مشتق `f(x) = √x` (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: the derivative of `f(x) = √x` (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: moshtagh-e `f(x) = √x` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مُهر توان فقط روی توان کار می‌کند، پس رادیکال را توان بنویس.",
+        "en": "The power stamp only works on powers, so write the root as a power.",
+        "tr": "Mohr-e tavan faghat rooye tavan kar mikonad, pas radikal ra tavan benevis."
+       },
+       "math": "√x = x^(1/2)"
+      },
+      {
+       "text": {
+        "fa": "توان `1/2` جلو می‌آید و یکی از آن کم می‌شود: `1/2 − 1 = −1/2`.",
+        "en": "The power `1/2` comes to the front and drops by one: `1/2 − 1 = −1/2`.",
+        "tr": "Tavan-e `1/2` jelo miayad va yeki az an kam mishavad: `1/2 − 1 = −1/2`."
+       },
+       "math": "(1/2) x^(−1/2)"
+      },
+      {
+       "text": {
+        "fa": "توان منفی یعنی رفتن به مخرج، و توان `1/2` یعنی رادیکال.",
+        "en": "A negative power means moving to the bottom, and a power of `1/2` means a root.",
+        "tr": "Tavan-e manfi ya'ni raftan be makhraj, va tavan-e `1/2` ya'ni radikal."
+       },
+       "math": "1 / (2 x^(1/2)) = 1 / (2√x)"
+      }
+     ],
+     "answer": {
+      "fa": "`1/(2√x)`",
+      "en": "`1/(2√x)`",
+      "tr": "`1/(2√x)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مشتق `f(x) = x√x` (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: the derivative of `f(x) = x√x` (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: moshtagh-e `f(x) = x√x` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: وسوسه می‌شوی مشتق x را در مشتق `√x` ضرب کنی. این غلط است. راه ساده: اول دو توان را یکی کن.",
+        "en": "The twist: you are tempted to multiply the derivative of x by the derivative of `√x`. That is wrong. The easy way: first merge the two powers.",
+        "tr": "Pich-e emtehan: vasvase mishavi moshtagh-e x ra dar moshtagh-e `√x` zarb koni. In ghalat ast. Rah-e sade: avval do tavan ra yeki kon."
+       },
+       "math": "x · x^(1/2) = x^(3/2)"
+      },
+      {
+       "text": {
+        "fa": "حالا یک توان ساده داریم؛ مُهر را بزن: `3/2 − 1 = 1/2`.",
+        "en": "Now there is one simple power; apply the stamp: `3/2 − 1 = 1/2`.",
+        "tr": "Hala yek tavan-e sade darim; mohr ra bezan: `3/2 − 1 = 1/2`."
+       },
+       "math": "(3/2) x^(1/2)"
+      }
+     ],
+     "answer": {
+      "fa": "`(3/2)√x`",
+      "en": "`(3/2)√x`",
+      "tr": "`(3/2)√x`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مشتق کسینوس «منفی» سینوس است. این منفی را زیاد جا می‌اندازند: `(sin x)' = cos x` ولی `(cos x)' = −sin x`.",
+      "en": "The derivative of cosine is \"minus\" sine. That minus is often dropped: `(sin x)' = cos x` but `(cos x)' = −sin x`.",
+      "tr": "Moshtagh-e kosinus \"manfi\"-ye sinus ast. In manfi ra ziad ja miandazand: `(sin x)' = cos x` vali `(cos x)' = −sin x`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قبل از مُهر توان، رادیکال و کسر را توان بنویس و ضرب توان‌ها را یکی کن. مشتق حاصل‌ضرب، حاصل‌ضرب مشتق‌ها نیست.",
+      "en": "Before the power stamp, rewrite roots and fractions as powers and merge multiplied powers. The derivative of a product is not the product of the derivatives.",
+      "tr": "Ghabl az mohr-e tavan, radikal va kasr ra tavan benevis va zarb-e tavan-ha ra yeki kon. Moshtagh-e hasel-zarb, hasel-zarb-e moshtagh-ha nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 953
+    },
+    {
+     "session": "1400-Dey",
+     "number": 952
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1400-Dey",
+     "number": 960
+    },
+    {
+     "session": "1400-Dey",
+     "number": 958
+    },
+    {
+     "session": "1400-Dey",
+     "number": 959
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 4,
+   "unit": 3,
+   "key": "math-4-product-quotient-chain",
+   "title": {
+    "fa": "مشتق ضرب، تقسیم و ترکیب",
+    "en": "Product, quotient and chain rules",
+    "tr": "Moshtagh-e zarb, taghsim va tarkib"
+   },
+   "summary": {
+    "fa": "وقتی تابع‌ها در هم ضرب، بر هم تقسیم یا در هم تو در تو می‌شوند.",
+    "en": "When functions are multiplied, divided, or nested inside each other.",
+    "tr": "Vaghti tabe'-ha dar ham zarb, bar ham taghsim ya dar ham too-dar-too mishavand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مستطیلی که بزرگ می‌شود",
+      "en": "Understand first: a growing rectangle",
+      "tr": "Avval befahm: mostatili ke bozorg mishavad"
+     },
+     "body": {
+      "fa": "یک مستطیل را تصور کن که طول آن f و عرضش g است، و هر دو کمی بزرگ می‌شوند. مساحت از دو جا اضافه می‌شود: یک نوار در طول (`g` ضرب در تغییر f) و یک نوار در عرض (`f` ضرب در تغییر g). گوشهٔ کوچک آن‌قدر ریز است که حساب نمی‌شود. برای همین مشتق حاصل‌ضرب دو تکه دارد: `f'g + fg'`.",
+      "en": "Picture a rectangle with length f and width g, and both grow a little. The area grows in two places: a strip along the length (`g` times the change in f) and a strip along the width (`f` times the change in g). The tiny corner is so small it does not count. That is why the derivative of a product has two pieces: `f'g + fg'`.",
+      "tr": "Yek mostatil ra tasavvor kon ke tool-e an f va arzash g ast, va har do kami bozorg mishavand. Masahat az do ja ezafe mishavad: yek navar dar tool (`g` zarb dar taghyir-e f) va yek navar dar arz (`f` zarb dar taghyir-e g). Gooshe-ye koochak an-ghadr riz ast ke hesab nemishavad. Baraye hamin moshtagh-e hasel-zarb do tekke darad: `f'g + fg'`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          f             df\n     +------------+----+\n     |            |    |\n  g  |   f . g    |g.df|\n     |            |    |\n     +------------+----+\n  dg |   f . dg   |    | <- tiny,\n     +------------+----+    ignored",
+     "caption": {
+      "fa": "مساحت تازه از دو نوار می‌آید: `g · df` و `f · dg`.",
+      "en": "The new area comes from two strips: `g · df` and `f · dg`.",
+      "tr": "Masahat-e taze az do navar miayad: `g · df` va `f · dg`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f · g)' = f' g + f g'",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۰",
+      "en": "Dey 1400 paper",
+      "tr": "Azmoon-e Dey 1400"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f / g)' = (f' g − f g') / g²"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قاعدهٔ زنجیره‌ای: چرخ‌دنده‌ها",
+      "en": "The chain rule: gears",
+      "tr": "Ghaede-ye zanjire-i: charkh-dande-ha"
+     },
+     "body": {
+      "fa": "برای تابع‌های تو در تو، چرخ‌دنده‌ها را تصور کن. اگر چرخ اول ۳ برابر سریع‌تر از دومی بچرخد و دومی ۲ برابر سریع‌تر از سومی، اولی ۶ برابر سریع‌تر از سومی می‌چرخد: آهنگ‌ها ضرب می‌شوند. قاعدهٔ زنجیره‌ای همین است: مشتق تابع بیرونی (در جای خودش) ضرب در مشتق تابع درونی.",
+      "en": "For nested functions, picture gears. If the first gear turns 3 times as fast as the second and the second turns 2 times as fast as the third, the first turns 6 times as fast as the third: the rates multiply. That is the chain rule: the derivative of the outer function (left where it is) times the derivative of the inner one.",
+      "tr": "Baraye tabe'-haye too-dar-too, charkh-dande-ha ra tasavvor kon. Agar charkh-e avval 3 barabar sari'-tar az dovvomi becharkhad va dovvomi 2 barabar sari'-tar az sevvomi, avvali 6 barabar sari'-tar az sevvomi micharkhad: ahang-ha zarb mishavand. Ghaede-ye zanjire-i hamin ast: moshtagh-e tabe'-e birooni (dar ja-ye khodash) zarb dar moshtagh-e tabe'-e darooni."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   x\n   |   inner:  u = 2x + 1\n   v           du/dx = 2\n   u\n   |   outer:  y = sqrt(u)\n   v           dy/du = 1/(2 sqrt(u))\n   y\n\n   dy/dx = (dy/du) * (du/dx)",
+     "caption": {
+      "fa": "دو چرخ‌دنده: درونی و بیرونی. آهنگ کل، حاصل‌ضرب دو آهنگ است.",
+      "en": "Two gears, inner and outer. The total rate is the product of the two rates.",
+      "tr": "Do charkh-dande: darooni va birooni. Ahang-e kol, hasel-zarb-e do ahang ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f(g(x)))' = f'(g(x)) · g'(x)"
+    },
+    {
+     "type": "formula",
+     "math": "(√u)' = u' / (2√u)",
+     "caption": {
+      "fa": "رادیکال یک عبارت: مشتق درونی در صورت",
+      "en": "The root of an expression: the inner derivative goes on top",
+      "tr": "Radikal-e yek ebarat: moshtagh-e darooni dar soorat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مشتق `f(x) = 1/x` با قاعدهٔ تقسیم (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: the derivative of `f(x) = 1/x` with the quotient rule (Dey 1400 paper)",
+      "tr": "Garm kardan: moshtagh-e `f(x) = 1/x` ba ghaede-ye taghsim (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صورت ۱ است و مخرج x. مشتق صورت صفر است (عدد ثابت) و مشتق مخرج ۱.",
+        "en": "The top is 1 and the bottom is x. The derivative of the top is zero (a constant) and of the bottom is 1.",
+        "tr": "Soorat 1 ast va makhraj x. Moshtagh-e soorat sefr ast (adad-e sabet) va moshtagh-e makhraj 1."
+       },
+       "math": "f = 1 , f' = 0 ,  g = x , g' = 1"
+      },
+      {
+       "text": {
+        "fa": "در قاعدهٔ تقسیم بگذار: «مشتق بالا ضرب در پایین، منهای بالا ضرب در مشتق پایین، تقسیم بر پایین به توان ۲».",
+        "en": "Put them in the quotient rule: \"derivative of top times bottom, minus top times derivative of bottom, over bottom squared\".",
+        "tr": "Dar ghaede-ye taghsim bogzar: \"moshtagh-e bala zarb dar payin, menha-ye bala zarb dar moshtagh-e payin, taghsim bar payin be tavan-e 2\"."
+       },
+       "math": "(0 · x − 1 · 1) / x²"
+      },
+      {
+       "text": {
+        "fa": "امتحان با مُهر توان: `1/x = x^(−1)`، پس مشتق `−x^(−2)` است؛ همان جواب.",
+        "en": "Check with the power stamp: `1/x = x^(−1)`, so the derivative is `−x^(−2)`; the same answer.",
+        "tr": "Emtehan ba mohr-e tavan: `1/x = x^(−1)`، pas moshtagh `−x^(−2)` ast; haman javab."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`−1/x²`",
+      "en": "`−1/x²`",
+      "tr": "`−1/x²`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مشتق `f(x) = x · sin x` (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: the derivative of `f(x) = x · sin x` (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: moshtagh-e `f(x) = x · sin x` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو تابع در هم ضرب شده‌اند: `f = x` و `g = sin x`. هر کدام را جدا مشتق بگیر.",
+        "en": "Two functions are multiplied: `f = x` and `g = sin x`. Differentiate each one separately.",
+        "tr": "Do tabe' dar ham zarb shode-and: `f = x` va `g = sin x`. Har kodam ra joda moshtagh begir."
+       },
+       "math": "f' = 1 ,   g' = cos x"
+      },
+      {
+       "text": {
+        "fa": "دو نوار مستطیل: مشتق اولی ضرب در دومی، به‌علاوهٔ اولی ضرب در مشتق دومی.",
+        "en": "The two strips of the rectangle: derivative of the first times the second, plus the first times the derivative of the second.",
+        "tr": "Do navar-e mostatil: moshtagh-e avvali zarb dar dovvomi, be-alave-ye avvali zarb dar moshtagh-e dovvomi."
+       },
+       "math": "1 · sin x + x · cos x"
+      }
+     ],
+     "answer": {
+      "fa": "`sin x + x · cos x`",
+      "en": "`sin x + x · cos x`",
+      "tr": "`sin x + x · cos x`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مشتق `f(x) = √(2x + 1)` (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: the derivative of `f(x) = √(2x + 1)` (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: moshtagh-e `f(x) = √(2x + 1)` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اینجا یک تابع داخل تابع دیگر است: رادیکال (بیرونی) روی `2x + 1` (درونی).",
+        "en": "Here one function sits inside another: a root (outer) on top of `2x + 1` (inner).",
+        "tr": "Inja yek tabe' dakhel-e tabe'-e digar ast: radikal (birooni) rooye `2x + 1` (darooni)."
+       },
+       "math": "u = 2x + 1 ,   u' = 2"
+      },
+      {
+       "text": {
+        "fa": "مشتق رادیکال را بگیر و درونی را دست نزن؛ بعد در مشتق درونی ضرب کن. پیچ امتحان همین ضرب است.",
+        "en": "Take the derivative of the root and leave the inside alone; then multiply by the inner derivative. That multiplication is the twist.",
+        "tr": "Moshtagh-e radikal ra begir va darooni ra dast nazan; ba'd dar moshtagh-e darooni zarb kon. Pich-e emtehan hamin zarb ast."
+       },
+       "math": "2 / (2√(2x + 1))"
+      },
+      {
+       "text": {
+        "fa": "۲ بالا و ۲ پایین ساده می‌شوند. با `√(3x + 1)` (همان آزمون) جواب `3/(2√(3x + 1))` می‌شود، چون ۳ با ۲ ساده نمی‌شود.",
+        "en": "The 2 on top and the 2 below cancel. With `√(3x + 1)` (same paper) the answer is `3/(2√(3x + 1))`, because 3 does not cancel with 2.",
+        "tr": "2-e bala va 2-e payin sade mishavand. Ba `√(3x + 1)` (haman azmoon) javab `3/(2√(3x + 1))` mishavad, chon 3 ba 2 sade nemishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`1/√(2x + 1)`",
+      "en": "`1/√(2x + 1)`",
+      "tr": "`1/√(2x + 1)`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مشتق حاصل‌ضرب، حاصل‌ضرب مشتق‌ها نیست: `(x · sin x)'` برابر `1 · cos x` نیست. همیشه دو تکه بنویس.",
+      "en": "The derivative of a product is not the product of the derivatives: `(x · sin x)'` is not `1 · cos x`. Always write two pieces.",
+      "tr": "Moshtagh-e hasel-zarb, hasel-zarb-e moshtagh-ha nist: `(x · sin x)'` barabar-e `1 · cos x` nist. Hamishe do tekke benevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در قاعدهٔ زنجیره‌ای، ضرب در مشتق درونی را فراموش نکن. بدون آن، مشتق `√(2x + 1)` را اشتباه `1/(2√(2x + 1))` می‌نویسی.",
+      "en": "In the chain rule, do not forget to multiply by the inner derivative. Without it you would wrongly write the derivative of `√(2x + 1)` as `1/(2√(2x + 1))`.",
+      "tr": "Dar ghaede-ye zanjire-i, zarb dar moshtagh-e darooni ra faramoosh nakon. Bedoon-e an, moshtagh-e `√(2x + 1)` ra eshtebah `1/(2√(2x + 1))` minevisi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 955
+    },
+    {
+     "session": "1400-Dey",
+     "number": 956
+    },
+    {
+     "session": "1400-Dey",
+     "number": 957
+    },
+    {
+     "session": "1400-Dey",
+     "number": 961
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 4,
+   "unit": 4,
+   "key": "math-4-differentiability",
+   "title": {
+    "fa": "مشتق‌پذیری: گوشه، مماس قائم و نقطهٔ بازگشت",
+    "en": "Differentiability: corners, vertical tangents and cusps",
+    "tr": "Moshtagh-paziri: gooshe, momas-e ghaem va noghte-ye bazgasht"
+   },
+   "summary": {
+    "fa": "جاهایی که نمودار پیوسته است ولی مشتق ندارد.",
+    "en": "Places where the graph is continuous but has no derivative.",
+    "tr": "Ja-hayi ke nemoodar peyvaste ast vali moshtagh nadarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: جادهٔ نرم و جادهٔ شکسته",
+      "en": "Understand first: smooth roads and broken ones",
+      "tr": "Avval befahm: jadde-ye narm va jadde-ye shekaste"
+     },
+     "body": {
+      "fa": "روی یک جادهٔ نرم، در هر نقطه می‌توانی بگویی جاده به کدام سمت می‌رود؛ این همان شیب، یعنی مشتق است. ولی سه جا این کار ممکن نیست. یک: «گوشهٔ تیز»، مثل نوک `|x|`؛ جهت ناگهان عوض می‌شود و یک شیب واحد نداریم. دو: «مماس قائم»، جایی که نمودار برای یک لحظه کاملاً عمودی می‌شود و شیبش بی‌نهایت است. سه: «نقطهٔ بازگشت»، نوک تیزی که دو طرفش هر دو عمودی می‌شوند ولی یکی به سمت بالا و دیگری به سمت پایین.",
+      "en": "On a smooth road you can say at every point which way the road is heading; that is the slope, the derivative. But in three places this fails. One: a \"sharp corner\", like the tip of `|x|`; the direction changes suddenly and there is no single slope. Two: a \"vertical tangent\", where the graph stands perfectly upright for a moment and its slope is infinite. Three: a \"cusp\", a sharp spike whose two sides both turn vertical, one going up and the other going down.",
+      "tr": "Rooye yek jadde-ye narm, dar har noghte mitavani beguyi jadde be kodam samt miravad; in haman shib, ya'ni moshtagh ast. Vali se ja in kar momken nist. Yek: \"gooshe-ye tiz\"، mesl-e nok-e `|x|`؛ jahat nagahan avaz mishavad va yek shib-e vahed nadarim. Do: \"momas-e ghaem\"، jayi ke nemoodar baraye yek lahze kamelan amoodi mishavad va shibash bi-nahayat ast. Se: \"noghte-ye bazgasht\"، nok-e tizi ke do tarafash har do amoodi mishavand vali yeki be samt-e bala va digari be samt-e payin."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(a)  :   f'(a−) = f'(a+)  ∈  ℝ",
+     "caption": {
+      "fa": "مشتق وجود دارد اگر مشتق چپ و راست برابر و متناهی باشند",
+      "en": "The derivative exists when the left and right derivatives are equal and finite",
+      "tr": "Moshtagh vojood darad agar moshtagh-e chap va rast barabar va motanahi bashand"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   \\           /\n    \\         /\n     \\       /    left slope  -1\n      \\     /     right slope +1\n       \\   /\n        \\ /\n  -------V-------\n         0   corner: no single slope",
+     "caption": {
+      "fa": "`|x|` در صفر: شیب از چپ `−1` و از راست `+1` است. دو شیب، پس مشتق ندارد.",
+      "en": "`|x|` at zero: the slope is `−1` from the left and `+1` from the right. Two slopes, so no derivative.",
+      "tr": "`|x|` dar sefr: shib az chap `−1` va az rast `+1` ast. Do shib, pas moshtagh nadarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            |       ____\n            |   .--'\n            |  /\n  ----------+-----------> x\n           /|\n      .--'  |\n  ___'      |\n   y = cbrt(x): the tangent at 0\n   is the vertical line x = 0",
+     "caption": {
+      "fa": "`∛x` در صفر: نمودار برای یک لحظه عمودی می‌شود (مماس قائم). شیب بی‌نهایت است، پس مشتق وجود ندارد.",
+      "en": "`∛x` at zero: the graph stands upright for a moment (a vertical tangent). The slope is infinite, so the derivative does not exist.",
+      "tr": "`∛x` dar sefr: nemoodar baraye yek lahze amoodi mishavad (momas-e ghaem). Shib bi-nahayat ast, pas moshtagh vojood nadarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  .                     .\n   `.                 .'\n     `-.           .-'\n        `\\       /'\n          \\     /\n           |   |\n  ---------\\---/---------> x\n            \\ /\n             V   cusp: left -inf,\n                 right +inf",
+     "caption": {
+      "fa": "نقطهٔ بازگشت: دو طرف هر دو عمودی می‌شوند، با علامت‌های مخالف (آزمون دی ۱۴۰۰).",
+      "en": "A cusp: both sides turn vertical, with opposite signs (Dey 1400 paper).",
+      "tr": "Noghte-ye bazgasht: do taraf har do amoodi mishavand, ba alamat-haye mokhalef (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مشتق‌پذیری روی بازه",
+      "en": "Differentiable on an interval",
+      "tr": "Moshtagh-paziri rooye baze"
+     },
+     "body": {
+      "fa": "تابعی روی بازهٔ باز `(a, b)` مشتق‌پذیر است که در تک‌تک نقطه‌های آن بازه مشتق‌پذیر باشد (آزمون دی ۱۴۰۱). یک گوشه یا یک مماس قائم کافی است تا روی آن بازه مشتق‌پذیر نباشد.",
+      "en": "A function is differentiable on an open interval `(a, b)` when it is differentiable at every single point of it (Dey 1401 paper). One corner or one vertical tangent is enough to spoil the whole interval.",
+      "tr": "Tabe'i rooye baze-ye baz-e `(a, b)` moshtagh-pazir ast ke dar tak-tak-e noghte-haye an baze moshtagh-pazir bashad (azmoon-e Dey 1401). Yek gooshe ya yek momas-e ghaem kafi ast ta rooye an baze moshtagh-pazir nabashad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مشتق `f(x) = |x|` در `x = −5` (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: the derivative of `f(x) = |x|` at `x = −5` (Dey 1401 paper)",
+      "tr": "Garm kardan: moshtagh-e `f(x) = |x|` dar `x = −5` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدرمطلق را باز کن. نزدیک `−5` همهٔ x ها منفی‌اند، پس `|x| = −x`.",
+        "en": "Open the absolute value. Near `−5` every x is negative, so `|x| = −x`.",
+        "tr": "Ghadr-e motlagh ra baz kon. Nazdik-e `−5` hame-ye x-ha manfi-and, pas `|x| = −x`."
+       },
+       "math": "f(x) = −x   near x = −5"
+      },
+      {
+       "text": {
+        "fa": "`−5` از گوشه (صفر) دور است، پس جاده آنجا صاف است و مشتق دارد: شیب خط `−x`.",
+        "en": "`−5` is far from the corner (zero), so the road is smooth there and has a derivative: the slope of the line `−x`.",
+        "tr": "`−5` az gooshe (sefr) door ast, pas jadde anja saf ast va moshtagh darad: shib-e khat-e `−x`."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`−1`",
+      "en": "`−1`",
+      "tr": "`−1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مشتق `f(x) = ∛x` در `x = 0` (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: the derivative of `f(x) = ∛x` at `x = 0` (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: moshtagh-e `f(x) = ∛x` dar `x = 0` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "با مُهر توان مشتق را بگیر: `∛x = x^(1/3)` و `1/3 − 1 = −2/3`.",
+        "en": "Differentiate with the power stamp: `∛x = x^(1/3)` and `1/3 − 1 = −2/3`.",
+        "tr": "Ba mohr-e tavan moshtagh ra begir: `∛x = x^(1/3)` va `1/3 − 1 = −2/3`."
+       },
+       "math": "f'(x) = (1/3) x^(−2/3) = 1 / (3∛(x²))"
+      },
+      {
+       "text": {
+        "fa": "حالا ۰ را بگذار: مخرج صفر می‌شود و صورت ۱ است. عدد بر صفر یعنی بی‌نهایت.",
+        "en": "Now put in 0: the bottom becomes zero and the top is 1. A number over zero means infinity.",
+        "tr": "Hala 0 ra bogzar: makhraj sefr mishavad va soorat 1 ast. Adad bar sefr ya'ni bi-nahayat."
+       },
+       "math": "1 / 0   →   +∞"
+      },
+      {
+       "text": {
+        "fa": "شیب بی‌نهایت یعنی خط مماس عمودی است. مشتق (یک عدد) وجود ندارد.",
+        "en": "An infinite slope means the tangent is vertical. The derivative, as a number, does not exist.",
+        "tr": "Shib-e bi-nahayat ya'ni khat-e momas amoodi ast. Moshtagh (yek adad) vojood nadarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مشتق وجود ندارد؛ مماس قائم دارد",
+      "en": "It does not exist; there is a vertical tangent",
+      "tr": "Moshtagh vojood nadarad; momas-e ghaem darad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا `f(x) = |x|` در `x = 0` مشتق‌پذیر است؟",
+      "en": "Exam twist: is `f(x) = |x|` differentiable at `x = 0`?",
+      "tr": "Pich-e emtehani: aya `f(x) = |x|` dar `x = 0` moshtagh-pazir ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `|x|` در صفر پیوسته است (نمودار بدون بریدگی است). خیلی‌ها فکر می‌کنند پس مشتق هم دارد. بیا امتحان کنیم.",
+        "en": "The twist: `|x|` is continuous at zero (the graph has no break). Many think it must therefore have a derivative. Let us check.",
+        "tr": "Pich-e emtehan: `|x|` dar sefr peyvaste ast (nemoodar bedoon-e boridegi ast). Kheyli-ha fekr mikonand pas moshtagh ham darad. Bia emtehan konim."
+       }
+      },
+      {
+       "text": {
+        "fa": "از راست، `|x| = x` و شیب ۱ است. از چپ، `|x| = −x` و شیب `−1` است.",
+        "en": "From the right, `|x| = x` and the slope is 1. From the left, `|x| = −x` and the slope is `−1`.",
+        "tr": "Az rast, `|x| = x` va shib 1 ast. Az chap, `|x| = −x` va shib `−1` ast."
+       },
+       "math": "f'(0+) = 1 ,   f'(0−) = −1"
+      },
+      {
+       "text": {
+        "fa": "دو شیب برابر نیستند، پس گوشه داریم و مشتق نیست. پیوستگی برای مشتق‌پذیری کافی نیست.",
+        "en": "The two slopes are not equal, so there is a corner and no derivative. Being continuous is not enough to be differentiable.",
+        "tr": "Do shib barabar nistand, pas gooshe darim va moshtagh nist. Peyvastegi baraye moshtagh-paziri kafi nist."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خیر؛ پیوسته است ولی مشتق‌پذیر نیست",
+      "en": "No; it is continuous but not differentiable",
+      "tr": "Kheyr; peyvaste ast vali moshtagh-pazir nist"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیوسته بودن، مشتق‌پذیر بودن را تضمین نمی‌کند (`|x|` در صفر). ولی برعکسش درست است: هر تابع مشتق‌پذیر، پیوسته است.",
+      "en": "Being continuous does not guarantee being differentiable (`|x|` at zero). But the reverse is true: every differentiable function is continuous.",
+      "tr": "Peyvaste boodan, moshtagh-pazir boodan ra tazmin nemikonad (`|x|` dar sefr). Vali bar-aksash dorost ast: har tabe'-e moshtagh-pazir, peyvaste ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مماس قائم یعنی مشتق «وجود ندارد»، نه اینکه مشتق صفر است. مشتق صفر یعنی مماس افقی؛ دقیقاً برعکس.",
+      "en": "A vertical tangent means the derivative \"does not exist\", not that it is zero. A zero derivative means a horizontal tangent; the exact opposite.",
+      "tr": "Momas-e ghaem ya'ni moshtagh \"vojood nadarad\"، na inke moshtagh sefr ast. Moshtagh-e sefr ya'ni momas-e ofoghi; daghighan bar-aks."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 986
+    },
+    {
+     "session": "1401-Dey",
+     "number": 987
+    },
+    {
+     "session": "1400-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Dey",
+     "number": 993
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 4,
+   "unit": 5,
+   "key": "math-4-motion",
+   "title": {
+    "fa": "سرعت و شتاب: مشتق در حرکت",
+    "en": "Velocity and acceleration: derivatives in motion",
+    "tr": "Sor'at va shetab: moshtagh dar harekat"
+   },
+   "summary": {
+    "fa": "مکان، سرعت و شتاب، هر کدام مشتق قبلی.",
+    "en": "Position, velocity and acceleration, each the derivative of the one before.",
+    "tr": "Makan, sor'at va shetab, har kodam moshtagh-e ghabli."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پدال گاز",
+      "en": "Understand first: the accelerator pedal",
+      "tr": "Avval befahm: pedal-e gaz"
+     },
+     "body": {
+      "fa": "در ماشین، مکان تو جایی است که هستی. سرعت می‌گوید مکانت با چه آهنگی عوض می‌شود: مشتق مکان. شتاب می‌گوید خود سرعتت با چه آهنگی عوض می‌شود: وقتی پدال گاز را فشار می‌دهی سرعت بالا می‌رود و شتاب مثبت است. پس شتاب مشتق سرعت است، یعنی مشتق دوم مکان (آزمون دی ۱۴۰۱).",
+      "en": "In a car, your position is where you are. Velocity tells you how fast your position is changing: the derivative of position. Acceleration tells you how fast your velocity itself is changing: press the accelerator and your velocity goes up, so acceleration is positive. So acceleration is the derivative of velocity, which is the second derivative of position (Dey 1401 paper).",
+      "tr": "Dar mashin, makan-e to jayi ast ke hasti. Sor'at migooyad makanat ba che ahangi avaz mishavad: moshtagh-e makan. Shetab migooyad khod-e sor'atat ba che ahangi avaz mishavad: vaghti pedal-e gaz ra feshar midahi sor'at bala miravad va shetab mosbat ast. Pas shetab moshtagh-e sor'at ast, ya'ni moshtagh-e dovvom-e makan (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  position      f(t)\n      |  take the derivative\n      v\n  velocity      v(t) = f'(t)\n      |  take the derivative\n      v\n  acceleration  a(t) = f''(t)",
+     "caption": {
+      "fa": "هر قدم به پایین، یک بار مشتق گرفتن است.",
+      "en": "Each step down is one more derivative.",
+      "tr": "Har ghadam be payin, yek bar moshtagh gereftan ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "v(t) = f'(t)   ,   a(t) = v'(t) = f''(t)",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۱",
+      "en": "Dey 1401 paper",
+      "tr": "Azmoon-e Dey 1401"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر `f(t) = 5t²`، سرعت و شتاب",
+      "en": "Warm-up: if `f(t) = 5t²`, the velocity and the acceleration",
+      "tr": "Garm kardan: agar `f(t) = 5t²`، sor'at va shetab"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سرعت، مشتق مکان است. مُهر توان را بزن.",
+        "en": "Velocity is the derivative of position. Apply the power stamp.",
+        "tr": "Sor'at, moshtagh-e makan ast. Mohr-e tavan ra bezan."
+       },
+       "math": "v(t) = 10t"
+      },
+      {
+       "text": {
+        "fa": "شتاب، مشتق سرعت است. مشتق `10t` عدد ۱۰ است: سرعت با آهنگ ثابت بالا می‌رود.",
+        "en": "Acceleration is the derivative of velocity. The derivative of `10t` is 10: the velocity rises at a steady rate.",
+        "tr": "Shetab, moshtagh-e sor'at ast. Moshtagh-e `10t` adad-e 10 ast: sor'at ba ahang-e sabet bala miravad."
+       },
+       "math": "a(t) = 10"
+      }
+     ],
+     "answer": {
+      "fa": "`v(t) = 10t` و `a(t) = 10`",
+      "en": "`v(t) = 10t` and `a(t) = 10`",
+      "tr": "`v(t) = 10t` va `a(t) = 10`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شتاب جسمی با `f(t) = t³ − 3t² + 2` (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: the acceleration of an object with `f(t) = t³ − 3t² + 2` (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: shetab-e jesmi ba `f(t) = t³ − 3t² + 2` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول سرعت: هر جمله را جدا مشتق بگیر. مشتق عدد ثابت ۲ صفر است.",
+        "en": "First the velocity: differentiate each term separately. The constant 2 differentiates to zero.",
+        "tr": "Avval sor'at: har jomle ra joda moshtagh begir. Moshtagh-e adad-e sabet-e 2 sefr ast."
+       },
+       "math": "v(t) = 3t² − 6t"
+      },
+      {
+       "text": {
+        "fa": "حالا شتاب: از سرعت دوباره مشتق بگیر. شتاب مشتق دوم مکان است، نه مشتق اول.",
+        "en": "Now the acceleration: differentiate the velocity again. Acceleration is the second derivative of position, not the first.",
+        "tr": "Hala shetab: az sor'at dobare moshtagh begir. Shetab moshtagh-e dovvom-e makan ast, na moshtagh-e avval."
+       },
+       "math": "a(t) = 6t − 6"
+      }
+     ],
+     "answer": {
+      "fa": "`a(t) = 6t − 6`",
+      "en": "`a(t) = 6t − 6`",
+      "tr": "`a(t) = 6t − 6`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: همان جسم: وقتی شتاب صفر است، سرعتش چقدر است؟",
+      "en": "Exam twist: the same object: when the acceleration is zero, what is its velocity?",
+      "tr": "Pich-e emtehani: haman jesm: vaghti shetab sefr ast, sor'atash cheghadr ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول زمانی را پیدا کن که شتاب صفر می‌شود.",
+        "en": "First find the time when the acceleration is zero.",
+        "tr": "Avval zamani ra peyda kon ke shetab sefr mishavad."
+       },
+       "math": "6t − 6 = 0   ⟹   t = 1"
+      },
+      {
+       "text": {
+        "fa": "آن زمان را در سرعت بگذار، نه در شتاب.",
+        "en": "Put that time into the velocity, not the acceleration.",
+        "tr": "An zaman ra dar sor'at bogzar, na dar shetab."
+       },
+       "math": "v(1) = 3 − 6 = −3"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: شتاب صفر یعنی «سرعت عوض نمی‌شود»، نه «جسم ایستاده است». جسم در همان لحظه با سرعت ۳ به عقب می‌رود (علامت منفی یعنی جهت عقب).",
+        "en": "The twist: zero acceleration means \"the velocity is not changing\", not \"the object has stopped\". At that moment the object moves backwards at speed 3 (the minus sign means the backward direction).",
+        "tr": "Pich-e emtehan: shetab-e sefr ya'ni \"sor'at avaz nemishavad\"، na \"jesm istade ast\". Jesm dar haman lahze ba sor'at-e 3 be aghab miravad (alamat-e manfi ya'ni jahat-e aghab)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`v(1) = −3`؛ جسم ایستاده نیست",
+      "en": "`v(1) = −3`; the object has not stopped",
+      "tr": "`v(1) = −3`؛ jesm istade nist"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شتاب، مشتق سرعت است، یعنی مشتق «دوم» مکان. اگر فقط یک بار از مکان مشتق بگیری، سرعت به دست آورده‌ای، نه شتاب.",
+      "en": "Acceleration is the derivative of velocity, the \"second\" derivative of position. If you differentiate position only once, you have the velocity, not the acceleration.",
+      "tr": "Shetab, moshtagh-e sor'at ast, ya'ni moshtagh-e \"dovvom\"-e makan. Agar faghat yek bar az makan moshtagh begiri, sor'at be dast avarde-i, na shetab."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شتاب صفر یعنی سرعت ثابت است، نه صفر. علامت سرعت هم جهت را نشان می‌دهد: منفی یعنی به عقب، نه «کند».",
+      "en": "Zero acceleration means the velocity is constant, not zero. And the sign of the velocity shows the direction: negative means backwards, not \"slow\".",
+      "tr": "Shetab-e sefr ya'ni sor'at sabet ast, na sefr. Alamat-e sor'at ham jahat ra neshan midahad: manfi ya'ni be aghab, na \"kond\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 983
+    },
+    {
+     "session": "1401-Dey",
+     "number": 984
+    }
+   ]
+  }
+ ]
+}
