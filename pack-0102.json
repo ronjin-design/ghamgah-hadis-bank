@@ -1,0 +1,556 @@
+{
+ "version": 102,
+ "format": 4,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 1,
+   "key": "math-2-sum-difference",
+   "title": {
+    "fa": "سینوس، کسینوس و تانژانت مجموع و تفاضل دو کمان",
+    "en": "Sine, cosine and tangent of a sum and a difference",
+    "tr": "Sinus, kosinus va tanzhant-e majmoo va tafazol-e do kaman"
+   },
+   "summary": {
+    "fa": "چرا `sin(α + β)` برابر `sin α + sin β` نیست، و فرمول درست از کجا می‌آید.",
+    "en": "Why `sin(α + β)` is not `sin α + sin β`, and where the right formula comes from.",
+    "tr": "Chera `sin(α + β)` barabar-e `sin α + sin β` nist, va formool-e dorost az koja miayad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرا فرمول جدا؟",
+      "en": "Why a separate formula?",
+      "tr": "Chera formool-e joda?"
+     },
+     "body": {
+      "fa": "سینوس روی جمع پخش نمی‌شود. یک امتحان ساده: با `α = β = 30°` داریم `sin 60° = √3/2`، یعنی حدود ۰٫۸۷، ولی `sin 30° + sin 30° = 1`. پس برای مجموع دو کمان فرمول جداگانه لازم داریم.",
+      "en": "Sine does not spread over a sum. A quick test: with `α = β = 30°`, `sin 60° = √3/2`, about 0.87, but `sin 30° + sin 30° = 1`. So the sum of two angles needs its own formula.",
+      "tr": "Sinus rooye jam' pakhsh nemishavad. Yek emtehan-e sade: ba `α = β = 30°` darim `sin 60° = √3/2`, ya'ni hodood-e 0.87, vali `sin 30° + sin 30° = 1`. Pas baraye majmoo-e do kaman formool-e jodagane lazem darim."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin(α + β) = sin α cos β + cos α sin β"
+    },
+    {
+     "type": "formula",
+     "math": "cos(α + β) = cos α cos β − sin α sin β"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ترفند حفظ کردن",
+      "en": "A memory trick",
+      "tr": "Tarfand-e hefz kardan"
+     },
+     "body": {
+      "fa": "راه به خاطر سپردن: سینوس «قاطی» می‌کند (سینوس در کسینوس، به‌علاوهٔ کسینوس در سینوس) و علامتش را نگه می‌دارد. کسینوس «هم‌جنس‌ها» را کنار هم می‌گذارد (کسینوس در کسینوس، سینوس در سینوس) و علامت را برعکس می‌کند.",
+      "en": "How to remember them: sine mixes (sine times cosine, plus cosine times sine) and keeps the sign. Cosine pairs like with like (cosine times cosine, sine times sine) and flips the sign.",
+      "tr": "Rah-e be khater sepordan: sinus \"ghati\" mikonad (sinus dar kosinus, be-alave-ye kosinus dar sinus) va alamatash ra negah midarad. Kosinus \"ham-jens-ha\" ra kenar-e ham migozarad (kosinus dar kosinus, sinus dar sinus) va alamat ra bar-aks mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تفاضل دو کمان",
+      "en": "The difference of two angles",
+      "tr": "Tafazol-e do kaman"
+     },
+     "body": {
+      "fa": "برای تفاضل لازم نیست فرمول تازه حفظ کنی: در فرمول مجموع، به جای β بگذار `−β`. چون کسینوس زوج است (`cos(−β) = cos β`) و سینوس فرد است (`sin(−β) = −sin β`)، فقط علامت جملهٔ دوم عوض می‌شود.",
+      "en": "You do not need to learn new formulas for a difference: in the sum formula, put `−β` in place of β. Since cosine is even (`cos(−β) = cos β`) and sine is odd (`sin(−β) = −sin β`), only the sign of the second term changes.",
+      "tr": "Baraye tafazol lazem nist formool-e taze hefz koni: dar formool-e majmoo, be ja-ye β bogzar `−β`. Chon kosinus zoj ast (`cos(−β) = cos β`) va sinus fard ast (`sin(−β) = −sin β`), faghat alamat-e jomle-ye dovvom avaz mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin(α − β) = sin α cos β − cos α sin β"
+    },
+    {
+     "type": "formula",
+     "math": "cos(α − β) = cos α cos β + sin α sin β"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "`cos(α − β)` برابر چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "What is `cos(α − β)` equal to? (Khordad 1402 paper)",
+      "tr": "`cos(α − β)` barabar-e chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از فرمول مجموع شروع کن.",
+        "en": "Start from the sum formula.",
+        "tr": "Az formool-e majmoo shoroo kon."
+       },
+       "math": "cos(α + β) = cos α cos β − sin α sin β"
+      },
+      {
+       "text": {
+        "fa": "به جای β بگذار `−β`.",
+        "en": "Put `−β` in place of β.",
+        "tr": "Be ja-ye β bogzar `−β`."
+       },
+       "math": "cos(α − β) = cos α cos(−β) − sin α sin(−β)"
+      },
+      {
+       "text": {
+        "fa": "کسینوس زوج است و سینوس فرد؛ دو منفی، مثبت می‌شود.",
+        "en": "Cosine is even and sine is odd; the two minus signs make a plus.",
+        "tr": "Kosinus zoj ast va sinus fard; do manfi, mosbat mishavad."
+       },
+       "math": "cos α cos β − sin α (−sin β)"
+      }
+     ],
+     "answer": {
+      "fa": "`cos α cos β + sin α sin β`",
+      "en": "`cos α cos β + sin α sin β`",
+      "tr": "`cos α cos β + sin α sin β`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "امتحان با زاویه‌های معروف",
+      "en": "Checking with familiar angles",
+      "tr": "Emtehan ba zaviye-haye ma'roof"
+     },
+     "body": {
+      "fa": "امتحانش کن: با `α = 60°` و `β = 30°`، طرف چپ `cos 30° = √3/2` است. طرف راست `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. درست است.",
+      "en": "Check it: with `α = 60°` and `β = 30°`, the left side is `cos 30° = √3/2`. The right side is `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. It works.",
+      "tr": "Emtehanash kon: ba `α = 60°` va `β = 30°`, taraf-e chap `cos 30° = √3/2` ast. Taraf-e rast `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. Dorost ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تانژانت مجموع",
+      "en": "Tangent of a sum",
+      "tr": "Tanzhant-e majmoo"
+     },
+     "body": {
+      "fa": "تانژانت همان سینوس تقسیم بر کسینوس است، پس فرمولش را می‌سازیم، حفظ نمی‌کنیم.",
+      "en": "Tangent is sine divided by cosine, so we build its formula instead of memorising it.",
+      "tr": "Tanzhant haman sinus taghsim bar kosinus ast, pas formoolash ra misazim, hefz nemikonim."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "`tan(α + β)` برابر چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "What is `tan(α + β)` equal to? (Khordad 1402 paper)",
+      "tr": "`tan(α + β)` barabar-e chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سینوس مجموع را بر کسینوس مجموع تقسیم کن.",
+        "en": "Divide the sine of the sum by the cosine of the sum.",
+        "tr": "Sinus-e majmoo ra bar kosinus-e majmoo taghsim kon."
+       },
+       "math": "tan(α + β) = (sin α cos β + cos α sin β) / (cos α cos β − sin α sin β)"
+      },
+      {
+       "text": {
+        "fa": "صورت و مخرج را بر `cos α cos β` تقسیم کن.",
+        "en": "Divide the top and the bottom by `cos α cos β`.",
+        "tr": "Soorat va makhraj ra bar `cos α cos β` taghsim kon."
+       }
+      },
+      {
+       "text": {
+        "fa": "هر `sin / cos` یک تانژانت می‌شود و `cos α cos β / cos α cos β = 1`.",
+        "en": "Each `sin / cos` becomes a tangent, and `cos α cos β / cos α cos β = 1`.",
+        "tr": "Har `sin / cos` yek tanzhant mishavad va `cos α cos β / cos α cos β = 1`."
+       },
+       "math": "(tan α + tan β) / (1 − tan α tan β)"
+      }
+     ],
+     "answer": {
+      "fa": "`(tan α + tan β) / (1 − tan α tan β)`",
+      "en": "`(tan α + tan β) / (1 − tan α tan β)`",
+      "tr": "`(tan α + tan β) / (1 − tan α tan β)`"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "tan(α ± β) = (tan α ± tan β) / (1 ∓ tan α tan β)",
+     "caption": {
+      "fa": "علامت مخرج همیشه برعکس علامت صورت است",
+      "en": "The sign in the denominator is always the opposite of the top",
+      "tr": "Alamat-e makhraj hamishe bar-aks-e alamat-e soorat ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در کسینوس علامت برعکس می‌شود: `cos(α − β)` با «به‌علاوه» نوشته می‌شود و `cos(α + β)` با «منها». در تانژانت هم مخرج مجموع `1 − tan α tan β` است، نه `1 + tan α tan β`.",
+      "en": "In cosine the sign flips: `cos(α − β)` is written with a plus and `cos(α + β)` with a minus. In tangent, the denominator for a sum is `1 − tan α tan β`, not `1 + tan α tan β`.",
+      "tr": "Dar kosinus alamat bar-aks mishavad: `cos(α − β)` ba \"be-alave\" neveshte mishavad va `cos(α + β)` ba \"menha\". Dar tanzhant ham makhraj-e majmoo `1 − tan α tan β` ast, na `1 + tan α tan β`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 969
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 2,
+   "key": "math-2-double-angle",
+   "title": {
+    "fa": "کمان دو برابر",
+    "en": "Double-angle formulas",
+    "tr": "Kaman-e do barabar"
+   },
+   "summary": {
+    "fa": "همهٔ این فرمول‌ها از یک جا می‌آیند: فرمول مجموع با `β = α`.",
+    "en": "All of these formulas come from one place: the sum formula with `β = α`.",
+    "tr": "Hame-ye in formool-ha az yek ja miayand: formool-e majmoo ba `β = α`."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ایدهٔ اصلی",
+      "en": "The key idea",
+      "tr": "Ide-ye asli"
+     },
+     "body": {
+      "fa": "کمان دو برابر یعنی `2x = x + x`. پس در فرمول‌های مجموع، هر دو کمان را x بگیر. لازم نیست چیز تازه‌ای حفظ کنی.",
+      "en": "A double angle means `2x = x + x`. So in the sum formulas, take both angles to be x. There is nothing new to memorise.",
+      "tr": "Kaman-e do barabar ya'ni `2x = x + x`. Pas dar formool-haye majmoo, har do kaman ra x begir. Lazem nist chiz-e taze-i hefz koni."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin 2x = sin(x + x) = 2 sin x cos x"
+    },
+    {
+     "type": "formula",
+     "math": "cos 2x = cos(x + x) = cos²x − sin²x"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سه شکل کسینوس دو برابر",
+      "en": "Three forms of cos 2x",
+      "tr": "Se shekl-e kosinus-e do barabar"
+     },
+     "body": {
+      "fa": "با اتحاد `sin²x + cos²x = 1` می‌توانی `cos 2x` را به دو شکل دیگر هم بنویسی: یک بار `sin²x` را با `1 − cos²x` عوض کن، یک بار `cos²x` را با `1 − sin²x`. هر سه شکل درست‌اند؛ آن را انتخاب کن که با بقیهٔ مسئله جور است.",
+      "en": "With the identity `sin²x + cos²x = 1` you can write `cos 2x` in two more ways: once replace `sin²x` with `1 − cos²x`, once replace `cos²x` with `1 − sin²x`. All three forms are correct; pick the one that fits the rest of the problem.",
+      "tr": "Ba ettehad-e `sin²x + cos²x = 1` mitavani `cos 2x` ra be do shekl-e digar ham benevisi: yek bar `sin²x` ra ba `1 − cos²x` avaz kon, yek bar `cos²x` ra ba `1 − sin²x`. Har se shekl dorost-and; an ra entekhab kon ke ba baghiye-ye mas'ale jor ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cos 2x = cos²x − sin²x = 2cos²x − 1 = 1 − 2sin²x"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "`1 − 2sin²x` برابر چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "What is `1 − 2sin²x` equal to? (Dey 1400 paper)",
+      "tr": "`1 − 2sin²x` barabar-e chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از شکل اصلی کسینوس دو برابر شروع کن.",
+        "en": "Start from the basic form of cos 2x.",
+        "tr": "Az shekl-e asli-ye kosinus-e do barabar shoroo kon."
+       },
+       "math": "cos 2x = cos²x − sin²x"
+      },
+      {
+       "text": {
+        "fa": "به جای `cos²x` بگذار `1 − sin²x`.",
+        "en": "Put `1 − sin²x` in place of `cos²x`.",
+        "tr": "Be ja-ye `cos²x` bogzar `1 − sin²x`."
+       },
+       "math": "cos 2x = (1 − sin²x) − sin²x"
+      },
+      {
+       "text": {
+        "fa": "جمله‌های مشابه را جمع کن.",
+        "en": "Collect the like terms.",
+        "tr": "Jomle-haye moshabeh ra jam' kon."
+       },
+       "math": "cos 2x = 1 − 2sin²x"
+      }
+     ],
+     "answer": {
+      "fa": "`cos 2x`",
+      "en": "`cos 2x`",
+      "tr": "`cos 2x`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سینوس دو برابر بر حسب تانژانت",
+      "en": "sin 2x in terms of tan x",
+      "tr": "Sinus-e do barabar bar hasb-e tanzhant"
+     },
+     "body": {
+      "fa": "گاهی `sin 2x` را بر حسب تانژانت می‌خواهند. ترفند: `2 sin x cos x` را بر ۱ تقسیم کن، ولی ۱ را به شکل `sin²x + cos²x` بنویس. بعد صورت و مخرج را بر `cos²x` تقسیم کن.",
+      "en": "Sometimes `sin 2x` is wanted in terms of tangent. The trick: divide `2 sin x cos x` by 1, but write the 1 as `sin²x + cos²x`. Then divide the top and the bottom by `cos²x`.",
+      "tr": "Gahi `sin 2x` ra bar hasb-e tanzhant mikhahand. Tarfand: `2 sin x cos x` ra bar 1 taghsim kon, vali 1 ra be shekl-e `sin²x + cos²x` benevis. Ba'd soorat va makhraj ra bar `cos²x` taghsim kon."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "`2tan x / (1 + tan²x)` برابر چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "What is `2tan x / (1 + tan²x)` equal to? (Khordad 1401 paper)",
+      "tr": "`2tan x / (1 + tan²x)` barabar-e chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سینوس دو برابر را بر ۱ تقسیم کن و ۱ را با اتحاد بنویس.",
+        "en": "Divide sin 2x by 1 and write the 1 using the identity.",
+        "tr": "Sinus-e do barabar ra bar 1 taghsim kon va 1 ra ba ettehad benevis."
+       },
+       "math": "sin 2x = 2 sin x cos x / (sin²x + cos²x)"
+      },
+      {
+       "text": {
+        "fa": "صورت و مخرج را بر `cos²x` تقسیم کن.",
+        "en": "Divide the top and the bottom by `cos²x`.",
+        "tr": "Soorat va makhraj ra bar `cos²x` taghsim kon."
+       },
+       "math": "sin 2x = 2tan x / (tan²x + 1)"
+      },
+      {
+       "text": {
+        "fa": "همان عبارت سؤال است، پس جوابش سینوس دو برابر است.",
+        "en": "That is the expression in the question, so it equals sin 2x.",
+        "tr": "Haman ebarat-e so'al ast, pas javabash sinus-e do barabar ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`sin 2x`",
+      "en": "`sin 2x`",
+      "tr": "`sin 2x`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`2 sin x` با `sin 2x` فرق دارد: عدد ۲ بیرون از سینوس، فقط جواب را دو برابر می‌کند. یک دام دیگر: در `sin 2x` بر حسب تانژانت، مخرج `1 + tan²x` است (به‌علاوه)، نه `1 − tan²x`.",
+      "en": "`2 sin x` is not `sin 2x`: a 2 outside the sine only doubles the answer. Another trap: in `sin 2x` written with tangent, the denominator is `1 + tan²x` (plus), not `1 − tan²x`.",
+      "tr": "`2 sin x` ba `sin 2x` fargh darad: adad-e 2 biroon az sinus, faghat javab ra do barabar mikonad. Yek dam-e digar: dar `sin 2x` bar hasb-e tanzhant, makhraj `1 + tan²x` ast (be-alave), na `1 − tan²x`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 962
+    },
+    {
+     "session": "1400-Dey",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 3,
+   "key": "math-2-equations",
+   "title": {
+    "fa": "معادلات مثلثاتی",
+    "en": "Trigonometric equations",
+    "tr": "Moadelat-e mosallasati"
+   },
+   "summary": {
+    "fa": "چرا این معادله‌ها بی‌نهایت جواب دارند، و جواب کلی را چطور بنویسیم.",
+    "en": "Why these equations have infinitely many solutions, and how to write the general solution.",
+    "tr": "Chera in moadele-ha bi-nahayat javab darand, va javab-e kolli ra chetor benevisim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرا بی‌نهایت جواب؟",
+      "en": "Why infinitely many solutions?",
+      "tr": "Chera bi-nahayat javab?"
+     },
+     "body": {
+      "fa": "سینوس و کسینوس هر `2π` تکرار می‌شوند، پس اگر یک جواب پیدا کنی، با هر دور کامل دوباره به همان جواب می‌رسی. به همین خاطر جواب را با یک عدد صحیح k می‌نویسیم: هر مقدار k یک جواب است. به این، جواب کلی می‌گویند.",
+      "en": "Sine and cosine repeat every `2π`, so once you find one solution, every full turn brings you back to it. That is why we write the answer with an integer k: every value of k gives a solution. This is called the general solution.",
+      "tr": "Sinus va kosinus har `2π` tekrar mishavand, pas agar yek javab peyda koni, ba har dor-e kamel dobare be haman javab miresi. Be hamin khater javab ra ba yek adad-e sahih k minevisim: har meghdar-e k yek javab ast. Be in, javab-e kolli migooyand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "با دایرهٔ مثلثاتی ببین",
+      "en": "See it on the unit circle",
+      "tr": "Ba dayere-ye mosallasati bebin"
+     },
+     "body": {
+      "fa": "روی دایرهٔ مثلثاتی، کسینوس طول نقطه است و سینوس عرض آن. `sin x = 0` یعنی نقطه روی محور افقی باشد: در زاویهٔ ۰ و در `π`، و هر نیم‌دور یک بار. `cos x = 1` یعنی طول نقطه ۱ باشد، که فقط در نقطهٔ `(1, 0)` رخ می‌دهد: هر دور کامل یک بار. چون `tan x = sin x / cos x`، تانژانت درست همان جاهایی صفر است که سینوس صفر است.",
+      "en": "On the unit circle, cosine is the x-coordinate of the point and sine is its y-coordinate. `sin x = 0` means the point is on the horizontal axis: at angle 0 and at `π`, once every half turn. `cos x = 1` means the x-coordinate is 1, which only happens at the point `(1, 0)`: once every full turn. Since `tan x = sin x / cos x`, tangent is zero exactly where sine is zero.",
+      "tr": "Rooye dayere-ye mosallasati, kosinus tool-e noghte ast va sinus arz-e an. `sin x = 0` ya'ni noghte rooye mehvar-e ofoghi bashad: dar zaviye-ye 0 va dar `π`, va har nim-dor yek bar. `cos x = 1` ya'ni tool-e noghte 1 bashad, ke faghat dar noghte-ye `(1, 0)` rokh midahad: har dor-e kamel yek bar. Chon `tan x = sin x / cos x`, tanzhant dorost haman ja-hayi sefr ast ke sinus sefr ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin x = 0   ⟹   x = kπ",
+     "caption": {
+      "fa": "k هر عدد صحیحی است",
+      "en": "k is any integer",
+      "tr": "k har adad-e sahihi ast"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cos x = 1   ⟹   x = 2kπ"
+    },
+    {
+     "type": "formula",
+     "math": "tan x = 0   ⟹   x = kπ"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جواب کلی در حالت عمومی",
+      "en": "The general solution in general",
+      "tr": "Javab-e kolli dar halat-e omoomi"
+     },
+     "body": {
+      "fa": "حالت کلی هم همین فکر را دنبال می‌کند. اگر یک زاویهٔ α بدانی که جواب است، بقیهٔ جواب‌ها از تقارن دایره به دست می‌آیند: سینوس در α و `π − α` یکی است، کسینوس در α و `−α`، و تانژانت هر `π` تکرار می‌شود.",
+      "en": "The general case follows the same idea. If you know one angle α that works, the circle's symmetry gives the rest: sine is the same at α and `π − α`, cosine at α and `−α`, and tangent repeats every `π`.",
+      "tr": "Halat-e kolli ham hamin fekr ra dombal mikonad. Agar yek zaviye-ye α bedani ke javab ast, baghiye-ye javab-ha az tagharon-e dayere be dast miayand: sinus dar α va `π − α` yeki ast, kosinus dar α va `−α`, va tanzhant har `π` tekrar mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin x = sin α   ⟹   x = 2kπ + α  ,  x = 2kπ + π − α"
+    },
+    {
+     "type": "formula",
+     "math": "cos x = cos α   ⟹   x = 2kπ ± α"
+    },
+    {
+     "type": "formula",
+     "math": "tan x = tan α   ⟹   x = kπ + α"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "جواب کلی `cos x = 1` (آزمون دی ۱۴۰۱)",
+      "en": "The general solution of `cos x = 1` (Dey 1401 paper)",
+      "tr": "Javab-e kolli-ye `cos x = 1` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کسینوس طول نقطه روی دایره است؛ طول ۱ فقط در نقطهٔ `(1, 0)` است.",
+        "en": "Cosine is the x-coordinate on the circle; an x-coordinate of 1 is only at the point `(1, 0)`.",
+        "tr": "Kosinus tool-e noghte rooye dayere ast; tool-e 1 faghat dar noghte-ye `(1, 0)` ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن نقطه زاویهٔ ۰ است، و بعد از هر دور کامل دوباره به آن می‌رسیم.",
+        "en": "That point is angle 0, and every full turn brings us back to it.",
+        "tr": "An noghte zaviye-ye 0 ast, va ba'd az har dor-e kamel dobare be an miresim."
+       },
+       "math": "x = 0 , 2π , 4π , −2π , …"
+      },
+      {
+       "text": {
+        "fa": "همه را با یک عدد صحیح بنویس.",
+        "en": "Write them all with one integer.",
+        "tr": "Hame ra ba yek adad-e sahih benevis."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`x = 2kπ`",
+      "en": "`x = 2kπ`",
+      "tr": "`x = 2kπ`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "جواب کلی `sin x = 0` (آزمون خرداد ۱۴۰۲)",
+      "en": "The general solution of `sin x = 0` (Khordad 1402 paper)",
+      "tr": "Javab-e kolli-ye `sin x = 0` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بنویس `sin x = sin 0` و از فرمول کلی استفاده کن.",
+        "en": "Write `sin x = sin 0` and use the general formula.",
+        "tr": "Benevis `sin x = sin 0` va az formool-e kolli estefade kon."
+       },
+       "math": "x = 2kπ + 0  ,  x = 2kπ + π"
+      },
+      {
+       "text": {
+        "fa": "اولی مضرب‌های زوج `π` است و دومی مضرب‌های فرد آن؛ با هم، همهٔ مضرب‌های `π` می‌شوند.",
+        "en": "The first gives the even multiples of `π` and the second the odd ones; together they are all multiples of `π`.",
+        "tr": "Avvali mazrab-haye zoj-e `π` ast va dovvomi mazrab-haye fard-e an; ba ham, hame-ye mazrab-haye `π` mishavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`x = kπ`",
+      "en": "`x = kπ`",
+      "tr": "`x = kπ`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جواب `cos x = 1` برابر `2kπ` است، نه `kπ`: در `x = π` کسینوس برابر `−1` است. همیشه هم بنویس که k عدد صحیح است؛ بدون آن جواب ناقص است.",
+      "en": "The solution of `cos x = 1` is `2kπ`, not `kπ`: at `x = π` cosine is `−1`. And always say that k is an integer; without it the answer is incomplete.",
+      "tr": "Javab-e `cos x = 1` barabar-e `2kπ` ast, na `kπ`: dar `x = π` kosinus barabar-e `−1` ast. Hamishe ham benevis ke k adad-e sahih ast; bedoon-e an javab naghes ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1401-Dey",
+     "number": 963
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    }
+   ]
+  }
+ ]
+}
