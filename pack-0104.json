@@ -1,0 +1,1439 @@
+{
+ "version": 104,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 1,
+   "key": "math-3-infinite-limits",
+   "title": {
+    "fa": "حد بی‌نهایت و مجانب قائم",
+    "en": "Infinite limits and vertical asymptotes",
+    "tr": "Had-e bi-nahayat va mojanab-e ghaem"
+   },
+   "summary": {
+    "fa": "وقتی مخرج به صفر نزدیک می‌شود، جواب منفجر می‌شود: به کدام طرف؟",
+    "en": "When the denominator gets close to zero the answer explodes: but which way?",
+    "tr": "Vaghti makhraj be sefr nazdik mishavad, javab monfajer mishavad: be kodam taraf?"
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تقسیم بر عدد خیلی کوچک",
+      "en": "Understand first: dividing by something tiny",
+      "tr": "Avval befahm: taghsim bar adad-e kheyli koochak"
+     },
+     "body": {
+      "fa": "یک پیتزا را بین آدم‌ها تقسیم کن. اگر به ۱۰ نفر بدهی هر کس یک‌دهم می‌گیرد. حالا برعکس فکر کن: ۱ را بر عددهای خیلی کوچک تقسیم کن. `1/0.1 = 10`، `1/0.01 = 100`، `1/0.001 = 1000`. هر چه مخرج به صفر نزدیک‌تر شود، جواب بی‌حد بزرگ می‌شود. این یعنی «حد بی‌نهایت». علامت مخرج کوچک هم تعیین می‌کند جواب به `+∞` برود یا به `−∞`.",
+      "en": "Share a pizza between people. Give it to 10 people and each gets a tenth. Now think the other way: divide 1 by smaller and smaller numbers. `1/0.1 = 10`, `1/0.01 = 100`, `1/0.001 = 1000`. The closer the denominator gets to zero, the bigger the answer grows, without limit. That is an \"infinite limit\". The sign of that tiny denominator decides whether the answer heads to `+∞` or `−∞`.",
+      "tr": "Yek pizza ra beyn-e adam-ha taghsim kon. Agar be 10 nafar bedahi har kas yek-dahom migirad. Hala bar-aks fekr kon: 1 ra bar adad-haye kheyli koochak taghsim kon. `1/0.1 = 10`, `1/0.01 = 100`, `1/0.001 = 1000`. Har che makhraj be sefr nazdik-tar shavad, javab bi-had bozorg mishavad. In ya'ni \"had-e bi-nahayat\". Alamat-e makhraj-e koochak ham ta'yin mikonad javab be `+∞` beravad ya be `−∞`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " f(x) = 1 / (x - 2)\n\n  x      1.9   1.99 | 2.01   2.1\n x - 2  -0.1  -0.01 | 0.01   0.1\n f(x)   -10   -100  | 100    10\n\n   left: to -inf    right: to +inf",
+     "caption": {
+      "fa": "از چپ، مخرج یک عدد منفی کوچک است و جواب به `−∞` می‌رود؛ از راست، مثبت کوچک است و جواب به `+∞` می‌رود.",
+      "en": "From the left the denominator is a small negative number and the answer heads to `−∞`; from the right it is a small positive number and the answer heads to `+∞`.",
+      "tr": "Az chap, makhraj yek adad-e manfi-ye koochak ast va javab be `−∞` miravad; az rast, mosbat-e koochak ast va javab be `+∞` miravad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          :|\n          : \\\n          :  `--.__\n ---------:------------> x\n  ``--._  :\n        \\ :\n         |:\n         |:\n        x = 2   vertical asymptote",
+     "caption": {
+      "fa": "نمودار به دیوار `x = 2` نزدیک می‌شود ولی هرگز به آن نمی‌رسد: سمت راست بالا می‌رود، سمت چپ پایین می‌رود.",
+      "en": "The graph gets close to the wall `x = 2` but never touches it: the right side shoots up, the left side drops down.",
+      "tr": "Nemoodar be divar-e `x = 2` nazdik mishavad vali hargez be an nemiresad: samt-e rast bala miravad, samt-e chap payin miravad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مجانب قائم",
+      "en": "The vertical asymptote",
+      "tr": "Mojanab-e ghaem"
+     },
+     "body": {
+      "fa": "اگر حد یک تابع گویا وقتی x به عدد c نزدیک می‌شود بی‌نهایت باشد، خط عمودی `x = c` «مجانب قائم» نمودار است (آزمون خرداد ۱۴۰۱): دیواری که نمودار کنارش بالا یا پایین می‌رود ولی هیچ‌وقت از آن رد نمی‌شود.",
+      "en": "If the limit of a rational function is infinite as x approaches a number c, the vertical line `x = c` is a \"vertical asymptote\" of the graph (Khordad 1401 paper): a wall the graph runs up or down beside but never crosses.",
+      "tr": "Agar had-e yek tabe'-e gooya vaghti x be adad-e c nazdik mishavad bi-nahayat bashad, khat-e amoodi-ye `x = c` \"mojanab-e ghaem\"-e nemoodar ast (azmoon-e Khordad 1401): divari ke nemoodar kenarash bala ya payin miravad vali hich-vaght az an rad nemishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(+) / (0+)  →  +∞   ,   (+) / (0−)  →  −∞",
+     "caption": {
+      "fa": "قانون علامت: علامت صورت ضرب در علامت مخرج کوچک، جهت بی‌نهایت را می‌دهد",
+      "en": "The sign rule: the sign of the top times the sign of the tiny bottom gives the direction of infinity",
+      "tr": "Ghanoon-e alamat: alamat-e soorat zarb dar alamat-e makhraj-e koochak, jahat-e bi-nahayat ra midahad"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "lim (x → c)  1 / (x − c)²  =  +∞",
+     "caption": {
+      "fa": "توان زوج: مخرج از هر دو طرف مثبت است",
+      "en": "An even power: the bottom is positive from both sides",
+      "tr": "Tavan-e zoj: makhraj az har do taraf mosbat ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد `1/x` وقتی x از راست و از چپ به صفر نزدیک می‌شود",
+      "en": "Warm-up: the limit of `1/x` as x approaches zero from the right and from the left",
+      "tr": "Garm kardan: had-e `1/x` vaghti x az rast va az chap be sefr nazdik mishavad"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از راست یعنی x مثبت و خیلی کوچک است، مثل `0.001`. ۱ تقسیم بر یک مثبت کوچک، یک مثبت بزرگ است.",
+        "en": "From the right means x is positive and tiny, like `0.001`. 1 divided by a small positive is a big positive.",
+        "tr": "Az rast ya'ni x mosbat va kheyli koochak ast, mesl-e `0.001`. 1 taghsim bar yek mosbat-e koochak, yek mosbat-e bozorg ast."
+       },
+       "math": "lim (x → 0+)  1/x = +∞"
+      },
+      {
+       "text": {
+        "fa": "از چپ یعنی x منفی و خیلی کوچک است، مثل `−0.001`. مثبت تقسیم بر منفی، منفی است.",
+        "en": "From the left means x is negative and tiny, like `−0.001`. A positive divided by a negative is negative.",
+        "tr": "Az chap ya'ni x manfi va kheyli koochak ast, mesl-e `−0.001`. Mosbat taghsim bar manfi, manfi ast."
+       },
+       "math": "lim (x → 0−)  1/x = −∞"
+      },
+      {
+       "text": {
+        "fa": "دو طرف به یک جا نمی‌روند، پس حد دوطرفه وجود ندارد.",
+        "en": "The two sides do not go to the same place, so the two-sided limit does not exist.",
+        "tr": "Do taraf be yek ja nemiravand, pas had-e do-tarafe vojood nadarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`+∞` از راست، `−∞` از چپ؛ حد دوطرفه ندارد",
+      "en": "`+∞` from the right, `−∞` from the left; no two-sided limit",
+      "tr": "`+∞` az rast, `−∞` az chap; had-e do-tarafe nadarad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد `2/(x − 4)` وقتی `x → 4−` (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: the limit of `2/(x − 4)` as `x → 4−` (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e `2/(x − 4)` vaghti `x → 4−` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول عدد ۴ را بگذار: صورت ۲ می‌شود و مخرج صفر. «عدد تقسیم بر صفر» یعنی جواب بی‌نهایت است؛ فقط علامتش مانده.",
+        "en": "First put in 4: the top becomes 2 and the bottom 0. \"A number over zero\" means the answer is infinite; only its sign is left.",
+        "tr": "Avval adad-e 4 ra bogzar: soorat 2 mishavad va makhraj sefr. \"Adad taghsim bar sefr\" ya'ni javab bi-nahayat ast; faghat alamatash mande."
+       },
+       "math": "2 / 0"
+      },
+      {
+       "text": {
+        "fa": "`4−` یعنی x کمی کمتر از ۴ است، مثل `3.99`. پس `x − 4` یک منفی کوچک است.",
+        "en": "`4−` means x is a little less than 4, like `3.99`. So `x − 4` is a small negative.",
+        "tr": "`4−` ya'ni x kami kamtar az 4 ast, mesl-e `3.99`. Pas `x − 4` yek manfi-ye koochak ast."
+       },
+       "math": "x − 4 → 0−"
+      },
+      {
+       "text": {
+        "fa": "قانون علامت: صورت مثبت، مخرج منفی؛ مثبت تقسیم بر منفی، منفی است.",
+        "en": "The sign rule: top positive, bottom negative; positive over negative is negative.",
+        "tr": "Ghanoon-e alamat: soorat mosbat, makhraj manfi; mosbat taghsim bar manfi, manfi ast."
+       },
+       "math": "(+) / (0−)  →  −∞"
+      }
+     ],
+     "answer": {
+      "fa": "`−∞`",
+      "en": "`−∞`",
+      "tr": "`−∞`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `−1/(x − 3)²` وقتی `x → 3` (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: the limit of `−1/(x − 3)²` as `x → 3` (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: had-e `−1/(x − 3)²` vaghti `x → 3` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اینجا جهت نزدیک شدن داده نشده؛ پس باید هر دو طرف را بررسی کنیم. پیچ امتحان در توان ۲ است.",
+        "en": "No direction is given here, so we must check both sides. The twist is in the square.",
+        "tr": "Inja jahat-e nazdik shodan dade nashode; pas bayad har do taraf ra barresi konim. Pich-e emtehan dar tavan-e 2 ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "`x − 3` از چپ منفی و از راست مثبت است، ولی به توان ۲ که برسد از هر دو طرف یک مثبت کوچک می‌شود.",
+        "en": "`x − 3` is negative from the left and positive from the right, but once squared it is a small positive from both sides.",
+        "tr": "`x − 3` az chap manfi va az rast mosbat ast, vali be tavan-e 2 ke beresad az har do taraf yek mosbat-e koochak mishavad."
+       },
+       "math": "(x − 3)² → 0+"
+      },
+      {
+       "text": {
+        "fa": "صورت منفی است: منفی تقسیم بر مثبت کوچک، منفی بزرگ است، از هر دو طرف. چون دو طرف یکی‌اند، حد دوطرفه وجود دارد.",
+        "en": "The top is negative: a negative over a small positive is a big negative, from both sides. Since both sides agree, the two-sided limit exists.",
+        "tr": "Soorat manfi ast: manfi taghsim bar mosbat-e koochak, manfi-ye bozorg ast, az har do taraf. Chon do taraf yeki-and, had-e do-tarafe vojood darad."
+       },
+       "math": "(−) / (0+)  →  −∞"
+      }
+     ],
+     "answer": {
+      "fa": "`−∞`",
+      "en": "`−∞`",
+      "tr": "`−∞`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "علامت را از مخرج کوچک بگیر، نه از خود عدد. در `x → 4−`، عدد ۴ مثبت است ولی `x − 4` منفی است؛ همین منفی جواب را `−∞` می‌کند.",
+      "en": "Take the sign from the tiny denominator, not from the number itself. For `x → 4−`, 4 is positive but `x − 4` is negative; that negative makes the answer `−∞`.",
+      "tr": "Alamat ra az makhraj-e koochak begir, na az khod-e adad. Dar `x → 4−`، adad-e 4 mosbat ast vali `x − 4` manfi ast; hamin manfi javab ra `−∞` mikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "حد دوطرفه فقط وقتی هست که چپ و راست یکی باشند. `1/x` در صفر حد ندارد، ولی `1/x²` دارد (`+∞`، آزمون دی ۱۴۰۱)، چون توان زوج علامت را از بین می‌برد.",
+      "en": "A two-sided limit exists only when left and right agree. `1/x` has no limit at zero, but `1/x²` does (`+∞`, Dey 1401 paper), because an even power wipes out the sign.",
+      "tr": "Had-e do-tarafe faghat vaghti hast ke chap va rast yeki bashand. `1/x` dar sefr had nadarad, vali `1/x²` darad (`+∞`، azmoon-e Dey 1401), chon tavan-e zoj alamat ra az beyn mibarad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 950
+    },
+    {
+     "session": "1401-Dey",
+     "number": 951
+    },
+    {
+     "session": "1402-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 960
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 2,
+   "key": "math-3-limits-at-infinity",
+   "title": {
+    "fa": "حد در بی‌نهایت و مجانب افقی",
+    "en": "Limits at infinity and horizontal asymptotes",
+    "tr": "Had dar bi-nahayat va mojanab-e ofoghi"
+   },
+   "summary": {
+    "fa": "وقتی x خیلی بزرگ می‌شود فقط «بزرگ‌ترین» جمله مهم است.",
+    "en": "When x gets huge, only the \"biggest\" term matters.",
+    "tr": "Vaghti x kheyli bozorg mishavad faghat \"bozorg-tarin\" jomle mohem ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: میلیاردر و سکه‌ها",
+      "en": "Understand first: the billionaire and the coins",
+      "tr": "Avval befahm: milyarder va sekke-ha"
+     },
+     "body": {
+      "fa": "یک میلیاردر را تصور کن که چند سکه هم در جیبش دارد. وقتی ثروتش را می‌شماری، سکه‌ها هیچ فرقی نمی‌کنند. وقتی x خیلی خیلی بزرگ است، در `3x² − 2x + 1` جملهٔ `3x²` همان میلیاردر است و `−2x + 1` همان سکه‌ها. پس رفتار یک چندجمله‌ای در بی‌نهایت را جملهٔ با بزرگ‌ترین توان تعیین می‌کند (آزمون خرداد ۱۴۰۲).",
+      "en": "Picture a billionaire who also has a few coins in a pocket. When you count the fortune, the coins make no difference. When x is huge, in `3x² − 2x + 1` the term `3x²` is the billionaire and `−2x + 1` are the coins. So the behaviour of a polynomial at infinity is decided by its highest-power term (Khordad 1402 paper).",
+      "tr": "Yek milyarder ra tasavvor kon ke chand sekke ham dar jibash darad. Vaghti servatash ra mishomari, sekke-ha hich farghi nemikonand. Vaghti x kheyli kheyli bozorg ast, dar `3x² − 2x + 1` jomle-ye `3x²` haman milyarder ast va `−2x + 1` haman sekke-ha. Pas raftar-e yek chand-jomle-i dar bi-nahayat ra jomle-ye ba bozorg-tarin tavan ta'yin mikonad (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیتزا بین بی‌نهایت نفر",
+      "en": "One pizza, infinitely many people",
+      "tr": "Pizza beyn-e bi-nahayat nafar"
+     },
+     "body": {
+      "fa": "و یک قانون پایه: یک پیتزا را بین بی‌نهایت آدم تقسیم کن؛ سهم هر کس به صفر می‌رسد. یعنی `1/x` وقتی x بی‌نهایت بزرگ شود به صفر می‌رود (آزمون خرداد ۱۴۰۱). هر عدد ثابت تقسیم بر توانی از x هم همین‌طور.",
+      "en": "And one basic rule: share one pizza between infinitely many people; each share shrinks to nothing. So `1/x` goes to zero as x grows without bound (Khordad 1401 paper). Any fixed number divided by a power of x does the same.",
+      "tr": "Va yek ghanoon-e paye: yek pizza ra beyn-e bi-nahayat adam taghsim kon; sahm-e har kas be sefr miresad. Ya'ni `1/x` vaghti x bi-nahayat bozorg shavad be sefr miravad (azmoon-e Khordad 1401). Har adad-e sabet taghsim bar tavani az x ham hamin-tor."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "lim (x → ±∞)  a / x^n  =  0",
+     "caption": {
+      "fa": "n مثبت است",
+      "en": "n is positive",
+      "tr": "n mosbat ast"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  y = 2  . . . . . . . . . . . .\n                  ___..---'''\n             _.--'\n          .-'\n        /\n ------+----------------------> x\n\n  the curve creeps up to y = 2",
+     "caption": {
+      "fa": "مجانب افقی: نمودار `(2x − 1)/(x + 4)` در بی‌نهایت به خط `y = 2` نزدیک می‌شود (آزمون خرداد ۱۴۰۱).",
+      "en": "A horizontal asymptote: the graph of `(2x − 1)/(x + 4)` gets close to the line `y = 2` at infinity (Khordad 1401 paper).",
+      "tr": "Mojanab-e ofoghi: nemoodar-e `(2x − 1)/(x + 4)` dar bi-nahayat be khat-e `y = 2` nazdik mishavad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مجانب افقی",
+      "en": "The horizontal asymptote",
+      "tr": "Mojanab-e ofoghi"
+     },
+     "body": {
+      "fa": "اگر حد تابع وقتی x به `+∞` یا `−∞` می‌رود عدد L باشد، خط افقی `y = L` «مجانب افقی» است (آزمون خرداد ۱۴۰۱). برای کسرهای چندجمله‌ای، فقط درجهٔ صورت و مخرج را مقایسه کن.",
+      "en": "If the limit of a function as x goes to `+∞` or `−∞` is a number L, the horizontal line `y = L` is a \"horizontal asymptote\" (Khordad 1401 paper). For fractions of polynomials, just compare the degrees of the top and the bottom.",
+      "tr": "Agar had-e tabe' vaghti x be `+∞` ya `−∞` miravad adad-e L bashad, khat-e ofoghi-ye `y = L` \"mojanab-e ofoghi\" ast (azmoon-e Khordad 1401). Baraye kasr-haye chand-jomle-i, faghat daraje-ye soorat va makhraj ra moghayese kon."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  compare degrees (top vs bottom)\n ---------------------------------\n  top < bottom  ->  limit is 0\n  top = bottom  ->  ratio of the\n                    leading numbers\n  top > bottom  ->  +inf or -inf",
+     "caption": {
+      "fa": "یک جدول، همهٔ سؤال‌های کسر چندجمله‌ای در بی‌نهایت.",
+      "en": "One table for every polynomial-fraction question at infinity.",
+      "tr": "Yek jadval, hame-ye so'al-haye kasr-e chand-jomle-i dar bi-nahayat."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد `x³` وقتی `x → −∞`",
+      "en": "Warm-up: the limit of `x³` as `x → −∞`",
+      "tr": "Garm kardan: had-e `x³` vaghti `x → −∞`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "یک عدد خیلی منفی را تصور کن، مثل `−1000`. توان فرد علامت را نگه می‌دارد.",
+        "en": "Imagine a very negative number, like `−1000`. An odd power keeps the sign.",
+        "tr": "Yek adad-e kheyli manfi ra tasavvor kon, mesl-e `−1000`. Tavan-e fard alamat ra negah midarad."
+       },
+       "math": "(−1000)³ = −1 000 000 000"
+      },
+      {
+       "text": {
+        "fa": "هر چه x منفی‌تر شود، `x³` منفی‌تر و بزرگ‌تر می‌شود، بی‌حد. آزمون خرداد ۱۴۰۱ همین را پرسید.",
+        "en": "The more negative x gets, the more negative and bigger `x³` gets, without limit. The Khordad 1401 paper asked exactly this.",
+        "tr": "Har che x manfi-tar shavad, `x³` manfi-tar va bozorg-tar mishavad, bi-had. Azmoon-e Khordad 1401 hamin ra porsid."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`−∞`",
+      "en": "`−∞`",
+      "tr": "`−∞`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد `(5x² − 3)/(2x² + x)` وقتی `x → +∞` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the limit of `(5x² − 3)/(2x² + x)` as `x → +∞` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e `(5x² − 3)/(2x² + x)` vaghti `x → +∞` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اگر بی‌نهایت را بگذاری، `∞/∞` می‌گیری که معنا ندارد. پس باید میلیاردرها را پیدا کنیم: درجهٔ صورت و مخرج هر دو ۲ است.",
+        "en": "Putting in infinity gives `∞/∞`, which means nothing. So find the billionaires: the top and the bottom both have degree 2.",
+        "tr": "Agar bi-nahayat ra bogzari, `∞/∞` migiri ke ma'na nadarad. Pas bayad milyarder-ha ra peyda konim: daraje-ye soorat va makhraj har do 2 ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "صورت و مخرج را بر `x²` تقسیم کن. کسر عوض نمی‌شود، چون هر دو را بر یک چیز تقسیم کرده‌ای.",
+        "en": "Divide the top and the bottom by `x²`. The fraction does not change, because you divided both by the same thing.",
+        "tr": "Soorat va makhraj ra bar `x²` taghsim kon. Kasr avaz nemishavad, chon har do ra bar yek chiz taghsim karde-i."
+       },
+       "math": "(5 − 3/x²) / (2 + 1/x)"
+      },
+      {
+       "text": {
+        "fa": "حالا قانون پیتزا: `3/x²` و `1/x` به صفر می‌روند. فقط عددهای اصلی می‌مانند.",
+        "en": "Now the pizza rule: `3/x²` and `1/x` go to zero. Only the leading numbers are left.",
+        "tr": "Hala ghanoon-e pizza: `3/x²` va `1/x` be sefr miravand. Faghat adad-haye asli mimanand."
+       },
+       "math": "(5 − 0) / (2 + 0) = 5/2"
+      }
+     ],
+     "answer": {
+      "fa": "`5/2`",
+      "en": "`5/2`",
+      "tr": "`5/2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `(4x² + 5)/(2x³ − x)` وقتی `x → +∞` (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: the limit of `(4x² + 5)/(2x³ − x)` as `x → +∞` (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: had-e `(4x² + 5)/(2x³ − x)` vaghti `x → +∞` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: وسوسه می‌شوی بگویی `4/2 = 2`. ولی اول درجه‌ها را ببین: صورت ۲ و مخرج ۳.",
+        "en": "The twist: you are tempted to say `4/2 = 2`. But look at the degrees first: the top is 2 and the bottom is 3.",
+        "tr": "Pich-e emtehan: vasvase mishavi beguyi `4/2 = 2`. Vali avval daraje-ha ra bebin: soorat 2 va makhraj 3."
+       }
+      },
+      {
+       "text": {
+        "fa": "بر بزرگ‌ترین توان کل کسر، یعنی `x³`، تقسیم کن.",
+        "en": "Divide by the highest power in the whole fraction, which is `x³`.",
+        "tr": "Bar bozorg-tarin tavan-e kol-e kasr, ya'ni `x³`، taghsim kon."
+       },
+       "math": "(4/x + 5/x³) / (2 − 1/x²)"
+      },
+      {
+       "text": {
+        "fa": "همهٔ کسرهای کوچک صفر می‌شوند؛ صورت صفر می‌ماند و مخرج ۲. مخرج قوی‌تر، کسر را به صفر می‌کشد.",
+        "en": "All the small fractions become zero; the top is left with 0 and the bottom with 2. The stronger bottom drags the fraction to zero.",
+        "tr": "Hame-ye kasr-haye koochak sefr mishavand; soorat sefr mimanad va makhraj 2. Makhraj-e ghavi-tar, kasr ra be sefr mikeshad."
+       },
+       "math": "0 / 2 = 0"
+      }
+     ],
+     "answer": {
+      "fa": "`0`",
+      "en": "`0`",
+      "tr": "`0`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نسبت عددهای اصلی را فقط وقتی بگیر که درجه‌ها برابرند. اگر درجهٔ مخرج بیشتر است، جواب صفر است، هر عددی که جلوی جمله‌ها باشد.",
+      "en": "Take the ratio of the leading numbers only when the degrees are equal. If the bottom has the higher degree, the answer is zero, whatever numbers stand in front.",
+      "tr": "Nesbat-e adad-haye asli ra faghat vaghti begir ke daraje-ha barabar-and. Agar daraje-ye makhraj bishtar ast, javab sefr ast, har adadi ke jelo-ye jomle-ha bashad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "وقتی `x → −∞` است، به توان‌های فرد دقت کن: `x³` منفی می‌ماند. در `(3x³ − 2x + 1)/(x³ + 5)` منفی‌ها در صورت و مخرج هم را خنثی می‌کنند و جواب ۳ است (آزمون خرداد ۱۴۰۲).",
+      "en": "When `x → −∞`, watch odd powers: `x³` stays negative. In `(3x³ − 2x + 1)/(x³ + 5)` the minus signs on top and bottom cancel and the answer is 3 (Khordad 1402 paper).",
+      "tr": "Vaghti `x → −∞` ast, be tavan-haye fard deghat kon: `x³` manfi mimanad. Dar `(3x³ − 2x + 1)/(x³ + 5)` manfi-ha dar soorat va makhraj ham ra khonsa mikonand va javab 3 ast (azmoon-e Khordad 1402)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 951
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 952
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 955
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 956
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 955
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 956
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 969
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 3,
+   "key": "math-3-radicals-at-infinity",
+   "title": {
+    "fa": "رادیکال و قدرمطلق در بی‌نهایت",
+    "en": "Roots and absolute values at infinity",
+    "tr": "Radikal va ghadr-e motlagh dar bi-nahayat"
+   },
+   "summary": {
+    "fa": "`√(x²)` اندازه را نگه می‌دارد و علامت را دور می‌ریزد؛ و `∞ − ∞` صفر نیست.",
+    "en": "`√(x²)` keeps the size and throws away the sign; and `∞ − ∞` is not zero.",
+    "tr": "`√(x²)` andaze ra negah midarad va alamat ra door mirizad; va `∞ − ∞` sefr nist."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ترازو جهت ندارد",
+      "en": "Understand first: a scale has no direction",
+      "tr": "Avval befahm: tarazoo jahat nadarad"
+     },
+     "body": {
+      "fa": "رادیکال مثل یک ترازو است: فقط «وزن» یا اندازه را نشان می‌دهد، نه جهت را. `√(3²) = 3` و `√((−3)²) = 3` هم. پس `√(x²)` همیشه `|x|` است. این در بی‌نهایت خیلی مهم است: وقتی `x → −∞`، x منفی است و `|x| = −x`. فراموش کردن همین یک منفی، بیشترین نمره را در این بخش می‌گیرد.",
+      "en": "A square root is like a weighing scale: it only shows the \"weight\", the size, not the direction. `√(3²) = 3` and `√((−3)²) = 3` too. So `√(x²)` is always `|x|`. This matters a lot at infinity: when `x → −∞`, x is negative and `|x| = −x`. Forgetting that one minus sign costs the most marks in this unit.",
+      "tr": "Radikal mesl-e yek tarazoo ast: faghat \"vazn\" ya andaze ra neshan midahad, na jahat ra. `√(3²) = 3` va `√((−3)²) = 3` ham. Pas `√(x²)` hamishe `|x|` ast. In dar bi-nahayat kheyli mohem ast: vaghti `x → −∞`، x manfi ast va `|x| = −x`. Faramoosh kardan-e hamin yek manfi, bishtarin nomre ra dar in bakhsh migirad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   x -> -inf        x -> +inf\n  <---------- 0 ---------->\n   |x| = -x         |x| = x\n   sqrt(x^2) = -x   sqrt(x^2) = x",
+     "caption": {
+      "fa": "سمت راست صفر، `|x| = x`؛ سمت چپ، `|x| = −x`. همیشه اول بپرس x به کدام بی‌نهایت می‌رود.",
+      "en": "Right of zero, `|x| = x`; left of zero, `|x| = −x`. Always ask first which infinity x is heading to.",
+      "tr": "Samt-e rast-e sefr, `|x| = x`؛ samt-e chap, `|x| = −x`. Hamishe avval bepors x be kodam bi-nahayat miravad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "√(x²) = |x|"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد `√(x² + 1) / x` وقتی `x → +∞`",
+      "en": "Warm-up: the limit of `√(x² + 1) / x` as `x → +∞`",
+      "tr": "Garm kardan: had-e `√(x² + 1) / x` vaghti `x → +∞`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "زیر رادیکال، میلیاردر `x²` است. آن را بیرون بکش: از هر جمله `x²` فاکتور بگیر.",
+        "en": "Under the root, the billionaire is `x²`. Pull it out: factor `x²` out of every term.",
+        "tr": "Zir-e radikal, milyarder `x²` ast. An ra biroon bekesh: az har jomle `x²` faktor begir."
+       },
+       "math": "√(x²(1 + 1/x²)) = |x| √(1 + 1/x²)"
+      },
+      {
+       "text": {
+        "fa": "x به `+∞` می‌رود، پس مثبت است و `|x| = x`. حالا x بالا با x پایین ساده می‌شود.",
+        "en": "x goes to `+∞`, so it is positive and `|x| = x`. Now the x on top cancels with the x below.",
+        "tr": "x be `+∞` miravad, pas mosbat ast va `|x| = x`. Hala x-e bala ba x-e payin sade mishavad."
+       },
+       "math": "√(1 + 1/x²)  →  √1"
+      }
+     ],
+     "answer": {
+      "fa": "`1`",
+      "en": "`1`",
+      "tr": "`1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد `√(4x² + 1) / (3x − 2)` وقتی `x → +∞` (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: the limit of `√(4x² + 1) / (3x − 2)` as `x → +∞` (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e `√(4x² + 1) / (3x − 2)` vaghti `x → +∞` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "میلیاردر زیر رادیکال `4x²` است و ریشه‌اش `2|x|`. میلیاردر مخرج `3x` است.",
+        "en": "The billionaire under the root is `4x²`, and its root is `2|x|`. The billionaire at the bottom is `3x`.",
+        "tr": "Milyarder zir-e radikal `4x²` ast va rishe-ash `2|x|`. Milyarder-e makhraj `3x` ast."
+       },
+       "math": "√(4x² + 1) ≈ 2|x|"
+      },
+      {
+       "text": {
+        "fa": "x به `+∞` می‌رود، پس `|x| = x`.",
+        "en": "x goes to `+∞`, so `|x| = x`.",
+        "tr": "x be `+∞` miravad, pas `|x| = x`."
+       },
+       "math": "2x / 3x"
+      },
+      {
+       "text": {
+        "fa": "x ها ساده می‌شوند و نسبت عددها می‌ماند.",
+        "en": "The x terms cancel and the ratio of the numbers is left.",
+        "tr": "x-ha sade mishavand va nesbat-e adad-ha mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`2/3`",
+      "en": "`2/3`",
+      "tr": "`2/3`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `√(x² + 2) / (2x + 1)` وقتی `x → −∞` (آزمون دی ۱۴۰۲)",
+      "en": "Exam twist: the limit of `√(x² + 2) / (2x + 1)` as `x → −∞` (Dey 1402 paper)",
+      "tr": "Pich-e emtehani: had-e `√(x² + 2) / (2x + 1)` vaghti `x → −∞` (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ظاهرش مثل مثال قبل است، ولی پیچ امتحان در جهت است: x به `−∞` می‌رود.",
+        "en": "It looks like the previous example, but the twist is the direction: x goes to `−∞`.",
+        "tr": "Zaherash mesl-e mesal-e ghabl ast, vali pich-e emtehan dar jahat ast: x be `−∞` miravad."
+       },
+       "math": "√(x² + 2) ≈ |x|"
+      },
+      {
+       "text": {
+        "fa": "x منفی است، پس `|x| = −x`. این منفی را حتماً بنویس.",
+        "en": "x is negative, so `|x| = −x`. Be sure to write that minus.",
+        "tr": "x manfi ast, pas `|x| = −x`. In manfi ra hatman benevis."
+       },
+       "math": "−x / 2x"
+      },
+      {
+       "text": {
+        "fa": "x ها ساده می‌شوند و منفی می‌ماند. صورت (رادیکال) مثبت است و مخرج منفی؛ جواب منفی منطقی است.",
+        "en": "The x terms cancel and the minus stays. The top (a root) is positive and the bottom is negative, so a negative answer makes sense.",
+        "tr": "x-ha sade mishavand va manfi mimanad. Soorat (radikal) mosbat ast va makhraj manfi; javab-e manfi manteghi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`−1/2`",
+      "en": "`−1/2`",
+      "tr": "`−1/2`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قدرمطلق در منفی بی‌نهایت",
+      "en": "Absolute value at minus infinity",
+      "tr": "Ghadr-e motlagh dar manfi bi-nahayat"
+     },
+     "body": {
+      "fa": "همین فکر برای قدرمطلق هم کار می‌کند. در `(2x + |x|)/(3x − 1)` وقتی `x → −∞` (آزمون دی ۱۴۰۲)، به جای `|x|` بگذار `−x`: صورت `2x − x = x` می‌شود و جواب `x / 3x = 1/3`.",
+      "en": "The same idea works for absolute values. In `(2x + |x|)/(3x − 1)` as `x → −∞` (Dey 1402 paper), replace `|x|` with `−x`: the top becomes `2x − x = x` and the answer is `x / 3x = 1/3`.",
+      "tr": "Hamin fekr baraye ghadr-e motlagh ham kar mikonad. Dar `(2x + |x|)/(3x − 1)` vaghti `x → −∞` (azmoon-e Dey 1402), be ja-ye `|x|` bogzar `−x`: soorat `2x − x = x` mishavad va javab `x / 3x = 1/3`."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ابهام بی‌نهایت منهای بی‌نهایت",
+      "en": "The infinity-minus-infinity form",
+      "tr": "Ebham-e bi-nahayat menha-ye bi-nahayat"
+     },
+     "body": {
+      "fa": "`∞ − ∞` یعنی دو عدد خیلی بزرگ که از هم کم می‌شوند. جواب می‌تواند هر چیزی باشد؛ مثل اینکه بپرسی دو کوه چقدر اختلاف ارتفاع دارند. در `√(x² + 4x) − x` (آزمون دی ۱۴۰۲) در مزدوج ضرب کن: صورت `(x² + 4x) − x² = 4x` می‌شود و مخرج `√(x² + 4x) + x`. حالا میلیاردرها: `4x / (x + x) = 2`.",
+      "en": "`∞ − ∞` means two huge numbers being subtracted. The answer could be anything, like asking how much taller one mountain is than another. In `√(x² + 4x) − x` (Dey 1402 paper), multiply by the conjugate: the top becomes `(x² + 4x) − x² = 4x` and the bottom `√(x² + 4x) + x`. Now the billionaires: `4x / (x + x) = 2`.",
+      "tr": "`∞ − ∞` ya'ni do adad-e kheyli bozorg ke az ham kam mishavand. Javab mitavanad har chizi bashad; mesl-e inke beporsi do kooh cheghadr ekhtelaf-e ertefa' darand. Dar `√(x² + 4x) − x` (azmoon-e Dey 1402) dar mozdavaj zarb kon: soorat `(x² + 4x) − x² = 4x` mishavad va makhraj `√(x² + 4x) + x`. Hala milyarder-ha: `4x / (x + x) = 2`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "√A − B  =  (A − B²) / (√A + B)",
+     "caption": {
+      "fa": "ضرب در مزدوج: تفاضل را به کسر تبدیل می‌کند",
+      "en": "Multiplying by the conjugate turns a difference into a fraction",
+      "tr": "Zarb dar mozdavaj: tafazol ra be kasr tabdil mikonad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`√(x²)` برابر `x` نیست، برابر `|x|` است. وقتی `x → −∞`، آن را `−x` بنویس؛ وگرنه علامت جوابت غلط می‌شود.",
+      "en": "`√(x²)` is not `x`, it is `|x|`. When `x → −∞`, write it as `−x`; otherwise the sign of your answer is wrong.",
+      "tr": "`√(x²)` barabar-e `x` nist, barabar-e `|x|` ast. Vaghti `x → −∞`، an ra `−x` benevis; vagarna alamat-e javabat ghalat mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`∞ − ∞` صفر نیست. هیچ‌وقت دو بی‌نهایت را مستقیم از هم کم نکن؛ اول با مزدوج آن را به کسر تبدیل کن.",
+      "en": "`∞ − ∞` is not zero. Never subtract two infinities directly; first turn it into a fraction with the conjugate.",
+      "tr": "`∞ − ∞` sefr nist. Hich-vaght do bi-nahayat ra mostaghim az ham kam nakon; avval ba mozdavaj an ra be kasr tabdil kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 981
+    },
+    {
+     "session": "1402-Dey",
+     "number": 981
+    },
+    {
+     "session": "1402-Dey",
+     "number": 982
+    },
+    {
+     "session": "1402-Dey",
+     "number": 987
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 4,
+   "key": "math-3-zero-over-zero",
+   "title": {
+    "fa": "رفع ابهام صفر بر صفر",
+    "en": "Removing the 0/0 form",
+    "tr": "Raf'-e ebham-e sefr bar sefr"
+   },
+   "summary": {
+    "fa": "`0/0` یک نقاب است: پشتش یک عامل مشترک پنهان شده.",
+    "en": "`0/0` is a mask: a hidden common factor is behind it.",
+    "tr": "`0/0` yek neghab ast: poshtash yek amel-e moshtarak penhan shode."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سنگفرش افتاده",
+      "en": "Understand first: the missing paving stone",
+      "tr": "Avval befahm: sangfarsh-e oftade"
+     },
+     "body": {
+      "fa": "جاده‌ای را تصور کن که درست یک سنگفرشش افتاده. نمی‌توانی روی آن نقطه بایستی، ولی کاملاً معلوم است جاده به کجا می‌رود. `0/0` همین است: تابع در یک نقطه تعریف نشده، چون صورت و مخرج یک عامل مشترک دارند که آنجا صفر می‌شود. کار ما پیدا کردن و حذف آن عامل است، تا ببینیم جاده به کجا می‌رسد. `0/0` جواب نیست؛ یعنی «هنوز کار داری».",
+      "en": "Picture a road with exactly one paving stone missing. You cannot stand on that spot, but it is perfectly clear where the road leads. `0/0` is just that: the function is undefined at one point because the top and the bottom share a factor that is zero there. Our job is to find that factor and remove it, to see where the road leads. `0/0` is not an answer; it means \"you still have work to do\".",
+      "tr": "Jadde-i ra tasavvor kon ke dorost yek sangfarshash oftade. Nemitavani rooye an noghte beyisti, vali kamelan ma'loom ast jadde be koja miravad. `0/0` hamin ast: tabe' dar yek noghte ta'rif nashode, chon soorat va makhraj yek amel-e moshtarak darand ke anja sefr mishavad. Kar-e ma peyda kardan va hazf-e an amel ast, ta bebinim jadde be koja miresad. `0/0` javab nist; ya'ni \"hanooz kar dari\"."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  y\n  4 . . . . . . o  <- hole (2, 4)\n              /\n            /\n          /\n        /\n ------+--------+------> x\n                2\n  y = x + 2 with one point missing",
+     "caption": {
+      "fa": "`(x² − 4)/(x − 2)` همان خط `y = x + 2` است که فقط نقطهٔ `x = 2` را ندارد. حد، ارتفاع همان سوراخ است: ۴.",
+      "en": "`(x² − 4)/(x − 2)` is the line `y = x + 2` with only the point `x = 2` missing. The limit is the height of that hole: 4.",
+      "tr": "`(x² − 4)/(x − 2)` haman khat-e `y = x + 2` ast ke faghat noghte-ye `x = 2` ra nadarad. Had, ertefa'-e haman soorakh ast: 4."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  0/0 toolbox\n ----------------------------------\n  polynomial   -> factor, cancel\n  square root  -> conjugate\n  cube root    -> a^3 - b^3 partner\n  0 x inf      -> rewrite as ratio",
+     "caption": {
+      "fa": "جعبه‌ابزار: ببین چه چیزی صفر می‌سازد و ابزار همان را بردار.",
+      "en": "The toolbox: see what is making the zero, and pick the tool for that.",
+      "tr": "Jabe-abzar: bebin che chizi sefr misazad va abzar-e haman ra bardar."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "a² − b² = (a − b)(a + b)"
+    },
+    {
+     "type": "formula",
+     "math": "a³ − b³ = (a − b)(a² + ab + b²)",
+     "caption": {
+      "fa": "اتحاد چاق و لاغر (آزمون دی ۱۴۰۱)",
+      "en": "The difference-of-cubes identity (Dey 1401 paper)",
+      "tr": "Ettehad-e chagh va laghar (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مزدوج، چاق و لاغر، و صفر ضرب در بی‌نهایت",
+      "en": "Conjugates, cube partners, and zero times infinity",
+      "tr": "Mozdavaj, chagh va laghar, va sefr zarb dar bi-nahayat"
+     },
+     "body": {
+      "fa": "وقتی رادیکال در کار است، بهترین قدم اول ضرب صورت و مخرج در مزدوج است (آزمون خرداد ۱۴۰۲)، چون `(√x − 2)(√x + 2) = x − 4` و رادیکال ناپدید می‌شود. برای ریشهٔ سوم، از اتحاد چاق و لاغر عامل همراه را بساز. و ابهام `0 × ∞` (آزمون خرداد ۱۴۰۲) را اول به شکل کسری بنویس که `0/0` یا `∞/∞` شود، بعد یکی از همین ابزارها را به کار ببر.",
+      "en": "When a square root is involved, the best first step is to multiply the top and the bottom by the conjugate (Khordad 1402 paper), because `(√x − 2)(√x + 2) = x − 4` and the root disappears. For a cube root, build the partner factor from the difference-of-cubes identity. And a `0 × ∞` form (Khordad 1402 paper) is first rewritten as a fraction giving `0/0` or `∞/∞`, then one of these tools is used.",
+      "tr": "Vaghti radikal dar kar ast, behtarin ghadam-e avval zarb-e soorat va makhraj dar mozdavaj ast (azmoon-e Khordad 1402), chon `(√x − 2)(√x + 2) = x − 4` va radikal napadid mishavad. Baraye rishe-ye sevvom, az ettehad-e chagh va laghar amel-e hamrah ra besaz. Va ebham-e `0 × ∞` (azmoon-e Khordad 1402) ra avval be shekl-e kasri benevis ke `0/0` ya `∞/∞` shavad, ba'd yeki az hamin abzar-ha ra be kar bebar."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد `(x² − 4)/(x − 2)` وقتی `x → 2` (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: the limit of `(x² − 4)/(x − 2)` as `x → 2` (Khordad 1402 paper)",
+      "tr": "Garm kardan: had-e `(x² − 4)/(x − 2)` vaghti `x → 2` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول همیشه عدد را بگذار. `4 − 4 = 0` و `2 − 2 = 0`: نقاب `0/0`. پس یک عامل مشترک `(x − 2)` پنهان است.",
+        "en": "Always put the number in first. `4 − 4 = 0` and `2 − 2 = 0`: the `0/0` mask. So a common factor `(x − 2)` is hiding.",
+        "tr": "Avval hamishe adad ra bogzar. `4 − 4 = 0` va `2 − 2 = 0`: neghab-e `0/0`. Pas yek amel-e moshtarak-e `(x − 2)` penhan ast."
+       },
+       "math": "0 / 0"
+      },
+      {
+       "text": {
+        "fa": "صورت تفاضل دو مربع است؛ تجزیه‌اش کن تا عامل پنهان پیدا شود.",
+        "en": "The top is a difference of two squares; factor it to find the hidden factor.",
+        "tr": "Soorat tafazol-e do morabba' ast; tajziye-ash kon ta amel-e penhan peyda shavad."
+       },
+       "math": "(x − 2)(x + 2) / (x − 2)"
+      },
+      {
+       "text": {
+        "fa": "عامل مشترک را حذف کن. این مجاز است چون x به ۲ نزدیک می‌شود ولی خود ۲ نیست. بعد عدد را بگذار.",
+        "en": "Cancel the common factor. That is allowed because x gets close to 2 but is never 2 itself. Then put the number in.",
+        "tr": "Amel-e moshtarak ra hazf kon. In mojaz ast chon x be 2 nazdik mishavad vali khod-e 2 nist. Ba'd adad ra bogzar."
+       },
+       "math": "x + 2  →  4"
+      }
+     ],
+     "answer": {
+      "fa": "`4`",
+      "en": "`4`",
+      "tr": "`4`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد `(x − 4)/(√x − 2)` وقتی `x → 4` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the limit of `(x − 4)/(√x − 2)` as `x → 4` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e `(x − 4)/(√x − 2)` vaghti `x → 4` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "عدد را بگذار: `0/0`. رادیکال در مخرج است، پس ابزار، مزدوج است.",
+        "en": "Put the number in: `0/0`. The root is in the bottom, so the tool is the conjugate.",
+        "tr": "Adad ra bogzar: `0/0`. Radikal dar makhraj ast, pas abzar, mozdavaj ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "صورت و مخرج را در `√x + 2` ضرب کن. مخرج `x − 4` می‌شود و رادیکال می‌رود.",
+        "en": "Multiply the top and the bottom by `√x + 2`. The bottom becomes `x − 4` and the root is gone.",
+        "tr": "Soorat va makhraj ra dar `√x + 2` zarb kon. Makhraj `x − 4` mishavad va radikal miravad."
+       },
+       "math": "(x − 4)(√x + 2) / (x − 4)"
+      },
+      {
+       "text": {
+        "fa": "حالا عامل مشترک `x − 4` آشکار شد؛ حذفش کن و ۴ را بگذار.",
+        "en": "Now the common factor `x − 4` is out in the open; cancel it and put in 4.",
+        "tr": "Hala amel-e moshtarak-e `x − 4` ashkar shod; hazfash kon va 4 ra bogzar."
+       },
+       "math": "√4 + 2 = 4"
+      }
+     ],
+     "answer": {
+      "fa": "`4`",
+      "en": "`4`",
+      "tr": "`4`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `(x − 8)/(∛x − 2)` وقتی `x → 8` (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: the limit of `(x − 8)/(∛x − 2)` as `x → 8` (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: had-e `(x − 8)/(∛x − 2)` vaghti `x → 8` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار ریشهٔ سوم است و مزدوج معمولی کار نمی‌کند. `x − 8` را تفاضل دو مکعب ببین: `a = ∛x` و `b = 2`.",
+        "en": "The twist: this time it is a cube root, and an ordinary conjugate does not work. See `x − 8` as a difference of two cubes: `a = ∛x` and `b = 2`.",
+        "tr": "Pich-e emtehan: in bar rishe-ye sevvom ast va mozdavaj-e ma'mooli kar nemikonad. `x − 8` ra tafazol-e do moka'ab bebin: `a = ∛x` va `b = 2`."
+       },
+       "math": "a³ − b³ = x − 8"
+      },
+      {
+       "text": {
+        "fa": "با اتحاد چاق و لاغر، صورت را تجزیه کن. عامل `∛x − 2` درست همان مخرج است.",
+        "en": "Factor the top with the difference-of-cubes identity. The factor `∛x − 2` is exactly the bottom.",
+        "tr": "Ba ettehad-e chagh va laghar, soorat ra tajziye kon. Amel-e `∛x − 2` dorost haman makhraj ast."
+       },
+       "math": "(∛x − 2)(∛x² + 2∛x + 4)"
+      },
+      {
+       "text": {
+        "fa": "حذف کن و ۸ را بگذار: `∛64 = 4`، `2∛8 = 4`، و ۴.",
+        "en": "Cancel and put in 8: `∛64 = 4`, `2∛8 = 4`, and 4.",
+        "tr": "Hazf kon va 8 ra bogzar: `∛64 = 4`، `2∛8 = 4`، va 4."
+       },
+       "math": "4 + 4 + 4 = 12"
+      }
+     ],
+     "answer": {
+      "fa": "`12`",
+      "en": "`12`",
+      "tr": "`12`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`0/0` جواب نیست، و برابر ۱ یا صفر هم نیست. یعنی باید عامل مشترک را پیدا و حذف کنی.",
+      "en": "`0/0` is not an answer, and it is not 1 or zero either. It means you must find and cancel the common factor.",
+      "tr": "`0/0` javab nist, va barabar-e 1 ya sefr ham nist. Ya'ni bayad amel-e moshtarak ra peyda va hazf koni."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فقط «عامل» را حذف کن، نه «جمله». در `(x² − 4)/(x − 2)` نمی‌توانی x را از `x²` و `x` خط بزنی؛ اول تجزیه کن.",
+      "en": "Cancel only \"factors\", never \"terms\". In `(x² − 4)/(x − 2)` you cannot strike x out of `x²` and `x`; factor first.",
+      "tr": "Faghat \"amel\" ra hazf kon, na \"jomle\". Dar `(x² − 4)/(x − 2)` nemitavani x ra az `x²` va `x` khat bezani; avval tajziye kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 983
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1401-Dey",
+     "number": 982
+    },
+    {
+     "session": "1400-Dey",
+     "number": 984
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 984
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 5,
+   "key": "math-3-trig-limits",
+   "title": {
+    "fa": "حدهای مثلثاتی",
+    "en": "Trigonometric limits",
+    "tr": "Had-haye mosallasati"
+   },
+   "summary": {
+    "fa": "برای زاویه‌های خیلی کوچک (به رادیان)، `sin x` تقریباً خود x است.",
+    "en": "For very small angles (in radians), `sin x` is almost x itself.",
+    "tr": "Baraye zaviye-haye kheyli koochak (be radian), `sin x` taghriban khod-e x ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: برش باریک پیتزا",
+      "en": "Understand first: a thin slice of pizza",
+      "tr": "Avval befahm: boresh-e barik-e pizza"
+     },
+     "body": {
+      "fa": "یک برش خیلی باریک پیتزا را تصور کن. لبهٔ خمیده و برش صاف تقریباً هم‌اندازه‌اند؛ هر چه برش باریک‌تر، شبیه‌تر. روی دایرهٔ مثلثاتی، طول کمان همان زاویه x (به رادیان) است و ارتفاع آن `sin x`. برای زاویهٔ خیلی کوچک این دو تقریباً یکی‌اند، پس `sin x / x` به ۱ نزدیک می‌شود (آزمون خرداد ۱۴۰۱).",
+      "en": "Picture a very thin slice of pizza. The curved crust and the straight cut are almost the same length; the thinner the slice, the closer they get. On the unit circle, the arc length is the angle x itself (in radians) and its height is `sin x`. For a tiny angle these two are almost equal, so `sin x / x` gets close to 1 (Khordad 1401 paper).",
+      "tr": "Yek boresh-e kheyli barik-e pizza ra tasavvor kon. Labe-ye khamide va boresh-e saf taghriban ham-andaze-and; har che boresh barik-tar, shabih-tar. Rooye dayere-ye mosallasati, tool-e kaman haman zaviye-ye x (be radian) ast va ertefa'-e an `sin x`. Baraye zaviye-ye kheyli koochak in do taghriban yeki-and, pas `sin x / x` be 1 nazdik mishavad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   x (rad)   sin x     sin x / x\n  ---------------------------------\n    0.5      0.4794    0.959\n    0.1      0.0998    0.998\n    0.01     0.0100    1.000",
+     "caption": {
+      "fa": "هر چه x کوچک‌تر، نسبت `sin x / x` به ۱ نزدیک‌تر. فقط با رادیان درست است.",
+      "en": "The smaller x gets, the closer `sin x / x` gets to 1. This only works in radians.",
+      "tr": "Har che x koochak-tar, nesbat-e `sin x / x` be 1 nazdik-tar. Faghat ba radian dorost ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "lim (x → 0)  sin x / x  =  1"
+    },
+    {
+     "type": "formula",
+     "math": "lim (x → 0)  sin(ax) / (bx)  =  a / b",
+     "caption": {
+      "fa": "آزمون خرداد ۱۴۰۱",
+      "en": "Khordad 1401 paper",
+      "tr": "Azmoon-e Khordad 1401"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مزدوج مثلثاتی",
+      "en": "The trigonometric conjugate",
+      "tr": "Mozdavaj-e mosallasati"
+     },
+     "body": {
+      "fa": "برای `1 − cos x`، صورت و مخرج را در `1 + cos x` ضرب کن (آزمون خرداد ۱۴۰۲)؛ مثل مزدوج در رادیکال‌ها. صورت `1 − cos²x` می‌شود که طبق اتحاد اصلی همان `sin²x` است، و حالا می‌توانیم از حد سینوس استفاده کنیم.",
+      "en": "For `1 − cos x`, multiply the top and the bottom by `1 + cos x` (Khordad 1402 paper), just like the conjugate with roots. The top becomes `1 − cos²x`, which by the basic identity is `sin²x`, and now we can use the sine limit.",
+      "tr": "Baraye `1 − cos x`، soorat va makhraj ra dar `1 + cos x` zarb kon (azmoon-e Khordad 1402); mesl-e mozdavaj dar radikal-ha. Soorat `1 − cos²x` mishavad ke tebgh-e ettehad-e asli haman `sin²x` ast, va hala mitavanim az had-e sinus estefade konim."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(1 − cos x)(1 + cos x) = sin²x"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد `sin(5x) / x` وقتی `x → 0`",
+      "en": "Warm-up: the limit of `sin(5x) / x` as `x → 0`",
+      "tr": "Garm kardan: had-e `sin(5x) / x` vaghti `x → 0`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قانون فقط وقتی کار می‌کند که پایین همان چیزی باشد که داخل سینوس است. داخل سینوس `5x` است ولی پایین x.",
+        "en": "The rule only works when the bottom matches what is inside the sine. Inside is `5x`, but the bottom is x.",
+        "tr": "Ghanoon faghat vaghti kar mikonad ke payin haman chizi bashad ke dakhel-e sinus ast. Dakhel-e sinus `5x` ast vali payin x."
+       }
+      },
+      {
+       "text": {
+        "fa": "بالا و پایین را در ۵ ضرب کن تا پایین هم `5x` شود؛ کسر عوض نمی‌شود.",
+        "en": "Multiply top and bottom by 5 so the bottom becomes `5x` too; the fraction does not change.",
+        "tr": "Bala va payin ra dar 5 zarb kon ta payin ham `5x` shavad; kasr avaz nemishavad."
+       },
+       "math": "5 · sin(5x) / (5x)"
+      },
+      {
+       "text": {
+        "fa": "حالا `sin(5x)/(5x)` به ۱ می‌رود، چون `5x` هم به صفر می‌رود.",
+        "en": "Now `sin(5x)/(5x)` goes to 1, because `5x` goes to zero too.",
+        "tr": "Hala `sin(5x)/(5x)` be 1 miravad, chon `5x` ham be sefr miravad."
+       },
+       "math": "5 · 1"
+      }
+     ],
+     "answer": {
+      "fa": "`5`",
+      "en": "`5`",
+      "tr": "`5`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد `sin(3x) / (2x)` وقتی `x → 0` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the limit of `sin(3x) / (2x)` as `x → 0` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e `sin(3x) / (2x)` vaghti `x → 0` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "داخل سینوس `3x` است؛ پس می‌خواهیم پایین هم `3x` باشد. ۲ را جدا کن و برای ۳ بالا و پایین را در ۳ ضرب کن.",
+        "en": "Inside the sine is `3x`, so we want `3x` at the bottom too. Take the 2 aside, and for the 3 multiply top and bottom by 3.",
+        "tr": "Dakhel-e sinus `3x` ast; pas mikhahim payin ham `3x` bashad. 2 ra joda kon va baraye 3 bala va payin ra dar 3 zarb kon."
+       },
+       "math": "(3/2) · sin(3x) / (3x)"
+      },
+      {
+       "text": {
+        "fa": "قسمت `sin(3x)/(3x)` به ۱ می‌رود.",
+        "en": "The part `sin(3x)/(3x)` goes to 1.",
+        "tr": "Ghesmat-e `sin(3x)/(3x)` be 1 miravad."
+       },
+       "math": "(3/2) · 1"
+      }
+     ],
+     "answer": {
+      "fa": "`3/2`",
+      "en": "`3/2`",
+      "tr": "`3/2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `(1 − cos x) / x²` وقتی `x → 0` (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: the limit of `(1 − cos x) / x²` as `x → 0` (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: had-e `(1 − cos x) / x²` vaghti `x → 0` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "عدد را بگذار: `(1 − 1)/0 = 0/0`. اینجا سینوس نداریم؛ پیچ امتحان این است که باید آن را بسازیم. ابزار: مزدوج مثلثاتی `1 + cos x`.",
+        "en": "Put the number in: `(1 − 1)/0 = 0/0`. There is no sine here; the twist is that we have to create one. The tool: the trigonometric conjugate `1 + cos x`.",
+        "tr": "Adad ra bogzar: `(1 − 1)/0 = 0/0`. Inja sinus nadarim; pich-e emtehan in ast ke bayad an ra besazim. Abzar: mozdavaj-e mosallasati-ye `1 + cos x`."
+       }
+      },
+      {
+       "text": {
+        "fa": "بالا و پایین را در `1 + cos x` ضرب کن. بالا `sin²x` می‌شود.",
+        "en": "Multiply top and bottom by `1 + cos x`. The top becomes `sin²x`.",
+        "tr": "Bala va payin ra dar `1 + cos x` zarb kon. Bala `sin²x` mishavad."
+       },
+       "math": "sin²x / (x² (1 + cos x))"
+      },
+      {
+       "text": {
+        "fa": "آن را دو تکه کن: `(sin x / x)²` به ۱ می‌رود، و `1/(1 + cos x)` به `1/(1 + 1)`.",
+        "en": "Split it in two: `(sin x / x)²` goes to 1, and `1/(1 + cos x)` goes to `1/(1 + 1)`.",
+        "tr": "An ra do tekke kon: `(sin x / x)²` be 1 miravad, va `1/(1 + cos x)` be `1/(1 + 1)`."
+       },
+       "math": "1 · 1/2"
+      }
+     ],
+     "answer": {
+      "fa": "`1/2`",
+      "en": "`1/2`",
+      "tr": "`1/2`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "حد `sin x / x = 1` فقط وقتی درست است که x به رادیان باشد و به صفر برود. با درجه یا در جای دیگر، این قانون کار نمی‌کند.",
+      "en": "The limit `sin x / x = 1` is only true when x is in radians and goes to zero. In degrees, or anywhere else, the rule does not work.",
+      "tr": "Had-e `sin x / x = 1` faghat vaghti dorost ast ke x be radian bashad va be sefr beravad. Ba daraje ya dar ja-ye digar, in ghanoon kar nemikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "x را از داخل سینوس بیرون نکش: `sin(3x)/x` برابر `sin 3` نیست. باید پایین را با داخل سینوس جور کنی.",
+      "en": "Do not pull x out of the sine: `sin(3x)/x` is not `sin 3`. You have to match the bottom to what is inside the sine.",
+      "tr": "x ra az dakhel-e sinus biroon nakesh: `sin(3x)/x` barabar-e `sin 3` nist. Bayad payin ra ba dakhel-e sinus jor koni."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 982
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 987
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 993
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 3,
+   "unit": 6,
+   "key": "math-3-floor-squeeze-continuity",
+   "title": {
+    "fa": "جزء صحیح، حد یک‌طرفه، فشردگی و پیوستگی",
+    "en": "Floor, one-sided limits, squeeze and continuity",
+    "tr": "Joz'-e sahih, had-e yek-tarafe, feshordegi va peyvastegi"
+   },
+   "summary": {
+    "fa": "پله‌ها، دو طرف یک در، ساندویچ، و کوهنوردی که از هیچ ارتفاعی نمی‌پرد.",
+    "en": "Stairs, the two sides of a door, a sandwich, and a climber who never skips a height.",
+    "tr": "Pelle-ha, do taraf-e yek dar, sandvich, va koohnavardi ke az hich ertefa'i nemipard."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: طبقه‌های ساختمان",
+      "en": "Understand first: the floors of a building",
+      "tr": "Avval befahm: tabaghe-haye sakhteman"
+     },
+     "body": {
+      "fa": "جزء صحیح `[x]` یعنی «به طبقهٔ پایین گرد کن»: اگر در طبقهٔ ۲٫۷ ساختمان باشی، در طبقهٔ ۲ هستی. `[2.7] = 2`، `[2] = 2`، و `[1.99] = 1`. سر هر عدد صحیح، تابع یک‌باره بالا می‌پرد. برای همین حد چپ و راستش در عددهای صحیح فرق دارد، مثل اینکه از دو طرف یک در به آن نزدیک شوی و دو اتاق متفاوت ببینی.",
+      "en": "The floor `[x]` means \"round down to the floor below\": if you are at level 2.7 of a building, you are on floor 2. `[2.7] = 2`, `[2] = 2`, and `[1.99] = 1`. At every whole number the function jumps up at once. That is why its left and right limits differ at whole numbers, like walking up to a door from both sides and seeing two different rooms.",
+      "tr": "Joz'-e sahih-e `[x]` ya'ni \"be tabaghe-ye payin gerd kon\": agar dar tabaghe-ye 2.7-e sakhteman bashi, dar tabaghe-ye 2 hasti. `[2.7] = 2`، `[2] = 2`، va `[1.99] = 1`. Sar-e har adad-e sahih, tabe' yek-bare bala mipard. Baraye hamin had-e chap va rastash dar adad-haye sahih fargh darad, mesl-e inke az do taraf-e yek dar be an nazdik shavi va do otagh-e motafavet bebini."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  y\n  2 |             [------\n  1 |      [------)\n  0 |[-----)\n    +------+------+------> x\n    0      1      2\n\n   [ included    ) not included",
+     "caption": {
+      "fa": "نمودار `[x]`: در `x = 2` از چپ ارتفاع ۱ است و از راست ۲.",
+      "en": "The graph of `[x]`: at `x = 2` the height is 1 from the left and 2 from the right.",
+      "tr": "Nemoodar-e `[x]`: dar `x = 2` az chap ertefa' 1 ast va az rast 2."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "حد چپ و حد راست",
+      "en": "Left and right limits",
+      "tr": "Had-e chap va had-e rast"
+     },
+     "body": {
+      "fa": "حد یک‌طرفه یعنی فقط از یک طرف نزدیک شو. `x → 2+` یعنی از راست (کمی بیشتر از ۲) و `x → 2−` یعنی از چپ. حد دوطرفه فقط وقتی هست که این دو یکی باشند.",
+      "en": "A one-sided limit means you approach from one side only. `x → 2+` means from the right (a little more than 2) and `x → 2−` means from the left. The two-sided limit exists only when these two agree.",
+      "tr": "Had-e yek-tarafe ya'ni faghat az yek taraf nazdik sho. `x → 2+` ya'ni az rast (kami bishtar az 2) va `x → 2−` ya'ni az chap. Had-e do-tarafe faghat vaghti hast ke in do yeki bashand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   (x - 3) / |x - 3|\n\n   left of 3         right of 3\n  ------------- 3 ------------> x\n   value: -1          value: +1",
+     "caption": {
+      "fa": "عبارت تقسیم بر قدرمطلقش فقط علامتش را نشان می‌دهد: چپ ۳ منفی یک، راست ۳ مثبت یک.",
+      "en": "An expression divided by its own absolute value only shows its sign: left of 3 it is minus one, right of 3 it is plus one.",
+      "tr": "Ebarat taghsim bar ghadr-e motlaghash faghat alamatash ra neshan midahad: chap-e 3 manfi yek, rast-e 3 mosbat yek."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حد راست و چپ `[x]` در `x = 2` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: the right and left limits of `[x]` at `x = 2` (Khordad 1401 paper)",
+      "tr": "Garm kardan: had-e rast va chap-e `[x]` dar `x = 2` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از راست: x کمی بیشتر از ۲ است، مثل `2.01`. گرد کردن به پایین ۲ می‌دهد.",
+        "en": "From the right: x is a little more than 2, like `2.01`. Rounding down gives 2.",
+        "tr": "Az rast: x kami bishtar az 2 ast, mesl-e `2.01`. Gerd kardan be payin 2 midahad."
+       },
+       "math": "lim (x → 2+) [x] = 2"
+      },
+      {
+       "text": {
+        "fa": "از چپ: x کمی کمتر از ۲ است، مثل `1.99`. گرد کردن به پایین ۱ می‌دهد.",
+        "en": "From the left: x is a little less than 2, like `1.99`. Rounding down gives 1.",
+        "tr": "Az chap: x kami kamtar az 2 ast, mesl-e `1.99`. Gerd kardan be payin 1 midahad."
+       },
+       "math": "lim (x → 2−) [x] = 1"
+      },
+      {
+       "text": {
+        "fa": "دو طرف یکی نیستند، پس `[x]` در ۲ حد دوطرفه ندارد.",
+        "en": "The two sides differ, so `[x]` has no two-sided limit at 2.",
+        "tr": "Do taraf yeki nistand, pas `[x]` dar 2 had-e do-tarafe nadarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "راست: `2`، چپ: `1`",
+      "en": "Right: `2`, left: `1`",
+      "tr": "Rast: `2`، chap: `1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حد راست `(x − 3)/|x − 3|` وقتی `x → 3+` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the right-hand limit of `(x − 3)/|x − 3|` as `x → 3+` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: had-e rast-e `(x − 3)/|x − 3|` vaghti `x → 3+` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدرمطلق را باز کن: علامت داخلش را پیدا کن. از راست، x کمی بیشتر از ۳ است، پس `x − 3` مثبت است.",
+        "en": "Open the absolute value: find the sign inside it. From the right, x is a little more than 3, so `x − 3` is positive.",
+        "tr": "Ghadr-e motlagh ra baz kon: alamat-e dakhelash ra peyda kon. Az rast, x kami bishtar az 3 ast, pas `x − 3` mosbat ast."
+       },
+       "math": "|x − 3| = x − 3"
+      },
+      {
+       "text": {
+        "fa": "صورت و مخرج یکی شدند؛ تا وقتی صفر نیستند، نسبتشان ۱ است.",
+        "en": "The top and the bottom are now the same; as long as they are not zero, their ratio is 1.",
+        "tr": "Soorat va makhraj yeki shodand; ta vaghti sefr nistand, nesbatashan 1 ast."
+       },
+       "math": "(x − 3) / (x − 3) = 1"
+      }
+     ],
+     "answer": {
+      "fa": "`1`",
+      "en": "`1`",
+      "tr": "`1`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قضیهٔ فشردگی: ساندویچ",
+      "en": "The squeeze theorem: a sandwich",
+      "tr": "Ghaziye-ye feshordegi: sandvich"
+     },
+     "body": {
+      "fa": "قضیهٔ فشردگی مثل یک ساندویچ است: اگر دو تکه نان هر دو به یک عدد بروند، چیزی که بینشان است هم مجبور است به همان عدد برود. پس اگر یک تابع سخت را بین دو تابع ساده گیر بیندازی، حدش را از آن دو می‌گیری.",
+      "en": "The squeeze theorem is like a sandwich: if both slices of bread go to the same number, whatever is between them has to go there too. So if you trap a hard function between two easy ones, you get its limit from them.",
+      "tr": "Ghaziye-ye feshordegi mesl-e yek sandvich ast: agar do tekke nan har do be yek adad beravand, chizi ke beynashan ast ham majboor ast be haman adad beravad. Pas agar yek tabe'-e sakht ra beyn-e do tabe'-e sade gir bendazi, hadash ra az an do migiri."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "x − 1 < [x] ≤ x",
+     "caption": {
+      "fa": "جزء صحیح همیشه بین این دو است",
+      "en": "The floor is always between these two",
+      "tr": "Joz'-e sahih hamishe beyn-e in do ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حد `[x] / x` وقتی `x → +∞` (آزمون دی ۱۴۰۲)",
+      "en": "Exam twist: the limit of `[x] / x` as `x → +∞` (Dey 1402 paper)",
+      "tr": "Pich-e emtehani: had-e `[x] / x` vaghti `x → +∞` (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `[x]` را نمی‌توان مستقیم ساده کرد. پس آن را بین دو نان می‌گذاریم.",
+        "en": "The twist: `[x]` cannot be simplified directly. So we put it between two slices of bread.",
+        "tr": "Pich-e emtehan: `[x]` ra nemitavan mostaghim sade kard. Pas an ra beyn-e do nan migozarim."
+       },
+       "math": "x − 1 < [x] ≤ x"
+      },
+      {
+       "text": {
+        "fa": "همه را بر x تقسیم کن. x مثبت است، پس جهت نامساوی‌ها عوض نمی‌شود.",
+        "en": "Divide everything by x. x is positive, so the inequalities keep their direction.",
+        "tr": "Hame ra bar x taghsim kon. x mosbat ast, pas jahat-e namosavi-ha avaz nemishavad."
+       },
+       "math": "1 − 1/x < [x]/x ≤ 1"
+      },
+      {
+       "text": {
+        "fa": "نان پایین به `1 − 0 = 1` می‌رود و نان بالا خودش ۱ است. پر کردنی وسط هم باید به ۱ برود.",
+        "en": "The bottom slice goes to `1 − 0 = 1` and the top slice is 1 already. The filling in the middle has to go to 1 too.",
+        "tr": "Nan-e payin be `1 − 0 = 1` miravad va nan-e bala khodash 1 ast. Por-kardani-ye vasat ham bayad be 1 beravad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`1`",
+      "en": "`1`",
+      "tr": "`1`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو حالت دیگر",
+      "en": "Two more cases",
+      "tr": "Do halat-e digar"
+     },
+     "body": {
+      "fa": "دو حالت دیگر از همین خانواده: `[|x|]` وقتی `x → −1+` (آزمون خرداد ۱۴۰۱): x کمی بیشتر از `−1` است، مثل `−0.9`، پس `|x| = 0.9` و جزء صحیحش ۰ است. و `[x] · sin x` وقتی `x → 0+` (آزمون خرداد ۱۴۰۱): از راست `[x] = 0`، پس کل حاصل‌ضرب صفر است.",
+      "en": "Two more from the same family: `[|x|]` as `x → −1+` (Khordad 1401 paper): x is a little more than `−1`, like `−0.9`, so `|x| = 0.9` and its floor is 0. And `[x] · sin x` as `x → 0+` (Khordad 1401 paper): from the right `[x] = 0`, so the whole product is zero.",
+      "tr": "Do halat-e digar az hamin khanevade: `[|x|]` vaghti `x → −1+` (azmoon-e Khordad 1401): x kami bishtar az `−1` ast, mesl-e `−0.9`، pas `|x| = 0.9` va joz'-e sahihash 0 ast. Va `[x] · sin x` vaghti `x → 0+` (azmoon-e Khordad 1401): az rast `[x] = 0`، pas kol-e hasel-zarb sefr ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیوستگی و قضیهٔ مقدار میانی",
+      "en": "Continuity and the intermediate value theorem",
+      "tr": "Peyvastegi va ghaziye-ye meghdar-e miyani"
+     },
+     "body": {
+      "fa": "تابع در نقطهٔ a پیوسته است اگر بتوانی نمودارش را آنجا بدون برداشتن قلم بکشی: حد در a وجود داشته باشد و با `f(a)` برابر باشد. قضیهٔ مقدار میانی (آزمون خرداد ۱۴۰۱) می‌گوید: کوهنوردی که بدون پرش از ارتفاع ۵۰۰ متر به ۱۵۰۰ متر می‌رسد، حتماً از ارتفاع ۱۰۰۰ متر هم گذشته است. اگر f روی `[a, b]` پیوسته باشد و C بین `f(a)` و `f(b)`، دست‌کم یک c در `(a, b)` هست که `f(c) = C`.",
+      "en": "A function is continuous at a point a if you can draw its graph there without lifting the pen: the limit at a exists and equals `f(a)`. The intermediate value theorem (Khordad 1401 paper) says: a climber who goes from 500 metres to 1500 metres without jumping must have passed 1000 metres. If f is continuous on `[a, b]` and C lies between `f(a)` and `f(b)`, there is at least one c in `(a, b)` with `f(c) = C`.",
+      "tr": "Tabe' dar noghte-ye a peyvaste ast agar betavani nemoodarash ra anja bedoon-e bardashtan-e ghalam bekeshi: had dar a vojood dashte bashad va ba `f(a)` barabar bashad. Ghaziye-ye meghdar-e miyani (azmoon-e Khordad 1401) migooyad: koohnavardi ke bedoon-e paresh az ertefa'-e 500 metr be 1500 metr miresad, hatman az ertefa'-e 1000 metr ham gozashte ast. Agar f rooye `[a, b]` peyvaste bashad va C beyn-e `f(a)` va `f(b)`، dast-e kam yek c dar `(a, b)` hast ke `f(c) = C`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " f(b) |                  _.-\n      |              _.-'\n   C  |- - - - - - -*      f(c) = C\n      |         _.-'\n f(a) |  ___.--'\n      +--+----------+-------+--> x\n         a          c       b",
+     "caption": {
+      "fa": "یک نمودار پیوسته از `f(a)` به `f(b)` حتماً از ارتفاع C می‌گذرد.",
+      "en": "A continuous graph from `f(a)` to `f(b)` has to pass through the height C.",
+      "tr": "Yek nemoodar-e peyvaste az `f(a)` be `f(b)` hatman az ertefa'-e C migozarad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جزء صحیح عددهای منفی را درست بگیر: `[−0.5] = −1`، نه صفر؛ چون «به پایین گرد کن» یعنی به سمت منفی‌تر.",
+      "en": "Get the floor of negative numbers right: `[−0.5] = −1`, not zero; \"round down\" means towards the more negative side.",
+      "tr": "Joz'-e sahih-e adad-haye manfi ra dorost begir: `[−0.5] = −1`، na sefr; chon \"be payin gerd kon\" ya'ni be samt-e manfi-tar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در عدد صحیح، حد `[x]` را هیچ‌وقت بدون نوشتن حد چپ و راست نگو. حد دوطرفه فقط وقتی هست که این دو برابر باشند.",
+      "en": "At a whole number, never state the limit of `[x]` without writing the left and right limits. A two-sided limit exists only when the two are equal.",
+      "tr": "Dar adad-e sahih, had-e `[x]` ra hich-vaght bedoon-e neveshtan-e had-e chap va rast nagoo. Had-e do-tarafe faghat vaghti hast ke in do barabar bashand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 983
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 986
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 993
+    },
+    {
+     "session": "1402-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 992
+    }
+   ]
+  }
+ ]
+}

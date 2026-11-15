@@ -2,8 +2,9 @@
 GHAMGAH-E-HADIS: COVERED TOPICS LEDGER (PACKS 1-100, CHECKED AGAINST THE LIVE BANK)
 ========================================================================
 Generated 2026-11-06 straight from the published pack files (1131 questions).
-Packs 101-103 are lessons with no questions: 101 Mathematics 3 Chapter 1, 102 Chapter 2,
-and 103 (2026-11-16) the Master Tutor upgrade of both. THE NEXT QUESTION BLOCK IS PACK 104.
+Packs 101-104 are lessons with no questions: 101 Mathematics 3 Chapter 1, 102 Chapter 2,
+103 the Master Tutor upgrade of both, and 104 (2026-11-16) Chapter 3 (Limits).
+THE NEXT QUESTION BLOCK IS PACK 105.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.
