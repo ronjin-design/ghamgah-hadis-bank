@@ -1,0 +1,440 @@
+{
+ "version": 105,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 978,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ تابع گویا)",
+    "en": "Chapter 1: Functions (Domain of a Rational Function)",
+    "tr": "Fasl 1: Tabe' (Damane-ye Tabe'-e Gooya)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای پیدا کردن دامنهٔ تابع گویای ⁦f(x) = P(x) / Q(x)⁩، کدام عددها را باید از ⁦ℝ⁩ کنار گذاشت؟",
+     "grading_key": "- [1] ریشه‌های مخرج ⁦Q(x)⁩",
+     "final_resolution": "ریشه‌های مخرج ⁦Q(x)⁩",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ تابع گویا"
+     ],
+     "distractors": [
+      "ریشه‌های صورت ⁦P(x)⁩",
+      "فقط ⁦x = 0⁩",
+      "نقطه‌هایی که علامت ⁦f⁩ در آن‌ها عوض می‌شود"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "To find the domain of the rational function f(x) = P(x) / Q(x), which numbers must be removed from ℝ?",
+     "grading_key": "- [1] The roots of the denominator Q(x)",
+     "final_resolution": "The roots of the denominator Q(x)",
+     "notes": "",
+     "keywords": [
+      "domain of a rational function"
+     ],
+     "distractors": [
+      "The roots of the numerator P(x)",
+      "Only x = 0",
+      "The points where f changes sign"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye peyda kardan-e damane-ye tabe'-e gooya-ye f(x) = P(x) / Q(x), kodam adad-ha ra bayad az ℝ kenar gozasht?",
+     "grading_key": "- [1] Rishe-haye makhraj-e Q(x)",
+     "final_resolution": "Rishe-haye makhraj-e Q(x)",
+     "notes": "",
+     "keywords": [
+      "damane-ye tabe'-e gooya"
+     ],
+     "distractors": [
+      "Rishe-haye soorat-e P(x)",
+      "Faghat x = 0",
+      "Noghte-hayi ke alamat-e f dar an-ha avaz mishavad"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 979,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (تابع متناوب)",
+    "en": "Chapter 1: Functions (Periodic Function)",
+    "tr": "Fasl 1: Tabe' (Tabe'-e Motanaveb)",
+    "pages": "28–30"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "کوچک‌ترین عدد مثبت ⁦T⁩ که به ازای هر ⁦x⁩ در دامنه، ⁦f(x + T) = f(x)⁩ باشد، چه نام دارد؟",
+     "grading_key": "- [1] دورهٔ تناوب تابع",
+     "final_resolution": "دورهٔ تناوب تابع",
+     "notes": "",
+     "keywords": [
+      "دورهٔ تناوب"
+     ],
+     "distractors": [
+      "دامنهٔ نوسان",
+      "انتقال فاز",
+      "نقطهٔ عطف"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "What is the smallest positive number T, such that f(x + T) = f(x) for every x in the domain, called?",
+     "grading_key": "- [1] The period of the function",
+     "final_resolution": "The period of the function",
+     "notes": "",
+     "keywords": [
+      "period of a function"
+     ],
+     "distractors": [
+      "The amplitude",
+      "The phase shift",
+      "An inflection point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Koochak-tarin adad-e mosbat-e T ke be ezaye har x dar damane, f(x + T) = f(x) bashad, che nam darad?",
+     "grading_key": "- [1] Dowre-ye tanavob-e tabe'",
+     "final_resolution": "Dowre-ye tanavob-e tabe'",
+     "notes": "",
+     "keywords": [
+      "dowre-ye tanavob"
+     ],
+     "distractors": [
+      "Damane-ye navasan",
+      "Enteghal-e faz",
+      "Noghte-ye atf"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 979,
+   "topic_tag": "functions",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: تابع (دامنهٔ تابع مرکب)",
+    "en": "Chapter 1: Functions (Domain of a Composite Function)",
+    "tr": "Fasl 1: Tabe' (Damane-ye Tabe'-e Morakkab)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تابع",
+     "question": "برای اینکه ⁦x⁩ در دامنهٔ ⁦f∘g⁩ باشد، افزون بر اینکه ⁦x⁩ در دامنهٔ ⁦g⁩ است، ⁦g(x)⁩ باید عضو کدام مجموعه باشد؟",
+     "grading_key": "- [1] دامنهٔ ⁦f⁩",
+     "final_resolution": "دامنهٔ ⁦f⁩",
+     "notes": "",
+     "keywords": [
+      "دامنهٔ تابع مرکب"
+     ],
+     "distractors": [
+      "بُرد ⁦f⁩",
+      "ریشه‌های مخرج",
+      "عددهای حقیقی مثبت"
+     ]
+    },
+    "en": {
+     "topic_label": "Functions",
+     "question": "For x to be in the domain of f∘g, besides x being in the domain of g, which set must g(x) belong to?",
+     "grading_key": "- [1] The domain of f",
+     "final_resolution": "The domain of f",
+     "notes": "",
+     "keywords": [
+      "domain of a composite function"
+     ],
+     "distractors": [
+      "The range of f",
+      "The roots of the denominator",
+      "The positive real numbers"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tabe",
+     "question": "Baraye inke x dar damane-ye f∘g bashad, afzoon bar inke x dar damane-ye g ast, g(x) bayad ozv-e kodam majmoo'e bashad?",
+     "grading_key": "- [1] Damane-ye f",
+     "final_resolution": "Damane-ye f",
+     "notes": "",
+     "keywords": [
+      "damane-ye tabe'-e morakkab"
+     ],
+     "distractors": [
+      "Bord-e f",
+      "Rishe-haye makhraj",
+      "Adad-haye haghighi-ye mosbat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Khordad",
+   "number": 969,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد در بی‌نهایت (جملهٔ با بزرگ‌ترین توان)",
+    "en": "Chapter 3: Limits at Infinity (Highest-Degree Term)",
+    "tr": "Fasl 3: Had dar Binahayat",
+    "pages": "56–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد یک تابع چندجمله‌ای وقتی x به سمت بی‌نهایت میل می‌کند، با حد کدام جملهٔ آن برابر است؟",
+     "grading_key": "- [1] جملهٔ با بزرگ‌ترین توان",
+     "final_resolution": "جملهٔ با بزرگ‌ترین توان",
+     "notes": "",
+     "keywords": [
+      "حد در بی‌نهایت"
+     ],
+     "distractors": [
+      "جملهٔ ثابت",
+      "جملهٔ با کوچک‌ترین توان غیر صفر",
+      "مجموع ضریب‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "As x tends to infinity, the limit of a polynomial function equals the limit of which of its terms?",
+     "grading_key": "- [1] The term with the highest degree",
+     "final_resolution": "The term with the highest degree",
+     "notes": "",
+     "keywords": [
+      "limit at infinity"
+     ],
+     "distractors": [
+      "The constant term",
+      "The term with the lowest non-zero degree",
+      "The sum of the coefficients"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e yek tabe-e chand-jomle-i vaghti x be samt-e binahayat meyl mikonad, ba had-e kodam jomle-ye an barabar ast?",
+     "grading_key": "- [1] Jomle-ye ba bozorg-tarin tavan",
+     "final_resolution": "Jomle-ye ba bozorg-tarin tavan",
+     "notes": "",
+     "keywords": [
+      "had dar binahayat"
+     ],
+     "distractors": [
+      "Jomle-ye sabet",
+      "Jomle-ye ba koochak-tarin tavan-e gheyr-e sefr",
+      "Majmoo-e zarib-ha"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد مثلثاتی بنیادی)",
+    "en": "Chapter 3: Limits (Basic Trigonometric Limit)",
+    "tr": "Fasl 3: Had (Mosallasati)",
+    "pages": "60–62"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = sin x / x⁩ وقتی ⁦x⁩ به سمت صفر میل می‌کند کدام است؟",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "حد sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = sin x / x as x approaches 0?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "limit of sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = sin x / x vaghti x be samt-e sefr meyl mikonad kodam ast?",
+     "grading_key": "- [1] ⁦1⁩",
+     "final_resolution": "⁦1⁩",
+     "notes": "",
+     "keywords": [
+      "had-e sin x / x"
+     ],
+     "distractors": [
+      "⁦0⁩",
+      "⁦+∞⁩",
+      "⁦−1⁩"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1400-Dey",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد در بی‌نهایت تابع رادیکالی)",
+    "en": "Chapter 3: Limits (Radical Functions at Infinity)",
+    "tr": "Fasl 3: Had (Tabe'-e Radikali)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = √(4x² + 1) / (3x − 2)⁩ وقتی ⁦x → +∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "حد تابع رادیکالی در بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = √(4x² + 1) / (3x − 2) as x → +∞?",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "radical limit at infinity"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = √(4x² + 1) / (3x − 2) vaghti x → +∞ kodam ast?",
+     "grading_key": "- [1] ⁦2/3⁩",
+     "final_resolution": "⁦2/3⁩",
+     "notes": "",
+     "keywords": [
+      "had-e radikali dar binahayat"
+     ],
+     "distractors": [
+      "⁦4/3⁩",
+      "⁦0⁩",
+      "⁦+∞⁩"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1402-Dey",
+   "number": 981,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (حد در بی‌نهایت تابع رادیکالی)",
+    "en": "Chapter 3: Limits (Radical Functions at Infinity)",
+    "tr": "Fasl 3: Had (Tabe'-e Radikali)",
+    "pages": "58–60"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد تابع ⁦f(x) = √(x² + 2) / (2x + 1)⁩ وقتی ⁦x → −∞⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "حد تابع رادیکالی در منفی بی‌نهایت"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the limit of f(x) = √(x² + 2) / (2x + 1) as x → −∞?",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "radical limit at minus infinity"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e tabe'-e f(x) = √(x² + 2) / (2x + 1) vaghti x → −∞ kodam ast?",
+     "grading_key": "- [1] ⁦−1/2⁩",
+     "final_resolution": "⁦−1/2⁩",
+     "notes": "",
+     "keywords": [
+      "had-e radikali dar manfi-ye binahayat"
+     ],
+     "distractors": [
+      "⁦1/2⁩",
+      "⁦0⁩",
+      "⁦−∞⁩"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
