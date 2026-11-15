@@ -1,0 +1,192 @@
+{
+ "version": 107,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 969,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (آهنگ متوسط تغییر)",
+    "en": "Chapter 4: The Derivative (Average Rate of Change)",
+    "tr": "Fasl 4: Moshtagh (Ahang-e Motavasset)",
+    "pages": "66–68"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "نسبت تغییر تابع (⁦Δy⁩) به تغییر متغیر (⁦Δx⁩) روی یک بازهٔ مشخص ⁦[a, b]⁩، بدون حد گرفتن، کدام مفهوم است؟",
+     "grading_key": "- [1] آهنگ متوسط تغییر",
+     "final_resolution": "آهنگ متوسط تغییر",
+     "notes": "",
+     "keywords": [
+      "آهنگ متوسط تغییر"
+     ],
+     "distractors": [
+      "آهنگ لحظه‌ای تغییر",
+      "مشتق دوم",
+      "نقطهٔ بحرانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The ratio of the change in the function (Δy) to the change in the variable (Δx) over a given interval [a, b], with no limit taken, is which concept?",
+     "grading_key": "- [1] Average rate of change",
+     "final_resolution": "Average rate of change",
+     "notes": "",
+     "keywords": [
+      "average rate of change"
+     ],
+     "distractors": [
+      "Instantaneous rate of change",
+      "Second derivative",
+      "Critical point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Nesbat-e taghyir-e tabe (Δy) be taghyir-e moteghayyer (Δx) rooye yek baze-ye moshakhkhas-e [a, b], bedoon-e had gereftan, kodam mafhoom ast?",
+     "grading_key": "- [1] Ahang-e motavaset-e taghyir",
+     "final_resolution": "Ahang-e motavaset-e taghyir",
+     "notes": "",
+     "keywords": [
+      "ahang-e motavasset-e taghyir"
+     ],
+     "distractors": [
+      "Ahang-e lahze-i-ye taghyir",
+      "Moshtagh-e dovvom",
+      "Noghte-ye bohrani"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 983,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (شتاب لحظه‌ای)",
+    "en": "Chapter 4: The Derivative (Instantaneous Acceleration)",
+    "tr": "Fasl 4: Moshtagh (Shetab)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع سرعت ⁦v(t)⁩ (یا مشتق دوم تابع مکان) نسبت به زمان، کدام کمیت است؟",
+     "grading_key": "- [1] شتاب لحظه‌ای",
+     "final_resolution": "شتاب لحظه‌ای",
+     "notes": "",
+     "keywords": [
+      "شتاب لحظه‌ای"
+     ],
+     "distractors": [
+      "سرعت لحظه‌ای",
+      "جابه‌جایی متوسط",
+      "اصطکاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "The derivative of the velocity function v(t) (or the second derivative of position) with respect to time is which quantity?",
+     "grading_key": "- [1] Instantaneous acceleration",
+     "final_resolution": "Instantaneous acceleration",
+     "notes": "",
+     "keywords": [
+      "instantaneous acceleration"
+     ],
+     "distractors": [
+      "Instantaneous velocity",
+      "Average displacement",
+      "Friction"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe'-e sor'at-e v(t) (ya moshtagh-e dovvom-e tabe'-e makan) nesbat be zaman, kodam kamiyat ast?",
+     "grading_key": "- [1] Shetab-e lahze-i",
+     "final_resolution": "Shetab-e lahze-i",
+     "notes": "",
+     "keywords": [
+      "shetab-e lahze-i"
+     ],
+     "distractors": [
+      "Sor'at-e lahze-i",
+      "Jabejayi-ye motavaset",
+      "Estekak"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 975,
+   "topic_tag": "conics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: مقاطع مخروطی (خط و دایره)",
+    "en": "Chapter 6: Conic Sections (Line and Circle)",
+    "tr": "Fasl 6: Maghate-e Makhrooti (Khatt va Dayere)",
+    "pages": "126–128"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مقاطع مخروطی",
+     "question": "اگر فاصلهٔ مرکز دایره از یک خط (⁦d⁩) دقیقاً برابر شعاع باشد (⁦d = R⁩)، خط نسبت به دایره چه وضعی دارد؟",
+     "grading_key": "- [1] بر دایره مماس است",
+     "final_resolution": "بر دایره مماس است",
+     "notes": "",
+     "keywords": [
+      "وضع خط و دایره"
+     ],
+     "distractors": [
+      "دایره را در دو نقطه قطع می‌کند",
+      "کاملاً بیرون دایره است",
+      "از مرکز دایره می‌گذرد"
+     ]
+    },
+    "en": {
+     "topic_label": "Conic Sections",
+     "question": "If the distance d from the centre of a circle to a line is exactly the radius (d = R), how does the line sit relative to the circle?",
+     "grading_key": "- [1] Tangent to the circle",
+     "final_resolution": "Tangent to the circle",
+     "notes": "",
+     "keywords": [
+      "line and circle"
+     ],
+     "distractors": [
+      "Cuts it at two points",
+      "Lies wholly outside it",
+      "Passes through the centre"
+     ]
+    },
+    "tr": {
+     "topic_label": "Maghate'-e Makhrooti",
+     "question": "Agar fasele-ye markaz-e dayere az yek khatt (d) daghighan barabar-e sho'a bashad (d = R), khatt nesbat be dayere che vaz'i darad?",
+     "grading_key": "- [1] Bar dayere momas ast",
+     "final_resolution": "Bar dayere momas ast",
+     "notes": "",
+     "keywords": [
+      "vaz'-e khatt va dayere"
+     ],
+     "distractors": [
+      "Dayere ra dar do noghte ghat' mikonad",
+      "Kamelan biroon-e dayere ast",
+      "Az markaz-e dayere migozarad"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
