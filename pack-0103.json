@@ -1,0 +1,2206 @@
+{
+ "version": 103,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 1,
+   "key": "math-1-domain-range",
+   "title": {
+    "fa": "دامنه و برد",
+    "en": "Domain and range",
+    "tr": "Damane va bord"
+   },
+   "summary": {
+    "fa": "تابع کجا کار می‌کند و چه چیزهایی می‌تواند تحویل بدهد.",
+    "en": "Where a function works, and what it can hand back.",
+    "tr": "Tabe' koja kar mikonad va che chiz-hayi mitavanad tahvil bedahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم، بعد فرمول",
+      "en": "Understand first, formula second",
+      "tr": "Avval befahm, ba'd formool"
+     },
+     "body": {
+      "fa": "یک دستگاه فروش خودکار را تصور کن. سکه می‌اندازی و خوراکی بیرون می‌آید. دستگاه هر سکه‌ای را قبول نمی‌کند: سکهٔ کج یا سکهٔ کشور دیگر گیرش می‌اندازد. تابع هم همین است. «دامنه» همهٔ ورودی‌هایی است که دستگاه قبول می‌کند، و «برد» همهٔ چیزهایی است که ممکن است بیرون بیاید. قبل از هر حساب و کتابی بپرس: کدام x ها دستگاه را خراب می‌کنند؟",
+      "en": "Picture a vending machine. You put a coin in and a snack comes out. The machine does not take every coin: a bent coin or a foreign one jams it. A function is the same. The \"domain\" is every input the machine accepts, and the \"range\" is everything that can come out. Before any calculation, ask: which x values would jam the machine?",
+      "tr": "Yek dastgah-e foroosh-e khodkar ra tasavvor kon. Sekke mindazi va khoraki biroon miayad. Dastgah har sekke-i ra ghabool nemikonad: sekke-ye kaj ya sekke-ye keshvar-e digar giraash miandazad. Tabe' ham hamin ast. \"Damane\" hame-ye vorudi-hayi ast ke dastgah ghabool mikonad, va \"bord\" hame-ye chiz-hayi ast ke momken ast biroon biayad. Ghabl az har hesab-o-ketabi bepors: kodam x-ha dastgah ra kharab mikonand?"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  input       +-----+      output\n   x  -----> |  f  | -----> f(x)\n             +-----+\n\n  domain = inputs that work\n  range  = outputs that can appear",
+     "caption": {
+      "fa": "هر تابع یک دستگاه است: ورودی می‌گیرد و خروجی می‌دهد.",
+      "en": "Every function is a machine: it takes an input and gives an output.",
+      "tr": "Har tabe' yek dastgah ast: vorudi migirad va khorooji midahad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو چیزی که دستگاه را خراب می‌کند",
+      "en": "The only two things that jam the machine",
+      "tr": "Do chizi ke dastgah ra kharab mikonad"
+     },
+     "body": {
+      "fa": "در ریاضی سال دوازدهم، فقط دو چیز دستگاه را خراب می‌کند. اول: تقسیم بر صفر. هیچ عددی ضربدر صفر نمی‌شود ۶، پس `6/0` معنا ندارد. دوم: رادیکال با فرجهٔ زوج از عدد منفی. هیچ عدد واقعی‌ای به توان ۲ نمی‌شود منفی، پس `√(−4)` جواب واقعی ندارد. دامنه یعنی همهٔ عددهای حقیقی، منهای جاهایی که یکی از این دو اتفاق می‌افتد.",
+      "en": "In Grade 12 maths, only two things jam the machine. First: dividing by zero. No number times zero gives 6, so `6/0` means nothing. Second: an even root of a negative number. No real number squared is negative, so `√(−4)` has no real answer. The domain is all real numbers, minus the places where one of these two happens.",
+      "tr": "Dar riazi-ye sal-e davazdahom, faghat do chiz dastgah ra kharab mikonad. Avval: taghsim bar sefr. Hich adadi zarbdar sefr nemishavad 6, pas `6/0` ma'na nadarad. Dovvom: radikal ba farje-ye zoj az adad-e manfi. Hich adad-e vaghei-i be tavan-e 2 nemishavad manfi, pas `√(−4)` javab-e vaghei nadarad. Damane ya'ni hame-ye adad-haye haghighi, menha-ye ja-hayi ke yeki az in do ettefagh mioftad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(x) / Q(x)  ⟹  Q(x) ≠ 0",
+     "caption": {
+      "fa": "ریشه‌های مخرج از ℝ حذف می‌شوند (آزمون دی ۱۴۰۰)",
+      "en": "The roots of the denominator are removed from ℝ (Dey 1400 paper)",
+      "tr": "Rishe-haye makhraj az ℝ hazf mishavand (azmoon-e Dey 1400)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "√g(x)  ⟹  g(x) ≥ 0",
+     "caption": {
+      "fa": "زیر رادیکال با فرجهٔ زوج: نامنفی (آزمون دی ۱۴۰۱)",
+      "en": "Under an even root: zero or more (Dey 1401 paper)",
+      "tr": "Zir-e radikal ba farje-ye zoj: na-manfi (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "برد: از چیزی که می‌دانی شروع کن",
+      "en": "Range: start from what you know",
+      "tr": "Bord: az chizi ke midani shoroo kon"
+     },
+     "body": {
+      "fa": "برای برد، از چیزی که مطمئنی شروع کن و قدم به قدم جلو برو. مثلاً می‌دانی سینوس همیشه بین `−1` و `1` است؛ هر کاری با سینوس بکنی، همین بازه را با خودش می‌برد. یا `1/x`: کسری که صورتش ۱ است هرگز صفر نمی‌شود، پس برد `1/x` همهٔ عددها جز صفر است (آزمون خرداد ۱۴۰۲).",
+      "en": "For the range, start from something you are sure of and move step by step. For example, you know sine is always between `−1` and `1`; whatever you do to sine carries that interval along. Or `1/x`: a fraction with 1 on top is never zero, so the range of `1/x` is every number except zero (Khordad 1402 paper).",
+      "tr": "Baraye bord, az chizi ke motma'enni shoroo kon va ghadam be ghadam jelo boro. Masalan midani sinus hamishe beyn-e `−1` va `1` ast; har kari ba sinus bokoni, hamin baze ra ba khodash mibarad. Ya `1/x`: kasri ke sooratash 1 ast hargez sefr nemishavad, pas bord-e `1/x` hame-ye adad-ha joz sefr ast (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "−1 ≤ sin x ≤ 1"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: دامنهٔ `f(x) = 1/(x − 3)`",
+      "en": "Warm-up: the domain of `f(x) = 1/(x − 3)`",
+      "tr": "Garm kardan: damane-ye `f(x) = 1/(x − 3)`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس چه چیزی دستگاه را خراب می‌کند. اینجا رادیکال نداریم، فقط یک کسر داریم؛ پس تنها خطر، صفر شدن مخرج است.",
+        "en": "Ask what could jam the machine. There is no root here, only a fraction, so the only danger is the denominator becoming zero.",
+        "tr": "Bepors che chizi dastgah ra kharab mikonad. Inja radikal nadarim, faghat yek kasr darim; pas tanha khatar, sefr shodan-e makhraj ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "مخرج را برابر صفر بگذار تا عدد ممنوع را پیدا کنی.",
+        "en": "Set the denominator equal to zero to find the forbidden number.",
+        "tr": "Makhraj ra barabar-e sefr bogzar ta adad-e mamnoo' ra peyda koni."
+       },
+       "math": "x − 3 = 0   ⟹   x = 3"
+      },
+      {
+       "text": {
+        "fa": "همهٔ عددها مجازند جز همین یکی، پس آن را از ℝ کنار بگذار.",
+        "en": "Every number is allowed except this one, so take it out of ℝ.",
+        "tr": "Hame-ye adad-ha mojaz-and joz hamin yeki, pas an ra az ℝ kenar bogzar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`ℝ − {3}`",
+      "en": "`ℝ − {3}`",
+      "tr": "`ℝ − {3}`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " sign chart for  x / (x - 2)\n\n  x       :   <0   0   0..2   2   >2\n  x       :   -    0    +     +    +\n  x - 2   :   -    -    -     0    +\n  ratio   :   +    0    -    und   +\n\n  keep + and 0, never 'und'",
+     "caption": {
+      "fa": "جدول تعیین علامت: علامت کسر از علامت صورت و مخرج می‌آید. `und` یعنی تعریف نشده (مخرج صفر).",
+      "en": "Sign chart: the sign of the fraction comes from the signs of top and bottom. \"und\" means undefined (zero denominator).",
+      "tr": "Jadval-e ta'yin-e alamat: alamat-e kasr az alamat-e soorat va makhraj miayad. \"und\" ya'ni ta'rif nashode (makhraj sefr)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: دامنهٔ `f(x) = √(x / (x − 2))` (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: the domain of `f(x) = √(x / (x − 2))` (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: damane-ye `f(x) = √(x / (x − 2))` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "این بار هر دو خطر را داریم: رادیکال و کسر. پس دو شرط می‌نویسیم: زیر رادیکال نامنفی، و مخرج غیر صفر.",
+        "en": "This time both dangers are here: a root and a fraction. So we write two conditions: the inside of the root is zero or more, and the denominator is not zero.",
+        "tr": "In bar har do khatar ra darim: radikal va kasr. Pas do shart minevisim: zir-e radikal na-manfi, va makhraj gheyr-e sefr."
+       },
+       "math": "x / (x − 2) ≥ 0 ,  x ≠ 2"
+      },
+      {
+       "text": {
+        "fa": "علامت یک کسر فقط جایی عوض می‌شود که صورت یا مخرج صفر شود. پس این نقطه‌ها مرز تکه‌ها هستند: صورت در ۰ و مخرج در ۲.",
+        "en": "A fraction can only change sign where its top or bottom is zero. So those points are the borders of the pieces: the top at 0 and the bottom at 2.",
+        "tr": "Alamat-e yek kasr faghat jayi avaz mishavad ke soorat ya makhraj sefr shavad. Pas in noghte-ha marz-e tekke-ha hastand: soorat dar 0 va makhraj dar 2."
+       },
+       "math": "x = 0 ,   x = 2"
+      },
+      {
+       "text": {
+        "fa": "در هر تکه یک عدد امتحان کن، مثلاً `−1`، `1` و `3`. منفی تقسیم بر منفی مثبت است، مثبت تقسیم بر منفی منفی است.",
+        "en": "Test one number in each piece, for example `−1`, `1` and `3`. A negative divided by a negative is positive; a positive divided by a negative is negative.",
+        "tr": "Dar har tekke yek adad emtehan kon, masalan `−1`، `1` va `3`. Manfi taghsim bar manfi mosbat ast, mosbat taghsim bar manfi manfi ast."
+       },
+       "math": "x < 0 : +     0 < x < 2 : −     x > 2 : +"
+      },
+      {
+       "text": {
+        "fa": "تکه‌های مثبت را نگه دار. صفرِ صورت قبول است چون کسر را صفر می‌کند و `√0 = 0` مشکلی ندارد. ولی ۲ هرگز، چون آنجا تقسیم بر صفر است.",
+        "en": "Keep the positive pieces. The zero of the top is allowed because it makes the fraction 0, and `√0 = 0` is fine. But never 2, because there we divide by zero.",
+        "tr": "Tekke-haye mosbat ra negah dar. Sefr-e soorat ghabool ast chon kasr ra sefr mikonad va `√0 = 0` moshkeli nadarad. Vali 2 hargez, chon anja taghsim bar sefr ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`(−∞, 0] ∪ (2, +∞)`",
+      "en": "`(−∞, 0] ∪ (2, +∞)`",
+      "tr": "`(−∞, 0] ∪ (2, +∞)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برد `f(x) = 2 − 3sin x`",
+      "en": "Exam twist: the range of `f(x) = 2 − 3sin x`",
+      "tr": "Pich-e emtehani: bord-e `f(x) = 2 − 3sin x`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خرداد ۱۴۰۱ برد `3sin x + 2` را پرسید و جوابش `[−1, 5]` بود. اینجا پیچ امتحانی، علامت منفی پشت ۳ است. مثل همیشه از بازهٔ سینوس شروع می‌کنیم.",
+        "en": "Khordad 1401 asked for the range of `3sin x + 2`, and the answer was `[−1, 5]`. Here the twist is the minus sign in front of the 3. As always, start from the range of sine.",
+        "tr": "Khordad 1401 bord-e `3sin x + 2` ra porsid va javabash `[−1, 5]` bood. Inja pich-e emtehani, alamat-e manfi posht-e 3 ast. Mesl-e hamishe az baze-ye sinus shoroo mikonim."
+       },
+       "math": "−1 ≤ sin x ≤ 1"
+      },
+      {
+       "text": {
+        "fa": "همه را در `−3` ضرب کن. ضرب در عدد منفی جهت نامساوی را برعکس می‌کند، چون بزرگ‌ترین عدد بعد از منفی شدن کوچک‌ترین می‌شود.",
+        "en": "Multiply everything by `−3`. Multiplying by a negative number flips the inequality, because the biggest number becomes the smallest once it turns negative.",
+        "tr": "Hame ra dar `−3` zarb kon. Zarb dar adad-e manfi jahat-e namosavi ra bar-aks mikonad, chon bozorg-tarin adad ba'd az manfi shodan koochak-tarin mishavad."
+       },
+       "math": "3 ≥ −3sin x ≥ −3"
+      },
+      {
+       "text": {
+        "fa": "به همه ۲ اضافه کن؛ جمع کردن جهت را عوض نمی‌کند.",
+        "en": "Add 2 to everything; adding does not change the direction.",
+        "tr": "Be hame 2 ezafe kon; jam' kardan jahat ra avaz nemikonad."
+       },
+       "math": "5 ≥ 2 − 3sin x ≥ −1"
+      },
+      {
+       "text": {
+        "fa": "از کوچک به بزرگ بنویس. جالب است که برد همان `[−1, 5]` شد: منفی فقط جای بالا و پایین را عوض کرد.",
+        "en": "Write it from small to big. Notice the range is again `[−1, 5]`: the minus only swapped top and bottom.",
+        "tr": "Az koochak be bozorg benevis. Jaleb ast ke bord haman `[−1, 5]` shod: manfi faghat ja-ye bala va payin ra avaz kard."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`[−1, 5]`",
+      "en": "`[−1, 5]`",
+      "tr": "`[−1, 5]`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ریشهٔ مخرج حتی زیر رادیکال و با علامت «بزرگ‌تر یا مساوی» هم هرگز در دامنه نیست: کنار آن کروشه نگذار، پرانتز بگذار.",
+      "en": "A root of the denominator is never in the domain, even under a root with \"greater than or equal\": never put a closed bracket next to it, use a round one.",
+      "tr": "Rishe-ye makhraj hatta zir-e radikal va ba alamat-e \"bozorgtar ya mosavi\" ham hargez dar damane nist: kenar-e an kroshe nagozar, parantez bogzar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "وقتی نامساوی را در عدد منفی ضرب می‌کنی، جهتش را برعکس کن. فراموش کردنش برد را اشتباه می‌کند.",
+      "en": "When you multiply an inequality by a negative number, flip its direction. Forgetting this gives the wrong range.",
+      "tr": "Vaghti namosavi ra dar adad-e manfi zarb mikoni, jahatash ra bar-aks kon. Faramoosh kardanash bord ra eshtebah mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 977
+    },
+    {
+     "session": "1400-Dey",
+     "number": 978
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 989
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 991
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 2,
+   "key": "math-1-special-functions",
+   "title": {
+    "fa": "تابع‌های مساوی و تابع‌های خاص",
+    "en": "Equal and special functions",
+    "tr": "Tabe'-haye mosavi va tabe'-haye khas"
+   },
+   "summary": {
+    "fa": "کی دو تابع واقعاً یکی‌اند، و تابع علامت و پله‌ای.",
+    "en": "When two functions are really the same, and the sign and step functions.",
+    "tr": "Key do tabe' vaghe'an yeki-and, va tabe'-e alamat va pelle-i."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دوقلوها",
+      "en": "Understand first: the twins",
+      "tr": "Avval befahm: doghoolo-ha"
+     },
+     "body": {
+      "fa": "دو دوقلو را تصور کن که درست شبیه هم‌اند. اگر یکی در تهران زندگی کند و دیگری در مشهد، باز هم دو نفرند، نه یک نفر. تابع‌ها هم همین‌طورند: فقط شبیه بودن خروجی‌ها کافی نیست. دو تابع وقتی مساوی‌اند که «خانه‌شان» یکی باشد (دامنهٔ یکسان) و برای هر ورودی دقیقاً یک جواب بدهند.",
+      "en": "Picture identical twins. If one lives in Tehran and the other in Mashhad, they are still two people, not one. Functions are the same: similar-looking outputs are not enough. Two functions are equal only when they live in the same \"home\" (the same domain) and give exactly the same answer for every input.",
+      "tr": "Do doghoolo ra tasavvor kon ke dorost shabih-e ham-and. Agar yeki dar Tehran zendegi konad va digari dar Mashhad, baz ham do nafar-and, na yek nafar. Tabe'-ha ham hamin-tor-and: faghat shabih boodan-e khorooji-ha kafi nist. Do tabe' vaghti mosavi-and ke \"khane-shan\" yeki bashad (damane-ye yeksan) va baraye har vorudi daghighan yek javab bedahand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f = g   ⟺   D(f) = D(g)  ,  f(x) = g(x)",
+     "caption": {
+      "fa": "هر دو شرط، برای هر x از دامنه (آزمون دی ۱۴۰۲)",
+      "en": "Both conditions, for every x in the domain (Dey 1402 paper)",
+      "tr": "Har do shart, baraye har x az damane (azmoon-e Dey 1402)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تابع علامت",
+      "en": "The sign function",
+      "tr": "Tabe'-e alamat"
+     },
+     "body": {
+      "fa": "تابع علامت مثل یک چراغ سه‌رنگ است که فقط می‌گوید عدد کدام طرف صفر است: برای هر عدد مثبت ۱، برای صفر ۰، و برای هر عدد منفی `−1`. اندازهٔ عدد برایش مهم نیست؛ `0.001` و `1000` هر دو ۱ می‌گیرند.",
+      "en": "The sign function is like a three-colour light that only tells you which side of zero a number is on: 1 for any positive number, 0 for zero, and `−1` for any negative number. It does not care how big the number is; `0.001` and `1000` both give 1.",
+      "tr": "Tabe'-e alamat mesl-e yek cheragh-e se-rang ast ke faghat migooyad adad kodam taraf-e sefr ast: baraye har adad-e mosbat 1, baraye sefr 0, va baraye har adad-e manfi `−1`. Andaze-ye adad barayash mohem nist; `0.001` va `1000` har do 1 migirand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sgn x :   x > 0 → 1  ,   x = 0 → 0  ,   x < 0 → −1"
+    },
+    {
+     "type": "diagram",
+     "art": "  y\n  1 |          o===========\n    |\n  0 +----------*-----------> x\n    |\n -1 |===========o\n\n  * = the point (0, 0)\n  o = open end (not included)",
+     "caption": {
+      "fa": "نمودار تابع علامت: دو خط افقی و یک نقطهٔ تنها در مبدأ.",
+      "en": "The graph of the sign function: two flat lines and a single point at the origin.",
+      "tr": "Nemoodar-e tabe'-e alamat: do khat-e ofoghi va yek noghte-ye tanha dar mabda'."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تابع پله‌ای",
+      "en": "The step function",
+      "tr": "Tabe'-e pelle-i"
+     },
+     "body": {
+      "fa": "تابع پله‌ای را با کرایهٔ پارکینگ بشناس: تا یک ساعت یک قیمت، از یک تا دو ساعت قیمت بعدی، و همین‌طور. وسط هر بازه قیمت ثابت است و سر هر ساعت یک‌باره بالا می‌پرد. نمودارش شبیه پله است، برای همین اسمش پله‌ای است.",
+      "en": "Meet the step function through a car-park fee: one price up to an hour, the next price from one to two hours, and so on. Inside each interval the price stays the same, and at each hour it jumps up at once. Its graph looks like stairs, which is where the name comes from.",
+      "tr": "Tabe'-e pelle-i ra ba keraye-ye parking beshenas: ta yek sa'at yek gheymat, az yek ta do sa'at gheymat-e ba'di, va hamin-tor. Vasat-e har baze gheymat sabet ast va sar-e har sa'at yek-bare bala mipard. Nemoodarash shabih-e pelle ast, baraye hamin esmash pelle-i ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " fee\n  3 |              [------\n  2 |       [------)\n  1 |[------)\n    +-------+------+-------> hours\n    0       1      2\n\n  [ included    ) not included",
+     "caption": {
+      "fa": "هر پله روی یک بازه ثابت است و سر بازه بالا می‌پرد.",
+      "en": "Each step is flat over one interval and jumps at its end.",
+      "tr": "Har pelle rooye yek baze sabet ast va sar-e baze bala mipard."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: `sgn(−7)`، `sgn(0)` و `sgn(2.5)`",
+      "en": "Warm-up: `sgn(−7)`, `sgn(0)` and `sgn(2.5)`",
+      "tr": "Garm kardan: `sgn(−7)`, `sgn(0)` va `sgn(2.5)`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فقط بپرس هر عدد کدام طرف صفر است؛ اندازه‌اش مهم نیست.",
+        "en": "Only ask which side of zero each number is on; its size does not matter.",
+        "tr": "Faghat bepors har adad kodam taraf-e sefr ast; andaze-ash mohem nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "`−7` منفی است، پس `−1`. صفر خودش ۰ است. `2.5` مثبت است، پس ۱.",
+        "en": "`−7` is negative, so `−1`. Zero itself gives 0. `2.5` is positive, so 1.",
+        "tr": "`−7` manfi ast, pas `−1`. Sefr khodash 0 ast. `2.5` mosbat ast, pas 1."
+       },
+       "math": "sgn(−7) = −1 ,  sgn(0) = 0 ,  sgn(2.5) = 1"
+      }
+     ],
+     "answer": {
+      "fa": "`−1`، `0` و `1`",
+      "en": "`−1`, `0` and `1`",
+      "tr": "`−1`, `0` va `1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شرط مساوی بودن دو تابع (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: the condition for two equal functions (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: shart-e mosavi boodan-e do tabe' (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول «خانه‌ها» را مقایسه کن: دامنه‌ها. اگر یکی نباشند، کار تمام است؛ مثل دوقلوهای دو شهر، مساوی نیستند.",
+        "en": "First compare the \"homes\": the domains. If they differ you are done; like the twins in two cities, the functions are not equal.",
+        "tr": "Avval \"khane-ha\" ra moghayese kon: damane-ha. Agar yeki nabashand, kar tamam ast; mesl-e doghoolo-haye do shahr, mosavi nistand."
+       },
+       "math": "D(f) = D(g)"
+      },
+      {
+       "text": {
+        "fa": "اگر دامنه‌ها یکی بود، حالا جواب‌ها را مقایسه کن، آن هم برای «هر» x، نه فقط چند عدد.",
+        "en": "If the domains match, now compare the answers, and for every x, not just a few numbers.",
+        "tr": "Agar damane-ha yeki bood, hala javab-ha ra moghayese kon, an ham baraye \"har\" x, na faghat chand adad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`f(x) = g(x)` برای هر x از دامنه",
+      "en": "`f(x) = g(x)` for every x in the domain",
+      "tr": "`f(x) = g(x)` baraye har x az damane"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا `f(x) = x` و `g(x) = √(x²)` مساوی‌اند؟",
+      "en": "Exam twist: are `f(x) = x` and `g(x) = √(x²)` equal?",
+      "tr": "Pich-e emtehani: aya `f(x) = x` va `g(x) = √(x²)` mosavi-and?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دامنه‌ها: x هر عددی می‌تواند باشد، و `x²` هیچ‌وقت منفی نیست، پس رادیکال همیشه تعریف شده است. هر دو دامنه ℝ است؛ شرط اول برقرار است.",
+        "en": "Domains: x can be any number, and `x²` is never negative, so the root is always defined. Both domains are ℝ; the first condition holds.",
+        "tr": "Damane-ha: x har adadi mitavanad bashad, va `x²` hich-vaght manfi nist, pas radikal hamishe ta'rif shode ast. Har do damane ℝ ast; shart-e avval barghrar ast."
+       },
+       "math": "D(f) = D(g) = ℝ"
+      },
+      {
+       "text": {
+        "fa": "حالا یک عدد منفی امتحان کن، چون رادیکال همیشه جواب نامنفی می‌دهد.",
+        "en": "Now test a negative number, because a square root always gives an answer that is zero or more.",
+        "tr": "Hala yek adad-e manfi emtehan kon, chon radikal hamishe javab-e na-manfi midahad."
+       },
+       "math": "f(−2) = −2 ,   g(−2) = √4 = 2"
+      },
+      {
+       "text": {
+        "fa": "یک x پیدا شد که جواب‌ها فرق دارند؛ همین یک مثال کافی است. در واقع `√(x²) = |x|`.",
+        "en": "We found one x where the answers differ; that single case is enough. In fact `√(x²) = |x|`.",
+        "tr": "Yek x peyda shod ke javab-ha fargh darand; hamin yek mesal kafi ast. Dar vaghe' `√(x²) = |x|`."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مساوی نیستند",
+      "en": "They are not equal",
+      "tr": "Mosavi nistand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ساده کردن یک کسر (مثل خط زدن x در `x² / x`) دامنه را عوض نمی‌کند: دامنه را از عبارت اصلی بگیر. `x² / x` در `x = 0` تعریف نشده، پس با `x` مساوی نیست.",
+      "en": "Simplifying a fraction (like cancelling x in `x² / x`) does not change the domain: take the domain from the original expression. `x² / x` is undefined at `x = 0`, so it is not equal to `x`.",
+      "tr": "Sade kardan-e yek kasr (mesl-e khat zadan-e x dar `x² / x`) damane ra avaz nemikonad: damane ra az ebarat-e asli begir. `x² / x` dar `x = 0` ta'rif nashode, pas ba `x` mosavi nist."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`√(x²)` برابر `x` نیست، برابر `|x|` است. این دام در سؤال‌های «مساوی بودن تابع‌ها» زیاد می‌آید.",
+      "en": "`√(x²)` is not `x`, it is `|x|`. This trap comes up often in \"equal functions\" questions.",
+      "tr": "`√(x²)` barabar-e `x` nist, barabar-e `|x|` ast. In dam dar so'al-haye \"mosavi boodan-e tabe'-ha\" ziad miayad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 986
+    },
+    {
+     "session": "1400-Dey",
+     "number": 987
+    },
+    {
+     "session": "1400-Dey",
+     "number": 985
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 3,
+   "key": "math-1-composition",
+   "title": {
+    "fa": "ترکیب توابع",
+    "en": "Composition of functions",
+    "tr": "Tarkib-e tavabe'"
+   },
+   "summary": {
+    "fa": "خروجی یک تابع، ورودی تابع دیگر: مثل یک خط تولید.",
+    "en": "One function's output becomes another's input: like a production line.",
+    "tr": "Khorooji-ye yek tabe', vorudi-ye tabe'-e digar: mesl-e yek khatt-e tolid."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: خط تولید",
+      "en": "Understand first: the production line",
+      "tr": "Avval befahm: khatt-e tolid"
+     },
+     "body": {
+      "fa": "لباس‌شویی را در نظر بگیر: اول ماشین لباس‌شویی، بعد خشک‌کن. خروجی ماشین اول، ورودی ماشین دوم است. ترتیب هم مهم است: اول خشک کردن و بعد شستن، لباس خیس تحویلت می‌دهد! ترکیب تابع‌ها همین خط تولید است. در `f∘g` اول g کار می‌کند و بعد f روی نتیجهٔ آن.",
+      "en": "Think of laundry: first the washing machine, then the dryer. The first machine's output is the second machine's input. The order matters too: drying first and washing second hands you wet clothes! Composing functions is exactly this production line. In `f∘g`, g works first and then f works on its result.",
+      "tr": "Lebas-shooyi ra dar nazar begir: avval mashin-e lebas-shooyi, ba'd khoshk-kon. Khorooji-ye mashin-e avval, vorudi-ye mashin-e dovvom ast. Tartib ham mohem ast: avval khoshk kardan va ba'd shostan, lebas-e khis tahvilat midahad! Tarkib-e tabe'-ha hamin khatt-e tolid ast. Dar `f∘g` avval g kar mikonad va ba'd f rooye natije-ye an."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "       x\n       |\n    +-----+\n    |  g  |    first machine\n    +-----+\n       |\n      g(x)\n       |\n    +-----+\n    |  f  |    second machine\n    +-----+\n       |\n    f(g(x))  =  (f o g)(x)",
+     "caption": {
+      "fa": "در `f∘g` ماشینی که به x نزدیک‌تر است، یعنی g، اول کار می‌کند.",
+      "en": "In `f∘g`, the machine nearer to x, which is g, works first.",
+      "tr": "Dar `f∘g` mashini ke be x nazdik-tar ast, ya'ni g, avval kar mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f∘g)(x) = f(g(x))"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دامنهٔ تابع مرکب: دو بازرسی",
+      "en": "Domain of a composite: two checks",
+      "tr": "Damane-ye tabe'-e morakkab: do bazresi"
+     },
+     "body": {
+      "fa": "برای اینکه x از کل خط تولید رد شود، دو بازرسی لازم است. اول: g باید x را قبول کند (x در دامنهٔ g باشد). دوم: چیزی که g تحویل می‌دهد باید برای f قابل قبول باشد (`g(x)` در دامنهٔ f باشد). اگر هر کدام رد شود، x از خط بیرون می‌افتد (آزمون خرداد ۱۴۰۲).",
+      "en": "For x to pass through the whole line, it needs two checks. First: g must accept x (x is in the domain of g). Second: whatever g hands over must be acceptable to f (`g(x)` is in the domain of f). If either check fails, x falls off the line (Khordad 1402 paper).",
+      "tr": "Baraye inke x az kol-e khatt-e tolid rad shavad, do bazresi lazem ast. Avval: g bayad x ra ghabool konad (x dar damane-ye g bashad). Dovvom: chizi ke g tahvil midahad bayad baraye f ghabel-e ghabool bashad (`g(x)` dar damane-ye f bashad). Agar har kodam rad shavad, x az khat biroon mioftad (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "D(f∘g) = { x ∈ D(g)  |  g(x) ∈ D(f) }"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر `f(x) = x + 2` و `g(x) = 2x`، مقدار `(f∘g)(3)` چیست؟",
+      "en": "Warm-up: if `f(x) = x + 2` and `g(x) = 2x`, what is `(f∘g)(3)`?",
+      "tr": "Garm kardan: agar `f(x) = x + 2` va `g(x) = 2x`, meghdar-e `(f∘g)(3)` chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "با یک عدد شروع می‌کنیم تا خط تولید را حس کنیم. اول ماشین نزدیک به x، یعنی g، روی ۳ کار می‌کند.",
+        "en": "We start with a number to feel the production line. First the machine nearest to x, which is g, works on 3.",
+        "tr": "Ba yek adad shoroo mikonim ta khatt-e tolid ra hes konim. Avval mashin-e nazdik be x, ya'ni g, rooye 3 kar mikonad."
+       },
+       "math": "g(3) = 2 · 3 = 6"
+      },
+      {
+       "text": {
+        "fa": "حالا خروجی g، یعنی ۶، وارد f می‌شود.",
+        "en": "Now the output of g, which is 6, goes into f.",
+        "tr": "Hala khorooji-ye g, ya'ni 6, vared-e f mishavad."
+       },
+       "math": "f(6) = 6 + 2 = 8"
+      }
+     ],
+     "answer": {
+      "fa": "`8`",
+      "en": "`8`",
+      "tr": "`8`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اگر `f(x) = x + 2` و `g(x) = 2x`، `(f∘g)(x)` چیست؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: if `f(x) = x + 2` and `g(x) = 2x`, what is `(f∘g)(x)`? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: agar `f(x) = x + 2` va `g(x) = 2x`, `(f∘g)(x)` chist? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "همان کار مثال قبل را می‌کنیم، فقط این بار به جای عدد ۳، خود x را از خط رد می‌کنیم.",
+        "en": "We do what we did in the warm-up, only this time we send x itself down the line instead of 3.",
+        "tr": "Haman kar-e mesal-e ghabl ra mikonim, faghat in bar be ja-ye adad-e 3, khod-e x ra az khat rad mikonim."
+       },
+       "math": "(f∘g)(x) = f(g(x)) = f(2x)"
+      },
+      {
+       "text": {
+        "fa": "f به هر ورودی ۲ اضافه می‌کند. ورودی‌اش اینجا `2x` است، پس به `2x` دو اضافه کن.",
+        "en": "f adds 2 to whatever comes in. Here what comes in is `2x`, so add 2 to `2x`.",
+        "tr": "f be har vorudi 2 ezafe mikonad. Vorudi-ash inja `2x` ast, pas be `2x` do ezafe kon."
+       },
+       "math": "f(2x) = 2x + 2"
+      },
+      {
+       "text": {
+        "fa": "امتحان: با `x = 3` جواب `2 · 3 + 2 = 8` است، درست همان عدد مثال گرم کردن.",
+        "en": "Check: with `x = 3` the answer is `2 · 3 + 2 = 8`, exactly the warm-up's number.",
+        "tr": "Emtehan: ba `x = 3` javab `2 · 3 + 2 = 8` ast, dorost haman adad-e mesal-e garm kardan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`2x + 2`",
+      "en": "`2x + 2`",
+      "tr": "`2x + 2`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "همان آزمون، ترتیب برعکس",
+      "en": "Same paper, the other order",
+      "tr": "Haman azmoon, tartib-e bar-aks"
+     },
+     "body": {
+      "fa": "همان آزمون دی ۱۴۰۲ ترتیب برعکس را هم پرسید: با `f(x) = 2x` و `g(x) = x − 3`، در `g∘f` اول f کار می‌کند و `2x` می‌دهد، بعد g از آن ۳ کم می‌کند: `(g∘f)(x) = 2x − 3`.",
+      "en": "The same Dey 1402 paper also asked for the other order: with `f(x) = 2x` and `g(x) = x − 3`, in `g∘f` f works first and gives `2x`, then g takes 3 away: `(g∘f)(x) = 2x − 3`.",
+      "tr": "Haman azmoon-e Dey 1402 tartib-e bar-aks ra ham porsid: ba `f(x) = 2x` va `g(x) = x − 3`, dar `g∘f` avval f kar mikonad va `2x` midahad, ba'd g az an 3 kam mikonad: `(g∘f)(x) = 2x − 3`."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: دامنهٔ `f∘g` وقتی `f(x) = √x` و `g(x) = x − 3`",
+      "en": "Exam twist: the domain of `f∘g` when `f(x) = √x` and `g(x) = x − 3`",
+      "tr": "Pich-e emtehani: damane-ye `f∘g` vaghti `f(x) = √x` va `g(x) = x − 3`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بازرسی اول: g هر عددی را قبول می‌کند، چون `x − 3` همیشه تعریف شده است.",
+        "en": "First check: g accepts every number, because `x − 3` is always defined.",
+        "tr": "Bazresi-ye avval: g har adadi ra ghabool mikonad, chon `x − 3` hamishe ta'rif shode ast."
+       },
+       "math": "D(g) = ℝ"
+      },
+      {
+       "text": {
+        "fa": "بازرسی دوم: f رادیکال است و فقط ورودی نامنفی می‌خواهد. ورودی f اینجا `g(x)` است، نه x.",
+        "en": "Second check: f is a square root and only wants an input that is zero or more. Here f's input is `g(x)`, not x.",
+        "tr": "Bazresi-ye dovvom: f radikal ast va faghat vorudi-ye na-manfi mikhahad. Vorudi-ye f inja `g(x)` ast, na x."
+       },
+       "math": "g(x) ≥ 0   ⟹   x − 3 ≥ 0   ⟹   x ≥ 3"
+      },
+      {
+       "text": {
+        "fa": "x باید از هر دو بازرسی رد شود؛ اشتراک دو شرط، جواب است.",
+        "en": "x has to pass both checks; the overlap of the two conditions is the answer.",
+        "tr": "x bayad az har do bazresi rad shavad; eshterak-e do shart, javab ast."
+       },
+       "math": "(f∘g)(x) = √(x − 3)"
+      }
+     ],
+     "answer": {
+      "fa": "`[3, +∞)`",
+      "en": "`[3, +∞)`",
+      "tr": "`[3, +∞)`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`f∘g` و `g∘f` معمولاً یکی نیستند. با تابع‌های مثال کتاب، `(g∘f)(x) = 2(x + 2) = 2x + 4`، نه `2x + 2`. ترتیب را جابه‌جا نکن: تابع نزدیک به x اول کار می‌کند.",
+      "en": "`f∘g` and `g∘f` are usually different. With the textbook example's functions, `(g∘f)(x) = 2(x + 2) = 2x + 4`, not `2x + 2`. Do not swap the order: the function nearest to x works first.",
+      "tr": "`f∘g` va `g∘f` ma'moolan yeki nistand. Ba tabe'-haye mesal-e ketab, `(g∘f)(x) = 2(x + 2) = 2x + 4`, na `2x + 2`. Tartib ra jabeja nakon: tabe'-e nazdik be x avval kar mikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "برای دامنهٔ تابع مرکب، به فرمول نهایی بسنده نکن؛ هر دو بازرسی را جدا انجام بده. گاهی فرمول ساده‌شده عددی را مجاز نشان می‌دهد که در خط تولید گیر می‌کند.",
+      "en": "For the domain of a composite, do not rely on the final formula alone; do both checks separately. Sometimes the simplified formula seems to allow a number that actually gets stuck on the line.",
+      "tr": "Baraye damane-ye tabe'-e morakkab, be formool-e nahayi basande nakon; har do bazresi ra joda anjam bede. Gahi formool-e sade-shode adadi ra mojaz neshan midahad ke dar khatt-e tolid gir mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 955
+    },
+    {
+     "session": "1402-Dey",
+     "number": 956
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 979
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 4,
+   "key": "math-1-monotonic",
+   "title": {
+    "fa": "توابع صعودی و نزولی",
+    "en": "Increasing and decreasing functions",
+    "tr": "Tavabe'-e sooudi va nozooli"
+   },
+   "summary": {
+    "fa": "سربالایی، سرپایینی و زمین صاف: چهار تعریف، تابع ثابت، و ترکیب‌ها.",
+    "en": "Uphill, downhill and flat ground: four definitions, the constant function, and combinations.",
+    "tr": "Sarbalayi, sarpayini va zamin-e saf: chahar ta'rif, tabe'-e sabet, va tarkib-ha."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: جاده",
+      "en": "Understand first: the road",
+      "tr": "Avval befahm: jadde"
+     },
+     "body": {
+      "fa": "نمودار را مثل یک جاده ببین که از چپ به راست رویش راه می‌روی. اگر همیشه بالا می‌روی، جاده «اکیداً صعودی» است. اگر هیچ‌وقت پایین نمی‌آیی ولی گاهی روی زمین صاف استراحت می‌کنی، «صعودی» است. «نزولی» و «اکیداً نزولی» هم همین‌ها هستند، فقط سرپایینی. کلمهٔ «اکیداً» یعنی هیچ تکهٔ صافی مجاز نیست.",
+      "en": "See the graph as a road you walk along from left to right. If you always go up, the road is \"strictly increasing\". If you never go down but sometimes rest on flat ground, it is \"increasing\". \"Decreasing\" and \"strictly decreasing\" are the same ideas going downhill. The word \"strictly\" means no flat stretch is allowed.",
+      "tr": "Nemoodar ra mesl-e yek jadde bebin ke az chap be rast rooyash rah miravi. Agar hamishe bala miravi, jadde \"ekidan sooudi\" ast. Agar hich-vaght payin nemiayi vali gahi rooye zamin-e saf esterahat mikoni, \"sooudi\" ast. \"Nozooli\" va \"ekidan nozooli\" ham hamin-ha hastand, faghat sarpayini. Kalame-ye \"ekidan\" ya'ni hich tekke-ye safi mojaz nist."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " strictly    increasing   constant\n increasing  (flat ok)\n\n        /           __/\n       /         __/     ________\n      /         /\n     /       __/\n\n always up   never down   flat",
+     "caption": {
+      "fa": "از چپ به راست بخوان: اکیداً صعودی، صعودی، و ثابت.",
+      "en": "Read left to right: strictly increasing, increasing, and constant.",
+      "tr": "Az chap be rast bekhan: ekidan sooudi, sooudi, va sabet."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "a < b   ⟹   f(a) < f(b)",
+     "caption": {
+      "fa": "اکیداً صعودی؛ برای صعودی: ≤ (آزمون دی ۱۴۰۱)",
+      "en": "Strictly increasing; for increasing: ≤ (Dey 1401 paper)",
+      "tr": "Ekidan sooudi; baraye sooudi: ≤ (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "a < b   ⟹   f(a) > f(b)",
+     "caption": {
+      "fa": "اکیداً نزولی؛ برای نزولی: ≥",
+      "en": "Strictly decreasing; for decreasing: ≥",
+      "tr": "Ekidan nozooli; baraye nozooli: ≥"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تابع ثابت",
+      "en": "The constant function",
+      "tr": "Tabe'-e sabet"
+     },
+     "body": {
+      "fa": "اگر جاده‌ای هم «هیچ‌وقت پایین نمی‌آید» و هم «هیچ‌وقت بالا نمی‌رود»، تنها راهش این است که کاملاً صاف باشد. پس تابعی که روی یک بازه هم صعودی است و هم نزولی، تابع ثابت است (آزمون دی ۱۴۰۲).",
+      "en": "If a road both \"never goes down\" and \"never goes up\", the only way is for it to be completely flat. So a function that is both increasing and decreasing on an interval is a constant function (Dey 1402 paper).",
+      "tr": "Agar jadde-i ham \"hich-vaght payin nemiayad\" va ham \"hich-vaght bala nemiravad\", tanha rahash in ast ke kamelan saf bashad. Pas tabe'i ke rooye yek baze ham sooudi ast va ham nozooli, tabe'-e sabet ast (azmoon-e Dey 1402)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آیا `f(x) = 2x + 1` اکیداً صعودی است؟",
+      "en": "Warm-up: is `f(x) = 2x + 1` strictly increasing?",
+      "tr": "Garm kardan: aya `f(x) = 2x + 1` ekidan sooudi ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تعریف را مستقیم به کار ببر: دو ورودی دلخواه بگیر که اولی کوچک‌تر باشد.",
+        "en": "Use the definition directly: take any two inputs with the first one smaller.",
+        "tr": "Ta'rif ra mostaghim be kar bebar: do vorudi-ye delkhah begir ke avvali koochak-tar bashad."
+       },
+       "math": "a < b"
+      },
+      {
+       "text": {
+        "fa": "دو طرف را در ۲ ضرب کن (عدد مثبت، پس جهت عوض نمی‌شود) و بعد ۱ اضافه کن (جمع هم جهت را عوض نمی‌کند).",
+        "en": "Multiply both sides by 2 (a positive number, so the direction stays) and then add 1 (adding does not change it either).",
+        "tr": "Do taraf ra dar 2 zarb kon (adad-e mosbat, pas jahat avaz nemishavad) va ba'd 1 ezafe kon (jam' ham jahat ra avaz nemikonad)."
+       },
+       "math": "2a + 1 < 2b + 1"
+      },
+      {
+       "text": {
+        "fa": "این دقیقاً یعنی `f(a) < f(b)`، و برای هر a و b درست است.",
+        "en": "That is exactly `f(a) < f(b)`, and it is true for every a and b.",
+        "tr": "In daghighan ya'ni `f(a) < f(b)`, va baraye har a va b dorost ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بله، اکیداً صعودی است",
+      "en": "Yes, it is strictly increasing",
+      "tr": "Bale, ekidan sooudi ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اگر f اکیداً صعودی و g اکیداً نزولی باشد، `f∘g` چگونه است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: if f is strictly increasing and g strictly decreasing, what is `f∘g`? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: agar f ekidan sooudi va g ekidan nozooli bashad, `f∘g` chegoone ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خط تولید را دنبال کن. دو ورودی بگیر که `a < b`.",
+        "en": "Follow the production line. Take two inputs with `a < b`.",
+        "tr": "Khatt-e tolid ra dombal kon. Do vorudi begir ke `a < b`."
+       }
+      },
+      {
+       "text": {
+        "fa": "اول g کار می‌کند. g سرپایینی است، پس ترتیب را برعکس می‌کند.",
+        "en": "g works first. g goes downhill, so it flips the order.",
+        "tr": "Avval g kar mikonad. g sarpayini ast, pas tartib ra bar-aks mikonad."
+       },
+       "math": "g(a) > g(b)"
+      },
+      {
+       "text": {
+        "fa": "بعد f کار می‌کند. f سربالایی است، پس هر ترتیبی را که بگیرد همان‌طور نگه می‌دارد.",
+        "en": "Then f works. f goes uphill, so it keeps whatever order it receives.",
+        "tr": "Ba'd f kar mikonad. f sarbalayi ast, pas har tartibi ra ke begirad haman-tor negah midarad."
+       },
+       "math": "f(g(a)) > f(g(b))"
+      },
+      {
+       "text": {
+        "fa": "ورودی کوچک‌تر، خروجی بزرگ‌تر داد؛ این یعنی سرپایینی. یک برعکس + یک نگه داشتن = یک برعکس.",
+        "en": "The smaller input gave the bigger output; that means downhill. One flip plus one keep equals one flip.",
+        "tr": "Vorudi-ye koochak-tar, khorooji-ye bozorg-tar dad; in ya'ni sarpayini. Yek bar-aks + yek negah dashtan = yek bar-aks."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکیداً نزولی",
+      "en": "Strictly decreasing",
+      "tr": "Ekidan nozooli"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تفاضل دو تابع",
+      "en": "The difference of two functions",
+      "tr": "Tafazol-e do tabe'"
+     },
+     "body": {
+      "fa": "برای تفاضل `f − g` (آزمون دی ۱۴۰۱): اگر g اکیداً نزولی باشد، `−g` اکیداً صعودی است، چون منفی کردن سرپایینی را سربالایی می‌کند. جمع دو سربالایی هم سربالایی است. پس `f − g` اکیداً صعودی است.",
+      "en": "For the difference `f − g` (Dey 1401 paper): if g is strictly decreasing, `−g` is strictly increasing, because putting a minus in front turns downhill into uphill. Adding two uphills gives an uphill. So `f − g` is strictly increasing.",
+      "tr": "Baraye tafazol-e `f − g` (azmoon-e Dey 1401): agar g ekidan nozooli bashad, `−g` ekidan sooudi ast, chon manfi kardan sarpayini ra sarbalayi mikonad. Jam'-e do sarbalayi ham sarbalayi ast. Pas `f − g` ekidan sooudi ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا `f(x) = x²` روی ℝ صعودی است؟",
+      "en": "Exam twist: is `f(x) = x²` increasing on ℝ?",
+      "tr": "Pich-e emtehani: aya `f(x) = x²` rooye ℝ sooudi ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خیلی‌ها می‌گویند «بله، چون x بزرگ شود `x²` هم بزرگ می‌شود». ولی این فقط برای x های مثبت درست است. یک مثال نقض پیدا کن.",
+        "en": "Many people say \"yes, because when x grows `x²` grows\". But that is only true for positive x. Look for a counterexample.",
+        "tr": "Kheyli-ha migooyand \"bale, chon x bozorg shavad `x²` ham bozorg mishavad\". Vali in faghat baraye x-haye mosbat dorost ast. Yek mesal-e naghz peyda kon."
+       }
+      },
+      {
+       "text": {
+        "fa": "`−2 < 1` ولی `f(−2) = 4` از `f(1) = 1` بزرگ‌تر است: اینجا جاده پایین رفته است.",
+        "en": "`−2 < 1` but `f(−2) = 4` is bigger than `f(1) = 1`: the road went down here.",
+        "tr": "`−2 < 1` vali `f(−2) = 4` az `f(1) = 1` bozorg-tar ast: inja jadde payin rafte ast."
+       },
+       "math": "f(−2) = 4  >  f(1) = 1"
+      },
+      {
+       "text": {
+        "fa": "یک مثال نقض کافی است تا بگوییم روی ℝ صعودی نیست. ولی روی `[0, +∞)` اکیداً صعودی و روی `(−∞, 0]` اکیداً نزولی است: یکنوایی به بازه بستگی دارد.",
+        "en": "One counterexample is enough to say it is not increasing on ℝ. But it is strictly increasing on `[0, +∞)` and strictly decreasing on `(−∞, 0]`: monotonicity depends on the interval.",
+        "tr": "Yek mesal-e naghz kafi ast ta beguyim rooye ℝ sooudi nist. Vali rooye `[0, +∞)` ekidan sooudi va rooye `(−∞, 0]` ekidan nozooli ast: yeknavayi be baze bastegi darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خیر؛ فقط روی `[0, +∞)` صعودی است",
+      "en": "No; it is increasing only on `[0, +∞)`",
+      "tr": "Kheyr; faghat rooye `[0, +∞)` sooudi ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کلمهٔ «اکیداً» نمره دارد. «صعودی» یعنی هیچ‌وقت پایین نمی‌آید و «اکیداً صعودی» یعنی همیشه بالا می‌رود؛ این دو را جای هم ننویس.",
+      "en": "The word \"strictly\" carries the mark. \"Increasing\" means never going down, \"strictly increasing\" means always going up; do not write one for the other.",
+      "tr": "Kalame-ye \"ekidan\" nomre darad. \"Sooudi\" ya'ni hich-vaght payin nemiayad va \"ekidan sooudi\" ya'ni hamishe bala miravad; in do ra ja-ye ham nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "همیشه بازه را بگو. «`x²` صعودی است» بدون بازه غلط است؛ «`x²` روی `[0, +∞)` صعودی است» درست است.",
+      "en": "Always state the interval. \"`x²` is increasing\" with no interval is wrong; \"`x²` is increasing on `[0, +∞)`\" is right.",
+      "tr": "Hamishe baze ra begoo. \"`x²` sooudi ast\" bedoon-e baze ghalat ast; \"`x²` rooye `[0, +∞)` sooudi ast\" dorost ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 952
+    },
+    {
+     "session": "1401-Dey",
+     "number": 957
+    },
+    {
+     "session": "1401-Dey",
+     "number": 958
+    },
+    {
+     "session": "1401-Dey",
+     "number": 961
+    },
+    {
+     "session": "1402-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 990
+    },
+    {
+     "session": "1401-Dey",
+     "number": 992
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 5,
+   "key": "math-1-inverse",
+   "title": {
+    "fa": "تابع یک‌به‌یک و وارون",
+    "en": "One-to-one functions and inverses",
+    "tr": "Tabe'-e yek-be-yek va varoon"
+   },
+   "summary": {
+    "fa": "کدام تابع را می‌شود «برگرداند» و چطور.",
+    "en": "Which functions can be \"undone\", and how.",
+    "tr": "Kodam tabe' ra mishavad \"bargardand\" va chetor."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کمدها",
+      "en": "Understand first: the lockers",
+      "tr": "Avval befahm: komod-ha"
+     },
+     "body": {
+      "fa": "کمدهای مدرسه را تصور کن. اگر هر دانش‌آموز کمد خودش را داشته باشد، با دیدن یک کمد می‌فهمی مال کیست. ولی اگر دو نفر یک کمد مشترک داشته باشند، با دیدن کمد نمی‌توانی بگویی صاحبش کدام است. تابع یک‌به‌یک یعنی هیچ دو ورودی‌ای خروجی مشترک ندارند. فقط آن‌وقت می‌توانیم از خروجی به ورودی برگردیم؛ به این برگشت، «وارون» می‌گوییم.",
+      "en": "Picture school lockers. If every student has their own locker, seeing a locker tells you whose it is. But if two students share one locker, seeing it cannot tell you which of them owns it. A one-to-one function means no two inputs share an output. Only then can we go back from the output to the input; that way back is called the \"inverse\".",
+      "tr": "Komod-haye madrese ra tasavvor kon. Agar har danesh-amooz komod-e khodash ra dashte bashad, ba didan-e yek komod mifahmi mal-e kist. Vali agar do nafar yek komod-e moshtarak dashte bashand, ba didan-e komod nemitavani beguyi sahebash kodam ast. Tabe'-e yek-be-yek ya'ni hich do vorudi-i khorooji-ye moshtarak nadarand. Faghat an-vaght mitavanim az khorooji be vorudi bargardim; be in bargasht, \"varoon\" miguyim."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  one-to-one         not one-to-one\n\n   1 ------> a        -2 ---\\\n   2 ------> b               >---> 4\n   3 ------> c         2 ---/\n\n one owner each     4 has two owners\n                    (no way back)",
+     "caption": {
+      "fa": "چپ: هر خروجی یک صاحب دارد. راست: `x²` عددهای `2` و `−2` را به یک جا می‌برد.",
+      "en": "Left: every output has one owner. Right: `x²` sends `2` and `−2` to the same place.",
+      "tr": "Chap: har khorooji yek saheb darad. Rast: `x²` adad-haye `2` va `−2` ra be yek ja mibarad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آزمون خط افقی",
+      "en": "The horizontal line test",
+      "tr": "Azmoon-e khat-e ofoghi"
+     },
+     "body": {
+      "fa": "روی نمودار، آزمون ساده‌ای داریم: یک خط افقی بکش و آن را بالا و پایین ببر. اگر هیچ‌جا نمودار را بیش از یک بار قطع نکند، تابع یک‌به‌یک است (آزمون دی ۱۴۰۱). دو برخورد یعنی دو ورودی با یک خروجی.",
+      "en": "On a graph there is an easy test: draw a horizontal line and slide it up and down. If it never meets the graph more than once, the function is one-to-one (Dey 1401 paper). Two hits mean two inputs with one output.",
+      "tr": "Rooye nemoodar, azmoon-e sade-i darim: yek khat-e ofoghi bekesh va an ra bala va payin bebar. Agar hich-ja nemoodar ra bish az yek bar ghat' nakonad, tabe' yek-be-yek ast (azmoon-e Dey 1401). Do barkhord ya'ni do vorudi ba yek khorooji."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   y = x^2          y = 2x + 4\n\n  \\       /               /\n --*-----*-- 2 hits  ----*---- 1\n    \\   /               /\n     \\_/               /",
+     "caption": {
+      "fa": "سهمی را یک خط افقی در دو نقطه قطع می‌کند؛ خط راست فقط در یک نقطه.",
+      "en": "A horizontal line cuts the parabola in two points; it cuts the straight line in only one.",
+      "tr": "Sahmi ra yek khat-e ofoghi dar do noghte ghat' mikonad; khat-e rast faghat dar yek noghte."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "وارون: دکمهٔ برگرد",
+      "en": "The inverse: an undo button",
+      "tr": "Varoon: dokme-ye bargard"
+     },
+     "body": {
+      "fa": "وارون مثل دکمهٔ «برگرد» است: هر کاری f کرد، `f^(−1)` آن را خنثی می‌کند. اگر f عدد x را به y برد، `f^(−1)` همان y را به x برمی‌گرداند. برای همین، اگر اول f و بعد وارونش را اجرا کنی، دوباره به x می‌رسی (آزمون دی ۱۴۰۲).",
+      "en": "The inverse is like an \"undo\" button: whatever f did, `f^(−1)` cancels it. If f took x to y, `f^(−1)` takes that y back to x. That is why running f and then its inverse brings you back to x (Dey 1402 paper).",
+      "tr": "Varoon mesl-e dokme-ye \"bargard\" ast: har kari f kard, `f^(−1)` an ra khonsa mikonad. Agar f adad-e x ra be y bord, `f^(−1)` haman y ra be x barmigardanad. Baraye hamin, agar avval f va ba'd varoonash ra ejra koni, dobare be x miresi (azmoon-e Dey 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(f^(−1)∘f)(x) = x"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: وارون `f(x) = x + 5`",
+      "en": "Warm-up: the inverse of `f(x) = x + 5`",
+      "tr": "Garm kardan: varoon-e `f(x) = x + 5`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس f چه کاری می‌کند: به هر ورودی ۵ اضافه می‌کند.",
+        "en": "Ask what f does: it adds 5 to every input.",
+        "tr": "Bepors f che kari mikonad: be har vorudi 5 ezafe mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "برای خنثی کردن اضافه کردن ۵، باید ۵ کم کرد.",
+        "en": "To undo adding 5, you subtract 5.",
+        "tr": "Baraye khonsa kardan-e ezafe kardan-e 5, bayad 5 kam kard."
+       },
+       "math": "f^(−1)(x) = x − 5"
+      },
+      {
+       "text": {
+        "fa": "امتحان کن: ۳ را بده به f، می‌شود ۸؛ ۸ را بده به وارون، دوباره ۳ می‌شود.",
+        "en": "Check it: give 3 to f and get 8; give 8 to the inverse and get 3 back.",
+        "tr": "Emtehan kon: 3 ra bede be f, mishavad 8; 8 ra bede be varoon, dobare 3 mishavad."
+       },
+       "math": "f(3) = 8 ,   f^(−1)(8) = 3"
+      }
+     ],
+     "answer": {
+      "fa": "`x − 5`",
+      "en": "`x − 5`",
+      "tr": "`x − 5`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: وارون `f(x) = 2x + 4` (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: the inverse of `f(x) = 2x + 4` (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: varoon-e `f(x) = 2x + 4` (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اینجا f دو کار می‌کند: اول در ۲ ضرب می‌کند، بعد ۴ اضافه می‌کند. برای برگشت، کارها را برعکس و از آخر به اول خنثی می‌کنیم، مثل درآوردن کفش و جوراب.",
+        "en": "Here f does two things: first it multiplies by 2, then it adds 4. To go back, we undo them in reverse order, like taking off shoes before socks.",
+        "tr": "Inja f do kar mikonad: avval dar 2 zarb mikonad, ba'd 4 ezafe mikonad. Baraye bargasht, kar-ha ra bar-aks va az akhar be avval khonsa mikonim, mesl-e dar-avardan-e kafsh va joorab."
+       },
+       "math": "y = 2x + 4"
+      },
+      {
+       "text": {
+        "fa": "آخرین کار، اضافه کردن ۴ بود؛ پس اول ۴ کم کن. بعد ضرب در ۲ را با تقسیم بر ۲ خنثی کن.",
+        "en": "The last thing done was adding 4, so subtract 4 first. Then undo multiplying by 2 by dividing by 2.",
+        "tr": "Akharin kar, ezafe kardan-e 4 bood; pas avval 4 kam kon. Ba'd zarb dar 2 ra ba taghsim bar 2 khonsa kon."
+       },
+       "math": "x = (y − 4) / 2"
+      },
+      {
+       "text": {
+        "fa": "در جواب نهایی، طبق قرار، متغیر را x می‌نامیم.",
+        "en": "For the final answer, by convention, we call the variable x.",
+        "tr": "Dar javab-e nahayi, tebgh-e gharar, moteghayyer ra x minamim."
+       },
+       "math": "f^(−1)(x) = (x − 4) / 2"
+      },
+      {
+       "text": {
+        "fa": "امتحان: وارون باید f را خنثی کند.",
+        "en": "Check: the inverse must undo f.",
+        "tr": "Emtehan: varoon bayad f ra khonsa konad."
+       },
+       "math": "f^(−1)(f(x)) = ((2x + 4) − 4) / 2 = x"
+      }
+     ],
+     "answer": {
+      "fa": "`(x − 4) / 2`",
+      "en": "`(x − 4) / 2`",
+      "tr": "`(x − 4) / 2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: وارون `f(x) = x²` با دامنهٔ `[0, +∞)`",
+      "en": "Exam twist: the inverse of `f(x) = x²` with domain `[0, +∞)`",
+      "tr": "Pich-e emtehani: varoon-e `f(x) = x²` ba damane-ye `[0, +∞)`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "روی ℝ، `x²` یک‌به‌یک نیست، چون ۲ و `−2` هر دو ۴ می‌دهند. آزمون دی ۱۴۰۱ همین را پرسید: باید دامنه را به بازه‌ای محدود کرد که تابع در آن اکیداً یکنوا باشد. اینجا این کار را کرده‌اند: فقط x های نامنفی.",
+        "en": "On ℝ, `x²` is not one-to-one, because 2 and `−2` both give 4. The Dey 1401 paper asked exactly this: the domain must be restricted to an interval where the function is strictly monotonic. That has been done here: only x that are zero or more.",
+        "tr": "Rooye ℝ, `x²` yek-be-yek nist, chon 2 va `−2` har do 4 midahand. Azmoon-e Dey 1401 hamin ra porsid: bayad damane ra be baze-i mahdood kard ke tabe' dar an ekidan yeknava bashad. Inja in kar ra karde-and: faghat x-haye na-manfi."
+       }
+      },
+      {
+       "text": {
+        "fa": "حالا معادله را برای x حل کن. `x² = y` دو جواب دارد: `√y` و `−√y`.",
+        "en": "Now solve for x. `x² = y` has two solutions: `√y` and `−√y`.",
+        "tr": "Hala moadele ra baraye x hal kon. `x² = y` do javab darad: `√y` va `−√y`."
+       },
+       "math": "x = ±√y"
+      },
+      {
+       "text": {
+        "fa": "چون دامنه فقط x های نامنفی است، جواب منفی را کنار بگذار. پیچ امتحان همین است.",
+        "en": "Since the domain only has x that are zero or more, drop the negative solution. That is the twist.",
+        "tr": "Chon damane faghat x-haye na-manfi ast, javab-e manfi ra kenar bogzar. Pich-e emtehan hamin ast."
+       },
+       "math": "x = √y"
+      }
+     ],
+     "answer": {
+      "fa": "`f^(−1)(x) = √x`",
+      "en": "`f^(−1)(x) = √x`",
+      "tr": "`f^(−1)(x) = √x`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`y = x²` روی ℝ یک‌به‌یک نیست (`f(−2) = f(2) = 4`)، پس وارون ندارد. اول دامنه را به بازه‌ای محدود کن که تابع در آن اکیداً یکنوا باشد، مثل `[0, +∞)`.",
+      "en": "`y = x²` is not one-to-one on ℝ (`f(−2) = f(2) = 4`), so it has no inverse. First restrict the domain to an interval where it is strictly monotonic, such as `[0, +∞)`.",
+      "tr": "`y = x²` rooye ℝ yek-be-yek nist (`f(−2) = f(2) = 4`), pas varoon nadarad. Avval damane ra be baze-i mahdood kon ke tabe' dar an ekidan yeknava bashad, mesl-e `[0, +∞)`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`f^(−1)(x)` با `1/f(x)` فرق دارد. توان `−1` اینجا یعنی «وارون»، نه «یک تقسیم بر». مثلاً وارون `x + 5` برابر `x − 5` است، نه `1/(x + 5)`.",
+      "en": "`f^(−1)(x)` is not `1/f(x)`. The `−1` here means \"inverse\", not \"one over\". For example, the inverse of `x + 5` is `x − 5`, not `1/(x + 5)`.",
+      "tr": "`f^(−1)(x)` ba `1/f(x)` fargh darad. Tavan-e `−1` inja ya'ni \"varoon\", na \"yek taghsim bar\". Masalan varoon-e `x + 5` barabar-e `x − 5` ast, na `1/(x + 5)`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Dey",
+     "number": 988
+    },
+    {
+     "session": "1402-Dey",
+     "number": 985
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 1,
+   "unit": 6,
+   "key": "math-1-symmetry-period",
+   "title": {
+    "fa": "تقارن و تناوب",
+    "en": "Symmetry and period",
+    "tr": "Tagharon va tanavob"
+   },
+   "summary": {
+    "fa": "آینه، چرخش نیم‌دور، و تابع‌هایی که مثل ساعت تکرار می‌شوند.",
+    "en": "A mirror, a half-turn, and functions that repeat like a clock.",
+    "tr": "Ayene, charkhesh-e nim-dor, va tabe'-hayi ke mesl-e sa'at tekrar mishavand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پروانه و فرفره",
+      "en": "Understand first: the butterfly and the pinwheel",
+      "tr": "Avval befahm: parvane va ferfere"
+     },
+     "body": {
+      "fa": "بال‌های پروانه را ببین: نیمهٔ چپ، تصویر آینه‌ای نیمهٔ راست است. تابع زوج همین است؛ محور عرض‌ها آینه است. حالا یک فرفره را تصور کن: اگر نیم‌دور بچرخانی، دقیقاً شبیه قبل می‌شود. تابع فرد این‌طور است؛ نمودارش با نیم‌دور چرخش حول مبدأ روی خودش می‌افتد.",
+      "en": "Look at a butterfly's wings: the left half is the mirror image of the right half. An even function is like that; the y-axis is the mirror. Now picture a pinwheel: turn it half a turn and it looks exactly the same. An odd function is like that; a half-turn about the origin lands its graph on itself.",
+      "tr": "Bal-haye parvane ra bebin: nime-ye chap, tasvir-e ayene-i-ye nime-ye rast ast. Tabe'-e zoj hamin ast; mehvar-e arz-ha ayene ast. Hala yek ferfere ra tasavvor kon: agar nim-dor becharkhani, daghighan shabih-e ghabl mishavad. Tabe'-e fard in-tor ast; nemoodarash ba nim-dor charkhesh hol-e mabda' rooye khodash mioftad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  even: y = x^2     odd: y = x^3\n\n  \\   |   /              |  /\n   \\  |  /               | /\n  --\\_|_/--        ------+------\n      |                / |\n      |               /  |\n\n  mirror: y-axis    half-turn at 0",
+     "caption": {
+      "fa": "زوج: آینه نسبت به محور عرض‌ها (مثل `x²`). فرد: نیم‌دور چرخش حول مبدأ (مثل `x³`). (آزمون دی ۱۴۰۱)",
+      "en": "Even: a mirror in the y-axis (like `x²`). Odd: a half-turn about the origin (like `x³`). (Dey 1401 paper)",
+      "tr": "Zoj: ayene nesbat be mehvar-e arz-ha (mesl-e `x²`). Fard: nim-dor charkhesh hol-e mabda' (mesl-e `x³`). (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول دامنه، بعد آزمون",
+      "en": "Domain first, then the test",
+      "tr": "Avval damane, ba'd azmoon"
+     },
+     "body": {
+      "fa": "پیش از هر آزمونی، دامنه باید نسبت به مبدأ متقارن باشد: اگر x در دامنه است، `−x` هم باشد (آزمون دی ۱۴۰۲). آینه وقتی معنا دارد که هر دو طرف وجود داشته باشد. بعد `f(−x)` را حساب کن: اگر همان `f(x)` شد زوج است، اگر `−f(x)` شد فرد است.",
+      "en": "Before any test, the domain must be symmetric about the origin: if x is in it, so is `−x` (Dey 1402 paper). A mirror only makes sense when both sides exist. Then work out `f(−x)`: if it equals `f(x)` the function is even, if it equals `−f(x)` it is odd.",
+      "tr": "Pish az har azmooni, damane bayad nesbat be mabda' motagharen bashad: agar x dar damane ast, `−x` ham bashad (azmoon-e Dey 1402). Ayene vaghti ma'na darad ke har do taraf vojood dashte bashad. Ba'd `f(−x)` ra hesab kon: agar haman `f(x)` shod zoj ast, agar `−f(x)` shod fard ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f(−x) = f(x)",
+     "caption": {
+      "fa": "زوج: تقارن نسبت به محور عرض‌ها",
+      "en": "Even: symmetric about the y-axis",
+      "tr": "Zoj: tagharon nesbat be mehvar-e arz-ha"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f(−x) = −f(x)",
+     "caption": {
+      "fa": "فرد: تقارن نسبت به مبدأ",
+      "en": "Odd: symmetric about the origin",
+      "tr": "Fard: tagharon nesbat be mabda'"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تناوب: مثل ساعت",
+      "en": "Period: like a clock",
+      "tr": "Tanavob: mesl-e sa'at"
+     },
+     "body": {
+      "fa": "ساعت را در نظر بگیر: هر ۱۲ ساعت عقربه‌ها دقیقاً به همان جای قبل برمی‌گردند. تابع متناوب هم بعد از یک فاصلهٔ ثابت عیناً تکرار می‌شود. کوچک‌ترین فاصلهٔ مثبت T که بعد از آن همه چیز تکرار شود، یعنی `f(x + T) = f(x)` برای هر x، «دورهٔ تناوب» است (آزمون خرداد ۱۴۰۱).",
+      "en": "Think of a clock: every 12 hours the hands return to exactly where they were. A periodic function also repeats itself exactly after a fixed distance. The smallest positive distance T after which everything repeats, meaning `f(x + T) = f(x)` for every x, is the \"period\" (Khordad 1401 paper).",
+      "tr": "Sa'at ra dar nazar begir: har 12 sa'at aghrabe-ha daghighan be haman ja-ye ghabl barmigardand. Tabe'-e motanaveb ham ba'd az yek fasele-ye sabet eynan tekrar mishavad. Koochak-tarin fasele-ye mosbat T ke ba'd az an hame chiz tekrar shavad, ya'ni `f(x + T) = f(x)` baraye har x, \"dowre-ye tanavob\" ast (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  1 |  .-.         .-.\n    | /   \\       /   \\\n  0 +/-----\\-----/-----\\----> x\n    |       \\   /       \\\n -1 |        '-'         '-\n    |<-- 2 pi -->|\n      one period of sin x",
+     "caption": {
+      "fa": "موج سینوس بعد از هر `2π` عیناً تکرار می‌شود.",
+      "en": "The sine wave repeats exactly after every `2π`.",
+      "tr": "Moj-e sinus ba'd az har `2π` eynan tekrar mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f(x + T) = f(x)"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آیا `f(x) = x²` زوج است؟",
+      "en": "Warm-up: is `f(x) = x²` even?",
+      "tr": "Garm kardan: aya `f(x) = x²` zoj ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول دامنه: ℝ نسبت به مبدأ متقارن است، پس می‌توانیم آزمون را انجام دهیم.",
+        "en": "Domain first: ℝ is symmetric about the origin, so we may run the test.",
+        "tr": "Avval damane: ℝ nesbat be mabda' motagharen ast, pas mitavanim azmoon ra anjam dahim."
+       }
+      },
+      {
+       "text": {
+        "fa": "به جای x بگذار `−x`. منفی ضرب در منفی مثبت است، پس منفی ناپدید می‌شود.",
+        "en": "Put `−x` in place of x. A negative times a negative is positive, so the minus disappears.",
+        "tr": "Be ja-ye x bogzar `−x`. Manfi zarb dar manfi mosbat ast, pas manfi napadid mishavad."
+       },
+       "math": "f(−x) = (−x)² = x² = f(x)"
+      }
+     ],
+     "answer": {
+      "fa": "بله، زوج است",
+      "en": "Yes, it is even",
+      "tr": "Bale, zoj ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: دورهٔ تناوب `f(x) = sin(bx)` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the period of `f(x) = sin(bx)` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dowre-ye tanavob-e `f(x) = sin(bx)` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "چیزی که می‌دانی: خود سینوس هر `2π` یک بار کامل تکرار می‌شود.",
+        "en": "What you know: sine itself repeats once fully every `2π`.",
+        "tr": "Chizi ke midani: khod-e sinus har `2π` yek bar kamel tekrar mishavad."
+       },
+       "math": "sin(θ + 2π) = sin θ"
+      },
+      {
+       "text": {
+        "fa": "در `sin(bx)`، ورودی سینوس `bx` است. وقتی x به اندازهٔ T جلو برود، `bx` به اندازهٔ `bT` جلو می‌رود. می‌خواهیم این دقیقاً یک دور کامل باشد.",
+        "en": "In `sin(bx)`, the input to sine is `bx`. When x moves on by T, `bx` moves on by `bT`. We want that to be exactly one full turn.",
+        "tr": "Dar `sin(bx)`, vorudi-ye sinus `bx` ast. Vaghti x be andaze-ye T jelo beravad, `bx` be andaze-ye `bT` jelo miravad. Mikhahim in daghighan yek dor-e kamel bashad."
+       },
+       "math": "|b| · T = 2π"
+      },
+      {
+       "text": {
+        "fa": "برای T حل کن. قدرمطلق لازم است چون دوره همیشه مثبت است، حتی اگر b منفی باشد.",
+        "en": "Solve for T. The absolute value is needed because a period is always positive, even when b is negative.",
+        "tr": "Baraye T hal kon. Ghadr-e motlagh lazem ast chon dowre hamishe mosbat ast, hatta agar b manfi bashad."
+       },
+       "math": "T = 2π / |b|"
+      }
+     ],
+     "answer": {
+      "fa": "`2π / |b|`",
+      "en": "`2π / |b|`",
+      "tr": "`2π / |b|`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا `f(x) = x²` با دامنهٔ `[−1, 2]` زوج است؟",
+      "en": "Exam twist: is `f(x) = x²` with domain `[−1, 2]` even?",
+      "tr": "Pich-e emtehani: aya `f(x) = x²` ba damane-ye `[−1, 2]` zoj ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ضابطه همان `x²` مثال گرم کردن است، و `(−x)² = x²` هنوز درست است. وسوسه می‌شوی بگویی «زوج». صبر کن: اول دامنه.",
+        "en": "The rule is the same `x²` as in the warm-up, and `(−x)² = x²` is still true. You are tempted to say \"even\". Wait: domain first.",
+        "tr": "Zabete haman `x²`-e mesal-e garm kardan ast, va `(−x)² = x²` hanooz dorost ast. Vasvase mishavi beguyi \"zoj\". Sabr kon: avval damane."
+       }
+      },
+      {
+       "text": {
+        "fa": "۲ در دامنه است، ولی `−2` نیست. پس دامنه نسبت به مبدأ متقارن نیست و آینه کار نمی‌کند.",
+        "en": "2 is in the domain, but `−2` is not. So the domain is not symmetric about the origin, and the mirror does not work.",
+        "tr": "2 dar damane ast, vali `−2` nist. Pas damane nesbat be mabda' motagharen nist va ayene kar nemikonad."
+       },
+       "math": "2 ∈ D(f)  ,   −2 ∉ D(f)"
+      },
+      {
+       "text": {
+        "fa": "بدون دامنهٔ متقارن، تابع نه زوج است نه فرد، هر ضابطه‌ای که داشته باشد.",
+        "en": "Without a symmetric domain, the function is neither even nor odd, whatever its rule.",
+        "tr": "Bedoon-e damane-ye motagharen, tabe' na zoj ast na fard, har zabete-i ke dashte bashad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نه زوج است نه فرد",
+      "en": "It is neither even nor odd",
+      "tr": "Na zoj ast na fard"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شرط دامنهٔ متقارن را فراموش نکن: پیش از بررسی زوج و فرد، همیشه اول دامنه را ببین.",
+      "en": "Do not forget the symmetric-domain condition: before checking even or odd, always look at the domain first.",
+      "tr": "Shart-e damane-ye motagharen ra faramoosh nakon: pish az barresi-ye zoj va fard, hamishe avval damane ra bebin."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در `2π / |b|` قدرمطلق را جا نینداز. با `b = −3` دوره `2π/3` است، نه `−2π/3`؛ دوره هیچ‌وقت منفی نیست.",
+      "en": "Do not drop the absolute value in `2π / |b|`. With `b = −3` the period is `2π/3`, not `−2π/3`; a period is never negative.",
+      "tr": "Dar `2π / |b|` ghadr-e motlagh ra ja nayandaz. Ba `b = −3` dowre `2π/3` ast, na `−2π/3`; dowre hich-vaght manfi nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 993
+    },
+    {
+     "session": "1401-Dey",
+     "number": 955
+    },
+    {
+     "session": "1401-Dey",
+     "number": 956
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 980
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 1,
+   "key": "math-2-sum-difference",
+   "title": {
+    "fa": "سینوس، کسینوس و تانژانت مجموع و تفاضل دو کمان",
+    "en": "Sine, cosine and tangent of a sum and a difference",
+    "tr": "Sinus, kosinus va tanzhant-e majmoo va tafazol-e do kaman"
+   },
+   "summary": {
+    "fa": "چرا `sin(α + β)` برابر `sin α + sin β` نیست، و فرمول درست از کجا می‌آید.",
+    "en": "Why `sin(α + β)` is not `sin α + sin β`, and where the right formula comes from.",
+    "tr": "Chera `sin(α + β)` barabar-e `sin α + sin β` nist, va formool-e dorost az koja miayad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چرخ و فلک",
+      "en": "Understand first: the Ferris wheel",
+      "tr": "Avval befahm: charkh-o-falak"
+     },
+     "body": {
+      "fa": "چرخ و فلک را تصور کن. سینوس یعنی «ارتفاع» صندلی تو از مرکز چرخ. اگر چرخ ۳۰ درجه بچرخد و بعد ۳۰ درجهٔ دیگر، ارتفاعت دو برابر نمی‌شود، چون صندلی روی دایره حرکت می‌کند نه روی یک خط راست. پس `sin(30° + 30°)` با `sin 30° + sin 30°` فرق دارد: اولی `√3/2` یعنی حدود ۰٫۸۷ است و دومی ۱. ارتفاع‌ها جمع نمی‌شوند؛ برای همین فرمول جدا لازم داریم.",
+      "en": "Picture a Ferris wheel. Sine is the \"height\" of your seat above the centre of the wheel. If the wheel turns 30 degrees and then another 30, your height does not double, because the seat moves on a circle, not along a straight line. So `sin(30° + 30°)` is not `sin 30° + sin 30°`: the first is `√3/2`, about 0.87, and the second is 1. Heights do not add up; that is why we need a separate formula.",
+      "tr": "Charkh-o-falak ra tasavvor kon. Sinus ya'ni \"ertefa'\"-e sandali-ye to az markaz-e charkh. Agar charkh 30 daraje becharkhad va ba'd 30 daraje-ye digar, ertefa'at do barabar nemishavad, chon sandali rooye dayere harekat mikonad na rooye yek khat-e rast. Pas `sin(30° + 30°)` ba `sin 30° + sin 30°` fargh darad: avvali `√3/2` ya'ni hodood-e 0.87 ast va dovvomi 1. Ertefa'-ha jam' nemishavand; baraye hamin formool-e joda lazem darim."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          y\n          |      P = (cos t, sin t)\n          |     *\n          |    /|\n          |   / |\n          |  /  | sin t\n          | / t |\n  --------+-----+------> x\n          | cos t",
+     "caption": {
+      "fa": "روی دایرهٔ مثلثاتی (شعاع ۱)، کسینوس طول نقطه است و سینوس عرض آن.",
+      "en": "On the unit circle (radius 1), cosine is the x-coordinate of the point and sine is its y-coordinate.",
+      "tr": "Rooye dayere-ye mosallasati (sho'a' 1), kosinus tool-e noghte ast va sinus arz-e an."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " angle |  0    30    45    60   90\n ------+--------------------------\n  sin  |  0   1/2   r2/2  r3/2   1\n  cos  |  1   r3/2  r2/2  1/2    0\n  tan  |  0   r3/3   1    r3     -\n\n  r2 = root of 2,  r3 = root of 3",
+     "caption": {
+      "fa": "جدول زاویه‌های معروف (به درجه). `r2` یعنی `√2` و `r3` یعنی `√3`؛ تانژانت ۹۰ درجه تعریف نشده است.",
+      "en": "The table of familiar angles (in degrees). `r2` means `√2` and `r3` means `√3`; tan 90° is undefined.",
+      "tr": "Jadval-e zaviye-haye ma'roof (be daraje). `r2` ya'ni `√2` va `r3` ya'ni `√3`; tanzhant-e 90 daraje ta'rif nashode ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin(α + β) = sin α cos β + cos α sin β",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۰",
+      "en": "Dey 1400 paper",
+      "tr": "Azmoon-e Dey 1400"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cos(α + β) = cos α cos β − sin α sin β"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ترفند حفظ کردن",
+      "en": "A memory trick",
+      "tr": "Tarfand-e hefz kardan"
+     },
+     "body": {
+      "fa": "راه به خاطر سپردن: سینوس «قاطی» می‌کند (سینوس در کسینوس، به‌علاوهٔ کسینوس در سینوس) و علامتش را نگه می‌دارد. کسینوس «هم‌جنس‌ها» را کنار هم می‌گذارد (کسینوس در کسینوس، سینوس در سینوس) و علامت را برعکس می‌کند: در مجموع منها، در تفاضل به‌علاوه.",
+      "en": "How to remember them: sine mixes (sine times cosine, plus cosine times sine) and keeps the sign. Cosine pairs like with like (cosine times cosine, sine times sine) and flips the sign: a minus for a sum, a plus for a difference.",
+      "tr": "Rah-e be khater sepordan: sinus \"ghati\" mikonad (sinus dar kosinus, be-alave-ye kosinus dar sinus) va alamatash ra negah midarad. Kosinus \"ham-jens-ha\" ra kenar-e ham migozarad (kosinus dar kosinus, sinus dar sinus) va alamat ra bar-aks mikonad: dar majmoo menha, dar tafazol be-alave."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تفاضل دو کمان",
+      "en": "The difference of two angles",
+      "tr": "Tafazol-e do kaman"
+     },
+     "body": {
+      "fa": "برای تفاضل لازم نیست چیز تازه‌ای حفظ کنی: در فرمول مجموع، به جای β بگذار `−β`. کسینوس زوج است (`cos(−β) = cos β`) و سینوس فرد است (`sin(−β) = −sin β`)، پس فقط علامت جملهٔ دوم عوض می‌شود.",
+      "en": "You do not need to learn anything new for a difference: in the sum formula, put `−β` in place of β. Cosine is even (`cos(−β) = cos β`) and sine is odd (`sin(−β) = −sin β`), so only the sign of the second term changes.",
+      "tr": "Baraye tafazol lazem nist chiz-e taze-i hefz koni: dar formool-e majmoo, be ja-ye β bogzar `−β`. Kosinus zoj ast (`cos(−β) = cos β`) va sinus fard ast (`sin(−β) = −sin β`), pas faghat alamat-e jomle-ye dovvom avaz mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin(α − β) = sin α cos β − cos α sin β"
+    },
+    {
+     "type": "formula",
+     "math": "cos(α − β) = cos α cos β + sin α sin β",
+     "caption": {
+      "fa": "آزمون خرداد ۱۴۰۲",
+      "en": "Khordad 1402 paper",
+      "tr": "Azmoon-e Khordad 1402"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تانژانت مجموع را بساز",
+      "en": "Build the tangent of a sum",
+      "tr": "Tanzhant-e majmoo ra besaz"
+     },
+     "body": {
+      "fa": "تانژانت همان سینوس تقسیم بر کسینوس است، پس فرمولش را می‌سازیم: سینوس مجموع را بر کسینوس مجموع تقسیم کن، بعد صورت و مخرج را بر `cos α cos β` تقسیم کن تا هر `sin / cos` یک تانژانت شود (آزمون خرداد ۱۴۰۲).",
+      "en": "Tangent is sine divided by cosine, so we build its formula: divide the sine of the sum by the cosine of the sum, then divide the top and the bottom by `cos α cos β` so that every `sin / cos` becomes a tangent (Khordad 1402 paper).",
+      "tr": "Tanzhant haman sinus taghsim bar kosinus ast, pas formoolash ra misazim: sinus-e majmoo ra bar kosinus-e majmoo taghsim kon, ba'd soorat va makhraj ra bar `cos α cos β` taghsim kon ta har `sin / cos` yek tanzhant shavad (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "tan(α ± β) = (tan α ± tan β) / (1 ∓ tan α tan β)",
+     "caption": {
+      "fa": "علامت مخرج همیشه برعکس علامت صورت است",
+      "en": "The sign in the denominator is always the opposite of the top",
+      "tr": "Alamat-e makhraj hamishe bar-aks-e alamat-e soorat ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: `sin 75°` را بدون ماشین‌حساب پیدا کن",
+      "en": "Warm-up: find `sin 75°` without a calculator",
+      "tr": "Garm kardan: `sin 75°` ra bedoon-e mashin-hesab peyda kon"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "۷۵ در جدول نیست، ولی می‌توانیم آن را از دو زاویهٔ جدول بسازیم. این همان کاری است که فرمول مجموع برایش ساخته شده.",
+        "en": "75 is not in the table, but we can build it from two angles that are. This is exactly what the sum formula is for.",
+        "tr": "75 dar jadval nist, vali mitavanim an ra az do zaviye-ye jadval besazim. In haman kari ast ke formool-e majmoo barayash sakhte shode."
+       },
+       "math": "75° = 45° + 30°"
+      },
+      {
+       "text": {
+        "fa": "فرمول سینوس مجموع را بنویس: سینوس قاطی می‌کند و علامت به‌علاوه می‌ماند.",
+        "en": "Write the sine of a sum: sine mixes and the plus stays.",
+        "tr": "Formool-e sinus-e majmoo ra benevis: sinus ghati mikonad va alamat be-alave mimanad."
+       },
+       "math": "sin 45° cos 30° + cos 45° sin 30°"
+      },
+      {
+       "text": {
+        "fa": "عددها را از جدول بگذار.",
+        "en": "Put in the numbers from the table.",
+        "tr": "Adad-ha ra az jadval bogzar."
+       },
+       "math": "(√2/2)(√3/2) + (√2/2)(1/2)"
+      },
+      {
+       "text": {
+        "fa": "کسرها را ضرب کن؛ مخرج هر دو ۴ است، پس صورت‌ها را جمع کن.",
+        "en": "Multiply the fractions; both have 4 at the bottom, so add the tops.",
+        "tr": "Kasr-ha ra zarb kon; makhraj-e har do 4 ast, pas soorat-ha ra jam' kon."
+       },
+       "math": "√6/4 + √2/4"
+      }
+     ],
+     "answer": {
+      "fa": "`(√6 + √2) / 4`",
+      "en": "`(√6 + √2) / 4`",
+      "tr": "`(√6 + √2) / 4`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: `cos(α − β)` برابر چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: what is `cos(α − β)` equal to? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: `cos(α − β)` barabar-e chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به جای حفظ کردن، از فرمول مجموع شروع کن که آن را می‌دانی.",
+        "en": "Instead of memorising, start from the sum formula, which you know.",
+        "tr": "Be ja-ye hefz kardan, az formool-e majmoo shoroo kon ke an ra midani."
+       },
+       "math": "cos(α + β) = cos α cos β − sin α sin β"
+      },
+      {
+       "text": {
+        "fa": "`α − β` همان `α + (−β)` است، پس به جای β بگذار `−β`.",
+        "en": "`α − β` is the same as `α + (−β)`, so put `−β` in place of β.",
+        "tr": "`α − β` haman `α + (−β)` ast, pas be ja-ye β bogzar `−β`."
+       },
+       "math": "cos α cos(−β) − sin α sin(−β)"
+      },
+      {
+       "text": {
+        "fa": "کسینوس زوج است، پس `cos(−β) = cos β`. سینوس فرد است، پس `sin(−β) = −sin β`. منفی ضرب در منفی، مثبت می‌شود.",
+        "en": "Cosine is even, so `cos(−β) = cos β`. Sine is odd, so `sin(−β) = −sin β`. A minus times a minus is a plus.",
+        "tr": "Kosinus zoj ast, pas `cos(−β) = cos β`. Sinus fard ast, pas `sin(−β) = −sin β`. Manfi zarb dar manfi, mosbat mishavad."
+       },
+       "math": "cos α cos β + sin α sin β"
+      },
+      {
+       "text": {
+        "fa": "امتحان با زاویه‌های جدول: با `α = 60°` و `β = 30°`، چپ `cos 30° = √3/2` و راست `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. درست است.",
+        "en": "Check with table angles: with `α = 60°` and `β = 30°`, the left is `cos 30° = √3/2` and the right is `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. It works.",
+        "tr": "Emtehan ba zaviye-haye jadval: ba `α = 60°` va `β = 30°`, chap `cos 30° = √3/2` va rast `(1/2)(√3/2) + (√3/2)(1/2) = √3/2`. Dorost ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`cos α cos β + sin α sin β`",
+      "en": "`cos α cos β + sin α sin β`",
+      "tr": "`cos α cos β + sin α sin β`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: `tan 15°` را دقیق پیدا کن",
+      "en": "Exam twist: find `tan 15°` exactly",
+      "tr": "Pich-e emtehani: `tan 15°` ra daghigh peyda kon"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "۱۵ را به صورت تفاضل دو زاویهٔ جدول بنویس.",
+        "en": "Write 15 as the difference of two table angles.",
+        "tr": "15 ra be soorat-e tafazol-e do zaviye-ye jadval benevis."
+       },
+       "math": "15° = 45° − 30°"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان اینجاست: در تفاضل، صورت منها دارد و مخرج «به‌علاوه»، چون علامت مخرج برعکس است.",
+        "en": "Here is the twist: for a difference, the top has a minus and the bottom has a plus, because the sign in the bottom is reversed.",
+        "tr": "Pich-e emtehan injast: dar tafazol, soorat menha darad va makhraj \"be-alave\", chon alamat-e makhraj bar-aks ast."
+       },
+       "math": "(tan 45° − tan 30°) / (1 + tan 45° tan 30°)"
+      },
+      {
+       "text": {
+        "fa": "`tan 45° = 1` و `tan 30° = √3/3` را بگذار، بعد صورت و مخرج را در ۳ ضرب کن تا کسرهای کوچک ناپدید شوند.",
+        "en": "Put in `tan 45° = 1` and `tan 30° = √3/3`, then multiply the top and the bottom by 3 to clear the small fractions.",
+        "tr": "`tan 45° = 1` va `tan 30° = √3/3` ra bogzar, ba'd soorat va makhraj ra dar 3 zarb kon ta kasr-haye koochak napadid shavand."
+       },
+       "math": "(1 − √3/3) / (1 + √3/3) = (3 − √3) / (3 + √3)"
+      },
+      {
+       "text": {
+        "fa": "برای اینکه رادیکال از مخرج برود، صورت و مخرج را در `3 − √3` ضرب کن (گویا کردن).",
+        "en": "To get the root out of the bottom, multiply the top and the bottom by `3 − √3` (rationalising).",
+        "tr": "Baraye inke radikal az makhraj beravad, soorat va makhraj ra dar `3 − √3` zarb kon (gooya kardan)."
+       },
+       "math": "(12 − 6√3) / 6"
+      }
+     ],
+     "answer": {
+      "fa": "`2 − √3`",
+      "en": "`2 − √3`",
+      "tr": "`2 − √3`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در کسینوس علامت برعکس می‌شود: `cos(α − β)` با «به‌علاوه» نوشته می‌شود و `cos(α + β)` با «منها». در تانژانت هم مخرج مجموع `1 − tan α tan β` است، نه `1 + tan α tan β`.",
+      "en": "In cosine the sign flips: `cos(α − β)` is written with a plus and `cos(α + β)` with a minus. In tangent, the denominator for a sum is `1 − tan α tan β`, not `1 + tan α tan β`.",
+      "tr": "Dar kosinus alamat bar-aks mishavad: `cos(α − β)` ba \"be-alave\" neveshte mishavad va `cos(α + β)` ba \"menha\". Dar tanzhant ham makhraj-e majmoo `1 − tan α tan β` ast, na `1 + tan α tan β`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هیچ‌وقت سینوس را روی جمع پخش نکن: `sin(α + β) ≠ sin α + sin β`. اگر شک کردی، با ۳۰ و ۳۰ امتحان کن.",
+      "en": "Never spread sine over a sum: `sin(α + β) ≠ sin α + sin β`. If in doubt, test with 30 and 30.",
+      "tr": "Hich-vaght sinus ra rooye jam' pakhsh nakon: `sin(α + β) ≠ sin α + sin β`. Agar shak kardi, ba 30 va 30 emtehan kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 969
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 2,
+   "key": "math-2-double-angle",
+   "title": {
+    "fa": "کمان دو برابر",
+    "en": "Double-angle formulas",
+    "tr": "Kaman-e do barabar"
+   },
+   "summary": {
+    "fa": "همهٔ این فرمول‌ها از یک جا می‌آیند: فرمول مجموع با `β = α`.",
+    "en": "All of these formulas come from one place: the sum formula with `β = α`.",
+    "tr": "Hame-ye in formool-ha az yek ja miayand: formool-e majmoo ba `β = α`."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: یک چرخش، دو بار",
+      "en": "Understand first: one turn, twice",
+      "tr": "Avval befahm: yek charkhesh, do bar"
+     },
+     "body": {
+      "fa": "کمان دو برابر یعنی همان چرخش را دو بار انجام بدهی: `2x = x + x`. پس لازم نیست فرمول تازه‌ای حفظ کنی؛ در فرمول‌های مجموع که بلدی، هر دو کمان را x بگیر. هر فرمول این درس فقط یک خط از فرمول مجموع فاصله دارد.",
+      "en": "A double angle means doing the same turn twice: `2x = x + x`. So you do not need to memorise new formulas; in the sum formulas you already know, take both angles to be x. Every formula in this unit is only one line away from a sum formula.",
+      "tr": "Kaman-e do barabar ya'ni haman charkhesh ra do bar anjam bedahi: `2x = x + x`. Pas lazem nist formool-e taze-i hefz koni; dar formool-haye majmoo ke baladi, har do kaman ra x begir. Har formool-e in dars faghat yek khat az formool-e majmoo fasele darad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin 2x = sin(x + x) = 2 sin x cos x",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۲",
+      "en": "Dey 1402 paper",
+      "tr": "Azmoon-e Dey 1402"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cos 2x = cos(x + x) = cos²x − sin²x"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سه شکل کسینوس دو برابر",
+      "en": "Three forms of cos 2x",
+      "tr": "Se shekl-e kosinus-e do barabar"
+     },
+     "body": {
+      "fa": "با اتحاد `sin²x + cos²x = 1`، کسینوس دو برابر را به سه شکل می‌نویسیم. یک بار `sin²x` را با `1 − cos²x` عوض کن، یک بار `cos²x` را با `1 − sin²x`. هر سه شکل درست‌اند؛ آن را بردار که با بقیهٔ سؤال جور است.",
+      "en": "With the identity `sin²x + cos²x = 1`, we can write cos 2x in three ways. Once replace `sin²x` with `1 − cos²x`, once replace `cos²x` with `1 − sin²x`. All three forms are correct; choose the one that fits the rest of the question.",
+      "tr": "Ba ettehad-e `sin²x + cos²x = 1`، kosinus-e do barabar ra be se shekl minevisim. Yek bar `sin²x` ra ba `1 − cos²x` avaz kon, yek bar `cos²x` ra ba `1 − sin²x`. Har se shekl dorost-and; an ra bardar ke ba baghiye-ye so'al jor ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " cos 2x = cos^2 x - sin^2 x  (1)\n        = 2 cos^2 x - 1      (2)\n        = 1 - 2 sin^2 x      (3)\n\n only cos in the question -> (2)\n only sin in the question -> (3)",
+     "caption": {
+      "fa": "کدام شکل را برداری؟ ببین سؤال با کدام نسبت کار می‌کند.",
+      "en": "Which form should you pick? Look at which ratio the question works with.",
+      "tr": "Kodam shekl ra bardari? Bebin so'al ba kodam nesbat kar mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سینوس دو برابر بر حسب تانژانت",
+      "en": "sin 2x in terms of tan x",
+      "tr": "Sinus-e do barabar bar hasb-e tanzhant"
+     },
+     "body": {
+      "fa": "گاهی سینوس دو برابر را بر حسب تانژانت می‌خواهند (آزمون خرداد ۱۴۰۱). ترفند: `2 sin x cos x` را بر ۱ تقسیم کن، ولی ۱ را به شکل `sin²x + cos²x` بنویس. حالا صورت و مخرج را بر `cos²x` تقسیم کن: هر `sin / cos` یک تانژانت می‌شود و `cos²x / cos²x = 1`.",
+      "en": "Sometimes sin 2x is wanted in terms of tangent (Khordad 1401 paper). The trick: divide `2 sin x cos x` by 1, but write the 1 as `sin²x + cos²x`. Now divide the top and the bottom by `cos²x`: every `sin / cos` becomes a tangent and `cos²x / cos²x = 1`.",
+      "tr": "Gahi sinus-e do barabar ra bar hasb-e tanzhant mikhahand (azmoon-e Khordad 1401). Tarfand: `2 sin x cos x` ra bar 1 taghsim kon, vali 1 ra be shekl-e `sin²x + cos²x` benevis. Hala soorat va makhraj ra bar `cos²x` taghsim kon: har `sin / cos` yek tanzhant mishavad va `cos²x / cos²x = 1`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin 2x = 2tan x / (1 + tan²x)"
+    },
+    {
+     "type": "formula",
+     "math": "tan 2x = 2tan x / (1 − tan²x)",
+     "caption": {
+      "fa": "مخرج‌ها را با هم اشتباه نکن: یکی به‌علاوه، یکی منها",
+      "en": "Do not mix up the denominators: one plus, one minus",
+      "tr": "Makhraj-ha ra ba ham eshtebah nakon: yeki be-alave, yeki menha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر `sin x = 3/5` و `cos x = 4/5`، `sin 2x` و `cos 2x` چیست؟",
+      "en": "Warm-up: if `sin x = 3/5` and `cos x = 4/5`, what are `sin 2x` and `cos 2x`?",
+      "tr": "Garm kardan: agar `sin x = 3/5` va `cos x = 4/5`, `sin 2x` va `cos 2x` chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر دو نسبت را داریم، پس مستقیم از فرمول‌های پایه استفاده کن؛ نیازی به خود زاویه نیست.",
+        "en": "We have both ratios, so use the basic formulas directly; we do not need the angle itself.",
+        "tr": "Har do nesbat ra darim, pas mostaghim az formool-haye paye estefade kon; niazi be khod-e zaviye nist."
+       },
+       "math": "sin 2x = 2 · (3/5) · (4/5) = 24/25"
+      },
+      {
+       "text": {
+        "fa": "برای کسینوس، شکل اول را بردار چون هر دو نسبت را داریم.",
+        "en": "For cosine, take the first form since we have both ratios.",
+        "tr": "Baraye kosinus, shekl-e avval ra bardar chon har do nesbat ra darim."
+       },
+       "math": "cos 2x = 16/25 − 9/25 = 7/25"
+      },
+      {
+       "text": {
+        "fa": "امتحان: `(24/25)² + (7/25)² = (576 + 49)/625 = 1`. اتحاد اصلی برقرار است، پس حساب درست است.",
+        "en": "Check: `(24/25)² + (7/25)² = (576 + 49)/625 = 1`. The basic identity holds, so the working is right.",
+        "tr": "Emtehan: `(24/25)² + (7/25)² = (576 + 49)/625 = 1`. Ettehad-e asli barghrar ast, pas hesab dorost ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`sin 2x = 24/25` و `cos 2x = 7/25`",
+      "en": "`sin 2x = 24/25` and `cos 2x = 7/25`",
+      "tr": "`sin 2x = 24/25` va `cos 2x = 7/25`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: `1 − 2sin²x` برابر چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: what is `1 − 2sin²x` equal to? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: `1 − 2sin²x` barabar-e chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "عبارت فقط سینوس دارد و یک «۱» تنها؛ این بوی کسینوس دو برابر می‌دهد. از شکل اصلی شروع کن.",
+        "en": "The expression has only sine and a lone 1; that smells of cos 2x. Start from the basic form.",
+        "tr": "Ebarat faghat sinus darad va yek \"1\"-e tanha; in boo-ye kosinus-e do barabar midahad. Az shekl-e asli shoroo kon."
+       },
+       "math": "cos 2x = cos²x − sin²x"
+      },
+      {
+       "text": {
+        "fa": "سؤال کسینوس ندارد، پس کسینوس را با اتحاد از بین ببر: به جای `cos²x` بگذار `1 − sin²x`.",
+        "en": "The question has no cosine, so remove it with the identity: put `1 − sin²x` in place of `cos²x`.",
+        "tr": "So'al kosinus nadarad, pas kosinus ra ba ettehad az beyn bebar: be ja-ye `cos²x` bogzar `1 − sin²x`."
+       },
+       "math": "cos 2x = (1 − sin²x) − sin²x"
+      },
+      {
+       "text": {
+        "fa": "دو `sin²x` منفی را با هم جمع کن.",
+        "en": "Add the two negative `sin²x` terms together.",
+        "tr": "Do `sin²x`-e manfi ra ba ham jam' kon."
+       },
+       "math": "cos 2x = 1 − 2sin²x"
+      }
+     ],
+     "answer": {
+      "fa": "`cos 2x`",
+      "en": "`cos 2x`",
+      "tr": "`cos 2x`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر `tan x = 2`، بدون پیدا کردن x مقدار `sin 2x` چیست؟",
+      "en": "Exam twist: if `tan x = 2`, find `sin 2x` without finding x",
+      "tr": "Pich-e emtehani: agar `tan x = 2`, bedoon-e peyda kardan-e x meghdar-e `sin 2x` chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: زاویه را نمی‌دانیم و لازم هم نیست. فقط تانژانت داریم، پس فرمولی را برمی‌داریم که فقط تانژانت دارد (همان که در آزمون خرداد ۱۴۰۱ آمد).",
+        "en": "The twist: we do not know the angle, and we do not need it. We only have the tangent, so we pick the formula that uses only tangent (the one from the Khordad 1401 paper).",
+        "tr": "Pich-e emtehan: zaviye ra nemidanim va lazem ham nist. Faghat tanzhant darim, pas formooli ra barmidarim ke faghat tanzhant darad (haman ke dar azmoon-e Khordad 1401 amad)."
+       },
+       "math": "sin 2x = 2tan x / (1 + tan²x)"
+      },
+      {
+       "text": {
+        "fa": "عدد را بگذار. دقت کن مخرج «به‌علاوه» است؛ با فرمول `tan 2x` اشتباه نکن.",
+        "en": "Put in the number. Notice the bottom has a plus; do not confuse it with the formula for tan 2x.",
+        "tr": "Adad ra bogzar. Deghat kon makhraj \"be-alave\" ast; ba formool-e `tan 2x` eshtebah nakon."
+       },
+       "math": "2 · 2 / (1 + 4)"
+      }
+     ],
+     "answer": {
+      "fa": "`4/5`",
+      "en": "`4/5`",
+      "tr": "`4/5`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`2 sin x` با `sin 2x` فرق دارد: عدد ۲ بیرون از سینوس فقط جواب را دو برابر می‌کند. با ۳۰ درجه امتحان کن: `sin 60° ≈ 0.87` ولی `2 sin 30° = 1`.",
+      "en": "`2 sin x` is not `sin 2x`: a 2 outside the sine only doubles the answer. Test with 30 degrees: `sin 60° ≈ 0.87` but `2 sin 30° = 1`.",
+      "tr": "`2 sin x` ba `sin 2x` fargh darad: adad-e 2 biroon az sinus faghat javab ra do barabar mikonad. Ba 30 daraje emtehan kon: `sin 60° ≈ 0.87` vali `2 sin 30° = 1`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در `sin 2x` بر حسب تانژانت مخرج `1 + tan²x` است (به‌علاوه)، ولی در `tan 2x` مخرج `1 − tan²x` است. این دو را جابه‌جا نکن.",
+      "en": "In sin 2x written with tangent the denominator is `1 + tan²x` (plus), but in tan 2x it is `1 − tan²x`. Do not swap them.",
+      "tr": "Dar `sin 2x` bar hasb-e tanzhant makhraj `1 + tan²x` ast (be-alave), vali dar `tan 2x` makhraj `1 − tan²x` ast. In do ra jabeja nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 962
+    },
+    {
+     "session": "1400-Dey",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 2,
+   "unit": 3,
+   "key": "math-2-equations",
+   "title": {
+    "fa": "معادلات مثلثاتی",
+    "en": "Trigonometric equations",
+    "tr": "Moadelat-e mosallasati"
+   },
+   "summary": {
+    "fa": "چرا این معادله‌ها بی‌نهایت جواب دارند، و جواب کلی را چطور بنویسیم.",
+    "en": "Why these equations have infinitely many solutions, and how to write the general solution.",
+    "tr": "Chera in moadele-ha bi-nahayat javab darand, va javab-e kolli ra chetor benevisim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دور پشت دور",
+      "en": "Understand first: turn after turn",
+      "tr": "Avval befahm: dor posht-e dor"
+     },
+     "body": {
+      "fa": "باز هم چرخ و فلک: صندلی تو در هر دور، دوباره و دوباره به همان ارتفاع می‌رسد. پس سؤال «کی ارتفاع صفر است؟» یک جواب ندارد؛ بی‌نهایت جواب دارد، هر بار که چرخ دوباره به آنجا برسد. برای نوشتن همهٔ این جواب‌ها با هم، از یک عدد صحیح k استفاده می‌کنیم که می‌شمارد چند دور چرخیده‌ایم. به این، جواب کلی می‌گویند.",
+      "en": "The Ferris wheel again: on every turn your seat reaches the same height again and again. So the question \"when is the height zero?\" does not have one answer; it has infinitely many, every time the wheel gets back there. To write all of them at once we use an integer k that counts how many turns we have made. This is called the general solution.",
+      "tr": "Baz ham charkh-o-falak: sandali-ye to dar har dor, dobare va dobare be haman ertefa' miresad. Pas so'al-e \"key ertefa' sefr ast?\" yek javab nadarad; bi-nahayat javab darad, har bar ke charkh dobare be anja beresad. Baraye neveshtan-e hame-ye in javab-ha ba ham, az yek adad-e sahih k estefade mikonim ke mishomarad chand dor charkhide-im. Be in, javab-e kolli migooyand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "               pi/2\n                |\n                |\n   pi  ---------+---------  0, 2pi\n   (sin = 0)    |       (sin = 0,\n                |        cos = 1)\n              3pi/2",
+     "caption": {
+      "fa": "سینوس (عرض) در ۰ و `π` صفر است: هر نیم‌دور یک بار. کسینوس (طول) فقط در نقطهٔ ۰ برابر ۱ است: هر دور کامل یک بار.",
+      "en": "Sine (the height) is zero at 0 and at `π`: once every half turn. Cosine (the x-coordinate) equals 1 only at the point 0: once every full turn.",
+      "tr": "Sinus (arz) dar 0 va `π` sefr ast: har nim-dor yek bar. Kosinus (tool) faghat dar noghte-ye 0 barabar-e 1 ast: har dor-e kamel yek bar."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "              y\n      II      |      I\n   sin > 0    |   all > 0\n  ------------+------------> x\n   tan > 0    |   cos > 0\n      III     |      IV",
+     "caption": {
+      "fa": "علامت نسبت‌ها در هر ربع: کمک می‌کند بدانی جواب در کدام ربع است.",
+      "en": "The signs of the ratios in each quarter: it helps you know which quarter a solution is in.",
+      "tr": "Alamat-e nesbat-ha dar har rob': komak mikonad bedani javab dar kodam rob' ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin x = 0   ⟹   x = kπ",
+     "caption": {
+      "fa": "k هر عدد صحیحی است (آزمون خرداد ۱۴۰۲)",
+      "en": "k is any integer (Khordad 1402 paper)",
+      "tr": "k har adad-e sahihi ast (azmoon-e Khordad 1402)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cos x = 1   ⟹   x = 2kπ",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۱",
+      "en": "Dey 1401 paper",
+      "tr": "Azmoon-e Dey 1401"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "tan x = 0   ⟹   x = kπ",
+     "caption": {
+      "fa": "آزمون دی ۱۴۰۱",
+      "en": "Dey 1401 paper",
+      "tr": "Azmoon-e Dey 1401"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تانژانت صفر",
+      "en": "Tangent equal to zero",
+      "tr": "Tanzhant-e sefr"
+     },
+     "body": {
+      "fa": "چرا جواب `tan x = 0` همان جواب `sin x = 0` است؟ چون `tan x = sin x / cos x`، و یک کسر فقط وقتی صفر است که صورتش صفر باشد. در همان نقطه‌ها کسینوس `1` یا `−1` است، پس هیچ‌وقت تقسیم بر صفر نداریم.",
+      "en": "Why is the solution of `tan x = 0` the same as for `sin x = 0`? Because `tan x = sin x / cos x`, and a fraction is zero only when its top is zero. At those same points cosine is `1` or `−1`, so we never divide by zero.",
+      "tr": "Chera javab-e `tan x = 0` haman javab-e `sin x = 0` ast? Chon `tan x = sin x / cos x`, va yek kasr faghat vaghti sefr ast ke sooratash sefr bashad. Dar haman noghte-ha kosinus `1` ya `−1` ast, pas hich-vaght taghsim bar sefr nadarim."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جواب کلی در حالت عمومی",
+      "en": "The general solution in general",
+      "tr": "Javab-e kolli dar halat-e omoomi"
+     },
+     "body": {
+      "fa": "حالت کلی هم همین فکر را دنبال می‌کند. اگر یک زاویهٔ α بدانی که جواب است، بقیه از تقارن دایره به دست می‌آیند: سینوس (ارتفاع) در α و `π − α` یکی است، کسینوس (طول) در α و `−α` یکی است، و تانژانت هر `π` تکرار می‌شود.",
+      "en": "The general case follows the same idea. If you know one angle α that works, the circle's symmetry gives the rest: sine (the height) is the same at α and `π − α`, cosine (the x-coordinate) is the same at α and `−α`, and tangent repeats every `π`.",
+      "tr": "Halat-e kolli ham hamin fekr ra dombal mikonad. Agar yek zaviye-ye α bedani ke javab ast, baghiye az tagharon-e dayere be dast miayand: sinus (ertefa') dar α va `π − α` yeki ast, kosinus (tool) dar α va `−α` yeki ast, va tanzhant har `π` tekrar mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sin x = sin α   ⟹   x = 2kπ + α  ,  x = 2kπ + π − α"
+    },
+    {
+     "type": "formula",
+     "math": "cos x = cos α   ⟹   x = 2kπ ± α"
+    },
+    {
+     "type": "formula",
+     "math": "tan x = tan α   ⟹   x = kπ + α"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: همهٔ جواب‌های `sin x = 0`",
+      "en": "Warm-up: all the solutions of `sin x = 0`",
+      "tr": "Garm kardan: hame-ye javab-haye `sin x = 0`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول فقط یک دور را نگاه کن، از ۰ تا `2π`. سینوس ارتفاع است و ارتفاع روی محور افقی صفر است: در ۰، در `π`، و دوباره در `2π`.",
+        "en": "First look at just one turn, from 0 to `2π`. Sine is the height, and the height is zero on the horizontal axis: at 0, at `π`, and again at `2π`.",
+        "tr": "Avval faghat yek dor ra negah kon, az 0 ta `2π`. Sinus ertefa' ast va ertefa' rooye mehvar-e ofoghi sefr ast: dar 0, dar `π`, va dobare dar `2π`."
+       },
+       "math": "x = 0 , π , 2π"
+      },
+      {
+       "text": {
+        "fa": "الگو را ببین: جواب‌ها هر `π` یک بار تکرار می‌شوند، در هر دو جهت.",
+        "en": "Spot the pattern: the solutions come once every `π`, in both directions.",
+        "tr": "Olgoo ra bebin: javab-ha har `π` yek bar tekrar mishavand, dar har do jahat."
+       },
+       "math": "… , −π , 0 , π , 2π , 3π , …"
+      },
+      {
+       "text": {
+        "fa": "همه را با یک عدد صحیح بنویس. آزمون خرداد ۱۴۰۲ همین را پرسید.",
+        "en": "Write them all with one integer. The Khordad 1402 paper asked exactly this.",
+        "tr": "Hame ra ba yek adad-e sahih benevis. Azmoon-e Khordad 1402 hamin ra porsid."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`x = kπ`",
+      "en": "`x = kπ`",
+      "tr": "`x = kπ`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جواب کلی `cos x = 1` (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: the general solution of `cos x = 1` (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: javab-e kolli-ye `cos x = 1` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کسینوس طول نقطه روی دایره است. بیشترین طول ممکن ۱ است و فقط یک نقطه آن را دارد: `(1, 0)`.",
+        "en": "Cosine is the x-coordinate on the circle. The largest possible x-coordinate is 1, and only one point has it: `(1, 0)`.",
+        "tr": "Kosinus tool-e noghte rooye dayere ast. Bishtarin tool-e momken 1 ast va faghat yek noghte an ra darad: `(1, 0)`."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن نقطه زاویهٔ ۰ است. برای دوباره رسیدن به آن، یک دور کامل لازم است، نه نیم‌دور.",
+        "en": "That point is angle 0. To get back to it you need a full turn, not a half turn.",
+        "tr": "An noghte zaviye-ye 0 ast. Baraye dobare residan be an, yek dor-e kamel lazem ast, na nim-dor."
+       },
+       "math": "x = 0 , 2π , 4π , −2π , …"
+      },
+      {
+       "text": {
+        "fa": "هر دور `2π` است، پس جواب‌ها مضرب‌های `2π` هستند.",
+        "en": "Each turn is `2π`, so the solutions are the multiples of `2π`.",
+        "tr": "Har dor `2π` ast, pas javab-ha mazrab-haye `2π` hastand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`x = 2kπ`",
+      "en": "`x = 2kπ`",
+      "tr": "`x = 2kπ`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: جواب کلی `sin x = 1/2`",
+      "en": "Exam twist: the general solution of `sin x = 1/2`",
+      "tr": "Pich-e emtehani: javab-e kolli-ye `sin x = 1/2`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از جدول، یک زاویه پیدا کن که سینوسش `1/2` است.",
+        "en": "From the table, find one angle whose sine is `1/2`.",
+        "tr": "Az jadval, yek zaviye peyda kon ke sinusash `1/2` ast."
+       },
+       "math": "sin(π/6) = 1/2"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: در هر دور، ارتفاع `1/2` دو بار پیدا می‌شود، یک بار در ربع اول و یک بار در ربع دوم. سینوس در ربع دوم هم مثبت است، و آن زاویه `π − α` است.",
+        "en": "The twist: on each turn the height `1/2` appears twice, once in the first quarter and once in the second. Sine is positive in the second quarter too, and that angle is `π − α`.",
+        "tr": "Pich-e emtehan: dar har dor, ertefa'-e `1/2` do bar peyda mishavad, yek bar dar rob'-e avval va yek bar dar rob'-e dovvom. Sinus dar rob'-e dovvom ham mosbat ast, va an zaviye `π − α` ast."
+       },
+       "math": "π − π/6 = 5π/6"
+      },
+      {
+       "text": {
+        "fa": "به هر دو، دورهای کامل را اضافه کن.",
+        "en": "Add whole turns to both.",
+        "tr": "Be har do, dor-haye kamel ra ezafe kon."
+       },
+       "math": "x = 2kπ + π/6  ,  x = 2kπ + 5π/6"
+      }
+     ],
+     "answer": {
+      "fa": "`x = 2kπ + π/6` یا `x = 2kπ + 5π/6`",
+      "en": "`x = 2kπ + π/6` or `x = 2kπ + 5π/6`",
+      "tr": "`x = 2kπ + π/6` ya `x = 2kπ + 5π/6`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جواب `cos x = 1` برابر `2kπ` است، نه `kπ`: در `x = π` کسینوس برابر `−1` است. همیشه هم بنویس که k عدد صحیح است؛ بدون آن جواب ناقص است.",
+      "en": "The solution of `cos x = 1` is `2kπ`, not `kπ`: at `x = π` cosine is `−1`. And always say that k is an integer; without it the answer is incomplete.",
+      "tr": "Javab-e `cos x = 1` barabar-e `2kπ` ast, na `kπ`: dar `x = π` kosinus barabar-e `−1` ast. Hamishe ham benevis ke k adad-e sahih ast; bedoon-e an javab naghes ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در `sin x = sin α` دستهٔ دوم جواب‌ها، یعنی `2kπ + π − α`، را جا نینداز. بیشتر دانش‌آموزها فقط دستهٔ اول را می‌نویسند و نصف نمره را از دست می‌دهند.",
+      "en": "In `sin x = sin α`, do not leave out the second family of solutions, `2kπ + π − α`. Most students write only the first family and lose half the mark.",
+      "tr": "Dar `sin x = sin α` daste-ye dovvom-e javab-ha, ya'ni `2kπ + π − α`, ra ja nayandaz. Bishtar-e danesh-amooz-ha faghat daste-ye avval ra minevisand va nesf-e nomre ra az dast midahand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1401-Dey",
+     "number": 963
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    }
+   ]
+  }
+ ]
+}

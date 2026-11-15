@@ -115,6 +115,17 @@ SHA-256 checksums stay exact.
     number, in practice order (an empty list is allowed). The app skips one
     it does not have yet. Explanations and examples are in our own words,
     never copied textbook text, and examples never add new exam questions.
+- **Format 5** (app 3.12.0+) adds one lesson block, **`diagram`**: a text
+  picture (mapping arrows, a horizontal line test, a sign chart, the unit
+  circle) shared by all three languages:
+  `{"type": "diagram", "art": "  x --> f(x)\n  1 -->  3", "caption": {…}}`.
+  - `art` is plain ASCII only (no Persian, no Greek letters: write `pi`), at
+    most 36 characters per line and 22 lines. The app shows it in a
+    fixed-width font, left to right, never wrapped, and shrinks it to fit the
+    screen instead of overflowing. `caption` is optional.
+  - Everything else is as in format 4. A pack with a diagram must say
+    `"format": 5`; as before, publish it only after the phone has the app
+    that reads it.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,
