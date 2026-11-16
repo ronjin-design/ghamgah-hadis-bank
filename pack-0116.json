@@ -1,0 +1,954 @@
+{
+ "version": 116,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 1,
+   "key": "bio-6-chloroplast",
+   "title": {
+    "fa": "سبزدیسه، رنگیزه‌ها و دو مرحلهٔ فتوسنتز",
+    "en": "The chloroplast, pigments and the two stages",
+    "tr": "Sabz-dise, rangize-ha va do marhale-ye fotosantez"
+   },
+   "summary": {
+    "fa": "صفحهٔ خورشیدی باتری را شارژ می‌کند و چاپگر سه‌بعدی با آن آجر قندی می‌سازد.",
+    "en": "Solar panels charge the batteries, and a 3D printer uses them to build sugar bricks.",
+    "tr": "Safhe-ye khorshidi batri ra sharzh mikonad va chapgar-e se-bo'di ba an ajor-e ghandi misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: صفحهٔ خورشیدی و چاپگر",
+      "en": "Understand first: the solar panel and the printer",
+      "tr": "Avval befahm: safhe-ye khorshidi va chapgar"
+     },
+     "body": {
+      "fa": "فصل قبل دیدیم که یاخته قند را می‌شکند تا انرژی بگیرد. فتوسنتز برعکس است: انرژی نور را می‌گیرد و با آن قند می‌سازد. یک کارخانهٔ دومرحله‌ای را تصور کن. در مرحلهٔ اول، صفحه‌های خورشیدی نور را می‌گیرند و باتری‌ها را شارژ می‌کنند؛ این «واکنش‌های وابسته به نور» است و باتری‌های شارژشده `ATP` و `NADPH`اند. در مرحلهٔ دوم، یک چاپگر سه‌بعدی با همان باتری‌ها از `CO2` هوا آجرهای قندی می‌سازد؛ این «چرخهٔ کالوین» است.",
+      "en": "Last chapter we saw the cell break sugar down to get energy. Photosynthesis is the reverse: it captures light energy and uses it to make sugar. Picture a two-stage factory. In stage one, solar panels catch the light and charge the batteries; these are the \"light-dependent reactions\", and the charged batteries are `ATP` and `NADPH`. In stage two, a 3D printer uses those batteries to build sugar bricks out of the `CO2` in the air; this is the \"Calvin cycle\".",
+      "tr": "Fasl-e ghabl didim ke yakhte ghand ra mishekanad ta enerzhi begirad. Fotosantez bar-aks ast: enerzhi-ye noor ra migirad va ba an ghand misazad. Yek karkhane-ye do-marhale-i ra tasavvor kon. Dar marhale-ye avval, safhe-haye khorshidi noor ra migirand va batri-ha ra sharzh mikonand; in \"vakonesh-haye vabaste be noor\" ast va batri-haye sharzh-shode `ATP` va `NADPH`-and. Dar marhale-ye dovvom, yek chapgar-e se-bo'di ba haman batri-ha az `CO2`-e hava ajor-haye ghandi misazad; in \"charkhe-ye Kalvin\" ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نقشهٔ سبزدیسه",
+      "en": "The map of the chloroplast",
+      "tr": "Naghshe-ye sabz-dise"
+     },
+     "body": {
+      "fa": "این کارخانه در «سبزدیسه» است. سبزدیسه دو غشای بیرونی دارد و درونش مایعی به نام «بستره» است. در بستره کیسه‌های پهنی به نام «تیلاکوئید» روی هم چیده شده‌اند، مثل سکه‌های روی هم. صفحه‌های خورشیدی روی غشای تیلاکوئید نصب‌اند و چاپگر در بستره کار می‌کند. فضای درون هر تیلاکوئید هم مخزنی است که بعداً پروتون‌ها در آن جمع می‌شوند.",
+      "en": "This factory is in the \"chloroplast\". The chloroplast has two outer membranes, and inside it is a fluid called the \"stroma\". In the stroma, flat sacs called \"thylakoids\" are stacked on each other, like piles of coins. The solar panels are fixed on the thylakoid membrane, and the printer works in the stroma. The space inside each thylakoid (the lumen) is a reservoir where protons will later collect.",
+      "tr": "In karkhane dar \"sabz-dise\" ast. Sabz-dise do ghesha-ye birooni darad va daroonash maye'i be nam-e \"bastare\" ast. Dar bastare kise-haye pahni be nam-e \"tilakoid\" rooye ham chide shode-and, mesl-e sekke-haye rooye ham. Safhe-haye khorshidi rooye ghesha-ye tilakoid nasb-and va chapgar dar bastare kar mikonad. Faza-ye daroon-e har tilakoid ham makhzani ast ke ba'dan proton-ha dar an jam' mishavand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " +--------------------------------+\n | two outer membranes            |\n |                                |\n |  stroma (fluid): Calvin cycle  |\n |    [====]  [====]              |\n |    [====]  [====] <- thylakoid |\n |    [====]  [====]    stacks    |\n |                                |\n |  thylakoid membrane: light     |\n |  reactions; inside: lumen      |\n +--------------------------------+",
+     "caption": {
+      "fa": "سبزدیسه: واکنش‌های نوری روی غشای تیلاکوئید، چرخهٔ کالوین در بستره.",
+      "en": "The chloroplast: the light reactions on the thylakoid membrane, the Calvin cycle in the stroma.",
+      "tr": "Sabz-dise: vakonesh-haye noori rooye ghesha-ye tilakoid, charkhe-ye Kalvin dar bastare."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رنگیزه‌ها: چرا برگ سبز است؟",
+      "en": "Pigments: why is a leaf green?",
+      "tr": "Rangize-ha: chera barg sabz ast?"
+     },
+     "body": {
+      "fa": "صفحهٔ خورشیدی از «رنگیزه‌ها» ساخته شده. سبزینهٔ `a` و `b` بیشتر نور آبی و قرمز را جذب می‌کنند و نور سبز را بازمی‌تابانند؛ برای همین برگ سبز دیده می‌شود. کاروتنوئیدها (زرد و نارنجی) نورهای دیگری را می‌گیرند و به سبزینه می‌دهند. رنگیزه‌ها در گروه‌هایی به نام «فتوسیستم» کنار هم‌اند: بیشترشان مثل آنتن نور را می‌گیرند و انرژی را به «مرکز واکنش» می‌رسانند، جایی که یک سبزینهٔ `a` ویژه الکترونش را از دست می‌دهد.",
+      "en": "The solar panel is made of \"pigments\". Chlorophyll `a` and `b` mostly absorb blue and red light and reflect green light; that is why a leaf looks green. Carotenoids (yellow and orange) catch other colours and pass the energy on to chlorophyll. The pigments sit together in groups called \"photosystems\": most of them act like an antenna that catches light and passes the energy to the \"reaction centre\", where a special chlorophyll `a` gives away its electron.",
+      "tr": "Safhe-ye khorshidi az \"rangize-ha\" sakhte shode. Sabzine-ye `a` va `b` bishtar noor-e abi va ghermez ra jazb mikonand va noor-e sabz ra baz-mitabanand; baraye hamin barg sabz dide mishavad. Karotenoid-ha (zard va narenji) noor-haye digari ra migirand va be sabzine midahand. Rangize-ha dar goroh-hayi be nam-e \"fotosistem\" kenar-e ham-and: bishtareshan mesl-e anten noor ra migirand va enerzhi ra be \"markaz-e vakonesh\" miresanand, jayi ke yek sabzine-ye `a`-ye vizhe elektronash ra az dast midahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " light:      blue   green   red\n chlorophyll  ###     .     ###\n absorbed?    yes     no    yes\n\n green bounces back to our eyes",
+     "caption": {
+      "fa": "سبزینه آبی و قرمز را جذب و سبز را بازتاب می‌کند.",
+      "en": "Chlorophyll absorbs blue and red and reflects green.",
+      "tr": "Sabzine abi va ghermez ra jazb va sabz ra baztab mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " LIGHT REACTIONS (thylakoid)\n light + H2O --> O2 out\n   charge: ATP + NADPH\n        |            ^\n        v            | ADP, NADP+\n CALVIN CYCLE (stroma)\n CO2 + ATP + NADPH --> sugar",
+     "caption": {
+      "fa": "دو مرحله با هم کار می‌کنند: واکنش‌های نوری باتری‌ها را شارژ می‌کنند و کالوین آن‌ها را خرج می‌کند و خالی برمی‌گرداند.",
+      "en": "The two stages work together: the light reactions charge the batteries, and the Calvin cycle spends them and sends them back empty.",
+      "tr": "Do marhale ba ham kar mikonand: vakonesh-haye noori batri-ha ra sharzh mikonand va Kalvin an-ha ra kharj mikonad va khali barmigardanad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: چرا نور سبز برای فتوسنتز کم‌اثرترین رنگ است؟",
+      "en": "Warm-up: why is green light the least useful colour for photosynthesis?",
+      "tr": "Garm kardan: chera noor-e sabz baraye fotosantez kam-asar-tarin rang ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فقط نوری که جذب شود انرژی می‌دهد. سبزینه نور سبز را جذب نمی‌کند و برمی‌گرداند؛ همان نوری که ما می‌بینیم.",
+        "en": "Only light that is absorbed gives energy. Chlorophyll does not absorb green light, it sends it back; that is exactly the light we see.",
+        "tr": "Faghat noori ke jazb shavad enerzhi midahad. Sabzine noor-e sabz ra jazb nemikonad va barmigardanad; haman noori ke ma mibinim."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون سبزینه آن را جذب نمی‌کند و بازمی‌تاباند",
+      "en": "Because chlorophyll does not absorb it; it reflects it",
+      "tr": "Chon sabzine an ra jazb nemikonad va baz-mitabanad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: هر کدام از این کارها کجای سبزدیسه انجام می‌شود: تولید اکسیژن، ساخت قند؟",
+      "en": "Textbook and exam: where in the chloroplast does each of these happen: making oxygen, making sugar?",
+      "tr": "Mas'ale-ye ketab va emtehan: har kodam az in kar-ha koja-ye sabz-dise anjam mishavad: tolid-e oksizhen, sakht-e ghand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اکسیژن از شکستن آب در واکنش‌های نوری می‌آید، و صفحه‌های خورشیدی روی غشای تیلاکوئیدند.",
+        "en": "Oxygen comes from splitting water in the light reactions, and the solar panels are on the thylakoid membrane.",
+        "tr": "Oksizhen az shekastan-e ab dar vakonesh-haye noori miayad, va safhe-haye khorshidi rooye ghesha-ye tilakoid-and."
+       }
+      },
+      {
+       "text": {
+        "fa": "قند را چاپگر، یعنی چرخهٔ کالوین، در بستره می‌سازد.",
+        "en": "Sugar is built by the printer, the Calvin cycle, in the stroma.",
+        "tr": "Ghand ra chapgar, ya'ni charkhe-ye Kalvin, dar bastare misazad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسیژن: غشای تیلاکوئید؛ قند: بستره",
+      "en": "Oxygen: the thylakoid membrane; sugar: the stroma",
+      "tr": "Oksizhen: ghesha-ye tilakoid; ghand: bastare"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: گیاهی را در تاریکی می‌گذاریم. چرخهٔ کالوین که مستقیماً به نور نیاز ندارد، چقدر ادامه می‌دهد؟",
+      "en": "Exam twist: we put a plant in the dark. How long does the Calvin cycle, which does not need light directly, keep going?",
+      "tr": "Pich-e emtehani: giyahi ra dar tariki migozarim. Charkhe-ye Kalvin ke mostaghiman be noor niyaz nadarad, cheghadr edame midahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: کالوین نور نمی‌خواهد، ولی باتری‌های شارژشده (`ATP` و `NADPH`) را می‌خواهد.",
+        "en": "The twist: the Calvin cycle does not want light, but it does want charged batteries (`ATP` and `NADPH`).",
+        "tr": "Pich-e emtehan: Kalvin noor nemikhahad, vali batri-haye sharzh-shode (`ATP` va `NADPH`) ra mikhahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "در تاریکی صفحه‌ها شارژ نمی‌کنند. وقتی ذخیرهٔ باتری‌ها خالی شد، چاپگر هم می‌ایستد.",
+        "en": "In the dark the panels do not charge. Once the battery stock runs out, the printer stops too.",
+        "tr": "Dar tariki safhe-ha sharzh nemikonand. Vaghti zakhire-ye batri-ha khali shod, chapgar ham miistad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فقط کمی، تا وقتی `ATP` و `NADPH` ذخیره تمام شود",
+      "en": "Only briefly, until the stored `ATP` and `NADPH` run out",
+      "tr": "Faghat kami, ta vaghti `ATP` va `NADPH`-e zakhire tamam shavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«مستقل از نور» یعنی کالوین مستقیماً نور مصرف نمی‌کند، نه اینکه شب کار کند. بدون محصولات واکنش‌های نوری، کالوین زود می‌ایستد.",
+      "en": "\"Light-independent\" means the Calvin cycle does not use light directly, not that it runs at night. Without the products of the light reactions it soon stops.",
+      "tr": "\"Mostaghel az noor\" ya'ni Kalvin mostaghiman noor masraf nemikonad, na inke shab kar konad. Bedoon-e mahsoolat-e vakonesh-haye noori, Kalvin zood miistad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در فتوسنتز باتری کاهنده `NADPH` است (با `P`)، نه `NADH` تنفس یاخته‌ای. این دو را جابه‌جا ننویس.",
+      "en": "In photosynthesis the reducing battery is `NADPH` (with a `P`), not the `NADH` of cellular respiration. Do not swap them.",
+      "tr": "Dar fotosantez batri-ye kahande `NADPH` ast (ba `P`), na `NADH`-e tanaffos-e yakhte-i. In do ra jabeja nanevis."
+     }
+    }
+   ],
+   "questions": []
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 2,
+   "key": "bio-6-light-reactions",
+   "title": {
+    "fa": "واکنش‌های وابسته به نور",
+    "en": "The light-dependent reactions",
+    "tr": "Vakonesh-haye vabaste be noor"
+   },
+   "summary": {
+    "fa": "دو صفحهٔ خورشیدی پشت سر هم، و آبی که شکسته می‌شود تا الکترون بدهد.",
+    "en": "Two solar panels in a row, and water split to supply electrons.",
+    "tr": "Do safhe-ye khorshidi posht-e sar-e ham, va abi ke shekaste mishavad ta elektron bedahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو صفحه، با ترتیبی عجیب",
+      "en": "Understand first: two panels, in an odd order",
+      "tr": "Avval befahm: do safhe, ba tartibi ajib"
+     },
+     "body": {
+      "fa": "در غشای تیلاکوئید دو صفحهٔ خورشیدی پشت سر هم کار می‌کنند: «فتوسیستم ۲» و «فتوسیستم ۱». نکتهٔ عجیب این است که اول فتوسیستم ۲ کار می‌کند؛ شماره‌ها به ترتیب کشف‌شدن داده شده‌اند، نه ترتیب کار. فتوسیستم ۲ نور را جذب می‌کند و الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند (آزمون خرداد ۱۴۰۱). اولین گیرندهٔ این الکترون‌ها «پلاستوکینون» است (آزمون دی ۱۴۰۱).",
+      "en": "In the thylakoid membrane, two solar panels work one after the other: \"photosystem II\" and \"photosystem I\". The odd thing is that photosystem II works first; the numbers were given in the order they were discovered, not the order they work. Photosystem II absorbs light, its electrons are excited and enter the chain (Khordad 1401 paper). The first acceptor of these electrons is \"plastoquinone\" (Dey 1401 paper).",
+      "tr": "Dar ghesha-ye tilakoid do safhe-ye khorshidi posht-e sar-e ham kar mikonand: \"fotosistem 2\" va \"fotosistem 1\". Nokte-ye ajib in ast ke avval fotosistem 2 kar mikonad; shomare-ha be tartib-e kashf-shodan dade shode-and, na tartib-e kar. Fotosistem 2 noor ra jazb mikonad va elektron-hayash barangikhte mishavand va vared-e zanjire mishavand (azmoon-e Khordad 1401). Avvalin girande-ye in elektron-ha \"plastokinon\" ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مسیر الکترون: از آب تا باتری",
+      "en": "The electrons' path: from water to the battery",
+      "tr": "Masir-e elektron: az ab ta batri"
+     },
+     "body": {
+      "fa": "فتوسیستم ۲ الکترون از دست داده و باید جبرانش کند. منبع جبران، آب است: «تجزیهٔ نوری آب» آب را به اکسیژن، پروتون و الکترون می‌شکند (آزمون خرداد ۱۴۰۱). الکترون‌ها جای خالی فتوسیستم ۲ را پر می‌کنند، اکسیژن به هوا می‌رود و پروتون‌ها مستقیماً در «فضای درون تیلاکوئید» جمع می‌شوند (آزمون دی ۱۳۹۹). الکترون‌ها از زنجیره عبور می‌کنند و به فتوسیستم ۱ می‌رسند. فتوسیستم ۱ با نور دوباره آن‌ها را پرانرژی می‌کند و مستقیماً به «فرودوکسین» می‌دهد (آزمون خرداد ۱۳۹۹). در پایان، آنزیم «`NADP+` ردوکتاز» با این الکترون‌ها `NADPH` می‌سازد (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۲).",
+      "en": "Photosystem II has lost electrons and must replace them. The source is water: the \"photolysis of water\" splits water into oxygen, protons and electrons (Khordad 1401 paper). The electrons fill photosystem II's gap, the oxygen goes into the air, and the protons collect directly in the \"thylakoid lumen\" (Dey 1399 paper). The electrons travel down the chain and reach photosystem I. Photosystem I uses light to energise them again and passes them directly to \"ferredoxin\" (Khordad 1399 paper). At the end, the enzyme \"`NADP+` reductase\" uses these electrons to make `NADPH` (Dey 1399 and Khordad 1402 papers).",
+      "tr": "Fotosistem 2 elektron az dast dade va bayad jobranash konad. Manba'-e jobran, ab ast: \"tajziye-ye noori-ye ab\" ab ra be oksizhen, proton va elektron mishekanad (azmoon-e Khordad 1401). Elektron-ha ja-ye khali-ye fotosistem 2 ra por mikonand, oksizhen be hava miravad va proton-ha mostaghiman dar \"faza-ye daroon-e tilakoid\" jam' mishavand (azmoon-e Dey 1399). Elektron-ha az zanjire oboor mikonand va be fotosistem 1 miresand. Fotosistem 1 ba noor dobare an-ha ra por-enerzhi mikonad va mostaghiman be \"ferredoksin\" midahad (azmoon-e Khordad 1399). Dar payan, anzim-e \"`NADP+` redooktaz\" ba in elektron-ha `NADPH` misazad (azmoon-haye Dey 1399 va Khordad 1402)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 2 H2O -> O2 + 4 H+ + 4 e\n           (H+ stays in lumen)\n e -> photosystem II  (light!)\n   -> plastoquinone\n   -> chain: pumps H+ into lumen\n   -> photosystem I   (light!)\n   -> ferredoxin\n   -> NADP+ reductase\n   -> NADPH  (in the stroma)",
+     "caption": {
+      "fa": "مسیر الکترون در واکنش‌های نوری: از آب، از دو فتوسیستم، تا `NADPH`.",
+      "en": "The path of the electrons in the light reactions: from water, through two photosystems, to `NADPH`.",
+      "tr": "Masir-e elektron dar vakonesh-haye noori: az ab, az do fotosistem, ta `NADPH`."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "همان سد آشنا",
+      "en": "The same familiar dam",
+      "tr": "Haman sad-e ashena"
+     },
+     "body": {
+      "fa": "پروتون‌ها از دو راه در فضای درون تیلاکوئید انباشته می‌شوند: از تجزیهٔ آب و از پمپ زنجیره. این دقیقاً همان سد فصل قبل است. پروتون‌ها فقط از راه «`ATP` ساز» می‌توانند به بستره برگردند و جریانشان `ATP` می‌سازد (آزمون خرداد ۱۴۰۱). پس در پایان واکنش‌های نوری، هر دو باتری (`ATP` و `NADPH`) در بستره آماده‌اند، درست همان‌جا که چرخهٔ کالوین به آن‌ها نیاز دارد.",
+      "en": "Protons pile up in the thylakoid lumen in two ways: from splitting water and from the chain's pump. This is exactly the dam from the last chapter. The protons can return to the stroma only through \"`ATP` synthase\", and their flow makes `ATP` (Khordad 1401 paper). So at the end of the light reactions both batteries (`ATP` and `NADPH`) are ready in the stroma, exactly where the Calvin cycle needs them.",
+      "tr": "Proton-ha az do rah dar faza-ye daroon-e tilakoid anbashte mishavand: az tajziye-ye ab va az pomp-e zanjire. In daghighan haman sad-e fasl-e ghabl ast. Proton-ha faghat az rah-e \"`ATP` saz\" mitavanand be bastare bargardand va jaryaneshan `ATP` misazad (azmoon-e Khordad 1401). Pas dar payan-e vakonesh-haye noori, har do batri (`ATP` va `NADPH`) dar bastare amade-and, dorost haman-ja ke charkhe-ye Kalvin be an-ha niyaz darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " lumen (much H+)  H+ H+ H+ H+\n ==thylakoid membrane=[ATP synthase]\n                          |  H+ back\n stroma (little H+)       v\n                   ADP + P -> ATP",
+     "caption": {
+      "fa": "شیب پروتون از فضای درون تیلاکوئید به بستره، `ATP` ساز را می‌چرخاند.",
+      "en": "The proton gradient from the lumen to the stroma turns `ATP` synthase.",
+      "tr": "Shib-e proton az faza-ye daroon-e tilakoid be bastare, `ATP` saz ra micharkhanad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: الکترون‌های پرانرژی خروجی از فتوسیستم ۱ سرانجام به کدام ناقل می‌رسند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: which carrier do the high-energy electrons leaving photosystem I finally reach? (Dey 1399 paper)",
+      "tr": "Garm kardan: elektron-haye por-enerzhi-ye khorooji az fotosistem 1 saranjam be kodam naghel miresand? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به ته مسیر نگاه کن: فرودوکسین الکترون را به آنزیم می‌دهد و آنزیم آن را روی باتری خالی می‌گذارد.",
+        "en": "Look at the end of the path: ferredoxin hands the electrons to the enzyme, and the enzyme loads them onto the empty battery.",
+        "tr": "Be tah-e masir negah kon: ferredoksin elektron ra be anzim midahad va anzim an ra rooye batri-ye khali migozarad."
+       },
+       "math": "NADP+ + 2 e + H+ → NADPH"
+      }
+     ],
+     "answer": {
+      "fa": "`NADP+`، که `NADPH` می‌شود",
+      "en": "`NADP+`, which becomes `NADPH`",
+      "tr": "`NADP+`, ke `NADPH` mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش فتوسیستم ۲ و تجزیهٔ نوری آب را در زنجیرهٔ تیلاکوئید شرح بده. (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: describe the role of photosystem II and the photolysis of water in the thylakoid chain. (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e fotosistem 2 va tajziye-ye noori-ye ab ra dar zanjire-ye tilakoid sharh bede. (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، فتوسیستم ۲: نور را جذب می‌کند، الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند.",
+        "en": "First half mark, photosystem II: it absorbs light, its electrons are excited and enter the chain.",
+        "tr": "Nim-nomre-ye avval, fotosistem 2: noor ra jazb mikonad, elektron-hayash barangikhte mishavand va vared-e zanjire mishavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، تجزیهٔ آب: آب به اکسیژن، پروتون و الکترون شکسته می‌شود و الکترون‌ها کمبود فتوسیستم ۲ را جبران می‌کنند. هر سه محصول را نام ببر.",
+        "en": "Second half mark, photolysis: water is split into oxygen, protons and electrons, and the electrons make up photosystem II's shortfall. Name all three products.",
+        "tr": "Nim-nomre-ye dovvom, tajziye-ye ab: ab be oksizhen, proton va elektron shekaste mishavad va elektron-ha kambood-e fotosistem 2 ra jobran mikonand. Har se mahsool ra nam bebar."
+       },
+       "math": "2 H2O → O2 + 4 H+ + 4 e"
+      }
+     ],
+     "answer": {
+      "fa": "فتوسیستم ۲: جذب نور و فرستادن الکترون؛ آب: جبران الکترون، با تولید اکسیژن و پروتون",
+      "en": "Photosystem II: absorbs light and sends electrons; water: replaces the electrons, releasing oxygen and protons",
+      "tr": "Fotosistem 2: jazb-e noor va ferestadan-e elektron; ab: jobran-e elektron, ba tolid-e oksizhen va proton"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک علف‌کش جلوی رسیدن الکترون از فتوسیستم ۲ به پلاستوکینون را می‌گیرد. چه چیزهایی می‌ایستد؟",
+      "en": "Exam twist: a herbicide blocks electrons getting from photosystem II to plastoquinone. What stops?",
+      "tr": "Pich-e emtehani: yek alaf-kosh jelo-ye residan-e elektron az fotosistem 2 be plastokinon ra migirad. Che chiz-hayi miistad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: الکترون از فتوسیستم ۲ جلوتر نمی‌رود، پس جای خالی‌اش پر نمی‌شود و آب هم دیگر شکسته نمی‌شود: اکسیژنی آزاد نمی‌شود.",
+        "en": "Step one: electrons get no further than photosystem II, so its gap is not refilled and water is no longer split: no oxygen is released.",
+        "tr": "Ghadam-e avval: elektron az fotosistem 2 jelo-tar nemiravad, pas ja-ye khali-ash por nemishavad va ab ham digar shekaste nemishavad: oksizheni azad nemishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: نه پمپ زنجیره کار می‌کند و نه الکترونی به `NADP+` می‌رسد، پس `ATP` و `NADPH` ساخته نمی‌شوند.",
+        "en": "Step two: the chain's pump does not work and no electrons reach `NADP+`, so `ATP` and `NADPH` are not made.",
+        "tr": "Ghadam-e dovvom: na pomp-e zanjire kar mikonad va na elektroni be `NADP+` miresad, pas `ATP` va `NADPH` sakhte nemishavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: باتری‌ها خالی می‌مانند، پس چرخهٔ کالوین هم با اینکه خودش آسیبی ندیده می‌ایستد و گیاه گرسنه می‌ماند.",
+        "en": "Step three, the real twist: the batteries stay empty, so the Calvin cycle stops too, even though it was not harmed itself, and the plant starves.",
+        "tr": "Ghadam-e sevvom, pich-e asli: batri-ha khali mimanand, pas charkhe-ye Kalvin ham ba inke khodash asibi nadide miistad va giyah gorosne mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تولید اکسیژن، `ATP`، `NADPH` و در نتیجه کالوین",
+      "en": "Oxygen release, `ATP`, `NADPH`, and so the Calvin cycle",
+      "tr": "Tolid-e oksizhen, `ATP`, `NADPH` va dar natije Kalvin"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فتوسیستم ۲ «اول» کار می‌کند و فتوسیستم ۱ «دوم». شماره‌ها ترتیب کشف‌اند، نه ترتیب مسیر.",
+      "en": "Photosystem II works \"first\" and photosystem I \"second\". The numbers are the order of discovery, not the order along the path.",
+      "tr": "Fotosistem 2 \"avval\" kar mikonad va fotosistem 1 \"dovvom\". Shomare-ha tartib-e kashf-and, na tartib-e masir."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پروتون‌ها در «فضای درون تیلاکوئید» جمع می‌شوند، نه در بستره. `ATP` و `NADPH` اما در «بستره» ساخته می‌شوند (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۱).",
+      "en": "Protons collect in the \"thylakoid lumen\", not in the stroma. `ATP` and `NADPH`, however, are made in the \"stroma\" (Dey 1399 and Khordad 1401 papers).",
+      "tr": "Proton-ha dar \"faza-ye daroon-e tilakoid\" jam' mishavand, na dar bastare. `ATP` va `NADPH` amma dar \"bastare\" sakhte mishavand (azmoon-haye Dey 1399 va Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Dey",
+     "number": 906
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 924
+    },
+    {
+     "session": "1399-Dey",
+     "number": 928
+    },
+    {
+     "session": "1399-Dey",
+     "number": 934
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 947
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 3,
+   "key": "bio-6-calvin",
+   "title": {
+    "fa": "چرخهٔ کالوین",
+    "en": "The Calvin cycle",
+    "tr": "Charkhe-ye Kalvin"
+   },
+   "summary": {
+    "fa": "چاپگر سه‌بعدی: کربن هوا را می‌گیرد و با باتری‌ها آجر قندی چاپ می‌کند.",
+    "en": "The 3D printer: it takes carbon from the air and prints sugar bricks with the batteries.",
+    "tr": "Chapgar-e se-bo'di: karbon-e hava ra migirad va ba batri-ha ajor-e ghandi chap mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سه مرحلهٔ چاپگر",
+      "en": "Understand first: the printer's three stages",
+      "tr": "Avval befahm: se marhale-ye chapgar"
+     },
+     "body": {
+      "fa": "چرخهٔ کالوین در بستره سه مرحله دارد. ۱) «تثبیت»: آنزیم «روبیسکو» `CO2` را به یک قند پنج‌کربنی فسفات‌دار به نام «ریبولوز بیس‌فسفات» می‌چسباند (آزمون‌های خرداد ۱۴۰۲، دی ۱۴۰۰ و دی ۱۴۰۲). حاصل یک ترکیب شش‌کربنی ناپایدار است که فوراً به «دو» مولکول اسید سه‌کربنی (فسفوگلیسریک) می‌شکند (آزمون خرداد ۱۴۰۲). ۲) «کاهش»: این اسیدها با مصرف `ATP` و `NADPH` به قند سه‌کربنی «گلیسرآلدهید ۳-فسفات» تبدیل می‌شوند (آزمون‌های دی ۱۴۰۲ و خرداد ۱۴۰۲). ۳) «بازسازی»: بیشتر این قندها، با مصرف `ATP`، دوباره ریبولوز بیس‌فسفات می‌سازند (آزمون خرداد ۱۴۰۲) تا چرخه ادامه یابد.",
+      "en": "The Calvin cycle in the stroma has three stages. 1) \"Fixation\": the enzyme \"rubisco\" attaches `CO2` to a five-carbon sugar phosphate called \"ribulose bisphosphate\" (RuBP) (Khordad 1402, Dey 1400 and Dey 1402 papers). The result is an unstable six-carbon compound that at once splits into \"two\" three-carbon acid molecules (phosphoglyceric acid) (Khordad 1402 paper). 2) \"Reduction\": these acids use up `ATP` and `NADPH` and become the three-carbon sugar \"glyceraldehyde 3-phosphate\" (G3P) (Dey 1402 and Khordad 1402 papers). 3) \"Regeneration\": most of these sugars, using `ATP`, rebuild ribulose bisphosphate (Khordad 1402 paper) so the cycle can go on.",
+      "tr": "Charkhe-ye Kalvin dar bastare se marhale darad. 1) \"Tasbit\": anzim-e \"roobisko\" `CO2` ra be yek ghand-e panj-karbani-ye fosfat-dar be nam-e \"riboolooz bis-fosfat\" michasbanad (azmoon-haye Khordad 1402, Dey 1400 va Dey 1402). Hasel yek tarkib-e shesh-karbani-ye napaydar ast ke fooran be \"do\" molekool asid-e se-karbani (fosfo-gliserik) mishekanad (azmoon-e Khordad 1402). 2) \"Kahesh\": in asid-ha ba masraf-e `ATP` va `NADPH` be ghand-e se-karbani-ye \"gliser-aldehid 3-fosfat\" tabdil mishavand (azmoon-haye Dey 1402 va Khordad 1402). 3) \"Bazsazi\": bishtar-e in ghand-ha, ba masraf-e `ATP`, dobare riboolooz bis-fosfat misazand (azmoon-e Khordad 1402) ta charkhe edame yabad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          3 CO2\n            |  rubisco: fixation\n            v\n 3 RuBP (5C) ---> 6 x 3C acid\n    ^                  |\n    | 3 ATP            | 6 ATP\n    | regeneration     | 6 NADPH\n    |                  v reduction\n 5 G3P <---------- 6 G3P (3C sugar)\n                       |\n                 1 G3P out -> sugar",
+     "caption": {
+      "fa": "چرخهٔ کالوین برای ۳ مولکول `CO2`: تثبیت، کاهش، بازسازی. فقط یک قند سه‌کربنی خارج می‌شود و بقیه چرخه را دوباره می‌سازند.",
+      "en": "The Calvin cycle for 3 `CO2` molecules: fixation, reduction, regeneration. Only one three-carbon sugar leaves; the rest rebuild the cycle.",
+      "tr": "Charkhe-ye Kalvin baraye 3 molekool `CO2`: tasbit, kahesh, bazsazi. Faghat yek ghand-e se-karbani kharej mishavad va baghiye charkhe ra dobare misazand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "حساب کربن‌ها",
+      "en": "Counting the carbons",
+      "tr": "Hesab-e karbon-ha"
+     },
+     "body": {
+      "fa": "چرا فقط یکی از شش قند بیرون می‌رود؟ حساب کربن‌ها را نگه دار. سه ریبولوز پنج‌کربنی ۱۵ کربن دارند و سه `CO2`، سه کربن اضافه می‌کنند: ۱۸ کربن، یعنی شش قند سه‌کربنی. برای اینکه چرخه دوباره سه ریبولوز داشته باشد، ۱۵ کربن (پنج قند) باید برگردند. پس سود خالص هر سه دور فقط یک قند سه‌کربنی است. برای یک گلوکز شش‌کربنی، دو قند سه‌کربنی لازم است، یعنی شش `CO2`.",
+      "en": "Why does only one of the six sugars leave? Keep track of the carbons. Three five-carbon RuBP have 15 carbons, and three `CO2` add three more: 18 carbons, which is six three-carbon sugars. For the cycle to have three RuBP again, 15 carbons (five sugars) must go back. So the net gain from three turns is only one three-carbon sugar. One six-carbon glucose needs two three-carbon sugars, which means six `CO2`.",
+      "tr": "Chera faghat yeki az shesh ghand biroon miravad? Hesab-e karbon-ha ra negah dar. Se riboolooz-e panj-karbani 15 karbon darand va se `CO2`, se karbon ezafe mikonand: 18 karbon, ya'ni shesh ghand-e se-karbani. Baraye inke charkhe dobare se riboolooz dashte bashad, 15 karbon (panj ghand) bayad bargardand. Pas sood-e khales-e har se dor faghat yek ghand-e se-karbani ast. Baraye yek glukoz-e shesh-karbani, do ghand-e se-karbani lazem ast, ya'ni shesh `CO2`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "3 × 5 + 3 × 1 = 18 = 6 × 3",
+     "caption": {
+      "fa": "۳ ریبولوز + ۳ کربن دی‌اکسید = ۶ قند سه‌کربنی؛ ۵ تا برمی‌گردند، ۱ تا خارج می‌شود",
+      "en": "3 RuBP + 3 carbon dioxide = 6 three-carbon sugars; 5 go back, 1 leaves",
+      "tr": "3 riboolooz + 3 karbon di-oksid = 6 ghand-e se-karbani; 5 ta barmigardand, 1 ta kharej mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ترکیب شش‌کربنی ناپایدار پس از تثبیت به چند مولکول سه‌کربنی می‌شکند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: how many three-carbon molecules does the unstable six-carbon compound split into after fixation? (Khordad 1402 paper)",
+      "tr": "Garm kardan: tarkib-e shesh-karbani-ye napaydar pas az tasbit be chand molekool-e se-karbani mishekanad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فقط کربن‌ها را بشمار. شش کربن به قطعه‌های سه‌تایی.",
+        "en": "Just count the carbons. Six carbons into pieces of three.",
+        "tr": "Faghat karbon-ha ra beshmar. Shesh karbon be ghet'e-haye se-tayi."
+       },
+       "math": "6 ÷ 3 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "دو مولکول اسید سه‌کربنی",
+      "en": "Two three-carbon acid molecules",
+      "tr": "Do molekool asid-e se-karbani"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در کالوین، کدام مولکول‌ها اسید سه‌کربنی را به قند خروجی تبدیل می‌کنند، و کدام گام فقط `ATP` مصرف می‌کند؟ (آزمون‌های دی ۱۴۰۲ و خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: in the Calvin cycle, which molecules turn the three-carbon acid into the output sugar, and which step uses only `ATP`? (Dey 1402 and Khordad 1402 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar Kalvin, kodam molekool-ha asid-e se-karbani ra be ghand-e khorooji tabdil mikonand, va kodam gam faghat `ATP` masraf mikonad? (azmoon-haye Dey 1402 va Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسید به قند تبدیل می‌شود، یعنی «کاهش» می‌یابد: هم انرژی (`ATP`) می‌خواهد و هم الکترون (`NADPH`).",
+        "en": "The acid becomes a sugar, so it is \"reduced\": it needs both energy (`ATP`) and electrons (`NADPH`).",
+        "tr": "Asid be ghand tabdil mishavad, ya'ni \"kahesh\" miyabad: ham enerzhi (`ATP`) mikhahad va ham elektron (`NADPH`)."
+       }
+      },
+      {
+       "text": {
+        "fa": "بازسازی ریبولوز فقط چیدمان کربن‌ها را عوض می‌کند و فسفات اضافه می‌کند؛ الکترون لازم ندارد، فقط `ATP`.",
+        "en": "Regenerating RuBP only rearranges carbons and adds phosphate; it needs no electrons, only `ATP`.",
+        "tr": "Bazsazi-ye riboolooz faghat chidemaan-e karbon-ha ra avaz mikonad va fosfat ezafe mikonad; elektron lazem nadarad, faghat `ATP`."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کاهش: `ATP` و `NADPH`؛ بازسازی ریبولوز بیس‌فسفات: فقط `ATP`",
+      "en": "Reduction: `ATP` and `NADPH`; regenerating RuBP: only `ATP`",
+      "tr": "Kahesh: `ATP` va `NADPH`; bazsazi-ye riboolooz bis-fosfat: faghat `ATP`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای ساختن یک مولکول گلوکز، چرخهٔ کالوین چند `ATP` و چند `NADPH` مصرف می‌کند؟",
+      "en": "Exam twist: to make one glucose molecule, how many `ATP` and how many `NADPH` does the Calvin cycle use?",
+      "tr": "Pich-e emtehani: baraye sakhtan-e yek molekool glukoz, charkhe-ye Kalvin chand `ATP` va chand `NADPH` masraf mikonad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از شکل بخوان: برای سه `CO2` (یک قند سه‌کربنی) ۶ `ATP` در کاهش و ۳ `ATP` در بازسازی، و ۶ `NADPH`.",
+        "en": "Read it off the diagram: for three `CO2` (one three-carbon sugar), 6 `ATP` in reduction and 3 `ATP` in regeneration, and 6 `NADPH`.",
+        "tr": "Az shekl bekhan: baraye se `CO2` (yek ghand-e se-karbani) 6 `ATP` dar kahesh va 3 `ATP` dar bazsazi, va 6 `NADPH`."
+       },
+       "math": "6 + 3 = 9 ATP ,   6 NADPH"
+      },
+      {
+       "text": {
+        "fa": "گلوکز شش کربن دارد، یعنی دو قند سه‌کربنی. پس همه‌چیز را دو برابر کن. چرا؟ چون عددهای شکل برای «یک» قند خروجی است.",
+        "en": "Glucose has six carbons, which is two three-carbon sugars. So double everything. Why? Because the numbers in the diagram are for \"one\" output sugar.",
+        "tr": "Glukoz shesh karbon darad, ya'ni do ghand-e se-karbani. Pas hame-chiz ra do barabar kon. Chera? Chon adad-haye shekl baraye \"yek\" ghand-e khorooji ast."
+       },
+       "math": "2 × 9 = 18 ,   2 × 6 = 12"
+      }
+     ],
+     "answer": {
+      "fa": "۱۸ `ATP` و ۱۲ `NADPH` (و ۶ `CO2`)",
+      "en": "18 `ATP` and 12 `NADPH` (and 6 `CO2`)",
+      "tr": "18 `ATP` va 12 `NADPH` (va 6 `CO2`)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "روبیسکو `CO2` را به «ریبولوز بیس‌فسفات» پنج‌کربنی می‌چسباند، نه به قند سه‌کربنی. اولین ترکیب پایدار، اسید «سه‌کربنی» است، نه شش‌کربنی.",
+      "en": "Rubisco attaches `CO2` to five-carbon \"RuBP\", not to a three-carbon sugar. The first stable compound is a \"three-carbon\" acid, not a six-carbon one.",
+      "tr": "Roobisko `CO2` ra be \"riboolooz bis-fosfat\"-e panj-karbani michasbanad, na be ghand-e se-karbani. Avvalin tarkib-e paydar, asid-e \"se-karbani\" ast, na shesh-karbani."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "خروجی مستقیم کالوین گلوکز نیست؛ قند سه‌کربنی (گلیسرآلدهید ۳-فسفات) است که بعداً برای ساختن گلوکز و نشاسته به کار می‌رود.",
+      "en": "The direct output of the Calvin cycle is not glucose; it is the three-carbon sugar G3P, which is later used to build glucose and starch.",
+      "tr": "Khorooji-ye mostaghim-e Kalvin glukoz nist; ghand-e se-karbani (gliser-aldehid 3-fosfat) ast ke ba'dan baraye sakhtan-e glukoz va neshaste be kar miravad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1400-Dey",
+     "number": 922
+    },
+    {
+     "session": "1402-Dey",
+     "number": 940
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1402-Dey",
+     "number": 943
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 4,
+   "key": "bio-6-hard-conditions",
+   "title": {
+    "fa": "فتوسنتز در شرایط دشوار",
+    "en": "Photosynthesis in hard conditions",
+    "tr": "Fotosantez dar sharayet-e doshvar"
+   },
+   "summary": {
+    "fa": "وقتی روبیسکو اشتباهی اکسیژن را می‌گیرد، و گیاهانی که راه چاره پیدا کرده‌اند.",
+    "en": "When rubisco grabs oxygen by mistake, and the plants that found a way round it.",
+    "tr": "Vaghti roobisko eshtebahi oksizhen ra migirad, va giyahani ke rah-e chare peyda karde-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: اشتباه روبیسکو",
+      "en": "Understand first: rubisco's mistake",
+      "tr": "Avval befahm: eshtebah-e roobisko"
+     },
+     "body": {
+      "fa": "روبیسکو یک ضعف بزرگ دارد: گاهی به‌جای `CO2`، اکسیژن را می‌گیرد (آزمون خرداد ۱۴۰۲). در روزهای گرم و خشک، گیاه برای از دست ندادن آب روزنه‌هایش را می‌بندد؛ `CO2` داخل برگ کم و اکسیژنِ فتوسنتز زیاد می‌شود و روبیسکو بیشتر اشتباه می‌کند. نتیجه «تنفس نوری» است: انرژی هدر می‌رود، `CO2` از دست می‌رود و قندی ساخته نمی‌شود. مثل چاپگری که مدام کاغذ اشتباه برمی‌دارد.",
+      "en": "Rubisco has a big weakness: sometimes it grabs oxygen instead of `CO2` (Khordad 1402 paper). On hot, dry days a plant closes its stomata so as not to lose water; the `CO2` inside the leaf falls, the oxygen from photosynthesis builds up, and rubisco makes more mistakes. The result is \"photorespiration\": energy is wasted, `CO2` is lost and no sugar is made. Like a printer that keeps picking up the wrong paper.",
+      "tr": "Roobisko yek za'f-e bozorg darad: gahi be-ja-ye `CO2`, oksizhen ra migirad (azmoon-e Khordad 1402). Dar rooz-haye garm va khoshk, giyah baraye az dast nadadan-e ab rozane-hayash ra mibandad; `CO2`-e dakhel-e barg kam va oksizhen-e fotosantez ziyad mishavad va roobisko bishtar eshtebah mikonad. Natije \"tanaffos-e noori\" ast: enerzhi hadar miravad, `CO2` az dast miravad va ghandi sakhte nemishavad. Mesl-e chapgari ke modam kaghaz-e eshtebah barmidarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " hot, dry day -> stomata close\n inside leaf: CO2 low, O2 high\n rubisco grabs O2 (by mistake)\n -> CO2 lost, energy wasted,\n    no sugar made\n = photorespiration",
+     "caption": {
+      "fa": "تنفس نوری: روزنه‌های بسته، اکسیژن زیاد و اشتباه روبیسکو.",
+      "en": "Photorespiration: closed stomata, a lot of oxygen, and rubisco's mistake.",
+      "tr": "Tanaffos-e noori: rozane-haye baste, oksizhen-e ziyad va eshtebah-e roobisko."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو راه چاره: جای جدا، زمان جدا",
+      "en": "Two ways round it: separate places, separate times",
+      "tr": "Do rah-e chare: ja-ye joda, zaman-e joda"
+     },
+     "body": {
+      "fa": "بعضی گیاهان راه چاره پیدا کرده‌اند: `CO2` را اول با آنزیم دیگری که با اکسیژن واکنش نمی‌دهد می‌گیرند و به‌صورت یک اسید چهارکربنی نگه می‌دارند، بعد آن را نزدیک روبیسکو آزاد می‌کنند. گیاهان `C4` (مثل ذرت و نیشکر) این دو کار را در «دو یاختهٔ متفاوت» انجام می‌دهند: در یاخته‌های میانبرگ می‌گیرند و در یاخته‌های غلاف آوندی به روبیسکو می‌دهند. گیاهان `CAM` (مثل کاکتوس و آناناس) این دو کار را در «دو زمان متفاوت» انجام می‌دهند: شب روزنه‌ها را باز می‌کنند و `CO2` را در کریچه ذخیره می‌کنند؛ روز با روزنه‌های بسته آن را به کالوین می‌دهند.",
+      "en": "Some plants have found a way round it: they first catch `CO2` with a different enzyme that does not react with oxygen and hold it as a four-carbon acid, then release it next to rubisco. `C4` plants (such as maize and sugar cane) do these two jobs in \"two different cells\": they catch it in mesophyll cells and hand it to rubisco in bundle-sheath cells. `CAM` plants (such as cacti and pineapple) do the two jobs at \"two different times\": at night they open their stomata and store `CO2` in the vacuole; by day, with the stomata closed, they pass it to the Calvin cycle.",
+      "tr": "Ba'zi giyahan rah-e chare peyda karde-and: `CO2` ra avval ba anzim-e digari ke ba oksizhen vakonesh nemidahad migirand va be-soorat-e yek asid-e chahar-karbani negah midarand, ba'd an ra nazdik-e roobisko azad mikonand. Giyahan-e `C4` (mesl-e zorrat va neyshekar) in do kar ra dar \"do yakhte-ye motafavet\" anjam midahand: dar yakhte-haye miyan-barg migirand va dar yakhte-haye ghalaf-e avandi be roobisko midahand. Giyahan-e `CAM` (mesl-e kaktoos va ananas) in do kar ra dar \"do zaman-e motafavet\" anjam midahand: shab rozane-ha ra baz mikonand va `CO2` ra dar korichhe zakhire mikonand; rooz ba rozane-haye baste an ra be Kalvin midahand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          C3        C4        CAM\n catch    rubisco   other     other\n CO2 by             enzyme    enzyme\n split?   no        2 cells   day /\n                    (place)   night\n stomata  day       day       night\n example  wheat     maize     cactus",
+     "caption": {
+      "fa": "مقایسهٔ `C3`، `C4` و `CAM`: گیاهان `C4` کار را در مکان جدا می‌کنند و `CAM` در زمان جدا.",
+      "en": "Comparing `C3`, `C4` and `CAM`: `C4` plants split the work by place and `CAM` plants by time.",
+      "tr": "Moghayese-ye `C3`, `C4` va `CAM`: giyahan-e `C4` kar ra dar makan-e joda mikonand va `CAM` dar zaman-e joda."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فتوسنتزکننده‌های دیگر",
+      "en": "Other photosynthesisers",
+      "tr": "Fotosantez-konande-haye digar"
+     },
+     "body": {
+      "fa": "همهٔ فتوسنتزکننده‌ها گیاه نیستند. سیانوباکتری‌ها مثل گیاهان آب را می‌شکنند و اکسیژن آزاد می‌کنند. ولی باکتری‌های گوگردی سبز به‌جای آب، «هیدروژن سولفید» را به‌عنوان دهندهٔ الکترون به کار می‌برند تا کمبود الکترون مرکز واکنش را جبران کنند (آزمون خرداد ۱۴۰۱)؛ برای همین به‌جای اکسیژن، گوگرد آزاد می‌کنند. گروهی از باکتری‌ها هم اصلاً نور نمی‌خواهند و انرژی ساختن ماده را از اکسایش مواد معدنی می‌گیرند؛ به این کار «شیمیوسنتز» می‌گویند.",
+      "en": "Not every photosynthesiser is a plant. Cyanobacteria split water like plants and release oxygen. But green sulfur bacteria use \"hydrogen sulfide\" instead of water as the electron donor that replaces the reaction centre's lost electrons (Khordad 1401 paper); that is why they release sulfur instead of oxygen. Some bacteria do not need light at all and get the energy to build matter from oxidising inorganic substances; this is called \"chemosynthesis\".",
+      "tr": "Hame-ye fotosantez-konande-ha giyah nistand. Siyano-bakteri-ha mesl-e giyahan ab ra mishekanand va oksizhen azad mikonand. Vali bakteri-haye googerdi-ye sabz be-ja-ye ab, \"hidrozhen soolfid\" ra be-onvan-e dahande-ye elektron be kar mibarand ta kambood-e elektron-e markaz-e vakonesh ra jobran konand (azmoon-e Khordad 1401); baraye hamin be-ja-ye oksizhen, googerd azad mikonand. Gorohi az bakteri-ha ham aslan noor nemikhahand va enerzhi-ye sakhtan-e madde ra az oksayesh-e mavad-e ma'dani migirand; be in kar \"shimiyo-santez\" migooyand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " plants, cyanobacteria:\n   H2O -> O2      (oxygen out)\n green sulfur bacteria:\n   H2S -> S       (sulfur out)\n chemosynthetic bacteria:\n   no light; energy from\n   oxidising minerals",
+     "caption": {
+      "fa": "دهندهٔ الکترون در جانداران مختلف: آب در گیاهان، هیدروژن سولفید در باکتری‌های گوگردی سبز.",
+      "en": "The electron donor in different organisms: water in plants, hydrogen sulfide in green sulfur bacteria.",
+      "tr": "Dahande-ye elektron dar jandaran-e mokhtalef: ab dar giyahan, hidrozhen soolfid dar bakteri-haye googerdi-ye sabz."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در تنفس نوری، روبیسکو به‌جای `CO2` با کدام گاز واکنش می‌دهد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: in photorespiration, which gas does rubisco react with instead of `CO2`? (Khordad 1402 paper)",
+      "tr": "Garm kardan: dar tanaffos-e noori, roobisko be-ja-ye `CO2` ba kodam gaz vakonesh midahad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به اسمش فکر کن: «تنفس» نوری، چون مثل تنفس اکسیژن مصرف می‌کند و `CO2` آزاد می‌کند.",
+        "en": "Think about its name: photo-\"respiration\", because like respiration it uses oxygen and releases `CO2`.",
+        "tr": "Be esmash fekr kon: \"tanaffos\"-e noori, chon mesl-e tanaffos oksizhen masraf mikonad va `CO2` azad mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسیژن",
+      "en": "Oxygen",
+      "tr": "Oksizhen"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در باکتری‌های گوگردی سبز، دهندهٔ الکترون چیست و چرا این باکتری‌ها اکسیژن آزاد نمی‌کنند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: in green sulfur bacteria, what is the electron donor, and why do these bacteria not release oxygen? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar bakteri-haye googerdi-ye sabz, dahande-ye elektron chist va chera in bakteri-ha oksizhen azad nemikonand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس: اکسیژن فتوسنتز از کجا می‌آید؟ از شکستن آب. پس اگر آب شکسته نشود، اکسیژنی هم نیست.",
+        "en": "Ask: where does photosynthetic oxygen come from? From splitting water. So if water is not split, there is no oxygen.",
+        "tr": "Bepors: oksizhen-e fotosantez az koja miayad? Az shekastan-e ab. Pas agar ab shekaste nashavad, oksizheni ham nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "این باکتری‌ها الکترون را از هیدروژن سولفید می‌گیرند، و آنچه می‌ماند گوگرد است، نه اکسیژن.",
+        "en": "These bacteria take electrons from hydrogen sulfide, and what is left over is sulfur, not oxygen.",
+        "tr": "In bakteri-ha elektron ra az hidrozhen soolfid migirand, va anche mimanad googerd ast, na oksizhen."
+       },
+       "math": "H2S → S + 2 H+ + 2 e"
+      }
+     ],
+     "answer": {
+      "fa": "هیدروژن سولفید؛ آب را نمی‌شکنند، پس گوگرد آزاد می‌کنند نه اکسیژن",
+      "en": "Hydrogen sulfide; they do not split water, so they release sulfur, not oxygen",
+      "tr": "Hidrozhen soolfid; ab ra nemishekanand, pas googerd azad mikonand na oksizhen"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا ذرت (`C4`) و کاکتوس (`CAM`) در آب‌وهوای گرم و خشک بهتر از گندم (`C3`) رشد می‌کنند؟",
+      "en": "Exam twist: why do maize (`C4`) and cacti (`CAM`) grow better than wheat (`C3`) in hot, dry climates?",
+      "tr": "Pich-e emtehani: chera zorrat (`C4`) va kaktoos (`CAM`) dar ab-o-hava-ye garm va khoshk behtar az gandom (`C3`) roshd mikonand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، مشکل گندم: در گرما روزنه‌ها بسته می‌شوند، `CO2` کم می‌شود و روبیسکو اکسیژن می‌گیرد؛ تنفس نوری بخش بزرگی از کار را هدر می‌دهد.",
+        "en": "Step one, wheat's problem: in the heat the stomata close, `CO2` drops and rubisco grabs oxygen; photorespiration wastes a large part of the work.",
+        "tr": "Ghadam-e avval, moshkel-e gandom: dar garma rozane-ha baste mishavand, `CO2` kam mishavad va roobisko oksizhen migirad; tanaffos-e noori bakhsh-e bozorgi az kar ra hadar midahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، راه ذرت: آنزیم اول `CO2` را حتی وقتی کم است می‌گیرد و در یاخته‌های غلاف آوندی دور روبیسکو متراکم می‌کند؛ پس روبیسکو کمتر اکسیژن می‌بیند.",
+        "en": "Step two, maize's way: the first enzyme catches `CO2` even when it is scarce and concentrates it around rubisco in the bundle-sheath cells; so rubisco meets less oxygen.",
+        "tr": "Ghadam-e dovvom, rah-e zorrat: anzim-e avval `CO2` ra hatta vaghti kam ast migirad va dar yakhte-haye ghalaf-e avandi dor-e roobisko motarakem mikonad; pas roobisko kamtar oksizhen mibinad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، راه کاکتوس: روزنه‌ها فقط در شب خنک باز می‌شوند، پس آب بسیار کمتری از دست می‌رود و روز `CO2` ذخیره‌شده به کالوین می‌رسد.",
+        "en": "Step three, the cactus's way: its stomata open only in the cool night, so far less water is lost, and by day the stored `CO2` reaches the Calvin cycle.",
+        "tr": "Ghadam-e sevvom, rah-e kaktoos: rozane-ha faghat dar shab-e khonak baz mishavand, pas ab-e besiyar kamtari az dast miravad va rooz `CO2`-e zakhire-shode be Kalvin miresad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون تنفس نوری را کم می‌کنند (`C4` با جدایی مکان، `CAM` با جدایی زمان) و آب کمتری هدر می‌دهند",
+      "en": "Because they cut photorespiration (`C4` by separating places, `CAM` by separating times) and waste less water",
+      "tr": "Chon tanaffos-e noori ra kam mikonand (`C4` ba jodayi-ye makan, `CAM` ba jodayi-ye zaman) va ab-e kamtari hadar midahand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`C4` یعنی جدایی «مکانی» (دو یاخته)؛ `CAM` یعنی جدایی «زمانی» (شب و روز). هر دو در نهایت از روبیسکو و چرخهٔ کالوین استفاده می‌کنند.",
+      "en": "`C4` means separation by \"place\" (two cells); `CAM` means separation by \"time\" (night and day). Both still use rubisco and the Calvin cycle in the end.",
+      "tr": "`C4` ya'ni jodayi-ye \"makani\" (do yakhte); `CAM` ya'ni jodayi-ye \"zamani\" (shab va rooz). Har do dar nahayat az roobisko va charkhe-ye Kalvin estefade mikonand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "همهٔ فتوسنتزکننده‌ها اکسیژن تولید نمی‌کنند؛ باکتری‌های گوگردی سبز گوگرد آزاد می‌کنند، چون دهندهٔ الکترونشان هیدروژن سولفید است (آزمون خرداد ۱۴۰۱).",
+      "en": "Not every photosynthesiser produces oxygen; green sulfur bacteria release sulfur, because their electron donor is hydrogen sulfide (Khordad 1401 paper).",
+      "tr": "Hame-ye fotosantez-konande-ha oksizhen tolid nemikonand; bakteri-haye googerdi-ye sabz googerd azad mikonand, chon dahande-ye elektroneshan hidrozhen soolfid ast (azmoon-e Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 918
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 5,
+   "key": "bio-6-plant-growth",
+   "title": {
+    "fa": "نور و تنظیم رشد گیاه",
+    "en": "Light and the regulation of plant growth",
+    "tr": "Noor va tanzim-e roshd-e giyah"
+   },
+   "summary": {
+    "fa": "پیام‌رسان‌های شیمیایی که به گیاه می‌گویند کجا بلند شود و کی برسد.",
+    "en": "Chemical messengers that tell a plant where to grow and when to ripen.",
+    "tr": "Payam-resan-haye shimiyayi ke be giyah migooyand koja boland shavad va key beresad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: گیاهی که پا ندارد",
+      "en": "Understand first: a plant with no legs",
+      "tr": "Avval befahm: giyahi ke pa nadarad"
+     },
+     "body": {
+      "fa": "گیاه پا ندارد که به سمت نور برود، ولی می‌تواند رشدش را کج کند. این کار را «هورمون‌های گیاهی» انجام می‌دهند: پیام‌رسان‌های شیمیایی که در مقدار کم، رشد و نمو را تنظیم می‌کنند. «اکسین» مهم‌ترین آن‌ها در نورگرایی است. وقتی نور از یک طرف بتابد، اکسین به سمت سایهٔ ساقه می‌رود و یاخته‌های آن سمت را طویل‌تر می‌کند (آزمون خرداد ۱۳۹۹). سمت سایه بلندتر می‌شود و ساقه به سمت نور خم می‌شود.",
+      "en": "A plant has no legs to walk towards light, but it can bend its growth. This is done by \"plant hormones\": chemical messengers that, in small amounts, control growth and development. \"Auxin\" is the most important one in phototropism. When light shines from one side, auxin moves to the shaded side of the stem and makes the cells on that side grow longer (Khordad 1399 paper). The shaded side gets longer and the stem bends towards the light.",
+      "tr": "Giyah pa nadarad ke be samt-e noor beravad, vali mitavanad roshdash ra kaj konad. In kar ra \"hormon-haye giyahi\" anjam midahand: payam-resan-haye shimiyayi ke dar meghdar-e kam, roshd va nomoow ra tanzim mikonand. \"Oksin\" mohem-tarin-e an-ha dar nooregerayi ast. Vaghti noor az yek taraf betabad, oksin be samt-e saye-ye saghe miravad va yakhte-haye an samt ra tavil-tar mikonad (azmoon-e Khordad 1399). Samt-e saye boland-tar mishavad va saghe be samt-e noor kham mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " light -->      stem tip\n              (     auxin moves\n lit side:     )    to the shade\n short cells  (\n shade side:   )    -> long cells\n => the stem bends toward light",
+     "caption": {
+      "fa": "نورگرایی: اکسین به سمت سایه می‌رود، یاخته‌های آن سمت بلندتر می‌شوند و ساقه به سمت نور خم می‌شود.",
+      "en": "Phototropism: auxin moves to the shaded side, the cells there grow longer, and the stem bends towards the light.",
+      "tr": "Nooregerayi: oksin be samt-e saye miravad, yakhte-haye an samt boland-tar mishavand va saghe be samt-e noor kham mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خانوادهٔ هورمون‌ها",
+      "en": "The family of hormones",
+      "tr": "Khanevade-ye hormon-ha"
+     },
+     "body": {
+      "fa": "هورمون‌های دیگر هم کار خودشان را دارند. «جیبرلین» رشد ساقه و رویش دانه را زیاد می‌کند. «سیتوکینین» تقسیم یاخته را تحریک می‌کند. «آبسیزیک اسید» در کم‌آبی روزنه‌ها را می‌بندد و خواب دانه را حفظ می‌کند. «اتیلن» تنها هورمون گازی است و رسیدن میوه و ریزش برگ را به‌شدت تسریع می‌کند (آزمون خرداد ۱۴۰۲). چون گاز است، از یک میوه به میوه‌های کناری هم پخش می‌شود.",
+      "en": "Other hormones have their own jobs. \"Gibberellin\" increases stem growth and seed germination. \"Cytokinin\" stimulates cell division. \"Abscisic acid\" closes the stomata when water is short and keeps seeds dormant. \"Ethylene\" is the only gaseous hormone and strongly speeds up fruit ripening and leaf fall (Khordad 1402 paper). Because it is a gas, it spreads from one fruit to the fruits beside it.",
+      "tr": "Hormon-haye digar ham kar-e khodeshan ra darand. \"Jibrelin\" roshd-e saghe va rooyesh-e dane ra ziyad mikonad. \"Sitokinin\" taghsim-e yakhte ra tahrik mikonad. \"Absizik asid\" dar kam-abi rozane-ha ra mibandad va khab-e dane ra hefz mikonad. \"Etilen\" tanha hormon-e gazi ast va residan-e mive va rizesh-e barg ra be-shiddat tasri' mikonad (azmoon-e Khordad 1402). Chon gaz ast, az yek mive be mive-haye kenari ham pakhsh mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " hormone         main job\n auxin           cell elongation,\n                 phototropism\n gibberellin     stem growth,\n                 seed germination\n cytokinin       cell division\n abscisic acid   closes stomata,\n                 seed dormancy\n ethylene (gas)  fruit ripening,\n                 leaf fall",
+     "caption": {
+      "fa": "پنج هورمون گیاهی و کار اصلی هر کدام.",
+      "en": "Five plant hormones and the main job of each.",
+      "tr": "Panj hormon-e giyahi va kar-e asli-ye har kodam."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام هورمون گیاهی گازی است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: which plant hormone is a gas? (Khordad 1402 paper)",
+      "tr": "Garm kardan: kodam hormon-e giyahi gazi ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از جدول، تنها هورمونی که کنارش «گاز» نوشته شده.",
+        "en": "From the table: the only hormone marked \"gas\".",
+        "tr": "Az jadval, tanha hormoni ke kenarash \"gaz\" neveshte shode."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اتیلن",
+      "en": "Ethylene",
+      "tr": "Etilen"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام هورمون با طویل کردن یاخته‌های سمت سایه، عامل اصلی نورگرایی است؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: which hormone is the main cause of phototropism, by lengthening the cells on the shaded side? (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam hormon ba tavil kardan-e yakhte-haye samt-e saye, amel-e asli-ye nooregerayi ast? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ساقه به سمت نور خم می‌شود، پس سمت مقابل باید بلندتر شده باشد. کدام هورمون یاخته را «طویل» می‌کند؟ اکسین.",
+        "en": "The stem bends towards the light, so the opposite side must have grown longer. Which hormone makes cells \"longer\"? Auxin.",
+        "tr": "Saghe be samt-e noor kham mishavad, pas samt-e moghabel bayad boland-tar shode bashad. Kodam hormon yakhte ra \"tavil\" mikonad? Oksin."
+       }
+      },
+      {
+       "text": {
+        "fa": "اکسین از سمت روشن به سمت سایه جابه‌جا می‌شود؛ برای همین سمت سایه بیشتر رشد می‌کند.",
+        "en": "Auxin moves from the lit side to the shaded side; that is why the shaded side grows more.",
+        "tr": "Oksin az samt-e roshan be samt-e saye jabeja mishavad; baraye hamin samt-e saye bishtar roshd mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسین",
+      "en": "Auxin",
+      "tr": "Oksin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا یک سیب رسیده در کیسهٔ موزهای کال، موزها را زودتر می‌رساند؟",
+      "en": "Exam twist: why does one ripe apple in a bag of unripe bananas make the bananas ripen sooner?",
+      "tr": "Pich-e emtehani: chera yek sib-e reside dar kise-ye mooz-haye kal, mooz-ha ra zoodtar miresanad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: میوهٔ رسیده اتیلن آزاد می‌کند، و اتیلن گاز است؛ پس در فضای بستهٔ کیسه جمع می‌شود.",
+        "en": "The twist: the ripe fruit gives off ethylene, and ethylene is a gas; so it builds up in the closed space of the bag.",
+        "tr": "Pich-e emtehan: mive-ye reside etilen azad mikonad, va etilen gaz ast; pas dar faza-ye baste-ye kise jam' mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "اتیلن رسیدن را تسریع می‌کند، پس موزها زودتر می‌رسند؛ و موزهای در حال رسیدن خودشان اتیلن بیشتری می‌سازند. برای همین یک میوهٔ خراب می‌تواند یک جعبه را خراب کند.",
+        "en": "Ethylene speeds up ripening, so the bananas ripen sooner; and ripening bananas make more ethylene themselves. That is why one bad fruit can spoil a whole box.",
+        "tr": "Etilen residan ra tasri' mikonad, pas mooz-ha zoodtar miresand; va mooz-haye dar hal-e residan khodeshan etilen-e bishtari misazand. Baraye hamin yek mive-ye kharab mitavanad yek ja'be ra kharab konad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سیب اتیلن (هورمون گازی رسیدن) آزاد می‌کند و در کیسه جمع می‌شود",
+      "en": "The apple gives off ethylene (the gaseous ripening hormone), which builds up in the bag",
+      "tr": "Sib etilen (hormon-e gazi-ye residan) azad mikonad va dar kise jam' mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اکسین یاخته‌های سمت «سایه» را بلند می‌کند، نه سمت روشن. برای همین ساقه به سمت نور خم می‌شود.",
+      "en": "Auxin lengthens the cells on the \"shaded\" side, not the lit side. That is why the stem bends towards the light.",
+      "tr": "Oksin yakhte-haye samt-e \"saye\" ra boland mikonad, na samt-e roshan. Baraye hamin saghe be samt-e noor kham mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آبسیزیک اسید روزنه‌ها را «می‌بندد» و رشد را کند می‌کند؛ آن را با هورمون‌های محرک رشد (اکسین، جیبرلین، سیتوکینین) یکی ندان.",
+      "en": "Abscisic acid \"closes\" the stomata and slows growth; do not lump it in with the growth-promoting hormones (auxin, gibberellin, cytokinin).",
+      "tr": "Absizik asid rozane-ha ra \"mibandad\" va roshd ra kond mikonad; an ra ba hormon-haye moharrek-e roshd (oksin, jibrelin, sitokinin) yeki nadan."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 942
+    }
+   ]
+  }
+ ]
+}

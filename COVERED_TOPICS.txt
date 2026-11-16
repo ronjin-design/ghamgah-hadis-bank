@@ -15,8 +15,10 @@ re-ships units 1.4 and 2.3 with display fixes. Pack 114 is the Chapter 4 (Change
 information) lesson, and it re-ships 26 units with Latin punctuation in en/tr. Units 4.4 and 4.5
 (gene pool and Hardy-Weinberg; drift, gene flow, selection) have NO bank questions yet: good
 topics for a future question pack. Pack 115 is the Chapter 5 (From matter to energy) lesson;
-its unit 5.1 (ATP and the map of respiration) has no bank questions yet. THE NEXT QUESTION
-BLOCK IS PACK 116.
+its unit 5.1 (ATP and the map of respiration) has no bank questions yet. Pack 116 is the
+Chapter 6 (From energy to matter) lesson; unit 6.1 (chloroplast and pigments) has no bank
+questions yet, and unit 6.5 links the two plant-hormone questions the bank files under
+Chapter 6. THE NEXT QUESTION BLOCK IS PACK 117.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.
