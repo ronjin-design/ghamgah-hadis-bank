@@ -1,0 +1,747 @@
+{
+ "version": 120,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Mathematics",
+   "key": "math-g-domain-radical",
+   "term": {
+    "fa": "دامنهٔ تابع رادیکالی",
+    "en": "domain of a radical function",
+    "tr": "damane-ye tabe'-e radikali"
+   },
+   "explain": {
+    "fa": "زیر رادیکال با فرجهٔ زوج نباید منفی شود. پس دامنه همهٔ `x`‌هایی است که در آن‌ها عبارت زیر رادیکال بزرگ‌تر یا مساوی صفر است: برای `√(x − 3)` یعنی `x ≥ 3`.",
+    "en": "Under an even root the expression must not be negative. So the domain is every `x` that makes the inside greater than or equal to zero: for `√(x − 3)` that means `x ≥ 3`.",
+    "tr": "Zir-e radikal ba farje-ye zoj nabayad manfi shavad. Pas damane hame-ye `x`-hayi ast ke dar an-ha ebarat-e zir-e radikal bozorg-tar ya mosavi-ye sefr ast: baraye `√(x − 3)` ya'ni `x ≥ 3`."
+   },
+   "analogy": {
+    "fa": "مثل دستگاهی که فقط سکهٔ سالم می‌پذیرد: عدد منفی زیر رادیکال زوج «سکهٔ تقلبی» است.",
+    "en": "Like a machine that only takes real coins: a negative number under an even root is a fake coin.",
+    "tr": "Mesl-e dastgahi ke faghat sekke-ye salem mipazirad: adad-e manfi zir-e radikal-e zoj \"sekke-ye taghallobi\" ast."
+   },
+   "contrast": {
+    "fa": "رادیکال با فرجهٔ فرد، مثل `∛x`، هیچ محدودیتی ندارد؛ دامنه‌اش همهٔ اعداد حقیقی است.",
+    "en": "An odd root, such as `∛x`, has no restriction; its domain is all real numbers.",
+    "tr": "Radikal ba farje-ye fard, mesl-e `∛x`, hich mahdoodiyati nadarad; damane-ash hame-ye a'dad-e haghighi ast."
+   },
+   "unit": "math-1-domain-range"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-domain-rational",
+   "term": {
+    "fa": "دامنهٔ تابع گویا",
+    "en": "domain of a rational function",
+    "tr": "damane-ye tabe'-e gooya"
+   },
+   "explain": {
+    "fa": "تقسیم بر صفر تعریف نشده است. پس دامنهٔ یک تابع کسری همهٔ اعداد حقیقی است به‌جز ریشه‌های مخرج: برای `1/(x − 2)` یعنی `ℝ − {2}`.",
+    "en": "Division by zero is undefined. So the domain of a fraction is all real numbers except the zeros of the denominator: for `1/(x − 2)` that is `ℝ − {2}`.",
+    "tr": "Taghsim bar sefr ta'rif nashode ast. Pas damane-ye yek tabe'-e kasri hame-ye a'dad-e haghighi ast be-joz rishe-haye makhraj: baraye `1/(x − 2)` ya'ni `ℝ − {2}`."
+   },
+   "analogy": {
+    "fa": "مثل جاده‌ای با چند چالهٔ مشخص: همه‌جا می‌شود رفت، جز همان چند نقطه.",
+    "en": "Like a road with a few marked potholes: you can go everywhere except those few points.",
+    "tr": "Mesl-e jadde-i ba chand chale-ye moshakhkhas: hame-ja mishavad raft, joz haman chand noghte."
+   },
+   "contrast": {
+    "fa": "ساده کردن کسر دامنه را عوض نمی‌کند: `(x² − 4)/(x − 2)` هنوز در `x = 2` تعریف نشده است.",
+    "en": "Simplifying the fraction does not change the domain: `(x² − 4)/(x − 2)` is still undefined at `x = 2`.",
+    "tr": "Sade kardan-e kasr damane ra avaz nemikonad: `(x² − 4)/(x − 2)` hanooz dar `x = 2` ta'rif nashode ast."
+   },
+   "unit": "math-1-domain-range"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-range",
+   "term": {
+    "fa": "بُرد تابع",
+    "en": "range of a function",
+    "tr": "bord-e tabe'"
+   },
+   "explain": {
+    "fa": "بُرد مجموعهٔ همهٔ خروجی‌هایی است که تابع واقعاً تولید می‌کند. دامنه می‌گوید چه چیزی «وارد» می‌شود؛ بُرد می‌گوید چه چیزی «بیرون» می‌آید.",
+    "en": "The range is the set of all outputs the function actually produces. The domain says what can go \"in\"; the range says what comes \"out\".",
+    "tr": "Bord majmoo'e-ye hame-ye khorooji-hayi ast ke tabe' vaghe'an tolid mikonad. Damane migooyad che chizi \"vared\" mishavad; bord migooyad che chizi \"biroon\" miayad."
+   },
+   "analogy": {
+    "fa": "دامنه مواد اولیهٔ یک کارخانه است و بُرد محصولاتی که از آن بیرون می‌آید.",
+    "en": "The domain is a factory's raw materials; the range is the products that come out.",
+    "tr": "Damane mavad-e avvaliye-ye yek karkhane ast va bord mahsoolati ke az an biroon miayad."
+   },
+   "contrast": {
+    "fa": "بُرد را با دامنه قاطی نکن: برای `x²` دامنه همهٔ اعداد است ولی بُرد فقط `y ≥ 0`.",
+    "en": "Do not mix the range up with the domain: for `x²` the domain is every number but the range is only `y ≥ 0`.",
+    "tr": "Bord ra ba damane ghati nakon: baraye `x²` damane hame-ye a'dad ast vali bord faghat `y ≥ 0`."
+   },
+   "unit": "math-1-domain-range"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-domain-sign",
+   "term": {
+    "fa": "دامنه با تعیین علامت",
+    "en": "domain by sign analysis",
+    "tr": "damane ba ta'yin-e alamat"
+   },
+   "explain": {
+    "fa": "وقتی شرط دامنه یک نامعادله است، مثل `(x − 1)/(x + 2) ≥ 0`، ریشه‌های صورت و مخرج را روی محور می‌گذاریم و علامت عبارت را در هر بازه تعیین می‌کنیم. ریشهٔ مخرج همیشه کنار گذاشته می‌شود.",
+    "en": "When the domain condition is an inequality, such as `(x − 1)/(x + 2) ≥ 0`, we mark the zeros of the top and bottom on a number line and find the sign in each interval. A zero of the denominator is always left out.",
+    "tr": "Vaghti shart-e damane yek namoadele ast, mesl-e `(x − 1)/(x + 2) ≥ 0`, rishe-haye soorat va makhraj ra rooye mehvar migozarim va alamat-e ebarat ra dar har baze ta'yin mikonim. Rishe-ye makhraj hamishe kenar gozashte mishavad."
+   },
+   "analogy": {
+    "fa": "مثل نقشهٔ آب‌وهوا که شهرها را به بخش‌های آفتابی و بارانی تقسیم می‌کند؛ ما فقط بخش‌های «مجاز» را برمی‌داریم.",
+    "en": "Like a weather map split into sunny and rainy zones; we keep only the \"allowed\" zones.",
+    "tr": "Mesl-e naghshe-ye ab-o-hava ke shahr-ha ra be bakhsh-haye aftabi va barani taghsim mikonad; ma faghat bakhsh-haye \"mojaz\" ra barmidarim."
+   },
+   "contrast": {
+    "fa": "ریشهٔ صورت در `≥ 0` جزو جواب است، ولی ریشهٔ مخرج هرگز؛ این دو را یکسان علامت نزن.",
+    "en": "A zero of the numerator counts in `≥ 0`, but a zero of the denominator never does; do not mark them the same.",
+    "tr": "Rishe-ye soorat dar `≥ 0` jozv-e javab ast, vali rishe-ye makhraj hargez; in do ra yeksan alamat nazan."
+   },
+   "unit": "math-1-domain-range"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-range-1-over-x",
+   "term": {
+    "fa": "بُرد تابع 1/x",
+    "en": "range of 1/x",
+    "tr": "bord-e 1/x"
+   },
+   "explain": {
+    "fa": "تابع `1/x` هر عدد حقیقی را خروجی می‌دهد جز صفر، چون هیچ کسری با صورت ۱ صفر نمی‌شود. پس بُرد آن `ℝ − {0}` است، درست مثل دامنه‌اش.",
+    "en": "The function `1/x` outputs every real number except zero, because no fraction with top 1 can equal zero. So its range is `ℝ − {0}`, exactly like its domain.",
+    "tr": "Tabe'-e `1/x` har adad-e haghighi ra khorooji midahad joz sefr, chon hich kasri ba soorat-e 1 sefr nemishavad. Pas bord-e an `ℝ − {0}` ast, dorost mesl-e damane-ash."
+   },
+   "analogy": {
+    "fa": "یک پیتزا را بین هر تعداد آدم تقسیم کنی، سهم هر نفر کوچک می‌شود ولی هیچ‌وقت صفر نمی‌شود.",
+    "en": "Share one pizza among any number of people: each slice gets smaller, but never becomes zero.",
+    "tr": "Yek pitza ra beyn-e har te'dad adam taghsim koni, sahm-e har nafar koochak mishavad vali hich-vaght sefr nemishavad."
+   },
+   "contrast": {
+    "fa": "بُرد `1/x²` فرق دارد: فقط اعداد مثبت، یعنی `y > 0`.",
+    "en": "The range of `1/x²` is different: only positive numbers, `y > 0`.",
+    "tr": "Bord-e `1/x²` fargh darad: faghat a'dad-e mosbat, ya'ni `y > 0`."
+   },
+   "unit": "math-1-domain-range"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-step",
+   "term": {
+    "fa": "تابع پله‌ای",
+    "en": "step function",
+    "tr": "tabe'-e pelle-i"
+   },
+   "explain": {
+    "fa": "تابعی که روی هر بازه ثابت می‌ماند و در مرزها ناگهان می‌پرد. معروف‌ترین نمونه جزء صحیح است: `[x]` بزرگ‌ترین عدد صحیحی است که از `x` بیشتر نیست، مثلاً `[2.7] = 2` و `[−1.2] = −2`.",
+    "en": "A function that stays constant on each interval and jumps suddenly at the edges. The best-known example is the floor function: `[x]` is the largest integer not greater than `x`, e.g. `[2.7] = 2` and `[−1.2] = −2`.",
+    "tr": "Tabe'i ke rooye har baze sabet mimanad va dar marz-ha nagahan miparad. Ma'roof-tarin nemoone jozv-e sahih ast: `[x]` bozorg-tarin adad-e sahihi ast ke az `x` bishtar nist, masalan `[2.7] = 2` va `[−1.2] = −2`."
+   },
+   "analogy": {
+    "fa": "مثل پله‌های یک ساختمان: روی هر پله ارتفاع ثابت است و بین پله‌ها یک‌باره بالا می‌روی.",
+    "en": "Like the stairs of a building: the height is constant on each step and jumps up between steps.",
+    "tr": "Mesl-e pelle-haye yek sakhteman: rooye har pelle ertefa' sabet ast va beyn-e pelle-ha yek-bare bala miravi."
+   },
+   "contrast": {
+    "fa": "جزء صحیح عدد منفی را به سمت پایین گرد می‌کند، نه به سمت صفر: `[−1.2] = −2`، نه `−1`.",
+    "en": "The floor of a negative number rounds down, not towards zero: `[−1.2] = −2`, not `−1`.",
+    "tr": "Jozv-e sahih-e adad-e manfi ra be samt-e payin gerd mikonad, na be samt-e sefr: `[−1.2] = −2`, na `−1`."
+   },
+   "unit": "math-1-special-functions"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-equal-functions",
+   "term": {
+    "fa": "تساوی دو تابع",
+    "en": "equal functions",
+    "tr": "tasavi-ye do tabe'"
+   },
+   "explain": {
+    "fa": "دو تابع وقتی مساوی‌اند که دامنهٔ یکسان داشته باشند و برای هر `x` از این دامنه، خروجی یکسان بدهند. هر دو شرط لازم است.",
+    "en": "Two functions are equal when they have the same domain and give the same output for every `x` in that domain. Both conditions are needed.",
+    "tr": "Do tabe' vaghti mosavi-and ke damane-ye yeksan dashte bashand va baraye har `x` az in damane, khorooji-ye yeksan bedahand. Har do shart lazem ast."
+   },
+   "analogy": {
+    "fa": "دو کلید که در همهٔ قفل‌های یک خانه یکسان کار می‌کنند، ولی اگر یکی در یک قفل جا نرود، دیگر «همان کلید» نیستند.",
+    "en": "Two keys that work the same in every lock of a house; but if one does not fit a single lock, they are no longer \"the same key\".",
+    "tr": "Do kelid ke dar hame-ye ghofl-haye yek khane yeksan kar mikonand, vali agar yeki dar yek ghofl ja naravad, digar \"haman kelid\" nistand."
+   },
+   "contrast": {
+    "fa": "`x²/x` و `x` برابر نیستند: اولی در `x = 0` تعریف نشده است، هرچند فرمولشان پس از ساده کردن یکی می‌شود.",
+    "en": "`x²/x` and `x` are not equal: the first is undefined at `x = 0`, even though their formulas match after simplifying.",
+    "tr": "`x²/x` va `x` barabar nistand: avvali dar `x = 0` ta'rif nashode ast, harchand formoolashan pas az sade kardan yeki mishavad."
+   },
+   "unit": "math-1-special-functions"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-sign-function",
+   "term": {
+    "fa": "تابع علامت",
+    "en": "sign function",
+    "tr": "tabe'-e alamat"
+   },
+   "explain": {
+    "fa": "تابع علامت فقط علامت عدد را گزارش می‌کند: برای عدد مثبت `1`، برای صفر `0` و برای عدد منفی `−1`. نمودارش سه تکهٔ افقی است.",
+    "en": "The sign function only reports a number's sign: `1` for a positive number, `0` for zero and `−1` for a negative number. Its graph is three horizontal pieces.",
+    "tr": "Tabe'-e alamat faghat alamat-e adad ra gozaresh mikonad: baraye adad-e mosbat `1`, baraye sefr `0` va baraye adad-e manfi `−1`. Nemoodarash se tekke-ye ofoghi ast."
+   },
+   "analogy": {
+    "fa": "مثل چراغ راهنمایی که فقط سه حالت دارد و به اندازهٔ ماشین‌ها کاری ندارد.",
+    "en": "Like a traffic light with only three states that does not care how big the cars are.",
+    "tr": "Mesl-e cheragh-e rahnamayi ke faghat se halat darad va be andaze-ye mashin-ha kari nadarad."
+   },
+   "contrast": {
+    "fa": "تابع علامت با قدر مطلق فرق دارد: قدر مطلق اندازه را نگه می‌دارد و علامت را حذف می‌کند؛ تابع علامت برعکس.",
+    "en": "The sign function is not absolute value: absolute value keeps the size and drops the sign; the sign function does the opposite.",
+    "tr": "Tabe'-e alamat ba ghadr-e motlagh fargh darad: ghadr-e motlagh andaze ra negah midarad va alamat ra hazf mikonad; tabe'-e alamat bar-aks."
+   },
+   "unit": "math-1-special-functions"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-composition",
+   "term": {
+    "fa": "ترکیب توابع",
+    "en": "composition of functions",
+    "tr": "tarkib-e tavabe"
+   },
+   "explain": {
+    "fa": "در ترکیب `(f∘g)(x) = f(g(x))`، اول `g` روی `x` کار می‌کند و بعد خروجی آن به `f` داده می‌شود. از راست به چپ بخوان.",
+    "en": "In the composition `(f∘g)(x) = f(g(x))`, first `g` acts on `x`, then its output is handed to `f`. Read it from right to left.",
+    "tr": "Dar tarkib-e `(f∘g)(x) = f(g(x))`, avval `g` rooye `x` kar mikonad va ba'd khorooji-ye an be `f` dade mishavad. Az rast be chap bekhan."
+   },
+   "analogy": {
+    "fa": "مثل خط تولید: اول دستگاه بُرش (`g`)، بعد دستگاه رنگ (`f`).",
+    "en": "Like a production line: first the cutting machine (`g`), then the painting machine (`f`).",
+    "tr": "Mesl-e khatt-e tolid: avval dastgah-e boresh (`g`), ba'd dastgah-e rang (`f`)."
+   },
+   "contrast": {
+    "fa": "ترکیب جابه‌جایی ندارد: معمولاً `f∘g` با `g∘f` فرق دارد، و با ضرب `f · g` هم یکی نیست.",
+    "en": "Composition is not commutative: usually `f∘g` differs from `g∘f`, and neither is the product `f · g`.",
+    "tr": "Tarkib jabejayi nadarad: ma'moolan `f∘g` ba `g∘f` fargh darad, va ba zarb-e `f · g` ham yeki nist."
+   },
+   "unit": "math-1-composition"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-composite-domain",
+   "term": {
+    "fa": "دامنهٔ تابع مرکب",
+    "en": "domain of a composite function",
+    "tr": "damane-ye tabe'-e morakkab"
+   },
+   "explain": {
+    "fa": "دامنهٔ `f∘g` یعنی `x`‌هایی که دو شرط دارند: `x` در دامنهٔ `g` باشد، و `g(x)` در دامنهٔ `f`. هر دو ایستگاه خط تولید باید ورودی را بپذیرند.",
+    "en": "The domain of `f∘g` is the `x` values that pass two tests: `x` is in the domain of `g`, and `g(x)` is in the domain of `f`. Both stations of the line must accept the input.",
+    "tr": "Damane-ye `f∘g` ya'ni `x`-hayi ke do shart darand: `x` dar damane-ye `g` bashad, va `g(x)` dar damane-ye `f`. Har do istgah-e khatt-e tolid bayad voroodi ra bepazirand."
+   },
+   "analogy": {
+    "fa": "مثل بازرسی دومرحله‌ای فرودگاه: باید از هر دو ایست بازرسی رد شوی.",
+    "en": "Like two-stage airport security: you must get through both checkpoints.",
+    "tr": "Mesl-e bazresi-ye do-marhale-i-ye foroodgah: bayad az har do ist-e bazresi rad shavi."
+   },
+   "contrast": {
+    "fa": "فقط فرمول ساده‌شدهٔ نهایی را نگاه نکن: شرط دامنهٔ `g` حتی اگر در فرمول نهایی دیده نشود، باقی می‌ماند.",
+    "en": "Do not look only at the final simplified formula: the domain condition of `g` still applies even if it no longer shows in the final formula.",
+    "tr": "Faghat formool-e sade-shode-ye nahayi ra negah nakon: shart-e damane-ye `g` hatta agar dar formool-e nahayi dide nashavad, baghi mimanad."
+   },
+   "unit": "math-1-composition"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-increasing",
+   "term": {
+    "fa": "تابع صعودی",
+    "en": "increasing function",
+    "tr": "tabe-e sooudi"
+   },
+   "explain": {
+    "fa": "در کتاب، تابع «صعودی» یعنی با بزرگ شدن `x`، مقدار تابع کم نمی‌شود: اگر `a < b` آنگاه `f(a) ≤ f(b)`. اگر همیشه علامت `<` برقرار باشد، تابع «اکیداً صعودی» است.",
+    "en": "In the textbook, an \"increasing\" function never goes down as `x` grows: if `a < b` then `f(a) ≤ f(b)` (non-decreasing). If `<` always holds, the function is \"strictly increasing\".",
+    "tr": "Dar ketab, tabe'-e \"sooudi\" ya'ni ba bozorg shodan-e `x`, meghdar-e tabe' kam nemishavad: agar `a < b` angah `f(a) ≤ f(b)`. Agar hamishe alamat-e `<` bargharar bashad, tabe' \"akidan sooudi\" ast."
+   },
+   "matches": {
+    "en": [
+     "increasing (non-decreasing) function"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل بالا رفتن از یک کوه با چند جای صاف: هیچ‌جا پایین نمی‌روی، ولی گاهی روی زمین صاف راه می‌روی.",
+    "en": "Like climbing a hill with a few flat stretches: you never go down, though sometimes you walk on the level.",
+    "tr": "Mesl-e bala raftan az yek kooh ba chand ja-ye saf: hich-ja payin nemiravi, vali gahi rooye zamin-e saf rah miravi."
+   },
+   "contrast": {
+    "fa": "تابع ثابت طبق تعریف کتاب صعودی است (و نزولی هم)، ولی اکیداً صعودی نیست.",
+    "en": "By the textbook definition a constant function is increasing (and decreasing too), but not strictly increasing.",
+    "tr": "Tabe'-e sabet tebgh-e ta'rif-e ketab sooudi ast (va nozooli ham), vali akidan sooudi nist."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-strictly-decreasing",
+   "term": {
+    "fa": "تابع اکیداً نزولی",
+    "en": "strictly decreasing function",
+    "tr": "tabe-e akidan nozooli"
+   },
+   "explain": {
+    "fa": "تابعی که با بزرگ شدن `x` همیشه واقعاً کم می‌شود: اگر `a < b` آنگاه `f(a) > f(b)`. هیچ تکهٔ افقی ندارد.",
+    "en": "A function that always genuinely drops as `x` grows: if `a < b` then `f(a) > f(b)`. It has no flat piece.",
+    "tr": "Tabe'i ke ba bozorg shodan-e `x` hamishe vaghe'an kam mishavad: agar `a < b` angah `f(a) > f(b)`. Hich tekke-ye ofoghi nadarad."
+   },
+   "analogy": {
+    "fa": "مثل سرسره‌ای که هیچ جای صاف ندارد.",
+    "en": "Like a slide with no flat part at all.",
+    "tr": "Mesl-e sorsore-i ke hich ja-ye saf nadarad."
+   },
+   "contrast": {
+    "fa": "«نزولی» در کتاب تکهٔ ثابت را هم می‌پذیرد؛ «اکیداً نزولی» نه.",
+    "en": "\"Decreasing\" in the textbook allows a constant piece; \"strictly decreasing\" does not.",
+    "tr": "\"Nozooli\" dar ketab tekke-ye sabet ra ham mipazirad; \"akidan nozooli\" na."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-decreasing",
+   "term": {
+    "fa": "تابع نزولی",
+    "en": "decreasing (non-increasing) function",
+    "tr": "tabe-e nozooli"
+   },
+   "explain": {
+    "fa": "تابع «نزولی» با بزرگ شدن `x` زیاد نمی‌شود: اگر `a < b` آنگاه `f(a) ≥ f(b)`. می‌تواند بخش‌های ثابت هم داشته باشد.",
+    "en": "A \"decreasing\" function never goes up as `x` grows: if `a < b` then `f(a) ≥ f(b)`. It may have constant parts.",
+    "tr": "Tabe'-e \"nozooli\" ba bozorg shodan-e `x` ziyad nemishavad: agar `a < b` angah `f(a) ≥ f(b)`. Mitavanad bakhsh-haye sabet ham dashte bashad."
+   },
+   "analogy": {
+    "fa": "مثل پایین آمدن از پله‌ها: یا پایین می‌روی یا روی یک پله می‌ایستی، ولی هرگز بالا نمی‌روی.",
+    "en": "Like walking down stairs: you either go down or stand on a step, but never go up.",
+    "tr": "Mesl-e payin amadan az pelle-ha: ya payin miravi ya rooye yek pelle miistadi, vali hargez bala nemiravi."
+   },
+   "contrast": {
+    "fa": "علامت `≥` را با `>` اشتباه نگیر؛ دومی تعریف اکیداً نزولی است.",
+    "en": "Do not confuse `≥` with `>`; the second is the definition of strictly decreasing.",
+    "tr": "Alamat-e `≥` ra ba `>` eshtebah nagir; dovvomi ta'rif-e akidan nozooli ast."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-constant-monotonic",
+   "term": {
+    "fa": "صعودی و نزولی هم‌زمان",
+    "en": "both non-decreasing and non-increasing",
+    "tr": "so'oodi va nozooli ham-zaman"
+   },
+   "explain": {
+    "fa": "تابعی که هم صعودی باشد و هم نزولی، نه بالا می‌رود نه پایین؛ پس روی آن بازه ثابت است. فقط تابع ثابت هر دو تعریف را با هم برآورده می‌کند.",
+    "en": "A function that is both non-decreasing and non-increasing goes neither up nor down; so it is constant on that interval. Only a constant function satisfies both definitions at once.",
+    "tr": "Tabe'i ke ham sooudi bashad va ham nozooli, na bala miravad na payin; pas rooye an baze sabet ast. Faghat tabe'-e sabet har do ta'rif ra ba ham bar-avarde mikonad."
+   },
+   "analogy": {
+    "fa": "مثل آسانسوری که نه بالا می‌رود نه پایین: ایستاده است.",
+    "en": "Like a lift that goes neither up nor down: it is standing still.",
+    "tr": "Mesl-e asansori ke na bala miravad na payin: istade ast."
+   },
+   "contrast": {
+    "fa": "این فقط با تعریف «غیراکید» ممکن است؛ هیچ تابعی هم‌زمان اکیداً صعودی و اکیداً نزولی نیست.",
+    "en": "This is only possible with the non-strict definitions; no function is strictly increasing and strictly decreasing at the same time.",
+    "tr": "In faghat ba ta'rif-e \"gheyr-e akid\" momken ast; hich tabe'i ham-zaman akidan sooudi va akidan nozooli nist."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-monotonic-composite",
+   "term": {
+    "fa": "یکنوایی تابع مرکب",
+    "en": "monotonicity of a composite",
+    "tr": "yeknavayi-ye tabe'-e morakkab"
+   },
+   "explain": {
+    "fa": "یکنوایی `f∘g` مثل ضرب علامت‌هاست: دو صعودی یا دو نزولی، ترکیبی صعودی می‌دهند؛ یک صعودی و یک نزولی، ترکیبی نزولی.",
+    "en": "The monotonicity of `f∘g` works like multiplying signs: two increasing or two decreasing functions give an increasing composite; one of each gives a decreasing one.",
+    "tr": "Yeknavayi-ye `f∘g` mesl-e zarb-e alamat-hast: do sooudi ya do nozooli, tarkibi sooudi midahand; yek sooudi va yek nozooli, tarkibi nozooli."
+   },
+   "analogy": {
+    "fa": "مثل دو بار برعکس کردن یک عکس: برعکسِ برعکس، دوباره درست می‌شود.",
+    "en": "Like flipping a picture twice: a flip of a flip is the right way round again.",
+    "tr": "Mesl-e do bar bar-aks kardan-e yek aks: bar-aks-e bar-aks, dobare dorost mishavad."
+   },
+   "contrast": {
+    "fa": "این قانون برای ترکیب است، نه جمع؛ جمع یک صعودی و یک نزولی ممکن است هر چیزی بشود.",
+    "en": "This rule is for composition, not addition; the sum of an increasing and a decreasing function can be anything.",
+    "tr": "In ghanoon baraye tarkib ast, na jam'; jam'-e yek sooudi va yek nozooli momken ast har chizi beshavad."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-monotonic-difference",
+   "term": {
+    "fa": "یکنوایی تفاضل توابع",
+    "en": "monotonicity of a difference",
+    "tr": "yeknavayi-ye tafazol-e tavabe'"
+   },
+   "explain": {
+    "fa": "اگر `f` صعودی و `g` نزولی باشد، `f − g` صعودی است، چون `−g` صعودی است و جمع دو صعودی صعودی است.",
+    "en": "If `f` is increasing and `g` is decreasing, `f − g` is increasing, because `−g` is increasing and the sum of two increasing functions is increasing.",
+    "tr": "Agar `f` sooudi va `g` nozooli bashad, `f − g` sooudi ast, chon `−g` sooudi ast va jam'-e do sooudi sooudi ast."
+   },
+   "analogy": {
+    "fa": "درآمدت بالا می‌رود و هزینه‌ات پایین می‌آید؛ پس‌اندازت حتماً بالا می‌رود.",
+    "en": "Your income goes up and your costs go down; your savings must go up.",
+    "tr": "Daramadat bala miravad va hazine-at payin miayad; pas-andazat hatman bala miravad."
+   },
+   "contrast": {
+    "fa": "اگر هر دو صعودی باشند، از تفاضلشان نمی‌شود چیزی گفت؛ بستگی دارد کدام سریع‌تر رشد کند.",
+    "en": "If both are increasing, nothing can be said about their difference; it depends which grows faster.",
+    "tr": "Agar har do sooudi bashand, az tafazoleshan nemishavad chizi goft; bastegi darad kodam sari'-tar roshd konad."
+   },
+   "unit": "math-1-monotonic"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-one-to-one",
+   "term": {
+    "fa": "تابع یک‌به‌یک",
+    "en": "one-to-one function",
+    "tr": "tabe-e yek-be-yek"
+   },
+   "explain": {
+    "fa": "تابعی که هیچ دو ورودی متفاوتی را به یک خروجی نمی‌برد: اگر `f(a) = f(b)` آنگاه `a = b`. آزمون خط افقی: هر خط افقی نمودار را حداکثر در یک نقطه قطع کند.",
+    "en": "A function that never sends two different inputs to the same output: if `f(a) = f(b)` then `a = b`. Horizontal line test: every horizontal line meets the graph at most once.",
+    "tr": "Tabe'i ke hich do voroodi-ye motafavet ra be yek khorooji nemibarad: agar `f(a) = f(b)` angah `a = b`. Azmoon-e khatt-e ofoghi: har khatt-e ofoghi nemoodar ra hadde-aksar dar yek noghte ghat' konad."
+   },
+   "analogy": {
+    "fa": "مثل شمارهٔ ملی: هر شماره فقط مال یک نفر است، پس از شماره می‌شود به آدم برگشت.",
+    "en": "Like a national ID number: each number belongs to one person only, so you can trace the number back to the person.",
+    "tr": "Mesl-e shomare-ye melli: har shomare faghat mal-e yek nafar ast, pas az shomare mishavad be adam bargasht."
+   },
+   "contrast": {
+    "fa": "آزمون خط عمودی تابع بودن را می‌سنجد؛ آزمون خط افقی یک‌به‌یک بودن را.",
+    "en": "The vertical line test checks for a function; the horizontal line test checks for one-to-one.",
+    "tr": "Azmoon-e khatt-e amoodi tabe' boodan ra misanjad; azmoon-e khatt-e ofoghi yek-be-yek boodan ra."
+   },
+   "unit": "math-1-inverse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-inverse-compose",
+   "term": {
+    "fa": "ترکیب تابع و وارون",
+    "en": "composing a function with its inverse",
+    "tr": "tarkib-e tabe' va varoon"
+   },
+   "explain": {
+    "fa": "وارون، کار تابع را خنثی می‌کند: `f(f^(−1)(x)) = x` برای هر `x` در دامنهٔ `f^(−1)`، و `f^(−1)(f(x)) = x` برای هر `x` در دامنهٔ `f`.",
+    "en": "The inverse undoes the function: `f(f^(−1)(x)) = x` for every `x` in the domain of `f^(−1)`, and `f^(−1)(f(x)) = x` for every `x` in the domain of `f`.",
+    "tr": "Varoon, kar-e tabe' ra khonsa mikonad: `f(f^(−1)(x)) = x` baraye har `x` dar damane-ye `f^(−1)`, va `f^(−1)(f(x)) = x` baraye har `x` dar damane-ye `f`."
+   },
+   "analogy": {
+    "fa": "مثل بستن و باز کردن یک قفل با همان کلید: آخرش به همان‌جا برمی‌گردی.",
+    "en": "Like locking and unlocking with the same key: you end up back where you started.",
+    "tr": "Mesl-e bastan va baz kardan-e yek ghofl ba haman kelid: akharash be haman-ja barmigardi."
+   },
+   "contrast": {
+    "fa": "`f^(−1)` به معنای `1/f` نیست؛ توان `−1` اینجا یعنی وارون، نه معکوس عددی.",
+    "en": "`f^(−1)` does not mean `1/f`; the `−1` here means inverse, not reciprocal.",
+    "tr": "`f^(−1)` be ma'na-ye `1/f` nist; tavan-e `−1` inja ya'ni varoon, na ma'koos-e adadi."
+   },
+   "unit": "math-1-inverse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-restrict-domain",
+   "term": {
+    "fa": "محدود کردن دامنه برای وارون",
+    "en": "restricting the domain for an inverse",
+    "tr": "mahdood kardan-e damane baraye varoon"
+   },
+   "explain": {
+    "fa": "تابعی که یک‌به‌یک نیست وارون ندارد، ولی می‌توانیم دامنه‌اش را به بخشی محدود کنیم که در آن یک‌به‌یک باشد. مثلاً `x²` روی `x ≥ 0` وارون `√x` را دارد.",
+    "en": "A function that is not one-to-one has no inverse, but we can restrict its domain to a part where it is one-to-one. For example `x²` on `x ≥ 0` has the inverse `√x`.",
+    "tr": "Tabe'i ke yek-be-yek nist varoon nadarad, vali mitavanim damane-ash ra be bakhshi mahdood konim ke dar an yek-be-yek bashad. Masalan `x²` rooye `x ≥ 0` varoon-e `√x` ra darad."
+   },
+   "analogy": {
+    "fa": "مثل جاده‌ای دوطرفه که فقط یک لاینش را برای برگشت باز می‌گذاریم تا مسیر برگشت روشن باشد.",
+    "en": "Like a two-way road where we open just one lane for the way back, so the return route is clear.",
+    "tr": "Mesl-e jadde-i do-tarafe ke faghat yek laynash ra baraye bargasht baz migozarim ta masir-e bargasht roshan bashad."
+   },
+   "contrast": {
+    "fa": "دامنهٔ محدودشده، بُرد وارون می‌شود: وارونِ `x²` روی `x ≥ 0` فقط خروجی‌های نامنفی می‌دهد.",
+    "en": "The restricted domain becomes the inverse's range: the inverse of `x²` on `x ≥ 0` only gives non-negative outputs.",
+    "tr": "Damane-ye mahdood-shode, bord-e varoon mishavad: varoon-e `x²` rooye `x ≥ 0` faghat khorooji-haye na-manfi midahad."
+   },
+   "unit": "math-1-inverse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-inverse-linear",
+   "term": {
+    "fa": "وارون تابع خطی",
+    "en": "inverse of a linear function",
+    "tr": "varoon-e tabe'-e khatti"
+   },
+   "explain": {
+    "fa": "برای `f(x) = ax + b` با `a ≠ 0`، معادلهٔ `y = ax + b` را برای `x` حل کن: `x = (y − b)/a`. پس `f^(−1)(x) = (x − b)/a`. وارون کارها را به ترتیب معکوس برمی‌گرداند: اول `b` را کم کن، بعد بر `a` تقسیم کن.",
+    "en": "For `f(x) = ax + b` with `a ≠ 0`, solve `y = ax + b` for `x`: `x = (y − b)/a`. So `f^(−1)(x) = (x − b)/a`. The inverse undoes the steps in reverse order: subtract `b` first, then divide by `a`.",
+    "tr": "Baraye `f(x) = ax + b` ba `a ≠ 0`, moadele-ye `y = ax + b` ra baraye `x` hal kon: `x = (y − b)/a`. Pas `f^(−1)(x) = (x − b)/a`. Varoon kar-ha ra be tartib-e ma'koos barmigardanad: avval `b` ra kam kon, ba'd bar `a` taghsim kon."
+   },
+   "analogy": {
+    "fa": "مثل در آوردن جوراب و کفش: آخرین کاری که کردی (کفش)، اولین کاری است که خنثی می‌کنی.",
+    "en": "Like taking off socks and shoes: the last thing you did (shoes) is the first thing you undo.",
+    "tr": "Mesl-e dar avardan-e joorab va kafsh: akharin kari ke kardi (kafsh), avvalin kari ast ke khonsa mikoni."
+   },
+   "contrast": {
+    "fa": "وارون `2x + 3` برابر `(x − 3)/2` است، نه `x/2 − 3`؛ ترتیب برگرداندن مهم است.",
+    "en": "The inverse of `2x + 3` is `(x − 3)/2`, not `x/2 − 3`; the order of undoing matters.",
+    "tr": "Varoon-e `2x + 3` barabar-e `(x − 3)/2` ast, na `x/2 − 3`; tartib-e bargardandan mohem ast."
+   },
+   "unit": "math-1-inverse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-even",
+   "term": {
+    "fa": "تابع زوج",
+    "en": "even function",
+    "tr": "tabe-e zoj"
+   },
+   "explain": {
+    "fa": "تابعی با دامنهٔ متقارن که `f(−x) = f(x)`. نمودارش نسبت به محور `y` قرینه است، مثل `x²` و `cos x`.",
+    "en": "A function with a symmetric domain where `f(−x) = f(x)`. Its graph is a mirror image across the `y`-axis, like `x²` and `cos x`.",
+    "tr": "Tabe'i ba damane-ye motagharen ke `f(−x) = f(x)`. Nemoodarash nesbat be mehvar-e `y` gharine ast, mesl-e `x²` va `cos x`."
+   },
+   "analogy": {
+    "fa": "مثل صورت یا پروانه: نیمهٔ چپ آینهٔ نیمهٔ راست است.",
+    "en": "Like a face or a butterfly: the left half mirrors the right half.",
+    "tr": "Mesl-e soorat ya parvane: nime-ye chap ayne-ye nime-ye rast ast."
+   },
+   "contrast": {
+    "fa": "«زوج» به توان‌های زوج محدود نیست و هر تابعی هم یا زوج است یا فرد نیست؛ بیشتر توابع هیچ‌کدام‌اند.",
+    "en": "\"Even\" is not limited to even powers, and not every function is either even or odd; most are neither.",
+    "tr": "\"Zoj\" be tavan-haye zoj mahdood nist va har tabe'i ham ya zoj ast ya fard nist; bishtar-e tavabe' hich-kodam-and."
+   },
+   "unit": "math-1-symmetry-period"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-odd",
+   "term": {
+    "fa": "تابع فرد",
+    "en": "odd function",
+    "tr": "tabe-e fard"
+   },
+   "explain": {
+    "fa": "تابعی با دامنهٔ متقارن که `f(−x) = −f(x)`. نمودارش نسبت به مبدأ قرینه است (چرخش ۱۸۰ درجه)، مثل `x³` و `sin x`. اگر صفر در دامنه باشد، `f(0) = 0`.",
+    "en": "A function with a symmetric domain where `f(−x) = −f(x)`. Its graph is symmetric about the origin (a 180° turn), like `x³` and `sin x`. If zero is in the domain, `f(0) = 0`.",
+    "tr": "Tabe'i ba damane-ye motagharen ke `f(−x) = −f(x)`. Nemoodarash nesbat be mabda' gharine ast (charkhesh-e 180 daraje), mesl-e `x³` va `sin x`. Agar sefr dar damane bashad, `f(0) = 0`."
+   },
+   "analogy": {
+    "fa": "مثل یک پروانهٔ کاغذی که اگر ۱۸۰ درجه بچرخانی، دوباره همان شکل را دارد.",
+    "en": "Like a paper pinwheel that looks the same after a half turn.",
+    "tr": "Mesl-e yek fereffere-ye kaghazi ke agar 180 daraje becharkhani, dobare haman shekl ra darad."
+   },
+   "contrast": {
+    "fa": "قرینهٔ تابع فرد نسبت به مبدأ است، نه محور `x`؛ نمودار قرینه نسبت به محور `x` اصلاً تابع نیست.",
+    "en": "An odd function is symmetric about the origin, not the `x`-axis; a graph mirrored across the `x`-axis is not even a function.",
+    "tr": "Gharine-ye tabe'-e fard nesbat be mabda' ast, na mehvar-e `x`; nemoodar-e gharine nesbat be mehvar-e `x` aslan tabe' nist."
+   },
+   "unit": "math-1-symmetry-period"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-period",
+   "term": {
+    "fa": "دورهٔ تناوب",
+    "en": "period of a function",
+    "tr": "dowre-ye tanavob"
+   },
+   "explain": {
+    "fa": "دورهٔ تناوب کوچک‌ترین عدد مثبت `T` است که برای هر `x`، `f(x + T) = f(x)`. یعنی نمودار هر `T` واحد دقیقاً تکرار می‌شود.",
+    "en": "The period is the smallest positive number `T` with `f(x + T) = f(x)` for every `x`. The graph repeats exactly every `T` units.",
+    "tr": "Dowre-ye tanavob koochak-tarin adad-e mosbat-e `T` ast ke baraye har `x`, `f(x + T) = f(x)`. Ya'ni nemoodar har `T` vahed daghighan tekrar mishavad."
+   },
+   "analogy": {
+    "fa": "مثل هفته: هر هفت روز، روزها دوباره از اول تکرار می‌شوند.",
+    "en": "Like a week: every seven days the days repeat from the start.",
+    "tr": "Mesl-e hafte: har haft rooz, rooz-ha dobare az avval tekrar mishavand."
+   },
+   "contrast": {
+    "fa": "دورهٔ تناوب «کوچک‌ترین» عدد است؛ `4π` هم `sin x` را تکرار می‌کند، ولی دورهٔ آن `2π` است.",
+    "en": "The period is the \"smallest\" such number; `4π` also repeats `sin x`, but its period is `2π`.",
+    "tr": "Dowre-ye tanavob \"koochak-tarin\" adad ast; `4π` ham `sin x` ra tekrar mikonad, vali dowre-ye an `2π` ast."
+   },
+   "unit": "math-1-symmetry-period"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-period-sine",
+   "term": {
+    "fa": "دورهٔ تناوب سینوس",
+    "en": "period of sine",
+    "tr": "dowre-ye tanavob-e sinoos"
+   },
+   "explain": {
+    "fa": "دورهٔ `sin x` برابر `2π` است. برای `sin(ax + b)` دوره `2π/|a|` می‌شود: ضریب `a` نمودار را فشرده یا باز می‌کند و `b` فقط آن را جابه‌جا می‌کند.",
+    "en": "The period of `sin x` is `2π`. For `sin(ax + b)` the period is `2π/|a|`: the coefficient `a` squeezes or stretches the graph, and `b` only shifts it.",
+    "tr": "Dowre-ye `sin x` barabar-e `2π` ast. Baraye `sin(ax + b)` dowre `2π/|a|` mishavad: zarib-e `a` nemoodar ra feshorde ya baz mikonad va `b` faghat an ra jabeja mikonad."
+   },
+   "analogy": {
+    "fa": "مثل آهنگی که سریع‌تر پخش شود: همان ملودی است، فقط زودتر تکرار می‌شود.",
+    "en": "Like a song played faster: the same tune, just repeating sooner.",
+    "tr": "Mesl-e ahangi ke sari'-tar pakhsh shavad: haman meloodi ast, faghat zoodtar tekrar mishavad."
+   },
+   "contrast": {
+    "fa": "ضریب پشت سینوس (مثل `3 sin x`) دوره را عوض نمی‌کند؛ فقط ارتفاع موج را تغییر می‌دهد.",
+    "en": "A number in front of sine (as in `3 sin x`) does not change the period; it only changes the height of the wave.",
+    "tr": "Zarib-e posht-e sinoos (mesl-e `3 sin x`) dowre ra avaz nemikonad; faghat ertefa'-e moj ra taghyir midahad."
+   },
+   "unit": "math-1-symmetry-period"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-symmetric-domain",
+   "term": {
+    "fa": "دامنهٔ متقارن",
+    "en": "symmetric domain",
+    "tr": "damane-ye motagharen"
+   },
+   "explain": {
+    "fa": "دامنه‌ای که اگر `x` در آن باشد، `−x` هم باشد. این شرط لازم برای زوج یا فرد بودن است؛ اول دامنه را چک کن، بعد `f(−x)` را.",
+    "en": "A domain where, whenever `x` is in it, `−x` is too. This is required before a function can be even or odd; check the domain first, then `f(−x)`.",
+    "tr": "Damane-i ke agar `x` dar an bashad, `−x` ham bashad. In shart-e lazem baraye zoj ya fard boodan ast; avval damane ra chek kon, ba'd `f(−x)` ra."
+   },
+   "analogy": {
+    "fa": "مثل الاکلنگ: هر دو طرف باید وجود داشته باشد تا بتوانی آن‌ها را مقایسه کنی.",
+    "en": "Like a seesaw: both sides must exist before you can compare them.",
+    "tr": "Mesl-e alaakolang ke do taraf-e an bayad vojood dashte bashad ta betavani gharine ra besanji."
+   },
+   "contrast": {
+    "fa": "`√x` با دامنهٔ `x ≥ 0` نه زوج است نه فرد، چون دامنه‌اش متقارن نیست.",
+    "en": "`√x`, with domain `x ≥ 0`, is neither even nor odd, because its domain is not symmetric.",
+    "tr": "`√x` ba damane-ye `x ≥ 0` na zoj ast na fard, chon damane-ash motagharen nist."
+   },
+   "unit": "math-1-symmetry-period"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-angle-sum",
+   "term": {
+    "fa": "روابط مجموع کمان‌ها",
+    "en": "angle-sum identities",
+    "tr": "ravabet-e majmoo-e kaman-ha"
+   },
+   "explain": {
+    "fa": "سینوس و کسینوس مجموع دو زاویه از روی سینوس و کسینوس خود زاویه‌ها ساخته می‌شوند: `sin(a + b) = sin a cos b + cos a sin b` و `cos(a + b) = cos a cos b − sin a sin b`.",
+    "en": "The sine and cosine of a sum are built from the sines and cosines of the two angles: `sin(a + b) = sin a cos b + cos a sin b` and `cos(a + b) = cos a cos b − sin a sin b`.",
+    "tr": "Sinoos va kosinoos-e majmoo'-e do zaviye az rooye sinoos va kosinoos-e khod-e zaviye-ha sakhte mishavand: `sin(a + b) = sin a cos b + cos a sin b` va `cos(a + b) = cos a cos b − sin a sin b`."
+   },
+   "analogy": {
+    "fa": "مثل اینکه با دانستن قیمت دو کالای آشنا، قیمت یک بستهٔ ترکیبی را حساب کنی؛ مثلاً `75° = 45° + 30°`.",
+    "en": "Like working out the price of a bundle from two items you already know; for example `75° = 45° + 30°`.",
+    "tr": "Mesl-e inke ba danestan-e gheymat-e do kala-ye ashena, gheymat-e yek baste-ye tarkibi ra hesab koni; masalan `75° = 45° + 30°`."
+   },
+   "contrast": {
+    "fa": "`sin(a + b)` برابر `sin a + sin b` نیست؛ این رایج‌ترین اشتباه است.",
+    "en": "`sin(a + b)` is not `sin a + sin b`; that is the most common mistake.",
+    "tr": "`sin(a + b)` barabar-e `sin a + sin b` nist; in rayej-tarin eshtebah ast."
+   },
+   "unit": "math-2-sum-difference"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-angle-difference",
+   "term": {
+    "fa": "روابط تفاضل کمان‌ها",
+    "en": "angle-difference identities",
+    "tr": "ravabet-e tafazol-e kaman-ha"
+   },
+   "explain": {
+    "fa": "همان روابط مجموع با `b` منفی: `sin(a − b) = sin a cos b − cos a sin b` و `cos(a − b) = cos a cos b + sin a sin b`. در کسینوس، علامت وسط برعکس علامت داخل پرانتز است.",
+    "en": "The sum identities with `b` made negative: `sin(a − b) = sin a cos b − cos a sin b` and `cos(a − b) = cos a cos b + sin a sin b`. In cosine, the middle sign is the opposite of the sign inside the bracket.",
+    "tr": "Haman ravabet-e majmoo' ba `b`-e manfi: `sin(a − b) = sin a cos b − cos a sin b` va `cos(a − b) = cos a cos b + sin a sin b`. Dar kosinoos, alamat-e vasat bar-aks-e alamat-e dakhel-e parantez ast."
+   },
+   "analogy": {
+    "fa": "مثل ۱۵ درجه که با `45° − 30°` از دو زاویهٔ آشنا ساخته می‌شود.",
+    "en": "Like 15° built from two familiar angles as `45° − 30°`.",
+    "tr": "Mesl-e 15 daraje ke ba `45° − 30°` az do zaviye-ye ashena sakhte mishavad."
+   },
+   "contrast": {
+    "fa": "علامت را جابه‌جا نکن: سینوس علامت را نگه می‌دارد، کسینوس آن را برعکس می‌کند.",
+    "en": "Do not swap the signs: sine keeps the sign, cosine flips it.",
+    "tr": "Alamat ra jabeja nakon: sinoos alamat ra negah midarad, kosinoos an ra bar-aks mikonad."
+   },
+   "unit": "math-2-sum-difference"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-double-angle",
+   "term": {
+    "fa": "روابط کمان دو برابر",
+    "en": "double-angle identities",
+    "tr": "ravabet-e kaman-e do barabar"
+   },
+   "explain": {
+    "fa": "با `b = a` در روابط مجموع: `sin 2a = 2 sin a cos a` و `cos 2a = cos² a − sin² a = 2cos² a − 1 = 1 − 2sin² a`. سه شکل کسینوس را بسته به آنچه داری انتخاب کن.",
+    "en": "Put `b = a` in the sum identities: `sin 2a = 2 sin a cos a` and `cos 2a = cos² a − sin² a = 2cos² a − 1 = 1 − 2sin² a`. Pick the form of cosine that matches what you know.",
+    "tr": "Ba `b = a` dar ravabet-e majmoo': `sin 2a = 2 sin a cos a` va `cos 2a = cos² a − sin² a = 2cos² a − 1 = 1 − 2sin² a`. Se shekl-e kosinoos ra baste be anche dari entekhab kon."
+   },
+   "matches": {
+    "fa": [
+     "کمان دوبرابر"
+    ],
+    "en": [
+     "double angle"
+    ],
+    "tr": [
+     "kaman-e do-barabar"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل سه کلید برای یک در: هر کدام که در جیبت باشد، در را باز می‌کند.",
+    "en": "Like three keys to one door: whichever is in your pocket opens it.",
+    "tr": "Mesl-e se kelid baraye yek dar: har kodam ke dar jibat bashad, dar ra baz mikonad."
+   },
+   "contrast": {
+    "fa": "`sin 2a` برابر `2 sin a` نیست؛ دو برابر کردن زاویه، سینوس را دو برابر نمی‌کند.",
+    "en": "`sin 2a` is not `2 sin a`; doubling the angle does not double the sine.",
+    "tr": "`sin 2a` barabar-e `2 sin a` nist; do barabar kardan-e zaviye, sinoos ra do barabar nemikonad."
+   },
+   "unit": "math-2-double-angle"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-trig-equation",
+   "term": {
+    "fa": "معادلهٔ مثلثاتی",
+    "en": "trigonometric equation",
+    "tr": "moadele-ye mosallasati"
+   },
+   "explain": {
+    "fa": "چون توابع مثلثاتی تکرار می‌شوند، معادله‌شان بی‌نهایت جواب دارد. جواب‌های کلی: `sin x = sin α` یعنی `x = 2kπ + α` یا `x = 2kπ + π − α`؛ `cos x = cos α` یعنی `x = 2kπ ± α`؛ `tan x = tan α` یعنی `x = kπ + α`.",
+    "en": "Because trigonometric functions repeat, their equations have infinitely many solutions. General solutions: `sin x = sin α` gives `x = 2kπ + α` or `x = 2kπ + π − α`; `cos x = cos α` gives `x = 2kπ ± α`; `tan x = tan α` gives `x = kπ + α`.",
+    "tr": "Chon tavabe'-e mosallasati tekrar mishavand, moadele-shan bi-nahayat javab darad. Javab-haye kolli: `sin x = sin α` ya'ni `x = 2kπ + α` ya `x = 2kπ + π − α`; `cos x = cos α` ya'ni `x = 2kπ ± α`; `tan x = tan α` ya'ni `x = kπ + α`."
+   },
+   "analogy": {
+    "fa": "مثل ساعت: عقربه هر ۱۲ ساعت دوباره به همان‌جا می‌رسد، پس «ساعت ۳» بی‌نهایت بار پیش می‌آید.",
+    "en": "Like a clock: the hand returns to the same place every 12 hours, so \"3 o'clock\" happens infinitely often.",
+    "tr": "Mesl-e sa'at: aghrabe har 12 sa'at dobare be haman-ja miresad, pas \"sa'at-e 3\" bi-nahayat bar pish miayad."
+   },
+   "contrast": {
+    "fa": "دورهٔ تانژانت `π` است، نه `2π`؛ برای همین در جواب تانژانت `kπ` می‌آید.",
+    "en": "The period of tangent is `π`, not `2π`; that is why tangent's solution uses `kπ`.",
+    "tr": "Dowre-ye tanzhant `π` ast, na `2π`; baraye hamin dar javab-e tanzhant `kπ` miayad."
+   },
+   "unit": "math-2-equations"
+  }
+ ]
+}
