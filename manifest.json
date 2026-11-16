@@ -750,6 +750,12 @@
    "format": 6,
    "file": "pack-0125.json",
    "sha256": "4295400997cbfb0f6858e9c8f73ab390bee9d858d13e608a17cc03fa7dfb233b"
+  },
+  {
+   "version": 126,
+   "format": 6,
+   "file": "pack-0126.json",
+   "sha256": "b1e901e3d95059f19ef3d63661817c423c35d194cd2c154dfed685ea3a341e99"
   }
  ]
 }

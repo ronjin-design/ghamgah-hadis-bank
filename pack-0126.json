@@ -1,0 +1,1030 @@
+{
+ "version": 126,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Biology",
+   "key": "bio-g-photosynthesis",
+   "term": {
+    "fa": "فتوسنتز",
+    "en": "photosynthesis",
+    "tr": "photosynthesis"
+   },
+   "explain": {
+    "fa": "ساختن قند از `CO2` و آب با انرژی نور، در سبزدیسه. دو مرحله دارد: واکنش‌های وابسته به نور (روی تیلاکوئید) که `ATP` و `NADPH` می‌سازند و اکسیژن آزاد می‌کنند، و چرخهٔ کالوین (در بستره) که با آن‌ها قند می‌سازد.",
+    "en": "Making sugar from `CO2` and water using light energy, in the chloroplast. It has two stages: the light-dependent reactions (on the thylakoid) that make `ATP` and `NADPH` and release oxygen, and the Calvin cycle (in the stroma) that uses them to make sugar.",
+    "tr": "Sakhtan-e ghand az `CO2` va ab ba enerzhi-ye noor, dar sabz-dise. Do marhale darad: vakonesh-haye vabaste be noor (rooye tilakoid) ke `ATP` va `NADPH` misazand va oksizhen azad mikonand, va charkhe-ye Kalvin (dar bastare) ke ba an-ha ghand misazad."
+   },
+   "analogy": {
+    "fa": "صفحهٔ خورشیدی باتری را شارژ می‌کند و چاپگر سه‌بعدی با آن آجر قندی می‌سازد.",
+    "en": "Solar panels charge the batteries, and a 3D printer uses them to build sugar bricks.",
+    "tr": "Safhe-ye khorshidi batri ra sharzh mikonad va chapgar-e se-bo'di ba an ajor-e ghandi misazad."
+   },
+   "contrast": {
+    "fa": "اکسیژن فتوسنتز از آب می‌آید، نه از `CO2`.",
+    "en": "The oxygen of photosynthesis comes from water, not from `CO2`.",
+    "tr": "Oksizhen-e fotosantez az ab miayad, na az `CO2`."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-thylakoid",
+   "term": {
+    "fa": "تیلاکوئید",
+    "en": "thylakoid",
+    "tr": "thylakoid"
+   },
+   "explain": {
+    "fa": "کیسه‌های پهن و روی هم چیده‌شده درون سبزدیسه. رنگیزه‌ها، فتوسیستم‌ها و زنجیرهٔ انتقال الکترون روی غشای آن‌اند، پس واکنش‌های نوری اینجا انجام می‌شوند.",
+    "en": "The flat, stacked sacs inside the chloroplast. Pigments, photosystems and the electron transport chain sit on their membrane, so the light reactions happen here.",
+    "tr": "Kise-haye pahn va rooye ham chide-shode daroon-e sabz-dise. Rangize-ha, fotosistem-ha va zanjire-ye enteghal-e elektron rooye ghesha-ye an-and, pas vakonesh-haye noori inja anjam mishavand."
+   },
+   "analogy": {
+    "fa": "مثل ستون‌هایی از سکه که صفحه‌های خورشیدی روی آن‌ها نصب شده‌اند.",
+    "en": "Like stacks of coins with the solar panels fixed on them.",
+    "tr": "Mesl-e sotoon-hayi az sekke ke safhe-haye khorshidi rooye an-ha nasb shode-and."
+   },
+   "contrast": {
+    "fa": "واکنش‌های نوری روی غشای تیلاکوئیدند؛ چرخهٔ کالوین در بسترهٔ اطرافش.",
+    "en": "The light reactions are on the thylakoid membrane; the Calvin cycle is in the stroma around it.",
+    "tr": "Vakonesh-haye noori rooye ghesha-ye tilakoid-and; charkhe-ye Kalvin dar bastare-ye atrafash."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-thylakoid-lumen",
+   "term": {
+    "fa": "فضای درون تیلاکوئید",
+    "en": "thylakoid lumen",
+    "tr": "faza-ye daroon-e thylakoid"
+   },
+   "explain": {
+    "fa": "فضای داخل هر تیلاکوئید. پروتون‌های حاصل از تجزیهٔ آب و پمپ زنجیره اینجا جمع می‌شوند و شیبی می‌سازند که `ATP` ساز را می‌چرخاند.",
+    "en": "The space inside each thylakoid. Protons from splitting water and from the chain's pump collect here, building a gradient that turns `ATP` synthase.",
+    "tr": "Faza-ye dakhel-e har tilakoid. Proton-haye hasel az tajziye-ye ab va pomp-e zanjire inja jam' mishavand va shibi misazand ke `ATP` saz ra micharkhanad."
+   },
+   "analogy": {
+    "fa": "مخزن پشت سد در سبزدیسه.",
+    "en": "The reservoir behind the dam, in the chloroplast.",
+    "tr": "Makhzan-e posht-e sad dar sabz-dise."
+   },
+   "contrast": {
+    "fa": "پروتون‌ها در فضای درون تیلاکوئید جمع می‌شوند، ولی `ATP` در بستره ساخته می‌شود.",
+    "en": "Protons collect in the lumen, but `ATP` is made in the stroma.",
+    "tr": "Proton-ha dar faza-ye daroon-e tilakoid jam' mishavand, vali `ATP` dar bastare sakhte mishavad."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-photosystem-2",
+   "term": {
+    "fa": "فتوسیستم ۲",
+    "en": "photosystem II",
+    "tr": "photosystem 2"
+   },
+   "explain": {
+    "fa": "اولین صفحهٔ خورشیدی مسیر: نور را جذب می‌کند و الکترون‌های برانگیخته‌اش را به پلاستوکینون می‌دهد. کمبود الکترونش با تجزیهٔ نوری آب جبران می‌شود.",
+    "en": "The first solar panel on the path: it absorbs light and hands its excited electrons to plastoquinone. Its missing electrons are replaced by splitting water.",
+    "tr": "Avvalin safhe-ye khorshidi-ye masir: noor ra jazb mikonad va elektron-haye barangikhte-ash ra be plastokinon midahad. Kambood-e elektronash ba tajziye-ye noori-ye ab jobran mishavad."
+   },
+   "matches": {
+    "tr": [
+     "photosystem do"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل اولین پمپ یک خط که آب را از چاه (آب) می‌کشد.",
+    "en": "Like the first pump in a line, drawing from the well (water).",
+    "tr": "Mesl-e avvalin pomp-e yek khatt ke ab ra az chah (ab) mikeshad."
+   },
+   "contrast": {
+    "fa": "فتوسیستم ۲ «اول» کار می‌کند؛ شماره‌ها به ترتیب کشف‌اند، نه ترتیب مسیر.",
+    "en": "Photosystem II works \"first\"; the numbers follow the order of discovery, not the order of the path.",
+    "tr": "Fotosistem 2 \"avval\" kar mikonad; shomare-ha be tartib-e kashf-and, na tartib-e masir."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-photosystem-1",
+   "term": {
+    "fa": "فتوسیستم ۱",
+    "en": "photosystem I",
+    "tr": "photosystem-e 1"
+   },
+   "explain": {
+    "fa": "صفحهٔ خورشیدی دوم: الکترون‌هایی را که از زنجیره رسیده‌اند با نور دوباره پرانرژی می‌کند و مستقیم به فرودوکسین می‌دهد تا سرانجام `NADPH` ساخته شود.",
+    "en": "The second solar panel: it re-energises the electrons arriving from the chain with light and passes them straight to ferredoxin, so that `NADPH` is finally made.",
+    "tr": "Safhe-ye khorshidi-ye dovvom: elektron-hayi ra ke az zanjire reside-and ba noor dobare por-enerzhi mikonad va mostaghim be ferredoksin midahad ta saranjam `NADPH` sakhte shavad."
+   },
+   "analogy": {
+    "fa": "پمپ دوم که آب را دوباره بالا می‌برد تا به آخر خط برسد.",
+    "en": "The second pump that lifts the water again so it reaches the end of the line.",
+    "tr": "Pomp-e dovvom ke ab ra dobare bala mibarad ta be akhar-e khatt beresad."
+   },
+   "contrast": {
+    "fa": "فتوسیستم ۱ آب را نمی‌شکند؛ آن کار مال فتوسیستم ۲ است.",
+    "en": "Photosystem I does not split water; that is photosystem II's job.",
+    "tr": "Fotosistem 1 ab ra nemishekanad; an kar mal-e fotosistem 2 ast."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-photolysis",
+   "term": {
+    "fa": "تجزیهٔ نوری آب",
+    "en": "photolysis of water",
+    "tr": "tajziye-ye noori-ye ab"
+   },
+   "explain": {
+    "fa": "شکستن آب کنار فتوسیستم ۲: `2 H2O → O2 + 4 H+ + 4 e`. الکترون‌ها کمبود فتوسیستم ۲ را جبران می‌کنند، پروتون‌ها در فضای درون تیلاکوئید جمع می‌شوند و اکسیژن آزاد می‌شود.",
+    "en": "Splitting water beside photosystem II: `2 H2O → O2 + 4 H+ + 4 e`. The electrons refill photosystem II, the protons collect in the lumen, and oxygen is released.",
+    "tr": "Shekastan-e ab kenar-e fotosistem 2: `2 H2O → O2 + 4 H+ + 4 e`. Elektron-ha kambood-e fotosistem 2 ra jobran mikonand, proton-ha dar faza-ye daroon-e tilakoid jam' mishavand va oksizhen azad mishavad."
+   },
+   "analogy": {
+    "fa": "مثل چاهی که الکترون‌های تازه را برای خط تأمین می‌کند.",
+    "en": "Like the well that supplies fresh electrons to the line.",
+    "tr": "Mesl-e chahi ke elektron-haye taze ra baraye khatt ta'min mikonad."
+   },
+   "contrast": {
+    "fa": "تجزیهٔ آب سه محصول دارد؛ هر سه را نام ببر: اکسیژن، پروتون، الکترون.",
+    "en": "Splitting water has three products; name all three: oxygen, protons, electrons.",
+    "tr": "Tajziye-ye ab se mahsool darad; har se ra nam bebar: oksizhen, proton, elektron."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-nadp-reductase",
+   "term": {
+    "fa": "NADP⁺ ردوکتاز",
+    "en": "NADP⁺ reductase",
+    "tr": "NADP⁺ reductase"
+   },
+   "explain": {
+    "fa": "آنزیمی در آخر زنجیرهٔ تیلاکوئید که الکترون‌های رسیده از فتوسیستم ۱ (از راه فرودوکسین) را روی `NADP+` می‌گذارد و `NADPH` می‌سازد.",
+    "en": "The enzyme at the end of the thylakoid chain that loads the electrons from photosystem I (via ferredoxin) onto `NADP+`, making `NADPH`.",
+    "tr": "Anzimi dar akhar-e zanjire-ye tilakoid ke elektron-haye reside az fotosistem 1 (az rah-e ferredoksin) ra rooye `NADP+` migozarad va `NADPH` misazad."
+   },
+   "analogy": {
+    "fa": "مثل دستگاهی که باتری خالی را شارژ می‌کند.",
+    "en": "Like the machine that charges an empty battery.",
+    "tr": "Mesl-e dastgahi ke batri-ye khali ra sharzh mikonad."
+   },
+   "contrast": {
+    "fa": "در فتوسنتز آخرین گیرنده `NADP+` است، نه اکسیژن.",
+    "en": "In photosynthesis the last acceptor is `NADP+`, not oxygen.",
+    "tr": "Dar fotosantez akharin girande `NADP+` ast, na oksizhen."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-nadp-carrier",
+   "term": {
+    "fa": "ناقل NADP⁺",
+    "en": "NADP⁺ carrier",
+    "tr": "naghel-e NADP⁺"
+   },
+   "explain": {
+    "fa": "`NADP+` باتری خالی فتوسنتز است: الکترون‌های پرانرژی خروجی از فتوسیستم ۱ را می‌گیرد و `NADPH` می‌شود؛ سپس در چرخهٔ کالوین خرج و دوباره `NADP+` می‌شود.",
+    "en": "`NADP+` is photosynthesis's empty battery: it takes the high-energy electrons leaving photosystem I and becomes `NADPH`; then it is spent in the Calvin cycle and becomes `NADP+` again.",
+    "tr": "`NADP+` batri-ye khali-ye fotosantez ast: elektron-haye por-enerzhi-ye khorooji az fotosistem 1 ra migirad va `NADPH` mishavad; sepas dar charkhe-ye Kalvin kharj va dobare `NADP+` mishavad."
+   },
+   "analogy": {
+    "fa": "باتری قابل شارژی که بین صفحهٔ خورشیدی و چاپگر رفت و آمد می‌کند.",
+    "en": "A rechargeable battery that shuttles between the solar panel and the printer.",
+    "tr": "Batri-ye ghabel-e sharzhi ke beyn-e safhe-ye khorshidi va chapgar raft-o-amad mikonad."
+   },
+   "contrast": {
+    "fa": "در فتوسنتز `NADP+` (با `P`) است؛ در تنفس `NAD+`.",
+    "en": "Photosynthesis uses `NADP+` (with a `P`); respiration uses `NAD+`.",
+    "tr": "Dar fotosantez `NADP+` (ba `P`) ast; dar tanaffos `NAD+`."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-calvin",
+   "term": {
+    "fa": "چرخهٔ کالوین",
+    "en": "Calvin cycle",
+    "tr": "charkhe-ye Calvin"
+   },
+   "explain": {
+    "fa": "چرخهٔ ساخت قند در بستره: تثبیت (روبیسکو `CO2` را به ریبولوز بیس‌فسفات می‌چسباند)، کاهش (با `ATP` و `NADPH` قند سه‌کربنی ساخته می‌شود) و بازسازی (با `ATP`). برای یک گلوکز ۱۸ `ATP` و ۱۲ `NADPH` لازم است.",
+    "en": "The sugar-building cycle in the stroma: fixation (rubisco attaches `CO2` to RuBP), reduction (`ATP` and `NADPH` make a three-carbon sugar) and regeneration (with `ATP`). One glucose needs 18 `ATP` and 12 `NADPH`.",
+    "tr": "Charkhe-ye sakht-e ghand dar bastare: tasbit (roobisko `CO2` ra be riboolooz bis-fosfat michasbanad), kahesh (ba `ATP` va `NADPH` ghand-e se-karbani sakhte mishavad) va bazsazi (ba `ATP`). Baraye yek glukoz 18 `ATP` va 12 `NADPH` lazem ast."
+   },
+   "analogy": {
+    "fa": "چاپگر سه‌بعدی که با باتری‌های شارژشده آجر قندی چاپ می‌کند.",
+    "en": "The 3D printer that prints sugar bricks with the charged batteries.",
+    "tr": "Chapgar-e se-bo'di ke ba batri-haye sharzh-shode ajor-e ghandi chap mikonad."
+   },
+   "contrast": {
+    "fa": "کالوین مستقیماً نور نمی‌خواهد، ولی بدون محصولات واکنش‌های نوری زود می‌ایستد.",
+    "en": "The Calvin cycle does not use light directly, but without the products of the light reactions it soon stops.",
+    "tr": "Kalvin mostaghiman noor nemikhahad, vali bedoon-e mahsoolat-e vakonesh-haye noori zood miistad."
+   },
+   "unit": "bio-6-calvin"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rubp",
+   "term": {
+    "fa": "ریبولوز بیس‌فسفات",
+    "en": "ribulose bisphosphate",
+    "tr": "ribulose bisphosphate"
+   },
+   "explain": {
+    "fa": "قند پنج‌کربنی فسفات‌داری که در آغاز چرخهٔ کالوین `CO2` به آن چسبانده می‌شود و در گام پایانی با مصرف `ATP` دوباره ساخته می‌شود.",
+    "en": "The five-carbon sugar phosphate that `CO2` is attached to at the start of the Calvin cycle; it is remade in the last step using `ATP`.",
+    "tr": "Ghand-e panj-karbani-ye fosfat-dari ke dar aghaz-e charkhe-ye Kalvin `CO2` be an chasbande mishavad va dar gam-e payani ba masraf-e `ATP` dobare sakhte mishavad."
+   },
+   "analogy": {
+    "fa": "مثل صندلی خالی چرخ‌وفلک که هر دور یک مسافر (`CO2`) سوار می‌کند.",
+    "en": "Like an empty seat on a Ferris wheel that takes one rider (`CO2`) each turn.",
+    "tr": "Mesl-e sandali-ye khali-ye charkh-o-falak ke har dor yek mosafer (`CO2`) savar mikonad."
+   },
+   "contrast": {
+    "fa": "ریبولوز بیس‌فسفات پنج‌کربنه است؛ اولین ترکیب پایدار پس از تثبیت، اسید سه‌کربنی است.",
+    "en": "RuBP has five carbons; the first stable compound after fixation is a three-carbon acid.",
+    "tr": "Riboolooz bis-fosfat panj-karbane ast; avvalin tarkib-e paydar pas az tasbit, asid-e se-karbani ast."
+   },
+   "unit": "bio-6-calvin"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rubisco",
+   "term": {
+    "fa": "روبیسکو",
+    "en": "Rubisco",
+    "tr": "Rubisco"
+   },
+   "explain": {
+    "fa": "آنزیمی که `CO2` را به ریبولوز بیس‌فسفات می‌چسباند (تثبیت کربن). ضعفش این است که گاهی به‌جای `CO2` اکسیژن را می‌گیرد و تنفس نوری را راه می‌اندازد.",
+    "en": "The enzyme that attaches `CO2` to RuBP (carbon fixation). Its weakness is that it sometimes grabs oxygen instead of `CO2`, starting photorespiration.",
+    "tr": "Anzimi ke `CO2` ra be riboolooz bis-fosfat michasbanad (tasbit-e karbon). Za'fash in ast ke gahi be-ja-ye `CO2` oksizhen ra migirad va tanaffos-e noori ra rah miandazad."
+   },
+   "matches": {
+    "fa": [
+     "آنزیم روبیسکو"
+    ],
+    "en": [
+     "Rubisco enzyme"
+    ],
+    "tr": [
+     "anzim-e Rubisco"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل دستگاهی که گاهی کاغذ اشتباه برمی‌دارد.",
+    "en": "Like a machine that sometimes picks up the wrong paper.",
+    "tr": "Mesl-e dastgahi ke gahi kaghaz-e eshtebah barmidarad."
+   },
+   "contrast": {
+    "fa": "روبیسکو `CO2` را به قند پنج‌کربنی می‌چسباند، نه به قند سه‌کربنی.",
+    "en": "Rubisco attaches `CO2` to a five-carbon sugar, not a three-carbon one.",
+    "tr": "Roobisko `CO2` ra be ghand-e panj-karbani michasbanad, na be ghand-e se-karbani."
+   },
+   "unit": "bio-6-calvin"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-photorespiration",
+   "term": {
+    "fa": "تنفس نوری",
+    "en": "photorespiration",
+    "tr": "tanaffos-e noori"
+   },
+   "explain": {
+    "fa": "وقتی روبیسکو به‌جای `CO2` اکسیژن را می‌گیرد. در روزهای گرم و خشک که روزنه‌ها بسته‌اند و `CO2` کم است بیشتر رخ می‌دهد؛ انرژی هدر می‌رود و قندی ساخته نمی‌شود.",
+    "en": "When rubisco grabs oxygen instead of `CO2`. It happens more on hot, dry days when the stomata are closed and `CO2` is low; energy is wasted and no sugar is made.",
+    "tr": "Vaghti roobisko be-ja-ye `CO2` oksizhen ra migirad. Dar rooz-haye garm va khoshk ke rozane-ha baste-and va `CO2` kam ast bishtar rokh midahad; enerzhi hadar miravad va ghandi sakhte nemishavad."
+   },
+   "analogy": {
+    "fa": "چاپگری که مدام کاغذ اشتباه برمی‌دارد.",
+    "en": "A printer that keeps picking up the wrong paper.",
+    "tr": "Chapgari ke modam kaghaz-e eshtebah barmidarad."
+   },
+   "contrast": {
+    "fa": "گیاهان `C4` و `CAM` تنفس نوری را با جدا کردن مکان یا زمان کم می‌کنند.",
+    "en": "`C4` and `CAM` plants cut photorespiration by separating place or time.",
+    "tr": "Giyahan-e `C4` va `CAM` tanaffos-e noori ra ba joda kardan-e makan ya zaman kam mikonand."
+   },
+   "unit": "bio-6-hard-conditions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-green-sulfur",
+   "term": {
+    "fa": "باکتری‌های گوگردی",
+    "en": "green sulfur bacteria",
+    "tr": "bacteri-haye googerdi"
+   },
+   "explain": {
+    "fa": "باکتری‌های فتوسنتزکننده‌ای که به‌جای آب، هیدروژن سولفید را دهندهٔ الکترون می‌کنند؛ برای همین به‌جای اکسیژن، گوگرد آزاد می‌کنند.",
+    "en": "Photosynthetic bacteria that use hydrogen sulfide instead of water as their electron donor; that is why they release sulfur instead of oxygen.",
+    "tr": "Bakteri-haye fotosantez-konande-i ke be-ja-ye ab, hidrozhen soolfid ra dahande-ye elektron mikonand; baraye hamin be-ja-ye oksizhen, googerd azad mikonand."
+   },
+   "analogy": {
+    "fa": "مثل کارخانه‌ای که سوخت دیگری می‌سوزاند و دود دیگری بیرون می‌دهد.",
+    "en": "Like a factory burning a different fuel and giving off a different exhaust.",
+    "tr": "Mesl-e karkhane-i ke sookht-e digari misoozanad va dood-e digari biroon midahad."
+   },
+   "contrast": {
+    "fa": "همهٔ فتوسنتزکننده‌ها اکسیژن تولید نمی‌کنند.",
+    "en": "Not every photosynthesiser produces oxygen.",
+    "tr": "Hame-ye fotosantez-konande-ha oksizhen tolid nemikonand."
+   },
+   "unit": "bio-6-hard-conditions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-auxin",
+   "term": {
+    "fa": "اکسین",
+    "en": "auxin",
+    "tr": "auxin"
+   },
+   "explain": {
+    "fa": "هورمون گیاهی محرک رشد که یاخته‌ها را طویل می‌کند. در نورگرایی، اکسین به سمت سایهٔ ساقه می‌رود و آن سمت بلندتر می‌شود، پس ساقه به سمت نور خم می‌شود.",
+    "en": "A growth-promoting plant hormone that makes cells elongate. In phototropism, auxin moves to the shaded side of the stem, that side grows longer, and the stem bends towards the light.",
+    "tr": "Hormon-e giyahi-ye moharrek-e roshd ke yakhte-ha ra tavil mikonad. Dar nooregerayi, oksin be samt-e saye-ye saghe miravad va an samt boland-tar mishavad, pas saghe be samt-e noor kham mishavad."
+   },
+   "analogy": {
+    "fa": "مثل پارو زدن بیشتر در یک طرف قایق که آن را به طرف دیگر می‌چرخاند.",
+    "en": "Like rowing harder on one side of a boat, which turns it towards the other side.",
+    "tr": "Mesl-e paroo zadan-e bishtar dar yek taraf-e ghayegh ke an ra be taraf-e digar micharkhanad."
+   },
+   "contrast": {
+    "fa": "اکسین سمت «سایه» را بلند می‌کند، نه سمت روشن.",
+    "en": "Auxin lengthens the \"shaded\" side, not the lit side.",
+    "tr": "Oksin samt-e \"saye\" ra boland mikonad, na samt-e roshan."
+   },
+   "unit": "bio-6-plant-growth"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-ethylene",
+   "term": {
+    "fa": "اتیلن",
+    "en": "ethylene",
+    "tr": "ethylene"
+   },
+   "explain": {
+    "fa": "تنها هورمون گیاهی گازی، که رسیدن میوه و ریزش برگ را به‌شدت تسریع می‌کند. چون گاز است، از یک میوه به میوه‌های کناری پخش می‌شود.",
+    "en": "The only gaseous plant hormone; it strongly speeds up fruit ripening and leaf fall. Because it is a gas, it spreads from one fruit to those beside it.",
+    "tr": "Tanha hormon-e giyahi-ye gazi, ke residan-e mive va rizesh-e barg ra be-shiddat tasri' mikonad. Chon gaz ast, az yek mive be mive-haye kenari pakhsh mishavad."
+   },
+   "analogy": {
+    "fa": "یک سیب رسیده در کیسهٔ موز کال، موزها را زودتر می‌رساند.",
+    "en": "One ripe apple in a bag of unripe bananas ripens them sooner.",
+    "tr": "Yek sib-e reside dar kise-ye mooz-e kal, mooz-ha ra zoodtar miresanad."
+   },
+   "contrast": {
+    "fa": "اتیلن رسیدن را تند می‌کند؛ هورمون بستن روزنه‌ها در کم‌آبی آبسیزیک اسید است.",
+    "en": "Ethylene speeds ripening; the hormone that closes stomata in drought is abscisic acid.",
+    "tr": "Etilen residan ra tond mikonad; hormon-e bastan-e rozane-ha dar kam-abi absizik asid ast."
+   },
+   "unit": "bio-6-plant-growth"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-genetic-engineering",
+   "term": {
+    "fa": "مهندسی ژنتیک",
+    "en": "genetic engineering",
+    "tr": "genetic engineering"
+   },
+   "explain": {
+    "fa": "جدا کردن یک ژن از یک جاندار و گذاشتن آن در دنای جاندار دیگر: برش با آنزیم برش‌دهنده، اتصال به ناقل (پلازمید) با لیگاز، ورود به یاختهٔ میزبان و جدا کردن یاخته‌های نوترکیب.",
+    "en": "Taking a gene out of one organism and putting it into another's DNA: cut with a restriction enzyme, join to a vector (plasmid) with ligase, insert into a host cell and pick out the recombinant cells.",
+    "tr": "Joda kardan-e yek zhen az yek jandar va gozashtan-e an dar dena-ye jandar-e digar: boresh ba anzim-e boresh-dahande, ettesal be naghel (plazmid) ba ligaz, vorood be yakhte-ye mizban va joda kardan-e yakhte-haye no-tarkib."
+   },
+   "analogy": {
+    "fa": "بریدن یک صفحه از یک کتاب و چسباندنش در کتاب دیگر.",
+    "en": "Cutting a page out of one book and gluing it into another.",
+    "tr": "Boridan-e yek safhe az yek ketab va chasbandanash dar ketab-e digar."
+   },
+   "contrast": {
+    "fa": "مهندسی ژنتیک ژن جابه‌جا می‌کند؛ مهندسی پروتئین توالی آمینواسیدهای یک پروتئین را عوض می‌کند.",
+    "en": "Genetic engineering moves genes; protein engineering changes a protein's amino acid sequence.",
+    "tr": "Mohandesi-ye zheneteki zhen jabeja mikonad; mohandesi-ye protein tavali-ye amino-asid-haye yek protein ra avaz mikonad."
+   },
+   "unit": "bio-7-genetic-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-restriction-enzyme",
+   "term": {
+    "fa": "آنزیم برش‌دهنده",
+    "en": "restriction enzyme",
+    "tr": "anzim-e boresh-dahandeh"
+   },
+   "explain": {
+    "fa": "آنزیمی که یک توالی کوتاه و پالیندروم (جایگاه تشخیص) را می‌شناسد و دنا را همان‌جا می‌بُرد، اغلب با برشی کج که انتهای چسبنده می‌سازد.",
+    "en": "An enzyme that recognises a short palindromic sequence (the recognition site) and cuts the DNA right there, often with a staggered cut that leaves sticky ends.",
+    "tr": "Anzimi ke yek tavali-ye kootah va palindrom (jaygah-e tashkhis) ra mishenasad va dena ra haman-ja mibor-ad, aghlab ba boreshi kaj ke enteha-ye chasbande misazad."
+   },
+   "matches": {
+    "fa": [
+     "آنزیم محدودکننده"
+    ],
+    "tr": [
+     "restriction enzyme"
+    ]
+   },
+   "analogy": {
+    "fa": "قیچی مولکولی که فقط دور یک الگوی مشخص را می‌بُرد.",
+    "en": "Molecular scissors that only cut around one particular pattern.",
+    "tr": "Gheychi-ye molekooli ke faghat dor-e yek olgoo-ye moshakhkhas ra mibor-ad."
+   },
+   "contrast": {
+    "fa": "ژن و ناقل را با «یک» آنزیم ببُر تا انتهای چسبنده‌شان جور شود.",
+    "en": "Cut the gene and the vector with \"the same\" enzyme so their sticky ends match.",
+    "tr": "Zhen va naghel ra ba \"yek\" anzim bebor ta enteha-ye chasbande-shan joor shavad."
+   },
+   "unit": "bio-7-genetic-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-sticky-ends",
+   "term": {
+    "fa": "انتهای چسبنده",
+    "en": "sticky ends",
+    "tr": "sticky ends"
+   },
+   "explain": {
+    "fa": "دو سر تک‌رشته‌ای و مکمل که برش کج آنزیم برش‌دهنده می‌سازد؛ مثلاً `AATT`. سرهایی که با یک آنزیم بریده شده‌اند با هم جفت می‌شوند.",
+    "en": "The two complementary single-stranded ends left by a restriction enzyme's staggered cut; for example `AATT`. Ends cut by the same enzyme pair up with each other.",
+    "tr": "Do sar-e tak-reshte-i va mokammel ke boresh-e kaj-e anzim-e boresh-dahande misazad; masalan `AATT`. Sar-hayi ke ba yek anzim boride shode-and ba ham joft mishavand."
+   },
+   "analogy": {
+    "fa": "مثل دو تکه پازل که فقط با هم جور می‌شوند.",
+    "en": "Like two jigsaw pieces that only fit each other.",
+    "tr": "Mesl-e do tekke pazl ke faghat ba ham joor mishavand."
+   },
+   "contrast": {
+    "fa": "جفت شدن انتهای چسبنده موقتی است (پیوند هیدروژنی)؛ اتصال دائمی را لیگاز می‌سازد.",
+    "en": "Sticky ends pairing is temporary (hydrogen bonds); the permanent join is made by ligase.",
+    "tr": "Joft shodan-e enteha-ye chasbande movaghati ast (peyvand-e hidrozheni); ettesal-e da'emi ra ligaz misazad."
+   },
+   "unit": "bio-7-genetic-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-dna-ligase",
+   "term": {
+    "fa": "دی‌ان‌ای لیگاز",
+    "en": "DNA ligase",
+    "tr": "DNA ligase"
+   },
+   "explain": {
+    "fa": "آنزیمی که قطعه‌های دنا را با ساختن پیوند فسفودی‌استر برای همیشه به هم وصل می‌کند؛ در ساختن دنای نوترکیب، ژن را به ناقل می‌دوزد.",
+    "en": "The enzyme that permanently joins DNA pieces by forming phosphodiester bonds; in making recombinant DNA it stitches the gene into the vector.",
+    "tr": "Anzimi ke ghet'e-haye dena ra ba sakhtan-e peyvand-e fosfodi-ester baraye hamishe be ham vasl mikonad; dar sakhtan-e dena-ye no-tarkib, zhen ra be naghel midoozad."
+   },
+   "analogy": {
+    "fa": "چسب مولکولی.",
+    "en": "Molecular glue.",
+    "tr": "Chasb-e molekooli."
+   },
+   "contrast": {
+    "fa": "لیگاز وصل می‌کند و آنزیم برش‌دهنده می‌بُرد؛ کارشان را جابه‌جا ننویس.",
+    "en": "Ligase joins and the restriction enzyme cuts; do not swap their jobs.",
+    "tr": "Ligaz vasl mikonad va anzim-e boresh-dahande mibor-ad; karashan ra jabeja nanevis."
+   },
+   "unit": "bio-7-genetic-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pcr",
+   "term": {
+    "fa": "واکنش زنجیره‌ای پلیمراز",
+    "en": "polymerase chain reaction",
+    "tr": "vakonesh-e zanjire-i-ye polymerase"
+   },
+   "explain": {
+    "fa": "دستگاه فتوکپی دنا. هر دور سه گام دارد: گرما (حدود ۹۴ درجه) برای جدا کردن رشته‌ها، سرد کردن برای چسبیدن آغازگرها، و گرمای ملایم برای ساختن رشتهٔ تازه با دنابسپاراز مقاوم به گرما. هر دور تعداد را دو برابر می‌کند.",
+    "en": "A DNA photocopier. Each cycle has three steps: heat (about 94 °C) to separate the strands, cooling for the primers to attach, and gentle warming for a heat-resistant DNA polymerase to build new strands. Each cycle doubles the number.",
+    "tr": "Dastgah-e fotokopi-ye dena. Har dor se gam darad: garma (hodood-e 94 daraje) baraye joda kardan-e reshte-ha, sard kardan baraye chasbidan-e aghazgar-ha, va garma-ye molayem baraye sakhtan-e reshte-ye taze ba dena-basparaz-e moghavem be garma. Har dor te'dad ra do barabar mikonad."
+   },
+   "analogy": {
+    "fa": "از یک نسخه، پس از ۳۰ دور حدود یک میلیارد کپی.",
+    "en": "From one copy, about a billion copies after 30 cycles.",
+    "tr": "Az yek noskhe, pas az 30 dor hodood-e yek milyard kopi."
+   },
+   "contrast": {
+    "fa": "گام ۹۴ درجه دنا نمی‌سازد؛ فقط دو رشته را جدا می‌کند.",
+    "en": "The 94 °C step does not build DNA; it only separates the strands.",
+    "tr": "Gam-e 94 daraje dena nemisazad; faghat do reshte ra joda mikonad."
+   },
+   "unit": "bio-7-pcr-gel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-gel",
+   "term": {
+    "fa": "الکتروفورز",
+    "en": "gel electrophoresis",
+    "tr": "gel electrophoresis"
+   },
+   "explain": {
+    "fa": "جدا کردن قطعه‌های دنا بر اساس اندازه در یک ژل با جریان برق. دنا چون منفی است به قطب مثبت می‌رود؛ قطعه‌های کوچک‌تر دورتر می‌روند.",
+    "en": "Separating DNA pieces by size in a gel using an electric current. DNA is negative, so it moves to the positive pole; smaller pieces travel farther.",
+    "tr": "Joda kardan-e ghet'e-haye dena bar asas-e andaze dar yek zhel ba jaryan-e barq. Dena chon manfi ast be ghotb-e mosbat miravad; ghet'e-haye koochak-tar door-tar miravand."
+   },
+   "analogy": {
+    "fa": "مثل جنگلی انبوه: بچه‌ها (قطعهٔ کوچک) راحت‌تر از بزرگ‌ترها رد می‌شوند.",
+    "en": "Like a thick forest: children (small pieces) slip through more easily than adults.",
+    "tr": "Mesl-e jangali anbooh: bachche-ha (ghet'e-ye koochak) rahat-tar az bozorg-tar-ha rad mishavand."
+   },
+   "contrast": {
+    "fa": "قطعه‌های «کوچک» دورتر می‌روند، نه بزرگ؛ و دنا به قطب «مثبت» می‌رود.",
+    "en": "The \"small\" pieces go farther, not the big ones; and DNA goes to the \"positive\" pole.",
+    "tr": "Ghet'e-haye \"koochak\" door-tar miravand, na bozorg; va dena be ghotb-e \"mosbat\" miravad."
+   },
+   "unit": "bio-7-pcr-gel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-protein-engineering",
+   "term": {
+    "fa": "مهندسی پروتئین",
+    "en": "protein engineering",
+    "tr": "mohandesi-ye protein"
+   },
+   "explain": {
+    "fa": "تغییر توالی آمینواسیدهای یک پروتئین (از راه تغییر ژنش) تا پایداری و کارایی آن در شرایط صنعتی بهتر شود؛ مثلاً آنزیمی که در گرما یا کنار شوینده‌ها کار کند.",
+    "en": "Changing a protein's amino acid sequence (by changing its gene) to improve its stability and efficiency in industrial conditions; for example an enzyme that works in heat or alongside detergents.",
+    "tr": "Taghyir-e tavali-ye amino-asid-haye yek protein (az rah-e taghyir-e zhenash) ta paydari va kara'i-ye an dar sharayet-e san'ati behtar shavad; masalan anzimi ke dar garma ya kenar-e shooyande-ha kar konad."
+   },
+   "analogy": {
+    "fa": "محکم‌تر کردن یک ابزار خوب برای کار سخت‌تر.",
+    "en": "Toughening a good tool for harder work.",
+    "tr": "Mohkam-tar kardan-e yek abzar-e khoob baraye kar-e sakht-tar."
+   },
+   "contrast": {
+    "fa": "مهندسی پروتئین ویژگی یک پروتئین را بهتر می‌کند؛ ژنی را از جانداری به جاندار دیگر نمی‌برد.",
+    "en": "Protein engineering improves a protein's properties; it does not move a gene from one organism to another.",
+    "tr": "Mohandesi-ye protein vizhegi-ye yek protein ra behtar mikonad; zheni ra az jandari be jandar-e digar nemibarad."
+   },
+   "unit": "bio-7-protein-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-thermal-stability",
+   "term": {
+    "fa": "پایداری حرارتی",
+    "en": "thermal stability",
+    "tr": "paydari-ye hararti"
+   },
+   "explain": {
+    "fa": "توانایی آنزیم برای فعال ماندن در دمای بالا. گرما اول پیوندهای هیدروژنی را می‌شکند؛ مهندسان با افزودن پیوند دی‌سولفیدی محکم شکل آنزیم را در گرما نگه می‌دارند.",
+    "en": "An enzyme's ability to stay active at high temperature. Heat breaks hydrogen bonds first; engineers add strong disulfide bonds so the enzyme keeps its shape in the heat.",
+    "tr": "Tavanayi-ye anzim baraye fa'al mandan dar dama-ye bala. Garma avval peyvand-haye hidrozheni ra mishekanad; mohandesan ba afzoodan-e peyvand-e di-soolfidi-ye mohkam shekl-e anzim ra dar garma negah midarand."
+   },
+   "analogy": {
+    "fa": "مثل افزودن پیچ و مهره به سازه‌ای که با گرما شل می‌شود.",
+    "en": "Like adding nuts and bolts to a structure that loosens in the heat.",
+    "tr": "Mesl-e afzoodan-e pich va mohre be saze-i ke ba garma shol mishavad."
+   },
+   "contrast": {
+    "fa": "گرما اول پیوند هیدروژنی را می‌شکند، نه پیوند پپتیدی.",
+    "en": "Heat breaks hydrogen bonds first, not peptide bonds.",
+    "tr": "Garma avval peyvand-e hidrozheni ra mishekanad, na peyvand-e peptidi."
+   },
+   "unit": "bio-7-protein-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-optimum-ph",
+   "term": {
+    "fa": "pH بهینه",
+    "en": "optimum pH",
+    "tr": "pH-e behineh"
+   },
+   "explain": {
+    "fa": "`pH`ای که آنزیم در آن بهترین کار را می‌کند. مهندسان با جایگزینی آمینواسیدهای جایگاه فعال آن را جابه‌جا می‌کنند تا آنزیم در محیطی اسیدی‌تر یا خنثی‌تر کار کند.",
+    "en": "The `pH` at which an enzyme works best. Engineers shift it by swapping amino acids at the active site, so the enzyme works in a more acidic or more neutral medium.",
+    "tr": "`pH`-i ke anzim dar an behtarin kar ra mikonad. Mohandesan ba jaygozini-ye amino-asid-haye jaygah-e fa'al an ra jabeja mikonand ta anzim dar mohiti asidi-tar ya khonsa-tar kar konad."
+   },
+   "analogy": {
+    "fa": "مثل تنظیم یک گیاه برای خاکی دیگر.",
+    "en": "Like adapting a plant to a different soil.",
+    "tr": "Mesl-e tanzim-e yek giyah baraye khaki digar."
+   },
+   "contrast": {
+    "fa": "جابه‌جا کردن `pH` بهینه در عمل یک جهش دگرمعنی هدفمند در ژن آنزیم است.",
+    "en": "Shifting the optimum `pH` is, in practice, a targeted missense mutation in the enzyme's gene.",
+    "tr": "Jabeja kardan-e `pH`-e behine dar amal yek jahesh-e degar-ma'ni-ye hadafmand dar zhen-e anzim ast."
+   },
+   "unit": "bio-7-protein-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-amylase",
+   "term": {
+    "fa": "آنزیم آمیلاز",
+    "en": "amylase enzyme",
+    "tr": "anzim-e amylase"
+   },
+   "explain": {
+    "fa": "آنزیم تجزیهٔ نشاسته. نوع مهندسی‌شده‌اش پایداری حرارتی بیشتری دارد و در صنایع غذایی نشاسته را در دمای بالا می‌شکند.",
+    "en": "The enzyme that breaks down starch. Its engineered form has greater heat stability and breaks down starch at high temperatures in the food industry.",
+    "tr": "Anzim-e tajziye-ye neshaste. No'-e mohandesi-shode-ash paydari-ye harareti-ye bishtari darad va dar sanaye'-e ghazayi neshaste ra dar dama-ye bala mishekanad."
+   },
+   "analogy": {
+    "fa": "آشپزی که در آشپزخانهٔ داغ هم از پا نمی‌افتد.",
+    "en": "A cook who keeps going even in a scorching kitchen.",
+    "tr": "Ashpazi ke dar ashpazkhane-ye dagh ham az pa nemiofte."
+   },
+   "contrast": {
+    "fa": "آمیلاز نشاسته را تجزیه می‌کند؛ پروتئاز پروتئین را.",
+    "en": "Amylase breaks down starch; protease breaks down protein.",
+    "tr": "Amilaz neshaste ra tajziye mikonad; proteaz protein ra."
+   },
+   "unit": "bio-7-protein-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-protease",
+   "term": {
+    "fa": "آنزیم پروتئاز",
+    "en": "protease enzyme",
+    "tr": "anzim-e protease"
+   },
+   "explain": {
+    "fa": "آنزیم تجزیهٔ پروتئین. نوع مهندسی‌شده‌اش در برابر شوینده‌ها و سفیدکننده‌ها پایدارتر است و در پودر لباس‌شویی لکه‌های پروتئینی مثل خون را پاک می‌کند.",
+    "en": "The enzyme that breaks down protein. Its engineered form is more stable against detergents and bleach and removes protein stains such as blood in washing powder.",
+    "tr": "Anzim-e tajziye-ye protein. No'-e mohandesi-shode-ash dar barabar-e shooyande-ha va sefid-konande-ha paydar-tar ast va dar pudr-e lebas-shooyi lakke-haye proteini mesl-e khoon ra pak mikonad."
+   },
+   "analogy": {
+    "fa": "اسم سرنخ است: پروتئ + آز، یعنی آنزیم پروتئین.",
+    "en": "The name is the clue: prote + ase, the protein enzyme.",
+    "tr": "Esm sarnakh ast: prote + az, ya'ni anzim-e protein."
+   },
+   "contrast": {
+    "fa": "پروتئاز در پودر لباس‌شویی است، نه آمیلاز؛ لکهٔ خون پروتئینی است.",
+    "en": "Protease is the one in washing powder, not amylase; a blood stain is protein.",
+    "tr": "Proteaz dar pudr-e lebas-shooyi ast, na amilaz; lakke-ye khoon proteini ast."
+   },
+   "unit": "bio-7-protein-engineering"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-cloning",
+   "term": {
+    "fa": "شبیه‌سازی جانوران",
+    "en": "animal cloning",
+    "tr": "shabih-sazi-ye janevaran"
+   },
+   "explain": {
+    "fa": "ساختن جانوری با ژن‌های هسته‌ای یکسان با جانور دیگر، با انتقال هستهٔ یک یاختهٔ پیکری به تخمک بی‌هسته (همسانه‌سازی)؛ مثل گوسفند دالی.",
+    "en": "Producing an animal with the same nuclear genes as another, by transferring the nucleus of a body cell into an egg whose nucleus was removed; like Dolly the sheep.",
+    "tr": "Sakhtan-e janevari ba zhen-haye haste-i-ye yeksan ba janevar-e digar, ba enteghal-e haste-ye yek yakhte-ye peykari be tokhmak-e bi-haste (hamsane-sazi); mesl-e goosfand Dolly."
+   },
+   "matches": {
+    "fa": [
+     "همسانه‌سازی"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل گذاشتن نقشهٔ اصلی یک خانه در ساختمانی خالی.",
+    "en": "Like putting one house's master plan into an empty building.",
+    "tr": "Mesl-e gozashtan-e naghshe-ye asli-ye yek khane dar sakhtemani khali."
+   },
+   "contrast": {
+    "fa": "دالی دنای راکیزه‌ای را از دهندهٔ تخمک گرفت، پس فقط ژن‌های «هسته‌ای»‌اش یکسان‌اند.",
+    "en": "Dolly got her mitochondrial DNA from the egg donor, so only her \"nuclear\" genes are identical.",
+    "tr": "Dolly dena-ye rakize-i ra az dahande-ye tokhmak gereft, pas faghat zhen-haye \"haste-i\"-ash yeksan-and."
+   },
+   "unit": "bio-7-applications"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-instinctive",
+   "term": {
+    "fa": "رفتار غریزی",
+    "en": "instinctive behavior",
+    "tr": "raftar-e gharizi"
+   },
+   "explain": {
+    "fa": "رفتاری که جانور از بدو تولد و بدون تجربهٔ قبلی انجام می‌دهد و بیشتر تحت کنترل ژن‌هاست؛ مثل مکیدن نوزاد یا تار تنیدن عنکبوت.",
+    "en": "Behaviour an animal performs from birth without earlier experience, mainly controlled by genes; like a baby sucking or a spider spinning a web.",
+    "tr": "Raftari ke janevar az bad-e tavallod va bedoon-e tajrobe-ye ghabli anjam midahad va bishtar taht-e kontrol-e zhen-hast; mesl-e makidan-e nozad ya tar tanidan-e ankaboot."
+   },
+   "analogy": {
+    "fa": "برنامهٔ از پیش نصب‌شدهٔ یک گوشی تازه.",
+    "en": "A pre-installed app on a new phone.",
+    "tr": "Barname-ye az pish nasb-shode-ye yek gooshi-ye taze."
+   },
+   "contrast": {
+    "fa": "غریزی یعنی بدون یادگیری؛ بیشتر رفتارها ترکیبی از ژن و تجربه‌اند.",
+    "en": "Instinctive means without learning; most behaviours mix genes and experience.",
+    "tr": "Gharizi ya'ni bedoon-e yadgiri; bishtar-e raftar-ha tarkibi az zhen va tajrobe-and."
+   },
+   "unit": "bio-8-innate-learning"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-habituation",
+   "term": {
+    "fa": "خوگیری",
+    "en": "habituation",
+    "tr": "khoo-giri"
+   },
+   "explain": {
+    "fa": "کم شدن پاسخ جانور به محرکی تکراری که نه سود دارد نه زیان؛ انرژی را برای خطرهای واقعی نگه می‌دارد.",
+    "en": "An animal's reduced response to a repeated stimulus that brings neither benefit nor harm; it saves energy for real dangers.",
+    "tr": "Kam shodan-e pasokh-e janevar be moharreki tekrari ke na sood darad na ziyan; enerzhi ra baraye khatar-haye vaghe'i negah midarad."
+   },
+   "analogy": {
+    "fa": "وقتی دیگر صدای تیک‌تاک ساعت خانه را نمی‌شنوی.",
+    "en": "When you no longer hear the clock ticking at home.",
+    "tr": "Vaghti digar seda-ye tik-tak-e sa'at-e khane ra nemishenavi."
+   },
+   "contrast": {
+    "fa": "خوگیری فقط برای محرک بی‌خطر است؛ به خطر واقعی نباید خو گرفت.",
+    "en": "Habituation is only to harmless stimuli; a real danger should never be ignored.",
+    "tr": "Khoogiri faghat baraye moharrek-e bi-khatar ast; be khatar-e vaghe'i nabayad khoo gereft."
+   },
+   "unit": "bio-8-innate-learning"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-imprinting",
+   "term": {
+    "fa": "نقش‌پذیری",
+    "en": "imprinting",
+    "tr": "naghsh-paziri"
+   },
+   "explain": {
+    "fa": "یادگیری‌ای که فقط در یک دورهٔ حساس در آغاز زندگی رخ می‌دهد؛ مثلاً جوجه‌اردک اولین جسم متحرکی را که می‌بیند، معمولاً مادرش، به خاطر می‌سپارد و دنبالش می‌رود.",
+    "en": "Learning that happens only during a sensitive period early in life; for example a duckling memorises the first moving object it sees, usually its mother, and follows it.",
+    "tr": "Yadgiri-i ke faghat dar yek dore-ye hassas dar aghaz-e zendegi rokh midahad; masalan joojeh-ordak avvalin jesm-e motaharreki ra ke mibinad, ma'moolan madarash, be khater mesepar-ad va donbalash miravad."
+   },
+   "analogy": {
+    "fa": "مثل در‌ای که فقط برای چند روز باز است.",
+    "en": "Like a door that is open for only a few days.",
+    "tr": "Mesl-e dari ke faghat baraye chand rooz baz ast."
+   },
+   "contrast": {
+    "fa": "کلید نقش‌پذیری «دورهٔ حساس» است؛ پس از آن رخ نمی‌دهد.",
+    "en": "The key to imprinting is the \"sensitive period\"; after it, it does not happen.",
+    "tr": "Kelid-e naghsh-paziri \"dore-ye hassas\" ast; pas az an rokh nemidahad."
+   },
+   "unit": "bio-8-innate-learning"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-classical-conditioning",
+   "term": {
+    "fa": "شرطی شدن کلاسیک",
+    "en": "classical conditioning",
+    "tr": "sharti shodan-e classic"
+   },
+   "explain": {
+    "fa": "یاد گرفتن ربط یک محرک بی‌اثر به یک محرک مهم. پاولوف پیش از غذا زنگ می‌زد؛ پس از چند بار، سگ فقط با زنگ بزاق ترشح می‌کرد.",
+    "en": "Learning to link a neutral stimulus with an important one. Pavlov rang a bell before food; after a few times, the dog salivated at the bell alone.",
+    "tr": "Yad gereftan-e rabt-e yek moharrek-e bi-asar be yek moharrek-e mohem. Pavlov pish az ghaza zang mizad; pas az chand bar, sag faghat ba zang bozagh tarashoh mikard."
+   },
+   "analogy": {
+    "fa": "وقتی صدای باز شدن بستهٔ خوراکی، گربه را به آشپزخانه می‌کشاند.",
+    "en": "When the sound of a treat packet opening brings the cat running to the kitchen.",
+    "tr": "Vaghti seda-ye baz shodan-e baste-ye khoraki, gorbe ra be ashpazkhane mikeshanad."
+   },
+   "contrast": {
+    "fa": "کلاسیک یعنی ربط دو محرک؛ شرطی شدن فعال یعنی پیامد یک رفتار (پاداش یا تنبیه).",
+    "en": "Classical means linking two stimuli; operant conditioning is about a behaviour's consequence (reward or punishment).",
+    "tr": "Klasik ya'ni rabt-e do moharrek; sharti shodan-e fa'al ya'ni payamad-e yek raftar (padash ya tanbih)."
+   },
+   "unit": "bio-8-innate-learning"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-optimal-foraging",
+   "term": {
+    "fa": "غذایابی بهینه",
+    "en": "optimal foraging",
+    "tr": "ghaza-yabi-ye behineh"
+   },
+   "explain": {
+    "fa": "انتخاب طبیعی رفتاری را نگه می‌دارد که بیشترین انرژی را با کمترین هزینه بدهد؛ مقایسه بر اساس سود خالص یا انرژی در هر دقیقه است، نه بزرگی غذا.",
+    "en": "Natural selection favours the behaviour that gives the most energy for the least cost; the comparison is by net gain or energy per minute, not by the size of the food.",
+    "tr": "Entekhab-e tabi'i raftari ra negah midarad ke bishtarin enerzhi ra ba kamtarin hazine bedahad; moghayese bar asas-e sood-e khales ya enerzhi dar har daghighe ast, na bozorgi-ye ghaza."
+   },
+   "analogy": {
+    "fa": "مثل خریدار زرنگی که ارزش هر تومان را می‌سنجد.",
+    "en": "Like a smart shopper weighing the value of every coin.",
+    "tr": "Mesl-e kharidar-e zerangi ke arzesh-e har toman ra misanjad."
+   },
+   "contrast": {
+    "fa": "غذای بزرگ‌تر همیشه بهتر نیست؛ ممکن است هزینه یا زمان بیشتری بخواهد.",
+    "en": "A bigger meal is not always better; it may cost more time or energy.",
+    "tr": "Ghaza-ye bozorg-tar hamishe behtar nist; momken ast hazine ya zaman-e bishtari bekhahad."
+   },
+   "unit": "bio-8-foraging-territory"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-territorial",
+   "term": {
+    "fa": "قلمروخواهی",
+    "en": "territorial behavior",
+    "tr": "ghalamro-khahi"
+   },
+   "explain": {
+    "fa": "دفاع جانور از محدوده و منابع غذایی‌اش در برابر هم‌گونه‌های رقیب، با آواز، نمایش یا حمله. فقط وقتی به‌صرفه است که منابع ارزش هزینهٔ دفاع را داشته باشند.",
+    "en": "An animal defending its area and food against rivals of its own species, with song, display or attack. It only pays when the resources are worth the cost of defending them.",
+    "tr": "Defa'-e janevar az mahdoode va manabe'-e ghazayi-ash dar barabar-e ham-goone-haye raghib, ba avaz, namayesh ya hamle. Faghat vaghti be-sarfe ast ke manabe' arzesh-e hazine-ye defa' ra dashte bashand."
+   },
+   "analogy": {
+    "fa": "مثل حصار کشیدن دور باغچه‌ای که ارزش نگه‌داشتن دارد.",
+    "en": "Like fencing a garden that is worth keeping.",
+    "tr": "Mesl-e hesar keshidan dor-e baghche-i ke arzesh-e negah-dashtan darad."
+   },
+   "contrast": {
+    "fa": "قلمروخواهی دفاع در برابر هم‌گونه‌هاست، نه فرار از شکارچی.",
+    "en": "Territoriality is defence against the same species, not escape from predators.",
+    "tr": "Ghalamrow-khahi defa' dar barabar-e ham-goone-hast, na farar az shekarchi."
+   },
+   "unit": "bio-8-foraging-territory"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-courtship",
+   "term": {
+    "fa": "رفتار جفت‌یابی",
+    "en": "courtship behavior",
+    "tr": "raftar-e joft-yabi"
+   },
+   "explain": {
+    "fa": "نمایش‌های ویژه، مثل رقص، آواز یا پرهای رنگی، که معمولاً نر برای جلب جفت و نشان دادن سلامت خود انجام می‌دهد؛ معمولاً ماده انتخاب می‌کند.",
+    "en": "Special displays, such as dancing, song or bright feathers, that the male usually performs to attract a mate and show that he is healthy; usually the female chooses.",
+    "tr": "Namayesh-haye vizhe, mesl-e raghs, avaz ya par-haye rangi, ke ma'moolan nar baraye jalb-e joft va neshan dadan-e salamat-e khod anjam midahad; ma'moolan made entekhab mikonad."
+   },
+   "analogy": {
+    "fa": "یک تبلیغ صادقانه: فقط نر واقعاً سالم از عهدهٔ نمایش پرهزینه برمی‌آید.",
+    "en": "An honest advert: only a truly healthy male can afford a costly display.",
+    "tr": "Yek tablig-e sadeghane: faghat nar-e vaghe'an salem az ohde-ye namayesh-e por-hazine barmiayad."
+   },
+   "contrast": {
+    "fa": "معمولاً نر نمایش می‌دهد و ماده انتخاب می‌کند، چون سرمایه‌گذاری ماده روی هر فرزند بیشتر است.",
+    "en": "Usually the male displays and the female chooses, because the female invests more in each offspring.",
+    "tr": "Ma'moolan nar namayesh midahad va made entekhab mikonad, chon sarmaye-gozari-ye made rooye har farzand bishtar ast."
+   },
+   "unit": "bio-8-mating-altruism"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-altruism",
+   "term": {
+    "fa": "دگرخواهی",
+    "en": "altruism",
+    "tr": "degar-khahi"
+   },
+   "explain": {
+    "fa": "رفتاری که به دیگری کمک می‌کند ولی برای خود جانور هزینه دارد. بیشتر به خویشاوندان نزدیک کمک می‌کند که ژن‌های مشترک دارند، پس نسخه‌هایی از همان ژن‌ها به نسل بعد می‌رسند.",
+    "en": "Behaviour that helps another but costs the animal itself. It mostly helps close relatives who share genes, so copies of those same genes reach the next generation.",
+    "tr": "Raftari ke be digari komak mikonad vali baraye khod-e janevar hazine darad. Bishtar be khishavandan-e nazdik komak mikonad ke zhen-haye moshtarak darand, pas noskhe-hayi az haman zhen-ha be nasl-e ba'd miresand."
+   },
+   "analogy": {
+    "fa": "دو برادر یا هشت پسرعمو، روی هم به اندازهٔ خودت ژن‌هایت را دارند.",
+    "en": "Two brothers or eight cousins together carry as many copies of your genes as you do.",
+    "tr": "Do baradar ya hasht pesar-amoo, rooye ham be andaze-ye khodat zhen-hayat ra darand."
+   },
+   "contrast": {
+    "fa": "دگرخواهی به خویشاوندان کمک می‌کند، نه به همهٔ جانوران گونه به یک اندازه.",
+    "en": "Altruism helps relatives, not every member of the species equally.",
+    "tr": "Degar-khahi be khishavandan komak mikonad, na be hame-ye janevaran-e goone be yek andaze."
+   },
+   "unit": "bio-8-mating-altruism"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-negative-feedback",
+   "term": {
+    "fa": "خودتنظیمی منفی",
+    "en": "negative feedback",
+    "tr": "khod-tanzimi-ye manfi"
+   },
+   "explain": {
+    "fa": "سازوکاری که در آن مقدار زیاد یک محصول، تولید خودش را کم می‌کند. وقتی هورمون تیروئید زیاد شود، فعالیت هیپوتالاموس و هیپوفیز را کم می‌کند تا ترشح آن پایین بیاید.",
+    "en": "A mechanism where a large amount of a product reduces its own production. When thyroid hormone rises, it turns down the hypothalamus and pituitary so its own release falls.",
+    "tr": "Sazokari ke dar an meghdar-e ziyad-e yek mahsool, tolid-e khodash ra kam mikonad. Vaghti hormon-e tiroeid ziyad shavad, fa'aliyat-e hipotalamoos va hipofiz ra kam mikonad ta tarashoh-e an payin biyayad."
+   },
+   "analogy": {
+    "fa": "مثل ترموستات بخاری: وقتی اتاق گرم شد، بخاری را خاموش می‌کند.",
+    "en": "Like a heater's thermostat: once the room is warm, it switches the heater off.",
+    "tr": "Mesl-e termostat-e bokhari: vaghti otagh garm shod, bokhari ra khamoosh mikonad."
+   },
+   "contrast": {
+    "fa": "در خودتنظیمی منفی، محصول تولید را «کم» می‌کند، نه زیاد.",
+    "en": "In negative feedback the product \"reduces\" its production, it does not increase it.",
+    "tr": "Dar khod-tanzimi-ye manfi, mahsool tolid ra \"kam\" mikonad, na ziyad."
+   }
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-inhibitory-loop",
+   "term": {
+    "fa": "بازخورد مهارکننده",
+    "en": "inhibitory loop",
+    "tr": "bazkhord-e mahar-konande"
+   },
+   "explain": {
+    "fa": "مسیر برگشتی در خودتنظیمی منفی: هورمون تیروئید از راه خون به هیپوتالاموس و هیپوفیز برمی‌گردد و ترشح هورمون‌های محرکشان را مهار می‌کند.",
+    "en": "The return path in negative feedback: thyroid hormone travels back through the blood to the hypothalamus and pituitary and inhibits their stimulating hormones.",
+    "tr": "Masir-e bargashti dar khod-tanzimi-ye manfi: hormon-e tiroeid az rah-e khoon be hipotalamoos va hipofiz barmigardad va tarashoh-e hormon-haye moharrekeshan ra mahar mikonad."
+   },
+   "analogy": {
+    "fa": "سیمی که از اتاق به ترموستات برمی‌گردد و خبر می‌دهد «بس است».",
+    "en": "The wire running back from the room to the thermostat saying \"that is enough\".",
+    "tr": "Simi ke az otagh be termostat barmigardad va khabar midahad \"bas ast\"."
+   },
+   "contrast": {
+    "fa": "بازخورد مهارکننده جهت را برعکس می‌کند؛ بازخورد مثبت تغییر را تشدید می‌کند.",
+    "en": "An inhibitory loop reverses the change; positive feedback amplifies it.",
+    "tr": "Bazkhord-e mahar-konande jahat ra bar-aks mikonad; bazkhord-e mosbat taghyir ra tashdid mikonad."
+   }
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-thyroid",
+   "term": {
+    "fa": "تیروئید",
+    "en": "thyroid",
+    "tr": "thyroid"
+   },
+   "explain": {
+    "fa": "غده‌ای در گردن که هورمون‌های تیروئیدی می‌سازد و سرعت سوخت‌وساز بدن را تنظیم می‌کند. ترشحش را هورمون محرک تیروئید از هیپوفیز کنترل می‌کند.",
+    "en": "A gland in the neck that makes thyroid hormones and sets the body's rate of metabolism. Its release is controlled by thyroid-stimulating hormone from the pituitary.",
+    "tr": "Ghodde-i dar gardan ke hormon-haye tiroeidi misazad va sor'at-e sookht-o-saz-e badan ra tanzim mikonad. Tarashohash ra hormon-e moharrek-e tiroeid az hipofiz kontrol mikonad."
+   },
+   "analogy": {
+    "fa": "مثل پدال گاز سوخت‌وساز بدن.",
+    "en": "Like the accelerator pedal of the body's metabolism.",
+    "tr": "Mesl-e pedal-e gaz-e sookht-o-saz-e badan."
+   },
+   "contrast": {
+    "fa": "تیروئید زیر فرمان هیپوفیز است، و هیپوفیز زیر فرمان هیپوتالاموس.",
+    "en": "The thyroid takes orders from the pituitary, and the pituitary from the hypothalamus.",
+    "tr": "Tiroeid zir-e farman-e hipofiz ast, va hipofiz zir-e farman-e hipotalamoos."
+   }
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-hypothalamus",
+   "term": {
+    "fa": "هیپوتالاموس",
+    "en": "hypothalamus",
+    "tr": "hypothalamus"
+   },
+   "explain": {
+    "fa": "بخشی از مغز که با هورمون‌های آزادکننده به هیپوفیز فرمان می‌دهد و اولین حلقهٔ زنجیرهٔ تنظیم تیروئید است؛ هورمون تیروئید زیاد فعالیتش را کم می‌کند.",
+    "en": "A part of the brain that commands the pituitary with releasing hormones and is the first link in the thyroid control chain; high thyroid hormone turns it down.",
+    "tr": "Bakhshi az maghz ke ba hormon-haye azad-konande be hipofiz farman midahad va avvalin halghe-ye zanjire-ye tanzim-e tiroeid ast; hormon-e tiroeid-e ziyad fa'aliyatash ra kam mikonad."
+   },
+   "analogy": {
+    "fa": "مدیر کل که به سرپرست (هیپوفیز) دستور می‌دهد.",
+    "en": "The general manager who gives orders to the supervisor (pituitary).",
+    "tr": "Modir-e kol ke be sarparast (hipofiz) dastoor midahad."
+   },
+   "contrast": {
+    "fa": "هیپوتالاموس بخشی از مغز است، نه غده‌ای در گردن.",
+    "en": "The hypothalamus is part of the brain, not a gland in the neck.",
+    "tr": "Hipotalamoos bakhshi az maghz ast, na ghodde-i dar gardan."
+   }
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pituitary",
+   "term": {
+    "fa": "هیپوفیز",
+    "en": "pituitary gland",
+    "tr": "hypofiz"
+   },
+   "explain": {
+    "fa": "غدهٔ کوچکی زیر مغز که به فرمان هیپوتالاموس، هورمون محرک تیروئید را ترشح می‌کند؛ وقتی هورمون تیروئید زیاد شود، این ترشح کم می‌شود.",
+    "en": "A small gland below the brain that, on the hypothalamus's command, releases thyroid-stimulating hormone; when thyroid hormone is high, this release falls.",
+    "tr": "Ghodde-ye koochaki zir-e maghz ke be farman-e hipotalamoos, hormon-e moharrek-e tiroeid ra tarashoh mikonad; vaghti hormon-e tiroeid ziyad shavad, in tarashoh kam mishavad."
+   },
+   "analogy": {
+    "fa": "سرپرستی که دستور مدیر را به کارگاه (تیروئید) می‌رساند.",
+    "en": "The supervisor who passes the manager's orders to the workshop (thyroid).",
+    "tr": "Sarparasti ke dastoor-e modir ra be kargah (tiroeid) miresanad."
+   },
+   "contrast": {
+    "fa": "هیپوفیز هورمون تیروئیدی نمی‌سازد؛ هورمونی می‌سازد که تیروئید را تحریک کند.",
+    "en": "The pituitary does not make thyroid hormone; it makes the hormone that stimulates the thyroid.",
+    "tr": "Hipofiz hormon-e tiroeidi nemisazad; hormoni misazad ke tiroeid ra tahrik konad."
+   }
+  }
+ ]
+}
