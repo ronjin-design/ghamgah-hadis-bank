@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2031,
- "versionName": "3.12.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2031/Ghamgah-E-Hadis.apk",
- "size": 41964546,
- "sha256": "8fd0258b50ccea3f3d50bc7a99dafd2f28d18a378aa07fd510d93b71a86419f9",
+ "versionCode": 2032,
+ "versionName": "3.13.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2032/Ghamgah-E-Hadis.apk",
+ "size": 42211522,
+ "sha256": "0075e6419c100f719044d5193446ede3220cf02e3942352f10d0a78c6282faf8",
  "notes": {
-  "fa": "درس‌نامه‌ها حالا نمودار هم نشان می‌دهند: نقشهٔ پیکانی، جدول تعیین علامت، نمودار و دایرهٔ مثلثاتی، که بدون اینترنت هم واضح می‌مانند. درس‌نامهٔ تازهٔ فصل ۱ و ۲ ریاضی، با سه مثال حل‌شده در هر بخش، با بستهٔ بعدی می‌رسد.",
-  "en": "Lessons can now show diagrams: arrow maps, sign charts, graphs and the unit circle, drawn so they stay sharp offline. The upgraded Mathematics Chapter 1 and 2 lessons, with three worked examples per unit, arrive in the next pack.",
-  "tr": "Darsname-ha hala nemoodar ham neshan midahand: naghshe-ye peykani, jadval-e ta'yin-e alamat, nemoodar va dayere-ye mosallasati, ke bedoon-e internet ham vazeh mimanand. Darsname-ye taze-ye fasl-e 1 va 2 riazi, ba se mesal-e hal-shode dar har bakhsh, ba baste-ye badi miresad."
+  "fa": "زنگ بلوک‌های مطالعه: «برنامهٔ من» حالا می‌تواند سر شروع هر بلوک مثل زنگ ساعت گوشی زنگ بزند؛ تمام صفحه، با صدای زنگ حتی در حالت بی‌صدا، با دکمه‌های «خاموش» و «۱۰ دقیقه بعد»، به زبان خودت.",
+  "en": "Study-block alarms: My schedule can now ring at the start of each block like a phone alarm. Full screen, with the alarm sound even on silent, plus Stop and Snooze 10 min, in your language.",
+  "tr": "Zang-e block-haye motale'e: 'Barname-ye man' hala mitavanad sar-e shoru'-e har block mesl-e zang-e sa'at-e gushi zang bezanad; tamam-safhe, ba seda-ye zang hatta dar halat-e bi-seda, ba dokme-haye 'Khamush' va '10 daghighe ba'd', be zaban-e khodat."
  }
 }
