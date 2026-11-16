@@ -1,0 +1,611 @@
+{
+ "version": 119,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Mathematics",
+   "session": "1401-Dey",
+   "number": 986,
+   "topic_tag": "derivatives",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: مشتق (مشتق قدر مطلق)",
+    "en": "Chapter 4: The Derivative (Absolute Value)",
+    "tr": "Fasl 4: Moshtagh (Ghadr-e Motlagh)",
+    "pages": "72–74"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مشتق",
+     "question": "مشتق تابع ⁦f(x) = |x|⁩ در نقطهٔ ⁦x = −5⁩ کدام است؟",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "مشتق قدر مطلق"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Derivatives",
+     "question": "What is the derivative of f(x) = |x| at x = −5?",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "derivative of absolute value"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Moshtagh",
+     "question": "Moshtagh-e tabe'-e f(x) = |x| dar noghte-ye x = −5 kodam ast?",
+     "grading_key": "- [1] ⁦−1⁩",
+     "final_resolution": "⁦−1⁩",
+     "notes": "",
+     "keywords": [
+      "moshtagh-e ghadr-e motlagh"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦0⁩",
+      "⁦5⁩"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Mathematics",
+   "session": "1401-Khordad",
+   "number": 993,
+   "topic_tag": "limits-infinity",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: حد (جزء صحیح قدر مطلق)",
+    "en": "Chapter 3: Limits (Floor of an Absolute Value)",
+    "tr": "Fasl 3: Had (Jozv-e Sahih-e Ghadr-e Motlagh)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حد بی‌نهایت و حد در بی‌نهایت",
+     "question": "حد راست ⁦[|x|]⁩ وقتی ⁦x → −1+⁩ کدام است؟",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "حد راست جزء صحیح",
+      "حد یک‌طرفه با قدر مطلق"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Infinite Limits and Limits at Infinity",
+     "question": "What is the right-hand limit of [|x|] as x → −1+?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "right-hand limit of the floor function",
+      "one-sided limit with absolute value"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    },
+    "tr": {
+     "topic_label": "Had-e Bi-nahayat va Had dar Bi-nahayat",
+     "question": "Had-e rast-e [|x|] vaghti x → −1+ kodam ast?",
+     "grading_key": "- [1] ⁦0⁩",
+     "final_resolution": "⁦0⁩",
+     "notes": "",
+     "keywords": [
+      "had-e rast-e jozv-e sahih",
+      "had-e yek-tarafe ba ghadr-e motlagh"
+     ],
+     "distractors": [
+      "⁦1⁩",
+      "⁦−1⁩",
+      "⁦2⁩"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1396-Khordad",
+   "number": 0,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۳: ترجمه)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 3: Translation)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 3)",
+    "pages": "32–38"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "نقش جایگاه‌های ⁦A⁩، ⁦P⁩ و ⁦E⁩ را در ساختار رناتن (ریبوزوم) طی فرآیند ترجمه و طویل شدن زنجیرهٔ پلی‌پپتیدی شرح دهید.",
+     "grading_key": "- [0.35] برای جایگاه ⁦P⁩: محل قرارگیری دی‌پپتید یا زنجیرهٔ در حال طویل شدن\n- [0.35] برای جایگاه ⁦A⁩: محل ورود رنای ناقل (تی‌آر‌ان‌ای) آمینواسیددار جدید\n- [0.3] برای جایگاه ⁦E⁩: محل خروج رنای ناقل بدون آمینواسید از ریبوزوم",
+     "final_resolution": "جایگاه ⁦P⁩ رنای ناقلِ حامل زنجیرهٔ در حال رشد را نگه می‌دارد؛ جایگاه ⁦A⁩ رنای ناقلِ آمینواسیددار بعدی را می‌پذیرد؛ جایگاه ⁦E⁩ محل خروج رنای ناقلِ بدون آمینواسید است.",
+     "notes": "",
+     "keywords": [
+      "ترجمه",
+      "ریبوزوم",
+      "جایگاه P",
+      "جایگاه A",
+      "جایگاه E",
+      "طویل شدن زنجیره"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Describe the roles of the A, P and E sites of the ribosome during the elongation phase of translation.",
+     "grading_key": "- [0.35] for the P site: holding the peptidyl-tRNA bearing the growing polypeptide chain.\n- [0.35] for the A site: receiving the incoming aminoacyl-tRNA carrying the next amino acid.\n- [0.3] for the E site: the exit for the uncharged tRNA leaving the ribosome.",
+     "final_resolution": "P site holds the tRNA with the growing chain; A site receives the next aminoacyl-tRNA; E site is the exit for the uncharged tRNA.",
+     "notes": "",
+     "keywords": [
+      "translation",
+      "ribosome",
+      "P site",
+      "A site",
+      "E site",
+      "elongation phase"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Naghsh-e jaygah-haye A, P va E ra dar sakhtar-e ribosome tey-e farayand-e tarjomeh va toolani shodan-e zanjire-ye polypeptide sharh dahid.",
+     "grading_key": "- [0.35] baraye jaygah-e P\n- [0.35] baraye jaygah-e A\n- [0.3] baraye jaygah-e E",
+     "final_resolution": "Jaygah-e P tRNA-ye hamel-e zanjire-ye dar hal-e roshd ra negah midarad; jaygah-e A tRNA-ye badi ra mipazirad; jaygah-e E mahall-e khorooj-e tRNA-ye bedoon-e amino acid ast.",
+     "notes": "",
+     "keywords": [
+      "tarjomeh",
+      "ribosome",
+      "jaygah-e P",
+      "jaygah-e A",
+      "jaygah-e E",
+      "toolani shodan-e zanjire"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1398-Dey",
+   "number": 0,
+   "topic_tag": "biotechnology",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۷: فناوری‌های نوین زیستی (گفتار ۱: مهندسی ژنتیک)",
+    "en": "Chapter 7: Modern Biotechnology (Section 1: Genetic Engineering)",
+    "tr": "Fasl 7: Fanavari-haye Novin-e Zisti (Goftar 1)",
+    "pages": "96–101"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فناوری‌های نوین زیستی",
+     "question": "نقش آنزیم برش‌دهنده (محدودکننده) و آنزیم دی‌ان‌ای لیگاز را در فرآیند تولید یک دنای نوترکیب (⁦Recombinant DNA⁩) شرح دهید.",
+     "grading_key": "- [0.5] برای شناسایی و برش توالی‌های پالیندرومی مشخص توسط آنزیم محدودکننده و ایجاد انتهای چسبنده\n- [0.5] برای ایجاد پیوندهای فسفودی‌استر بین قطعات دنا توسط آنزیم لیگاز جهت اتصال نهایی",
+     "final_resolution": "آنزیم محدودکننده دنا را در توالی‌های پالیندرومی مشخص می‌بُرد و انتهای چسبنده می‌سازد؛ دی‌ان‌ای لیگاز با ساختن پیوندهای فسفودی‌استر، قطعات را برای همیشه به هم وصل می‌کند.",
+     "notes": "",
+     "keywords": [
+      "مهندسی ژنتیک",
+      "آنزیم محدودکننده",
+      "دی‌ان‌ای لیگاز",
+      "پیوند فسفودی‌استر",
+      "انتهای چسبنده"
+     ]
+    },
+    "en": {
+     "topic_label": "Modern Biotechnology",
+     "question": "Describe the roles of the restriction enzyme and DNA ligase in producing a recombinant DNA molecule.",
+     "grading_key": "- [0.5] for the restriction enzyme recognising and cutting specific palindromic sequences to create matching sticky ends.\n- [0.5] for DNA ligase forming covalent phosphodiester bonds between the DNA fragments to join them.",
+     "final_resolution": "Restriction enzymes cut DNA at specific palindromic sequences to create sticky ends; DNA ligase seals the phosphodiester bonds to join the fragments permanently.",
+     "notes": "",
+     "keywords": [
+      "genetic engineering",
+      "restriction enzyme",
+      "DNA ligase",
+      "phosphodiester bond",
+      "sticky ends"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fanavari-haye novin-e zisti",
+     "question": "Naghsh-e anzim-e boresh-dahandeh (mahdood-konandeh) va DNA ligase ra dar farayand-e tolid-e DNA-ye no-tarkib sharh dahid.",
+     "grading_key": "- [0.5] baraye anzim-e boresh-dahandeh va enteha-ye chasbandeh\n- [0.5] baraye DNA ligase va peyvand-e phosphodiester",
+     "final_resolution": "Anzim-e mahdood-konandeh DNA ra dar tavali-haye palindromi mibord va enteha-ye chasbandeh misazad; DNA ligase ba peyvand-e phosphodiester ghete-ha ra be ham vasl mikonad.",
+     "notes": "",
+     "keywords": [
+      "genetic engineering",
+      "restriction enzyme",
+      "DNA ligase",
+      "peyvand-e phosphodiester",
+      "sticky ends"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1398-Khordad",
+   "number": 0,
+   "topic_tag": "informational-molecules",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌های اطلاعاتی (ساختار دنا)",
+    "en": "Chapter 1: Informational Molecules (DNA Structure)",
+    "tr": "Fasl 1: Molkool-haye Ettelaati (Sakhtar-e DNA)",
+    "pages": "4–9"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌های اطلاعاتی",
+     "question": "بر اساس یافته‌های چارگاف در مورد ترکیب بازهای آلی مولکول دی‌ان‌ای (⁦DNA⁩)، رابطهٔ ریاضی بین بازهای پورین و پیرامیدین را بیان کنید.",
+     "grading_key": "- [0.5] برای بیان اینکه مقدار آدنین با تیمین و گوانین با سیتوزین برابر است (⁦A = T , G = C⁩)\n- [0.5] برای نتیجه‌گیری فرمول نهایی: مجموع پورین‌ها با مجموع پیرامیدین‌ها برابر است (⁦A + G = T + C⁩)",
+     "final_resolution": "⁦A + G = T + C⁩ (مجموع پورین‌ها = مجموع پیرامیدین‌ها)",
+     "notes": "",
+     "keywords": [
+      "چارگاف",
+      "بازهای پورین",
+      "بازهای پیرامیدین",
+      "آدنین",
+      "تیمین",
+      "جفت شدن بازها"
+     ]
+    },
+    "en": {
+     "topic_label": "Informational Molecules",
+     "question": "Based on Chargaff's findings regarding the organic base composition of DNA, state the mathematical relationship between purine and pyrimidine bases.",
+     "grading_key": "- [0.5] for stating that Adenine equals Thymine and Guanine equals Cytosine (A = T, G = C).\n- [0.5] for deriving the final formula: Total Purines equal Total Pyrimidines (A + G = T + C).",
+     "final_resolution": "A + G = T + C (Total Purines = Total Pyrimidines)",
+     "notes": "",
+     "keywords": [
+      "Chargaff",
+      "purine bases",
+      "pyrimidine bases",
+      "adenine",
+      "thymine",
+      "base pairing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-haye Ettelaati",
+     "question": "Bar asas-e yafteh-haye Chargaff dar mored-e tarkib-e baz-haye ali-ye DNA, rabeteh-ye riazi-ye beyn-e baz-haye purine va pyrimidine ra bayan konid.",
+     "grading_key": "- [0.5] baraye A = T va G = C\n- [0.5] baraye formool-e nahayi (A + G = T + C)",
+     "final_resolution": "A + G = T + C (majmoo-e purine-ha = majmoo-e pyrimidine-ha)",
+     "notes": "",
+     "keywords": [
+      "Chargaff",
+      "purine",
+      "pyrimidine",
+      "adenine",
+      "thymine",
+      "joft shodan-e baz-ha"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۱: جهش)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 1: Mutation)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 1)",
+    "pages": "52–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "جهش نقطه‌ای از نوع جانشینی صامت (خاموش) را تعریف کنید و توضیح دهید چرا این نوع جهش اثری بر فنوتیپ جاندار ندارد؟",
+     "grading_key": "- [0.5] برای تعریف جهش صامت: تغییر در یکی از نوکلئوتیدها که رمزهٔ حاصل همچنان آمینواسید قبلی را رمز کند\n- [0.5] برای تبیین عدم تغییر در ساختار نهایی پروتئین تولیدشده و در نتیجه عدم تغییر در فنوتیپ جاندار",
+     "final_resolution": "در جهش صامت یک نوکلئوتید عوض می‌شود، اما چون یک آمینواسید می‌تواند چند رمزه داشته باشد، رمزهٔ تازه همان آمینواسید را رمز می‌کند؛ پس پروتئین و فنوتیپ تغییری نمی‌کنند.",
+     "notes": "",
+     "keywords": [
+      "جهش نقطه‌ای",
+      "جهش صامت",
+      "جانشینی بازها",
+      "چند رمزه برای یک آمینواسید",
+      "فنوتیپ جاندار"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Define a silent point mutation of the substitution type and explain why this specific mutation has no effect on the organism's phenotype.",
+     "grading_key": "- [0.5] for defining a silent mutation: a change in a nucleotide where the resulting codon still codes for the same amino acid.\n- [0.5] for explaining that the final protein structure remains unchanged, thus causing no shift in the phenotype.",
+     "final_resolution": "A silent mutation changes a nucleotide but results in the same amino acid due to genetic code redundancy, keeping the protein and phenotype unchanged.",
+     "notes": "",
+     "keywords": [
+      "point mutation",
+      "silent mutation",
+      "base substitution",
+      "codon redundancy",
+      "phenotype"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar ettelaat-e verasati",
+     "question": "Jahesh-e noghteyi az no-e janeshini-ye samet (khamoosh) ra tarif konid va tozih dahid chera in jahesh bar phenotype-e jandar asari nadarad.",
+     "grading_key": "- [0.5] baraye tarif-e jahesh-e samet\n- [0.5] baraye adam-e taghyir dar protein va phenotype",
+     "final_resolution": "Dar jahesh-e samet yek nucleotide avaz mishavad, amma ramze-ye tazeh haman amino acid ra ramz mikonad; pas protein va phenotype taghyir nemikonand.",
+     "notes": "",
+     "keywords": [
+      "jahesh-e noghteyi",
+      "jahesh-e samet",
+      "janeshini-ye baz-ha",
+      "chand ramze baraye yek amino acid",
+      "phenotype"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1400-Khordad",
+   "number": 0,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۲: اکسایش پیرووات و چرخهٔ کربس)",
+    "en": "Chapter 5: Energy Supply (Section 2: Pyruvate Oxidation and Krebs Cycle)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 2)",
+    "pages": "70–75"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "سرنوشت مولکول پیرووات را پس از ورود به راکیزه (میتوکندری) در شرایط حضور اکسیژن شرح دهید و نام ترکیب حاصل از اکسایش آن را بیان کنید.",
+     "grading_key": "- [0.5] برای اشاره به اکسایش پیرووات، خروج یک مولکول دی‌اکسید کربن (⁦CO₂⁩) و تولید ⁦NADH⁩\n- [0.5] برای نام بردن از ترکیب نهایی حاصل یعنی استیل کوآنزیم آ (⁦Acetyl-CoA⁩)",
+     "final_resolution": "پیرووات اکسایش می‌یابد و با از دست دادن یک ⁦CO₂⁩ به گروه استیل تبدیل می‌شود؛ گروه استیل به کوآنزیم آ می‌پیوندد و استیل کوآنزیم آ (⁦Acetyl-CoA⁩) ساخته می‌شود.",
+     "notes": "",
+     "keywords": [
+      "راکیزه",
+      "اکسایش پیرووات",
+      "دی‌اکسید کربن",
+      "استیل کوآنزیم آ",
+      "تنفس هوازی"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Describe the fate of the pyruvate molecule after entering the mitochondrion under aerobic conditions and state the name of the compound produced from its oxidation.",
+     "grading_key": "- [0.5] for mentioning pyruvate oxidation, the release of a CO₂ molecule, and the production of NADH.\n- [0.5] for correctly naming the final resulting compound: Acetyl-Coenzyme A (Acetyl-CoA).",
+     "final_resolution": "Pyruvate undergoes oxidation, losing a CO₂ molecule to form an acetyl group, which binds to Coenzyme A to create Acetyl-CoA.",
+     "notes": "",
+     "keywords": [
+      "mitochondrion",
+      "pyruvate oxidation",
+      "carbon dioxide",
+      "Acetyl-CoA",
+      "aerobic respiration"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e enerji",
+     "question": "Sarnevesht-e molekul-e pyruvate ra pas az vorood be mitokondri dar sharayet-e hozoor-e oxygen sharh dahid va nam-e tarkib-e hasel az oksayesh-ash ra beguyid.",
+     "grading_key": "- [0.5] baraye oksayesh-e pyruvate, khorooj-e CO₂ va NADH\n- [0.5] baraye Acetyl-CoA",
+     "final_resolution": "Pyruvate oksayesh mi-yabad va ba az dast dadan-e yek CO₂ be goroh-e acetyl tabdil mishavad, ke be coenzyme A mi-peyvandad: Acetyl-CoA.",
+     "notes": "",
+     "keywords": [
+      "mitokondri",
+      "oksayesh-e pyruvate",
+      "carbon dioxide",
+      "Acetyl-CoA",
+      "tanaffos-e havazi"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "inheritance",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: انتقال اطلاعات در نسل‌ها (گفتار ۱: مفاهیم پایه وراثت)",
+    "en": "Chapter 3: Transmission of Information (Section 1: Basic Concepts of Genetics)",
+    "tr": "Fasl 3: Enteghal-e Ettelaat dar Nasl-ha (Goftar 1)",
+    "pages": "36–42"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انتقال اطلاعات در نسل‌ها",
+     "question": "با فرض بارزیت کامل، از آمیزش دو فرد ناخالص (هتروزیگوت) برای یک صفت اتوزومی مغلوب، نسبت ژنوتیپی و فنوتیپی نسل اول (⁦F1⁩) را به دست آورید.",
+     "grading_key": "- [0.5] برای رسم صحیح مربع پانت و نوشتن ژنوتیپ‌ها (⁦AA, Aa, aa⁩) با نسبت ۱:۲:۱\n- [0.5] برای تعیین درست فنوتیپ‌ها (۳ فرد بارز و ۱ فرد مغلوب) با نسبت ۳:۱",
+     "final_resolution": "نسبت ژنوتیپی = ۱:۲:۱ ؛ نسبت فنوتیپی = ۳:۱",
+     "notes": "",
+     "keywords": [
+      "مربع پانت",
+      "ژنوتیپ",
+      "فنوتیپ",
+      "هتروزیگوت",
+      "بارزیت کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Transmission of Information",
+     "question": "Assuming complete dominance, derive the genotypic and phenotypic ratios of the first generation (F1) from a cross of two heterozygous individuals for an autosomal recessive trait.",
+     "grading_key": "- [0.5] for correctly drawing the Punnett square and listing genotypes (AA, Aa, aa) in a 1:2:1 ratio.\n- [0.5] for correctly determining phenotypes (3 dominant to 1 recessive) in a 3:1 ratio.",
+     "final_resolution": "Genotypic ratio = 1:2:1; Phenotypic ratio = 3:1.",
+     "notes": "",
+     "keywords": [
+      "Punnett square",
+      "genotype",
+      "phenotype",
+      "heterozygous",
+      "complete dominance"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enteghal-e ettelaat dar nasl-ha",
+     "question": "Ba farz-e bareziat-e kamel, az amizesh-e do fard-e nakhalis (heterozygote) baraye yek sefat-e autosomal-e maghloob, nesbat-e genotypi va phenotypi-ye nasl-e avval (F1) ra be dast avarid.",
+     "grading_key": "- [0.5] baraye morabba-e Punnett va ratio-ye genotypi\n- [0.5] baraye ratio-ye phenotypi",
+     "final_resolution": "Nesbat-e genotypi = 1:2:1; nesbat-e phenotypi = 3:1.",
+     "notes": "",
+     "keywords": [
+      "morabba-e Punnett",
+      "genotype",
+      "phenotype",
+      "heterozygote",
+      "bareziat-e kamel"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "information-flow",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: جریان اطلاعات در یاخته (گفتار ۲: تنظیم بیان ژن)",
+    "en": "Chapter 2: Flow of Information in Cells (Section 2: Regulation of Gene Expression)",
+    "tr": "Fasl 2: Jaryan-e Ettelaat dar Yakhteh (Goftar 2)",
+    "pages": "30–34"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "جریان اطلاعات در یاخته",
+     "question": "مکانیسم عملکرد اپران لک (⁦Lac Operon⁩) را در باکتری اشریشیا کلی در حضور لاکتوز شرح دهید.",
+     "grading_key": "- [0.5] برای اتصال آلولاکتوز به پروتئین مهارکننده و تغییر شکل آن جهت جدا شدن از اپراتور\n- [0.5] برای آزاد شدن مسیر حرکت آر‌ان‌ای پلیمراز و شروع ترانویسی ژن‌های ساختاری",
+     "final_resolution": "آلولاکتوز به مهارکننده متصل می‌شود و شکل آن را تغییر می‌دهد تا از اپراتور جدا شود؛ آنگاه آر‌ان‌ای پلیمراز ژن‌های ساختاری را ترانویسی می‌کند.",
+     "notes": "",
+     "keywords": [
+      "اپران لک",
+      "مهارکننده",
+      "اپراتور",
+      "لاکتوز",
+      "مهارزدایی"
+     ]
+    },
+    "en": {
+     "topic_label": "Flow of Information in Cells",
+     "question": "Describe the operational mechanism of the lac operon in E. coli bacteria when lactose is present.",
+     "grading_key": "- [0.5] for allolactose binding to the repressor protein, causing it to detach from the operator.\n- [0.5] for clearing the path for RNA polymerase to initiate transcription of structural genes.",
+     "final_resolution": "Allolactose binds to the repressor, changing its shape so it detaches from the operator, allowing RNA polymerase to transcribe the structural genes.",
+     "notes": "",
+     "keywords": [
+      "lac operon",
+      "repressor",
+      "operator",
+      "lactose",
+      "derepression"
+     ]
+    },
+    "tr": {
+     "topic_label": "Jaryan-e ettelaat dar yakhte",
+     "question": "Mekanism-e amalkard-e operon-e lac ra dar bacteriye E.coli dar hozoor-e lactose sharh dahid.",
+     "grading_key": "- [0.5] baraye etesal-e allolactose be mahar-konandeh\n- [0.5] baraye taranevisi-ye jenhaye sakhtari",
+     "final_resolution": "Allolactose be mahar-konande motasel mishavad va shekl-ash ra taghir midahad ta az operator joda shavad; sepas RNA polymerase jen-haye sakhtari ra taranevisi mikonad.",
+     "notes": "",
+     "keywords": [
+      "operon-e lac",
+      "mahar-konandeh",
+      "operator",
+      "lactose",
+      "mahar-zodayi"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Biology",
+   "session": "1401-Khordad",
+   "number": 901,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز و واکنش‌های وابسته به نور)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis and Light-Dependent Reactions)",
+    "tr": "Fasl 6: Az Enerji be Maddeh (Goftar 1)",
+    "pages": "80–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "نقش عملکردی فتوسیستم ۲ و فرآیند تجزیهٔ نوری آب (فتولیز) را در زنجیرهٔ انتقال الکترون غشای تیلاکوئید شرح دهید.",
+     "grading_key": "- [0.5] برای اشاره به جذب نور توسط فتوسیستم ۲ و برانگیخته شدن الکترون‌ها جهت ورود به زنجیره\n- [0.5] برای توضیح تجزیهٔ نوری آب به اکسیژن، پروتون (⁦H⁺⁩) و الکترون جهت جبران کمبود الکترونی فتوسیستم ۲",
+     "final_resolution": "فتوسیستم ۲ نور را جذب می‌کند و الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند؛ تجزیهٔ نوری آب، ⁦H₂O⁩ را به اکسیژن، پروتون و الکترون می‌شکند و الکترون‌های ازدست‌رفتهٔ فتوسیستم ۲ را جبران می‌کند.",
+     "notes": "",
+     "keywords": [
+      "فتوسنتز",
+      "فتوسیستم ۲",
+      "تیلاکوئید",
+      "تجزیهٔ نوری آب",
+      "زنجیرهٔ انتقال الکترون"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "Describe the operational role of photosystem II (PSII) and the photolysis of water within the electron transport chain of the thylakoid membrane.",
+     "grading_key": "- [0.5] for mentioning photosystem II light absorption and electron excitation into the transport chain.\n- [0.5] for explaining the photolysis of water into oxygen, protons (H⁺), and electrons to replenish PSII's electron deficit.",
+     "final_resolution": "Photosystem II absorbs light to excite electrons; photolysis of water splits H₂O into oxygen, protons, and electrons to replace those lost by PSII.",
+     "notes": "",
+     "keywords": [
+      "photosynthesis",
+      "photosystem II",
+      "thylakoid",
+      "photolysis of water",
+      "electron transport chain"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az enerji be maddeh",
+     "question": "Naghsh-e amalkardi-ye photosystem 2 va farayand-e tajziye-ye noori-ye ab (photolysis) ra dar zanjire-ye enteghal-e electron-e ghesha-ye thylakoid sharh dahid.",
+     "grading_key": "- [0.5] baraye photosystem 2 va jazb-e noor\n- [0.5] baraye tajziye-ye noori-ye ab be oxygen, H⁺ va electron",
+     "final_resolution": "Photosystem 2 noor ra jazb mikonad va electron-hayash barangikhteh mishavand; tajziye-ye noori-ye ab, H₂O ra be oxygen, proton va electron mishekanad va electron-haye az dast rafteh-ye photosystem 2 ra jobran mikonad.",
+     "notes": "",
+     "keywords": [
+      "photosynthesis",
+      "photosystem 2",
+      "thylakoid",
+      "tajziye-ye noori-ye ab",
+      "zanjire-ye enteghal-e electron"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
