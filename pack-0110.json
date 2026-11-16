@@ -1,0 +1,693 @@
+{
+ "version": 110,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 7,
+   "unit": 1,
+   "key": "math-7-conditional",
+   "title": {
+    "fa": "متمم، احتمال شرطی و استقلال",
+    "en": "Complements, conditional probability and independence",
+    "tr": "Motammam, ehtemal-e sharti va esteghlal"
+   },
+   "summary": {
+    "fa": "وقتی چیزی را می‌دانی، دنیای ممکن‌ها کوچک می‌شود.",
+    "en": "When you know something, the world of possibilities shrinks.",
+    "tr": "Vaghti chizi ra midani, donya-ye momken-ha koochak mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پیش‌بینی هوا",
+      "en": "Understand first: the weather forecast",
+      "tr": "Avval befahm: pish-bini-ye hava"
+     },
+     "body": {
+      "fa": "هواشناسی می‌گوید احتمال باران ۳۰ درصد است. پس احتمال اینکه باران «نبارد» چقدر است؟ ۷۰ درصد، چون یا می‌بارد یا نمی‌بارد و جمع این دو باید کل، یعنی ۱، باشد. این «متمم» است (آزمون خرداد ۱۴۰۲). حالا فرض کن آسمان را نگاه می‌کنی و ابری است. احتمال باران بالا می‌رود، چون دیگر روزهای آفتابی را حساب نمی‌کنی. این «احتمال شرطی» است: وقتی می‌دانی B رخ داده، دنیا به B کوچک می‌شود.",
+      "en": "The forecast says there is a 30% chance of rain. So what is the chance it does \"not\" rain? 70%, because it either rains or it does not, and the two must add up to the whole, which is 1. That is the \"complement\" (Khordad 1402 paper). Now say you look at the sky and it is cloudy. The chance of rain goes up, because you no longer count the sunny days. That is \"conditional probability\": once you know B has happened, the world shrinks to B.",
+      "tr": "Hava-shenasi migooyad ehtemal-e baran 30 darsad ast. Pas ehtemal-e inke baran \"nabarad\" cheghadr ast? 70 darsad, chon ya mibarad ya nemibarad va jam'-e in do bayad kol, ya'ni 1, bashad. In \"motammam\" ast (azmoon-e Khordad 1402). Hala farz kon aseman ra negah mikoni va abri ast. Ehtemal-e baran bala miravad, chon digar rooz-haye aftabi ra hesab nemikoni. In \"ehtemal-e sharti\" ast: vaghti midani B rokh dade, donya be B koochak mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(A′) = 1 − P(A)",
+     "caption": {
+      "fa": "متمم (آزمون خرداد ۱۴۰۲)",
+      "en": "The complement (Khordad 1402 paper)",
+      "tr": "Motammam (azmoon-e Khordad 1402)"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  S = all outcomes\n  +-----------------------------+\n  |    +---------+              |\n  |    |  A    +-+-------+      |\n  |    |       |AB|  B   |      |\n  |    +-------+--+      |      |\n  |            +---------+      |\n  +-----------------------------+\n\n  given B: the world shrinks to B\n  P(A|B) = P(AB) / P(B)",
+     "caption": {
+      "fa": "`AB` یعنی بخش مشترک A و B. وقتی می‌دانی B رخ داده، فقط داخل B را نگاه کن.",
+      "en": "`AB` means the overlap of A and B. Once you know B happened, look only inside B.",
+      "tr": "`AB` ya'ni bakhsh-e moshtarak-e A va B. Vaghti midani B rokh dade, faghat dakhel-e B ra negah kon."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(A | B) = P(A ∩ B) / P(B)",
+     "caption": {
+      "fa": "احتمال شرطی (آزمون خرداد ۱۴۰۱)",
+      "en": "Conditional probability (Khordad 1401 paper)",
+      "tr": "Ehtemal-e sharti (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیشامدهای مستقل",
+      "en": "Independent events",
+      "tr": "Pishamad-haye mostaghel"
+     },
+     "body": {
+      "fa": "یک سکه و یک تاس را با هم بینداز. نتیجهٔ سکه هیچ اثری روی تاس ندارد. اگر رخ دادن A هیچ اثری روی احتمال B نداشته باشد، A و B «مستقل»اند (آزمون خرداد ۱۴۰۲). برای پیشامدهای مستقل، احتمال رخ دادن هر دو، حاصل‌ضرب احتمال‌هاست (آزمون خرداد ۱۴۰۲).",
+      "en": "Toss a coin and roll a die together. The coin has no effect at all on the die. If A happening has no effect on the probability of B, A and B are \"independent\" (Khordad 1402 paper). For independent events, the probability that both happen is the product of their probabilities (Khordad 1402 paper).",
+      "tr": "Yek sekke va yek tas ra ba ham beyandaz. Natije-ye sekke hich asari rooye tas nadarad. Agar rokh dadan-e A hich asari rooye ehtemal-e B nadashte bashad, A va B \"mostaghel\"-and (azmoon-e Khordad 1402). Baraye pishamad-haye mostaghel, ehtemal-e rokh dadan-e har do, hasel-zarb-e ehtemal-hast (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(A ∩ B) = P(A) · P(B)",
+     "caption": {
+      "fa": "فقط برای پیشامدهای مستقل",
+      "en": "Only for independent events",
+      "tr": "Faghat baraye pishamad-haye mostaghel"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون احتمال کل",
+      "en": "The law of total probability",
+      "tr": "Ghanoon-e ehtemal-e kol"
+     },
+     "body": {
+      "fa": "گاهی جواب از چند راه می‌آید. فرض کن یک توپ از یکی از دو کیسه برمی‌داری: کیسهٔ ۱ با احتمال ۰٫۶ و کیسهٔ ۲ با احتمال ۰٫۴. احتمال قرمز بودن توپ؟ هر راه را جدا حساب کن و جمع بزن. چون دو کیسه با هم ناسازگارند و همهٔ حالت‌ها را می‌پوشانند، این «قانون احتمال کل» است (آزمون خرداد ۱۳۹۹).",
+      "en": "Sometimes the answer comes by several routes. Say you take a ball from one of two bags: bag 1 with probability 0.6 and bag 2 with probability 0.4. The chance the ball is red? Work out each route on its own and add them up. Because the two bags exclude each other and cover every case, this is the \"law of total probability\" (Khordad 1399 paper).",
+      "tr": "Gahi javab az chand rah miayad. Farz kon yek toop az yeki az do kise bar midari: kise-ye 1 ba ehtemal-e 0.6 va kise-ye 2 ba ehtemal-e 0.4. Ehtemal-e ghermez boodan-e toop? Har rah ra joda hesab kon va jam' bezan. Chon do kise ba ham nasazgar-and va hame-ye halat-ha ra mipooshanand, in \"ghanoon-e ehtemal-e kol\" ast (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            0.6           0.1\n       .--- bag 1 ------- red\n  start\n       `--- bag 2 ------- red\n            0.4           0.5\n\n  P(red) = 0.6 * 0.1 + 0.4 * 0.5\n         = 0.06 + 0.20 = 0.26",
+     "caption": {
+      "fa": "درخت: روی هر شاخه ضرب کن، بعد شاخه‌ها را جمع بزن.",
+      "en": "A tree: multiply along each branch, then add the branches.",
+      "tr": "Derakht: rooye har shakhe zarb kon, ba'd shakhe-ha ra jam' bezan."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(A) = P(B1) · P(A|B1) + P(B2) · P(A|B2)",
+     "caption": {
+      "fa": "وقتی `B1` و `B2` ناسازگارند و با هم همهٔ فضا را می‌سازند",
+      "en": "When `B1` and `B2` exclude each other and together make up the whole space",
+      "tr": "Vaghti `B1` va `B2` nasazgar-and va ba ham hame-ye faza ra misazand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: احتمال نیامدن ۶ در پرتاب یک تاس",
+      "en": "Warm-up: the chance of not rolling a 6 with one die",
+      "tr": "Garm kardan: ehtemal-e nayamadan-e 6 dar partab-e yek tas"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "احتمال آمدن ۶ را بنویس: یک حالت از شش حالت برابر.",
+        "en": "Write the chance of a 6: one case out of six equally likely ones.",
+        "tr": "Ehtemal-e amadan-e 6 ra benevis: yek halat az shesh halat-e barabar."
+       },
+       "math": "P(6) = 1/6"
+      },
+      {
+       "text": {
+        "fa": "«نیامدن ۶» متمم آن است: از ۱ کم کن. شمردن پنج حالت دیگر هم همین را می‌دهد.",
+        "en": "\"Not a 6\" is its complement: take it away from 1. Counting the other five cases gives the same.",
+        "tr": "\"Nayamadan-e 6\" motammam-e an ast: az 1 kam kon. Shomordan-e panj halat-e digar ham hamin ra midahad."
+       },
+       "math": "1 − 1/6 = 5/6"
+      }
+     ],
+     "answer": {
+      "fa": "`5/6`",
+      "en": "`5/6`",
+      "tr": "`5/6`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: یک تاس می‌اندازیم. اگر بدانیم عدد بزرگ‌تر از ۳ آمده، احتمال زوج بودنش چقدر است؟ (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: roll a die. If we know the number is greater than 3, what is the chance it is even? (as in the Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: yek tas miandazim. Agar bedanim adad bozorg-tar az 3 amade, ehtemal-e zoj boodanash cheghadr ast? (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیشامدها را بنویس. A زوج بودن است و B بزرگ‌تر از ۳ بودن.",
+        "en": "Write the events. A is \"even\" and B is \"greater than 3\".",
+        "tr": "Pishamad-ha ra benevis. A zoj boodan ast va B bozorg-tar az 3 boodan."
+       },
+       "math": "A = {2, 4, 6} ,   B = {4, 5, 6}"
+      },
+      {
+       "text": {
+        "fa": "می‌دانیم B رخ داده، پس دنیا به `{4, 5, 6}` کوچک شده. کدام‌ها زوج‌اند؟",
+        "en": "We know B happened, so the world has shrunk to `{4, 5, 6}`. Which of these are even?",
+        "tr": "Midanim B rokh dade, pas donya be `{4, 5, 6}` koochak shode. Kodam-ha zoj-and?"
+       },
+       "math": "A ∩ B = {4, 6}"
+      },
+      {
+       "text": {
+        "fa": "در فرمول بگذار: مشترک تقسیم بر B.",
+        "en": "Put it in the formula: the overlap divided by B.",
+        "tr": "Dar formool bogzar: moshtarak taghsim bar B."
+       },
+       "math": "P(A|B) = (2/6) / (3/6) = 2/3"
+      }
+     ],
+     "answer": {
+      "fa": "`2/3`",
+      "en": "`2/3`",
+      "tr": "`2/3`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا همان دو پیشامد «زوج» و «بزرگ‌تر از ۳» مستقل‌اند؟ (مثل آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: are the same two events, \"even\" and \"greater than 3\", independent? (as in the Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: aya haman do pishamad-e \"zoj\" va \"bozorg-tar az 3\" mostaghel-and? (mesl-e azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اگر مستقل بودند، احتمال هر دو باید حاصل‌ضرب احتمال‌ها باشد. اول هر کدام را جدا حساب کن.",
+        "en": "If they were independent, the chance of both would have to be the product of their chances. First work out each one.",
+        "tr": "Agar mostaghel boodand, ehtemal-e har do bayad hasel-zarb-e ehtemal-ha bashad. Avval har kodam ra joda hesab kon."
+       },
+       "math": "P(A) = 1/2 ,   P(B) = 1/2"
+      },
+      {
+       "text": {
+        "fa": "حاصل‌ضرب را با احتمال واقعی مشترک مقایسه کن.",
+        "en": "Compare the product with the real chance of the overlap.",
+        "tr": "Hasel-zarb ra ba ehtemal-e vaghei-ye moshtarak moghayese kon."
+       },
+       "math": "P(A) · P(B) = 1/4 ,   P(A ∩ B) = 2/6 = 1/3"
+      },
+      {
+       "text": {
+        "fa": "برابر نیستند. در واقع دانستن B احتمال زوج بودن را از `1/2` به `2/3` بالا برد؛ پس B روی A اثر دارد.",
+        "en": "They are not equal. In fact knowing B raised the chance of \"even\" from `1/2` to `2/3`; so B does affect A.",
+        "tr": "Barabar nistand. Dar vaghe' danestan-e B ehtemal-e zoj boodan ra az `1/2` be `2/3` bala bord; pas B rooye A asar darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مستقل نیستند",
+      "en": "They are not independent",
+      "tr": "Mostaghel nistand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`P(A|B)` با `P(B|A)` فرق دارد. احتمال ابری بودن هوا وقتی باران می‌بارد، با احتمال باران وقتی هوا ابری است یکی نیست. همیشه ببین کدام پیشامد «داده شده» است: همان در مخرج می‌آید.",
+      "en": "`P(A|B)` is not `P(B|A)`. The chance it is cloudy when it rains is not the chance it rains when it is cloudy. Always see which event is \"given\": that one goes in the denominator.",
+      "tr": "`P(A|B)` ba `P(B|A)` fargh darad. Ehtemal-e abri boodan-e hava vaghti baran mibarad, ba ehtemal-e baran vaghti hava abri ast yeki nist. Hamishe bebin kodam pishamad \"dade shode\" ast: haman dar makhraj miayad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مستقل با ناسازگار فرق دارد. دو پیشامد ناسازگار (که با هم رخ نمی‌دهند و هر کدام احتمال مثبت دارند) هرگز مستقل نیستند: اگر یکی رخ دهد، دیگری قطعاً رخ نداده.",
+      "en": "Independent is not the same as mutually exclusive. Two mutually exclusive events (which cannot happen together, each with a positive chance) are never independent: if one happens, the other certainly has not.",
+      "tr": "Mostaghel ba nasazgar fargh darad. Do pishamad-e nasazgar (ke ba ham rokh nemidahand va har kodam ehtemal-e mosbat darand) hargez mostaghel nistand: agar yeki rokh dahad, digari ghat'an rokh nadade."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 968
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 969
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 962
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 7,
+   "unit": 2,
+   "key": "math-7-random-variables",
+   "title": {
+    "fa": "متغیر تصادفی، امید ریاضی و واریانس",
+    "en": "Random variables, expected value and variance",
+    "tr": "Moteghayyer-e tasadofi, omid-e riazi va variyans"
+   },
+   "summary": {
+    "fa": "هر نتیجه یک عدد می‌گیرد؛ بعد میانگین بلندمدت و پراکندگی را می‌سنجیم.",
+    "en": "Each outcome gets a number; then we measure the long-run average and the spread.",
+    "tr": "Har natije yek adad migirad; ba'd miyangin-e boland-modat va parakandegi ra misanjim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تابلوی امتیاز",
+      "en": "Understand first: the scoreboard",
+      "tr": "Avval befahm: tablo-ye emtiaz"
+     },
+     "body": {
+      "fa": "دو سکه بینداز و تعداد شیرها را بشمار. نتیجه‌ها (شیر-شیر، شیر-خط، ...) کلمه‌اند، ولی تعداد شیر یک عدد است: ۰، ۱ یا ۲. تابعی که به هر نتیجهٔ آزمایش دقیقاً یک عدد حقیقی می‌دهد «متغیر تصادفی» است (آزمون خرداد ۱۴۰۲)؛ مثل تابلوی امتیاز که هر اتفاق بازی را به عدد تبدیل می‌کند. جدول احتمال‌ها همهٔ مقدارها را با احتمالشان نشان می‌دهد، و جمع همهٔ احتمال‌ها باید ۱ باشد (آزمون خرداد ۱۴۰۱).",
+      "en": "Toss two coins and count the heads. The outcomes (head-head, head-tail, ...) are words, but the number of heads is a number: 0, 1 or 2. A function that gives each outcome of an experiment exactly one real number is a \"random variable\" (Khordad 1402 paper); like a scoreboard that turns everything in a game into a number. The probability table lists every value with its probability, and all the probabilities must add up to 1 (Khordad 1401 paper).",
+      "tr": "Do sekke beyandaz va te'dad-e shir-ha ra beshomar. Natije-ha (shir-shir, shir-khat, ...) kalame-and, vali te'dad-e shir yek adad ast: 0, 1 ya 2. Tabe'i ke be har natije-ye azmayesh daghighan yek adad-e haghighi midahad \"moteghayyer-e tasadofi\" ast (azmoon-e Khordad 1402); mesl-e tablo-ye emtiaz ke har ettefagh-e bazi ra be adad tabdil mikonad. Jadval-e ehtemal-ha hame-ye meghdar-ha ra ba ehtemalashan neshan midahad, va jam'-e hame-ye ehtemal-ha bayad 1 bashad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  X = number of heads, 2 coins\n\n   x        :   0      1      2\n   P(X = x) :  1/4    1/2    1/4\n\n   1/4 + 1/2 + 1/4 = 1",
+     "caption": {
+      "fa": "جدول توزیع احتمال: هر احتمال بین ۰ و ۱، و جمع همه دقیقاً ۱.",
+      "en": "A probability distribution table: each probability between 0 and 1, and all of them adding up to exactly 1.",
+      "tr": "Jadval-e towzi'-e ehtemal: har ehtemal beyn-e 0 va 1, va jam'-e hame daghighan 1."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Σ P(X = x) = 1",
+     "caption": {
+      "fa": "آزمون خرداد ۱۴۰۱",
+      "en": "Khordad 1401 paper",
+      "tr": "Azmoon-e Khordad 1401"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "امید ریاضی و پراکندگی",
+      "en": "Expected value and spread",
+      "tr": "Omid-e riazi va parakandegi"
+     },
+     "body": {
+      "fa": "اگر این بازی را هزار بار تکرار کنی، به‌طور میانگین چند شیر می‌آید؟ هر مقدار را در احتمالش ضرب کن و جمع بزن: این «امید ریاضی» است، یعنی میانگین بلندمدت (آزمون خرداد ۱۴۰۲). ولی میانگین همه چیز را نمی‌گوید. دو کماندار را تصور کن که میانگین تیرهایشان درست وسط هدف است، ولی تیرهای یکی دور وسط جمع‌اند و دیگری پخش. «واریانس» همین پخش بودن را اندازه می‌گیرد (آزمون دی ۱۴۰۲)، و «انحراف معیار» جذر مثبت واریانس است (آزمون دی ۱۴۰۲).",
+      "en": "If you repeat this game a thousand times, how many heads come up on average? Multiply each value by its probability and add: that is the \"expected value\", the long-run average (Khordad 1402 paper). But the average does not tell the whole story. Picture two archers whose arrows average exactly the centre of the target, but one archer's arrows cluster round the centre while the other's are scattered. \"Variance\" measures exactly that spread (Dey 1402 paper), and the \"standard deviation\" is the positive square root of the variance (Dey 1402 paper).",
+      "tr": "Agar in bazi ra hezar bar tekrar koni, be-tor-e miyangin chand shir miayad? Har meghdar ra dar ehtemalash zarb kon va jam' bezan: in \"omid-e riazi\" ast, ya'ni miyangin-e boland-modat (azmoon-e Khordad 1402). Vali miyangin hame chiz ra nemiguyad. Do kamandar ra tasavvor kon ke miyangin-e tir-hayeshan dorost vasat-e hadaf ast, vali tir-haye yeki dor-e vasat jam'-and va digari pakhsh. \"Variyans\" hamin pakhsh boodan ra andaze migirad (azmoon-e Dey 1402), va \"enheraf-e me'yar\" jazr-e mosbat-e variyans ast (azmoon-e Dey 1402)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  archer A:        . .:|:. .\n  archer B:   .    .   |   .    .\n                     centre\n\n  same average, but B spreads\n  more: bigger variance",
+     "caption": {
+      "fa": "هر دو کماندار میانگین یکسان دارند؛ واریانس B بیشتر است.",
+      "en": "Both archers have the same average; B has the bigger variance.",
+      "tr": "Har do kamandar miyangin-e yeksan darand; variyans-e B bishtar ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "E(X) = Σ x · P(X = x)"
+    },
+    {
+     "type": "formula",
+     "math": "Var(X) = Σ (x − μ)² · P(X = x)   ,   σ = √Var(X)",
+     "caption": {
+      "fa": "μ همان امید ریاضی است",
+      "en": "μ is the expected value",
+      "tr": "μ haman omid-e riazi ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آیا جدول تعداد شیر در دو سکه یک توزیع احتمال درست است؟",
+      "en": "Warm-up: is the table for the number of heads in two coins a valid probability distribution?",
+      "tr": "Garm kardan: aya jadval-e te'dad-e shir dar do sekke yek towzi'-e ehtemal-e dorost ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو شرط را بسنج: هر احتمال بین ۰ و ۱ باشد. هست.",
+        "en": "Check two conditions: every probability is between 0 and 1. They are.",
+        "tr": "Do shart ra besanj: har ehtemal beyn-e 0 va 1 bashad. Hast."
+       }
+      },
+      {
+       "text": {
+        "fa": "و جمع همه دقیقاً ۱ باشد، چون حتماً یکی از این مقدارها رخ می‌دهد.",
+        "en": "And they add up to exactly 1, because one of these values is certain to happen.",
+        "tr": "Va jam'-e hame daghighan 1 bashad, chon hatman yeki az in meghdar-ha rokh midahad."
+       },
+       "math": "1/4 + 1/2 + 1/4 = 1"
+      }
+     ],
+     "answer": {
+      "fa": "بله، درست است",
+      "en": "Yes, it is valid",
+      "tr": "Bale, dorost ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: امید ریاضی تعداد شیر در پرتاب دو سکه (مثل آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: the expected number of heads when tossing two coins (as in the Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: omid-e riazi-ye te'dad-e shir dar partab-e do sekke (mesl-e azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر مقدار را در احتمالش ضرب کن؛ مقدارهای پرتکرارتر وزن بیشتری می‌گیرند.",
+        "en": "Multiply each value by its probability; values that come up more often get more weight.",
+        "tr": "Har meghdar ra dar ehtemalash zarb kon; meghdar-haye portekrar-tar vazn-e bishtari migirand."
+       },
+       "math": "0 · 1/4 + 1 · 1/2 + 2 · 1/4"
+      },
+      {
+       "text": {
+        "fa": "جمع بزن. منطقی هم هست: هر سکه نصف وقت شیر می‌آید، پس از دو سکه به‌طور میانگین یک شیر.",
+        "en": "Add up. It makes sense too: each coin shows heads half the time, so two coins give one head on average.",
+        "tr": "Jam' bezan. Manteghi ham hast: har sekke nesf-e vaght shir miayad, pas az do sekke be-tor-e miyangin yek shir."
+       },
+       "math": "0 + 1/2 + 1/2 = 1"
+      }
+     ],
+     "answer": {
+      "fa": "`E(X) = 1`",
+      "en": "`E(X) = 1`",
+      "tr": "`E(X) = 1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: واریانس و انحراف معیار همان متغیر (مثل آزمون‌های دی ۱۴۰۲)",
+      "en": "Exam twist: the variance and standard deviation of the same variable (as in the Dey 1402 papers)",
+      "tr": "Pich-e emtehani: variyans va enheraf-e me'yar-e haman moteghayyer (mesl-e azmoon-haye Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فاصلهٔ هر مقدار از میانگین `μ = 1` را به توان ۲ برسان (تا منفی‌ها با مثبت‌ها خنثی نشوند) و در احتمالش ضرب کن.",
+        "en": "Square each value's distance from the average `μ = 1` (so negatives do not cancel positives) and multiply by its probability.",
+        "tr": "Fasele-ye har meghdar az miyangin-e `μ = 1` ra be tavan-e 2 beresan (ta manfi-ha ba mosbat-ha khonsa nashavand) va dar ehtemalash zarb kon."
+       },
+       "math": "(0 − 1)² · 1/4 + (1 − 1)² · 1/2 + (2 − 1)² · 1/4"
+      },
+      {
+       "text": {
+        "fa": "جمع بزن.",
+        "en": "Add up.",
+        "tr": "Jam' bezan."
+       },
+       "math": "Var(X) = 1/4 + 0 + 1/4 = 1/2"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: انحراف معیار خود واریانس نیست، جذر مثبت آن است.",
+        "en": "The twist: the standard deviation is not the variance itself, it is its positive square root.",
+        "tr": "Pich-e emtehan: enheraf-e me'yar khod-e variyans nist, jazr-e mosbat-e an ast."
+       },
+       "math": "σ = √(1/2) = √2 / 2"
+      }
+     ],
+     "answer": {
+      "fa": "`Var(X) = 1/2`، `σ = √2/2`",
+      "en": "`Var(X) = 1/2`, `σ = √2/2`",
+      "tr": "`Var(X) = 1/2`، `σ = √2/2`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جمع احتمال‌های جدول باید دقیقاً ۱ باشد و هیچ احتمالی منفی یا بیشتر از ۱ نباشد. اگر جمع ۱ نشد، جدول غلط است یا یک مقدار جا افتاده.",
+      "en": "The probabilities in the table must add up to exactly 1, and none may be negative or more than 1. If they do not add up to 1, the table is wrong or a value is missing.",
+      "tr": "Jam'-e ehtemal-haye jadval bayad daghighan 1 bashad va hich ehtemali manfi ya bishtar az 1 nabashad. Agar jam' 1 nashod, jadval ghalat ast ya yek meghdar ja oftade."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "انحراف معیار جذر واریانس است، نه خودش؛ و واریانس با مربع فاصله‌ها حساب می‌شود، نه خود فاصله‌ها.",
+      "en": "The standard deviation is the square root of the variance, not the variance itself; and the variance uses squared distances, not the distances themselves.",
+      "tr": "Enheraf-e me'yar jazr-e variyans ast, na khodash; va variyans ba morabba'-e fasele-ha hesab mishavad, na khod-e fasele-ha."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 975
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 975
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 976
+    },
+    {
+     "session": "1402-Dey",
+     "number": 976
+    },
+    {
+     "session": "1402-Dey",
+     "number": 977
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 7,
+   "unit": 3,
+   "key": "math-7-binomial",
+   "title": {
+    "fa": "آزمایش برنولی و توزیع دوجمله‌ای",
+    "en": "Bernoulli trials and the binomial distribution",
+    "tr": "Azmayesh-e Bernoulli va towzi'-e do-jomle-i"
+   },
+   "summary": {
+    "fa": "یک پرتاب آزاد: گل یا خطا. حالا چند پرتاب پشت سر هم.",
+    "en": "One free throw: score or miss. Now several throws in a row.",
+    "tr": "Yek partab-e azad: gol ya khata. Hala chand partab posht-e sar-e ham."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پرتاب آزاد",
+      "en": "Understand first: a free throw",
+      "tr": "Avval befahm: partab-e azad"
+     },
+     "body": {
+      "fa": "یک پرتاب آزاد بسکتبال فقط دو نتیجه دارد: گل یا خطا. آزمایشی که فقط دو نتیجه (موفقیت و شکست) با احتمال‌های ثابت دارد «آزمایش برنولی» است (آزمون خرداد ۱۴۰۲). اگر احتمال موفقیت p باشد، احتمال شکست `q = 1 − p` است، و واریانسش `pq` (آزمون خرداد ۱۴۰۲).",
+      "en": "A basketball free throw has only two outcomes: score or miss. An experiment with only two outcomes (success and failure) with fixed probabilities is a \"Bernoulli trial\" (Khordad 1402 paper). If the chance of success is p, the chance of failure is `q = 1 − p`, and its variance is `pq` (Khordad 1402 paper).",
+      "tr": "Yek partab-e azad-e basketbal faghat do natije darad: gol ya khata. Azmayeshi ke faghat do natije (movaffaghiyat va shekast) ba ehtemal-haye sabet darad \"azmayesh-e Bernoulli\" ast (azmoon-e Khordad 1402). Agar ehtemal-e movaffaghiyat p bashad, ehtemal-e shekast `q = 1 − p` ast, va variyansash `pq` (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "q = 1 − p   ,   E(X) = p   ,   Var(X) = pq",
+     "caption": {
+      "fa": "برنولی (آزمون خرداد ۱۴۰۲)",
+      "en": "Bernoulli (Khordad 1402 paper)",
+      "tr": "Bernoulli (azmoon-e Khordad 1402)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "از یک پرتاب به چند پرتاب",
+      "en": "From one throw to several",
+      "tr": "Az yek partab be chand partab"
+     },
+     "body": {
+      "fa": "حالا n پرتاب مستقل انجام بده، هر بار با همان p. احتمال اینکه دقیقاً k تا گل شود چقدر است؟ هر ترتیب خاص (مثلاً گل، گل، خطا) احتمال `p^k q^(n−k)` دارد. ولی گل‌ها می‌توانند در جاهای مختلف باشند، و تعداد این ترتیب‌ها `C(n, k)` است. پس این دو را در هم ضرب می‌کنیم: «توزیع دوجمله‌ای» (آزمون دی ۱۴۰۱).",
+      "en": "Now take n independent throws, each with the same p. What is the chance of exactly k scores? Each particular order (say score, score, miss) has probability `p^k q^(n−k)`. But the scores can fall in different places, and the number of such orders is `C(n, k)`. So we multiply the two: the \"binomial distribution\" (Dey 1401 paper).",
+      "tr": "Hala n partab-e mostaghel anjam bede, har bar ba haman p. Ehtemal-e inke daghighan k ta gol shavad cheghadr ast? Har tartib-e khas (masalan gol, gol, khata) ehtemal-e `p^k q^(n−k)` darad. Vali gol-ha mitavanand dar ja-haye mokhtalef bashand, va te'dad-e in tartib-ha `C(n, k)` ast. Pas in do ra dar ham zarb mikonim: \"towzi'-e do-jomle-i\" (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  3 throws, exactly 2 scores:\n\n    S S M\n    S M S      3 orders = C(3, 2)\n    M S S\n\n  each order: p * p * q = p^2 q\n  P(X = 2) = 3 p^2 q",
+     "caption": {
+      "fa": "هر ترتیب یک احتمال دارد؛ تعداد ترتیب‌ها را `C(n, k)` می‌شمارد. (S گل، M خطا)",
+      "en": "Each order has the same probability; `C(n, k)` counts the orders. (S = score, M = miss)",
+      "tr": "Har tartib yek ehtemal darad; te'dad-e tartib-ha ra `C(n, k)` mishomarad. (S gol, M khata)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "P(X = k) = C(n, k) · p^k · (1 − p)^(n − k)",
+     "caption": {
+      "fa": "توزیع دوجمله‌ای (آزمون دی ۱۴۰۱)",
+      "en": "The binomial distribution (Dey 1401 paper)",
+      "tr": "Towzi'-e do-jomle-i (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پرتاب آزاد با احتمال گل ۰٫۷: q و واریانس",
+      "en": "Warm-up: a free throw scoring with probability 0.7: q and the variance",
+      "tr": "Garm kardan: partab-e azad ba ehtemal-e gol 0.7: q va variyans"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "احتمال خطا متمم احتمال گل است.",
+        "en": "The chance of a miss is the complement of the chance of a score.",
+        "tr": "Ehtemal-e khata motammam-e ehtemal-e gol ast."
+       },
+       "math": "q = 1 − 0.7 = 0.3"
+      },
+      {
+       "text": {
+        "fa": "واریانس برنولی `pq` است.",
+        "en": "The Bernoulli variance is `pq`.",
+        "tr": "Variyans-e Bernoulli `pq` ast."
+       },
+       "math": "Var = 0.7 × 0.3 = 0.21"
+      }
+     ],
+     "answer": {
+      "fa": "`q = 0.3`، واریانس `0.21`",
+      "en": "`q = 0.3`, variance `0.21`",
+      "tr": "`q = 0.3`، variyans `0.21`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: سکه‌ای را ۴ بار می‌اندازیم. احتمال دقیقاً ۲ شیر؟ (مثل آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: a coin is tossed 4 times. The chance of exactly 2 heads? (as in the Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: sekke-i ra 4 bar miandazim. Ehtemal-e daghighan 2 shir? (mesl-e azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "شرط‌ها را بسنج: پرتاب‌ها مستقل‌اند و p هر بار `1/2` است. پس دوجمله‌ای است با `n = 4` و `k = 2`.",
+        "en": "Check the conditions: the tosses are independent and p is `1/2` each time. So it is binomial with `n = 4` and `k = 2`.",
+        "tr": "Shart-ha ra besanj: partab-ha mostaghel-and va p har bar `1/2` ast. Pas do-jomle-i ast ba `n = 4` va `k = 2`."
+       }
+      },
+      {
+       "text": {
+        "fa": "تعداد ترتیب‌ها: از ۴ جا، ۲ جا را برای شیر انتخاب کن.",
+        "en": "The number of orders: choose 2 of the 4 places for heads.",
+        "tr": "Te'dad-e tartib-ha: az 4 ja, 2 ja ra baraye shir entekhab kon."
+       },
+       "math": "C(4, 2) = 6"
+      },
+      {
+       "text": {
+        "fa": "در فرمول بگذار.",
+        "en": "Put it in the formula.",
+        "tr": "Dar formool bogzar."
+       },
+       "math": "6 · (1/2)² · (1/2)² = 6/16"
+      }
+     ],
+     "answer": {
+      "fa": "`3/8`",
+      "en": "`3/8`",
+      "tr": "`3/8`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تاسی را ۳ بار می‌اندازیم. احتمال اینکه دست‌کم یک بار ۶ بیاید؟",
+      "en": "Exam twist: a die is rolled 3 times. The chance of at least one 6?",
+      "tr": "Pich-e emtehani: tasi ra 3 bar miandazim. Ehtemal-e inke dast-e kam yek bar 6 biayad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «دست‌کم یک بار» یعنی ۱، ۲ یا ۳ بار؛ سه حالت جدا. راه کوتاه‌تر، متمم است: «هیچ ۶ نیامدن».",
+        "en": "The twist: \"at least once\" means 1, 2 or 3 times; three separate cases. The shorter route is the complement: \"no 6 at all\".",
+        "tr": "Pich-e emtehan: \"dast-e kam yek bar\" ya'ni 1، 2 ya 3 bar; se halat-e joda. Rah-e kootah-tar, motammam ast: \"hich 6 nayamadan\"."
+       }
+      },
+      {
+       "text": {
+        "fa": "احتمال نیامدن ۶ در هر پرتاب `5/6` است، و پرتاب‌ها مستقل‌اند، پس ضرب کن.",
+        "en": "The chance of no 6 on each roll is `5/6`, and the rolls are independent, so multiply.",
+        "tr": "Ehtemal-e nayamadan-e 6 dar har partab `5/6` ast, va partab-ha mostaghel-and, pas zarb kon."
+       },
+       "math": "P(X = 0) = (5/6)³ = 125/216"
+      },
+      {
+       "text": {
+        "fa": "از ۱ کم کن.",
+        "en": "Take it away from 1.",
+        "tr": "Az 1 kam kon."
+       },
+       "math": "1 − 125/216 = 91/216"
+      }
+     ],
+     "answer": {
+      "fa": "`91/216`",
+      "en": "`91/216`",
+      "tr": "`91/216`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ضریب `C(n, k)` را فراموش نکن. `p^k q^(n−k)` فقط احتمال «یک» ترتیب است؛ باید در تعداد ترتیب‌ها ضرب شود.",
+      "en": "Do not forget the factor `C(n, k)`. `p^k q^(n−k)` is the chance of only \"one\" order; it must be multiplied by the number of orders.",
+      "tr": "Zarib-e `C(n, k)` ra faramoosh nakon. `p^k q^(n−k)` faghat ehtemal-e \"yek\" tartib ast; bayad dar te'dad-e tartib-ha zarb shavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دوجمله‌ای فقط وقتی درست است که آزمایش‌ها مستقل باشند و p ثابت بماند. بیرون کشیدن مهره بدون جای‌گذاری، p را عوض می‌کند و دوجمله‌ای نیست.",
+      "en": "The binomial only applies when the trials are independent and p stays fixed. Drawing without replacement changes p, so it is not binomial.",
+      "tr": "Do-jomle-i faghat vaghti dorost ast ke azmayesh-ha mostaghel bashand va p sabet bemanad. Biroon keshidan-e mohre bedoon-e ja-gozari, p ra avaz mikonad va do-jomle-i nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 974
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 977
+    },
+    {
+     "session": "1401-Dey",
+     "number": 976
+    }
+   ]
+  }
+ ]
+}
