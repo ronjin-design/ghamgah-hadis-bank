@@ -1,0 +1,747 @@
+{
+ "version": 117,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 7,
+   "unit": 1,
+   "key": "bio-7-genetic-engineering",
+   "title": {
+    "fa": "مهندسی ژنتیک: قیچی و چسب مولکولی",
+    "en": "Genetic engineering: molecular scissors and glue",
+    "tr": "Mohandesi-ye zheneteki: gheychi va chasb-e molekooli"
+   },
+   "summary": {
+    "fa": "یک صفحه از یک کتاب را ببُر و در کتاب دیگری بچسبان.",
+    "en": "Cut a page out of one book and glue it into another.",
+    "tr": "Yek safhe az yek ketab ra bebor va dar ketab-e digari bechasban."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بریدن و چسباندن یک صفحه",
+      "en": "Understand first: cutting out and gluing a page",
+      "tr": "Avval befahm: boridan va chasbandan-e yek safhe"
+     },
+     "body": {
+      "fa": "فرض کن می‌خواهی یک دستور پخت عالی را از کتاب مادربزرگ در کتاب دوستت بگذاری. یک قیچی لازم داری که فقط دور همان صفحه را ببُرد، و یک چسب که آن را محکم در کتاب تازه بچسباند. «مهندسی ژنتیک» دقیقاً همین است: یک ژن را از یک جاندار جدا می‌کنیم و در دنای جاندار دیگری می‌گذاریم. قیچی، «آنزیم برش‌دهنده» (محدودکننده) است و چسب، آنزیم «لیگاز».",
+      "en": "Imagine you want to put a great recipe from your grandmother's book into a friend's book. You need scissors that cut around exactly that page, and glue that fixes it firmly into the new book. \"Genetic engineering\" is exactly this: we take a gene out of one organism and put it into the DNA of another. The scissors are the \"restriction enzyme\" and the glue is the enzyme \"ligase\".",
+      "tr": "Farz kon mikhahi yek dastoor-e pokht-e ali ra az ketab-e madarbozorg dar ketab-e doostat bogzari. Yek gheychi lazem dari ke faghat dor-e haman safhe ra bebor-ad, va yek chasb ke an ra mohkam dar ketab-e taze bechasbanad. \"Mohandesi-ye zheneteki\" daghighan hamin ast: yek zhen ra az yek jandar joda mikonim va dar dena-ye jandar-e digari migozarim. Gheychi, \"anzim-e boresh-dahande\" (mahdood-konande) ast va chasb, anzim-e \"ligaz\"."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قیچی دقیق و انتهای چسبنده",
+      "en": "Precise scissors and sticky ends",
+      "tr": "Gheychi-ye daghigh va enteha-ye chasbande"
+     },
+     "body": {
+      "fa": "آنزیم برش‌دهنده فقط یک توالی کوتاه و مشخص را می‌شناسد، به نام «جایگاه تشخیص»، و دنا را همان‌جا می‌بُرد (آزمون خرداد ۱۳۹۸). این توالی «پالیندروم» است: روی هر دو رشته، در جهت `5′` به `3′`، یکسان خوانده می‌شود. بسیاری از این آنزیم‌ها برش را کمی کج می‌زنند و دو سر تک‌رشته‌ای می‌سازند که مکمل هم‌اند؛ به آن‌ها «انتهای چسبنده» می‌گویند، چون می‌خواهند دوباره با هم جفت شوند. اگر ژن و ناقل را با «همان» آنزیم ببُریم، انتهای چسبندهٔ آن‌ها با هم جور می‌شود. سپس لیگاز با ساختن پیوند فسفودی‌استر آن‌ها را برای همیشه وصل می‌کند (آزمون‌های دی ۱۳۹۸ و دی ۱۴۰۲). حاصل، «دنای نوترکیب» است.",
+      "en": "A restriction enzyme recognises only one short, exact sequence, called the \"recognition site\", and cuts the DNA right there (Khordad 1398 paper). This sequence is a \"palindrome\": it reads the same on both strands in the `5′` to `3′` direction. Many of these enzymes make a slightly staggered cut, leaving two single-stranded ends that are complementary to each other; these are called \"sticky ends\", because they want to pair up again. If the gene and the vector are cut with the \"same\" enzyme, their sticky ends match. Then ligase joins them permanently by making phosphodiester bonds (Dey 1398 and Dey 1402 papers). The result is \"recombinant DNA\".",
+      "tr": "Anzim-e boresh-dahande faghat yek tavali-ye kootah va moshakhkhas ra mishenasad, be nam-e \"jaygah-e tashkhis\", va dena ra haman-ja mibor-ad (azmoon-e Khordad 1398). In tavali \"palindrom\" ast: rooye har do reshte, dar jahat-e `5′` be `3′`, yeksan khande mishavad. Besiyari az in anzim-ha boresh ra kami kaj mizanand va do sar-e tak-reshte-i misazand ke mokammel-e ham-and; be an-ha \"enteha-ye chasbande\" migooyand, chon mikhahand dobare ba ham joft shavand. Agar zhen va naghel ra ba \"haman\" anzim bebor-im, enteha-ye chasbande-ye an-ha ba ham joor mishavad. Sepas ligaz ba sakhtan-e peyvand-e fosfodi-ester an-ha ra baraye hamishe vasl mikonad (azmoon-haye Dey 1398 va Dey 1402). Hasel, \"dena-ye no-tarkib\" ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " recognition site (palindrome)\n 5'-G|A A T T C-3'\n 3'-C T T A A|G-5'\n cut between G and A on\n each strand -> sticky ends:\n\n 5'-G           AATTC-3'\n 3'-CTTAA           G-5'",
+     "caption": {
+      "fa": "یک جایگاه تشخیص پالیندروم: هر دو رشته از `5′` به `3′` می‌شوند `GAATTC`. برش کج دو انتهای چسبندهٔ `AATT` می‌سازد.",
+      "en": "A palindromic recognition site: both strands read `GAATTC` from `5′` to `3′`. The staggered cut leaves two `AATT` sticky ends.",
+      "tr": "Yek jaygah-e tashkhis-e palindrom: har do reshte az `5′` be `3′` mishavand `GAATTC`. Boresh-e kaj do enteha-ye chasbande-ye `AATT` misazad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ناقل: پلازمید",
+      "en": "The vector: a plasmid",
+      "tr": "Naghel: plazmid"
+     },
+     "body": {
+      "fa": "ژن به‌تنهایی نمی‌تواند وارد یاخته شود و تکثیر شود؛ به یک وسیلهٔ حمل نیاز دارد که به آن «ناقل» می‌گویند. رایج‌ترین ناقل «پلازمید» است: یک دنای حلقوی کوچک در باکتری که مستقل از کروموزوم همانندسازی می‌کند. مراحل کار: ۱) ژن و پلازمید را با یک آنزیم برش‌دهنده ببُر. ۲) لیگاز آن‌ها را به هم وصل کند. ۳) پلازمید نوترکیب را وارد باکتری کن. ۴) باکتری‌هایی را که پلازمید گرفته‌اند جدا کن. برای مرحلهٔ ۴، پلازمید یک ژن مقاومت به پادزیست (آنتی‌بیوتیک) دارد: روی محیطی که آن پادزیست را دارد، فقط باکتری‌های پلازمیددار زنده می‌مانند.",
+      "en": "A gene on its own cannot get into a cell and be copied; it needs a carrier, called a \"vector\". The most common vector is a \"plasmid\": a small ring of DNA in a bacterium that copies itself independently of the chromosome. The steps: 1) cut the gene and the plasmid with one restriction enzyme. 2) ligase joins them. 3) put the recombinant plasmid into a bacterium. 4) pick out the bacteria that took up the plasmid. For step 4, the plasmid carries a gene for resistance to an antibiotic: on a medium containing that antibiotic, only bacteria with the plasmid survive.",
+      "tr": "Zhen be-tanhayi nemitavanad vared-e yakhte shavad va taksir shavad; be yek vasile-ye haml niyaz darad ke be an \"naghel\" migooyand. Rayej-tarin naghel \"plazmid\" ast: yek dena-ye halghavi-ye koochak dar bakteri ke mostaghel az kromozom hamanand-sazi mikonad. Marahel-e kar: 1) zhen va plazmid ra ba yek anzim-e boresh-dahande bebor. 2) ligaz an-ha ra be ham vasl konad. 3) plazmid-e no-tarkib ra vared-e bakteri kon. 4) bakteri-hayi ra ke plazmid gerefte-and joda kon. Baraye marhale-ye 4, plazmid yek zhen-e moghavemat be padzist (anti-biyotik) darad: rooye mohiti ke an padzist ra darad, faghat bakteri-haye plazmid-dar zende mimanand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 1. cut gene + plasmid with the\n    SAME restriction enzyme\n 2. sticky ends pair up\n 3. ligase seals the backbone\n    -> recombinant plasmid\n 4. put it into bacteria\n 5. grow on antibiotic:\n    only bacteria with the\n    plasmid survive",
+     "caption": {
+      "fa": "مراحل ساختن و جدا کردن باکتری‌های نوترکیب.",
+      "en": "The steps for making and picking out recombinant bacteria.",
+      "tr": "Marahel-e sakhtan va joda kardan-e bakteri-haye no-tarkib."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آیا توالی `5′-GGATCC-3′` پالیندروم است؟",
+      "en": "Warm-up: is the sequence `5′-GGATCC-3′` a palindrome?",
+      "tr": "Garm kardan: aya tavali-ye `5′-GGATCC-3′` palindrom ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رشتهٔ مکمل را بنویس و آن را هم از `5′` به `3′` بخوان. چرا؟ چون پالیندروم یعنی هر دو رشته در جهت خودشان یکسان خوانده شوند.",
+        "en": "Write the complementary strand and read it from `5′` to `3′` too. Why? Because a palindrome means both strands read the same in their own direction.",
+        "tr": "Reshte-ye mokammel ra benevis va an ra ham az `5′` be `3′` bekhan. Chera? Chon palindrom ya'ni har do reshte dar jahat-e khodeshan yeksan khande shavand."
+       },
+       "math": "3′-CCTAGG-5′   →   5′-GGATCC-3′"
+      }
+     ],
+     "answer": {
+      "fa": "بله؛ هر دو رشته `GGATCC` خوانده می‌شوند",
+      "en": "Yes; both strands read `GGATCC`",
+      "tr": "Bale; har do reshte `GGATCC` khande mishavand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش آنزیم برش‌دهنده و لیگاز را در ساختن دنای نوترکیب شرح بده. (آزمون دی ۱۳۹۸)",
+      "en": "Textbook and exam: describe the roles of the restriction enzyme and ligase in making recombinant DNA. (Dey 1398 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e anzim-e boresh-dahande va ligaz ra dar sakhtan-e dena-ye no-tarkib sharh bede. (azmoon-e Dey 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، قیچی: آنزیم برش‌دهنده توالی پالیندروم مشخصی را می‌شناسد و همان‌جا می‌بُرد و انتهای چسبندهٔ جورشونده می‌سازد.",
+        "en": "First half mark, the scissors: the restriction enzyme recognises a specific palindromic sequence, cuts right there and leaves matching sticky ends.",
+        "tr": "Nim-nomre-ye avval, gheychi: anzim-e boresh-dahande tavali-ye palindrom-e moshakhkhasi ra mishenasad va haman-ja mibor-ad va enteha-ye chasbande-ye joor-shavande misazad."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، چسب: لیگاز بین قطعه‌ها پیوند فسفودی‌استر (اشتراکی) می‌سازد. کلمهٔ «فسفودی‌استر» را حتماً بنویس.",
+        "en": "Second half mark, the glue: ligase makes phosphodiester (covalent) bonds between the pieces. Be sure to write the word \"phosphodiester\".",
+        "tr": "Nim-nomre-ye dovvom, chasb: ligaz beyn-e ghet'e-ha peyvand-e fosfodi-ester (eshteraki) misazad. Kalame-ye \"fosfodi-ester\" ra hatman benevis."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "برش‌دهنده: بریدن در جایگاه پالیندروم و ساختن انتهای چسبنده؛ لیگاز: پیوند فسفودی‌استر",
+      "en": "Restriction enzyme: cuts at a palindromic site and makes sticky ends; ligase: phosphodiester bonds",
+      "tr": "Boresh-dahande: boridan dar jaygah-e palindrom va sakhtan-e enteha-ye chasbande; ligaz: peyvand-e fosfodi-ester"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پلازمیدی دو ژن مقاومت دارد: یکی به آمپی‌سیلین و یکی به تتراسایکلین. ژن را وسط ژن مقاومت به تتراسایکلین گذاشته‌ایم. کدام باکتری‌ها روی هر محیط زنده می‌مانند؟",
+      "en": "Exam twist: a plasmid has two resistance genes: one for ampicillin and one for tetracycline. We inserted our gene into the middle of the tetracycline gene. Which bacteria survive on each plate?",
+      "tr": "Pich-e emtehani: plazmidi do zhen-e moghavemat darad: yeki be ampi-silin va yeki be tetra-saykelin. Zhen ra vasat-e zhen-e moghavemat be tetra-saykelin gozashte-im. Kodam bakteri-ha rooye har mohit zende mimanand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: گذاشتن ژن وسط ژن تتراسایکلین، آن را خراب می‌کند؛ مثل چسباندن صفحه وسط یک جمله. پس پلازمید نوترکیب دیگر مقاومت به تتراسایکلین نمی‌دهد.",
+        "en": "Step one: putting the gene into the middle of the tetracycline gene breaks it, like gluing a page into the middle of a sentence. So the recombinant plasmid no longer gives tetracycline resistance.",
+        "tr": "Ghadam-e avval: gozashtan-e zhen vasat-e zhen-e tetra-saykelin, an ra kharab mikonad; mesl-e chasbandan-e safhe vasat-e yek jomle. Pas plazmid-e no-tarkib digar moghavemat be tetra-saykelin nemidahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: سه نوع باکتری را جدا بررسی کن: بدون پلازمید، با پلازمید خالی، با پلازمید نوترکیب.",
+        "en": "Step two: check the three kinds of bacteria separately: no plasmid, the plain plasmid, the recombinant plasmid.",
+        "tr": "Ghadam-e dovvom: se no' bakteri ra joda barresi kon: bedoon-e plazmid, ba plazmid-e khali, ba plazmid-e no-tarkib."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: باکتری نوترکیب تنها نوعی است که روی آمپی‌سیلین زنده می‌ماند ولی روی تتراسایکلین می‌میرد. همین الگو آن را لو می‌دهد.",
+        "en": "Step three: the recombinant bacterium is the only kind that survives on ampicillin but dies on tetracycline. That pattern gives it away.",
+        "tr": "Ghadam-e sevvom: bakteri-ye no-tarkib tanha no'i ast ke rooye ampi-silin zende mimanad vali rooye tetra-saykelin mimirad. Hamin olgoo an ra loo midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بدون پلازمید: هر دو می‌میرند؛ پلازمید خالی: هر دو زنده؛ نوترکیب: فقط روی آمپی‌سیلین زنده",
+      "en": "No plasmid: dies on both; plain plasmid: lives on both; recombinant: lives on ampicillin only",
+      "tr": "Bedoon-e plazmid: har do mimirand; plazmid-e khali: har do zende; no-tarkib: faghat rooye ampi-silin zende"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " bacterium has        amp    tet\n no plasmid           dies   dies\n plain plasmid        lives  lives\n recombinant plasmid  lives  dies\n (gene sits inside the tet gene)",
+     "caption": {
+      "fa": "جدول غربال با دو پادزیست: باکتری نوترکیب فقط روی آمپی‌سیلین زنده می‌ماند.",
+      "en": "The two-antibiotic screening table: the recombinant bacterium survives on ampicillin only.",
+      "tr": "Jadval-e gharbal ba do padzist: bakteri-ye no-tarkib faghat rooye ampi-silin zende mimanad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ژن و ناقل باید با «یک» آنزیم برش‌دهنده بریده شوند؛ وگرنه انتهای چسبنده‌شان با هم جور نمی‌شود.",
+      "en": "The gene and the vector must be cut with \"the same\" restriction enzyme; otherwise their sticky ends will not match.",
+      "tr": "Zhen va naghel bayad ba \"yek\" anzim-e boresh-dahande boride shavand; vagarna enteha-ye chasbande-shan ba ham joor nemishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آنزیم برش‌دهنده «می‌بُرد» و لیگاز «وصل می‌کند». جفت شدن انتهای چسبنده فقط با پیوند هیدروژنی است و موقتی؛ اتصال دائمی را لیگاز با پیوند فسفودی‌استر می‌سازد (آزمون دی ۱۴۰۲).",
+      "en": "The restriction enzyme \"cuts\" and ligase \"joins\". Sticky ends pairing up is only hydrogen bonding and is temporary; the permanent join is made by ligase with phosphodiester bonds (Dey 1402 paper).",
+      "tr": "Anzim-e boresh-dahande \"mibor-ad\" va ligaz \"vasl mikonad\". Joft shodan-e enteha-ye chasbande faghat ba peyvand-e hidrozheni ast va movaghati; ettesal-e da'emi ra ligaz ba peyvand-e fosfodi-ester misazad (azmoon-e Dey 1402)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Dey",
+     "number": 0
+    },
+    {
+     "session": "1402-Dey",
+     "number": 903
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 907
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 7,
+   "unit": 2,
+   "key": "bio-7-pcr-gel",
+   "title": {
+    "fa": "دستگاه کپی و الک دنا",
+    "en": "The DNA photocopier and sieve",
+    "tr": "Dastgah-e kopi va alak-e dena"
+   },
+   "summary": {
+    "fa": "از یک نسخه، یک میلیارد کپی بگیر؛ بعد قطعه‌ها را بر اساس اندازه مرتب کن.",
+    "en": "Make a billion copies from one, then sort the pieces by size.",
+    "tr": "Az yek noskhe, yek milyard kopi begir; ba'd ghet'e-ha ra bar asas-e andaze moratab kon."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دستگاه فتوکپی مولکولی",
+      "en": "Understand first: the molecular photocopier",
+      "tr": "Avval befahm: dastgah-e fotokopi-ye molekooli"
+     },
+     "body": {
+      "fa": "گاهی فقط مقدار بسیار کمی دنا داریم، مثلاً از یک قطرهٔ خون. «واکنش زنجیره‌ای پلیمراز» یک دستگاه فتوکپی مولکولی است: یک قطعهٔ مشخص از دنا را بارها کپی می‌کند. هر دور سه گام دارد. ۱) گرما تا حدود ۹۴ درجه: پیوندهای هیدروژنی شکسته و دو رشته از هم جدا می‌شوند (آزمون خرداد ۱۴۰۱). ۲) سرد کردن: «آغازگرها»، رشته‌های کوتاهی که ابتدا و انتهای قطعهٔ موردنظر را نشان می‌دهند، به رشته‌ها می‌چسبند. ۳) گرم کردن ملایم: یک دنابسپاراز مقاوم به گرما از آغازگرها شروع می‌کند و رشتهٔ تازه می‌سازد. در هر دور، تعداد کپی‌ها دو برابر می‌شود.",
+      "en": "Sometimes we have only a tiny amount of DNA, for example from one drop of blood. The \"polymerase chain reaction\" (PCR) is a molecular photocopier: it copies one chosen stretch of DNA over and over. Each cycle has three steps. 1) Heat to about 94 °C: the hydrogen bonds break and the two strands separate (Khordad 1401 paper). 2) Cooling: \"primers\", short strands that mark the start and end of the stretch we want, attach to the strands. 3) Gentle warming: a heat-resistant DNA polymerase starts from the primers and builds new strands. Each cycle doubles the number of copies.",
+      "tr": "Gahi faghat meghdar-e besiyar kami dena darim, masalan az yek ghatre-ye khoon. \"Vakonesh-e zanjire-i-ye polimeraz\" yek dastgah-e fotokopi-ye molekooli ast: yek ghet'e-ye moshakhkhas az dena ra bar-ha kopi mikonad. Har dor se gam darad. 1) Garma ta hodood-e 94 daraje: peyvand-haye hidrozheni shekaste va do reshte az ham joda mishavand (azmoon-e Khordad 1401). 2) Sard kardan: \"aghazgar-ha\", reshte-haye kootahi ke ebteda va entehaye ghet'e-ye mored-e nazar ra neshan midahand, be reshte-ha michasband. 3) Garm kardan-e molayem: yek dena-basparaz-e moghavem be garma az aghazgar-ha shoru' mikonad va reshte-ye taze misazad. Dar har dor, te'dad-e kopi-ha do barabar mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " one PCR cycle\n 1. ~94 C  strands separate\n 2. ~55 C  primers attach\n 3. ~72 C  polymerase copies\n repeat: copies double each time\n\n cycle    0  1  2  3   4  ...  n\n copies   1  2  4  8  16  ...  2^n",
+     "caption": {
+      "fa": "سه گام دمایی در هر دور؛ تعداد کپی‌ها هر دور دو برابر می‌شود.",
+      "en": "Three temperature steps per cycle; the number of copies doubles every cycle.",
+      "tr": "Se gam-e damayi dar har dor; te'dad-e kopi-ha har dor do barabar mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "الکتروفورز ژل: جنگلی برای مرتب کردن",
+      "en": "Gel electrophoresis: a forest that sorts",
+      "tr": "Elektroforez-e zhel: jangali baraye moratab kardan"
+     },
+     "body": {
+      "fa": "حالا چطور قطعه‌های دنا را از هم تشخیص دهیم؟ با «الکتروفورز ژل». قطعه‌ها را در چاهک‌های یک ژل می‌ریزیم و جریان برق برقرار می‌کنیم. دنا به خاطر گروه‌های فسفاتش بار منفی دارد، پس به سوی قطب مثبت (آند) می‌رود (آزمون دی ۱۴۰۰). ژل مثل یک جنگل انبوه است: قطعه‌های کوچک راحت از لای شاخه‌ها رد می‌شوند و دورتر می‌روند، قطعه‌های بزرگ گیر می‌کنند و نزدیک چاهک می‌مانند. پس ژل قطعه‌ها را بر اساس اندازه مرتب می‌کند.",
+      "en": "Now how do we tell DNA pieces apart? With \"gel electrophoresis\". We put the pieces into the wells of a gel and switch on an electric current. DNA is negatively charged because of its phosphate groups, so it moves towards the positive pole (the anode) (Dey 1400 paper). The gel is like a thick forest: small pieces slip easily between the branches and travel farther, while big pieces get stuck and stay near the well. So the gel sorts the pieces by size.",
+      "tr": "Hala chetor ghet'e-haye dena ra az ham tashkhis dahim? Ba \"elektroforez-e zhel\". Ghet'e-ha ra dar chahak-haye yek zhel mirizim va jaryan-e barq barghar mikonim. Dena be khater-e goroh-haye fosfatash bar-e manfi darad, pas be sooye ghotb-e mosbat (anod) miravad (azmoon-e Dey 1400). Zhel mesl-e yek jangal-e anbooh ast: ghet'e-haye koochak rahat az la-ye shakhe-ha rad mishavand va door-tar miravand, ghet'e-haye bozorg gir mikonand va nazdik-e chahak mimanand. Pas zhel ghet'e-ha ra bar asas-e andaze moratab mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   wells   [ ]   [ ]   [ ]   (-)\n            |     |     |\n           ===    |          large\n                  |\n           ===   ===   ===   medium\n                       ===   small\n                             (+)\n small pieces travel farthest",
+     "caption": {
+      "fa": "دنای منفی به سوی قطب مثبت می‌رود و قطعه‌های کوچک‌تر دورتر می‌روند.",
+      "en": "Negative DNA moves towards the positive pole, and smaller pieces travel farther.",
+      "tr": "Dena-ye manfi be sooye ghotb-e mosbat miravad va ghet'e-haye koochak-tar door-tar miravand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در گام نخست واکنش زنجیره‌ای پلیمراز، چرا دما را تا حدود ۹۴ درجه بالا می‌برند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: why is the temperature raised to about 94 °C in the first step of PCR? (Khordad 1401 paper)",
+      "tr": "Garm kardan: dar gam-e nokhost-e vakonesh-e zanjire-i-ye polimeraz, chera dama ra ta hodood-e 94 daraje bala mibarand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کپی گرفتن به یک رشتهٔ الگوی باز نیاز دارد. دو رشته را پیوندهای هیدروژنی کنار هم نگه داشته‌اند و این پیوندها با گرما می‌شکنند.",
+        "en": "Copying needs an open template strand. The two strands are held together by hydrogen bonds, and heat breaks these bonds.",
+        "tr": "Kopi gereftan be yek reshte-ye olgoo-ye baz niyaz darad. Do reshte ra peyvand-haye hidrozheni kenar-e ham negah dashte-and va in peyvand-ha ba garma mishekanand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "برای جدا کردن دو رشته با شکستن پیوندهای هیدروژنی",
+      "en": "To separate the two strands by breaking the hydrogen bonds",
+      "tr": "Baraye joda kardan-e do reshte ba shekastan-e peyvand-haye hidrozheni"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در الکتروفورز ژل، دنا به کدام قطب می‌رود و کدام قطعه دورتر می‌رود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: in gel electrophoresis, towards which pole does DNA move, and which piece goes farther? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar elektroforez-e zhel, dena be kodam ghotb miravad va kodam ghet'e door-tar miravad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بار دنا را از ساختارش پیدا کن: هر نوکلئوتید یک گروه فسفات منفی دارد. بار منفی به سوی قطب مثبت کشیده می‌شود.",
+        "en": "Find DNA's charge from its structure: every nucleotide has a negative phosphate group. A negative charge is pulled towards the positive pole.",
+        "tr": "Bar-e dena ra az sakhtarash peyda kon: har nukleotid yek goroh-e fosfat-e manfi darad. Bar-e manfi be sooye ghotb-e mosbat keshide mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "در جنگل ژل، کوچک‌ترها راحت‌تر رد می‌شوند، پس دورتر می‌روند.",
+        "en": "In the gel forest, smaller pieces get through more easily, so they go farther.",
+        "tr": "Dar jangal-e zhel, koochak-tar-ha rahat-tar rad mishavand, pas door-tar miravand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به قطب مثبت (آند)؛ قطعه‌های کوچک‌تر دورتر می‌روند",
+      "en": "To the positive pole (anode); smaller pieces go farther",
+      "tr": "Be ghotb-e mosbat (anod); ghet'e-haye koochak-tar door-tar miravand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: از ۵ مولکول دنا شروع می‌کنیم. پس از ۱۰ دور، چند کپی داریم؟ و از یک مولکول، پس از ۳۰ دور؟",
+      "en": "Exam twist: we start with 5 DNA molecules. After 10 cycles, how many copies do we have? And from one molecule, after 30 cycles?",
+      "tr": "Pich-e emtehani: az 5 molekool dena shoru' mikonim. Pas az 10 dor, chand kopi darim? Va az yek molekool, pas az 30 dor?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر دور تعداد را دو برابر می‌کند، پس پس از `n` دور، ضرب در `2^n` می‌شود. چرا توان؟ چون دو برابر شدن پشت سر هم یعنی ضرب مکرر در ۲.",
+        "en": "Each cycle doubles the number, so after `n` cycles it is multiplied by `2^n`. Why a power? Because doubling again and again means multiplying by 2 repeatedly.",
+        "tr": "Har dor te'dad ra do barabar mikonad, pas pas az `n` dor, zarb dar `2^n` mishavad. Chera tavan? Chon do barabar shodan-e posht-e sar-e ham ya'ni zarb-e mokarrar dar 2."
+       },
+       "math": "5 × 2^10 = 5 × 1024 = 5120"
+      },
+      {
+       "text": {
+        "fa": "حالا ۳۰ دور از یک مولکول. می‌دانیم `2^10` تقریباً هزار است.",
+        "en": "Now 30 cycles from one molecule. We know `2^10` is about a thousand.",
+        "tr": "Hala 30 dor az yek molekool. Midanim `2^10` taghriban hezar ast."
+       },
+       "math": "2^30 = (2^10)^3 ≈ 1000^3 = 10^9"
+      },
+      {
+       "text": {
+        "fa": "یعنی حدود یک میلیارد کپی در چند ساعت؛ برای همین یک قطره خون در پزشکی قانونی کافی است.",
+        "en": "That is about a billion copies in a few hours; that is why one drop of blood is enough in forensic science.",
+        "tr": "Ya'ni hodood-e yek milyard kopi dar chand sa'at; baraye hamin yek ghatre khoon dar pezeshki-ye ghanooni kafi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "۵۱۲۰ کپی؛ و حدود یک میلیارد کپی",
+      "en": "5120 copies; and about a billion copies",
+      "tr": "5120 kopi; va hodood-e yek milyard kopi"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در الکتروفورز، قطعه‌های «کوچک» دورتر می‌روند، نه بزرگ. و دنا به قطب «مثبت» می‌رود، چون خودش منفی است.",
+      "en": "In electrophoresis the \"small\" pieces go farther, not the big ones. And DNA goes to the \"positive\" pole, because it is negative itself.",
+      "tr": "Dar elektroforez, ghet'e-haye \"koochak\" door-tar miravand, na bozorg. Va dena be ghotb-e \"mosbat\" miravad, chon khodash manfi ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گام ۹۴ درجه دنا را «نمی‌سازد»؛ فقط دو رشته را جدا می‌کند. ساختن رشتهٔ تازه کار دنابسپاراز مقاوم به گرما در گام سوم است.",
+      "en": "The 94 °C step does \"not\" build DNA; it only separates the two strands. Building the new strand is the job of the heat-resistant DNA polymerase in step three.",
+      "tr": "Gam-e 94 daraje dena ra \"nemisazad\"; faghat do reshte ra joda mikonad. Sakhtan-e reshte-ye taze kar-e dena-basparaz-e moghavem be garma dar gam-e sevvom ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1400-Dey",
+     "number": 942
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 7,
+   "unit": 3,
+   "key": "bio-7-protein-engineering",
+   "title": {
+    "fa": "مهندسی پروتئین",
+    "en": "Protein engineering",
+    "tr": "Mohandesi-ye protein"
+   },
+   "summary": {
+    "fa": "یک ابزار خوب را برای کار سخت‌تر محکم‌تر کن.",
+    "en": "Make a good tool tougher for harder work.",
+    "tr": "Yek abzar-e khoob ra baraye kar-e sakht-tar mohkam-tar kon."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ابزاری برای کارگاه",
+      "en": "Understand first: a tool for the workshop",
+      "tr": "Avval befahm: abzari baraye kargah"
+     },
+     "body": {
+      "fa": "آنزیم‌ها ابزارهای فوق‌العاده‌ای‌اند، ولی برای بدن جاندار ساخته شده‌اند، نه برای کارخانه. در صنعت، دما بالاست، محیط شاید اسیدی یا پر از شوینده باشد و آنزیم معمولی زود از کار می‌افتد. «مهندسی پروتئین» با تغییر توالی آمینواسیدها، پایداری و کارایی پروتئین را در شرایط صنعتی بهتر می‌کند (آزمون خرداد ۱۳۹۹)؛ مثل اینکه دستهٔ یک چاقوی آشپزخانه را برای کارگاه فلزی محکم‌تر کنی.",
+      "en": "Enzymes are wonderful tools, but they were made for a living body, not for a factory. In industry the temperature is high, the medium may be acidic or full of detergent, and an ordinary enzyme soon stops working. \"Protein engineering\" improves a protein's stability and efficiency under industrial conditions by changing its amino acid sequence (Khordad 1399 paper); like strengthening the handle of a kitchen knife for use in a metal workshop.",
+      "tr": "Anzim-ha abzar-haye foghol-ade-i-and, vali baraye badan-e jandar sakhte shode-and, na baraye karkhane. Dar san'at, dama balast, mohit shayad asidi ya por az shooyande bashad va anzim-e ma'mooli zood az kar miofte. \"Mohandesi-ye protein\" ba taghyir-e tavali-ye amino-asid-ha, paydari va kara'i-ye protein ra dar sharayet-e san'ati behtar mikonad (azmoon-e Khordad 1399); mesl-e inke daste-ye yek chaghoo-ye ashpazkhane ra baraye kargah-e felezi mohkam-tar koni."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرا گرما آنزیم را باز می‌کند؟",
+      "en": "Why does heat unfold an enzyme?",
+      "tr": "Chera garma anzim ra baz mikonad?"
+     },
+     "body": {
+      "fa": "چرا گرما آنزیم را خراب می‌کند؟ شکل سه‌بعدی پروتئین را پیوندهای مختلفی نگه داشته‌اند. گرما اول پیوندهای ضعیف «هیدروژنی» را می‌شکند (آزمون دی ۱۴۰۰)، شکل آنزیم باز می‌شود و جایگاه فعالش از بین می‌رود. راه حل مهندسان: با جایگزین کردن چند آمینواسید با سیستئین، پل‌های «دی‌سولفیدی» اشتراکی و محکم می‌سازند که در گرما هم نمی‌شکنند. حاصل، «پایداری حرارتی» بیشتر است (آزمون دی ۱۳۹۹). همین‌طور می‌توانند «`pH` بهینهٔ» آنزیم را جابه‌جا کنند تا در محیطی اسیدی‌تر یا خنثی‌تر بهتر کار کند (آزمون دی ۱۴۰۱).",
+      "en": "Why does heat ruin an enzyme? A protein's 3D shape is held by different bonds. Heat first breaks the weak \"hydrogen\" bonds (Dey 1400 paper), the enzyme's shape unfolds and its active site is lost. The engineers' solution: by swapping a few amino acids for cysteine, they build strong covalent \"disulfide\" bridges that do not break even in the heat. The result is greater \"thermal stability\" (Dey 1399 paper). In the same way they can shift the enzyme's \"optimum `pH`\" so it works better in a more acidic or more neutral medium (Dey 1401 paper).",
+      "tr": "Chera garma anzim ra kharab mikonad? Shekl-e se-bo'di-ye protein ra peyvand-haye mokhtalefi negah dashte-and. Garma avval peyvand-haye za'if-e \"hidrozheni\" ra mishekanad (azmoon-e Dey 1400), shekl-e anzim baz mishavad va jaygah-e fa'alash az beyn miravad. Rah-e hal-e mohandesan: ba jaygozin kardan-e chand amino-asid ba sisteyin, pol-haye \"di-soolfidi\"-ye eshteraki va mohkam misazand ke dar garma ham nemishekanand. Hasel, \"paydari-ye harareti\"-ye bishtar ast (azmoon-e Dey 1399). Hamin-towr mitavanand \"`pH`-e behine\"-ye anzim ra jabeja konand ta dar mohiti asidi-tar ya khonsa-tar behtar kar konad (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " heat breaks weak H bonds first\n       -> shape unfolds\n       -> active site lost\n\n fix: swap amino acids, add\n strong S-S (disulfide) bridges\n       -> shape holds when hot",
+     "caption": {
+      "fa": "پل‌های دی‌سولفیدی اشتراکی شکل آنزیم را در گرما نگه می‌دارند.",
+      "en": "Covalent disulfide bridges hold the enzyme's shape in the heat.",
+      "tr": "Pol-haye di-soolfidi-ye eshteraki shekl-e anzim ra dar garma negah midarand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو آنزیم مهندسی‌شده",
+      "en": "Two engineered enzymes",
+      "tr": "Do anzim-e mohandesi-shode"
+     },
+     "body": {
+      "fa": "دو نمونهٔ معروف در کتاب: «آمیلاز» مهندسی‌شده با پایداری حرارتی بیشتر، در صنایع غذایی نشاسته را در دمای بالا تجزیه می‌کند (آزمون خرداد ۱۴۰۰). «پروتئاز» مهندسی‌شده در برابر شوینده‌ها و سفیدکننده‌ها پایدارتر شده و در پودرهای لباس‌شویی لکه‌های پروتئینی مثل خون را بهتر پاک می‌کند (آزمون دی ۱۴۰۰).",
+      "en": "Two well-known examples in the textbook: engineered \"amylase\" with greater thermal stability breaks down starch at high temperatures in the food industry (Khordad 1400 paper). Engineered \"protease\" has been made more stable against detergents and bleach and removes protein stains such as blood better in washing powders (Dey 1400 paper).",
+      "tr": "Do nemoone-ye ma'roof dar ketab: \"amilaz\"-e mohandesi-shode ba paydari-ye harareti-ye bishtar, dar sanaye'-e ghazayi neshaste ra dar dama-ye bala tajziye mikonad (azmoon-e Khordad 1400). \"Proteaz\"-e mohandesi-shode dar barabar-e shooyande-ha va sefid-konande-ha paydar-tar shode va dar pudr-haye lebas-shooyi lakke-haye proteini mesl-e khoon ra behtar pak mikonad (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " enzyme    made to resist    job\n amylase   high heat         breaks\n                             starch\n protease  detergent,        removes\n           bleach            protein\n                             stains",
+     "caption": {
+      "fa": "آمیلاز برای گرما، پروتئاز برای شوینده‌ها.",
+      "en": "Amylase for heat, protease for detergents.",
+      "tr": "Amilaz baraye garma, proteaz baraye shooyande-ha."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام آنزیم مهندسی‌شده لکهٔ خون را در پودر لباس‌شویی پاک می‌کند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: which engineered enzyme removes blood stains in washing powder? (Dey 1400 paper)",
+      "tr": "Garm kardan: kodam anzim-e mohandesi-shode lakke-ye khoon ra dar pudr-e lebas-shooyi pak mikonad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "لکهٔ خون بیشتر پروتئین است. آنزیمی که پروتئین را تجزیه می‌کند، اسمش از همان می‌آید: پروتئ + آز.",
+        "en": "A blood stain is mostly protein. The enzyme that breaks down protein takes its name from it: prote + ase.",
+        "tr": "Lakke-ye khoon bishtar protein ast. Anzimi ke protein ra tajziye mikonad, esmash az haman miayad: prote + az."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پروتئاز",
+      "en": "Protease",
+      "tr": "Proteaz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چرا مهندسان پروتئین به آمیلاز پیوند دی‌سولفیدی اضافه می‌کنند؟ (آزمون‌های دی ۱۴۰۰ و دی ۱۳۹۹)",
+      "en": "Textbook and exam: why do protein engineers add disulfide bonds to amylase? (Dey 1400 and Dey 1399 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: chera mohandesan-e protein be amilaz peyvand-e di-soolfidi ezafe mikonand? (azmoon-haye Dey 1400 va Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشکل را پیدا کن: گرما اول پیوندهای هیدروژنی را می‌شکند و شکل آنزیم باز می‌شود.",
+        "en": "Find the problem: heat first breaks the hydrogen bonds and the enzyme's shape unfolds.",
+        "tr": "Moshkel ra peyda kon: garma avval peyvand-haye hidrozheni ra mishekanad va shekl-e anzim baz mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "راه حل را بگو: پیوند دی‌سولفیدی اشتراکی و قوی است، پس در گرما شکل را نگه می‌دارد؛ آنزیم پایداری حرارتی پیدا می‌کند.",
+        "en": "Give the solution: a disulfide bond is covalent and strong, so it holds the shape in the heat; the enzyme gains thermal stability.",
+        "tr": "Rah-e hal ra begoo: peyvand-e di-soolfidi eshteraki va ghavi ast, pas dar garma shekl ra negah midarad; anzim paydari-ye harareti peyda mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "برای پایداری حرارتی: پیوند دی‌سولفیدی برخلاف پیوند هیدروژنی در گرما نمی‌شکند",
+      "en": "For thermal stability: unlike a hydrogen bond, a disulfide bond does not break in the heat",
+      "tr": "Baraye paydari-ye harareti: peyvand-e di-soolfidi barkhalaf-e peyvand-e hidrozheni dar garma nemishekanad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آنزیمی در `pH` برابر ۷ بهترین کار را می‌کند، ولی کارخانه در `pH` برابر ۵ کار می‌کند. مهندسان چه تغییری می‌دهند و این با جهش چه ربطی دارد؟",
+      "en": "Exam twist: an enzyme works best at `pH` 7, but the factory runs at `pH` 5. What do the engineers change, and how is this linked to mutation?",
+      "tr": "Pich-e emtehani: anzimi dar `pH` barabar-e 7 behtarin kar ra mikonad, vali karkhane dar `pH` barabar-e 5 kar mikonad. Mohandesan che taghyiri midahand va in ba jahesh che rabti darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: هدف، جابه‌جا کردن `pH` بهینه به سمت اسیدی‌تر است. این ویژگی به آمینواسیدهای باردار جایگاه فعال بستگی دارد.",
+        "en": "Step one: the goal is to shift the optimum `pH` towards the more acidic side. This property depends on the charged amino acids at the active site.",
+        "tr": "Ghadam-e avval: hadaf, jabeja kardan-e `pH`-e behine be samt-e asidi-tar ast. In vizhegi be amino-asid-haye bardar-e jaygah-e fa'al bastegi darad."
+       },
+       "math": "7 → 5"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: برای عوض کردن یک آمینواسید باید رمزهٔ آن را در ژن عوض کنند؛ یعنی یک جهش دگرمعنی «هدفمند» از فصل ۴. مهندسی پروتئین در عمل از مهندسی ژنتیک استفاده می‌کند.",
+        "en": "Step two, the real twist: to change one amino acid they must change its codon in the gene; that is a \"targeted\" missense mutation from Chapter 4. In practice, protein engineering uses genetic engineering.",
+        "tr": "Ghadam-e dovvom, pich-e asli: baraye avaz kardan-e yek amino-asid bayad ramze-ye an ra dar zhen avaz konand; ya'ni yek jahesh-e degar-ma'ni-ye \"hadafmand\" az fasl-e 4. Mohandesi-ye protein dar amal az mohandesi-ye zheneteki estefade mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`pH` بهینه را با جایگزینی آمینواسیدها جابه‌جا می‌کنند، از راه تغییر رمزه‌ها در ژن",
+      "en": "They shift the optimum `pH` by swapping amino acids, by changing codons in the gene",
+      "tr": "`pH`-e behine ra ba jaygozini-ye amino-asid-ha jabeja mikonand, az rah-e taghyir-e ramze-ha dar zhen"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گرما اول پیوندهای «هیدروژنی» را می‌شکند، نه پیوندهای پپتیدی. به همین دلیل پیوند «دی‌سولفیدی» اشتراکی اضافه می‌کنند (آزمون دی ۱۴۰۰).",
+      "en": "Heat first breaks the \"hydrogen\" bonds, not the peptide bonds. That is why covalent \"disulfide\" bonds are added (Dey 1400 paper).",
+      "tr": "Garma avval peyvand-haye \"hidrozheni\" ra mishekanad, na peyvand-haye peptidi. Be hamin dalil peyvand-e \"di-soolfidi\"-ye eshteraki ezafe mikonand (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مهندسی پروتئین «توالی آمینواسیدها» را عوض می‌کند تا ویژگی پروتئین بهتر شود؛ مهندسی ژنتیک «ژن» را از جانداری به جاندار دیگر منتقل می‌کند. این دو را یکی ننویس.",
+      "en": "Protein engineering changes the \"amino acid sequence\" to improve a protein's properties; genetic engineering moves a \"gene\" from one organism to another. Do not write them as the same thing.",
+      "tr": "Mohandesi-ye protein \"tavali-ye amino-asid-ha\" ra avaz mikonad ta vizhegi-ye protein behtar shavad; mohandesi-ye zheneteki \"zhen\" ra az jandari be jandar-e digar montaghel mikonad. In do ra yeki nanevis."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1399-Dey",
+     "number": 915
+    },
+    {
+     "session": "1401-Dey",
+     "number": 919
+    },
+    {
+     "session": "1400-Dey",
+     "number": 920
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 926
+    },
+    {
+     "session": "1400-Dey",
+     "number": 932
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 7,
+   "unit": 4,
+   "key": "bio-7-applications",
+   "title": {
+    "fa": "کاربردهای زیست‌فناوری",
+    "en": "Uses of biotechnology",
+    "tr": "Karbord-haye zist-fanavari"
+   },
+   "summary": {
+    "fa": "باکتری‌هایی که دارو می‌سازند، گیاهانی که خودشان را محافظت می‌کنند، و گوسفندی به نام دالی.",
+    "en": "Bacteria that make medicine, plants that protect themselves, and a sheep called Dolly.",
+    "tr": "Bakteri-hayi ke daroo misazand, giyahani ke khodeshan ra mohafezat mikonand, va goosfandi be nam-e Dolly."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ابزارها در دنیای واقعی",
+      "en": "Understand first: the tools in the real world",
+      "tr": "Avval befahm: abzar-ha dar donya-ye vaghe'i"
+     },
+     "body": {
+      "fa": "ابزارهای این فصل در زندگی واقعی کار می‌کنند. در پزشکی، ژن انسولین انسان را در پلازمید می‌گذارند و به باکتری می‌دهند؛ باکتری‌ها مثل یک کارخانهٔ کوچک انسولین انسانی می‌سازند که برای بیماران دیابتی ایمن‌تر از انسولین جانوری است. در «ژن‌درمانی»، یک نسخهٔ سالم از ژن معیوب را، اغلب با کمک یک ویروس بی‌خطرشده به‌عنوان ناقل، وارد یاخته‌های بیمار می‌کنند. در کشاورزی، «گیاهان تراژنی» ساخته می‌شوند، مثلاً گیاهی که ژن یک سم ضدحشره را دارد و کمتر به سم‌پاشی نیاز دارد.",
+      "en": "The tools of this chapter work in real life. In medicine, the human insulin gene is put into a plasmid and given to bacteria; the bacteria act like a small factory and make human insulin, which is safer for diabetic patients than animal insulin. In \"gene therapy\", a healthy copy of a faulty gene is put into the patient's cells, often using a harmless virus as the vector. In farming, \"transgenic plants\" are made, for example a plant carrying the gene for an insect-killing toxin, so it needs less spraying.",
+      "tr": "Abzar-haye in fasl dar zendegi-ye vaghe'i kar mikonand. Dar pezeshki, zhen-e ensoolin-e ensan ra dar plazmid migozarand va be bakteri midahand; bakteri-ha mesl-e yek karkhane-ye koochak ensoolin-e ensani misazand ke baraye bimaran-e diyabeti imen-tar az ensoolin-e janevari ast. Dar \"zhen-darmani\", yek noskhe-ye salem az zhen-e ma'yoob ra, aghlab ba komak-e yek viroos-e bi-khatar-shode be-onvan-e naghel, vared-e yakhte-haye bimar mikonand. Dar keshavarzi, \"giyahan-e tarazheni\" sakhte mishavand, masalan giyahi ke zhen-e yek sam-e zed-e hashare ra darad va kamtar be sam-pashi niyaz darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " medicine:\n   human insulin gene -> plasmid\n   -> bacteria make insulin\n gene therapy:\n   healthy gene -> harmless virus\n   -> into the patient's cells\n farming:\n   insect-toxin gene -> crop\n   -> less spraying needed",
+     "caption": {
+      "fa": "سه کاربرد مهم: انسولین از باکتری، ژن‌درمانی و گیاهان تراژنی.",
+      "en": "Three important uses: insulin from bacteria, gene therapy and transgenic crops.",
+      "tr": "Se karbord-e mohem: ensoolin az bakteri, zhen-darmani va giyahan-e tarazheni."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "همسانه‌سازی: گوسفند دالی",
+      "en": "Cloning: Dolly the sheep",
+      "tr": "Hamsane-sazi: goosfand Dolly"
+     },
+     "body": {
+      "fa": "«همسانه‌سازی» جانوران هم ممکن شده است. در روش «انتقال هستهٔ یاختهٔ پیکری»، هستهٔ یک یاختهٔ بدنی از جانور اول را برمی‌دارند و در یک تخمک بی‌هستهٔ جانور دوم می‌گذارند. تخمک مثل یک تخم لقاح‌یافته رشد می‌کند و در رحم جانور سوم کاشته می‌شود. نوزاد، ژن‌های هسته‌ای یکسانی با دهندهٔ هسته دارد (آزمون خرداد ۱۴۰۰). گوسفند دالی نخستین پستاندار همسانه‌سازی‌شده از یاختهٔ بدنی یک جانور بالغ بود.",
+      "en": "\"Cloning\" animals has also become possible. In \"somatic cell nuclear transfer\", the nucleus of a body cell from animal one is taken and put into an egg from animal two whose nucleus has been removed. The egg grows like a fertilised egg and is placed in the womb of animal three. The baby has the same nuclear genes as the nucleus donor (Khordad 1400 paper). Dolly the sheep was the first mammal cloned from a body cell of an adult animal.",
+      "tr": "\"Hamsane-sazi\"-ye janevaran ham momken shode ast. Dar ravesh-e \"enteghal-e haste-ye yakhte-ye peykari\", haste-ye yek yakhte-ye badani az janevar-e avval ra barmidarand va dar yek tokhmak-e bi-haste-ye janevar-e dovvom migozarand. Tokhmak mesl-e yek tokhm-e leghah-yafte roshd mikonad va dar rahem-e janevar-e sevvom kashte mishavad. Nozad, zhen-haye haste-i-ye yeksani ba dahande-ye haste darad (azmoon-e Khordad 1400). Goosfand Dolly nakhostin pestandar-e hamsane-sazi-shode az yakhte-ye badani-ye yek janevar-e baleq bood."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " sheep A: body cell -> nucleus\n sheep B: egg, nucleus removed\n egg B + nucleus A -> embryo\n embryo -> womb of sheep C\n -> Dolly: nuclear genes of A",
+     "caption": {
+      "fa": "انتقال هستهٔ یاختهٔ پیکری: سه گوسفند، ولی ژن‌های هسته‌ای فقط از گوسفند اول.",
+      "en": "Somatic cell nuclear transfer: three sheep, but the nuclear genes come only from sheep A.",
+      "tr": "Enteghal-e haste-ye yakhte-ye peykari: se goosfand, vali zhen-haye haste-i faghat az goosfand-e avval."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: چرا باکتری برای ساختن انسولین انسانی مناسب است؟",
+      "en": "Warm-up: why are bacteria suitable for making human insulin?",
+      "tr": "Garm kardan: chera bakteri baraye sakhtan-e ensoolin-e ensani monaseb ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "باکتری خیلی سریع تکثیر می‌شود و پلازمید را به‌راحتی می‌پذیرد؛ و رمز ژنتیکی در همهٔ جانداران یکسان است، پس ژن انسانی را درست ترجمه می‌کند.",
+        "en": "Bacteria multiply very fast and take up plasmids easily; and the genetic code is the same in all organisms, so they translate the human gene correctly.",
+        "tr": "Bakteri kheyli sari' taksir mishavad va plazmid ra be-rahati mipazirad; va ramz-e zheneteki dar hame-ye jandaran yeksan ast, pas zhen-e ensani ra dorost tarjome mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تکثیر سریع، پذیرش آسان پلازمید و رمز ژنتیکی مشترک",
+      "en": "Fast multiplication, easy plasmid uptake and a shared genetic code",
+      "tr": "Taksir-e sari', paziresh-e asan-e plazmid va ramz-e zheneteki-ye moshtarak"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام روش جانوری با ژن‌های هسته‌ای یکسان با دهندهٔ هسته می‌سازد؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: which technique produces an animal with the same nuclear genes as the nucleus donor? (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam ravesh janevari ba zhen-haye haste-i-ye yeksan ba dahande-ye haste misazad? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس: ژن‌های هسته‌ای کجا هستند؟ در هسته. پس روشی که «هسته» را جابه‌جا می‌کند، همان ژن‌ها را منتقل می‌کند.",
+        "en": "Ask: where are the nuclear genes? In the nucleus. So a technique that moves the \"nucleus\" carries those same genes.",
+        "tr": "Bepors: zhen-haye haste-i koja hastand? Dar haste. Pas raveshi ke \"haste\" ra jabeja mikonad, haman zhen-ha ra montaghel mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "هسته از یک یاختهٔ «پیکری» (بدنی) می‌آید، نه از گامت. نام کامل روش را بنویس.",
+        "en": "The nucleus comes from a \"somatic\" (body) cell, not from a gamete. Write the full name of the technique.",
+        "tr": "Haste az yek yakhte-ye \"peykari\" (badani) miayad, na az gamet. Nam-e kamel-e ravesh ra benevis."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "انتقال هستهٔ یاختهٔ پیکری",
+      "en": "Somatic cell nuclear transfer",
+      "tr": "Enteghal-e haste-ye yakhte-ye peykari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا دالی از نظر «همهٔ» ژن‌ها با گوسفند اول یکسان است؟",
+      "en": "Exam twist: is Dolly identical to sheep A in \"all\" her genes?",
+      "tr": "Pich-e emtehani: aya Dolly az nazar-e \"hame-ye\" zhen-ha ba goosfand-e avval yeksan ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سؤال کتاب دقیقاً می‌گوید «ژن‌های هسته‌ای». چرا این قید مهم است؟ چون راکیزه‌ها هم دنای خودشان را دارند.",
+        "en": "The twist: the textbook question says precisely \"nuclear genes\". Why does that word matter? Because mitochondria have their own DNA too.",
+        "tr": "Pich-e emtehan: so'al-e ketab daghighan migooyad \"zhen-haye haste-i\". Chera in gheyd mohem ast? Chon rakize-ha ham dena-ye khodeshan ra darand."
+       }
+      },
+      {
+       "text": {
+        "fa": "راکیزه‌های دالی از میان‌یاختهٔ تخمک آمده‌اند، یعنی از گوسفند دوم. پس دنای راکیزه‌ای او از گوسفند دوم است.",
+        "en": "Dolly's mitochondria came from the egg's cytoplasm, which is from sheep B. So her mitochondrial DNA is from sheep B.",
+        "tr": "Rakize-haye Dolly az miyan-yakhte-ye tokhmak amade-and, ya'ni az goosfand-e dovvom. Pas dena-ye rakize-i-ye oo az goosfand-e dovvom ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نه؛ ژن‌های هسته‌ای از گوسفند اول، ولی دنای راکیزه‌ای از گوسفند دوم (دهندهٔ تخمک)",
+      "en": "No; her nuclear genes are from sheep A, but her mitochondrial DNA is from sheep B (the egg donor)",
+      "tr": "Na; zhen-haye haste-i az goosfand-e avval, vali dena-ye rakize-i az goosfand-e dovvom (dahande-ye tokhmak)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جانور همسانه‌سازی‌شده ژن‌های هسته‌ای را از «دهندهٔ هسته» می‌گیرد، نه از دهندهٔ تخمک یا مادر جانشین (آزمون خرداد ۱۴۰۰).",
+      "en": "A cloned animal gets its nuclear genes from the \"nucleus donor\", not from the egg donor or the surrogate mother (Khordad 1400 paper).",
+      "tr": "Janevar-e hamsane-sazi-shode zhen-haye haste-i ra az \"dahande-ye haste\" migirad, na az dahande-ye tokhmak ya madar-e janeshin (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در ژن‌درمانی ژن سالم به یاخته‌های بیمار «اضافه» می‌شود؛ ژن معیوب معمولاً بیرون آورده نمی‌شود.",
+      "en": "In gene therapy a healthy gene is \"added\" to the patient's cells; the faulty gene is usually not taken out.",
+      "tr": "Dar zhen-darmani zhen-e salem be yakhte-haye bimar \"ezafe\" mishavad; zhen-e ma'yoob ma'moolan biroon avarde nemishavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 937
+    }
+   ]
+  }
+ ]
+}
