@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2032,
- "versionName": "3.13.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2032/Ghamgah-E-Hadis.apk",
- "size": 42211522,
- "sha256": "0075e6419c100f719044d5193446ede3220cf02e3942352f10d0a78c6282faf8",
+ "versionCode": 2033,
+ "versionName": "3.14.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2033/Ghamgah-E-Hadis.apk",
+ "size": 42244402,
+ "sha256": "d2a6272f72c69e8ad18c80285bbeb790722603fca7e6cef4e42e4d593e431a70",
  "notes": {
-  "fa": "زنگ بلوک‌های مطالعه: «برنامهٔ من» حالا می‌تواند سر شروع هر بلوک مثل زنگ ساعت گوشی زنگ بزند؛ تمام صفحه، با صدای زنگ حتی در حالت بی‌صدا، با دکمه‌های «خاموش» و «۱۰ دقیقه بعد»، به زبان خودت.",
-  "en": "Study-block alarms: My schedule can now ring at the start of each block like a phone alarm. Full screen, with the alarm sound even on silent, plus Stop and Snooze 10 min, in your language.",
-  "tr": "Zang-e block-haye motale'e: 'Barname-ye man' hala mitavanad sar-e shoru'-e har block mesl-e zang-e sa'at-e gushi zang bezanad; tamam-safhe, ba seda-ye zang hatta dar halat-e bi-seda, ba dokme-haye 'Khamush' va '10 daghighe ba'd', be zaban-e khodat."
+  "fa": "معلم جیبی: واژه‌های واژه‌نامه حالا می‌توانند مثل یک درس کوچک باز شوند؛ با توضیح ساده، یک تصویر روزمره، یادداشت «اشتباه نگیر با…» و دکمه‌ای به درس کامل. خود این درس‌ها با بسته‌های بعدی می‌رسند.",
+  "en": "Pocket Tutor: Codex terms can now open as small lessons, with a plain explanation, an everyday picture, a 'don't confuse it with' note and a button into the full Master Tutor lesson. The lessons themselves arrive in the next question packs.",
+  "tr": "Moallem-e jibi: vazhe-haye vazhe-name hala mitavanand mesl-e yek dars-e koochak baz shavand; ba tozih-e sade, yek tasvir-e roozmarre, yaddasht-e 'eshtebah nagir ba...' va dokme-i be dars-e kamel. Khod-e in dars-ha ba baste-haye ba'di miresand."
  }
 }
