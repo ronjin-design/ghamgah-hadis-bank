@@ -1,0 +1,978 @@
+{
+ "version": 122,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Mathematics",
+   "key": "math-g-derivative-sign",
+   "term": {
+    "fa": "علامت مشتق و یکنوایی",
+    "en": "sign of the derivative and monotonicity",
+    "tr": "alamat-e moshtagh va yeknavayi"
+   },
+   "explain": {
+    "fa": "اگر روی یک بازه `f′ > 0` باشد، `f` آنجا صعودی است؛ اگر `f′ < 0`، نزولی. پس برای پیدا کردن بازه‌های صعود و نزول، جدول تعیین علامت `f′` را بکش.",
+    "en": "If `f′ > 0` on an interval, `f` is increasing there; if `f′ < 0`, decreasing. So to find where a function rises and falls, draw the sign table of `f′`.",
+    "tr": "Agar rooye yek baze `f′ > 0` bashad, `f` anja sooudi ast; agar `f′ < 0`, nozooli. Pas baraye peyda kardan-e baze-haye so'ood va nozool, jadval-e ta'yin-e alamat-e `f′` ra bekesh."
+   },
+   "analogy": {
+    "fa": "مشتق مثل شیب جاده است: شیب مثبت یعنی سربالایی، شیب منفی یعنی سرپایینی.",
+    "en": "The derivative is like the slope of a road: a positive slope means uphill, a negative slope downhill.",
+    "tr": "Moshtagh mesl-e shib-e jadde ast: shib-e mosbat ya'ni sarbalayi, shib-e manfi ya'ni sarpayini."
+   },
+   "contrast": {
+    "fa": "علامت `f′` جهت حرکت را می‌گوید، نه اندازهٔ `f` را؛ تابع می‌تواند منفی باشد و هم‌زمان صعودی.",
+    "en": "The sign of `f′` tells the direction, not the size of `f`; a function can be negative and increasing at the same time.",
+    "tr": "Alamat-e `f′` jahat-e harekat ra migooyad, na andaze-ye `f` ra; tabe' mitavanad manfi bashad va ham-zaman sooudi."
+   },
+   "unit": "math-5-critical-points"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-critical-points",
+   "term": {
+    "fa": "نقاط بحرانی",
+    "en": "critical points",
+    "tr": "noghat-e bohrani"
+   },
+   "explain": {
+    "fa": "نقطهٔ بحرانی عددی در دامنه است که در آن `f′ = 0` یا `f′` وجود ندارد. اکسترمم‌های نسبی فقط در همین نقاط پیدا می‌شوند، پس اول آن‌ها را پیدا کن.",
+    "en": "A critical point is a number in the domain where `f′ = 0` or `f′` does not exist. Relative extrema can only occur at these points, so find them first.",
+    "tr": "Noghte-ye bohrani adadi dar damane ast ke dar an `f′ = 0` ya `f′` vojood nadarad. Ekstremom-haye nesbi faghat dar hamin noghat peyda mishavand, pas avval an-ha ra peyda kon."
+   },
+   "analogy": {
+    "fa": "مثل نقاطی در یک مسیر کوهستانی که شیب صفر است یا مسیر ناگهان تیز می‌شود؛ قله‌ها و دره‌ها فقط آنجا‌اند.",
+    "en": "Like the spots on a mountain path where the slope is zero or the path turns sharply; peaks and valleys are only found there.",
+    "tr": "Mesl-e noghati dar yek masir-e koohestani ke shib sefr ast ya masir nagahan tiz mishavad; gholle-ha va darre-ha faghat anja-and."
+   },
+   "contrast": {
+    "fa": "هر نقطهٔ بحرانی اکسترمم نیست: `x³` در صفر `f′ = 0` دارد ولی نه ماکزیمم است نه مینیمم.",
+    "en": "Not every critical point is an extremum: `x³` has `f′ = 0` at zero but is neither a maximum nor a minimum there.",
+    "tr": "Har noghte-ye bohrani ekstremom nist: `x³` dar sefr `f′ = 0` darad vali na maksimom ast na minimom."
+   },
+   "unit": "math-5-critical-points"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-relative-max",
+   "term": {
+    "fa": "ماکزیمم نسبی",
+    "en": "relative maximum",
+    "tr": "maksimom-e nesbi"
+   },
+   "explain": {
+    "fa": "`f(c)` ماکزیمم نسبی است اگر از همهٔ مقدارهای نزدیکش بزرگ‌تر یا مساوی باشد. آزمون مشتق اول: اگر علامت `f′` در `c` از مثبت به منفی عوض شود، `c` ماکزیمم نسبی است.",
+    "en": "`f(c)` is a relative maximum if it is greater than or equal to all nearby values. First derivative test: if `f′` changes sign from positive to negative at `c`, then `c` is a relative maximum.",
+    "tr": "`f(c)` maksimom-e nesbi ast agar az hame-ye meghdar-haye nazdikash bozorg-tar ya mosavi bashad. Azmoon-e moshtagh-e avval: agar alamat-e `f′` dar `c` az mosbat be manfi avaz shavad, `c` maksimom-e nesbi ast."
+   },
+   "analogy": {
+    "fa": "مثل قلهٔ یک تپه: بالاتر از همهٔ زمین‌های اطراف، هرچند ممکن است کوه بلندتری دورتر باشد.",
+    "en": "Like the top of a hill: higher than all the land around it, though there may be a taller mountain further off.",
+    "tr": "Mesl-e gholle-ye yek tappe: bala-tar az hame-ye zamin-haye atraf, harchand momken ast kooh-e boland-tari door-tar bashad."
+   },
+   "contrast": {
+    "fa": "«نسبی» یعنی فقط در همسایگی؛ ماکزیمم نسبی لزوماً بزرگ‌ترین مقدار کل تابع نیست.",
+    "en": "\"Relative\" means only in the neighbourhood; a relative maximum is not necessarily the largest value of the whole function.",
+    "tr": "\"Nesbi\" ya'ni faghat dar hamsayegi; maksimom-e nesbi lozooman bozorg-tarin meghdar-e kol-e tabe' nist."
+   },
+   "unit": "math-5-extrema"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-absolute-extremum",
+   "term": {
+    "fa": "اکسترمم مطلق",
+    "en": "absolute extremum",
+    "tr": "ekstremom-e motlagh"
+   },
+   "explain": {
+    "fa": "بزرگ‌ترین یا کوچک‌ترین مقدار تابع روی کل یک بازه. برای تابع پیوسته روی بازهٔ بستهٔ `[a, b]`: مقدار تابع را در نقاط بحرانی و در دو سرِ `a` و `b` حساب کن؛ بزرگ‌ترین و کوچک‌ترین عدد، جواب‌اند.",
+    "en": "The largest or smallest value of a function over a whole interval. For a continuous function on a closed interval `[a, b]`: evaluate it at the critical points and at the endpoints `a` and `b`; the largest and smallest numbers are the answers.",
+    "tr": "Bozorg-tarin ya koochak-tarin meghdar-e tabe' rooye kol-e yek baze. Baraye tabe'-e peyvaste rooye baze-ye baste-ye `[a, b]`: meghdar-e tabe' ra dar noghat-e bohrani va dar do sar-e `a` va `b` hesab kon; bozorg-tarin va koochak-tarin adad, javab-and."
+   },
+   "analogy": {
+    "fa": "بلندترین قلهٔ کل یک رشته‌کوه، نه فقط قلهٔ یک تپه.",
+    "en": "The highest peak of a whole mountain range, not just the top of one hill.",
+    "tr": "Boland-tarin gholle-ye kol-e yek reshte-kooh, na faghat gholle-ye yek tappe."
+   },
+   "contrast": {
+    "fa": "دو سرِ بازه را فراموش نکن؛ اکسترمم مطلق اغلب در یکی از آن‌ها اتفاق می‌افتد، جایی که مشتق صفر نیست.",
+    "en": "Do not forget the endpoints; the absolute extremum often happens at one of them, where the derivative is not zero.",
+    "tr": "Do sar-e baze ra faramoosh nakon; ekstremom-e motlagh aghlab dar yeki az an-ha ettefagh miofte, jayi ke moshtagh sefr nist."
+   },
+   "unit": "math-5-extrema"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-second-derivative-test",
+   "term": {
+    "fa": "آزمون مشتق دوم",
+    "en": "second derivative test",
+    "tr": "azmoon-e moshtagh-e dovom"
+   },
+   "explain": {
+    "fa": "اگر `f′(c) = 0` باشد: `f″(c) < 0` یعنی ماکزیمم نسبی، `f″(c) > 0` یعنی مینیمم نسبی. اگر `f″(c) = 0` باشد، آزمون جوابی نمی‌دهد و باید سراغ آزمون مشتق اول رفت.",
+    "en": "If `f′(c) = 0`: `f″(c) < 0` means a relative maximum, `f″(c) > 0` a relative minimum. If `f″(c) = 0`, the test gives no answer and you must use the first derivative test.",
+    "tr": "Agar `f′(c) = 0` bashad: `f″(c) < 0` ya'ni maksimom-e nesbi, `f″(c) > 0` ya'ni minimom-e nesbi. Agar `f″(c) = 0` bashad, azmoon javabi nemidahad va bayad soragh-e azmoon-e moshtagh-e avval raft."
+   },
+   "analogy": {
+    "fa": "کاسهٔ رو به بالا (`f″ > 0`) ته دارد و کاسهٔ وارونه (`f″ < 0`) سقف دارد.",
+    "en": "An upright bowl (`f″ > 0`) has a bottom, and an upside-down bowl (`f″ < 0`) has a top.",
+    "tr": "Kase-ye roo be bala (`f″ > 0`) tah darad va kase-ye varoone (`f″ < 0`) saghf darad."
+   },
+   "contrast": {
+    "fa": "`f″(c) = 0` به معنای «نه ماکزیمم نه مینیمم» نیست؛ فقط یعنی این آزمون نمی‌داند. `x^4` در صفر مینیمم دارد با `f″ = 0`.",
+    "en": "`f″(c) = 0` does not mean \"neither max nor min\"; it only means this test cannot tell. `x^4` has a minimum at zero with `f″ = 0`.",
+    "tr": "`f″(c) = 0` be ma'na-ye \"na maksimom na minimom\" nist; faghat ya'ni in azmoon nemidanad. `x^4` dar sefr minimom darad ba `f″ = 0`."
+   },
+   "unit": "math-5-extrema"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-concavity",
+   "term": {
+    "fa": "تقعر",
+    "en": "concavity",
+    "tr": "taghaor"
+   },
+   "explain": {
+    "fa": "تقعر جهت خمیدگی نمودار است. `f″ > 0` یعنی تقعر رو به بالا (مثل کاسه، شیب در حال زیاد شدن) و `f″ < 0` یعنی تقعر رو به پایین (مثل گنبد، شیب در حال کم شدن).",
+    "en": "Concavity is the direction the graph bends. `f″ > 0` means concave up (like a bowl, slope increasing) and `f″ < 0` means concave down (like a dome, slope decreasing).",
+    "tr": "Taghaor jahat-e khamidegi-ye nemoodar ast. `f″ > 0` ya'ni taghaor roo be bala (mesl-e kase, shib dar hal-e ziyad shodan) va `f″ < 0` ya'ni taghaor roo be payin (mesl-e gonbad, shib dar hal-e kam shodan)."
+   },
+   "analogy": {
+    "fa": "کاسه آب را نگه می‌دارد (رو به بالا)؛ گنبد آب را می‌ریزد (رو به پایین).",
+    "en": "A bowl holds water (concave up); a dome spills it (concave down).",
+    "tr": "Kase ab ra negah midarad (roo be bala); gonbad ab ra mirizad (roo be payin)."
+   },
+   "contrast": {
+    "fa": "تقعر به علامت `f″` بستگی دارد، نه `f′`؛ تابع می‌تواند صعودی باشد و تقعرش رو به پایین (مثل `√x`).",
+    "en": "Concavity depends on the sign of `f″`, not `f′`; a function can be increasing and concave down (like `√x`).",
+    "tr": "Taghaor be alamat-e `f″` bastegi darad, na `f′`; tabe' mitavanad sooudi bashad va taghaorash roo be payin (mesl-e `√x`)."
+   },
+   "unit": "math-5-concavity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-inflection",
+   "term": {
+    "fa": "نقطهٔ عطف",
+    "en": "inflection point",
+    "tr": "noghte-ye atf"
+   },
+   "explain": {
+    "fa": "نقطه‌ای روی نمودار که تقعر در آن عوض می‌شود (از رو به بالا به رو به پایین یا برعکس) و تابع در آن خط مماس دارد. معمولاً جایی است که `f″` صفر می‌شود و علامتش تغییر می‌کند.",
+    "en": "A point on the graph where the concavity changes (from up to down or the reverse) and the function has a tangent line. Usually it is where `f″` is zero and changes sign.",
+    "tr": "Noghte-i rooye nemoodar ke taghaor dar an avaz mishavad (az roo be bala be roo be payin ya bar-aks) va tabe' dar an khatt-e momas darad. Ma'moolan jayi ast ke `f″` sefr mishavad va alamatash taghyir mikonad."
+   },
+   "analogy": {
+    "fa": "مثل جاده‌ای که از پیچ به چپ به پیچ به راست می‌رود؛ نقطهٔ عطف لحظه‌ای است که فرمان صاف است.",
+    "en": "Like a road going from a left bend into a right bend; the inflection point is the moment the steering wheel is straight.",
+    "tr": "Mesl-e jadde-i ke az pich be chap be pich be rast miravad; noghte-ye atf lahze-i ast ke farman saf ast."
+   },
+   "contrast": {
+    "fa": "`f″ = 0` کافی نیست: باید علامت `f″` عوض شود. `x^4` در صفر `f″ = 0` دارد ولی عطف ندارد.",
+    "en": "`f″ = 0` is not enough: the sign of `f″` must change. `x^4` has `f″ = 0` at zero but no inflection.",
+    "tr": "`f″ = 0` kafi nist: bayad alamat-e `f″` avaz shavad. `x^4` dar sefr `f″ = 0` darad vali atf nadarad."
+   },
+   "unit": "math-5-concavity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-optimization",
+   "term": {
+    "fa": "بهینه‌سازی",
+    "en": "optimization",
+    "tr": "behine-sazi"
+   },
+   "explain": {
+    "fa": "در مسئلهٔ بهینه‌سازی: کمیتی را که باید بیشینه یا کمینه شود، بر حسب یک متغیر بنویس؛ دامنهٔ معقول آن را مشخص کن؛ نقاط بحرانی را پیدا کن و با دو سر بازه مقایسه کن. مثلاً از همهٔ مستطیل‌ها با محیط ثابت، مربع بیشترین مساحت را دارد.",
+    "en": "In an optimization problem: write the quantity to be maximised or minimised in terms of one variable; set its sensible domain; find the critical points and compare them with the endpoints. For example, of all rectangles with a fixed perimeter, the square has the largest area.",
+    "tr": "Dar mas'ale-ye behine-sazi: kamiyati ra ke bayad bishine ya kamine shavad, bar hasb-e yek moteghayyer benevis; damane-ye ma'ghool-e an ra moshakhkhas kon; noghat-e bohrani ra peyda kon va ba do sar-e baze moghayese kon. Masalan az hame-ye mostatil-ha ba mohit-e sabet, morabba' bishtarin masahat ra darad."
+   },
+   "analogy": {
+    "fa": "مثل پیدا کردن بهترین قیمت برای فروش: اگر خیلی گران بفروشی کسی نمی‌خرد و اگر خیلی ارزان، سودی نمی‌ماند؛ بهترین نقطه جایی وسط است.",
+    "en": "Like finding the best selling price: too expensive and nobody buys, too cheap and there is no profit; the best point is somewhere in between.",
+    "tr": "Mesl-e peyda kardan-e behtarin gheymat baraye forush: agar kheyli geran beforooshi kasi nemikharad va agar kheyli arzan, soodi nemimanad; behtarin noghte jayi vasat ast."
+   },
+   "contrast": {
+    "fa": "اول کمیت را فقط بر حسب «یک» متغیر بنویس، با کمک رابطهٔ قید؛ با دو متغیر نمی‌شود مستقیم مشتق گرفت.",
+    "en": "First write the quantity in terms of \"one\" variable, using the constraint; you cannot differentiate directly with two variables.",
+    "tr": "Avval kamiyat ra faghat bar hasb-e \"yek\" moteghayyer benevis, ba komak-e rabete-ye gheyd; ba do moteghayyer nemishavad mostaghim moshtagh gereft."
+   },
+   "unit": "math-5-optimization"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-mvt",
+   "term": {
+    "fa": "قضیهٔ مقدار میانگین",
+    "en": "mean value theorem",
+    "tr": "ghaziye-ye meghdar-e miangin"
+   },
+   "explain": {
+    "fa": "اگر `f` روی `[a, b]` پیوسته و روی `(a, b)` مشتق‌پذیر باشد، دست‌کم یک `c` در `(a, b)` هست که `f′(c) = (f(b) − f(a))/(b − a)`. یعنی جایی، شیب مماس با شیب قاطع برابر است.",
+    "en": "If `f` is continuous on `[a, b]` and differentiable on `(a, b)`, there is at least one `c` in `(a, b)` with `f′(c) = (f(b) − f(a))/(b − a)`. Somewhere, the slope of the tangent equals the slope of the secant.",
+    "tr": "Agar `f` rooye `[a, b]` peyvaste va rooye `(a, b)` moshtagh-pazir bashad, dast-e kam yek `c` dar `(a, b)` hast ke `f′(c) = (f(b) − f(a))/(b − a)`. Ya'ni jayi, shib-e momas ba shib-e ghate' barabar ast."
+   },
+   "analogy": {
+    "fa": "اگر میانگین سرعتت در یک سفر ۶۰ کیلومتر بر ساعت باشد، دست‌کم یک لحظه سرعت‌سنج دقیقاً ۶۰ را نشان داده است.",
+    "en": "If your average speed on a trip is 60 km/h, at some moment the speedometer showed exactly 60.",
+    "tr": "Agar miyangin-e sor'atat dar yek safar 60 kilometr bar sa'at bashad, dast-e kam yek lahze sor'at-sanj daghighan 60 ra neshan dade ast."
+   },
+   "contrast": {
+    "fa": "هر دو شرط لازم است: `|x|` روی `[−1, 1]` پیوسته است ولی در صفر مشتق ندارد، و هیچ `c` با `f′(c) = 0` پیدا نمی‌شود.",
+    "en": "Both conditions are needed: `|x|` on `[−1, 1]` is continuous but has no derivative at zero, and there is no `c` with `f′(c) = 0`.",
+    "tr": "Har do shart lazem ast: `|x|` rooye `[−1, 1]` peyvaste ast vali dar sefr moshtagh nadarad, va hich `c` ba `f′(c) = 0` peyda nemishavad."
+   },
+   "unit": "math-5-mean-value"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-circle",
+   "term": {
+    "fa": "معادلهٔ دایره",
+    "en": "equation of a circle",
+    "tr": "moadele-ye dayere"
+   },
+   "explain": {
+    "fa": "دایره مجموعهٔ نقاطی است که از یک مرکز `(h, k)` فاصلهٔ ثابت `R` دارند. از فرمول فاصله: `(x − h)² + (y − k)² = R²`.",
+    "en": "A circle is the set of points at a fixed distance `R` from a centre `(h, k)`. From the distance formula: `(x − h)² + (y − k)² = R²`.",
+    "tr": "Dayere majmoo'e-ye noghati ast ke az yek markaz-e `(h, k)` fasele-ye sabet-e `R` darand. Az formool-e fasele: `(x − h)² + (y − k)² = R²`."
+   },
+   "matches": {
+    "fa": [
+     "دایره"
+    ],
+    "en": [
+     "circle"
+    ],
+    "tr": [
+     "dayere"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل کشیدن دایره با یک نخ و میخ: میخ مرکز است و نخ شعاع.",
+    "en": "Like drawing a circle with a string and a pin: the pin is the centre and the string is the radius.",
+    "tr": "Mesl-e keshidan-e dayere ba yek nakh va mikh: mikh markaz ast va nakh sho'a'."
+   },
+   "contrast": {
+    "fa": "علامت‌ها برعکس‌اند: در `(x − 2)² + (y + 3)² = 9` مرکز `(2, −3)` است، نه `(−2, 3)`؛ و شعاع `3` است، نه `9`.",
+    "en": "The signs flip: in `(x − 2)² + (y + 3)² = 9` the centre is `(2, −3)`, not `(−2, 3)`; and the radius is `3`, not `9`.",
+    "tr": "Alamat-ha bar-aks-and: dar `(x − 2)² + (y + 3)² = 9` markaz `(2, −3)` ast, na `(−2, 3)`; va sho'a' `3` ast, na `9`."
+   },
+   "unit": "math-6-circle"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-circle-general",
+   "term": {
+    "fa": "معادلهٔ گستردهٔ دایره",
+    "en": "general equation of a circle",
+    "tr": "moadele-ye gostarde-ye dayere"
+   },
+   "explain": {
+    "fa": "شکل باز شدهٔ معادله: `x² + y² + ax + by + c = 0`. مرکز `(−a/2, −b/2)` است و `R² = (a² + b² − 4c)/4`. اگر این عدد منفی شود، دایره‌ای وجود ندارد.",
+    "en": "The expanded form: `x² + y² + ax + by + c = 0`. The centre is `(−a/2, −b/2)` and `R² = (a² + b² − 4c)/4`. If this number is negative, there is no circle.",
+    "tr": "Shekl-e baz shode-ye moadele: `x² + y² + ax + by + c = 0`. Markaz `(−a/2, −b/2)` ast va `R² = (a² + b² − 4c)/4`. Agar in adad manfi shavad, dayere-i vojood nadarad."
+   },
+   "analogy": {
+    "fa": "مثل بستهٔ بازشده‌ای که باید دوباره مرتبش کنی؛ با مربع کامل کردن، شکل مرکز و شعاع دوباره پیدا می‌شود.",
+    "en": "Like an unpacked parcel you have to repack; completing the square brings back the centre-radius form.",
+    "tr": "Mesl-e baste-ye baz-shode-i ke bayad dobare morattabash koni; ba morabba'-e kamel kardan, shekl-e markaz va sho'a' dobare peyda mishavad."
+   },
+   "contrast": {
+    "fa": "ضریب `x²` و `y²` باید برابر و یک باشد؛ اگر نیست، اول کل معادله را بر آن تقسیم کن.",
+    "en": "The coefficients of `x²` and `y²` must be equal to one; if not, divide the whole equation by them first.",
+    "tr": "Zarib-e `x²` va `y²` bayad barabar va yek bashad; agar nist, avval kol-e moadele ra bar an taghsim kon."
+   },
+   "unit": "math-6-circle"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-line-circle",
+   "term": {
+    "fa": "وضع خط و دایره",
+    "en": "line and circle",
+    "tr": "vaz'-e khatt va dayere"
+   },
+   "explain": {
+    "fa": "فاصلهٔ مرکز تا خط را `d` بنام. `d < R`: خط دایره را در دو نقطه قطع می‌کند؛ `d = R`: خط مماس است؛ `d > R`: هیچ نقطهٔ مشترکی ندارند.",
+    "en": "Call the distance from the centre to the line `d`. `d < R`: the line cuts the circle at two points; `d = R`: the line is tangent; `d > R`: they share no point.",
+    "tr": "Fasele-ye markaz ta khatt ra `d` benam. `d < R`: khatt dayere ra dar do noghte ghat' mikonad; `d = R`: khatt momas ast; `d > R`: hich noghte-ye moshtaraki nadarand."
+   },
+   "analogy": {
+    "fa": "مثل یک چوب که از کنار یک حلقه رد می‌شود: یا از وسطش می‌گذرد، یا لبه را لمس می‌کند، یا کاملاً بیرون می‌ماند.",
+    "en": "Like a stick passing a ring: it goes through it, just touches the edge, or misses it completely.",
+    "tr": "Mesl-e yek choob ke az kenar-e yek halghe rad mishavad: ya az vasatash migozarad, ya labe ra lams mikonad, ya kamelan biroon mimanad."
+   },
+   "contrast": {
+    "fa": "فاصله را از «مرکز» تا خط حساب کن، نه از یک نقطهٔ دلخواه دایره.",
+    "en": "Measure the distance from the \"centre\" to the line, not from some point on the circle.",
+    "tr": "Fasele ra az \"markaz\" ta khatt hesab kon, na az yek noghte-ye delkhah-e dayere."
+   },
+   "unit": "math-6-circle"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-ellipse",
+   "term": {
+    "fa": "بیضی",
+    "en": "ellipse",
+    "tr": "beyzi"
+   },
+   "explain": {
+    "fa": "بیضی مجموعهٔ نقاطی است که مجموع فاصله‌شان از دو نقطهٔ ثابت (کانون‌ها) مقدار ثابت `2a` باشد. با مرکز در مبدأ: `x²/a² + y²/b² = 1`.",
+    "en": "An ellipse is the set of points whose distances to two fixed points (the foci) add up to a constant `2a`. Centred at the origin: `x²/a² + y²/b² = 1`.",
+    "tr": "Beyzi majmoo'e-ye noghati ast ke majmoo'-e fasele-shan az do noghte-ye sabet (kanoon-ha) meghdar-e sabet-e `2a` bashad. Ba markaz dar mabda': `x²/a² + y²/b² = 1`."
+   },
+   "analogy": {
+    "fa": "دو میخ و یک نخ شل: با کشیدن مداد دور نخ، یک بیضی می‌کشی.",
+    "en": "Two pins and a loose loop of string: run a pencil around inside the string and you draw an ellipse.",
+    "tr": "Do mikh va yek nakh-e shol: ba keshidan-e medad dor-e nakh, yek beyzi mikeshi."
+   },
+   "contrast": {
+    "fa": "در بیضی «مجموع» فاصله‌ها ثابت است؛ در هذلولی «تفاضل» آن‌ها.",
+    "en": "In an ellipse the \"sum\" of the distances is constant; in a hyperbola, their \"difference\".",
+    "tr": "Dar beyzi \"majmoo'\"-e fasele-ha sabet ast; dar hozloli \"tafazol\"-e an-ha."
+   },
+   "unit": "math-6-ellipse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-major-axis",
+   "term": {
+    "fa": "قطر بزرگ",
+    "en": "major axis",
+    "tr": "ghotr-e bozorg"
+   },
+   "explain": {
+    "fa": "قطر بزرگ بلندترین پاره‌خطی است که از مرکز بیضی و هر دو کانون می‌گذرد. طولش `2a` است؛ قطر کوچک عمود بر آن و به طول `2b` است.",
+    "en": "The major axis is the longest segment through the centre of the ellipse and both foci. Its length is `2a`; the minor axis is perpendicular to it, with length `2b`.",
+    "tr": "Ghotr-e bozorg boland-tarin pare-khatti ast ke az markaz-e beyzi va har do kanoon migozarad. Toolash `2a` ast; ghotr-e koochak amood bar an va be tool-e `2b` ast."
+   },
+   "analogy": {
+    "fa": "مثل بلندترین قطر یک تخم‌مرغ از نوک تا ته.",
+    "en": "Like the longest line across an egg, from tip to base.",
+    "tr": "Mesl-e boland-tarin ghotr-e yek tokhm-e morgh az nok ta tah."
+   },
+   "contrast": {
+    "fa": "طول قطر بزرگ `2a` است، نه `a`؛ `a` نصف قطر بزرگ است.",
+    "en": "The major axis has length `2a`, not `a`; `a` is half of it.",
+    "tr": "Tool-e ghotr-e bozorg `2a` ast, na `a`; `a` nesf-e ghotr-e bozorg ast."
+   },
+   "unit": "math-6-ellipse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-eccentricity",
+   "term": {
+    "fa": "خروج از مرکز",
+    "en": "eccentricity",
+    "tr": "khorooj az markaz"
+   },
+   "explain": {
+    "fa": "خروج از مرکز `e = c/a` نشان می‌دهد بیضی چقدر کشیده است. در بیضی `0 < e < 1`: نزدیک صفر یعنی تقریباً دایره، نزدیک یک یعنی خیلی کشیده. در هذلولی `e > 1`.",
+    "en": "Eccentricity `e = c/a` shows how stretched an ellipse is. For an ellipse `0 < e < 1`: near zero means almost a circle, near one means very stretched. For a hyperbola `e > 1`.",
+    "tr": "Khorooj az markaz `e = c/a` neshan midahad beyzi cheghadr keshide ast. Dar beyzi `0 < e < 1`: nazdik-e sefr ya'ni taghriban dayere, nazdik-e yek ya'ni kheyli keshide. Dar hozloli `e > 1`."
+   },
+   "analogy": {
+    "fa": "مثل بادکنکی که از دو طرف می‌کشی: هرچه بیشتر بکشی، خروج از مرکز به یک نزدیک‌تر می‌شود.",
+    "en": "Like a balloon pulled from both ends: the more you stretch it, the closer the eccentricity gets to one.",
+    "tr": "Mesl-e badkonaki ke az do taraf mikeshi: harche bishtar bekeshi, khorooj az markaz be yek nazdik-tar mishavad."
+   },
+   "contrast": {
+    "fa": "`e = c/a` است، نه `c/b`؛ و در بیضی هیچ‌وقت به یک نمی‌رسد.",
+    "en": "`e = c/a`, not `c/b`; and for an ellipse it never reaches one.",
+    "tr": "`e = c/a` ast, na `c/b`; va dar beyzi hich-vaght be yek nemiresad."
+   },
+   "unit": "math-6-ellipse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-ellipse-relation",
+   "term": {
+    "fa": "رابطهٔ بیضی",
+    "en": "ellipse relation",
+    "tr": "rabete-ye beyzi"
+   },
+   "explain": {
+    "fa": "در بیضی `a² = b² + c²`: نصف قطر بزرگ (`a`) بزرگ‌ترین عدد است و از نصف قطر کوچک (`b`) و فاصلهٔ کانونی (`c`) با رابطه‌ای مثل فیثاغورس ساخته می‌شود.",
+    "en": "In an ellipse `a² = b² + c²`: half the major axis (`a`) is the largest number, built from half the minor axis (`b`) and the focal distance (`c`) by a Pythagoras-like relation.",
+    "tr": "Dar beyzi `a² = b² + c²`: nesf-e ghotr-e bozorg (`a`) bozorg-tarin adad ast va az nesf-e ghotr-e koochak (`b`) va fasele-ye kanooni (`c`) ba rabete-i mesl-e Fisaghoores sakhte mishavad."
+   },
+   "analogy": {
+    "fa": "مثل مثلث قائم‌الزاویه‌ای که وتر آن `a` است: از کانون تا سرِ قطر کوچک دقیقاً `a` فاصله است.",
+    "en": "Like a right triangle whose hypotenuse is `a`: from a focus to the end of the minor axis is exactly `a`.",
+    "tr": "Mesl-e mosallas-e ghaem-ozzaviye-i ke vatar-e an `a` ast: az kanoon ta sar-e ghotr-e koochak daghighan `a` fasele ast."
+   },
+   "contrast": {
+    "fa": "در هذلولی رابطه برعکس است: `c² = a² + b²`. این دو را جابه‌جا ننویس.",
+    "en": "For a hyperbola the relation is reversed: `c² = a² + b²`. Do not swap them.",
+    "tr": "Dar hozloli rabete bar-aks ast: `c² = a² + b²`. In do ra jabeja nanevis."
+   },
+   "unit": "math-6-ellipse"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-parabola",
+   "term": {
+    "fa": "سهمی",
+    "en": "parabola",
+    "tr": "sahmi"
+   },
+   "explain": {
+    "fa": "سهمی مجموعهٔ نقاطی است که از یک نقطه (کانون) و یک خط (خط هادی) فاصلهٔ برابر دارند. سهمی قائم با رأس `(h, k)`: `(x − h)² = 4a(y − k)`؛ کانون `a` واحد بالای رأس است.",
+    "en": "A parabola is the set of points equally far from a point (the focus) and a line (the directrix). A vertical parabola with vertex `(h, k)`: `(x − h)² = 4a(y − k)`; the focus is `a` units above the vertex.",
+    "tr": "Sahmi majmoo'e-ye noghati ast ke az yek noghte (kanoon) va yek khatt (khatt-e hadi) fasele-ye barabar darand. Sahmi-ye ghaem ba ra's-e `(h, k)`: `(x − h)² = 4a(y − k)`; kanoon `a` vahed bala-ye ra's ast."
+   },
+   "matches": {
+    "fa": [
+     "معادلهٔ سهمی"
+    ],
+    "en": [
+     "equation of a parabola"
+    ],
+    "tr": [
+     "moadele-ye sahmi"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل بشقاب ماهواره: هر پرتو موازی که به آن بخورد، در کانون جمع می‌شود.",
+    "en": "Like a satellite dish: every parallel ray that hits it is gathered at the focus.",
+    "tr": "Mesl-e boshghab-e mahvare: har partov-e movazi ke be an bekhorad, dar kanoon jam' mishavad."
+   },
+   "contrast": {
+    "fa": "علامت `a` جهت باز شدن را تعیین می‌کند: مثبت رو به بالا (یا راست)، منفی رو به پایین (یا چپ).",
+    "en": "The sign of `a` sets the direction it opens: positive upwards (or right), negative downwards (or left).",
+    "tr": "Alamat-e `a` jahat-e baz shodan ra ta'yin mikonad: mosbat roo be bala (ya rast), manfi roo be payin (ya chap)."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-parabola-axis",
+   "term": {
+    "fa": "محور تقارن سهمی",
+    "en": "parabola's axis of symmetry",
+    "tr": "mehvar-e tagharon-e sahmi"
+   },
+   "explain": {
+    "fa": "خطی که از کانون و رأس می‌گذرد و بر خط هادی عمود است؛ سهمی دو نیمهٔ آینه‌ای در دو طرف آن دارد. برای `(x − h)² = 4a(y − k)`، محور تقارن `x = h` است.",
+    "en": "The line through the focus and the vertex, perpendicular to the directrix; the parabola has two mirror halves on either side of it. For `(x − h)² = 4a(y − k)`, the axis of symmetry is `x = h`.",
+    "tr": "Khatti ke az kanoon va ra's migozarad va bar khatt-e hadi amood ast; sahmi do nime-ye ayne-i dar do taraf-e an darad. Baraye `(x − h)² = 4a(y − k)`, mehvar-e tagharon `x = h` ast."
+   },
+   "analogy": {
+    "fa": "مثل خط وسط یک پل قوسی که دو طرفش یکسان است.",
+    "en": "Like the centre line of an arched bridge whose two sides match.",
+    "tr": "Mesl-e khatt-e vasat-e yek pol-e ghosi ke do tarafash yeksan ast."
+   },
+   "contrast": {
+    "fa": "محور تقارن از رأس می‌گذرد، نه از دو سرِ وتر کانونی؛ و همیشه بر خط هادی عمود است.",
+    "en": "The axis passes through the vertex, not through the ends of the latus rectum; and it is always perpendicular to the directrix.",
+    "tr": "Mehvar-e tagharon az ra's migozarad, na az do sar-e vatar-e kanooni; va hamishe bar khatt-e hadi amood ast."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-latus-rectum",
+   "term": {
+    "fa": "وتر کانونی قائم",
+    "en": "latus rectum",
+    "tr": "vatar-e kanooni-ye ghaem"
+   },
+   "explain": {
+    "fa": "وتری از سهمی که از کانون می‌گذرد و بر محور تقارن عمود است. طولش `|4a|` است، یعنی ضریب پشت پرانتز در معادلهٔ استاندارد.",
+    "en": "The chord of the parabola through the focus, perpendicular to the axis of symmetry. Its length is `|4a|`, the coefficient in the standard equation.",
+    "tr": "Vatari az sahmi ke az kanoon migozarad va bar mehvar-e tagharon amood ast. Toolash `|4a|` ast, ya'ni zarib-e posht-e parantez dar moadele-ye estandard."
+   },
+   "analogy": {
+    "fa": "مثل پهنای دهانهٔ بشقاب ماهواره درست در ارتفاع کانون.",
+    "en": "Like the width of a satellite dish measured exactly at the height of the focus.",
+    "tr": "Mesl-e pahna-ye dahane-ye boshghab-e mahvare dorost dar ertefa'-e kanoon."
+   },
+   "contrast": {
+    "fa": "طول وتر کانونی `|4a|` است، نه `|2a|` یا `|a|`؛ `a` فقط فاصلهٔ رأس تا کانون است.",
+    "en": "The latus rectum is `|4a|` long, not `|2a|` or `|a|`; `a` is only the distance from vertex to focus.",
+    "tr": "Tool-e vatar-e kanooni `|4a|` ast, na `|2a|` ya `|a|`; `a` faghat fasele-ye ra's ta kanoon ast."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-horizontal-parabola",
+   "term": {
+    "fa": "سهمی افقی",
+    "en": "horizontal parabola",
+    "tr": "sahmi-ye ofoghi"
+   },
+   "explain": {
+    "fa": "سهمی‌ای که به چپ یا راست باز می‌شود: `(y − k)² = 4a(x − h)`. اینجا `y` به توان دو است. محور تقارن افقی (`y = k`) و خط هادی عمودی است.",
+    "en": "A parabola that opens left or right: `(y − k)² = 4a(x − h)`. Here `y` is the one squared. The axis of symmetry is horizontal (`y = k`) and the directrix is vertical.",
+    "tr": "Sahmi-i ke be chap ya rast baz mishavad: `(y − k)² = 4a(x − h)`. Inja `y` be tavan-e do ast. Mehvar-e tagharon ofoghi (`y = k`) va khatt-e hadi amoodi ast."
+   },
+   "analogy": {
+    "fa": "مثل یک سهمی قائم که ۹۰ درجه به پهلو خوابیده است.",
+    "en": "Like a vertical parabola turned 90 degrees onto its side.",
+    "tr": "Mesl-e yek sahmi-ye ghaem ke 90 daraje be pahloo khabide ast."
+   },
+   "contrast": {
+    "fa": "برای تشخیص جهت، ببین کدام متغیر به توان دو است: `x²` یعنی قائم، `y²` یعنی افقی.",
+    "en": "To tell the direction, see which variable is squared: `x²` means vertical, `y²` means horizontal.",
+    "tr": "Baraye tashkhis-e jahat, bebin kodam moteghayyer be tavan-e do ast: `x²` ya'ni ghaem, `y²` ya'ni ofoghi."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-directrix",
+   "term": {
+    "fa": "خط هادی سهمی",
+    "en": "directrix of a parabola",
+    "tr": "khatt-e hadi-ye sahmi"
+   },
+   "explain": {
+    "fa": "خطی که هر نقطهٔ سهمی همان‌قدر از آن فاصله دارد که از کانون. در طرف مقابل کانون و به فاصلهٔ `a` از رأس است: برای `(x − h)² = 4a(y − k)`، خط هادی `y = k − a` است.",
+    "en": "The line that every point of the parabola is as far from as it is from the focus. It lies on the opposite side from the focus, `a` units from the vertex: for `(x − h)² = 4a(y − k)`, the directrix is `y = k − a`.",
+    "tr": "Khatti ke har noghte-ye sahmi haman-ghadr az an fasele darad ke az kanoon. Dar taraf-e moghabel-e kanoon va be fasele-ye `a` az ra's ast: baraye `(x − h)² = 4a(y − k)`, khatt-e hadi `y = k − a` ast."
+   },
+   "analogy": {
+    "fa": "رأس دقیقاً وسط کانون و خط هادی است، مثل کسی که درست وسط دو دوستش ایستاده.",
+    "en": "The vertex is exactly halfway between the focus and the directrix, like someone standing right between two friends.",
+    "tr": "Ra's daghighan vasat-e kanoon va khatt-e hadi ast, mesl-e kasi ke dorost vasat-e do doostash istade."
+   },
+   "contrast": {
+    "fa": "خط هادی بیرون سهمی است و سهمی هرگز آن را قطع نمی‌کند؛ کانون داخل دهانهٔ سهمی است.",
+    "en": "The directrix is outside the parabola and is never crossed by it; the focus is inside the opening.",
+    "tr": "Khatt-e hadi biroon-e sahmi ast va sahmi hargez an ra ghat' nemikonad; kanoon dakhel-e dahane-ye sahmi ast."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-focus",
+   "term": {
+    "fa": "کانون سهمی",
+    "en": "focus of a parabola",
+    "tr": "kanoon-e sahmi"
+   },
+   "explain": {
+    "fa": "نقطهٔ ثابتی داخل دهانهٔ سهمی، به فاصلهٔ `a` از رأس روی محور تقارن. برای `(x − h)² = 4a(y − k)`، کانون `(h, k + a)` است.",
+    "en": "The fixed point inside the opening of the parabola, `a` units from the vertex along the axis of symmetry. For `(x − h)² = 4a(y − k)`, the focus is `(h, k + a)`.",
+    "tr": "Noghte-ye sabeti dakhel-e dahane-ye sahmi, be fasele-ye `a` az ra's rooye mehvar-e tagharon. Baraye `(x − h)² = 4a(y − k)`, kanoon `(h, k + a)` ast."
+   },
+   "analogy": {
+    "fa": "جایی که گیرندهٔ بشقاب ماهواره را نصب می‌کنند، چون همهٔ امواج آنجا جمع می‌شوند.",
+    "en": "Where the receiver of a satellite dish is mounted, because all the waves gather there.",
+    "tr": "Jayi ke girande-ye boshghab-e mahvare ra nasb mikonand, chon hame-ye amvaj anja jam' mishavand."
+   },
+   "contrast": {
+    "fa": "برای پیدا کردن `a`، ضریب را بر چهار تقسیم کن: در `x² = 8y`، `4a = 8` پس `a = 2`، نه `8`.",
+    "en": "To find `a`, divide the coefficient by four: in `x² = 8y`, `4a = 8` so `a = 2`, not `8`.",
+    "tr": "Baraye peyda kardan-e `a`, zarib ra bar chahar taghsim kon: dar `x² = 8y`, `4a = 8` pas `a = 2`, na `8`."
+   },
+   "unit": "math-6-parabola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-hyperbola",
+   "term": {
+    "fa": "هذلولی",
+    "en": "hyperbola",
+    "tr": "hozloli"
+   },
+   "explain": {
+    "fa": "هذلولی مجموعهٔ نقاطی است که قدر مطلق تفاضل فاصله‌شان از دو کانون مقدار ثابت `2a` باشد. با مرکز در مبدأ و کانون‌ها روی محور `x`: `x²/a² − y²/b² = 1`. دو شاخهٔ جدا دارد.",
+    "en": "A hyperbola is the set of points where the absolute difference of the distances to two foci is a constant `2a`. Centred at the origin with foci on the `x`-axis: `x²/a² − y²/b² = 1`. It has two separate branches.",
+    "tr": "Hozloli majmoo'e-ye noghati ast ke ghadr-e motlagh-e tafazol-e fasele-shan az do kanoon meghdar-e sabet-e `2a` bashad. Ba markaz dar mabda' va kanoon-ha rooye mehvar-e `x`: `x²/a² − y²/b² = 1`. Do shakhe-ye joda darad."
+   },
+   "analogy": {
+    "fa": "مثل دو موج که از دو سنگ افتاده در آب پخش می‌شوند؛ جای تقاطع با فاصلهٔ ثابت شکل هذلولی می‌سازد.",
+    "en": "Like ripples spreading from two stones dropped in water; the places with a fixed difference in distance trace a hyperbola.",
+    "tr": "Mesl-e do moj ke az do sang-e oftade dar ab pakhsh mishavand; ja-ye taghato' ba fasele-ye sabet shekl-e hozloli misazad."
+   },
+   "contrast": {
+    "fa": "علامت منفی بین دو جمله، هذلولی را از بیضی جدا می‌کند؛ جملهٔ مثبت می‌گوید شاخه‌ها در کدام جهت باز می‌شوند.",
+    "en": "The minus sign between the terms separates a hyperbola from an ellipse; the positive term tells which way the branches open.",
+    "tr": "Alamat-e manfi beyn-e do jomle, hozloli ra az beyzi joda mikonad; jomle-ye mosbat migooyad shakhe-ha dar kodam jahat baz mishavand."
+   },
+   "unit": "math-6-hyperbola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-hyperbola-asymptotes",
+   "term": {
+    "fa": "مجانب هذلولی",
+    "en": "asymptotes of a hyperbola",
+    "tr": "mojaneb-e hozloli"
+   },
+   "explain": {
+    "fa": "هذلولی دو مجانب مایل دارد که از مرکز می‌گذرند. برای `x²/a² − y²/b² = 1` مجانب‌ها `y = ±(b/a)x` هستند. راه سریع: عدد `1` را صفر کن و برای `y` حل کن.",
+    "en": "A hyperbola has two slanted asymptotes through its centre. For `x²/a² − y²/b² = 1` they are `y = ±(b/a)x`. Quick way: replace the `1` with zero and solve for `y`.",
+    "tr": "Hozloli do mojaneb-e mayel darad ke az markaz migozarand. Baraye `x²/a² − y²/b² = 1` mojaneb-ha `y = ±(b/a)x` hastand. Rah-e sari': adad-e `1` ra sefr kon va baraye `y` hal kon."
+   },
+   "analogy": {
+    "fa": "مثل دو ریل که شاخه‌های هذلولی در دوردست کنارشان حرکت می‌کنند ولی هرگز به آن‌ها نمی‌رسند.",
+    "en": "Like two rails that the branches run alongside far away, without ever touching them.",
+    "tr": "Mesl-e do reyl ke shakhe-haye hozloli dar door-dast kenareshan harekat mikonand vali hargez be an-ha nemiresand."
+   },
+   "contrast": {
+    "fa": "شیب `b/a` است، نه `a/b`، وقتی `x²` جملهٔ مثبت است؛ اگر `y²` مثبت باشد، شیب `a/b` می‌شود.",
+    "en": "The slope is `b/a`, not `a/b`, when `x²` is the positive term; if `y²` is positive, the slope becomes `a/b`.",
+    "tr": "Shib `b/a` ast, na `a/b`, vaghti `x²` jomle-ye mosbat ast; agar `y²` mosbat bashad, shib `a/b` mishavad."
+   },
+   "unit": "math-6-hyperbola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-hyperbola-relation",
+   "term": {
+    "fa": "رابطهٔ هذلولی",
+    "en": "hyperbola relation",
+    "tr": "rabete-ye hozloli"
+   },
+   "explain": {
+    "fa": "در هذلولی `c² = a² + b²`: فاصلهٔ کانونی (`c`) بزرگ‌ترین عدد است، چون کانون‌ها بیرونِ رأس‌ها هستند.",
+    "en": "In a hyperbola `c² = a² + b²`: the focal distance (`c`) is the largest number, because the foci lie outside the vertices.",
+    "tr": "Dar hozloli `c² = a² + b²`: fasele-ye kanooni (`c`) bozorg-tarin adad ast, chon kanoon-ha biroon-e ra's-ha hastand."
+   },
+   "analogy": {
+    "fa": "در بیضی کانون‌ها داخل‌اند و `a` بزرگ‌ترین است؛ در هذلولی کانون‌ها بیرون‌اند و `c` بزرگ‌ترین است.",
+    "en": "In an ellipse the foci are inside and `a` is the largest; in a hyperbola the foci are outside and `c` is the largest.",
+    "tr": "Dar beyzi kanoon-ha dakhel-and va `a` bozorg-tarin ast; dar hozloli kanoon-ha biroon-and va `c` bozorg-tarin ast."
+   },
+   "contrast": {
+    "fa": "رابطهٔ بیضی (`a² = b² + c²`) را اینجا به کار نبر.",
+    "en": "Do not use the ellipse relation (`a² = b² + c²`) here.",
+    "tr": "Rabete-ye beyzi (`a² = b² + c²`) ra inja be kar nabar."
+   },
+   "unit": "math-6-hyperbola"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-total-probability",
+   "term": {
+    "fa": "قانون احتمال کل",
+    "en": "law of total probability",
+    "tr": "ghanoon-e ehtemal-e kol"
+   },
+   "explain": {
+    "fa": "اگر `B` و `B′` همهٔ حالت‌ها را به دو بخش جدا تقسیم کنند: `P(A) = P(B) P(A|B) + P(B′) P(A|B′)`. احتمال `A` را از هر مسیر جداگانه حساب کن و جمع بزن.",
+    "en": "If `B` and `B′` split all outcomes into two separate parts: `P(A) = P(B) P(A|B) + P(B′) P(A|B′)`. Work out the chance of `A` along each route and add them.",
+    "tr": "Agar `B` va `B′` hame-ye halat-ha ra be do bakhsh-e joda taghsim konand: `P(A) = P(B) P(A|B) + P(B′) P(A|B′)`. Ehtemal-e `A` ra az har masir-e jodagane hesab kon va jam' bezan."
+   },
+   "analogy": {
+    "fa": "مثل رسیدن به مدرسه از دو مسیر: احتمال دیر رسیدن از هر مسیر را در احتمال انتخاب همان مسیر ضرب کن و جمع بزن.",
+    "en": "Like getting to school by two routes: multiply the chance of being late on each route by the chance of taking it, then add.",
+    "tr": "Mesl-e residan be madrese az do masir: ehtemal-e dir residan az har masir ra dar ehtemal-e entekhab-e haman masir zarb kon va jam' bezan."
+   },
+   "contrast": {
+    "fa": "بخش‌ها باید همهٔ حالت‌ها را بپوشانند و هم‌پوشانی نداشته باشند؛ وگرنه جمع درست درنمی‌آید.",
+    "en": "The parts must cover every outcome and not overlap; otherwise the sum comes out wrong.",
+    "tr": "Bakhsh-ha bayad hame-ye halat-ha ra bepooshanand va ham-pooshani nadashte bashand; vagarna jam' dorost dar-nemiayad."
+   },
+   "unit": "math-7-conditional"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-independent",
+   "term": {
+    "fa": "پیشامدهای مستقل",
+    "en": "independent events",
+    "tr": "pishamad-haye mostaghel"
+   },
+   "explain": {
+    "fa": "`A` و `B` مستقل‌اند اگر رخ دادن یکی احتمال دیگری را عوض نکند: `P(A ∩ B) = P(A) P(B)`، یا معادلش `P(A|B) = P(A)`.",
+    "en": "`A` and `B` are independent if one happening does not change the chance of the other: `P(A ∩ B) = P(A) P(B)`, or equivalently `P(A|B) = P(A)`.",
+    "tr": "`A` va `B` mostaghel-and agar rokh dadan-e yeki ehtemal-e digari ra avaz nakonad: `P(A ∩ B) = P(A) P(B)`, ya mo'adelash `P(A|B) = P(A)`."
+   },
+   "analogy": {
+    "fa": "دو بار انداختن سکه: سکه حافظه ندارد و نتیجهٔ اول روی دومی اثری ندارد.",
+    "en": "Tossing a coin twice: the coin has no memory, and the first result does not affect the second.",
+    "tr": "Do bar andakhtan-e sekke: sekke hafeze nadarad va natije-ye avval rooye dovvomi asari nadarad."
+   },
+   "contrast": {
+    "fa": "مستقل با ناسازگار فرق دارد: دو پیشامد ناسازگار (که با هم رخ نمی‌دهند و احتمالشان صفر نیست) هرگز مستقل نیستند.",
+    "en": "Independent is not the same as mutually exclusive: two exclusive events (that cannot happen together, each with nonzero chance) are never independent.",
+    "tr": "Mostaghel ba nasazgar fargh darad: do pishamad-e nasazgar (ke ba ham rokh nemidahand va ehtemaleshan sefr nist) hargez mostaghel nistand."
+   },
+   "unit": "math-7-conditional"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-multiplication-rule",
+   "term": {
+    "fa": "قانون ضرب احتمال",
+    "en": "multiplication rule",
+    "tr": "ghanoon-e zarb-e ehtemal"
+   },
+   "explain": {
+    "fa": "احتمال اینکه هر دو پیشامد رخ دهند: `P(A ∩ B) = P(A) P(B|A)`. یعنی احتمال اولی، ضرب در احتمال دومی «به شرط اینکه» اولی رخ داده باشد.",
+    "en": "The chance that both events happen: `P(A ∩ B) = P(A) P(B|A)`. The chance of the first, times the chance of the second \"given that\" the first has happened.",
+    "tr": "Ehtemal-e inke har do pishamad rokh dahand: `P(A ∩ B) = P(A) P(B|A)`. Ya'ni ehtemal-e avvali, zarb dar ehtemal-e dovvomi \"be shart-e inke\" avvali rokh dade bashad."
+   },
+   "analogy": {
+    "fa": "بیرون کشیدن دو مهره بدون جای‌گذاری: برای مهرهٔ دوم، کیسه یک مهره کمتر دارد.",
+    "en": "Drawing two marbles without replacement: for the second marble, the bag has one fewer.",
+    "tr": "Biroon keshidan-e do mohre bedoon-e ja-gozari: baraye mohre-ye dovvom, kise yek mohre kamtar darad."
+   },
+   "contrast": {
+    "fa": "فقط برای پیشامدهای مستقل می‌شود ساده نوشت `P(A) P(B)`؛ در حالت کلی احتمال شرطی لازم است.",
+    "en": "Only for independent events can you simply write `P(A) P(B)`; in general the conditional probability is needed.",
+    "tr": "Faghat baraye pishamad-haye mostaghel mishavad sade nevesht `P(A) P(B)`; dar halat-e kolli ehtemal-e sharti lazem ast."
+   },
+   "unit": "math-7-conditional"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-complement",
+   "term": {
+    "fa": "پیشامد متمم",
+    "en": "complementary event",
+    "tr": "pishamad-e motammem"
+   },
+   "explain": {
+    "fa": "متمم `A` (یعنی `A′`) همهٔ حالت‌هایی است که `A` رخ نمی‌دهد. `P(A′) = 1 − P(A)`. وقتی حساب «دست‌کم یکی» سخت است، متممش، یعنی «هیچ‌کدام»، را حساب کن.",
+    "en": "The complement of `A` (written `A′`) is every outcome where `A` does not happen. `P(A′) = 1 − P(A)`. When \"at least one\" is hard to count, work out its complement, \"none\", instead.",
+    "tr": "Motammem-e `A` (ya'ni `A′`) hame-ye halat-hayi ast ke `A` rokh nemidahad. `P(A′) = 1 − P(A)`. Vaghti hesab-e \"dast-e kam yeki\" sakht ast, motammemash, ya'ni \"hich-kodam\", ra hesab kon."
+   },
+   "analogy": {
+    "fa": "اگر احتمال باران ۳۰٪ باشد، احتمال نباریدن ۷۰٪ است.",
+    "en": "If the chance of rain is 30%, the chance of no rain is 70%.",
+    "tr": "Agar ehtemal-e baran 30% bashad, ehtemal-e nabaridan 70% ast."
+   },
+   "contrast": {
+    "fa": "متمم «دست‌کم یک شش در دو پرتاب» «هیچ شش در دو پرتاب» است، نه «دو شش».",
+    "en": "The complement of \"at least one six in two throws\" is \"no six in two throws\", not \"two sixes\".",
+    "tr": "Motammem-e \"dast-e kam yek shesh dar do partab\" \"hich shesh dar do partab\" ast, na \"do shesh\"."
+   },
+   "unit": "math-7-conditional"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-conditional",
+   "term": {
+    "fa": "احتمال شرطی",
+    "en": "conditional probability",
+    "tr": "ehtemal-e sharti"
+   },
+   "explain": {
+    "fa": "احتمال `A` وقتی می‌دانیم `B` رخ داده: `P(A|B) = P(A ∩ B)/P(B)`. دانستن `B` فضای نمونه را به خودِ `B` کوچک می‌کند.",
+    "en": "The chance of `A` when we know `B` has happened: `P(A|B) = P(A ∩ B)/P(B)`. Knowing `B` shrinks the sample space down to `B` itself.",
+    "tr": "Ehtemal-e `A` vaghti midanim `B` rokh dade: `P(A|B) = P(A ∩ B)/P(B)`. Danestan-e `B` faza-ye nemoone ra be khod-e `B` koochak mikonad."
+   },
+   "analogy": {
+    "fa": "اگر بدانی تاس عدد زوج آمده، احتمال شش از یک‌ششم به یک‌سوم می‌رسد، چون فقط سه حالت مانده است.",
+    "en": "If you know the die showed an even number, the chance of a six rises from one sixth to one third, because only three outcomes are left.",
+    "tr": "Agar bedani tas adad-e zoj amade, ehtemal-e shesh az yek-shesh-om be yek-sevvom miresad, chon faghat se halat mande ast."
+   },
+   "contrast": {
+    "fa": "`P(A|B)` با `P(B|A)` فرق دارد: احتمال مثبت بودن آزمایش در بیمار با احتمال بیمار بودنِ کسی که آزمایشش مثبت است یکی نیست.",
+    "en": "`P(A|B)` is not `P(B|A)`: the chance a sick person tests positive is not the chance that someone who tests positive is sick.",
+    "tr": "`P(A|B)` ba `P(B|A)` fargh darad: ehtemal-e mosbat boodan-e azmayesh dar bimar ba ehtemal-e bimar boodan-e kasi ke azmayeshash mosbat ast yeki nist."
+   },
+   "unit": "math-7-conditional"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-random-variable",
+   "term": {
+    "fa": "متغیر تصادفی",
+    "en": "random variable",
+    "tr": "moteghayyer-e tasadofi"
+   },
+   "explain": {
+    "fa": "متغیر تصادفی به هر نتیجهٔ یک آزمایش تصادفی یک عدد نسبت می‌دهد. مثلاً در دو پرتاب سکه، `X` = تعداد شیرها، که می‌تواند `0`، `1` یا `2` باشد.",
+    "en": "A random variable assigns a number to each outcome of a random experiment. For example, in two coin tosses, `X` = the number of heads, which can be `0`, `1` or `2`.",
+    "tr": "Moteghayyer-e tasadofi be har natije-ye yek azmayesh-e tasadofi yek adad nesbat midahad. Masalan dar do partab-e sekke, `X` = te'dad-e shir-ha, ke mitavanad `0`, `1` ya `2` bashad."
+   },
+   "analogy": {
+    "fa": "مثل تابلوی امتیاز یک بازی: هر اتفاق را به یک عدد تبدیل می‌کند تا بشود با آن حساب کرد.",
+    "en": "Like a game scoreboard: it turns each event into a number so you can calculate with it.",
+    "tr": "Mesl-e tablo-ye emtiyaz-e yek bazi: har ettefagh ra be yek adad tabdil mikonad ta beshavad ba an hesab kard."
+   },
+   "contrast": {
+    "fa": "متغیر تصادفی در واقع یک تابع است (از نتیجه‌ها به اعداد)، نه یک عدد مجهول در معادله.",
+    "en": "A random variable is really a function (from outcomes to numbers), not an unknown in an equation.",
+    "tr": "Moteghayyer-e tasadofi dar vaghe' yek tabe' ast (az natije-ha be a'dad), na yek adad-e majhool dar moadele."
+   },
+   "unit": "math-7-random-variables"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-distribution",
+   "term": {
+    "fa": "توزیع احتمال",
+    "en": "probability distribution",
+    "tr": "tozi'-e ehtemal"
+   },
+   "explain": {
+    "fa": "جدولی که هر مقدار متغیر تصادفی را با احتمالش نشان می‌دهد. همهٔ احتمال‌ها بین `0` و `1`اند و جمعشان دقیقاً `1` است.",
+    "en": "A table that lists each value of a random variable with its probability. Every probability is between `0` and `1`, and together they add up to exactly `1`.",
+    "tr": "Jadvali ke har meghdar-e moteghayyer-e tasadofi ra ba ehtemalash neshan midahad. Hame-ye ehtemal-ha beyn-e `0` va `1`-and va jam'eshan daghighan `1` ast."
+   },
+   "analogy": {
+    "fa": "مثل بودجهٔ ماهانه: کل پول (`1`) بین چند بخش تقسیم می‌شود و هیچ‌چیز کم و زیاد نمی‌ماند.",
+    "en": "Like a monthly budget: the whole amount (`1`) is shared out among the items, with nothing missing or left over.",
+    "tr": "Mesl-e boodje-ye mahane: kol-e pool (`1`) beyn-e chand bakhsh taghsim mishavad va hich-chiz kam va ziyad nemimanad."
+   },
+   "contrast": {
+    "fa": "اگر جمع احتمال‌ها `1` نشود، جدول توزیع نیست؛ برای پیدا کردن احتمال گمشده از همین شرط استفاده کن.",
+    "en": "If the probabilities do not add up to `1`, it is not a distribution; use this condition to find a missing probability.",
+    "tr": "Agar jam'-e ehtemal-ha `1` nashavad, jadval tozi' nist; baraye peyda kardan-e ehtemal-e gomshode az hamin shart estefade kon."
+   },
+   "unit": "math-7-random-variables"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-expected-value",
+   "term": {
+    "fa": "امید ریاضی",
+    "en": "expected value",
+    "tr": "omid-e riazi"
+   },
+   "explain": {
+    "fa": "میانگین وزنی مقدارهای متغیر تصادفی: `E(X) = Σ x P(X = x)`. اگر آزمایش را بارها تکرار کنی، میانگین نتیجه‌ها به امید ریاضی نزدیک می‌شود.",
+    "en": "The weighted average of a random variable's values: `E(X) = Σ x P(X = x)`. If you repeat the experiment many times, the average result approaches the expected value.",
+    "tr": "Miyangin-e vazni-ye meghdar-haye moteghayyer-e tasadofi: `E(X) = Σ x P(X = x)`. Agar azmayesh ra bar-ha tekrar koni, miyangin-e natije-ha be omid-e riazi nazdik mishavad."
+   },
+   "analogy": {
+    "fa": "میانگین امتیازی که در بلندمدت از هر بار بازی انتظار داری.",
+    "en": "The average score you can expect per game in the long run.",
+    "tr": "Miyangin-e emtiyazi ke dar boland-modat az har bar bazi entezar dari."
+   },
+   "contrast": {
+    "fa": "امید ریاضی لازم نیست یکی از مقدارهای ممکن باشد: امید ریاضی یک تاس `3.5` است، هرچند هیچ‌وقت `3.5` نمی‌آید.",
+    "en": "The expected value need not be a possible value: for one die it is `3.5`, though `3.5` never comes up.",
+    "tr": "Omid-e riazi lazem nist yeki az meghdar-haye momken bashad: omid-e riazi-ye yek tas `3.5` ast, harchand hich-vaght `3.5` nemiayad."
+   },
+   "unit": "math-7-random-variables"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-variance",
+   "term": {
+    "fa": "واریانس",
+    "en": "variance",
+    "tr": "variyans"
+   },
+   "explain": {
+    "fa": "واریانس پراکندگی مقدارها دور میانگین را می‌سنجد: `Var(X) = E(X²) − (E(X))²`. هرچه بزرگ‌تر باشد، نتیجه‌ها از میانگین دورترند.",
+    "en": "Variance measures how spread out the values are around the mean: `Var(X) = E(X²) − (E(X))²`. The larger it is, the further the results are from the average.",
+    "tr": "Variyans parakandegi-ye meghdar-ha dor-e miyangin ra misanjad: `Var(X) = E(X²) − (E(X))²`. Harche bozorg-tar bashad, natije-ha az miyangin door-tar-and."
+   },
+   "analogy": {
+    "fa": "دو تیرانداز با میانگین یکسان: یکی همهٔ تیرها را نزدیک هم می‌زند (واریانس کم)، دیگری پخش (واریانس زیاد).",
+    "en": "Two archers with the same average: one groups all the arrows tightly (low variance), the other scatters them (high variance).",
+    "tr": "Do tirandaz ba miyangin-e yeksan: yeki hame-ye tir-ha ra nazdik-e ham mizanad (variyans-e kam), digari pakhsh (variyans-e ziyad)."
+   },
+   "contrast": {
+    "fa": "`E(X²)` با `(E(X))²` فرق دارد؛ اولی میانگین مربع‌هاست و دومی مربع میانگین.",
+    "en": "`E(X²)` is not `(E(X))²`; the first is the mean of the squares, the second the square of the mean.",
+    "tr": "`E(X²)` ba `(E(X))²` fargh darad; avvali miyangin-e morabba'-hast va dovvomi morabba'-e miyangin."
+   },
+   "unit": "math-7-random-variables"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-standard-deviation",
+   "term": {
+    "fa": "انحراف معیار",
+    "en": "standard deviation",
+    "tr": "enheraf-e me'yar"
+   },
+   "explain": {
+    "fa": "انحراف معیار ریشهٔ دوم واریانس است: `σ = √Var(X)`. چون هم‌واحد خود داده‌هاست، فهمیدنش از واریانس ساده‌تر است.",
+    "en": "The standard deviation is the square root of the variance: `σ = √Var(X)`. Because it is in the same units as the data, it is easier to interpret than the variance.",
+    "tr": "Enheraf-e me'yar rishe-ye dovvom-e variyans ast: `σ = √Var(X)`. Chon ham-vahed-e khod-e dade-hast, fahmidanash az variyans sade-tar ast."
+   },
+   "analogy": {
+    "fa": "اگر نمره‌ها بر حسب «نمره» باشند، واریانس بر حسب «نمره به توان دو» است، ولی انحراف معیار دوباره «نمره».",
+    "en": "If scores are in \"marks\", variance is in \"marks squared\", but the standard deviation is back in \"marks\".",
+    "tr": "Agar nomre-ha bar hasb-e \"nomre\" bashand, variyans bar hasb-e \"nomre be tavan-e do\" ast, vali enheraf-e me'yar dobare \"nomre\"."
+   },
+   "contrast": {
+    "fa": "واریانس را با انحراف معیار جابه‌جا نکن: اگر واریانس `9` باشد، انحراف معیار `3` است.",
+    "en": "Do not swap variance and standard deviation: if the variance is `9`, the standard deviation is `3`.",
+    "tr": "Variyans ra ba enheraf-e me'yar jabeja nakon: agar variyans `9` bashad, enheraf-e me'yar `3` ast."
+   },
+   "unit": "math-7-random-variables"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-bernoulli-trial",
+   "term": {
+    "fa": "آزمایش برنولی",
+    "en": "Bernoulli trial",
+    "tr": "azmayesh-e Bernooli"
+   },
+   "explain": {
+    "fa": "آزمایشی با فقط دو نتیجه: «موفقیت» با احتمال `p` و «شکست» با احتمال `q = 1 − p`. اگر `X` برای موفقیت `1` و برای شکست `0` باشد، `E(X) = p`.",
+    "en": "An experiment with only two outcomes: \"success\" with probability `p` and \"failure\" with probability `q = 1 − p`. If `X` is `1` for success and `0` for failure, `E(X) = p`.",
+    "tr": "Azmayeshi ba faghat do natije: \"movaffaghiyat\" ba ehtemal-e `p` va \"shekast\" ba ehtemal-e `q = 1 − p`. Agar `X` baraye movaffaghiyat `1` va baraye shekast `0` bashad, `E(X) = p`."
+   },
+   "analogy": {
+    "fa": "یک پرتاب آزاد بسکتبال: یا گل می‌شود یا نمی‌شود.",
+    "en": "One basketball free throw: it either goes in or it does not.",
+    "tr": "Yek partab-e azad-e basketbal: ya gol mishavad ya nemishavad."
+   },
+   "contrast": {
+    "fa": "«موفقیت» فقط اسم یکی از دو نتیجه است و لزوماً خوب نیست؛ مثلاً در بررسی قطعات معیوب، پیدا کردن قطعهٔ خراب «موفقیت» است.",
+    "en": "\"Success\" is just the name of one of the two outcomes, not necessarily a good one; when checking for faulty parts, finding a faulty part is the \"success\".",
+    "tr": "\"Movaffaghiyat\" faghat esm-e yeki az do natije ast va lozooman khoob nist; masalan dar barresi-ye ghate'at-e ma'yoob, peyda kardan-e ghet'e-ye kharab \"movaffaghiyat\" ast."
+   },
+   "unit": "math-7-binomial"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-binomial",
+   "term": {
+    "fa": "توزیع دوجمله‌ای",
+    "en": "binomial distribution",
+    "tr": "tozi'-e do-jomle-i"
+   },
+   "explain": {
+    "fa": "تعداد موفقیت‌ها در `n` آزمایش برنولی مستقل با احتمال ثابت `p`: `P(X = k) = C(n, k) p^k q^(n − k)`. امید ریاضی `np` و واریانس `npq` است.",
+    "en": "The number of successes in `n` independent Bernoulli trials with a fixed probability `p`: `P(X = k) = C(n, k) p^k q^(n − k)`. The expected value is `np` and the variance is `npq`.",
+    "tr": "Te'dad-e movaffaghiyat-ha dar `n` azmayesh-e Bernooli-ye mostaghel ba ehtemal-e sabet-e `p`: `P(X = k) = C(n, k) p^k q^(n − k)`. Omid-e riazi `np` va variyans `npq` ast."
+   },
+   "analogy": {
+    "fa": "ده پرتاب آزاد پشت سر هم: چند تا گل می‌شود؟ `C(n, k)` تعداد ترتیب‌های ممکنِ گل‌ها و خطاهاست.",
+    "en": "Ten free throws in a row: how many go in? `C(n, k)` counts the possible orders of hits and misses.",
+    "tr": "Dah partab-e azad posht-e sar-e ham: chand ta gol mishavad? `C(n, k)` te'dad-e tartib-haye momken-e gol-ha va khata-hast."
+   },
+   "contrast": {
+    "fa": "ضریب `C(n, k)` را فراموش نکن؛ `p^k q^(n − k)` فقط احتمال «یک» ترتیب خاص است.",
+    "en": "Do not forget the factor `C(n, k)`; `p^k q^(n − k)` is only the chance of \"one\" particular order.",
+    "tr": "Zarib-e `C(n, k)` ra faramoosh nakon; `p^k q^(n − k)` faghat ehtemal-e \"yek\" tartib-e khas ast."
+   },
+   "unit": "math-7-binomial"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-bernoulli-variance",
+   "term": {
+    "fa": "واریانس برنولی",
+    "en": "Bernoulli variance",
+    "tr": "variyans-e Bernooli"
+   },
+   "explain": {
+    "fa": "واریانس یک آزمایش برنولی `p(1 − p) = pq` است. بیشترین مقدارش `1/4` است، وقتی `p = 1/2`؛ یعنی نتیجه وقتی بیشترین عدم‌قطعیت را دارد که دو حالت هم‌شانس باشند.",
+    "en": "The variance of one Bernoulli trial is `p(1 − p) = pq`. Its largest value is `1/4`, when `p = 1/2`: the result is most uncertain when the two outcomes are equally likely.",
+    "tr": "Variyans-e yek azmayesh-e Bernooli `p(1 − p) = pq` ast. Bishtarin meghdarash `1/4` ast, vaghti `p = 1/2`; ya'ni natije vaghti bishtarin adam-e ghat'iyat ra darad ke do halat ham-shans bashand."
+   },
+   "analogy": {
+    "fa": "پرتاب سکهٔ سالم غیرقابل پیش‌بینی‌ترین است؛ سکه‌ای که تقریباً همیشه شیر می‌آید، تقریباً هیچ پراکندگی ندارد.",
+    "en": "A fair coin is the least predictable; a coin that almost always lands heads has almost no spread.",
+    "tr": "Partab-e sekke-ye salem gheyr-e ghabel-e pish-bini-tarin ast; sekke-i ke taghriban hamishe shir miayad, taghriban hich parakandegi nadarad."
+   },
+   "contrast": {
+    "fa": "واریانس برنولی `pq` است، نه `p`؛ `p` امید ریاضی است. برای `n` آزمایش، واریانس `npq` می‌شود.",
+    "en": "Bernoulli variance is `pq`, not `p`; `p` is the expected value. For `n` trials the variance becomes `npq`.",
+    "tr": "Variyans-e Bernooli `pq` ast, na `p`; `p` omid-e riazi ast. Baraye `n` azmayesh, variyans `npq` mishavad."
+   },
+   "unit": "math-7-binomial"
+  }
+ ]
+}
