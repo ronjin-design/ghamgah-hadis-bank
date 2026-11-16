@@ -1,0 +1,916 @@
+{
+ "version": 111,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 1,
+   "key": "bio-1-nucleic-acids",
+   "title": {
+    "fa": "نوکلئیک اسیدها: ساختار دنا و رنا",
+    "en": "Nucleic acids: the structure of DNA and RNA",
+    "tr": "Nukleik asid-ha: sakhtar-e dena va rena"
+   },
+   "summary": {
+    "fa": "کتاب دستور پخت سلول، با چهار حرف نوشته شده.",
+    "en": "The cell's recipe book, written with four letters.",
+    "tr": "Ketab-e dastoor-e pokht-e sellool, ba chahar harf neveshte shode."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کتاب دستور پخت در گاوصندوق",
+      "en": "Understand first: the recipe book in the safe",
+      "tr": "Avval befahm: ketab-e dastoor-e pokht dar gavsandoogh"
+     },
+     "body": {
+      "fa": "دنا را یک کتاب دستور پخت بزرگ تصور کن که در گاوصندوق هسته نگه داشته می‌شود. این کتاب فقط چهار حرف دارد: چهار باز آلی آدنین، گوانین، سیتوزین و تیمین. ترتیب این حرف‌ها دستور ساخت همهٔ پروتئین‌ها را می‌نویسد. رنا یک فتوکپی کاری از یک صفحه است که از گاوصندوق بیرون می‌رود تا در آشپزخانهٔ سلول استفاده شود. هر حرف روی یک «نوکلئوتید» سوار است: یک قند، یک گروه فسفات و یک باز آلی.",
+      "en": "Picture DNA as a huge recipe book kept in the safe of the nucleus. The book has only four letters: the four organic bases adenine, guanine, cytosine and thymine. The order of these letters writes the instructions for making every protein. RNA is a working photocopy of one page that leaves the safe to be used in the cell's kitchen. Each letter rides on a \"nucleotide\": a sugar, a phosphate group and an organic base.",
+      "tr": "Dena ra yek ketab-e dastoor-e pokht-e bozorg tasavvor kon ke dar gavsandoogh-e haste negah dashte mishavad. In ketab faghat chahar harf darad: chahar baz-e ali-ye adenin, guanin, sitozin va timin. Tartib-e in harf-ha dastoor-e sakht-e hame-ye protein-ha ra minevisad. Rena yek fotokopi-ye kari az yek safhe ast ke az gavsandoogh biroon miravad ta dar ashpazkhane-ye sellool estefade shavad. Har harf rooye yek \"nukleotid\" savar ast: yek ghand, yek goroh-e fosfat va yek baz-e ali."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نردبان پیچ‌خورده",
+      "en": "The twisted ladder",
+      "tr": "Nardeban-e pich-khorde"
+     },
+     "body": {
+      "fa": "دنا مثل یک نردبان پیچ‌خورده است. نرده‌های کناری از قند و فسفات ساخته شده‌اند و نوکلئوتیدهای یک رشته با پیوند کووالانسی «فسفودی‌استر» به هم وصل‌اند (آزمون‌های خرداد ۱۳۹۹ و ۱۴۰۱). پله‌ها جفت بازها هستند که با پیوندهای ضعیف «هیدروژنی» به هم می‌چسبند. دو رشته در جهت‌های مخالف کنار هم قرار می‌گیرند، یعنی «ناهمسو»اند (آزمون خرداد ۱۴۰۰).",
+      "en": "DNA is like a twisted ladder. The side rails are made of sugar and phosphate, and the nucleotides of one strand are joined by covalent \"phosphodiester\" bonds (Khordad 1399 and 1401 papers). The rungs are the base pairs, which stick together with weak \"hydrogen\" bonds. The two strands lie side by side running in opposite directions: they are \"antiparallel\" (Khordad 1400 paper).",
+      "tr": "Dena mesl-e yek nardeban-e pich-khorde ast. Narde-haye kenari az ghand va fosfat sakhte shode-and va nukleotid-haye yek reshte ba peyvand-e kovalansi-ye \"fosfodi-ester\" be ham vasl-and (azmoon-haye Khordad 1399 va 1401). Pelle-ha joft baz-ha hastand ke ba peyvand-haye za'if-e \"hidrojeni\" be ham michasband. Do reshte dar jahat-haye mokhalef kenar-e ham gharar migirand, ya'ni \"nahamsoo\"-and (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  5' end          3' end\n   |                  |\n   P-S - A ::  T - S-P   2 bonds\n   P-S - G ::: C - S-P   3 bonds\n   P-S - T ::  A - S-P   2 bonds\n   P-S - C ::: G - S-P   3 bonds\n   |                  |\n  3' end          5' end\n\n  S = sugar   P = phosphate\n  : = one hydrogen bond",
+     "caption": {
+      "fa": "نرده‌ها قند و فسفات‌اند؛ پله‌ها جفت بازها. `A` با `T` دو پیوند هیدروژنی دارد و `G` با `C` سه پیوند. دو رشته ناهمسو هستند.",
+      "en": "The rails are sugar and phosphate; the rungs are base pairs. `A` with `T` has two hydrogen bonds and `G` with `C` has three. The two strands are antiparallel.",
+      "tr": "Narde-ha ghand va fosfat-and; pelle-ha joft baz-ha. `A` ba `T` do peyvand-e hidrojeni darad va `G` ba `C` se peyvand. Do reshte nahamsoo hastand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون جفت شدن و چارگاف",
+      "en": "The pairing rule and Chargaff",
+      "tr": "Ghanoon-e joft shodan va Chargaff"
+     },
+     "body": {
+      "fa": "چرا همیشه `A` با `T` و `G` با `C`؟ مثل تکه‌های پازل: یک باز بزرگ دوحلقه‌ای (پورین: آدنین و گوانین) همیشه با یک باز کوچک تک‌حلقه‌ای (پیریمیدین: تیمین، سیتوزین و در رنا یوراسیل) جفت می‌شود، پس پهنای نردبان همه‌جا ثابت می‌ماند (آزمون‌های دی ۱۳۹۹، خرداد ۱۴۰۰ و ۱۴۰۱). نتیجهٔ مهم، قانون چارگاف است: در دنا مقدار `A` با `T` و مقدار `G` با `C` برابر است، پس مجموع پورین‌ها برابر مجموع پیریمیدین‌هاست (آزمون خرداد ۱۳۹۸ و دی ۱۴۰۰).",
+      "en": "Why always `A` with `T` and `G` with `C`? Like puzzle pieces: a big two-ringed base (a purine: adenine and guanine) always pairs with a small one-ringed base (a pyrimidine: thymine, cytosine, and in RNA uracil), so the ladder is the same width all the way along (Dey 1399, Khordad 1400 and 1401 papers). The important result is Chargaff's rule: in DNA the amount of `A` equals `T` and `G` equals `C`, so the total purines equal the total pyrimidines (Khordad 1398 and Dey 1400 papers).",
+      "tr": "Chera hamishe `A` ba `T` va `G` ba `C`? Mesl-e tekke-haye pazl: yek baz-e bozorg-e do-halghe-i (purin: adenin va guanin) hamishe ba yek baz-e koochak-e tak-halghe-i (pirimidin: timin, sitozin va dar rena urasil) joft mishavad, pas pahna-ye nardeban hame-ja sabet mimanad (azmoon-haye Dey 1399, Khordad 1400 va 1401). Natije-ye mohem, ghanoon-e Chargaff ast: dar dena meghdar-e `A` ba `T` va meghdar-e `G` ba `C` barabar ast, pas majmoo-e purin-ha barabar-e majmoo-e pirimidin-hast (azmoon-e Khordad 1398 va Dey 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "A = T  ,   G = C   ⟹   A + G = T + C",
+     "caption": {
+      "fa": "قانون چارگاف (آزمون خرداد ۱۳۹۸)",
+      "en": "Chargaff's rule (Khordad 1398 paper)",
+      "tr": "Ghanoon-e Chargaff (azmoon-e Khordad 1398)"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "             DNA          RNA\n  sugar      deoxyribose  ribose\n  bases      A  G  C  T   A  G  C  U\n  strands    two          one\n  T or U?    thymine      uracil",
+     "caption": {
+      "fa": "دنا: قند دئوکسی‌ریبوز و تیمین؛ رنا: قند ریبوز و یوراسیل (آزمون خرداد ۱۴۰۲ و خرداد ۱۴۰۰).",
+      "en": "DNA: deoxyribose sugar and thymine; RNA: ribose sugar and uracil (Khordad 1402 and Khordad 1400 papers).",
+      "tr": "Dena: ghand-e deoksi-riboz va timin; rena: ghand-e riboz va urasil (azmoon-e Khordad 1402 va Khordad 1400)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فرانکلین، واتسون و کریک",
+      "en": "Franklin, Watson and Crick",
+      "tr": "Franklin, Watson va Crick"
+     },
+     "body": {
+      "fa": "یک نکتهٔ تاریخی که در امتحان می‌آید: روزالیند فرانکلین با پرتو ایکس تصویری گرفت که مارپیچی بودن دنا را نشان داد، ولی جفت شدن بازها را کشف نکرد (آزمون خرداد ۱۴۰۱). واتسون و کریک با کمک آن تصویر، مدل مارپیچ دوتایی را ساختند (آزمون دی ۱۴۰۱).",
+      "en": "A piece of history that comes up in exams: Rosalind Franklin used X-rays to take a picture that showed DNA is a helix, but she did not discover how the bases pair (Khordad 1401 paper). Watson and Crick used that picture to build the double-helix model (Dey 1401 paper).",
+      "tr": "Yek nokte-ye tarikhi ke dar emtehan miayad: Rosalind Franklin ba partov-e iks tasviri gereft ke marpichi boodan-e dena ra neshan dad, vali joft shodan-e baz-ha ra kashf nakard (azmoon-e Khordad 1401). Watson va Crick ba komak-e an tasvir, model-e marpich-e dotayi ra sakhtand (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رشتهٔ مکمل `5′-ATGC-3′`",
+      "en": "Warm-up: the complementary strand of `5′-ATGC-3′`",
+      "tr": "Garm kardan: reshte-ye mokammel-e `5′-ATGC-3′`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر باز را با جفتش عوض کن: `A` با `T`، `G` با `C`.",
+        "en": "Swap each base for its partner: `A` with `T`, `G` with `C`.",
+        "tr": "Har baz ra ba joftash avaz kon: `A` ba `T`، `G` ba `C`."
+       },
+       "math": "A T G C   →   T A C G"
+      },
+      {
+       "text": {
+        "fa": "رشتهٔ مکمل ناهمسوست، پس سرهایش برعکس است: جایی که اولی `5′` دارد، دومی `3′` دارد.",
+        "en": "The complementary strand is antiparallel, so its ends are reversed: where the first has `5′`, the second has `3′`.",
+        "tr": "Reshte-ye mokammel nahamsoost, pas sar-hayash bar-aks ast: jayi ke avvali `5′` darad, dovvomi `3′` darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`3′-TACG-5′`",
+      "en": "`3′-TACG-5′`",
+      "tr": "`3′-TACG-5′`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در یک دنا ۳۰ درصد بازها آدنین است. درصد بقیه چقدر است؟ (مثل آزمون خرداد ۱۳۹۸ و دی ۱۴۰۰)",
+      "en": "Textbook and exam: in a DNA molecule 30% of the bases are adenine. What are the other percentages? (as in the Khordad 1398 and Dey 1400 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar yek dena 30 darsad-e baz-ha adenin ast. Darsad-e baghiye cheghadr ast? (mesl-e azmoon-e Khordad 1398 va Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر `A` یک `T` روبه‌رو دارد، پس تیمین هم ۳۰ درصد است.",
+        "en": "Every `A` has a `T` opposite it, so thymine is also 30%.",
+        "tr": "Har `A` yek `T` roo-be-roo darad, pas timin ham 30 darsad ast."
+       },
+       "math": "T = 30%"
+      },
+      {
+       "text": {
+        "fa": "باقی‌مانده بین `G` و `C` است.",
+        "en": "What is left is shared by `G` and `C`.",
+        "tr": "Baghi-mande beyn-e `G` va `C` ast."
+       },
+       "math": "100 − 60 = 40%"
+      },
+      {
+       "text": {
+        "fa": "`G` و `C` هم برابرند، پس نصف‌نصف.",
+        "en": "`G` and `C` are equal too, so it is split in half.",
+        "tr": "`G` va `C` ham barabar-and, pas nesf-nesf."
+       },
+       "math": "G = C = 20%"
+      }
+     ],
+     "answer": {
+      "fa": "`T` ۳۰٪، `G` و `C` هر کدام ۲۰٪",
+      "en": "`T` 30%, `G` and `C` 20% each",
+      "tr": "`T` 30%، `G` va `C` har kodam 20%"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در قطعهٔ `5′-AAGGC-3′` و رشتهٔ مکملش چند پیوند هیدروژنی هست؟",
+      "en": "Exam twist: how many hydrogen bonds are there between `5′-AAGGC-3′` and its complementary strand?",
+      "tr": "Pich-e emtehani: dar ghet'e-ye `5′-AAGGC-3′` va reshte-ye mokammelash chand peyvand-e hidrojeni hast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: تعداد پیوند به نوع جفت بستگی دارد، نه فقط تعداد جفت‌ها. جفت‌ها را جدا کن.",
+        "en": "The twist: the number of bonds depends on the kind of pair, not just how many pairs. Separate the pairs.",
+        "tr": "Pich-e emtehan: te'dad-e peyvand be no'-e joft bastegi darad, na faghat te'dad-e joft-ha. Joft-ha ra joda kon."
+       },
+       "math": "2 × (A–T)  ,   3 × (G–C)"
+      },
+      {
+       "text": {
+        "fa": "هر `A–T` دو پیوند و هر `G–C` سه پیوند دارد.",
+        "en": "Each `A–T` has two bonds and each `G–C` has three.",
+        "tr": "Har `A–T` do peyvand va har `G–C` se peyvand darad."
+       },
+       "math": "2 × 2 + 3 × 3 = 4 + 9"
+      },
+      {
+       "text": {
+        "fa": "برای همین قطعه‌ای که `G–C` بیشتری دارد، سخت‌تر از هم باز می‌شود.",
+        "en": "That is why a stretch with more `G–C` pairs is harder to pull apart.",
+        "tr": "Baraye hamin ghet'e-i ke `G–C`-e bishtari darad, sakht-tar az ham baz mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`13`",
+      "en": "`13`",
+      "tr": "`13`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیوند فسفودی‌استر نوکلئوتیدهای «یک رشته» را به هم وصل می‌کند (کووالانسی و محکم)؛ پیوند هیدروژنی «دو رشته» را کنار هم نگه می‌دارد (ضعیف). این دو را جابه‌جا ننویس.",
+      "en": "The phosphodiester bond joins the nucleotides of \"one strand\" (covalent and strong); the hydrogen bond holds \"the two strands\" together (weak). Do not swap them.",
+      "tr": "Peyvand-e fosfodi-ester nukleotid-haye \"yek reshte\" ra be ham vasl mikonad (kovalansi va mohkam); peyvand-e hidrojeni \"do reshte\" ra kenar-e ham negah midarad (za'if). In do ra jabeja nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تیمین فقط در دناست و یوراسیل فقط در رنا. سیتوزین، آدنین و گوانین در هر دو هستند.",
+      "en": "Thymine is only in DNA and uracil only in RNA. Cytosine, adenine and guanine are in both.",
+      "tr": "Timin faghat dar denast va urasil faghat dar rena. Sitozin, adenin va guanin dar har do hastand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1399-Dey",
+     "number": 910
+    },
+    {
+     "session": "1399-Dey",
+     "number": 924
+    },
+    {
+     "session": "1399-Dey",
+     "number": 941
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1400-Dey",
+     "number": 945
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 917
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 925
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 912
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 946
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Dey",
+     "number": 902
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 2,
+   "key": "bio-1-replication",
+   "title": {
+    "fa": "همانندسازی دنا",
+    "en": "DNA replication",
+    "tr": "Hamanand-sazi-ye dena"
+   },
+   "summary": {
+    "fa": "پیش از تقسیم، سلول از کل کتاب دستور پخت یک نسخهٔ کامل می‌سازد.",
+    "en": "Before dividing, the cell makes a complete copy of the whole recipe book.",
+    "tr": "Pish az taghsim, sellool az kol-e ketab-e dastoor-e pokht yek noskhe-ye kamel misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: باز کردن زیپ",
+      "en": "Understand first: opening a zip",
+      "tr": "Avval befahm: baz kardan-e zip"
+     },
+     "body": {
+      "fa": "وقتی یک سلول تقسیم می‌شود، هر سلول تازه یک کتاب کامل لازم دارد. پس اول باید از کتاب نسخه گرفت. دنا را مثل یک زیپ تصور کن. آنزیم «هلیکاز» زیپ را باز می‌کند: پیوندهای هیدروژنی بین بازهای مکمل را می‌شکند و دو رشته از هم جدا می‌شوند (آزمون خرداد ۱۳۹۷). حالا هر نیمهٔ زیپ یک «الگو» است، چون هر باز فقط یک جفت مشخص دارد.",
+      "en": "When a cell divides, each new cell needs a complete book. So the book has to be copied first. Picture DNA as a zip. The enzyme \"helicase\" opens the zip: it breaks the hydrogen bonds between complementary bases and the two strands come apart (Khordad 1397 paper). Now each half of the zip is a \"template\", because each base has only one matching partner.",
+      "tr": "Vaghti yek sellool taghsim mishavad, har sellool-e taze yek ketab-e kamel lazem darad. Pas avval bayad az ketab noskhe gereft. Dena ra mesl-e yek zip tasavvor kon. Anzim-e \"helikaz\" zip ra baz mikonad: peyvand-haye hidrojeni beyn-e baz-haye mokammel ra mishekanad va do reshte az ham joda mishavand (azmoon-e Khordad 1397). Hala har nime-ye zip yek \"olgoo\" ast, chon har baz faghat yek joft-e moshakhkhas darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "               old strand (template)\n             /==================\n  ==========<   helicase opens\n  (closed)   \\==================\n               old strand (template)\n\n  on each template, polymerase\n  adds new nucleotides 5' -> 3'",
+     "caption": {
+      "fa": "چنگال همانندسازی: هلیکاز دو رشته را از هم جدا می‌کند و هر رشتهٔ قدیمی الگوی یک رشتهٔ تازه می‌شود.",
+      "en": "The replication fork: helicase separates the two strands, and each old strand becomes the template for a new one.",
+      "tr": "Changal-e hamanand-sazi: helikaz do reshte ra az ham joda mikonad va har reshte-ye ghadimi olgoo-ye yek reshte-ye taze mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دنابسپاراز: سازنده و غلط‌یاب",
+      "en": "DNA polymerase: builder and spell-checker",
+      "tr": "Dena-baspar-az: sazande va ghalat-yab"
+     },
+     "body": {
+      "fa": "آنزیم «دنابسپاراز» سازنده است: نوکلئوتید مکمل را روبه‌روی هر باز الگو می‌گذارد و بین نوکلئوتیدهای کنار هم پیوند فسفودی‌استر می‌سازد. این آنزیم همیشه در یک جهت کار می‌کند: نوکلئوتید تازه را به سر `3′` رشته اضافه می‌کند، یعنی رشته از `5′` به `3′` رشد می‌کند (آزمون خرداد ۱۴۰۱). مثل یک غلط‌یاب هم کار می‌کند: اگر نوکلئوتید اشتباهی گذاشت، آن را برمی‌دارد و درستش را می‌گذارد؛ به این «ویرایش» می‌گویند (آزمون خرداد ۱۴۰۱).",
+      "en": "The enzyme \"DNA polymerase\" is the builder: it places the matching nucleotide opposite each template base and makes phosphodiester bonds between neighbouring nucleotides. It always works in one direction: it adds each new nucleotide to the `3′` end, so the strand grows from `5′` to `3′` (Khordad 1401 paper). It also works like a spell-checker: if it puts in a wrong nucleotide, it removes it and puts in the right one; this is called \"proofreading\" (Khordad 1401 paper).",
+      "tr": "Anzim-e \"dena-baspar-az\" sazande ast: nukleotid-e mokammel ra roo-be-roo-ye har baz-e olgoo migozarad va beyn-e nukleotid-haye kenar-e ham peyvand-e fosfodi-ester misazad. In anzim hamishe dar yek jahat kar mikonad: nukleotid-e taze ra be sar-e `3′`-e reshte ezafe mikonad, ya'ni reshte az `5′` be `3′` roshd mikonad (azmoon-e Khordad 1401). Mesl-e yek ghalat-yab ham kar mikonad: agar nukleotid-e eshtebahi gozasht, an ra barmidarad va dorostash ra migozarad; be in \"virayesh\" migooyand (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "5′  →  3′",
+     "caption": {
+      "fa": "جهت ساخت رشتهٔ تازه (آزمون خرداد ۱۴۰۱)",
+      "en": "The direction the new strand is built in (Khordad 1401 paper)",
+      "tr": "Jahat-e sakht-e reshte-ye taze (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   parent:   # #   (both old)\n               |\n       +-------+-------+\n       |               |\n     # o             o #\n   daughter 1     daughter 2\n\n   # = old strand  o = new strand",
+     "caption": {
+      "fa": "نیمه‌حفاظتی: هر دنای تازه یک رشتهٔ قدیمی و یک رشتهٔ تازه دارد (آزمون خرداد ۱۴۰۱).",
+      "en": "Semiconservative: each new DNA has one old strand and one new strand (Khordad 1401 paper).",
+      "tr": "Nime-hefazati: har dena-ye taze yek reshte-ye ghadimi va yek reshte-ye taze darad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: هلیکاز دقیقاً کدام پیوند را می‌شکند؟ (آزمون خرداد ۱۳۹۷)",
+      "en": "Warm-up: exactly which bonds does helicase break? (Khordad 1397 paper)",
+      "tr": "Garm kardan: helikaz daghighan kodam peyvand ra mishekanad? (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هلیکاز فقط باید دو رشته را از هم جدا کند، نه اینکه رشته‌ها را ببرد. پس پیوندی را می‌شکند که دو رشته را به هم چسبانده.",
+        "en": "Helicase only has to separate the two strands, not cut them. So it breaks the bonds that hold the two strands together.",
+        "tr": "Helikaz faghat bayad do reshte ra az ham joda konad, na inke reshte-ha ra bebord. Pas peyvandi ra mishekanad ke do reshte ra be ham chasbande."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن پیوندها، پیوندهای هیدروژنی بین بازهای مکمل‌اند.",
+        "en": "Those bonds are the hydrogen bonds between complementary bases.",
+        "tr": "An peyvand-ha, peyvand-haye hidrojeni beyn-e baz-haye mokammel-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پیوندهای هیدروژنی بین بازهای مکمل",
+      "en": "The hydrogen bonds between complementary bases",
+      "tr": "Peyvand-haye hidrojeni beyn-e baz-haye mokammel"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: سؤال تشریحی ۱٫۵ نمره‌ای همانندسازی (آزمون خرداد ۱۴۰۳)",
+      "en": "Textbook and exam: the 1.5-mark written replication question (Khordad 1403 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: so'al-e tashrihi-ye 1.5 nomre-i-ye hamanand-sazi (azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "(آ) کار هلیکاز: پیوندهای هیدروژنی را می‌شکند و مارپیچ را باز می‌کند. مصحح هر دو را می‌خواهد.",
+        "en": "(a) Helicase's job: it breaks the hydrogen bonds and opens the helix. The examiner wants both.",
+        "tr": "(a) Kar-e helikaz: peyvand-haye hidrojeni ra mishekanad va marpich ra baz mikonad. Mosahhehe har do ra mikhahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "(ب) دو کار دنابسپاراز: ساختن پیوند فسفودی‌استر بین نوکلئوتیدها، و ویرایش. فقط نوشتن «دنا می‌سازد» کلی است و نمرهٔ کامل نمی‌گیرد.",
+        "en": "(b) DNA polymerase's two jobs: making phosphodiester bonds between nucleotides, and proofreading. Just writing \"it makes DNA\" is too general and loses marks.",
+        "tr": "(b) Do kar-e dena-baspar-az: sakhtan-e peyvand-e fosfodi-ester beyn-e nukleotid-ha, va virayesh. Faghat neveshtan-e \"dena misazad\" kolli ast va nomre-ye kamel nemigirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "(پ) چرا نیمه‌حفاظتی؟ چون هر دنای حاصل یک رشتهٔ قدیمی و یک رشتهٔ تازه دارد. «نیمی از دنا حفظ می‌شود» به‌تنهایی پذیرفته نیست.",
+        "en": "(c) Why semiconservative? Because each resulting DNA has one old strand and one new strand. \"Half the DNA is kept\" on its own is not accepted.",
+        "tr": "(c) Chera nime-hefazati? Chon har dena-ye hasel yek reshte-ye ghadimi va yek reshte-ye taze darad. \"Nimi az dena hefz mishavad\" be-tanhayi pazirofte nist."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هلیکاز باز می‌کند؛ دنابسپاراز پیوند می‌سازد و ویرایش می‌کند؛ هر دنا = یک رشتهٔ قدیمی + یک رشتهٔ تازه",
+      "en": "Helicase opens; polymerase makes bonds and proofreads; each DNA = one old strand + one new strand",
+      "tr": "Helikaz baz mikonad; dena-baspar-az peyvand misazad va virayesh mikonad; har dena = yek reshte-ye ghadimi + yek reshte-ye taze"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک دنا دو بار پشت سر هم همانندسازی می‌کند. از ۴ دنای حاصل، چند تا رشتهٔ قدیمی دارند؟",
+      "en": "Exam twist: a DNA molecule replicates twice in a row. Of the 4 resulting DNAs, how many contain an old strand?",
+      "tr": "Pich-e emtehani: yek dena do bar posht-e sar-e ham hamanand-sazi mikonad. Az 4 dena-ye hasel, chand ta reshte-ye ghadimi darand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بار اول: دو دنا، هر کدام یک رشتهٔ قدیمی و یک رشتهٔ تازه.",
+        "en": "First round: two DNAs, each with one old strand and one new strand.",
+        "tr": "Bar-e avval: do dena, har kodam yek reshte-ye ghadimi va yek reshte-ye taze."
+       },
+       "math": "# o   and   o #"
+      },
+      {
+       "text": {
+        "fa": "بار دوم: هر رشته الگوی یک دنای تازه می‌شود. دو رشتهٔ قدیمی هیچ‌وقت تکه نمی‌شوند؛ هر کدام فقط در یک دنا می‌ماند.",
+        "en": "Second round: every strand becomes the template for a new DNA. The two old strands never break up; each stays in just one DNA.",
+        "tr": "Bar-e dovvom: har reshte olgoo-ye yek dena-ye taze mishavad. Do reshte-ye ghadimi hich-vaght tekke nemishavand; har kodam faghat dar yek dena mimanad."
+       },
+       "math": "# o ,  o o ,  o o ,  o #"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: با هر دور، تعداد دناها دو برابر می‌شود ولی تعداد رشته‌های قدیمی همیشه ۲ می‌ماند.",
+        "en": "The twist: with each round the number of DNAs doubles, but the number of old strands always stays at 2.",
+        "tr": "Pich-e emtehan: ba har dor, te'dad-e dena-ha do barabar mishavad vali te'dad-e reshte-haye ghadimi hamishe 2 mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "۲ تا از ۴",
+      "en": "2 of the 4",
+      "tr": "2 ta az 4"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هلیکاز دنا را «نمی‌بُرد» و پیوند فسفودی‌استر را نمی‌شکند؛ فقط پیوندهای هیدروژنی بین دو رشته را می‌شکند.",
+      "en": "Helicase does not \"cut\" DNA and does not break phosphodiester bonds; it only breaks the hydrogen bonds between the two strands.",
+      "tr": "Helikaz dena ra \"nemiborad\" va peyvand-e fosfodi-ester ra nemishekanad; faghat peyvand-haye hidrojeni beyn-e do reshte ra mishekanad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«نیمه‌حفاظتی» یعنی هر دنای تازه یک رشتهٔ کامل قدیمی و یک رشتهٔ کامل تازه دارد، نه اینکه هر رشته نیمه قدیمی و نیمه تازه باشد.",
+      "en": "\"Semiconservative\" means each new DNA has one whole old strand and one whole new strand, not that each strand is half old and half new.",
+      "tr": "\"Nime-hefazati\" ya'ni har dena-ye taze yek reshte-ye kamel-e ghadimi va yek reshte-ye kamel-e taze darad, na inke har reshte nime ghadimi va nime taze bashad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1397-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 951
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 952
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 7
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 3,
+   "key": "bio-1-proteins",
+   "title": {
+    "fa": "پروتئین‌ها: چهار سطح ساختار",
+    "en": "Proteins: the four levels of structure",
+    "tr": "Protein-ha: chahar sath-e sakhtar"
+   },
+   "summary": {
+    "fa": "یک گردنبند مهره‌ای که مثل اوریگامی تا می‌خورد؛ شکلش کارش را تعیین می‌کند.",
+    "en": "A bead necklace that folds like origami; its shape decides its job.",
+    "tr": "Yek gardanband-e mohre-i ke mesl-e origami ta mikhorad; shekl-ash kar-ash ra ta'yin mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: گردنبند اوریگامی",
+      "en": "Understand first: an origami necklace",
+      "tr": "Avval befahm: gardanband-e origami"
+     },
+     "body": {
+      "fa": "پروتئین را یک گردنبند مهره‌ای تصور کن. هر مهره یک آمینواسید است و مهره‌ها با پیوند پپتیدی پشت هم وصل‌اند. این گردنبند صاف نمی‌ماند؛ مثل کاغذ اوریگامی تا می‌خورد و یک شکل سه‌بعدی دقیق می‌سازد. همین شکل است که کار پروتئین را تعیین می‌کند؛ مثلاً پادتن‌ها با شکل خاصشان به مولکول‌های بیگانه می‌چسبند و از بدن دفاع می‌کنند (آزمون دی ۱۴۰۱).",
+      "en": "Picture a protein as a bead necklace. Each bead is an amino acid, and the beads are joined in a row by peptide bonds. The necklace does not stay straight; it folds like origami paper into an exact 3D shape. That shape is what decides the protein's job; for example, antibodies use their special shape to stick to foreign molecules and defend the body (Dey 1401 paper).",
+      "tr": "Protein ra yek gardanband-e mohre-i tasavvor kon. Har mohre yek amino-asid ast va mohre-ha ba peyvand-e peptidi posht-e ham vasl-and. In gardanband saf nemimanad; mesl-e kaghaz-e origami ta mikhorad va yek shekl-e se-bo'di-ye daghigh misazad. Hamin shekl ast ke kar-e protein ra ta'yin mikonad; masalan padtan-ha ba shekl-e khasshan be molkool-haye bigane michasband va az badan defa' mikonand (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  1 primary:     A-B-C-D-E-F-G\n                 (order of beads)\n  2 secondary:   a helix or a sheet\n  3 tertiary:    one chain folded\n                 into a 3D shape\n  4 quaternary:  two or more chains\n                 (like hemoglobin)",
+     "caption": {
+      "fa": "چهار سطح ساختار پروتئین، از ساده تا پیچیده.",
+      "en": "The four levels of protein structure, from simple to complex.",
+      "tr": "Chahar sath-e sakhtar-e protein, az sade ta pichide."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  level        held together by\n  ----------------------------------\n  primary      peptide bonds\n  secondary    H-bonds in backbone\n  tertiary     H-bonds, ionic,\n               hydrophobic, and\n               disulfide bridges\n  quaternary   non-covalent links",
+     "caption": {
+      "fa": "هر سطح با کدام پیوندها نگه داشته می‌شود؛ پل دی‌سولفید تنها پیوند کووالانسی محکم در تاخوردگی است.",
+      "en": "Which bonds hold each level; the disulfide bridge is the only strong covalent bond in the folding.",
+      "tr": "Har sath ba kodam peyvand-ha negah dashte mishavad; pol-e di-solfid tanha peyvand-e kovalansi-ye mohkam dar ta-khordegi ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیوندهای هر سطح",
+      "en": "The bonds at each level",
+      "tr": "Peyvand-haye har sath"
+     },
+     "body": {
+      "fa": "در ساختار دوم (مارپیچ و صفحه)، پیوند هیدروژنی بین گروه‌های ستون اصلی پیوندهای پپتیدی (`C=O` و `N–H`) تشکیل می‌شود، نه بین زنجیره‌های جانبی (آزمون دی ۱۴۰۰). در ساختار سوم، مارپیچ‌ها و صفحه‌ها خودشان یک شکل فشردهٔ سه‌بعدی می‌سازند (آزمون خرداد ۱۴۰۱) و پل دی‌سولفید بین گروه‌های گوگرددار سیستئین‌ها آن را محکم می‌کند (آزمون خرداد ۱۴۰۰). در ساختار چهارم، چند زنجیرهٔ تاخورده کنار هم قرار می‌گیرند (آزمون خرداد ۱۳۹۹) و با پیوندهای غیرکووالانسی نگه داشته می‌شوند (آزمون خرداد ۱۴۰۰).",
+      "en": "In the secondary structure (helices and sheets), hydrogen bonds form between the backbone groups of the peptide bonds (`C=O` and `N–H`), not between side chains (Dey 1400 paper). In the tertiary structure, the helices and sheets themselves fold into a compact 3D shape (Khordad 1401 paper), and disulfide bridges between the sulfur groups of cysteines lock it in place (Khordad 1400 paper). In the quaternary structure, several folded chains come together (Khordad 1399 paper), held by non-covalent links (Khordad 1400 paper).",
+      "tr": "Dar sakhtar-e dovvom (marpich va safhe), peyvand-e hidrojeni beyn-e goroh-haye sotoon-e asli-ye peyvand-haye peptidi (`C=O` va `N–H`) tashkil mishavad, na beyn-e zanjire-haye janebi (azmoon-e Dey 1400). Dar sakhtar-e sevvom, marpich-ha va safhe-ha khodeshan yek shekl-e feshorde-ye se-bo'di misazand (azmoon-e Khordad 1401) va pol-e di-solfid beyn-e goroh-haye gogerd-dar-e sistein-ha an ra mohkam mikonad (azmoon-e Khordad 1400). Dar sakhtar-e chaharom, chand zanjire-ye ta-khorde kenar-e ham gharar migirand (azmoon-e Khordad 1399) va ba peyvand-haye gheyr-e kovalansi negah dashte mishavand (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: «ترتیب آمینواسیدها در زنجیره» کدام سطح است؟",
+      "en": "Warm-up: \"the order of amino acids in the chain\" is which level?",
+      "tr": "Garm kardan: \"tartib-e amino-asid-ha dar zanjire\" kodam sath ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ترتیب مهره‌ها اولین چیزی است که پیش از هر تاخوردگی وجود دارد.",
+        "en": "The order of the beads is the first thing that exists, before any folding.",
+        "tr": "Tartib-e mohre-ha avvalin chizi ast ke pish az har ta-khordegi vojood darad."
+       }
+      },
+      {
+       "text": {
+        "fa": "این ترتیب را ژن تعیین می‌کند و بقیهٔ سطح‌ها از آن نتیجه می‌شوند.",
+        "en": "The gene sets this order, and every other level follows from it.",
+        "tr": "In tartib ra zhen ta'yin mikonad va baghiye-ye sath-ha az an natije mishavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ساختار اول",
+      "en": "The primary structure",
+      "tr": "Sakhtar-e avval"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: هموگلوبین چهار زنجیره دارد. کدام سطح ساختار را دارد و چه چیزی زنجیره‌ها را کنار هم نگه می‌دارد؟ (مثل آزمون‌های خرداد ۱۳۹۹ و ۱۴۰۰)",
+      "en": "Textbook and exam: hemoglobin has four chains. Which level of structure does it have, and what holds the chains together? (as in the Khordad 1399 and 1400 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: hemoglobin chahar zanjire darad. Kodam sath-e sakhtar ra darad va che chizi zanjire-ha ra kenar-e ham negah midarad? (mesl-e azmoon-haye Khordad 1399 va 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بیش از یک زنجیرهٔ تاخورده با هم جمع شده‌اند؛ این تعریف ساختار چهارم است.",
+        "en": "More than one folded chain has come together; that is the definition of the quaternary structure.",
+        "tr": "Bish az yek zanjire-ye ta-khorde ba ham jam' shode-and; in ta'rif-e sakhtar-e chaharom ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "زنجیره‌های جدا با پیوند پپتیدی به هم وصل نیستند؛ با برهم‌کنش‌های غیرکووالانسی (یونی، هیدروژنی، آب‌گریز) کنار هم می‌مانند.",
+        "en": "The separate chains are not joined by peptide bonds; they stay together through non-covalent interactions (ionic, hydrogen, hydrophobic).",
+        "tr": "Zanjire-haye joda ba peyvand-e peptidi be ham vasl nistand; ba barham-konesh-haye gheyr-e kovalansi (yooni, hidrojeni, ab-goriz) kenar-e ham mimanand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ساختار چهارم؛ برهم‌کنش‌های غیرکووالانسی",
+      "en": "The quaternary structure; non-covalent interactions",
+      "tr": "Sakhtar-e chaharom; barham-konesh-haye gheyr-e kovalansi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در ساختار دوم پیوند هیدروژنی بین کدام بخش‌ها تشکیل می‌شود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: in the secondary structure, between which parts do hydrogen bonds form? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: dar sakhtar-e dovvom peyvand-e hidrojeni beyn-e kodam bakhsh-ha tashkil mishavad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: خیلی‌ها «زنجیرهٔ جانبی آمینواسیدها» را می‌نویسند. ولی مارپیچ و صفحه برای همهٔ پروتئین‌ها با هر ترتیبی شکل می‌گیرند، پس پیوند باید بین بخشی باشد که در همهٔ آمینواسیدها یکسان است.",
+        "en": "The twist: many people write \"the amino acids' side chains\". But helices and sheets form in every protein, whatever its order, so the bonds must be between the part that is the same in every amino acid.",
+        "tr": "Pich-e emtehan: kheyli-ha \"zanjire-ye janebi-ye amino-asid-ha\" ra minevisand. Vali marpich va safhe baraye hame-ye protein-ha ba har tartibi shekl migirand, pas peyvand bayad beyn-e bakhshi bashad ke dar hame-ye amino-asid-ha yeksan ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن بخش، ستون اصلی است: گروه `C=O` یک پیوند پپتیدی با گروه `N–H` پیوند پپتیدی دیگر.",
+        "en": "That part is the backbone: the `C=O` group of one peptide bond with the `N–H` group of another.",
+        "tr": "An bakhsh, sotoon-e asli ast: goroh-e `C=O`-e yek peyvand-e peptidi ba goroh-e `N–H`-e peyvand-e peptidi-ye digar."
+       },
+       "math": "C=O  ···  H–N"
+      }
+     ],
+     "answer": {
+      "fa": "بین گروه‌های ستون اصلی پیوندهای پپتیدی (`C=O` و `N–H`)",
+      "en": "Between the backbone groups of the peptide bonds (`C=O` and `N–H`)",
+      "tr": "Beyn-e goroh-haye sotoon-e asli-ye peyvand-haye peptidi (`C=O` va `N–H`)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ساختار چهارم فقط وقتی هست که «دو یا چند» زنجیره داشته باشیم. پروتئین تک‌زنجیره، هر قدر هم پیچیده، حداکثر ساختار سوم دارد.",
+      "en": "A quaternary structure exists only with \"two or more\" chains. A single-chain protein, however complex, has at most a tertiary structure.",
+      "tr": "Sakhtar-e chaharom faghat vaghti hast ke \"do ya chand\" zanjire dashte bashim. Protein-e tak-zanjire, har ghadr ham pichide, hadde-aksar sakhtar-e sevvom darad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پل دی‌سولفید کووالانسی است و در ساختار سوم می‌آید؛ پیوندهای بین زنجیره‌ها در ساختار چهارم غیرکووالانسی‌اند.",
+      "en": "The disulfide bridge is covalent and belongs to the tertiary structure; the links between chains in the quaternary structure are non-covalent.",
+      "tr": "Pol-e di-solfid kovalansi ast va dar sakhtar-e sevvom miayad; peyvand-haye beyn-e zanjire-ha dar sakhtar-e chaharom gheyr-e kovalansi-and."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 922
+    },
+    {
+     "session": "1400-Dey",
+     "number": 918
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 919
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 928
+    },
+    {
+     "session": "1401-Dey",
+     "number": 937
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 4,
+   "key": "bio-1-enzymes",
+   "title": {
+    "fa": "آنزیم‌ها",
+    "en": "Enzymes",
+    "tr": "Anzim-ha"
+   },
+   "summary": {
+    "fa": "قفل و کلید، دستکشی که به شکل دست درمی‌آید، و کلیدی که در گرما ذوب می‌شود.",
+    "en": "A lock and key, a glove that takes the shape of the hand, and a key that melts in the heat.",
+    "tr": "Ghofl va kelid, dastkeshi ke be shekl-e dast dar-miayad, va kelidi ke dar garma zob mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: قفل و کلید",
+      "en": "Understand first: the lock and key",
+      "tr": "Avval befahm: ghofl va kelid"
+     },
+     "body": {
+      "fa": "آنزیم یک پروتئین است که واکنش‌ها را سریع می‌کند، بی‌آنکه خودش مصرف شود. هر آنزیم یک فرورفتگی خاص دارد به نام «جایگاه فعال». مولکولی که آنزیم رویش کار می‌کند، «پیش‌ماده»، باید مثل کلید در قفل با شکل جایگاه فعال جور باشد تا به آن بچسبد (آزمون‌های خرداد ۱۴۰۱). در واقع جایگاه فعال کمی هم خودش را با پیش‌ماده جور می‌کند، مثل دستکشی که وقتی دست را در آن می‌کنی به شکل دست درمی‌آید.",
+      "en": "An enzyme is a protein that speeds up reactions without being used up itself. Each enzyme has a special pocket called the \"active site\". The molecule the enzyme works on, the \"substrate\", has to match the shape of the active site like a key in a lock before it can bind (Khordad 1401 papers). In fact the active site also adjusts a little to the substrate, like a glove taking the shape of your hand as you put it on.",
+      "tr": "Anzim yek protein ast ke vakonesh-ha ra sari' mikonad, bi-anke khodash masraf shavad. Har anzim yek foroo-raftegi-ye khas darad be nam-e \"jaygah-e fa'al\". Molkooli ke anzim rooyash kar mikonad, \"pish-made\"، bayad mesl-e kelid dar ghofl ba shekl-e jaygah-e fa'al jor bashad ta be an bechasbad (azmoon-haye Khordad 1401). Dar vaghe' jaygah-e fa'al kami ham khodash ra ba pish-made jor mikonad, mesl-e dastkeshi ke vaghti dast ra dar an mikoni be shekl-e dast dar-miayad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   S = substrate     E = enzyme\n\n     S + E  ->  E-S  ->  E + P\n\n   S fits the active site of E,\n   E-S is the enzyme-substrate\n   complex, P are the products,\n   and E comes out unchanged",
+     "caption": {
+      "fa": "آنزیم در پایان واکنش دست‌نخورده بیرون می‌آید و دوباره استفاده می‌شود.",
+      "en": "At the end of the reaction the enzyme comes out unchanged and is used again.",
+      "tr": "Anzim dar payan-e vakonesh dast-nakhorde biroon miayad va dobare estefade mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گرما و `pH`",
+      "en": "Heat and `pH`",
+      "tr": "Garma va `pH`"
+     },
+     "body": {
+      "fa": "شکل جایگاه فعال با پیوندهای ضعیف، به‌خصوص هیدروژنی، نگه داشته می‌شود. گرمای زیاد این پیوندها را می‌شکند و شکل سه‌بعدی آنزیم برای همیشه عوض می‌شود، مثل کلیدی که ذوب شده (آزمون‌های دی ۱۴۰۰ و خرداد ۱۴۰۰). تغییر `pH` با افزودن اسید یا باز (آزمون خرداد ۱۴۰۰)، یا تغییر حلّال مثلاً با الکل (آزمون خرداد ۱۴۰۰)، همین کار را می‌کند. هر آنزیم یک دما و `pH` بهینه دارد که در آن بهترین کار را می‌کند.",
+      "en": "The shape of the active site is held by weak bonds, especially hydrogen bonds. High heat breaks these bonds and the enzyme's 3D shape changes for good, like a key that has melted (Dey 1400 and Khordad 1400 papers). Changing the `pH` by adding acid or base (Khordad 1400 paper), or changing the solvent, for example with alcohol (Khordad 1400 paper), does the same. Each enzyme has an optimum temperature and `pH` at which it works best.",
+      "tr": "Shekl-e jaygah-e fa'al ba peyvand-haye za'if, be-khosoos hidrojeni, negah dashte mishavad. Garma-ye ziad in peyvand-ha ra mishekanad va shekl-e se-bo'di-ye anzim baraye hamishe avaz mishavad, mesl-e kelidi ke zob shode (azmoon-haye Dey 1400 va Khordad 1400). Taghyir-e `pH` ba afzoodan-e asid ya baz (azmoon-e Khordad 1400), ya taghyir-e hallal masalan ba alkol (azmoon-e Khordad 1400), hamin kar ra mikonad. Har anzim yek dama va `pH`-e behine darad ke dar an behtarin kar ra mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " activity\n    |            .-.\n    |          .'   `.\n    |        .'       `.\n    |      .'           `.\n    |    .'               `.\n    +----------+-------------> temp\n            optimum\n\n  too hot: hydrogen bonds break,\n  the shape is lost for good",
+     "caption": {
+      "fa": "فعالیت آنزیم تا دمای بهینه بالا می‌رود و بعد با از دست رفتن شکل، سقوط می‌کند.",
+      "en": "Enzyme activity rises up to the optimum temperature, then falls as the shape is lost.",
+      "tr": "Fa'aliyat-e anzim ta dama-ye behine bala miravad va ba'd ba az dast raftan-e shekl, soghoot mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "کمک‌کارها و ترمزها",
+      "en": "Helpers and brakes",
+      "tr": "Komak-kar-ha va tormoz-ha"
+     },
+     "body": {
+      "fa": "بسیاری از آنزیم‌ها برای کار کردن به یک کمک‌کار غیرپروتئینی نیاز دارند، مثل ویتامین‌ها یا یون‌های فلزی: کوآنزیم‌ها و کوفاکتورها (آزمون خرداد ۱۴۰۰). بعضی مولکول‌ها هم آنزیم را کند یا خاموش می‌کنند: «مهارکننده» با چسبیدن به آنزیم یا تغییر شکل جایگاه فعال، کار آن را موقت یا همیشگی متوقف می‌کند (آزمون خرداد ۱۳۹۹). و بعضی مولکول‌های تنظیم‌کننده به جایی غیر از جایگاه فعال می‌چسبند ولی باز هم شکل آن را عوض می‌کنند: «تنظیم آلوستری» (آزمون خرداد ۱۴۰۱).",
+      "en": "Many enzymes need a non-protein helper to work, such as vitamins or metal ions: coenzymes and cofactors (Khordad 1400 paper). Some molecules slow an enzyme down or switch it off: an \"inhibitor\" stops it, temporarily or permanently, by binding to it or changing the shape of its active site (Khordad 1399 paper). And some regulator molecules bind somewhere other than the active site yet still change its shape: \"allosteric regulation\" (Khordad 1401 paper).",
+      "tr": "Besiari az anzim-ha baraye kar kardan be yek komak-kar-e gheyr-e proteini niaz darand, mesl-e vitamin-ha ya yoon-haye felezi: ko-anzim-ha va ko-faktor-ha (azmoon-e Khordad 1400). Ba'zi molkool-ha ham anzim ra kond ya khamoosh mikonand: \"mahar-konande\" ba chasbidan be anzim ya taghyir-e shekl-e jaygah-e fa'al, kar-e an ra movaghat ya hamishegi motevaghef mikonad (azmoon-e Khordad 1399). Va ba'zi molkool-haye tanzim-konande be jayi gheyr az jaygah-e fa'al michasband vali baz ham shekl-e an ra avaz mikonand: \"tanzim-e alosteri\" (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بعد از واکنش، آنزیم چه می‌شود؟",
+      "en": "Warm-up: what happens to the enzyme after the reaction?",
+      "tr": "Garm kardan: ba'd az vakonesh, anzim che mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آنزیم فقط کار را سریع کرده؛ خودش جزو محصول نشده.",
+        "en": "The enzyme only made the reaction faster; it did not become part of the product.",
+        "tr": "Anzim faghat kar ra sari' karde; khodash joz-e mahsool nashode."
+       },
+       "math": "S + E  →  E-S  →  E + P"
+      },
+      {
+       "text": {
+        "fa": "پس بدون تغییر بیرون می‌آید و می‌تواند به پیش‌مادهٔ بعدی بچسبد.",
+        "en": "So it comes out unchanged and can bind the next substrate.",
+        "tr": "Pas bedoon-e taghyir biroon miayad va mitavanad be pish-made-ye ba'di bechasbad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بدون تغییر می‌ماند و دوباره استفاده می‌شود",
+      "en": "It stays unchanged and is used again",
+      "tr": "Bedoon-e taghyir mimanad va dobare estefade mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چرا دمای خیلی بالا آنزیم را برای همیشه از کار می‌اندازد؟ (مثل آزمون‌های دی ۱۴۰۰ و خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: why does a very high temperature put an enzyme out of action for good? (as in the Dey 1400 and Khordad 1400 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: chera dama-ye kheyli bala anzim ra baraye hamishe az kar miandazad? (mesl-e azmoon-haye Dey 1400 va Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گرما به مولکول‌ها انرژی می‌دهد و پیوندهای ضعیف هیدروژنی که شکل آنزیم را نگه داشته‌اند می‌شکنند.",
+        "en": "Heat gives the molecules energy, and the weak hydrogen bonds holding the enzyme's shape break.",
+        "tr": "Garma be molkool-ha enerzhi midahad va peyvand-haye za'if-e hidrojeni ke shekl-e anzim ra negah dashte-and mishekanand."
+       }
+      },
+      {
+       "text": {
+        "fa": "شکل سه‌بعدی و در نتیجه شکل جایگاه فعال عوض می‌شود.",
+        "en": "The 3D shape, and with it the shape of the active site, changes.",
+        "tr": "Shekl-e se-bo'di va dar natije shekl-e jaygah-e fa'al avaz mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "حالا پیش‌ماده دیگر در جایگاه فعال جا نمی‌شود؛ کلید ذوب شده و در قفل نمی‌رود.",
+        "en": "Now the substrate no longer fits the active site; the key has melted and will not go into the lock.",
+        "tr": "Hala pish-made digar dar jaygah-e fa'al ja nemishavad; kelid zob shode va dar ghofl nemiravad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پیوندهای هیدروژنی می‌شکنند، شکل جایگاه فعال از دست می‌رود و پیش‌ماده جا نمی‌شود",
+      "en": "The hydrogen bonds break, the active site loses its shape and the substrate no longer fits",
+      "tr": "Peyvand-haye hidrojeni mishekanand, shekl-e jaygah-e fa'al az dast miravad va pish-made ja nemishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مولکولی به جایی غیر از جایگاه فعال می‌چسبد ولی آنزیم را تنظیم می‌کند. این چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: a molecule binds somewhere other than the active site, yet it regulates the enzyme. What is this? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: molkooli be jayi gheyr az jaygah-e fa'al michasbad vali anzim ra tanzim mikonad. In chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: فکر می‌کنی برای اثر گذاشتن باید به جایگاه فعال بچسبد. ولی آنزیم یک ساختار سه‌بعدی به‌هم‌پیوسته است.",
+        "en": "The twist: you would think it has to bind the active site to have an effect. But the enzyme is one connected 3D structure.",
+        "tr": "Pich-e emtehan: fekr mikoni baraye asar gozashtan bayad be jaygah-e fa'al bechasbad. Vali anzim yek sakhtar-e se-bo'di-ye be-ham-peyvaste ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "چسبیدن در یک جای دیگر، شکل کل مولکول، از جمله جایگاه فعال، را کمی عوض می‌کند؛ مثل فشار دادن یک طرف بادکنک که طرف دیگر را هم تغییر می‌دهد.",
+        "en": "Binding somewhere else changes the shape of the whole molecule a little, including the active site; like squeezing one side of a balloon, which changes the other side too.",
+        "tr": "Chasbidan dar yek ja-ye digar, shekl-e kol-e molkool, az jomle jaygah-e fa'al, ra kami avaz mikonad; mesl-e feshar dadan-e yek taraf-e badkonak ke taraf-e digar ra ham taghyir midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تنظیم آلوستری",
+      "en": "Allosteric regulation",
+      "tr": "Tanzim-e alosteri"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دمای پایین آنزیم را فقط کند می‌کند و با گرم شدن دوباره کار می‌کند؛ دمای خیلی بالا شکلش را برای همیشه خراب می‌کند. این دو را یکی نگیر.",
+      "en": "A low temperature only slows an enzyme down, and it works again when warmed; a very high temperature ruins its shape for good. Do not treat them the same.",
+      "tr": "Dama-ye payin anzim ra faghat kond mikonad va ba garm shodan dobare kar mikonad; dama-ye kheyli bala shekl-ash ra baraye hamishe kharab mikonad. In do ra yeki nagir."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "خود آنزیم پروتئین است؛ کوآنزیم‌ها و کوفاکتورها کمک‌کارهای «غیرپروتئینی»‌اند، مثل ویتامین‌ها و یون‌های فلزی.",
+      "en": "The enzyme itself is a protein; coenzymes and cofactors are \"non-protein\" helpers, such as vitamins and metal ions.",
+      "tr": "Khod-e anzim protein ast; ko-anzim-ha va ko-faktor-ha komak-kar-haye \"gheyr-e proteini\"-and, mesl-e vitamin-ha va yoon-haye felezi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 920
+    },
+    {
+     "session": "1400-Dey",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 921
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 930
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 932
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 934
+    }
+   ]
+  }
+ ]
+}
