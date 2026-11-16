@@ -1,0 +1,1234 @@
+{
+ "version": 125,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Biology",
+   "key": "bio-g-allele",
+   "term": {
+    "fa": "دگره",
+    "en": "allele",
+    "tr": "degareh"
+   },
+   "explain": {
+    "fa": "شکل‌های مختلف یک ژن که در یک جایگاه ژنی روی کروموزوم‌های همتا قرار دارند. هر فرد برای هر ژن دو دگره دارد، یکی از هر والد.",
+    "en": "The different forms of one gene, found at the same locus on homologous chromosomes. Each person has two alleles for each gene, one from each parent.",
+    "tr": "Shekl-haye mokhtalef-e yek zhen ke dar yek jaygah-e zheni rooye kromozom-haye hamta gharar darand. Har fard baraye har zhen do degare darad, yeki az har valed."
+   },
+   "analogy": {
+    "fa": "مثل دو کارت از یک دست که هر والد یکی‌اش را می‌دهد.",
+    "en": "Like two cards of one suit, each parent handing over one.",
+    "tr": "Mesl-e do kart az yek dast ke har valed yeki-ash ra midahad."
+   },
+   "contrast": {
+    "fa": "دگره «شکل» ژن است؛ جایگاه ژنی «جای» آن روی کروموزوم.",
+    "en": "An allele is a \"form\" of a gene; the locus is its \"place\" on the chromosome.",
+    "tr": "Degare \"shekl\"-e zhen ast; jaygah-e zheni \"ja\"-ye an rooye kromozom."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-locus",
+   "term": {
+    "fa": "جایگاه ژنی",
+    "en": "locus",
+    "tr": "jaygah-e jeni"
+   },
+   "explain": {
+    "fa": "جای مشخص و ثابت یک ژن روی کروموزوم. دو دگرهٔ یک ژن در یک جایگاه ژنی روی دو کروموزوم همتا هستند.",
+    "en": "The fixed, exact place of a gene on a chromosome. The two alleles of a gene sit at the same locus on the two homologous chromosomes.",
+    "tr": "Ja-ye moshakhkhas va sabet-e yek zhen rooye kromozom. Do degare-ye yek zhen dar yek jaygah-e zheni rooye do kromozom-e hamta hastand."
+   },
+   "analogy": {
+    "fa": "مثل شمارهٔ صندلی در سالن: همیشه همان‌جاست، هرچند هر بار کس دیگری روی آن بنشیند.",
+    "en": "Like a seat number in a hall: always in the same place, though different people may sit in it.",
+    "tr": "Mesl-e shomare-ye sandali dar salon: hamishe haman-jast, harchand har bar kas-e digari rooye an beneshinad."
+   },
+   "contrast": {
+    "fa": "جایگاه ژنی محل است، نه خود ژن یا دگره.",
+    "en": "The locus is the location, not the gene or the allele itself.",
+    "tr": "Jaygah-e zheni mahal ast, na khod-e zhen ya degare."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-genotype",
+   "term": {
+    "fa": "ژنوتیپ",
+    "en": "genotype",
+    "tr": "genotype"
+   },
+   "explain": {
+    "fa": "ترکیب دگره‌هایی که یک فرد برای یک صفت دارد، مثل `AA`، `Aa` یا `aa` (ژن‌نمود).",
+    "en": "The combination of alleles a person has for a trait, such as `AA`, `Aa` or `aa`.",
+    "tr": "Tarkib-e degare-hayi ke yek fard baraye yek sefat darad, mesl-e `AA`, `Aa` ya `aa` (zhen-namood)."
+   },
+   "matches": {
+    "fa": [
+     "ژن‌نمود"
+    ]
+   },
+   "analogy": {
+    "fa": "کارت‌هایی که در دست داری، حتی اگر همه را به بقیه نشان ندهی.",
+    "en": "The cards in your hand, even the ones you do not show anyone.",
+    "tr": "Kart-hayi ke dar dast dari, hatta agar hame ra be baghiye neshan nadahi."
+   },
+   "contrast": {
+    "fa": "ژنوتیپ دیده نمی‌شود؛ فنوتیپ دیده می‌شود. `AA` و `Aa` ژنوتیپ متفاوت ولی فنوتیپ یکسان دارند.",
+    "en": "The genotype is not seen; the phenotype is. `AA` and `Aa` have different genotypes but the same phenotype.",
+    "tr": "Genotype dide nemishavad; phenotype dide mishavad. `AA` va `Aa` genotype-e motafavet vali phenotype-e yeksan darand."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-phenotype",
+   "term": {
+    "fa": "فنوتیپ",
+    "en": "phenotype",
+    "tr": "phenotype"
+   },
+   "explain": {
+    "fa": "ویژگی‌ای که دیده یا اندازه‌گیری می‌شود (رخ‌نمود)، مثل رنگ گل یا گروه خونی. حاصل ژنوتیپ و گاهی اثر محیط است.",
+    "en": "The trait that can be seen or measured, such as flower colour or blood group. It results from the genotype and sometimes the environment.",
+    "tr": "Vizhegi-i ke dide ya andaze-giri mishavad (rokh-namood), mesl-e rang-e gol ya goroh-e khooni. Hasel-e genotype va gahi asar-e mohit ast."
+   },
+   "matches": {
+    "fa": [
+     "رخ‌نمود"
+    ]
+   },
+   "analogy": {
+    "fa": "کارتی که روی میز رو شده است.",
+    "en": "The card that has been turned face up on the table.",
+    "tr": "Karti ke rooye miz roo shode ast."
+   },
+   "contrast": {
+    "fa": "جهش خاموش فنوتیپ را عوض نمی‌کند، چون پروتئین تغییری نمی‌کند.",
+    "en": "A silent mutation does not change the phenotype, because the protein does not change.",
+    "tr": "Jahesh-e khamoosh phenotype ra avaz nemikonad, chon protein taghyiri nemikonad."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-phenotype-organism",
+   "term": {
+    "fa": "فنوتیپ جاندار",
+    "en": "phenotype of the organism",
+    "tr": "phenotype-e jandar"
+   },
+   "explain": {
+    "fa": "ویژگی‌های دیدنی کل جاندار که از پروتئین‌هایش ساخته می‌شوند. جهش فقط وقتی فنوتیپ را عوض می‌کند که پروتئین را عوض کند؛ برای همین جهش خاموش اثری بر فنوتیپ ندارد.",
+    "en": "The visible traits of the whole organism, built by its proteins. A mutation changes the phenotype only if it changes a protein; that is why a silent mutation has no effect on the phenotype.",
+    "tr": "Vizhegi-haye didani-ye kol-e jandar ke az protein-hayash sakhte mishavand. Jahesh faghat vaghti phenotype ra avaz mikonad ke protein ra avaz konad; baraye hamin jahesh-e khamoosh asari bar phenotype nadarad."
+   },
+   "analogy": {
+    "fa": "زنجیرهٔ علت: رمزه ← آمینواسید ← پروتئین ← فنوتیپ؛ اگر حلقهٔ دوم تکان نخورد، آخری هم نمی‌خورد.",
+    "en": "The chain of cause: codon → amino acid → protein → phenotype; if the second link does not move, neither does the last.",
+    "tr": "Zanjire-ye ellat: ramze → amino-asid → protein → phenotype; agar halghe-ye dovvom tekan nakhorad, akhari ham nemikhorad."
+   },
+   "contrast": {
+    "fa": "تغییر در دنا همیشه به معنی تغییر فنوتیپ نیست.",
+    "en": "A change in DNA does not always mean a change in phenotype.",
+    "tr": "Taghyir dar dena hamishe be ma'ni-ye taghyir-e phenotype nist."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-heterozygous",
+   "term": {
+    "fa": "هتروزیگوت",
+    "en": "heterozygous",
+    "tr": "heterozygote"
+   },
+   "explain": {
+    "fa": "فردی که دو دگرهٔ متفاوت برای یک ژن دارد (`Aa`)؛ «ناخالص». در بارزیت کامل، فنوتیپ بارز را نشان می‌دهد ولی دگرهٔ نهفته را پنهان حمل می‌کند.",
+    "en": "Someone with two different alleles for a gene (`Aa`). With complete dominance they show the dominant phenotype but carry the recessive allele hidden.",
+    "tr": "Fardi ke do degare-ye motafavet baraye yek zhen darad (`Aa`); \"nakhales\". Dar barezit-e kamel, phenotype-e barez ra neshan midahad vali degare-ye nahofte ra penhan haml mikonad."
+   },
+   "matches": {
+    "fa": [
+     "ناخالص"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل کسی که یک کارت قوی و یک کارت ضعیف دارد و فقط قوی را رو می‌کند.",
+    "en": "Like someone holding a strong card and a weak one who only shows the strong one.",
+    "tr": "Mesl-e kasi ke yek kart-e ghavi va yek kart-e za'if darad va faghat ghavi ra roo mikonad."
+   },
+   "contrast": {
+    "fa": "هتروزیگوت (`Aa`) با هموزیگوت (`AA` یا `aa`) فرق دارد؛ ناقلان بیماری‌های نهفته هتروزیگوت‌اند.",
+    "en": "Heterozygous (`Aa`) is not homozygous (`AA` or `aa`); carriers of recessive diseases are heterozygous.",
+    "tr": "Heterozygote (`Aa`) ba homozygote (`AA` ya `aa`) fargh darad; naghelan-e bimari-haye nahofte heterozygote-and."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-complete-dominance",
+   "term": {
+    "fa": "بارزیت کامل",
+    "en": "complete dominance",
+    "tr": "bareziat-e kamel"
+   },
+   "explain": {
+    "fa": "دگرهٔ بارز اثر دگرهٔ نهفته را کاملاً می‌پوشاند، پس `AA` و `Aa` یک فنوتیپ دارند و فقط `aa` نهفته دیده می‌شود.",
+    "en": "The dominant allele completely hides the recessive one, so `AA` and `Aa` look the same and only `aa` shows the recessive trait.",
+    "tr": "Degare-ye barez asar-e degare-ye nahofte ra kamelan mipooshanad, pas `AA` va `Aa` yek phenotype darand va faghat `aa` nahofte dide mishavad."
+   },
+   "analogy": {
+    "fa": "مثل نور چراغ‌قوه که نور شمع را در روز پنهان می‌کند.",
+    "en": "Like a torch beam that hides a candle's light in daylight.",
+    "tr": "Mesl-e noor-e cheragh-ghove ke noor-e sham' ra dar rooz penhan mikonad."
+   },
+   "contrast": {
+    "fa": "در بارزیت کامل نسبت فنوتیپی دو ناخالص ۳:۱ است؛ در بارزیت ناقص ۱:۲:۱.",
+    "en": "With complete dominance two heterozygotes give a 3:1 phenotype ratio; with incomplete dominance 1:2:1.",
+    "tr": "Dar barezit-e kamel nesbat-e phenotypi-ye do nakhales 3:1 ast; dar barezit-e naghes 1:2:1."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-punnett",
+   "term": {
+    "fa": "مربع پانت",
+    "en": "Punnett square",
+    "tr": "morabba-e Punnett"
+   },
+   "explain": {
+    "fa": "جدولی که دگره‌های هر والد را روی یک لبه می‌نویسد؛ هر خانه یک فرزند ممکن است با احتمال برابر. برای `Aa × Aa` چهار خانه داریم: `AA`، `Aa`، `Aa`، `aa`.",
+    "en": "A table with each parent's alleles along one edge; every box is one possible child, all equally likely. For `Aa × Aa` there are four boxes: `AA`, `Aa`, `Aa`, `aa`.",
+    "tr": "Jadvali ke degare-haye har valed ra rooye yek labe minevisad; har khane yek farzand-e momken ast ba ehtemal-e barabar. Baraye `Aa × Aa` chahar khane darim: `AA`, `Aa`, `Aa`, `aa`."
+   },
+   "analogy": {
+    "fa": "مثل جدول ضرب: هر سطر با هر ستون ترکیب می‌شود.",
+    "en": "Like a times table: every row combines with every column.",
+    "tr": "Mesl-e jadval-e zarb: har satr ba har sotoon tarkib mishavad."
+   },
+   "contrast": {
+    "fa": "هر خانه یک «احتمال» است، نه یک فرزند واقعی؛ چهار فرزند لزوماً دقیقاً ۳:۱ نمی‌شوند.",
+    "en": "Each box is a \"probability\", not an actual child; four children will not necessarily come out exactly 3:1.",
+    "tr": "Har khane yek \"ehtemal\" ast, na yek farzand-e vaghe'i; chahar farzand lozooman daghighan 3:1 nemishavand."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-phenotypic-ratio",
+   "term": {
+    "fa": "نسبت فنوتیپی",
+    "en": "phenotypic ratio",
+    "tr": "nesbat-e phenotypi"
+   },
+   "explain": {
+    "fa": "نسبت ظاهرهای مختلف در فرزندان. از `Aa × Aa` با بارزیت کامل ۳:۱ و با بارزیت ناقص ۱:۲:۱ به‌دست می‌آید.",
+    "en": "The ratio of the different appearances among the offspring. `Aa × Aa` gives 3:1 with complete dominance and 1:2:1 with incomplete dominance.",
+    "tr": "Nesbat-e zaher-haye mokhtalef dar farzandan. Az `Aa × Aa` ba barezit-e kamel 3:1 va ba barezit-e naghes 1:2:1 be-dast miayad."
+   },
+   "analogy": {
+    "fa": "شمردن رنگ‌های گل در یک باغچه، نه شمردن کارت‌های پنهان.",
+    "en": "Counting the flower colours in a bed, not the hidden cards.",
+    "tr": "Shemordan-e rang-haye gol dar yek baghche, na shemordan-e kart-haye penhan."
+   },
+   "contrast": {
+    "fa": "نسبت ژنوتیپی `Aa × Aa` همیشه ۱:۲:۱ است؛ نسبت فنوتیپی به نوع بارزیت بستگی دارد.",
+    "en": "The genotype ratio of `Aa × Aa` is always 1:2:1; the phenotype ratio depends on the type of dominance.",
+    "tr": "Nesbat-e genotypi-ye `Aa × Aa` hamishe 1:2:1 ast; nesbat-e phenotypi be no'-e barezit bastegi darad."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-testcross",
+   "term": {
+    "fa": "آمیزش آزمون",
+    "en": "testcross",
+    "tr": "amizesh-e azmoon"
+   },
+   "explain": {
+    "fa": "آمیزش فردی با فنوتیپ بارز و ژنوتیپ نامعلوم با یک فرد `aa`. اگر حتی یک فرزند نهفته ظاهر شود، فرد ناشناس `Aa` بوده است.",
+    "en": "Crossing an individual with the dominant phenotype but unknown genotype with an `aa` individual. If even one recessive child appears, the unknown parent was `Aa`.",
+    "tr": "Amizesh-e fardi ba phenotype-e barez va genotype-e na-ma'loom ba yek fard-e `aa`. Agar hatta yek farzand-e nahofte zaher shavad, fard-e nashenas `Aa` boode ast."
+   },
+   "analogy": {
+    "fa": "مثل رو کردن کارت پنهان کسی با بازی کردن مقابل کسی که فقط کارت ضعیف دارد.",
+    "en": "Like revealing someone's hidden card by playing them against a person holding only weak cards.",
+    "tr": "Mesl-e roo kardan-e kart-e penhan-e kasi ba bazi kardan moghabel-e kasi ke faghat kart-e za'if darad."
+   },
+   "contrast": {
+    "fa": "در آمیزش آزمون، والد دوم همیشه خالص «نهفته» است، نه بارز.",
+    "en": "In a testcross the second parent is always homozygous \"recessive\", not dominant.",
+    "tr": "Dar amizesh-e azmoon, valed-e dovvom hamishe khales-e \"nahofte\" ast, na barez."
+   },
+   "unit": "bio-3-mendel"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-incomplete-dominance",
+   "term": {
+    "fa": "بارزیت ناقص",
+    "en": "incomplete dominance",
+    "tr": "bareziat-e naghes"
+   },
+   "explain": {
+    "fa": "فرد ناخالص حالتی بین دو والد دارد: گل میمونی قرمز × سفید ← صورتی؛ مو صاف × فرفری ← موج‌دار. از دو ناخالص، فنوتیپ‌ها ۱:۲:۱ می‌شوند.",
+    "en": "The heterozygote is in between the two parents: red × white snapdragon → pink; straight × curly hair → wavy. Two heterozygotes give phenotypes in 1:2:1.",
+    "tr": "Fard-e nakhales halati beyn-e do valed darad: gol-e meymooni-ye ghermez × sefid → soorati; moo-ye saf × ferferi → moj-dar. Az do nakhales, phenotype-ha 1:2:1 mishavand."
+   },
+   "analogy": {
+    "fa": "مثل مخلوط کردن رنگ قرمز و سفید که صورتی می‌دهد.",
+    "en": "Like mixing red and white paint to get pink.",
+    "tr": "Mesl-e makhloot kardan-e rang-e ghermez va sefid ke soorati midahad."
+   },
+   "contrast": {
+    "fa": "بارزیت ناقص «مخلوط» است؛ هم‌توانی «هر دو کامل».",
+    "en": "Incomplete dominance is a \"blend\"; codominance is \"both in full\".",
+    "tr": "Barezit-e naghes \"makhloot\" ast; ham-tavani \"har do kamel\"."
+   },
+   "unit": "bio-3-dominance-types"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-codominance",
+   "term": {
+    "fa": "هم‌توانی",
+    "en": "codominance",
+    "tr": "ham-tavani"
+   },
+   "explain": {
+    "fa": "هر دو دگره در فرد ناخالص کامل و جداگانه ظاهر می‌شوند؛ مثل گروه خونی `AB` که روی گویچهٔ قرمز هم نشانهٔ `A` دارد و هم `B`.",
+    "en": "Both alleles show fully and separately in the heterozygote; like blood group `AB`, whose red cells carry both the `A` and the `B` marker.",
+    "tr": "Har do degare dar fard-e nakhales kamel va jodagane zaher mishavand; mesl-e goroh-e khooni-ye `AB` ke rooye goychche-ye ghermez ham neshane-ye `A` darad va ham `B`."
+   },
+   "analogy": {
+    "fa": "مثل پیراهن راه‌راه که هم راه قرمز دارد و هم سفید، نه صورتی.",
+    "en": "Like a striped shirt with both red and white stripes, not pink.",
+    "tr": "Mesl-e pirahan-e rah-rah ke ham rah-e ghermez darad va ham sefid, na soorati."
+   },
+   "contrast": {
+    "fa": "در هم‌توانی هیچ حالت میانه‌ای نیست؛ اگر ناخالص حالت میانه دارد، بارزیت ناقص است.",
+    "en": "Codominance has no in-between form; if the heterozygote is in between, it is incomplete dominance.",
+    "tr": "Dar ham-tavani hich halat-e miyane-i nist; agar nakhales halat-e miyane darad, barezit-e naghes ast."
+   },
+   "unit": "bio-3-dominance-types"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-polygenic",
+   "term": {
+    "fa": "وراثت چندژنی",
+    "en": "polygenic inheritance",
+    "tr": "verasat-e chand-zheni"
+   },
+   "explain": {
+    "fa": "صفتی که چند ژن مستقل آن را کنترل می‌کنند (چندجایگاهی)، مثل قد یا رنگ پوست. هر دگرهٔ افزاینده کمی اضافه می‌کند و توزیع جمعیت زنگوله‌ای می‌شود.",
+    "en": "A trait controlled by several independent genes, such as height or skin colour. Each adding allele adds a little, and the population graph is bell-shaped.",
+    "tr": "Sefati ke chand zhen-e mostaghel an ra kontrol mikonand (chand-jaygahi), mesl-e ghad ya rang-e poost. Har degare-ye afzayande kami ezafe mikonad va tozi'-e jam'iyat zangoole-i mishavad."
+   },
+   "analogy": {
+    "fa": "مثل چند شیر آب که هر کدام کمی آب به یک سطل می‌ریزند.",
+    "en": "Like several taps each pouring a little water into one bucket.",
+    "tr": "Mesl-e chand shir-e ab ke har kodam kami ab be yek satl mirizand."
+   },
+   "contrast": {
+    "fa": "چندژنی (چند ژن برای یک صفت) با چنددگره‌ای (بیش از دو دگره برای یک ژن، مثل `ABO`) فرق دارد.",
+    "en": "Polygenic (several genes for one trait) is not multiple alleles (more than two alleles of one gene, as in `ABO`).",
+    "tr": "Chand-zheni (chand zhen baraye yek sefat) ba chand-degare-i (bish az do degare baraye yek zhen, mesl-e `ABO`) fargh darad."
+   },
+   "unit": "bio-3-dominance-types"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-abo",
+   "term": {
+    "fa": "گروه خونی",
+    "en": "ABO blood groups",
+    "tr": "gorooh-e khooni"
+   },
+   "explain": {
+    "fa": "گروه خونی `ABO` سه دگره در جمعیت دارد (`A`، `B`، `O`)، پس چنددگره‌ای است؛ `A` و `B` هم‌توان‌اند و هر دو بر `O` بارزند. گروه `O` فقط ژنوتیپ `OO` دارد.",
+    "en": "The `ABO` blood group has three alleles in the population (`A`, `B`, `O`), so it shows multiple alleles; `A` and `B` are codominant and both dominant over `O`. Group `O` is only `OO`.",
+    "tr": "Goroh-e khooni-ye `ABO` se degare dar jam'iyat darad (`A`, `B`, `O`), pas chand-degare-i ast; `A` va `B` ham-tavan-and va har do bar `O` barez-and. Goroh-e `O` faghat genotype-e `OO` darad."
+   },
+   "analogy": {
+    "fa": "سه کارت در بازی هست، ولی هر نفر فقط دو تا در دست دارد.",
+    "en": "There are three cards in the game, but each person holds only two.",
+    "tr": "Se kart dar bazi hast, vali har nafar faghat do ta dar dast darad."
+   },
+   "contrast": {
+    "fa": "هر «فرد» فقط دو دگره دارد؛ «سه دگره» مال جمعیت است.",
+    "en": "Each \"person\" has only two alleles; the \"three alleles\" belong to the population.",
+    "tr": "Har \"fard\" faghat do degare darad; \"se degare\" mal-e jam'iyat ast."
+   },
+   "unit": "bio-3-blood-groups"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-autosome",
+   "term": {
+    "fa": "کروموزوم‌های اتوزوم",
+    "en": "autosomal chromosomes",
+    "tr": "chromosome-haye autosome"
+   },
+   "explain": {
+    "fa": "کروموزوم‌های غیرجنسی؛ در انسان ۲۲ جفت اول. ژن گروه خونی `Rh` روی کروموزوم ۱ و ژن `ABO` روی کروموزوم ۹ است، پس در پسر و دختر یکسان به ارث می‌رسند.",
+    "en": "The non-sex chromosomes; in humans the first 22 pairs. The `Rh` gene is on chromosome 1 and the `ABO` gene on chromosome 9, so they are inherited the same way in sons and daughters.",
+    "tr": "Kromozom-haye gheyr-e jensi; dar ensan 22 joft-e avval. Zhen-e goroh-e khooni-ye `Rh` rooye kromozom-e 1 va zhen-e `ABO` rooye kromozom-e 9 ast, pas dar pesar va dokhtar yeksan be ers miresand."
+   },
+   "analogy": {
+    "fa": "مثل صفحه‌هایی از کتاب که در نسخهٔ پسر و دختر یکسان‌اند.",
+    "en": "Like pages of the book that are the same in the son's and the daughter's copy.",
+    "tr": "Mesl-e safhe-hayi az ketab ke dar noskhe-ye pesar va dokhtar yeksan-and."
+   },
+   "contrast": {
+    "fa": "صفات اتوزومی وابسته به جنس نیستند؛ فقط ژن‌های روی `X` و `Y` چنین‌اند.",
+    "en": "Autosomal traits are not sex-linked; only genes on `X` and `Y` are.",
+    "tr": "Sefat-e autosomi vabaste be jens nistand; faghat zhen-haye rooye `X` va `Y` chenin-and."
+   },
+   "unit": "bio-3-blood-groups"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-x-linked",
+   "term": {
+    "fa": "وراثت وابسته به X",
+    "en": "X-linked inheritance",
+    "tr": "verasat-e vabasteh be X"
+   },
+   "explain": {
+    "fa": "ژن روی کروموزوم `X` است. مرد فقط یک `X` دارد، پس یک دگرهٔ نهفته در او ظاهر می‌شود؛ زن با دو `X` معمولاً فقط ناقل است. هموفیلی نمونهٔ وابسته به `X` نهفته است.",
+    "en": "The gene is on the `X` chromosome. A man has only one `X`, so a single recessive allele shows in him; a woman, with two `X`s, is usually only a carrier. Haemophilia is an example of `X`-linked recessive inheritance.",
+    "tr": "Zhen rooye kromozom-e `X` ast. Mard faghat yek `X` darad, pas yek degare-ye nahofte dar oo zaher mishavad; zan ba do `X` ma'moolan faghat naghel ast. Hemofili nemoone-ye vabaste be `X`-e nahofte ast."
+   },
+   "analogy": {
+    "fa": "پسر فقط یک کارت `X` دارد، پس جایی برای پنهان کردن آن ندارد.",
+    "en": "A son holds only one `X` card, so there is nowhere to hide it.",
+    "tr": "Pesar faghat yek kart-e `X` darad, pas jayi baraye penhan kardan-e an nadarad."
+   },
+   "contrast": {
+    "fa": "پدر بیمار دگره را به همهٔ دخترانش می‌دهد، نه پسرانش؛ پسر `X` را از مادر می‌گیرد.",
+    "en": "An affected father passes the allele to all his daughters, not his sons; a son gets his `X` from his mother.",
+    "tr": "Pedar-e bimar degare ra be hame-ye dokhtaranash midahad, na pesaranash; pesar `X` ra az madar migirad."
+   },
+   "unit": "bio-3-sex-linked-pedigree"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pedigree",
+   "term": {
+    "fa": "دودمانه",
+    "en": "pedigree",
+    "tr": "doodmaneh"
+   },
+   "explain": {
+    "fa": "شجره‌نامهٔ یک صفت در یک خانواده: مربع مرد، دایره زن، شکل پر بیمار. دو والد سالم با فرزند بیمار یعنی صفت نهفته است؛ صفتی که در همهٔ نسل‌ها دیده شود و دو والد بیمار فرزند سالم داشته باشند، بارز است.",
+    "en": "The family tree of a trait: squares are men, circles women, filled shapes affected. Two healthy parents with an affected child mean the trait is recessive; a trait seen in every generation, where two affected parents can have a healthy child, is dominant.",
+    "tr": "Shajare-name-ye yek sefat dar yek khanevade: morabba' mard, dayere zan, shekl-e por bimar. Do valed-e salem ba farzand-e bimar ya'ni sefat nahofte ast; sefati ke dar hame-ye nasl-ha dide shavad va do valed-e bimar farzand-e salem dashte bashand, barez ast."
+   },
+   "analogy": {
+    "fa": "مثل نقشهٔ کارآگاهی که از سرنخ‌های چند نسل، کارت‌های پنهان را پیدا می‌کند.",
+    "en": "Like a detective's map that works out hidden cards from clues across generations.",
+    "tr": "Mesl-e naghshe-ye karagahi ke az sarnakh-haye chand nasl, kart-haye penhan ra peyda mikonad."
+   },
+   "contrast": {
+    "fa": "اگر دختری بیمار پدری سالم داشته باشد، صفت نهفته وابسته به `X` نیست.",
+    "en": "If an affected daughter has a healthy father, the trait is not `X`-linked recessive.",
+    "tr": "Agar dokhtari bimar pedari salem dashte bashad, sefat-e nahofte vabaste be `X` nist."
+   },
+   "unit": "bio-3-sex-linked-pedigree"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-point-mutation",
+   "term": {
+    "fa": "جهش نقطه‌ای",
+    "en": "point mutation",
+    "tr": "jahesh-e noghteyi"
+   },
+   "explain": {
+    "fa": "تغییر در یک یا چند نوکلئوتید محدود: جانشینی یک باز با باز دیگر، یا افزوده یا حذف شدن آن. اثرش به این بستگی دارد که رمزه و پروتئین چقدر عوض شوند.",
+    "en": "A change in a single nucleotide or a few: one base swapped for another, or one added or deleted. Its effect depends on how much the codon and the protein change.",
+    "tr": "Taghyir dar yek ya chand nukleotid-e mahdood: janeshini-ye yek baz ba baz-e digar, ya afzoode ya hazf shodan-e an. Asarash be in bastegi darad ke ramze va protein cheghadr avaz shavand."
+   },
+   "analogy": {
+    "fa": "یک غلط تایپی در کتاب دستور پخت.",
+    "en": "One typo in the recipe book.",
+    "tr": "Yek ghalat-e tayp dar ketab-e dastoor-e pokht."
+   },
+   "contrast": {
+    "fa": "جهش نقطه‌ای در حد نوکلئوتید است؛ تغییر ساختار یا تعداد کروموزوم جهش کروموزومی است.",
+    "en": "A point mutation is at the level of nucleotides; changes in chromosome structure or number are chromosomal mutations.",
+    "tr": "Jahesh-e noghte-i dar hadd-e nukleotid ast; taghyir-e sakhtar ya te'dad-e kromozom jahesh-e kromozomi ast."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-base-substitution",
+   "term": {
+    "fa": "جانشینی بازها",
+    "en": "base substitution",
+    "tr": "janeshini-ye baz-ha"
+   },
+   "explain": {
+    "fa": "جهش نقطه‌ای که در آن یک باز جای خود را به باز دیگری می‌دهد. سه نتیجهٔ ممکن: خاموش، دگرمعنی یا بی‌معنی.",
+    "en": "A point mutation where one base takes the place of another. Three possible outcomes: silent, missense or nonsense.",
+    "tr": "Jahesh-e noghte-i ke dar an yek baz ja-ye khod ra be baz-e digari midahad. Se natije-ye momken: khamoosh, degar-ma'ni ya bi-ma'ni."
+   },
+   "analogy": {
+    "fa": "یک حرف در یک کلمه عوض شود: گاهی معنی همان می‌ماند، گاهی عوض می‌شود، گاهی جمله تمام می‌شود.",
+    "en": "One letter in a word changes: sometimes the meaning stays, sometimes it changes, sometimes the sentence ends.",
+    "tr": "Yek harf dar yek kalame avaz shavad: gahi ma'ni haman mimanad, gahi avaz mishavad, gahi jomle tamam mishavad."
+   },
+   "contrast": {
+    "fa": "جانشینی چارچوب خواندن را جابه‌جا نمی‌کند؛ فقط افزایش یا حذف (نه مضرب سه) چنین می‌کند.",
+    "en": "A substitution does not shift the reading frame; only an addition or deletion (not a multiple of three) does.",
+    "tr": "Janeshini charchoob-e khandan ra jabeja nemikonad; faghat afzayesh ya hazf (na mazrab-e se) chenin mikonad."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-silent",
+   "term": {
+    "fa": "جهش خاموش",
+    "en": "silent mutation",
+    "tr": "jahesh-e khamoosh"
+   },
+   "explain": {
+    "fa": "جانشینی‌ای که رمزهٔ تازه‌اش همان آمینواسید را رمز می‌کند، چون بیشتر آمینواسیدها چند رمزه دارند. پروتئین و فنوتیپ تغییری نمی‌کنند.",
+    "en": "A substitution whose new codon codes for the same amino acid, because most amino acids have several codons. The protein and phenotype do not change.",
+    "tr": "Janeshini-i ke ramze-ye taze-ash haman amino-asid ra ramz mikonad, chon bishtar-e amino-asid-ha chand ramze darand. Protein va phenotype taghyiri nemikonand."
+   },
+   "matches": {
+    "fa": [
+     "جهش صامت"
+    ],
+    "tr": [
+     "jahesh-e samet"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل نوشتن «اطاق» به‌جای «اتاق»: املا عوض شده ولی معنی نه.",
+    "en": "Like spelling \"colour\" as \"color\": the spelling changes but not the meaning.",
+    "tr": "Mesl-e neveshtan-e \"otagh\" ba ta-ye digar: emla avaz shode vali ma'ni na."
+   },
+   "contrast": {
+    "fa": "خاموش یعنی آمینواسید عوض نشده، نه اینکه دنا عوض نشده؛ یک نوکلئوتید واقعاً تغییر کرده است.",
+    "en": "Silent means the amino acid did not change, not that the DNA did not; one nucleotide really has changed.",
+    "tr": "Khamoosh ya'ni amino-asid avaz nashode, na inke dena avaz nashode; yek nukleotid vaghe'an taghyir karde ast."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-codon-redundancy",
+   "term": {
+    "fa": "چند رمزه برای یک آمینواسید",
+    "en": "codon redundancy",
+    "tr": "chand ramze baraye yek amino acid"
+   },
+   "explain": {
+    "fa": "۶۱ رمزه فقط ۲۰ آمینواسید را رمز می‌کنند، پس بیشتر آمینواسیدها چند رمزه دارند؛ معمولاً فرقشان در حرف سوم است. به همین دلیل بسیاری از جانشینی‌ها خاموش‌اند.",
+    "en": "61 codons code for only 20 amino acids, so most amino acids have several codons, usually differing in the third letter. That is why many substitutions are silent.",
+    "tr": "61 ramze faghat 20 amino-asid ra ramz mikonand, pas bishtar-e amino-asid-ha chand ramze darand; ma'moolan farghashan dar harf-e sevvom ast. Be hamin dalil besiyari az janeshini-ha khamoosh-and."
+   },
+   "analogy": {
+    "fa": "مثل چند کلید یدک برای یک در.",
+    "en": "Like several spare keys for one door.",
+    "tr": "Mesl-e chand kelid-e yadak baraye yek dar."
+   },
+   "contrast": {
+    "fa": "برعکسش درست نیست: هر رمزه فقط یک آمینواسید را رمز می‌کند.",
+    "en": "The reverse is not true: each codon codes for only one amino acid.",
+    "tr": "Bar-aksash dorost nist: har ramze faghat yek amino-asid ra ramz mikonad."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-missense",
+   "term": {
+    "fa": "جهش دگرمعنی",
+    "en": "missense mutation",
+    "tr": "jahesh-e degar-mani"
+   },
+   "explain": {
+    "fa": "جانشینی‌ای که آمینواسید را عوض می‌کند ولی طول زنجیره را نه؛ مثل جهش کم‌خونی داسی‌شکل که یک گلوتامیک‌اسید به والین تبدیل می‌شود.",
+    "en": "A substitution that changes the amino acid but not the chain length; like the sickle-cell mutation, where one glutamic acid becomes valine.",
+    "tr": "Janeshini-i ke amino-asid ra avaz mikonad vali tool-e zanjire ra na; mesl-e jahesh-e kam-khooni-ye dasi-shekl ke yek glutamik-asid be valin tabdil mishavad."
+   },
+   "analogy": {
+    "fa": "مثل عوض شدن یک کلمه در جمله که معنی را تغییر می‌دهد ولی جمله تمام نمی‌شود.",
+    "en": "Like one word in a sentence changing, altering the meaning without ending the sentence.",
+    "tr": "Mesl-e avaz shodan-e yek kalame dar jomle ke ma'ni ra taghyir midahad vali jomle tamam nemishavad."
+   },
+   "contrast": {
+    "fa": "طول ثابت + آمینواسید عوض = دگرمعنی؛ زنجیرهٔ کوتاه‌شده = بی‌معنی.",
+    "en": "Same length + changed amino acid = missense; a shortened chain = nonsense.",
+    "tr": "Tool-e sabet + amino-asid-e avaz = degar-ma'ni; zanjire-ye kootah-shode = bi-ma'ni."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-nonsense",
+   "term": {
+    "fa": "جهش بی‌معنی",
+    "en": "nonsense mutation",
+    "tr": "jahesh-e bi-mani"
+   },
+   "explain": {
+    "fa": "جانشینی‌ای که رمزهٔ یک آمینواسید را به رمزهٔ پایان تبدیل می‌کند؛ ترجمه زود تمام می‌شود و پروتئین کوتاه و معمولاً بی‌کار می‌شود.",
+    "en": "A substitution that turns an amino acid codon into a stop codon; translation ends early and the protein is short and usually useless.",
+    "tr": "Janeshini-i ke ramze-ye yek amino-asid ra be ramze-ye payan tabdil mikonad; tarjome zood tamam mishavad va protein kootah va ma'moolan bi-kar mishavad."
+   },
+   "analogy": {
+    "fa": "مثل نقطه‌ای که وسط جمله گذاشته شود.",
+    "en": "Like a full stop dropped into the middle of a sentence.",
+    "tr": "Mesl-e noghte-i ke vasat-e jomle gozashte shavad."
+   },
+   "contrast": {
+    "fa": "بی‌معنی با تغییر چارچوب فرق دارد: بی‌معنی یک جانشینی است و چارچوب را جابه‌جا نمی‌کند.",
+    "en": "Nonsense is not a frameshift: nonsense is a substitution and does not shift the frame.",
+    "tr": "Bi-ma'ni ba taghyir-e charchoob fargh darad: bi-ma'ni yek janeshini ast va charchoob ra jabeja nemikonad."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-frameshift",
+   "term": {
+    "fa": "جهش تغییر چارچوب",
+    "en": "frameshift mutation",
+    "tr": "jahesh-e taghyir-e charchoob"
+   },
+   "explain": {
+    "fa": "افزوده یا حذف شدن نوکلئوتید (به تعدادی که مضرب سه نیست). چون رمزه‌ها سه‌تا سه‌تا خوانده می‌شوند، همهٔ رمزه‌های بعد از آن نقطه جابه‌جا خوانده می‌شوند.",
+    "en": "Adding or deleting nucleotides (a number that is not a multiple of three). Because codons are read in threes, every codon after that point is read shifted.",
+    "tr": "Afzoode ya hazf shodan-e nukleotid (be te'dadi ke mazrab-e se nist). Chon ramze-ha se-ta se-ta khande mishavand, hame-ye ramze-haye ba'd az an noghte jabeja khande mishavand."
+   },
+   "analogy": {
+    "fa": "جملهٔ `THE CAT ATE THE RAT` را سه‌حرفی بخوان و یک حرف را بردار؛ بقیه بی‌معنی می‌شود.",
+    "en": "Read THE CAT ATE THE RAT in threes and drop one letter; the rest becomes nonsense.",
+    "tr": "Jomle-ye THE CAT ATE THE RAT ra se-harfi bekhan va yek harf ra bardar; baghiye bi-ma'ni mishavad."
+   },
+   "contrast": {
+    "fa": "حذف «سه» نوکلئوتید چارچوب را عوض نمی‌کند؛ فقط یک آمینواسید کم می‌شود.",
+    "en": "Deleting \"three\" nucleotides does not shift the frame; it just removes one amino acid.",
+    "tr": "Hazf-e \"se\" nukleotid charchoob ra avaz nemikonad; faghat yek amino-asid kam mishavad."
+   },
+   "unit": "bio-4-point-mutations"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-duplication",
+   "term": {
+    "fa": "مضاعف شدن",
+    "en": "duplication",
+    "tr": "mozaaf shodan"
+   },
+   "explain": {
+    "fa": "جهش ساختاری که در آن قطعه‌ای از یک کروموزوم جدا می‌شود و به کروموزوم همتای آن می‌چسبد؛ پس آن قطعه روی کروموزوم همتا دو بار تکرار می‌شود.",
+    "en": "A structural mutation where a piece of one chromosome breaks off and attaches to its homologous chromosome, so that piece appears twice on the homolog.",
+    "tr": "Jahesh-e sakhtari ke dar an ghet'e-i az yek kromozom joda mishavad va be kromozom-e hamta-ye an michasbad; pas an ghet'e rooye kromozom-e hamta do bar tekrar mishavad."
+   },
+   "analogy": {
+    "fa": "مثل صفحه‌ای که از یک نسخهٔ کتاب کنده و در نسخهٔ دیگر کنار همان صفحه چسبانده شود.",
+    "en": "Like a page torn from one copy of a book and glued into the other copy next to the same page.",
+    "tr": "Mesl-e safhe-i ke az yek noskhe-ye ketab kande va dar noskhe-ye digar kenar-e haman safhe chasbande shavad."
+   },
+   "contrast": {
+    "fa": "به کروموزوم «همتا» = مضاعف شدن؛ به کروموزوم «غیرهمتا» = جابه‌جایی.",
+    "en": "To the \"homologous\" chromosome = duplication; to a \"non-homologous\" one = translocation.",
+    "tr": "Be kromozom-e \"hamta\" = mozaa'af shodan; be kromozom-e \"gheyr-e hamta\" = jabejayi."
+   },
+   "unit": "bio-4-chromosome-structure"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-inversion",
+   "term": {
+    "fa": "واژگونی",
+    "en": "inversion",
+    "tr": "vazhguni"
+   },
+   "explain": {
+    "fa": "قطعه‌ای از کروموزوم جدا می‌شود و پس از چرخش ۱۸۰ درجه به همان کروموزوم برمی‌گردد. ژنی کم یا زیاد نمی‌شود؛ فقط ترتیب برعکس می‌شود.",
+    "en": "A piece of a chromosome breaks off and rejoins the same chromosome after a 180° turn. No gene is gained or lost; only the order is reversed.",
+    "tr": "Ghet'e-i az kromozom joda mishavad va pas az charkhesh-e 180 daraje be haman kromozom barmigardad. Zheni kam ya ziyad nemishavad; faghat tartib bar-aks mishavad."
+   },
+   "analogy": {
+    "fa": "مثل برگرداندن یک بند از یک پاراگراف به صورت وارونه.",
+    "en": "Like putting one line of a paragraph back in upside down.",
+    "tr": "Mesl-e bargardandan-e yek band az yek paragraf be soorat-e varoone."
+   },
+   "contrast": {
+    "fa": "در واژگونی تکه به «همان» کروموزوم برمی‌گردد؛ اگر به کروموزوم دیگری برود، واژگونی نیست.",
+    "en": "In an inversion the piece returns to the \"same\" chromosome; if it goes to another chromosome, it is not an inversion.",
+    "tr": "Dar vazhgooni tekke be \"haman\" kromozom barmigardad; agar be kromozom-e digari beravad, vazhgooni nist."
+   },
+   "unit": "bio-4-chromosome-structure"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-translocation",
+   "term": {
+    "fa": "جابه‌جایی کروموزومی",
+    "en": "translocation",
+    "tr": "jabejayi-ye chromosomi"
+   },
+   "explain": {
+    "fa": "قطعه‌ای از یک کروموزوم جدا می‌شود و به یک کروموزوم غیرهمتا می‌چسبد؛ مثلاً بخشی از کروموزوم ۹ روی کروموزوم ۲۲.",
+    "en": "A piece of one chromosome breaks off and attaches to a non-homologous chromosome; for example part of chromosome 9 onto chromosome 22.",
+    "tr": "Ghet'e-i az yek kromozom joda mishavad va be yek kromozom-e gheyr-e hamta michasbad; masalan bakhshi az kromozom-e 9 rooye kromozom-e 22."
+   },
+   "analogy": {
+    "fa": "مثل صفحه‌ای که از یک کتاب کنده و در کتابی کاملاً دیگر چسبانده شود.",
+    "en": "Like a page torn from one book and glued into a completely different book.",
+    "tr": "Mesl-e safhe-i ke az yek ketab kande va dar ketabi kamelan digar chasbande shavad."
+   },
+   "contrast": {
+    "fa": "دو کروموزوم با شمارهٔ متفاوت همتا نیستند، پس چسبیدن بین آن‌ها جابه‌جایی است.",
+    "en": "Two chromosomes with different numbers are not homologous, so attaching between them is translocation.",
+    "tr": "Do kromozom ba shomare-ye motafavet hamta nistand, pas chasbidan beyn-e an-ha jabejayi ast."
+   },
+   "unit": "bio-4-chromosome-structure"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-nondisjunction",
+   "term": {
+    "fa": "جدا نشدن کروموزوم‌ها",
+    "en": "nondisjunction",
+    "tr": "joda nashodan-e chromosome-ha"
+   },
+   "explain": {
+    "fa": "در کاستمان، یک جفت کروموزوم (آنافاز ۱) یا دو کروماتید خواهری (آنافاز ۲) از هم جدا نمی‌شوند؛ یک گامت کروموزوم اضافه و دیگری کم می‌گیرد (آنوپلوئیدی).",
+    "en": "In meiosis, a pair of chromosomes (anaphase I) or two sister chromatids (anaphase II) fail to separate; one gamete gets an extra chromosome and another one too few (aneuploidy).",
+    "tr": "Dar kastman, yek joft kromozom (anafaz-e 1) ya do kromatid-e khahari (anafaz-e 2) az ham joda nemishavand; yek gamet kromozom-e ezafe va digari kam migirad (anuploidi)."
+   },
+   "analogy": {
+    "fa": "مثل دو صفحهٔ به‌هم‌چسبیده که هر دو به یک نسخه می‌روند.",
+    "en": "Like two pages stuck together that both go into one copy.",
+    "tr": "Mesl-e do safhe-ye be-ham-chasbide ke har do be yek noskhe miravand."
+   },
+   "contrast": {
+    "fa": "جدا نشدن در هر دو آنافاز ممکن است؛ در آنافاز ۱ هر چهار گامت ناهنجارند، در آنافاز ۲ فقط دو تا.",
+    "en": "Nondisjunction can happen in either anaphase; in anaphase I all four gametes are abnormal, in anaphase II only two.",
+    "tr": "Joda nashodan dar har do anafaz momken ast; dar anafaz-e 1 har chahar gamet nahanjar-and, dar anafaz-e 2 faghat do ta."
+   },
+   "unit": "bio-4-chromosome-number"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-trisomy-21",
+   "term": {
+    "fa": "تریزومی ۲۱",
+    "en": "trisomy 21",
+    "tr": "trisomy 21"
+   },
+   "explain": {
+    "fa": "داشتن سه نسخه از کروموزوم ۲۱ که نشانگان داون را پدید می‌آورد؛ یاخته‌ها ۴۷ کروموزوم دارند. معمولاً از گامتی با کروموزوم ۲۱ اضافه می‌آید.",
+    "en": "Having three copies of chromosome 21, which causes Down syndrome; the cells have 47 chromosomes. It usually comes from a gamete with an extra chromosome 21.",
+    "tr": "Dashtan-e se noskhe az kromozom-e 21 ke neshangan-e Down ra padid miavarad; yakhte-ha 47 kromozom darand. Ma'moolan az gameti ba kromozom-e 21-e ezafe miayad."
+   },
+   "analogy": {
+    "fa": "مثل کتابی که یک فصلش سه بار چاپ شده است.",
+    "en": "Like a book with one chapter printed three times.",
+    "tr": "Mesl-e ketabi ke yek faslash se bar chap shode ast."
+   },
+   "contrast": {
+    "fa": "تریزومی یعنی سه نسخه از «یک» کروموزوم، نه سه مجموعهٔ کامل (`3n`، چندلادی).",
+    "en": "Trisomy means three copies of \"one\" chromosome, not three whole sets (`3n`, polyploidy).",
+    "tr": "Trizomi ya'ni se noskhe az \"yek\" kromozom, na se majmoo'e-ye kamel (`3n`, chand-ladi)."
+   },
+   "unit": "bio-4-chromosome-number"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-glycolysis",
+   "term": {
+    "fa": "قندکافت",
+    "en": "glycolysis",
+    "tr": "ghand-kaft"
+   },
+   "explain": {
+    "fa": "شکستن گلوکز شش‌کربنه به دو پیرووات سه‌کربنه در میان‌یاخته، بدون نیاز به اکسیژن. دو `ATP` خرج و چهار `ATP` و دو `NADH` ساخته می‌شود: سود خالص دو `ATP`.",
+    "en": "Splitting six-carbon glucose into two three-carbon pyruvates in the cytoplasm, without needing oxygen. Two `ATP` are spent and four `ATP` and two `NADH` made: a net gain of two `ATP`.",
+    "tr": "Shekastan-e glukoz-e shesh-karbane be do piruvat-e se-karbane dar miyan-yakhte, bedoon-e niyaz be oksizhen. Do `ATP` kharj va chahar `ATP` va do `NADH` sakhte mishavad: sood-e khales do `ATP`."
+   },
+   "analogy": {
+    "fa": "مثل کاسبی که اول کمی سرمایه می‌گذارد و بعد سود بیشتری برمی‌دارد.",
+    "en": "Like a trader who invests a little first, then takes back more.",
+    "tr": "Mesl-e kasebi ke avval kami sarmaye migozarad va ba'd sood-e bishtari barmidarad."
+   },
+   "contrast": {
+    "fa": "قندکافت در میان‌یاخته است، نه در راکیزه، و در هر دو حالت با و بدون اکسیژن انجام می‌شود.",
+    "en": "Glycolysis is in the cytoplasm, not the mitochondrion, and runs both with and without oxygen.",
+    "tr": "Ghand-kaft dar miyan-yakhte ast, na dar rakize, va dar har do halat ba va bedoon-e oksizhen anjam mishavad."
+   },
+   "unit": "bio-5-glycolysis"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pyruvate",
+   "term": {
+    "fa": "پیرووات",
+    "en": "pyruvate",
+    "tr": "pyruvate"
+   },
+   "explain": {
+    "fa": "مولکول سه‌کربنهٔ پایانی قندکافت. با اکسیژن وارد راکیزه می‌شود و اکسایش می‌یابد؛ بدون اکسیژن در تخمیر به لاکتات یا اتانول تبدیل می‌شود.",
+    "en": "The three-carbon end product of glycolysis. With oxygen it enters the mitochondrion and is oxidised; without oxygen it is turned into lactate or ethanol in fermentation.",
+    "tr": "Molekool-e se-karbane-ye payani-ye ghand-kaft. Ba oksizhen vared-e rakize mishavad va oksayesh miyabad; bedoon-e oksizhen dar takhmir be laktat ya etanol tabdil mishavad."
+   },
+   "analogy": {
+    "fa": "مثل چهارراهی که مسیر بعدی به وجود اکسیژن بستگی دارد.",
+    "en": "Like a crossroads where the next route depends on whether there is oxygen.",
+    "tr": "Mesl-e chahar-rahi ke masir-e ba'di be vojood-e oksizhen bastegi darad."
+   },
+   "contrast": {
+    "fa": "از هر گلوکز «دو» پیرووات ساخته می‌شود؛ همهٔ اعداد پس از آن را دو برابر کن.",
+    "en": "Each glucose makes \"two\" pyruvates; double every number after that point.",
+    "tr": "Az har glukoz \"do\" piruvat sakhte mishavad; hame-ye a'dad pas az an ra do barabar kon."
+   },
+   "unit": "bio-5-glycolysis"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-isomerization",
+   "term": {
+    "fa": "ایزومری شدن",
+    "en": "isomerization",
+    "tr": "izomeri shodan"
+   },
+   "explain": {
+    "fa": "تبدیل یک مولکول به مولکولی با همان اتم‌ها ولی چیدمان متفاوت. در گام دوم قندکافت، گلوکز ۶-فسفات به فروکتوز ۶-فسفات ایزومری می‌شود.",
+    "en": "Turning a molecule into one with the same atoms but a different arrangement. In the second step of glycolysis, glucose 6-phosphate isomerises into fructose 6-phosphate.",
+    "tr": "Tabdil-e yek molekool be molekooli ba haman atom-ha vali chidemaan-e motafavet. Dar gam-e dovvom-e ghand-kaft, glukoz 6-fosfat be fruktoz 6-fosfat izomeri mishavad."
+   },
+   "analogy": {
+    "fa": "مثل ساختن کلمهٔ تازه از همان حروف.",
+    "en": "Like making a new word from the same letters.",
+    "tr": "Mesl-e sakhtan-e kalame-ye taze az haman horoof."
+   },
+   "contrast": {
+    "fa": "در ایزومری شدن هیچ اتمی کم یا زیاد نمی‌شود؛ فرمول مولکولی یکسان می‌ماند.",
+    "en": "In isomerisation no atom is added or lost; the molecular formula stays the same.",
+    "tr": "Dar izomeri shodan hich atomi kam ya ziyad nemishavad; formool-e molekooli yeksan mimanad."
+   },
+   "unit": "bio-5-glycolysis"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-mitochondrion",
+   "term": {
+    "fa": "راکیزه",
+    "en": "mitochondrion",
+    "tr": "mitokondri"
+   },
+   "explain": {
+    "fa": "اندامکی با دو غشا که بیشتر `ATP` یاخته در آن ساخته می‌شود. اکسایش پیرووات و چرخهٔ کربس در بخش داخلی آن، و زنجیرهٔ انتقال الکترون روی غشای درونی چین‌خورده‌اش است.",
+    "en": "The organelle with two membranes where most of the cell's `ATP` is made. Pyruvate oxidation and the Krebs cycle are in its matrix, and the electron transport chain is on its folded inner membrane.",
+    "tr": "Andamaki ba do ghesha ke bishtar-e `ATP`-e yakhte dar an sakhte mishavad. Oksayesh-e piruvat va charkhe-ye Krebs dar bakhsh-e dakheli-ye an, va zanjire-ye enteghal-e elektron rooye ghesha-ye daroonie chin-khorde-ash ast."
+   },
+   "analogy": {
+    "fa": "نیروگاه یاخته.",
+    "en": "The power station of the cell.",
+    "tr": "Niroogah-e yakhte."
+   },
+   "contrast": {
+    "fa": "قندکافت بیرون از راکیزه است؛ فقط مراحل بعدی درون آن‌اند.",
+    "en": "Glycolysis is outside the mitochondrion; only the later stages are inside it.",
+    "tr": "Ghand-kaft biroon az rakize ast; faghat marahel-e ba'di daroon-e an-and."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pyruvate-oxidation",
+   "term": {
+    "fa": "اکسایش پیرووات",
+    "en": "pyruvate oxidation",
+    "tr": "oksayesh-e pyruvate"
+   },
+   "explain": {
+    "fa": "در راکیزه، پیرووات یک `CO2` از دست می‌دهد، الکترون‌هایش `NADH` می‌سازند و گروه دوکربنهٔ استیل به کوآنزیم آ می‌چسبد تا استیل کوآنزیم آ ساخته شود.",
+    "en": "In the mitochondrion, pyruvate loses one `CO2`, its electrons make `NADH`, and the two-carbon acetyl group joins coenzyme A to make acetyl-CoA.",
+    "tr": "Dar rakize, piruvat yek `CO2` az dast midahad, elektron-hayash `NADH` misazand va goroh-e do-karbane-ye asetil be ko-anzim A michasbad ta asetil ko-anzim A sakhte shavad."
+   },
+   "analogy": {
+    "fa": "مثل آماده کردن مواد پیش از ریختن در دیگ اصلی (کربس).",
+    "en": "Like preparing the ingredients before they go into the main pot (the Krebs cycle).",
+    "tr": "Mesl-e amade kardan-e mavad pish az rikhtan dar dig-e asli (Krebs)."
+   },
+   "contrast": {
+    "fa": "اکسایش پیرووات جزء چرخهٔ کربس نیست؛ مرحلهٔ پیش از آن است.",
+    "en": "Pyruvate oxidation is not part of the Krebs cycle; it is the step before it.",
+    "tr": "Oksayesh-e piruvat jozv-e charkhe-ye Krebs nist; marhale-ye pish az an ast."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-acetyl-coa",
+   "term": {
+    "fa": "استیل کوآنزیم آ",
+    "en": "Acetyl-CoA",
+    "tr": "Acetyl-CoA"
+   },
+   "explain": {
+    "fa": "ترکیبی که از چسبیدن گروه دوکربنهٔ استیل به کوآنزیم آ ساخته می‌شود و استیل را به چرخهٔ کربس تحویل می‌دهد.",
+    "en": "The compound formed when the two-carbon acetyl group joins coenzyme A; it delivers the acetyl to the Krebs cycle.",
+    "tr": "Tarkibi ke az chasbidan-e goroh-e do-karbane-ye asetil be ko-anzim A sakhte mishavad va asetil ra be charkhe-ye Krebs tahvil midahad."
+   },
+   "matches": {
+    "tr": [
+     "acetyl coenzyme A"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل بسته‌ای با دستهٔ حمل؛ کوآنزیم آ همان دسته است.",
+    "en": "Like a parcel with a carrying handle; coenzyme A is the handle.",
+    "tr": "Mesl-e baste-i ba daste-ye haml; ko-anzim A haman daste ast."
+   },
+   "contrast": {
+    "fa": "فقط استیل دوکربنه وارد چرخه می‌شود؛ کوآنزیم آ آزاد می‌شود و دوباره به کار می‌رود.",
+    "en": "Only the two-carbon acetyl enters the cycle; coenzyme A is released and used again.",
+    "tr": "Faghat asetil-e do-karbane vared-e charkhe mishavad; ko-anzim A azad mishavad va dobare be kar miravad."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-krebs",
+   "term": {
+    "fa": "چرخهٔ کربس",
+    "en": "Krebs cycle",
+    "tr": "charkhe-ye Krebs"
+   },
+   "explain": {
+    "fa": "چرخه‌ای در بخش داخلی راکیزه: استیل دوکربنه با اگزالواستات چهارکربنه سیتریک‌اسید شش‌کربنه می‌سازد. هر دور ۲ `CO2`، ۳ `NADH`، ۱ `FADH2` و ۱ `ATP` می‌دهد و اگزالواستات دوباره ساخته می‌شود.",
+    "en": "A cycle in the mitochondrial matrix: two-carbon acetyl joins four-carbon oxaloacetate to make six-carbon citric acid. Each turn gives 2 `CO2`, 3 `NADH`, 1 `FADH2` and 1 `ATP`, and oxaloacetate is remade.",
+    "tr": "Charkhe-i dar bakhsh-e dakheli-ye rakize: asetil-e do-karbane ba oksalo-asetat-e chahar-karbane sitrik-asid-e shesh-karbane misazad. Har dor 2 `CO2`, 3 `NADH`, 1 `FADH2` va 1 `ATP` midahad va oksalo-asetat dobare sakhte mishavad."
+   },
+   "analogy": {
+    "fa": "مثل چرخ گردانی که هر دور کربن بیرون می‌دهد و کیف پول‌ها را پر می‌کند.",
+    "en": "Like a turning wheel that gives off carbon each turn and fills the wallets.",
+    "tr": "Mesl-e charkh-e gardani ke har dor karbon biroon midahad va kif-e pool-ha ra por mikonad."
+   },
+   "contrast": {
+    "fa": "هر گلوکز «دو» دور کربس دارد؛ اعداد هر دور را دو برابر کن.",
+    "en": "Each glucose gives \"two\" Krebs turns; double the numbers per turn.",
+    "tr": "Har glukoz \"do\" dor-e Krebs darad; a'dad-e har dor ra do barabar kon."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-oxaloacetate",
+   "term": {
+    "fa": "اگزالواستات",
+    "en": "oxaloacetate",
+    "tr": "oxaloacetate"
+   },
+   "explain": {
+    "fa": "ترکیب چهارکربنه‌ای که در آغاز چرخهٔ کربس با استیل ترکیب می‌شود و در گام پایانی دوباره ساخته می‌شود تا چرخه ادامه یابد.",
+    "en": "The four-carbon compound that combines with acetyl at the start of the Krebs cycle and is remade in the last step so the cycle can go on.",
+    "tr": "Tarkib-e chahar-karbane-i ke dar aghaz-e charkhe-ye Krebs ba asetil tarkib mishavad va dar gam-e payani dobare sakhte mishavad ta charkhe edame yabad."
+   },
+   "analogy": {
+    "fa": "مثل صندلی خالی یک چرخ‌وفلک که هر دور مسافر تازه سوار می‌کند و دوباره خالی برمی‌گردد.",
+    "en": "Like an empty seat on a Ferris wheel that takes a new rider each turn and comes back empty.",
+    "tr": "Mesl-e sandali-ye khali-ye yek charkh-o-falak ke har dor mosafer-e taze savar mikonad va dobare khali barmigardad."
+   },
+   "contrast": {
+    "fa": "اگزالواستات چهارکربنه است و مصرف نمی‌شود؛ بازسازی می‌شود.",
+    "en": "Oxaloacetate has four carbons and is not used up; it is regenerated.",
+    "tr": "Oksalo-asetat chahar-karbane ast va masraf nemishavad; bazsazi mishavad."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-co2",
+   "term": {
+    "fa": "دی‌اکسید کربن",
+    "en": "carbon dioxide",
+    "tr": "carbon dioxide"
+   },
+   "explain": {
+    "fa": "گازی که در اکسایش پیرووات و چرخهٔ کربس آزاد می‌شود؛ هر شش کربن گلوکز سرانجام به‌صورت `CO2` بیرون می‌روند، همان گازی که بازدم می‌کنیم.",
+    "en": "The gas released in pyruvate oxidation and the Krebs cycle; all six carbons of glucose finally leave as `CO2`, the gas we breathe out.",
+    "tr": "Gazi ke dar oksayesh-e piruvat va charkhe-ye Krebs azad mishavad; har shesh karbon-e glukoz saranjam be-soorat-e `CO2` biroon miravand, haman gazi ke bazdam mikonim."
+   },
+   "analogy": {
+    "fa": "مثل دود اگزوز کارخانه‌ای که سوخت (گلوکز) را می‌سوزاند.",
+    "en": "Like the exhaust of a factory burning its fuel (glucose).",
+    "tr": "Mesl-e dood-e egzoz-e karkhane-i ke sookht (glukoz) ra misoozanad."
+   },
+   "contrast": {
+    "fa": "`CO2` بازدم از کربن‌های گلوکز است، نه از اکسیژن؛ اکسیژن به آب تبدیل می‌شود.",
+    "en": "The `CO2` we breathe out comes from glucose's carbons, not from oxygen; oxygen becomes water.",
+    "tr": "`CO2`-e bazdam az karbon-haye glukoz ast, na az oksizhen; oksizhen be ab tabdil mishavad."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-aerobic",
+   "term": {
+    "fa": "تنفس هوازی",
+    "en": "aerobic respiration",
+    "tr": "tanaffos-e havazi"
+   },
+   "explain": {
+    "fa": "شکستن کامل گلوکز با کمک اکسیژن: قندکافت، اکسایش پیرووات، چرخهٔ کربس و زنجیرهٔ انتقال الکترون. حدود ۳۰ `ATP` از هر گلوکز، با `CO2` و آب.",
+    "en": "The complete breakdown of glucose using oxygen: glycolysis, pyruvate oxidation, the Krebs cycle and the electron transport chain. About 30 `ATP` per glucose, with `CO2` and water.",
+    "tr": "Shekastan-e kamel-e glukoz ba komak-e oksizhen: ghand-kaft, oksayesh-e piruvat, charkhe-ye Krebs va zanjire-ye enteghal-e elektron. Hodood-e 30 `ATP` az har glukoz, ba `CO2` va ab."
+   },
+   "analogy": {
+    "fa": "مثل صرافی که یک اسکناس درشت را کامل به سکه‌های خرد تبدیل می‌کند.",
+    "en": "Like a money changer turning one big note completely into small coins.",
+    "tr": "Mesl-e sarrafi ke yek eskenas-e dorosht ra kamel be sekke-haye khord tabdil mikonad."
+   },
+   "contrast": {
+    "fa": "تنفس یاخته‌ای با تنفس (دم و بازدم) فرق دارد؛ اولی در یاخته است و دومی گاز را جابه‌جا می‌کند.",
+    "en": "Cellular respiration is not breathing; the first happens in cells, the second moves the gases.",
+    "tr": "Tanaffos-e yakhte-i ba tanaffos (dam va bazdam) fargh darad; avvali dar yakhte ast va dovvomi gaz ra jabeja mikonad."
+   },
+   "unit": "bio-5-krebs"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-etc",
+   "term": {
+    "fa": "زنجیرهٔ انتقال الکترون",
+    "en": "electron transport chain",
+    "tr": "zanjire-ye enteghal-e electron"
+   },
+   "explain": {
+    "fa": "ردیفی از پروتئین‌ها روی یک غشا که الکترون‌ها از یکی به دیگری می‌روند و انرژی‌شان پروتون پمپ می‌کند. در راکیزه (غشای درونی، تنفس) و در سبزدیسه (غشای تیلاکوئید، فتوسنتز) هست؛ شیب پروتون `ATP` ساز را می‌چرخاند.",
+    "en": "A row of proteins on a membrane, passing electrons from one to the next while their energy pumps protons. It exists in mitochondria (inner membrane, respiration) and chloroplasts (thylakoid membrane, photosynthesis); the proton gradient turns `ATP` synthase.",
+    "tr": "Radifi az protein-ha rooye yek ghesha ke elektron-ha az yeki be digari miravand va enerzhi-shan proton pomp mikonad. Dar rakize (ghesha-ye daroonie, tanaffos) va dar sabz-dise (ghesha-ye tilakoid, fotosantez) hast; shib-e proton `ATP` saz ra micharkhanad."
+   },
+   "analogy": {
+    "fa": "مثل پمپ‌هایی که آب را پشت سد بالا می‌برند تا بعداً توربین را بچرخاند.",
+    "en": "Like the pumps that lift water behind a dam so it can turn the turbine later.",
+    "tr": "Mesl-e pomp-hayi ke ab ra posht-e sad bala mibarand ta ba'dan toorbin ra becharkhanad."
+   },
+   "contrast": {
+    "fa": "در تنفس، پذیرندهٔ نهایی اکسیژن است؛ در فتوسنتز `NADP+`.",
+    "en": "In respiration the final acceptor is oxygen; in photosynthesis it is `NADP+`.",
+    "tr": "Dar tanaffos, pazirande-ye nahayi oksizhen ast; dar fotosantez `NADP+`."
+   },
+   "unit": "bio-6-light-reactions"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-mito-etc",
+   "term": {
+    "fa": "زنجیرهٔ انتقال الکترون راکیزه",
+    "en": "mitochondrial electron transport chain",
+    "tr": "zanjireh-ye enteghal-e electron"
+   },
+   "explain": {
+    "fa": "زنجیرهٔ روی غشای درونی راکیزه: `NADH` الکترون را به مجموعهٔ ۱ و `FADH2` به مجموعهٔ ۲ می‌دهد؛ الکترون‌ها تا اکسیژن می‌روند و پروتون به فضای بین دو غشا پمپ می‌شود.",
+    "en": "The chain on the inner mitochondrial membrane: `NADH` gives electrons to complex I and `FADH2` to complex II; the electrons travel to oxygen and protons are pumped into the intermembrane space.",
+    "tr": "Zanjire-ye rooye ghesha-ye daroonie-ye rakize: `NADH` elektron ra be majmoo'e-ye 1 va `FADH2` be majmoo'e-ye 2 midahad; elektron-ha ta oksizhen miravand va proton be faza-ye beyn-e do ghesha pomp mishavad."
+   },
+   "analogy": {
+    "fa": "پمپ‌های سد برق‌آبی یاخته.",
+    "en": "The pumps of the cell's hydroelectric dam.",
+    "tr": "Pomp-haye sad-e barq-abi-ye yakhte."
+   },
+   "contrast": {
+    "fa": "`FADH2` از مجموعهٔ ۲ وارد می‌شود که پمپ نیست، پس `ATP` کمتری از `NADH` می‌دهد.",
+    "en": "`FADH2` enters at complex II, which is not a pump, so it gives less `ATP` than `NADH`.",
+    "tr": "`FADH2` az majmoo'e-ye 2 vared mishavad ke pomp nist, pas `ATP`-e kamtari az `NADH` midahad."
+   },
+   "unit": "bio-5-electron-chain"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-intermembrane",
+   "term": {
+    "fa": "فضای بین دو غشا",
+    "en": "intermembrane space",
+    "tr": "faza-ye beyn-e do ghesha"
+   },
+   "explain": {
+    "fa": "فضای باریک بین غشای بیرونی و درونی راکیزه. زنجیرهٔ انتقال الکترون پروتون‌ها را به اینجا پمپ می‌کند و شیب پروتون ساخته می‌شود.",
+    "en": "The narrow space between the outer and inner mitochondrial membranes. The electron transport chain pumps protons into it, building the proton gradient.",
+    "tr": "Faza-ye barik beyn-e ghesha-ye birooni va daroonie-ye rakize. Zanjire-ye enteghal-e elektron proton-ha ra be inja pomp mikonad va shib-e proton sakhte mishavad."
+   },
+   "analogy": {
+    "fa": "مخزن پشت سد.",
+    "en": "The reservoir behind the dam.",
+    "tr": "Makhzan-e posht-e sad."
+   },
+   "contrast": {
+    "fa": "پروتون‌ها به فضای بین دو غشا پمپ می‌شوند، نه به بخش داخلی.",
+    "en": "Protons are pumped into the intermembrane space, not into the matrix.",
+    "tr": "Proton-ha be faza-ye beyn-e do ghesha pomp mishavand, na be bakhsh-e dakheli."
+   },
+   "unit": "bio-5-electron-chain"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-final-acceptor",
+   "term": {
+    "fa": "پذیرندهٔ نهایی الکترون",
+    "en": "final electron acceptor",
+    "tr": "pazirandeh-ye nahayi-ye electron"
+   },
+   "explain": {
+    "fa": "در تنفس هوازی، اکسیژن آخرین گیرندهٔ الکترون‌های زنجیره است و با پروتون‌ها ترکیب می‌شود و آب می‌سازد. بدون اکسیژن، زنجیره می‌ایستد.",
+    "en": "In aerobic respiration oxygen is the last acceptor of the chain's electrons and combines with protons to make water. Without oxygen the chain stops.",
+    "tr": "Dar tanaffos-e havazi, oksizhen akharin girande-ye elektron-haye zanjire ast va ba proton-ha tarkib mishavad va ab misazad. Bedoon-e oksizhen, zanjire miistad."
+   },
+   "analogy": {
+    "fa": "مثل خروجی یک بزرگراه؛ اگر بسته شود، کل ترافیک قفل می‌شود.",
+    "en": "Like the exit of a motorway; if it closes, all the traffic jams.",
+    "tr": "Mesl-e khorooji-ye yek bozorgrah; agar baste shavad, kol-e terafik ghofl mishavad."
+   },
+   "contrast": {
+    "fa": "اکسیژن به آب تبدیل می‌شود، نه به `CO2`.",
+    "en": "Oxygen becomes water, not `CO2`.",
+    "tr": "Oksizhen be ab tabdil mishavad, na be `CO2`."
+   },
+   "unit": "bio-5-electron-chain"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-atp-synthase",
+   "term": {
+    "fa": "ATP ساز",
+    "en": "ATP synthase",
+    "tr": "ATP-saz"
+   },
+   "explain": {
+    "fa": "کانال آنزیمی که پروتون‌ها فقط از راه آن به آن سوی غشا برمی‌گردند؛ جریانشان آنزیم را به کار می‌اندازد و `ADP` و فسفات به `ATP` تبدیل می‌شوند. در راکیزه و سبزدیسه هر دو هست.",
+    "en": "The enzyme channel that is the only way back across the membrane for protons; their flow drives the enzyme and turns `ADP` and phosphate into `ATP`. It exists in both mitochondria and chloroplasts.",
+    "tr": "Kanal-e anzimi ke proton-ha faghat az rah-e an be an soo-ye ghesha barmigardand; jaryaneshan anzim ra be kar miandazad va `ADP` va fosfat be `ATP` tabdil mishavand. Dar rakize va sabz-dise har do hast."
+   },
+   "analogy": {
+    "fa": "توربین سد برق‌آبی.",
+    "en": "The turbine of the hydroelectric dam.",
+    "tr": "Toorbin-e sad-e barq-abi."
+   },
+   "contrast": {
+    "fa": "`ATP` ساز پروتون پمپ نمی‌کند؛ از جریان برگشتی پروتون‌ها انرژی می‌گیرد.",
+    "en": "`ATP` synthase does not pump protons; it takes energy from the protons flowing back.",
+    "tr": "`ATP` saz proton pomp nemikonad; az jaryan-e bargashti-ye proton-ha enerzhi migirad."
+   },
+   "unit": "bio-5-electron-chain"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-nadh",
+   "term": {
+    "fa": "ناقل الکترون NADH",
+    "en": "NADH electron carrier",
+    "tr": "naghel-e electron NADH"
+   },
+   "explain": {
+    "fa": "کیف پول الکترونی که در قندکافت، اکسایش پیرووات و کربس پر می‌شود و الکترون‌هایش را به مجموعهٔ ۱ زنجیره می‌دهد؛ چون از همهٔ پمپ‌ها می‌گذرد، بیشترین `ATP` را به ازای هر مولکول می‌دهد.",
+    "en": "The electron wallet filled in glycolysis, pyruvate oxidation and the Krebs cycle; it hands its electrons to complex I of the chain, and because they pass every pump it yields the most `ATP` per molecule.",
+    "tr": "Kif-e pool-e elektroni ke dar ghand-kaft, oksayesh-e piruvat va Krebs por mishavad va elektron-hayash ra be majmoo'e-ye 1-e zanjire midahad; chon az hame-ye pomp-ha migozarad, bishtarin `ATP` ra be ezaye har molekool midahad."
+   },
+   "analogy": {
+    "fa": "مثل کیف پولی که در صرافی خالی می‌شود.",
+    "en": "Like a wallet that is emptied at the money changer.",
+    "tr": "Mesl-e kif-e pooli ke dar sarrafi khali mishavad."
+   },
+   "contrast": {
+    "fa": "`NADH` خودش `ATP` نیست؛ `ATP` آن بعداً در زنجیره پرداخت می‌شود.",
+    "en": "`NADH` is not `ATP` itself; its `ATP` is paid out later in the chain.",
+    "tr": "`NADH` khodash `ATP` nist; `ATP`-e an ba'dan dar zanjire pardakht mishavad."
+   },
+   "unit": "bio-5-electron-chain"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-lactic-fermentation",
+   "term": {
+    "fa": "تخمیر لاکتیکی",
+    "en": "lactic acid fermentation",
+    "tr": "takhmir-e lactici"
+   },
+   "explain": {
+    "fa": "بدون اکسیژن، در ماهیچهٔ انسان و باکتری‌های ماست‌ساز: پیرووات الکترون‌های `NADH` را مستقیم می‌گیرد و لاکتات می‌شود، تا `NAD+` برای ادامهٔ قندکافت بازسازی شود. `CO2` آزاد نمی‌شود.",
+    "en": "Without oxygen, in human muscle and yogurt bacteria: pyruvate takes the electrons of `NADH` directly and becomes lactate, so `NAD+` is regenerated for glycolysis to continue. No `CO2` is released.",
+    "tr": "Bedoon-e oksizhen, dar mahiche-ye ensan va bakteri-haye mast-saz: piruvat elektron-haye `NADH` ra mostaghim migirad va laktat mishavad, ta `NAD+` baraye edame-ye ghand-kaft bazsazi shavad. `CO2` azad nemishavad."
+   },
+   "analogy": {
+    "fa": "مثل خالی کردن کیسه‌های پر تا صندوق دوباره کار کند.",
+    "en": "Like emptying the full bags so the till can keep working.",
+    "tr": "Mesl-e khali kardan-e kise-haye por ta sandoogh dobare kar konad."
+   },
+   "contrast": {
+    "fa": "تخمیر لاکتیکی `CO2` ندارد؛ فقط تخمیر الکلی دارد.",
+    "en": "Lactic acid fermentation releases no `CO2`; only alcoholic fermentation does.",
+    "tr": "Takhmir-e laktiki `CO2` nadarad; faghat takhmir-e alkoli darad."
+   },
+   "unit": "bio-5-fermentation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-lactate",
+   "term": {
+    "fa": "لاکتات",
+    "en": "lactate",
+    "tr": "lactate"
+   },
+   "explain": {
+    "fa": "ترکیب سه‌کربنهٔ پایانی تخمیر لاکتیکی، که از کاهش پیرووات با الکترون‌های `NADH` در میان‌یاخته ساخته می‌شود.",
+    "en": "The three-carbon end product of lactic acid fermentation, made in the cytoplasm when pyruvate is reduced by the electrons of `NADH`.",
+    "tr": "Tarkib-e se-karbane-ye payani-ye takhmir-e laktiki, ke az kahesh-e piruvat ba elektron-haye `NADH` dar miyan-yakhte sakhte mishavad."
+   },
+   "analogy": {
+    "fa": "همان پیرووات با یک کیف پول خالی‌شده روی آن.",
+    "en": "The same pyruvate with an emptied wallet tipped onto it.",
+    "tr": "Haman piruvat ba yek kif-e pool-e khali-shode rooye an."
+   },
+   "contrast": {
+    "fa": "لاکتات هنوز سه کربن دارد؛ هیچ کربنی جدا نشده است.",
+    "en": "Lactate still has three carbons; no carbon has been removed.",
+    "tr": "Laktat hanooz se karbon darad; hich karboni joda nashode ast."
+   },
+   "unit": "bio-5-fermentation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-alcoholic-fermentation",
+   "term": {
+    "fa": "تخمیر الکلی",
+    "en": "alcoholic fermentation",
+    "tr": "takhmir-e alkoli"
+   },
+   "explain": {
+    "fa": "در مخمرها، بدون اکسیژن: پیرووات یک `CO2` از دست می‌دهد و اتانال می‌شود، بعد اتانال الکترون‌های `NADH` را می‌گیرد و اتانول می‌شود. همان `CO2` خمیر نان را ور می‌آورد.",
+    "en": "In yeast, without oxygen: pyruvate loses one `CO2` and becomes ethanal, then ethanal takes the electrons of `NADH` and becomes ethanol. That `CO2` makes bread dough rise.",
+    "tr": "Dar makhmar-ha, bedoon-e oksizhen: piruvat yek `CO2` az dast midahad va etanal mishavad, ba'd etanal elektron-haye `NADH` ra migirad va etanol mishavad. Haman `CO2` khamir-e nan ra var miavarad."
+   },
+   "analogy": {
+    "fa": "مثل حباب‌هایی که خمیر را پف می‌کنند.",
+    "en": "Like the bubbles that puff up the dough.",
+    "tr": "Mesl-e hobab-hayi ke khamir ra pof mikonand."
+   },
+   "contrast": {
+    "fa": "هدف تخمیر بازسازی `NAD+` است، نه ساختن `ATP` بیشتر؛ همهٔ `ATP` آن از قندکافت است.",
+    "en": "The purpose of fermentation is to regenerate `NAD+`, not to make more `ATP`; all its `ATP` comes from glycolysis.",
+    "tr": "Hadaf-e takhmir bazsazi-ye `NAD+` ast, na sakhtan-e `ATP`-e bishtar; hame-ye `ATP`-e an az ghand-kaft ast."
+   },
+   "unit": "bio-5-fermentation"
+  }
+ ]
+}
