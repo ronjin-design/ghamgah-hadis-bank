@@ -1,0 +1,968 @@
+{
+ "version": 123,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Biology",
+   "key": "bio-g-hydrogen-bond",
+   "term": {
+    "fa": "پیوند هیدروژنی",
+    "en": "hydrogen bond",
+    "tr": "peyvand-e hidrojeni"
+   },
+   "explain": {
+    "fa": "پیوندی ضعیف که بازهای مکمل دو رشتهٔ دنا را کنار هم نگه می‌دارد: `A` با `T` دو پیوند و `G` با `C` سه پیوند. همین پیوندها ساختار دوم پروتئین‌ها را هم نگه می‌دارند.",
+    "en": "A weak bond that holds the complementary bases of the two DNA strands together: `A` with `T` has two and `G` with `C` has three. The same bonds also hold the secondary structure of proteins.",
+    "tr": "Peyvandi za'if ke baz-haye mokammel-e do reshte-ye dena ra kenar-e ham negah midarad: `A` ba `T` do peyvand va `G` ba `C` se peyvand. Hamin peyvand-ha sakhtar-e dovvom-e protein-ha ra ham negah midarand."
+   },
+   "matches": {
+    "fa": [
+     "پیوندهای هیدروژنی",
+     "پیوند هیدروژنی بازها"
+    ],
+    "en": [
+     "hydrogen bonds",
+     "base hydrogen bonding"
+    ],
+    "tr": [
+     "peyvand-haye hidrozheni",
+     "peyvand-e hidrozheni-ye baz-ha"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل چسب‌های یک زیپ لباس: تک‌تک ضعیف‌اند ولی با هم محکم، و می‌شود زیپ را باز کرد.",
+    "en": "Like the teeth of a zip: each one is weak, but together they hold firm, and the zip can still be opened.",
+    "tr": "Mesl-e dandane-haye yek zip: tak-tak za'if-and vali ba ham mohkam, va mishavad zip ra baz kard."
+   },
+   "contrast": {
+    "fa": "پیوند هیدروژنی «بین» دو رشته است و ضعیف؛ پیوند فسفودی‌استر «داخل» یک رشته است و قوی.",
+    "en": "The hydrogen bond is \"between\" the two strands and weak; the phosphodiester bond is \"within\" one strand and strong.",
+    "tr": "Peyvand-e hidrojeni \"beyn\"-e do reshte ast va za'if; peyvand-e fosfodi-ester \"dakhel\"-e yek reshte ast va ghavi."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-deoxyribose",
+   "term": {
+    "fa": "دئوکسی‌ریبوز",
+    "en": "deoxyribose",
+    "tr": "deoxyribose"
+   },
+   "explain": {
+    "fa": "قند پنج‌کربنی نوکلئوتیدهای دنا. «دئوکسی» یعنی یک اکسیژن کمتر از ریبوز دارد؛ همین تفاوت کوچک دنا را پایدارتر از رنا می‌کند.",
+    "en": "The five-carbon sugar in DNA nucleotides. \"Deoxy\" means it has one oxygen fewer than ribose; that small difference makes DNA more stable than RNA.",
+    "tr": "Ghand-e panj-karbani-ye nukleotid-haye dena. \"Deoksi\" ya'ni yek oksizhen kamtar az riboz darad; hamin tafavot-e koochak dena ra paydar-tar az rena mikonad."
+   },
+   "analogy": {
+    "fa": "مثل نسخهٔ لمینت‌شدهٔ یک برگه: کمی متفاوت ولی بسیار بادوام‌تر، مناسب برای نقشهٔ اصلی.",
+    "en": "Like a laminated copy of a sheet: slightly different but far more durable, fit for the master copy.",
+    "tr": "Mesl-e noskhe-ye laminet-shode-ye yek barge: kami motafavet vali besiyar badavam-tar, monaseb baraye naghshe-ye asli."
+   },
+   "contrast": {
+    "fa": "دئوکسی‌ریبوز فقط در دناست و ریبوز در رنا؛ قند، یکی از راه‌های تشخیص این دو است.",
+    "en": "Deoxyribose is only in DNA and ribose in RNA; the sugar is one way to tell them apart.",
+    "tr": "Deoksi-riboz faghat dar denast va riboz dar rena; ghand, yeki az rah-haye tashkhis-e in do ast."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-ribose",
+   "term": {
+    "fa": "ریبوز",
+    "en": "ribose",
+    "tr": "ribose"
+   },
+   "explain": {
+    "fa": "قند پنج‌کربنی نوکلئوتیدهای رنا و همچنین `ATP`. یک اکسیژن بیشتر از دئوکسی‌ریبوز دارد.",
+    "en": "The five-carbon sugar in RNA nucleotides, and in `ATP` too. It has one more oxygen than deoxyribose.",
+    "tr": "Ghand-e panj-karbani-ye nukleotid-haye rena va hamchenin `ATP`. Yek oksizhen bishtar az deoksi-riboz darad."
+   },
+   "analogy": {
+    "fa": "برگهٔ کاری روزمره: کارا ولی کم‌دوام، چون قرار نیست برای همیشه بماند.",
+    "en": "An everyday working sheet: useful but short-lived, because it is not meant to last forever.",
+    "tr": "Barge-ye kari-ye roozmarre: kara vali kam-davam, chon gharar nist baraye hamishe bemanad."
+   },
+   "contrast": {
+    "fa": "ریبوز قند است، نه باز؛ «یوراسیل» باز ویژهٔ رناست.",
+    "en": "Ribose is a sugar, not a base; \"uracil\" is the base special to RNA.",
+    "tr": "Riboz ghand ast, na baz; \"urasil\" baz-e vizhe-ye renast."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-thymine",
+   "term": {
+    "fa": "تیمین",
+    "en": "thymine",
+    "tr": "thymine"
+   },
+   "explain": {
+    "fa": "بازی تک‌حلقه‌ای (پیریمیدین) که فقط در دنا هست و با آدنین با دو پیوند هیدروژنی جفت می‌شود.",
+    "en": "A single-ringed base (a pyrimidine) found only in DNA, which pairs with adenine through two hydrogen bonds.",
+    "tr": "Bazi tak-halghe-i (pirimidin) ke faghat dar dena hast va ba adenin ba do peyvand-e hidrozheni joft mishavad."
+   },
+   "analogy": {
+    "fa": "مثل امضای مخصوص نقشهٔ اصلی که در فتوکپی‌ها (رنا) جایش یوراسیل می‌آید.",
+    "en": "Like a signature only on the master copy; in the photocopies (RNA) uracil takes its place.",
+    "tr": "Mesl-e emza-ye makhsoos-e naghshe-ye asli ke dar fotokopi-ha (rena) jayash urasil miayad."
+   },
+   "contrast": {
+    "fa": "در رنا تیمین نیست؛ روبه‌روی آدنین در رنا یوراسیل می‌نشیند.",
+    "en": "There is no thymine in RNA; opposite adenine, RNA uses uracil.",
+    "tr": "Dar rena timin nist; roo-be-roo-ye adenin dar rena urasil mineshinad."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-uracil",
+   "term": {
+    "fa": "یوراسیل",
+    "en": "uracil",
+    "tr": "uracil"
+   },
+   "explain": {
+    "fa": "بازی تک‌حلقه‌ای (پیریمیدین) که فقط در رنا هست و جای تیمین را می‌گیرد؛ با آدنین جفت می‌شود.",
+    "en": "A single-ringed base (a pyrimidine) found only in RNA, taking the place of thymine; it pairs with adenine.",
+    "tr": "Bazi tak-halghe-i (pirimidin) ke faghat dar rena hast va ja-ye timin ra migirad; ba adenin joft mishavad."
+   },
+   "analogy": {
+    "fa": "مثل بازیکن ذخیره‌ای که فقط در تیم رنا بازی می‌کند، در پست تیمین.",
+    "en": "Like a substitute who only plays for team RNA, in thymine's position.",
+    "tr": "Mesl-e bazikon-e zakhire-i ke faghat dar tim-e rena bazi mikonad, dar post-e timin."
+   },
+   "contrast": {
+    "fa": "یوراسیل با آدنین جفت می‌شود، نه با گوانین.",
+    "en": "Uracil pairs with adenine, not with guanine.",
+    "tr": "Urasil ba adenin joft mishavad, na ba guanin."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-pyrimidine",
+   "term": {
+    "fa": "پیرامیدین",
+    "en": "pyrimidine",
+    "tr": "pyrimidine"
+   },
+   "explain": {
+    "fa": "بازهای کوچک تک‌حلقه‌ای: سیتوزین، تیمین و یوراسیل. هر پیرامیدین با یک پورین دوحلقه‌ای جفت می‌شود تا پهنای مارپیچ همه‌جا یکسان بماند.",
+    "en": "The small single-ringed bases: cytosine, thymine and uracil. Each pyrimidine pairs with a two-ringed purine so the width of the helix stays the same everywhere.",
+    "tr": "Baz-haye koochak-e tak-halghe-i: sitozin, timin va urasil. Har pirimidin ba yek purin-e do-halghe-i joft mishavad ta pahna-ye marpich hame-ja yeksan bemanad."
+   },
+   "matches": {
+    "fa": [
+     "بازهای پیرامیدین"
+    ],
+    "en": [
+     "pyrimidine bases"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل تکه‌های پازل: یک تکهٔ کوچک همیشه با یک تکهٔ بزرگ جفت می‌شود.",
+    "en": "Like jigsaw pieces: a small piece always fits with a big one.",
+    "tr": "Mesl-e tekke-haye pazl: yek tekke-ye koochak hamishe ba yek tekke-ye bozorg joft mishavad."
+   },
+   "contrast": {
+    "fa": "پیرامیدین‌ها تک‌حلقه‌ای‌اند و پورین‌ها (آدنین و گوانین) دوحلقه‌ای؛ این دو را جابه‌جا نکن.",
+    "en": "Pyrimidines have one ring and purines (adenine and guanine) two; do not swap them.",
+    "tr": "Pirimidin-ha tak-halghe-i-and va purin-ha (adenin va guanin) do-halghe-i; in do ra jabeja nakon."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-purine",
+   "term": {
+    "fa": "بازهای پورین",
+    "en": "purine bases",
+    "tr": "purine"
+   },
+   "explain": {
+    "fa": "بازهای بزرگ دوحلقه‌ای: آدنین و گوانین. هر پورین با یک پیرامیدین جفت می‌شود؛ برای همین در دنا تعداد پورین‌ها با پیرامیدین‌ها برابر است.",
+    "en": "The large two-ringed bases: adenine and guanine. Each purine pairs with a pyrimidine; that is why DNA has equal numbers of purines and pyrimidines.",
+    "tr": "Baz-haye bozorg-e do-halghe-i: adenin va guanin. Har purin ba yek pirimidin joft mishavad; baraye hamin dar dena te'dad-e purin-ha ba pirimidin-ha barabar ast."
+   },
+   "analogy": {
+    "fa": "تکه‌های بزرگ پازل که همیشه کنار یک تکهٔ کوچک می‌نشینند.",
+    "en": "The big jigsaw pieces that always sit next to a small one.",
+    "tr": "Tekke-haye bozorg-e pazl ke hamishe kenar-e yek tekke-ye koochak mineshinand."
+   },
+   "contrast": {
+    "fa": "رمز حفظ: پورین‌ها «آ» و «گ» هستند (آدنین، گوانین)؛ بقیه پیرامیدین‌اند.",
+    "en": "Memory trick: the purines are A and G (adenine, guanine); the rest are pyrimidines.",
+    "tr": "Ramz-e hefz: purin-ha \"A\" va \"G\" hastand (adenin, guanin); baghiye pirimidin-and."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-watson-crick",
+   "term": {
+    "fa": "واتسون و کریک",
+    "en": "Watson and Crick",
+    "tr": "Watson va Crick"
+   },
+   "explain": {
+    "fa": "دو دانشمندی که با کمک تصویر پرتو ایکس روزالیند فرانکلین، مدل مارپیچ دوتایی دنا را ساختند: دو رشتهٔ ناهمسو که بازهایشان دوبه‌دو جفت شده‌اند.",
+    "en": "The two scientists who, using Rosalind Franklin's X-ray picture, built the double-helix model of DNA: two antiparallel strands with their bases paired up.",
+    "tr": "Do daneshmandi ke ba komak-e tasvir-e partov-e iks-e Rosalind Franklin, model-e marpich-e dotayi-ye dena ra sakhtand: do reshte-ye nahamsoo ke baz-hayeshan do-be-do joft shode-and."
+   },
+   "analogy": {
+    "fa": "مثل حل یک پازل با کمک عکسی که کس دیگری گرفته بود.",
+    "en": "Like solving a puzzle with the help of a photo someone else had taken.",
+    "tr": "Mesl-e hall-e yek pazl ba komak-e aksi ke kas-e digari gerefte bood."
+   },
+   "contrast": {
+    "fa": "فرانکلین تصویر مارپیچی را گرفت؛ مدل کامل و جفت شدن بازها کار واتسون و کریک بود.",
+    "en": "Franklin took the picture showing the helix; the full model and the base pairing were Watson and Crick's work.",
+    "tr": "Franklin tasvir-e marpichi ra gereft; model-e kamel va joft shodan-e baz-ha kar-e Watson va Crick bood."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-complementary-base",
+   "term": {
+    "fa": "باز مکمل",
+    "en": "complementary base",
+    "tr": "baz-e mokamel"
+   },
+   "explain": {
+    "fa": "بازی که روبه‌روی باز دیگر جفت می‌شود: `A` با `T` (یا `U` در رنا) و `G` با `C`. با دانستن یک رشته، رشتهٔ دیگر کاملاً معلوم است.",
+    "en": "The base that pairs opposite another: `A` with `T` (or `U` in RNA) and `G` with `C`. Knowing one strand tells you the other completely.",
+    "tr": "Bazi ke roo-be-roo-ye baz-e digar joft mishavad: `A` ba `T` (ya `U` dar rena) va `G` ba `C`. Ba danestan-e yek reshte, reshte-ye digar kamelan ma'loom ast."
+   },
+   "analogy": {
+    "fa": "مثل قالب و مجسمه: از روی قالب، شکل مجسمه دقیقاً معلوم است.",
+    "en": "Like a mould and its cast: from the mould, the shape of the cast is exactly known.",
+    "tr": "Mesl-e ghaleb va mojassame: az rooye ghaleb, shekl-e mojassame daghighan ma'loom ast."
+   },
+   "contrast": {
+    "fa": "مکمل یعنی جفت، نه یکسان: مکمل `ATG` می‌شود `TAC`.",
+    "en": "Complementary means the partner, not the same: the complement of `ATG` is `TAC`.",
+    "tr": "Mokammel ya'ni joft, na yeksan: mokammel-e `ATG` mishavad `TAC`."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-adenine",
+   "term": {
+    "fa": "آدنین",
+    "en": "adenine",
+    "tr": "adenine"
+   },
+   "explain": {
+    "fa": "بازی دوحلقه‌ای (پورین) که در دنا با تیمین و در رنا با یوراسیل جفت می‌شود، با دو پیوند هیدروژنی. آدنین در `ATP` هم هست.",
+    "en": "A two-ringed base (a purine) that pairs with thymine in DNA and with uracil in RNA, through two hydrogen bonds. Adenine is also part of `ATP`.",
+    "tr": "Bazi do-halghe-i (purin) ke dar dena ba timin va dar rena ba urasil joft mishavad, ba do peyvand-e hidrozheni. Adenin dar `ATP` ham hast."
+   },
+   "matches": {
+    "tr": [
+     "adenin"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل حرفی از الفبا که هم در کتاب اصلی هست و هم در سکهٔ انرژی یاخته.",
+    "en": "Like a letter of the alphabet that appears both in the master book and on the cell's energy coin.",
+    "tr": "Mesl-e harfi az alefba ke ham dar ketab-e asli hast va ham dar sekke-ye enerzhi-ye yakhte."
+   },
+   "contrast": {
+    "fa": "آدنین دو پیوند هیدروژنی می‌سازد، نه سه؛ سه پیوند مال گوانین و سیتوزین است.",
+    "en": "Adenine makes two hydrogen bonds, not three; three belong to guanine and cytosine.",
+    "tr": "Adenin do peyvand-e hidrozheni misazad, na se; se peyvand mal-e guanin va sitozin ast."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-guanine",
+   "term": {
+    "fa": "گوانین",
+    "en": "guanine",
+    "tr": "guanine"
+   },
+   "explain": {
+    "fa": "بازی دوحلقه‌ای (پورین) که با سیتوزین با سه پیوند هیدروژنی جفت می‌شود. قطعه‌ای از دنا با `G–C` بیشتر، سخت‌تر از هم باز می‌شود.",
+    "en": "A two-ringed base (a purine) that pairs with cytosine through three hydrogen bonds. A stretch of DNA richer in `G–C` is harder to pull apart.",
+    "tr": "Bazi do-halghe-i (purin) ke ba sitozin ba se peyvand-e hidrozheni joft mishavad. Ghet'e-i az dena ba `G–C`-e bishtar, sakht-tar az ham baz mishavad."
+   },
+   "matches": {
+    "tr": [
+     "guanin"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل گرهٔ سه‌تایی که از گرهٔ دوتایی محکم‌تر است.",
+    "en": "Like a triple knot, which is stronger than a double one.",
+    "tr": "Mesl-e gere-ye se-tayi ke az gere-ye do-tayi mohkam-tar ast."
+   },
+   "contrast": {
+    "fa": "گوانین با سیتوزین جفت می‌شود، نه با تیمین.",
+    "en": "Guanine pairs with cytosine, not with thymine.",
+    "tr": "Guanin ba sitozin joft mishavad, na ba timin."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-cytosine",
+   "term": {
+    "fa": "سیتوزین",
+    "en": "cytosine",
+    "tr": "cytosine"
+   },
+   "explain": {
+    "fa": "بازی تک‌حلقه‌ای (پیرامیدین) که هم در دنا و هم در رنا هست و با گوانین با سه پیوند هیدروژنی جفت می‌شود.",
+    "en": "A single-ringed base (a pyrimidine) found in both DNA and RNA, which pairs with guanine through three hydrogen bonds.",
+    "tr": "Bazi tak-halghe-i (pirimidin) ke ham dar dena va ham dar rena hast va ba guanin ba se peyvand-e hidrozheni joft mishavad."
+   },
+   "analogy": {
+    "fa": "مثل حرفی که در هر دو نسخه، اصلی و کپی، یکسان نوشته می‌شود.",
+    "en": "Like a letter written the same way in both the master and the copy.",
+    "tr": "Mesl-e harfi ke dar har do noskhe, asli va kopi, yeksan neveshte mishavad."
+   },
+   "contrast": {
+    "fa": "سیتوزین در هر دو اسید نوکلئیک هست؛ فقط تیمین (دنا) و یوراسیل (رنا) مخصوص‌اند.",
+    "en": "Cytosine is in both nucleic acids; only thymine (DNA) and uracil (RNA) are special to one.",
+    "tr": "Sitozin dar har do asid-e nukleik hast; faghat timin (dena) va urasil (rena) makhsoos-and."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-xray",
+   "term": {
+    "fa": "پراش پرتو ایکس",
+    "en": "X-ray diffraction",
+    "tr": "parash-e partov-e X"
+   },
+   "explain": {
+    "fa": "روشی که پرتو ایکس را از بلور یک مولکول عبور می‌دهد و از الگوی پخش شدنش به شکل مولکول پی می‌برد. تصویر روزالیند فرانکلین نشان داد دنا مارپیچی است.",
+    "en": "A method that passes X-rays through a crystal of a molecule and works out its shape from the scattering pattern. Rosalind Franklin's picture showed that DNA is a helix.",
+    "tr": "Raveshi ke partov-e iks ra az bolour-e yek molekool oboor midahad va az olgoo-ye pakhsh shodanash be shekl-e molekool pey mibarad. Tasvir-e Rosalind Franklin neshan dad dena marpichi ast."
+   },
+   "analogy": {
+    "fa": "مثل حدس زدن شکل یک جسم از روی سایه‌اش روی دیوار.",
+    "en": "Like guessing an object's shape from its shadow on a wall.",
+    "tr": "Mesl-e hads zadan-e shekl-e yek jesm az rooye saye-ash rooye divar."
+   },
+   "contrast": {
+    "fa": "این تصویر مارپیچی بودن را نشان داد، نه ترتیب یا جفت شدن بازها را.",
+    "en": "The picture showed the helix, not the order or pairing of the bases.",
+    "tr": "In tasvir marpichi boodan ra neshan dad, na tartib ya joft shodan-e baz-ha ra."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-phosphodiester",
+   "term": {
+    "fa": "پیوند فسفودی‌استر",
+    "en": "phosphodiester bond",
+    "tr": "peyvand-e phosphodiester"
+   },
+   "explain": {
+    "fa": "پیوند اشتراکی و محکمی که نوکلئوتیدهای «یک رشته» را از راه گروه فسفات به هم وصل می‌کند و ستون قند-فسفات را می‌سازد. در همانندسازی دنابسپاراز و در مهندسی ژنتیک لیگاز آن را می‌سازد.",
+    "en": "The strong covalent bond that joins the nucleotides of \"one strand\" through a phosphate group, forming the sugar-phosphate backbone. DNA polymerase makes it in replication, and ligase in genetic engineering.",
+    "tr": "Peyvand-e eshteraki va mohkami ke nukleotid-haye \"yek reshte\" ra az rah-e goroh-e fosfat be ham vasl mikonad va sotoon-e ghand-fosfat ra misazad. Dar hamanand-sazi dena-basparaz va dar mohandesi-ye zheneteki ligaz an ra misazad."
+   },
+   "matches": {
+    "en": [
+     "phosphodiester bonds"
+    ],
+    "tr": [
+     "peyvand-e fosfodi-ester"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل نردهٔ کناری نردبان که پله‌ها را نگه می‌دارد.",
+    "en": "Like the side rail of a ladder that holds the rungs in place.",
+    "tr": "Mesl-e narde-ye kenari-ye nardeban ke pelle-ha ra negah midarad."
+   },
+   "contrast": {
+    "fa": "فسفودی‌استر داخل یک رشته است؛ پیوند هیدروژنی بین دو رشته.",
+    "en": "Phosphodiester is within one strand; the hydrogen bond is between the two strands.",
+    "tr": "Fosfodi-ester dakhel-e yek reshte ast; peyvand-e hidrozheni beyn-e do reshte."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-chargaff",
+   "term": {
+    "fa": "قانون چارگاف",
+    "en": "Chargaff's rules",
+    "tr": "ghanoon-e Chargaff"
+   },
+   "explain": {
+    "fa": "چارگاف دید که در دنا مقدار `A` با `T` و مقدار `G` با `C` برابر است؛ پس مجموع پورین‌ها برابر پیرامیدین‌هاست: `A + G = T + C`. علتش جفت شدن بازهاست.",
+    "en": "Chargaff found that in DNA the amount of `A` equals `T` and `G` equals `C`; so total purines equal total pyrimidines: `A + G = T + C`. The cause is base pairing.",
+    "tr": "Chargaff did ke dar dena meghdar-e `A` ba `T` va meghdar-e `G` ba `C` barabar ast; pas majmoo'-e purin-ha barabar-e pirimidin-hast: `A + G = T + C`. Ellatash joft shodan-e baz-hast."
+   },
+   "matches": {
+    "fa": [
+     "چارگاف"
+    ],
+    "en": [
+     "Chargaff"
+    ],
+    "tr": [
+     "Chargaff"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل لنگه‌های کفش در یک کمد: تعداد لنگه‌های چپ و راست همیشه برابر است.",
+    "en": "Like shoes in a cupboard: there are always as many left shoes as right ones.",
+    "tr": "Mesl-e lenge-haye kafsh dar yek komod: te'dad-e lenge-haye chap va rast hamishe barabar ast."
+   },
+   "contrast": {
+    "fa": "`A = T` درست است ولی `A = G` لازم نیست درست باشد؛ اگر `A` ۳۰٪ باشد، `G` ۲۰٪ است.",
+    "en": "`A = T` holds, but `A = G` need not; if `A` is 30%, `G` is 20%.",
+    "tr": "`A = T` dorost ast vali `A = G` lazem nist dorost bashad; agar `A` 30% bashad, `G` 20% ast."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-antiparallel",
+   "term": {
+    "fa": "رشته‌های ناهمسو",
+    "en": "antiparallel strands",
+    "tr": "reshteh-haye nahamsoo"
+   },
+   "explain": {
+    "fa": "دو رشتهٔ دنا در جهت‌های مخالف کنار هم‌اند: یکی `5′ → 3′` و دیگری `3′ → 5′`. برای همین آنزیم‌ها هر رشته را در جهت مخصوص خودش می‌خوانند یا می‌سازند.",
+    "en": "The two DNA strands run in opposite directions: one `5′ → 3′` and the other `3′ → 5′`. That is why enzymes read or build each strand in its own direction.",
+    "tr": "Do reshte-ye dena dar jahat-haye mokhalef kenar-e ham-and: yeki `5′ → 3′` va digari `3′ → 5′`. Baraye hamin anzim-ha har reshte ra dar jahat-e makhsoos-e khodash mikhanand ya misazand."
+   },
+   "analogy": {
+    "fa": "مثل دو لاین یک بزرگراه که ماشین‌ها در آن‌ها خلاف هم حرکت می‌کنند.",
+    "en": "Like the two carriageways of a motorway, with traffic going opposite ways.",
+    "tr": "Mesl-e do layn-e yek bozorgrah ke mashin-ha dar an-ha khalaf-e ham harekat mikonand."
+   },
+   "contrast": {
+    "fa": "وقتی رشتهٔ مکمل را می‌نویسی، سرهایش را هم برعکس کن: مکمل `5′-ATG-3′` می‌شود `3′-TAC-5′`.",
+    "en": "When you write the complementary strand, reverse its ends too: the complement of `5′-ATG-3′` is `3′-TAC-5′`.",
+    "tr": "Vaghti reshte-ye mokammel ra minevisi, sar-hayash ra ham bar-aks kon: mokammel-e `5′-ATG-3′` mishavad `3′-TAC-5′`."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-base-pairing",
+   "term": {
+    "fa": "جفت شدن بازها",
+    "en": "base pairing",
+    "tr": "joft shodan-e baz-ha"
+   },
+   "explain": {
+    "fa": "قانون جفت شدن: همیشه یک پورین با یک پیرامیدین، یعنی `A` با `T` و `G` با `C`. این قانون پایهٔ همانندسازی، رونویسی و قانون چارگاف است.",
+    "en": "The pairing rule: always a purine with a pyrimidine, that is `A` with `T` and `G` with `C`. This rule underlies replication, transcription and Chargaff's rules.",
+    "tr": "Ghanoon-e joft shodan: hamishe yek purin ba yek pirimidin, ya'ni `A` ba `T` va `G` ba `C`. In ghanoon paye-ye hamanand-sazi, ronevisi va ghanoon-e Chargaff ast."
+   },
+   "analogy": {
+    "fa": "مثل رقص دونفره‌ای که هر کس فقط با یک شریک مشخص می‌رقصد.",
+    "en": "Like a partner dance where everyone dances with only one particular partner.",
+    "tr": "Mesl-e raghs-e do-nafare-i ke har kas faghat ba yek sharik-e moshakhkhas miraghsad."
+   },
+   "contrast": {
+    "fa": "در رنا `A` با `U` جفت می‌شود، نه `T`.",
+    "en": "In RNA, `A` pairs with `U`, not `T`.",
+    "tr": "Dar rena `A` ba `U` joft mishavad, na `T`."
+   },
+   "unit": "bio-1-nucleic-acids"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-antibodies",
+   "term": {
+    "fa": "پادتن",
+    "en": "antibodies",
+    "tr": "padtan"
+   },
+   "explain": {
+    "fa": "پروتئین‌هایی که دستگاه ایمنی می‌سازد و به مولکول‌های بیگانه (پادگن‌ها) می‌چسبند. پادتن از چند زنجیرهٔ پلی‌پپتیدی ساخته شده، پس ساختار چهارم دارد.",
+    "en": "Proteins made by the immune system that bind to foreign molecules (antigens). An antibody is built from several polypeptide chains, so it has quaternary structure.",
+    "tr": "Protein-hayi ke dastgah-e imeni misazad va be molekool-haye biganeh (padgen-ha) michasband. Padtan az chand zanjire-ye poli-peptidi sakhte shode, pas sakhtar-e chaharom darad."
+   },
+   "analogy": {
+    "fa": "مثل کلیدی که فقط در قفل یک مهاجم خاص می‌چرخد و آن را علامت‌گذاری می‌کند.",
+    "en": "Like a key that only turns in the lock of one particular invader and marks it.",
+    "tr": "Mesl-e kelidi ke faghat dar ghofl-e yek mohajem-e khas micharkhad va an ra alamat-gozari mikonad."
+   },
+   "contrast": {
+    "fa": "پادتن پروتئین است و پادگن مولکول بیگانه‌ای که پادتن به آن می‌چسبد؛ این دو را جابه‌جا نکن.",
+    "en": "The antibody is the protein and the antigen is the foreign molecule it binds; do not swap them.",
+    "tr": "Padtan protein ast va padgen molekool-e biganeh-i ke padtan be an michasbad; in do ra jabeja nakon."
+   },
+   "unit": "bio-1-proteins"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-tertiary",
+   "term": {
+    "fa": "ساختار سوم پروتئین",
+    "en": "tertiary protein structure",
+    "tr": "sakhtar-e sevvom-e protein"
+   },
+   "explain": {
+    "fa": "تاخوردگی سه‌بعدی کامل یک زنجیرهٔ پلی‌پپتیدی، که با برهم‌کنش گروه‌های جانبی آمینواسیدها ساخته می‌شود، از جمله پیوند دی‌سولفیدی. شکل نهایی، کار پروتئین را تعیین می‌کند.",
+    "en": "The complete 3D folding of one polypeptide chain, formed by interactions between the amino acids' side groups, including disulfide bridges. The final shape decides the protein's job.",
+    "tr": "Takhordegi-ye se-bo'di-ye kamel-e yek zanjire-ye poli-peptidi, ke ba barham-konesh-e goroh-haye janebi-ye amino-asid-ha sakhte mishavad, az jomle peyvand-e di-soolfidi. Shekl-e nahayi, kar-e protein ra ta'yin mikonad."
+   },
+   "analogy": {
+    "fa": "مثل کاغذی که با اوریگامی به شکل یک پرنده تا می‌شود.",
+    "en": "Like paper folded by origami into the shape of a bird.",
+    "tr": "Mesl-e kaghazi ke ba origami be shekl-e yek parande ta mishavad."
+   },
+   "contrast": {
+    "fa": "ساختار سوم یک زنجیره است؛ چند زنجیرهٔ کنار هم ساختار چهارم می‌سازند.",
+    "en": "Tertiary structure is one chain; several chains together make quaternary structure.",
+    "tr": "Sakhtar-e sevvom yek zanjire ast; chand zanjire-ye kenar-e ham sakhtar-e chaharom misazand."
+   },
+   "unit": "bio-1-proteins"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-secondary",
+   "term": {
+    "fa": "ساختار دوم پروتئین",
+    "en": "secondary protein structure",
+    "tr": "sakhtar-e dovom-e protein"
+   },
+   "explain": {
+    "fa": "الگوهای منظم محلی در زنجیره، مثل مارپیچ و صفحهٔ چین‌خورده، که با پیوندهای هیدروژنی میان بخش‌های اسکلت زنجیره نگه داشته می‌شوند.",
+    "en": "Regular local patterns in the chain, such as the helix and the folded sheet, held by hydrogen bonds between parts of the chain's backbone.",
+    "tr": "Olgoo-haye monazzam-e mahalli dar zanjire, mesl-e marpich va safhe-ye chin-khorde, ke ba peyvand-haye hidrozheni miyan-e bakhsh-haye eskelet-e zanjire negah dashte mishavand."
+   },
+   "analogy": {
+    "fa": "مثل سیم تلفن قدیمی که فنری پیچ می‌خورد، یا کاغذی که تاکردنی می‌شود.",
+    "en": "Like an old coiled phone cord, or paper folded like a fan.",
+    "tr": "Mesl-e sim-e telefon-e ghadimi ke fanari pich mikhorad, ya kaghazi ke bad-bezan-vari ta mishavad."
+   },
+   "contrast": {
+    "fa": "ساختار دوم با پیوند هیدروژنی نگه داشته می‌شود، نه با پیوند پپتیدی؛ پیوند پپتیدی مال ساختار اول است.",
+    "en": "Secondary structure is held by hydrogen bonds, not peptide bonds; peptide bonds belong to primary structure.",
+    "tr": "Sakhtar-e dovvom ba peyvand-e hidrozheni negah dashte mishavad, na ba peyvand-e peptidi; peyvand-e peptidi mal-e sakhtar-e avval ast."
+   },
+   "unit": "bio-1-proteins"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-disulfide",
+   "term": {
+    "fa": "پیوند دی‌سولفیدی",
+    "en": "disulfide bridge",
+    "tr": "peyvand-e disulfide"
+   },
+   "explain": {
+    "fa": "پیوند اشتراکی محکم بین گوگردهای دو آمینواسید سیستئین، که بخش‌های دور زنجیره را به هم قفل می‌کند و شکل پروتئین را پایدار نگه می‌دارد.",
+    "en": "A strong covalent bond between the sulfur atoms of two cysteine amino acids, locking distant parts of the chain together and keeping the protein's shape stable.",
+    "tr": "Peyvand-e eshteraki-ye mohkam beyn-e googerd-haye do amino-asid-e sisteyin, ke bakhsh-haye door-e zanjire ra be ham ghofl mikonad va shekl-e protein ra paydar negah midarad."
+   },
+   "analogy": {
+    "fa": "مثل پیچ و مهره‌ای که دو تکهٔ یک سازه را محکم به هم می‌بندد.",
+    "en": "Like a nut and bolt that fastens two parts of a structure firmly together.",
+    "tr": "Mesl-e pich va mohre-i ke do tekke-ye yek saze ra mohkam be ham mibandad."
+   },
+   "contrast": {
+    "fa": "این تنها پیوند اشتراکی قوی در تاخوردگی است؛ بقیه (مثل هیدروژنی) ضعیف‌اند. مهندسان پروتئین برای پایداری حرارتی از آن استفاده می‌کنند.",
+    "en": "It is the only strong covalent bond in the folding; the others (such as hydrogen bonds) are weak. Protein engineers use it for heat stability.",
+    "tr": "In tanha peyvand-e eshteraki-ye ghavi dar takhordegi ast; baghiye (mesl-e hidrozheni) za'if-and. Mohandesan-e protein baraye paydari-ye harareti az an estefade mikonand."
+   },
+   "unit": "bio-1-proteins"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-quaternary",
+   "term": {
+    "fa": "ساختار چهارم پروتئین",
+    "en": "quaternary protein structure",
+    "tr": "sakhtar-e chaharom-e protein"
+   },
+   "explain": {
+    "fa": "وقتی پروتئین از دو یا چند زنجیرهٔ پلی‌پپتیدی ساخته شده باشد، چیدمان این زنجیره‌ها کنار هم ساختار چهارم است؛ مثل هموگلوبین با چهار زنجیره.",
+    "en": "When a protein is built from two or more polypeptide chains, the way those chains fit together is its quaternary structure; for example haemoglobin with four chains.",
+    "tr": "Vaghti protein az do ya chand zanjire-ye poli-peptidi sakhte shode bashad, chidemaan-e in zanjire-ha kenar-e ham sakhtar-e chaharom ast; mesl-e hemoglobin ba chahar zanjire."
+   },
+   "analogy": {
+    "fa": "مثل گروه موسیقی‌ای که از چند نوازنده ساخته شده؛ هر کدام جدا هم نوازنده‌اند.",
+    "en": "Like a band made of several musicians; each is a musician on their own too.",
+    "tr": "Mesl-e goroh-e moosighi-i ke az chand navazande sakhte shode; har kodam joda ham navazande-and."
+   },
+   "contrast": {
+    "fa": "هر پروتئینی ساختار چهارم ندارد؛ فقط پروتئین‌های چندزنجیره‌ای.",
+    "en": "Not every protein has quaternary structure; only those with several chains.",
+    "tr": "Har proteini sakhtar-e chaharom nadarad; faghat protein-haye chand-zanjire-i."
+   },
+   "unit": "bio-1-proteins"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-active-site",
+   "term": {
+    "fa": "جایگاه فعال",
+    "en": "active site",
+    "tr": "jaygah-e faal"
+   },
+   "explain": {
+    "fa": "بخش کوچکی از آنزیم که پیش‌ماده دقیقاً در آن جا می‌گیرد و واکنش همان‌جا انجام می‌شود. شکل جایگاه فعال، اختصاصی بودن آنزیم را تعیین می‌کند.",
+    "en": "The small part of an enzyme where the substrate fits exactly and the reaction takes place. The shape of the active site decides which substrate the enzyme works on.",
+    "tr": "Bakhsh-e koochaki az anzim ke pish-madde daghighan dar an ja migirad va vakonesh haman-ja anjam mishavad. Shekl-e jaygah-e fa'al, ekhtesasi boodan-e anzim ra ta'yin mikonad."
+   },
+   "analogy": {
+    "fa": "مثل قفل و کلید: فقط کلید درست (پیش‌ماده) در قفل (جایگاه فعال) جا می‌رود.",
+    "en": "Like a lock and key: only the right key (substrate) fits the lock (active site).",
+    "tr": "Mesl-e ghofl va kelid: faghat kelid-e dorost (pish-madde) dar ghofl (jaygah-e fa'al) ja miravad."
+   },
+   "contrast": {
+    "fa": "جایگاه فعال بخش کوچکی از آنزیم است، نه کل آن؛ تغییر شکل آن (مثلاً با گرما) کار آنزیم را متوقف می‌کند.",
+    "en": "The active site is a small part of the enzyme, not all of it; changing its shape (for example by heat) stops the enzyme working.",
+    "tr": "Jaygah-e fa'al bakhsh-e koochaki az anzim ast, na kol-e an; taghyir-e shekl-e an (masalan ba garma) kar-e anzim ra motevaghef mikonad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-allosteric",
+   "term": {
+    "fa": "تنظیم آلوستریک",
+    "en": "allosteric regulation",
+    "tr": "tanzim-e allosteric"
+   },
+   "explain": {
+    "fa": "مولکولی به جایی «غیر از» جایگاه فعال آنزیم می‌چسبد و شکل آنزیم را عوض می‌کند، و فعالیتش را کم یا زیاد می‌کند.",
+    "en": "A molecule binds to a site \"other than\" the enzyme's active site and changes the enzyme's shape, turning its activity down or up.",
+    "tr": "Molekooli be jayi \"gheyr az\" jaygah-e fa'al-e anzim michasbad va shekl-e anzim ra avaz mikonad, va fa'aliyatash ra kam ya ziyad mikonad."
+   },
+   "analogy": {
+    "fa": "مثل دکمهٔ تنظیم صدا روی پشت یک دستگاه: به خود بلندگو دست نمی‌زنی ولی صدا را عوض می‌کنی.",
+    "en": "Like a volume knob on the back of a device: you do not touch the speaker itself, but you change the sound.",
+    "tr": "Mesl-e dokme-ye tanzim-e seda rooye posht-e yek dastgah: be khod-e bolandgoo dast nemizani vali seda ra avaz mikoni."
+   },
+   "contrast": {
+    "fa": "مولکول آلوستریک در جایگاه فعال نمی‌نشیند؛ با پیش‌ماده رقابت نمی‌کند.",
+    "en": "The allosteric molecule does not sit in the active site; it does not compete with the substrate.",
+    "tr": "Molekool-e allosterik dar jaygah-e fa'al nemineshinad; ba pish-madde reghabat nemikonad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-denaturation",
+   "term": {
+    "fa": "واسرشت شدن آنزیم",
+    "en": "enzyme denaturation",
+    "tr": "vasoresht shodan-e anzim"
+   },
+   "explain": {
+    "fa": "گرمای زیاد یا `pH` نامناسب پیوندهای ضعیفی را که شکل آنزیم را نگه می‌دارند می‌شکند؛ شکل جایگاه فعال از بین می‌رود و آنزیم دیگر کار نمی‌کند. معمولاً برگشت‌پذیر نیست.",
+    "en": "Too much heat or the wrong `pH` breaks the weak bonds that hold an enzyme's shape; the active site loses its shape and the enzyme stops working. It is usually not reversible.",
+    "tr": "Garma-ye ziyad ya `pH`-e namonaseb peyvand-haye za'ifi ra ke shekl-e anzim ra negah midarand mishekanad; shekl-e jaygah-e fa'al az beyn miravad va anzim digar kar nemikonad. Ma'moolan bargasht-pazir nist."
+   },
+   "analogy": {
+    "fa": "مثل سفیدهٔ تخم‌مرغ که با پختن سفت و سفید می‌شود و دیگر به حالت اول برنمی‌گردد.",
+    "en": "Like egg white that turns solid and white when cooked and never goes back.",
+    "tr": "Mesl-e sefide-ye tokhm-e morgh ke ba pokhtan seft va sefid mishavad va digar be halat-e avval barnemigardad."
+   },
+   "contrast": {
+    "fa": "سرما آنزیم را واسرشت نمی‌کند، فقط کندش می‌کند؛ با گرم شدن دوباره کار می‌کند.",
+    "en": "Cold does not denature an enzyme, it only slows it down; it works again when warmed.",
+    "tr": "Sarma anzim ra vasoresht nemikonad, faghat kondash mikonad; ba garm shodan dobare kar mikonad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-enzyme-ph",
+   "term": {
+    "fa": "تغییرات pH آنزیم",
+    "en": "enzyme pH changes",
+    "tr": "taghyirat-e pH-e anzim"
+   },
+   "explain": {
+    "fa": "هر آنزیم در یک `pH` بهینه بهترین کار را می‌کند؛ مثلاً پپسین معده در محیط بسیار اسیدی و آنزیم‌های روده در محیط کمی قلیایی. دور شدن از این `pH` آنزیم را کند یا واسرشت می‌کند.",
+    "en": "Each enzyme works best at an optimum `pH`; for example stomach pepsin in a very acidic medium and the enzymes of the small intestine in a slightly alkaline one. Moving away from that `pH` slows or denatures the enzyme.",
+    "tr": "Har anzim dar yek `pH`-e behine behtarin kar ra mikonad; masalan pepsin-e me'de dar mohit-e besiyar asidi va anzim-haye roode dar mohit-e kami ghalyayi. Door shodan az in `pH` anzim ra kond ya vasoresht mikonad."
+   },
+   "analogy": {
+    "fa": "مثل گیاهانی که هر کدام خاک مخصوص خودشان را دوست دارند.",
+    "en": "Like plants that each prefer their own kind of soil.",
+    "tr": "Mesl-e giyahani ke har kodam khak-e makhsoos-e khodeshan ra doost darand."
+   },
+   "contrast": {
+    "fa": "`pH` بهینه برای همهٔ آنزیم‌ها ۷ نیست؛ به محل کار آنزیم بستگی دارد.",
+    "en": "The optimum `pH` is not 7 for every enzyme; it depends on where the enzyme works.",
+    "tr": "`pH`-e behine baraye hame-ye anzim-ha 7 nist; be mahall-e kar-e anzim bastegi darad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-cofactors",
+   "term": {
+    "fa": "کوآنزیم و کوفاکتور",
+    "en": "coenzymes and cofactors",
+    "tr": "coenzyme va cofactor"
+   },
+   "explain": {
+    "fa": "کمک‌کارهای غیرپروتئینی که بعضی آنزیم‌ها برای کار کردن لازم دارند. کوفاکتورها اغلب یون‌های فلزی‌اند (مثل آهن و منیزیم) و کوآنزیم‌ها مولکول‌های آلی، که بسیاری از ویتامین‌ها ساخته می‌شوند.",
+    "en": "Non-protein helpers that some enzymes need in order to work. Cofactors are often metal ions (such as iron and magnesium) and coenzymes are organic molecules, many of them made from vitamins.",
+    "tr": "Komak-kar-haye gheyr-e proteini ke ba'zi anzim-ha baraye kar kardan lazem darand. Kofaktor-ha aghlab yoon-haye felezi-and (mesl-e ahan va menizium) va koanzim-ha molekool-haye ali, ke besiyari az vitamin-ha sakhte mishavand."
+   },
+   "analogy": {
+    "fa": "مثل باتری‌ای که یک اسباب‌بازی بدون آن روشن نمی‌شود.",
+    "en": "Like the battery a toy will not switch on without.",
+    "tr": "Mesl-e batri-i ke yek asbab-bazi bedoon-e an roshan nemishavad."
+   },
+   "contrast": {
+    "fa": "کوآنزیم خودش آنزیم نیست و پروتئین هم نیست؛ فقط به آنزیم کمک می‌کند.",
+    "en": "A coenzyme is not itself an enzyme, nor a protein; it only helps the enzyme.",
+    "tr": "Koanzim khodash anzim nist va protein ham nist; faghat be anzim komak mikonad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-enzyme-inhibitor",
+   "term": {
+    "fa": "مهارکنندهٔ آنزیم",
+    "en": "enzyme inhibitor",
+    "tr": "mahar-konandeh-ye anzim"
+   },
+   "explain": {
+    "fa": "مولکولی که فعالیت آنزیم را کم می‌کند: یا با نشستن در جایگاه فعال و رقابت با پیش‌ماده، یا با چسبیدن به جای دیگری که شکل آنزیم را عوض می‌کند. بسیاری از داروها و سم‌ها مهارکننده‌اند.",
+    "en": "A molecule that reduces an enzyme's activity: either by sitting in the active site and competing with the substrate, or by binding elsewhere and changing the enzyme's shape. Many drugs and poisons are inhibitors.",
+    "tr": "Molekooli ke fa'aliyat-e anzim ra kam mikonad: ya ba neshastan dar jaygah-e fa'al va reghabat ba pish-madde, ya ba chasbidan be ja-ye digari ke shekl-e anzim ra avaz mikonad. Besiyari az darooha va sam-ha mahar-konande-and."
+   },
+   "analogy": {
+    "fa": "مثل کلید اشتباهی که در قفل گیر کرده و نمی‌گذارد کلید درست وارد شود.",
+    "en": "Like a wrong key stuck in a lock that stops the right key going in.",
+    "tr": "Mesl-e kelid-e eshtebahi ke dar ghofl gir karde va nemigozarad kelid-e dorost vared shavad."
+   },
+   "contrast": {
+    "fa": "مهارکنندهٔ آنزیم را با «پروتئین مهارکننده» اپران لک قاطی نکن؛ آن یکی جلوی رونویسی ژن را می‌گیرد.",
+    "en": "Do not confuse an enzyme inhibitor with the lac operon's \"repressor protein\"; that one blocks a gene's transcription.",
+    "tr": "Mahar-konande-ye anzim ra ba \"protein-e mahar-konande\"-ye operon-e lak ghati nakon; an yeki jelo-ye ronevisi-ye zhen ra migirad."
+   },
+   "unit": "bio-1-enzymes"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-replication",
+   "term": {
+    "fa": "همانندسازی",
+    "en": "replication",
+    "tr": "hamanand-sazi"
+   },
+   "explain": {
+    "fa": "ساختن یک نسخهٔ کامل از دنا پیش از تقسیم یاخته، تا هر یاختهٔ تازه یک کتاب کامل داشته باشد. هلیکاز دو رشته را باز می‌کند و دنابسپاراز روی هر کدام رشتهٔ مکمل تازه می‌سازد.",
+    "en": "Making a complete copy of the DNA before a cell divides, so each new cell gets a whole book. Helicase opens the two strands and DNA polymerase builds a new complementary strand on each.",
+    "tr": "Sakhtan-e yek noskhe-ye kamel az dena pish az taghsim-e yakhte, ta har yakhte-ye taze yek ketab-e kamel dashte bashad. Helikaz do reshte ra baz mikonad va dena-basparaz rooye har kodam reshte-ye mokammel-e taze misazad."
+   },
+   "analogy": {
+    "fa": "مثل گرفتن یک فتوکپی کامل از کتاب پیش از اینکه آن را با کسی تقسیم کنی.",
+    "en": "Like making a full photocopy of a book before sharing it with someone.",
+    "tr": "Mesl-e gereftan-e yek fotokopi-ye kamel az ketab pish az inke an ra ba kasi taghsim koni."
+   },
+   "contrast": {
+    "fa": "همانندسازی کل دنا را کپی می‌کند؛ رونویسی فقط یک ژن را به رنا تبدیل می‌کند.",
+    "en": "Replication copies all the DNA; transcription only copies one gene into RNA.",
+    "tr": "Hamanand-sazi kol-e dena ra kopi mikonad; ronevisi faghat yek zhen ra be rena tabdil mikonad."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-helicase",
+   "term": {
+    "fa": "هلیکاز",
+    "en": "helicase",
+    "tr": "helicase"
+   },
+   "explain": {
+    "fa": "آنزیمی که مارپیچ دنا را باز می‌کند: پیوندهای هیدروژنی بین بازهای مکمل را می‌شکند تا دو رشته از هم جدا شوند و هر کدام الگو شوند.",
+    "en": "The enzyme that opens the DNA helix: it breaks the hydrogen bonds between complementary bases so the two strands separate and each can serve as a template.",
+    "tr": "Anzimi ke marpich-e dena ra baz mikonad: peyvand-haye hidrozheni beyn-e baz-haye mokammel ra mishekanad ta do reshte az ham joda shavand va har kodam olgoo shavand."
+   },
+   "analogy": {
+    "fa": "مثل کشویی که زیپ را باز می‌کند.",
+    "en": "Like the slider that opens a zip.",
+    "tr": "Mesl-e keshooyi ke zip ra baz mikonad."
+   },
+   "contrast": {
+    "fa": "هلیکاز پیوند هیدروژنی را می‌شکند، نه پیوند فسفودی‌استر؛ هیچ رشته‌ای را نمی‌بُرد.",
+    "en": "Helicase breaks hydrogen bonds, not phosphodiester bonds; it does not cut either strand.",
+    "tr": "Helikaz peyvand-e hidrozheni ra mishekanad, na peyvand-e fosfodi-ester; hich reshte-i ra nemibor-ad."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-dna-polymerase",
+   "term": {
+    "fa": "دی‌ان‌ای پلیمراز",
+    "en": "DNA polymerase",
+    "tr": "DNA polymerase"
+   },
+   "explain": {
+    "fa": "آنزیمی که نوکلئوتیدهای مکمل را یکی‌یکی به رشتهٔ تازه اضافه می‌کند و با پیوند فسفودی‌استر به هم وصل می‌کند. اشتباه‌هایش را هم پیدا و اصلاح می‌کند (ویرایش).",
+    "en": "The enzyme that adds complementary nucleotides one by one to the new strand and joins them with phosphodiester bonds. It also finds and fixes its own mistakes (proofreading).",
+    "tr": "Anzimi ke nukleotid-haye mokammel ra yeki-yeki be reshte-ye taze ezafe mikonad va ba peyvand-e fosfodi-ester be ham vasl mikonad. Eshtebah-hayash ra ham peyda va eslah mikonad (virayesh)."
+   },
+   "analogy": {
+    "fa": "مثل تایپیستی که از روی متن اصلی می‌نویسد و هر غلط تایپی را فوراً پاک می‌کند.",
+    "en": "Like a typist copying the original text who immediately deletes any typo.",
+    "tr": "Mesl-e taypisti ke az rooye matn-e asli minevisad va har ghalat-e tayp ra fooran pak mikonad."
+   },
+   "contrast": {
+    "fa": "دنابسپاراز دنا را از روی دنا می‌سازد؛ رنابسپاراز رنا را از روی دنا.",
+    "en": "DNA polymerase builds DNA from DNA; RNA polymerase builds RNA from DNA.",
+    "tr": "Dena-basparaz dena ra az rooye dena misazad; rena-basparaz rena ra az rooye dena."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-proofreading",
+   "term": {
+    "fa": "ویرایش",
+    "en": "proofreading",
+    "tr": "virayesh"
+   },
+   "explain": {
+    "fa": "دنابسپاراز پس از گذاشتن هر نوکلئوتید چک می‌کند که درست جفت شده باشد؛ اگر اشتباه بود، آن را برمی‌دارد و نوکلئوتید درست را می‌گذارد. برای همین خطای همانندسازی بسیار کم است.",
+    "en": "After placing each nucleotide, DNA polymerase checks that it is correctly paired; if not, it removes it and puts in the right one. That is why replication errors are very rare.",
+    "tr": "Dena-basparaz pas az gozashtan-e har nukleotid chek mikonad ke dorost joft shode bashad; agar eshtebah bood, an ra barmidarad va nukleotid-e dorost ra migozarad. Baraye hamin khata-ye hamanand-sazi besiyar kam ast."
+   },
+   "analogy": {
+    "fa": "مثل غلط‌یاب خودکار یک برنامهٔ تایپ.",
+    "en": "Like the spell-checker in a word processor.",
+    "tr": "Mesl-e ghalat-yab-e khodkar-e yek barname-ye tayp."
+   },
+   "contrast": {
+    "fa": "ویرایش خطا را کم می‌کند ولی صفر نمی‌کند؛ خطاهای باقی‌مانده می‌توانند جهش شوند.",
+    "en": "Proofreading reduces errors but does not remove them all; the ones left can become mutations.",
+    "tr": "Virayesh khata ra kam mikonad vali sefr nemikonad; khata-haye baghi-mande mitavanand jahesh shavand."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-semiconservative",
+   "term": {
+    "fa": "همانندسازی نیمه‌حفاظتی",
+    "en": "semiconservative replication",
+    "tr": "hamanand-sazi-ye nime-hefazati"
+   },
+   "explain": {
+    "fa": "هر دنای تازه یک رشتهٔ قدیمی (والدی) و یک رشتهٔ تازه دارد؛ یعنی نیمی از مولکول قدیمی «حفظ» می‌شود.",
+    "en": "Each new DNA molecule has one old (parental) strand and one new strand; half of the old molecule is \"conserved\".",
+    "tr": "Har dena-ye taze yek reshte-ye ghadimi (valedi) va yek reshte-ye taze darad; ya'ni nimi az molekool-e ghadimi \"hefz\" mishavad."
+   },
+   "matches": {
+    "fa": [
+     "یک رشتهٔ قدیمی (والدی) و یک رشتهٔ جدید"
+    ],
+    "en": [
+     "one parental (old) strand and one new strand"
+    ],
+    "tr": [
+     "yek reshte-ye ghadimi (valedi) va yek reshte-ye jadid"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل باز کردن یک زیپ و دوختن یک نیمهٔ تازه کنار هر نیمهٔ قدیمی.",
+    "en": "Like opening a zip and sewing a new half onto each old half.",
+    "tr": "Mesl-e baz kardan-e yek zip va dookhtan-e yek nime-ye taze kenar-e har nime-ye ghadimi."
+   },
+   "contrast": {
+    "fa": "«نیمه‌حفاظتی» یعنی هر مولکول نیمه قدیمی است، نه اینکه یکی کاملاً قدیمی و دیگری کاملاً تازه باشد.",
+    "en": "\"Semiconservative\" means each molecule is half old, not that one is wholly old and the other wholly new.",
+    "tr": "\"Nime-hefazati\" ya'ni har molekool nime ghadimi ast, na inke yeki kamelan ghadimi va digari kamelan taze bashad."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-dna-direction",
+   "term": {
+    "fa": "جهت همانندسازی",
+    "en": "direction of DNA synthesis",
+    "tr": "jahat-e hamanand-sazi"
+   },
+   "explain": {
+    "fa": "دنابسپاراز رشتهٔ تازه را فقط در جهت `5′ → 3′` می‌سازد: هر نوکلئوتید تازه به سرِ `3′` رشته اضافه می‌شود. چون دو رشته ناهمسوند، روی هر کدام در جهت مخالف کار می‌کند.",
+    "en": "DNA polymerase builds the new strand only in the `5′ → 3′` direction: each new nucleotide is added to the `3′` end. Because the two strands are antiparallel, it works in opposite directions on each.",
+    "tr": "Dena-basparaz reshte-ye taze ra faghat dar jahat-e `5′ → 3′` misazad: har nukleotid-e taze be sar-e `3′`-e reshte ezafe mishavad. Chon do reshte nahamsoo-and, rooye har kodam dar jahat-e mokhalef kar mikonad."
+   },
+   "analogy": {
+    "fa": "مثل قطاری که فقط رو به جلو می‌تواند واگن اضافه کند.",
+    "en": "Like a train that can only add carriages at the front.",
+    "tr": "Mesl-e ghatari ke faghat roo be jelo mitavanad vagon ezafe konad."
+   },
+   "contrast": {
+    "fa": "رشتهٔ تازه `5′ → 3′` ساخته می‌شود، ولی رشتهٔ الگو در جهت `3′ → 5′` خوانده می‌شود.",
+    "en": "The new strand is built `5′ → 3′`, but the template is read `3′ → 5′`.",
+    "tr": "Reshte-ye taze `5′ → 3′` sakhte mishavad, vali reshte-ye olgoo dar jahat-e `3′ → 5′` khande mishavad."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-unwinds-helix",
+   "term": {
+    "fa": "مارپیچ دنا را باز می‌کند",
+    "en": "unwinds the double helix",
+    "tr": "marpich-e dena ra baz mikonad"
+   },
+   "explain": {
+    "fa": "در آغاز همانندسازی، آنزیم هلیکاز مارپیچ دوتایی را باز و دو رشته را از هم جدا می‌کند تا هر رشته الگوی ساختن رشتهٔ تازه شود.",
+    "en": "At the start of replication, the enzyme helicase unwinds the double helix and separates the two strands, so each can be the template for a new strand.",
+    "tr": "Dar aghaz-e hamanand-sazi, anzim-e helikaz marpich-e dotayi ra baz va do reshte ra az ham joda mikonad ta har reshte olgoo-ye sakhtan-e reshte-ye taze shavad."
+   },
+   "analogy": {
+    "fa": "مثل باز کردن دو رشتهٔ یک طناب تابیده.",
+    "en": "Like untwisting the two strands of a twisted rope.",
+    "tr": "Mesl-e baz kardan-e do reshte-ye yek tanab-e tabide."
+   },
+   "contrast": {
+    "fa": "این کار هلیکاز است، نه دنابسپاراز؛ دنابسپاراز فقط رشتهٔ تازه را می‌سازد.",
+    "en": "This is helicase's job, not DNA polymerase's; DNA polymerase only builds the new strand.",
+    "tr": "In kar-e helikaz ast, na dena-basparaz; dena-basparaz faghat reshte-ye taze ra misazad."
+   },
+   "unit": "bio-1-replication"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-complementary-nucleotides",
+   "term": {
+    "fa": "نوکلئوتیدهای مکمل",
+    "en": "complementary nucleotides",
+    "tr": "nukleotid-haye mokammel"
+   },
+   "explain": {
+    "fa": "دنابسپاراز روبه‌روی هر باز رشتهٔ الگو، نوکلئوتیدی با باز مکمل آن می‌گذارد: روبه‌روی `A` یک `T`، روبه‌روی `G` یک `C`. برای همین نسخهٔ تازه دقیقاً جفت رشتهٔ اصلی است.",
+    "en": "Opposite each base of the template strand, DNA polymerase places a nucleotide with the complementary base: a `T` opposite `A`, a `C` opposite `G`. That is why the new copy matches the original exactly.",
+    "tr": "Dena-basparaz roo-be-roo-ye har baz-e reshte-ye olgoo, nukleotidi ba baz-e mokammel-e an migozarad: roo-be-roo-ye `A` yek `T`, roo-be-roo-ye `G` yek `C`. Baraye hamin noskhe-ye taze daghighan joft-e reshte-ye asli ast."
+   },
+   "analogy": {
+    "fa": "مثل چیدن تکه‌های پازل کنار تکه‌هایی که فقط با آن‌ها جفت می‌شوند.",
+    "en": "Like laying jigsaw pieces next to the only pieces they fit.",
+    "tr": "Mesl-e chidan-e tekke-haye pazl kenar-e tekke-hayi ke faghat ba an-ha joft mishavand."
+   },
+   "contrast": {
+    "fa": "در همانندسازی دنا روبه‌روی `A` تیمین می‌آید، نه یوراسیل؛ یوراسیل فقط در رونویسی است.",
+    "en": "In DNA replication thymine goes opposite `A`, not uracil; uracil only appears in transcription.",
+    "tr": "Dar hamanand-sazi-ye dena roo-be-roo-ye `A` timin miayad, na urasil; urasil faghat dar ronevisi ast."
+   },
+   "unit": "bio-1-replication"
+  }
+ ]
+}
