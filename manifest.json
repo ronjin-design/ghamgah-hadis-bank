@@ -666,6 +666,12 @@
    "format": 5,
    "file": "pack-0111.json",
    "sha256": "6851bd4686a425a431f69d9f431d5cbf62e2fdf48d7f2a56d7abc8b4739e86e9"
+  },
+  {
+   "version": 112,
+   "format": 5,
+   "file": "pack-0112.json",
+   "sha256": "1063aa88cf1e95412fba3382af8e3bf0718cea93f05184f27c98e9d093cce639"
   }
  ]
 }

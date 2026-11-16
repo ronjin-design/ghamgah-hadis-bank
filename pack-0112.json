@@ -1,0 +1,1026 @@
+{
+ "version": 112,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 1,
+   "key": "bio-2-transcription",
+   "title": {
+    "fa": "از دنا به رنا: رونویسی",
+    "en": "From DNA to RNA: transcription",
+    "tr": "Az dena be rena: ronevisi"
+   },
+   "summary": {
+    "fa": "نقشهٔ اصلی در دفتر مرکزی می‌ماند؛ فقط برگهٔ سفارش کار بیرون می‌رود.",
+    "en": "The master blueprint stays in head office; only a work order goes out.",
+    "tr": "Naghshe-ye asli dar daftar-e markazi mimanad; faghat barge-ye sefaresh-e kar biroon miravad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نقشهٔ اصلی و برگهٔ سفارش",
+      "en": "Understand first: the master blueprint and the work order",
+      "tr": "Avval befahm: naghshe-ye asli va barge-ye sefaresh"
+     },
+     "body": {
+      "fa": "یک کارخانهٔ بزرگ را تصور کن. نقشهٔ اصلی همهٔ محصولات در گاوصندوق دفتر مرکزی است و هیچ‌وقت بیرون نمی‌رود، چون اگر گم شود یا پاره شود همه‌چیز از دست می‌رود. وقتی کارخانه یک محصول لازم دارد، منشی از همان صفحهٔ نقشه یک «برگهٔ سفارش کار» می‌نویسد و آن را به سالن تولید می‌فرستد. در سلول، نقشهٔ اصلی دناست که در هسته می‌ماند. برگهٔ سفارش، رنای پیک است. نوشتن این برگه از روی دنا را «رونویسی» می‌گویند و ساختن محصول (پروتئین) از روی برگه در رناتن را «ترجمه».",
+      "en": "Picture a big factory. The master blueprint of every product is in the head-office safe and never leaves, because if it were lost or torn everything would be gone. When the factory needs a product, a clerk copies that page of the blueprint onto a \"work order\" and sends it to the factory floor. In the cell, the master blueprint is DNA, which stays in the nucleus. The work order is messenger RNA (mRNA). Writing that order from the DNA is called \"transcription\", and building the product (a protein) from the order on a ribosome is called \"translation\".",
+      "tr": "Yek karkhane-ye bozorg ra tasavvor kon. Naghshe-ye asli-ye hame-ye mahsoolat dar gavsandoogh-e daftar-e markazi ast va hich-vaght biroon nemiravad, chon agar gom shavad ya pare shavad hame-chiz az dast miravad. Vaghti karkhane yek mahsool lazem darad, monshi az haman safhe-ye naghshe yek \"barge-ye sefaresh-e kar\" minevisad va an ra be salon-e tolid miferestad. Dar sellool, naghshe-ye asli denast ke dar haste mimanad. Barge-ye sefaresh, rena-ye peyk ast. Neveshtan-e in barge az rooye dena ra \"ronevisi\" migooyand va sakhtan-e mahsool (protein) az rooye barge dar renatan ra \"tarjome\"."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  DNA   (master blueprint, nucleus)\n    |\n    |  transcription\n    v\n  mRNA  (work order)\n    |\n    |  translation (ribosome)\n    v\n  protein  (finished product)",
+     "caption": {
+      "fa": "جریان اطلاعات در یاخته: دنا ← رنا ← پروتئین. رونویسی در هسته و ترجمه در رناتن انجام می‌شود.",
+      "en": "The flow of information in the cell: DNA → RNA → protein. Transcription happens in the nucleus and translation on the ribosome.",
+      "tr": "Jaryan-e ettela'at dar yakhte: dena → rena → protein. Ronevisi dar haste va tarjome dar renatan anjam mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "منشی و تابلوی شروع",
+      "en": "The clerk and the start sign",
+      "tr": "Monshi va tablo-ye shoru'"
+     },
+     "body": {
+      "fa": "منشیِ این کارخانه آنزیم «رنابسپاراز» است. او باید بداند نوشتن را از کجا شروع کند. جلوی هر ژن یک تابلوی «از اینجا شروع کن» هست به نام «راه‌انداز». رنابسپاراز اول به راه‌انداز می‌چسبد (آزمون دی ۱۳۹۸). راه‌انداز دو کار می‌کند: جای اتصال آنزیم را نشان می‌دهد و نقطهٔ شروع و رشتهٔ الگو را تعیین می‌کند (آزمون خرداد ۱۴۰۲). در پروکاریوت‌ها بخشی از آنزیم به نام «عامل سیگما» این تابلو را شناسایی می‌کند (آزمون خرداد ۱۳۹۹).",
+      "en": "The clerk of this factory is the enzyme \"RNA polymerase\". It has to know where to start writing. In front of every gene there is a \"start here\" sign called the \"promoter\". RNA polymerase first binds to the promoter (Dey 1398 paper). The promoter does two jobs: it marks where the enzyme binds, and it sets the start point and which strand is the template (Khordad 1402 paper). In prokaryotes, a part of the enzyme called the \"sigma factor\" recognises this sign (Khordad 1399 paper).",
+      "tr": "Monshi-ye in karkhane anzim-e \"rena-basparaz\" ast. Oo bayad bedanad neveshtan ra az koja shoru' konad. Jelo-ye har zhen yek tablo-ye \"az inja shoru' kon\" hast be nam-e \"rah-andaz\". Rena-basparaz avval be rah-andaz michasbad (azmoon-e Dey 1398). Rah-andaz do kar mikonad: ja-ye ettesal-e anzim ra neshan midahad va noghte-ye shoru' va reshte-ye olgoo ra ta'yin mikonad (azmoon-e Khordad 1402). Dar prokaryot-ha bakhshi az anzim be nam-e \"amel-e sigma\" in tablo ra shenasayi mikonad (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   sigma finds the sign\n     |\n     v\n ==[promoter]==[start>==gene===]==\n               |\n               +--> RNA grows 5'->3'",
+     "caption": {
+      "fa": "عامل سیگما راه‌انداز را پیدا می‌کند؛ رنابسپاراز همان‌جا می‌نشیند و از نقطهٔ شروع، رنا را می‌سازد.",
+      "en": "The sigma factor finds the promoter; RNA polymerase sits there and builds RNA from the start point.",
+      "tr": "Amel-e sigma rah-andaz ra peyda mikonad; rena-basparaz haman-ja mineshinad va az noghte-ye shoru', rena ra misazad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "کدام رشته خوانده می‌شود؟",
+      "en": "Which strand is read?",
+      "tr": "Kodam reshte khande mishavad?"
+     },
+     "body": {
+      "fa": "دنا دو رشته دارد، ولی برای هر ژن فقط یکی خوانده می‌شود: «رشتهٔ الگو». رنابسپاراز روی رشتهٔ الگو در جهت `3′` به `5′` حرکت می‌کند (آزمون دی ۱۴۰۰) و رنا را در جهت `5′` به `3′` می‌سازد. هر نوکلئوتید تازهٔ رنا مکمل باز روبه‌رویش در رشتهٔ الگوست (آزمون دی ۱۴۰۱): روبه‌روی `A` یوراسیل می‌گذارد، نه تیمین. خود رنابسپاراز نوکلئوتیدها را با پیوند فسفودی‌استر به هم وصل می‌کند (آزمون خرداد ۱۴۰۱). نتیجه: رنای ساخته‌شده درست مثل رشتهٔ دیگر (رشتهٔ رمزگذار) است، فقط به‌جای `T`، `U` دارد.",
+      "en": "DNA has two strands, but for each gene only one is read: the \"template strand\". RNA polymerase moves along the template strand in the `3′` to `5′` direction (Dey 1400 paper) and builds RNA in the `5′` to `3′` direction. Each new RNA nucleotide is complementary to the base opposite it on the template strand (Dey 1401 paper): opposite `A` it places uracil, not thymine. RNA polymerase itself joins the nucleotides with phosphodiester bonds (Khordad 1401 paper). The result: the RNA made is exactly like the other strand (the coding strand), only with `U` in place of `T`.",
+      "tr": "Dena do reshte darad, vali baraye har zhen faghat yeki khande mishavad: \"reshte-ye olgoo\". Rena-basparaz rooye reshte-ye olgoo dar jahat-e `3′` be `5′` harekat mikonad (azmoon-e Dey 1400) va rena ra dar jahat-e `5′` be `3′` misazad. Har nukleotid-e taze-ye rena mokammel-e baz-e roo-be-rooyash dar reshte-ye olgoost (azmoon-e Dey 1401): roo-be-roo-ye `A` urasil migozarad, na timin. Khod-e rena-basparaz nukleotid-ha ra ba peyvand-e fosfodi-ester be ham vasl mikonad (azmoon-e Khordad 1401). Natije: rena-ye sakhte-shode dorost mesl-e reshte-ye digar (reshte-ye ramzgozar) ast, faghat be-ja-ye `T`, `U` darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " coding   5'-A T G G C A-3'\n template 3'-T A C C G T-5'\n             | | | | | |\n mRNA     5'-A U G G C A-3'\n\n reads template 3'->5'\n builds RNA     5'->3'",
+     "caption": {
+      "fa": "رنا مکمل رشتهٔ الگوست و شبیه رشتهٔ رمزگذار، فقط با `U` به‌جای `T`.",
+      "en": "The RNA is complementary to the template strand and matches the coding strand, only with `U` in place of `T`.",
+      "tr": "Rena mokammel-e reshte-ye olgoost va shabih-e reshte-ye ramzgozar, faghat ba `U` be-ja-ye `T`."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رنای ساخته‌شده از رشتهٔ الگوی `3′-TACG-5′`",
+      "en": "Warm-up: the RNA made from the template strand `3′-TACG-5′`",
+      "tr": "Garm kardan: rena-ye sakhte-shode az reshte-ye olgoo-ye `3′-TACG-5′`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر باز الگو را با جفت رنایی‌اش عوض کن. چرا؟ چون رنابسپاراز فقط نوکلئوتید مکمل را می‌گذارد. روبه‌روی `A` در رنا `U` می‌آید.",
+        "en": "Swap each template base for its RNA partner. Why? Because RNA polymerase only places the complementary nucleotide. Opposite `A`, RNA gets `U`.",
+        "tr": "Har baz-e olgoo ra ba joft-e renayi-ash avaz kon. Chera? Chon rena-basparaz faghat nukleotid-e mokammel ra migozarad. Roo-be-roo-ye `A` dar rena `U` miayad."
+       },
+       "math": "T A C G   →   A U G C"
+      },
+      {
+       "text": {
+        "fa": "رنا ناهمسو با الگو ساخته می‌شود، پس سرهایش برعکس است.",
+        "en": "RNA is built antiparallel to the template, so its ends are reversed.",
+        "tr": "Rena nahamsoo ba olgoo sakhte mishavad, pas sar-hayash bar-aks ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`5′-AUGC-3′`",
+      "en": "`5′-AUGC-3′`",
+      "tr": "`5′-AUGC-3′`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش راه‌انداز و عامل سیگما را بنویس. (مثل آزمون خرداد ۱۴۰۲ و خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: state the roles of the promoter and the sigma factor. (as in the Khordad 1402 and Khordad 1399 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e rah-andaz va amel-e sigma ra benevis. (mesl-e azmoon-e Khordad 1402 va Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول بپرس: آنزیم از کجا بداند ژن کجاست؟ جواب: از روی یک توالی ویژه جلوی ژن، یعنی راه‌انداز. نمرهٔ اول: «محل اتصال رنابسپاراز به دنا».",
+        "en": "First ask: how does the enzyme know where the gene is? Answer: from a special sequence in front of the gene, the promoter. First mark: \"where RNA polymerase binds to the DNA\".",
+        "tr": "Avval bepors: anzim az koja bedanad zhen kojast? Javab: az rooye yek tavali-ye vizhe jelo-ye zhen, ya'ni rah-andaz. Nomre-ye avval: \"mahall-e ettesal-e rena-basparaz be dena\"."
+       }
+      },
+      {
+       "text": {
+        "fa": "بعد بپرس: از کجا و روی کدام رشته بنویسد؟ راه‌انداز جهت را هم تعیین می‌کند. نمرهٔ دوم: «نقطهٔ شروع رونویسی و رشتهٔ الگو».",
+        "en": "Then ask: from where, and on which strand, should it write? The promoter sets the direction too. Second mark: \"the start point of transcription and the template strand\".",
+        "tr": "Ba'd bepors: az koja va rooye kodam reshte benevisad? Rah-andaz jahat ra ham ta'yin mikonad. Nomre-ye dovvom: \"noghte-ye shoru'-e ronevisi va reshte-ye olgoo\"."
+       }
+      },
+      {
+       "text": {
+        "fa": "در پروکاریوت‌ها، چه کسی تابلو را می‌خواند؟ زیرواحد سیگمای آنزیم.",
+        "en": "In prokaryotes, who reads the sign? The sigma subunit of the enzyme.",
+        "tr": "Dar prokaryot-ha, che kasi tablo ra mikhanad? Zirvahed-e sigma-ye anzim."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "راه‌انداز: محل اتصال رنابسپاراز + نقطهٔ شروع و رشتهٔ الگو؛ عامل سیگما: شناسایی راه‌انداز",
+      "en": "Promoter: where RNA polymerase binds + the start point and template strand; sigma factor: recognises the promoter",
+      "tr": "Rah-andaz: mahall-e ettesal-e rena-basparaz + noghte-ye shoru' va reshte-ye olgoo; amel-e sigma: shenasayi-ye rah-andaz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: رشتهٔ رمزگذار `5′-ATGGCA-3′` داده شده. رنا چیست؟",
+      "en": "Exam twist: you are given the coding strand `5′-ATGGCA-3′`. What is the RNA?",
+      "tr": "Pich-e emtehani: reshte-ye ramzgozar `5′-ATGGCA-3′` dade shode. Rena chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این رشتهٔ الگو نیست! رنابسپاراز رشتهٔ دیگر را می‌خواند. پس اول رشتهٔ الگو را بساز.",
+        "en": "The twist: this is not the template strand! RNA polymerase reads the other strand. So first build the template strand.",
+        "tr": "Pich-e emtehan: in reshte-ye olgoo nist! Rena-basparaz reshte-ye digar ra mikhanad. Pas avval reshte-ye olgoo ra besaz."
+       },
+       "math": "3′-TACCGT-5′"
+      },
+      {
+       "text": {
+        "fa": "حالا رنا را مکمل الگو بساز.",
+        "en": "Now build the RNA complementary to the template.",
+        "tr": "Hala rena ra mokammel-e olgoo besaz."
+       },
+       "math": "5′-AUGGCA-3′"
+      },
+      {
+       "text": {
+        "fa": "میان‌بر: رنا همان رشتهٔ رمزگذار است با `U` به‌جای `T`. با این میان‌بر جوابت را چک کن.",
+        "en": "Shortcut: the RNA is the coding strand with `U` in place of `T`. Use it to check your answer.",
+        "tr": "Miyanbor: rena haman reshte-ye ramzgozar ast ba `U` be-ja-ye `T`. Ba in miyanbor javabat ra chek kon."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`5′-AUGGCA-3′`",
+      "en": "`5′-AUGGCA-3′`",
+      "tr": "`5′-AUGGCA-3′`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رنا «مکمل» رشتهٔ الگوست ولی «شبیه» رشتهٔ رمزگذار. اگر سؤال پرسید «توالی رنا مکمل کدام رشته است؟» جواب رشتهٔ الگوست (آزمون دی ۱۴۰۱).",
+      "en": "RNA is \"complementary\" to the template strand but \"the same as\" the coding strand. If the question asks \"the RNA sequence is complementary to which strand?\", the answer is the template strand (Dey 1401 paper).",
+      "tr": "Rena \"mokammel\"-e reshte-ye olgoost vali \"shabih\"-e reshte-ye ramzgozar. Agar so'al porsid \"tavali-ye rena mokammel-e kodam reshte ast?\" javab reshte-ye olgoost (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جهت‌ها را قاطی نکن: رنابسپاراز الگو را `3′` به `5′` «می‌خواند» ولی رنا را `5′` به `3′` «می‌سازد».",
+      "en": "Do not mix up the directions: RNA polymerase \"reads\" the template `3′` to `5′` but \"builds\" RNA `5′` to `3′`.",
+      "tr": "Jahat-ha ra ghati nakon: rena-basparaz olgoo ra `3′` be `5′` \"mikhanad\" vali rena ra `5′` be `3′` \"misazad\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Dey",
+     "number": 901
+    },
+    {
+     "session": "1400-Dey",
+     "number": 904
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 914
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1401-Dey",
+     "number": 943
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 902
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 2,
+   "key": "bio-2-polymerases-splicing",
+   "title": {
+    "fa": "سه رنابسپاراز و پیرایش",
+    "en": "The three RNA polymerases and splicing",
+    "tr": "Se rena-basparaz va pirayesh"
+   },
+   "summary": {
+    "fa": "سه منشی برای سه نوع برگه، و ویرایش پیش از ارسال.",
+    "en": "Three clerks for three kinds of paper, and an edit before sending.",
+    "tr": "Se monshi baraye se no' barge, va virayesh pish az ersal."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سه منشی تخصصی",
+      "en": "Understand first: three specialist clerks",
+      "tr": "Avval befahm: se monshi-ye takhassosi"
+     },
+     "body": {
+      "fa": "در یاخته‌های یوکاریوتی دفتر مرکزی بزرگ‌تر است، پس به‌جای یک منشی، سه منشی تخصصی دارد. هر کدام فقط یک نوع برگه می‌نویسد. رنابسپاراز ۱ رنای رِناتنی را می‌سازد (آزمون خرداد ۱۳۹۹)، که قطعه‌های ساختمان رناتن است. رنابسپاراز ۲ رنای پیک، یعنی برگه‌های سفارش کار، را می‌سازد (آزمون‌های خرداد ۱۳۹۸ و دی ۱۴۰۱). رنابسپاراز ۳ رنای ناقل را می‌سازد (آزمون خرداد ۱۳۹۸)، یعنی کامیون‌هایی که آمینواسید می‌آورند.",
+      "en": "In eukaryotic cells the head office is bigger, so instead of one clerk it has three specialist clerks. Each writes only one kind of paper. RNA polymerase I makes ribosomal RNA (rRNA) (Khordad 1399 paper), the building parts of the ribosome. RNA polymerase II makes messenger RNA, the work orders (Khordad 1398 and Dey 1401 papers). RNA polymerase III makes transfer RNA (tRNA) (Khordad 1398 paper), the trucks that bring the amino acids.",
+      "tr": "Dar yakhte-haye yukaryoti daftar-e markazi bozorg-tar ast, pas be-ja-ye yek monshi, se monshi-ye takhassosi darad. Har kodam faghat yek no' barge minevisad. Rena-basparaz 1 rena-ye renatani ra misazad (azmoon-e Khordad 1399), ke ghet'e-haye sakhteman-e renatan ast. Rena-basparaz 2 rena-ye peyk, ya'ni barge-haye sefaresh-e kar, ra misazad (azmoon-haye Khordad 1398 va Dey 1401). Rena-basparaz 3 rena-ye naghel ra misazad (azmoon-e Khordad 1398), ya'ni kamyon-hayi ke amino-asid miavarand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  RNA polymerase     makes\n  I    (1)           rRNA\n  II   (2)           mRNA\n  III  (3)           tRNA\n\n  memory: R - M - T  =  1 - 2 - 3\n  (Ribosome, Messenger, Transfer)",
+     "caption": {
+      "fa": "رمز حفظ کردن: به ترتیب الفبای انگلیسی `R`، `M`، `T` یعنی ۱، ۲، ۳: رنای رِناتنی، رنای پیک، رنای ناقل.",
+      "en": "Memory trick: `R`, `M`, `T` in that order are 1, 2, 3: ribosomal RNA, messenger RNA, transfer RNA.",
+      "tr": "Ramz-e hefz kardan: be tartib `R`, `M`, `T` ya'ni 1, 2, 3: rena-ye renatani, rena-ye peyk, rena-ye naghel."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ویرایش پیش از ارسال: پیرایش",
+      "en": "Editing before sending: splicing",
+      "tr": "Virayesh pish az ersal: pirayesh"
+     },
+     "body": {
+      "fa": "حالا ویرایش. نقشهٔ اصلی یوکاریوت‌ها پر از پاراگراف‌های اضافه است که دستور ساخت ندارند. رنای اولیه که تازه از دنا نوشته شده، هم بخش‌های لازم را دارد و هم این بخش‌های اضافه را. بخش‌های اضافه را «میانه» (اینترون) و بخش‌های لازم را «بیانه» (اگزون) می‌نامیم. پیش از اینکه برگه از هسته بیرون برود، میانه‌ها بریده و دور ریخته می‌شوند و بیانه‌ها به هم چسبانده می‌شوند. این کار «پیرایش» نام دارد (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۰). حاصل، رنای پیک بالغ است.",
+      "en": "Now the edit. The eukaryotic master blueprint is full of extra paragraphs that carry no building instructions. The primary RNA, freshly written from the DNA, contains both the needed parts and these extra parts. We call the extra parts \"introns\" and the needed parts \"exons\". Before the order leaves the nucleus, the introns are cut out and thrown away and the exons are stuck together. This is called \"splicing\" (Dey 1399 and Khordad 1400 papers). The result is mature mRNA.",
+      "tr": "Hala virayesh. Naghshe-ye asli-ye yukaryot-ha por az paragraf-haye ezafe ast ke dastoor-e sakht nadarand. Rena-ye avvaliye ke taze az dena neveshte shode, ham bakhsh-haye lazem ra darad va ham in bakhsh-haye ezafe ra. Bakhsh-haye ezafe ra \"miyane\" (intron) va bakhsh-haye lazem ra \"biyane\" (egzon) minamim. Pish az inke barge az haste biroon beravad, miyane-ha boride va door rikhte mishavand va biyane-ha be ham chasbande mishavand. In kar \"pirayesh\" nam darad (azmoon-haye Dey 1399 va Khordad 1400). Hasel, rena-ye peyk-e baleq ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " primary RNA (fresh copy)\n [E1]--i1--[E2]----i2----[E3]\n\n      cut out i1 and i2,\n      join the exons\n\n mature mRNA\n [E1][E2][E3]  -> leaves nucleus\n\n E = exon (kept)\n i = intron (cut out)",
+     "caption": {
+      "fa": "پیرایش: میانه‌ها بریده می‌شوند و بیانه‌ها به هم وصل می‌شوند؛ رنای پیک بالغ از هسته خارج می‌شود.",
+      "en": "Splicing: the introns are cut out and the exons are joined; the mature mRNA leaves the nucleus.",
+      "tr": "Pirayesh: miyane-ha boride mishavand va biyane-ha be ham vasl mishavand; rena-ye peyk-e baleq az haste kharej mishavad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ژن رنای ناقل را کدام رنابسپاراز رونویسی می‌کند؟",
+      "en": "Warm-up: which RNA polymerase transcribes the gene for tRNA?",
+      "tr": "Garm kardan: zhen-e rena-ye naghel ra kodam rena-basparaz ronevisi mikonad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رمز `R-M-T = 1-2-3` را بنویس. چرا؟ چون در امتحان، حافظه زیر فشار قاطی می‌کند و یک رمز ثابت نجاتت می‌دهد.",
+        "en": "Write the trick `R-M-T = 1-2-3`. Why? Because under exam pressure memory gets mixed up, and a fixed trick saves you.",
+        "tr": "Ramz-e `R-M-T = 1-2-3` ra benevis. Chera? Chon dar emtehan, hafeze zir-e feshar ghati mikonad va yek ramz-e sabet nejatat midahad."
+       },
+       "math": "R → 1 ,   M → 2 ,   T → 3"
+      },
+      {
+       "text": {
+        "fa": "رنای ناقل `T` است، پس شمارهٔ ۳.",
+        "en": "Transfer RNA is `T`, so number 3.",
+        "tr": "Rena-ye naghel `T` ast, pas shomare-ye 3."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رنابسپاراز ۳",
+      "en": "RNA polymerase III",
+      "tr": "Rena-basparaz 3"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: یک رنای اولیه ۱۲۰۰ نوکلئوتید دارد و دو میانه به طول ۲۵۰ و ۱۵۰ نوکلئوتید. رنای پیک بالغ چند نوکلئوتید دارد؟",
+      "en": "Textbook and exam: a primary RNA has 1200 nucleotides and two introns of 250 and 150 nucleotides. How many nucleotides does the mature mRNA have?",
+      "tr": "Mas'ale-ye ketab va emtehan: yek rena-ye avvaliye 1200 nukleotid darad va do miyane be tool-e 250 va 150 nukleotid. Rena-ye peyk-e baleq chand nukleotid darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در پیرایش چه چیزی حذف می‌شود؟ فقط میانه‌ها. پس طول کل میانه‌ها را جمع کن.",
+        "en": "What is removed in splicing? Only the introns. So add up the intron lengths.",
+        "tr": "Dar pirayesh che chizi hazf mishavad? Faghat miyane-ha. Pas tool-e kol-e miyane-ha ra jam' kon."
+       },
+       "math": "250 + 150 = 400"
+      },
+      {
+       "text": {
+        "fa": "بیانه‌ها می‌مانند، پس از کل کم کن.",
+        "en": "The exons stay, so subtract from the total.",
+        "tr": "Biyane-ha mimanand, pas az kol kam kon."
+       },
+       "math": "1200 − 400 = 800"
+      }
+     ],
+     "answer": {
+      "fa": "`800` نوکلئوتید",
+      "en": "`800` nucleotides",
+      "tr": "`800` nukleotid"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا رنای پیک باکتری هم پیرایش می‌شود؟",
+      "en": "Exam twist: is bacterial mRNA spliced too?",
+      "tr": "Pich-e emtehani: aya rena-ye peyk-e bakteri ham pirayesh mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پیرایش برای ژن‌های میانه‌دار است. ژن‌های پروکاریوتی معمولاً میانه ندارند.",
+        "en": "The twist: splicing is for genes that have introns. Prokaryotic genes usually have no introns.",
+        "tr": "Pich-e emtehan: pirayesh baraye zhen-haye miyane-dar ast. Zhen-haye prokaryoti ma'moolan miyane nadarand."
+       }
+      },
+      {
+       "text": {
+        "fa": "باکتری هسته ندارد، پس برگه لازم نیست از جایی بیرون برود. رناتن‌ها می‌توانند ترجمه را شروع کنند در حالی که رونویسی هنوز ادامه دارد.",
+        "en": "Bacteria have no nucleus, so the order does not have to leave anywhere. Ribosomes can start translating while transcription is still going on.",
+        "tr": "Bakteri haste nadarad, pas barge lazem nist az jayi biroon beravad. Renatan-ha mitavanand tarjome ra shoru' konand dar hali ke ronevisi hanooz edame darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "معمولاً نه؛ ویرایش با پیرایش ویژگی ژن‌های یوکاریوتی است",
+      "en": "Usually not; editing by splicing is a feature of eukaryotic genes",
+      "tr": "Ma'moolan na; virayesh ba pirayesh vizhegi-ye zhen-haye yukaryoti ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رنای پیک را رنابسپاراز «۲» می‌سازد، نه ۱. عدد را با نوع رنا جابه‌جا نکن؛ رمز `R-M-T = 1-2-3` را به‌کار ببر.",
+      "en": "Messenger RNA is made by RNA polymerase \"II\", not I. Do not swap the number and the RNA type; use the trick `R-M-T = 1-2-3`.",
+      "tr": "Rena-ye peyk ra rena-basparaz \"2\" misazad, na 1. Adad ra ba no'-e rena jabeja nakon; ramz-e `R-M-T = 1-2-3` ra be-kar bebar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "میانه‌ها «حذف» می‌شوند و بیانه‌ها «می‌مانند». نام‌ها را برعکس ننویس: بیانه یعنی بخشی که بیان می‌شود.",
+      "en": "Introns are \"removed\" and exons \"stay\". Do not reverse the names: an exon is the part that is expressed.",
+      "tr": "Miyane-ha \"hazf\" mishavand va biyane-ha \"mimanand\". Nam-ha ra bar-aks nanevis: biyane ya'ni bakhshi ke bayan mishavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 916
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 933
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 935
+    },
+    {
+     "session": "1401-Dey",
+     "number": 940
+    },
+    {
+     "session": "1399-Dey",
+     "number": 926
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 941
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 3,
+   "key": "bio-2-code-trna",
+   "title": {
+    "fa": "رمز ژنتیکی و رنای ناقل",
+    "en": "The genetic code and tRNA",
+    "tr": "Ramz-e zheneteki va rena-ye naghel"
+   },
+   "summary": {
+    "fa": "کلمه‌های سه‌حرفی، و کامیونی که کالای درست را می‌آورد.",
+    "en": "Three-letter words, and a truck that brings the right part.",
+    "tr": "Kalame-haye se-harfi, va kamyoni ke kala-ye dorost ra miavarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چرا سه حرف؟",
+      "en": "Understand first: why three letters?",
+      "tr": "Avval befahm: chera se harf?"
+     },
+     "body": {
+      "fa": "برگهٔ سفارش با الفبای چهار‌حرفی نوشته شده (`A`، `U`، `G`، `C`) ولی محصول از ۲۰ نوع آمینواسید ساخته می‌شود. با یک حرف فقط ۴ کلمه داریم و با دو حرف ۱۶ کلمه، که کم است. با سه حرف ۶۴ کلمه داریم که کافی است. پس رنای پیک سه‌حرف‌سه‌حرف خوانده می‌شود و هر سه‌تایی یک «رمزه» است. ۶۱ رمزه آمینواسید را رمز می‌کنند و ۳ رمزه فقط می‌گویند «تمام».",
+      "en": "The work order is written in a four-letter alphabet (`A`, `U`, `G`, `C`), but the product is built from 20 kinds of amino acid. With one letter we have only 4 words and with two letters 16 words, which is too few. With three letters we have 64 words, which is enough. So mRNA is read three letters at a time, and each triplet is a \"codon\". 61 codons code for amino acids and 3 codons just say \"stop\".",
+      "tr": "Barge-ye sefaresh ba alefba-ye chahar-harfi neveshte shode (`A`, `U`, `G`, `C`) vali mahsool az 20 no' amino-asid sakhte mishavad. Ba yek harf faghat 4 kalame darim va ba do harf 16 kalame, ke kam ast. Ba se harf 64 kalame darim ke kafi ast. Pas rena-ye peyk se-harf-se-harf khande mishavad va har se-tayi yek \"ramze\" ast. 61 ramze amino-asid ra ramz mikonand va 3 ramze faghat migooyand \"tamam\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "4 × 4 × 4 = 64 ,   61 + 3 = 64",
+     "caption": {
+      "fa": "۶۴ رمزه: ۶۱ رمزهٔ آمینواسید و ۳ رمزهٔ پایان",
+      "en": "64 codons: 61 for amino acids and 3 stop codons",
+      "tr": "64 ramze: 61 ramze-ye amino-asid va 3 ramze-ye payan"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  start   AUG   (methionine)\n\n  stop    UAA   UAG   UGA\n          (no amino acid,\n           release factor)",
+     "caption": {
+      "fa": "رمزهٔ آغاز `AUG` است و متیونین را رمز می‌کند (آزمون خرداد ۱۳۹۸). سه رمزهٔ پایان آمینواسیدی ندارند؛ مثلاً `UAA` عوامل آزادکننده را وارد می‌کند (آزمون خرداد ۱۴۰۰).",
+      "en": "The start codon is `AUG` and codes for methionine (Khordad 1398 paper). The three stop codons have no amino acid; for example `UAA` brings in the release factors (Khordad 1400 paper).",
+      "tr": "Ramze-ye aghaz `AUG` ast va metionin ra ramz mikonad (azmoon-e Khordad 1398). Se ramze-ye payan amino-asidi nadarand; masalan `UAA` avamel-e azad-konande ra vared mikonad (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رنای ناقل: کلید و قفل",
+      "en": "tRNA: the key and the lock",
+      "tr": "Rena-ye naghel: kelid va ghofl"
+     },
+     "body": {
+      "fa": "حالا کامیون‌ها. آمینواسیدها خودشان رمزه را نمی‌خوانند، پس یک مترجم لازم است: «رنای ناقل». هر رنای ناقل یک سر دارد که آمینواسید را حمل می‌کند و یک سر دیگر با سه باز به نام «پادرمزه» (آزمون دی ۱۴۰۱). پادرمزه با رمزهٔ رنای پیک جفت مکمل می‌شود، مثل کلیدی که فقط در قفل خودش می‌چرخد. اینطوری رنای ناقل آمینواسید درست را به جای درست در رناتن می‌آورد (آزمون دی ۱۴۰۱). اولین رنای ناقل، رنای ناقل آغازگر، همیشه متیونین می‌آورد و در جایگاه `P` می‌نشیند (آزمون خرداد ۱۴۰۰).",
+      "en": "Now the trucks. The amino acids cannot read codons themselves, so a translator is needed: \"transfer RNA\" (tRNA). Each tRNA has one end that carries an amino acid and another end with three bases called the \"anticodon\" (Dey 1401 paper). The anticodon pairs with the mRNA codon by complementary pairing, like a key that only turns in its own lock. That way the tRNA brings the right amino acid to the right place on the ribosome (Dey 1401 paper). The first tRNA, the initiator tRNA, always brings methionine and sits in the `P` site (Khordad 1400 paper).",
+      "tr": "Hala kamyon-ha. Amino-asid-ha khodeshan ramze ra nemikhanand, pas yek motarjem lazem ast: \"rena-ye naghel\". Har rena-ye naghel yek sar darad ke amino-asid ra haml mikonad va yek sar-e digar ba se baz be nam-e \"padramze\" (azmoon-e Dey 1401). Padramze ba ramze-ye rena-ye peyk joft-e mokammel mishavad, mesl-e kelidi ke faghat dar ghofl-e khodash micharkhad. Intowr rena-ye naghel amino-asid-e dorost ra be ja-ye dorost dar renatan miavarad (azmoon-e Dey 1401). Avvalin rena-ye naghel, rena-ye naghel-e aghazgar, hamishe metionin miavarad va dar jaygah-e `P` mineshinad (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " mRNA 5'-AUG|UUU|GGC|UGA-3'\n         Met Phe Gly stop\n tRNA    UAC AAA CCG  --\n         anticodons, 3'->5'\n         (no tRNA for stop)",
+     "caption": {
+      "fa": "هر رمزه یک پادرمزهٔ مکمل دارد. رمزهٔ پایان رنای ناقل ندارد.",
+      "en": "Each codon has a complementary anticodon. A stop codon has no tRNA.",
+      "tr": "Har ramze yek padramze-ye mokammel darad. Ramze-ye payan rena-ye naghel nadarad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پادرمزهٔ رمزهٔ `5′-GGC-3′` چیست؟",
+      "en": "Warm-up: what is the anticodon for the codon `5′-GGC-3′`?",
+      "tr": "Garm kardan: padramze-ye ramze-ye `5′-GGC-3′` chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پادرمزه مکمل رمزه است و هر دو رنا هستند، پس روبه‌روی `A` باید `U` بنویسی، نه `T`.",
+        "en": "The anticodon is complementary to the codon and both are RNA, so opposite `A` you write `U`, not `T`.",
+        "tr": "Padramze mokammel-e ramze ast va har do rena hastand, pas roo-be-roo-ye `A` bayad `U` benevisi, na `T`."
+       },
+       "math": "G G C   →   C C G"
+      },
+      {
+       "text": {
+        "fa": "ناهمسوست، پس سرها برعکس‌اند.",
+        "en": "It is antiparallel, so the ends are reversed.",
+        "tr": "Nahamsoost, pas sar-ha bar-aks-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`3′-CCG-5′`",
+      "en": "`3′-CCG-5′`",
+      "tr": "`3′-CCG-5′`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رنای پیک `5′-AUG UUU GGC UGA-3′` چند آمینواسید و چند رنای ناقل لازم دارد؟",
+      "en": "Textbook and exam: how many amino acids and tRNAs does the mRNA `5′-AUG UUU GGC UGA-3′` need?",
+      "tr": "Mas'ale-ye ketab va emtehan: rena-ye peyk-e `5′-AUG UUU GGC UGA-3′` chand amino-asid va chand rena-ye naghel lazem darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سه‌تا سه‌تا جدا کن. چرا از `AUG` شروع می‌کنیم؟ چون رمزهٔ آغاز است.",
+        "en": "Split into threes. Why start from `AUG`? Because it is the start codon.",
+        "tr": "Se-ta se-ta joda kon. Chera az `AUG` shoru' mikonim? Chon ramze-ye aghaz ast."
+       },
+       "math": "AUG | UUU | GGC | UGA"
+      },
+      {
+       "text": {
+        "fa": "`UGA` رمزهٔ پایان است؛ آمینواسید و رنای ناقل ندارد. پس فقط سه رمزهٔ اول حساب می‌شوند.",
+        "en": "`UGA` is a stop codon; it has no amino acid and no tRNA. So only the first three codons count.",
+        "tr": "`UGA` ramze-ye payan ast; amino-asid va rena-ye naghel nadarad. Pas faghat se ramze-ye avval hesab mishavand."
+       },
+       "math": "4 − 1 = 3"
+      }
+     ],
+     "answer": {
+      "fa": "۳ آمینواسید (متیونین، فنیل‌آلانین، گلیسین) و ۳ رنای ناقل",
+      "en": "3 amino acids (methionine, phenylalanine, glycine) and 3 tRNAs",
+      "tr": "3 amino-asid (metionin, fenil-alanin, glisin) va 3 rena-ye naghel"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در رشتهٔ الگو یک باز عوض شده: `3′-ACC-5′` شده `3′-ACT-5′`. چه اتفاقی برای پروتئین می‌افتد؟",
+      "en": "Exam twist: one base in the template strand has changed: `3′-ACC-5′` became `3′-ACT-5′`. What happens to the protein?",
+      "tr": "Pich-e emtehani: dar reshte-ye olgoo yek baz avaz shode: `3′-ACC-5′` shode `3′-ACT-5′`. Che ettefaghi baraye protein miofte?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: هر دو الگو را به رمزهٔ رنای پیک تبدیل کن. چرا؟ چون رناتن رنای پیک را می‌خواند، نه دنا را.",
+        "en": "Step one: turn both templates into mRNA codons. Why? Because the ribosome reads mRNA, not DNA.",
+        "tr": "Ghadam-e avval: har do olgoo ra be ramze-ye rena-ye peyk tabdil kon. Chera? Chon renatan rena-ye peyk ra mikhanad, na dena ra."
+       },
+       "math": "3′-ACC-5′ → 5′-UGG-3′ ,   3′-ACT-5′ → 5′-UGA-3′"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: معنی رمزه‌ها. `UGG` آمینواسید تریپتوفان است، ولی `UGA` رمزهٔ پایان است.",
+        "en": "Step two: what the codons mean. `UGG` is the amino acid tryptophan, but `UGA` is a stop codon.",
+        "tr": "Ghadam-e dovvom: ma'ni-ye ramze-ha. `UGG` amino-asid-e triptofan ast, vali `UGA` ramze-ye payan ast."
+       },
+       "math": "Trp   →   stop"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: نتیجه. ترجمه همین‌جا زودتر از موعد تمام می‌شود، پس پروتئین کوتاه و احتمالاً بی‌کار می‌شود. یک باز کوچک، یک فاجعهٔ بزرگ!",
+        "en": "Step three: the result. Translation ends right here, too early, so the protein is short and probably useless. One small base, one big disaster!",
+        "tr": "Ghadam-e sevvom: natije. Tarjome hamin-ja zoodtar az mo'ed tamam mishavad, pas protein kootah va ehtemalan bi-kar mishavad. Yek baz-e koochak, yek faje'e-ye bozorg!"
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رمزهٔ تریپتوفان به رمزهٔ پایان تبدیل شده؛ پروتئین کوتاه می‌شود",
+      "en": "The tryptophan codon became a stop codon; the protein is cut short",
+      "tr": "Ramze-ye triptofan be ramze-ye payan tabdil shode; protein kootah mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمزه روی رنای پیک است و پادرمزه روی رنای ناقل. «کدام بخش رنای ناقل با رمزه جفت می‌شود؟» جوابش پادرمزه است (آزمون دی ۱۴۰۱).",
+      "en": "The codon is on the mRNA and the anticodon is on the tRNA. \"Which part of tRNA pairs with the codon?\" The answer is the anticodon (Dey 1401 paper).",
+      "tr": "Ramze rooye rena-ye peyk ast va padramze rooye rena-ye naghel. \"Kodam bakhsh-e rena-ye naghel ba ramze joft mishavad?\" Javabash padramze ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمزه‌های پایان رنای ناقل ندارند. وقتی رمزه‌ها را برای شمردن آمینواسیدها یا رنای ناقل‌ها می‌شماری، رمزهٔ پایان را حساب نکن.",
+      "en": "Stop codons have no tRNA. When you count codons to find the number of amino acids or tRNAs, do not count the stop codon.",
+      "tr": "Ramze-haye payan rena-ye naghel nadarand. Vaghti ramze-ha ra baraye shemordan-e amino-asid-ha ya rena-ye naghel-ha mishomari, ramze-ye payan ra hesab nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 929
+    },
+    {
+     "session": "1401-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 944
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 936
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 4,
+   "key": "bio-2-translation",
+   "title": {
+    "fa": "رناتن و مراحل ترجمه",
+    "en": "The ribosome and the steps of translation",
+    "tr": "Renatan va marahel-e tarjome"
+   },
+   "summary": {
+    "fa": "خط مونتاژ با سه ایستگاه: ورود، نگه‌داشتن، خروج.",
+    "en": "An assembly line with three stations: in, hold, out.",
+    "tr": "Khatt-e montazh ba se istgah: vorood, negah-dashtan, khorooj."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: خط مونتاژ",
+      "en": "Understand first: the assembly line",
+      "tr": "Avval befahm: khatt-e montazh"
+     },
+     "body": {
+      "fa": "رناتن خط مونتاژ کارخانه است. دو زیرواحد دارد: زیرواحد کوچک برگهٔ سفارش (رنای پیک) را نگه می‌دارد و زیرواحد بزرگ سه ایستگاه دارد. ایستگاه `A` در ورودی است: رنای ناقل تازه با آمینواسید بعدی اینجا می‌نشیند. ایستگاه `P` وسط است: رنای ناقلی که زنجیرهٔ در حال ساخت را نگه داشته اینجاست. ایستگاه `E` در خروجی است: رنای ناقل خالی از اینجا بیرون می‌رود (آزمون‌های خرداد ۱۳۹۶ و خرداد ۱۴۰۱).",
+      "en": "The ribosome is the factory's assembly line. It has two subunits: the small subunit holds the work order (mRNA) and the large subunit has three stations. Station `A` is at the entrance: the new tRNA with the next amino acid sits here. Station `P` is in the middle: the tRNA holding the growing chain is here. Station `E` is at the exit: the empty tRNA leaves from here (Khordad 1396 and Khordad 1401 papers).",
+      "tr": "Renatan khatt-e montazh-e karkhane ast. Do zirvahed darad: zirvahed-e koochak barge-ye sefaresh (rena-ye peyk) ra negah midarad va zirvahed-e bozorg se istgah darad. Istgah-e `A` dar voroodi ast: rena-ye naghel-e taze ba amino-asid-e ba'di inja mineshinad. Istgah-e `P` vasat ast: rena-ye nagheli ke zanjire-ye dar hal-e sakht ra negah dashte injast. Istgah-e `E` dar khorooji ast: rena-ye naghel-e khali az inja biroon miravad (azmoon-haye Khordad 1396 va Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "        large subunit\n   +-------+-------+-------+\n   |   E   |   P   |   A   |\n   | exit  | hold  |  new  |\n   +-------+-------+-------+\n 5'-...--GCU--UUU--GGC--...-3'\n        small subunit + mRNA\n   ribosome moves  ------>  3'",
+     "caption": {
+      "fa": "سه جایگاه رناتن: `A` ورود رنای ناقل تازه، `P` نگه‌داشتن زنجیره، `E` خروج رنای ناقل خالی. رناتن به سمت `3′` رنای پیک حرکت می‌کند.",
+      "en": "The three ribosome sites: `A` for the incoming tRNA, `P` holding the chain, `E` for the empty tRNA to exit. The ribosome moves towards the `3′` end of the mRNA.",
+      "tr": "Se jaygah-e renatan: `A` vorood-e rena-ye naghel-e taze, `P` negah-dashtan-e zanjire, `E` khorooj-e rena-ye naghel-e khali. Renatan be samt-e `3′`-e rena-ye peyk harekat mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آغاز، طویل شدن، پایان",
+      "en": "Initiation, elongation, termination",
+      "tr": "Aghaz, tavil shodan, payan"
+     },
+     "body": {
+      "fa": "ترجمه سه مرحله دارد. «آغاز»: زیرواحد کوچک روی رنای پیک می‌نشیند، رمزهٔ `AUG` را پیدا می‌کند، رنای ناقل آغازگر با متیونین در جایگاه `P` قرار می‌گیرد و زیرواحد بزرگ اضافه می‌شود. «طویل شدن»: یک چرخهٔ تکراری است که در شکل بعد می‌بینی. پیوند میان آمینواسیدها «پپتیدی» است (آزمون دی ۱۳۹۹) و آن را رنای رِناتنی زیرواحد بزرگ می‌سازد، نه یک پروتئین (آزمون خرداد ۱۴۰۱). «پایان»: وقتی رمزهٔ پایان به جایگاه `A` برسد، عامل آزادکننده وارد می‌شود، زنجیره آزاد می‌شود و دو زیرواحد از هم جدا می‌شوند.",
+      "en": "Translation has three stages. \"Initiation\": the small subunit sits on the mRNA and finds the `AUG` codon, the initiator tRNA with methionine takes the `P` site, and the large subunit joins. \"Elongation\": a repeating cycle, shown in the next figure. The bond between amino acids is a \"peptide\" bond (Dey 1399 paper), and it is made by the ribosomal RNA of the large subunit, not by a protein (Khordad 1401 paper). \"Termination\": when a stop codon reaches the `A` site, a release factor enters, the chain is released and the two subunits separate.",
+      "tr": "Tarjome se marhale darad. \"Aghaz\": zirvahed-e koochak rooye rena-ye peyk mineshinad, ramze-ye `AUG` ra peyda mikonad, rena-ye naghel-e aghazgar ba metionin dar jaygah-e `P` gharar migirad va zirvahed-e bozorg ezafe mishavad. \"Tavil shodan\": yek charkhe-ye tekrari ast ke dar shekl-e ba'd mibini. Peyvand-e miyan-e amino-asid-ha \"peptidi\" ast (azmoon-e Dey 1399) va an ra rena-ye renatani-ye zirvahed-e bozorg misazad, na yek protein (azmoon-e Khordad 1401). \"Payan\": vaghti ramze-ye payan be jaygah-e `A` beresad, amel-e azad-konande vared mishavad, zanjire azad mishavad va do zirvahed az ham joda mishavand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " elongation cycle\n 1. new tRNA enters site A\n 2. peptide bond: the chain moves\n    from the P-tRNA to the A-tRNA\n 3. ribosome slides one codon:\n    A -> P ,  P -> E\n 4. empty tRNA leaves from E\n repeat ... until a stop codon\n reaches A -> release factor",
+     "caption": {
+      "fa": "چرخهٔ طویل شدن: ورود به `A`، پیوند پپتیدی، جابه‌جایی یک رمزه، خروج از `E`.",
+      "en": "The elongation cycle: entry at `A`, peptide bond, a one-codon shift, exit from `E`.",
+      "tr": "Charkhe-ye tavil shodan: vorood be `A`، peyvand-e peptidi, jabejayi-ye yek ramze, khorooj az `E`."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رنای ناقل خالی از کدام جایگاه خارج می‌شود؟",
+      "en": "Warm-up: from which site does the empty tRNA leave?",
+      "tr": "Garm kardan: rena-ye naghel-e khali az kodam jaygah kharej mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ترتیب ایستگاه‌ها را از ورودی به خروجی بگو: `A` ورود، `P` نگه‌داشتن، `E` خروج. حرف `E` را با «اگزیت»، یعنی خروج، به یاد بسپار.",
+        "en": "Say the stations from entrance to exit: `A` in, `P` hold, `E` out. Remember `E` as \"exit\".",
+        "tr": "Tartib-e istgah-ha ra az voroodi be khorooji begoo: `A` vorood, `P` negah-dashtan, `E` khorooj. Harf-e `E` ra ba \"exit\", ya'ni khorooj, be yad besepar."
+       },
+       "math": "A → P → E"
+      }
+     ],
+     "answer": {
+      "fa": "جایگاه `E`",
+      "en": "The `E` site",
+      "tr": "Jaygah-e `E`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش جایگاه‌های `A`، `P` و `E` را در مرحلهٔ طویل شدن شرح بده. (آزمون خرداد ۱۳۹۶)",
+      "en": "Textbook and exam: describe the roles of the `A`, `P` and `E` sites during elongation. (Khordad 1396 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e jaygah-haye `A`، `P` va `E` ra dar marhale-ye tavil shodan sharh bede. (azmoon-e Khordad 1396)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید پاسخ سه بخش دارد، پس سه جملهٔ جدا بنویس، یکی برای هر جایگاه. اول `P`: رنای ناقل حامل زنجیرهٔ در حال رشد را نگه می‌دارد.",
+        "en": "The key has three parts, so write three separate sentences, one per site. First `P`: it holds the tRNA carrying the growing chain.",
+        "tr": "Kelid-e pasokh se bakhsh darad, pas se jomle-ye joda benevis, yeki baraye har jaygah. Avval `P`: rena-ye naghel-e hamel-e zanjire-ye dar hal-e roshd ra negah midarad."
+       }
+      },
+      {
+       "text": {
+        "fa": "بعد `A`: رنای ناقل تازه را که آمینواسید بعدی را دارد می‌پذیرد.",
+        "en": "Then `A`: it receives the new tRNA carrying the next amino acid.",
+        "tr": "Ba'd `A`: rena-ye naghel-e taze ra ke amino-asid-e ba'di ra darad mipazirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "آخر `E`: محل خروج رنای ناقل بدون آمینواسید است.",
+        "en": "Last `E`: the exit for the tRNA without an amino acid.",
+        "tr": "Akhar `E`: mahall-e khorooj-e rena-ye naghel-e bedoon-e amino-asid ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`P` نگه‌داشتن زنجیره، `A` پذیرش رنای ناقل تازه، `E` خروج رنای ناقل خالی",
+      "en": "`P` holds the chain, `A` receives the new tRNA, `E` is the exit for the empty tRNA",
+      "tr": "`P` negah-dashtan-e zanjire, `A` paziresh-e rena-ye naghel-e taze, `E` khorooj-e rena-ye naghel-e khali"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پروتئینی ۱۰۰ آمینواسید دارد. چند پیوند پپتیدی، چند رمزه (با رمزهٔ پایان) و چند نوکلئوتید در بخش رمزدار رنای پیک؟",
+      "en": "Exam twist: a protein has 100 amino acids. How many peptide bonds, how many codons (with the stop codon), and how many nucleotides in the coding part of the mRNA?",
+      "tr": "Pich-e emtehani: proteini 100 amino-asid darad. Chand peyvand-e peptidi, chand ramze (ba ramze-ye payan) va chand nukleotid dar bakhsh-e ramzdar-e rena-ye peyk?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیوند بین دو مهره است. در یک گردنبند باز با ۱۰۰ مهره، ۹۹ فاصله هست.",
+        "en": "A bond sits between two beads. An open necklace of 100 beads has 99 gaps.",
+        "tr": "Peyvand beyn-e do mohre ast. Dar yek gardanband-e baz ba 100 mohre, 99 fasele hast."
+       },
+       "math": "100 − 1 = 99"
+      },
+      {
+       "text": {
+        "fa": "هر آمینواسید یک رمزه دارد و یک رمزهٔ پایان هم در آخر هست که آمینواسید ندارد.",
+        "en": "Each amino acid has one codon, and there is also one stop codon at the end with no amino acid.",
+        "tr": "Har amino-asid yek ramze darad va yek ramze-ye payan ham dar akhar hast ke amino-asid nadarad."
+       },
+       "math": "100 + 1 = 101"
+      },
+      {
+       "text": {
+        "fa": "هر رمزه سه نوکلئوتید است.",
+        "en": "Each codon is three nucleotides.",
+        "tr": "Har ramze se nukleotid ast."
+       },
+       "math": "101 × 3 = 303"
+      }
+     ],
+     "answer": {
+      "fa": "۹۹ پیوند پپتیدی، ۱۰۱ رمزه، ۳۰۳ نوکلئوتید",
+      "en": "99 peptide bonds, 101 codons, 303 nucleotides",
+      "tr": "99 peyvand-e peptidi, 101 ramze, 303 nukleotid"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رنای ناقل آغازگر مستقیم در جایگاه `P` می‌نشیند، نه `A`. فقط رنای ناقل‌های بعدی از `A` وارد می‌شوند.",
+      "en": "The initiator tRNA goes straight into the `P` site, not `A`. Only the later tRNAs enter at `A`.",
+      "tr": "Rena-ye naghel-e aghazgar mostaghim dar jaygah-e `P` mineshinad, na `A`. Faghat rena-ye naghel-haye ba'di az `A` vared mishavand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیوند پپتیدی را «رنای رِناتنی» زیرواحد بزرگ می‌سازد، یعنی یک رنای آنزیمی. اگر بنویسی «یک آنزیم پروتئینی» نمره نمی‌گیری (آزمون خرداد ۱۴۰۱).",
+      "en": "The peptide bond is made by the \"ribosomal RNA\" of the large subunit, an RNA enzyme. If you write \"a protein enzyme\" you lose the mark (Khordad 1401 paper).",
+      "tr": "Peyvand-e peptidi ra \"rena-ye renatani\"-ye zirvahed-e bozorg misazad, ya'ni yek rena-ye anzimi. Agar benevisi \"yek anzim-e proteini\" nomre nemigiri (azmoon-e Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1396-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1399-Dey",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 5,
+   "key": "bio-2-regulation",
+   "title": {
+    "fa": "تنظیم بیان ژن: اپران لک",
+    "en": "Regulating gene expression: the lac operon",
+    "tr": "Tanzim-e bayan-e zhen: operon-e lak"
+   },
+   "summary": {
+    "fa": "کارخانه فقط چیزی را می‌سازد که لازم دارد.",
+    "en": "The factory only makes what it needs.",
+    "tr": "Karkhane faghat chizi ra misazad ke lazem darad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: فقط چیزی را بساز که لازم است",
+      "en": "Understand first: only make what is needed",
+      "tr": "Avval befahm: faghat chizi ra besaz ke lazem ast"
+     },
+     "body": {
+      "fa": "هیچ کارخانهٔ عاقلی محصولی را که کسی نمی‌خواهد نمی‌سازد؛ هزینه دارد. باکتری اشرشیا کلای هم همین‌طور است. آنزیم‌های تجزیهٔ قند لاکتوز فقط وقتی به‌درد می‌خورند که لاکتوز باشد. پس ژن‌های این آنزیم‌ها یک کلید خاموش و روشن دارند. سه ژن ساختاری پشت سر هم، با یک راه‌انداز و یک «اپراتور» جلویشان، روی هم یک «اپران» می‌سازند. اپراتور مثل دروازه‌ای بین راه‌انداز و ژن‌هاست.",
+      "en": "No sensible factory makes a product nobody wants; it costs money. The bacterium E. coli is the same. The enzymes that break down the sugar lactose are only useful when lactose is around. So the genes for these enzymes have an on/off switch. Three structural genes in a row, with a promoter and an \"operator\" in front of them, together make an \"operon\". The operator is like a gate between the promoter and the genes.",
+      "tr": "Hich karkhane-ye agheli mahsooli ra ke kasi nemikhahad nemisazad; hazine darad. Bakteri-ye Esherishia koli ham hamin-towr ast. Anzim-haye tajziye-ye ghand-e laktoz faghat vaghti be-dard mikhorand ke laktoz bashad. Pas zhen-haye in anzim-ha yek kelid-e khamoosh va roshan darand. Se zhen-e sakhtari posht-e sar-e ham, ba yek rah-andaz va yek \"operator\" jelo-yeshan, rooye ham yek \"operon\" misazand. Operator mesl-e darvaze-i beyn-e rah-andaz va zhen-hast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " NO LACTOSE  (switch OFF)\n [promoter][operator][genes Z Y A]\n              ####\n           repressor sits on\n           the gate: RNA\n           polymerase is blocked",
+     "caption": {
+      "fa": "بدون لاکتوز: پروتئین مهارکننده روی اپراتور نشسته و راه رنابسپاراز را بسته است؛ ژن‌ها رونویسی نمی‌شوند.",
+      "en": "Without lactose: the repressor protein sits on the operator and blocks RNA polymerase; the genes are not transcribed.",
+      "tr": "Bedoon-e laktoz: protein-e mahar-konande rooye operator neshaste va rah-e rena-basparaz ra baste ast; zhen-ha ronevisi nemishavand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "روشن شدن کلید",
+      "en": "Turning the switch on",
+      "tr": "Roshan shodan-e kelid"
+     },
+     "body": {
+      "fa": "وقتی لاکتوز می‌رسد، شکل تغییریافته‌اش (آلولاکتوز) به پروتئین مهارکننده می‌چسبد. شکل مهارکننده عوض می‌شود و دیگر نمی‌تواند روی اپراتور بماند، پس جدا می‌شود (آزمون دی ۱۴۰۰). دروازه باز است: رنابسپاراز از راه‌انداز رد می‌شود و ژن‌های ساختاری را رونویسی می‌کند (آزمون خرداد ۱۴۰۱). وقتی لاکتوز تمام شود، مهارکننده دوباره به اپراتور می‌چسبد و کارخانه خاموش می‌شود. چون این کلید با «برداشتن مهار» روشن می‌شود، به آن تنظیم منفی می‌گویند.",
+      "en": "When lactose arrives, its altered form (allolactose) binds to the repressor protein. The repressor changes shape and can no longer stay on the operator, so it leaves (Dey 1400 paper). The gate is open: RNA polymerase passes the promoter and transcribes the structural genes (Khordad 1401 paper). When the lactose runs out, the repressor binds to the operator again and the factory switches off. Because this switch turns on by \"removing a block\", it is called negative regulation.",
+      "tr": "Vaghti laktoz miresad, shekl-e taghir-yafte-ash (allolaktoz) be protein-e mahar-konande michasbad. Shekl-e mahar-konande avaz mishavad va digar nemitavanad rooye operator bemanad, pas joda mishavad (azmoon-e Dey 1400). Darvaze baz ast: rena-basparaz az rah-andaz rad mishavad va zhen-haye sakhtari ra ronevisi mikonad (azmoon-e Khordad 1401). Vaghti laktoz tamam shavad, mahar-konande dobare be operator michasbad va karkhane khamoosh mishavad. Chon in kelid ba \"bardashtan-e mahar\" roshan mishavad, be an tanzim-e manfi migooyand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " LACTOSE PRESENT  (switch ON)\n allolactose + repressor\n   -> shape change -> it leaves\n [promoter][operator][genes Z Y A]\n  polymerase =========> RNA",
+     "caption": {
+      "fa": "با لاکتوز: آلولاکتوز به مهارکننده می‌چسبد، مهارکننده اپراتور را رها می‌کند و ژن‌ها رونویسی می‌شوند.",
+      "en": "With lactose: allolactose binds the repressor, the repressor lets go of the operator and the genes are transcribed.",
+      "tr": "Ba laktoz: allolaktoz be mahar-konande michasbad, mahar-konande operator ra raha mikonad va zhen-ha ronevisi mishavand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "یوکاریوت‌ها: عوامل رونویسی و افزاینده",
+      "en": "Eukaryotes: transcription factors and enhancers",
+      "tr": "Yukaryot-ha: avamel-e ronevisi va afzayande"
+     },
+     "body": {
+      "fa": "در یاخته‌های یوکاریوتی، رنابسپاراز به‌تنهایی راه‌انداز را نمی‌شناسد و به پروتئین‌های کمکی به نام «عوامل رونویسی» نیاز دارد. بعضی از این عوامل به توالی‌هایی به نام «افزاینده» می‌چسبند که می‌توانند از ژن دور باشند؛ دنا خم می‌شود تا افزاینده به راه‌انداز نزدیک شود و رونویسی سریع‌تر شود. عوامل رونویسی بسته به نوعشان رونویسی را آسان یا مهار می‌کنند (آزمون دی ۱۴۰۱).",
+      "en": "In eukaryotic cells, RNA polymerase cannot recognise the promoter on its own and needs helper proteins called \"transcription factors\". Some of these factors bind to sequences called \"enhancers\", which can be far from the gene; the DNA bends so the enhancer comes close to the promoter and transcription speeds up. Depending on their type, transcription factors help or block transcription (Dey 1401 paper).",
+      "tr": "Dar yakhte-haye yukaryoti, rena-basparaz be-tanhayi rah-andaz ra nemishenasad va be protein-haye komaki be nam-e \"avamel-e ronevisi\" niyaz darad. Ba'zi az in avamel be tavali-hayi be nam-e \"afzayande\" michasband ke mitavanand az zhen door bashand; dena kham mishavad ta afzayande be rah-andaz nazdik shavad va ronevisi sari'-tar shavad. Avamel-e ronevisi baste be no'eshan ronevisi ra asan ya mahar mikonand (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   enhancer\n  ==[ E ]==\\\n            \\  DNA bends\n   factor -> )  into a loop\n            /\n  ==[promoter]==[gene]==>\n     ^ polymerase + factors",
+     "caption": {
+      "fa": "دنا حلقه می‌زند تا عامل رونویسیِ روی افزاینده به رنابسپاراز روی راه‌انداز برسد.",
+      "en": "The DNA loops so the transcription factor on the enhancer reaches RNA polymerase at the promoter.",
+      "tr": "Dena halghe mizanad ta amel-e ronevisi-ye rooye afzayande be rena-basparaz rooye rah-andaz beresad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر لاکتوز نباشد، مهارکننده کجاست؟",
+      "en": "Warm-up: if there is no lactose, where is the repressor?",
+      "tr": "Garm kardan: agar laktoz nabashad, mahar-konande kojast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس: باکتری الان به آنزیم‌های لاکتوز نیاز دارد؟ نه. پس کلید باید خاموش باشد، یعنی مهارکننده روی دروازه است.",
+        "en": "Ask: does the bacterium need the lactose enzymes right now? No. So the switch must be off: the repressor is on the gate.",
+        "tr": "Bepors: bakteri alan be anzim-haye laktoz niyaz darad? Na. Pas kelid bayad khamoosh bashad, ya'ni mahar-konande rooye darvaze ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "روی اپراتور، و راه رنابسپاراز را بسته است",
+      "en": "On the operator, blocking RNA polymerase",
+      "tr": "Rooye operator, va rah-e rena-basparaz ra baste ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: سازوکار اپران لک را در حضور لاکتوز شرح بده. (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: describe how the lac operon works when lactose is present. (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: sazokar-e operon-e lak ra dar hozoor-e laktoz sharh bede. (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید پاسخ دو نیم‌نمره دارد. نیم‌نمرهٔ اول، علت: آلولاکتوز به مهارکننده می‌چسبد و شکل آن را عوض می‌کند، پس از اپراتور جدا می‌شود.",
+        "en": "The key has two half marks. First half mark, the cause: allolactose binds the repressor and changes its shape, so it leaves the operator.",
+        "tr": "Kelid-e pasokh do nim-nomre darad. Nim-nomre-ye avval, ellat: allolaktoz be mahar-konande michasbad va shekl-e an ra avaz mikonad, pas az operator joda mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، نتیجه: راه رنابسپاراز باز می‌شود و ژن‌های ساختاری رونویسی می‌شوند. هر دو بخش را بنویس؛ فقط یکی نصف نمره است.",
+        "en": "Second half mark, the result: the path of RNA polymerase opens and the structural genes are transcribed. Write both parts; only one is half the mark.",
+        "tr": "Nim-nomre-ye dovvom, natije: rah-e rena-basparaz baz mishavad va zhen-haye sakhtari ronevisi mishavand. Har do bakhsh ra benevis; faghat yeki nesf-e nomre ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آلولاکتوز + مهارکننده ← جدا شدن از اپراتور ← رونویسی ژن‌های ساختاری",
+      "en": "Allolactose + repressor → it leaves the operator → the structural genes are transcribed",
+      "tr": "Allolaktoz + mahar-konande → joda shodan az operator → ronevisi-ye zhen-haye sakhtari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در یک باکتری جهش‌یافته، مهارکننده دیگر نمی‌تواند به اپراتور بچسبد. بدون لاکتوز چه می‌شود؟",
+      "en": "Exam twist: in a mutant bacterium the repressor can no longer bind to the operator. What happens without lactose?",
+      "tr": "Pich-e emtehani: dar yek bakteri-ye jahesh-yafte, mahar-konande digar nemitavanad be operator bechasbad. Bedoon-e laktoz che mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: کلید خاموش‌کردن کار مهارکننده بود. اگر نتواند روی دروازه بنشیند، کسی دروازه را نمی‌بندد.",
+        "en": "The twist: switching off was the repressor's job. If it cannot sit on the gate, nobody closes the gate.",
+        "tr": "Pich-e emtehan: kelid-e khamoosh-kardan kar-e mahar-konande bood. Agar natavanad rooye darvaze beneshinad, kasi darvaze ra nemibandad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس رنابسپاراز همیشه رد می‌شود و ژن‌ها همیشه رونویسی می‌شوند، حتی بدون لاکتوز. این برای باکتری اسراف انرژی است.",
+        "en": "So RNA polymerase always gets through and the genes are always transcribed, even without lactose. That wastes the bacterium's energy.",
+        "tr": "Pas rena-basparaz hamishe rad mishavad va zhen-ha hamishe ronevisi mishavand, hatta bedoon-e laktoz. In baraye bakteri esraf-e enerzhi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ژن‌ها همیشه روشن می‌مانند",
+      "en": "The genes stay switched on all the time",
+      "tr": "Zhen-ha hamishe roshan mimanand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "لاکتوز به «مهارکننده» می‌چسبد، نه به اپراتور و نه به رنابسپاراز (آزمون دی ۱۴۰۰). مهارکننده است که به اپراتور می‌چسبد.",
+      "en": "Lactose binds to the \"repressor\", not to the operator and not to RNA polymerase (Dey 1400 paper). It is the repressor that binds the operator.",
+      "tr": "Laktoz be \"mahar-konande\" michasbad, na be operator va na be rena-basparaz (azmoon-e Dey 1400). Mahar-konande ast ke be operator michasbad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "راه‌انداز جای نشستن رنابسپاراز است و اپراتور جای نشستن مهارکننده. این دو را قاطی نکن.",
+      "en": "The promoter is where RNA polymerase sits and the operator is where the repressor sits. Do not mix them up.",
+      "tr": "Rah-andaz ja-ye neshastan-e rena-basparaz ast va operator ja-ye neshastan-e mahar-konande. In do ra ghati nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1400-Dey",
+     "number": 947
+    },
+    {
+     "session": "1401-Dey",
+     "number": 948
+    }
+   ]
+  }
+ ]
+}
