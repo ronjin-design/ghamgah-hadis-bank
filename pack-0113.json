@@ -1,0 +1,1262 @@
+{
+ "version": 113,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 3,
+   "unit": 1,
+   "key": "bio-3-mendel",
+   "title": {
+    "fa": "مفاهیم پایه و آمیزش یک‌صفتی",
+    "en": "Basic concepts and one-gene crosses",
+    "tr": "Mafahim-e paye va amizesh-e yek-sefati"
+   },
+   "summary": {
+    "fa": "هر والد از دو کارتش یکی را بُر می‌زند و می‌دهد.",
+    "en": "Each parent shuffles their two cards and deals one.",
+    "tr": "Har valed az do kartash yeki ra bor mizanad va midahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو دسته کارت",
+      "en": "Understand first: two decks of cards",
+      "tr": "Avval befahm: do daste kart"
+     },
+     "body": {
+      "fa": "برای هر صفت، تو دو کارت داری: یکی از مادرت و یکی از پدرت. این کارت‌ها شکل‌های مختلف یک ژن‌اند و به آن‌ها «دگره» می‌گوییم (آزمون دی ۱۳۹۸). هر دو کارت در یک جای مشخص روی دو کروموزوم همتا نشسته‌اند؛ این جای ثابت «جایگاه ژنی» نام دارد (آزمون خرداد ۱۴۰۰). وقتی بچه‌دار می‌شوی، دو کارتت را بُر می‌زنی و فقط یکی را، کاملاً تصادفی، به هر فرزند می‌دهی. همسرت هم همین کار را می‌کند. پس هر فرزند دوباره دو کارت دارد: یکی از هر والد.",
+      "en": "For each trait you hold two cards: one from your mother and one from your father. These cards are different forms of one gene, and we call them \"alleles\" (Dey 1398 paper). Both cards sit at one exact place on the two homologous chromosomes; this fixed place is called the \"locus\" (Khordad 1400 paper). When you have a child, you shuffle your two cards and give just one, completely at random, to each child. Your partner does the same. So every child again holds two cards: one from each parent.",
+      "tr": "Baraye har sefat, to do kart dari: yeki az madarat va yeki az pedarat. In kart-ha shekl-haye mokhtalef-e yek zhen-and va be an-ha \"degare\" migooyim (azmoon-e Dey 1398). Har do kart dar yek ja-ye moshakhkhas rooye do kromozom-e hamta neshaste-and; in ja-ye sabet \"jaygah-e zheni\" nam darad (azmoon-e Khordad 1400). Vaghti bachche-dar mishavi, do kartat ra bor mizani va faghat yeki ra, kamelan tasadofi, be har farzand midahi. Hamsarat ham hamin kar ra mikonad. Pas har farzand dobare do kart darad: yeki az har valed."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ژن‌نمود و رخ‌نمود",
+      "en": "Genotype and phenotype",
+      "tr": "Zhen-namood va rokh-namood"
+     },
+     "body": {
+      "fa": "اگر دو کارت یکسان باشند (`AA` یا `aa`) فرد «خالص» است و اگر متفاوت باشند (`Aa`) «ناخالص». ترکیب کارت‌ها «ژن‌نمود» است و چیزی که دیده می‌شود «رخ‌نمود». در بارزیت کامل، کارت بارز (`A`) کارت نهفته (`a`) را کاملاً می‌پوشاند، مثل نور چراغ قوه که نور شمع را در روز محو می‌کند. پس `AA` و `Aa` یک رخ‌نمود دارند و فقط `aa` رخ‌نمود نهفته را نشان می‌دهد.",
+      "en": "If the two cards are the same (`AA` or `aa`) the individual is \"homozygous\", and if they differ (`Aa`) \"heterozygous\". The pair of cards is the \"genotype\", and what you can see is the \"phenotype\". With complete dominance, the dominant card (`A`) completely hides the recessive card (`a`), like a torch that makes a candle's light disappear in daylight. So `AA` and `Aa` have the same phenotype, and only `aa` shows the recessive phenotype.",
+      "tr": "Agar do kart yeksan bashand (`AA` ya `aa`) fard \"khales\" ast va agar motafavet bashand (`Aa`) \"nakhales\". Tarkib-e kart-ha \"zhen-namood\" ast va chizi ke dide mishavad \"rokh-namood\". Dar barezit-e kamel, kart-e barez (`A`) kart-e nahofte (`a`) ra kamelan mipooshanad, mesl-e noor-e cheragh-ghove ke noor-e sham' ra dar rooz mahv mikonad. Pas `AA` va `Aa` yek rokh-namood darand va faghat `aa` rokh-namood-e nahofte ra neshan midahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "              father  Aa\n              A        a\n          +--------+--------+\n        A |   AA   |   Aa   |\n mother   +--------+--------+\n  Aa    a |   Aa   |   aa   |\n          +--------+--------+",
+     "caption": {
+      "fa": "جدول پانت برای `Aa × Aa`: کارت‌های هر والد در یک لبه، و هر خانه یک فرزند ممکن با احتمال یک‌چهارم.",
+      "en": "The Punnett square for `Aa × Aa`: each parent's cards along one edge, and each box is one possible child with a chance of one quarter.",
+      "tr": "Jadval-e Punnett baraye `Aa × Aa`: kart-haye har valed dar yek labe, va har khane yek farzand-e momken ba ehtemal-e yek-chaharom."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "AA : Aa : aa = 1 : 2 : 1 ,   3 : 1",
+     "caption": {
+      "fa": "نسبت ژن‌نمودی ۱:۲:۱ و نسبت رخ‌نمودی ۳:۱ (آزمون‌های دی ۱۴۰۱ و خرداد ۱۴۰۰)",
+      "en": "Genotype ratio 1:2:1 and phenotype ratio 3:1 (Dey 1401 and Khordad 1400 papers)",
+      "tr": "Nesbat-e zhen-namoodi 1:2:1 va nesbat-e rokh-namoodi 3:1 (azmoon-haye Dey 1401 va Khordad 1400)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آمیزش آزمون: کارت پنهان را رو کن",
+      "en": "The testcross: reveal the hidden card",
+      "tr": "Amizesh-e azmoon: kart-e penhan ra roo kon"
+     },
+     "body": {
+      "fa": "یک مشکل: فردی با رخ‌نمود بارز ممکن است `AA` باشد یا `Aa`؛ از ظاهرش نمی‌فهمیم. راه حل «آمیزش آزمون» است (آزمون دی ۱۴۰۱): او را با یک فرد خالص نهفته (`aa`) آمیزش می‌دهیم. فرد `aa` فقط کارت `a` دارد، پس هر فرزند کارت دوم را مستقیم از فرد ناشناس نشان می‌دهد. اگر حتی یک فرزند نهفته ظاهر شود، فرد ناشناس حتماً یک `a` داشته، یعنی `Aa` بوده است.",
+      "en": "A problem: someone with the dominant phenotype could be `AA` or `Aa`; we cannot tell by looking. The solution is the \"testcross\" (Dey 1401 paper): we cross them with a homozygous recessive individual (`aa`). The `aa` partner only has `a` cards, so each child's other card shows us directly what the unknown parent gave. If even one recessive child appears, the unknown parent must have had an `a`, so they were `Aa`.",
+      "tr": "Yek moshkel: fardi ba rokh-namood-e barez momken ast `AA` bashad ya `Aa`; az zaherash nemifahmim. Rah-e hal \"amizesh-e azmoon\" ast (azmoon-e Dey 1401): oo ra ba yek fard-e khales-e nahofte (`aa`) amizesh midahim. Fard-e `aa` faghat kart-e `a` darad, pas har farzand kart-e dovvom ra mostaghim az fard-e nashenas neshan midahad. Agar hatta yek farzand-e nahofte zaher shavad, fard-e nashenas hatman yek `a` dashte, ya'ni `Aa` boode ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " unknown x aa  ->  children\n AA      x aa  ->  all Aa\n                   (all dominant)\n Aa      x aa  ->  1/2 Aa : 1/2 aa\n                   (some recessive)",
+     "caption": {
+      "fa": "در آمیزش آزمون، ظاهر شدن حتی یک فرزند نهفته یعنی والد ناشناس ناخالص بوده است.",
+      "en": "In a testcross, even one recessive child means the unknown parent was heterozygous.",
+      "tr": "Dar amizesh-e azmoon, zaher shodan-e hatta yek farzand-e nahofte ya'ni valed-e nashenas nakhales boode ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: `AA × aa`: فرزندان چه ژن‌نمودی دارند؟",
+      "en": "Warm-up: `AA × aa`: what genotype do the children have?",
+      "tr": "Garm kardan: `AA × aa`: farzandan che zhen-namoodi darand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کارت‌های هر والد را بنویس. چرا؟ چون هر فرزند دقیقاً یکی از هر طرف می‌گیرد.",
+        "en": "Write each parent's cards. Why? Because each child gets exactly one from each side.",
+        "tr": "Kart-haye har valed ra benevis. Chera? Chon har farzand daghighan yeki az har taraf migirad."
+       },
+       "math": "A , A    ×    a , a"
+      },
+      {
+       "text": {
+        "fa": "فقط یک ترکیب ممکن است: `A` از یکی و `a` از دیگری.",
+        "en": "Only one combination is possible: `A` from one and `a` from the other.",
+        "tr": "Faghat yek tarkib momken ast: `A` az yeki va `a` az digari."
+       },
+       "math": "A + a = Aa"
+      }
+     ],
+     "answer": {
+      "fa": "همه `Aa` (ناخالص) با رخ‌نمود بارز",
+      "en": "All `Aa` (heterozygous) with the dominant phenotype",
+      "tr": "Hame `Aa` (nakhales) ba rokh-namood-e barez"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: از آمیزش دو فرد ناخالص، نسبت ژن‌نمودی و رخ‌نمودی را به‌دست آور. (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: from a cross of two heterozygous individuals, find the genotype and phenotype ratios. (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: az amizesh-e do fard-e nakhales, nesbat-e zhen-namoodi va rokh-namoodi ra be-dast avar. (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول برای جدول پانت است، پس جدول را بکش. هر والد `A` یا `a` می‌دهد، هر کدام با احتمال نصف.",
+        "en": "The first half mark is for the Punnett square, so draw it. Each parent gives `A` or `a`, each with a chance of one half.",
+        "tr": "Nim-nomre-ye avval baraye jadval-e Punnett ast, pas jadval ra bekesh. Har valed `A` ya `a` midahad, har kodam ba ehtemal-e nesf."
+       },
+       "math": "AA , Aa , aA , aa"
+      },
+      {
+       "text": {
+        "fa": "`Aa` و `aA` یکی‌اند، پس دو خانه دارند.",
+        "en": "`Aa` and `aA` are the same, so they fill two boxes.",
+        "tr": "`Aa` va `aA` yeki-and, pas do khane darand."
+       },
+       "math": "AA : Aa : aa = 1 : 2 : 1"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم برای رخ‌نمود است. `AA` و `Aa` هر دو بارز دیده می‌شوند.",
+        "en": "The second half mark is for the phenotype. `AA` and `Aa` both look dominant.",
+        "tr": "Nim-nomre-ye dovvom baraye rokh-namood ast. `AA` va `Aa` har do barez dide mishavand."
+       },
+       "math": "(1 + 2) : 1 = 3 : 1"
+      }
+     ],
+     "answer": {
+      "fa": "ژن‌نمودی ۱:۲:۱، رخ‌نمودی ۳:۱",
+      "en": "Genotypes 1:2:1, phenotypes 3:1",
+      "tr": "Zhen-namoodi 1:2:1، rokh-namoodi 3:1"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: دو صفت مستقل: احتمال اینکه فرزند `AaBb × AaBb` هر دو صفت نهفته را نشان دهد؟",
+      "en": "Exam twist: two independent traits: what is the chance that a child of `AaBb × AaBb` shows both recessive traits?",
+      "tr": "Pich-e emtehani: do sefat-e mostaghel: ehtemal-e inke farzand-e `AaBb × AaBb` har do sefat-e nahofte ra neshan dahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: لازم نیست جدول ۱۶ خانه‌ای بکشی. چون ژن‌ها مستقل‌اند، هر صفت را جدا حل کن، مثل دو بُر زدن جداگانه.",
+        "en": "The twist: you do not need a 16-box square. Because the genes are independent, solve each trait separately, like two separate shuffles.",
+        "tr": "Pich-e emtehan: lazem nist jadval-e 16 khane-i bekeshi. Chon zhen-ha mostaghel-and, har sefat ra joda hal kon, mesl-e do bor zadan-e jodagane."
+       },
+       "math": "P(aa) = 1/4 ,   P(bb) = 1/4"
+      },
+      {
+       "text": {
+        "fa": "برای «هر دو با هم»، احتمال‌ها را ضرب کن (قانون ضرب).",
+        "en": "For \"both together\", multiply the chances (the product rule).",
+        "tr": "Baraye \"har do ba ham\"، ehtemal-ha ra zarb kon (ghanoon-e zarb)."
+       },
+       "math": "1/4 × 1/4 = 1/16"
+      }
+     ],
+     "answer": {
+      "fa": "یک‌شانزدهم",
+      "en": "One sixteenth",
+      "tr": "Yek-shanzdahom"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نسبت ژن‌نمودی (۱:۲:۱) را با نسبت رخ‌نمودی (۳:۱) قاطی نکن. سؤال را دوباره بخوان: کدام را خواسته است؟",
+      "en": "Do not mix up the genotype ratio (1:2:1) with the phenotype ratio (3:1). Read the question again: which one does it ask for?",
+      "tr": "Nesbat-e zhen-namoodi (1:2:1) ra ba nesbat-e rokh-namoodi (3:1) ghati nakon. So'al ra dobare bekhan: kodam ra khaste ast?"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دگره یعنی «شکل» یک ژن؛ جایگاه ژنی یعنی «جای» آن روی کروموزوم. این دو تعریف را جابه‌جا ننویس.",
+      "en": "An allele is a \"form\" of a gene; the locus is its \"place\" on the chromosome. Do not swap the two definitions.",
+      "tr": "Degare ya'ni \"shekl\"-e yek zhen; jaygah-e zheni ya'ni \"ja\"-ye an rooye kromozom. In do ta'rif ra jabeja nanevis."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Dey",
+     "number": 911
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 0
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 905
+    },
+    {
+     "session": "1401-Dey",
+     "number": 950
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 3,
+   "unit": 2,
+   "key": "bio-3-dominance-types",
+   "title": {
+    "fa": "فراتر از بارزیت کامل",
+    "en": "Beyond complete dominance",
+    "tr": "Faratar az barezit-e kamel"
+   },
+   "summary": {
+    "fa": "گاهی رنگ‌ها مخلوط می‌شوند، گاهی کنار هم می‌درخشند و گاهی ده‌ها ژن با هم کار می‌کنند.",
+    "en": "Sometimes colours blend, sometimes they shine side by side, and sometimes many genes work together.",
+    "tr": "Gahi rang-ha makhloot mishavand, gahi kenar-e ham miderakhshand va gahi dah-ha zhen ba ham kar mikonand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مخلوط رنگ‌ها",
+      "en": "Understand first: mixing paint",
+      "tr": "Avval befahm: makhloot-e rang-ha"
+     },
+     "body": {
+      "fa": "همیشه یک کارت، کارت دیگر را کامل نمی‌پوشاند. در «بارزیت ناقص» فرد ناخالص چیزی بین دو والد است، مثل مخلوط کردن رنگ قرمز و سفید که صورتی می‌دهد. نمونهٔ گیاهی گل میمونی است: قرمز × سفید ← صورتی. نمونهٔ انسانی حالت مو است: صاف × فرفری ← موج‌دار (آزمون خرداد ۱۳۹۹). چون اینجا هر ژن‌نمود رخ‌نمود خودش را دارد، از آمیزش دو ناخالص نسبت رخ‌نمودی همان ۱:۲:۱ است (آزمون خرداد ۱۳۹۹).",
+      "en": "One card does not always completely hide the other. In \"incomplete dominance\" the heterozygote is something in between the two parents, like mixing red and white paint to get pink. The plant example is the snapdragon: red × white → pink. The human example is hair texture: straight × curly → wavy (Khordad 1399 paper). Because here every genotype has its own phenotype, a cross of two heterozygotes gives a phenotype ratio of 1:2:1 (Khordad 1399 paper).",
+      "tr": "Hamishe yek kart, kart-e digar ra kamel nemipooshanad. Dar \"barezit-e naghes\" fard-e nakhales chizi beyn-e do valed ast, mesl-e makhloot kardan-e rang-e ghermez va sefid ke soorati midahad. Nemoone-ye giyahi gol-e meymooni ast: ghermez × sefid → soorati. Nemoone-ye ensani halat-e moo ast: saf × ferferi → moj-dar (azmoon-e Khordad 1399). Chon inja har zhen-namood rokh-namood-e khodash ra darad, az amizesh-e do nakhales nesbat-e rokh-namoodi haman 1:2:1 ast (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " snapdragon:  RW x RW\n           R        W\n       +--------+--------+\n     R |   RR   |   RW   |\n       |  red   |  pink  |\n       +--------+--------+\n     W |   RW   |   WW   |\n       |  pink  | white  |\n       +--------+--------+\n red : pink : white = 1 : 2 : 1",
+     "caption": {
+      "fa": "در بارزیت ناقص، فرد ناخالص صورتی است؛ پس رخ‌نمودها هم ۱:۲:۱ می‌شوند.",
+      "en": "With incomplete dominance the heterozygote is pink, so the phenotypes also come out 1:2:1.",
+      "tr": "Dar barezit-e naghes, fard-e nakhales soorati ast; pas rokh-namood-ha ham 1:2:1 mishavand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "هم‌توانی: پیراهن راه‌راه",
+      "en": "Codominance: the striped shirt",
+      "tr": "Ham-tavani: pirahan-e rah-rah"
+     },
+     "body": {
+      "fa": "در «هم‌توانی» هیچ مخلوطی در کار نیست: هر دو دگره کامل و جدا ظاهر می‌شوند، مثل پیراهن راه‌راه که هم راه قرمز دارد و هم راه سفید، نه صورتی. مثال کتاب گروه خونی `AB` است: روی گویچهٔ قرمز هم نشانهٔ `A` هست و هم نشانهٔ `B` (آزمون خرداد ۱۴۰۰).",
+      "en": "In \"codominance\" there is no blending: both alleles show fully and separately, like a striped shirt that has both red stripes and white stripes, not pink. The textbook example is blood group `AB`: the red blood cell carries both the `A` marker and the `B` marker (Khordad 1400 paper).",
+      "tr": "Dar \"ham-tavani\" hich makhlooti dar kar nist: har do degare kamel va joda zaher mishavand, mesl-e pirahan-e rah-rah ke ham rah-e ghermez darad va ham rah-e sefid, na soorati. Mesal-e ketab goroh-e khooni-ye `AB` ast: rooye goychche-ye ghermez ham neshane-ye `A` hast va ham neshane-ye `B` (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "صفت‌های چندجایگاهی: چند شیر آب",
+      "en": "Polygenic traits: several taps",
+      "tr": "Sefat-haye chand-jaygahi: chand shir-e ab"
+     },
+     "body": {
+      "fa": "بعضی صفت‌ها مثل قد یا رنگ پوست با یک ژن تعیین نمی‌شوند؛ چند ژن مستقل با هم کار می‌کنند و هر دگرهٔ «افزاینده» کمی به صفت اضافه می‌کند، مثل چند شیر آب که هر کدام کمی آب به یک سطل می‌ریزند. نتیجه، طیف پیوسته‌ای از رخ‌نمودهاست و نمودار جمعیت شکل زنگوله دارد: بیشتر افراد وسط‌اند و تعداد کمی در دو سر. به این صفت‌ها «چندجایگاهی» (چندژنی) می‌گویند (آزمون خرداد ۱۳۹۹).",
+      "en": "Some traits, like height or skin colour, are not set by one gene; several independent genes work together and each \"adding\" allele adds a little to the trait, like several taps each pouring a little water into one bucket. The result is a continuous range of phenotypes, and the population graph is bell-shaped: most people are in the middle and few are at either end. These traits are called \"polygenic\" (Khordad 1399 paper).",
+      "tr": "Ba'zi sefat-ha mesl-e ghad ya rang-e poost ba yek zhen ta'yin nemishavand; chand zhen-e mostaghel ba ham kar mikonand va har degare-ye \"afzayande\" kami be sefat ezafe mikonad, mesl-e chand shir-e ab ke har kodam kami ab be yek satl mirizand. Natije, tif-e peyvaste-i az rokh-namood-hast va nemoodar-e jam'iyat shekl-e zangoole darad: bishtar-e afrad vasat-and va te'dad-e kami dar do sar. Be in sefat-ha \"chand-jaygahi\" (chand-zheni) migooyand (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " number of     |        ###\n people        |      #######\n               |    ###########\n               |  ###############\n               +------------------\n                 short  ->  tall",
+     "caption": {
+      "fa": "توزیع زنگوله‌ای یک صفت چندجایگاهی مثل قد.",
+      "en": "The bell-shaped spread of a polygenic trait such as height.",
+      "tr": "Tozi'-e zangoole-i-ye yek sefat-e chand-jaygahi mesl-e ghad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: گل میمونی قرمز (`RR`) × سفید (`WW`): رنگ فرزندان؟",
+      "en": "Warm-up: red snapdragon (`RR`) × white (`WW`): the children's colour?",
+      "tr": "Garm kardan: gol-e meymooni-ye ghermez (`RR`) × sefid (`WW`): rang-e farzandan?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر فرزند یک `R` و یک `W` می‌گیرد.",
+        "en": "Every child gets one `R` and one `W`.",
+        "tr": "Har farzand yek `R` va yek `W` migirad."
+       },
+       "math": "RR × WW → RW"
+      },
+      {
+       "text": {
+        "fa": "در بارزیت ناقص، ناخالص حالت میانه دارد. چرا؟ چون یک دگرهٔ قرمز فقط نیمی از رنگ لازم برای قرمز کامل را می‌سازد.",
+        "en": "With incomplete dominance the heterozygote is in between. Why? Because one red allele makes only half the pigment needed for full red.",
+        "tr": "Dar barezit-e naghes, nakhales halat-e miyane darad. Chera? Chon yek degare-ye ghermez faghat nimi az rang-e lazem baraye ghermez-e kamel ra misazad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "همه صورتی",
+      "en": "All pink",
+      "tr": "Hame soorati"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: از آمیزش دو گل میمونی صورتی، نسبت رخ‌نمودها چیست؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: from a cross of two pink snapdragons, what is the phenotype ratio? (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: az amizesh-e do gol-e meymooni-ye soorati, nesbat-e rokh-namood-ha chist? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صورتی یعنی `RW`. جدول پانت را مثل همیشه بکش.",
+        "en": "Pink means `RW`. Draw the Punnett square as usual.",
+        "tr": "Soorati ya'ni `RW`. Jadval-e Punnett ra mesl-e hamishe bekesh."
+       },
+       "math": "RR : RW : WW = 1 : 2 : 1"
+      },
+      {
+       "text": {
+        "fa": "حالا فرق اصلی: هر ژن‌نمود رنگ خودش را دارد، پس نسبت رخ‌نمودی همان نسبت ژن‌نمودی است.",
+        "en": "Now the key difference: every genotype has its own colour, so the phenotype ratio is the same as the genotype ratio.",
+        "tr": "Hala fargh-e asli: har zhen-namood rang-e khodash ra darad, pas nesbat-e rokh-namoodi haman nesbat-e zhen-namoodi ast."
+       },
+       "math": "1 : 2 : 1"
+      }
+     ],
+     "answer": {
+      "fa": "قرمز : صورتی : سفید = ۱ : ۲ : ۱",
+      "en": "Red : pink : white = 1 : 2 : 1",
+      "tr": "Ghermez : soorati : sefid = 1 : 2 : 1"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در گندم سه ژن مستقل رنگ دانه را می‌سازند. `AaBbCc × AaBbCc` چند رخ‌نمود و چه احتمالی برای تیره‌ترین دانه (`AABBCC`)؟",
+      "en": "Exam twist: in wheat, three independent genes make grain colour. For `AaBbCc × AaBbCc`, how many phenotypes, and what is the chance of the darkest grain (`AABBCC`)?",
+      "tr": "Pich-e emtehani: dar gandom se zhen-e mostaghel rang-e dane ra misazand. `AaBbCc × AaBbCc` chand rokh-namood va che ehtemali baraye tire-tarin dane (`AABBCC`)?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در صفت چندجایگاهی فقط «تعداد» دگره‌های بارز مهم است، نه اینکه کدام‌اند. تعداد می‌تواند از ۰ تا ۶ باشد.",
+        "en": "The twist: in a polygenic trait only the \"number\" of dominant alleles matters, not which ones. That number can be anything from 0 to 6.",
+        "tr": "Pich-e emtehan: dar sefat-e chand-jaygahi faghat \"te'dad\"-e degare-haye barez mohem ast, na inke kodam-and. Te'dad mitavanad az 0 ta 6 bashad."
+       },
+       "math": "0, 1, 2, 3, 4, 5, 6   →   7"
+      },
+      {
+       "text": {
+        "fa": "برای تیره‌ترین، هر سه ژن باید خالص بارز باشند. ژن‌ها مستقل‌اند، پس احتمال‌ها را ضرب کن.",
+        "en": "For the darkest, all three genes must be homozygous dominant. The genes are independent, so multiply the chances.",
+        "tr": "Baraye tire-tarin, har se zhen bayad khales-e barez bashand. Zhen-ha mostaghel-and, pas ehtemal-ha ra zarb kon."
+       },
+       "math": "1/4 × 1/4 × 1/4 = 1/64"
+      }
+     ],
+     "answer": {
+      "fa": "۷ رخ‌نمود؛ احتمال تیره‌ترین یک‌شصت‌وچهارم",
+      "en": "7 phenotypes; the chance of the darkest is 1/64",
+      "tr": "7 rokh-namood; ehtemal-e tire-tarin yek-shast-o-chaharom"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بارزیت ناقص = «مخلوط» (صورتی). هم‌توانی = «هر دو کامل» (`AB`). اگر فرد ناخالص حالت میانه دارد، هم‌توانی ننویس.",
+      "en": "Incomplete dominance = \"blend\" (pink). Codominance = \"both in full\" (`AB`). If the heterozygote is in between, do not write codominance.",
+      "tr": "Barezit-e naghes = \"makhloot\" (soorati). Ham-tavani = \"har do kamel\" (`AB`). Agar fard-e nakhales halat-e miyane darad, ham-tavani nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در بارزیت ناقص، نسبت رخ‌نمودی دو ناخالص ۱:۲:۱ است، نه ۳:۱. عدد ۳:۱ فقط برای بارزیت کامل است.",
+      "en": "With incomplete dominance the phenotype ratio for two heterozygotes is 1:2:1, not 3:1. The 3:1 ratio is only for complete dominance.",
+      "tr": "Dar barezit-e naghes, nesbat-e rokh-namoodi-ye do nakhales 1:2:1 ast, na 3:1. Adad-e 3:1 faghat baraye barezit-e kamel ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 927
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 943
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 3,
+   "unit": 3,
+   "key": "bio-3-blood-groups",
+   "title": {
+    "fa": "گروه‌های خونی و چنددگره‌ای",
+    "en": "The ABO and Rh blood groups",
+    "tr": "Goroh-haye khooni va chand-degare-i"
+   },
+   "summary": {
+    "fa": "سه کارت در بازی، ولی هر نفر فقط دو تا در دست دارد.",
+    "en": "Three cards in the game, but each person holds only two.",
+    "tr": "Se kart dar bazi, vali har nafar faghat do ta dar dast darad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سه کارت در بازی",
+      "en": "Understand first: three cards in the game",
+      "tr": "Avval befahm: se kart dar bazi"
+     },
+     "body": {
+      "fa": "برای گروه خونی `ABO`، در کل جمعیت سه نوع کارت هست: `A`، `B` و `O`. ولی هر نفر، مثل همیشه، فقط دو کارت در دست دارد. وقتی یک صفت بیش از دو دگره در جمعیت داشته باشد، «چنددگره‌ای» است. `A` و `B` نسبت به هم هم‌توان‌اند و هر دو بر `O` بارزند. پس گروه خونی `ABO` هم چنددگره‌ای است و هم هم‌توانی دارد (آزمون خرداد ۱۳۹۹).",
+      "en": "For the `ABO` blood group, the whole population has three kinds of card: `A`, `B` and `O`. But each person, as always, holds only two cards. When a trait has more than two alleles in the population, it has \"multiple alleles\". `A` and `B` are codominant with each other, and both are dominant over `O`. So the `ABO` blood group shows both multiple alleles and codominance (Khordad 1399 paper).",
+      "tr": "Baraye goroh-e khooni-ye `ABO`، dar kol-e jam'iyat se no' kart hast: `A`، `B` va `O`. Vali har nafar, mesl-e hamishe, faghat do kart dar dast darad. Vaghti yek sefat bish az do degare dar jam'iyat dashte bashad, \"chand-degare-i\" ast. `A` va `B` nesbat be ham ham-tavan-and va har do bar `O` barez-and. Pas goroh-e khooni-ye `ABO` ham chand-degare-i ast va ham ham-tavani darad (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " group   genotypes\n A       AA  or  AO\n B       BB  or  BO\n AB      AB   (codominant)\n O       OO   (only this)",
+     "caption": {
+      "fa": "ژن‌نمودهای هر گروه. گروه `O` فقط یک ژن‌نمود دارد، چون `O` نهفته است.",
+      "en": "The genotypes of each group. Group `O` has only one genotype, because `O` is recessive.",
+      "tr": "Zhen-namood-haye har goroh. Goroh-e `O` faghat yek zhen-namood darad, chon `O` nahofte ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پادگن و پادتن: قفل و نگهبان",
+      "en": "Antigens and antibodies: the lock and the guard",
+      "tr": "Padgen va padtan: ghofl va negahban"
+     },
+     "body": {
+      "fa": "نام گروه خونی از نشانه‌های روی گویچهٔ قرمز می‌آید که به آن‌ها «پادگن» می‌گوییم. خون‌ها به‌صورت طبیعی برای نشانه‌ای که خودشان ندارند «پادتن» دارند. برای همین در انتقال خون باید دقت کرد: پادتن گیرنده نباید به پادگن گویچه‌های اهداکننده بچسبد. گروه `O` پادگنی ندارد، پس گویچه‌هایش را به همه می‌شود داد؛ گروه `AB` پادتنی ندارد، پس از همه می‌تواند گویچهٔ قرمز بگیرد.",
+      "en": "The name of a blood group comes from the markers on the red blood cell, which we call \"antigens\". Blood naturally has \"antibodies\" against any marker it does not carry itself. That is why transfusions need care: the recipient's antibodies must not attach to the donor's red cell antigens. Group `O` has no antigens, so its red cells can be given to everyone; group `AB` has no antibodies, so it can receive red cells from everyone.",
+      "tr": "Nam-e goroh-e khooni az neshane-haye rooye goychche-ye ghermez miayad ke be an-ha \"padgen\" migooyim. Khoon-ha be-soorat-e tabi'i baraye neshane-i ke khodeshan nadarand \"padtan\" darand. Baraye hamin dar enteghal-e khoon bayad deghghat kard: padtan-e girande nabayad be padgen-e goychche-haye ehda-konande bechasbad. Goroh-e `O` padgeni nadarad, pas goychche-hayash ra be hame mishavad dad; goroh-e `AB` padtani nadarad, pas az hame mitavanad goychche-ye ghermez begirad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " group  on red cell  in plasma\n A      A            anti-B\n B      B            anti-A\n AB     A and B      none\n O      none         anti-A, anti-B\n\n O  red cells -> can go to all\n AB           <- can receive all",
+     "caption": {
+      "fa": "پادگن‌ها روی گویچه و پادتن‌ها در خوناب. `O` اهداکنندهٔ همگانی گویچهٔ قرمز است و `AB` گیرندهٔ همگانی.",
+      "en": "Antigens are on the red cell and antibodies are in the plasma. `O` is the universal red cell donor and `AB` the universal recipient.",
+      "tr": "Padgen-ha rooye goychche va padtan-ha dar khoonab. `O` ehda-konande-ye hamegani-ye goychche-ye ghermez ast va `AB` girande-ye hamegani."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گروه خونی مثبت و منفی",
+      "en": "The Rh blood group",
+      "tr": "Goroh-e khooni-ye mosbat va manfi"
+     },
+     "body": {
+      "fa": "گروه خونی `Rh` جدا از `ABO` و با یک ژن دیگر تعیین می‌شود. دگرهٔ `D` پروتئین `Rh` را می‌سازد و بر `d` بارز است: `DD` و `Dd` مثبت‌اند و فقط `dd` منفی است. این ژن روی یک کروموزوم غیرجنسی (کروموزوم شمارهٔ ۱) است، نه روی کروموزوم جنسی (آزمون خرداد ۱۳۹۹). ژن `ABO` هم روی کروموزوم غیرجنسی شمارهٔ ۹ است. پس این دو صفت در پسر و دختر یکسان به ارث می‌رسند.",
+      "en": "The `Rh` blood group is set separately from `ABO`, by another gene. The `D` allele makes the `Rh` protein and is dominant over `d`: `DD` and `Dd` are positive and only `dd` is negative. This gene is on an autosome, a non-sex chromosome (chromosome 1), not on a sex chromosome (Khordad 1399 paper). The `ABO` gene is also on an autosome, chromosome 9. So both traits are inherited the same way in sons and daughters.",
+      "tr": "Goroh-e khooni-ye `Rh` joda az `ABO` va ba yek zhen-e digar ta'yin mishavad. Degare-ye `D` protein-e `Rh` ra misazad va bar `d` barez ast: `DD` va `Dd` mosbat-and va faghat `dd` manfi ast. In zhen rooye yek kromozom-e gheyr-e jensi (kromozom-e shomare-ye 1) ast, na rooye kromozom-e jensi (azmoon-e Khordad 1399). Zhen-e `ABO` ham rooye kromozom-e gheyr-e jensi-ye shomare-ye 9 ast. Pas in do sefat dar pesar va dokhtar yeksan be ers miresand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ژن‌نمود کسی که گروه خونی `O` منفی دارد؟",
+      "en": "Warm-up: the genotype of someone with blood group `O` negative?",
+      "tr": "Garm kardan: zhen-namood-e kasi ke goroh-e khooni-ye `O` manfi darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر دو صفت نهفته‌اند. صفت نهفته فقط وقتی دیده می‌شود که هر دو کارت نهفته باشند. چرا؟ چون یک کارت بارز کافی است تا آن را بپوشاند.",
+        "en": "Both traits are recessive. A recessive trait only shows when both cards are recessive. Why? Because one dominant card is enough to hide it.",
+        "tr": "Har do sefat nahofte-and. Sefat-e nahofte faghat vaghti dide mishavad ke har do kart nahofte bashand. Chera? Chon yek kart-e barez kafi ast ta an ra bepooshanad."
+       },
+       "math": "OO ,   dd"
+      }
+     ],
+     "answer": {
+      "fa": "`OO dd`",
+      "en": "`OO dd`",
+      "tr": "`OO dd`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چرا گروه خونی `ABO` نمونهٔ چنددگره‌ای و هم‌توانی است؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: why is the `ABO` blood group an example of multiple alleles and codominance? (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: chera goroh-e khooni-ye `ABO` nemoone-ye chand-degare-i va ham-tavani ast? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بخش اول: در جمعیت سه دگره (`A`، `B`، `O`) هست، یعنی بیش از دو، پس چنددگره‌ای است.",
+        "en": "Part one: the population has three alleles (`A`, `B`, `O`), more than two, so it has multiple alleles.",
+        "tr": "Bakhsh-e avval: dar jam'iyat se degare (`A`، `B`، `O`) hast, ya'ni bish az do, pas chand-degare-i ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "بخش دوم: در فرد `AB` هر دو پادگن کامل ظاهر می‌شوند، پس `A` و `B` هم‌توان‌اند.",
+        "en": "Part two: in an `AB` person both antigens show in full, so `A` and `B` are codominant.",
+        "tr": "Bakhsh-e dovvom: dar fard-e `AB` har do padgen kamel zaher mishavand, pas `A` va `B` ham-tavan-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سه دگره در جمعیت + هر دو پادگن در فرد `AB`",
+      "en": "Three alleles in the population + both antigens in an `AB` person",
+      "tr": "Se degare dar jam'iyat + har do padgen dar fard-e `AB`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مادر گروه `A` و پدر گروه `B` فرزندی با گروه `O` دارند. ژن‌نمود والدین و احتمال `AB` بودن فرزند بعدی؟",
+      "en": "Exam twist: a group `A` mother and a group `B` father have a group `O` child. What are the parents' genotypes, and the chance the next child is `AB`?",
+      "tr": "Pich-e emtehani: madar-e goroh-e `A` va pedar-e goroh-e `B` farzandi ba goroh-e `O` darand. Zhen-namood-e valedeyn va ehtemal-e `AB` boodan-e farzand-e ba'di?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: فرزند `O` یعنی `OO`. هر `O` از یک والد آمده، پس هر دو والد یک `O` پنهان دارند.",
+        "en": "The twist: an `O` child means `OO`. Each `O` came from one parent, so both parents carry a hidden `O`.",
+        "tr": "Pich-e emtehan: farzand-e `O` ya'ni `OO`. Har `O` az yek valed amade, pas har do valed yek `O`-e penhan darand."
+       },
+       "math": "AO × BO"
+      },
+      {
+       "text": {
+        "fa": "حالا جدول پانت: چهار خانه، هر کدام یک گروه متفاوت.",
+        "en": "Now the Punnett square: four boxes, each a different group.",
+        "tr": "Hala jadval-e Punnett: chahar khane, har kodam yek goroh-e motafavet."
+       },
+       "math": "AB , AO , BO , OO"
+      },
+      {
+       "text": {
+        "fa": "`AB` فقط یک خانه از چهار خانه است.",
+        "en": "`AB` is just one box out of four.",
+        "tr": "`AB` faghat yek khane az chahar khane ast."
+       },
+       "math": "P(AB) = 1/4"
+      }
+     ],
+     "answer": {
+      "fa": "`AO × BO`؛ احتمال `AB` یک‌چهارم",
+      "en": "`AO × BO`; the chance of `AB` is 1/4",
+      "tr": "`AO × BO`; ehtemal-e `AB` yek-chaharom"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ژن `Rh` روی کروموزوم غیرجنسی است، نه روی `X`. صفت وابسته به جنس ننویس (آزمون خرداد ۱۳۹۹).",
+      "en": "The `Rh` gene is on an autosome, not on `X`. Do not write sex-linked (Khordad 1399 paper).",
+      "tr": "Zhen-e `Rh` rooye kromozom-e gheyr-e jensi ast, na rooye `X`. Sefat-e vabaste be jens nanevis (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "چنددگره‌ای یعنی بیش از دو دگره در «جمعیت»؛ هر «فرد» هنوز فقط دو دگره دارد. هرگز ژن‌نمود سه‌حرفی مثل `ABO` برای یک نفر ننویس.",
+      "en": "Multiple alleles means more than two alleles in the \"population\"; each \"person\" still has only two. Never write a three-letter genotype like `ABO` for one person.",
+      "tr": "Chand-degare-i ya'ni bish az do degare dar \"jam'iyat\"; har \"fard\" hanooz faghat do degare darad. Hargez zhen-namood-e se-harfi mesl-e `ABO` baraye yek nafar nanevis."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 3,
+   "unit": 4,
+   "key": "bio-3-sex-linked-pedigree",
+   "title": {
+    "fa": "صفات وابسته به جنس و دودمانه",
+    "en": "Sex-linked traits and pedigrees",
+    "tr": "Sefat-e vabaste be jens va doodmane"
+   },
+   "summary": {
+    "fa": "پسرها فقط یک کارت `X` دارند، پس جای پنهان کردن ندارند.",
+    "en": "Sons hold only one `X` card, so there is nowhere to hide.",
+    "tr": "Pesar-ha faghat yek kart-e `X` darand, pas ja-ye penhan kardan nadarand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پسر فقط یک کارت دارد",
+      "en": "Understand first: a son has one X card",
+      "tr": "Avval befahm: pesar faghat yek kart darad"
+     },
+     "body": {
+      "fa": "زن‌ها دو کروموزوم `X` دارند (`XX`) و مردها یک `X` و یک `Y` (`XY`). کروموزوم `Y` کوچک است و بیشتر ژن‌های `X` را ندارد. پس برای ژنی که روی `X` است، زن دو کارت دارد ولی مرد فقط یک کارت. اگر دگرهٔ بیماری نهفته باشد، زن با یک کارت سالم آن را می‌پوشاند و فقط «ناقل» است؛ ولی مرد کارت دومی ندارد که بپوشاند. برای همین هموفیلی، که یک صفت وابسته به `X` نهفته است (آزمون خرداد ۱۴۰۰)، در مردها بسیار بیشتر دیده می‌شود.",
+      "en": "Women have two `X` chromosomes (`XX`) and men have one `X` and one `Y` (`XY`). The `Y` chromosome is small and lacks most `X` genes. So for a gene on `X`, a woman holds two cards but a man holds only one. If the disease allele is recessive, a woman hides it with one healthy card and is only a \"carrier\"; but a man has no second card to hide it. That is why haemophilia, an `X`-linked recessive trait (Khordad 1400 paper), is far more common in men.",
+      "tr": "Zan-ha do kromozom-e `X` darand (`XX`) va mard-ha yek `X` va yek `Y` (`XY`). Kromozom-e `Y` koochak ast va bishtar-e zhen-haye `X` ra nadarad. Pas baraye zheni ke rooye `X` ast, zan do kart darad vali mard faghat yek kart. Agar degare-ye bimari nahofte bashad, zan ba yek kart-e salem an ra mipooshanad va faghat \"naghel\" ast; vali mard kart-e dovvomi nadarad ke bepooshanad. Baraye hamin hemofili, ke yek sefat-e vabaste be `X`-e nahofte ast (azmoon-e Khordad 1400), dar mard-ha besiyar bishtar dide mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "هر کارت از کجا آمده؟",
+      "en": "Where did each card come from?",
+      "tr": "Har kart az koja amade?"
+     },
+     "body": {
+      "fa": "کلید همهٔ مسئله‌ها این است که هر کارت از کجا آمده. پسر `X` خود را «همیشه از مادر» می‌گیرد و `Y` را از پدر. دختر یک `X` از مادر و «همیشه همان یک `X` پدر» را می‌گیرد. پس مردی که هموفیلی دارد، دگره را حتماً به «همهٔ دخترانش» می‌دهد (آزمون خرداد ۱۴۰۱)، ولی هرگز به پسرانش نمی‌دهد.",
+      "en": "The key to every problem is where each card came from. A son \"always gets his `X` from his mother\" and his `Y` from his father. A daughter gets one `X` from her mother and \"always her father's one `X`\". So a man with haemophilia definitely passes the allele to \"all of his daughters\" (Khordad 1401 paper), but never to his sons.",
+      "tr": "Kelid-e hame-ye mas'ale-ha in ast ke har kart az koja amade. Pesar `X`-e khod ra \"hamishe az madar\" migirad va `Y` ra az pedar. Dokhtar yek `X` az madar va \"hamishe haman yek `X`-e pedar\" ra migirad. Pas mardi ke hemofili darad, degare ra hatman be \"hame-ye dokhtaranash\" midahad (azmoon-e Khordad 1401), vali hargez be pesaranash nemidahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " carrier mother  x  healthy father\n    XH Xh               XH Y\n              XH        Y\n          +---------+---------+\n       XH |  XH XH  |  XH Y   |\n          | healthy | healthy |\n          +---------+---------+\n       Xh |  XH Xh  |  Xh Y   |\n          | carrier | AFFECTED|\n          +---------+---------+\n H = healthy allele  h = hemophilia",
+     "caption": {
+      "fa": "مادر ناقل × پدر سالم: نیمی از پسرها بیمار و نیمی از دخترها ناقل‌اند؛ هیچ دختری بیمار نیست.",
+      "en": "Carrier mother × healthy father: half the sons are affected and half the daughters are carriers; no daughter is affected.",
+      "tr": "Madar-e naghel × pedar-e salem: nimi az pesar-ha bimar va nimi az dokhtar-ha naghel-and; hich dokhtari bimar nist."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خواندن دودمانه: دو سرنخ طلایی",
+      "en": "Reading a pedigree: two golden clues",
+      "tr": "Khandan-e doodmane: do sarnakh-e talayi"
+     },
+     "body": {
+      "fa": "«دودمانه» شجره‌نامهٔ یک صفت است. مربع یعنی مرد و دایره یعنی زن؛ شکل پر یعنی بیمار. برای خواندن آن دو سرنخ طلایی داریم. سرنخ ۱: اگر دو والد سالم فرزند بیمار داشته باشند، صفت «نهفته» است، چون والدین دگرهٔ پنهان داشته‌اند. سرنخ ۲: اگر صفت در همهٔ نسل‌ها دیده شود و دو والد بیمار بتوانند فرزند سالم داشته باشند، صفت «بارز» است، چون هر دو والد ناخالص بوده‌اند (آزمون خرداد ۱۳۹۹).",
+      "en": "A \"pedigree\" is the family tree of a trait. A square is a man and a circle is a woman; a filled shape means affected. To read it we have two golden clues. Clue 1: if two unaffected parents have an affected child, the trait is \"recessive\", because the parents carried a hidden allele. Clue 2: if the trait shows in every generation and two affected parents can have an unaffected child, the trait is \"dominant\", because both parents were heterozygous (Khordad 1399 paper).",
+      "tr": "\"Doodmane\" shajare-name-ye yek sefat ast. Morabba' ya'ni mard va dayere ya'ni zan; shekl-e por ya'ni bimar. Baraye khandan-e an do sarnakh-e talayi darim. Sarnakh-e 1: agar do valed-e salem farzand-e bimar dashte bashand, sefat \"nahofte\" ast, chon valedeyn degare-ye penhan dashte-and. Sarnakh-e 2: agar sefat dar hame-ye nasl-ha dide shavad va do valed-e bimar betavanand farzand-e salem dashte bashand, sefat \"barez\" ast, chon har do valed nakhales boode-and (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " [ ] male    ( ) female\n [#] (#)     affected\n\n I     [ ]---------( )\n             |\n       +-----+-----+\n       |     |     |\n II   [ ]   (#)   [ ]\n\n healthy parents, affected\n child -> trait is recessive",
+     "caption": {
+      "fa": "سرنخ ۱ در یک دودمانه: والدین سالم، دختر بیمار؛ پس صفت نهفته است و هر دو والد ناقل‌اند.",
+      "en": "Clue 1 in a pedigree: healthy parents, an affected daughter; so the trait is recessive and both parents are carriers.",
+      "tr": "Sarnakh-e 1 dar yek doodmane: valedeyn-e salem, dokhtar-e bimar; pas sefat nahofte ast va har do valed naghel-and."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مردی با هموفیلی و زنی سالم (غیرناقل): فرزندانشان؟",
+      "en": "Warm-up: a man with haemophilia and a healthy (non-carrier) woman: their children?",
+      "tr": "Garm kardan: mardi ba hemofili va zani salem (gheyr-e naghel): farzandaneshan?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ژن‌نمودها را بنویس. مرد بیمار فقط یک `X` دارد که `Xh` است.",
+        "en": "Write the genotypes. The affected man has only one `X`, which is `Xh`.",
+        "tr": "Zhen-namood-ha ra benevis. Mard-e bimar faghat yek `X` darad ke `Xh` ast."
+       },
+       "math": "Xh Y   ×   XH XH"
+      },
+      {
+       "text": {
+        "fa": "دخترها `X` پدر را می‌گیرند، پس همه `XH Xh` و ناقل‌اند. پسرها `Y` پدر و `XH` مادر را می‌گیرند، پس سالم‌اند.",
+        "en": "Daughters get the father's `X`, so all are `XH Xh` and carriers. Sons get the father's `Y` and the mother's `XH`, so they are healthy.",
+        "tr": "Dokhtar-ha `X`-e pedar ra migirand, pas hame `XH Xh` va naghel-and. Pesar-ha `Y`-e pedar va `XH`-e madar ra migirand, pas salem-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "همهٔ دخترها ناقل، همهٔ پسرها سالم",
+      "en": "All daughters carriers, all sons healthy",
+      "tr": "Hame-ye dokhtar-ha naghel, hame-ye pesar-ha salem"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: زن ناقل هموفیلی با مرد سالم ازدواج می‌کند. احتمال بیمار بودن هر پسر؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: a woman who carries haemophilia marries a healthy man. What is the chance each son is affected? (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: zan-e naghel-e hemofili ba mard-e salem ezdevaj mikonad. Ehtemal-e bimar boodan-e har pesar? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پسر `X` را از مادر می‌گیرد. پس فقط کارت‌های مادر مهم است: `XH` یا `Xh`، هر کدام با احتمال نصف.",
+        "en": "A son gets his `X` from his mother. So only the mother's cards matter: `XH` or `Xh`, each with a chance of one half.",
+        "tr": "Pesar `X` ra az madar migirad. Pas faghat kart-haye madar mohem ast: `XH` ya `Xh`، har kodam ba ehtemal-e nesf."
+       },
+       "math": "XH Xh   ×   XH Y"
+      },
+      {
+       "text": {
+        "fa": "پسری که `Xh` بگیرد، کارت دومی برای پوشاندن ندارد و بیمار است.",
+        "en": "A son who gets `Xh` has no second card to hide it, so he is affected.",
+        "tr": "Pesari ke `Xh` begirad, kart-e dovvomi baraye pooshandan nadarad va bimar ast."
+       },
+       "math": "P(Xh Y) = 1/2"
+      }
+     ],
+     "answer": {
+      "fa": "۵۰ درصد",
+      "en": "50 percent",
+      "tr": "50 darsad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در دودمانهٔ بالا، دو والد سالم دختری بیمار دارند. احتمال بیمار بودن فرزند بعدی، و احتمال ناقل بودن یک پسر سالمشان؟",
+      "en": "Exam twist: in the pedigree above, two healthy parents have an affected daughter. What is the chance the next child is affected, and the chance that a healthy son of theirs is a carrier?",
+      "tr": "Pich-e emtehani: dar doodmane-ye bala, do valed-e salem dokhtari bimar darand. Ehtemal-e bimar boodan-e farzand-e ba'di, va ehtemal-e naghel boodan-e yek pesar-e salemeshan?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: نوع صفت. والدین سالم، فرزند بیمار، پس نهفته. وابسته به `X` نیست؛ چرا؟ چون اگر بود، دختر بیمار باید پدری بیمار داشت، ولی پدر سالم است.",
+        "en": "Step one: the kind of trait. Healthy parents, affected child, so recessive. It is not `X`-linked; why? Because then an affected daughter would need an affected father, but the father is healthy.",
+        "tr": "Ghadam-e avval: no'-e sefat. Valedeyn-e salem, farzand-e bimar, pas nahofte. Vabaste be `X` nist; chera? Chon agar bood, dokhtar-e bimar bayad pedari bimar dasht, vali pedar salem ast."
+       },
+       "math": "Aa × Aa"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: هر دو والد ناقل پنهان‌اند، پس احتمال بیمار بودن هر فرزند تازه یک‌چهارم است.",
+        "en": "Step two: both parents are hidden carriers, so each new child has a one-quarter chance of being affected.",
+        "tr": "Ghadam-e dovvom: har do valed naghel-e penhan-and, pas ehtemal-e bimar boodan-e har farzand-e taze yek-chaharom ast."
+       },
+       "math": "P(aa) = 1/4"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: پسر «سالم» است، پس `aa` حذف می‌شود. از سه خانهٔ باقی‌مانده (`AA`، `Aa`، `aA`) دو تا ناقل‌اند.",
+        "en": "Step three, the real twist: the son is \"healthy\", so `aa` is ruled out. Of the three boxes left (`AA`, `Aa`, `aA`), two are carriers.",
+        "tr": "Ghadam-e sevvom, pich-e asli: pesar \"salem\" ast, pas `aa` hazf mishavad. Az se khane-ye baghi-mande (`AA`، `Aa`، `aA`) do ta naghel-and."
+       },
+       "math": "P(Aa) = 2/3"
+      }
+     ],
+     "answer": {
+      "fa": "بیمار بودن فرزند بعدی یک‌چهارم؛ ناقل بودن پسر سالم دو‌سوم",
+      "en": "Next child affected: 1/4; a healthy son is a carrier: 2/3",
+      "tr": "Bimar boodan-e farzand-e ba'di yek-chaharom; naghel boodan-e pesar-e salem do-sevvom"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پدر بیمار دگرهٔ وابسته به `X` را به همهٔ «دخترانش» می‌دهد، نه پسرانش. پسر `Y` را از پدر می‌گیرد (آزمون خرداد ۱۴۰۱).",
+      "en": "An affected father passes an `X`-linked allele to all his \"daughters\", not his sons. A son gets his `Y` from his father (Khordad 1401 paper).",
+      "tr": "Pedar-e bimar degare-ye vabaste be `X` ra be hame-ye \"dokhtaranash\" midahad, na pesaranash. Pesar `Y` ra az pedar migirad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«احتمال بیمار بودن هر پسر» (۵۰٪) با «احتمال اینکه فرزند پسرِ بیمار باشد» (۲۵٪) فرق دارد. در دومی احتمال پسر بودن (نصف) هم ضرب می‌شود.",
+      "en": "\"The chance each son is affected\" (50%) is not the same as \"the chance a child is an affected son\" (25%). In the second, the chance of being a boy (one half) is multiplied in too.",
+      "tr": "\"Ehtemal-e bimar boodan-e har pesar\" (50%) ba \"ehtemal-e inke farzand pesar-e bimar bashad\" (25%) fargh darad. Dar dovvomi ehtemal-e pesar boodan (nesf) ham zarb mishavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 4,
+   "key": "bio-1-enzymes",
+   "title": {
+    "fa": "آنزیم‌ها",
+    "en": "Enzymes",
+    "tr": "Anzim-ha"
+   },
+   "summary": {
+    "fa": "قفل و کلید، دستکشی که به شکل دست درمی‌آید، و کلیدی که در گرما ذوب می‌شود.",
+    "en": "A lock and key, a glove that takes the shape of the hand, and a key that melts in the heat.",
+    "tr": "Ghofl va kelid, dastkeshi ke be shekl-e dast dar-miayad, va kelidi ke dar garma zob mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: قفل و کلید",
+      "en": "Understand first: the lock and key",
+      "tr": "Avval befahm: ghofl va kelid"
+     },
+     "body": {
+      "fa": "آنزیم یک پروتئین است که واکنش‌ها را سریع می‌کند، بی‌آنکه خودش مصرف شود. هر آنزیم یک فرورفتگی خاص دارد به نام «جایگاه فعال». مولکولی که آنزیم رویش کار می‌کند، «پیش‌ماده»، باید مثل کلید در قفل با شکل جایگاه فعال جور باشد تا به آن بچسبد (آزمون‌های خرداد ۱۴۰۱). در واقع جایگاه فعال کمی هم خودش را با پیش‌ماده جور می‌کند، مثل دستکشی که وقتی دست را در آن می‌کنی به شکل دست درمی‌آید.",
+      "en": "An enzyme is a protein that speeds up reactions without being used up itself. Each enzyme has a special pocket called the \"active site\". The molecule the enzyme works on, the \"substrate\", has to match the shape of the active site like a key in a lock before it can bind (Khordad 1401 papers). In fact the active site also adjusts a little to the substrate, like a glove taking the shape of your hand as you put it on.",
+      "tr": "Anzim yek protein ast ke vakonesh-ha ra sari' mikonad, bi-anke khodash masraf shavad. Har anzim yek foroo-raftegi-ye khas darad be nam-e \"jaygah-e fa'al\". Molkooli ke anzim rooyash kar mikonad, \"pish-made\"، bayad mesl-e kelid dar ghofl ba shekl-e jaygah-e fa'al jor bashad ta be an bechasbad (azmoon-haye Khordad 1401). Dar vaghe' jaygah-e fa'al kami ham khodash ra ba pish-made jor mikonad, mesl-e dastkeshi ke vaghti dast ra dar an mikoni be shekl-e dast dar-miayad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   S = substrate     E = enzyme\n\n     S + E  ->  E-S  ->  E + P\n\n   S fits the active site of E,\n   E-S is the enzyme-substrate\n   complex, P are the products,\n   and E comes out unchanged",
+     "caption": {
+      "fa": "آنزیم در پایان واکنش دست‌نخورده بیرون می‌آید و دوباره استفاده می‌شود.",
+      "en": "At the end of the reaction the enzyme comes out unchanged and is used again.",
+      "tr": "Anzim dar payan-e vakonesh dast-nakhorde biroon miayad va dobare estefade mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گرما و میزان اسیدی بودن",
+      "en": "Heat and pH",
+      "tr": "Garma va pH"
+     },
+     "body": {
+      "fa": "شکل جایگاه فعال با پیوندهای ضعیف، به‌خصوص هیدروژنی، نگه داشته می‌شود. گرمای زیاد این پیوندها را می‌شکند و شکل سه‌بعدی آنزیم برای همیشه عوض می‌شود، مثل کلیدی که ذوب شده (آزمون‌های دی ۱۴۰۰ و خرداد ۱۴۰۰). تغییر `pH` با افزودن اسید یا باز (آزمون خرداد ۱۴۰۰)، یا تغییر حلّال مثلاً با الکل (آزمون خرداد ۱۴۰۰)، همین کار را می‌کند. هر آنزیم یک دما و `pH` بهینه دارد که در آن بهترین کار را می‌کند.",
+      "en": "The shape of the active site is held by weak bonds, especially hydrogen bonds. High heat breaks these bonds and the enzyme's 3D shape changes for good, like a key that has melted (Dey 1400 and Khordad 1400 papers). Changing the `pH` by adding acid or base (Khordad 1400 paper), or changing the solvent, for example with alcohol (Khordad 1400 paper), does the same. Each enzyme has an optimum temperature and `pH` at which it works best.",
+      "tr": "Shekl-e jaygah-e fa'al ba peyvand-haye za'if, be-khosoos hidrojeni, negah dashte mishavad. Garma-ye ziad in peyvand-ha ra mishekanad va shekl-e se-bo'di-ye anzim baraye hamishe avaz mishavad, mesl-e kelidi ke zob shode (azmoon-haye Dey 1400 va Khordad 1400). Taghyir-e `pH` ba afzoodan-e asid ya baz (azmoon-e Khordad 1400), ya taghyir-e hallal masalan ba alkol (azmoon-e Khordad 1400), hamin kar ra mikonad. Har anzim yek dama va `pH`-e behine darad ke dar an behtarin kar ra mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " activity\n    |            .-.\n    |          .'   `.\n    |        .'       `.\n    |      .'           `.\n    |    .'               `.\n    +----------+-------------> temp\n            optimum\n\n  too hot: hydrogen bonds break,\n  the shape is lost for good",
+     "caption": {
+      "fa": "فعالیت آنزیم تا دمای بهینه بالا می‌رود و بعد با از دست رفتن شکل، سقوط می‌کند.",
+      "en": "Enzyme activity rises up to the optimum temperature, then falls as the shape is lost.",
+      "tr": "Fa'aliyat-e anzim ta dama-ye behine bala miravad va ba'd ba az dast raftan-e shekl, soghoot mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "کمک‌کارها و ترمزها",
+      "en": "Helpers and brakes",
+      "tr": "Komak-kar-ha va tormoz-ha"
+     },
+     "body": {
+      "fa": "بسیاری از آنزیم‌ها برای کار کردن به یک کمک‌کار غیرپروتئینی نیاز دارند، مثل ویتامین‌ها یا یون‌های فلزی: کوآنزیم‌ها و کوفاکتورها (آزمون خرداد ۱۴۰۰). بعضی مولکول‌ها هم آنزیم را کند یا خاموش می‌کنند: «مهارکننده» با چسبیدن به آنزیم یا تغییر شکل جایگاه فعال، کار آن را موقت یا همیشگی متوقف می‌کند (آزمون خرداد ۱۳۹۹). و بعضی مولکول‌های تنظیم‌کننده به جایی غیر از جایگاه فعال می‌چسبند ولی باز هم شکل آن را عوض می‌کنند: «تنظیم آلوستری» (آزمون خرداد ۱۴۰۱).",
+      "en": "Many enzymes need a non-protein helper to work, such as vitamins or metal ions: coenzymes and cofactors (Khordad 1400 paper). Some molecules slow an enzyme down or switch it off: an \"inhibitor\" stops it, temporarily or permanently, by binding to it or changing the shape of its active site (Khordad 1399 paper). And some regulator molecules bind somewhere other than the active site yet still change its shape: \"allosteric regulation\" (Khordad 1401 paper).",
+      "tr": "Besiari az anzim-ha baraye kar kardan be yek komak-kar-e gheyr-e proteini niaz darand, mesl-e vitamin-ha ya yoon-haye felezi: ko-anzim-ha va ko-faktor-ha (azmoon-e Khordad 1400). Ba'zi molkool-ha ham anzim ra kond ya khamoosh mikonand: \"mahar-konande\" ba chasbidan be anzim ya taghyir-e shekl-e jaygah-e fa'al, kar-e an ra movaghat ya hamishegi motevaghef mikonad (azmoon-e Khordad 1399). Va ba'zi molkool-haye tanzim-konande be jayi gheyr az jaygah-e fa'al michasband vali baz ham shekl-e an ra avaz mikonand: \"tanzim-e alosteri\" (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بعد از واکنش، آنزیم چه می‌شود؟",
+      "en": "Warm-up: what happens to the enzyme after the reaction?",
+      "tr": "Garm kardan: ba'd az vakonesh, anzim che mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آنزیم فقط کار را سریع کرده؛ خودش جزو محصول نشده.",
+        "en": "The enzyme only made the reaction faster; it did not become part of the product.",
+        "tr": "Anzim faghat kar ra sari' karde; khodash joz-e mahsool nashode."
+       },
+       "math": "S + E  →  E-S  →  E + P"
+      },
+      {
+       "text": {
+        "fa": "پس بدون تغییر بیرون می‌آید و می‌تواند به پیش‌مادهٔ بعدی بچسبد.",
+        "en": "So it comes out unchanged and can bind the next substrate.",
+        "tr": "Pas bedoon-e taghyir biroon miayad va mitavanad be pish-made-ye ba'di bechasbad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بدون تغییر می‌ماند و دوباره استفاده می‌شود",
+      "en": "It stays unchanged and is used again",
+      "tr": "Bedoon-e taghyir mimanad va dobare estefade mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چرا دمای خیلی بالا آنزیم را برای همیشه از کار می‌اندازد؟ (مثل آزمون‌های دی ۱۴۰۰ و خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: why does a very high temperature put an enzyme out of action for good? (as in the Dey 1400 and Khordad 1400 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: chera dama-ye kheyli bala anzim ra baraye hamishe az kar miandazad? (mesl-e azmoon-haye Dey 1400 va Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گرما به مولکول‌ها انرژی می‌دهد و پیوندهای ضعیف هیدروژنی که شکل آنزیم را نگه داشته‌اند می‌شکنند.",
+        "en": "Heat gives the molecules energy, and the weak hydrogen bonds holding the enzyme's shape break.",
+        "tr": "Garma be molkool-ha enerzhi midahad va peyvand-haye za'if-e hidrojeni ke shekl-e anzim ra negah dashte-and mishekanand."
+       }
+      },
+      {
+       "text": {
+        "fa": "شکل سه‌بعدی و در نتیجه شکل جایگاه فعال عوض می‌شود.",
+        "en": "The 3D shape, and with it the shape of the active site, changes.",
+        "tr": "Shekl-e se-bo'di va dar natije shekl-e jaygah-e fa'al avaz mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "حالا پیش‌ماده دیگر در جایگاه فعال جا نمی‌شود؛ کلید ذوب شده و در قفل نمی‌رود.",
+        "en": "Now the substrate no longer fits the active site; the key has melted and will not go into the lock.",
+        "tr": "Hala pish-made digar dar jaygah-e fa'al ja nemishavad; kelid zob shode va dar ghofl nemiravad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پیوندهای هیدروژنی می‌شکنند، شکل جایگاه فعال از دست می‌رود و پیش‌ماده جا نمی‌شود",
+      "en": "The hydrogen bonds break, the active site loses its shape and the substrate no longer fits",
+      "tr": "Peyvand-haye hidrojeni mishekanand, shekl-e jaygah-e fa'al az dast miravad va pish-made ja nemishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مولکولی به جایی غیر از جایگاه فعال می‌چسبد ولی آنزیم را تنظیم می‌کند. این چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: a molecule binds somewhere other than the active site, yet it regulates the enzyme. What is this? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: molkooli be jayi gheyr az jaygah-e fa'al michasbad vali anzim ra tanzim mikonad. In chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: فکر می‌کنی برای اثر گذاشتن باید به جایگاه فعال بچسبد. ولی آنزیم یک ساختار سه‌بعدی به‌هم‌پیوسته است.",
+        "en": "The twist: you would think it has to bind the active site to have an effect. But the enzyme is one connected 3D structure.",
+        "tr": "Pich-e emtehan: fekr mikoni baraye asar gozashtan bayad be jaygah-e fa'al bechasbad. Vali anzim yek sakhtar-e se-bo'di-ye be-ham-peyvaste ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "چسبیدن در یک جای دیگر، شکل کل مولکول، از جمله جایگاه فعال، را کمی عوض می‌کند؛ مثل فشار دادن یک طرف بادکنک که طرف دیگر را هم تغییر می‌دهد.",
+        "en": "Binding somewhere else changes the shape of the whole molecule a little, including the active site; like squeezing one side of a balloon, which changes the other side too.",
+        "tr": "Chasbidan dar yek ja-ye digar, shekl-e kol-e molkool, az jomle jaygah-e fa'al, ra kami avaz mikonad; mesl-e feshar dadan-e yek taraf-e badkonak ke taraf-e digar ra ham taghyir midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تنظیم آلوستری",
+      "en": "Allosteric regulation",
+      "tr": "Tanzim-e alosteri"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دمای پایین آنزیم را فقط کند می‌کند و با گرم شدن دوباره کار می‌کند؛ دمای خیلی بالا شکلش را برای همیشه خراب می‌کند. این دو را یکی نگیر.",
+      "en": "A low temperature only slows an enzyme down, and it works again when warmed; a very high temperature ruins its shape for good. Do not treat them the same.",
+      "tr": "Dama-ye payin anzim ra faghat kond mikonad va ba garm shodan dobare kar mikonad; dama-ye kheyli bala shekl-ash ra baraye hamishe kharab mikonad. In do ra yeki nagir."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "خود آنزیم پروتئین است؛ کوآنزیم‌ها و کوفاکتورها کمک‌کارهای «غیرپروتئینی»‌اند، مثل ویتامین‌ها و یون‌های فلزی.",
+      "en": "The enzyme itself is a protein; coenzymes and cofactors are \"non-protein\" helpers, such as vitamins and metal ions.",
+      "tr": "Khod-e anzim protein ast; ko-anzim-ha va ko-faktor-ha komak-kar-haye \"gheyr-e proteini\"-and, mesl-e vitamin-ha va yoon-haye felezi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 920
+    },
+    {
+     "session": "1400-Dey",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 921
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 930
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 932
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 934
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 3,
+   "key": "bio-2-code-trna",
+   "title": {
+    "fa": "رمز ژنتیکی و رنای ناقل",
+    "en": "The genetic code and tRNA",
+    "tr": "Ramz-e zheneteki va rena-ye naghel"
+   },
+   "summary": {
+    "fa": "کلمه‌های سه‌حرفی، و کامیونی که کالای درست را می‌آورد.",
+    "en": "Three-letter words, and a truck that brings the right part.",
+    "tr": "Kalame-haye se-harfi, va kamyoni ke kala-ye dorost ra miavarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چرا سه حرف؟",
+      "en": "Understand first: why three letters?",
+      "tr": "Avval befahm: chera se harf?"
+     },
+     "body": {
+      "fa": "برگهٔ سفارش با الفبای چهار‌حرفی نوشته شده (`A`، `U`، `G`، `C`) ولی محصول از ۲۰ نوع آمینواسید ساخته می‌شود. با یک حرف فقط ۴ کلمه داریم و با دو حرف ۱۶ کلمه، که کم است. با سه حرف ۶۴ کلمه داریم که کافی است. پس رنای پیک سه‌حرف‌سه‌حرف خوانده می‌شود و هر سه‌تایی یک «رمزه» است. ۶۱ رمزه آمینواسید را رمز می‌کنند و ۳ رمزه فقط می‌گویند «تمام».",
+      "en": "The work order is written in a four-letter alphabet (`A`, `U`, `G`, `C`), but the product is built from 20 kinds of amino acid. With one letter we have only 4 words and with two letters 16 words, which is too few. With three letters we have 64 words, which is enough. So mRNA is read three letters at a time, and each triplet is a \"codon\". 61 codons code for amino acids and 3 codons just say \"stop\".",
+      "tr": "Barge-ye sefaresh ba alefba-ye chahar-harfi neveshte shode (`A`, `U`, `G`, `C`) vali mahsool az 20 no' amino-asid sakhte mishavad. Ba yek harf faghat 4 kalame darim va ba do harf 16 kalame, ke kam ast. Ba se harf 64 kalame darim ke kafi ast. Pas rena-ye peyk se-harf-se-harf khande mishavad va har se-tayi yek \"ramze\" ast. 61 ramze amino-asid ra ramz mikonand va 3 ramze faghat migooyand \"tamam\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "4 × 4 × 4 = 64 ,   61 + 3 = 64",
+     "caption": {
+      "fa": "۶۴ رمزه: ۶۱ رمزهٔ آمینواسید و ۳ رمزهٔ پایان",
+      "en": "64 codons: 61 for amino acids and 3 stop codons",
+      "tr": "64 ramze: 61 ramze-ye amino-asid va 3 ramze-ye payan"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  start   AUG   (methionine)\n\n  stop    UAA   UAG   UGA\n          (no amino acid,\n           release factor)",
+     "caption": {
+      "fa": "رمزهٔ آغاز `AUG` است و متیونین را رمز می‌کند (آزمون خرداد ۱۳۹۸). سه رمزهٔ پایان آمینواسیدی ندارند؛ مثلاً `UAA` عوامل آزادکننده را وارد می‌کند (آزمون خرداد ۱۴۰۰).",
+      "en": "The start codon is `AUG` and codes for methionine (Khordad 1398 paper). The three stop codons have no amino acid; for example `UAA` brings in the release factors (Khordad 1400 paper).",
+      "tr": "Ramze-ye aghaz `AUG` ast va metionin ra ramz mikonad (azmoon-e Khordad 1398). Se ramze-ye payan amino-asidi nadarand; masalan `UAA` avamel-e azad-konande ra vared mikonad (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رنای ناقل: کلید و قفل",
+      "en": "tRNA: the key and the lock",
+      "tr": "Rena-ye naghel: kelid va ghofl"
+     },
+     "body": {
+      "fa": "حالا کامیون‌ها. آمینواسیدها خودشان رمزه را نمی‌خوانند، پس یک مترجم لازم است: «رنای ناقل». هر رنای ناقل یک سر دارد که آمینواسید را حمل می‌کند و یک سر دیگر با سه باز به نام «پادرمزه» (آزمون دی ۱۴۰۱). پادرمزه با رمزهٔ رنای پیک جفت مکمل می‌شود، مثل کلیدی که فقط در قفل خودش می‌چرخد. اینطوری رنای ناقل آمینواسید درست را به جای درست در رناتن می‌آورد (آزمون دی ۱۴۰۱). اولین رنای ناقل، رنای ناقل آغازگر، همیشه متیونین می‌آورد و در جایگاه `P` می‌نشیند (آزمون خرداد ۱۴۰۰).",
+      "en": "Now the trucks. The amino acids cannot read codons themselves, so a translator is needed: \"transfer RNA\" (tRNA). Each tRNA has one end that carries an amino acid and another end with three bases called the \"anticodon\" (Dey 1401 paper). The anticodon pairs with the mRNA codon by complementary pairing, like a key that only turns in its own lock. That way the tRNA brings the right amino acid to the right place on the ribosome (Dey 1401 paper). The first tRNA, the initiator tRNA, always brings methionine and sits in the `P` site (Khordad 1400 paper).",
+      "tr": "Hala kamyon-ha. Amino-asid-ha khodeshan ramze ra nemikhanand, pas yek motarjem lazem ast: \"rena-ye naghel\". Har rena-ye naghel yek sar darad ke amino-asid ra haml mikonad va yek sar-e digar ba se baz be nam-e \"padramze\" (azmoon-e Dey 1401). Padramze ba ramze-ye rena-ye peyk joft-e mokammel mishavad, mesl-e kelidi ke faghat dar ghofl-e khodash micharkhad. Intowr rena-ye naghel amino-asid-e dorost ra be ja-ye dorost dar renatan miavarad (azmoon-e Dey 1401). Avvalin rena-ye naghel, rena-ye naghel-e aghazgar, hamishe metionin miavarad va dar jaygah-e `P` mineshinad (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " mRNA 5'-AUG|UUU|GGC|UGA-3'\n         Met Phe Gly stop\n tRNA    UAC AAA CCG  --\n         anticodons, 3'->5'\n         (no tRNA for stop)",
+     "caption": {
+      "fa": "هر رمزه یک پادرمزهٔ مکمل دارد. رمزهٔ پایان رنای ناقل ندارد.",
+      "en": "Each codon has a complementary anticodon. A stop codon has no tRNA.",
+      "tr": "Har ramze yek padramze-ye mokammel darad. Ramze-ye payan rena-ye naghel nadarad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پادرمزهٔ رمزهٔ `5′-GGC-3′` چیست؟",
+      "en": "Warm-up: what is the anticodon for the codon `5′-GGC-3′`?",
+      "tr": "Garm kardan: padramze-ye ramze-ye `5′-GGC-3′` chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پادرمزه مکمل رمزه است و هر دو رنا هستند، پس روبه‌روی `A` باید `U` بنویسی، نه `T`.",
+        "en": "The anticodon is complementary to the codon and both are RNA, so opposite `A` you write `U`, not `T`.",
+        "tr": "Padramze mokammel-e ramze ast va har do rena hastand, pas roo-be-roo-ye `A` bayad `U` benevisi, na `T`."
+       },
+       "math": "G G C   →   C C G"
+      },
+      {
+       "text": {
+        "fa": "ناهمسوست، پس سرها برعکس‌اند.",
+        "en": "It is antiparallel, so the ends are reversed.",
+        "tr": "Nahamsoost, pas sar-ha bar-aks-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`3′-CCG-5′`",
+      "en": "`3′-CCG-5′`",
+      "tr": "`3′-CCG-5′`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رنای پیک `5′-AUG UUU GGC UGA-3′` چند آمینواسید و چند رنای ناقل لازم دارد؟",
+      "en": "Textbook and exam: how many amino acids and tRNAs does the mRNA `5′-AUG UUU GGC UGA-3′` need?",
+      "tr": "Mas'ale-ye ketab va emtehan: rena-ye peyk-e `5′-AUG UUU GGC UGA-3′` chand amino-asid va chand rena-ye naghel lazem darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سه‌تا سه‌تا جدا کن. چرا از `AUG` شروع می‌کنیم؟ چون رمزهٔ آغاز است.",
+        "en": "Split into threes. Why start from `AUG`? Because it is the start codon.",
+        "tr": "Se-ta se-ta joda kon. Chera az `AUG` shoru' mikonim? Chon ramze-ye aghaz ast."
+       },
+       "math": "AUG | UUU | GGC | UGA"
+      },
+      {
+       "text": {
+        "fa": "`UGA` رمزهٔ پایان است؛ آمینواسید و رنای ناقل ندارد. پس فقط سه رمزهٔ اول حساب می‌شوند.",
+        "en": "`UGA` is a stop codon; it has no amino acid and no tRNA. So only the first three codons count.",
+        "tr": "`UGA` ramze-ye payan ast; amino-asid va rena-ye naghel nadarad. Pas faghat se ramze-ye avval hesab mishavand."
+       },
+       "math": "4 − 1 = 3"
+      }
+     ],
+     "answer": {
+      "fa": "۳ آمینواسید (متیونین، فنیل‌آلانین، گلیسین) و ۳ رنای ناقل",
+      "en": "3 amino acids (methionine, phenylalanine, glycine) and 3 tRNAs",
+      "tr": "3 amino-asid (metionin, fenil-alanin, glisin) va 3 rena-ye naghel"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در رشتهٔ الگو یک باز عوض شده: `3′-ACC-5′` شده `3′-ACT-5′`. چه اتفاقی برای پروتئین می‌افتد؟",
+      "en": "Exam twist: one base in the template strand has changed: `3′-ACC-5′` became `3′-ACT-5′`. What happens to the protein?",
+      "tr": "Pich-e emtehani: dar reshte-ye olgoo yek baz avaz shode: `3′-ACC-5′` shode `3′-ACT-5′`. Che ettefaghi baraye protein miofte?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: هر دو الگو را به رمزهٔ رنای پیک تبدیل کن. چرا؟ چون رناتن رنای پیک را می‌خواند، نه دنا را.",
+        "en": "Step one: turn both templates into mRNA codons. Why? Because the ribosome reads mRNA, not DNA.",
+        "tr": "Ghadam-e avval: har do olgoo ra be ramze-ye rena-ye peyk tabdil kon. Chera? Chon renatan rena-ye peyk ra mikhanad, na dena ra."
+       },
+       "math": "3′-ACC-5′ → 5′-UGG-3′ ,   3′-ACT-5′ → 5′-UGA-3′"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: معنی رمزه‌ها. `UGG` آمینواسید تریپتوفان است، ولی `UGA` رمزهٔ پایان است.",
+        "en": "Step two: what the codons mean. `UGG` is the amino acid tryptophan, but `UGA` is a stop codon.",
+        "tr": "Ghadam-e dovvom: ma'ni-ye ramze-ha. `UGG` amino-asid-e triptofan ast, vali `UGA` ramze-ye payan ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: نتیجه. ترجمه همین‌جا زودتر از موعد تمام می‌شود، پس پروتئین کوتاه و احتمالاً بی‌کار می‌شود. یک باز کوچک، یک فاجعهٔ بزرگ!",
+        "en": "Step three: the result. Translation ends right here, too early, so the protein is short and probably useless. One small base, one big disaster!",
+        "tr": "Ghadam-e sevvom: natije. Tarjome hamin-ja zoodtar az mo'ed tamam mishavad, pas protein kootah va ehtemalan bi-kar mishavad. Yek baz-e koochak, yek faje'e-ye bozorg!"
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رمزهٔ تریپتوفان به رمزهٔ پایان تبدیل شده؛ پروتئین کوتاه می‌شود",
+      "en": "The tryptophan codon became a stop codon; the protein is cut short",
+      "tr": "Ramze-ye triptofan be ramze-ye payan tabdil shode; protein kootah mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمزه روی رنای پیک است و پادرمزه روی رنای ناقل. «کدام بخش رنای ناقل با رمزه جفت می‌شود؟» جوابش پادرمزه است (آزمون دی ۱۴۰۱).",
+      "en": "The codon is on the mRNA and the anticodon is on the tRNA. \"Which part of tRNA pairs with the codon?\" The answer is the anticodon (Dey 1401 paper).",
+      "tr": "Ramze rooye rena-ye peyk ast va padramze rooye rena-ye naghel. \"Kodam bakhsh-e rena-ye naghel ba ramze joft mishavad?\" Javabash padramze ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمزه‌های پایان رنای ناقل ندارند. وقتی رمزه‌ها را برای شمردن آمینواسیدها یا رنای ناقل‌ها می‌شماری، رمزهٔ پایان را حساب نکن.",
+      "en": "Stop codons have no tRNA. When you count codons to find the number of amino acids or tRNAs, do not count the stop codon.",
+      "tr": "Ramze-haye payan rena-ye naghel nadarand. Vaghti ramze-ha ra baraye shemordan-e amino-asid-ha ya rena-ye naghel-ha mishomari, ramze-ye payan ra hesab nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 929
+    },
+    {
+     "session": "1401-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 944
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 936
+    }
+   ]
+  }
+ ]
+}

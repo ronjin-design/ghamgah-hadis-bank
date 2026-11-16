@@ -10,7 +10,8 @@ questions, pack 108 is the Chapter 5 (Applications of the derivative) lesson, an
 109 is the Chapter 6 (Conic sections) lesson, and pack 110 is the Chapter 7 (Probability)
 lesson: every Mathematics question now sits in a lesson. Pack 111 is the Biology 3 Chapter 1
 (Informational molecules) lesson, and pack 112 is the Chapter 2 (Flow of information in cells)
-lesson. THE NEXT QUESTION BLOCK IS PACK 113.
+lesson. Pack 113 is the Chapter 3 (Transfer of information across generations) lesson, and it
+re-ships units 1.4 and 2.3 with display fixes. THE NEXT QUESTION BLOCK IS PACK 114.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.
