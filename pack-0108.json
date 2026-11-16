@@ -1,0 +1,996 @@
+{
+ "version": 108,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 5,
+   "unit": 1,
+   "key": "math-5-critical-points",
+   "title": {
+    "fa": "صعودی، نزولی و نقطه‌های بحرانی",
+    "en": "Increasing, decreasing and critical points",
+    "tr": "Sooudi, nozooli va noghte-haye bohrani"
+   },
+   "summary": {
+    "fa": "علامت مشتق می‌گوید جاده بالا می‌رود یا پایین؛ نقطه‌های بحرانی نامزد قله و دره‌اند.",
+    "en": "The sign of the derivative says whether the road goes up or down; critical points are the candidates for peaks and valleys.",
+    "tr": "Alamat-e moshtagh migooyad jadde bala miravad ya payin; noghte-haye bohrani namzad-e gholle va darre-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کوره‌راه کوهستانی",
+      "en": "Understand first: a mountain trail",
+      "tr": "Avval befahm: koore-rah-e koohestani"
+     },
+     "body": {
+      "fa": "روی یک کوره‌راه کوهستانی راه می‌روی. مشتق، شیب زیر پای توست. اگر مثبت است، داری بالا می‌روی؛ اگر منفی است، پایین. پس اگر روی یک بازه مشتق همیشه منفی باشد، تابع آنجا اکیداً نزولی است (آزمون دی ۱۴۰۱). قله‌ها و دره‌ها کجا هستند؟ فقط جایی که شیب صفر می‌شود (بالای تپه صاف است) یا جایی که شیب تعریف نمی‌شود (یک نوک تیز). به این نقطه‌ها «نقطهٔ بحرانی» می‌گوییم (آزمون خرداد ۱۴۰۱).",
+      "en": "You are walking a mountain trail. The derivative is the slope under your feet. If it is positive you are climbing; if negative, going down. So if the derivative is always negative on an interval, the function is strictly decreasing there (Dey 1401 paper). Where are the peaks and valleys? Only where the slope becomes zero (the top of a hill is flat) or where the slope is not defined (a sharp point). These are called \"critical points\" (Khordad 1401 paper).",
+      "tr": "Rooye yek koore-rah-e koohestani rah miravi. Moshtagh, shib-e zir-e pa-ye tost. Agar mosbat ast, dari bala miravi; agar manfi ast, payin. Pas agar rooye yek baze moshtagh hamishe manfi bashad, tabe' anja ekidan nozooli ast (azmoon-e Dey 1401). Ghelle-ha va darre-ha koja hastand? Faghat jayi ke shib sefr mishavad (bala-ye tappe saf ast) ya jayi ke shib ta'rif nemishavad (yek nok-e tiz). Be in noghte-ha \"noghte-ye bohrani\" miguyim (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(x) > 0  ⟹  f ↑     ,     f'(x) < 0  ⟹  f ↓",
+     "caption": {
+      "fa": "روی یک بازه: مشتق مثبت یعنی اکیداً صعودی، منفی یعنی اکیداً نزولی",
+      "en": "On an interval: a positive derivative means strictly increasing, a negative one strictly decreasing",
+      "tr": "Rooye yek baze: moshtagh-e mosbat ya'ni ekidan sooudi, manfi ya'ni ekidan nozooli"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(c) = 0",
+     "caption": {
+      "fa": "یا `f'(c)` وجود ندارد، و c در دامنه است: نقطهٔ بحرانی",
+      "en": "or `f'(c)` does not exist, with c in the domain: a critical point",
+      "tr": "ya `f'(c)` vojood nadarad, va c dar damane ast: noghte-ye bohrani"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  f(x) = x^3 - 3x\n  f'(x) = 3(x + 1)(x - 1)\n\n  x      :      -1          1\n  f'(x)  :   +   0    -     0   +\n  f(x)   :   /  top   \\  bottom /",
+     "caption": {
+      "fa": "جدول علامت مشتق: بین نقطه‌های بحرانی علامت ثابت می‌ماند؛ پیکان‌ها جهت تابع را نشان می‌دهند.",
+      "en": "A sign chart for the derivative: between critical points the sign stays the same; the arrows show which way the function goes.",
+      "tr": "Jadval-e alamat-e moshtagh: beyn-e noghte-haye bohrani alamat sabet mimanad; peykan-ha jahat-e tabe' ra neshan midahand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: `f(x) = x²` کجا صعودی و کجا نزولی است؟",
+      "en": "Warm-up: where is `f(x) = x²` increasing and where decreasing?",
+      "tr": "Garm kardan: `f(x) = x²` koja sooudi va koja nozooli ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشتق را بگیر؛ علامتش همه چیز را می‌گوید.",
+        "en": "Take the derivative; its sign tells you everything.",
+        "tr": "Moshtagh ra begir; alamatash hame chiz ra migooyad."
+       },
+       "math": "f'(x) = 2x"
+      },
+      {
+       "text": {
+        "fa": "`2x` برای x های منفی منفی است و برای x های مثبت مثبت.",
+        "en": "`2x` is negative for negative x and positive for positive x.",
+        "tr": "`2x` baraye x-haye manfi manfi ast va baraye x-haye mosbat mosbat."
+       },
+       "math": "x < 0 : f' < 0     x > 0 : f' > 0"
+      }
+     ],
+     "answer": {
+      "fa": "روی `(−∞, 0]` نزولی، روی `[0, +∞)` صعودی",
+      "en": "Decreasing on `(−∞, 0]`, increasing on `[0, +∞)`",
+      "tr": "Rooye `(−∞, 0]` nozooli, rooye `[0, +∞)` sooudi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقطه‌های بحرانی `f(x) = x³ − 3x` (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the critical points of `f(x) = x³ − 3x` (as in the Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: noghte-haye bohrani-ye `f(x) = x³ − 3x` (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "چندجمله‌ای همه‌جا مشتق دارد، پس فقط باید جاهایی را پیدا کنیم که مشتق صفر است.",
+        "en": "A polynomial has a derivative everywhere, so we only need the places where the derivative is zero.",
+        "tr": "Chand-jomle-i hame-ja moshtagh darad, pas faghat bayad ja-hayi ra peyda konim ke moshtagh sefr ast."
+       },
+       "math": "f'(x) = 3x² − 3"
+      },
+      {
+       "text": {
+        "fa": "مشتق را صفر بگذار و تجزیه کن تا ریشه‌ها پیدا شوند.",
+        "en": "Set the derivative to zero and factor to find the roots.",
+        "tr": "Moshtagh ra sefr bogzar va tajziye kon ta rishe-ha peyda shavand."
+       },
+       "math": "3(x − 1)(x + 1) = 0"
+      }
+     ],
+     "answer": {
+      "fa": "`x = −1` و `x = 1`",
+      "en": "`x = −1` and `x = 1`",
+      "tr": "`x = −1` va `x = 1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: نقطهٔ بحرانی `f(x) = |x − 2|`",
+      "en": "Exam twist: the critical point of `f(x) = |x − 2|`",
+      "tr": "Pich-e emtehani: noghte-ye bohrani-ye `f(x) = |x − 2|`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشتق را نگاه کن: سمت چپ ۲ برابر `−1` است و سمت راست `+1`. هیچ‌جا صفر نمی‌شود.",
+        "en": "Look at the derivative: left of 2 it is `−1` and right of 2 it is `+1`. It is never zero.",
+        "tr": "Moshtagh ra negah kon: samt-e chap-e 2 barabar-e `−1` ast va samt-e rast `+1`. Hich-ja sefr nemishavad."
+       },
+       "math": "f'(x) = ±1   (x ≠ 2)"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: شرط دوم نقطهٔ بحرانی را فراموش نکن. در ۲ گوشهٔ تیز داریم و مشتق وجود ندارد، و ۲ در دامنه است.",
+        "en": "The twist: do not forget the second condition for a critical point. At 2 there is a sharp corner, the derivative does not exist, and 2 is in the domain.",
+        "tr": "Pich-e emtehan: shart-e dovvom-e noghte-ye bohrani ra faramoosh nakon. Dar 2 gooshe-ye tiz darim va moshtagh vojood nadarad, va 2 dar damane ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "و همین نقطه پایین‌ترین نقطهٔ نمودار است: دره‌ای با کف تیز.",
+        "en": "And this point is the lowest point of the graph: a valley with a sharp floor.",
+        "tr": "Va hamin noghte payin-tarin noghte-ye nemoodar ast: darre-i ba kaf-e tiz."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`x = 2` (مشتق وجود ندارد)",
+      "en": "`x = 2` (no derivative there)",
+      "tr": "`x = 2` (moshtagh vojood nadarad)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نقطهٔ بحرانی باید در دامنه باشد. `1/x` در صفر مشتق ندارد، ولی صفر نقطهٔ بحرانی نیست، چون اصلاً در دامنه نیست.",
+      "en": "A critical point must be in the domain. `1/x` has no derivative at zero, but zero is not a critical point, because it is not in the domain at all.",
+      "tr": "Noghte-ye bohrani bayad dar damane bashad. `1/x` dar sefr moshtagh nadarad, vali sefr noghte-ye bohrani nist, chon aslan dar damane nist."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هر نقطهٔ بحرانی قله یا دره نیست. `x³` در صفر مشتق صفر دارد، ولی هم قبل و هم بعدش بالا می‌رود؛ فقط یک لحظه صاف می‌شود.",
+      "en": "Not every critical point is a peak or a valley. `x³` has a zero derivative at 0, but it climbs both before and after; it only flattens for a moment.",
+      "tr": "Har noghte-ye bohrani ghelle ya darre nist. `x³` dar sefr moshtagh-e sefr darad, vali ham ghabl va ham ba'dash bala miravad; faghat yek lahze saf mishavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 962
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 5,
+   "unit": 2,
+   "key": "math-5-extrema",
+   "title": {
+    "fa": "ماکزیمم و مینیمم: آزمون‌های مشتق",
+    "en": "Maxima and minima: the derivative tests",
+    "tr": "Maximum va minimum: azmoon-haye moshtagh"
+   },
+   "summary": {
+    "fa": "قله یعنی بالا رفتن و بعد پایین آمدن؛ و روی بازهٔ بسته، دو سر بازه را فراموش نکن.",
+    "en": "A peak means going up and then down; and on a closed interval, do not forget the endpoints.",
+    "tr": "Ghelle ya'ni bala raftan va ba'd payin amadan; va rooye baze-ye baste, do sar-e baze ra faramoosh nakon."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بالای تپه",
+      "en": "Understand first: the top of a hill",
+      "tr": "Avval befahm: bala-ye tappe"
+     },
+     "body": {
+      "fa": "بالای تپه چه حسی دارد؟ قبلش داشتی بالا می‌رفتی و بعدش پایین می‌روی. پس اگر مشتق در یک نقطهٔ بحرانی از مثبت به منفی عوض شود، آنجا «ماکزیمم نسبی» است (آزمون دی ۱۴۰۰)؛ و از منفی به مثبت، «مینیمم نسبی». این آزمون مشتق اول است.",
+      "en": "What does the top of a hill feel like? Before it you were climbing, after it you go down. So if the derivative changes from positive to negative at a critical point, that is a \"relative maximum\" (Dey 1400 paper); from negative to positive, a \"relative minimum\". This is the first-derivative test.",
+      "tr": "Bala-ye tappe che hessi darad? Ghablash dashti bala mirafti va ba'dash payin miravi. Pas agar moshtagh dar yek noghte-ye bohrani az mosbat be manfi avaz shavad, anja \"maximum-e nesbi\" ast (azmoon-e Dey 1400); va az manfi be mosbat, \"minimum-e nesbi\". In azmoon-e moshtagh-e avval ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  f' :  +   0   -        -   0   +\n  f  :  /  max  \\        \\  min  /\n\n       relative max    relative min\n        (+ then -)      (- then +)",
+     "caption": {
+      "fa": "آزمون مشتق اول: علامت قبل و بعد از نقطهٔ بحرانی را مقایسه کن.",
+      "en": "The first-derivative test: compare the sign before and after the critical point.",
+      "tr": "Azmoon-e moshtagh-e avval: alamat-e ghabl va ba'd az noghte-ye bohrani ra moghayese kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آزمون مشتق دوم: اخم یا لبخند",
+      "en": "The second-derivative test: frown or smile",
+      "tr": "Azmoon-e moshtagh-e dovvom: akhm ya labkhand"
+     },
+     "body": {
+      "fa": "راه دوم، مشتق دوم است: می‌گوید منحنی چطور خم می‌شود. در نقطه‌ای که شیب صفر است، اگر منحنی مثل اخم رو به پایین خم شده باشد (`f'' < 0`)، آنجا ماکزیمم است (آزمون خرداد ۱۴۰۱)؛ اگر مثل لبخند رو به بالا (`f'' > 0`)، مینیمم.",
+      "en": "The second way is the second derivative: it says how the curve bends. At a point where the slope is zero, if the curve bends downward like a frown (`f'' < 0`), that is a maximum (Khordad 1401 paper); if it bends upward like a smile (`f'' > 0`), a minimum.",
+      "tr": "Rah-e dovvom, moshtagh-e dovvom ast: migooyad monhani chetor kham mishavad. Dar noghte-i ke shib sefr ast, agar monhani mesl-e akhm roo be payin kham shode bashad (`f'' < 0`)، anja maximum ast (azmoon-e Khordad 1401); agar mesl-e labkhand roo be bala (`f'' > 0`)، minimum."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(c) = 0 ,  f''(c) < 0",
+     "caption": {
+      "fa": "ماکزیمم نسبی در c (آزمون خرداد ۱۴۰۱)",
+      "en": "A relative maximum at c (Khordad 1401 paper)",
+      "tr": "Maximum-e nesbi dar c (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(c) = 0 ,  f''(c) > 0",
+     "caption": {
+      "fa": "مینیمم نسبی در c",
+      "en": "A relative minimum at c",
+      "tr": "Minimum-e nesbi dar c"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اکسترمم مطلق روی بازهٔ بسته",
+      "en": "Absolute extrema on a closed interval",
+      "tr": "Extremum-e motlagh rooye baze-ye baste"
+     },
+     "body": {
+      "fa": "روی بازهٔ بسته `[a, b]`، تابع پیوسته حتماً بیشترین و کمترین مقدار دارد. این مقدارها یا در نقطه‌های بحرانی داخل بازه‌اند یا در دو سر بازه (آزمون دی ۱۴۰۱). پس فهرست نامزدها را بنویس و مقدار تابع را در همه حساب کن.",
+      "en": "On a closed interval `[a, b]`, a continuous function always has a greatest and a least value. They are either at critical points inside the interval or at the two endpoints (Dey 1401 paper). So list the candidates and work out the function at every one.",
+      "tr": "Rooye baze-ye baste-ye `[a, b]`، tabe'-e peyvaste hatman bishtarin va kamtarin meghdar darad. In meghdar-ha ya dar noghte-haye bohrani-ye dakhel-e baze-and ya dar do sar-e baze (azmoon-e Dey 1401). Pas fehrest-e namzad-ha ra benevis va meghdar-e tabe' ra dar hame hesab kon."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ماکزیمم و مینیمم نسبی `f(x) = x³ − 3x` با آزمون مشتق اول",
+      "en": "Warm-up: the relative max and min of `f(x) = x³ − 3x` with the first-derivative test",
+      "tr": "Garm kardan: maximum va minimum-e nesbi-ye `f(x) = x³ − 3x` ba azmoon-e moshtagh-e avval"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نقطه‌های بحرانی را از واحد قبل داریم: `−1` و `1`. حالا علامت مشتق را دور و برشان بخوان.",
+        "en": "We have the critical points from the last unit: `−1` and `1`. Now read the sign of the derivative around them.",
+        "tr": "Noghte-haye bohrani ra az vahed-e ghabl darim: `−1` va `1`. Hala alamat-e moshtagh ra dor-o-bar-eshan bekhan."
+       },
+       "math": "f' : + , 0 , − , 0 , +"
+      },
+      {
+       "text": {
+        "fa": "در `−1` علامت از مثبت به منفی عوض می‌شود: قله. در ۱ از منفی به مثبت: دره. مقدار تابع را در هر کدام حساب کن.",
+        "en": "At `−1` the sign goes from positive to negative: a peak. At 1 from negative to positive: a valley. Work out the function at each.",
+        "tr": "Dar `−1` alamat az mosbat be manfi avaz mishavad: ghelle. Dar 1 az manfi be mosbat: darre. Meghdar-e tabe' ra dar har kodam hesab kon."
+       },
+       "math": "f(−1) = −1 + 3 = 2 ,   f(1) = 1 − 3 = −2"
+      }
+     ],
+     "answer": {
+      "fa": "ماکزیمم نسبی ۲ در `x = −1`؛ مینیمم نسبی `−2` در `x = 1`",
+      "en": "Relative max 2 at `x = −1`; relative min `−2` at `x = 1`",
+      "tr": "Maximum-e nesbi 2 dar `x = −1`؛ minimum-e nesbi `−2` dar `x = 1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: همان تابع با آزمون مشتق دوم (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the same function with the second-derivative test (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: haman tabe' ba azmoon-e moshtagh-e dovvom (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشتق دوم را بگیر.",
+        "en": "Take the second derivative.",
+        "tr": "Moshtagh-e dovvom ra begir."
+       },
+       "math": "f'(x) = 3x² − 3   ⟹   f''(x) = 6x"
+      },
+      {
+       "text": {
+        "fa": "در هر نقطهٔ بحرانی علامت مشتق دوم را ببین: منفی یعنی اخم و قله، مثبت یعنی لبخند و دره.",
+        "en": "Check the sign of the second derivative at each critical point: negative means a frown and a peak, positive a smile and a valley.",
+        "tr": "Dar har noghte-ye bohrani alamat-e moshtagh-e dovvom ra bebin: manfi ya'ni akhm va ghelle, mosbat ya'ni labkhand va darre."
+       },
+       "math": "f''(−1) = −6 < 0 ,   f''(1) = 6 > 0"
+      },
+      {
+       "text": {
+        "fa": "همان جواب آزمون مشتق اول؛ دو راه، یک نتیجه.",
+        "en": "The same answer as the first-derivative test; two routes, one result.",
+        "tr": "Haman javab-e azmoon-e moshtagh-e avval; do rah, yek natije."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ماکزیمم در `x = −1`، مینیمم در `x = 1`",
+      "en": "Max at `x = −1`, min at `x = 1`",
+      "tr": "Maximum dar `x = −1`، minimum dar `x = 1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: بیشترین و کمترین مقدار `f(x) = x³ − 3x` روی `[0, 3]` (مثل آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: the greatest and least values of `f(x) = x³ − 3x` on `[0, 3]` (as in the Dey 1401 paper)",
+      "tr": "Pich-e emtehani: bishtarin va kamtarin meghdar-e `f(x) = x³ − 3x` rooye `[0, 3]` (mesl-e azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ اول: فقط نقطه‌های بحرانی «داخل» بازه حساب‌اند. `−1` بیرون `[0, 3]` است، پس فقط ۱ می‌ماند.",
+        "en": "First twist: only critical points inside the interval count. `−1` is outside `[0, 3]`, so only 1 is left.",
+        "tr": "Pich-e avval: faghat noghte-haye bohrani-ye \"dakhel\"-e baze hesab-and. `−1` biroon-e `[0, 3]` ast, pas faghat 1 mimanad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پیچ دوم: دو سر بازه هم نامزدند. مقدار تابع را در هر سه نامزد حساب کن.",
+        "en": "Second twist: the endpoints are candidates too. Work out the function at all three candidates.",
+        "tr": "Pich-e dovvom: do sar-e baze ham namzad-and. Meghdar-e tabe' ra dar har se namzad hesab kon."
+       },
+       "math": "f(0) = 0 ,   f(1) = −2 ,   f(3) = 27 − 9 = 18"
+      },
+      {
+       "text": {
+        "fa": "بزرگ‌ترین و کوچک‌ترین را بردار. بیشترین مقدار در سر بازه است، نه در نقطهٔ بحرانی.",
+        "en": "Pick the biggest and the smallest. The greatest value is at an endpoint, not at a critical point.",
+        "tr": "Bozorg-tarin va koochak-tarin ra bardar. Bishtarin meghdar dar sar-e baze ast, na dar noghte-ye bohrani."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بیشترین ۱۸ در `x = 3`، کمترین `−2` در `x = 1`",
+      "en": "Greatest 18 at `x = 3`, least `−2` at `x = 1`",
+      "tr": "Bishtarin 18 dar `x = 3`، kamtarin `−2` dar `x = 1`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اگر `f''(c) = 0` شد، آزمون مشتق دوم چیزی نمی‌گوید. مثلاً `x⁴` در صفر مینیمم دارد ولی مشتق دومش آنجا صفر است. در این حالت سراغ آزمون مشتق اول برو.",
+      "en": "If `f''(c) = 0`, the second-derivative test says nothing. For example `x⁴` has a minimum at zero, but its second derivative there is zero. In that case use the first-derivative test.",
+      "tr": "Agar `f''(c) = 0` shod, azmoon-e moshtagh-e dovvom chizi nemiguyad. Masalan `x⁴` dar sefr minimum darad vali moshtagh-e dovvomash anja sefr ast. Dar in halat soragh-e azmoon-e moshtagh-e avval boro."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "روی بازهٔ بسته، دو سر بازه را همیشه حساب کن؛ و نقطه‌های بحرانی بیرون از بازه را کنار بگذار.",
+      "en": "On a closed interval, always work out the endpoints; and leave out critical points outside the interval.",
+      "tr": "Rooye baze-ye baste, do sar-e baze ra hamishe hesab kon; va noghte-haye bohrani-ye biroon az baze ra kenar bogzar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 962
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 964
+    },
+    {
+     "session": "1401-Dey",
+     "number": 962
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 5,
+   "unit": 3,
+   "key": "math-5-concavity",
+   "title": {
+    "fa": "تقعر و نقطهٔ عطف",
+    "en": "Concavity and inflection points",
+    "tr": "Taghaor va noghte-ye atf"
+   },
+   "summary": {
+    "fa": "لیوانی که آب نگه می‌دارد یا آب را می‌ریزد، و جایی که جاده جهت پیچش را عوض می‌کند.",
+    "en": "A cup that holds water or one that spills it, and the place where a road switches the way it bends.",
+    "tr": "Livani ke ab negah midarad ya ab ra mirizad, va jayi ke jadde jahat-e pichesh ra avaz mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کاسه یا کلاه",
+      "en": "Understand first: a bowl or a cap",
+      "tr": "Avval befahm: kase ya kolah"
+     },
+     "body": {
+      "fa": "اگر منحنی مثل یک کاسه یا لبخند باشد، آب را نگه می‌دارد: «تقعر رو به بالا». اگر مثل یک کلاه یا اخم باشد، آب را می‌ریزد: «تقعر رو به پایین». مشتق دوم این را می‌گوید: اگر روی یک بازه `f'' > 0` باشد، تقعر رو به بالاست (آزمون خرداد ۱۴۰۱)، چون شیب مدام بیشتر می‌شود.",
+      "en": "If the curve is shaped like a bowl or a smile, it holds water: \"concave up\". If it is shaped like a cap or a frown, it spills water: \"concave down\". The second derivative tells you which: if `f'' > 0` on an interval, the curve is concave up there (Khordad 1401 paper), because the slope keeps increasing.",
+      "tr": "Agar monhani mesl-e yek kase ya labkhand bashad, ab ra negah midarad: \"taghaor roo be bala\". Agar mesl-e yek kolah ya akhm bashad, ab ra mirizad: \"taghaor roo be payin\". Moshtagh-e dovvom in ra migooyad: agar rooye yek baze `f'' > 0` bashad, taghaor roo be balast (azmoon-e Khordad 1401), chon shib modam bishtar mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   concave up         concave down\n    f'' > 0             f'' < 0\n\n   \\        /           .----.\n    \\      /          .'      `.\n     `.__.'          /          \\\n   holds water        spills water",
+     "caption": {
+      "fa": "رو به بالا مثل کاسه آب را نگه می‌دارد؛ رو به پایین مثل کلاه آب را می‌ریزد.",
+      "en": "Concave up holds water like a bowl; concave down spills it like a cap.",
+      "tr": "Roo be bala mesl-e kase ab ra negah midarad; roo be payin mesl-e kolah ab ra mirizad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f''(x) > 0  ⟹  ∪     ,     f''(x) < 0  ⟹  ∩",
+     "caption": {
+      "fa": "∪ یعنی تقعر رو به بالا، ∩ یعنی رو به پایین",
+      "en": "∪ means concave up, ∩ means concave down",
+      "tr": "∪ ya'ni taghaor roo be bala, ∩ ya'ni roo be payin"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نقطهٔ عطف: عوض شدن پیچ",
+      "en": "An inflection point: the bend switches",
+      "tr": "Noghte-ye atf: avaz shodan-e pich"
+     },
+     "body": {
+      "fa": "حالا جاده‌ای را تصور کن که اول به چپ می‌پیچد و بعد به راست. نقطه‌ای که جهت پیچش عوض می‌شود «نقطهٔ عطف» است: جایی روی نمودار پیوسته که تقعر عوض می‌شود و خط مماس دارد (آزمون دی ۱۴۰۰).",
+      "en": "Now picture a road that first bends left and then bends right. The point where the bend switches is an \"inflection point\": a point on a continuous graph where the concavity changes and there is a tangent line (Dey 1400 paper).",
+      "tr": "Hala jadde-i ra tasavvor kon ke avval be chap mipichad va ba'd be rast. Noghte-i ke jahat-e pichesh avaz mishavad \"noghte-ye atf\" ast: jayi rooye nemoodar-e peyvaste ke taghaor avaz mishavad va khat-e momas darad (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "                            /\n                          .'\n                     __.-'\n  -----------------*-----------> x\n            __.-''\n         .-'\n       .'\n      /\n\n  left of *: concave down\n  right of *: concave up\n  * = inflection point",
+     "caption": {
+      "fa": "در نقطهٔ عطف، منحنی از رو به پایین به رو به بالا می‌رود (یا برعکس).",
+      "en": "At an inflection point the curve goes from concave down to concave up (or the other way).",
+      "tr": "Dar noghte-ye atf, monhani az roo be payin be roo be bala miravad (ya bar-aks)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: تقعر `f(x) = x²`",
+      "en": "Warm-up: the concavity of `f(x) = x²`",
+      "tr": "Garm kardan: taghaor-e `f(x) = x²`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو بار مشتق بگیر.",
+        "en": "Differentiate twice.",
+        "tr": "Do bar moshtagh begir."
+       },
+       "math": "f'(x) = 2x ,   f''(x) = 2"
+      },
+      {
+       "text": {
+        "fa": "مشتق دوم همه‌جا مثبت است، پس همه‌جا مثل کاسه است.",
+        "en": "The second derivative is positive everywhere, so it is a bowl everywhere.",
+        "tr": "Moshtagh-e dovvom hame-ja mosbat ast, pas hame-ja mesl-e kase ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "همه‌جا رو به بالا",
+      "en": "Concave up everywhere",
+      "tr": "Hame-ja roo be bala"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقطهٔ عطف `f(x) = x³ − 3x` (مثل آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: the inflection point of `f(x) = x³ − 3x` (as in the Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: noghte-ye atf-e `f(x) = x³ − 3x` (mesl-e azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشتق دوم را بگیر؛ نقطهٔ عطف جایی است که علامتش عوض شود.",
+        "en": "Take the second derivative; an inflection point is where its sign changes.",
+        "tr": "Moshtagh-e dovvom ra begir; noghte-ye atf jayi ast ke alamatash avaz shavad."
+       },
+       "math": "f''(x) = 6x"
+      },
+      {
+       "text": {
+        "fa": "`6x` برای x منفی منفی است (کلاه) و برای x مثبت مثبت (کاسه). علامت در صفر عوض می‌شود.",
+        "en": "`6x` is negative for negative x (a cap) and positive for positive x (a bowl). The sign changes at zero.",
+        "tr": "`6x` baraye x-e manfi manfi ast (kolah) va baraye x-e mosbat mosbat (kase). Alamat dar sefr avaz mishavad."
+       },
+       "math": "x < 0 : f'' < 0     x > 0 : f'' > 0"
+      },
+      {
+       "text": {
+        "fa": "ارتفاع نقطه را هم بنویس؛ نقطهٔ عطف یک «نقطه» است، نه فقط یک x.",
+        "en": "Write the height of the point too; an inflection point is a \"point\", not just an x.",
+        "tr": "Ertefa'-e noghte ra ham benevis; noghte-ye atf yek \"noghte\" ast, na faghat yek x."
+       },
+       "math": "f(0) = 0"
+      }
+     ],
+     "answer": {
+      "fa": "`(0, 0)`",
+      "en": "`(0, 0)`",
+      "tr": "`(0, 0)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا `f(x) = x⁴` در صفر نقطهٔ عطف دارد؟",
+      "en": "Exam twist: does `f(x) = x⁴` have an inflection point at zero?",
+      "tr": "Pich-e emtehani: aya `f(x) = x⁴` dar sefr noghte-ye atf darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مشتق دوم را بگیر و صفر را بگذار.",
+        "en": "Take the second derivative and put in zero.",
+        "tr": "Moshtagh-e dovvom ra begir va sefr ra bogzar."
+       },
+       "math": "f''(x) = 12x² ,   f''(0) = 0"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: صفر شدن مشتق دوم کافی نیست؛ باید علامتش عوض شود. `12x²` هم قبل از صفر مثبت است و هم بعد از آن.",
+        "en": "The twist: the second derivative being zero is not enough; its sign has to change. `12x²` is positive both before zero and after it.",
+        "tr": "Pich-e emtehan: sefr shodan-e moshtagh-e dovvom kafi nist; bayad alamatash avaz shavad. `12x²` ham ghabl az sefr mosbat ast va ham ba'd az an."
+       }
+      },
+      {
+       "text": {
+        "fa": "تقعر عوض نمی‌شود، پس نقطهٔ عطف نیست. در واقع صفر کف کاسه است: مینیمم.",
+        "en": "The concavity does not change, so it is not an inflection point. In fact zero is the bottom of the bowl: a minimum.",
+        "tr": "Taghaor avaz nemishavad, pas noghte-ye atf nist. Dar vaghe' sefr kaf-e kase ast: minimum."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خیر؛ مشتق دوم صفر است ولی علامتش عوض نمی‌شود",
+      "en": "No; the second derivative is zero but does not change sign",
+      "tr": "Kheyr; moshtagh-e dovvom sefr ast vali alamatash avaz nemishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`f''(c) = 0` نقطهٔ عطف را تضمین نمی‌کند. همیشه بررسی کن که علامت مشتق دوم دو طرف c واقعاً عوض شود.",
+      "en": "`f''(c) = 0` does not guarantee an inflection point. Always check that the sign of the second derivative really changes on the two sides of c.",
+      "tr": "`f''(c) = 0` noghte-ye atf ra tazmin nemikonad. Hamishe barresi kon ke alamat-e moshtagh-e dovvom do taraf-e c vaghe'an avaz shavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نقطهٔ عطف باید روی نمودار باشد و خط مماس داشته باشد. جایی که تابع تعریف نشده، نقطهٔ عطف نیست، حتی اگر تقعر آنجا عوض شود.",
+      "en": "An inflection point has to be on the graph and have a tangent line. Where the function is undefined there is no inflection point, even if the concavity changes there.",
+      "tr": "Noghte-ye atf bayad rooye nemoodar bashad va khat-e momas dashte bashad. Jayi ke tabe' ta'rif nashode, noghte-ye atf nist, hatta agar taghaor anja avaz shavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1400-Dey",
+     "number": 963
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 5,
+   "unit": 4,
+   "key": "math-5-optimization",
+   "title": {
+    "fa": "بهینه‌سازی",
+    "en": "Optimization",
+    "tr": "Behine-sazi"
+   },
+   "summary": {
+    "fa": "بیشترین سود، کمترین هزینه، بهترین اندازه: بالای منحنی را با مشتق پیدا کن.",
+    "en": "The greatest profit, the lowest cost, the best size: find the top of the curve with the derivative.",
+    "tr": "Bishtarin sood, kamtarin hazine, behtarin andaze: bala-ye monhani ra ba moshtagh peyda kon."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نردهٔ کشاورز",
+      "en": "Understand first: the farmer's fence",
+      "tr": "Avval befahm: narde-ye keshavarz"
+     },
+     "body": {
+      "fa": "کشاورزی ۴۰ متر نرده دارد و می‌خواهد بزرگ‌ترین زمین مستطیلی را محصور کند. زمین خیلی دراز و باریک، مساحت کمی دارد؛ زمین خیلی پهن و کوتاه هم. پس جایی در وسط، بهترین اندازه است. اگر مساحت را تابعی از طول بنویسی، این «بهترین» همان قلهٔ نمودار مساحت است، و قله را با صفر کردن مشتق پیدا می‌کنیم. استفاده از مشتق برای بیشترین سود، کمترین هزینه یا بهترین ابعاد یک شکل را «بهینه‌سازی» می‌گویند (آزمون دی ۱۴۰۰).",
+      "en": "A farmer has 40 metres of fencing and wants to enclose the biggest rectangular field. A very long thin field has little area; so does a very wide short one. So somewhere in between is the best size. If you write the area as a function of the length, that \"best\" is the peak of the area graph, and we find the peak by setting the derivative to zero. Using the derivative to find the greatest profit, the lowest cost or the best dimensions of a shape is called \"optimization\" (Dey 1400 paper).",
+      "tr": "Keshavarzi 40 metr narde darad va mikhahad bozorg-tarin zamin-e mostatili ra mahsoor konad. Zamin-e kheyli deraz va barik, masahat-e kami darad; zamin-e kheyli pahn va kootah ham. Pas jayi dar vasat, behtarin andaze ast. Agar masahat ra tabe'i az tool benevisi, in \"behtarin\" haman ghelle-ye nemoodar-e masahat ast, va ghelle ra ba sefr kardan-e moshtagh peyda mikonim. Estefade az moshtagh baraye bishtarin sood, kamtarin hazine ya behtarin ab'ad-e yek shekl ra \"behine-sazi\" migooyand (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          x\n     +----------+\n     |          |\n   y |  area A  | y\n     |          |\n     +----------+\n          x\n\n   fence: 2x + 2y = 40\n   area:  A = x * y",
+     "caption": {
+      "fa": "دو مجهول داریم ولی یک رابطه هم داریم؛ با آن یکی را حذف کن.",
+      "en": "There are two unknowns but also one equation linking them; use it to remove one.",
+      "tr": "Do majhool darim vali yek rabete ham darim; ba an yeki ra hazf kon."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  1  draw a picture, name the sizes\n  2  write what to make biggest\n     or smallest\n  3  use the constraint to keep\n     only one variable\n  4  set the derivative to zero\n  5  check it is a max or a min",
+     "caption": {
+      "fa": "پنج قدم بهینه‌سازی؛ در هر مسئله همین ترتیب را برو.",
+      "en": "The five steps of optimization; follow the same order in every problem.",
+      "tr": "Panj ghadam-e behine-sazi; dar har mas'ale hamin tartib ra boro."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: دو عدد که جمعشان ۱۰ است و حاصل‌ضربشان بیشترین است",
+      "en": "Warm-up: two numbers that add up to 10 with the greatest product",
+      "tr": "Garm kardan: do adad ke jam'eshan 10 ast va hasel-zarbeshan bishtarin ast"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "یکی را x بنامیم؛ دیگری باید `10 − x` باشد تا جمع ۱۰ شود.",
+        "en": "Call one of them x; the other must be `10 − x` for the sum to be 10.",
+        "tr": "Yeki ra x benamim; digari bayad `10 − x` bashad ta jam' 10 shavad."
+       },
+       "math": "P(x) = x(10 − x) = 10x − x²"
+      },
+      {
+       "text": {
+        "fa": "قله جایی است که شیب صفر است.",
+        "en": "The peak is where the slope is zero.",
+        "tr": "Ghelle jayi ast ke shib sefr ast."
+       },
+       "math": "P'(x) = 10 − 2x = 0   ⟹   x = 5"
+      },
+      {
+       "text": {
+        "fa": "امتحان قله: `P'' = −2` منفی است، پس اخم و ماکزیمم.",
+        "en": "Check it is a peak: `P'' = −2` is negative, so a frown and a maximum.",
+        "tr": "Emtehan-e ghelle: `P'' = −2` manfi ast, pas akhm va maximum."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "۵ و ۵؛ حاصل‌ضرب ۲۵",
+      "en": "5 and 5; product 25",
+      "tr": "5 va 5; hasel-zarb 25"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: بزرگ‌ترین مستطیل با ۴۰ متر نرده (مسئلهٔ کلاسیک کتاب)",
+      "en": "Textbook and exam: the biggest rectangle with 40 metres of fence (the classic textbook problem)",
+      "tr": "Mas'ale-ye ketab va emtehan: bozorg-tarin mostatil ba 40 metr narde (mas'ale-ye kelasik-e ketab)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رابطهٔ نرده را برای y حل کن تا فقط یک متغیر بماند.",
+        "en": "Solve the fence equation for y so only one variable is left.",
+        "tr": "Rabete-ye narde ra baraye y hal kon ta faghat yek moteghayyer bemanad."
+       },
+       "math": "2x + 2y = 40   ⟹   y = 20 − x"
+      },
+      {
+       "text": {
+        "fa": "مساحت را فقط بر حسب x بنویس.",
+        "en": "Write the area in terms of x only.",
+        "tr": "Masahat ra faghat bar hasb-e x benevis."
+       },
+       "math": "A(x) = x(20 − x) = 20x − x²"
+      },
+      {
+       "text": {
+        "fa": "مشتق را صفر بگذار. x باید بین ۰ و ۲۰ باشد، و ۱۰ هست.",
+        "en": "Set the derivative to zero. x has to be between 0 and 20, and 10 is.",
+        "tr": "Moshtagh ra sefr bogzar. x bayad beyn-e 0 va 20 bashad, va 10 hast."
+       },
+       "math": "A'(x) = 20 − 2x = 0   ⟹   x = 10 ,  y = 10"
+      },
+      {
+       "text": {
+        "fa": "`A'' = −2 < 0`، پس ماکزیمم است. بهترین مستطیل، مربع است.",
+        "en": "`A'' = −2 < 0`, so it is a maximum. The best rectangle is a square.",
+        "tr": "`A'' = −2 < 0`، pas maximum ast. Behtarin mostatil, morabba' ast."
+       },
+       "math": "A(10) = 100"
+      }
+     ],
+     "answer": {
+      "fa": "مربع ۱۰ در ۱۰؛ مساحت ۱۰۰ متر مربع",
+      "en": "A 10 by 10 square; area 100 square metres",
+      "tr": "Morabba'-e 10 dar 10; masahat 100 metr-e morabba'"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: همان ۴۰ متر نرده، ولی یک ضلع کنار رودخانه است و نرده نمی‌خواهد",
+      "en": "Exam twist: the same 40 metres of fence, but one side runs along a river and needs no fence",
+      "tr": "Pich-e emtehani: haman 40 metr narde, vali yek zel' kenar-e roodkhane ast va narde nemikhahad"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: رابطه عوض شده. فقط سه ضلع نرده دارند: دو ضلع x و یک ضلع y.",
+        "en": "The twist: the equation has changed. Only three sides are fenced: two sides x and one side y.",
+        "tr": "Pich-e emtehan: rabete avaz shode. Faghat se zel' narde darand: do zel'-e x va yek zel'-e y."
+       },
+       "math": "2x + y = 40   ⟹   y = 40 − 2x"
+      },
+      {
+       "text": {
+        "fa": "مساحت را بر حسب x بنویس و مشتق بگیر.",
+        "en": "Write the area in terms of x and differentiate.",
+        "tr": "Masahat ra bar hasb-e x benevis va moshtagh begir."
+       },
+       "math": "A(x) = x(40 − 2x) = 40x − 2x² ,   A'(x) = 40 − 4x"
+      },
+      {
+       "text": {
+        "fa": "مشتق را صفر کن. این بار جواب مربع نیست؛ ضلع کنار رودخانه دو برابر است.",
+        "en": "Set the derivative to zero. This time the answer is not a square; the side along the river is twice as long.",
+        "tr": "Moshtagh ra sefr kon. In bar javab morabba' nist; zel'-e kenar-e roodkhane do barabar ast."
+       },
+       "math": "x = 10 ,   y = 20 ,   A = 200"
+      }
+     ],
+     "answer": {
+      "fa": "۱۰ در ۲۰؛ مساحت ۲۰۰ متر مربع",
+      "en": "10 by 20; area 200 square metres",
+      "tr": "10 dar 20; masahat 200 metr-e morabba'"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از صفر کردن مشتق، بررسی کن که واقعاً ماکزیمم (یا مینیمم) است و جواب در دامنهٔ معقول است (طول منفی یا بیشتر از نرده معنا ندارد).",
+      "en": "After setting the derivative to zero, check that it really is a maximum (or minimum) and that the answer is in a sensible range (a negative length, or one longer than the fence, makes no sense).",
+      "tr": "Ba'd az sefr kardan-e moshtagh, barresi kon ke vaghe'an maximum (ya minimum) ast va javab dar damane-ye ma'ghool ast (tool-e manfi ya bishtar az narde ma'na nadarad)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "به همان چیزی جواب بده که سؤال پرسیده: ابعاد یا مساحت؟ پیدا کردن `x = 10` وقتی سؤال مساحت را خواسته، نصف کار است.",
+      "en": "Answer exactly what the question asks: the dimensions or the area? Finding `x = 10` when the question wants the area is only half the job.",
+      "tr": "Be haman chizi javab bede ke so'al porside: ab'ad ya masahat? Peyda kardan-e `x = 10` vaghti so'al masahat ra khaste, nesf-e kar ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 964
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 5,
+   "unit": 5,
+   "key": "math-5-mean-value",
+   "title": {
+    "fa": "قضیهٔ مقدار میانگین",
+    "en": "The mean value theorem",
+    "tr": "Ghaziye-ye meghdar-e miyangin"
+   },
+   "summary": {
+    "fa": "اگر سرعت متوسطت ۷۵ بوده، در لحظه‌ای سرعت‌سنج دقیقاً ۷۵ را نشان داده است.",
+    "en": "If your average speed was 75, at some moment the speedometer showed exactly 75.",
+    "tr": "Agar sor'at-e motavasetat 75 boode, dar lahze-i sor'at-sanj daghighan 75 ra neshan dade ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سرعت‌سنج و سرعت متوسط",
+      "en": "Understand first: the speedometer and the average speed",
+      "tr": "Avval befahm: sor'at-sanj va sor'at-e motavaset"
+     },
+     "body": {
+      "fa": "۱۵۰ کیلومتر را در ۲ ساعت رفته‌ای؛ سرعت متوسطت ۷۵ کیلومتر بر ساعت بوده. اگر ماشین پرش نکرده باشد (حرکت پیوسته و نرم)، دست‌کم یک لحظه بوده که سرعت‌سنج دقیقاً ۷۵ را نشان داده: گاهی کمتر رفته‌ای و گاهی بیشتر، پس جایی از ۷۵ گذشته‌ای. قضیهٔ مقدار میانگین همین را می‌گوید: اگر f روی `[a, b]` پیوسته و روی `(a, b)` مشتق‌پذیر باشد، نقطه‌ای مثل c هست که مشتق آنجا برابر آهنگ متوسط است (آزمون خرداد ۱۴۰۱).",
+      "en": "You drove 150 km in 2 hours; your average speed was 75 km/h. If the car never jumped (smooth, continuous motion), there was at least one moment when the speedometer showed exactly 75: sometimes you were slower and sometimes faster, so somewhere you passed 75. The mean value theorem says exactly this: if f is continuous on `[a, b]` and differentiable on `(a, b)`, there is a point c where the derivative equals the average rate (Khordad 1401 paper).",
+      "tr": "150 kilometr ra dar 2 sa'at rafte-i; sor'at-e motavasetat 75 kilometr bar sa'at boode. Agar mashin paresh nakarde bashad (harekat-e peyvaste va narm), dast-e kam yek lahze boode ke sor'at-sanj daghighan 75 ra neshan dade: gahi kamtar rafte-i va gahi bishtar, pas jayi az 75 gozashte-i. Ghaziye-ye meghdar-e miyangin hamin ra migooyad: agar f rooye `[a, b]` peyvaste va rooye `(a, b)` moshtagh-pazir bashad, noghte-i mesl-e c hast ke moshtagh anja barabar-e ahang-e motavaset ast (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "f'(c) = (f(b) − f(a)) / (b − a)",
+     "caption": {
+      "fa": "برای دست‌کم یک c در `(a, b)` (آزمون خرداد ۱۴۰۱)",
+      "en": "for at least one c in `(a, b)` (Khordad 1401 paper)",
+      "tr": "baraye dast-e kam yek c dar `(a, b)` (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تصویرش: مماس موازی قاطع",
+      "en": "The picture: a tangent parallel to the secant",
+      "tr": "Tasvirash: momas-e movazi-ye ghate'"
+     },
+     "body": {
+      "fa": "روی نمودار یعنی: خط مماس در نقطهٔ c با خط قاطع `AB` موازی است. ساده‌ترین حالت را ببین: اگر `f(a) = f(b)` باشد، قاطع افقی است، پس جایی بین دو سر، بالای یک تپه یا ته یک دره، مماس هم افقی است. هر حالت دیگر همین تصویر است که کج شده.",
+      "en": "On a graph it means: the tangent at the point c is parallel to the secant `AB`. Look at the simplest case: if `f(a) = f(b)` the secant is flat, so somewhere between the ends, at the top of a hill or the bottom of a valley, the tangent is flat too. Every other case is the same picture tilted.",
+      "tr": "Rooye nemoodar ya'ni: khat-e momas dar noghte-ye c ba khat-e ghate'-e AB movazi ast. Sade-tarin halat ra bebin: agar `f(a) = f(b)` bashad, ghate' ofoghi ast, pas jayi beyn-e do sar, bala-ye yek tappe ya tah-e yek darre, momas ham ofoghi ast. Har halat-e digar hamin tasvir ast ke kaj shode."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            c\n         .--*--.\n       .' ----- `.   tangent at c\n     .'           `. is flat, as AB\n  A *===============* B\n    a               b\n\n  tilt the picture: same idea",
+     "caption": {
+      "fa": "وقتی دو سر هم‌ارتفاع‌اند، جایی بین آن‌ها مماس افقی است؛ کج‌شدهٔ همین تصویر، قضیهٔ مقدار میانگین است.",
+      "en": "When the two ends are at the same height, somewhere between them the tangent is flat; tilt that picture and you have the mean value theorem.",
+      "tr": "Vaghti do sar ham-ertefa'-and, jayi beyn-e an-ha momas ofoghi ast; kaj-shode-ye hamin tasvir, ghaziye-ye meghdar-e miyangin ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: سفر ۱۵۰ کیلومتری در ۲ ساعت",
+      "en": "Warm-up: a 150 km trip in 2 hours",
+      "tr": "Garm kardan: safar-e 150 kilometri dar 2 sa'at"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آهنگ متوسط را حساب کن: تغییر مکان تقسیم بر تغییر زمان.",
+        "en": "Work out the average rate: the change in position divided by the change in time.",
+        "tr": "Ahang-e motavaset ra hesab kon: taghyir-e makan taghsim bar taghyir-e zaman."
+       },
+       "math": "150 / 2 = 75"
+      },
+      {
+       "text": {
+        "fa": "حرکت ماشین پیوسته و نرم است، پس شرط‌های قضیه برقرارند.",
+        "en": "The car's motion is continuous and smooth, so the conditions of the theorem hold.",
+        "tr": "Harekat-e mashin peyvaste va narm ast, pas shart-haye ghaziye barghrar-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دست‌کم یک لحظه، سرعت دقیقاً ۷۵ کیلومتر بر ساعت بوده",
+      "en": "At least at one moment the speed was exactly 75 km/h",
+      "tr": "Dast-e kam yek lahze, sor'at daghighan 75 kilometr bar sa'at boode"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: c را برای `f(x) = x²` روی `[1, 3]` پیدا کن (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: find c for `f(x) = x²` on `[1, 3]` (as in the Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: c ra baraye `f(x) = x²` rooye `[1, 3]` peyda kon (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "چندجمله‌ای همه‌جا پیوسته و مشتق‌پذیر است؛ شرط‌ها برقرارند. آهنگ متوسط را حساب کن.",
+        "en": "A polynomial is continuous and differentiable everywhere; the conditions hold. Work out the average rate.",
+        "tr": "Chand-jomle-i hame-ja peyvaste va moshtagh-pazir ast; shart-ha barghrar-and. Ahang-e motavaset ra hesab kon."
+       },
+       "math": "(9 − 1) / (3 − 1) = 4"
+      },
+      {
+       "text": {
+        "fa": "مشتق را برابر همین عدد بگذار.",
+        "en": "Set the derivative equal to that number.",
+        "tr": "Moshtagh ra barabar-e hamin adad bogzar."
+       },
+       "math": "f'(c) = 2c = 4   ⟹   c = 2"
+      },
+      {
+       "text": {
+        "fa": "بررسی کن c واقعاً داخل `(1, 3)` باشد. هست.",
+        "en": "Check that c really is inside `(1, 3)`. It is.",
+        "tr": "Barresi kon c vaghe'an dakhel-e `(1, 3)` bashad. Hast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`c = 2`",
+      "en": "`c = 2`",
+      "tr": "`c = 2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا قضیه برای `f(x) = |x|` روی `[−1, 1]` نقطهٔ c می‌دهد؟",
+      "en": "Exam twist: does the theorem give a point c for `f(x) = |x|` on `[−1, 1]`?",
+      "tr": "Pich-e emtehani: aya ghaziye baraye `f(x) = |x|` rooye `[−1, 1]` noghte-ye c midahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آهنگ متوسط را حساب کن: دو سر هم‌ارتفاع‌اند.",
+        "en": "Work out the average rate: the two ends are at the same height.",
+        "tr": "Ahang-e motavaset ra hesab kon: do sar ham-ertefa'-and."
+       },
+       "math": "(1 − 1) / (1 − (−1)) = 0"
+      },
+      {
+       "text": {
+        "fa": "ولی مشتق `|x|` فقط `−1` یا `+1` است و هیچ‌جا صفر نمی‌شود. قضیه شکست خورد؟",
+        "en": "But the derivative of `|x|` is only `−1` or `+1` and is never zero. Did the theorem fail?",
+        "tr": "Vali moshtagh-e `|x|` faghat `−1` ya `+1` ast va hich-ja sefr nemishavad. Ghaziye shekast khord?"
+       }
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: نه؛ شرط دوم برقرار نیست. `|x|` در صفر گوشه دارد و روی `(−1, 1)` مشتق‌پذیر نیست، پس قضیه اصلاً قولی نداده.",
+        "en": "The twist: no; the second condition does not hold. `|x|` has a corner at zero and is not differentiable on `(−1, 1)`, so the theorem never promised anything.",
+        "tr": "Pich-e emtehan: na; shart-e dovvom barghrar nist. `|x|` dar sefr gooshe darad va rooye `(−1, 1)` moshtagh-pazir nist, pas ghaziye aslan gholi nadade."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خیر؛ چون شرط مشتق‌پذیری برقرار نیست",
+      "en": "No; because the differentiability condition fails",
+      "tr": "Kheyr; chon shart-e moshtagh-paziri barghrar nist"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیش از استفاده از قضیه، هر دو شرط را بررسی کن: پیوستگی روی بازهٔ بسته و مشتق‌پذیری روی بازهٔ باز. بدون آن‌ها، قضیه چیزی تضمین نمی‌کند.",
+      "en": "Before using the theorem, check both conditions: continuity on the closed interval and differentiability on the open one. Without them, the theorem guarantees nothing.",
+      "tr": "Pish az estefade az ghaziye, har do shart ra barresi kon: peyvastegi rooye baze-ye baste va moshtagh-paziri rooye baze-ye baz. Bedoon-e an-ha, ghaziye chizi tazmin nemikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "c باید «داخل» بازه باشد، نه یکی از دو سر. اگر جوابی خارج `(a, b)` به دست آمد، آن را کنار بگذار.",
+      "en": "c must be strictly inside the interval, not at either end. If you get an answer outside `(a, b)`, discard it.",
+      "tr": "c bayad \"dakhel\"-e baze bashad, na yeki az do sar. Agar javabi kharej-e `(a, b)` be dast amad, an ra kenar bogzar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 967
+    }
+   ]
+  }
+ ]
+}
