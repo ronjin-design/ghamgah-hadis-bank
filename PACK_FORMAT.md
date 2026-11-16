@@ -126,6 +126,36 @@ SHA-256 checksums stay exact.
   - Everything else is as in format 4. A pack with a diagram must say
     `"format": 5`; as before, publish it only after the phone has the app
     that reads it.
+- **Format 6** (app 3.14.0+) adds **`glossary`**: Pocket Tutor entries that
+  turn a Codex term into a micro-lesson.
+
+  ```json
+  {"version": 119, "format": 6, "glossary": [
+    {"subject": "Biology", "key": "bio-allele",
+     "term": {"fa": "دگره", "en": "allele", "tr": "degare"},
+     "matches": {"fa": ["الل"], "en": ["alleles"], "tr": ["allel"]},
+     "explain": {…}, "analogy": {…}, "contrast": {…},
+     "unit": "bio-3-mendel"}
+  ]}
+  ```
+
+  - The app still builds the Codex from question keywords; an entry attaches
+    to a Codex term when the term itself matches the entry's `term` or one of
+    its `matches` in any language (ignoring case, half-spaces and
+    diacritics). It never matches through the Codex's translations (they
+    pair keywords by position, and some lists do not line up in meaning), so
+    list every keyword spelling the bank uses in `matches`. Terms with no
+    entry look as before.
+  - `term` is fa, en and tr, plain words (no backticks). `matches` is
+    optional: extra spellings per language, each a non-empty word.
+  - `explain` is required; `analogy` ("Picture it") and `contrast` ("Don't
+    confuse it with…") are optional. They follow the lesson text rules:
+    fa, en and tr, inline math between paired backticks.
+  - `unit` is optional: a lesson unit key of the same subject. The entry
+    shows a button into that unit once the phone has it.
+  - `key` is unique in the pack; a later pack with the same subject and
+    `key` replaces the entry. A pack with glossary entries must say
+    `"format": 6`.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,
