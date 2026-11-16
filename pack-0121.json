@@ -1,0 +1,1025 @@
+{
+ "version": 121,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Mathematics",
+   "key": "math-g-vertical-asymptote",
+   "term": {
+    "fa": "مجانب قائم",
+    "en": "vertical asymptote",
+    "tr": "mojaneb-e ghaem"
+   },
+   "explain": {
+    "fa": "خط `x = a` مجانب قائم است اگر وقتی `x` به `a` نزدیک می‌شود (حتی فقط از یک طرف)، تابع به `+∞` یا `−∞` برود. معمولاً جایی است که مخرج صفر می‌شود ولی صورت نه.",
+    "en": "The line `x = a` is a vertical asymptote if, as `x` approaches `a` (even from one side only), the function heads to `+∞` or `−∞`. It is usually where the denominator is zero but the numerator is not.",
+    "tr": "Khatt-e `x = a` mojaneb-e ghaem ast agar vaghti `x` be `a` nazdik mishavad (hatta faghat az yek taraf), tabe' be `+∞` ya `−∞` beravad. Ma'moolan jayi ast ke makhraj sefr mishavad vali soorat na."
+   },
+   "analogy": {
+    "fa": "مثل دیواری نامرئی که نمودار هرچه نزدیک‌تر می‌شود، بیشتر بالا یا پایین می‌رود ولی هرگز از آن رد نمی‌شود.",
+    "en": "Like an invisible wall: the closer the graph gets, the higher or lower it shoots, but it never crosses.",
+    "tr": "Mesl-e divari namar'i ke nemoodar harche nazdik-tar mishavad, bishtar bala ya payin miravad vali hargez az an rad nemishavad."
+   },
+   "contrast": {
+    "fa": "هر صفرِ مخرج مجانب نیست: در `(x² − 4)/(x − 2)` عامل حذف می‌شود و در `x = 2` فقط یک سوراخ داریم.",
+    "en": "Not every zero of the denominator is an asymptote: in `(x² − 4)/(x − 2)` the factor cancels and `x = 2` is only a hole.",
+    "tr": "Har sefr-e makhraj mojaneb nist: dar `(x² − 4)/(x − 2)` amel hazf mishavad va dar `x = 2` faghat yek soorakh darim."
+   },
+   "unit": "math-3-infinite-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-infinite-limits",
+   "term": {
+    "fa": "حد بی‌نهایت",
+    "en": "infinite limits",
+    "tr": "had-e bi-nahayat"
+   },
+   "explain": {
+    "fa": "وقتی `x` به یک عدد `a` نزدیک می‌شود و `f(x)` بی‌حد بزرگ (یا بی‌حد منفی) می‌شود، می‌نویسیم `lim f(x) = +∞` (یا `−∞`). مثال: `1/x²` وقتی `x → 0`.",
+    "en": "When `x` approaches a number `a` and `f(x)` grows without bound (or falls without bound), we write `lim f(x) = +∞` (or `−∞`). Example: `1/x²` as `x → 0`.",
+    "tr": "Vaghti `x` be yek adad-e `a` nazdik mishavad va `f(x)` bi-had bozorg (ya bi-had manfi) mishavad, minevisim `lim f(x) = +∞` (ya `−∞`). Mesal: `1/x²` vaghti `x → 0`."
+   },
+   "analogy": {
+    "fa": "مثل تقسیم یک کیک بزرگ بر سهم‌های هرچه کوچک‌تر: تعداد سهم‌ها بی‌حد زیاد می‌شود.",
+    "en": "Like cutting one cake into ever thinner slices: the number of slices grows without limit.",
+    "tr": "Mesl-e taghsim-e yek keyk-e bozorg bar sahm-haye harche koochak-tar: te'dad-e sahm-ha bi-had ziyad mishavad."
+   },
+   "contrast": {
+    "fa": "«حد بی‌نهایت» (نزدیک یک نقطه) را با «حد در بی‌نهایت» (وقتی `x` بزرگ می‌شود) قاطی نکن. اولی مجانب قائم می‌دهد، دومی مجانب افقی.",
+    "en": "Do not mix up an \"infinite limit\" (near a point) with a \"limit at infinity\" (as `x` grows). The first gives a vertical asymptote, the second a horizontal one.",
+    "tr": "\"Had-e bi-nahayat\" (nazdik-e yek noghte) ra ba \"had dar bi-nahayat\" (vaghti `x` bozorg mishavad) ghati nakon. Avvali mojaneb-e ghaem midahad, dovvomi mojaneb-e ofoghi."
+   },
+   "unit": "math-3-infinite-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-horizontal-asymptote",
+   "term": {
+    "fa": "مجانب افقی",
+    "en": "horizontal asymptote",
+    "tr": "mojaneb-e ofoghi"
+   },
+   "explain": {
+    "fa": "اگر وقتی `x → +∞` یا `x → −∞`، تابع به عدد `L` نزدیک شود، خط `y = L` مجانب افقی است. نمودار در دوردست‌ها کنار این خط آرام می‌گیرد.",
+    "en": "If, as `x → +∞` or `x → −∞`, the function approaches a number `L`, the line `y = L` is a horizontal asymptote. Far away, the graph settles beside this line.",
+    "tr": "Agar vaghti `x → +∞` ya `x → −∞`, tabe' be adad-e `L` nazdik shavad, khatt-e `y = L` mojaneb-e ofoghi ast. Nemoodar dar door-dast-ha kenar-e in khatt aram migirad."
+   },
+   "analogy": {
+    "fa": "مثل دمای چای داغ که به دمای اتاق نزدیک می‌شود ولی دقیقاً به آن نمی‌رسد.",
+    "en": "Like hot tea cooling towards room temperature, getting ever closer.",
+    "tr": "Mesl-e dama-ye chay-e dagh ke be dama-ye otagh nazdik mishavad vali daghighan be an nemiresad."
+   },
+   "contrast": {
+    "fa": "نمودار می‌تواند مجانب افقی را در نقاط میانی قطع کند؛ فقط در دوردست به آن نزدیک می‌شود. مجانب قائم را اما هرگز قطع نمی‌کند.",
+    "en": "A graph may cross a horizontal asymptote in the middle; it only has to approach it far away. A vertical asymptote, though, is never crossed.",
+    "tr": "Nemoodar mitavanad mojaneb-e ofoghi ra dar noghat-e miyani ghat' konad; faghat dar door-dast be an nazdik mishavad. Mojaneb-e ghaem ra amma hargez ghat' nemikonad."
+   },
+   "unit": "math-3-limits-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-limits-at-infinity",
+   "term": {
+    "fa": "حد در بی‌نهایت",
+    "en": "limits at infinity",
+    "tr": "had dar bi-nahayat"
+   },
+   "explain": {
+    "fa": "برای کسری چندجمله‌ای وقتی `x → ±∞`، فقط جملهٔ با بزرگ‌ترین توان در صورت و مخرج مهم است. درجهٔ صورت کمتر: حد صفر؛ درجه‌ها برابر: نسبت ضریب‌های اول؛ درجهٔ صورت بیشتر: `±∞`.",
+    "en": "For a fraction of polynomials as `x → ±∞`, only the highest-power term on top and bottom matters. Lower degree on top: the limit is 0; equal degrees: the ratio of leading coefficients; higher on top: `±∞`.",
+    "tr": "Baraye kasri chandjomle-i vaghti `x → ±∞`, faghat jomle-ye ba bozorg-tarin tavan dar soorat va makhraj mohem ast. Daraje-ye soorat kamtar: had sefr; daraje-ha barabar: nesbat-e zarib-haye avval; daraje-ye soorat bishtar: `±∞`."
+   },
+   "matches": {
+    "en": [
+     "limit at infinity"
+    ],
+    "tr": [
+     "had dar binahayat"
+    ]
+   },
+   "analogy": {
+    "fa": "در جمعیت یک میلیاردی، چند نفر کم یا زیاد دیده نمی‌شوند؛ فقط بزرگ‌ترین جمله دیده می‌شود.",
+    "en": "In a population of a billion, a few people more or less make no difference; only the biggest term counts.",
+    "tr": "Dar jam'iyat-e yek milyardi, chand nafar kam ya ziyad dide nemishavand; faghat bozorg-tarin jomle dide mishavad."
+   },
+   "contrast": {
+    "fa": "علامت را فراموش نکن: وقتی `x → −∞`، توان فرد منفی است و می‌تواند جواب `−∞` را `+∞` کند.",
+    "en": "Do not forget the sign: as `x → −∞`, an odd power is negative and can turn `+∞` into `−∞`.",
+    "tr": "Alamat ra faramoosh nakon: vaghti `x → −∞`, tavan-e fard manfi ast va mitavanad javab-e `−∞` ra `+∞` konad."
+   },
+   "unit": "math-3-limits-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-radical-infinity",
+   "term": {
+    "fa": "حد تابع رادیکالی در بی‌نهایت",
+    "en": "radical limit at infinity",
+    "tr": "had-e radikali dar binahayat"
+   },
+   "explain": {
+    "fa": "در بی‌نهایت، بزرگ‌ترین جملهٔ زیر رادیکال را بیرون بکش: `√(x² + 3) ≈ √(x²) = |x|`. وقتی `x → +∞`، `|x| = x` است؛ پس `√(x² + 3)/x → 1`.",
+    "en": "At infinity, pull the biggest term out from under the root: `√(x² + 3) ≈ √(x²) = |x|`. As `x → +∞`, `|x| = x`; so `√(x² + 3)/x → 1`.",
+    "tr": "Dar bi-nahayat, bozorg-tarin jomle-ye zir-e radikal ra biroon bekesh: `√(x² + 3) ≈ √(x²) = |x|`. Vaghti `x → +∞`, `|x| = x` ast; pas `√(x² + 3)/x → 1`."
+   },
+   "analogy": {
+    "fa": "مثل فیلی که یک مگس رویش نشسته: وزن مگس (`3`) در برابر فیل (`x²`) به حساب نمی‌آید.",
+    "en": "Like an elephant with a fly on it: the fly (`3`) does not count next to the elephant (`x²`).",
+    "tr": "Mesl-e fili ke yek magas rooyash neshaste: vazn-e magas (`3`) dar barabar-e fil (`x²`) be hesab nemiayad."
+   },
+   "contrast": {
+    "fa": "`√(x²)` برابر `x` نیست، برابر `|x|` است؛ در `+∞` فرقی نمی‌کند ولی در `−∞` همه‌چیز را عوض می‌کند.",
+    "en": "`√(x²)` is not `x`, it is `|x|`; at `+∞` it makes no difference, but at `−∞` it changes everything.",
+    "tr": "`√(x²)` barabar-e `x` nist, barabar-e `|x|` ast; dar `+∞` farghi nemikonad vali dar `−∞` hame-chiz ra avaz mikonad."
+   },
+   "unit": "math-3-radicals-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-radical-minus-infinity",
+   "term": {
+    "fa": "حد تابع رادیکالی در منفی بی‌نهایت",
+    "en": "radical limit at minus infinity",
+    "tr": "had-e radikali dar manfi-ye binahayat"
+   },
+   "explain": {
+    "fa": "وقتی `x → −∞`، `x` منفی است و `√(x²) = |x| = −x`. پس `√(x² + 3)/x → −1`، نه `1`. علامت منفی از قدر مطلق می‌آید.",
+    "en": "As `x → −∞`, `x` is negative and `√(x²) = |x| = −x`. So `√(x² + 3)/x → −1`, not `1`. The minus sign comes from the absolute value.",
+    "tr": "Vaghti `x → −∞`, `x` manfi ast va `√(x²) = |x| = −x`. Pas `√(x² + 3)/x → −1`, na `1`. Alamat-e manfi az ghadr-e motlagh miayad."
+   },
+   "analogy": {
+    "fa": "رادیکال همیشه یک عدد مثبت بیرون می‌دهد، مثل ترازویی که وزن را بدون علامت نشان می‌دهد؛ علامت را باید خودت از `x` بگذاری.",
+    "en": "A square root always gives a positive number, like a scale that shows weight without a sign; you must supply the sign from `x` yourself.",
+    "tr": "Radikal hamishe yek adad-e mosbat biroon midahad, mesl-e tarazooyi ke vazn ra bedoon-e alamat neshan midahad; alamat ra bayad khodat az `x` bogzari."
+   },
+   "contrast": {
+    "fa": "جواب این حد با حد در `+∞` معمولاً فقط در علامت فرق دارد؛ اگر جوابت یکی شد، `−x` را فراموش کرده‌ای.",
+    "en": "This limit usually differs from the one at `+∞` only in sign; if your answers match, you forgot the `−x`.",
+    "tr": "Javab-e in had ba had dar `+∞` ma'moolan faghat dar alamat fargh darad; agar javabat yeki shod, `−x` ra faramoosh karde-i."
+   },
+   "unit": "math-3-radicals-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-abs-infinity",
+   "term": {
+    "fa": "حد با قدر مطلق در بی‌نهایت",
+    "en": "absolute value limit at infinity",
+    "tr": "had ba ghadr-e motlagh"
+   },
+   "explain": {
+    "fa": "در بی‌نهایت، علامت داخل قدر مطلق معلوم است، پس آن را برمی‌داریم: وقتی `x → +∞`، `|x| = x` و وقتی `x → −∞`، `|x| = −x`. مثلاً `|x|/x` در `+∞` برابر `1` و در `−∞` برابر `−1` می‌شود.",
+    "en": "At infinity the sign inside the absolute value is known, so we drop the bars: as `x → +∞`, `|x| = x`, and as `x → −∞`, `|x| = −x`. For example `|x|/x` tends to `1` at `+∞` and `−1` at `−∞`.",
+    "tr": "Dar bi-nahayat, alamat-e dakhel-e ghadr-e motlagh ma'loom ast, pas an ra barmidarim: vaghti `x → +∞`, `|x| = x` va vaghti `x → −∞`, `|x| = −x`. Masalan `|x|/x` dar `+∞` barabar-e `1` va dar `−∞` barabar-e `−1` mishavad."
+   },
+   "analogy": {
+    "fa": "مثل دانستن جهت حرکت ماشین: وقتی بدانی کدام طرف می‌رود، دیگر به علامت جداگانه نیازی نیست.",
+    "en": "Like knowing which way a car is driving: once you know the direction, you no longer need a separate sign.",
+    "tr": "Mesl-e danestan-e jahat-e harekat-e mashin: vaghti bedani kodam taraf miravad, digar be alamat-e jodagane niyazi nist."
+   },
+   "contrast": {
+    "fa": "قبل از برداشتن قدر مطلق، علامت عبارت داخل آن را چک کن، نه فقط علامت `x` را؛ مثلاً `|1 − x|` در `+∞` برابر `x − 1` است.",
+    "en": "Before dropping the bars, check the sign of the whole expression inside, not just of `x`; for example `|1 − x|` is `x − 1` at `+∞`.",
+    "tr": "Ghabl az bardashtan-e ghadr-e motlagh, alamat-e ebarat-e dakhel-e an ra chek kon, na faghat alamat-e `x` ra; masalan `|1 − x|` dar `+∞` barabar-e `x − 1` ast."
+   },
+   "unit": "math-3-radicals-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-limit-sqrt-minus-x",
+   "term": {
+    "fa": "حد √(x² + 4x) − x",
+    "en": "limit of √(x² + 4x) − x",
+    "tr": "had-e √(x² + 4x) − x"
+   },
+   "explain": {
+    "fa": "وقتی `x → +∞` این عبارت شکل `∞ − ∞` دارد. در مزدوج ضرب کن: `4x/(√(x² + 4x) + x)`. حالا صورت و مخرج را بر `x` تقسیم کن: `4/(√(1 + 4/x) + 1) → 4/2 = 2`.",
+    "en": "As `x → +∞` this has the form `∞ − ∞`. Multiply by the conjugate: `4x/(√(x² + 4x) + x)`. Now divide top and bottom by `x`: `4/(√(1 + 4/x) + 1) → 4/2 = 2`.",
+    "tr": "Vaghti `x → +∞` in ebarat shekl-e `∞ − ∞` darad. Dar mozdavaj zarb kon: `4x/(√(x² + 4x) + x)`. Hala soorat va makhraj ra bar `x` taghsim kon: `4/(√(1 + 4/x) + 1) → 4/2 = 2`."
+   },
+   "analogy": {
+    "fa": "دو دونده‌ای که هر دو بی‌نهایت می‌دوند؛ فاصلهٔ بینشان می‌تواند یک عدد ثابت باشد.",
+    "en": "Two runners who both run forever; the gap between them can still settle to a fixed number.",
+    "tr": "Do davande-i ke har do bi-nahayat midavand; fasele-ye beyneshan mitavanad yek adad-e sabet bashad."
+   },
+   "contrast": {
+    "fa": "`∞ − ∞` صفر نیست؛ یک ابهام است و باید رفعش کرد. جواب اینجا `2` است، نه `0`.",
+    "en": "`∞ − ∞` is not zero; it is an indeterminate form that must be resolved. The answer here is `2`, not `0`.",
+    "tr": "`∞ − ∞` sefr nist; yek ebham ast va bayad raf'ash kard. Javab inja `2` ast, na `0`."
+   },
+   "unit": "math-3-radicals-at-infinity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-conjugate",
+   "term": {
+    "fa": "ضرب در مزدوج",
+    "en": "multiplying by the conjugate",
+    "tr": "zarb dar mozdavaj"
+   },
+   "explain": {
+    "fa": "مزدوج `√a − b` عبارت `√a + b` است. ضربشان رادیکال را حذف می‌کند: `(√a − b)(√a + b) = a − b²`. صورت و مخرج را در مزدوج ضرب می‌کنیم تا ابهام `0/0` یا `∞ − ∞` رفع شود.",
+    "en": "The conjugate of `√a − b` is `√a + b`. Their product removes the root: `(√a − b)(√a + b) = a − b²`. We multiply top and bottom by the conjugate to clear `0/0` or `∞ − ∞`.",
+    "tr": "Mozdavaj-e `√a − b` ebarat-e `√a + b` ast. Zarbeshan radikal ra hazf mikonad: `(√a − b)(√a + b) = a − b²`. Soorat va makhraj ra dar mozdavaj zarb mikonim ta ebham-e `0/0` ya `∞ − ∞` raf' shavad."
+   },
+   "analogy": {
+    "fa": "مثل کلیدی که فقط برای باز کردن قفل رادیکال ساخته شده.",
+    "en": "Like a key made just for opening the lock of a square root.",
+    "tr": "Mesl-e kelidi ke faghat baraye baz kardan-e ghofl-e radikal sakhte shode."
+   },
+   "contrast": {
+    "fa": "هر دو صورت و مخرج را در مزدوج ضرب کن؛ اگر فقط یکی را ضرب کنی، مقدار کسر عوض می‌شود.",
+    "en": "Multiply both top and bottom by the conjugate; multiplying only one changes the value of the fraction.",
+    "tr": "Har do soorat va makhraj ra dar mozdavaj zarb kon; agar faghat yeki ra zarb koni, meghdar-e kasr avaz mishavad."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-cubes",
+   "term": {
+    "fa": "اتحاد چاق و لاغر",
+    "en": "sum and difference of cubes",
+    "tr": "ettehad-e chagh va laghar"
+   },
+   "explain": {
+    "fa": "`a³ − b³ = (a − b)(a² + ab + b²)` و `a³ + b³ = (a + b)(a² − ab + b²)`. پرانتز «لاغر» دو جمله دارد و پرانتز «چاق» سه جمله. این اتحاد برای رفع `0/0` در حدهای با توان سوم یا ریشهٔ سوم به کار می‌رود.",
+    "en": "`a³ − b³ = (a − b)(a² + ab + b²)` and `a³ + b³ = (a + b)(a² − ab + b²)`. The \"thin\" bracket has two terms and the \"fat\" one three. It is used to clear `0/0` in limits with cubes or cube roots.",
+    "tr": "`a³ − b³ = (a − b)(a² + ab + b²)` va `a³ + b³ = (a + b)(a² − ab + b²)`. Parantez-e \"laghar\" do jomle darad va parantez-e \"chagh\" se jomle. In ettehad baraye raf'-e `0/0` dar had-haye ba tavan-e sevvom ya rishe-ye sevvom be kar miravad."
+   },
+   "analogy": {
+    "fa": "یک دوست لاغر و یک دوست چاق که همیشه با هم‌اند؛ همین اسم به خاطر سپردنش را آسان می‌کند.",
+    "en": "A thin friend and a fat friend who always go together; the name makes it easy to remember.",
+    "tr": "Yek doost-e laghar va yek doost-e chagh ke hamishe ba ham-and; hamin esm be khater sepordanash ra asan mikonad."
+   },
+   "contrast": {
+    "fa": "علامت وسط پرانتز چاق برعکس علامت پرانتز لاغر است: در `a³ − b³` جملهٔ وسط `+ab` است.",
+    "en": "The middle sign of the fat bracket is the opposite of the thin bracket's sign: in `a³ − b³` the middle term is `+ab`.",
+    "tr": "Alamat-e vasat-e parantez-e chagh bar-aks-e alamat-e parantez-e laghar ast: dar `a³ − b³` jomle-ye vasat `+ab` ast."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-factoring-0-0",
+   "term": {
+    "fa": "رفع ابهام با تجزیه",
+    "en": "clearing 0/0 by factoring",
+    "tr": "rafe'-e ebham ba tajziye"
+   },
+   "explain": {
+    "fa": "اگر جای‌گذاری `x = a` حاصل `0/0` بدهد، `(x − a)` عامل مشترک صورت و مخرج است. تجزیه کن، آن را حذف کن و دوباره جای‌گذاری کن: `(x² − 4)/(x − 2) = x + 2 → 4`.",
+    "en": "If substituting `x = a` gives `0/0`, then `(x − a)` is a common factor of top and bottom. Factor, cancel it, and substitute again: `(x² − 4)/(x − 2) = x + 2 → 4`.",
+    "tr": "Agar ja-gozari-ye `x = a` hasel-e `0/0` bedahad, `(x − a)` amel-e moshtarak-e soorat va makhraj ast. Tajziye kon, an ra hazf kon va dobare ja-gozari kon: `(x² − 4)/(x − 2) = x + 2 → 4`."
+   },
+   "analogy": {
+    "fa": "مثل گرهٔ کوری که با پیدا کردن سر نخ مشترک باز می‌شود.",
+    "en": "Like a tangled knot that comes undone once you find the shared loose end.",
+    "tr": "Mesl-e gere-ye koori ke ba peyda kardan-e sar-e nakh-e moshtarak baz mishavad."
+   },
+   "contrast": {
+    "fa": "`0/0` یعنی «هنوز معلوم نیست»، نه صفر یا یک. حذف عامل فقط برای حد مجاز است، چون `x ≠ a`.",
+    "en": "`0/0` means \"not decided yet\", not zero or one. Cancelling the factor is allowed only for the limit, because `x ≠ a`.",
+    "tr": "`0/0` ya'ni \"hanooz ma'loom nist\", na sefr ya yek. Hazf-e amel faghat baraye had mojaz ast, chon `x ≠ a`."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-cube-root-limit",
+   "term": {
+    "fa": "حد با ریشهٔ سوم",
+    "en": "cube-root limit",
+    "tr": "had ba rishe-ye sevvom"
+   },
+   "explain": {
+    "fa": "برای `(∛x − 2)/(x − 8)` وقتی `x → 8`، بنویس `x − 8 = (∛x)³ − 2³` و اتحاد چاق و لاغر را به کار ببر: حاصل `1/(∛x² + 2∛x + 4)` است که در `x = 8` برابر `1/12` می‌شود.",
+    "en": "For `(∛x − 2)/(x − 8)` as `x → 8`, write `x − 8 = (∛x)³ − 2³` and use the difference of cubes: the result is `1/(∛x² + 2∛x + 4)`, which equals `1/12` at `x = 8`.",
+    "tr": "Baraye `(∛x − 2)/(x − 8)` vaghti `x → 8`, benevis `x − 8 = (∛x)³ − 2³` va ettehad-e chagh va laghar ra be kar bebar: hasel `1/(∛x² + 2∛x + 4)` ast ke dar `x = 8` barabar-e `1/12` mishavad."
+   },
+   "analogy": {
+    "fa": "مزدوجِ ریشهٔ دوم اینجا کار نمی‌کند؛ ریشهٔ سوم کلید مخصوص خودش را دارد.",
+    "en": "The square-root conjugate does not work here; a cube root needs its own key.",
+    "tr": "Mozdavaj-e rishe-ye dovvom inja kar nemikonad; rishe-ye sevvom kelid-e makhsoos-e khodash ra darad."
+   },
+   "contrast": {
+    "fa": "با ریشهٔ سوم از اتحاد چاق و لاغر استفاده کن، نه از `(a − b)(a + b)`.",
+    "en": "With a cube root use the sum/difference of cubes, not `(a − b)(a + b)`.",
+    "tr": "Ba rishe-ye sevvom az ettehad-e chagh va laghar estefade kon, na az `(a − b)(a + b)`."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-zero-times-infinity",
+   "term": {
+    "fa": "ابهام صفر ضرب در بی‌نهایت",
+    "en": "zero times infinity form",
+    "tr": "ebham-e sefr zarb dar binahayat"
+   },
+   "explain": {
+    "fa": "`0 × ∞` ابهام است: یکی می‌خواهد حاصل را صفر کند و دیگری بی‌نهایت. ضرب را به کسر تبدیل کن تا `0/0` یا `∞/∞` شود. مثال: `x sin(1/x)` وقتی `x → ∞`: با `t = 1/x` می‌شود `sin t / t → 1`.",
+    "en": "`0 × ∞` is indeterminate: one factor pulls towards zero, the other towards infinity. Rewrite the product as a fraction to get `0/0` or `∞/∞`. Example: `x sin(1/x)` as `x → ∞`: with `t = 1/x` it becomes `sin t / t → 1`.",
+    "tr": "`0 × ∞` ebham ast: yeki mikhahad hasel ra sefr konad va digari bi-nahayat. Zarb ra be kasr tabdil kon ta `0/0` ya `∞/∞` shavad. Mesal: `x sin(1/x)` vaghti `x → ∞`: ba `t = 1/x` mishavad `sin t / t → 1`."
+   },
+   "analogy": {
+    "fa": "طناب‌کشی دو تیم: تا وقتی ندانی کدام قوی‌تر است، نتیجه معلوم نیست.",
+    "en": "A tug of war between two teams: until you know which is stronger, the result is unknown.",
+    "tr": "Tanab-keshi-ye do tim: ta vaghti nadani kodam ghavi-tar ast, natije ma'loom nist."
+   },
+   "contrast": {
+    "fa": "`0 × ∞` همیشه صفر نیست؛ مثال بالا `1` می‌دهد.",
+    "en": "`0 × ∞` is not always zero; the example above gives `1`.",
+    "tr": "`0 × ∞` hamishe sefr nist; mesal-e bala `1` midahad."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-square-root-limit",
+   "term": {
+    "fa": "حد با ریشهٔ دوم",
+    "en": "square-root limit",
+    "tr": "had ba rishe-ye dovvom"
+   },
+   "explain": {
+    "fa": "برای `(√x − 3)/(x − 9)` وقتی `x → 9`، صورت و مخرج را در مزدوج `√x + 3` ضرب کن: حاصل `1/(√x + 3)` است که برابر `1/6` می‌شود.",
+    "en": "For `(√x − 3)/(x − 9)` as `x → 9`, multiply top and bottom by the conjugate `√x + 3`: the result is `1/(√x + 3)`, which equals `1/6`.",
+    "tr": "Baraye `(√x − 3)/(x − 9)` vaghti `x → 9`, soorat va makhraj ra dar mozdavaj-e `√x + 3` zarb kon: hasel `1/(√x + 3)` ast ke barabar-e `1/6` mishavad."
+   },
+   "analogy": {
+    "fa": "مثل بازکردن بسته‌ای که با یک گره بسته شده: مزدوج همان گره را باز می‌کند.",
+    "en": "Like opening a parcel tied with one knot: the conjugate undoes exactly that knot.",
+    "tr": "Mesl-e baz kardan-e baste-i ke ba yek gere baste shode: mozdavaj haman gere ra baz mikonad."
+   },
+   "contrast": {
+    "fa": "میان‌بر: `x − 9 = (√x − 3)(√x + 3)`؛ تجزیهٔ مخرج همان نتیجه را سریع‌تر می‌دهد.",
+    "en": "Shortcut: `x − 9 = (√x − 3)(√x + 3)`; factoring the denominator gives the same result faster.",
+    "tr": "Miyanbor: `x − 9 = (√x − 3)(√x + 3)`; tajziye-ye makhraj haman natije ra sari'-tar midahad."
+   },
+   "unit": "math-3-zero-over-zero"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-sin-x-over-x",
+   "term": {
+    "fa": "حد sin x / x",
+    "en": "limit of sin x / x",
+    "tr": "had-e sin x / x"
+   },
+   "explain": {
+    "fa": "وقتی `x → 0` (با `x` به رادیان)، `sin x / x → 1`. یعنی نزدیک صفر، `sin x` تقریباً همان `x` است. این حد پایهٔ همهٔ حدهای مثلثاتی است.",
+    "en": "As `x → 0` (with `x` in radians), `sin x / x → 1`. Near zero, `sin x` is almost the same as `x`. This limit is the base of all trigonometric limits.",
+    "tr": "Vaghti `x → 0` (ba `x` be radiyan), `sin x / x → 1`. Ya'ni nazdik-e sefr, `sin x` taghriban haman `x` ast. In had paye-ye hame-ye had-haye mosallasati ast."
+   },
+   "analogy": {
+    "fa": "یک کمان خیلی کوچک روی دایره تقریباً یک پاره‌خط صاف است؛ طول کمان و ارتفاعش تقریباً یکی‌اند.",
+    "en": "A tiny arc of a circle is almost a straight segment; its length and its height are nearly equal.",
+    "tr": "Yek kaman-e kheyli koochak rooye dayere taghriban yek pare-khatt-e saf ast; tool-e kaman va ertefa'ash taghriban yeki-and."
+   },
+   "contrast": {
+    "fa": "این فقط با رادیان درست است و فقط وقتی `x → 0`؛ وقتی `x → ∞`، `sin x / x → 0`.",
+    "en": "This is true only in radians and only as `x → 0`; as `x → ∞`, `sin x / x → 0`.",
+    "tr": "In faghat ba radiyan dorost ast va faghat vaghti `x → 0`; vaghti `x → ∞`, `sin x / x → 0`."
+   },
+   "unit": "math-3-trig-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-sin-ax-over-bx",
+   "term": {
+    "fa": "حد sin ax / bx",
+    "en": "limit of sin ax / bx",
+    "tr": "had-e sin ax / bx"
+   },
+   "explain": {
+    "fa": "وقتی `x → 0`، `sin ax / bx → a/b`. دلیل: `sin ax ≈ ax`، پس کسر تقریباً `ax/bx = a/b` است. مثلاً `sin 5x / 2x → 5/2`.",
+    "en": "As `x → 0`, `sin ax / bx → a/b`. Reason: `sin ax ≈ ax`, so the fraction is about `ax/bx = a/b`. For example `sin 5x / 2x → 5/2`.",
+    "tr": "Vaghti `x → 0`, `sin ax / bx → a/b`. Dalil: `sin ax ≈ ax`, pas kasr taghriban `ax/bx = a/b` ast. Masalan `sin 5x / 2x → 5/2`."
+   },
+   "analogy": {
+    "fa": "مثل عوض کردن واحد پول: نسبت‌ها همان می‌مانند.",
+    "en": "Like changing currency: the ratios stay the same.",
+    "tr": "Mesl-e avaz kardan-e vahed-e pool: nesbat-ha haman mimanand."
+   },
+   "contrast": {
+    "fa": "جواب `a/b` است، نه `1`؛ فقط وقتی ضریب داخل سینوس با ضریب مخرج برابر باشد، `1` می‌شود.",
+    "en": "The answer is `a/b`, not `1`; it is `1` only when the coefficient inside the sine equals the one in the denominator.",
+    "tr": "Javab `a/b` ast, na `1`; faghat vaghti zarib-e dakhel-e sinoos ba zarib-e makhraj barabar bashad, `1` mishavad."
+   },
+   "unit": "math-3-trig-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-one-minus-cos",
+   "term": {
+    "fa": "حد (1 − cos x)/x²",
+    "en": "limit of (1 − cos x)/x²",
+    "tr": "had-e (1 − cos x)/x²"
+   },
+   "explain": {
+    "fa": "وقتی `x → 0`، `(1 − cos x)/x² → 1/2`. راه: در مزدوج `1 + cos x` ضرب کن تا صورت `sin² x` شود؛ بعد `(sin x / x)² · 1/(1 + cos x) → 1 · 1/2`.",
+    "en": "As `x → 0`, `(1 − cos x)/x² → 1/2`. Method: multiply by the conjugate `1 + cos x` so the top becomes `sin² x`; then `(sin x / x)² · 1/(1 + cos x) → 1 · 1/2`.",
+    "tr": "Vaghti `x → 0`, `(1 − cos x)/x² → 1/2`. Rah: dar mozdavaj-e `1 + cos x` zarb kon ta soorat `sin² x` shavad; ba'd `(sin x / x)² · 1/(1 + cos x) → 1 · 1/2`."
+   },
+   "analogy": {
+    "fa": "نزدیک صفر، `1 − cos x` تقریباً `x²/2` است؛ برای همین با `x²` مقایسه می‌شود.",
+    "en": "Near zero, `1 − cos x` is about `x²/2`; that is why it is compared with `x²`.",
+    "tr": "Nazdik-e sefr, `1 − cos x` taghriban `x²/2` ast; baraye hamin ba `x²` moghayese mishavad."
+   },
+   "contrast": {
+    "fa": "`(1 − cos x)/x` (با `x` نه `x²`) به صفر می‌رود؛ توان مخرج را دقیق نگاه کن.",
+    "en": "`(1 − cos x)/x` (with `x`, not `x²`) tends to zero; check the power in the denominator carefully.",
+    "tr": "`(1 − cos x)/x` (ba `x` na `x²`) be sefr miravad; tavan-e makhraj ra daghigh negah kon."
+   },
+   "unit": "math-3-trig-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-conjugate-cos",
+   "term": {
+    "fa": "مزدوج 1 − cos x",
+    "en": "conjugate of 1 − cos x",
+    "tr": "mozdavaj-e 1 − cos x"
+   },
+   "explain": {
+    "fa": "مزدوج `1 − cos x` عبارت `1 + cos x` است. ضربشان `1 − cos² x = sin² x` می‌دهد، که حد را به `sin x / x` آشنا برمی‌گرداند.",
+    "en": "The conjugate of `1 − cos x` is `1 + cos x`. Their product is `1 − cos² x = sin² x`, which turns the limit back into the familiar `sin x / x`.",
+    "tr": "Mozdavaj-e `1 − cos x` ebarat-e `1 + cos x` ast. Zarbeshan `1 − cos² x = sin² x` midahad, ke had ra be `sin x / x`-e ashena barmigardanad."
+   },
+   "analogy": {
+    "fa": "همان ترفند رادیکال، این بار با رابطهٔ `sin² x + cos² x = 1`.",
+    "en": "The same trick as with roots, this time using `sin² x + cos² x = 1`.",
+    "tr": "Haman tarfand-e radikal, in bar ba rabete-ye `sin² x + cos² x = 1`."
+   },
+   "contrast": {
+    "fa": "مزدوج `1 + cos x` است، نه `1 + sin x`؛ فقط علامت وسط عوض می‌شود.",
+    "en": "The conjugate is `1 + cos x`, not `1 + sin x`; only the middle sign changes.",
+    "tr": "Mozdavaj `1 + cos x` ast, na `1 + sin x`; faghat alamat-e vasat avaz mishavad."
+   },
+   "unit": "math-3-trig-limits"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-floor-right-limit",
+   "term": {
+    "fa": "حد راست جزء صحیح",
+    "en": "right-hand limit of the floor function",
+    "tr": "had-e rast-e jozv-e sahih"
+   },
+   "explain": {
+    "fa": "در یک عدد صحیح `n`، `[x]` از راست برابر `n` است و از چپ برابر `n − 1`. پس `lim (x→n+) [x] = n` و `lim (x→n−) [x] = n − 1`؛ چون این دو برابر نیستند، حد دوطرفه در اعداد صحیح وجود ندارد.",
+    "en": "At an integer `n`, `[x]` equals `n` just to the right and `n − 1` just to the left. So `lim (x→n+) [x] = n` and `lim (x→n−) [x] = n − 1`; because they differ, the two-sided limit does not exist at integers.",
+    "tr": "Dar yek adad-e sahih-e `n`, `[x]` az rast barabar-e `n` ast va az chap barabar-e `n − 1`. Pas `lim (x→n+) [x] = n` va `lim (x→n−) [x] = n − 1`; chon in do barabar nistand, had-e do-tarafe dar a'dad-e sahih vojood nadarad."
+   },
+   "analogy": {
+    "fa": "مثل ایستادن روی لبهٔ یک پله: یک قدم به جلو روی پلهٔ بالایی‌ای، یک قدم به عقب روی پایینی.",
+    "en": "Like standing at the edge of a step: one step forward you are on the upper stair, one step back on the lower one.",
+    "tr": "Mesl-e istadan rooye labe-ye yek pelle: yek ghadam be jelo rooye pelle-ye balayi-i, yek ghadam be aghab rooye payini."
+   },
+   "contrast": {
+    "fa": "برای عدد منفی دقت کن: درست سمت راست `−1`، مقدار `[x]` برابر `−1` است و درست سمت چپش `−2`.",
+    "en": "Take care with negatives: just right of `−1`, `[x]` is `−1`, and just left of it `−2`.",
+    "tr": "Baraye adad-e manfi deghghat kon: dorost samt-e rast-e `−1`, meghdar-e `[x]` barabar-e `−1` ast va dorost samt-e chapash `−2`."
+   },
+   "unit": "math-3-floor-squeeze-continuity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-one-sided-abs",
+   "term": {
+    "fa": "حد یک‌طرفه با قدر مطلق",
+    "en": "one-sided limit with absolute value",
+    "tr": "had-e yek-tarafe ba ghadr-e motlagh"
+   },
+   "explain": {
+    "fa": "قدر مطلق در نقطه‌ای که داخلش صفر می‌شود دو رفتار دارد. از راستِ صفر، `|x| = x` و از چپ، `|x| = −x`. پس `|x|/x` از راست `1` و از چپ `−1` است و حد دوطرفه ندارد.",
+    "en": "An absolute value behaves two ways where its inside is zero. To the right of zero `|x| = x`, and to the left `|x| = −x`. So `|x|/x` is `1` from the right and `−1` from the left, and has no two-sided limit.",
+    "tr": "Ghadr-e motlagh dar noghte-i ke dakhelash sefr mishavad do raftar darad. Az rast-e sefr, `|x| = x` va az chap, `|x| = −x`. Pas `|x|/x` az rast `1` va az chap `−1` ast va had-e do-tarafe nadarad."
+   },
+   "analogy": {
+    "fa": "مثل دری که از یک طرف «هل بده» و از طرف دیگر «بکش» نوشته شده: کار بستگی دارد از کدام طرف بیایی.",
+    "en": "Like a door marked \"push\" on one side and \"pull\" on the other: what you do depends on which side you come from.",
+    "tr": "Mesl-e dari ke az yek taraf \"hel bede\" va az taraf-e digar \"bekesh\" neveshte shode: kar bastegi darad az kodam taraf biyayi."
+   },
+   "contrast": {
+    "fa": "قبل از برداشتن قدر مطلق، بپرس از کدام طرف نزدیک می‌شوی؛ دو طرف ممکن است دو جواب بدهند.",
+    "en": "Before dropping the bars, ask which side you approach from; the two sides may give two answers.",
+    "tr": "Ghabl az bardashtan-e ghadr-e motlagh, bepors az kodam taraf nazdik mishavi; do taraf momken ast do javab bedahand."
+   },
+   "unit": "math-3-floor-squeeze-continuity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-floor-times-sin",
+   "term": {
+    "fa": "حد [x] sin x",
+    "en": "limit of [x] sin x",
+    "tr": "had-e [x] sin x"
+   },
+   "explain": {
+    "fa": "وقتی `x → 0+`، `x` بین `0` و `1` است، پس `[x] = 0` و کل عبارت `0 · sin x = 0` می‌شود: حد صفر است. از چپ (`−1 < x < 0`) داریم `[x] = −1` و حاصل `−sin x → 0`.",
+    "en": "As `x → 0+`, `x` is between `0` and `1`, so `[x] = 0` and the whole expression is `0 · sin x = 0`: the limit is zero. From the left (`−1 < x < 0`), `[x] = −1` and the result is `−sin x → 0`.",
+    "tr": "Vaghti `x → 0+`, `x` beyn-e `0` va `1` ast, pas `[x] = 0` va kol-e ebarat `0 · sin x = 0` mishavad: had sefr ast. Az chap (`−1 < x < 0`) darim `[x] = −1` va hasel `−sin x → 0`."
+   },
+   "analogy": {
+    "fa": "اول جزء صحیح را روی بازهٔ کوچکِ نزدیک نقطه با یک عدد ثابت عوض کن، بعد بقیه ساده است.",
+    "en": "First replace the floor with a constant on the small interval near the point; the rest is easy.",
+    "tr": "Avval jozv-e sahih ra rooye baze-ye koochak-e nazdik-e noghte ba yek adad-e sabet avaz kon, ba'd baghiye sade ast."
+   },
+   "contrast": {
+    "fa": "`[x]` در صفر پرش دارد، ولی ضرب در `sin x` که به صفر می‌رود، پرش را خنثی می‌کند.",
+    "en": "`[x]` jumps at zero, but multiplying by `sin x`, which tends to zero, cancels the jump.",
+    "tr": "`[x]` dar sefr parash darad, vali zarb dar `sin x` ke be sefr miravad, parash ra khonsa mikonad."
+   },
+   "unit": "math-3-floor-squeeze-continuity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-ivt",
+   "term": {
+    "fa": "قضیهٔ مقدار میانی",
+    "en": "intermediate value theorem",
+    "tr": "ghaziye-ye meghdar-e miyani"
+   },
+   "explain": {
+    "fa": "اگر `f` روی `[a, b]` پیوسته باشد، هر مقداری بین `f(a)` و `f(b)` را دست‌کم یک بار می‌گیرد. نتیجهٔ مهم: اگر `f(a)` و `f(b)` هم‌علامت نباشند، معادلهٔ `f(x) = 0` در `(a, b)` ریشه دارد.",
+    "en": "If `f` is continuous on `[a, b]`, it takes every value between `f(a)` and `f(b)` at least once. Key consequence: if `f(a)` and `f(b)` have opposite signs, `f(x) = 0` has a root in `(a, b)`.",
+    "tr": "Agar `f` rooye `[a, b]` peyvaste bashad, har meghdari beyn-e `f(a)` va `f(b)` ra dast-e kam yek bar migirad. Natije-ye mohem: agar `f(a)` va `f(b)` ham-alamat nabashand, moadele-ye `f(x) = 0` dar `(a, b)` rishe darad."
+   },
+   "analogy": {
+    "fa": "اگر صبح ۱۰ درجه باشد و ظهر ۲۰ درجه، حتماً لحظه‌ای بوده که هوا دقیقاً ۱۵ درجه بوده است.",
+    "en": "If it is 10 degrees in the morning and 20 at noon, there must have been a moment when it was exactly 15.",
+    "tr": "Agar sobh 10 daraje bashad va zohr 20 daraje, hatman lahze-i boode ke hava daghighan 15 daraje boode ast."
+   },
+   "contrast": {
+    "fa": "بدون پیوستگی قضیه کار نمی‌کند: `1/x` روی `[−1, 1]` از منفی به مثبت می‌رود ولی هرگز صفر نمی‌شود.",
+    "en": "Without continuity the theorem fails: `1/x` on `[−1, 1]` goes from negative to positive but never equals zero.",
+    "tr": "Bedoon-e peyvastegi ghaziye kar nemikonad: `1/x` rooye `[−1, 1]` az manfi be mosbat miravad vali hargez sefr nemishavad."
+   },
+   "unit": "math-3-floor-squeeze-continuity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-squeeze",
+   "term": {
+    "fa": "قضیهٔ فشردگی",
+    "en": "squeeze theorem",
+    "tr": "ghaziye-ye feshordegi"
+   },
+   "explain": {
+    "fa": "اگر نزدیک `a`، `g(x) ≤ f(x) ≤ h(x)` و `g` و `h` هر دو به `L` بروند، `f` هم به `L` می‌رود. مثال: `−x² ≤ x² sin(1/x) ≤ x²`، پس `x² sin(1/x) → 0`.",
+    "en": "If near `a`, `g(x) ≤ f(x) ≤ h(x)` and both `g` and `h` tend to `L`, then `f` tends to `L` too. Example: `−x² ≤ x² sin(1/x) ≤ x²`, so `x² sin(1/x) → 0`.",
+    "tr": "Agar nazdik-e `a`, `g(x) ≤ f(x) ≤ h(x)` va `g` va `h` har do be `L` beravand, `f` ham be `L` miravad. Mesal: `−x² ≤ x² sin(1/x) ≤ x²`, pas `x² sin(1/x) → 0`."
+   },
+   "analogy": {
+    "fa": "مثل کسی که بین دو پلیس راه می‌رود: اگر هر دو به ایستگاه بروند، او هم به ایستگاه می‌رسد.",
+    "en": "Like someone walking between two police officers: if both go to the station, so does the person between them.",
+    "tr": "Mesl-e kasi ke beyn-e do police rah miravad: agar har do be istgah beravand, oo ham be istgah miresad."
+   },
+   "contrast": {
+    "fa": "دو تابع کناری باید به «یک» عدد بروند؛ اگر به دو عدد متفاوت بروند، قضیه چیزی نمی‌گوید.",
+    "en": "The two outer functions must tend to the \"same\" number; if they tend to different numbers, the theorem says nothing.",
+    "tr": "Do tabe'-e kenari bayad be \"yek\" adad beravand; agar be do adad-e motafavet beravand, ghaziye chizi nemigooyad."
+   },
+   "unit": "math-3-floor-squeeze-continuity"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-derivative",
+   "term": {
+    "fa": "مشتق",
+    "en": "derivative",
+    "tr": "moshtagh"
+   },
+   "explain": {
+    "fa": "مشتق آهنگ لحظه‌ای تغییر است: `f′(a) = lim (h→0) (f(a + h) − f(a))/h`. از نظر هندسی، شیب خط مماس بر نمودار در نقطهٔ `a` است.",
+    "en": "The derivative is the instantaneous rate of change: `f′(a) = lim (h→0) (f(a + h) − f(a))/h`. Geometrically, it is the slope of the tangent line to the graph at `a`.",
+    "tr": "Moshtagh ahang-e lahze-i-ye taghyir ast: `f′(a) = lim (h→0) (f(a + h) − f(a))/h`. Az nazar-e hendesi, shib-e khatt-e momas bar nemoodar dar noghte-ye `a` ast."
+   },
+   "matches": {
+    "fa": [
+     "تعریف مشتق"
+    ],
+    "en": [
+     "definition of the derivative"
+    ],
+    "tr": [
+     "taarif-e moshtagh"
+    ]
+   },
+   "analogy": {
+    "fa": "سرعت‌سنج ماشین: نه سرعت متوسط کل سفر، بلکه سرعت همین لحظه.",
+    "en": "A car's speedometer: not the average speed of the whole trip, but the speed right now.",
+    "tr": "Sor'at-sanj-e mashin: na sor'at-e motavaset-e kol-e safar, balke sor'at-e hamin lahze."
+   },
+   "contrast": {
+    "fa": "مشتق شیبِ خط «مماس» است، نه شیب خط «قاطع» بین دو نقطه؛ قاطع آهنگ متوسط را می‌دهد.",
+    "en": "The derivative is the slope of the \"tangent\" line, not of a \"secant\" between two points; the secant gives the average rate.",
+    "tr": "Moshtagh shib-e khatt-e \"momas\" ast, na shib-e khatt-e \"ghate'\" beyn-e do noghte; ghate' ahang-e motavaset ra midahad."
+   },
+   "unit": "math-4-rate-tangent"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-average-rate",
+   "term": {
+    "fa": "آهنگ متوسط تغییر",
+    "en": "average rate of change",
+    "tr": "ahang-e motavasset-e taghyir"
+   },
+   "explain": {
+    "fa": "آهنگ متوسط تغییر `f` روی `[a, b]` برابر `(f(b) − f(a))/(b − a)` است: تغییر خروجی تقسیم بر تغییر ورودی. شیب خط قاطعی است که دو نقطهٔ نمودار را به هم وصل می‌کند.",
+    "en": "The average rate of change of `f` on `[a, b]` is `(f(b) − f(a))/(b − a)`: the change in output divided by the change in input. It is the slope of the secant line joining two points of the graph.",
+    "tr": "Ahang-e motavaset-e taghyir-e `f` rooye `[a, b]` barabar-e `(f(b) − f(a))/(b − a)` ast: taghyir-e khorooji taghsim bar taghyir-e voroodi. Shib-e khatt-e ghate'i ast ke do noghte-ye nemoodar ra be ham vasl mikonad."
+   },
+   "analogy": {
+    "fa": "سرعت متوسط یک سفر: کل مسافت تقسیم بر کل زمان، هرچند وسط راه گاهی تند و گاهی آرام رفته‌ای.",
+    "en": "The average speed of a trip: total distance over total time, even if you went fast and slow along the way.",
+    "tr": "Sor'at-e motavaset-e yek safar: kol-e masafat taghsim bar kol-e zaman, harchand vasat-e rah gahi tond va gahi aram rafte-i."
+   },
+   "contrast": {
+    "fa": "آهنگ متوسط روی یک بازه است؛ مشتق در یک نقطه. وقتی بازه کوچک و کوچک‌تر شود، آهنگ متوسط به مشتق نزدیک می‌شود.",
+    "en": "The average rate is over an interval; the derivative is at a point. As the interval shrinks, the average rate approaches the derivative.",
+    "tr": "Ahang-e motavaset rooye yek baze ast; moshtagh dar yek noghte. Vaghti baze koochak va koochak-tar shavad, ahang-e motavaset be moshtagh nazdik mishavad."
+   },
+   "unit": "math-4-rate-tangent"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-power-rule",
+   "term": {
+    "fa": "قاعدهٔ مشتق توانی",
+    "en": "power rule",
+    "tr": "ghaede-ye moshtagh-e tavani"
+   },
+   "explain": {
+    "fa": "`(x^n)′ = n x^(n − 1)`: توان جلو می‌آید و یکی از آن کم می‌شود. برای هر توان حقیقی کار می‌کند، مثلاً `(x^5)′ = 5x^4`.",
+    "en": "`(x^n)′ = n x^(n − 1)`: the power comes down in front and drops by one. It works for any real power, for example `(x^5)′ = 5x^4`.",
+    "tr": "`(x^n)′ = n x^(n − 1)`: tavan jelo miayad va yeki az an kam mishavad. Baraye har tavan-e haghighi kar mikonad, masalan `(x^5)′ = 5x^4`."
+   },
+   "analogy": {
+    "fa": "مثل پایین آمدن یک پله: عدد توان پایین می‌آید و جلو می‌نشیند، و توان یکی کم می‌شود.",
+    "en": "Like stepping down a stair: the power steps down to the front, and the exponent drops by one.",
+    "tr": "Mesl-e payin amadan-e yek pelle: adad-e tavan payin miayad va jelo mineshinad, va tavan yeki kam mishavad."
+   },
+   "contrast": {
+    "fa": "این قانون برای `x^n` است، نه `n^x`؛ در `2^x` متغیر در توان است و قانون دیگری دارد.",
+    "en": "This rule is for `x^n`, not `n^x`; in `2^x` the variable is in the exponent and needs a different rule.",
+    "tr": "In ghanoon baraye `x^n` ast, na `n^x`; dar `2^x` moteghayyer dar tavan ast va ghanoon-e digari darad."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-constant-derivative",
+   "term": {
+    "fa": "مشتق تابع ثابت",
+    "en": "derivative of a constant function",
+    "tr": "moshtagh-e tabe-e sabet"
+   },
+   "explain": {
+    "fa": "مشتق هر عدد ثابت صفر است: `(c)′ = 0`. تابع ثابت تغییر نمی‌کند، پس آهنگ تغییرش صفر است و نمودارش خطی افقی با شیب صفر است.",
+    "en": "The derivative of any constant is zero: `(c)′ = 0`. A constant function does not change, so its rate of change is zero and its graph is a horizontal line with slope zero.",
+    "tr": "Moshtagh-e har adad-e sabet sefr ast: `(c)′ = 0`. Tabe'-e sabet taghyir nemikonad, pas ahang-e taghyirash sefr ast va nemoodarash khatti ofoghi ba shib-e sefr ast."
+   },
+   "analogy": {
+    "fa": "ماشینی که پارک شده سرعتش صفر است.",
+    "en": "A parked car has a speed of zero.",
+    "tr": "Mashini ke park shode sor'atash sefr ast."
+   },
+   "contrast": {
+    "fa": "ضریب ثابت حذف نمی‌شود: `(5x)′ = 5`، نه صفر. فقط عدد تنها (بدون `x`) مشتقش صفر است.",
+    "en": "A constant coefficient does not vanish: `(5x)′ = 5`, not zero. Only a lone number (with no `x`) has derivative zero.",
+    "tr": "Zarib-e sabet hazf nemishavad: `(5x)′ = 5`, na sefr. Faghat adad-e tanha (bedoon-e `x`) moshtaghash sefr ast."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-sqrt-derivative",
+   "term": {
+    "fa": "مشتق رادیکال",
+    "en": "derivative of a square root",
+    "tr": "moshtagh-e radikal"
+   },
+   "explain": {
+    "fa": "`(√x)′ = 1/(2√x)` برای `x > 0`. از قاعدهٔ توانی هم می‌آید: `√x = x^(1/2)`، پس مشتقش `(1/2) x^(−1/2)` است. در `x = 0` مشتق وجود ندارد.",
+    "en": "`(√x)′ = 1/(2√x)` for `x > 0`. It also follows from the power rule: `√x = x^(1/2)`, so its derivative is `(1/2) x^(−1/2)`. At `x = 0` the derivative does not exist.",
+    "tr": "`(√x)′ = 1/(2√x)` baraye `x > 0`. Az ghaede-ye tavani ham miayad: `√x = x^(1/2)`, pas moshtaghash `(1/2) x^(−1/2)` ast. Dar `x = 0` moshtagh vojood nadarad."
+   },
+   "analogy": {
+    "fa": "نمودار `√x` اول تند بالا می‌رود و بعد آرام‌تر؛ مشتق بزرگ نزدیک صفر و کوچک در دوردست همین را می‌گوید.",
+    "en": "The graph of `√x` climbs steeply at first, then more slowly; a large derivative near zero and a small one far away say exactly that.",
+    "tr": "Nemoodar-e `√x` avval tond bala miravad va ba'd aram-tar; moshtagh-e bozorg nazdik-e sefr va koochak dar door-dast hamin ra migooyad."
+   },
+   "contrast": {
+    "fa": "برای `√(u)` قاعدهٔ زنجیره‌ای را فراموش نکن: `(√u)′ = u′/(2√u)`.",
+    "en": "For `√(u)` do not forget the chain rule: `(√u)′ = u′/(2√u)`.",
+    "tr": "Baraye `√(u)` ghaede-ye zanjire-i ra faramoosh nakon: `(√u)′ = u′/(2√u)`."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-sin-derivative",
+   "term": {
+    "fa": "مشتق سینوس",
+    "en": "derivative of sine",
+    "tr": "moshtagh-e sinoos"
+   },
+   "explain": {
+    "fa": "`(sin x)′ = cos x` (با `x` به رادیان). جایی که نمودار سینوس بیشترین شیب را دارد (در صفر)، کسینوس بیشترین مقدار را دارد.",
+    "en": "`(sin x)′ = cos x` (with `x` in radians). Where the sine graph is steepest (at zero), cosine is at its largest.",
+    "tr": "`(sin x)′ = cos x` (ba `x` be radiyan). Jayi ke nemoodar-e sinoos bishtarin shib ra darad (dar sefr), kosinoos bishtarin meghdar ra darad."
+   },
+   "analogy": {
+    "fa": "مثل تاب: در پایین‌ترین نقطه سریع‌ترین حرکت را داری و در بالاترین نقطه یک لحظه می‌ایستی.",
+    "en": "Like a swing: at the lowest point you move fastest, and at the top you pause for a moment.",
+    "tr": "Mesl-e tab: dar payin-tarin noghte sari'-tarin harekat ra dari va dar bala-tarin noghte yek lahze miistadi."
+   },
+   "contrast": {
+    "fa": "با قاعدهٔ زنجیره‌ای: `(sin 3x)′ = 3 cos 3x`، نه `cos 3x`.",
+    "en": "With the chain rule: `(sin 3x)′ = 3 cos 3x`, not `cos 3x`.",
+    "tr": "Ba ghaede-ye zanjire-i: `(sin 3x)′ = 3 cos 3x`, na `cos 3x`."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-cos-derivative",
+   "term": {
+    "fa": "مشتق کسینوس",
+    "en": "derivative of cosine",
+    "tr": "moshtagh-e kosinoos"
+   },
+   "explain": {
+    "fa": "`(cos x)′ = −sin x`. علامت منفی می‌گوید درست بعد از صفر، کسینوس در حال کم شدن است، در حالی که سینوس مثبت است.",
+    "en": "`(cos x)′ = −sin x`. The minus sign says that just after zero cosine is decreasing, while sine is positive.",
+    "tr": "`(cos x)′ = −sin x`. Alamat-e manfi migooyad dorost ba'd az sefr, kosinoos dar hal-e kam shodan ast, dar hali ke sinoos mosbat ast."
+   },
+   "analogy": {
+    "fa": "توپی که از بالاترین نقطه شروع به افتادن می‌کند: ارتفاعش (کسینوس) کم می‌شود.",
+    "en": "A ball starting to fall from its highest point: its height (cosine) goes down.",
+    "tr": "Toopi ke az bala-tarin noghte shoru' be oftadan mikonad: ertefa'ash (kosinoos) kam mishavad."
+   },
+   "contrast": {
+    "fa": "علامت منفی فقط مال مشتق کسینوس است؛ مشتق سینوس مثبت است.",
+    "en": "The minus sign belongs only to the derivative of cosine; the derivative of sine is positive.",
+    "tr": "Alamat-e manfi faghat mal-e moshtagh-e kosinoos ast; moshtagh-e sinoos mosbat ast."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-fractional-power",
+   "term": {
+    "fa": "مشتق توان کسری",
+    "en": "derivative of a fractional power",
+    "tr": "moshtagh-e tavan-e kasri"
+   },
+   "explain": {
+    "fa": "ریشه‌ها را به توان کسری تبدیل کن و قاعدهٔ توانی را به کار ببر: `∛(x²) = x^(2/3)`، پس مشتقش `(2/3) x^(−1/3) = 2/(3∛x)` است.",
+    "en": "Turn roots into fractional powers and use the power rule: `∛(x²) = x^(2/3)`, so its derivative is `(2/3) x^(−1/3) = 2/(3∛x)`.",
+    "tr": "Rishe-ha ra be tavan-e kasri tabdil kon va ghaede-ye tavani ra be kar bebar: `∛(x²) = x^(2/3)`, pas moshtaghash `(2/3) x^(−1/3) = 2/(3∛x)` ast."
+   },
+   "analogy": {
+    "fa": "مثل ترجمهٔ یک جمله به زبانی که قاعده‌اش را بلدی: رادیکال را به زبان توان ترجمه کن.",
+    "en": "Like translating a sentence into a language whose grammar you know: translate the root into the language of powers.",
+    "tr": "Mesl-e tarjome-ye yek jomle be zabani ke ghaede-ash ra baladi: radikal ra be zaban-e tavan tarjome kon."
+   },
+   "contrast": {
+    "fa": "توان منفیِ نتیجه یعنی `x` به مخرج می‌رود؛ پس در `x = 0` مشتق تعریف نشده است.",
+    "en": "A negative power in the result means `x` moves to the denominator; so the derivative is undefined at `x = 0`.",
+    "tr": "Tavan-e manfi-ye natije ya'ni `x` be makhraj miravad; pas dar `x = 0` moshtagh ta'rif nashode ast."
+   },
+   "unit": "math-4-basic-rules"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-product-rule",
+   "term": {
+    "fa": "مشتق حاصل‌ضرب",
+    "en": "product rule",
+    "tr": "moshtagh-e hasel-zarb"
+   },
+   "explain": {
+    "fa": "`(fg)′ = f′g + fg′`: یک بار اولی را مشتق بگیر و دومی را نگه دار، یک بار برعکس، و جمع کن.",
+    "en": "`(fg)′ = f′g + fg′`: once differentiate the first and keep the second, once the other way round, and add.",
+    "tr": "`(fg)′ = f′g + fg′`: yek bar avvali ra moshtagh begir va dovvomi ra negah dar, yek bar bar-aks, va jam' kon."
+   },
+   "analogy": {
+    "fa": "مساحت یک مستطیل که هر دو ضلعش در حال رشد است: رشد طول ضرب در عرض، به‌علاوهٔ طول ضرب در رشد عرض.",
+    "en": "The area of a rectangle whose two sides are both growing: the growth of the length times the width, plus the length times the growth of the width.",
+    "tr": "Masahat-e yek mostatil ke har do zel'ash dar hal-e roshd ast: roshd-e tool zarb dar arz, be-alave-ye tool zarb dar roshd-e arz."
+   },
+   "contrast": {
+    "fa": "مشتق ضرب، ضربِ مشتق‌ها نیست: `(fg)′ ≠ f′g′`.",
+    "en": "The derivative of a product is not the product of the derivatives: `(fg)′ ≠ f′g′`.",
+    "tr": "Moshtagh-e zarb, zarb-e moshtagh-ha nist: `(fg)′ ≠ f′g′`."
+   },
+   "unit": "math-4-product-quotient-chain"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-quotient-rule",
+   "term": {
+    "fa": "مشتق توابع کسری",
+    "en": "quotient rule",
+    "tr": "moshtagh-e kasri"
+   },
+   "explain": {
+    "fa": "`(f/g)′ = (f′g − fg′)/g²`. ترتیب صورت مهم است: اول مشتق صورت ضرب در مخرج، منهای صورت ضرب در مشتق مخرج.",
+    "en": "`(f/g)′ = (f′g − fg′)/g²`. The order on top matters: first the derivative of the top times the bottom, minus the top times the derivative of the bottom.",
+    "tr": "`(f/g)′ = (f′g − fg′)/g²`. Tartib-e soorat mohem ast: avval moshtagh-e soorat zarb dar makhraj, menha-ye soorat zarb dar moshtagh-e makhraj."
+   },
+   "analogy": {
+    "fa": "برای به خاطر سپردن: «پایین در مشتقِ بالا، منهای بالا در مشتقِ پایین، روی پایین به توان دو».",
+    "en": "To remember it: \"low times d-high, minus high times d-low, over low squared\".",
+    "tr": "Baraye be khater sepordan: \"payin dar moshtagh-e bala, menha-ye bala dar moshtagh-e payin, rooye payin be tavan-e do\"."
+   },
+   "contrast": {
+    "fa": "برخلاف قاعدهٔ ضرب، اینجا علامت منفی است و ترتیب را نمی‌شود جابه‌جا کرد.",
+    "en": "Unlike the product rule, here there is a minus sign and the order cannot be swapped.",
+    "tr": "Barkhalaf-e ghaede-ye zarb, inja alamat manfi ast va tartib ra nemishavad jabeja kard."
+   },
+   "unit": "math-4-product-quotient-chain"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-chain-rule",
+   "term": {
+    "fa": "قاعدهٔ زنجیره‌ای",
+    "en": "chain rule",
+    "tr": "ghaede-ye zanjirei"
+   },
+   "explain": {
+    "fa": "برای تابع مرکب: `(f(g(x)))′ = f′(g(x)) · g′(x)`. از بیرون به داخل مشتق بگیر و مشتق لایهٔ داخلی را ضرب کن. مثال: `((3x + 1)^4)′ = 4(3x + 1)^3 · 3`.",
+    "en": "For a composite function: `(f(g(x)))′ = f′(g(x)) · g′(x)`. Differentiate from the outside in, and multiply by the derivative of the inner layer. Example: `((3x + 1)^4)′ = 4(3x + 1)^3 · 3`.",
+    "tr": "Baraye tabe'-e morakkab: `(f(g(x)))′ = f′(g(x)) · g′(x)`. Az biroon be dakhel moshtagh begir va moshtagh-e laye-ye dakheli ra zarb kon. Mesal: `((3x + 1)^4)′ = 4(3x + 1)^3 · 3`."
+   },
+   "analogy": {
+    "fa": "مثل چرخ‌دنده‌های به هم وصل: اگر یکی سه برابر دیگری بچرخد و آن یکی دو برابر سومی، کل شش برابر می‌شود.",
+    "en": "Like linked gears: if one turns three times as fast as the next, and that one twice as fast as the third, the total is six times.",
+    "tr": "Mesl-e charkh-dande-haye be ham vasl: agar yeki se barabar-e digari becharkhad va an yeki do barabar-e sevvomi, kol shesh barabar mishavad."
+   },
+   "contrast": {
+    "fa": "رایج‌ترین اشتباه، فراموش کردن ضرب در مشتق لایهٔ داخلی (`g′`) است.",
+    "en": "The most common mistake is forgetting to multiply by the derivative of the inner layer (`g′`).",
+    "tr": "Rayej-tarin eshtebah, faramoosh kardan-e zarb dar moshtagh-e laye-ye dakheli (`g′`) ast."
+   },
+   "unit": "math-4-product-quotient-chain"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-abs-derivative",
+   "term": {
+    "fa": "مشتق قدر مطلق",
+    "en": "derivative of absolute value",
+    "tr": "moshtagh-e ghadr-e motlagh"
+   },
+   "explain": {
+    "fa": "مشتق `|x|` برای `x > 0` برابر `1` و برای `x < 0` برابر `−1` است. در `x = 0` نمودار یک گوشهٔ تیز دارد و مشتق وجود ندارد، چون شیب چپ و راست برابر نیستند.",
+    "en": "The derivative of `|x|` is `1` for `x > 0` and `−1` for `x < 0`. At `x = 0` the graph has a sharp corner and there is no derivative, because the left and right slopes differ.",
+    "tr": "Moshtagh-e `|x|` baraye `x > 0` barabar-e `1` va baraye `x < 0` barabar-e `−1` ast. Dar `x = 0` nemoodar yek goushe-ye tiz darad va moshtagh vojood nadarad, chon shib-e chap va rast barabar nistand."
+   },
+   "analogy": {
+    "fa": "مثل حرف «۷» فارسی: دو شاخهٔ صاف با شیب‌های مخالف که در نوک به هم می‌رسند.",
+    "en": "Like the letter V: two straight arms with opposite slopes meeting at a point.",
+    "tr": "Mesl-e harf-e V: do shakhe-ye saf ba shib-haye mokhalef ke dar nok be ham miresand."
+   },
+   "contrast": {
+    "fa": "پیوسته بودن کافی نیست: `|x|` در صفر پیوسته است ولی مشتق‌پذیر نیست. مثلاً در `x = −5` مشتق `−1` است.",
+    "en": "Being continuous is not enough: `|x|` is continuous at zero but not differentiable there. For example at `x = −5` the derivative is `−1`.",
+    "tr": "Peyvaste boodan kafi nist: `|x|` dar sefr peyvaste ast vali moshtagh-pazir nist. Masalan dar `x = −5` moshtagh `−1` ast."
+   },
+   "unit": "math-4-differentiability"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-vertical-tangent",
+   "term": {
+    "fa": "مماس قائم",
+    "en": "vertical tangent",
+    "tr": "momas-e ghaem"
+   },
+   "explain": {
+    "fa": "اگر تابع در `a` پیوسته باشد و مشتق از هر دو طرف به یک بی‌نهایتِ هم‌علامت برود (هر دو `+∞` یا هر دو `−∞`)، خط مماس در `a` عمودی است. مثال: `∛x` در صفر.",
+    "en": "If the function is continuous at `a` and the derivative tends to the same infinity from both sides (both `+∞` or both `−∞`), the tangent at `a` is vertical. Example: `∛x` at zero.",
+    "tr": "Agar tabe' dar `a` peyvaste bashad va moshtagh az har do taraf be yek bi-nahayat-e ham-alamat beravad (har do `+∞` ya har do `−∞`), khatt-e momas dar `a` amoodi ast. Mesal: `∛x` dar sefr."
+   },
+   "analogy": {
+    "fa": "مثل جاده‌ای که در یک نقطه برای یک لحظه کاملاً سربالایی عمودی می‌شود و بعد دوباره همان جهت ادامه می‌دهد.",
+    "en": "Like a road that for one moment becomes a sheer vertical climb, then carries on in the same direction.",
+    "tr": "Mesl-e jadde-i ke dar yek noghte baraye yek lahze kamelan sarbalayi-ye amoodi mishavad va ba'd dobare haman jahat edame midahad."
+   },
+   "contrast": {
+    "fa": "در مماس قائم، علامت‌ها یکی‌اند؛ اگر یک طرف `+∞` و طرف دیگر `−∞` باشد، نقطهٔ بازگشت داریم.",
+    "en": "At a vertical tangent the signs match; if one side is `+∞` and the other `−∞`, it is a cusp.",
+    "tr": "Dar momas-e ghaem, alamat-ha yeki-and; agar yek taraf `+∞` va taraf-e digar `−∞` bashad, noghte-ye bazgasht darim."
+   },
+   "unit": "math-4-differentiability"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-cusp",
+   "term": {
+    "fa": "نقطهٔ بازگشت",
+    "en": "cusp",
+    "tr": "noghte-ye bazgasht"
+   },
+   "explain": {
+    "fa": "نقطه‌ای که تابع پیوسته است ولی مشتق از یک طرف به `+∞` و از طرف دیگر به `−∞` می‌رود؛ نمودار نوک تیزی رو به بالا یا پایین دارد. مثال: `x^(2/3)` در صفر.",
+    "en": "A point where the function is continuous but the derivative goes to `+∞` on one side and `−∞` on the other; the graph has a sharp tip pointing up or down. Example: `x^(2/3)` at zero.",
+    "tr": "Noghte-i ke tabe' peyvaste ast vali moshtagh az yek taraf be `+∞` va az taraf-e digar be `−∞` miravad; nemoodar nok-e tizi roo be bala ya payin darad. Mesal: `x^(2/3)` dar sefr."
+   },
+   "analogy": {
+    "fa": "مثل نوک یک پرندهٔ کاغذی: دو لبه که در نقطه‌ای تیز و عمودی به هم می‌رسند.",
+    "en": "Like the beak of a paper bird: two edges meeting at a sharp, vertical point.",
+    "tr": "Mesl-e nok-e yek parande-ye kaghazi: do labe ke dar noghte-i tiz va amoodi be ham miresand."
+   },
+   "contrast": {
+    "fa": "نقطهٔ بازگشت با گوشهٔ `|x|` فرق دارد: در گوشه شیب‌ها عددهای متناهی متفاوت‌اند، در بازگشت به بی‌نهایت‌های مخالف می‌روند.",
+    "en": "A cusp is not the corner of `|x|`: at a corner the slopes are different finite numbers; at a cusp they go to opposite infinities.",
+    "tr": "Noghte-ye bazgasht ba goushe-ye `|x|` fargh darad: dar goushe shib-ha adad-haye motanahi-ye motafavet-and, dar bazgasht be bi-nahayat-haye mokhalef miravand."
+   },
+   "unit": "math-4-differentiability"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-differentiable-interval",
+   "term": {
+    "fa": "مشتق‌پذیری روی بازهٔ باز",
+    "en": "differentiable on an open interval",
+    "tr": "moshtagh-paziri rooye baze-ye baz"
+   },
+   "explain": {
+    "fa": "تابعی روی `(a, b)` مشتق‌پذیر است اگر در تک‌تک نقاط این بازه مشتق داشته باشد. هر تابع مشتق‌پذیر پیوسته است، ولی برعکسش درست نیست.",
+    "en": "A function is differentiable on `(a, b)` if it has a derivative at every single point of the interval. Every differentiable function is continuous, but not the other way round.",
+    "tr": "Tabe'i rooye `(a, b)` moshtagh-pazir ast agar dar tak-tak-e noghat-e in baze moshtagh dashte bashad. Har tabe'-e moshtagh-pazir peyvaste ast, vali bar-aksash dorost nist."
+   },
+   "analogy": {
+    "fa": "مثل جاده‌ای که هیچ دست‌انداز، گوشهٔ تیز یا شیب عمودی ندارد؛ همه‌جا می‌شود نرم رانندگی کرد.",
+    "en": "Like a road with no bumps, sharp corners or vertical drops; you can drive smoothly everywhere.",
+    "tr": "Mesl-e jadde-i ke hich dast-andaz, goushe-ye tiz ya shib-e amoodi nadarad; hame-ja mishavad narm ranandegi kard."
+   },
+   "contrast": {
+    "fa": "گوشه (مثل `|x|`)، مماس قائم و نقطهٔ بازگشت سه جایی‌اند که تابع پیوسته هست ولی مشتق‌پذیر نیست.",
+    "en": "A corner (as in `|x|`), a vertical tangent and a cusp are three places where a function is continuous but not differentiable.",
+    "tr": "Goushe (mesl-e `|x|`), momas-e ghaem va noghte-ye bazgasht se jayi-and ke tabe' peyvaste hast vali moshtagh-pazir nist."
+   },
+   "unit": "math-4-differentiability"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-instant-acceleration",
+   "term": {
+    "fa": "شتاب لحظه‌ای",
+    "en": "instantaneous acceleration",
+    "tr": "shetab-e lahze-i"
+   },
+   "explain": {
+    "fa": "شتاب لحظه‌ای آهنگ تغییر سرعت در همان لحظه است: `a(t) = v′(t)`. چون سرعت مشتق مکان است، شتاب مشتق دوم مکان است: `a(t) = x″(t)`.",
+    "en": "Instantaneous acceleration is the rate of change of velocity at that moment: `a(t) = v′(t)`. Since velocity is the derivative of position, acceleration is the second derivative of position: `a(t) = x″(t)`.",
+    "tr": "Shetab-e lahze-i ahang-e taghyir-e sor'at dar haman lahze ast: `a(t) = v′(t)`. Chon sor'at moshtagh-e makan ast, shetab moshtagh-e dovvom-e makan ast: `a(t) = x″(t)`."
+   },
+   "analogy": {
+    "fa": "وقتی پایت را روی گاز فشار می‌دهی، عقربهٔ سرعت‌سنج بالا می‌رود؛ سرعتِ بالا رفتن عقربه، شتاب است.",
+    "en": "When you press the accelerator, the speedometer needle rises; how fast the needle rises is the acceleration.",
+    "tr": "Vaghti payat ra rooye gaz feshar midahi, aghrabe-ye sor'at-sanj bala miravad; sor'at-e bala raftan-e aghrabe, shetab ast."
+   },
+   "contrast": {
+    "fa": "شتاب با سرعت فرق دارد: ماشینی با سرعت ثابت ۱۰۰ کیلومتر بر ساعت، شتاب صفر دارد.",
+    "en": "Acceleration is not speed: a car at a steady 100 km/h has zero acceleration.",
+    "tr": "Shetab ba sor'at fargh darad: mashini ba sor'at-e sabet-e 100 kilometr bar sa'at, shetab-e sefr darad."
+   },
+   "unit": "math-4-motion"
+  },
+  {
+   "subject": "Mathematics",
+   "key": "math-g-acceleration-position",
+   "term": {
+    "fa": "شتاب از معادلهٔ مکان",
+    "en": "acceleration from position",
+    "tr": "shetab az moadele-ye makan"
+   },
+   "explain": {
+    "fa": "با داشتن معادلهٔ مکان `x(t)`، دو بار مشتق بگیر: یک بار برای سرعت `v(t) = x′(t)`، یک بار دیگر برای شتاب `a(t) = v′(t)`. بعد `t` را جای‌گذاری کن. مثال: `x = t³` می‌دهد `a = 6t`.",
+    "en": "Given the position `x(t)`, differentiate twice: once for velocity `v(t) = x′(t)`, and again for acceleration `a(t) = v′(t)`. Then substitute `t`. Example: `x = t³` gives `a = 6t`.",
+    "tr": "Ba dashtan-e moadele-ye makan-e `x(t)`, do bar moshtagh begir: yek bar baraye sor'at `v(t) = x′(t)`, yek bar-e digar baraye shetab `a(t) = v′(t)`. Ba'd `t` ra ja-gozari kon. Mesal: `x = t³` midahad `a = 6t`."
+   },
+   "analogy": {
+    "fa": "مثل دو پله: از مکان به سرعت، و از سرعت به شتاب.",
+    "en": "Like two steps down: from position to velocity, then from velocity to acceleration.",
+    "tr": "Mesl-e do pelle: az makan be sor'at, va az sor'at be shetab."
+   },
+   "contrast": {
+    "fa": "اول مشتق بگیر، بعد عدد بگذار؛ اگر اول `t` را جای‌گذاری کنی، به یک عدد ثابت می‌رسی که مشتقش صفر است.",
+    "en": "Differentiate first, then substitute; if you put in `t` first you get a constant, whose derivative is zero.",
+    "tr": "Avval moshtagh begir, ba'd adad bogzar; agar avval `t` ra ja-gozari koni, be yek adad-e sabet miresi ke moshtaghash sefr ast."
+   },
+   "unit": "math-4-motion"
+  }
+ ]
+}
