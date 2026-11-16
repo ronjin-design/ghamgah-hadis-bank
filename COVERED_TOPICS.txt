@@ -6,8 +6,8 @@ Packs 101-104 are lessons with no questions: 101 Mathematics 3 Chapter 1, 102 Ch
 103 the Master Tutor upgrade of both, and 104 (2026-11-16) Chapter 3 (Limits).
 Pack 105 (2026-11-16) only corrects 7 existing Mathematics questions, and pack 106
 (2026-11-16) is the Chapter 4 (Derivatives) lesson. Pack 107 corrects 3 more Mathematics
-questions, and pack 108 is the Chapter 5 (Applications of the derivative) lesson.
-THE NEXT QUESTION BLOCK IS PACK 109.
+questions, pack 108 is the Chapter 5 (Applications of the derivative) lesson, and pack
+109 is the Chapter 6 (Conic sections) lesson. THE NEXT QUESTION BLOCK IS PACK 110.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.

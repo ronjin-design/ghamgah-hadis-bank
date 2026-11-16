@@ -1,0 +1,965 @@
+{
+ "version": 109,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Mathematics",
+   "chapter": 6,
+   "unit": 1,
+   "key": "math-6-circle",
+   "title": {
+    "fa": "دایره",
+    "en": "The circle",
+    "tr": "Dayere"
+   },
+   "summary": {
+    "fa": "همهٔ نقطه‌هایی که از یک نقطه یک فاصلهٔ ثابت دارند؛ و وضع خط و دایره.",
+    "en": "All the points at one fixed distance from a point; and how a line sits against a circle.",
+    "tr": "Hame-ye noghte-hayi ke az yek noghte yek fasele-ye sabet darand; va vaz'-e khat va dayere."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بز و طناب",
+      "en": "Understand first: the goat and the rope",
+      "tr": "Avval befahm: boz va tanab"
+     },
+     "body": {
+      "fa": "بزی را تصور کن که با طنابی به طول R به یک میخ بسته شده. اگر طناب را کشیده نگه دارد و دور میخ بچرخد، دقیقاً یک دایره می‌کشد. دایره همین است: مجموعهٔ همهٔ نقطه‌های صفحه که از یک نقطهٔ ثابت (مرکز) فاصلهٔ ثابتی (شعاع) دارند (آزمون خرداد ۱۴۰۱). پرگار هم همین کار را می‌کند.",
+      "en": "Picture a goat tied to a peg with a rope of length R. If it keeps the rope tight and walks round the peg, it traces exactly a circle. That is what a circle is: the set of all points in a plane at the same fixed distance (the radius) from one fixed point (the centre) (Khordad 1401 paper). A compass does exactly this.",
+      "tr": "Bozi ra tasavvor kon ke ba tanabi be tool-e R be yek mikh baste shode. Agar tanab ra keshide negah darad va dor-e mikh becharkhad, daghighan yek dayere mikeshad. Dayere hamin ast: majmooe-ye hame-ye noghte-haye safhe ke az yek noghte-ye sabet (markaz) fasele-ye sabeti (sho'a') darand (azmoon-e Khordad 1401). Pargar ham hamin kar ra mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "معادله از فیثاغورس",
+      "en": "The equation from Pythagoras",
+      "tr": "Moadele az Fisaghoras"
+     },
+     "body": {
+      "fa": "معادلهٔ دایره فقط قضیهٔ فیثاغورس است. نقطهٔ P روی دایره، از مرکز C به اندازهٔ R فاصله دارد. فاصلهٔ افقی `x − h` و فاصلهٔ عمودی `y − k` دو ضلع یک مثلث قائم‌الزاویه‌اند و R وتر آن.",
+      "en": "The equation of a circle is just Pythagoras. A point P on the circle is a distance R from the centre C. The horizontal gap `x − h` and the vertical gap `y − k` are the two sides of a right triangle, and R is its hypotenuse.",
+      "tr": "Moadele-ye dayere faghat ghaziye-ye Fisaghoras ast. Noghte-ye P rooye dayere, az markaz-e C be andaze-ye R fasele darad. Fasele-ye ofoghi-ye `x − h` va fasele-ye amoodi-ye `y − k` do zel'-e yek mosallas-e ghaem-ozzaviye-and va R vatar-e an."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "              P(x, y)\n              *\n            / |\n         R /  |  y - k\n          /   |\n  C(h, k) *---+\n           x - h\n\n  (x - h)^2 + (y - k)^2 = R^2",
+     "caption": {
+      "fa": "فیثاغورس روی مثلث مرکز، نقطه و گوشهٔ قائمه.",
+      "en": "Pythagoras on the triangle formed by the centre, the point and the right angle.",
+      "tr": "Fisaghoras rooye mosallas-e markaz, noghte va gooshe-ye ghaeme."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(x − h)² + (y − k)² = R²",
+     "caption": {
+      "fa": "مرکز `(h, k)` و شعاع R (آزمون خرداد ۱۴۰۱)؛ با مرکز مبدأ: `x² + y² = R²` (آزمون دی ۱۴۰۰)",
+      "en": "Centre `(h, k)` and radius R (Khordad 1401 paper); centred at the origin: `x² + y² = R²` (Dey 1400 paper)",
+      "tr": "Markaz-e `(h, k)` va sho'a'-e R (azmoon-e Khordad 1401); ba markaz-e mabda': `x² + y² = R²` (azmoon-e Dey 1400)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "معادلهٔ گسترده",
+      "en": "The expanded equation",
+      "tr": "Moadele-ye gostarde"
+     },
+     "body": {
+      "fa": "گاهی دایره را باز‌شده می‌نویسند: `x² + y² + ax + by + c = 0`. با کامل کردن مربع، مرکز `(−a/2, −b/2)` به دست می‌آید (آزمون خرداد ۱۴۰۲) و `R² = (a² + b² − 4c)/4`. چون مربع شعاع باید مثبت باشد، این معادله فقط وقتی دایرهٔ واقعی است که `a² + b² − 4c > 0` (آزمون خرداد ۱۴۰۱).",
+      "en": "Sometimes a circle is written expanded: `x² + y² + ax + by + c = 0`. Completing the square gives the centre `(−a/2, −b/2)` (Khordad 1402 paper) and `R² = (a² + b² − 4c)/4`. Since a squared radius must be positive, this equation is a real circle only when `a² + b² − 4c > 0` (Khordad 1401 paper).",
+      "tr": "Gahi dayere ra baz-shode minevisand: `x² + y² + ax + by + c = 0`. Ba kamel kardan-e morabba', markaz-e `(−a/2, −b/2)` be dast miayad (azmoon-e Khordad 1402) va `R² = (a² + b² − 4c)/4`. Chon morabba'-e sho'a' bayad mosbat bashad, in moadele faghat vaghti dayere-ye vaghei ast ke `a² + b² − 4c > 0` (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "x² + y² + ax + by + c = 0   ⟹   C(−a/2, −b/2) ,  R² = (a² + b² − 4c) / 4"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خط و دایره",
+      "en": "A line and a circle",
+      "tr": "Khat va dayere"
+     },
+     "body": {
+      "fa": "برای اینکه بفهمی یک خط با دایره چه وضعی دارد، فقط فاصلهٔ مرکز تا خط (d) را با شعاع مقایسه کن. اگر `d = R` باشد، خط درست به لبهٔ دایره می‌خورد: مماس است (آزمون دی ۱۴۰۱).",
+      "en": "To see how a line sits against a circle, just compare the distance d from the centre to the line with the radius. If `d = R`, the line just grazes the edge of the circle: it is tangent (Dey 1401 paper).",
+      "tr": "Baraye inke befahmi yek khat ba dayere che vaz'i darad, faghat fasele-ye markaz ta khat (d) ra ba sho'a' moghayese kon. Agar `d = R` bashad, khat dorost be labe-ye dayere mikhorad: momas ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          .--.\n        .'    `.\n       |   C    |\n       |   |    |\n        `. |R .'\n  ---------*--------- tangent line\n           T\n\n   d > R : 0 points (outside)\n   d = R : 1 point  (tangent)\n   d < R : 2 points (cuts it)",
+     "caption": {
+      "fa": "مماس: فاصلهٔ مرکز تا خط درست برابر شعاع است، و شعاع `CT` بر خط عمود است.",
+      "en": "Tangent: the distance from the centre to the line is exactly the radius, and the radius `CT` is perpendicular to the line.",
+      "tr": "Momas: fasele-ye markaz ta khat dorost barabar-e sho'a' ast, va sho'a'-e `CT` bar khat amood ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "d = |A m + B n + C| / √(A² + B²)",
+     "caption": {
+      "fa": "فاصلهٔ نقطهٔ `(m, n)` تا خط `Ax + By + C = 0`",
+      "en": "The distance from the point `(m, n)` to the line `Ax + By + C = 0`",
+      "tr": "Fasele-ye noghte-ye `(m, n)` ta khat-e `Ax + By + C = 0`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معادلهٔ دایره با مرکز `(2, −3)` و شعاع ۴",
+      "en": "Warm-up: the equation of the circle with centre `(2, −3)` and radius 4",
+      "tr": "Garm kardan: moadele-ye dayere ba markaz-e `(2, −3)` va sho'a'-e 4"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در شکل استاندارد، h و k را با علامت منفی کم می‌کنیم. `k = −3`، پس `y − (−3) = y + 3`.",
+        "en": "In the standard form we subtract h and k. `k = −3`, so `y − (−3) = y + 3`.",
+        "tr": "Dar shekl-e estandard, h va k ra kam mikonim. `k = −3`، pas `y − (−3) = y + 3`."
+       },
+       "math": "(x − 2)² + (y + 3)² = 4²"
+      }
+     ],
+     "answer": {
+      "fa": "`(x − 2)² + (y + 3)² = 16`",
+      "en": "`(x − 2)² + (y + 3)² = 16`",
+      "tr": "`(x − 2)² + (y + 3)² = 16`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مرکز و شعاع `x² + y² − 6x + 4y − 3 = 0` (مثل آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: the centre and radius of `x² + y² − 6x + 4y − 3 = 0` (as in the Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: markaz va sho'a'-e `x² + y² − 6x + 4y − 3 = 0` (mesl-e azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ضریب‌ها را بخوان: `a = −6`، `b = 4`، `c = −3`. ضریب `x²` و `y²` هر دو ۱ است، پس فرمول مستقیم کار می‌کند.",
+        "en": "Read the coefficients: `a = −6`, `b = 4`, `c = −3`. The coefficients of `x²` and `y²` are both 1, so the formula works directly.",
+        "tr": "Zarib-ha ra bekhan: `a = −6`، `b = 4`، `c = −3`. Zarib-e `x²` va `y²` har do 1 ast, pas formool mostaghim kar mikonad."
+       },
+       "math": "C = (−a/2, −b/2) = (3, −2)"
+      },
+      {
+       "text": {
+        "fa": "پیش از شعاع، شرط دایره بودن را بسنج.",
+        "en": "Before the radius, check the condition for a circle.",
+        "tr": "Pish az sho'a'، shart-e dayere boodan ra besanj."
+       },
+       "math": "a² + b² − 4c = 36 + 16 + 12 = 64 > 0"
+      },
+      {
+       "text": {
+        "fa": "شعاع: آن عدد را بر ۴ تقسیم کن و جذر بگیر. امتحان با مربع کامل: `(x − 3)² + (y + 2)² = 3 + 9 + 4 = 16`.",
+        "en": "The radius: divide that number by 4 and take the root. Check by completing the square: `(x − 3)² + (y + 2)² = 3 + 9 + 4 = 16`.",
+        "tr": "Sho'a': an adad ra bar 4 taghsim kon va jazr begir. Emtehan ba morabba'-e kamel: `(x − 3)² + (y + 2)² = 3 + 9 + 4 = 16`."
+       },
+       "math": "R² = 64 / 4 = 16   ⟹   R = 4"
+      }
+     ],
+     "answer": {
+      "fa": "مرکز `(3, −2)`، شعاع ۴",
+      "en": "Centre `(3, −2)`, radius 4",
+      "tr": "Markaz `(3, −2)`، sho'a' 4"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا خط `3x + 4y = 25` بر دایرهٔ `x² + y² = 25` مماس است؟ (مثل آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: is the line `3x + 4y = 25` tangent to the circle `x² + y² = 25`? (as in the Dey 1401 paper)",
+      "tr": "Pich-e emtehani: aya khat-e `3x + 4y = 25` bar dayere-ye `x² + y² = 25` momas ast? (mesl-e azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: فرمول فاصله، خط را به شکل «برابر صفر» می‌خواهد. اول ۲۵ را به طرف چپ ببر.",
+        "en": "The twist: the distance formula needs the line in \"equals zero\" form. First move the 25 to the left.",
+        "tr": "Pich-e emtehan: formool-e fasele, khat ra be shekl-e \"barabar-e sefr\" mikhahad. Avval 25 ra be taraf-e chap bebar."
+       },
+       "math": "3x + 4y − 25 = 0"
+      },
+      {
+       "text": {
+        "fa": "مرکز دایره `(0, 0)` و شعاعش ۵ است. فاصلهٔ مرکز تا خط را حساب کن.",
+        "en": "The circle's centre is `(0, 0)` and its radius is 5. Work out the distance from the centre to the line.",
+        "tr": "Markaz-e dayere `(0, 0)` va sho'a'ash 5 ast. Fasele-ye markaz ta khat ra hesab kon."
+       },
+       "math": "d = |0 + 0 − 25| / √(9 + 16) = 25 / 5 = 5"
+      },
+      {
+       "text": {
+        "fa": "`d = R = 5`، پس خط فقط در یک نقطه به دایره می‌خورد.",
+        "en": "`d = R = 5`, so the line touches the circle at exactly one point.",
+        "tr": "`d = R = 5`، pas khat faghat dar yek noghte be dayere mikhorad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بله، مماس است",
+      "en": "Yes, it is tangent",
+      "tr": "Bale, momas ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مراقب علامت مرکز باش: در `(x + 3)²` مقدار h برابر `−3` است، نه ۳. همیشه به شکل `x − h` برگردان و بعد بخوان.",
+      "en": "Watch the sign of the centre: in `(x + 3)²`, h is `−3`, not 3. Always rewrite as `x − h` and then read it.",
+      "tr": "Moraghebe alamat-e markaz bash: dar `(x + 3)²` meghdar-e h barabar-e `−3` ast, na 3. Hamishe be shekl-e `x − h` bargardan va ba'd bekhan."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هر معادلهٔ گسترده‌ای دایره نیست. اگر `a² + b² − 4c ≤ 0` باشد، دایرهٔ واقعی وجود ندارد؛ مثلاً `x² + y² + 2x + 5 = 0` دایره نیست چون `4 − 20 < 0`. و ضریب `x²` و `y²` باید اول ۱ شوند.",
+      "en": "Not every expanded equation is a circle. If `a² + b² − 4c ≤ 0`, there is no real circle; for example `x² + y² + 2x + 5 = 0` is not a circle because `4 − 20 < 0`. And the coefficients of `x²` and `y²` must first be made 1.",
+      "tr": "Har moadele-ye gostarde-i dayere nist. Agar `a² + b² − 4c ≤ 0` bashad, dayere-ye vaghei vojood nadarad; masalan `x² + y² + 2x + 5 = 0` dayere nist chon `4 − 20 < 0`. Va zarib-e `x²` va `y²` bayad avval 1 shavand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1400-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 971
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 972
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 972
+    },
+    {
+     "session": "1401-Dey",
+     "number": 975
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 6,
+   "unit": 2,
+   "key": "math-6-ellipse",
+   "title": {
+    "fa": "بیضی",
+    "en": "The ellipse",
+    "tr": "Beyzi"
+   },
+   "summary": {
+    "fa": "دو میخ، یک نخ، یک مداد؛ و مدار سیاره‌ها.",
+    "en": "Two pins, a loop of string, a pencil; and the orbits of the planets.",
+    "tr": "Do mikh, yek nakh, yek medad; va madar-e sayyare-ha."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نخ و دو میخ",
+      "en": "Understand first: string and two pins",
+      "tr": "Avval befahm: nakh va do mikh"
+     },
+     "body": {
+      "fa": "دو میخ روی کاغذ بکوب، یک نخ را دور هر دو ببند و با مداد نخ را کشیده نگه دار و بچرخان. شکلی که کشیده می‌شود بیضی است. چرا؟ چون طول نخ ثابت است: جمع فاصلهٔ مداد از دو میخ همیشه یک عدد است. دو میخ «کانون‌ها» هستند. سیاره‌ها هم روی بیضی دور خورشید می‌چرخند و خورشید در یکی از کانون‌هاست.",
+      "en": "Push two pins into paper, tie a loop of string round both, and hold the string tight with a pencil as you go round. The shape you draw is an ellipse. Why? Because the string's length is fixed: the pencil's distances to the two pins always add up to the same number. The two pins are the \"foci\". The planets also go round the sun on ellipses, with the sun at one focus.",
+      "tr": "Do mikh rooye kaghaz bekoob, yek nakh ra dor-e har do beband va ba medad nakh ra keshide negah dar va becharkhan. Shekli ke keshide mishavad beyzi ast. Chera? Chon tool-e nakh sabet ast: jam'-e fasele-ye medad az do mikh hamishe yek adad ast. Do mikh \"kanoon-ha\" hastand. Sayyare-ha ham rooye beyzi dor-e khorshid micharkhand va khorshid dar yeki az kanoon-hast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تعریف و قطر بزرگ",
+      "en": "The definition and the major axis",
+      "tr": "Ta'rif va ghotr-e bozorg"
+     },
+     "body": {
+      "fa": "پس بیضی مجموعهٔ نقطه‌هایی است که جمع فاصله‌شان از دو کانون یک عدد ثابت است، بزرگ‌تر از فاصلهٔ دو کانون (آزمون دی ۱۴۰۱). پاره‌خطی که از مرکز می‌گذرد و دو سر دورتر بیضی را به هم وصل می‌کند «قطر بزرگ» است (آزمون دی ۱۴۰۱) و طولش `2a` است.",
+      "en": "So an ellipse is the set of points whose distances from two foci add up to a fixed number, bigger than the distance between the foci (Dey 1401 paper). The segment through the centre joining the two farthest-apart ends is the \"major axis\" (Dey 1401 paper), and its length is `2a`.",
+      "tr": "Pas beyzi majmooe-ye noghte-hayi ast ke jam'-e fasele-shan az do kanoon yek adad-e sabet ast, bozorg-tar az fasele-ye do kanoon (azmoon-e Dey 1401). Pare-khati ke az markaz migozarad va do sar-e door-tar-e beyzi ra be ham vasl mikonad \"ghotr-e bozorg\" ast (azmoon-e Dey 1401) va toolash `2a` ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "                B\n           .---------.\n        .'      |      `.\n  A' *    F'    O    F    * A\n        `.      |      .'\n           `---------'\n                B'\n\n  AA' = 2a (major)   BB' = 2b\n  OF = OF' = c",
+     "caption": {
+      "fa": "قطر بزرگ `AA'`، قطر کوچک `BB'`، و دو کانون F و `F'` روی قطر بزرگ.",
+      "en": "The major axis `AA'`, the minor axis `BB'`, and the two foci F and `F'` on the major axis.",
+      "tr": "Ghotr-e bozorg `AA'`، ghotr-e koochak `BB'`، va do kanoon-e F va `F'` rooye ghotr-e bozorg."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رابطهٔ a، b و c",
+      "en": "The relation between a, b and c",
+      "tr": "Rabete-ye a, b va c"
+     },
+     "body": {
+      "fa": "چرا `a² = b² + c²`؟ مداد را روی B، بالای مرکز، بگذار. B از دو کانون یک فاصله دارد و جمع این دو فاصله `2a` است، پس هر کدام a است. حالا مثلث `B O F` قائم‌الزاویه است: وتر a، ضلع‌ها b و c (آزمون دی ۱۴۰۰).",
+      "en": "Why `a² = b² + c²`? Put the pencil at B, above the centre. B is the same distance from both foci, and those two distances add up to `2a`, so each is a. Now the triangle `B O F` is right-angled: hypotenuse a, sides b and c (Dey 1400 paper).",
+      "tr": "Chera `a² = b² + c²`? Medad ra rooye B, bala-ye markaz, bogzar. B az do kanoon yek fasele darad va jam'-e in do fasele `2a` ast, pas har kodam a ast. Hala mosallas-e `B O F` ghaem-ozzaviye ast: vatar a, zel'-ha b va c (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "        B\n        *\n        |\\\n      b | \\ a\n        |  \\\n        *---*\n        O  c  F\n\n   BF = a,  so  a^2 = b^2 + c^2",
+     "caption": {
+      "fa": "از نقطهٔ B فاصله تا هر کانون a است؛ فیثاغورس رابطه را می‌دهد.",
+      "en": "From the point B the distance to each focus is a; Pythagoras gives the relation.",
+      "tr": "Az noghte-ye B fasele ta har kanoon a ast; Fisaghoras rabete ra midahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "a² = b² + c²",
+     "caption": {
+      "fa": "در بیضی a از همه بزرگ‌تر است (آزمون دی ۱۴۰۰)",
+      "en": "In an ellipse a is the biggest (Dey 1400 paper)",
+      "tr": "Dar beyzi a az hame bozorg-tar ast (azmoon-e Dey 1400)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "x²/a² + y²/b² = 1",
+     "caption": {
+      "fa": "بیضی افقی با مرکز مبدأ",
+      "en": "A horizontal ellipse centred at the origin",
+      "tr": "Beyzi-ye ofoghi ba markaz-e mabda'"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "e = c / a  ,   0 < e < 1",
+     "caption": {
+      "fa": "خروج از مرکز: هر چه به صفر نزدیک‌تر، گردتر (آزمون دی ۱۴۰۰)",
+      "en": "Eccentricity: the closer to zero, the rounder (Dey 1400 paper)",
+      "tr": "Khorooj az markaz: har che be sefr nazdik-tar, gerd-tar (azmoon-e Dey 1400)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: نخی به طول ۱۰ و دو میخ به فاصلهٔ ۶",
+      "en": "Warm-up: a string of length 10 and two pins 6 apart",
+      "tr": "Garm kardan: nakhi be tool-e 10 va do mikh be fasele-ye 6"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "جمع فاصله‌ها همان طول نخ است، پس `2a = 10`. فاصلهٔ دو کانون `2c = 6`.",
+        "en": "The sum of the distances is the string's length, so `2a = 10`. The distance between the foci is `2c = 6`.",
+        "tr": "Jam'-e fasele-ha haman tool-e nakh ast, pas `2a = 10`. Fasele-ye do kanoon `2c = 6`."
+       },
+       "math": "a = 5 ,   c = 3"
+      },
+      {
+       "text": {
+        "fa": "b را از رابطهٔ بیضی پیدا کن.",
+        "en": "Find b from the ellipse relation.",
+        "tr": "b ra az rabete-ye beyzi peyda kon."
+       },
+       "math": "b² = a² − c² = 25 − 9 = 16"
+      }
+     ],
+     "answer": {
+      "fa": "`b = 4`؛ قطر بزرگ ۱۰ و قطر کوچک ۸",
+      "en": "`b = 4`; major axis 10 and minor axis 8",
+      "tr": "`b = 4`؛ ghotr-e bozorg 10 va ghotr-e koochak 8"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کانون‌ها و خروج از مرکز `x²/25 + y²/9 = 1` (مثل آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: the foci and eccentricity of `x²/25 + y²/9 = 1` (as in the Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kanoon-ha va khorooj az markaz-e `x²/25 + y²/9 = 1` (mesl-e azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مخرج بزرگ‌تر زیر `x²` است، پس قطر بزرگ افقی است.",
+        "en": "The bigger denominator is under `x²`, so the major axis is horizontal.",
+        "tr": "Makhraj-e bozorg-tar zir-e `x²` ast, pas ghotr-e bozorg ofoghi ast."
+       },
+       "math": "a² = 25 ,   b² = 9"
+      },
+      {
+       "text": {
+        "fa": "c را از `a² = b² + c²` حساب کن.",
+        "en": "Work out c from `a² = b² + c²`.",
+        "tr": "c ra az `a² = b² + c²` hesab kon."
+       },
+       "math": "c² = 25 − 9 = 16   ⟹   c = 4"
+      },
+      {
+       "text": {
+        "fa": "کانون‌ها روی قطر بزرگ‌اند، و خروج از مرکز `c/a` است.",
+        "en": "The foci are on the major axis, and the eccentricity is `c/a`.",
+        "tr": "Kanoon-ha rooye ghotr-e bozorg-and, va khorooj az markaz `c/a` ast."
+       },
+       "math": "F(±4, 0) ,   e = 4/5"
+      }
+     ],
+     "answer": {
+      "fa": "کانون‌ها `(±4, 0)`؛ `e = 4/5`",
+      "en": "Foci `(±4, 0)`; `e = 4/5`",
+      "tr": "Kanoon-ha `(±4, 0)`؛ `e = 4/5`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کانون‌های `x²/9 + y²/25 = 1`",
+      "en": "Exam twist: the foci of `x²/9 + y²/25 = 1`",
+      "tr": "Pich-e emtehani: kanoon-haye `x²/9 + y²/25 = 1`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار مخرج بزرگ‌تر زیر `y²` است. a همیشه زیر مخرج بزرگ‌تر است، نه لزوماً زیر `x²`. پس قطر بزرگ عمودی است.",
+        "en": "The twist: this time the bigger denominator is under `y²`. a is always under the bigger denominator, not necessarily under `x²`. So the major axis is vertical.",
+        "tr": "Pich-e emtehan: in bar makhraj-e bozorg-tar zir-e `y²` ast. a hamishe zir-e makhraj-e bozorg-tar ast, na lozooman zir-e `x²`. Pas ghotr-e bozorg amoodi ast."
+       },
+       "math": "a² = 25 ,   b² = 9"
+      },
+      {
+       "text": {
+        "fa": "c مثل قبل ۴ است، ولی کانون‌ها حالا روی محور y هستند.",
+        "en": "c is 4 as before, but the foci are now on the y-axis.",
+        "tr": "c mesl-e ghabl 4 ast, vali kanoon-ha hala rooye mehvar-e y hastand."
+       },
+       "math": "c = 4"
+      }
+     ],
+     "answer": {
+      "fa": "`(0, ±4)`",
+      "en": "`(0, ±4)`",
+      "tr": "`(0, ±4)`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در بیضی `a² = b² + c²` است و a بزرگ‌ترین است؛ در هذلولی برعکس، `c² = a² + b²`. این دو را با هم قاطی نکن.",
+      "en": "In an ellipse it is `a² = b² + c²` and a is the biggest; in a hyperbola it is the other way, `c² = a² + b²`. Do not mix them up.",
+      "tr": "Dar beyzi `a² = b² + c²` ast va a bozorg-tarin ast; dar hazloli bar-aks, `c² = a² + b²`. In do ra ba ham ghati nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قبل از پیدا کردن کانون‌ها، ببین مخرج بزرگ‌تر زیر کدام متغیر است؛ همان جهت قطر بزرگ و جای کانون‌هاست.",
+      "en": "Before finding the foci, see which variable has the bigger denominator; that is the direction of the major axis and where the foci lie.",
+      "tr": "Ghabl az peyda kardan-e kanoon-ha, bebin makhraj-e bozorg-tar zir-e kodam moteghayyer ast; haman jahat-e ghotr-e bozorg va ja-ye kanoon-hast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Dey",
+     "number": 971
+    },
+    {
+     "session": "1400-Dey",
+     "number": 976
+    },
+    {
+     "session": "1400-Dey",
+     "number": 974
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 6,
+   "unit": 3,
+   "key": "math-6-parabola",
+   "title": {
+    "fa": "سهمی",
+    "en": "The parabola",
+    "tr": "Sahmi"
+   },
+   "summary": {
+    "fa": "دیش ماهواره: هر سیگنالی به کانون برمی‌گردد.",
+    "en": "A satellite dish: every signal bounces to the focus.",
+    "tr": "Dish-e mahvare: har signali be kanoon barmigardad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دیش ماهواره",
+      "en": "Understand first: the satellite dish",
+      "tr": "Avval befahm: dish-e mahvare"
+     },
+     "body": {
+      "fa": "دیش ماهواره را دیده‌ای؟ هر سیگنالی که مستقیم به آن بخورد، به یک نقطه برمی‌گردد: «کانون»، جایی که گیرنده را می‌گذارند. چراغ جلوی ماشین برعکس همین است: لامپ در کانون است و نور را موازی بیرون می‌فرستد. شکل این دیش‌ها سهمی است. تعریفش: همهٔ نقطه‌هایی که فاصله‌شان از یک نقطهٔ ثابت (کانون) و یک خط ثابت (خط هادی) برابر است (آزمون دی ۱۴۰۰).",
+      "en": "Seen a satellite dish? Every signal that hits it straight on bounces to one point: the \"focus\", where the receiver sits. A car headlight is the reverse: the bulb is at the focus and sends the light out in parallel. These dishes are shaped like a parabola. Its definition: all the points that are the same distance from a fixed point (the focus) and a fixed line (the directrix) (Dey 1400 paper).",
+      "tr": "Dish-e mahvare ra dide-i? Har signali ke mostaghim be an bokhorad, be yek noghte barmigardad: \"kanoon\"، jayi ke girande ra migozarand. Cheragh-e jelo-ye mashin bar-aks-e hamin ast: lamp dar kanoon ast va noor ra movazi biroon miferestad. Shekl-e in dish-ha sahmi ast. Ta'rifash: hame-ye noghte-hayi ke fasele-shan az yek noghte-ye sabet (kanoon) va yek khat-e sabet (khat-e hadi) barabar ast (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "        P *\n         /|\n        / |\n     F *  |      PF = PD\n          |\n  ========*======== directrix\n          D",
+     "caption": {
+      "fa": "هر نقطهٔ P روی سهمی از کانون F و از خط هادی به یک اندازه فاصله دارد.",
+      "en": "Every point P on the parabola is the same distance from the focus F and from the directrix.",
+      "tr": "Har noghte-ye P rooye sahmi az kanoon-e F va az khat-e hadi be yek andaze fasele darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "     \\               /\n      \\             /\n       *-----F-----*   latus rectum\n        \\    |    /    length |4p|\n         `-._V_.-'\n\n  ==================== directrix\n  F = (h, k + p)    V = (h, k)\n  directrix:  y = k - p",
+     "caption": {
+      "fa": "رأس V درست وسط کانون و خط هادی است. «محور تقارن» از کانون می‌گذرد و بر خط هادی عمود است (آزمون دی ۱۴۰۱). «وتر کانونی قائم» از کانون می‌گذرد و بر محور عمود است (آزمون دی ۱۴۰۱).",
+      "en": "The vertex V sits exactly halfway between the focus and the directrix. The \"axis of symmetry\" passes through the focus, perpendicular to the directrix (Dey 1401 paper). The \"latus rectum\" passes through the focus, perpendicular to the axis (Dey 1401 paper).",
+      "tr": "Ra's-e V dorost vasat-e kanoon va khat-e hadi ast. \"Mehvar-e tagharon\" az kanoon migozarad va bar khat-e hadi amood ast (azmoon-e Dey 1401). \"Vatar-e kanooni-ye ghaem\" az kanoon migozarad va bar mehvar amood ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(x − h)² = 4p(y − k)",
+     "caption": {
+      "fa": "سهمی قائم با رأس `(h, k)`؛ p فاصلهٔ رأس تا کانون (آزمون خرداد ۱۴۰۱)",
+      "en": "A vertical parabola with vertex `(h, k)`; p is the vertex-to-focus distance (Khordad 1401 paper)",
+      "tr": "Sahmi-ye ghaem ba ra's-e `(h, k)`؛ p fasele-ye ra's ta kanoon (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "F = (h, k + p)   ,   y = k − p",
+     "caption": {
+      "fa": "کانون (آزمون خرداد ۱۴۰۲) و خط هادی (آزمون دی ۱۴۰۱)",
+      "en": "The focus (Khordad 1402 paper) and the directrix (Dey 1401 paper)",
+      "tr": "Kanoon (azmoon-e Khordad 1402) va khat-e hadi (azmoon-e Dey 1401)"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سهمی افقی",
+      "en": "The horizontal parabola",
+      "tr": "Sahmi-ye ofoghi"
+     },
+     "body": {
+      "fa": "اگر جای x و y عوض شود، یعنی `(y − k)² = 4p(x − h)`، محور تقارن با محور x موازی است و سهمی به راست یا چپ باز می‌شود (آزمون دی ۱۴۰۲): p مثبت به راست، p منفی به چپ. قانون ساده: متغیری که مربع نیست، جهت باز شدن را نشان می‌دهد.",
+      "en": "If x and y swap places, as in `(y − k)² = 4p(x − h)`, the axis of symmetry is parallel to the x-axis and the parabola opens to the right or to the left (Dey 1402 paper): positive p to the right, negative p to the left. The simple rule: the variable that is not squared shows the direction it opens.",
+      "tr": "Agar ja-ye x va y avaz shavad, ya'ni `(y − k)² = 4p(x − h)`، mehvar-e tagharon ba mehvar-e x movazi ast va sahmi be rast ya chap baz mishavad (azmoon-e Dey 1402): p-e mosbat be rast, p-e manfi be chap. Ghanoon-e sade: moteghayyeri ke morabba' nist, jahat-e baz shodan ra neshan midahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "(y − k)² = 4p(x − h)",
+     "caption": {
+      "fa": "افقی: کانون `(h + p, k)`، خط هادی `x = h − p`",
+      "en": "Horizontal: focus `(h + p, k)`, directrix `x = h − p`",
+      "tr": "Ofoghi: kanoon `(h + p, k)`، khat-e hadi `x = h − p`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کانون و خط هادی `x² = 8y`",
+      "en": "Warm-up: the focus and directrix of `x² = 8y`",
+      "tr": "Garm kardan: kanoon va khat-e hadi-ye `x² = 8y`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "با شکل استاندارد مقایسه کن: رأس مبدأ است و `4p = 8`.",
+        "en": "Compare with the standard form: the vertex is the origin and `4p = 8`.",
+        "tr": "Ba shekl-e estandard moghayese kon: ra's mabda' ast va `4p = 8`."
+       },
+       "math": "h = 0 , k = 0 , p = 2"
+      },
+      {
+       "text": {
+        "fa": "کانون p واحد بالای رأس است و خط هادی p واحد پایین آن.",
+        "en": "The focus is p units above the vertex and the directrix p units below it.",
+        "tr": "Kanoon p vahed bala-ye ra's ast va khat-e hadi p vahed payin-e an."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کانون `(0, 2)`؛ خط هادی `y = −2`",
+      "en": "Focus `(0, 2)`; directrix `y = −2`",
+      "tr": "Kanoon `(0, 2)`؛ khat-e hadi `y = −2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رأس، کانون، خط هادی و وتر کانونی `(x − 1)² = 12(y + 2)` (مثل آزمون‌های خرداد ۱۴۰۲ و دی ۱۴۰۱)",
+      "en": "Textbook and exam: the vertex, focus, directrix and latus rectum of `(x − 1)² = 12(y + 2)` (as in the Khordad 1402 and Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: ra's, kanoon, khat-e hadi va vatar-e kanooni-ye `(x − 1)² = 12(y + 2)` (mesl-e azmoon-haye Khordad 1402 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`y + 2` یعنی `y − (−2)`، پس `k = −2`. و `4p = 12`.",
+        "en": "`y + 2` means `y − (−2)`, so `k = −2`. And `4p = 12`.",
+        "tr": "`y + 2` ya'ni `y − (−2)`، pas `k = −2`. Va `4p = 12`."
+       },
+       "math": "V = (1, −2) ,   p = 3"
+      },
+      {
+       "text": {
+        "fa": "کانون: p واحد بالای رأس. خط هادی: p واحد پایین.",
+        "en": "The focus: p units above the vertex. The directrix: p units below.",
+        "tr": "Kanoon: p vahed bala-ye ra's. Khat-e hadi: p vahed payin."
+       },
+       "math": "F = (1, −2 + 3) = (1, 1) ,   y = −2 − 3 = −5"
+      },
+      {
+       "text": {
+        "fa": "طول وتر کانونی قائم `|4p|` است.",
+        "en": "The length of the latus rectum is `|4p|`.",
+        "tr": "Tool-e vatar-e kanooni-ye ghaem `|4p|` ast."
+       },
+       "math": "|4p| = 12"
+      }
+     ],
+     "answer": {
+      "fa": "رأس `(1, −2)`، کانون `(1, 1)`، خط هادی `y = −5`، وتر کانونی ۱۲",
+      "en": "Vertex `(1, −2)`, focus `(1, 1)`, directrix `y = −5`, latus rectum 12",
+      "tr": "Ra's `(1, −2)`، kanoon `(1, 1)`، khat-e hadi `y = −5`، vatar-e kanooni 12"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سهمی `(y − 2)² = −8(x + 1)`",
+      "en": "Exam twist: the parabola `(y − 2)² = −8(x + 1)`",
+      "tr": "Pich-e emtehani: sahmi-ye `(y − 2)² = −8(x + 1)`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ اول: این بار y مربع است، پس سهمی افقی است (مثل آزمون دی ۱۴۰۲). رأس را بخوان.",
+        "en": "First twist: this time y is squared, so the parabola is horizontal (as in the Dey 1402 paper). Read the vertex.",
+        "tr": "Pich-e avval: in bar y morabba' ast, pas sahmi ofoghi ast (mesl-e azmoon-e Dey 1402). Ra's ra bekhan."
+       },
+       "math": "V = (−1, 2)"
+      },
+      {
+       "text": {
+        "fa": "پیچ دوم: `4p = −8`، پس p منفی است و سهمی به چپ باز می‌شود.",
+        "en": "Second twist: `4p = −8`, so p is negative and the parabola opens to the left.",
+        "tr": "Pich-e dovvom: `4p = −8`، pas p manfi ast va sahmi be chap baz mishavad."
+       },
+       "math": "p = −2"
+      },
+      {
+       "text": {
+        "fa": "کانون p واحد در جهت x از رأس است؛ خط هادی در طرف مقابل.",
+        "en": "The focus is p units from the vertex in the x direction; the directrix is on the opposite side.",
+        "tr": "Kanoon p vahed dar jahat-e x az ra's ast; khat-e hadi dar taraf-e moghabel."
+       },
+       "math": "F = (−1 + (−2), 2) = (−3, 2) ,   x = −1 − (−2) = 1"
+      }
+     ],
+     "answer": {
+      "fa": "به چپ باز می‌شود؛ کانون `(−3, 2)`، خط هادی `x = 1`",
+      "en": "Opens to the left; focus `(−3, 2)`, directrix `x = 1`",
+      "tr": "Be chap baz mishavad; kanoon `(−3, 2)`، khat-e hadi `x = 1`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "p فاصلهٔ رأس تا کانون است، ولی ضریب در معادله `4p` است. اگر `4p = 12`، p برابر ۳ است، نه ۱۲.",
+      "en": "p is the vertex-to-focus distance, but the coefficient in the equation is `4p`. If `4p = 12`, p is 3, not 12.",
+      "tr": "p fasele-ye ra's ta kanoon ast, vali zarib dar moadele `4p` ast. Agar `4p = 12`، p barabar-e 3 ast, na 12."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اول ببین کدام متغیر مربع است. `x²` یعنی بالا یا پایین، `y²` یعنی راست یا چپ؛ و علامت p جهت را کامل می‌کند.",
+      "en": "First see which variable is squared. `x²` means up or down, `y²` means right or left; and the sign of p finishes the direction.",
+      "tr": "Avval bebin kodam moteghayyer morabba' ast. `x²` ya'ni bala ya payin, `y²` ya'ni rast ya chap; va alamat-e p jahat ra kamel mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 971
+    },
+    {
+     "session": "1401-Dey",
+     "number": 972
+    },
+    {
+     "session": "1401-Dey",
+     "number": 974
+    },
+    {
+     "session": "1402-Dey",
+     "number": 975
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 977
+    },
+    {
+     "session": "1401-Dey",
+     "number": 978
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 978
+    }
+   ]
+  },
+  {
+   "subject": "Mathematics",
+   "chapter": 6,
+   "unit": 4,
+   "key": "math-6-hyperbola",
+   "title": {
+    "fa": "هذلولی",
+    "en": "The hyperbola",
+    "tr": "Hazloli"
+   },
+   "summary": {
+    "fa": "اختلاف فاصله‌ها ثابت است: از برج خنک‌کن تا ناوبری.",
+    "en": "The difference of the distances is fixed: from cooling towers to navigation.",
+    "tr": "Ekhtelaf-e fasele-ha sabet ast: az borj-e khonak-kon ta navbari."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ناوبری با دو ایستگاه",
+      "en": "Understand first: navigating with two stations",
+      "tr": "Avval befahm: navbari ba do istgah"
+     },
+     "body": {
+      "fa": "برج‌های خنک‌کن نیروگاه را دیده‌ای؟ دیواره‌شان از کنار، شکل هذلولی دارد. کشتی‌ها هم قدیم با هذلولی مسیر پیدا می‌کردند: دو ایستگاه رادیویی هم‌زمان سیگنال می‌فرستند، و اختلاف زمان رسیدن دو سیگنال به کشتی، اختلاف فاصله‌اش از دو ایستگاه را می‌دهد. همهٔ نقطه‌هایی که این اختلاف برایشان ثابت است، روی یک هذلولی‌اند. تعریف: قدرمطلق اختلاف فاصله‌ها از دو کانون ثابت است، و کوچک‌تر از فاصلهٔ دو کانون (آزمون دی ۱۴۰۰).",
+      "en": "Have you seen a power station's cooling towers? From the side, their walls are shaped like a hyperbola. Ships also used to navigate with hyperbolas: two radio stations send signals at the same moment, and the difference in arrival times at the ship gives the difference in its distances to the two stations. All the points with that same difference lie on one hyperbola. The definition: the absolute difference of the distances to two foci is constant, and smaller than the distance between the foci (Dey 1400 paper).",
+      "tr": "Borj-haye khonak-kon-e niroogah ra dide-i? Divare-shan az kenar, shekl-e hazloli darad. Kashti-ha ham ghadim ba hazloli masir peyda mikardand: do istgah-e radioyi ham-zaman signal miferestand, va ekhtelaf-e zaman-e residan-e do signal be kashti, ekhtelaf-e fasele-ash az do istgah ra midahad. Hame-ye noghte-hayi ke in ekhtelaf barayeshan sabet ast, rooye yek hazloli-and. Ta'rif: ghadr-e motlagh-e ekhtelaf-e fasele-ha az do kanoon sabet ast, va koochak-tar az fasele-ye do kanoon (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "|PF − PF'| = 2a",
+     "caption": {
+      "fa": "برای هر نقطهٔ P روی هذلولی",
+      "en": "For every point P on the hyperbola",
+      "tr": "Baraye har noghte-ye P rooye hazloli"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   \\    \\               /    /\n    \\     \\           /     /\n     \\      \\       /      /\n      )       \\   /       (\n------)---------O---------(------>\n      )       /   \\       (\n     /      /       \\      \\\n    /     /           \\     \\\n   /    /               \\    \\\n\n  ( ) branches     \\ / asymptotes\n  O centre: asymptotes cross here",
+     "caption": {
+      "fa": "دو شاخه رو به بیرون باز می‌شوند و به دو خط «مجانب» نزدیک می‌شوند ولی هرگز به آن‌ها نمی‌رسند (آزمون خرداد ۱۴۰۱). مجانب‌ها در مرکز همدیگر را قطع می‌کنند.",
+      "en": "The two branches open outward and get closer to the two \"asymptote\" lines without ever reaching them (Khordad 1401 paper). The asymptotes cross at the centre.",
+      "tr": "Do shakhe roo be biroon baz mishavand va be do khat-e \"mojanab\" nazdik mishavand vali hargez be an-ha nemiresand (azmoon-e Khordad 1401). Mojanab-ha dar markaz hamdigar ra ghat' mikonand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رابطهٔ a، b و c",
+      "en": "The relation between a, b and c",
+      "tr": "Rabete-ye a, b va c"
+     },
+     "body": {
+      "fa": "در هذلولی، کانون‌ها از رأس‌ها دورترند، پس c بزرگ‌ترین است: `c² = a² + b²` (آزمون خرداد ۱۴۰۱). مستطیلی با ضلع‌های `2a` و `2b` دور مرکز بکش؛ قطرهایش همان مجانب‌ها هستند، و نصف قطر برابر c است.",
+      "en": "In a hyperbola the foci are farther out than the vertices, so c is the biggest: `c² = a² + b²` (Khordad 1401 paper). Draw a box with sides `2a` and `2b` round the centre; its diagonals are the asymptotes, and half a diagonal equals c.",
+      "tr": "Dar hazloli, kanoon-ha az ra's-ha door-tar-and, pas c bozorg-tarin ast: `c² = a² + b²` (azmoon-e Khordad 1401). Mostatili ba zel'-haye `2a` va `2b` dor-e markaz bekesh; ghotr-hayash haman mojanab-ha hastand, va nesf-e ghotr barabar-e c ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   +---------+\n   |       / |\n   |     /   | b\n   |   /  c  |\n   | /       |\n   O---------+\n        a\n\n  diagonal = asymptote, length c\n  c^2 = a^2 + b^2",
+     "caption": {
+      "fa": "یک‌چهارم جعبه: قطر روی مجانب است و طولش c.",
+      "en": "A quarter of the box: the diagonal lies on the asymptote and has length c.",
+      "tr": "Yek-chaharom-e ja'be: ghotr rooye mojanab ast va toolash c."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "x²/a² − y²/b² = 1",
+     "caption": {
+      "fa": "هذلولی افقی با مرکز مبدأ",
+      "en": "A horizontal hyperbola centred at the origin",
+      "tr": "Hazloli-ye ofoghi ba markaz-e mabda'"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "c² = a² + b²   ,   y = ±(b/a) x",
+     "caption": {
+      "fa": "رابطهٔ کانون (آزمون خرداد ۱۴۰۱) و مجانب‌ها (آزمون خرداد ۱۴۰۱)",
+      "en": "The focus relation (Khordad 1401 paper) and the asymptotes (Khordad 1401 paper)",
+      "tr": "Rabete-ye kanoon (azmoon-e Khordad 1401) va mojanab-ha (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر `a = 3` و `b = 4`، کانون‌های هذلولی افقی کجاست؟",
+      "en": "Warm-up: if `a = 3` and `b = 4`, where are the foci of the horizontal hyperbola?",
+      "tr": "Garm kardan: agar `a = 3` va `b = 4`، kanoon-haye hazloli-ye ofoghi kojast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در هذلولی c بزرگ‌ترین است و از جمع مربع‌ها می‌آید.",
+        "en": "In a hyperbola c is the biggest and comes from adding the squares.",
+        "tr": "Dar hazloli c bozorg-tarin ast va az jam'-e morabba'-ha miayad."
+       },
+       "math": "c² = 9 + 16 = 25   ⟹   c = 5"
+      },
+      {
+       "text": {
+        "fa": "هذلولی افقی است، پس کانون‌ها روی محور x هستند.",
+        "en": "The hyperbola is horizontal, so the foci are on the x-axis.",
+        "tr": "Hazloli ofoghi ast, pas kanoon-ha rooye mehvar-e x hastand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`(±5, 0)`",
+      "en": "`(±5, 0)`",
+      "tr": "`(±5, 0)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رأس‌ها، کانون‌ها و مجانب‌های `x²/16 − y²/9 = 1` (مثل آزمون‌های خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: the vertices, foci and asymptotes of `x²/16 − y²/9 = 1` (as in the Khordad 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: ra's-ha, kanoon-ha va mojanab-haye `x²/16 − y²/9 = 1` (mesl-e azmoon-haye Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "جملهٔ مثبت `x²` است، پس هذلولی افقی است و a زیر `x²` است.",
+        "en": "The positive term is `x²`, so the hyperbola is horizontal and a is under `x²`.",
+        "tr": "Jomle-ye mosbat `x²` ast, pas hazloli ofoghi ast va a zir-e `x²` ast."
+       },
+       "math": "a = 4 ,   b = 3"
+      },
+      {
+       "text": {
+        "fa": "c از رابطهٔ هذلولی، نه بیضی.",
+        "en": "c from the hyperbola relation, not the ellipse one.",
+        "tr": "c az rabete-ye hazloli, na beyzi."
+       },
+       "math": "c² = 16 + 9 = 25   ⟹   c = 5"
+      },
+      {
+       "text": {
+        "fa": "مجانب‌ها از قطر جعبه می‌آیند: شیب `b/a`.",
+        "en": "The asymptotes come from the diagonal of the box: slope `b/a`.",
+        "tr": "Mojanab-ha az ghotr-e ja'be miayand: shib-e `b/a`."
+       },
+       "math": "y = ±(3/4) x"
+      }
+     ],
+     "answer": {
+      "fa": "رأس‌ها `(±4, 0)`، کانون‌ها `(±5, 0)`، مجانب‌ها `y = ±(3/4)x`",
+      "en": "Vertices `(±4, 0)`, foci `(±5, 0)`, asymptotes `y = ±(3/4)x`",
+      "tr": "Ra's-ha `(±4, 0)`، kanoon-ha `(±5, 0)`، mojanab-ha `y = ±(3/4)x`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کانون‌ها و مجانب‌های `y²/9 − x²/16 = 1`",
+      "en": "Exam twist: the foci and asymptotes of `y²/9 − x²/16 = 1`",
+      "tr": "Pich-e emtehani: kanoon-ha va mojanab-haye `y²/9 − x²/16 = 1`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در هذلولی، a زیر جملهٔ «مثبت» است، نه زیر عدد بزرگ‌تر (برعکس بیضی). اینجا جملهٔ مثبت `y²` است، پس هذلولی بالا و پایین باز می‌شود.",
+        "en": "The twist: in a hyperbola, a is under the \"positive\" term, not under the bigger number (unlike the ellipse). Here the positive term is `y²`, so the hyperbola opens up and down.",
+        "tr": "Pich-e emtehan: dar hazloli, a zir-e jomle-ye \"mosbat\" ast, na zir-e adad-e bozorg-tar (bar-aks-e beyzi). Inja jomle-ye mosbat `y²` ast, pas hazloli bala va payin baz mishavad."
+       },
+       "math": "a = 3 ,   b = 4"
+      },
+      {
+       "text": {
+        "fa": "c مثل قبل ۵ است، ولی کانون‌ها روی محور y هستند.",
+        "en": "c is 5 as before, but the foci are on the y-axis.",
+        "tr": "c mesl-e ghabl 5 ast, vali kanoon-ha rooye mehvar-e y hastand."
+       },
+       "math": "c² = 9 + 16 = 25   ⟹   c = 5"
+      },
+      {
+       "text": {
+        "fa": "برای هذلولی عمودی، شیب مجانب `a/b` است، چون a حالا در جهت y است.",
+        "en": "For a vertical hyperbola the asymptote slope is `a/b`, because a now runs in the y direction.",
+        "tr": "Baraye hazloli-ye amoodi, shib-e mojanab `a/b` ast, chon a hala dar jahat-e y ast."
+       },
+       "math": "y = ±(3/4) x"
+      }
+     ],
+     "answer": {
+      "fa": "کانون‌ها `(0, ±5)`؛ مجانب‌ها `y = ±(3/4)x`",
+      "en": "Foci `(0, ±5)`; asymptotes `y = ±(3/4)x`",
+      "tr": "Kanoon-ha `(0, ±5)`؛ mojanab-ha `y = ±(3/4)x`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در هذلولی `c² = a² + b²` است، نه `a² = b² + c²`. اگر رابطهٔ بیضی را اینجا بنویسی، c را اشتباه حساب می‌کنی.",
+      "en": "In a hyperbola it is `c² = a² + b²`, not `a² = b² + c²`. If you write the ellipse relation here, you get c wrong.",
+      "tr": "Dar hazloli `c² = a² + b²` ast, na `a² = b² + c²`. Agar rabete-ye beyzi ra inja benevisi, c ra eshtebah hesab mikoni."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در هذلولی a لزوماً از b بزرگ‌تر نیست. a را از جملهٔ مثبت بخوان، نه از عدد بزرگ‌تر.",
+      "en": "In a hyperbola a is not necessarily bigger than b. Read a from the positive term, not from the bigger number.",
+      "tr": "Dar hazloli a lozooman az b bozorg-tar nist. a ra az jomle-ye mosbat bekhan, na az adad-e bozorg-tar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 972
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 974
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 976
+    }
+   ]
+  }
+ ]
+}
