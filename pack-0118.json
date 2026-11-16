@@ -1,0 +1,517 @@
+{
+ "version": 118,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 8,
+   "unit": 1,
+   "key": "bio-8-innate-learning",
+   "title": {
+    "fa": "رفتار غریزی و یادگیری",
+    "en": "Innate behaviour and learning",
+    "tr": "Raftar-e gharizi va yadgiri"
+   },
+   "summary": {
+    "fa": "بعضی برنامه‌ها از کارخانه نصب‌اند؛ بعضی را بعداً یاد می‌گیریم.",
+    "en": "Some programs come pre-installed; others are learned later.",
+    "tr": "Ba'zi barname-ha az karkhane nasb-and; ba'zi ra ba'dan yad migirim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: برنامه‌های از پیش نصب‌شده",
+      "en": "Understand first: pre-installed apps",
+      "tr": "Avval befahm: barname-haye az pish nasb-shode"
+     },
+     "body": {
+      "fa": "یک گوشی تازه را تصور کن. بعضی برنامه‌ها از کارخانه روی آن نصب‌اند و از روز اول کار می‌کنند. بعضی را بعداً خودت دانلود و به‌روز می‌کنی. رفتار جانوران هم همین‌طور است. «رفتار غریزی» از بدو تولد و بدون تجربهٔ قبلی انجام می‌شود و بیشتر تحت کنترل ژن‌هاست (آزمون دی ۱۴۰۰)، مثل مکیدن نوزاد یا تار تنیدن عنکبوت. «یادگیری» یعنی تغییر رفتار در اثر تجربه. بیشتر رفتارها ترکیبی از هر دو‌اند: ژن چارچوب را می‌دهد و تجربه آن را تنظیم می‌کند.",
+      "en": "Picture a new phone. Some apps come pre-installed and work from day one. Others you download and update yourself later. Animal behaviour is the same. \"Innate behaviour\" is performed from birth without any earlier experience, and is mainly controlled by genes (Dey 1400 paper), like a baby's sucking or a spider spinning its web. \"Learning\" means a change in behaviour as a result of experience. Most behaviours are a mix of both: genes give the framework and experience tunes it.",
+      "tr": "Yek gooshi-ye taze ra tasavvor kon. Ba'zi barname-ha az karkhane rooye an nasb-and va az rooz-e avval kar mikonand. Ba'zi ra ba'dan khodat danlod va be-rooz mikoni. Raftar-e janevaran ham hamin-towr ast. \"Raftar-e gharizi\" az bad-e tavallod va bedoon-e tajrobe-ye ghabli anjam mishavad va bishtar taht-e kontrol-e zhen-hast (azmoon-e Dey 1400), mesl-e makidan-e nozad ya tar tanidan-e ankaboot. \"Yadgiri\" ya'ni taghyir-e raftar dar asar-e tajrobe. Bishtar-e raftar-ha tarkibi az har do-and: zhen charchoob ra midahad va tajrobe an ra tanzim mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خوگیری و نقش‌پذیری",
+      "en": "Habituation and imprinting",
+      "tr": "Khoogiri va naghsh-paziri"
+     },
+     "body": {
+      "fa": "یادگیری چند شکل دارد. «خوگیری»: پاسخ جانور به محرکی تکراری که نه سود دارد نه زیان، کم می‌شود (آزمون دی ۱۳۹۹)؛ مثل وقتی که دیگر صدای ساعت دیواری خانه را نمی‌شنوی. این کار انرژی جانور را برای خطرهای واقعی نگه می‌دارد. «نقش‌پذیری»: یادگیری‌ای که فقط در یک «دورهٔ حساس» در آغاز زندگی رخ می‌دهد؛ مثلاً جوجه‌اردک اولین جسم متحرکی را که می‌بیند، معمولاً مادرش، به خاطر می‌سپارد و دنبالش می‌رود (آزمون خرداد ۱۴۰۱).",
+      "en": "Learning takes several forms. \"Habituation\": an animal's response to a repeated stimulus that brings neither benefit nor harm gets weaker (Dey 1399 paper); like when you no longer hear the clock ticking at home. This saves the animal's energy for real dangers. \"Imprinting\": learning that happens only during a \"sensitive period\" early in life; for example a duckling memorises the first moving object it sees, usually its mother, and follows it (Khordad 1401 paper).",
+      "tr": "Yadgiri chand shekl darad. \"Khoogiri\": pasokh-e janevar be moharreki tekrari ke na sood darad na ziyan, kam mishavad (azmoon-e Dey 1399); mesl-e vaghti ke digar seda-ye sa'at-e divari-ye khane ra nemishenavi. In kar enerzhi-ye janevar ra baraye khatar-haye vaghe'i negah midarad. \"Naghsh-paziri\": yadgiri-i ke faghat dar yek \"dore-ye hassas\" dar aghaz-e zendegi rokh midahad; masalan joojeh-ordak avvalin jesm-e motaharreki ra ke mibinad, ma'moolan madarash, be khater mesepar-ad va donbalash miravad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "شرطی شدن و حل مسئله",
+      "en": "Conditioning and problem solving",
+      "tr": "Sharti shodan va hall-e mas'ale"
+     },
+     "body": {
+      "fa": "«شرطی شدن کلاسیک»: جانور یاد می‌گیرد یک محرک بی‌اثر را به محرکی مهم ربط دهد. پاولوف هر بار پیش از دادن غذا به سگ زنگ می‌زد. پس از چند بار، سگ فقط با شنیدن زنگ بزاق ترشح می‌کرد (آزمون خرداد ۱۴۰۳). «شرطی شدن فعال» (آزمون و خطا): جانور یاد می‌گیرد رفتاری را که پاداش دارد تکرار کند و رفتاری را که تنبیه دارد کنار بگذارد؛ مثل موشی که یاد می‌گیرد اهرم را فشار دهد تا غذا بگیرد. در «حل مسئله»، جانور بدون آزمون و خطا، با کنار هم گذاشتن تجربه‌های قبلی راه را پیدا می‌کند؛ مثل شامپانزه‌ای که جعبه‌ها را روی هم می‌چیند تا به موز برسد.",
+      "en": "\"Classical conditioning\": the animal learns to link a neutral stimulus with an important one. Pavlov rang a bell each time before feeding a dog. After a few times, the dog salivated just on hearing the bell (Khordad 1403 paper). \"Operant conditioning\" (trial and error): the animal learns to repeat a behaviour that is rewarded and drop one that is punished; like a rat that learns to press a lever to get food. In \"problem solving\" (insight), the animal finds the answer without trial and error, by putting earlier experiences together; like a chimpanzee stacking boxes to reach a banana.",
+      "tr": "\"Sharti shodan-e klasik\": janevar yad migirad yek moharrek-e bi-asar ra be moharreki mohem rabt dahad. Pavlov har bar pish az dadan-e ghaza be sag zang mizad. Pas az chand bar, sag faghat ba shenidan-e zang bozagh tarashoh mikard (azmoon-e Khordad 1403). \"Sharti shodan-e fa'al\" (azmoon va khata): janevar yad migirad raftari ra ke padash darad tekrar konad va raftari ra ke tanbih darad kenar bogzarad; mesl-e mooshi ke yad migirad ahrom ra feshar dahad ta ghaza begirad. Dar \"hall-e mas'ale\", janevar bedoon-e azmoon va khata, ba kenar-e ham gozashtan-e tajrobe-haye ghabli rah ra peyda mikonad; mesl-e shampanze-i ke ja'be-ha ra rooye ham michinad ta be mooz beresad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " Pavlov (classical conditioning)\n before:  bell        -> nothing\n          food        -> saliva\n pairing: bell + food -> saliva\n          (many times)\n after:   bell alone  -> saliva",
+     "caption": {
+      "fa": "شرطی شدن کلاسیک: پس از چند بار جفت شدن، زنگ به‌تنهایی بزاق را راه می‌اندازد.",
+      "en": "Classical conditioning: after being paired a number of times, the bell alone starts salivation.",
+      "tr": "Sharti shodan-e klasik: pas az chand bar joft shodan, zang be-tanhayi bozagh ra rah miandazad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " kind of behaviour   key idea\n innate              genes, from\n                     birth\n habituation         stop reacting\n                     to harmless\n imprinting          sensitive\n                     period only\n classical cond.     link two\n                     stimuli\n operant cond.       reward /\n                     punishment\n problem solving     insight, no\n                     trial & error",
+     "caption": {
+      "fa": "خلاصهٔ انواع رفتار: غریزی و پنج شکل یادگیری.",
+      "en": "A summary of the kinds of behaviour: innate and five forms of learning.",
+      "tr": "Kholase-ye anva'-e raftar: gharizi va panj shekl-e yadgiri."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پرندگان کنار جاده پس از مدتی دیگر با عبور ماشین‌ها پرواز نمی‌کنند. این کدام نوع یادگیری است؟ (مثل آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: birds beside a road stop flying off when cars pass after a while. Which kind of learning is this? (as in the Dey 1399 paper)",
+      "tr": "Garm kardan: parandegan-e kenar-e jadde pas az moddati digar ba oboor-e mashin-ha parvaz nemikonand. In kodam no' yadgiri ast? (mesl-e azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو سؤال بپرس: آیا محرک تکرار می‌شود؟ بله. آیا سود یا زیانی دارد؟ برای پرنده‌ای که کنار جاده است، نه. پاسخ کم شده، پس خوگیری است.",
+        "en": "Ask two questions: is the stimulus repeated? Yes. Does it bring benefit or harm? For a bird at the roadside, no. The response has faded, so it is habituation.",
+        "tr": "Do so'al bepors: aya moharrek tekrar mishavad? Bale. Aya sood ya ziyani darad? Baraye parande-i ke kenar-e jadde ast, na. Pasokh kam shode, pas khoogiri ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خوگیری",
+      "en": "Habituation",
+      "tr": "Khoogiri"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام یادگیری فقط در دوره‌ای حساس در آغاز زندگی رخ می‌دهد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: which kind of learning happens only in a sensitive period early in life? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam yadgiri faghat dar dore-i hassas dar aghaz-e zendegi rokh midahad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید سؤال «دورهٔ حساس» است. از جدول، تنها یادگیری‌ای که به زمان مشخصی محدود است نقش‌پذیری است.",
+        "en": "The key words are \"sensitive period\". From the table, the only learning limited to a set time is imprinting.",
+        "tr": "Kelid-e so'al \"dore-ye hassas\" ast. Az jadval, tanha yadgiri-i ke be zaman-e moshakhkhasi mahdood ast naghsh-paziri ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "چرا این دوره سود دارد؟ چون نوزاد باید خیلی زود مادرش را بشناسد و دنبالش برود تا زنده بماند.",
+        "en": "Why is this period useful? Because the newborn must recognise its mother very early and follow her to survive.",
+        "tr": "Chera in dore sood darad? Chon nozad bayad kheyli zood madarash ra beshenasad va donbalash beravad ta zende bemanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نقش‌پذیری",
+      "en": "Imprinting",
+      "tr": "Naghsh-paziri"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در آزمایش پاولوف، اگر زنگ را بارها بزنیم ولی دیگر غذا ندهیم، چه می‌شود؟",
+      "en": "Exam twist: in Pavlov's experiment, what happens if we ring the bell many times but no longer give food?",
+      "tr": "Pich-e emtehani: dar azmayesh-e Pavlov, agar zang ra bar-ha bezanim vali digar ghaza nadahim, che mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: ارتباط زنگ و غذا یاد گرفته شده، پس می‌تواند «فراموش» هم بشود. زنگ دیگر خبر از غذا نمی‌دهد.",
+        "en": "The twist: the bell-food link was learned, so it can also be \"unlearned\". The bell no longer signals food.",
+        "tr": "Pich-e emtehan: ertebat-e zang va ghaza yad gerefte shode, pas mitavanad \"faramoosh\" ham beshavad. Zang digar khabar az ghaza nemidahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پاسخ بزاق کم‌کم ضعیف می‌شود و از بین می‌رود. این نشان می‌دهد پاسخ به زنگ غریزی نبود، یادگرفته بود.",
+        "en": "The salivation response weakens little by little and disappears. This shows the response to the bell was not innate; it was learned.",
+        "tr": "Pasokh-e bozagh kam-kam za'if mishavad va az beyn miravad. In neshan midahad pasokh be zang gharizi nabood, yadgerefte bood."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ترشح بزاق با زنگ کم‌کم از بین می‌رود، چون ارتباط یادگرفته شده بود",
+      "en": "Salivating at the bell gradually fades, because the link was learned",
+      "tr": "Tarashoh-e bozagh ba zang kam-kam az beyn miravad, chon ertebat yadgerefte shode bood"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "خوگیری یعنی پاسخ به محرک «بی‌خطر» کم شود. اگر محرک خطرناک باشد، جانور به آن خو نمی‌گیرد، و نباید هم بگیرد.",
+      "en": "Habituation means the response to a \"harmless\" stimulus fades. If the stimulus is dangerous, the animal does not get used to it, and it should not.",
+      "tr": "Khoogiri ya'ni pasokh be moharrek-e \"bi-khatar\" kam shavad. Agar moharrek khatarnak bashad, janevar be an khoo nemigirad, va nabayad ham begirad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شرطی شدن کلاسیک یعنی «ربط دادن دو محرک» (زنگ و غذا)؛ شرطی شدن فعال یعنی «پیامد یک رفتار» (پاداش یا تنبیه). آزمایش پاولوف کلاسیک است (آزمون خرداد ۱۴۰۳).",
+      "en": "Classical conditioning is \"linking two stimuli\" (bell and food); operant conditioning is about \"the consequence of a behaviour\" (reward or punishment). Pavlov's experiment is classical (Khordad 1403 paper).",
+      "tr": "Sharti shodan-e klasik ya'ni \"rabt dadan-e do moharrek\" (zang va ghaza); sharti shodan-e fa'al ya'ni \"payamad-e yek raftar\" (padash ya tanbih). Azmayesh-e Pavlov klasik ast (azmoon-e Khordad 1403)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 916
+    },
+    {
+     "session": "1399-Dey",
+     "number": 907
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 936
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 903
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 8,
+   "unit": 2,
+   "key": "bio-8-foraging-territory",
+   "title": {
+    "fa": "انتخاب طبیعی و رفتار: غذا و قلمرو",
+    "en": "Natural selection and behaviour: food and territory",
+    "tr": "Entekhab-e tabi'i va raftar: ghaza va ghalamrow"
+   },
+   "summary": {
+    "fa": "مثل یک خریدار زرنگ: بیشترین ارزش با کمترین هزینه.",
+    "en": "Like a smart shopper: the most value for the least cost.",
+    "tr": "Mesl-e yek kharidar-e zerang: bishtarin arzesh ba kamtarin hazine."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: هزینه و سود",
+      "en": "Understand first: cost and benefit",
+      "tr": "Avval befahm: hazine va sood"
+     },
+     "body": {
+      "fa": "هر رفتار هزینه دارد (انرژی، زمان، خطر) و سودی (غذا، جفت، امنیت). انتخاب طبیعی رفتارهایی را نگه می‌دارد که سودشان از هزینه‌شان بیشتر است، چون جانورانی که این‌طور رفتار می‌کنند بیشتر زنده می‌مانند و تولیدمثل می‌کنند. مثل یک خریدار زرنگ که فقط به قیمت نگاه نمی‌کند، بلکه می‌پرسد «با این پول چقدر می‌گیرم؟».",
+      "en": "Every behaviour has a cost (energy, time, danger) and a benefit (food, a mate, safety). Natural selection keeps behaviours whose benefit is greater than their cost, because animals that behave that way survive and reproduce more. Like a smart shopper who does not just look at the price, but asks \"how much do I get for this money?\".",
+      "tr": "Har raftar hazine darad (enerzhi, zaman, khatar) va soodi (ghaza, joft, amniyat). Entekhab-e tabi'i raftar-hayi ra negah midarad ke soodeshan az hazine-shan bishtar ast, chon janevarani ke in-towr raftar mikonand bishtar zende mimanand va tolid-e mesl mikonand. Mesl-e yek kharidar-e zerang ke faghat be gheymat negah nemikonad, balke miporsad \"ba in pool cheghadr migiram?\"."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "غذایابی بهینه و قلمروخواهی",
+      "en": "Optimal foraging and territoriality",
+      "tr": "Ghaza-yabi-ye behine va ghalamrow-khahi"
+     },
+     "body": {
+      "fa": "در «رفتار غذایابی بهینه»، جانور رفتاری را برمی‌گزیند که بیشترین انرژی را با کمترین هزینهٔ انرژی به‌دست دهد (آزمون دی ۱۴۰۱). مثلاً کلاغی که حلزون را از ارتفاع رها می‌کند تا پوسته‌اش بشکند، معمولاً ارتفاعی را انتخاب می‌کند که با کمترین تعداد پرواز و کمترین انرژی کار را تمام کند. در «قلمروخواهی»، جانور با رفتارهای تهاجمی، مثل آواز، نمایش یا حمله، از محدوده و منابع غذایی‌اش در برابر هم‌گونه‌های رقیب دفاع می‌کند (آزمون خرداد ۱۴۰۲). دفاع از قلمرو هم فقط وقتی به‌صرفه است که منابع آن ارزش هزینهٔ دفاع را داشته باشند.",
+      "en": "In \"optimal foraging\", the animal chooses the behaviour that gives the most energy for the least energy spent (Dey 1401 paper). For example, a crow that drops a snail from a height to break its shell usually picks the height that gets the job done with the fewest flights and the least energy. In \"territorial behaviour\", the animal uses aggressive behaviour, such as song, display or attack, to defend its area and food supply against rivals of its own species (Khordad 1402 paper). Defending a territory only pays when its resources are worth the cost of defending them.",
+      "tr": "Dar \"raftar-e ghaza-yabi-ye behine\", janevar raftari ra barmigozinad ke bishtarin enerzhi ra ba kamtarin hazine-ye enerzhi be-dast dahad (azmoon-e Dey 1401). Masalan kalaghi ke halazoon ra az ertefa' raha mikonad ta poste-ash beshkanad, ma'moolan ertefa'i ra entekhab mikonad ke ba kamtarin te'dad-e parvaz va kamtarin enerzhi kar ra tamam konad. Dar \"ghalamrow-khahi\", janevar ba raftar-haye tahajomi, mesl-e avaz, namayesh ya hamle, az mahdoode va manabe'-e ghazayi-ash dar barabar-e ham-goone-haye raghib defa' mikonad (azmoon-e Khordad 1402). Defa' az ghalamrow ham faghat vaghti be-sarfe ast ke manabe'-e an arzesh-e hazine-ye defa' ra dashte bashand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " net gain = energy in - energy spent\n\n food A: 100 kJ, 10 min  -> 10/min\n food B:  40 kJ,  2 min  -> 20/min\n optimal forager picks B\n (more energy per minute)",
+     "caption": {
+      "fa": "غذایابی بهینه: سود را بر زمان یا هزینه تقسیم کن، نه فقط مقدار کل.",
+      "en": "Optimal foraging: divide the gain by the time or cost, not just the total amount.",
+      "tr": "Ghaza-yabi-ye behine: sood ra bar zaman ya hazine taghsim kon, na faghat meghdar-e kol."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پرنده‌ای با آواز و حمله، هم‌گونه‌های دیگر را از درختی که در آن غذا دارد دور می‌کند. نام این رفتار؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: a bird uses song and attacks to drive others of its species away from a tree where it feeds. Name this behaviour. (Khordad 1402 paper)",
+      "tr": "Garm kardan: parande-i ba avaz va hamle, ham-goone-haye digar ra az derakhti ke dar an ghaza darad door mikonad. Nam-e in raftar? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سه سرنخ: دفاع از «محدوده»، در برابر «هم‌گونه»، با رفتار «تهاجمی».",
+        "en": "Three clues: defending an \"area\", against \"its own species\", with \"aggressive\" behaviour.",
+        "tr": "Se sarnakh: defa' az \"mahdoode\", dar barabar-e \"ham-goone\", ba raftar-e \"tahajomi\"."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "قلمروخواهی",
+      "en": "Territorial behaviour",
+      "tr": "Ghalamrow-khahi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جانوری بین دو غذا انتخاب می‌کند: غذای الف ۱۰۰ واحد انرژی می‌دهد و ۱۰ دقیقه وقت می‌گیرد؛ غذای ب ۴۰ واحد و ۲ دقیقه. طبق غذایابی بهینه کدام بهتر است؟ (مثال آموزشی، با مفهوم آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: an animal chooses between two foods: food A gives 100 units of energy and takes 10 minutes; food B gives 40 units and takes 2 minutes. By optimal foraging, which is better? (a teaching example, using the idea in the Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: janevari beyn-e do ghaza entekhab mikonad: ghaza-ye alef 100 vahed enerzhi midahad va 10 daghighe vaght migirad; ghaza-ye be 40 vahed va 2 daghighe. Tebgh-e ghaza-yabi-ye behine kodam behtar ast? (mesal-e amoozeshi, ba mafhoom-e azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فریب عدد بزرگ را نخور. چیزی که مهم است انرژی به ازای هر دقیقه است، چون زمان هم هزینه است.",
+        "en": "Do not be fooled by the bigger number. What matters is energy per minute, because time is a cost too.",
+        "tr": "Farib-e adad-e bozorg ra nakhor. Chizi ke mohem ast enerzhi be ezaye har daghighe ast, chon zaman ham hazine ast."
+       },
+       "math": "100 ÷ 10 = 10 ,   40 ÷ 2 = 20"
+      },
+      {
+       "text": {
+        "fa": "غذای ب در هر دقیقه دو برابر انرژی می‌دهد.",
+        "en": "Food B gives twice as much energy per minute.",
+        "tr": "Ghaza-ye be dar har daghighe do barabar enerzhi midahad."
+       },
+       "math": "20 > 10"
+      }
+     ],
+     "answer": {
+      "fa": "غذای ب (۲۰ واحد در دقیقه در برابر ۱۰)",
+      "en": "Food B (20 units per minute against 10)",
+      "tr": "Ghaza-ye be (20 vahed dar daghighe dar barabar-e 10)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا یک پرنده وقتی غذا بسیار فراوان است یا بسیار کمیاب، از قلمرو دفاع نمی‌کند؟",
+      "en": "Exam twist: why does a bird not defend a territory when food is either extremely plentiful or extremely scarce?",
+      "tr": "Pich-e emtehani: chera yek parande vaghti ghaza besiyar faravan ast ya besiyar kamyab, az ghalamrow defa' nemikonad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دفاع همیشه هزینه دارد. پس فقط وقتی ارزش دارد که سودش بیشتر باشد.",
+        "en": "The twist: defending always costs something. So it is only worth it when the benefit is greater.",
+        "tr": "Pich-e emtehan: defa' hamishe hazine darad. Pas faghat vaghti arzesh darad ke soodash bishtar bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "وقتی غذا فراوان است، بدون دفاع هم به اندازهٔ کافی هست؛ هزینهٔ دفاع هدر می‌رود. وقتی غذا خیلی کمیاب است، قلمرو آن‌قدر چیزی ندارد که ارزش جنگیدن داشته باشد.",
+        "en": "When food is plentiful there is enough even without defending, so the cost of defence is wasted. When food is very scarce, the territory holds too little to be worth fighting for.",
+        "tr": "Vaghti ghaza faravan ast, bedoon-e defa' ham be andaze-ye kafi hast; hazine-ye defa' hadar miravad. Vaghti ghaza kheyli kamyab ast, ghalamrow an-ghadr chizi nadarad ke arzesh-e jangidan dashte bashad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون در هر دو حالت هزینهٔ دفاع از سود آن بیشتر است",
+      "en": "Because in both cases the cost of defence is greater than its benefit",
+      "tr": "Chon dar har do halat hazine-ye defa' az sood-e an bishtar ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "غذایابی بهینه یعنی بیشترین «سود خالص» (یا انرژی در هر واحد زمان)، نه بزرگ‌ترین غذا. غذای بزرگ‌تر ممکن است هزینهٔ بیشتری داشته باشد.",
+      "en": "Optimal foraging means the greatest \"net gain\" (or energy per unit of time), not the biggest meal. A bigger meal may cost more.",
+      "tr": "Ghaza-yabi-ye behine ya'ni bishtarin \"sood-e khales\" (ya enerzhi dar har vahed-e zaman), na bozorg-tarin ghaza. Ghaza-ye bozorg-tar momken ast hazine-ye bishtari dashte bashad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قلمروخواهی دفاع در برابر «هم‌گونه‌ها»ست، نه شکارچی‌ها. فرار از شکارچی رفتار دیگری است.",
+      "en": "Territoriality is defence against \"members of the same species\", not against predators. Escaping a predator is a different behaviour.",
+      "tr": "Ghalamrow-khahi defa' dar barabar-e \"ham-goone-ha\"st, na shekarchi-ha. Farar az shekarchi raftar-e digari ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 942
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 8,
+   "unit": 3,
+   "key": "bio-8-mating-altruism",
+   "title": {
+    "fa": "جفت‌یابی و دگرخواهی",
+    "en": "Courtship and altruism",
+    "tr": "Joft-yabi va degar-khahi"
+   },
+   "summary": {
+    "fa": "نمایش برای جفت، و فداکاری برای خانواده.",
+    "en": "A show for a mate, and sacrifice for family.",
+    "tr": "Namayesh baraye joft, va fadakari baraye khanevade."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تبلیغ صادقانه",
+      "en": "Understand first: an honest advert",
+      "tr": "Avval befahm: tablig-e sadeghane"
+     },
+     "body": {
+      "fa": "برای تولیدمثل، جانور باید جفت مناسبی پیدا کند. در «رفتار جفت‌یابی» (خواستگاری)، معمولاً نر با نمایش‌های ویژه، مثل رقص، آواز، پرهای رنگی یا ساختن لانه، جفت را جلب می‌کند و نشان می‌دهد سالم و توانمند است (آزمون خرداد ۱۴۰۲). معمولاً ماده انتخاب می‌کند، چون تخمک‌هایش کم‌تعداد و پرهزینه‌اند و انتخاب درست برایش بسیار مهم است. نمایش پرهزینه یک تبلیغ صادقانه است: فقط نر واقعاً سالم از عهدهٔ آن برمی‌آید.",
+      "en": "To reproduce, an animal must find a suitable mate. In \"courtship behaviour\", usually the male uses special displays, such as dancing, song, bright feathers or nest building, to attract a mate and show that he is healthy and fit (Khordad 1402 paper). Usually the female chooses, because her eggs are few and costly, so choosing well matters a great deal to her. A costly display is an honest advert: only a truly healthy male can afford it.",
+      "tr": "Baraye tolid-e mesl, janevar bayad joft-e monasebi peyda konad. Dar \"raftar-e joft-yabi\" (khastegari), ma'moolan nar ba namayesh-haye vizhe, mesl-e raghs, avaz, par-haye rangi ya sakhtan-e laneh, joft ra jalb mikonad va neshan midahad salem va tavanmand ast (azmoon-e Khordad 1402). Ma'moolan made entekhab mikonad, chon tokhmak-hayash kam-te'dad va por-hazine-and va entekhab-e dorost barayash besiyar mohem ast. Namayesh-e por-hazine yek tablig-e sadeghane ast: faghat nar-e vaghe'an salem az ohde-ye an barmiayad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دگرخواهی: کمک به کسی که ژن‌هایت را دارد",
+      "en": "Altruism: helping those who carry your genes",
+      "tr": "Degar-khahi: komak be kasi ke zhen-hayat ra darad"
+     },
+     "body": {
+      "fa": "«دگرخواهی» رفتاری است که به دیگری کمک می‌کند ولی برای خود جانور هزینه دارد؛ مثل زنبور کارگری که تولیدمثل نمی‌کند و برای ملکه کار می‌کند، یا میرکتی که نگهبانی می‌دهد و با هشدار دادن خودش را در خطر می‌اندازد. چطور انتخاب طبیعی چنین رفتاری را نگه می‌دارد؟ چون بیشتر به «خویشاوندان نزدیک» کمک می‌کند که ژن‌های مشترک دارند (آزمون خرداد ۱۴۰۱). وقتی خویشاوندان زنده می‌مانند و تولیدمثل می‌کنند، نسخه‌هایی از همان ژن‌ها به نسل بعد می‌رسد.",
+      "en": "\"Altruism\" is behaviour that helps another but costs the animal itself; like a worker bee that does not reproduce and works for the queen, or a meerkat on guard duty who puts itself in danger by giving the alarm. How does natural selection keep such behaviour? Because it mostly helps \"close relatives\" who share genes (Khordad 1401 paper). When relatives survive and reproduce, copies of those same genes reach the next generation.",
+      "tr": "\"Degar-khahi\" raftari ast ke be digari komak mikonad vali baraye khod-e janevar hazine darad; mesl-e zanboor-e kargari ke tolid-e mesl nemikonad va baraye malake kar mikonad, ya mirkati ke negahbani midahad va ba hoshdar dadan khodash ra dar khatar miandazad. Chetor entekhab-e tabi'i chenin raftari ra negah midarad? Chon bishtar be \"khishavandan-e nazdik\" komak mikonad ke zhen-haye moshtarak darand (azmoon-e Khordad 1401). Vaghti khishavandan zende mimanand va tolid-e mesl mikonand, noskhe-hayi az haman zhen-ha be nasl-e ba'd miresad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " share of genes (on average)\n parent - child      1/2\n brother / sister    1/2\n grandparent         1/4\n cousin              1/8\n\n helping relatives passes on\n copies of your own genes",
+     "caption": {
+      "fa": "سهم میانگین ژن‌های مشترک با خویشاوندان. هرچه نزدیک‌تر، سهم بیشتر.",
+      "en": "The average share of genes held in common with relatives. The closer the relative, the bigger the share.",
+      "tr": "Sahm-e miyangin-e zhen-haye moshtarak ba khishavandan. Harche nazdik-tar, sahm bishtar."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: طاووس نر دم بزرگ و رنگارنگش را باز می‌کند تا ماده را جلب کند. نام این رفتار؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: a male peacock spreads his big, colourful tail to attract a female. Name this behaviour. (Khordad 1402 paper)",
+      "tr": "Garm kardan: tavoos-e nar dom-e bozorg va rangarangash ra baz mikonad ta made ra jalb konad. Nam-e in raftar? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هدف رفتار را بپرس: جلب جفت و نشان دادن سلامت. پس رفتار جفت‌یابی است.",
+        "en": "Ask what the behaviour is for: attracting a mate and showing health. So it is courtship.",
+        "tr": "Hadaf-e raftar ra bepors: jalb-e joft va neshan dadan-e salamat. Pas raftar-e joft-yabi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رفتار جفت‌یابی (خواستگاری)",
+      "en": "Courtship behaviour",
+      "tr": "Raftar-e joft-yabi (khastegari)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: دگرخواهی در جانوران بیشتر شانس بقا و تولیدمثل کدام افراد را زیاد می‌کند و چرا؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: altruism in animals mostly increases the survival and reproduction of which individuals, and why? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: degar-khahi dar janevaran bishtar shans-e bagha va tolid-e mesl-e kodam afrad ra ziyad mikonad va chera? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس: چرا انتخاب طبیعی رفتاری را که برای فرد هزینه دارد حذف نکرده؟ چون آن رفتار ژن‌ها را از راه دیگری منتقل می‌کند.",
+        "en": "Ask: why has natural selection not removed a behaviour that costs the individual? Because that behaviour passes on genes another way.",
+        "tr": "Bepors: chera entekhab-e tabi'i raftari ra ke baraye fard hazine darad hazf nakarde? Chon an raftar zhen-ha ra az rah-e digari montaghel mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن راه، خویشاوندان نزدیک‌اند که ژن‌های مشترک دارند.",
+        "en": "That way is through close relatives, who share genes.",
+        "tr": "An rah, khishavandan-e nazdik-and ke zhen-haye moshtarak darand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "خویشاوندان نزدیک، چون ژن‌های مشترک دارند",
+      "en": "Close relatives, because they share genes",
+      "tr": "Khishavandan-e nazdik, chon zhen-haye moshtarak darand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: از نظر انتقال ژن، نجات دو برادر با از دست دادن جان خود برابر است. با سهم‌های جدول، نجات چند پسرعمو همین ارزش را دارد؟",
+      "en": "Exam twist: in terms of passing on genes, saving two brothers balances losing your own life. Using the shares in the table, saving how many cousins is worth the same?",
+      "tr": "Pich-e emtehani: az nazar-e enteghal-e zhen, nejat-e do baradar ba az dast dadan-e jan-e khod barabar ast. Ba sahm-haye jadval, nejat-e chand pesar-amoo hamin arzesh ra darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول برادرها را چک کن. هر برادر به‌طور میانگین نیمی از ژن‌های تو را دارد.",
+        "en": "First check the brothers. Each brother carries on average half of your genes.",
+        "tr": "Avval baradar-ha ra chek kon. Har baradar be-towr-e miyangin nimi az zhen-haye to ra darad."
+       },
+       "math": "2 × 1/2 = 1"
+      },
+      {
+       "text": {
+        "fa": "حالا پسرعموها. هر کدام یک‌هشتم. چند تا لازم است تا جمع به یک برسد؟",
+        "en": "Now the cousins. Each has one eighth. How many are needed to make a total of one?",
+        "tr": "Hala pesar-amoo-ha. Har kodam yek-hashtom. Chand ta lazem ast ta jam' be yek beresad?"
+       },
+       "math": "8 × 1/8 = 1"
+      }
+     ],
+     "answer": {
+      "fa": "هشت پسرعمو",
+      "en": "Eight cousins",
+      "tr": "Hasht pesar-amoo"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دگرخواهی به «خویشاوندان» کمک می‌کند تا ژن‌های مشترک منتقل شوند؛ نه به همهٔ جانوران گونه به یک اندازه (آزمون خرداد ۱۴۰۱).",
+      "en": "Altruism helps \"relatives\" so that shared genes are passed on; it does not help every animal of the species equally (Khordad 1401 paper).",
+      "tr": "Degar-khahi be \"khishavandan\" komak mikonad ta zhen-haye moshtarak montaghel shavand; na be hame-ye janevaran-e goone be yek andaze (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در جفت‌یابی معمولاً نر نمایش می‌دهد و «ماده» انتخاب می‌کند، چون سرمایه‌گذاری او روی هر فرزند بیشتر است.",
+      "en": "In courtship the male usually displays and the \"female\" chooses, because she invests more in each offspring.",
+      "tr": "Dar joft-yabi ma'moolan nar namayesh midahad va \"made\" entekhab mikonad, chon sarmaye-gozari-ye oo rooye har farzand bishtar ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 909
+    }
+   ]
+  }
+ ]
+}
