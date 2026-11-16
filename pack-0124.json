@@ -1,0 +1,752 @@
+{
+ "version": 124,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Biology",
+   "key": "bio-g-promoter",
+   "term": {
+    "fa": "راه‌انداز",
+    "en": "promoter",
+    "tr": "rah-andaz"
+   },
+   "explain": {
+    "fa": "توالی ویژه‌ای جلوی ژن که رنابسپاراز اول به آن می‌چسبد. راه‌انداز نشان می‌دهد رونویسی از کجا شروع شود و کدام رشته الگو باشد.",
+    "en": "A special sequence in front of a gene that RNA polymerase binds to first. The promoter marks where transcription starts and which strand is the template.",
+    "tr": "Tavali-ye vizhe-i jelo-ye zhen ke rena-basparaz avval be an michasbad. Rah-andaz neshan midahad ronevisi az koja shoru' shavad va kodam reshte olgoo bashad."
+   },
+   "matches": {
+    "fa": [
+     "راهنما",
+     "پروموتر"
+    ],
+    "tr": [
+     "promoter"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل تابلوی «از اینجا شروع کن» در ابتدای یک مسیر.",
+    "en": "Like a \"start here\" sign at the beginning of a route.",
+    "tr": "Mesl-e tablo-ye \"az inja shoru' kon\" dar ebteda-ye yek masir."
+   },
+   "contrast": {
+    "fa": "راه‌انداز جای نشستن رنابسپاراز است؛ اپراتور جای نشستن مهارکننده.",
+    "en": "The promoter is where RNA polymerase sits; the operator is where the repressor sits.",
+    "tr": "Rah-andaz ja-ye neshastan-e rena-basparaz ast; operator ja-ye neshastan-e mahar-konande."
+   },
+   "unit": "bio-2-transcription"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-transcription",
+   "term": {
+    "fa": "رونویسی",
+    "en": "transcription",
+    "tr": "ronevisi"
+   },
+   "explain": {
+    "fa": "ساختن رنا از روی یک ژن در دنا. رنابسپاراز رشتهٔ الگو را می‌خواند و رنایی مکمل آن می‌سازد که مثل رشتهٔ رمزگذار است، فقط با `U` به‌جای `T`.",
+    "en": "Making RNA from a gene in DNA. RNA polymerase reads the template strand and builds a complementary RNA that matches the coding strand, only with `U` in place of `T`.",
+    "tr": "Sakhtan-e rena az rooye yek zhen dar dena. Rena-basparaz reshte-ye olgoo ra mikhanad va renayi mokammel-e an misazad ke mesl-e reshte-ye ramzgozar ast, faghat ba `U` be-ja-ye `T`."
+   },
+   "matches": {
+    "fa": [
+     "ترانویسی"
+    ],
+    "tr": [
+     "taranevisi"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل نوشتن یک برگهٔ سفارش کار از روی یک صفحه از نقشهٔ اصلی که در گاوصندوق می‌ماند.",
+    "en": "Like writing a work order from one page of the master blueprint, which stays in the safe.",
+    "tr": "Mesl-e neveshtan-e yek barge-ye sefaresh-e kar az rooye yek safhe az naghshe-ye asli ke dar gavsandoogh mimanad."
+   },
+   "contrast": {
+    "fa": "رونویسی دنا را به رنا تبدیل می‌کند؛ ترجمه رنا را به پروتئین. ترتیب را جابه‌جا نکن.",
+    "en": "Transcription turns DNA into RNA; translation turns RNA into protein. Do not swap the order.",
+    "tr": "Ronevisi dena ra be rena tabdil mikonad; tarjome rena ra be protein. Tartib ra jabeja nakon."
+   },
+   "unit": "bio-2-transcription"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rna-polymerase",
+   "term": {
+    "fa": "رنابسپاراز",
+    "en": "RNA polymerase",
+    "tr": "RNA-basparaz"
+   },
+   "explain": {
+    "fa": "آنزیم رونویسی: به راه‌انداز می‌چسبد، دو رشته را کمی باز می‌کند و نوکلئوتیدهای رنا را با پیوند فسفودی‌استر به هم وصل می‌کند. رشتهٔ الگو را `3′` به `5′` می‌خواند و رنا را `5′` به `3′` می‌سازد.",
+    "en": "The transcription enzyme: it binds the promoter, opens the strands a little and joins RNA nucleotides with phosphodiester bonds. It reads the template `3′` to `5′` and builds RNA `5′` to `3′`.",
+    "tr": "Anzim-e ronevisi: be rah-andaz michasbad, do reshte ra kami baz mikonad va nukleotid-haye rena ra ba peyvand-e fosfodi-ester be ham vasl mikonad. Reshte-ye olgoo ra `3′` be `5′` mikhanad va rena ra `5′` be `3′` misazad."
+   },
+   "matches": {
+    "fa": [
+     "آر‌ان‌ای پلیمراز"
+    ],
+    "tr": [
+     "RNA polymerase"
+    ]
+   },
+   "analogy": {
+    "fa": "منشی کارخانه که از روی نقشهٔ اصلی برگهٔ سفارش می‌نویسد.",
+    "en": "The factory clerk who writes the work order from the master blueprint.",
+    "tr": "Monshi-ye karkhane ke az rooye naghshe-ye asli barge-ye sefaresh minevisad."
+   },
+   "contrast": {
+    "fa": "رنابسپاراز برای شروع آغازگر لازم ندارد و رنا می‌سازد؛ دنابسپاراز دنا می‌سازد.",
+    "en": "RNA polymerase needs no primer to start and makes RNA; DNA polymerase makes DNA.",
+    "tr": "Rena-basparaz baraye shoru' aghazgar lazem nadarad va rena misazad; dena-basparaz dena misazad."
+   },
+   "unit": "bio-2-transcription"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-template-strand",
+   "term": {
+    "fa": "رشتهٔ الگو",
+    "en": "template strand",
+    "tr": "reshte-ye olgoo"
+   },
+   "explain": {
+    "fa": "رشته‌ای از دنا که رنابسپاراز می‌خواند. رنای ساخته‌شده مکمل رشتهٔ الگو است و شبیه رشتهٔ دیگر (رشتهٔ رمزگذار).",
+    "en": "The DNA strand that RNA polymerase reads. The RNA made is complementary to the template strand and matches the other strand (the coding strand).",
+    "tr": "Reshte-i az dena ke rena-basparaz mikhanad. Rena-ye sakhte-shode mokammel-e reshte-ye olgoo ast va shabih-e reshte-ye digar (reshte-ye ramzgozar)."
+   },
+   "matches": {
+    "tr": [
+     "reshteh-ye olgoo"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل قالب کیک: کیک برعکس قالب است، نه شبیه آن.",
+    "en": "Like a cake tin: the cake is the reverse of the tin, not a copy of it.",
+    "tr": "Mesl-e ghaleb-e keyk: keyk bar-aks-e ghaleb ast, na shabih-e an."
+   },
+   "contrast": {
+    "fa": "رنا «مکمل» رشتهٔ الگو است، نه «همانند» آن.",
+    "en": "RNA is \"complementary\" to the template strand, not \"identical\" to it.",
+    "tr": "Rena \"mokammel\"-e reshte-ye olgoo ast, na \"hamanand\"-e an."
+   },
+   "unit": "bio-2-transcription"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-sigma",
+   "term": {
+    "fa": "عامل سیگما",
+    "en": "sigma factor",
+    "tr": "amel-e sigma"
+   },
+   "explain": {
+    "fa": "بخشی از رنابسپاراز پروکاریوتی که توالی راه‌انداز را روی دنا تشخیص می‌دهد، تا آنزیم در جای درست بنشیند.",
+    "en": "The part of prokaryotic RNA polymerase that recognises the promoter sequence on DNA, so the enzyme sits in the right place.",
+    "tr": "Bakhshi az rena-basparaz-e prokaryoti ke tavali-ye rah-andaz ra rooye dena tashkhis midahad, ta anzim dar ja-ye dorost beneshinad."
+   },
+   "analogy": {
+    "fa": "مثل راهنمایی که آدرس را می‌خواند و راننده را به در درست می‌برد.",
+    "en": "Like a guide who reads the address and takes the driver to the right door.",
+    "tr": "Mesl-e rahnamayi ke adres ra mikhanad va ranande ra be dar-e dorost mibarad."
+   },
+   "contrast": {
+    "fa": "عامل سیگما در باکتری‌هاست؛ در یوکاریوت‌ها عوامل رونویسی این کار را می‌کنند.",
+    "en": "The sigma factor is in bacteria; in eukaryotes transcription factors do this job.",
+    "tr": "Amel-e sigma dar bakteri-hast; dar yukaryot-ha avamel-e ronevisi in kar ra mikonand."
+   },
+   "unit": "bio-2-transcription"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rna-pol-1",
+   "term": {
+    "fa": "رنابسپاراز ۱",
+    "en": "RNA polymerase I",
+    "tr": "RNA-basparaz 1"
+   },
+   "explain": {
+    "fa": "در یاخته‌های یوکاریوتی، رنابسپاراز ۱ ژن‌های رنای رِناتنی (`rRNA`) را رونویسی می‌کند.",
+    "en": "In eukaryotic cells, RNA polymerase I transcribes the genes for ribosomal RNA (`rRNA`).",
+    "tr": "Dar yakhte-haye yukaryoti, rena-basparaz 1 zhen-haye rena-ye renatani (`rRNA`) ra ronevisi mikonad."
+   },
+   "analogy": {
+    "fa": "رمز `R-M-T = 1-2-3`: رنای رِناتنی شمارهٔ ۱.",
+    "en": "The trick `R-M-T = 1-2-3`: ribosomal RNA is number 1.",
+    "tr": "Ramz-e `R-M-T = 1-2-3`: rena-ye renatani shomare-ye 1."
+   },
+   "contrast": {
+    "fa": "رنابسپاراز ۱ رنای پیک نمی‌سازد؛ آن کار شمارهٔ ۲ است.",
+    "en": "RNA polymerase I does not make messenger RNA; that is number II's job.",
+    "tr": "Rena-basparaz 1 rena-ye peyk nemisazad; an kar-e shomare-ye 2 ast."
+   },
+   "unit": "bio-2-polymerases-splicing"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rna-pol-2",
+   "term": {
+    "fa": "رنابسپاراز ۲",
+    "en": "RNA polymerase II",
+    "tr": "RNA-basparaz 2"
+   },
+   "explain": {
+    "fa": "در یاخته‌های یوکاریوتی، رنابسپاراز ۲ ژن‌های رنای پیک (`mRNA`) را رونویسی می‌کند؛ یعنی همهٔ برگه‌های سفارش پروتئین.",
+    "en": "In eukaryotic cells, RNA polymerase II transcribes the genes for messenger RNA (`mRNA`): every work order for a protein.",
+    "tr": "Dar yakhte-haye yukaryoti, rena-basparaz 2 zhen-haye rena-ye peyk (`mRNA`) ra ronevisi mikonad; ya'ni hame-ye barge-haye sefaresh-e protein."
+   },
+   "analogy": {
+    "fa": "رمز `R-M-T = 1-2-3`: رنای پیک شمارهٔ ۲.",
+    "en": "The trick `R-M-T = 1-2-3`: messenger RNA is number 2.",
+    "tr": "Ramz-e `R-M-T = 1-2-3`: rena-ye peyk shomare-ye 2."
+   },
+   "contrast": {
+    "fa": "رنای پیک را رنابسپاراز ۲ می‌سازد، نه ۱.",
+    "en": "Messenger RNA is made by RNA polymerase II, not I.",
+    "tr": "Rena-ye peyk ra rena-basparaz 2 misazad, na 1."
+   },
+   "unit": "bio-2-polymerases-splicing"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rna-pol-3",
+   "term": {
+    "fa": "رنابسپاراز ۳",
+    "en": "RNA polymerase III",
+    "tr": "RNA-basparaz 3"
+   },
+   "explain": {
+    "fa": "در یاخته‌های یوکاریوتی، رنابسپاراز ۳ ژن‌های رنای ناقل (`tRNA`) را رونویسی می‌کند.",
+    "en": "In eukaryotic cells, RNA polymerase III transcribes the genes for transfer RNA (`tRNA`).",
+    "tr": "Dar yakhte-haye yukaryoti, rena-basparaz 3 zhen-haye rena-ye naghel (`tRNA`) ra ronevisi mikonad."
+   },
+   "analogy": {
+    "fa": "رمز `R-M-T = 1-2-3`: رنای ناقل شمارهٔ ۳.",
+    "en": "The trick `R-M-T = 1-2-3`: transfer RNA is number 3.",
+    "tr": "Ramz-e `R-M-T = 1-2-3`: rena-ye naghel shomare-ye 3."
+   },
+   "contrast": {
+    "fa": "شمارهٔ ۳ برای رنای ناقل است؛ رنای رِناتنی شمارهٔ ۱ است.",
+    "en": "Number III is for transfer RNA; ribosomal RNA is number I.",
+    "tr": "Shomare-ye 3 baraye rena-ye naghel ast; rena-ye renatani shomare-ye 1 ast."
+   },
+   "unit": "bio-2-polymerases-splicing"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-splicing",
+   "term": {
+    "fa": "پیرایش رنا",
+    "en": "RNA splicing",
+    "tr": "pirayesh-e RNA"
+   },
+   "explain": {
+    "fa": "در یوکاریوت‌ها، پیش از خروج رنا از هسته، میانه‌ها (اینترون‌ها) بریده و دور ریخته می‌شوند و بیانه‌ها (اگزون‌ها) به هم وصل می‌شوند تا رنای پیک بالغ ساخته شود.",
+    "en": "In eukaryotes, before RNA leaves the nucleus, the introns are cut out and thrown away and the exons are joined, making mature mRNA.",
+    "tr": "Dar yukaryot-ha, pish az khorooj-e rena az haste, miyane-ha (intron-ha) boride va door rikhte mishavand va biyane-ha (egzon-ha) be ham vasl mishavand ta rena-ye peyk-e baleq sakhte shavad."
+   },
+   "analogy": {
+    "fa": "مثل ویرایش فیلم: صحنه‌های اضافه بریده می‌شوند و بقیه پشت هم چسبانده می‌شوند.",
+    "en": "Like editing a film: the extra scenes are cut and the rest are stuck together in order.",
+    "tr": "Mesl-e virayesh-e film: sahne-haye ezafe boride mishavand va baghiye posht-e ham chasbande mishavand."
+   },
+   "contrast": {
+    "fa": "میانه‌ها حذف می‌شوند و بیانه‌ها می‌مانند؛ ژن‌های باکتری معمولاً میانه ندارند.",
+    "en": "Introns are removed and exons stay; bacterial genes usually have no introns.",
+    "tr": "Miyane-ha hazf mishavand va biyane-ha mimanand; zhen-haye bakteri ma'moolan miyane nadarand."
+   },
+   "unit": "bio-2-polymerases-splicing"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-trna",
+   "term": {
+    "fa": "رنای ناقل",
+    "en": "transfer RNA",
+    "tr": "RNA-ye naghel"
+   },
+   "explain": {
+    "fa": "مولکول رنایی که آمینواسید را به رناتن می‌آورد. یک سرش آمینواسید را حمل می‌کند و سر دیگرش پادرمزه دارد که با رمزهٔ رنای پیک جفت می‌شود.",
+    "en": "An RNA molecule that brings an amino acid to the ribosome. One end carries the amino acid and the other end has an anticodon that pairs with the mRNA codon.",
+    "tr": "Molekool-e renayi ke amino-asid ra be renatan miavarad. Yek sarash amino-asid ra haml mikonad va sar-e digarash padramze darad ke ba ramze-ye rena-ye peyk joft mishavad."
+   },
+   "analogy": {
+    "fa": "مثل کامیونی که بار درست را می‌آورد، چون کلیدش فقط در قفل همان سفارش می‌چرخد.",
+    "en": "Like a lorry that brings the right load, because its key only turns in that order's lock.",
+    "tr": "Mesl-e kamyoni ke bar-e dorost ra miavarad, chon kelidash faghat dar ghofl-e haman sefaresh micharkhad."
+   },
+   "contrast": {
+    "fa": "رنای ناقل آمینواسید می‌آورد؛ رنای پیک دستور را می‌آورد؛ رنای رِناتنی بخشی از خود رناتن است.",
+    "en": "Transfer RNA brings amino acids; messenger RNA brings the instructions; ribosomal RNA is part of the ribosome itself.",
+    "tr": "Rena-ye naghel amino-asid miavarad; rena-ye peyk dastoor ra miavarad; rena-ye renatani bakhshi az khod-e renatan ast."
+   },
+   "unit": "bio-2-code-trna"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-anticodon",
+   "term": {
+    "fa": "پادرمزه",
+    "en": "anticodon",
+    "tr": "padramzeh"
+   },
+   "explain": {
+    "fa": "توالی سه‌بازی روی رنای ناقل که با رمزهٔ مکملش روی رنای پیک جفت می‌شود؛ مثلاً پادرمزهٔ `3′-UAC-5′` با رمزهٔ `5′-AUG-3′`.",
+    "en": "The three-base sequence on transfer RNA that pairs with its complementary codon on mRNA; for example the anticodon `3′-UAC-5′` with the codon `5′-AUG-3′`.",
+    "tr": "Tavali-ye se-bazi rooye rena-ye naghel ke ba ramze-ye mokammelash rooye rena-ye peyk joft mishavad; masalan padramze-ye `3′-UAC-5′` ba ramze-ye `5′-AUG-3′`."
+   },
+   "analogy": {
+    "fa": "مثل دندانه‌های یک کلید که فقط با قفل خودش جور است.",
+    "en": "Like the teeth of a key that only match its own lock.",
+    "tr": "Mesl-e dandane-haye yek kelid ke faghat ba ghofl-e khodash joor ast."
+   },
+   "contrast": {
+    "fa": "رمزه روی رنای پیک است و پادرمزه روی رنای ناقل.",
+    "en": "The codon is on the mRNA and the anticodon on the tRNA.",
+    "tr": "Ramze rooye rena-ye peyk ast va padramze rooye rena-ye naghel."
+   },
+   "unit": "bio-2-code-trna"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-stop-codon",
+   "term": {
+    "fa": "رمزهٔ پایان",
+    "en": "stop codon",
+    "tr": "ramzeh-ye payan"
+   },
+   "explain": {
+    "fa": "سه رمزهٔ `UAA`، `UAG` و `UGA` که هیچ آمینواسیدی را رمز نمی‌کنند. وقتی یکی از آن‌ها به جایگاه `A` رناتن برسد، عامل آزادکننده وارد می‌شود و ترجمه تمام می‌شود.",
+    "en": "The three codons `UAA`, `UAG` and `UGA` that code for no amino acid. When one reaches the ribosome's `A` site, a release factor enters and translation ends.",
+    "tr": "Se ramze-ye `UAA`, `UAG` va `UGA` ke hich amino-asidi ra ramz nemikonand. Vaghti yeki az an-ha be jaygah-e `A`-ye renatan beresad, amel-e azad-konande vared mishavad va tarjome tamam mishavad."
+   },
+   "analogy": {
+    "fa": "مثل نقطهٔ پایان جمله.",
+    "en": "Like the full stop at the end of a sentence.",
+    "tr": "Mesl-e noghte-ye payan-e jomle."
+   },
+   "contrast": {
+    "fa": "رمزهٔ پایان رنای ناقل ندارد؛ در شمردن آمینواسیدها آن را حساب نکن.",
+    "en": "A stop codon has no tRNA; do not count it when counting amino acids.",
+    "tr": "Ramze-ye payan rena-ye naghel nadarad; dar shemordan-e amino-asid-ha an ra hesab nakon."
+   },
+   "unit": "bio-2-code-trna"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-methionine",
+   "term": {
+    "fa": "متیونین",
+    "en": "methionine",
+    "tr": "methionine"
+   },
+   "explain": {
+    "fa": "آمینواسیدی که رمزهٔ آغاز `AUG` آن را رمز می‌کند؛ پس نخستین آمینواسیدی است که رنای ناقل آغازگر به جایگاه `P` رناتن می‌آورد.",
+    "en": "The amino acid coded by the start codon `AUG`; so it is the first amino acid, brought by the initiator tRNA to the ribosome's `P` site.",
+    "tr": "Amino-asidi ke ramze-ye aghaz `AUG` an ra ramz mikonad; pas nakhostin amino-asidi ast ke rena-ye naghel-e aghazgar be jaygah-e `P`-ye renatan miavarad."
+   },
+   "analogy": {
+    "fa": "مثل اولین آجری که همیشه در گوشهٔ دیوار گذاشته می‌شود.",
+    "en": "Like the first brick, always laid at the corner of the wall.",
+    "tr": "Mesl-e avvalin ajori ke hamishe dar goushe-ye divar gozashte mishavad."
+   },
+   "contrast": {
+    "fa": "رنای ناقل آغازگر مستقیم در جایگاه `P` می‌نشیند، نه `A`.",
+    "en": "The initiator tRNA sits straight in the `P` site, not `A`.",
+    "tr": "Rena-ye naghel-e aghazgar mostaghim dar jaygah-e `P` mineshinad, na `A`."
+   },
+   "unit": "bio-2-code-trna"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-start-codon",
+   "term": {
+    "fa": "رمزهٔ آغاز",
+    "en": "start codon",
+    "tr": "ramzeh-ye aghaz"
+   },
+   "explain": {
+    "fa": "رمزهٔ `AUG` روی رنای پیک، که هم آغاز ترجمه را نشان می‌دهد و هم متیونین را رمز می‌کند. از اینجا رناتن سه‌تا سه‌تا می‌خواند.",
+    "en": "The codon `AUG` on mRNA, which both marks the start of translation and codes for methionine. From here the ribosome reads in threes.",
+    "tr": "Ramze-ye `AUG` rooye rena-ye peyk, ke ham aghaz-e tarjome ra neshan midahad va ham metionin ra ramz mikonad. Az inja renatan se-ta se-ta mikhanad."
+   },
+   "analogy": {
+    "fa": "مثل علامت «شروع» روی خط مسابقه.",
+    "en": "Like the \"start\" line on a race track.",
+    "tr": "Mesl-e alamat-e \"shoru'\" rooye khatt-e mosabeghe."
+   },
+   "contrast": {
+    "fa": "رمزهٔ آغاز یک آمینواسید را هم رمز می‌کند؛ ولی رمزه‌های پایان هیچ آمینواسیدی ندارند.",
+    "en": "The start codon also codes for an amino acid; the stop codons code for none.",
+    "tr": "Ramze-ye aghaz yek amino-asid ra ham ramz mikonad; vali ramze-haye payan hich amino-asidi nadarand."
+   },
+   "unit": "bio-2-code-trna"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-translation",
+   "term": {
+    "fa": "ترجمه",
+    "en": "translation",
+    "tr": "tarjomeh"
+   },
+   "explain": {
+    "fa": "ساختن پروتئین از روی رنای پیک در رناتن. رمزه‌ها سه‌تا سه‌تا خوانده می‌شوند و رنای ناقل‌ها آمینواسیدها را به ترتیب می‌آورند. سه مرحله دارد: آغاز، طویل شدن، پایان.",
+    "en": "Building a protein from mRNA on a ribosome. Codons are read three at a time and tRNAs bring the amino acids in order. It has three stages: initiation, elongation, termination.",
+    "tr": "Sakhtan-e protein az rooye rena-ye peyk dar renatan. Ramze-ha se-ta se-ta khande mishavand va rena-ye naghel-ha amino-asid-ha ra be tartib miavarand. Se marhale darad: aghaz, tavil shodan, payan."
+   },
+   "analogy": {
+    "fa": "مثل خط مونتاژی که از روی برگهٔ سفارش، قطعه‌ها را یکی‌یکی سر هم می‌کند.",
+    "en": "Like an assembly line that puts parts together one by one from the work order.",
+    "tr": "Mesl-e khatt-e montazhi ke az rooye barge-ye sefaresh, ghet'e-ha ra yeki-yeki sar-e ham mikonad."
+   },
+   "contrast": {
+    "fa": "ترجمه در رناتن است و زبان رنا را به زبان پروتئین تبدیل می‌کند؛ رونویسی در هسته است.",
+    "en": "Translation happens on the ribosome and turns the language of RNA into the language of protein; transcription happens in the nucleus.",
+    "tr": "Tarjome dar renatan ast va zaban-e rena ra be zaban-e protein tabdil mikonad; ronevisi dar haste ast."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-ribosome",
+   "term": {
+    "fa": "ریبوزوم",
+    "en": "ribosome",
+    "tr": "ribosome"
+   },
+   "explain": {
+    "fa": "رناتن، دستگاه ترجمه، از دو زیرواحد ساخته شده: زیرواحد کوچک رنای پیک را نگه می‌دارد و زیرواحد بزرگ سه جایگاه `A`، `P` و `E` دارد و پیوند پپتیدی را می‌سازد.",
+    "en": "The ribosome, the translation machine, is built from two subunits: the small one holds the mRNA and the large one has the three sites `A`, `P` and `E` and makes the peptide bond.",
+    "tr": "Renatan, dastgah-e tarjome, az do zirvahed sakhte shode: zirvahed-e koochak rena-ye peyk ra negah midarad va zirvahed-e bozorg se jaygah-e `A`, `P` va `E` darad va peyvand-e peptidi ra misazad."
+   },
+   "matches": {
+    "fa": [
+     "رناتن"
+    ]
+   },
+   "analogy": {
+    "fa": "خط مونتاژ کارخانه با سه ایستگاه: ورود، نگه‌داشتن، خروج.",
+    "en": "The factory's assembly line, with three stations: in, hold, out.",
+    "tr": "Khatt-e montazh-e karkhane ba se istgah: vorood, negah-dashtan, khorooj."
+   },
+   "contrast": {
+    "fa": "رناتن از پروتئین و رنای رِناتنی ساخته شده و غشا ندارد.",
+    "en": "The ribosome is made of protein and ribosomal RNA and has no membrane.",
+    "tr": "Renatan az protein va rena-ye renatani sakhte shode va ghesha nadarad."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-a-site",
+   "term": {
+    "fa": "جایگاه A",
+    "en": "A site",
+    "tr": "jaygah-e A"
+   },
+   "explain": {
+    "fa": "ایستگاه ورودی رناتن: رنای ناقل تازه با آمینواسید بعدی اینجا می‌نشیند. وقتی رمزهٔ پایان به اینجا برسد، عامل آزادکننده وارد می‌شود.",
+    "en": "The ribosome's entry station: the new tRNA carrying the next amino acid sits here. When a stop codon arrives here, a release factor enters.",
+    "tr": "Istgah-e voroodi-ye renatan: rena-ye naghel-e taze ba amino-asid-e ba'di inja mineshinad. Vaghti ramze-ye payan be inja beresad, amel-e azad-konande vared mishavad."
+   },
+   "analogy": {
+    "fa": "درِ ورودی خط مونتاژ.",
+    "en": "The entrance door of the assembly line.",
+    "tr": "Dar-e voroodi-ye khatt-e montazh."
+   },
+   "contrast": {
+    "fa": "ترتیب از ورودی به خروجی: `A`، `P`، `E`.",
+    "en": "The order from entrance to exit: `A`, `P`, `E`.",
+    "tr": "Tartib az voroodi be khorooji: `A`, `P`, `E`."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-p-site",
+   "term": {
+    "fa": "جایگاه P",
+    "en": "P site",
+    "tr": "jaygah-e P"
+   },
+   "explain": {
+    "fa": "ایستگاه وسط رناتن: رنای ناقلی که زنجیرهٔ در حال رشد را نگه داشته اینجاست. رنای ناقل آغازگر با متیونین هم مستقیم اینجا می‌نشیند.",
+    "en": "The ribosome's middle station: the tRNA holding the growing chain is here. The initiator tRNA with methionine also sits straight here.",
+    "tr": "Istgah-e vasat-e renatan: rena-ye nagheli ke zanjire-ye dar hal-e roshd ra negah dashte injast. Rena-ye naghel-e aghazgar ba metionin ham mostaghim inja mineshinad."
+   },
+   "analogy": {
+    "fa": "میز کار وسط خط که محصول نیمه‌کاره روی آن است.",
+    "en": "The middle workbench, where the half-built product rests.",
+    "tr": "Miz-e kar-e vasat-e khatt ke mahsool-e nime-kare rooye an ast."
+   },
+   "contrast": {
+    "fa": "`P` را با «پلی‌پپتید» به یاد بسپار: زنجیره اینجا نگه داشته می‌شود.",
+    "en": "Remember `P` as \"polypeptide\": the chain is held here.",
+    "tr": "`P` ra ba \"poli-peptid\" be yad besepar: zanjire inja negah dashte mishavad."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-e-site",
+   "term": {
+    "fa": "جایگاه E",
+    "en": "E site",
+    "tr": "jaygah-e E"
+   },
+   "explain": {
+    "fa": "ایستگاه خروجی رناتن: رنای ناقل خالی که آمینواسیدش را تحویل داده، از اینجا بیرون می‌رود.",
+    "en": "The ribosome's exit station: the empty tRNA that has handed over its amino acid leaves from here.",
+    "tr": "Istgah-e khorooji-ye renatan: rena-ye naghel-e khali ke amino-asidash ra tahvil dade, az inja biroon miravad."
+   },
+   "analogy": {
+    "fa": "درِ خروجی خط مونتاژ؛ `E` را با «اگزیت»، یعنی خروج، به یاد بسپار.",
+    "en": "The exit door of the assembly line; remember `E` as \"exit\".",
+    "tr": "Dar-e khorooji-ye khatt-e montazh; `E` ra ba \"exit\", ya'ni khorooj, be yad besepar."
+   },
+   "contrast": {
+    "fa": "رنای ناقل تازه از `A` وارد می‌شود، نه از `E`.",
+    "en": "New tRNAs enter at `A`, not at `E`.",
+    "tr": "Rena-ye naghel-e taze az `A` vared mishavad, na az `E`."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-rrna",
+   "term": {
+    "fa": "رنای رِناتنی",
+    "en": "ribosomal RNA",
+    "tr": "RNA-ye ribosomi"
+   },
+   "explain": {
+    "fa": "رنایی که بخش اصلی ساختار رناتن است و در زیرواحد بزرگ، پیوند پپتیدی بین آمینواسیدها را کاتالیز می‌کند؛ یعنی یک رنای آنزیمی است.",
+    "en": "The RNA that forms the main part of the ribosome's structure; in the large subunit it catalyses the peptide bond between amino acids, so it is an RNA enzyme.",
+    "tr": "Renayi ke bakhsh-e asli-ye sakhtar-e renatan ast va dar zirvahed-e bozorg, peyvand-e peptidi beyn-e amino-asid-ha ra katalize mikonad; ya'ni yek rena-ye anzimi ast."
+   },
+   "analogy": {
+    "fa": "مثل ابزاری که هم بخشی از خود دستگاه است و هم کار اصلی را انجام می‌دهد.",
+    "en": "Like a tool that is both part of the machine and does the main job.",
+    "tr": "Mesl-e abzari ke ham bakhshi az khod-e dastgah ast va ham kar-e asli ra anjam midahad."
+   },
+   "contrast": {
+    "fa": "پیوند پپتیدی را رنای رِناتنی می‌سازد، نه یک آنزیم پروتئینی.",
+    "en": "The peptide bond is made by ribosomal RNA, not by a protein enzyme.",
+    "tr": "Peyvand-e peptidi ra rena-ye renatani misazad, na yek anzim-e proteini."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-peptide-bond",
+   "term": {
+    "fa": "پیوند پپتیدی",
+    "en": "peptide bond",
+    "tr": "peyvand-e peptidi"
+   },
+   "explain": {
+    "fa": "پیوند اشتراکی بین دو آمینواسید مجاور در زنجیرهٔ پلی‌پپتیدی. در مرحلهٔ طویل شدن، زنجیره از رنای ناقلِ جایگاه `P` به آمینواسیدِ جایگاه `A` منتقل و با این پیوند وصل می‌شود.",
+    "en": "The covalent bond between two neighbouring amino acids in a polypeptide chain. During elongation, the chain passes from the tRNA in the `P` site to the amino acid in the `A` site and is joined by this bond.",
+    "tr": "Peyvand-e eshteraki beyn-e do amino-asid-e mojaver dar zanjire-ye poli-peptidi. Dar marhale-ye tavil shodan, zanjire az rena-ye naghel-e jaygah-e `P` be amino-asid-e jaygah-e `A` montaghel va ba in peyvand vasl mishavad."
+   },
+   "analogy": {
+    "fa": "مثل حلقه‌ای که دو مهرهٔ گردنبند را به هم وصل می‌کند.",
+    "en": "Like the link joining two beads of a necklace.",
+    "tr": "Mesl-e halghe-i ke do mohre-ye gardanband ra be ham vasl mikonad."
+   },
+   "contrast": {
+    "fa": "پیوند پپتیدی ساختار اول پروتئین را می‌سازد؛ پیوند هیدروژنی ساختار دوم را.",
+    "en": "Peptide bonds make the primary structure of a protein; hydrogen bonds make the secondary structure.",
+    "tr": "Peyvand-e peptidi sakhtar-e avval-e protein ra misazad; peyvand-e hidrozheni sakhtar-e dovvom ra."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-elongation",
+   "term": {
+    "fa": "طویل شدن زنجیره",
+    "en": "elongation phase",
+    "tr": "toolani shodan-e zanjire"
+   },
+   "explain": {
+    "fa": "مرحلهٔ تکراری ترجمه: رنای ناقل تازه به `A` می‌آید، پیوند پپتیدی ساخته می‌شود، رناتن یک رمزه جلو می‌رود (`A` به `P`، `P` به `E`) و رنای ناقل خالی از `E` بیرون می‌رود.",
+    "en": "The repeating stage of translation: a new tRNA arrives at `A`, a peptide bond forms, the ribosome moves one codon on (`A` to `P`, `P` to `E`) and the empty tRNA leaves from `E`.",
+    "tr": "Marhale-ye tekrari-ye tarjome: rena-ye naghel-e taze be `A` miayad, peyvand-e peptidi sakhte mishavad, renatan yek ramze jelo miravad (`A` be `P`, `P` be `E`) va rena-ye naghel-e khali az `E` biroon miravad."
+   },
+   "analogy": {
+    "fa": "مثل حلقهٔ تکراری خط مونتاژ: بیاور، وصل کن، جلو برو، خالی را بیرون بده.",
+    "en": "Like the repeating loop of an assembly line: bring in, join, move on, send out the empty.",
+    "tr": "Mesl-e halghe-ye tekrari-ye khatt-e montazh: biyavar, vasl kon, jelo boro, khali ra biroon bede."
+   },
+   "contrast": {
+    "fa": "طویل شدن تا رسیدن رمزهٔ پایان به `A` ادامه دارد؛ آغاز و پایان مراحل جداگانه‌اند.",
+    "en": "Elongation continues until a stop codon reaches `A`; initiation and termination are separate stages.",
+    "tr": "Tavil shodan ta residan-e ramze-ye payan be `A` edame darad; aghaz va payan marahel-e jodagane-and."
+   },
+   "unit": "bio-2-translation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-lac-operon",
+   "term": {
+    "fa": "اپران لک",
+    "en": "lac operon",
+    "tr": "operon-e lac"
+   },
+   "explain": {
+    "fa": "گروهی از ژن‌های باکتری اشرشیا کلای برای تجزیهٔ لاکتوز، همراه با یک راه‌انداز و یک اپراتور که آن‌ها را با هم روشن یا خاموش می‌کنند. بدون لاکتوز خاموش است و با لاکتوز روشن.",
+    "en": "A group of E. coli genes for breaking down lactose, together with a promoter and an operator that switch them on or off together. It is off without lactose and on with lactose.",
+    "tr": "Gorohi az zhen-haye bakteri-ye Esherishia koli baraye tajziye-ye laktoz, hamrah ba yek rah-andaz va yek operator ke an-ha ra ba ham roshan ya khamoosh mikonand. Bedoon-e laktoz khamoosh ast va ba laktoz roshan."
+   },
+   "analogy": {
+    "fa": "مثل کارخانه‌ای که فقط وقتی سفارش (لاکتوز) می‌رسد، خط تولید را روشن می‌کند.",
+    "en": "Like a factory that only starts its line when an order (lactose) arrives.",
+    "tr": "Mesl-e karkhane-i ke faghat vaghti sefaresh (laktoz) miresad, khatt-e tolid ra roshan mikonad."
+   },
+   "contrast": {
+    "fa": "اپران لک با «برداشتن مهار» روشن می‌شود (تنظیم منفی)، نه با یک فعال‌کننده.",
+    "en": "The lac operon is turned on by \"removing a block\" (negative regulation), not by an activator.",
+    "tr": "Operon-e lak ba \"bardashtan-e mahar\" roshan mishavad (tanzim-e manfi), na ba yek fa'al-konande."
+   },
+   "unit": "bio-2-regulation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-repressor",
+   "term": {
+    "fa": "مهارکننده",
+    "en": "repressor",
+    "tr": "mahar-konandeh"
+   },
+   "explain": {
+    "fa": "پروتئینی که روی اپراتور می‌نشیند و راه رنابسپاراز را می‌بندد، پس ژن‌ها رونویسی نمی‌شوند. وقتی آلولاکتوز به آن بچسبد، شکلش عوض می‌شود و اپراتور را رها می‌کند.",
+    "en": "A protein that sits on the operator and blocks RNA polymerase, so the genes are not transcribed. When allolactose binds to it, it changes shape and lets go of the operator.",
+    "tr": "Proteini ke rooye operator mineshinad va rah-e rena-basparaz ra mibandad, pas zhen-ha ronevisi nemishavand. Vaghti allolaktoz be an bechasbad, shekl-ash avaz mishavad va operator ra raha mikonad."
+   },
+   "matches": {
+    "fa": [
+     "پروتئین مهارکننده"
+    ],
+    "en": [
+     "repressor protein"
+    ],
+    "tr": [
+     "protein-e mahar-konandeh"
+    ]
+   },
+   "analogy": {
+    "fa": "مثل نگهبانی که جلوی دروازه ایستاده تا وقتی کسی (لاکتوز) او را صدا کند و کنار برود.",
+    "en": "Like a guard blocking the gate until someone (lactose) calls the guard away.",
+    "tr": "Mesl-e negahbani ke jelo-ye darvaze istade ta vaghti kasi (laktoz) oo ra seda konad va kenar beravad."
+   },
+   "contrast": {
+    "fa": "لاکتوز به مهارکننده می‌چسبد، نه به اپراتور؛ مهارکننده است که به اپراتور می‌چسبد.",
+    "en": "Lactose binds to the repressor, not the operator; it is the repressor that binds the operator.",
+    "tr": "Laktoz be mahar-konande michasbad, na be operator; mahar-konande ast ke be operator michasbad."
+   },
+   "unit": "bio-2-regulation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-operator",
+   "term": {
+    "fa": "اپراتور",
+    "en": "operator",
+    "tr": "operator"
+   },
+   "explain": {
+    "fa": "توالی کوتاهی از دنا بین راه‌انداز و ژن‌ها که مهارکننده به آن می‌چسبد. مثل یک دروازه است: وقتی بسته است، رنابسپاراز نمی‌تواند رد شود.",
+    "en": "A short stretch of DNA between the promoter and the genes, where the repressor binds. It acts like a gate: when closed, RNA polymerase cannot pass.",
+    "tr": "Tavali-ye kootahi az dena beyn-e rah-andaz va zhen-ha ke mahar-konande be an michasbad. Mesl-e yek darvaze ast: vaghti baste ast, rena-basparaz nemitavanad rad shavad."
+   },
+   "analogy": {
+    "fa": "دروازهٔ بین پارکینگ (راه‌انداز) و کارخانه (ژن‌ها).",
+    "en": "The gate between the car park (promoter) and the factory (genes).",
+    "tr": "Darvaze-ye beyn-e parking (rah-andaz) va karkhane (zhen-ha)."
+   },
+   "contrast": {
+    "fa": "اپراتور ژن نیست و پروتئینی نمی‌سازد؛ فقط جای نشستن مهارکننده است.",
+    "en": "The operator is not a gene and makes no protein; it is only where the repressor sits.",
+    "tr": "Operator zhen nist va proteini nemisazad; faghat ja-ye neshastan-e mahar-konande ast."
+   },
+   "unit": "bio-2-regulation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-lactose",
+   "term": {
+    "fa": "لاکتوز",
+    "en": "lactose",
+    "tr": "lactose"
+   },
+   "explain": {
+    "fa": "قند شیر. وقتی در محیط باکتری باشد، شکل تغییریافته‌اش (آلولاکتوز) به مهارکننده می‌چسبد و اپران لک را روشن می‌کند تا آنزیم‌های تجزیهٔ لاکتوز ساخته شوند.",
+    "en": "Milk sugar. When it is around the bacterium, its altered form (allolactose) binds the repressor and switches on the lac operon, so the enzymes that break lactose down are made.",
+    "tr": "Ghand-e shir. Vaghti dar mohit-e bakteri bashad, shekl-e taghyir-yafte-ash (allolaktoz) be mahar-konande michasbad va operon-e lak ra roshan mikonad ta anzim-haye tajziye-ye laktoz sakhte shavand."
+   },
+   "analogy": {
+    "fa": "مثل سفارشی که خط تولید را به کار می‌اندازد.",
+    "en": "Like the order that sets the production line running.",
+    "tr": "Mesl-e sefareshi ke khatt-e tolid ra be kar miandazad."
+   },
+   "contrast": {
+    "fa": "لاکتوز ژن‌ها را مستقیم روشن نمی‌کند؛ مهارکننده را از کار می‌اندازد.",
+    "en": "Lactose does not switch the genes on directly; it disables the repressor.",
+    "tr": "Laktoz zhen-ha ra mostaghim roshan nemikonad; mahar-konande ra az kar miandazad."
+   },
+   "unit": "bio-2-regulation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-derepression",
+   "term": {
+    "fa": "مهارزدایی",
+    "en": "derepression",
+    "tr": "mahar-zodayi"
+   },
+   "explain": {
+    "fa": "برداشته شدن مهار از روی ژن‌ها: آلولاکتوز مهارکننده را از اپراتور جدا می‌کند و رونویسی آغاز می‌شود.",
+    "en": "Lifting the block from the genes: allolactose removes the repressor from the operator and transcription begins.",
+    "tr": "Bardashte shodan-e mahar az rooye zhen-ha: allolaktoz mahar-konande ra az operator joda mikonad va ronevisi aghaz mishavad."
+   },
+   "analogy": {
+    "fa": "مثل برداشتن قفل از دری که پشتش همه‌چیز آماده بود.",
+    "en": "Like taking the lock off a door with everything ready behind it.",
+    "tr": "Mesl-e bardashtan-e ghofl az dari ke poshtash hame-chiz amade bood."
+   },
+   "contrast": {
+    "fa": "مهارزدایی یعنی «برداشتن مانع»، نه افزودن یک فعال‌کننده.",
+    "en": "Derepression means \"removing an obstacle\", not adding an activator.",
+    "tr": "Mahar-zodayi ya'ni \"bardashtan-e mane'\", na afzoodan-e yek fa'al-konande."
+   },
+   "unit": "bio-2-regulation"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-transcription-factors",
+   "term": {
+    "fa": "عوامل رونویسی",
+    "en": "transcription factors",
+    "tr": "avamel-e ronevisi"
+   },
+   "explain": {
+    "fa": "در یوکاریوت‌ها، پروتئین‌هایی که با چسبیدن به توالی‌های ویژهٔ دنا (مانند راه‌انداز یا افزاینده) به رنابسپاراز کمک می‌کنند یا جلوی رونویسی را می‌گیرند.",
+    "en": "In eukaryotes, proteins that bind particular DNA sequences (such as the promoter or an enhancer) to help RNA polymerase or to block transcription.",
+    "tr": "Dar yukaryot-ha, protein-hayi ke ba chasbidan be tavali-haye vizhe-ye dena (manand-e rah-andaz ya afzayande) be rena-basparaz komak mikonand ya jelo-ye ronevisi ra migirand."
+   },
+   "analogy": {
+    "fa": "مثل گروهی از دستیاران که منشی را در جای درست می‌نشانند و کارش را تند یا کند می‌کنند.",
+    "en": "Like a team of assistants who seat the clerk in the right place and speed up or slow down the work.",
+    "tr": "Mesl-e gorohi az dastyaran ke monshi ra dar ja-ye dorost mineshanand va karash ra tond ya kond mikonand."
+   },
+   "contrast": {
+    "fa": "در یوکاریوت‌ها رنابسپاراز به‌تنهایی راه‌انداز را نمی‌شناسد؛ عوامل رونویسی لازم‌اند (در باکتری این کار عامل سیگماست).",
+    "en": "In eukaryotes RNA polymerase cannot recognise the promoter alone; transcription factors are needed (in bacteria the sigma factor does this).",
+    "tr": "Dar yukaryot-ha rena-basparaz be-tanhayi rah-andaz ra nemishenasad; avamel-e ronevisi lazem-and (dar bakteri in kar amel-e sigmast)."
+   },
+   "unit": "bio-2-regulation"
+  }
+ ]
+}
