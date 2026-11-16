@@ -1,0 +1,959 @@
+{
+ "version": 115,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 1,
+   "key": "bio-5-atp-map",
+   "title": {
+    "fa": "انرژی یاخته و نقشهٔ تنفس",
+    "en": "The cell's energy and the map of respiration",
+    "tr": "Enerzhi-ye yakhte va naghshe-ye tanaffos"
+   },
+   "summary": {
+    "fa": "یک اسکناس درشت را به سکه‌های خرد تبدیل کن تا بتوانی خرجش کنی.",
+    "en": "Change one big banknote into small coins so you can spend it.",
+    "tr": "Yek eskenas-e dorosht ra be sekke-haye khord tabdil kon ta betavani kharjash koni."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: اسکناس درشت و سکهٔ خرد",
+      "en": "Understand first: the big note and the small coins",
+      "tr": "Avval befahm: eskenas-e dorosht va sekke-ye khord"
+     },
+     "body": {
+      "fa": "گلوکز مثل یک اسکناس درشت است: انرژی زیادی دارد، ولی هیچ مغازه‌ای در یاخته آن را مستقیم قبول نمی‌کند. کارهای یاخته، مثل انقباض ماهیچه یا پمپ کردن یون‌ها، با سکه‌های خرد پرداخت می‌شوند. این سکه «`ATP`» است. «تنفس یاخته‌ای» همان صرافی است: گلوکز را کم‌کم می‌شکند و انرژی‌اش را به ده‌ها سکهٔ `ATP` تبدیل می‌کند.",
+      "en": "Glucose is like a big banknote: it holds a lot of energy, but no shop in the cell accepts it directly. The cell's jobs, such as muscle contraction or pumping ions, are paid for with small coins. That coin is \"`ATP`\". \"Cellular respiration\" is the money changer: it breaks glucose down step by step and turns its energy into dozens of `ATP` coins.",
+      "tr": "Glukoz mesl-e yek eskenas-e dorosht ast: enerzhi-ye ziyadi darad, vali hich maghaze-i dar yakhte an ra mostaghim ghabool nemikonad. Kar-haye yakhte, mesl-e enghebaz-e mahiche ya pomp kardan-e yoon-ha, ba sekke-haye khord pardakht mishavand. In sekke \"`ATP`\" ast. \"Tanaffos-e yakhte-i\" haman sarrafi ast: glukoz ra kam-kam mishekanad va enerzhi-ash ra be dah-ha sekke-ye `ATP` tabdil mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سکه و شارژ دوباره",
+      "en": "The coin and its recharge",
+      "tr": "Sekke va sharzh-e dobare"
+     },
+     "body": {
+      "fa": "`ATP` یک باز آدنین، یک قند ریبوز و سه گروه فسفات دارد. وقتی فسفات سوم جدا می‌شود، `ATP` به `ADP` تبدیل می‌شود و انرژی آزاد می‌کند، مثل خرج کردن یک سکه. یاخته دوباره با انرژی غذا آن فسفات را برمی‌گرداند و سکه را «شارژ» می‌کند. یاخته سه راه برای ساختن `ATP` دارد: در سطح پیش‌ماده (یک آنزیم فسفات را مستقیم از یک مولکول به `ADP` می‌دهد)، اکسایشی (در راکیزه با کمک زنجیرهٔ انتقال الکترون) و نوری (در فتوسنتز).",
+      "en": "`ATP` has an adenine base, a ribose sugar and three phosphate groups. When the third phosphate comes off, `ATP` becomes `ADP` and releases energy, like spending a coin. The cell then uses energy from food to put that phosphate back and \"recharge\" the coin. The cell has three ways to make `ATP`: substrate-level (an enzyme hands a phosphate straight from a molecule to `ADP`), oxidative (in the mitochondrion with the help of the electron transport chain) and light-driven (in photosynthesis).",
+      "tr": "`ATP` yek baz-e adenin, yek ghand-e riboz va se goroh-e fosfat darad. Vaghti fosfat-e sevvom joda mishavad, `ATP` be `ADP` tabdil mishavad va enerzhi azad mikonad, mesl-e kharj kardan-e yek sekke. Yakhte dobare ba enerzhi-ye ghaza an fosfat ra barmigardanad va sekke ra \"sharzh\" mikonad. Yakhte se rah baraye sakhtan-e `ATP` darad: dar sath-e pish-madde (yek anzim fosfat ra mostaghim az yek molekool be `ADP` midahad), oksayeshi (dar rakize ba komak-e zanjire-ye enteghal-e elektron) va noori (dar fotosantez)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ATP = adenine - ribose - P - P - P\n\n ATP --> ADP + P + energy  (spend)\n ADP + P + energy --> ATP  (charge)",
+     "caption": {
+      "fa": "خرج و شارژ سکهٔ انرژی یاخته.",
+      "en": "Spending and recharging the cell's energy coin.",
+      "tr": "Kharj va sharzh-e sekke-ye enerzhi-ye yakhte."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نقشهٔ صرافی: کجا چه اتفاقی می‌افتد؟",
+      "en": "The map of the money changer: what happens where?",
+      "tr": "Naghshe-ye sarrafi: koja che ettefaghi miofte?"
+     },
+     "body": {
+      "fa": "صرافی چند غرفه دارد. «قندکافت» در میان‌یاخته است. اکسایش پیرووات و «چرخهٔ کربس» در بخش داخلی راکیزه انجام می‌شوند. «زنجیرهٔ انتقال الکترون» روی غشای درونی راکیزه است که چین‌های زیادی دارد تا جای بیشتری برای زنجیره باشد. بین دو غشا یک فضای باریک هست که بعداً نقش مخزن سد را بازی می‌کند. حامل‌های `NADH` و `FADH2` مثل کیف پول‌اند: الکترون‌های پرانرژی را از غرفه‌های اول به زنجیره می‌برند.",
+      "en": "The money changer has several counters. \"Glycolysis\" is in the cytoplasm. Pyruvate oxidation and the \"Krebs cycle\" take place in the inner compartment (matrix) of the mitochondrion. The \"electron transport chain\" sits on the inner membrane of the mitochondrion, which has many folds to give the chain more room. Between the two membranes is a narrow space that will later act as the dam's reservoir. The carriers `NADH` and `FADH2` are like wallets: they carry high-energy electrons from the first counters to the chain.",
+      "tr": "Sarrafi chand ghorfe darad. \"Ghand-kaft\" dar miyan-yakhte ast. Oksayesh-e piruvat va \"charkhe-ye Krebs\" dar bakhsh-e dakheli-ye rakize anjam mishavand. \"Zanjire-ye enteghal-e elektron\" rooye ghesha-ye daroonie rakize ast ke chin-haye ziyadi darad ta ja-ye bishtari baraye zanjire bashad. Beyn-e do ghesha yek faza-ye barik hast ke ba'dan naghsh-e makhzan-e sad ra bazi mikonad. Hamel-haye `NADH` va `FADH2` mesl-e kif-e pool-and: elektron-haye por-enerzhi ra az ghorfe-haye avval be zanjire mibarand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " +--------------------------------+\n | outer membrane                 |\n |  +--------------------------+  |\n |  | inner membrane (folded): |  |\n |  |   electron chain         |  |\n |  |  +--------------------+  |  |\n |  |  | matrix: pyruvate   |  |  |\n |  |  | oxidation, Krebs   |  |  |\n |  |  +--------------------+  |  |\n |  +--------------------------+  |\n |  intermembrane space (between) |\n +--------------------------------+\n glycolysis: outside, in cytoplasm",
+     "caption": {
+      "fa": "راکیزه: غشای بیرونی، فضای بین دو غشا، غشای درونی چین‌خورده (زنجیره) و بخش داخلی (کربس). قندکافت بیرون از راکیزه است.",
+      "en": "The mitochondrion: outer membrane, intermembrane space, folded inner membrane (the chain) and the matrix (Krebs). Glycolysis is outside the mitochondrion.",
+      "tr": "Rakize: ghesha-ye birooni, faza-ye beyn-e do ghesha, ghesha-ye daroonie chin-khorde (zanjire) va bakhsh-e dakheli (Krebs). Ghand-kaft biroon az rakize ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " per glucose  place   ATP NADH FADH2\n glycolysis   cytopl.  2   2    0\n pyruvate ox. matrix   0   2    0\n Krebs (x2)   matrix   2   6    2\n chain        inner   ~26  -    -\n total               ~30  10    2",
+     "caption": {
+      "fa": "دفتر حساب هر گلوکز: بیشتر `ATP` از زنجیره می‌آید، با خرج کردن `NADH` و `FADH2`. عدد نهایی تقریبی است (حدود ۳۰).",
+      "en": "The ledger for each glucose: most `ATP` comes from the chain, by spending `NADH` and `FADH2`. The final figure is approximate (about 30).",
+      "tr": "Daftar-e hesab-e har glukoz: bishtar-e `ATP` az zanjire miayad, ba kharj kardan-e `NADH` va `FADH2`. Adad-e nahayi taghribi ast (hodood-e 30)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: وقتی `ATP` خرج می‌شود، چه چیزی باقی می‌ماند؟",
+      "en": "Warm-up: when `ATP` is spent, what is left?",
+      "tr": "Garm kardan: vaghti `ATP` kharj mishavad, che chizi baghi mimanad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسمش را بخوان: تری‌فسفات یعنی سه فسفات. خرج کردن یعنی جدا شدن یک فسفات.",
+        "en": "Read its name: triphosphate means three phosphates. Spending means one phosphate comes off.",
+        "tr": "Esmash ra bekhan: tri-fosfat ya'ni se fosfat. Kharj kardan ya'ni joda shodan-e yek fosfat."
+       },
+       "math": "3 − 1 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "`ADP` (دو فسفات) و یک گروه فسفات آزاد",
+      "en": "`ADP` (two phosphates) and a free phosphate group",
+      "tr": "`ADP` (do fosfat) va yek goroh-e fosfat-e azad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: از یک گلوکز در تنفس هوازی، چند `NADH` و `FADH2` ساخته می‌شود؟",
+      "en": "Textbook and exam: how many `NADH` and `FADH2` does one glucose make in aerobic respiration?",
+      "tr": "Mas'ale-ye ketab va emtehan: az yek glukoz dar tanaffos-e havazi, chand `NADH` va `FADH2` sakhte mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مرحله به مرحله جمع کن. قندکافت: ۲ تا `NADH`.",
+        "en": "Add it up stage by stage. Glycolysis: 2 `NADH`.",
+        "tr": "Marhale be marhale jam' kon. Ghand-kaft: 2 ta `NADH`."
+       },
+       "math": "2"
+      },
+      {
+       "text": {
+        "fa": "یک گلوکز دو پیرووات می‌دهد، پس اکسایش پیرووات و چرخهٔ کربس هر کدام دو بار انجام می‌شوند. چرا مهم است؟ چون بیشتر اشتباه‌ها از فراموش کردن همین «ضرب در دو» است.",
+        "en": "One glucose gives two pyruvates, so pyruvate oxidation and the Krebs cycle each happen twice. Why does it matter? Because most mistakes come from forgetting this \"times two\".",
+        "tr": "Yek glukoz do piruvat midahad, pas oksayesh-e piruvat va charkhe-ye Krebs har kodam do bar anjam mishavand. Chera mohem ast? Chon bishtar-e eshtebah-ha az faramoosh kardan-e hamin \"zarb dar do\" ast."
+       },
+       "math": "2 × 1 = 2 ,   2 × 3 = 6"
+      },
+      {
+       "text": {
+        "fa": "`FADH2` فقط در کربس ساخته می‌شود: یکی در هر دور.",
+        "en": "`FADH2` is made only in the Krebs cycle: one per turn.",
+        "tr": "`FADH2` faghat dar Krebs sakhte mishavad: yeki dar har dor."
+       },
+       "math": "2 + 2 + 6 = 10 ,   2 × 1 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "۱۰ تا `NADH` و ۲ تا `FADH2`",
+      "en": "10 `NADH` and 2 `FADH2`",
+      "tr": "10 ta `NADH` va 2 ta `FADH2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یاخته بدون راکیزه (مثل گویچهٔ قرمز بالغ انسان) از هر گلوکز چند `ATP` می‌سازد؟",
+      "en": "Exam twist: how many `ATP` does a cell without mitochondria (such as a mature human red blood cell) make from each glucose?",
+      "tr": "Pich-e emtehani: yakhte bedoon-e rakize (mesl-e goychche-ye ghermez-e baleq-e ensan) az har glukoz chand `ATP` misazad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: بدون راکیزه نه کربس هست و نه زنجیره. فقط غرفهٔ اول کار می‌کند.",
+        "en": "The twist: without mitochondria there is no Krebs cycle and no chain. Only the first counter works.",
+        "tr": "Pich-e emtehan: bedoon-e rakize na Krebs hast va na zanjire. Faghat ghorfe-ye avval kar mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قندکافت ۴ تا می‌سازد و ۲ تا خرج می‌کند.",
+        "en": "Glycolysis makes 4 and spends 2.",
+        "tr": "Ghand-kaft 4 ta misazad va 2 ta kharj mikonad."
+       },
+       "math": "4 − 2 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "فقط ۲ `ATP`، در برابر حدود ۳۰ در تنفس هوازی",
+      "en": "Only 2 `ATP`, against about 30 in aerobic respiration",
+      "tr": "Faghat 2 `ATP`, dar barabar-e hodood-e 30 dar tanaffos-e havazi"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`NADH` و `FADH2` خودشان `ATP` نیستند؛ کیف پول‌اند. `ATP` آن‌ها بعداً در زنجیرهٔ انتقال الکترون پرداخت می‌شود.",
+      "en": "`NADH` and `FADH2` are not `ATP` themselves; they are wallets. Their `ATP` is paid out later, in the electron transport chain.",
+      "tr": "`NADH` va `FADH2` khodeshan `ATP` nistand; kif-e pool-and. `ATP`-e an-ha ba'dan dar zanjire-ye enteghal-e elektron pardakht mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قندکافت در میان‌یاخته است، نه در راکیزه. فقط اکسایش پیرووات، کربس و زنجیره در راکیزه‌اند.",
+      "en": "Glycolysis is in the cytoplasm, not in the mitochondrion. Only pyruvate oxidation, the Krebs cycle and the chain are in the mitochondrion.",
+      "tr": "Ghand-kaft dar miyan-yakhte ast, na dar rakize. Faghat oksayesh-e piruvat, Krebs va zanjire dar rakize-and."
+     }
+    }
+   ],
+   "questions": []
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 2,
+   "key": "bio-5-glycolysis",
+   "title": {
+    "fa": "قندکافت",
+    "en": "Glycolysis",
+    "tr": "Ghand-kaft"
+   },
+   "summary": {
+    "fa": "اول کمی سرمایه بگذار، بعد سود بیشتری بگیر.",
+    "en": "Invest a little first, then take back more.",
+    "tr": "Avval kami sarmaye bogzar, ba'd sood-e bishtari begir."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سرمایه‌گذاری و سود",
+      "en": "Understand first: invest, then profit",
+      "tr": "Avval befahm: sarmaye-gozari va sood"
+     },
+     "body": {
+      "fa": "«قندکافت» یعنی شکستن گلوکز شش‌کربنه به دو مولکول سه‌کربنه، در میان‌یاخته و بدون نیاز به اکسیژن (آزمون خرداد ۱۴۰۱). مثل یک کاسب است: اول سرمایه می‌گذارد و بعد سود می‌گیرد. در نیمهٔ اول، یاخته دو `ATP` خرج می‌کند تا گلوکز را فعال کند. در نیمهٔ دوم، چهار `ATP` و دو `NADH` به‌دست می‌آورد. پس سود خالص دو `ATP` است.",
+      "en": "\"Glycolysis\" means splitting six-carbon glucose into two three-carbon molecules, in the cytoplasm and without needing oxygen (Khordad 1401 paper). It is like a trader: first it invests, then it takes a profit. In the first half the cell spends two `ATP` to activate glucose. In the second half it gains four `ATP` and two `NADH`. So the net profit is two `ATP`.",
+      "tr": "\"Ghand-kaft\" ya'ni shekastan-e glukoz-e shesh-karbane be do molekool-e se-karbane, dar miyan-yakhte va bedoon-e niyaz be oksizhen (azmoon-e Khordad 1401). Mesl-e yek kaseb ast: avval sarmaye migozarad va ba'd sood migirad. Dar nime-ye avval, yakhte do `ATP` kharj mikonad ta glukoz ra fa'al konad. Dar nime-ye dovvom, chahar `ATP` va do `NADH` be-dast miavarad. Pas sood-e khales do `ATP` ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گام به گام",
+      "en": "Step by step",
+      "tr": "Gam be gam"
+     },
+     "body": {
+      "fa": "گام‌ها را دنبال کن. ۱) گلوکز با مصرف `ATP` یک فسفات می‌گیرد و فعال می‌شود (آزمون دی ۱۴۰۱). ۲) گلوکز ۶-فسفات به فروکتوز ۶-فسفات تبدیل می‌شود؛ اتم‌ها همان‌اند ولی چیدمانشان عوض می‌شود، یعنی ایزومری شدن (آزمون خرداد ۱۴۰۲). ۳) با یک `ATP` دیگر، فروکتوز بیس‌فسفات ساخته می‌شود. ۴) این مولکول شش‌کربنه به دو قند سه‌کربنی فسفات‌دار می‌شکند (آزمون خرداد ۱۴۰۱). ۵) هر کدام الکترون به `NAD+` می‌دهند و `NADH` می‌سازند. ۶) در گام پایانی، فسفات به `ADP` منتقل می‌شود و پیرووات سه‌کربنه می‌ماند (آزمون‌های دی ۱۴۰۱).",
+      "en": "Follow the steps. 1) Glucose takes a phosphate by using up `ATP` and is activated (Dey 1401 paper). 2) Glucose 6-phosphate becomes fructose 6-phosphate; the atoms are the same but their arrangement changes, which is isomerisation (Khordad 1402 paper). 3) With another `ATP`, fructose bisphosphate is made. 4) This six-carbon molecule splits into two three-carbon sugar phosphates (Khordad 1401 paper). 5) Each gives electrons to `NAD+` and makes `NADH`. 6) In the last step, phosphate is passed to `ADP` and three-carbon pyruvate is left (Dey 1401 papers).",
+      "tr": "Gam-ha ra donbal kon. 1) Glukoz ba masraf-e `ATP` yek fosfat migirad va fa'al mishavad (azmoon-e Dey 1401). 2) Glukoz 6-fosfat be fruktoz 6-fosfat tabdil mishavad; atom-ha haman-and vali chidemaneshan avaz mishavad, ya'ni izomeri shodan (azmoon-e Khordad 1402). 3) Ba yek `ATP`-e digar, fruktoz bis-fosfat sakhte mishavad. 4) In molekool-e shesh-karbane be do ghand-e se-karbani-ye fosfat-dar mishekanad (azmoon-e Khordad 1401). 5) Har kodam elektron be `NAD+` midahand va `NADH` misazand. 6) Dar gam-e payani, fosfat be `ADP` montaghel mishavad va piruvat-e se-karbane mimanad (azmoon-haye Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " glucose (6C)\n   |  1. uses ATP\n   |  2. isomerisation\n   |  3. uses ATP\n fructose bisphosphate (6C)\n   |  4. splits in two\n 2 x 3C sugar phosphate\n   |  5. 2 NADH made\n   |  6. 4 ATP made\n 2 x pyruvate (3C)\n\n net:  4 - 2 = 2 ATP ,  2 NADH",
+     "caption": {
+      "fa": "قندکافت: دو `ATP` سرمایه، چهار `ATP` درآمد؛ سود خالص دو `ATP` و دو `NADH`.",
+      "en": "Glycolysis: two `ATP` invested, four `ATP` earned; a net profit of two `ATP` and two `NADH`.",
+      "tr": "Ghand-kaft: do `ATP` sarmaye, chahar `ATP` daramad; sood-e khales do `ATP` va do `NADH`."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: محصول نهایی سه‌کربنهٔ قندکافت چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what is the final three-carbon product of glycolysis? (Dey 1401 paper)",
+      "tr": "Garm kardan: mahsool-e nahayi-ye se-karbane-ye ghand-kaft chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کربن‌ها را بشمار. گلوکز شش کربن دارد و به دو نیمه می‌شکند.",
+        "en": "Count the carbons. Glucose has six carbons and splits into two halves.",
+        "tr": "Karbon-ha ra beshmar. Glukoz shesh karbon darad va be do nime mishekanad."
+       },
+       "math": "6 = 3 + 3"
+      }
+     ],
+     "answer": {
+      "fa": "پیرووات (دو مولکول از هر گلوکز)",
+      "en": "Pyruvate (two molecules from each glucose)",
+      "tr": "Piruvat (do molekool az har glukoz)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چرا سود خالص قندکافت دو `ATP` است و نه چهار؟ (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: why is the net gain of glycolysis two `ATP` and not four? (as in the Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: chera sood-e khales-e ghand-kaft do `ATP` ast va na chahar? (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "درآمد را بشمار: هر قند سه‌کربنه دو `ATP` می‌دهد و دو قند داریم.",
+        "en": "Count the income: each three-carbon sugar gives two `ATP`, and there are two sugars.",
+        "tr": "Daramad ra beshmar: har ghand-e se-karbane do `ATP` midahad va do ghand darim."
+       },
+       "math": "2 × 2 = 4"
+      },
+      {
+       "text": {
+        "fa": "هزینه را کم کن: گام‌های ۱ و ۳ هر کدام یک `ATP` خرج کردند. «خالص» یعنی درآمد منهای هزینه.",
+        "en": "Subtract the cost: steps 1 and 3 each spent one `ATP`. \"Net\" means income minus cost.",
+        "tr": "Hazine ra kam kon: gam-haye 1 va 3 har kodam yek `ATP` kharj kardand. \"Khales\" ya'ni daramad menha-ye hazine."
+       },
+       "math": "4 − 2 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "۴ `ATP` ساخته و ۲ `ATP` خرج می‌شود؛ خالص ۲",
+      "en": "4 `ATP` made and 2 spent; net 2",
+      "tr": "4 `ATP` sakhte va 2 `ATP` kharj mishavad; khales 2"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تبدیل گلوکز ۶-فسفات به فروکتوز ۶-فسفات چه نوع تغییری است و چرا وزن مولکول عوض نمی‌شود؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: what kind of change turns glucose 6-phosphate into fructose 6-phosphate, and why does the molecule's mass not change? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: tabdil-e glukoz 6-fosfat be fruktoz 6-fosfat che no' taghyiri ast va chera vazn-e molekool avaz nemishavad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: هیچ اتمی اضافه یا کم نشده؛ هر دو فرمول یکسانی دارند (یک قند شش‌کربنی با یک فسفات).",
+        "en": "The twist: no atom is added or removed; both have the same formula (a six-carbon sugar with one phosphate).",
+        "tr": "Pich-e emtehan: hich atomi ezafe ya kam nashode; har do haman formool ra darand (yek ghand-e shesh-karbani ba yek fosfat)."
+       }
+      },
+      {
+       "text": {
+        "fa": "فقط چیدمان اتم‌ها عوض شده، مثل همان حروف که کلمهٔ دیگری بسازند. به این ایزومری شدن (هم‌پاری) می‌گویند.",
+        "en": "Only the arrangement of the atoms has changed, like the same letters making a different word. This is called isomerisation.",
+        "tr": "Faghat chidemaan-e atom-ha avaz shode, mesl-e haman horoof ke kalame-ye digari besazand. Be in izomeri shodan migooyand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ایزومری شدن (هم‌پاری)؛ همان اتم‌ها با چیدمان تازه",
+      "en": "Isomerisation; the same atoms in a new arrangement",
+      "tr": "Izomeri shodan; haman atom-ha ba chidemaan-e taze"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قندکافت اکسیژن «لازم ندارد» و در میان‌یاخته است. در هر دو حالت، با اکسیژن و بدون آن، انجام می‌شود.",
+      "en": "Glycolysis does \"not need\" oxygen and happens in the cytoplasm. It runs in both cases, with oxygen and without it.",
+      "tr": "Ghand-kaft oksizhen \"lazem nadarad\" va dar miyan-yakhte ast. Dar har do halat, ba oksizhen va bedoon-e an, anjam mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اگر سؤال «کل `ATP` ساخته‌شده» را پرسید، جواب ۴ است؛ اگر «سود خالص» را پرسید، ۲. کلمهٔ «خالص» را از دست نده.",
+      "en": "If the question asks for \"total `ATP` made\", the answer is 4; if it asks for the \"net gain\", 2. Do not miss the word \"net\".",
+      "tr": "Agar so'al \"kol-e `ATP`-e sakhte-shode\" ra porsid, javab 4 ast; agar \"sood-e khales\" ra porsid, 2. Kalame-ye \"khales\" ra az dast nade."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 903
+    },
+    {
+     "session": "1401-Dey",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Dey",
+     "number": 941
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 950
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 3,
+   "key": "bio-5-krebs",
+   "title": {
+    "fa": "اکسایش پیرووات و چرخهٔ کربس",
+    "en": "Pyruvate oxidation and the Krebs cycle",
+    "tr": "Oksayesh-e piruvat va charkhe-ye Krebs"
+   },
+   "summary": {
+    "fa": "یک چرخ گردان که هر دور کربن بیرون می‌دهد و کیف پول‌ها را پر می‌کند.",
+    "en": "A turning wheel that gives off carbon each turn and fills the wallets.",
+    "tr": "Yek charkh-e gardan ke har dor karbon biroon midahad va kif-e pool-ha ra por mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پیرووات وارد راکیزه می‌شود",
+      "en": "Understand first: pyruvate enters the mitochondrion",
+      "tr": "Avval befahm: piruvat vared-e rakize mishavad"
+     },
+     "body": {
+      "fa": "در حضور اکسیژن، پیرووات وارد بخش داخلی راکیزه می‌شود. آنجا یک کربن به‌صورت `CO2` از دست می‌دهد، الکترون‌هایش `NADH` می‌سازند و گروه دوکربنه‌ای به نام استیل باقی می‌ماند. استیل به «کوآنزیم آ» می‌چسبد و «استیل کوآنزیم آ» ساخته می‌شود (آزمون‌های خرداد ۱۴۰۰). کوآنزیم آ مثل یک دستهٔ حمل است که استیل را به چرخهٔ کربس تحویل می‌دهد.",
+      "en": "With oxygen present, pyruvate enters the inner compartment (matrix) of the mitochondrion. There it loses one carbon as `CO2`, its electrons make `NADH`, and a two-carbon group called acetyl is left. The acetyl attaches to \"coenzyme A\" and \"acetyl-CoA\" is made (Khordad 1400 papers). Coenzyme A is like a carrying handle that delivers the acetyl to the Krebs cycle.",
+      "tr": "Dar hozoor-e oksizhen, piruvat vared-e bakhsh-e dakheli-ye rakize mishavad. Anja yek karbon be-soorat-e `CO2` az dast midahad, elektron-hayash `NADH` misazand va goroh-e do-karbane-i be nam-e asetil baghi mimanad. Asetil be \"ko-anzim A\" michasbad va \"asetil ko-anzim A\" sakhte mishavad (azmoon-haye Khordad 1400). Ko-anzim A mesl-e yek daste-ye haml ast ke asetil ra be charkhe-ye Krebs tahvil midahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " pyruvate (3C)\n    |  - CO2 ,  NAD+ -> NADH\n acetyl (2C)\n    |  + coenzyme A\n acetyl-CoA  -->  Krebs cycle",
+     "caption": {
+      "fa": "اکسایش پیرووات: یک `CO2` و یک `NADH`؛ استیل به کوآنزیم آ می‌چسبد.",
+      "en": "Pyruvate oxidation: one `CO2` and one `NADH`; the acetyl joins coenzyme A.",
+      "tr": "Oksayesh-e piruvat: yek `CO2` va yek `NADH`; asetil be ko-anzim A michasbad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرخ گردان کربس",
+      "en": "The Krebs wheel",
+      "tr": "Charkh-e gardan-e Krebs"
+     },
+     "body": {
+      "fa": "چرخهٔ کربس مثل یک چرخ گردان است که هیچ‌وقت تمام نمی‌شود، چون آخرش همان اولش است. ۱) استیل دوکربنه با اگزالواستات چهارکربنه ترکیب می‌شود و سیتریک اسید شش‌کربنه می‌سازد (آزمون دی ۱۴۰۱). ۲) ترکیب شش‌کربنه به اسید پنج‌کربنه تبدیل می‌شود: یک `CO2` و یک `NADH` (آزمون دی ۱۳۹۸). ۳) پنج‌کربنه به چهارکربنه تبدیل می‌شود: یک `CO2`، یک `NADH` و یک `ATP` (آزمون دی ۱۴۰۰). ۴) ترکیب چهارکربنه با ساختن `FADH2` و یک `NADH` دیگر دوباره به اگزالواستات تبدیل می‌شود (آزمون دی ۱۴۰۱) و چرخ آمادهٔ دور بعد است.",
+      "en": "The Krebs cycle is like a turning wheel that never runs out, because its end is its beginning. 1) Two-carbon acetyl combines with four-carbon oxaloacetate to make six-carbon citric acid (Dey 1401 paper). 2) The six-carbon compound becomes a five-carbon acid: one `CO2` and one `NADH` (Dey 1398 paper). 3) The five-carbon compound becomes a four-carbon one: one `CO2`, one `NADH` and one `ATP` (Dey 1400 paper). 4) The four-carbon compound, making `FADH2` and another `NADH`, turns back into oxaloacetate (Dey 1401 paper), and the wheel is ready for the next turn.",
+      "tr": "Charkhe-ye Krebs mesl-e yek charkh-e gardan ast ke hich-vaght tamam nemishavad, chon akharash haman avvalash ast. 1) Asetil-e do-karbane ba oksalo-asetat-e chahar-karbane tarkib mishavad va sitrik asid-e shesh-karbane misazad (azmoon-e Dey 1401). 2) Tarkib-e shesh-karbane be asid-e panj-karbane tabdil mishavad: yek `CO2` va yek `NADH` (azmoon-e Dey 1398). 3) Panj-karbane be chahar-karbane tabdil mishavad: yek `CO2`, yek `NADH` va yek `ATP` (azmoon-e Dey 1400). 4) Tarkib-e chahar-karbane ba sakhtan-e `FADH2` va yek `NADH`-e digar dobare be oksalo-asetat tabdil mishavad (azmoon-e Dey 1401) va charkh amade-ye dor-e ba'd ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "      acetyl-CoA (2C)\n            |\n            v\n oxaloacetate --> citric acid\n    (4C)               (6C)\n     ^                   |\n     | FADH2, NADH       | CO2, NADH\n     |                   v\n    4C  <---------------  5C\n        CO2, NADH, ATP",
+     "caption": {
+      "fa": "هر دور کربس: ۲ `CO2`، ۳ `NADH`، ۱ `FADH2` و ۱ `ATP`. اگزالواستات در پایان دوباره ساخته می‌شود.",
+      "en": "Each turn of the Krebs cycle: 2 `CO2`, 3 `NADH`, 1 `FADH2` and 1 `ATP`. Oxaloacetate is remade at the end.",
+      "tr": "Har dor-e Krebs: 2 `CO2`, 3 `NADH`, 1 `FADH2` va 1 `ATP`. Oksalo-asetat dar payan dobare sakhte mishavad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پیرووات پس از از دست دادن `CO2` با کدام ترکیب پیوند می‌دهد؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: after losing `CO2`, which compound does pyruvate join? (Khordad 1400 paper)",
+      "tr": "Garm kardan: piruvat pas az az dast dadan-e `CO2` ba kodam tarkib peyvand midahad? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسم محصول سرنخ است: «استیل کوآنزیم آ» یعنی استیل + کوآنزیم آ.",
+        "en": "The product's name is the clue: \"acetyl-CoA\" means acetyl + coenzyme A.",
+        "tr": "Esm-e mahsool sarnakh ast: \"asetil ko-anzim A\" ya'ni asetil + ko-anzim A."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کوآنزیم آ",
+      "en": "Coenzyme A",
+      "tr": "Ko-anzim A"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: سرنوشت پیرووات را در راکیزه شرح بده و نام ترکیب حاصل را بنویس. (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: describe the fate of pyruvate in the mitochondrion and name the compound produced. (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: sarnevesht-e piruvat ra dar rakize sharh bede va nam-e tarkib-e hasel ra benevis. (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، اتفاق‌ها: پیرووات اکسایش می‌یابد، یک `CO2` آزاد می‌شود و `NADH` ساخته می‌شود. هر سه را بنویس.",
+        "en": "First half mark, the events: pyruvate is oxidised, one `CO2` is released and `NADH` is made. Write all three.",
+        "tr": "Nim-nomre-ye avval, ettefagh-ha: piruvat oksayesh miyabad, yek `CO2` azad mishavad va `NADH` sakhte mishavad. Har se ra benevis."
+       },
+       "math": "3C → 2C + CO2"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، نام: گروه استیل به کوآنزیم آ می‌چسبد و استیل کوآنزیم آ ساخته می‌شود.",
+        "en": "Second half mark, the name: the acetyl group joins coenzyme A and acetyl-CoA is made.",
+        "tr": "Nim-nomre-ye dovvom, nam: goroh-e asetil be ko-anzim A michasbad va asetil ko-anzim A sakhte mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسایش + آزاد شدن `CO2` + ساخت `NADH`؛ استیل کوآنزیم آ",
+      "en": "Oxidation + `CO2` released + `NADH` made; acetyl-CoA",
+      "tr": "Oksayesh + azad shodan-e `CO2` + sakht-e `NADH`; asetil ko-anzim A"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: از یک گلوکز، اکسایش پیرووات و کربس روی هم چند `CO2` آزاد می‌کنند؟ این همهٔ کربن‌های گلوکز است؟",
+      "en": "Exam twist: from one glucose, how much `CO2` do pyruvate oxidation and the Krebs cycle release together? Is that all the carbons of glucose?",
+      "tr": "Pich-e emtehani: az yek glukoz, oksayesh-e piruvat va Krebs rooye ham chand `CO2` azad mikonand? In hame-ye karbon-haye glukoz ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اکسایش پیرووات: یکی برای هر پیرووات، و دو پیرووات داریم.",
+        "en": "Pyruvate oxidation: one per pyruvate, and there are two pyruvates.",
+        "tr": "Oksayesh-e piruvat: yeki baraye har piruvat, va do piruvat darim."
+       },
+       "math": "2 × 1 = 2"
+      },
+      {
+       "text": {
+        "fa": "کربس: دو تا در هر دور، و دو دور داریم.",
+        "en": "Krebs: two per turn, and there are two turns.",
+        "tr": "Krebs: do ta dar har dor, va do dor darim."
+       },
+       "math": "2 × 2 = 4"
+      },
+      {
+       "text": {
+        "fa": "جمع را با کربن‌های گلوکز مقایسه کن. چرا این مقایسه زیباست؟ چون نشان می‌دهد هر شش کربن گلوکز سرانجام به‌صورت `CO2` بیرون می‌رود، همان گازی که بازدم می‌کنیم.",
+        "en": "Compare the total with glucose's carbons. Why is this comparison neat? Because it shows that all six carbons of glucose finally leave as `CO2`, the gas we breathe out.",
+        "tr": "Jam' ra ba karbon-haye glukoz moghayese kon. Chera in moghayese zibast? Chon neshan midahad har shesh karbon-e glukoz saranjam be-soorat-e `CO2` biroon miravad, haman gazi ke bazdam mikonim."
+       },
+       "math": "2 + 4 = 6"
+      }
+     ],
+     "answer": {
+      "fa": "۶ `CO2`؛ بله، هر شش کربن گلوکز",
+      "en": "6 `CO2`; yes, all six carbons of glucose",
+      "tr": "6 `CO2`; bale, har shesh karbon-e glukoz"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اگزالواستات «چهارکربنه» است و استیل «دوکربنه»؛ سیتریک اسید «شش‌کربنه». اگزالواستات در پایان چرخه بازسازی می‌شود، مصرف نمی‌شود (آزمون دی ۱۴۰۱).",
+      "en": "Oxaloacetate is \"four-carbon\", acetyl \"two-carbon\" and citric acid \"six-carbon\". Oxaloacetate is regenerated at the end of the cycle, not used up (Dey 1401 paper).",
+      "tr": "Oksalo-asetat \"chahar-karbane\" ast va asetil \"do-karbane\"; sitrik asid \"shesh-karbane\". Oksalo-asetat dar payan-e charkhe bazsazi mishavad, masraf nemishavad (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "عدد هر دور را با عدد هر گلوکز قاطی نکن. یک گلوکز «دو» دور کربس دارد، پس همهٔ اعداد کربس را دو برابر کن.",
+      "en": "Do not mix up the numbers per turn with the numbers per glucose. One glucose gives \"two\" Krebs turns, so double every Krebs number.",
+      "tr": "Adad-e har dor ra ba adad-e har glukoz ghati nakon. Yek glukoz \"do\" dor-e Krebs darad, pas hame-ye a'dad-e Krebs ra do barabar kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 906
+    },
+    {
+     "session": "1401-Dey",
+     "number": 914
+    },
+    {
+     "session": "1398-Dey",
+     "number": 930
+    },
+    {
+     "session": "1400-Dey",
+     "number": 933
+    },
+    {
+     "session": "1400-Dey",
+     "number": 935
+    },
+    {
+     "session": "1401-Dey",
+     "number": 938
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 4,
+   "key": "bio-5-electron-chain",
+   "title": {
+    "fa": "زنجیرهٔ انتقال الکترون و ساخت اکسایشی",
+    "en": "The electron transport chain and oxidative ATP making",
+    "tr": "Zanjire-ye enteghal-e elektron va sakht-e oksayeshi"
+   },
+   "summary": {
+    "fa": "آب را پشت سد جمع کن، بعد بگذار از توربین بگذرد.",
+    "en": "Pile water up behind a dam, then let it run through the turbine.",
+    "tr": "Ab ra posht-e sad jam' kon, ba'd bogzar az toorbin begozarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سد برق‌آبی",
+      "en": "Understand first: the hydroelectric dam",
+      "tr": "Avval befahm: sad-e barq-abi"
+     },
+     "body": {
+      "fa": "یک سد برق‌آبی را تصور کن. پمپ‌ها آب را پشت سد بالا می‌برند. وقتی دریچه باز شود، آب با فشار برمی‌گردد و توربین را می‌چرخاند و برق می‌سازد. در راکیزه، کیف پول‌ها (`NADH` و `FADH2`) الکترون‌هایشان را به پروتئین‌های زنجیرهٔ روی غشای درونی می‌دهند. انرژی الکترون‌ها، که از پروتئینی به پروتئین دیگر می‌روند، صرف پمپ کردن پروتون (`H+`) از بخش داخلی به «فضای بین دو غشا» می‌شود (آزمون دی ۱۴۰۱). این فضا مخزن پشت سد است.",
+      "en": "Picture a hydroelectric dam. Pumps lift water up behind the dam. When a gate opens, the water rushes back, turns the turbine and makes electricity. In the mitochondrion, the wallets (`NADH` and `FADH2`) hand their electrons to the proteins of the chain on the inner membrane. The energy of the electrons, moving from one protein to the next, is used to pump protons (`H+`) from the matrix into the \"intermembrane space\" (Dey 1401 paper). That space is the reservoir behind the dam.",
+      "tr": "Yek sad-e barq-abi ra tasavvor kon. Pomp-ha ab ra posht-e sad bala mibarand. Vaghti dariche baz shavad, ab ba feshar barmigardad va toorbin ra micharkhanad va barq misazad. Dar rakize, kif-e pool-ha (`NADH` va `FADH2`) elektron-hayeshan ra be protein-haye zanjire-ye rooye ghesha-ye daroonie midahand. Enerzhi-ye elektron-ha, ke az proteini be protein-e digar miravand, sarf-e pomp kardan-e proton (`H+`) az bakhsh-e dakheli be \"faza-ye beyn-e do ghesha\" mishavad (azmoon-e Dey 1401). In faza makhzan-e posht-e sad ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "توربین و پذیرندهٔ نهایی",
+      "en": "The turbine and the final acceptor",
+      "tr": "Toorbin va pazirande-ye nahayi"
+     },
+     "body": {
+      "fa": "حالا توربین. پروتون‌ها فقط از یک راه می‌توانند به بخش داخلی برگردند: کانال آنزیمی «`ATP` ساز» (آزمون دی ۱۴۰۱). جریان پروتون‌ها این آنزیم را به کار می‌اندازد و `ADP` و فسفات به `ATP` تبدیل می‌شوند. در پایان زنجیره، الکترون‌ها باید جایی بروند؛ «اکسیژن» پذیرندهٔ نهایی است و با پروتون‌ها ترکیب می‌شود و آب می‌سازد (آزمون‌های دی ۱۴۰۰ و دی ۱۴۰۱). برای همین بدون اکسیژن، کل زنجیره مثل ترافیکی که خروجی ندارد، می‌ایستد.",
+      "en": "Now the turbine. Protons can return to the matrix by only one route: the enzyme channel \"`ATP` synthase\" (Dey 1401 paper). The flow of protons drives this enzyme, and `ADP` and phosphate become `ATP`. At the end of the chain the electrons must go somewhere; \"oxygen\" is the final acceptor and combines with protons to make water (Dey 1400 and Dey 1401 papers). That is why without oxygen the whole chain stops, like traffic with no exit.",
+      "tr": "Hala toorbin. Proton-ha faghat az yek rah mitavanand be bakhsh-e dakheli bargardand: kanal-e anzimi-ye \"`ATP` saz\" (azmoon-e Dey 1401). Jaryan-e proton-ha in anzim ra be kar miandazad va `ADP` va fosfat be `ATP` tabdil mishavand. Dar payan-e zanjire, elektron-ha bayad jayi beravand; \"oksizhen\" pazirande-ye nahayi ast va ba proton-ha tarkib mishavad va ab misazad (azmoon-haye Dey 1400 va Dey 1401). Baraye hamin bedoon-e oksizhen, kol-e zanjire mesl-e terafiki ke khorooji nadarad, miistad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " intermembrane space (much H+)\n   H+  H+  H+  H+  H+  H+  H+\n ==pump====pump====[ATP synthase]==\n    ^        ^          |  H+ flows\n electrons pass along   v  back\n matrix (little H+)  ADP+P -> ATP",
+     "caption": {
+      "fa": "پمپ‌ها پروتون را به فضای بین دو غشا می‌برند؛ بازگشت پروتون‌ها از `ATP` ساز، `ATP` می‌سازد.",
+      "en": "The pumps move protons into the intermembrane space; protons flowing back through `ATP` synthase make `ATP`.",
+      "tr": "Pomp-ha proton ra be faza-ye beyn-e do ghesha mibarand; bazgasht-e proton-ha az `ATP` saz, `ATP` misazad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرا یک کیف پول پرتر است؟",
+      "en": "Why is one wallet fuller?",
+      "tr": "Chera yek kif-e pool portar ast?"
+     },
+     "body": {
+      "fa": "چرا `NADH` بیشتر از `FADH2` می‌ارزد؟ `NADH` الکترون‌هایش را به اولین مجموعهٔ پروتئینی زنجیره می‌دهد، پس الکترون‌ها از همهٔ پمپ‌ها می‌گذرند. `FADH2` الکترون‌هایش را مستقیماً به «مجموعهٔ ۲» می‌دهد (آزمون خرداد ۱۴۰۱) که خودش پمپ نیست و پمپ اول را دور می‌زند. پروتون کمتری پمپ می‌شود، پس `ATP` کمتری ساخته می‌شود. برای همین `NADH` به ازای هر مولکول بیشترین `ATP` را پدید می‌آورد (آزمون خرداد ۱۴۰۱).",
+      "en": "Why is `NADH` worth more than `FADH2`? `NADH` gives its electrons to the first protein complex of the chain, so the electrons pass every pump. `FADH2` gives its electrons straight to \"complex II\" (Khordad 1401 paper), which is not a pump itself and skips the first pump. Fewer protons are pumped, so less `ATP` is made. That is why `NADH` yields the most `ATP` per molecule (Khordad 1401 paper).",
+      "tr": "Chera `NADH` bishtar az `FADH2` miarzad? `NADH` elektron-hayash ra be avvalin majmoo'e-ye proteini-ye zanjire midahad, pas elektron-ha az hame-ye pomp-ha migozarand. `FADH2` elektron-hayash ra mostaghiman be \"majmoo'e-ye 2\" midahad (azmoon-e Khordad 1401) ke khodash pomp nist va pomp-e avval ra dor mizanad. Proton-e kamtari pomp mishavad, pas `ATP`-e kamtari sakhte mishavad. Baraye hamin `NADH` be ezaye har molekool bishtarin `ATP` ra padid miavarad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " NADH  -> [I] -> [III] -> [IV] -> O2\n FADH2 -> [II] --^           |\n                    O2 + H+ -> water\n pumps H+:  I, III, IV\n II pumps none, so FADH2 gives\n less ATP than NADH",
+     "caption": {
+      "fa": "`NADH` از مجموعهٔ ۱ وارد می‌شود و از سه پمپ می‌گذرد؛ `FADH2` از مجموعهٔ ۲ وارد می‌شود و پمپ اول را جا می‌اندازد.",
+      "en": "`NADH` enters at complex I and passes three pumps; `FADH2` enters at complex II and misses the first pump.",
+      "tr": "`NADH` az majmoo'e-ye 1 vared mishavad va az se pomp migozarad; `FADH2` az majmoo'e-ye 2 vared mishavad va pomp-e avval ra ja miandazad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پذیرندهٔ نهایی الکترون در زنجیره چیست و چه می‌سازد؟ (آزمون‌های دی ۱۴۰۰ و دی ۱۴۰۱)",
+      "en": "Warm-up: what is the final electron acceptor of the chain, and what does it make? (Dey 1400 and Dey 1401 papers)",
+      "tr": "Garm kardan: pazirande-ye nahayi-ye elektron dar zanjire chist va che misazad? (azmoon-haye Dey 1400 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به ته زنجیره نگاه کن: الکترون‌ها به کسی می‌رسند که آن‌ها را بسیار قوی جذب می‌کند. اکسیژن همین کار را می‌کند.",
+        "en": "Look at the end of the chain: the electrons reach something that attracts them very strongly. Oxygen does exactly that.",
+        "tr": "Be tah-e zanjire negah kon: elektron-ha be kasi miresand ke an-ha ra besiyar ghavi jazb mikonad. Oksizhen hamin kar ra mikonad."
+       },
+       "math": "O2 + 4 e + 4 H+ → 2 H2O"
+      }
+     ],
+     "answer": {
+      "fa": "اکسیژن؛ با پروتون‌ها آب می‌سازد",
+      "en": "Oxygen; with protons it makes water",
+      "tr": "Oksizhen; ba proton-ha ab misazad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: پروتون‌ها به کدام فضا پمپ می‌شوند و از کدام کانال برمی‌گردند؟ (آزمون‌های دی ۱۴۰۱)",
+      "en": "Textbook and exam: into which space are protons pumped, and through which channel do they return? (Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: proton-ha be kodam faza pomp mishavand va az kodam kanal barmigardand? (azmoon-haye Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سد را به یاد بیاور: آب «پشت سد» جمع می‌شود. پشت سد در راکیزه فضای بین دو غشاست.",
+        "en": "Remember the dam: water piles up \"behind the dam\". Behind the dam in the mitochondrion is the intermembrane space.",
+        "tr": "Sad ra be yad biyavar: ab \"posht-e sad\" jam' mishavad. Posht-e sad dar rakize faza-ye beyn-e do ghesha-st."
+       }
+      },
+      {
+       "text": {
+        "fa": "آب فقط از توربین برمی‌گردد. توربین راکیزه `ATP` ساز است و بازگشت پروتون‌ها به بخش داخلی، انرژی ساختن `ATP` را می‌دهد.",
+        "en": "The water returns only through the turbine. The mitochondrion's turbine is `ATP` synthase, and the protons flowing back into the matrix give the energy to make `ATP`.",
+        "tr": "Ab faghat az toorbin barmigardad. Toorbin-e rakize `ATP` saz ast va bazgasht-e proton-ha be bakhsh-e dakheli, enerzhi-ye sakhtan-e `ATP` ra midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فضای بین دو غشا؛ برگشت از `ATP` ساز",
+      "en": "The intermembrane space; back through `ATP` synthase",
+      "tr": "Faza-ye beyn-e do ghesha; bargasht az `ATP` saz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سم سیانید آخرین گام زنجیره (رساندن الکترون به اکسیژن) را می‌بندد. چه زنجیره‌ای از پیامدها رخ می‌دهد؟",
+      "en": "Exam twist: cyanide poison blocks the last step of the chain (handing electrons to oxygen). What chain of consequences follows?",
+      "tr": "Pich-e emtehani: sam-e siyanid akharin gam-e zanjire (resandan-e elektron be oksizhen) ra mibandad. Che zanjire-i az payamad-ha rokh midahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: الکترون‌ها خروجی ندارند، پس کل زنجیره مثل ترافیک قفل می‌شود و پمپ‌ها می‌ایستند.",
+        "en": "Step one: the electrons have no exit, so the whole chain jams like traffic and the pumps stop.",
+        "tr": "Ghadam-e avval: elektron-ha khorooji nadarand, pas kol-e zanjire mesl-e terafik ghofl mishavad va pomp-ha miistand."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: پروتونی پمپ نمی‌شود، پس سد خالی می‌شود و `ATP` ساز دیگر `ATP` نمی‌سازد.",
+        "en": "Step two: no protons are pumped, so the dam empties and `ATP` synthase stops making `ATP`.",
+        "tr": "Ghadam-e dovvom: protoni pomp nemishavad, pas sad khali mishavad va `ATP` saz digar `ATP` nemisazad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: `NADH` جایی برای خالی کردن کیفش ندارد، پس `NAD+` تمام می‌شود و کربس هم می‌ایستد. یاخته فقط با ۲ `ATP` قندکافت می‌ماند؛ برای همین سیانید کشنده است.",
+        "en": "Step three, the real twist: `NADH` has nowhere to empty its wallet, so `NAD+` runs out and the Krebs cycle stops too. The cell is left with only glycolysis's 2 `ATP`; that is why cyanide is deadly.",
+        "tr": "Ghadam-e sevvom, pich-e asli: `NADH` jayi baraye khali kardan-e kifash nadarad, pas `NAD+` tamam mishavad va Krebs ham miistad. Yakhte faghat ba 2 `ATP`-e ghand-kaft mimanad; baraye hamin siyanid koshande ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "زنجیره، پمپ‌ها، `ATP` ساز و کربس همه می‌ایستند؛ فقط قندکافت می‌ماند",
+      "en": "The chain, the pumps, `ATP` synthase and the Krebs cycle all stop; only glycolysis is left",
+      "tr": "Zanjire, pomp-ha, `ATP` saz va Krebs hame miistand; faghat ghand-kaft mimanad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پروتون‌ها به «فضای بین دو غشا» پمپ می‌شوند، نه به بخش داخلی. بخش داخلی جایی است که از آن پمپ می‌شوند و به آن برمی‌گردند.",
+      "en": "Protons are pumped into the \"intermembrane space\", not into the matrix. The matrix is where they are pumped from and where they return to.",
+      "tr": "Proton-ha be \"faza-ye beyn-e do ghesha\" pomp mishavand, na be bakhsh-e dakheli. Bakhsh-e dakheli jayi ast ke az an pomp mishavand va be an barmigardand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اکسیژن الکترون می‌گیرد و آب می‌سازد؛ `CO2` بازدم ما از اکسیژن نیست، از کربن‌های گلوکز در کربس و اکسایش پیرووات است.",
+      "en": "Oxygen takes electrons and makes water; the `CO2` we breathe out does not come from oxygen, it comes from glucose's carbons in the Krebs cycle and pyruvate oxidation.",
+      "tr": "Oksizhen elektron migirad va ab misazad; `CO2`-e bazdam-e ma az oksizhen nist, az karbon-haye glukoz dar Krebs va oksayesh-e piruvat ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 912
+    },
+    {
+     "session": "1401-Dey",
+     "number": 921
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 923
+    },
+    {
+     "session": "1401-Dey",
+     "number": 927
+    },
+    {
+     "session": "1401-Dey",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 5,
+   "key": "bio-5-fermentation",
+   "title": {
+    "fa": "تخمیر: وقتی اکسیژن نیست",
+    "en": "Fermentation: when there is no oxygen",
+    "tr": "Takhmir: vaghti oksizhen nist"
+   },
+   "summary": {
+    "fa": "کیف پول‌ها را خالی کن تا صرافی کوچک بسته نشود.",
+    "en": "Empty the wallets so the small money changer does not close.",
+    "tr": "Kif-e pool-ha ra khali kon ta sarrafi-ye koochak baste nashavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کیسه‌های خالی",
+      "en": "Understand first: the empty bags",
+      "tr": "Avval befahm: kise-haye khali"
+     },
+     "body": {
+      "fa": "بدون اکسیژن، زنجیره و کربس می‌ایستند و فقط قندکافت می‌ماند. ولی قندکافت هم یک مشکل دارد: برای ساختن `NADH` به `NAD+` نیاز دارد. وقتی همهٔ `NAD+`‌ها به `NADH` تبدیل شوند، قندکافت هم می‌ایستد، مثل صندوقی که کیسهٔ خالی برای سکه‌ها ندارد. «تخمیر» راه حل است: الکترون‌های `NADH` را به پیرووات (یا مشتق آن) می‌دهد تا `NAD+` بازسازی شود (آزمون خرداد ۱۴۰۱). تخمیر خودش `ATP` نمی‌سازد؛ فقط قندکافت را زنده نگه می‌دارد.",
+      "en": "Without oxygen the chain and the Krebs cycle stop, and only glycolysis is left. But glycolysis has a problem too: it needs `NAD+` to make `NADH`. When all the `NAD+` has become `NADH`, glycolysis stops as well, like a till with no empty bags left for the coins. \"Fermentation\" is the solution: it gives the electrons of `NADH` to pyruvate (or something made from it) so that `NAD+` is regenerated (Khordad 1401 paper). Fermentation makes no `ATP` itself; it only keeps glycolysis alive.",
+      "tr": "Bedoon-e oksizhen, zanjire va Krebs miistand va faghat ghand-kaft mimanad. Vali ghand-kaft ham yek moshkel darad: baraye sakhtan-e `NADH` be `NAD+` niyaz darad. Vaghti hame-ye `NAD+`-ha be `NADH` tabdil shavand, ghand-kaft ham miistad, mesl-e sandooghi ke kise-ye khali baraye sekke-ha nadarad. \"Takhmir\" rah-e hal ast: elektron-haye `NADH` ra be piruvat (ya moshtagh-e an) midahad ta `NAD+` bazsazi shavad (azmoon-e Khordad 1401). Takhmir khodash `ATP` nemisazad; faghat ghand-kaft ra zende negah midarad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو راه تخمیر",
+      "en": "Two kinds of fermentation",
+      "tr": "Do rah-e takhmir"
+     },
+     "body": {
+      "fa": "دو نوع تخمیر در کتاب هست. «تخمیر لاکتیکی» در ماهیچه‌های انسان هنگام ورزش سنگین و در باکتری‌های ماست‌ساز: پیرووات مستقیماً الکترون‌های `NADH` را می‌گیرد و به لاکتات سه‌کربنه تبدیل می‌شود (آزمون دی ۱۴۰۱)؛ هیچ `CO2` آزاد نمی‌شود. «تخمیر الکلی» در مخمرها: پیرووات اول یک `CO2` از دست می‌دهد و به اتانال دوکربنه تبدیل می‌شود، بعد اتانال الکترون‌های `NADH` را می‌گیرد و اتانول می‌شود (آزمون دی ۱۴۰۱). همان `CO2` است که خمیر نان را ور می‌آورد (آزمون خرداد ۱۴۰۱).",
+      "en": "The textbook has two kinds of fermentation. \"Lactic acid fermentation\" in human muscles during hard exercise and in yogurt-making bacteria: pyruvate takes the electrons of `NADH` directly and becomes three-carbon lactate (Dey 1401 paper); no `CO2` is released. \"Alcoholic fermentation\" in yeast: pyruvate first loses one `CO2` and becomes two-carbon ethanal, then the ethanal takes the electrons of `NADH` and becomes ethanol (Dey 1401 paper). That `CO2` is what makes bread dough rise (Khordad 1401 paper).",
+      "tr": "Do no' takhmir dar ketab hast. \"Takhmir-e laktiki\" dar mahiche-haye ensan hengam-e varzesh-e sangin va dar bakteri-haye mast-saz: piruvat mostaghiman elektron-haye `NADH` ra migirad va be laktat-e se-karbane tabdil mishavad (azmoon-e Dey 1401); hich `CO2` azad nemishavad. \"Takhmir-e alkoli\" dar makhmar-ha: piruvat avval yek `CO2` az dast midahad va be etanal-e do-karbane tabdil mishavad, ba'd etanal elektron-haye `NADH` ra migirad va etanol mishavad (azmoon-e Dey 1401). Haman `CO2` ast ke khamir-e nan ra var miavarad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " glucose -> 2 pyruvate\n   glycolysis: +2 ATP, +2 NADH\n\n with O2: -> mitochondrion\n          (Krebs + chain, ~30 ATP)\n no O2, muscle (lactic):\n  pyruvate + NADH -> lactate\n                  + NAD+\n no O2, yeast (alcoholic):\n  pyruvate -> CO2 + ethanal\n  ethanal + NADH -> ethanol\n                  + NAD+",
+     "caption": {
+      "fa": "مسیرهای هوازی و بی‌هوازی پس از قندکافت. هر دو تخمیر `NAD+` را بازسازی می‌کنند.",
+      "en": "The aerobic and anaerobic routes after glycolysis. Both fermentations regenerate `NAD+`.",
+      "tr": "Masir-haye havazi va bi-havazi pas az ghand-kaft. Har do takhmir `NAD+` ra bazsazi mikonand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در تخمیر الکلی مخمر، کدام گاز خمیر نان را ور می‌آورد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: in alcoholic fermentation by yeast, which gas makes bread dough rise? (Khordad 1401 paper)",
+      "tr": "Garm kardan: dar takhmir-e alkoli-ye makhmar, kodam gaz khamir-e nan ra var miavarad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کربن‌ها را دنبال کن: پیرووات سه‌کربنه به اتانال دوکربنه تبدیل می‌شود. کربن سوم باید به شکل یک گاز بیرون برود.",
+        "en": "Follow the carbons: three-carbon pyruvate becomes two-carbon ethanal. The third carbon must leave as a gas.",
+        "tr": "Karbon-ha ra donbal kon: piruvat-e se-karbane be etanal-e do-karbane tabdil mishavad. Karbon-e sevvom bayad be shekl-e yek gaz biroon beravad."
+       },
+       "math": "3C → 2C + CO2"
+      }
+     ],
+     "answer": {
+      "fa": "کربن دی‌اکسید",
+      "en": "Carbon dioxide",
+      "tr": "Karbon di-oksid"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در تخمیر لاکتیکی، چه ترکیبی کاهش می‌یابد و محصول نهایی چیست؟ (آزمون‌های خرداد ۱۴۰۱ و دی ۱۴۰۱)",
+      "en": "Textbook and exam: in lactic acid fermentation, which compound is reduced, and what is the final product? (Khordad 1401 and Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar takhmir-e laktiki, che tarkibi kahesh miyabad va mahsool-e nahayi chist? (azmoon-haye Khordad 1401 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«کاهش» یعنی الکترون گرفتن. چه کسی الکترون‌های `NADH` را می‌گیرد؟ خود پیرووات، بی‌آنکه کربنی از دست بدهد.",
+        "en": "\"Reduction\" means taking electrons. Who takes the electrons of `NADH`? Pyruvate itself, without losing any carbon.",
+        "tr": "\"Kahesh\" ya'ni elektron gereftan. Che kasi elektron-haye `NADH` ra migirad? Khod-e piruvat, bi-anke karboni az dast bedahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پیرووات الکترون می‌گیرد و لاکتات می‌شود؛ هنوز سه کربن دارد. همزمان `NAD+` آزاد می‌شود تا قندکافت ادامه یابد.",
+        "en": "Pyruvate takes the electrons and becomes lactate; it still has three carbons. At the same time `NAD+` is freed so glycolysis can go on.",
+        "tr": "Piruvat elektron migirad va laktat mishavad; hanooz se karbon darad. Hamzaman `NAD+` azad mishavad ta ghand-kaft edame yabad."
+       },
+       "math": "3C → 3C"
+      }
+     ],
+     "answer": {
+      "fa": "پیرووات کاهش می‌یابد؛ محصول لاکتات است",
+      "en": "Pyruvate is reduced; the product is lactate",
+      "tr": "Piruvat kahesh miyabad; mahsool laktat ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مخمر در یک ظرف دربسته اکسیژنش تمام می‌شود. برای ساختن همان مقدار `ATP`، تقریباً چند برابر گلوکز باید مصرف کند؟",
+      "en": "Exam twist: yeast in a sealed jar runs out of oxygen. To make the same amount of `ATP`, roughly how many times more glucose must it use?",
+      "tr": "Pich-e emtehani: makhmar dar yek zarf-e darbaste oksizhenash tamam mishavad. Baraye sakhtan-e haman meghdar `ATP`, taghriban chand barabar glukoz bayad masraf konad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: تخمیر هیچ `ATP` اضافه‌ای نمی‌سازد. پس سود هر گلوکز فقط همان ۲ `ATP` قندکافت است.",
+        "en": "The twist: fermentation makes no extra `ATP`. So the gain per glucose is only glycolysis's 2 `ATP`.",
+        "tr": "Pich-e emtehan: takhmir hich `ATP`-e ezafe-i nemisazad. Pas sood-e har glukoz faghat haman 2 `ATP`-e ghand-kaft ast."
+       },
+       "math": "2"
+      },
+      {
+       "text": {
+        "fa": "با اکسیژن حدود ۳۰ `ATP` می‌گرفت. نسبت را حساب کن.",
+        "en": "With oxygen it got about 30 `ATP`. Work out the ratio.",
+        "tr": "Ba oksizhen hodood-e 30 `ATP` migereft. Nesbat ra hesab kon."
+       },
+       "math": "30 / 2 = 15"
+      },
+      {
+       "text": {
+        "fa": "نتیجه: گلوکز ظرف خیلی سریع‌تر تمام می‌شود و اتانول جمع می‌شود. همین کمبود `ATP` است که ماهیچهٔ بی‌اکسیژن را هم زود خسته می‌کند.",
+        "en": "The result: the glucose in the jar runs out much faster and ethanol builds up. The same shortage of `ATP` is why a muscle without oxygen tires quickly.",
+        "tr": "Natije: glukoz-e zarf kheyli sari'-tar tamam mishavad va etanol jam' mishavad. Hamin kambood-e `ATP` ast ke mahiche-ye bi-oksizhen ra ham zood khaste mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "حدود ۱۵ برابر",
+      "en": "About 15 times as much",
+      "tr": "Hodood-e 15 barabar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تخمیر لاکتیکی `CO2` آزاد «نمی‌کند»؛ فقط تخمیر الکلی `CO2` دارد. اگر سؤال گفت «گاز آزاد شد»، تخمیر الکلی است.",
+      "en": "Lactic acid fermentation does \"not\" release `CO2`; only alcoholic fermentation does. If the question says \"a gas was released\", it is alcoholic fermentation.",
+      "tr": "Takhmir-e laktiki `CO2` azad \"nemikonad\"; faghat takhmir-e alkoli `CO2` darad. Agar so'al goft \"gaz azad shod\", takhmir-e alkoli ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هدف تخمیر ساختن `ATP` نیست؛ هدفش بازسازی `NAD+` است تا قندکافت ادامه یابد. همهٔ `ATP` تخمیر از قندکافت می‌آید.",
+      "en": "The purpose of fermentation is not to make `ATP`; it is to regenerate `NAD+` so that glycolysis can continue. All the `ATP` of fermentation comes from glycolysis.",
+      "tr": "Hadaf-e takhmir sakhtan-e `ATP` nist; hadafash bazsazi-ye `NAD+` ast ta ghand-kaft edame yabad. Hame-ye `ATP`-e takhmir az ghand-kaft miayad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 910
+    },
+    {
+     "session": "1401-Dey",
+     "number": 931
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1401-Dey",
+     "number": 945
+    }
+   ]
+  }
+ ]
+}
