@@ -193,6 +193,13 @@ SHA-256 checksums stay exact.
   way. A pack that re-files questions this way must say `"format": 9`, so
   older apps (which would show the domains as lessons) wait for the update.
   Pack 151 re-files all 96 Persian questions and adds Domains 2–3.
+- **Format 10** (app 3.16.5+) does the same for **Arabic**: Domain 1
+  Grammar (inna and its sisters, the la of absolute negation, augmented
+  verb forms), Domain 2 Vocabulary and Sayings (wisdom sayings, the science
+  text), Domain 3 Quranic Verses, with the surah as detail where a verse is
+  found in exactly one surah (`"Domain 3: Quranic Verses (Surah an-Naba')"`).
+  A pack that re-files Arabic this way must say `"format": 10`. Pack 154
+  re-files all 158 Arabic questions and adds the three grammar units.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,

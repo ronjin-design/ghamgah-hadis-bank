@@ -276,3 +276,5 @@ not named here, unused words from the Arabic lesson texts, Math chapter 6).
 - Pack 152 (2026-11-18, format 9): Persian Literature 3 Domain 1 (Linguistic) Master Tutor, 6 units by strategy (twin word 16, scene/elimination 15, Arabic roots and patterns 19, old Persian and poetic words 10, spelling look-alike letters 12, hamza/ain and homophones 7), all 79 Domain 1 Qs. PERSIAN LESSONS COMPLETE: 11 units, 96/96 questions linked once.
 
 - Pack 153 (2026-11-18, format 9): Persian Pocket Tutor glossary, 96 entries = every Persian Codex term (96 fa / 96 en / 96 tr; keyword lists already aligned, no corrections needed), each linked to its unit. PERSIAN LITERATURE 3 = lessons + full glossary.
+
+- Pack 154 (2026-11-18, format 10, app 3.16.5): Arabic 3 re-filed by domain (all 158 Qs: Domain 1 Grammar 19, Domain 2 Vocabulary and Sayings 53 = 41 sayings + 12 science text, Domain 3 Quranic Verses 86 with surah detail: Naba 31, Abasa 16, Naziat 14, Mutaffifin 10, Infitar 3, Takwir 2, 6 single-surah others, 4 multi-surah) + Domain 1 Master Tutor (inna and sisters 8, la of absolute negation 5, augmented verb forms 6 incl. all 8 babs).
