@@ -1,0 +1,705 @@
+{
+ "version": 159,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Religion and Life",
+   "chapter": 6,
+   "unit": 1,
+   "key": "rel-6-divine-laws",
+   "title": {
+    "fa": "سنت‌های خداوند در زندگی",
+    "en": "Divine laws (sonnat) in life",
+    "tr": "Sonnat-haye khoda dar zendegi"
+   },
+   "summary": {
+    "fa": "خدا با همه قانون‌مند رفتار می‌کند: برخی سنت‌ها برای همه‌اند، برخی ویژهٔ نیکوکاران و برخی ویژهٔ گناهکاران سرکش.",
+    "en": "God deals with everyone by fixed laws: some are for all, some for the righteous, some for defiant sinners.",
+    "tr": "Khoda ba hame ghanoon-mand raftar mikonad: barkhi sonnat-ha baraye hame-and, barkhi vizhe-ye nikookaran va barkhi vizhe-ye gonahkaran-e sarkesh."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: قانون‌هایی مثل قانون طبیعت",
+      "en": "Understand first: laws like the laws of nature",
+      "tr": "Avval befahm: ghanoon-hayi mesl-e ghanoon-e tabi'at"
+     },
+     "body": {
+      "fa": "«سنت» یعنی شیوهٔ ثابت رفتار خدا با انسان‌ها؛ مثل قانون‌های طبیعت که برای همه یکسان کار می‌کنند. «سنت ابتلا»: زندگی پر از آزمایش‌های پیاپی است تا استعدادهای انسان شکوفا شود. «سنت امداد عام»: همهٔ انسان‌ها، چه نیکوکار و چه بدکار، بر پایهٔ تلاش خودشان از امکانات دنیا بهره می‌برند. «سنت توفیق» (امداد خاص): کسانی که در راه بندگی گام برمی‌دارند، یاری ویژه، هدایت بیشتر و پاداش معنوی می‌گیرند.",
+      "en": "A 'sonnat' is God's fixed way of dealing with people, like the laws of nature that work the same for everyone. The 'law of trial' (ebtela): life is full of continuous trials so that human talents flourish. 'Universal divine help' (emdad-e 'am): every person, good or bad, gets the means of this world according to their own effort. 'Divine success' (towfiq, special help): those who walk the path of worship receive special help, extra guidance and spiritual reward.",
+      "tr": "'Sonnat' ya'ni shive-ye sabet-e raftar-e khoda ba ensan-ha; mesl-e ghanoon-haye tabi'at ke baraye hame yeksan kar mikonand. 'Sonnat-e ebtela': zendegi por az azmayesh-haye peyapey ast ta este'dad-haye ensan shekoofa shavad. 'Sonnat-e emdad-e am': hame-ye ensan-ha, che nikookar va che badkar, bar paye-ye talash-e khodeshan az emkanat-e donya bahre mibarand. 'Sonnat-e towfigh' (emdad-e khass): kasani ke dar rah-e bandegi gam bar-midarand, yari-ye vizhe, hedayat-e bishtar va padash-e ma'navi migirand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " FOR EVERYONE\n   ebtela    trials -> growth\n   emdad     means, by effort\n FOR THOSE ON THE PATH\n   towfiq    special help\n FOR DEFIANT SINNERS\n   imla      respite, more sin\n   estedraj  blessing on\n             blessing, then\n             a sudden fall",
+     "caption": {
+      "fa": "سنت‌ها را بر پایهٔ اینکه برای چه کسانی است دسته‌بندی کن.",
+      "en": "Sort the laws by whom they are for.",
+      "tr": "Sonnat-ha ra bar paye-ye inke baraye che kasani ast daste-bandi kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "املا یا استدراج؟",
+      "en": "Imla or estedraj?",
+      "tr": "Imla ya estedraj?"
+     },
+     "body": {
+      "fa": "دو سنت ویژهٔ گناهکاران لجوج است. «سنت املا»: به گناهکاران سرکش مهلت داده می‌شود تا بر گناه خود بیفزایند و بار سنگین‌تری بردارند. «سنت استدراج»: مهلت پشت مهلت و غرق شدن در نعمت‌ها، تا ناگهان سقوط کنند؛ مثل کسی که پله‌پله و بی‌خبر به لبهٔ پرتگاه نزدیک می‌شود. نشانهٔ تشخیص در پرسش‌ها: «مهلت برای افزودن گناه» یعنی املا؛ «نعمت پیاپی و سقوط ناگهانی» یعنی استدراج.",
+      "en": "Two laws are for stubborn sinners. The 'law of respite' (imla): defiant sinners are given time, so that they add to their sins and carry a heavier load. The 'law of gradual entrapment' (estedraj): respite after respite and drowning in blessings, until they suddenly fall, like someone stepping unawares, stair by stair, toward a cliff edge. The tell in the questions: 'time to add to their sins' is imla; 'blessing after blessing, then a sudden fall' is estedraj.",
+      "tr": "Do sonnat vizhe-ye gonahkaran-e lajooj ast. 'Sonnat-e imla': be gonahkaran-e sarkesh mohlat dade mishavad ta bar gonah-e khod biafzayand va bar-e sangin-tari bardarand. 'Sonnat-e estedraj': mohlat posht-e mohlat va gharg shodan dar ne'mat-ha, ta nagahan soghoot konand; mesl-e kasi ke pelle-pelle va bi-khabar be labe-ye partgah nazdik mishavad. Neshane-ye tashkhis dar porsesh-ha: 'mohlat baraye afzoodan-e gonah' ya'ni imla; 'ne'mat-e peyapey va soghoot-e nagahani' ya'ni estedraj."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "for all: ebtela, emdad ;  for the path: towfiq ;  for defiance: imla, estedraj",
+     "caption": {
+      "fa": "سه گروه سنت‌ها",
+      "en": "The three groups of laws",
+      "tr": "Se gorooh-e sonnat-ha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام سنت الهی در کتاب دین و زندگی ۳، به آزمایش‌های پیاپی زندگی برای شکوفا شدن استعدادهای انسان اشاره دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: which divine law in the Religion and Life 3 book refers to the continuous trials of life through which human talents flourish? (Dey 1400 paper)",
+      "tr": "Garm kardan: kodam sonnat-e elahi dar ketab-e Din va Zendegi 3, be azmayesh-haye peyapey-e zendegi baraye shekoofa shodan-e este'dad-haye ensan eshare darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "واژهٔ کلیدی «آزمایش» است؛ «ابتلا» یعنی آزمودن.",
+        "en": "The key word is 'trials'; 'ebtela' means testing.",
+        "tr": "Vazhe-ye kelidi 'azmayesh' ast; 'ebtela' ya'ni azmoodan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سنت ابتلا",
+      "en": "The law of trial (ebtela)",
+      "tr": "Sonnat-e ebtela"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: بهره‌مند کردن همهٔ انسان‌ها، چه نیکوکار و چه بدکار، از امکانات دنیا بر پایهٔ تلاش خودشان، کدام سنت الهی است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: giving every person, good or bad, the means of this world according to their own effort is which divine law? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: bahre-mand kardan-e hame-ye ensan-ha, che nikookar va che badkar, az emkanat-e donya bar paye-ye talash-e khodeshan, kodam sonnat-e elahi ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«چه نیکوکار و چه بدکار» یعنی برای همه است؛ پس توفیق (ویژهٔ نیکان) نیست.",
+        "en": "'Good or bad' means it is for all; so it is not towfiq (for the righteous).",
+        "tr": "'Che nikookar va che badkar' ya'ni baraye hame ast; pas towfigh (vizhe-ye nikan) nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "«امکانات دنیا بر پایهٔ تلاش» یعنی یاری همگانی: امداد عام.",
+        "en": "'Worldly means by effort' is help for everyone: universal help.",
+        "tr": "'Emkanat-e donya bar paye-ye talash' ya'ni yari-ye hamegani: emdad-e am."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سنت امداد عام",
+      "en": "Universal divine help (emdad-e 'am)",
+      "tr": "Sonnat-e emdad-e am"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: مهلت دادن پیاپی به گناهکارانِ لجوج و غرق کردن آنان در نعمت‌ها تا ناگهان سقوط کنند، کدام سنت الهی است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: giving stubborn sinners respite after respite and drowning them in blessings until they suddenly fall is which divine law? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: mohlat dadan-e peyapey be gonahkaran-e lajooj va gharg kardan-e anan dar ne'mat-ha ta nagahan soghoot konand, kodam sonnat-e elahi ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «مهلت» آدم را به سوی املا می‌برد (آزمون دی ۱۴۰۰ املا را جداگانه پرسیده بود).",
+        "en": "The twist: 'respite' pulls you toward imla (the Dey 1400 paper asked about imla separately).",
+        "tr": "Pich-e emtehan: 'mohlat' adam ra be sooy-e imla mibarad (azmoon-e Dey 1400 imla ra jodagane porside bood)."
+       }
+      },
+      {
+       "text": {
+        "fa": "اما «غرق در نعمت‌ها» و «سقوط ناگهانی» نشانهٔ استدراج است: پله‌پله پایین بردن.",
+        "en": "But 'drowning in blessings' and 'a sudden fall' mark estedraj: being drawn down step by step.",
+        "tr": "Amma 'gharg dar ne'mat-ha' va 'soghoot-e nagahani' neshane-ye estedraj ast: pelle-pelle payin bordan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سنت استدراج",
+      "en": "Gradual entrapment (estedraj)",
+      "tr": "Sonnat-e estedraj"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نعمت‌های دنیا نشانهٔ خشنودی خدا نیست: امداد عام به بدکاران هم می‌رسد و استدراج هم با نعمت همراه است.",
+      "en": "Worldly blessings are not a sign of God's pleasure: universal help reaches the wicked too, and estedraj comes wrapped in blessings.",
+      "tr": "Ne'mat-haye donya neshane-ye khoshnoodi-ye khoda nist: emdad-e am be badkaran ham miresad va estedraj ham ba ne'mat hamrah ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "توفیق را با امداد عام اشتباه نکن: توفیق یاری ویژه برای کسانی است که در راه بندگی‌اند.",
+      "en": "Do not confuse towfiq with universal help: towfiq is special help for those on the path of worship.",
+      "tr": "Towfigh ra ba emdad-e am eshtebah nakon: towfigh yari-ye vizhe baraye kasani ast ke dar rah-e bandegi-and."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 950
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 956
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1400-Dey",
+     "number": 960
+    },
+    {
+     "session": "1400-Dey",
+     "number": 963
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 7,
+   "unit": 1,
+   "key": "rel-7-return",
+   "title": {
+    "fa": "بازگشت: گناه، توبه و آمرزش",
+    "en": "The Return: sin, repentance and forgiveness",
+    "tr": "Bazgasht: gonah, tobe va amorzesh"
+   },
+   "summary": {
+    "fa": "گناه اثر طبیعی دارد؛ توبه با پشیمانی آغاز می‌شود و با جبران پذیرفته می‌شود؛ میوه‌اش آمرزش است.",
+    "en": "Sin has natural effects; repentance starts with regret and is accepted with making amends; its fruit is forgiveness.",
+    "tr": "Gonah asar-e tabi'i darad; tobe ba pashimani aghaz mishavad va ba jobran paziroofte mishavad; mive-ash amorzesh ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دستی که در آتش می‌سوزد",
+      "en": "Understand first: a hand that burns in fire",
+      "tr": "Avval befahm: dasti ke dar atash misoozad"
+     },
+     "body": {
+      "fa": "درس هفتم با «آثار طبیعی (وضعی) گناه» شروع می‌شود: تیره شدن دل، از دست رفتن نشاط روحی و محرومیت از توفیق. این آثار خودبه‌خود در پی گناه می‌آیند، مثل سوختن دست در آتش؛ کسی آنها را حکم نمی‌کند. راه بازگشت «توبه» است: پشیمانی قلبی از گناهان گذشته همراه با تصمیم قطعی بر بازگشت به راه بندگی خدا.",
+      "en": "Lesson seven begins with the 'natural effects of sin': the darkening of the heart, loss of spiritual vigour and being deprived of divine help. They follow sin by themselves, like a hand burning in fire; nobody passes them as a sentence. The way back is 'repentance' (tawba): heartfelt regret for past sins together with a firm decision to return to God's path.",
+      "tr": "Dars-e haftom ba 'asar-e tabi'i (vaz'i)-ye gonah' shoroo mishavad: tire shodan-e del, az dast raftan-e neshat-e roohi va mahroomiyat az towfigh. In asar khod-be-khod dar pey-e gonah miayand, mesl-e sookhtan-e dast dar atash; kasi anha ra hokm nemikonad. Rah-e bazgasht 'tobe' ast: pashimani-ye ghalbi az gonahan-e gozashte hamrah ba tasmim-e ghat'i bar bazgasht be rah-e bandegi-ye khoda."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " SIN -> natural effects\n   dark heart, lost vigour,\n   no divine help (towfiq)\n TAWBA, step by step\n   1 regret  (the first step)\n   2 firm decision to return\n   3 reform, make good wrongs\n -> maghfirat: record wiped",
+     "caption": {
+      "fa": "گناه، اثر طبیعی، توبه در سه گام و میوهٔ آن: آمرزش.",
+      "en": "Sin, its natural effects, repentance in three steps, and its fruit: forgiveness.",
+      "tr": "Gonah, asar-e tabi'i, tobe dar se gam va mive-ye an: amorzesh."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گام نخست، شرط پذیرش و میوهٔ توبه",
+      "en": "First step, condition and fruit of repentance",
+      "tr": "Gam-e nakhost, shart-e paziresh va mive-ye tobe"
+     },
+     "body": {
+      "fa": "نخستین و بنیادی‌ترین گام توبه «پشیمانی از گناه» است. اما برای پذیرفته شدن توبه و پاک شدن اثر گناه، «اصلاح و جبران رفتارهای گذشته» لازم است؛ تکرار زبانی چند ذکر کافی نیست. مهم‌ترین ثمرهٔ توبهٔ واقعی «آمرزش (مغفرت) الهی» است که گناهان را از نامهٔ عمل انسان پاک می‌کند.",
+      "en": "The first and most basic step of repentance is 'regret for the sin'. But for repentance to be accepted and the effect of sin wiped away, 'reforming oneself and making good past wrongs' is required; repeating a few phrases is not enough. The chief fruit of true repentance is 'divine forgiveness' (maghfirat), which wipes the sins from a person's record of deeds.",
+      "tr": "Nakhostin va bonyadi-tarin gam-e tobe 'pashimani az gonah' ast. Amma baraye paziroofte shodan-e tobe va pak shodan-e asar-e gonah, 'eslah va jobran-e raftar-haye gozashte' lazem ast; tekrar-e zabani-ye chand zekr kafi nist. Mohem-tarin samare-ye tobe-ye vaghe'i 'amorzesh (maghferat)-e elahi' ast ke gonahan ra az name-ye amal-e ensan pak mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "regret (first)  +  decision  +  making amends (condition)  ->  forgiveness",
+     "caption": {
+      "fa": "فرمول توبهٔ پذیرفته",
+      "en": "The formula of accepted repentance",
+      "tr": "Formool-e tobe-ye paziroofte"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پشیمانی قلبی از گناهان گذشته همراه با تصمیم قطعی بر بازگشت به راه بندگی خدا، چه نام دارد؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: heartfelt regret for past sins together with a firm decision to return to God's path is called what? (Dey 1402 paper)",
+      "tr": "Garm kardan: pashimani-ye ghalbi az gonahan-e gozashte hamrah ba tasmim-e ghat'i bar bazgasht be rah-e bandegi-ye khoda, che nam darad? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«بازگشت» معنای واژهٔ «توبه» است؛ نام درس هم همین است.",
+        "en": "'Return' is what 'tawba' means; it is also the lesson's title.",
+        "tr": "'Bazgasht' ma'na-ye vazhe-ye 'tobe' ast; nam-e dars ham hamin ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "توبه",
+      "en": "Repentance (tawba)",
+      "tr": "Tobe"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نخستین و بنیادی‌ترین گام توبهٔ واقعی کدام است؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: what is the first and most basic step of true repentance? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nakhostin va bonyadi-tarin gam-e tobe-ye vaghe'i kodam ast? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گزینه‌های «جبران حقوق مردم» و «استغفار به زبان» هم به توبه مربوط‌اند، ولی هیچ‌کدام بی پشیمانی آغاز نمی‌شود.",
+        "en": "The options 'repaying people's rights' and 'asking forgiveness aloud' belong to repentance too, but neither starts without regret.",
+        "tr": "Gozine-haye 'jobran-e hoghoogh-e mardom' va 'esteghfar be zaban' ham be tobe marboot-and, vali hich-kodam bi pashimani aghaz nemishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پشیمانی از گناه",
+      "en": "Regret for the sin",
+      "tr": "Pashimani az gonah"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تیره شدن دل، از دست رفتن نشاط روحی و محرومیت از توفیق، که خودبه‌خود در پی گناه می‌آید، کدام است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: the darkening of the heart, loss of spiritual vigour and being deprived of divine help, which follow sin of themselves, are what? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: tire shodan-e del, az dast raftan-e neshat-e roohi va mahroomiyat az towfigh, ke khod-be-khod dar pey-e gonah miayad, kodam ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «کیفرهای قانونی دادگاه» هم «پیامد گناه» است، ولی کسی آن را صادر می‌کند.",
+        "en": "The twist: the option 'legal punishments by a court' is also a result of sin, but someone issues it.",
+        "tr": "Pich-e emtehan: gozine-ye 'keyfar-haye ghanooni-ye dadgah' ham 'payamad-e gonah' ast, vali kasi an ra sader mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "واژهٔ «خودبه‌خود» کلید است: اثری که از خود گناه می‌روید، طبیعی (وضعی) است.",
+        "en": "The word 'of themselves' is the key: an effect that grows from the sin itself is natural.",
+        "tr": "Vazhe-ye 'khod-be-khod' kelid ast: asari ke az khod-e gonah miruyad, tabi'i (vaz'i) ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آثار طبیعی (وضعی) گناه",
+      "en": "The natural effects of sin",
+      "tr": "Asar-e tabi'i (vaz'i)-ye gonah"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "استغفار زبانی به‌تنهایی توبه نیست؛ شرط پذیرش، اصلاح و جبران است.",
+      "en": "Asking forgiveness aloud is not repentance on its own; the condition for acceptance is reform and making amends.",
+      "tr": "Esteghfar-e zabani be-tanhayi tobe nist; shart-e paziresh, eslah va jobran ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گام نخست (پشیمانی) را با شرط پذیرش (جبران) جابه‌جا نکن.",
+      "en": "Do not swap the first step (regret) with the condition for acceptance (making amends).",
+      "tr": "Gam-e nakhost (pashimani) ra ba shart-e paziresh (jobran) jabeja nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Dey",
+     "number": 956
+    },
+    {
+     "session": "1400-Dey",
+     "number": 966
+    },
+    {
+     "session": "1402-Dey",
+     "number": 962
+    },
+    {
+     "session": "1400-Dey",
+     "number": 967
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 8,
+   "unit": 1,
+   "key": "rel-8-divine-rulings",
+   "title": {
+    "fa": "زندگی امروز و عمل به احکام الهی",
+    "en": "Life today and following the divine rulings",
+    "tr": "Zendegi-ye emrooz va amal be ahkam-e elahi"
+   },
+   "summary": {
+    "fa": "فقیه با اجتهاد از منابع دین فتوا می‌دهد و غیرمتخصص از او تقلید می‌کند.",
+    "en": "A jurist derives a fatwa from the sources by ijtihad, and the non-expert follows him (taqlid).",
+    "tr": "Faghih ba ejtehad az manabe'-e din fatva midahad va gheyr-e motekhasses az oo taghlid mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بیمار و پزشک متخصص",
+      "en": "Understand first: the patient and the specialist",
+      "tr": "Avval befahm: bimar va pezeshk-e motekhasses"
+     },
+     "body": {
+      "fa": "قوانین الهی همهٔ ابعاد زندگی را در بر می‌گیرند: فردی، اجتماعی، مادی و معنوی؛ و عمل به آنها بیش از هر چیز کرامت و آزادی واقعی انسان را حفظ می‌کند. اما همه نمی‌توانند حکم هر مسئله را خودشان از منابع دین بیرون بکشند. اینجا زنجیره‌ای شکل می‌گیرد، مثل بیماری که نزد پزشک متخصص می‌رود: فقیه جامع‌الشرایط با «اجتهاد» حکم را از منابع به دست می‌آورد؛ حاصلش «فتوا» است که در رسالهٔ توضیح‌المسائل گرد می‌آید؛ و کسی که متخصص نیست با «تقلید» به آن عمل می‌کند.",
+      "en": "The divine laws cover every part of life: personal, social, material and spiritual; and following them above all keeps human dignity and true freedom. But not everyone can draw the ruling on every matter from the sources. So a chain forms, like a patient going to a specialist doctor: a fully qualified jurist derives the ruling from the sources by 'ijtihad'; the result is a 'fatwa', collected in his book of rulings (towzih-ol-masa'el); and the non-expert acts on it by 'taqlid'.",
+      "tr": "Ghavanin-e elahi hame-ye ab'ad-e zendegi ra dar bar migirand: fardi, ejtema'i, maddi va ma'navi; va amal be anha bish az har chiz keramat va azadi-ye vaghe'i-ye ensan ra hefz mikonad. Amma hame nemitavanand hokm-e har mas'ale ra khodeshan az manabe'-e din biroon bekeshand. Inja zanjire-i shekl migirad, mesl-e bimari ke nazd-e pezeshk-e motekhasses miravad: faghih-e jame'-osh-sharayet ba 'ejtehad' hokm ra az manabe' be dast miavarad; hasel-ash 'fatva' ast ke dar resale-ye towzih-ol-masa'el gerd miayad; va kasi ke motekhasses nist ba 'taghlid' be an amal mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " SOURCES of religion\n    |  ijtihad (qualified jurist)\n FATWA  (book of rulings)\n    |  taqlid (non-expert)\n PEOPLE'S PRACTICE\n jurist followed must be\n   most learned + just",
+     "caption": {
+      "fa": "از منابع تا عمل مردم: اجتهاد، فتوا، تقلید.",
+      "en": "From the sources to people's practice: ijtihad, fatwa, taqlid.",
+      "tr": "Az manabe' ta amal-e mardom: ejtehad, fatva, taghlid."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "شرط مرجع و پویایی فقه",
+      "en": "The jurist's conditions and a living jurisprudence",
+      "tr": "Shart-e marja' va pooyayi-ye feghh"
+     },
+     "body": {
+      "fa": "فقیهی که از او تقلید می‌شود باید «اعلم» (داناترین) و «عادل» باشد، تا عمل مردم درست با شریعت منطبق شود. و چون اجتهاد فرایندی پیوسته است، فقه اسلامی پویا می‌ماند و به مسائل نوپدید پاسخ می‌دهد؛ پیروی بی‌بازنگری از فتواهای گذشته این پویایی را ندارد.",
+      "en": "The jurist people follow must be the 'most learned' and 'just', so that their practice truly matches the divine law. And because ijtihad is an ongoing process, Islamic jurisprudence stays alive and answers new questions; following old fatwas without review would not keep it alive.",
+      "tr": "Faghihi ke az oo taghlid mishavad bayad 'a'lam' (danatarin) va 'adel' bashad, ta amal-e mardom dorost ba shari'at montabegh shavad. Va chon ejtehad farayandi peyvaste ast, feghh-e eslami pooya mimanad va be masa'el-e noupadid pasokh midahad; peyravi-ye bi-baznegari az fatva-haye gozashte in pooyayi ra nadarad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sources -> (ijtihad) -> fatwa -> (taqlid) -> practice",
+     "caption": {
+      "fa": "زنجیرهٔ احکام",
+      "en": "The chain of rulings",
+      "tr": "Zanjire-ye ahkam"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رجوع کسی که در احکام دین متخصص نیست به فقیه جامع‌الشرایط برای شناخت وظایف شرعی، چه نام دارد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: what is it called when someone who is not an expert in religious rulings turns to a fully qualified jurist to learn his duties? (Khordad 1402 paper)",
+      "tr": "Garm kardan: roojoo'-e kasi ke dar ahkam-e din motekhasses nist be faghih-e jame'-osh-sharayet baraye shenakht-e vazayef-e shar'i, che nam darad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کار «غیرمتخصص» در زنجیره: پایین‌ترین حلقه، پیروی از فتوا.",
+        "en": "The non-expert's part in the chain: the last link, following the fatwa.",
+        "tr": "Kar-e 'gheyr-e motekhasses' dar zanjire: payin-tarin halghe, peyravi az fatva."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تقلید",
+      "en": "Taqlid (following a jurist)",
+      "tr": "Taghlid"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حکم شرعی‌ای که فقیه جامع‌الشرایط با اجتهاد از منابع دینی به دست می‌آورد و برای مقلدان بیان می‌کند، چه نام دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what is a religious ruling called that a fully qualified jurist derives from the sources through ijtihad and states for his followers? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: hokm-e shar'i-i ke faghih-e jame'-osh-sharayet ba ejtehad az manabe'-e dini be dast miavarad va baraye moghalledan bayan mikonad, che nam darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پرسش «حاصل» کار را می‌خواهد، نه خود کار: اجتهاد کار است، فتوا حاصل آن.",
+        "en": "The question wants the product, not the process: ijtihad is the process, the fatwa its product.",
+        "tr": "Porsesh 'hasel'-e kar ra mikhahad, na khod-e kar: ejtehad kar ast, fatva hasel-e an."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فتوا",
+      "en": "Fatwa",
+      "tr": "Fatva"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پویایی فقه اسلامی و پاسخ‌گویی آن به مسائل نوپدید، حاصل کدام فرایند پیوسته است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: Islamic jurisprudence staying alive and answering new questions is the fruit of which ongoing process? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: pooyayi-ye feghh-e eslami va pasokhgooyi-ye an be masa'el-e noupadid, hasel-e kodam farayand-e peyvaste ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار «فرایند» را می‌خواهد؛ پس فتوا (حاصل) نیست.",
+        "en": "The twist: this time it wants the process; so not the fatwa (the product).",
+        "tr": "Pich-e emtehan: in bar 'farayand' ra mikhahad; pas fatva (hasel) nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «پیروی بی‌بازنگری از فتواهای گذشته» درست برعکس پویایی است.",
+        "en": "The option 'following old fatwas without review' is the exact opposite of staying alive.",
+        "tr": "Gozine-ye 'peyravi-ye bi-baznegari az fatva-haye gozashte' dorost bar'aks-e pooyayi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اجتهاد (استنباط احکام از منابع دینی)",
+      "en": "Ijtihad (deriving rulings from the sources)",
+      "tr": "Ejtehad (estenbat-e ahkam az manabe'-e dini)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تقلید از فقیه، پیروی کورکورانه از رسوم نیست؛ رجوع به متخصص است.",
+      "en": "Following a jurist is not blindly following customs; it is turning to an expert.",
+      "tr": "Taghlid az faghih, peyravi-ye koorkoorane az rosoom nist; roojoo' be motekhasses ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قلمرو احکام الهی فقط زندگی خصوصی یا مناسک مسجد نیست؛ همهٔ ابعاد زندگی است.",
+      "en": "The scope of the divine rulings is not only private life or mosque rites; it is every part of life.",
+      "tr": "Ghalamrow-e ahkam-e elahi faghat zendegi-ye khosoosi ya manasek-e masjed nist; hame-ye ab'ad-e zendegi ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 963
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 10,
+   "unit": 1,
+   "key": "rel-10-modern-civilization",
+   "title": {
+    "fa": "تمدن جدید و مسئولیت ما",
+    "en": "Modern civilization and our responsibility",
+    "tr": "Tamaddon-e jadid va mas'ooliyat-e ma"
+   },
+   "summary": {
+    "fa": "رویارویی درست با تمدن غرب گزینشی است؛ مسئولیت نسل جوان ساختن تمدن نوین اسلامی است.",
+    "en": "The right way to meet Western civilization is selective; the young generation's task is to build a new Islamic civilization.",
+    "tr": "Rooyarooyi-ye dorost ba tamaddon-e gharb gozineshi ast; mas'ooliyat-e nasl-e javan sakhtan-e tamaddon-e novin-e eslami ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: باغبانی که گزینش می‌کند",
+      "en": "Understand first: a gardener who selects",
+      "tr": "Avval befahm: baghbani ke gozinesh mikonad"
+     },
+     "body": {
+      "fa": "درس دهم از ما می‌پرسد با دستاوردهای تمدن جدید غرب چه کنیم. سه راه نادرست: پذیرش کامل و بی‌قیدوشرط، رد کامل همهٔ دستاوردها، و همانند شدن منفعلانه و سطحی. راه درست «پذیرش گزینشی بر پایهٔ معیارهای اسلامی» است؛ مثل باغبانی که از هر نهالی فقط آنچه را با خاک باغش سازگار است می‌کارد.",
+      "en": "Lesson ten asks what to do with the achievements of modern Western civilization. Three wrong ways: accepting everything unconditionally, rejecting everything, and passive, shallow imitation. The right way is 'selective acceptance by Islamic standards', like a gardener who plants from each seedling only what suits the soil of his garden.",
+      "tr": "Dars-e dahom az ma miporsad ba dastavard-haye tamaddon-e jadid-e gharb che konim. Se rah-e nadorost: paziresh-e kamel va bi-ghayd-o-shart, radd-e kamel-e hame-ye dastavard-ha, va hamanand shodan-e monfa'elane va sathi. Rah-e dorost 'paziresh-e gozineshi bar paye-ye me'yar-haye eslami' ast; mesl-e baghbani ke az har nahali faghat anche ra ba khak-e baghash sazgar ast mikarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " MEETING MODERN CIVILIZATION\n   accept all          wrong\n   reject all          wrong\n   imitate passively   wrong\n   SELECT by Islamic\n   standards           right\n its gap: the spirit and\n   man's eternal end ignored\n task: a new Islamic\n   civilization\n step 1: faith + science",
+     "caption": {
+      "fa": "چهار رویکرد، یک کاستی بزرگ، یک مسئولیت و گام نخست آن.",
+      "en": "Four approaches, one great gap, one task and its first step.",
+      "tr": "Chahar rooykard, yek kasti-ye bozorg, yek mas'ooliyat va gam-e nakhost-e an."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "کاستی، مسئولیت و گام نخست",
+      "en": "The gap, the task and the first step",
+      "tr": "Kasti, mas'ooliyat va gam-e nakhost"
+     },
+     "body": {
+      "fa": "بزرگ‌ترین کاستی تمدن جدید غرب، کمبود ماشین یا روش علمی نیست؛ «غفلت از ابعاد معنوی و سرانجام ابدی انسان» است. بزرگ‌ترین مسئولیت نسل جوان مسلمان در برابر آن «تلاش برای ساختن تمدن نوین اسلامی» است، و نخستین گام برای ورود فعال به این کار «ژرف کردن آگاهی دینی و توانمندی علمی» است.",
+      "en": "The greatest shortcoming of modern Western civilization is not a lack of machines or scientific method; it is 'neglecting the spiritual side of life and man's eternal end'. The young Muslim generation's greatest task in response is 'working to build a new Islamic civilization', and the first step toward taking an active part is 'deepening religious understanding and scientific strength'.",
+      "tr": "Bozorg-tarin kasti-ye tamaddon-e jadid-e gharb, kambood-e mashin ya ravesh-e elmi nist; 'gheflat az ab'ad-e ma'navi va saranjam-e abadi-ye ensan' ast. Bozorg-tarin mas'ooliyat-e nasl-e javan-e mosalman dar barabar-e an 'talash baraye sakhtan-e tamaddon-e novin-e eslami' ast, va nakhostin gam baraye vorood-e fa'al be in kar 'zharf kardan-e agahi-ye dini va tavanmandi-ye elmi' ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "select (not accept all / reject all) ;  task = new civilization ;  step 1 = faith + science",
+     "caption": {
+      "fa": "خلاصهٔ درس دهم",
+      "en": "Lesson ten in one line",
+      "tr": "Kholase-ye dars-e dahom"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: درست‌ترین شیوهٔ رویارویی مسلمانان با دستاوردهای تمدن جدید غرب کدام است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what is the right way for Muslims to meet the achievements of modern Western civilization? (Dey 1401 paper)",
+      "tr": "Garm kardan: dorost-tarin shive-ye rooyarooyi-ye mosalmanan ba dastavard-haye tamaddon-e jadid-e gharb kodam ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سه گزینهٔ دیگر افراطی‌اند: همه را پذیرفتن، همه را رد کردن، یا منفعلانه همانند شدن.",
+        "en": "The other three options are extremes: accept all, reject all, or passively imitate.",
+        "tr": "Se gozine-ye digar efrati-and: hame ra paziroftan, hame ra radd kardan, ya monfa'elane hamanand shodan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پذیرش گزینشی بر پایهٔ معیارهای اسلامی",
+      "en": "Selective acceptance by Islamic standards",
+      "tr": "Paziresh-e gozineshi bar paye-ye me'yar-haye eslami"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: بنابر درس دهم، بزرگ‌ترین کاستی تمدن جدید غرب چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: by lesson ten, what is the greatest shortcoming of modern Western civilization? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: bena bar dars-e dahom, bozorg-tarin kasti-ye tamaddon-e jadid-e gharb chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گزینه‌های ماشین‌آلات، روش علمی و شبکه‌های اداری همه جاهایی‌اند که این تمدن در آنها قوی است.",
+        "en": "Machinery, scientific method and complex administration are all areas where this civilization is strong.",
+        "tr": "Gozine-haye mashin-alat, ravesh-e elmi va shabake-haye edari hame jahayi-and ke in tamaddon dar anha ghavi ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "کاستی در جایی است که دیده نشده: بعد معنوی و سرانجام ابدی.",
+        "en": "The gap is in what it overlooked: the spiritual side and the eternal end.",
+        "tr": "Kasti dar jayi ast ke dide nashode: bo'd-e ma'navi va saranjam-e abadi."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "غفلت از ابعاد معنوی و سرانجام ابدی انسان",
+      "en": "Neglecting the spiritual side of life and man's eternal end",
+      "tr": "Gheflat az ab'ad-e ma'navi va saranjam-e abadi-ye ensan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: بنابر درس دهم، نخستین گام نسل جوان مسلمان برای ورود فعال به ساختن تمدن نوین اسلامی چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: by lesson ten, what is the first step for young Muslims to take an active part in building a new Islamic civilization? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: bena bar dars-e dahom, nakhostin gam-e nasl-e javan-e mosalman baraye vorood-e fa'al be sakhtan-e tamaddon-e novin-e eslami chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «ساختن تمدن نوین» خودش پاسخ پرسش دیگری است (مسئولیت، آزمون دی ۱۴۰۱)؛ اینجا «گام نخست» آن را می‌خواهد.",
+        "en": "The twist: 'building a new civilization' is the answer to a different question (the task, Dey 1401 paper); here it wants its first step.",
+        "tr": "Pich-e emtehan: 'sakhtan-e tamaddon-e novin' khodash pasokh-e porsesh-e digari ast (mas'ooliyat, azmoon-e Dey 1401); inja 'gam-e nakhost'-e an ra mikhahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ژرف کردن آگاهی دینی و توانمندی علمی",
+      "en": "Deepening religious understanding and scientific strength",
+      "tr": "Zharf kardan-e agahi-ye dini va tavanmandi-ye elmi"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پذیرش گزینشی یعنی نه پذیرش کامل و نه رد کامل؛ هر دو افراطی‌اند.",
+      "en": "Selective acceptance means neither accepting all nor rejecting all; both are extremes.",
+      "tr": "Paziresh-e gozineshi ya'ni na paziresh-e kamel va na radd-e kamel; har do efrati-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مسئولیت (ساختن تمدن نوین) و گام نخست (آگاهی دینی و توان علمی) را جابه‌جا نکن.",
+      "en": "Do not swap the task (building a new civilization) with the first step (religious understanding and scientific strength).",
+      "tr": "Mas'ooliyat (sakhtan-e tamaddon-e novin) va gam-e nakhost (agahi-ye dini va tavan-e elmi) ra jabeja nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 956
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1401-Dey",
+     "number": 962
+    }
+   ]
+  }
+ ]
+}
