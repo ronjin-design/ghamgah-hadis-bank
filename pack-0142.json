@@ -1,0 +1,660 @@
+{
+ "version": 142,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Physics",
+   "key": "phys-g-harmonic-motion",
+   "term": {
+    "fa": "حرکت هماهنگ",
+    "en": "harmonic motion",
+    "tr": "harekat-e hamahang"
+   },
+   "explain": {
+    "fa": "حرکت رفت و برگشتی منظم حول نقطهٔ تعادل، با نیروی بازگرداننده‌ای که همیشه رو به تعادل است؛ مثل جسم بسته به فنر.",
+    "en": "A regular back-and-forth motion about an equilibrium point, with a restoring force always pointing towards equilibrium, like a mass on a spring.",
+    "tr": "Harekat-e raft va bargashti-ye monazzam hol-e noghte-ye ta'adol, ba niroo-ye bazgardanande-i ke hamishe roo be ta'adol ast; mesl-e jesm-e baste be fanar."
+   },
+   "analogy": {
+    "fa": "تابی که هر دورش همان‌قدر طول می‌کشد.",
+    "en": "A swing whose every cycle takes the same time.",
+    "tr": "Tabi ke har dorash haman-ghadr tool mikeshad."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-time-period",
+   "term": {
+    "fa": "دوره تناوب",
+    "en": "time period",
+    "tr": "doreh-ye tanavob"
+   },
+   "explain": {
+    "fa": "زمان یک نوسان کامل (`T`، ثانیه). برای نوسانگر جرم-فنر `T = 2π√(m/k)` و به دامنه بستگی ندارد.",
+    "en": "The time for one complete oscillation (`T`, seconds). For a mass-spring oscillator `T = 2π√(m/k)`, independent of the amplitude.",
+    "tr": "Zaman-e yek navasan-e kamel (`T`, sanie). Baraye navasangar-e jerm-fanar `T = 2π√(m/k)` va be damane bastegi nadarad."
+   },
+   "matches": {
+    "fa": [
+     "دورهٔ تناوب"
+    ],
+    "en": [
+     "wave period"
+    ],
+    "tr": [
+     "dowre-ye tanavob"
+    ]
+   },
+   "contrast": {
+    "fa": "جرم بیشتر: دوره بیشتر؛ فنر سفت‌تر: دوره کمتر.",
+    "en": "More mass: longer period; stiffer spring: shorter period.",
+    "tr": "Jerm-e bishtar: dowre-ye bishtar; fanar-e seft-tar: dowre-ye kamtar."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-frequency-period",
+   "term": {
+    "fa": "بسامد و دوره",
+    "en": "frequency and period",
+    "tr": "basamad va dowre"
+   },
+   "explain": {
+    "fa": "بسامد شمار نوسان‌ها در هر ثانیه است و دوره زمان یک نوسان؛ وارون هم‌اند: `f = 1/T`.",
+    "en": "Frequency is the number of oscillations each second and the period the time for one; they are reciprocals: `f = 1/T`.",
+    "tr": "Basamad shomar-e navasan-ha dar har sanie ast va dowre zaman-e yek navasan; varoon-e ham-and: `f = 1/T`."
+   },
+   "contrast": {
+    "fa": "`T = 0.5 s` یعنی `f = 2 Hz`.",
+    "en": "`T = 0.5 s` means `f = 2 Hz`.",
+    "tr": "`T = 0.5 s` ya'ni `f = 2 Hz`."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-angular-frequency",
+   "term": {
+    "fa": "بسامد زاویه‌ای",
+    "en": "angular frequency",
+    "tr": "basamad-e zavie-i"
+   },
+   "explain": {
+    "fa": "`ω = 2πf` (رادیان بر ثانیه). برای نوسانگر جرم-فنر فقط به ثابت فنر و جرم بستگی دارد: `ω = √(k/m)`.",
+    "en": "`ω = 2πf` (radians per second). For a mass-spring oscillator it depends only on the spring constant and the mass: `ω = √(k/m)`.",
+    "tr": "`ω = 2πf` (radiyan bar sanie). Baraye navasangar-e jerm-fanar faghat be sabet-e fanar va jerm bastegi darad: `ω = √(k/m)`."
+   },
+   "matches": {
+    "fa": [
+     "فرکانس زاویه‌ای"
+    ],
+    "tr": [
+     "basamad-e zaviei",
+     "frequency-ye zaviyeyi"
+    ]
+   },
+   "contrast": {
+    "fa": "جرم را به کیلوگرم ببر: `200 g = 0.2 kg`.",
+    "en": "Convert the mass to kilograms: `200 g = 0.2 kg`.",
+    "tr": "Jerm ra be kilogram bebar: `200 g = 0.2 kg`."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-maximum-speed",
+   "term": {
+    "fa": "بیشینه سرعت",
+    "en": "maximum speed",
+    "tr": "bishineh-ye sorat"
+   },
+   "explain": {
+    "fa": "نوسانگر در نقطهٔ تعادل تندترین است: `v(max) = A ω`، با دامنه به متر. در دو سر مسیر تندی صفر است.",
+    "en": "An oscillator is fastest at equilibrium: `v(max) = A ω`, with the amplitude in metres. At the two ends of the path the speed is zero.",
+    "tr": "Navasangar dar noghte-ye ta'adol tond-tarin ast: `v(max) = A ω`, ba damane be metr. Dar do sar-e masir tondi sefr ast."
+   },
+   "contrast": {
+    "fa": "در تعادل تندی بیشینه و شتاب صفر؛ در دو سر برعکس.",
+    "en": "At equilibrium the speed is greatest and the acceleration zero; at the ends, the reverse.",
+    "tr": "Dar ta'adol tondi bishine va shetab sefr; dar do sar bar-aks."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wave-amplitude",
+   "term": {
+    "fa": "دامنهٔ موج",
+    "en": "wave amplitude",
+    "tr": "damaneh-ye moj"
+   },
+   "explain": {
+    "fa": "بیشترین فاصلهٔ نوسانگر، یا ذره‌های محیط در موج، از حالت تعادل (`A`). در صوت، دامنه بلندی را تعیین می‌کند.",
+    "en": "The greatest distance of an oscillator, or of the medium's particles in a wave, from equilibrium (`A`). In sound, the amplitude sets the loudness.",
+    "tr": "Bishtarin fasele-ye navasangar, ya zarre-haye mohit dar moj, az halat-e ta'adol (`A`). Dar sowt, damane bolandi ra ta'yin mikonad."
+   },
+   "contrast": {
+    "fa": "دامنه در دورهٔ نوسانگر اثری ندارد.",
+    "en": "The amplitude has no effect on an oscillator's period.",
+    "tr": "Damane dar dowre-ye navasangar asari nadarad."
+   },
+   "unit": "phys-3-shm"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-pendulum-period",
+   "term": {
+    "fa": "دورهٔ آونگ ساده",
+    "en": "pendulum period",
+    "tr": "dowre-ye avang-e sadeh"
+   },
+   "explain": {
+    "fa": "برای نوسان‌های کوچک `T = 2π√(L/g)`: با ریشهٔ دوم طول نخ متناسب است و جرم وزنه در آن نیست.",
+    "en": "For small oscillations `T = 2π√(L/g)`: it is proportional to the square root of the string length, and the bob's mass does not appear.",
+    "tr": "Baraye navasan-haye koochak `T = 2π√(L/g)`: ba rishe-ye dovvom-e tool-e nakh motenaseb ast va jerm-e vazne dar an nist."
+   },
+   "analogy": {
+    "fa": "دو تاب هم‌طول، با بچه یا بزرگ‌سال، هم‌زمان تاب می‌خورند.",
+    "en": "Two swings of equal length, with a child or an adult, swing in step.",
+    "tr": "Do tab-e ham-tool, ba bachche ya bozorg-sal, ham-zaman tab mikhorand."
+   },
+   "contrast": {
+    "fa": "چهار برابر شدن طول دوره را فقط دو برابر می‌کند.",
+    "en": "Four times the length only doubles the period.",
+    "tr": "Chahar barabar shodan-e tool dowre ra faghat do barabar mikonad."
+   },
+   "unit": "phys-3-pendulum-resonance"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-resonance",
+   "term": {
+    "fa": "تشدید",
+    "en": "resonance",
+    "tr": "tashdid"
+   },
+   "explain": {
+    "fa": "وقتی بسامد نیروی دوره‌ای بیرونی با بسامد طبیعی نوسانگر برابر شود و دامنه به‌شدت بزرگ شود.",
+    "en": "When the frequency of a periodic outside force matches an oscillator's natural frequency and the amplitude grows sharply.",
+    "tr": "Vaghti basamad-e niroo-ye dowre-i-ye birooni ba basamad-e tabi'i-ye navasangar barabar shavad va damane be-shedat bozorg shavad."
+   },
+   "analogy": {
+    "fa": "هل دادن تاب درست در لحظهٔ برگشت.",
+    "en": "Pushing a swing at just the right moment each time it comes back.",
+    "tr": "Hol dadan-e tab dorost dar lahze-ye bargasht."
+   },
+   "unit": "phys-3-pendulum-resonance"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wavelength",
+   "term": {
+    "fa": "طول موج",
+    "en": "wavelength",
+    "tr": "tool-e moj"
+   },
+   "explain": {
+    "fa": "فاصلهٔ دو قله (یا دو درهٔ) پشت سر هم (`λ`). با `v = f λ`؛ در محیط تازه بسامد ثابت است، پس طول موج همراه تندی تغییر می‌کند. برای نور، `E = hc/λ`: طول موج کوتاه‌تر یعنی فوتون پرانرژی‌تر.",
+    "en": "The distance between two consecutive crests (or troughs) (`λ`). With `v = f λ`; in a new medium the frequency stays fixed, so the wavelength changes with the speed. For light, `E = hc/λ`: a shorter wavelength means a more energetic photon.",
+    "tr": "Fasele-ye do ghelle (ya do darre)-ye posht-e sar-e ham (`λ`). Ba `v = f λ`; dar mohit-e taze basamad sabet ast, pas tool-e moj hamrah-e tondi taghyir mikonad. Baraye noor, `E = hc/λ`: tool-e moj-e kootah-tar ya'ni foton-e por-enerzhi-tar."
+   },
+   "contrast": {
+    "fa": "قله تا دره نصف طول موج است.",
+    "en": "Crest to trough is half a wavelength.",
+    "tr": "Ghelle ta darre nesf-e tool-e moj ast."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-frequency",
+   "term": {
+    "fa": "بسامد",
+    "en": "frequency",
+    "tr": "basamad"
+   },
+   "explain": {
+    "fa": "شمار نوسان‌ها یا موج‌ها در هر ثانیه (`f`، هرتز). بسامد را چشمه تعیین می‌کند و هنگام رفتن موج به محیط دیگر ثابت می‌ماند.",
+    "en": "The number of oscillations or waves each second (`f`, hertz). The source sets the frequency, and it stays the same when the wave enters another medium.",
+    "tr": "Shomar-e navasan-ha ya moj-ha dar har sanie (`f`, hertz). Basamad ra cheshme ta'yin mikonad va hengam-e raftan-e moj be mohit-e digar sabet mimanad."
+   },
+   "contrast": {
+    "fa": "چشمه بسامد را تعیین می‌کند، محیط تندی را.",
+    "en": "The source sets the frequency, the medium sets the speed.",
+    "tr": "Cheshme basamad ra ta'yin mikonad, mohit tondi ra."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-propagation-speed",
+   "term": {
+    "fa": "سرعت انتشار",
+    "en": "propagation speed",
+    "tr": "sorat-e enteshar"
+   },
+   "explain": {
+    "fa": "تندی پیشروی موج در محیط: `v = f λ`. آن را محیط تعیین می‌کند؛ نور در محیط با ضریب شکست `n` تندی `v = c / n` دارد.",
+    "en": "The speed at which a wave travels through a medium: `v = f λ`. The medium sets it; light in a medium of refractive index `n` travels at `v = c / n`.",
+    "tr": "Tondi-ye pishravi-ye moj dar mohit: `v = f λ`. An ra mohit ta'yin mikonad; noor dar mohit ba zarib-e shekast-e `n` tondi-ye `v = c / n` darad."
+   },
+   "matches": {
+    "fa": [
+     "سرعت انتشار موج"
+    ],
+    "tr": [
+     "sorat-e enteshar-e moj"
+    ]
+   },
+   "contrast": {
+    "fa": "در یک محیط، دو برابر شدن بسامد تندی را عوض نمی‌کند؛ طول موج نصف می‌شود.",
+    "en": "In one medium, doubling the frequency does not change the speed; the wavelength halves.",
+    "tr": "Dar yek mohit, do barabar shodan-e basamad tondi ra avaz nemikonad; tool-e moj nesf mishavad."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wave-medium",
+   "term": {
+    "fa": "محیط انتشار",
+    "en": "wave medium",
+    "tr": "mohit-e enteshar"
+   },
+   "explain": {
+    "fa": "ماده‌ای که موج مکانیکی در آن پیش می‌رود (هوا، آب، جامد). تندی موج را محیط تعیین می‌کند، پس در یک محیط ثابت، تندی هم ثابت است.",
+    "en": "The material a mechanical wave travels through (air, water, a solid). The medium sets the wave's speed, so in a fixed medium the speed is fixed too.",
+    "tr": "Made-i ke moj-e mekaniki dar an pish miravad (hava, ab, jamed). Tondi-ye moj ra mohit ta'yin mikonad, pas dar yek mohit-e sabet, tondi ham sabet ast."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-wave",
+   "term": {
+    "fa": "موج صوتی",
+    "en": "sound wave",
+    "tr": "moj-e sooti"
+   },
+   "explain": {
+    "fa": "موجی طولی و مکانیکی از لایه‌های فشرده و باز شدهٔ محیط؛ در خلأ پیش نمی‌رود و در هوا حدود `340 m/s` تندی دارد.",
+    "en": "A longitudinal mechanical wave of compressed and stretched layers of the medium; it cannot travel in a vacuum and moves at about `340 m/s` in air.",
+    "tr": "Moji tooli va mekaniki az laye-haye feshorde va baz shode-ye mohit; dar khala' pish nemiravad va dar hava hodood-e `340 m/s` tondi darad."
+   },
+   "contrast": {
+    "fa": "صوت طولی است؛ موج طناب عرضی.",
+    "en": "Sound is longitudinal; a wave on a rope is transverse.",
+    "tr": "Sowt tooli ast; moj-e tanab arzi."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-linear-mass-density",
+   "term": {
+    "fa": "چگالی خطی",
+    "en": "linear mass density",
+    "tr": "chegali-ye khatti"
+   },
+   "explain": {
+    "fa": "جرم هر متر از تار (`μ`، `kg/m`). تندی موج روی تار `v = √(F/μ)` است، پس با ریشهٔ دوم `μ` وارون‌متناسب است: تار سنگین‌تر، موج کندتر.",
+    "en": "The mass of each metre of string (`μ`, `kg/m`). The wave speed on a string is `v = √(F/μ)`, so it is inversely proportional to the square root of `μ`: a heavier string, a slower wave.",
+    "tr": "Jerm-e har metr az tar (`μ`, `kg/m`). Tondi-ye moj rooye tar `v = √(F/μ)` ast, pas ba rishe-ye dovvom-e `μ` varoon-motenaseb ast: tar-e sangin-tar, moj-e kond-tar."
+   },
+   "unit": "phys-3-wave-basics"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-properties-medium",
+   "term": {
+    "fa": "ویژگی‌های محیط",
+    "en": "properties of the medium",
+    "tr": "vizhegi-haye mohit"
+   },
+   "explain": {
+    "fa": "تندی صوت بیشتر به ویژگی‌های محیط (جنس، سختی، دما) بستگی دارد، نه به بلندی یا بسامد صوت.",
+    "en": "The speed of sound depends mainly on the properties of the medium (material, stiffness, temperature), not on the sound's loudness or frequency.",
+    "tr": "Tondi-ye sowt bishtar be vizhegi-haye mohit (jens, sakhti, dama) bastegi darad, na be bolandi ya basamad-e sowt."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-speed-matter",
+   "term": {
+    "fa": "تندی صوت در ماده",
+    "en": "sound speed in matter",
+    "tr": "tondi-ye sot dar madde"
+   },
+   "explain": {
+    "fa": "صوت معمولاً در جامد از همه تندتر است، سپس مایع و سپس گاز: فولاد حدود `5000`، آب حدود `1500` و هوا حدود `340 m/s`.",
+    "en": "Sound is usually fastest in solids, then liquids, then gases: steel about `5000`, water about `1500` and air about `340 m/s`.",
+    "tr": "Sowt ma'moolan dar jamed az hame tond-tar ast, sepas maye' va sepas gaz: foolad hodood-e `5000`, ab hodood-e `1500` va hava hodood-e `340 m/s`."
+   },
+   "analogy": {
+    "fa": "گوش روی ریل، صدای قطار را زودتر می‌شنود.",
+    "en": "An ear on the rail hears the train sooner.",
+    "tr": "Goosh rooye reyl, seda-ye ghatar ra zoodtar mishenavad."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-pitch",
+   "term": {
+    "fa": "ارتفاع صوت",
+    "en": "sound pitch",
+    "tr": "ertefa-ye sot"
+   },
+   "explain": {
+    "fa": "زیر یا بم بودن صدا؛ آن را بسامد تعیین می‌کند: بسامد بیشتر، صدای زیرتر.",
+    "en": "How high or low a sound is; it is set by the frequency: higher frequency, higher pitch.",
+    "tr": "Zir ya bam boodan-e seda; an ra basamad ta'yin mikonad: basamad-e bishtar, seda-ye zir-tar."
+   },
+   "contrast": {
+    "fa": "ارتفاع با بسامد است؛ بلندی با دامنه.",
+    "en": "Pitch goes with frequency; loudness with amplitude.",
+    "tr": "Ertefa' ba basamad ast; bolandi ba damane."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-audible-range",
+   "term": {
+    "fa": "محدودهٔ شنوایی",
+    "en": "audible frequency range",
+    "tr": "mahdoodeh-ye shenavayi"
+   },
+   "explain": {
+    "fa": "گوش سالم انسان معمولاً بسامدهای `20` تا `20000` هرتز را می‌شنود؛ پایین‌تر فروصوت و بالاتر فراصوت است.",
+    "en": "A healthy human ear normally hears frequencies from `20` to `20000` Hz; below that is infrasound and above it ultrasound.",
+    "tr": "Goosh-e salem-e ensan ma'moolan basamad-haye `20` ta `20000` hertz ra mishenavad; payin-tar forosowt va bala-tar farasowt ast."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-wavelength",
+   "term": {
+    "fa": "طول موج صوت",
+    "en": "sound wavelength",
+    "tr": "tool-e moj-e soti"
+   },
+   "explain": {
+    "fa": "`λ = v / f`. چون بسامد ثابت است، طول موج همراه تندی تغییر می‌کند: از هوای گرم به هوای سرد کوتاه‌تر می‌شود و در محیط تندتر بلندتر.",
+    "en": "`λ = v / f`. Because the frequency is fixed, the wavelength changes with the speed: it gets shorter going from warm air into cold air, and longer in a faster medium.",
+    "tr": "`λ = v / f`. Chon basamad sabet ast, tool-e moj hamrah-e tondi taghyir mikonad: az hava-ye garm be hava-ye sard kootah-tar mishavad va dar mohit-e tond-tar boland-tar."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wave-refraction",
+   "term": {
+    "fa": "شکست موج",
+    "en": "wave refraction",
+    "tr": "shekast-e moj"
+   },
+   "explain": {
+    "fa": "تغییر تندی و جهت موج هنگام رفتن به محیط دیگر. بسامد ثابت می‌ماند؛ اگر تندی زیاد شود، طول موج هم زیاد می‌شود.",
+    "en": "The change in a wave's speed and direction when it enters another medium. The frequency stays the same; if the speed rises, the wavelength rises too.",
+    "tr": "Taghyir-e tondi va jahat-e moj hengam-e raftan be mohit-e digar. Basamad sabet mimanad; agar tondi ziyad shavad, tool-e moj ham ziyad mishavad."
+   },
+   "unit": "phys-3-sound-speed-pitch"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-intensity",
+   "term": {
+    "fa": "شدت صوت",
+    "en": "sound intensity",
+    "tr": "sheddat-e sot"
+   },
+   "explain": {
+    "fa": "انرژی صوتی که در هر ثانیه از یکای سطح عمود بر جهت انتشار می‌گذرد: `I = P / A` (`W/m^2`). با مربع دامنه متناسب است و برای چشمهٔ نقطه‌ای با مربع فاصله وارون‌متناسب: `I = P / (4πr^2)`.",
+    "en": "The sound energy passing each second through a unit area perpendicular to the direction of travel: `I = P / A` (`W/m^2`). It is proportional to the square of the amplitude and, for a point source, inversely proportional to the square of the distance: `I = P / (4πr^2)`.",
+    "tr": "Enerzhi-ye sowti ke dar har sanie az yeka-ye sath-e amood bar jahat-e enteshar migozarad: `I = P / A` (`W/m^2`). Ba morabba'-e damane motenaseb ast va baraye cheshme-ye noghte-i ba morabba'-e fasele varoon-motenaseb: `I = P / (4πr^2)`."
+   },
+   "analogy": {
+    "fa": "رنگی که روی بادکنکی بزرگ‌شونده پخش می‌شود.",
+    "en": "Paint spread over a growing balloon.",
+    "tr": "Rangi ke rooye badkonaki bozorg-shavande pakhsh mishavad."
+   },
+   "contrast": {
+    "fa": "سه برابر شدن فاصله: `1/9`؛ دو برابر شدن دامنه: `4` برابر.",
+    "en": "Tripling the distance: `1/9`; doubling the amplitude: four times.",
+    "tr": "Se barabar shodan-e fasele: `1/9`; do barabar shodan-e damane: `4` barabar."
+   },
+   "unit": "phys-3-sound-intensity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-loudness",
+   "term": {
+    "fa": "بلندی صوت",
+    "en": "sound loudness",
+    "tr": "bolandi-ye sot"
+   },
+   "explain": {
+    "fa": "بلندی صدایی که می‌شنویم؛ آن را دامنهٔ موج (و در نتیجه شدت آن) تعیین می‌کند.",
+    "en": "How loud a sound is heard; it is set by the wave's amplitude (and hence its intensity).",
+    "tr": "Bolandi-ye sedayi ke mishenavim; an ra damane-ye moj (va dar natije shedat-e an) ta'yin mikonad."
+   },
+   "contrast": {
+    "fa": "صدای زیر لزوماً بلند نیست.",
+    "en": "A high-pitched sound is not necessarily loud.",
+    "tr": "Seda-ye zir lozooman boland nist."
+   },
+   "unit": "phys-3-sound-intensity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wavefront",
+   "term": {
+    "fa": "جبههٔ موج",
+    "en": "wavefront",
+    "tr": "jebhe-ye moj"
+   },
+   "explain": {
+    "fa": "مکان همهٔ نقطه‌هایی از محیط که در یک لحظه در یک فاز نوسان‌اند؛ پرتو همیشه بر جبهه عمود است.",
+    "en": "The set of all points in a medium vibrating in the same phase at a given instant; a ray is always perpendicular to the wavefront.",
+    "tr": "Makan-e hame-ye noghte-hayi az mohit ke dar yek lahze dar yek faz navasan-and; partow hamishe bar jebhe amood ast."
+   },
+   "analogy": {
+    "fa": "حلقه‌های روی آب پس از انداختن سنگ.",
+    "en": "The rings on water after dropping a stone.",
+    "tr": "Halghe-haye rooye ab pas az andakhtan-e sang."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-reflection-light",
+   "term": {
+    "fa": "بازتاب نور",
+    "en": "reflection of light",
+    "tr": "baztab-e noor"
+   },
+   "explain": {
+    "fa": "زاویهٔ بازتاب برابر زاویهٔ تابش است، هر دو نسبت به خط عمود؛ پرتویی که عمود به آینه می‌تابد با زاویهٔ صفر برمی‌گردد.",
+    "en": "The angle of reflection equals the angle of incidence, both measured from the normal; a ray striking a mirror perpendicularly comes back at zero angle.",
+    "tr": "Zaviye-ye baztab barabar-e zaviye-ye tabesh ast, har do nesbat be khatt-e amood; partowi ke amood be ayene mitabad ba zaviye-ye sefr barmigardad."
+   },
+   "contrast": {
+    "fa": "زاویه‌ها از خط عمود سنجیده می‌شوند، نه از سطح.",
+    "en": "Angles are measured from the normal, not the surface.",
+    "tr": "Zaviye-ha az khatt-e amood sanjide mishavand, na az sath."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-reflection-fixed",
+   "term": {
+    "fa": "بازتاب از مرز سخت",
+    "en": "reflection from fixed boundary",
+    "tr": "baztab az marz-e sakht"
+   },
+   "explain": {
+    "fa": "موجی که روی طناب به تکیه‌گاه ثابت می‌رسد وارونه بازتاب می‌شود؛ فازش `180` درجه (`π` رادیان) تغییر می‌کند.",
+    "en": "A wave on a rope reaching a fixed support reflects upside down; its phase shifts by `180` degrees (`π` radians).",
+    "tr": "Moji ke rooye tanab be tekye-gah-e sabet miresad varoone baztab mishavad; fazash `180` daraje (`π` radiyan) taghyir mikonad."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-echo",
+   "term": {
+    "fa": "پژواک",
+    "en": "echo",
+    "tr": "pezhvak"
+   },
+   "explain": {
+    "fa": "بازتاب صوت از مانعی دور که صدا را با تأخیر دوباره به گوش می‌رساند. فاصلهٔ مانع: `d = v t / 2`، چون صوت رفت و برگشت می‌کند.",
+    "en": "Sound reflected from a distant obstacle, reaching the ear again after a delay. The obstacle's distance: `d = v t / 2`, because the sound goes there and back.",
+    "tr": "Baztab-e sowt az mane'i door ke seda ra ba ta'khir dobare be goosh miresanad. Fasele-ye mane': `d = v t / 2`, chon sowt raft va bargasht mikonad."
+   },
+   "contrast": {
+    "fa": "`v t` کل راه است؛ فاصله نصف آن.",
+    "en": "`v t` is the whole trip; the distance is half of it.",
+    "tr": "`v t` kol-e rah ast; fasele nesf-e an."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-sound-echo",
+   "term": {
+    "fa": "پژواک صوتی",
+    "en": "sound echo",
+    "tr": "pezhvak-e soti"
+   },
+   "explain": {
+    "fa": "برای شنیدن پژواک جدا از صدای اصلی، گوش دست‌کم `0.1` ثانیه فاصله لازم دارد؛ با `340 m/s` یعنی مانع دست‌کم `17` متر دور باشد.",
+    "en": "To hear an echo separately from the original sound, the ear needs a gap of at least `0.1` s; at `340 m/s` that means the obstacle must be at least `17` m away.",
+    "tr": "Baraye shenidan-e pazhvak joda az seda-ye asli, goosh dast-e kam `0.1` sanie fasele lazem darad; ba `340 m/s` ya'ni mane' dast-e kam `17` metr door bashad."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wave-diffraction",
+   "term": {
+    "fa": "پراش موج",
+    "en": "wave diffraction",
+    "tr": "parash-e moj"
+   },
+   "explain": {
+    "fa": "خم شدن و پخش شدن موج هنگام گذشتن از لبهٔ مانع یا شکافی باریک؛ وقتی چشمگیر است که اندازهٔ شکاف نزدیک طول موج باشد.",
+    "en": "The bending and spreading of a wave as it passes the edge of an obstacle or a narrow slit; it is strongest when the slit is about the size of the wavelength.",
+    "tr": "Kham shodan va pakhsh shodan-e moj hengam-e gozashtan az labe-ye mane' ya shekafi barik; vaghti cheshmgir ast ke andaze-ye shekaf nazdik-e tool-e moj bashad."
+   },
+   "analogy": {
+    "fa": "صدای پشت در باز را می‌شنوی، بی آنکه گوینده را ببینی.",
+    "en": "You hear voices round an open door without seeing the speaker.",
+    "tr": "Seda-ye posht-e dar-e baz ra mishenavi, bi anke gooyande ra bebini."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-standing-wave-nodes",
+   "term": {
+    "fa": "گره موج",
+    "en": "standing wave nodes",
+    "tr": "gereh-ye moj"
+   },
+   "explain": {
+    "fa": "در موج ایستاده، نقطه‌هایی که دامنه‌شان همیشه صفر است و ساکن می‌مانند؛ دو گرهٔ پیاپی نیم طول موج فاصله دارند و برای تار با دو سر بسته `L = n λ / 2`.",
+    "en": "In a standing wave, the points whose amplitude is always zero, so they stay still; neighbouring nodes are half a wavelength apart, and for a string fixed at both ends `L = n λ / 2`.",
+    "tr": "Dar moj-e istade, noghte-hayi ke damane-shan hamishe sefr ast va saken mimanand; do gereh-e peyapey nim tool-e moj fasele darand va baraye tar ba do sar-e baste `L = n λ / 2`."
+   },
+   "contrast": {
+    "fa": "گره: همیشه ساکن؛ شکم: بیشترین دامنه.",
+    "en": "Node: always still; antinode: largest amplitude.",
+    "tr": "Gereh: hamishe saken; shekam: bishtarin damane."
+   },
+   "unit": "phys-3-reflection-standing"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-light-refraction",
+   "term": {
+    "fa": "شکست نور",
+    "en": "light refraction",
+    "tr": "shekast-e noor"
+   },
+   "explain": {
+    "fa": "تغییر تندی و جهت نور در مرز دو محیط. ورود به محیط با ضریب شکست بیشتر: کند شدن و نزدیک شدن به خط عمود؛ خروج به محیط با ضریب کمتر: تند شدن و دور شدن. بسامد ثابت، طول موج `λ / n`.",
+    "en": "The change in light's speed and direction at the boundary of two media. Entering a higher-index medium: slowing down and bending towards the normal; leaving into a lower-index one: speeding up and bending away. Frequency unchanged, wavelength `λ / n`.",
+    "tr": "Taghyir-e tondi va jahat-e noor dar marz-e do mohit. Vorood be mohit ba zarib-e shekast-e bishtar: kond shodan va nazdik shodan be khatt-e amood; khorooj be mohit ba zarib-e kamtar: tond shodan va door shodan. Basamad sabet, tool-e moj `λ / n`."
+   },
+   "matches": {
+    "en": [
+     "refraction",
+     "refraction of light"
+    ]
+   },
+   "analogy": {
+    "fa": "ماشینی که با زاویه از آسفالت وارد شن می‌شود و می‌چرخد.",
+    "en": "A car driving at an angle from tarmac onto sand and turning.",
+    "tr": "Mashini ke ba zaviye az asfalt vared-e shen mishavad va micharkhad."
+   },
+   "contrast": {
+    "fa": "هنگام شکست، بسامد هرگز تغییر نمی‌کند.",
+    "en": "On refraction, the frequency never changes.",
+    "tr": "Hengam-e shekast, basamad hargez taghyir nemikonad."
+   },
+   "unit": "phys-3-refraction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-refractive-index",
+   "term": {
+    "fa": "ضریب شکست",
+    "en": "refractive index",
+    "tr": "zarib-e shekast"
+   },
+   "explain": {
+    "fa": "`n = c / v`: نسبت تندی نور در خلأ به تندی آن در محیط. شیشه با `n = 1.5` نور را به `2 × 10^8 m/s` کند می‌کند. قانون اسنل: `n1 sin i = n2 sin r`.",
+    "en": "`n = c / v`: the speed of light in a vacuum divided by its speed in the medium. Glass with `n = 1.5` slows light to `2 × 10^8 m/s`. Snell's law: `n1 sin i = n2 sin r`.",
+    "tr": "`n = c / v`: nesbat-e tondi-ye noor dar khala' be tondi-ye an dar mohit. Shishe ba `n = 1.5` noor ra be `2 × 10^8 m/s` kond mikonad. Ghanoon-e Snell: `n1 sin i = n2 sin r`."
+   },
+   "unit": "phys-3-refraction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-wave-frequency",
+   "term": {
+    "fa": "بسامد موج",
+    "en": "wave frequency",
+    "tr": "basamad-e moj"
+   },
+   "explain": {
+    "fa": "هنگام شکست نور یا رفتن هر موجی به محیط دیگر، بسامد ثابت می‌ماند، چون آن را چشمه تعیین کرده است؛ تندی و طول موج تغییر می‌کنند.",
+    "en": "When light refracts, or any wave enters another medium, the frequency stays the same, because the source set it; the speed and wavelength change.",
+    "tr": "Hengam-e shekast-e noor ya raftan-e har moji be mohit-e digar, basamad sabet mimanad, chon an ra cheshme ta'yin karde ast; tondi va tool-e moj taghyir mikonand."
+   },
+   "unit": "phys-3-refraction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-monochromatic-ray",
+   "term": {
+    "fa": "پرتو نور تک‌رنگ",
+    "en": "monochromatic ray",
+    "tr": "partov-e noor-e tak-rang"
+   },
+   "explain": {
+    "fa": "نوری با یک بسامد (یک رنگ) معین؛ در شکست، بسامدش ثابت و تندی و طول موجش تغییر می‌کنند.",
+    "en": "Light of one definite frequency (one colour); on refraction, its frequency stays fixed while its speed and wavelength change.",
+    "tr": "Noori ba yek basamad (yek rang)-e mo'ayyan; dar shekast, basamadash sabet va tondi va tool-e mojash taghyir mikonand."
+   },
+   "unit": "phys-3-refraction"
+  }
+ ]
+}
