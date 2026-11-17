@@ -1,0 +1,472 @@
+{
+ "version": 139,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Physics",
+   "session": "1396-Khordad",
+   "number": 0,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (نمودار مکان-زمان و سرعت-زمان)",
+    "en": "Chapter 1: Motion Along a Straight Line (Velocity-Time Graphs)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Nemoodar-e Sorat-Zaman)",
+    "pages": "10–16"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "چگونه می‌توان مسافت پیموده‌شده و جابه‌جایی یک متحرک را با استفاده از سطح زیر نمودار سرعت-زمان (⁦v-t⁩) در یک بازهٔ زمانی مشخص تعیین کرد؟",
+     "grading_key": "- [0.5] برای بیان اینکه جابه‌جایی برابر با مجموع جبری مساحت‌های زیر نمودار است (سطح بالای محور زمان مثبت و سطح زیر محور منفی منظور می‌شود)\n- [0.5] برای توضیح اینکه مسافت پیموده‌شده برابر با مجموع قدرمطلق همهٔ مساحت‌هاست",
+     "final_resolution": "جابه‌جایی = مجموع جبری مساحت‌ها (بالای محور زمان مثبت، زیر آن منفی)؛ مسافت = مجموع قدرمطلق همهٔ مساحت‌ها.",
+     "notes": "",
+     "keywords": [
+      "نمودار سرعت-زمان",
+      "جابه‌جایی",
+      "مسافت پیموده‌شده",
+      "مساحت",
+      "سطح زیر نمودار"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "How can the distance travelled and the displacement of a moving object be found from the area under a velocity-time (v-t) graph over a given time interval?",
+     "grading_key": "- [0.5] for stating that displacement equals the algebraic sum of the areas (above the time axis positive, below negative).\n- [0.5] for explaining that the total distance travelled is the sum of the absolute values of all the areas.",
+     "final_resolution": "Displacement is the algebraic sum of the areas (above the t-axis positive, below negative); distance is the sum of the absolute areas.",
+     "notes": "",
+     "keywords": [
+      "velocity-time graph",
+      "displacement",
+      "distance travelled",
+      "area",
+      "area under the graph"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Chegooneh mitavan masafat va jabejayi-ye yek motaharrek ra ba estefadeh az sath-e zir-e nemoodar-e sorat-zaman (v-t) dar yek baze-ye zamani ta`yin kard?",
+     "grading_key": "- [0.5] baraye jabejayi va majmoo-e jabri-ye sath-ha\n- [0.5] baraye masafat va ghadrmotlagh-e sath-ha",
+     "final_resolution": "Jabejayi = majmoo-e jabri-ye masahat-ha (bala-ye mehvar mosbat, zir-e an manfi); masafat = majmoo-e ghadrmotlagh-e hameh-ye masahat-ha.",
+     "notes": "",
+     "keywords": [
+      "nemoodar-e sorat-zaman",
+      "jabejayi",
+      "masafat-e peymoodeh-shodeh",
+      "masahat",
+      "sath-e zir-e nemoodar"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1398-Khordad",
+   "number": 0,
+   "topic_tag": "kinematics-dynamics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: حرکت بر خط راست (سقوط آزاد)",
+    "en": "Chapter 1: Motion Along a Straight Line (Free Fall)",
+    "tr": "Fasl 1: Harekat bar Khat-e Rast (Soghoot-e Azad)",
+    "pages": "24–28"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حرکت‌شناسی و دینامیک",
+     "question": "گلوله‌ای از ارتفاع ⁦45 m⁩ بدون سرعت اولیه رها می‌شود.\nالف) مدت زمانی را که طول می‌کشد تا گلوله به زمین برسد محاسبه کنید.\nب) سرعت گلوله را در لحظهٔ برخورد با زمین به دست آورید. (⁦g = 10 m/s²⁩)",
+     "grading_key": "- [0.5] برای معادلهٔ مکان-زمان ⁦h = ½gt²⁩ و محاسبهٔ زمان سقوط: ⁦45 = 5t² ⇒ t² = 9 ⇒ t = 3 s⁩\n- [0.5] برای معادلهٔ سرعت-زمان ⁦v = gt⁩ و محاسبهٔ سرعت برخورد: ⁦v = 10 × 3 = 30 m/s⁩",
+     "final_resolution": "⁦t = 3 s⁩ ؛ ⁦v = 30 m/s⁩ رو به پایین",
+     "notes": "",
+     "keywords": [
+      "سقوط آزاد",
+      "شتاب گرانش",
+      "زمان سقوط",
+      "سرعت برخورد",
+      "معادلهٔ مکان-زمان"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinematics & Dynamics",
+     "question": "A ball is dropped from a height of 45 m with zero initial velocity.\na) Calculate the time it takes to reach the ground.\nb) Find its velocity at the moment of impact. (Use g = 10 m/s²)",
+     "grading_key": "- [0.5] for the displacement equation h = ½gt² and the fall time: 45 = 5t² ⇒ t = 3 s.\n- [0.5] for the velocity equation v = gt and the impact velocity: v = 10 × 3 = 30 m/s.",
+     "final_resolution": "t = 3 s; v = 30 m/s downward.",
+     "notes": "",
+     "keywords": [
+      "free fall",
+      "gravitational acceleration",
+      "fall time",
+      "impact velocity",
+      "position-time equation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Harekat-shenasi va dinamik",
+     "question": "Golooleyi az ertefa-e 45 m bedoon-e sorat-e avaliyeh raha mishavad.\na) Zaman-e residan be zamin ra mohasebeh konid.\nb) Sorat-e golooleh ra dar lahze-ye barkhord be dast avarid. (g = 10 m/s²)",
+     "grading_key": "- [0.5] baraye h = ½gt² va zaman (t = 3 s)\n- [0.5] baraye v = gt va sorat (v = 30 m/s)",
+     "final_resolution": "t = 3 s; v = 30 m/s be samt-e paeen.",
+     "notes": "",
+     "keywords": [
+      "soghoot-e azad",
+      "shetab-e geranesh",
+      "zaman-e soghoot",
+      "sorat-e barkhord",
+      "moadeleh-ye makan-zaman"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (تکانهٔ خطی)",
+    "en": "Chapter 2: Dynamics and Forces (Linear Momentum)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Takaneh)",
+    "pages": "42–48"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "جسمی به جرم ⁦2 kg⁩ با سرعت اولیهٔ ⁦10 m/s⁩ روی خط راست حرکت می‌کند. اگر نیروی ثابت افقی ⁦6 N⁩ هم‌جهت با حرکت به مدت ⁦4 s⁩ به آن وارد شود، سرعت نهایی جسم را با استفاده از مفهوم تکانه محاسبه کنید.",
+     "grading_key": "- [0.25] برای رابطهٔ نیرو و تغییر تکانه: ⁦F × Δt = Δp = m(Vf − Vi)⁩\n- [0.25] برای جای‌گذاری مقادیر عددی: ⁦6 × 4 = 2 × (Vf − 10)⁩\n- [0.5] برای محاسبات جبری و یافتن سرعت نهایی: ⁦24 = 2Vf − 20 ⇒ 44 = 2Vf ⇒ Vf = 22 m/s⁩",
+     "final_resolution": "⁦Vf = 22 m/s⁩",
+     "notes": "",
+     "keywords": [
+      "تکانهٔ خطی",
+      "تغییر تکانه",
+      "نیروی ثابت",
+      "سرعت نهایی",
+      "ضربه"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "An object with a mass of 2 kg moves along a straight line with an initial velocity of 10 m/s. If a constant horizontal force of 6 N is applied in the direction of motion for 4 s, calculate its final velocity using the concept of momentum.",
+     "grading_key": "- [0.25] for writing the impulse-momentum equation: F × Δt = Δp = m(Vf − Vi).\n- [0.25] for correct value substitution: 6 × 4 = 2 × (Vf − 10).\n- [0.5] for the algebra to find the final velocity: 24 = 2Vf − 20 ⇒ 44 = 2Vf ⇒ Vf = 22 m/s.",
+     "final_resolution": "Vf = 22 m/s",
+     "notes": "",
+     "keywords": [
+      "linear momentum",
+      "change in momentum",
+      "constant force",
+      "final velocity",
+      "impulse"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Jesmi be jarm-e 2 kg ba sorat-e avaliyeh-ye 10 m/s rooy-e khatt-e rast harekat mikonad. Agar niroo-ye sabet-e ofoghi-ye 6 N ham-jahat ba harekat be moddat-e 4 s be an vared shavad, sorat-e nahayi ra ba estefadeh az mafhoom-e takaneh mohasebeh konid.",
+     "grading_key": "- [0.25] baraye formool-e takaneh: F × Δt = m(Vf − Vi)\n- [0.25] baraye jaygozari: 6 × 4 = 2 × (Vf − 10)\n- [0.5] baraye mohasebeh-ye nahayi: Vf = 22 m/s",
+     "final_resolution": "Vf = 22 m/s",
+     "notes": "",
+     "keywords": [
+      "takaneh",
+      "taghyir-e takaneh",
+      "niroo-ye sabet",
+      "sorat-e nahayi",
+      "zarbeh"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قانون گرانش عمومی)",
+    "en": "Chapter 2: Dynamics and Forces (Universal Law of Gravitation)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki (Geranesh)",
+    "pages": "46–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "اگر فاصلهٔ بین دو جسم فرضی سه برابر شود، نیروی جاذبهٔ گرانشی بین آن‌ها چه تغییری می‌کند؟ رابطهٔ فیزیکی آن را بنویسید.",
+     "grading_key": "- [0.25] برای نوشتن قانون گرانش عمومی نیوتون: ⁦F = G × m1m2 / r²⁩\n- [0.75] برای تحلیل تناسب وارون با مجذور فاصله و نتیجه‌گیری اینکه با ۳ برابر شدن فاصله، نیرو ۱/۹ برابر حالت اول می‌شود (⁦F′ = F/9⁩)",
+     "final_resolution": "نیروی گرانشی به ۱/۹ مقدار اولیه کاهش می‌یابد (⁦F′ = F/9⁩).",
+     "notes": "",
+     "keywords": [
+      "قانون گرانش عمومی",
+      "نیروی جاذبه",
+      "فاصلهٔ بین دو جسم",
+      "تناسب وارون با مجذور فاصله"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "If the distance between two hypothetical objects becomes three times larger, how does the gravitational force between them change? Write the relevant physical equation.",
+     "grading_key": "- [0.25] for writing Newton's universal law of gravitation: F = G × m1m2 / r².\n- [0.75] for analyzing the inverse-square dependence on distance and concluding that the force drops to 1/9 of its original value (F′ = F/9).",
+     "final_resolution": "The gravitational force decreases to 1/9 of its original value (F′ = F/9).",
+     "notes": "",
+     "keywords": [
+      "universal gravitation",
+      "attractive force",
+      "distance between objects",
+      "inverse-square law"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Agar faseleh-ye beyn-e do jesm se barabar shavad, niroo-ye jazebeh-ye geraneshi che taghyiri mikonad? Rabete-ye fiziki-ash ra benevisid.",
+     "grading_key": "- [0.25] baraye formool-e geranesh: F = G × m1m2 / r²\n- [0.75] baraye yek-nohom shodan-e niroo (F′ = F/9)",
+     "final_resolution": "Niroo-ye geraneshi be 1/9 meghdar-e avvaliye kahesh mi-yabad (F′ = F/9).",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e geranesh",
+      "niroo-ye jazebeh",
+      "faseleh-ye beyn-e do jesm",
+      "tanasob-e varoon ba majzoor-e faseleh"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1400-Dey",
+   "number": 0,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (مشخصات موج عرضی)",
+    "en": "Chapter 3: Oscillations and Waves (Characteristics of Transverse Waves)",
+    "tr": "Fasl 3: Navasan va Moj",
+    "pages": "74–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "رابطهٔ بین سرعت انتشار موج (⁦v⁩)، بسامد (⁦f⁩) و طول موج (⁦λ⁩) را بنویسید. اگر بسامد یک موج صوتی در هوا دو برابر شود، طول موج آن چه تغییری می‌کند؟",
+     "grading_key": "- [0.25] برای نوشتن رابطهٔ اصلی موج: ⁦v = f × λ⁩\n- [0.75] برای استدلال اینکه سرعت در یک محیط ثابت است، پس با دو برابر شدن بسامد، طول موج نصف می‌شود (⁦λ/2⁩)",
+     "final_resolution": "⁦v = f × λ⁩ ؛ چون سرعت در یک محیط ثابت است، با دو برابر شدن بسامد طول موج نصف می‌شود (⁦λ/2⁩).",
+     "notes": "",
+     "keywords": [
+      "سرعت انتشار موج",
+      "بسامد",
+      "طول موج",
+      "محیط انتشار",
+      "موج صوتی"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "Write the relationship between wave propagation speed (v), frequency (f), and wavelength (λ). If the frequency of a sound wave in air doubles, how does its wavelength change?",
+     "grading_key": "- [0.25] for writing the foundational wave equation: v = f × λ.\n- [0.75] for reasoning that since medium properties fix speed (v), doubling frequency halves the wavelength (λ/2).",
+     "final_resolution": "v = f × λ. Since speed (v) is constant in a fixed medium, doubling the frequency halves the wavelength (λ/2).",
+     "notes": "",
+     "keywords": [
+      "propagation speed",
+      "frequency",
+      "wavelength",
+      "wave medium",
+      "sound wave"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Rabeteh-ye beyn-e sorat-e enteshar-e moj (v), basamad (f) va tool-e moj (λ) ra benevisid. Agar basamad-e yek moj-e souti dar hava do barabar shavad, tool-e moj che taghyiri mikonad?",
+     "grading_key": "- [0.25] baraye formool-e v = f × λ\n- [0.75] baraye nesf shodan-e tool-e moj (λ/2)",
+     "final_resolution": "v = f × λ; sorat dar yek mohit sabet ast, pas ba do barabar shodan-e basamad tool-e moj nesf mishavad (λ/2).",
+     "notes": "",
+     "keywords": [
+      "sorat-e enteshar-e moj",
+      "basamad",
+      "tool-e moj",
+      "mohit-e enteshar",
+      "moj-e sooti"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "atomic-nuclear",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: آشنایی با فیزیک اتمی و هسته‌ای (اثر فوتوالکتریک)",
+    "en": "Chapter 4: Introduction to Atomic and Nuclear Physics (Photoelectric Effect)",
+    "tr": "Fasl 4: Ashnai ba Fizik-e Atomi va Hastei",
+    "pages": "95–102"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "فیزیک اتمی و هسته‌ای",
+     "question": "در اثر فوتوالکتریک، اگر طول موج نور ورودی کاهش یابد، بیشینهٔ انرژی جنبشی (⁦Kmax⁩) فوتوالکترون‌های گسیل‌شده چه تغییری می‌کند؟ با ذکر رابطهٔ فیزیکی توضیح دهید.",
+     "grading_key": "- [0.5] برای بیان فرمول انرژی فوتون ⁦E = hc/λ⁩ و اشاره به اینکه با کاهش طول موج، انرژی نور ورودی افزایش می‌یابد\n- [0.5] برای استفاده از معادلهٔ فوتوالکتریک ⁦Kmax = hf − W0⁩ و نتیجه‌گیری اینکه با افزایش انرژی فوتون، بیشینهٔ انرژی جنبشی نیز افزایش می‌یابد",
+     "final_resolution": "⁦Kmax⁩ افزایش می‌یابد، زیرا با کاهش طول موج انرژی فوتون (⁦E = hc/λ⁩) بیشتر می‌شود.",
+     "notes": "",
+     "keywords": [
+      "اثر فوتوالکتریک",
+      "انرژی جنبشی بیشینه",
+      "طول موج",
+      "انرژی فوتون",
+      "نظریهٔ کوانتومی"
+     ]
+    },
+    "en": {
+     "topic_label": "Atomic & Nuclear Physics",
+     "question": "In the photoelectric effect, if the wavelength of the incident light decreases, how does the maximum kinetic energy (Kmax) of the emitted photoelectrons change? Explain using the relevant physical equation.",
+     "grading_key": "- [0.5] for stating the photon energy formula E = hc/λ, indicating that decreasing wavelength increases incident photon energy.\n- [0.5] for using the photoelectric equation Kmax = hf − W0 and concluding that higher photon energy directly increases maximum kinetic energy.",
+     "final_resolution": "Kmax increases because decreasing the wavelength increases the photon energy (E = hc/λ).",
+     "notes": "",
+     "keywords": [
+      "photoelectric effect",
+      "maximum kinetic energy",
+      "wavelength",
+      "photon energy",
+      "quantum theory"
+     ]
+    },
+    "tr": {
+     "topic_label": "Fizik-e atomi va hastei",
+     "question": "Dar asar-e photoelectric, agar tool-e moj-e noor-e voroodi kahesh yabad, bishineh-ye enerji-ye jonbeshi (Kmax) che taghyiri mikonad? Ba zekr-e rabete-ye fiziki tozih dahid.",
+     "grading_key": "- [0.5] baraye formool-e enerji-ye photon: E = hc/λ\n- [0.5] baraye moadeleh-ye photoelectric: Kmax = hf − W0",
+     "final_resolution": "Kmax afzayesh mi-yabad, chon ba kahesh-e tool-e moj enerji-ye photon (E = hc/λ) bishtar mishavad.",
+     "notes": "",
+     "keywords": [
+      "asar-e photoelectric",
+      "enerji-ye jonbeshi-ye bishineh",
+      "tool-e moj",
+      "enerji-ye photon",
+      "nazariyeh-ye quantomi"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1401-Khordad",
+   "number": 901,
+   "topic_tag": "waves-shm",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: نوسان و موج (شکست نور)",
+    "en": "Chapter 3: Oscillations and Waves (Law of Refraction)",
+    "tr": "Fasl 3: Navasan va Moj (Shekast-e Noor)",
+    "pages": "82–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "موج و حرکت هماهنگ",
+     "question": "وقتی یک پرتو نور تک‌رنگ از هوا وارد محیط شفافی با ضریب شکست ⁦n = 1.5⁩ می‌شود:\nالف) بسامد آن چه تغییری می‌کند؟\nب) سرعت انتشار آن چگونه تغییر می‌کند؟",
+     "grading_key": "- [0.5] برای بیان اینکه بسامد نور به چشمهٔ آن بستگی دارد و با تغییر محیط ثابت می‌ماند\n- [0.5] برای نوشتن رابطهٔ ⁦v = c/n⁩ و نتیجه‌گیری اینکه سرعت انتشار ۱٫۵ برابر کم می‌شود",
+     "final_resolution": "بسامد ثابت می‌ماند (چشمه آن را تعیین می‌کند)؛ سرعت انتشار کم می‌شود (⁦v = c/n⁩).",
+     "notes": "",
+     "keywords": [
+      "شکست نور",
+      "ضریب شکست",
+      "بسامد موج",
+      "سرعت انتشار",
+      "پرتو نور تک‌رنگ"
+     ]
+    },
+    "en": {
+     "topic_label": "Waves & Harmonic Motion",
+     "question": "When a monochromatic light ray travels from air into a transparent medium with a refractive index of n = 1.5:\na) how does its frequency change?\nb) how does its propagation speed change?",
+     "grading_key": "- [0.5] for stating that wave frequency depends on the source and stays constant across media.\n- [0.5] for applying v = c/n and concluding that the propagation speed decreases by a factor of 1.5.",
+     "final_resolution": "Frequency remains constant (fixed by the source); propagation speed decreases (v = c/n).",
+     "notes": "",
+     "keywords": [
+      "refraction of light",
+      "refractive index",
+      "wave frequency",
+      "propagation speed",
+      "monochromatic ray"
+     ]
+    },
+    "tr": {
+     "topic_label": "Mowj va harekat-e hamahang",
+     "question": "Vaghti yek parto-ye noor-e tak-rang az hava vared-e mohiti ba zarib-e shekast-e n = 1.5 mishavad:\na) basamad-ash che taghyiri mikonad?\nb) sorat-e enteshar-ash chegooneh taghyir mikonad?",
+     "grading_key": "- [0.5] baraye sabet mandan-e basamad\n- [0.5] baraye kahesh-e sorat ba formool-e v = c/n",
+     "final_resolution": "Basamad sabet mimanad (cheshmeh an ra ta`yin mikonad); sorat-e enteshar kam mishavad (v = c/n).",
+     "notes": "",
+     "keywords": [
+      "shekast-e noor",
+      "zarib-e shekast",
+      "basamad-e moj",
+      "sorat-e enteshar",
+      "partov-e noor-e tak-rang"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Physics",
+   "session": "1402-Khordad",
+   "number": 0,
+   "topic_tag": "dynamics-forces",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: دینامیک و نیروهای مکانیکی (قوانین نیوتون)",
+    "en": "Chapter 2: Dynamics and Forces (Newton's Laws)",
+    "tr": "Fasl 2: Dinamik va Niroo-haye Mekaniki",
+    "pages": "32–40"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "دینامیک و نیرو",
+     "question": "جسمی به جرم ⁦4 kg⁩ روی یک سطح افقی با ضریب اصطکاک جنبشی ⁦0.2⁩ قرار دارد. اگر نیروی افقی ⁦16 N⁩ به جسم وارد شود، شتاب حرکت آن را محاسبه کنید. (⁦g = 10 m/s²⁩)",
+     "grading_key": "- [0.25] برای محاسبهٔ نیروی عمودی تکیه‌گاه: ⁦Fn = mg = 40 N⁩\n- [0.25] برای محاسبهٔ نیروی اصطکاک جنبشی: ⁦Fk = μk × Fn = 0.2 × 40 = 8 N⁩\n- [0.5] برای اعمال قانون دوم نیوتون و محاسبهٔ شتاب: ⁦F − Fk = ma ⇒ 16 − 8 = 4a ⇒ a = 2 m/s²⁩",
+     "final_resolution": "⁦a = 2 m/s²⁩",
+     "notes": "",
+     "keywords": [
+      "قانون دوم نیوتون",
+      "اصطکاک جنبشی",
+      "نیروی عمودی",
+      "شتاب حرکت"
+     ]
+    },
+    "en": {
+     "topic_label": "Dynamics & Forces",
+     "question": "An object with a mass of 4 kg rests on a horizontal surface with a kinetic friction coefficient of 0.2. If a horizontal force of 16 N is applied, calculate its acceleration. (Use g = 10 m/s²)",
+     "grading_key": "- [0.25] for the normal force: Fn = mg = 40 N\n- [0.25] for the kinetic friction force: Fk = μk × Fn = 0.2 × 40 = 8 N\n- [0.5] for applying Newton's second law and computing the acceleration: 16 − 8 = 4a ⇒ a = 2 m/s²",
+     "final_resolution": "a = 2 m/s²",
+     "notes": "",
+     "keywords": [
+      "Newton's second law",
+      "kinetic friction",
+      "normal force",
+      "acceleration"
+     ]
+    },
+    "tr": {
+     "topic_label": "Dinamik va niroo",
+     "question": "Jesmi be jarm-e 4 kg rooy-e yek sath-e ofoghi ba zarib-e estekak-e jonbeshi 0.2 gharar darad. Agar niroo-ye ofoghi-ye 16 N vared shavad, shetab-e harekat ra mohasebeh konid. (g = 10 m/s²)",
+     "grading_key": "- [0.25] baraye Fn = mg = 40 N\n- [0.25] baraye Fk = μk × Fn = 8 N\n- [0.5] baraye ghanoon-e dovom-e Newton va shetab: a = 2 m/s²",
+     "final_resolution": "a = 2 m/s²",
+     "notes": "",
+     "keywords": [
+      "ghanoon-e dovom-e Newton",
+      "estekak-e jonbeshi",
+      "niroo-ye amoodi",
+      "shetab-e harekat"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
