@@ -256,3 +256,5 @@ not named here, unused words from the Arabic lesson texts, Math chapter 6).
    - Shared meaning (gharabat): «میازار موری که دانه‌کش است» (not harming an ant);
      Farrokhi Yazdi's couplet on giving one's life for freedom and the homeland.
 ========================================================================
+
+- Pack 144 (2026-11-17, format 7): no new questions. Re-issues 13 lesson units unchanged, adding built-in animations (app 3.16.1): Physics motion graphs, spring SHM, wave types, refraction, Bohr; Chemistry galvanic cell, equilibrium, collisions/Ea, micelle; Biology replication fork, ribosome, ATP synthase (x2).

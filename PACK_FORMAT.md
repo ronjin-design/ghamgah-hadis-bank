@@ -156,6 +156,20 @@ SHA-256 checksums stay exact.
   - `key` is unique in the pack; a later pack with the same subject and
     `key` replaces the entry. A pack with glossary entries must say
     `"format": 6`.
+- **Format 7** (app 3.16.1+) adds an optional **`anim`** id to a `diagram`
+  block: `{"type": "diagram", "art": "...", "caption": {...}, "anim": "phys.bohr"}`.
+  The app then shows a built-in animation in place of the text picture, with
+  pause and "text version" buttons; the text art stays required and is shown
+  with reduce-motion on or for an id the app does not know yet.
+  - `anim` is lower-case letters, digits, `.` and `-`, at most 48
+    characters. Built-in ids (3.16.1): `phys.motion-graphs`, `phys.spring-shm`,
+    `phys.wave-types`, `phys.refraction`, `phys.bohr`, `chem.galvanic`,
+    `chem.equilibrium`, `chem.collisions`, `chem.micelle`,
+    `bio.replication-fork`, `bio.ribosome`, `bio.atp-synthase`.
+  - A pack using `anim` must say `"format": 7`, so older apps stop and ask
+    for the update instead of storing the unit without its animation (a
+    stored unit is not fetched again). Re-issue a unit by its `key`, copied
+    unchanged from its latest pack plus the `anim` field (pack 144 does this).
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,

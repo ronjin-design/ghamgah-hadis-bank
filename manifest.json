@@ -858,6 +858,12 @@
    "format": 6,
    "file": "pack-0143.json",
    "sha256": "5addb7cc619b10aa459301d904a6ce0fffaa9311ba2576cc2020071736335c4b"
+  },
+  {
+   "version": 144,
+   "format": 7,
+   "file": "pack-0144.json",
+   "sha256": "1c27aea4d025d4fe63b0979f5ba7ae8c24a90eedc2c15f6d95064df6800a8b5b"
   }
  ]
 }

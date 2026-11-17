@@ -1,0 +1,2588 @@
+{
+ "version": 144,
+ "format": 7,
+ "lessons": [
+  {
+   "subject": "Physics",
+   "chapter": 1,
+   "unit": 2,
+   "key": "phys-1-instantaneous-velocity",
+   "title": {
+    "fa": "سرعت لحظه‌ای و نمودار مکان-زمان",
+    "en": "Instantaneous velocity and position-time graphs",
+    "tr": "Sor'at-e lahze-i va nemoodar-e makan-zaman"
+   },
+   "summary": {
+    "fa": "عقربهٔ سرعت‌سنج ماشین: سرعت در همین لحظه، نه میانگین کل سفر.",
+    "en": "The car's speedometer needle: the velocity right now, not the average over the trip.",
+    "tr": "Aghrabe-ye sor'at-sanj-e mashin: sor'at dar hamin lahze, na miyangin-e kol-e safar."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: عقربهٔ سرعت‌سنج",
+      "en": "Understand first: the speedometer needle",
+      "tr": "Avval befahm: aghrabe-ye sor'at-sanj"
+     },
+     "body": {
+      "fa": "اگر بازهٔ زمانی سرعت متوسط را کوچک و کوچک‌تر کنیم، به «سرعت لحظه‌ای» می‌رسیم: حد سرعت متوسط وقتی `Δt` به صفر میل می‌کند (آزمون خرداد ۱۳۹۹). مثل عقربهٔ سرعت‌سنج که سرعت همین لحظه را نشان می‌دهد. روی نمودار مکان-زمان، پاره‌خط میان دو نقطه آن‌قدر کوتاه می‌شود که به «خط مماس» تبدیل می‌شود؛ پس سرعت لحظه‌ای برابر شیب خط مماس بر نمودار `x-t` است (آزمون‌های خرداد ۱۳۹۸ و خرداد ۱۳۹۹).",
+      "en": "If we shrink the time interval of the average velocity smaller and smaller, we reach \"instantaneous velocity\": the limit of the average velocity as `Δt` approaches zero (Khordad 1399 paper). Like a speedometer needle showing the velocity at this very moment. On a position-time graph, the chord between two points becomes so short that it turns into the \"tangent line\"; so instantaneous velocity equals the slope of the tangent to the `x-t` graph (Khordad 1398 and Khordad 1399 papers).",
+      "tr": "Agar baze-ye zamani-ye sor'at-e motavasset ra koochak va koochak-tar konim, be \"sor'at-e lahze-i\" miresim: had-e sor'at-e motavasset vaghti `Δt` be sefr meyl mikonad (azmoon-e Khordad 1399). Mesl-e aghrabe-ye sor'at-sanj ke sor'at-e hamin lahze ra neshan midahad. Rooye nemoodar-e makan-zaman, pare-khatt miyan-e do noghte an-ghadr kootah mishavad ke be \"khatt-e momas\" tabdil mishavad; pas sor'at-e lahze-i barabar-e shib-e khatt-e momas bar nemoodar-e `x-t` ast (azmoon-haye Khordad 1398 va Khordad 1399)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خواندن شیب نمودار مکان-زمان",
+      "en": "Reading the slope of a position-time graph",
+      "tr": "Khandan-e shib-e nemoodar-e makan-zaman"
+     },
+     "body": {
+      "fa": "خواندن نمودار `x-t` یعنی خواندن شیب مماس: شیب مثبت یعنی حرکت در جهت مثبت، شیب منفی یعنی جهت منفی، و شیب صفر (مماس افقی) یعنی سرعت در آن لحظه صفر است. اگر نمودار در یک بازه کاملاً افقی باشد، جسم در آن بازه ساکن است (آزمون دی ۱۴۰۰). جایی که شیب از منفی به مثبت (یا برعکس) عوض می‌شود، جسم «برمی‌گردد»؛ برای مسافت باید هر تکه را جدا حساب کرد.",
+      "en": "Reading an `x-t` graph means reading the tangent's slope: a positive slope means motion in the positive direction, a negative slope the negative direction, and a zero slope (horizontal tangent) means the velocity is zero at that instant. If the graph is completely horizontal over an interval, the object is at rest during it (Dey 1400 paper). Where the slope changes from negative to positive (or the reverse), the object \"turns back\"; for distance each piece must be counted separately.",
+      "tr": "Khandan-e nemoodar-e `x-t` ya'ni khandan-e shib-e momas: shib-e mosbat ya'ni harekat dar jahat-e mosbat, shib-e manfi ya'ni jahat-e manfi, va shib-e sefr (momas-e ofoghi) ya'ni sor'at dar an lahze sefr ast. Agar nemoodar dar yek baze kamelan ofoghi bashad, jesm dar an baze saken ast (azmoon-e Dey 1400). Jayi ke shib az manfi be mosbat (ya bar-aks) avaz mishavad, jesm \"barmigardad\"; baraye masafat bayad har tekke ra joda hesab kard."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "v = lim (Δx / Δt)  as  Δt → 0",
+     "caption": {
+      "fa": "سرعت لحظه‌ای: شیب خط مماس بر نمودار `x-t`؛ اگر `x` تابعی از `t` باشد، مشتق آن",
+      "en": "Instantaneous velocity: the slope of the tangent to the `x-t` graph; if `x` is a function of `t`, its derivative",
+      "tr": "Sor'at-e lahze-i: shib-e khatt-e momas bar nemoodar-e `x-t`; agar `x` tabe'i az `t` bashad, moshtagh-e an"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " x = t^2 - 4t   (SI units)\n\n t (s):   0     1     2     3\n x (m):   0    -3    -4    -3\n\n 0 -> 2 s: x falls, slope < 0\n t = 2 s : tangent flat, v = 0\n 2 -> 3 s: x rises, slope > 0\n\n distance     = 4 + 1  = 5 m\n displacement = -3 - 0 = -3 m",
+     "caption": {
+      "fa": "جسمی که در `t = 2` برمی‌گردد: شیب مماس از منفی به صفر و سپس مثبت می‌رسد.",
+      "en": "An object that turns back at `t = 2`: the tangent's slope goes from negative, to zero, to positive.",
+      "tr": "Jesmi ke dar `t = 2` barmigardad: shib-e momas az manfi be sefr va sepas mosbat miresad."
+     },
+     "anim": "phys.motion-graphs"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: شیب خط مماس بر نمودار مکان-زمان در یک لحظه، کدام کمیت جسم را نشان می‌دهد؟ (آزمون خرداد ۱۳۹۸)",
+      "en": "Warm-up: the slope of the tangent to a position-time graph at an instant shows which quantity of the object? (Khordad 1398 paper)",
+      "tr": "Garm kardan: shib-e khatt-e momas bar nemoodar-e makan-zaman dar yek lahze, kodam kamiyat-e jesm ra neshan midahad? (azmoon-e Khordad 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "شیب پاره‌خط یعنی سرعت متوسط؛ وقتی پاره‌خط به مماس در «یک لحظه» تبدیل شود، سرعت هم لحظه‌ای می‌شود.",
+        "en": "The slope of a chord means average velocity; when the chord becomes the tangent at \"one instant\", the velocity becomes instantaneous too.",
+        "tr": "Shib-e pare-khatt ya'ni sor'at-e motavasset; vaghti pare-khatt be momas dar \"yek lahze\" tabdil shavad, sor'at ham lahze-i mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سرعت لحظه‌ای",
+      "en": "Instantaneous velocity",
+      "tr": "Sor'at-e lahze-i"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مکان جسمی در `SI` از `x = t^2 − 4t` پیروی می‌کند. سرعت متوسط از `0` تا `3` ثانیه و سرعت لحظه‌ای در `t = 3 s` را حساب کن.",
+      "en": "Textbook and exam: an object's position in `SI` units follows `x = t^2 − 4t`. Find the average velocity from `0` to `3` s and the instantaneous velocity at `t = 3 s`.",
+      "tr": "Mas'ale-ye ketab va emtehan: makan-e jesmi dar `SI` az `x = t^2 − 4t` peyravi mikonad. Sor'at-e motavasset az `0` ta `3` sanie va sor'at-e lahze-i dar `t = 3 s` ra hesab kon."
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سرعت متوسط: فقط مکان‌های دو سر بازه را لازم داری.",
+        "en": "Average velocity: you need only the positions at the two ends of the interval.",
+        "tr": "Sor'at-e motavasset: faghat makan-haye do sar-e baze ra lazem dari."
+       },
+       "math": "x(0) = 0 ,  x(3) = 9 − 12 = −3   ⟹   v(av) = −3 / 3 = −1 m/s"
+      },
+      {
+       "text": {
+        "fa": "سرعت لحظه‌ای: شیب مماس، یعنی مشتق `x` نسبت به زمان؛ سپس `t = 3` را بگذار.",
+        "en": "Instantaneous velocity: the slope of the tangent, i.e. the derivative of `x` with respect to time; then substitute `t = 3`.",
+        "tr": "Sor'at-e lahze-i: shib-e momas, ya'ni moshtagh-e `x` nesbat be zaman; sepas `t = 3` ra begozar."
+       },
+       "math": "v = 2t − 4   ⟹   v(3) = 2 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`v(av) = −1 m/s`؛ `v(3) = +2 m/s`",
+      "en": "`v(av) = −1 m/s`; `v(3) = +2 m/s`",
+      "tr": "`v(av) = −1 m/s`; `v(3) = +2 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای همان جسم (`x = t^2 − 4t`)، مسافت پیموده‌شده از `0` تا `3` ثانیه چقدر است؟",
+      "en": "Exam twist: for the same object (`x = t^2 − 4t`), what distance is travelled from `0` to `3` s?",
+      "tr": "Pich-e emtehani: baraye haman jesm (`x = t^2 − 4t`), masafat-e peymoode-shode az `0` ta `3` sanie cheghadr ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: جسم در میانهٔ راه برمی‌گردد. لحظهٔ برگشت را پیدا کن: جایی که سرعت صفر است.",
+        "en": "The twist: the object turns back on the way. Find the turning instant: where the velocity is zero.",
+        "tr": "Pich-e emtehan: jesm dar miyane-ye rah barmigardad. Lahze-ye bargasht ra peyda kon: jayi ke sor'at sefr ast."
+       },
+       "math": "2t − 4 = 0   ⟹   t = 2 s ,   x(2) = −4 m"
+      },
+      {
+       "text": {
+        "fa": "حالا راه را دو تکه کن و طول هر تکه را مثبت بشمار.",
+        "en": "Now split the path in two and count each piece's length as positive.",
+        "tr": "Hala rah ra do tekke kon va tool-e har tekke ra mosbat beshmar."
+       },
+       "math": "|−4 − 0| + |−3 − (−4)| = 4 + 1 = 5 m"
+      }
+     ],
+     "answer": {
+      "fa": "`5` متر (در حالی که جابه‌جایی فقط `−3` متر است)",
+      "en": "`5` m (while the displacement is only `−3` m)",
+      "tr": "`5` metr (dar hali ke jabejayi faghat `−3` metr ast)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مسافت را با `|x(3) − x(0)|` حساب نکن؛ اول بررسی کن جسم در بازه برمی‌گردد یا نه.",
+      "en": "Do not find distance as `|x(3) − x(0)|`; first check whether the object turns back during the interval.",
+      "tr": "Masafat ra ba `|x(3) − x(0)|` hesab nakon; avval barresi kon jesm dar baze barmigardad ya na."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مکان صفر یعنی جسم در مبدأ است، نه اینکه ساکن است؛ سکون یعنی «شیب» صفر، نه «مقدار» صفر.",
+      "en": "Zero position means the object is at the origin, not at rest; rest means zero \"slope\", not a zero \"value\".",
+      "tr": "Makan-e sefr ya'ni jesm dar mabda' ast, na inke saken ast; sokoon ya'ni \"shib\"-e sefr, na \"meghdar\"-e sefr."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 937
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1400-Dey",
+     "number": 932
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 1,
+   "key": "phys-3-shm",
+   "title": {
+    "fa": "حرکت هماهنگ ساده: دوره، بسامد و دامنه",
+    "en": "Simple harmonic motion: period, frequency and amplitude",
+    "tr": "Harekat-e hamahang-e sade: dowre, basamad va damane"
+   },
+   "summary": {
+    "fa": "تابی که رفت و برگشت می‌کند: هر دور همان‌قدر طول می‌کشد، هرچقدر هم بلند تاب بخوری.",
+    "en": "A swing going back and forth: every cycle takes the same time, however high you swing.",
+    "tr": "Tabi ke raft va bargasht mikonad: har dor haman-ghadr tool mikeshad, harcheghadr ham boland tab bekhori."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: رفت و برگشتِ منظم",
+      "en": "Understand first: a regular back-and-forth",
+      "tr": "Avval befahm: raft va bargasht-e monazzam"
+     },
+     "body": {
+      "fa": "در «حرکت هماهنگ ساده»، جسم حول یک نقطهٔ تعادل رفت و برگشت می‌کند و نیروی بازگرداننده او را همیشه به تعادل برمی‌گرداند، مثل جسمی که به فنر بسته شده. بیشترین فاصله از تعادل «دامنه» (`A`) است (آزمون دی ۱۴۰۰). زمان یک نوسان کامل «دوره» (`T`) است (آزمون دی ۱۴۰۰) و شمار نوسان‌ها در هر ثانیه «بسامد» (`f`)؛ این دو وارون هم‌اند: `f = 1/T` (آزمون خرداد ۱۴۰۱). «بسامد زاویه‌ای» `ω = 2πf` است (آزمون خرداد ۱۴۰۱).",
+      "en": "In \"simple harmonic motion\", an object moves back and forth about an equilibrium point, and a restoring force always pulls it back towards equilibrium, like an object tied to a spring. The greatest distance from equilibrium is the \"amplitude\" (`A`) (Dey 1400 paper). The time for one complete oscillation is the \"period\" (`T`) (Dey 1400 paper), and the number of oscillations each second is the \"frequency\" (`f`); the two are reciprocals: `f = 1/T` (Khordad 1401 paper). The \"angular frequency\" is `ω = 2πf` (Khordad 1401 paper).",
+      "tr": "Dar \"harekat-e hamahang-e sade\", jesm hol-e yek noghte-ye ta'adol raft va bargasht mikonad va niroo-ye bazgardanande oo ra hamishe be ta'adol barmigardanad, mesl-e jesmi ke be fanar baste shode. Bishtarin fasele az ta'adol \"damane\" (`A`) ast (azmoon-e Dey 1400). Zaman-e yek navasan-e kamel \"dowre\" (`T`) ast (azmoon-e Dey 1400) va shomar-e navasan-ha dar har sanie \"basamad\" (`f`); in do varoon-e ham-and: `f = 1/T` (azmoon-e Khordad 1401). \"Basamad-e zaviye-i\" `ω = 2πf` ast (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " wall\n |-/\\/\\/\\/\\-[m]\n\n x:  -A --- 0 --- +A --- 0 --- -A\n     |<--- one full cycle: T --->|\n\n at 0     : speed largest, a = 0\n at -A, +A: speed 0, |a| largest",
+     "caption": {
+      "fa": "نوسانگر جرم-فنر: در مرکز تندترین و در دو سر لحظه‌ای ساکن است.",
+      "en": "A mass-spring oscillator: fastest in the middle, momentarily at rest at the two ends.",
+      "tr": "Navasangar-e jerm-fanar: dar markaz tond-tarin va dar do sar lahze-i saken ast."
+     },
+     "anim": "phys.spring-shm"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نوسانگر جرم-فنر",
+      "en": "The mass-spring oscillator",
+      "tr": "Navasangar-e jerm-fanar"
+     },
+     "body": {
+      "fa": "برای نوسانگر جرم-فنر، بسامد زاویه‌ای فقط به ثابت فنر و جرم بستگی دارد (آزمون خرداد ۱۳۹۹): `ω = √(k/m)` و `T = 2π√(m/k)`. فنر سفت‌تر (`k` بیشتر) تندتر نوسان می‌کند و جرم بیشتر کندتر؛ ولی دامنه در دوره اثری ندارد. بیشینهٔ تندی در نقطهٔ تعادل است: `v(max) = A ω`.",
+      "en": "For a mass-spring oscillator, the angular frequency depends only on the spring constant and the mass (Khordad 1399 paper): `ω = √(k/m)` and `T = 2π√(m/k)`. A stiffer spring (larger `k`) oscillates faster and a larger mass slower; but the amplitude has no effect on the period. The maximum speed is at equilibrium: `v(max) = A ω`.",
+      "tr": "Baraye navasangar-e jerm-fanar, basamad-e zaviye-i faghat be sabet-e fanar va jerm bastegi darad (azmoon-e Khordad 1399): `ω = √(k/m)` va `T = 2π√(m/k)`. Fanar-e seft-tar (`k`-e bishtar) tond-tar navasan mikonad va jerm-e bishtar kond-tar; vali damane dar dowre asari nadarad. Bishine-ye tondi dar noghte-ye ta'adol ast: `v(max) = A ω`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ω = √(k/m) ,   T = 2π√(m/k) ,   f = 1/T ,   ω = 2πf",
+     "caption": {
+      "fa": "جرم بر حسب کیلوگرم؛ `v(max) = A ω`",
+      "en": "Mass in kilograms; `v(max) = A ω`",
+      "tr": "Jerm bar hasab-e kilogram; `v(max) = A ω`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رابطهٔ بسامد (`f`) و دوره (`T`) در حرکت هماهنگ ساده چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what is the relationship between frequency (`f`) and period (`T`) in simple harmonic motion? (Khordad 1401 paper)",
+      "tr": "Garm kardan: rabete-ye basamad (`f`) va dowre (`T`) dar harekat-e hamahang-e sade chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اگر هر نوسان `T` ثانیه طول بکشد، در یک ثانیه `1/T` نوسان انجام می‌شود.",
+        "en": "If each oscillation takes `T` seconds, then `1/T` oscillations happen in one second.",
+        "tr": "Agar har navasan `T` sanie tool bekeshad, dar yek sanie `1/T` navasan anjam mishavad."
+       },
+       "math": "T = 0.5 s   ⟹   f = 2 Hz"
+      }
+     ],
+     "answer": {
+      "fa": "`f = 1/T`",
+      "en": "`f = 1/T`",
+      "tr": "`f = 1/T`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نوسانگری به جرم `200` گرم به فنری با `k = 50 N/m` بسته است. دوره را حساب کن و اگر دامنه `10 cm` باشد، بیشینهٔ تندی را بیاب. (`π = 3`؛ آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a `200` g oscillator is attached to a spring with `k = 50 N/m`. Find the period and, if the amplitude is `10 cm`, the maximum speed. (`π = 3`; Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: navasangari be jerm-e `200` geram be fanari ba `k = 50 N/m` baste ast. Dowre ra hesab kon va agar damane `10 cm` bashad, bishine-ye tondi ra beyab. (`π = 3`; azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول: جرم را به کیلوگرم تبدیل کن (`0.2 kg`) و در فرمول دوره بگذار؛ کلید آزمون آن را `0.4` ثانیه گرد کرده است.",
+        "en": "First half mark: convert the mass to kilograms (`0.2 kg`) and use the period formula; the paper's key rounds it to `0.4` s.",
+        "tr": "Nim-nomre-ye avval: jerm ra be kilogram tabdil kon (`0.2 kg`) va dar formool-e dowre begozar; kelid-e azmoon an ra `0.4` sanie gerd karde ast."
+       },
+       "math": "T = 2π√(0.2 / 50) = 6 × 0.063 ≈ 0.4 s"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم: `ω = 2π/T` و سپس `v(max) = A ω`، با دامنه به متر. (بدون گرد کردن، `ω = √250 ≈ 15.8` است.)",
+        "en": "Second half mark: `ω = 2π/T`, then `v(max) = A ω`, with the amplitude in metres. (Without rounding, `ω = √250 ≈ 15.8`.)",
+        "tr": "Nim-nomre-ye dovvom: `ω = 2π/T` va sepas `v(max) = A ω`, ba damane be metr. (Bedoon-e gerd kardan, `ω = √250 ≈ 15.8` ast.)"
+       },
+       "math": "ω = 6 / 0.4 = 15 rad/s ,   v(max) = 0.1 × 15 = 1.5 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`T ≈ 0.4 s`؛ `v(max) = 1.5 m/s`",
+      "en": "`T ≈ 0.4 s`; `v(max) = 1.5 m/s`",
+      "tr": "`T ≈ 0.4 s`; `v(max) = 1.5 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر جرم نوسانگر جرم-فنر چهار برابر شود و دامنه دو برابر، دوره چه تغییری می‌کند؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Exam twist: if the mass of a mass-spring oscillator is made four times larger and its amplitude doubled, how does the period change? (Khordad 1399 paper)",
+      "tr": "Pich-e emtehani: agar jerm-e navasangar-e jerm-fanar chahar barabar shavad va damane do barabar, dowre che taghyiri mikonad? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دامنه در فرمول دوره نیست؛ آن تغییر را کنار بگذار.",
+        "en": "The twist: amplitude is not in the period formula; set that change aside.",
+        "tr": "Pich-e emtehan: damane dar formool-e dowre nist; an taghyir ra kenar begozar."
+       }
+      },
+      {
+       "text": {
+        "fa": "`T` با `√m` متناسب است؛ ریشهٔ `4` می‌شود `2`.",
+        "en": "`T` is proportional to `√m`; the square root of `4` is `2`.",
+        "tr": "`T` ba `√m` motenaseb ast; rishe-ye `4` mishavad `2`."
+       },
+       "math": "T' = 2π√(4m/k) = 2T"
+      }
+     ],
+     "answer": {
+      "fa": "دو برابر می‌شود (فقط به خاطر جرم)",
+      "en": "It doubles (because of the mass alone)",
+      "tr": "Do barabar mishavad (faghat be khater-e jerm)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دامنه در دورهٔ نوسانگر جرم-فنر اثری ندارد؛ فقط `m` و `k`.",
+      "en": "Amplitude has no effect on the period of a mass-spring oscillator; only `m` and `k` do.",
+      "tr": "Damane dar dowre-ye navasangar-e jerm-fanar asari nadarad; faghat `m` va `k`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیش از جایگذاری، گرم را به کیلوگرم و سانتی‌متر را به متر تبدیل کن.",
+      "en": "Before substituting, convert grams to kilograms and centimetres to metres.",
+      "tr": "Pish az jaygozari, geram ra be kilogram va santi-metr ra be metr tabdil kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1400-Dey",
+     "number": 910
+    },
+    {
+     "session": "1400-Dey",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 3,
+   "key": "phys-3-wave-basics",
+   "title": {
+    "fa": "موج: طول موج، بسامد و تندی",
+    "en": "Waves: wavelength, frequency and speed",
+    "tr": "Moj: tool-e moj, basamad va tondi"
+   },
+   "summary": {
+    "fa": "موج انرژی را جابه‌جا می‌کند، نه ماده را؛ مثل موج ورزشگاه که تماشاگران فقط بلند می‌شوند و می‌نشینند.",
+    "en": "A wave carries energy, not matter; like a stadium wave where the fans only stand up and sit down.",
+    "tr": "Moj enerzhi ra jabeja mikonad, na made ra; mesl-e moj-e varzeshgah ke tamashagaran faghat boland mishavand va mineshinand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: موج ورزشگاه",
+      "en": "Understand first: the stadium wave",
+      "tr": "Avval befahm: moj-e varzeshgah"
+     },
+     "body": {
+      "fa": "موج آشفتگی‌ای است که در محیط پیش می‌رود و انرژی را می‌برد، در حالی که ذره‌های محیط فقط در جای خود نوسان می‌کنند؛ مثل موج ورزشگاه. در موج «عرضی» ذره‌ها عمود بر جهت انتشار نوسان می‌کنند (موج طناب) و در موج «طولی» در راستای انتشار (صوت). فاصلهٔ دو قلهٔ پشت سر هم، یا دو دره، «طول موج» (`λ`) است (آزمون‌های خرداد ۱۳۹۹ و خرداد ۱۴۰۱) و فاصلهٔ یک قله تا درهٔ بعدی نصف طول موج (آزمون خرداد ۱۴۰۱).",
+      "en": "A wave is a disturbance that travels through a medium carrying energy, while the particles of the medium only oscillate in place, like a stadium wave. In a \"transverse\" wave the particles vibrate perpendicular to the direction of travel (a wave on a rope), and in a \"longitudinal\" wave along it (sound). The distance between two consecutive crests, or two troughs, is the \"wavelength\" (`λ`) (Khordad 1399 and Khordad 1401 papers), and the distance from a crest to the next trough is half a wavelength (Khordad 1401 paper).",
+      "tr": "Moj ashoftegi-i ast ke dar mohit pish miravad va enerzhi ra mibarad, dar hali ke zarre-haye mohit faghat dar ja-ye khod navasan mikonand; mesl-e moj-e varzeshgah. Dar moj-e \"arzi\" zarre-ha amood bar jahat-e enteshar navasan mikonand (moj-e tanab) va dar moj-e \"tooli\" dar rasta-ye enteshar (sowt). Fasele-ye do ghelle-ye posht-e sar-e ham, ya do darre, \"tool-e moj\" (`λ`) ast (azmoon-haye Khordad 1399 va Khordad 1401) va fasele-ye yek ghelle ta darre-ye ba'di nesf-e tool-e moj (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "     crest          crest\n      _              _\n    /   \\          /   \\\n --/-----\\--------/-----\\------\n          \\      /       \\\n           '-__-'         '-_\n           trough\n      |<-- wavelength -->|\n\n crest to next trough = half of it",
+     "caption": {
+      "fa": "طول موج: از یک قله تا قلهٔ بعدی؛ قله تا دره نصف آن است.",
+      "en": "Wavelength: from one crest to the next; crest to trough is half of it.",
+      "tr": "Tool-e moj: az yek ghelle ta ghelle-ye ba'di; ghelle ta darre nesf-e an ast."
+     },
+     "anim": "phys.wave-types"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چه چیزی تندی، بسامد و طول موج را تعیین می‌کند؟",
+      "en": "What sets the speed, frequency and wavelength?",
+      "tr": "Che chizi tondi, basamad va tool-e moj ra ta'yin mikonad?"
+     },
+     "body": {
+      "fa": "موج در هر دوره یک طول موج جلو می‌رود، پس `v = f λ` (آزمون دی ۱۴۰۰). «بسامد» را چشمه تعیین می‌کند؛ وقتی موج وارد محیط دیگری می‌شود، بسامد ثابت می‌ماند (آزمون دی ۱۴۰۱) و تندی و طول موج عوض می‌شوند. تندی را محیط تعیین می‌کند: برای موج عرضی روی تار کشیده، `v = √(F/μ)`، یعنی با ریشهٔ دوم چگالی خطی جرم `μ` وارون‌متناسب است (آزمون دی ۱۴۰۰).",
+      "en": "A wave moves forward one wavelength every period, so `v = f λ` (Dey 1400 paper). The \"frequency\" is set by the source; when a wave passes into another medium the frequency stays the same (Dey 1401 paper) while the speed and the wavelength change. The speed is set by the medium: for a transverse wave on a stretched string, `v = √(F/μ)`, so it is inversely proportional to the square root of the linear mass density `μ` (Dey 1400 paper).",
+      "tr": "Moj dar har dowre yek tool-e moj jelo miravad, pas `v = f λ` (azmoon-e Dey 1400). \"Basamad\" ra cheshme ta'yin mikonad; vaghti moj vared-e mohit-e digari mishavad, basamad sabet mimanad (azmoon-e Dey 1401) va tondi va tool-e moj avaz mishavand. Tondi ra mohit ta'yin mikonad: baraye moj-e arzi rooye tar-e keshide, `v = √(F/μ)`, ya'ni ba rishe-ye dovvom-e chegali-ye khatti-ye jerm-e `μ` varoon-motenaseb ast (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "v = f λ ,   v = √(F / μ)",
+     "caption": {
+      "fa": "دومی برای تار: `F` نیروی کشش، `μ` جرم هر متر تار",
+      "en": "The second is for a string: `F` is its tension, `μ` its mass per metre",
+      "tr": "Dovvomi baraye tar: `F` niroo-ye keshesh, `μ` jerm-e har metr-e tar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: فاصلهٔ دو قلهٔ پشت سر هم در یک موج عرضی چه نام دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what is the distance between two consecutive crests of a transverse wave called? (Khordad 1401 paper)",
+      "tr": "Garm kardan: fasele-ye do ghelle-ye posht-e sar-e ham dar yek moj-e arzi che nam darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از یک قله تا قلهٔ بعدی، موج یک الگوی کامل را تکرار کرده است.",
+        "en": "From one crest to the next, the wave has repeated one complete pattern.",
+        "tr": "Az yek ghelle ta ghelle-ye ba'di, moj yek olgoo-ye kamel ra tekrar karde ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "طول موج (`λ`)",
+      "en": "Wavelength (`λ`)",
+      "tr": "Tool-e moj (`λ`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رابطهٔ تندی، بسامد و طول موج را بنویس. اگر بسامد یک موج صوتی در هوا دو برابر شود، طول موج چه می‌شود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: write the relation between speed, frequency and wavelength. If the frequency of a sound wave in air doubles, what happens to the wavelength? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: rabete-ye tondi, basamad va tool-e moj ra benevis. Agar basamad-e yek moj-e sowti dar hava do barabar shavad, tool-e moj che mishavad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رابطه را بنویس؛ هوا همان محیط است، پس تندی ثابت می‌ماند.",
+        "en": "Write the relation; the air is the same medium, so the speed stays fixed.",
+        "tr": "Rabete ra benevis; hava haman mohit ast, pas tondi sabet mimanad."
+       },
+       "math": "v = f λ"
+      },
+      {
+       "text": {
+        "fa": "با `v` ثابت، `λ` با `f` وارون‌متناسب است.",
+        "en": "With `v` fixed, `λ` is inversely proportional to `f`.",
+        "tr": "Ba `v`-e sabet, `λ` ba `f` varoon-motenaseb ast."
+       },
+       "math": "λ' = v / (2f) = λ / 2"
+      }
+     ],
+     "answer": {
+      "fa": "`v = fλ`؛ طول موج نصف می‌شود",
+      "en": "`v = fλ`; the wavelength halves",
+      "tr": "`v = fλ`; tool-e moj nesf mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تاری با چگالی خطی `0.01 kg/m` با نیروی `100 N` کشیده شده و با بسامد `50 Hz` نوسان می‌کند. طول موج چقدر است؟ اگر نیروی کشش چهار برابر شود، تندی چه می‌شود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: a string of linear density `0.01 kg/m` is stretched with `100 N` and vibrated at `50 Hz`. What is the wavelength? If the tension is made four times larger, what happens to the speed? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: tari ba chegali-ye khatti-ye `0.01 kg/m` ba niroo-ye `100 N` keshide shode va ba basamad-e `50 Hz` navasan mikonad. Tool-e moj cheghadr ast? Agar niroo-ye keshesh chahar barabar shavad, tondi che mishavad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: تندی را محیط تعیین می‌کند؛ از رابطهٔ تار حساب کن.",
+        "en": "Step one: the medium sets the speed; use the string formula.",
+        "tr": "Ghadam-e avval: tondi ra mohit ta'yin mikonad; az rabete-ye tar hesab kon."
+       },
+       "math": "v = √(100 / 0.01) = √10000 = 100 m/s"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: بسامد را چشمه داده؛ طول موج از `v = fλ`.",
+        "en": "Step two: the source gave the frequency; the wavelength comes from `v = fλ`.",
+        "tr": "Ghadam-e dovvom: basamad ra cheshme dade; tool-e moj az `v = fλ`."
+       },
+       "math": "λ = 100 / 50 = 2 m"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: تندی با «ریشهٔ» نیرو متناسب است؛ ریشهٔ `4` می‌شود `2`.",
+        "en": "Step three, the real twist: the speed goes with the \"square root\" of the tension; the root of `4` is `2`.",
+        "tr": "Ghadam-e sevvom, pich-e asli: tondi ba \"rishe\"-ye niroo motenaseb ast; rishe-ye `4` mishavad `2`."
+       },
+       "math": "v' = √(4F/μ) = 2v = 200 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`λ = 2 m`؛ تندی دو برابر (`200 m/s`)",
+      "en": "`λ = 2 m`; the speed doubles (`200 m/s`)",
+      "tr": "`λ = 2 m`; tondi do barabar (`200 m/s`)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بسامد را چشمه تعیین می‌کند و تندی را محیط؛ در یک محیط، تغییر بسامد تندی را عوض نمی‌کند، فقط طول موج را.",
+      "en": "The source sets the frequency and the medium sets the speed; in one medium, changing the frequency changes only the wavelength, not the speed.",
+      "tr": "Basamad ra cheshme ta'yin mikonad va tondi ra mohit; dar yek mohit, taghyir-e basamad tondi ra avaz nemikonad, faghat tool-e moj ra."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فاصلهٔ قله تا دره نصف طول موج است، نه یک طول موج.",
+      "en": "The distance from a crest to a trough is half a wavelength, not a whole one.",
+      "tr": "Fasele-ye ghelle ta darre nesf-e tool-e moj ast, na yek tool-e moj."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 0
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 906
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1400-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 907
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 7,
+   "key": "phys-3-refraction",
+   "title": {
+    "fa": "شکست نور",
+    "en": "Refraction of light",
+    "tr": "Shekast-e noor"
+   },
+   "summary": {
+    "fa": "نور وقتی وارد شیشه می‌شود کند می‌شود و خم می‌شود؛ ولی رنگش (بسامدش) همان می‌ماند.",
+    "en": "Light slows down and bends as it enters glass; but its colour (its frequency) stays the same.",
+    "tr": "Noor vaghti vared-e shishe mishavad kond mishavad va kham mishavad; vali rangash (basamadash) haman mimanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نور در شیشه کند می‌شود",
+      "en": "Understand first: light slows down in glass",
+      "tr": "Avval befahm: noor dar shishe kond mishavad"
+     },
+     "body": {
+      "fa": "نور در محیط شفاف کندتر از خلأ حرکت می‌کند. «ضریب شکست» `n = c / v` نشان می‌دهد چقدر کندتر: در شیشه با `n = 1.5`، نور `1.5` بار کندتر است، پس `v = c / n` (آزمون‌های خرداد ۱۴۰۰ و خرداد ۱۴۰۱). بسامد را چشمه تعیین می‌کند و در هر محیطی ثابت می‌ماند (آزمون‌های خرداد ۱۴۰۱، دی ۱۳۹۹ و دی ۱۴۰۰)؛ پس چون تندی کم شده، طول موج تغییر می‌کند (آزمون دی ۱۳۹۹) و کوتاه‌تر می‌شود: `λ' = λ / n` (آزمون خرداد ۱۳۹۹).",
+      "en": "Light travels more slowly in a transparent medium than in a vacuum. The \"refractive index\" `n = c / v` says how much slower: in glass with `n = 1.5`, light is `1.5` times slower, so `v = c / n` (Khordad 1400 and Khordad 1401 papers). The frequency is set by the source and stays the same in every medium (Khordad 1401, Dey 1399 and Dey 1400 papers); so, because the speed has dropped, the wavelength changes (Dey 1399 paper) and gets shorter: `λ' = λ / n` (Khordad 1399 paper).",
+      "tr": "Noor dar mohit-e shaffaf kond-tar az khala' harekat mikonad. \"Zarib-e shekast\" `n = c / v` neshan midahad cheghadr kond-tar: dar shishe ba `n = 1.5`, noor `1.5` bar kond-tar ast, pas `v = c / n` (azmoon-haye Khordad 1400 va Khordad 1401). Basamad ra cheshme ta'yin mikonad va dar har mohiti sabet mimanad (azmoon-haye Khordad 1401, Dey 1399 va Dey 1400); pas chon tondi kam shode, tool-e moj taghyir mikonad (azmoon-e Dey 1399) va kootah-tar mishavad: `λ' = λ / n` (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خم شدن پرتو و قانون اسنل",
+      "en": "Bending of the ray and Snell's law",
+      "tr": "Kham shodan-e partow va ghanoon-e Snell"
+     },
+     "body": {
+      "fa": "چون نور کند یا تند می‌شود، مسیرش هم در مرز دو محیط خم می‌شود. وقتی از هوا وارد آب یا شیشه (ضریب شکست بیشتر) می‌شود، به «خط عمود نزدیک» می‌شود (آزمون‌های خرداد ۱۴۰۱ و دی ۱۳۹۹)؛ و وقتی از شیشه به هوا می‌رود، تندتر می‌شود (آزمون دی ۱۳۹۹) و از خط عمود «دور» می‌شود (آزمون دی ۱۴۰۰). مثل ماشینی که با زاویه از آسفالت وارد شن می‌شود: چرخی که زودتر به شن می‌رسد کند می‌شود و ماشین می‌چرخد. قانون اسنل: `n1 sin i = n2 sin r`.",
+      "en": "Because light slows down or speeds up, its path also bends at the boundary between two media. Going from air into water or glass (higher refractive index), it bends \"towards the normal\" (Khordad 1401 and Dey 1399 papers); going from glass into air it speeds up (Dey 1399 paper) and bends \"away from the normal\" (Dey 1400 paper). Like a car driving at an angle from tarmac onto sand: the wheel that reaches the sand first slows down and the car turns. Snell's law: `n1 sin i = n2 sin r`.",
+      "tr": "Chon noor kond ya tond mishavad, masirash ham dar marz-e do mohit kham mishavad. Vaghti az hava vared-e ab ya shishe (zarib-e shekast-e bishtar) mishavad, be \"khatt-e amood nazdik\" mishavad (azmoon-haye Khordad 1401 va Dey 1399); va vaghti az shishe be hava miravad, tond-tar mishavad (azmoon-e Dey 1399) va az khatt-e amood \"door\" mishavad (azmoon-e Dey 1400). Mesl-e mashini ke ba zaviye az asfalt vared-e shen mishavad: charkhi ke zoodtar be shen miresad kond mishavad va mashin micharkhad. Ghanoon-e Snell: `n1 sin i = n2 sin r`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "           normal\n       \\     |\n   air   \\ i |   n1 sin i = n2 sin r\n ----------\\-+--------------------\n   glass     |\\\n             | \\ r   bends TOWARD\n             |  \\    the normal\n             |   \\   (slower)\n\n f same;  v = c / n;  l' = l / n",
+     "caption": {
+      "fa": "از هوا به شیشه: نور کند می‌شود و به خط عمود نزدیک می‌شود؛ بسامد ثابت، طول موج کوتاه‌تر.",
+      "en": "From air into glass: light slows down and bends towards the normal; the frequency is unchanged and the wavelength shorter.",
+      "tr": "Az hava be shishe: noor kond mishavad va be khatt-e amood nazdik mishavad; basamad sabet, tool-e moj kootah-tar."
+     },
+     "anim": "phys.refraction"
+    },
+    {
+     "type": "formula",
+     "math": "n = c / v ,   λ' = λ / n ,   n1 sin i = n2 sin r",
+     "caption": {
+      "fa": "زاویه‌ها از خط عمود؛ `c = 3 × 10^8 m/s`",
+      "en": "Angles from the normal; `c = 3 × 10^8 m/s`",
+      "tr": "Zaviye-ha az khatt-e amood; `c = 3 × 10^8 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: وقتی پرتو نور تک‌رنگ از هوا وارد شیشه می‌شود، کدام ویژگی موج نور کاملاً ثابت می‌ماند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: when a monochromatic light ray passes from air into glass, which property of the light wave stays exactly the same? (Dey 1400 paper)",
+      "tr": "Garm kardan: vaghti partow-e noor-e tak-rang az hava vared-e shishe mishavad, kodam vizhegi-ye moj-e noor kamelan sabet mimanad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تندی و طول موج را محیط تغییر می‌دهد؛ ولی بسامد را چشمه تعیین کرده.",
+        "en": "The medium changes the speed and the wavelength; but the source set the frequency.",
+        "tr": "Tondi va tool-e moj ra mohit taghyir midahad; vali basamad ra cheshme ta'yin karde."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بسامد (`f`)",
+      "en": "Frequency (`f`)",
+      "tr": "Basamad (`f`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نور تک‌رنگی با طول موج `600 nm` از هوا وارد شیشه با `n = 1.5` می‌شود. تندی، طول موج و بسامد آن در شیشه چقدر است؟ (آزمون‌های خرداد ۱۴۰۱ و خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: monochromatic light of wavelength `600 nm` passes from air into glass with `n = 1.5`. What are its speed, wavelength and frequency in the glass? (Khordad 1401 and Khordad 1399 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: noor-e tak-rangi ba tool-e moj-e `600 nm` az hava vared-e shishe ba `n = 1.5` mishavad. Tondi, tool-e moj va basamad-e an dar shishe cheghadr ast? (azmoon-haye Khordad 1401 va Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تندی: `v = c / n`.",
+        "en": "Speed: `v = c / n`.",
+        "tr": "Tondi: `v = c / n`."
+       },
+       "math": "v = 3 × 10^8 / 1.5 = 2 × 10^8 m/s"
+      },
+      {
+       "text": {
+        "fa": "طول موج: بر `n` تقسیم می‌شود.",
+        "en": "Wavelength: divide by `n`.",
+        "tr": "Tool-e moj: bar `n` taghsim mishavad."
+       },
+       "math": "λ' = 600 / 1.5 = 400 nm"
+      },
+      {
+       "text": {
+        "fa": "بسامد: همان بسامد در هوا، از `f = c / λ`.",
+        "en": "Frequency: the same as in air, from `f = c / λ`.",
+        "tr": "Basamad: haman basamad dar hava, az `f = c / λ`."
+       },
+       "math": "f = 3 × 10^8 / (6 × 10^-7) = 5 × 10^14 Hz"
+      }
+     ],
+     "answer": {
+      "fa": "`2 × 10^8 m/s`، `400 nm`، بسامد بدون تغییر `5 × 10^14 Hz`",
+      "en": "`2 × 10^8 m/s`, `400 nm`, frequency unchanged at `5 × 10^14 Hz`",
+      "tr": "`2 × 10^8 m/s`, `400 nm`, basamad bedoon-e taghyir `5 × 10^14 Hz`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پرتویی با زاویهٔ تابش `60` درجه از هوا به محیطی با `n = √3` می‌تابد. زاویهٔ شکست چقدر است و پرتو به خط عمود نزدیک می‌شود یا دور؟ (آزمون دی ۱۳۹۹)",
+      "en": "Exam twist: a ray strikes a medium with `n = √3` from air at `60` degrees incidence. What is the angle of refraction, and does the ray bend towards or away from the normal? (Dey 1399 paper)",
+      "tr": "Pich-e emtehani: partowi ba zaviye-ye tabesh-e `60` daraje az hava be mohiti ba `n = √3` mitabad. Zaviye-ye shekast cheghadr ast va partow be khatt-e amood nazdik mishavad ya door? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قانون اسنل را بنویس؛ برای هوا `n1 = 1`.",
+        "en": "Write Snell's law; for air `n1 = 1`.",
+        "tr": "Ghanoon-e Snell ra benevis; baraye hava `n1 = 1`."
+       },
+       "math": "1 × sin 60 = √3 × sin r"
+      },
+      {
+       "text": {
+        "fa": "`sin 60 = √3 / 2`؛ ساده کن.",
+        "en": "`sin 60 = √3 / 2`; simplify.",
+        "tr": "`sin 60 = √3 / 2`; sade kon."
+       },
+       "math": "sin r = (√3 / 2) / √3 = 1/2   ⟹   r = 30°"
+      },
+      {
+       "text": {
+        "fa": "پیچ اصلی: `30` کمتر از `60` است، پس پرتو به خط عمود نزدیک شده؛ همان‌طور که ورود به محیط با ضریب شکست بیشتر پیش‌بینی می‌کرد.",
+        "en": "The real twist: `30` is less than `60`, so the ray has bent towards the normal, just as entering a higher-index medium predicts.",
+        "tr": "Pich-e asli: `30` kamtar az `60` ast, pas partow be khatt-e amood nazdik shode; haman-towr ke vorood be mohit ba zarib-e shekast-e bishtar pish-bini mikard."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`30` درجه؛ به خط عمود نزدیک می‌شود",
+      "en": "`30` degrees; it bends towards the normal",
+      "tr": "`30` daraje; be khatt-e amood nazdik mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هنگام شکست، بسامد «هرگز» تغییر نمی‌کند؛ تندی و طول موج تغییر می‌کنند.",
+      "en": "On refraction the frequency \"never\" changes; the speed and wavelength do.",
+      "tr": "Hengam-e shekast, basamad \"hargez\" taghyir nemikonad; tondi va tool-e moj taghyir mikonand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ورود به محیط با ضریب شکست بیشتر: نزدیک شدن به خط عمود؛ خروج به محیط با ضریب کمتر: دور شدن. زاویه‌ها همیشه از خط عمود.",
+      "en": "Entering a higher-index medium: towards the normal; leaving into a lower-index one: away from it. Angles are always from the normal.",
+      "tr": "Vorood be mohit ba zarib-e shekast-e bishtar: nazdik shodan be khatt-e amood; khorooj be mohit ba zarib-e kamtar: door shodan. Zaviye-ha hamishe az khatt-e amood."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1399-Dey",
+     "number": 901
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 921
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 929
+    },
+    {
+     "session": "1400-Dey",
+     "number": 931
+    },
+    {
+     "session": "1399-Dey",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 936
+    },
+    {
+     "session": "1400-Dey",
+     "number": 941
+    },
+    {
+     "session": "1399-Dey",
+     "number": 944
+    },
+    {
+     "session": "1399-Dey",
+     "number": 945
+    },
+    {
+     "session": "1399-Dey",
+     "number": 946
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 4,
+   "unit": 3,
+   "key": "phys-4-bohr-laser",
+   "title": {
+    "fa": "مدل بور، طیف‌ها و لیزر",
+    "en": "The Bohr model, spectra and lasers",
+    "tr": "Model-e Bohr, tif-ha va leyzer"
+   },
+   "summary": {
+    "fa": "الکترون مثل کسی است که فقط روی پله‌های نردبان می‌ایستد، نه میان آن‌ها؛ هر پایین آمدن یک فوتون آزاد می‌کند.",
+    "en": "The electron is like someone who can stand only on the rungs of a ladder, never between them; each step down releases a photon.",
+    "tr": "Elektron mesl-e kasi ast ke faghat rooye pelle-haye nardeban miistad, na miyan-e an-ha; har payin amadan yek foton azad mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پله‌های نردبان",
+      "en": "Understand first: the rungs of a ladder",
+      "tr": "Avval befahm: pelle-haye nardeban"
+     },
+     "body": {
+      "fa": "بور گفت الکترون اتم هیدروژن فقط در مدارهای مجاز می‌چرخد؛ مدارهایی که در آن‌ها «تکانهٔ زاویه‌ای» کوانتیده است (آزمون دی ۱۴۰۱). هر مدار انرژی معینی دارد: `E(n) = −13.6 / n^2` الکترون‌ولت، و شعاع مدارها با مربع شمارهٔ مدار متناسب است: `r(n) = n^2 r1` (آزمون خرداد ۱۳۹۹). مثل پله‌های نردبان: الکترون می‌تواند روی پلهٔ ۱ یا ۲ باشد، ولی نه روی پلهٔ یک‌ونیم.",
+      "en": "Bohr said the electron of a hydrogen atom moves only in allowed orbits, orbits in which its \"angular momentum\" is quantized (Dey 1401 paper). Each orbit has a definite energy: `E(n) = −13.6 / n^2` electronvolts, and the orbit radii are proportional to the square of the orbit number: `r(n) = n^2 r1` (Khordad 1399 paper). Like the rungs of a ladder: the electron can be on rung 1 or 2, but not on rung one-and-a-half.",
+      "tr": "Bohr goft elektron-e atom-e hidrozhen faghat dar madar-haye mojaz micharkhad; madar-hayi ke dar an-ha \"takane-ye zaviye-i\" kvantide ast (azmoon-e Dey 1401). Har madar enerzhi-ye mo'ayyani darad: `E(n) = −13.6 / n^2` elektron-volt, va sho'a'-e madar-ha ba morabba'-e shomare-ye madar motenaseb ast: `r(n) = n^2 r1` (azmoon-e Khordad 1399). Mesl-e pelle-haye nardeban: elektron mitavanad rooye pelle-ye 1 ya 2 bashad, vali na rooye pelle-ye yek-o-nim."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گسیل فوتون و طیف خطی",
+      "en": "Photon emission and the line spectrum",
+      "tr": "Gosil-e foton va tif-e khatti"
+     },
+     "body": {
+      "fa": "وقتی الکترون از مداری پرانرژی‌تر به مدار کم‌انرژی‌تر می‌رود، یک فوتون گسیل می‌کند (آزمون خرداد ۱۳۹۹) که انرژی‌اش برابر اختلاف انرژی دو تراز است: `h f = ΔE`؛ پس بسامد فوتون با این اختلاف متناسب است (آزمون خرداد ۱۴۰۰). چون ترازها گسسته‌اند، فقط بسامدهای معینی گسیل می‌شوند: همان خط‌های طیف. کمترین انرژی برای جدا کردن الکترون از حالت پایه تا بی‌نهایت «انرژی یونش» است (آزمون خرداد ۱۴۰۰): برای هیدروژن `13.6 eV`.",
+      "en": "When the electron drops from a higher-energy orbit to a lower one, it emits a photon (Khordad 1399 paper) whose energy equals the energy difference between the two levels: `h f = E(upper) − E(lower)`; so the photon's frequency is proportional to that difference (Khordad 1400 paper). Because the levels are discrete, only certain frequencies are emitted: the lines of the spectrum. The minimum energy to remove the electron from the ground state to infinity is the \"ionization energy\" (Khordad 1400 paper): `13.6 eV` for hydrogen.",
+      "tr": "Vaghti elektron az madari por-enerzhi-tar be madar-e kam-enerzhi-tar miravad, yek foton gosil mikonad (azmoon-e Khordad 1399) ke enerzhi-ash barabar-e ekhtelaf-e enerzhi-ye do taraz ast: `h f = E(bala) − E(payin)`; pas basamad-e foton ba in ekhtelaf motenaseb ast (azmoon-e Khordad 1400). Chon taraz-ha gosaste-and, faghat basamad-haye mo'ayyani gosil mishavand: haman khatt-haye tif. Kamtarin enerzhi baraye joda kardan-e elektron az halat-e paye ta bi-nahayat \"enerzhi-ye yoonesh\" ast (azmoon-e Khordad 1400): baraye hidrozhen `13.6 eV`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " E (eV)\n   0     ----------------- n = inf\n  -1.51  ----------------- n = 3\n               |  photon out\n  -3.4   ------v---------- n = 2\n               hf = 1.89 eV\n -13.6   ----------------- n = 1\n\n E(n) = -13.6 / n^2\n r(n) = n^2 x r1",
+     "caption": {
+      "fa": "ترازهای انرژی هیدروژن: رفتن از `n = 3` به `n = 2` فوتونی با `1.89 eV` (نور سرخ) گسیل می‌کند.",
+      "en": "Hydrogen's energy levels: dropping from `n = 3` to `n = 2` emits a `1.89 eV` photon (red light).",
+      "tr": "Taraz-haye enerzhi-ye hidrozhen: raftan az `n = 3` be `n = 2` footoni ba `1.89 eV` (noor-e sorkh) gosil mikonad."
+     },
+     "anim": "phys.bohr"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "لیزر و گسیل القایی",
+      "en": "Lasers and stimulated emission",
+      "tr": "Leyzer va gosil-e elgha'i"
+     },
+     "body": {
+      "fa": "«لیزر» از «گسیل القایی» کار می‌کند (آزمون دی ۱۴۰۱): فوتونی که از کنار اتمی برانگیخته می‌گذرد، آن را وادار می‌کند فوتون دومی درست مثل خودش گسیل کند: هم‌بسامد، هم‌جهت و هم‌فاز. این فوتون‌ها پشت سر هم تکثیر می‌شوند و نوری تک‌رنگ، هم‌دوس و بسیار متمرکز می‌سازند؛ مثل سربازانی که هم‌قدم رژه می‌روند.",
+      "en": "A \"laser\" works by \"stimulated emission\" (Dey 1401 paper): a photon passing an excited atom makes it emit a second photon exactly like itself: same frequency, same direction and same phase. These photons multiply one after another, producing light that is monochromatic, coherent and highly concentrated, like soldiers marching in step.",
+      "tr": "\"Leyzer\" az \"gosil-e elgha'i\" kar mikonad (azmoon-e Dey 1401): footoni ke az kenar-e atomi barangikhte migozarad, an ra vadar mikonad foton-e dovvomi dorost mesl-e khodash gosil konad: ham-basamad, ham-jahat va ham-faz. In foton-ha posht-e sar-e ham taksir mishavand va noori tak-rang, ham-doos va besiyar motamarkez misazand; mesl-e sarbazani ke ham-ghadam reje miravand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در مدل بور، وقتی الکترون از مداری پرانرژی‌تر به مدار کم‌انرژی‌تر می‌رود چه رخ می‌دهد؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Warm-up: in the Bohr model, what happens when an electron moves from a higher-energy orbit to a lower one? (Khordad 1399 paper)",
+      "tr": "Garm kardan: dar model-e Bohr, vaghti elektron az madari por-enerzhi-tar be madar-e kam-enerzhi-tar miravad che rokh midahad? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "انرژی پایسته است؛ انرژی اضافه باید جایی برود، و به صورت یک فوتون بیرون می‌رود.",
+        "en": "Energy is conserved; the extra energy must go somewhere, and it leaves as a photon.",
+        "tr": "Enerzhi payeste ast; enerzhi-ye ezafe bayad jayi beravad, va be soorat-e yek foton biroon miravad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "یک فوتون گسیل می‌شود",
+      "en": "A photon is emitted",
+      "tr": "Yek foton gosil mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: انرژی فوتونی که هنگام رفتن الکترون هیدروژن از `n = 3` به `n = 2` گسیل می‌شود چقدر است؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: what is the energy of the photon emitted when hydrogen's electron drops from `n = 3` to `n = 2`? (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: enerzhi-ye footoni ke hengam-e raftan-e elektron-e hidrozhen az `n = 3` be `n = 2` gosil mishavad cheghadr ast? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "انرژی هر تراز را از `E(n) = −13.6 / n^2` بیاب.",
+        "en": "Find each level's energy from `E(n) = −13.6 / n^2`.",
+        "tr": "Enerzhi-ye har taraz ra az `E(n) = −13.6 / n^2` beyab."
+       },
+       "math": "E(3) = −13.6 / 9 ≈ −1.51 ,   E(2) = −13.6 / 4 = −3.4"
+      },
+      {
+       "text": {
+        "fa": "انرژی فوتون، اختلاف تراز بالا و پایین است (مثبت).",
+        "en": "The photon's energy is the upper level minus the lower one (positive).",
+        "tr": "Enerzhi-ye foton, ekhtelaf-e taraz-e bala va payin ast (mosbat)."
+       },
+       "math": "h f = −1.51 − (−3.4) ≈ 1.89 eV"
+      }
+     ],
+     "answer": {
+      "fa": "حدود `1.89 eV` (خط سرخ هیدروژن)",
+      "en": "About `1.89 eV` (hydrogen's red line)",
+      "tr": "Hodood-e `1.89 eV` (khatt-e sorkh-e hidrozhen)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شعاع مدار `n = 3` هیدروژن چند برابر مدار پایه است؟ و برای یونیدن اتمی که الکترونش در `n = 2` است، چه انرژی‌ای لازم است؟ (آزمون‌های خرداد ۱۳۹۹ و خرداد ۱۴۰۰)",
+      "en": "Exam twist: how many times larger is hydrogen's `n = 3` orbit than the ground orbit? And what energy ionizes an atom whose electron is in `n = 2`? (Khordad 1399 and Khordad 1400 papers)",
+      "tr": "Pich-e emtehani: sho'a'-e madar-e `n = 3`-e hidrozhen chand barabar-e madar-e paye ast? Va baraye yoonidan-e atomi ke elektronash dar `n = 2` ast, che enerzhi-i lazem ast? (azmoon-haye Khordad 1399 va Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "شعاع با `n^2` متناسب است، نه با `n`.",
+        "en": "The radius is proportional to `n^2`, not `n`.",
+        "tr": "Sho'a' ba `n^2` motenaseb ast, na ba `n`."
+       },
+       "math": "r(3) / r(1) = 9 / 1 = 9"
+      },
+      {
+       "text": {
+        "fa": "پیچ اصلی: الکترون از `n = 2` شروع می‌کند، نه از حالت پایه؛ پس فقط تا `0` را لازم دارد، نه `13.6 eV`.",
+        "en": "The real twist: the electron starts at `n = 2`, not the ground state; so it needs only enough to reach `0`, not `13.6 eV`.",
+        "tr": "Pich-e asli: elektron az `n = 2` shoru' mikonad, na az halat-e paye; pas faghat ta `0` ra lazem darad, na `13.6 eV`."
+       },
+       "math": "0 − (−3.4) = 3.4 eV"
+      }
+     ],
+     "answer": {
+      "fa": "`9` برابر؛ `3.4 eV`",
+      "en": "Nine times; `3.4 eV`",
+      "tr": "`9` barabar; `3.4 eV`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شعاع مدار با `n^2` متناسب است، ولی انرژی با `−1/n^2`؛ این دو را با هم قاطی نکن.",
+      "en": "The orbit radius goes with `n^2`, but the energy with `−1/n^2`; do not mix them up.",
+      "tr": "Sho'a'-e madar ba `n^2` motenaseb ast, vali enerzhi ba `−1/n^2`; in do ra ba ham ghati nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«انرژی یونش» از حالت «پایه» تعریف می‌شود (`13.6 eV`)؛ از ترازهای بالاتر انرژی کمتری لازم است.",
+      "en": "\"Ionization energy\" is defined from the \"ground\" state (`13.6 eV`); from higher levels less energy is needed.",
+      "tr": "\"Enerzhi-ye yoonesh\" az halat-e \"paye\" ta'rif mishavad (`13.6 eV`); az taraz-haye bala-tar enerzhi-ye kamtari lazem ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1401-Dey",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1401-Dey",
+     "number": 909
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 2,
+   "key": "chem-2-galvanic-cells",
+   "title": {
+    "fa": "سلول گالوانی",
+    "en": "Galvanic cells",
+    "tr": "Sellool-e galvani"
+   },
+   "summary": {
+    "fa": "آبشاری که سرازیر می‌شود و توربین را می‌چرخاند: واکنش خودبه‌خودی، برق می‌سازد.",
+    "en": "A waterfall running downhill and turning a turbine: a spontaneous reaction makes electricity.",
+    "tr": "Abshari ke sarazir mishavad va toorbin ra micharkhanad: vakonesh-e khod-be-khodi, barq misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: آبشاری که برق می‌سازد",
+      "en": "Understand first: a waterfall that makes electricity",
+      "tr": "Avval befahm: abshari ke barq misazad"
+     },
+     "body": {
+      "fa": "اگر روی را مستقیم در محلول مس بگذاریم، الکترون‌ها همان‌جا جابه‌جا می‌شوند و فقط گرما می‌ماند. در «سلول گالوانی» دو نیم‌واکنش را از هم جدا می‌کنیم و الکترون‌ها را مجبور می‌کنیم از یک سیم بگذرند؛ مثل آبی که از آبشار پایین می‌ریزد و در راه توربین را می‌چرخاند. اکسایش همیشه در «آند» رخ می‌دهد (آزمون دی ۱۴۰۱) و کاهش در «کاتد». رمز حفظ: «آند-اکسایش، کاتد-کاهش».",
+      "en": "If we put zinc straight into a copper solution, the electrons move on the spot and only heat is left. In a \"galvanic cell\" we separate the two half-reactions and force the electrons through a wire, like water falling down a waterfall and turning a turbine on the way. Oxidation always happens at the \"anode\" (Dey 1401 paper) and reduction at the \"cathode\". Memory trick: \"AN OX, RED CAT\".",
+      "tr": "Agar rooy ra mostaghim dar mahlool-e mes bogzarim, elektron-ha haman-ja jabeja mishavand va faghat garma mimanad. Dar \"sellool-e galvani\" do nim-vakonesh ra az ham joda mikonim va elektron-ha ra majboor mikonim az yek sim begozarand; mesl-e abi ke az abshar payin mirizad va dar rah toorbin ra micharkhanad. Oksayesh hamishe dar \"anod\" rokh midahad (azmoon-e Dey 1401) va kahesh dar \"katod\". Ramz-e hefz: \"anod-oksayesh, katod-kahesh\"."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "       e- ->   e- ->   e- ->\n   +-----------( V )----------+\n   |                          |\n  Zn (-)    salt bridge    Cu (+)\n  anode   <- anions        cathode\n  ox.        cations ->    red.\n  [Zn2+]                   [Cu2+]",
+     "caption": {
+      "fa": "سلول روی-مس: الکترون‌ها در سیم از آند به کاتد می‌روند؛ در پل نمکی آنیون‌ها به سمت آند و کاتیون‌ها به سمت کاتد.",
+      "en": "The zinc-copper cell: electrons travel through the wire from anode to cathode; in the salt bridge, anions move towards the anode and cations towards the cathode.",
+      "tr": "Sellool-e rooy-mes: elektron-ha dar sim az anod be katod miravand; dar pol-e namaki aniyon-ha be samt-e anod va katiyon-ha be samt-e katod."
+     },
+     "anim": "chem.galvanic"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پل نمکی: نگه‌داشتن تعادل بار",
+      "en": "The salt bridge: keeping the charge balanced",
+      "tr": "Pol-e namaki: negah-dashtan-e ta'adol-e bar"
+     },
+     "body": {
+      "fa": "چرا «پل نمکی» لازم است؟ در آند یون‌های مثبت (`Zn2+`) زیاد می‌شوند و در کاتد یون‌های مثبت (`Cu2+`) کم. بدون جبران، بار جمع می‌شود و جریان می‌ایستد. پل نمکی یون می‌فرستد: آنیون‌ها به سمت نیم‌سلول آند می‌روند (آزمون خرداد ۱۳۹۸) و کاتیون‌ها به سمت کاتد. در سلول گالوانی آند قطب منفی و کاتد قطب مثبت است.",
+      "en": "Why is a \"salt bridge\" needed? At the anode positive ions (`Zn2+`) build up and at the cathode positive ions (`Cu2+`) are used up. Without compensation, charge piles up and the current stops. The salt bridge sends ions: anions move towards the anode half-cell (Khordad 1398 paper) and cations towards the cathode. In a galvanic cell the anode is the negative pole and the cathode the positive pole.",
+      "tr": "Chera \"pol-e namaki\" lazem ast? Dar anod yoon-haye mosbat (`Zn2+`) ziyad mishavand va dar katod yoon-haye mosbat (`Cu2+`) kam. Bedoon-e jobran, bar jam' mishavad va jaryan miistad. Pol-e namaki yoon miferestad: aniyon-ha be samt-e nim-sellool-e anod miravand (azmoon-e Khordad 1398) va katiyon-ha be samt-e katod. Dar sellool-e galvani anod ghotb-e manfi va katod ghotb-e mosbat ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در سلول گالوانی، آنیون‌ها در پل نمکی به کدام سمت می‌روند؟ (آزمون خرداد ۱۳۹۸)",
+      "en": "Warm-up: in a galvanic cell, which way do anions move in the salt bridge? (Khordad 1398 paper)",
+      "tr": "Garm kardan: dar sellool-e galvani, aniyon-ha dar pol-e namaki be kodam samt miravand? (azmoon-e Khordad 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس کجا بار مثبت زیاد می‌شود: در آند، چون فلز به یون مثبت تبدیل می‌شود. آنیون‌های منفی برای خنثی کردن آن به همان‌جا می‌روند.",
+        "en": "Ask where positive charge builds up: at the anode, because metal turns into positive ions. The negative anions go there to balance it.",
+        "tr": "Bepors koja bar-e mosbat ziyad mishavad: dar anod, chon felez be yoon-e mosbat tabdil mishavad. Aniyon-haye manfi baraye khonsa kardan-e an be haman-ja miravand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به سمت نیم‌سلول آند",
+      "en": "Towards the anode half-cell",
+      "tr": "Be samt-e nim-sellool-e anod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: برای سلول گالوانی روی-مس، نیم‌واکنش‌ها و `E°cell` را بنویس. (`E°` روی `−0.76` و مس `+0.34` ولت؛ آزمون خرداد ۱۴۰۳)",
+      "en": "Textbook and exam: for the zinc-copper galvanic cell, write the half-reactions and `E°cell`. (`E°` zinc `−0.76` V, copper `+0.34` V; Khordad 1403 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: baraye sellool-e galvani-ye rooy-mes, nim-vakonesh-ha va `E°cell` ra benevis. (`E°`-e rooy `−0.76` va mes `+0.34` volt; azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول نقش‌ها: روی `E°` کمتری دارد، پس آند است و اکسید می‌شود؛ مس کاتد است.",
+        "en": "Roles first: zinc has the lower `E°`, so it is the anode and is oxidised; copper is the cathode.",
+        "tr": "Avval naghsh-ha: rooy `E°`-e kamtari darad, pas anod ast va oksid mishavad; mes katod ast."
+       },
+       "math": "Zn → Zn2+ + 2e- ,   Cu2+ + 2e- → Cu"
+      },
+      {
+       "text": {
+        "fa": "حالا فرمول را به کار ببر: کاتد منهای آند.",
+        "en": "Now use the formula: cathode minus anode.",
+        "tr": "Hala formool ra be kar bebar: katod menha-ye anod."
+       },
+       "math": "E° = 0.34 − (−0.76) = +1.10 V"
+      }
+     ],
+     "answer": {
+      "fa": "`E°cell = +1.10 V`",
+      "en": "`E°cell = +1.10 V`",
+      "tr": "`E°cell = +1.10 V`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سلول نیکل-نقره (`E°` نیکل `−0.25`، نقره `+0.80` ولت). اگر کاتد `2.16` گرم سنگین‌تر شود، جرم آند چقدر تغییر می‌کند؟ (`Ag = 108`، `Ni = 59`؛ آزمون خرداد ۱۴۰۳)",
+      "en": "Exam twist: a nickel-silver cell (`E°` nickel `−0.25`, silver `+0.80` V). If the cathode gains `2.16` g, how does the anode's mass change? (`Ag = 108`, `Ni = 59`; Khordad 1403 paper)",
+      "tr": "Pich-e emtehani: sellool-e nikel-noghre (`E°`-e nikel `−0.25`, noghre `+0.80` volt). Agar katod `2.16` geram sangin-tar shavad, jerm-e anod cheghadr taghyir mikonad? (`Ag = 108`, `Ni = 59`; azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، نقش‌ها و واکنش: نیکل آند است و نقره کاتد. هر نیکل دو الکترون می‌دهد و هر یون نقره یک الکترون می‌گیرد، پس دو نقره برای هر نیکل.",
+        "en": "Step one, roles and reaction: nickel is the anode and silver the cathode. Each nickel gives two electrons and each silver ion takes one, so two silvers for every nickel.",
+        "tr": "Ghadam-e avval, naghsh-ha va vakonesh: nikel anod ast va noghre katod. Har nikel do elektron midahad va har yoon-e noghre yek elektron migirad, pas do noghre baraye har nikel."
+       },
+       "math": "Ni + 2 Ag+ → Ni2+ + 2 Ag ,   E° = +1.05 V"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، از جرم کاتد به مول برس.",
+        "en": "Step two, turn the cathode's mass into moles.",
+        "tr": "Ghadam-e dovvom, az jerm-e katod be mol beres."
+       },
+       "math": "2.16 / 108 = 0.02 mol Ag"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: نسبت ۱ به ۲ را به کار ببر، نه ۱ به ۱. پس نصف این مول نیکل از آند جدا شده است.",
+        "en": "Step three, the real twist: use the 1 : 2 ratio, not 1 : 1. So half as many moles of nickel left the anode.",
+        "tr": "Ghadam-e sevvom, pich-e asli: nesbat-e 1 be 2 ra be kar bebar, na 1 be 1. Pas nesf-e in mol nikel az anod joda shode ast."
+       },
+       "math": "0.01 × 59 = 0.59 g"
+      }
+     ],
+     "answer": {
+      "fa": "آند `0.59` گرم سبک‌تر می‌شود",
+      "en": "The anode loses `0.59` g",
+      "tr": "Anod `0.59` geram sabok-tar mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمز «آند-اکسایش، کاتد-کاهش» در همهٔ سلول‌ها درست است؛ ولی علامت قطب‌ها فرق دارد: در سلول گالوانی آند منفی است.",
+      "en": "The rule \"AN OX, RED CAT\" holds in every cell; but the signs of the poles differ: in a galvanic cell the anode is negative.",
+      "tr": "Ramz-e \"anod-oksayesh, katod-kahesh\" dar hame-ye sellool-ha dorost ast; vali alamat-e ghotb-ha fargh darad: dar sellool-e galvani anod manfi ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "الکترون‌ها از سیم می‌گذرند، نه از پل نمکی؛ در پل نمکی فقط یون‌ها حرکت می‌کنند.",
+      "en": "Electrons travel through the wire, not the salt bridge; only ions move in the salt bridge.",
+      "tr": "Elektron-ha az sim migozarand, na az pol-e namaki; dar pol-e namaki faghat yoon-ha harekat mikonand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1403-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Dey",
+     "number": 904
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 15
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 3,
+   "key": "chem-4-equilibrium-constant",
+   "title": {
+    "fa": "واکنش برگشت‌پذیر و ثابت تعادل",
+    "en": "Reversible reactions and the equilibrium constant",
+    "tr": "Vakonesh-e bargasht-pazir va sabet-e ta'adol"
+   },
+   "summary": {
+    "fa": "دو پلهٔ برقی که برعکس هم می‌روند: آدم‌ها جابه‌جا می‌شوند، ولی شمار هر طبقه ثابت می‌ماند.",
+    "en": "Two escalators running opposite ways: people keep moving, but the number on each floor stays the same.",
+    "tr": "Do pelle-ye barghi ke bar-aks-e ham miravand: adam-ha jabeja mishavand, vali shomar-e har tabaghe sabet mimanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تعادل پویا",
+      "en": "Understand first: dynamic equilibrium",
+      "tr": "Avval befahm: ta'adol-e pooya"
+     },
+     "body": {
+      "fa": "در «واکنش برگشت‌پذیر»، فراورده‌ها می‌توانند با هم واکنش دهند و دوباره واکنش‌دهنده‌های اولیه را بسازند (آزمون خرداد ۱۴۰۱). در ظرف بسته، سرعت رفت کم‌کم کم می‌شود و سرعت برگشت زیاد، تا جایی که دو سرعت برابر شوند؛ این حالت «تعادل شیمیایی» است (آزمون خرداد ۱۴۰۰). تعادل «پویا»ست: هر دو واکنش هنوز ادامه دارند، ولی چون با یک سرعت پیش می‌روند، غلظت‌ها دیگر تغییر نمی‌کنند؛ مثل دو پلهٔ برقی که برعکس هم کار می‌کنند.",
+      "en": "In a \"reversible reaction\", the products can react together to re-form the original reactants (Khordad 1401 paper). In a closed vessel, the forward rate gradually falls and the reverse rate rises until the two rates are equal; this state is \"chemical equilibrium\" (Khordad 1400 paper). Equilibrium is \"dynamic\": both reactions still continue, but because they run at the same rate, the concentrations no longer change, like two escalators running in opposite directions.",
+      "tr": "Dar \"vakonesh-e bargasht-pazir\", faravarde-ha mitavanand ba ham vakonesh dahand va dobare vakonesh-dahande-haye avvaliye ra besazand (azmoon-e Khordad 1401). Dar zarf-e baste, sor'at-e raft kam-kam kam mishavad va sor'at-e bargasht ziyad, ta jayi ke do sor'at barabar shavand; in halat \"ta'adol-e shimiyayi\" ast (azmoon-e Khordad 1400). Ta'adol \"pooya\"st: har do vakonesh hanooz edame darand, vali chon ba yek sor'at pish miravand, ghelzat-ha digar taghyir nemikonand; mesl-e do pelle-ye barghi ke bar-aks-e ham kar mikonand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " rate\n | \\   forward\n |  \\\n |   \\___________ forward = reverse\n |   /            (equilibrium)\n |  /\n | /   reverse\n +--------------------------> time",
+     "caption": {
+      "fa": "سرعت رفت کم و سرعت برگشت زیاد می‌شود تا برابر شوند: لحظهٔ رسیدن به تعادل.",
+      "en": "The forward rate falls and the reverse rate rises until they are equal: the moment equilibrium is reached.",
+      "tr": "Sor'at-e raft kam va sor'at-e bargasht ziyad mishavad ta barabar shavand: lahze-ye residan be ta'adol."
+     },
+     "anim": "chem.equilibrium"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "عبارت ثابت تعادل",
+      "en": "The equilibrium-constant expression",
+      "tr": "Ebarat-e sabet-e ta'adol"
+     },
+     "body": {
+      "fa": "«ثابت تعادل» (`K`) نسبت غلظت‌های تعادلی است: غلظت فراورده‌های گازی (یا محلول) در صورت و غلظت واکنش‌دهنده‌ها در مخرج (آزمون دی ۱۳۹۹)، هر کدام به توان ضریبش در معادلهٔ موازنه‌شده. جامدها و مایع‌های خالص در عبارت `K` نمی‌آیند. `K` بسیار بزرگ یعنی در تعادل فراورده‌ها بسیار بیشترند (آزمون دی ۱۴۰۱)؛ `K` بسیار کوچک، نزدیک صفر، یعنی واکنش‌دهنده‌ها غالب‌اند و واکنش به‌سختی پیش رفته (آزمون دی ۱۴۰۱).",
+      "en": "The \"equilibrium constant\" (`K`) is a ratio of equilibrium concentrations: gaseous (or dissolved) products in the numerator and reactants in the denominator (Dey 1399 paper), each raised to the power of its coefficient in the balanced equation. Solids and pure liquids do not appear in the `K` expression. A very large `K` means products far outweigh reactants at equilibrium (Dey 1401 paper); a very small `K`, close to zero, means reactants dominate and the reaction has barely gone forward (Dey 1401 paper).",
+      "tr": "\"Sabet-e ta'adol\" (`K`) nesbat-e ghelzat-haye ta'adoli ast: ghelzat-e faravarde-haye gazi (ya mahlool) dar soorat va ghelzat-e vakonesh-dahande-ha dar makhraj (azmoon-e Dey 1399), har kodam be tavan-e zaribash dar moadele-ye movazene-shode. Jamed-ha va maye'-haye khales dar ebarat-e `K` nemiayand. `K`-e besiyar bozorg ya'ni dar ta'adol faravarde-ha besiyar bishtar-and (azmoon-e Dey 1401); `K`-e besiyar koochak, nazdik-e sefr, ya'ni vakonesh-dahande-ha ghaleb-and va vakonesh be-sakhti pish rafte (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "aA + bB ⇌ cC + dD   ⟹   K = [C]^c [D]^d / ([A]^a [B]^b)",
+     "caption": {
+      "fa": "غلظت‌ها مولار و تعادلی‌اند؛ جامد و مایع خالص حذف می‌شوند",
+      "en": "Concentrations are molar and at equilibrium; solids and pure liquids are left out",
+      "tr": "Ghelzat-ha molar va ta'adoli-and; jamed va maye'-e khales hazf mishavand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر ثابت تعادل یک واکنش بسیار بزرگ باشد، دربارهٔ سامانهٔ تعادلی چه می‌گوید؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: if a reaction's equilibrium constant is very large, what does that say about the equilibrium system? (Dey 1401 paper)",
+      "tr": "Garm kardan: agar sabet-e ta'adol-e yek vakonesh besiyar bozorg bashad, darbare-ye samane-ye ta'adoli che migooyad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فراورده‌ها در صورت‌اند. کسری بسیار بزرگ یعنی صورت بسیار بزرگ‌تر از مخرج است.",
+        "en": "Products are in the numerator. A very large fraction means the numerator is much bigger than the denominator.",
+        "tr": "Faravarde-ha dar soorat-and. Kasri besiyar bozorg ya'ni soorat besiyar bozorg-tar az makhraj ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در تعادل، فراورده‌ها بسیار بیشتر از واکنش‌دهنده‌ها هستند",
+      "en": "At equilibrium, products far outweigh reactants",
+      "tr": "Dar ta'adol, faravarde-ha besiyar bishtar az vakonesh-dahande-ha hastand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: عبارت ثابت تعادل را برای `N2(g) + 3H2(g) ⇌ 2NH3(g)` بنویس. (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: write the equilibrium-constant expression for `N2(g) + 3H2(g) ⇌ 2NH3(g)`. (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ebarat-e sabet-e ta'adol ra baraye `N2(g) + 3H2(g) ⇌ 2NH3(g)` benevis. (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فراوردهٔ گازی در صورت، با توان ضریبش: `2`.",
+        "en": "The gaseous product goes in the numerator, raised to its coefficient: `2`.",
+        "tr": "Faravarde-ye gazi dar soorat, ba tavan-e zaribash: `2`."
+       }
+      },
+      {
+       "text": {
+        "fa": "واکنش‌دهنده‌ها در مخرج، هر کدام با توان ضریب خودش؛ ضریب‌ها در عبارت ضرب نمی‌شوند، توان می‌شوند.",
+        "en": "The reactants go in the denominator, each raised to its own coefficient; coefficients become powers, not multipliers.",
+        "tr": "Vakonesh-dahande-ha dar makhraj, har kodam ba tavan-e zarib-e khodash; zarib-ha dar ebarat zarb nemishavand, tavan mishavand."
+       },
+       "math": "K = [NH3]^2 / ([N2][H2]^3)"
+      }
+     ],
+     "answer": {
+      "fa": "`K = [NH3]^2 / ([N2][H2]^3)`",
+      "en": "`K = [NH3]^2 / ([N2][H2]^3)`",
+      "tr": "`K = [NH3]^2 / ([N2][H2]^3)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای `A(g) ⇌ 2B(g)` در ظرف `2` لیتری، `K = 4 × 10^-2` است. اگر در تعادل `1` مول `A` باشد، غلظت تعادلی `B` چقدر است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: for `A(g) ⇌ 2B(g)` in a `2` L vessel, `K = 4 × 10^-2`. If `1` mol of `A` is present at equilibrium, what is the equilibrium concentration of `B`? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: baraye `A(g) ⇌ 2B(g)` dar zarf-e `2` litri, `K = 4 × 10^-2` ast. Agar dar ta'adol `1` mol `A` bashad, ghelzat-e ta'adoli-ye `B` cheghadr ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، پیچ اول: `K` با غلظت کار می‌کند، نه مول. مول را بر حجم تقسیم کن.",
+        "en": "Step one, the first twist: `K` works with concentrations, not moles. Divide the moles by the volume.",
+        "tr": "Ghadam-e avval, pich-e avval: `K` ba ghelzat kar mikonad, na mol. Mol ra bar hajm taghsim kon."
+       },
+       "math": "[A] = 1 / 2 = 0.5 M"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ دوم: ضریب `2` در عبارت `K` توان می‌شود.",
+        "en": "Step two, the second twist: the coefficient `2` becomes a power in the `K` expression.",
+        "tr": "Ghadam-e dovvom, pich-e dovvom: zarib-e `2` dar ebarat-e `K` tavan mishavad."
+       },
+       "math": "K = [B]^2 / [A]   ⟹   [B]^2 = 0.04 × 0.5 = 0.02"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: ریشهٔ دوم بگیر.",
+        "en": "Step three: take the square root.",
+        "tr": "Ghadam-e sevvom: rishe-ye dovvom begir."
+       },
+       "math": "[B] = √0.02 ≈ 0.141 M"
+      }
+     ],
+     "answer": {
+      "fa": "`[B] ≈ 0.141 M`",
+      "en": "`[B] ≈ 0.141 M`",
+      "tr": "`[B] ≈ 0.141 M`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در تعادل، غلظت‌ها «ثابت‌اند»، نه «برابر»؛ و واکنش‌ها متوقف نشده‌اند، فقط سرعت رفت و برگشت برابر شده است.",
+      "en": "At equilibrium the concentrations are \"constant\", not \"equal\"; and the reactions have not stopped, the forward and reverse rates have just become equal.",
+      "tr": "Dar ta'adol, ghelzat-ha \"sabet-and\", na \"barabar\"; va vakonesh-ha motevaghef nashode-and, faghat sor'at-e raft va bargasht barabar shode ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیش از جایگذاری در `K`، مول را به غلظت (مول بر لیتر) تبدیل کن و ضریب‌ها را توان بگذار.",
+      "en": "Before substituting into `K`, convert moles to concentration (moles per litre) and use the coefficients as powers.",
+      "tr": "Pish az jaygozari dar `K`, mol ra be ghelzat (mol bar litr) tabdil kon va zarib-ha ra tavan begozar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 920
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 911
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1399-Dey",
+     "number": 928
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 1,
+   "key": "chem-4-rate-collisions",
+   "title": {
+    "fa": "سرعت واکنش، نظریهٔ برخورد و انرژی فعال‌سازی",
+    "en": "Reaction rate, collision theory and activation energy",
+    "tr": "Sor'at-e vakonesh, nazariye-ye barkhord va enerzhi-ye fa'al-sazi"
+   },
+   "summary": {
+    "fa": "واکنش یعنی برخوردی که هم درست باشد و هم پرانرژی؛ مثل توپی که باید از تپه بالا برود.",
+    "en": "A reaction needs a collision that is both well aimed and energetic enough, like a ball that must get over a hill.",
+    "tr": "Vakonesh ya'ni barkhordi ke ham dorost bashad va ham por-enerzhi; mesl-e toopi ke bayad az tappe bala beravad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: توپی که باید از تپه بگذرد",
+      "en": "Understand first: a ball that must clear a hill",
+      "tr": "Avval befahm: toopi ke bayad az tappe begozarad"
+     },
+     "body": {
+      "fa": "بر پایهٔ «نظریهٔ برخورد»، ذره‌ها فقط وقتی واکنش می‌دهند که با هم برخورد کنند؛ ولی هر برخوردی کافی نیست. برخورد «مؤثر» باید جهت مناسب داشته باشد و انرژی‌اش دست‌کم برابر «انرژی فعال‌سازی» (`Ea`) باشد. `Ea` کمترین انرژی لازم برای رسیدن واکنش‌دهنده‌ها به «پیچیدهٔ فعال» است (آزمون خرداد ۱۴۰۰). مثل توپی که باید از یک تپه بالا برود تا به آن سو بغلتد: اگر آرام هل داده شود، برمی‌گردد.",
+      "en": "According to \"collision theory\", particles react only when they collide; but not every collision is enough. An \"effective\" collision must have the right orientation and at least the \"activation energy\" (`Ea`). `Ea` is the minimum energy needed for the reactants to reach the \"activated complex\" (Khordad 1400 paper). Think of a ball that must be pushed over a hill to roll down the far side: push it gently and it rolls back.",
+      "tr": "Bar paye-ye \"nazariye-ye barkhord\", zarre-ha faghat vaghti vakonesh midahand ke ba ham barkhord konand; vali har barkhordi kafi nist. Barkhord-e \"mo'asser\" bayad jahat-e monaseb dashte bashad va enerzhi-ash dast-e kam barabar-e \"enerzhi-ye fa'al-sazi\" (`Ea`) bashad. `Ea` kamtarin enerzhi-ye lazem baraye residan-e vakonesh-dahande-ha be \"pichide-ye fa'al\" ast (azmoon-e Khordad 1400). Mesl-e toopi ke bayad az yek tappe bala beravad ta be an soo beghaltad: agar aram hol dade shavad, barmigardad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " E\n |          /\\  activated complex\n |         /  \\\n |        /    \\\n |  R ___/ Ea   \\\n |               \\\n |                \\___ P\n +---------------------------->\n        reaction progress\n\n Ea(forward) = E(peak) - E(R)\n dH          = E(P)    - E(R)",
+     "caption": {
+      "fa": "نمودار انرژی: `Ea` فاصلهٔ واکنش‌دهنده‌ها تا قلهٔ پیچیدهٔ فعال است؛ اینجا فراورده‌ها پایین‌ترند، پس واکنش گرماده است.",
+      "en": "An energy diagram: `Ea` is the gap from the reactants up to the activated complex at the peak; here the products are lower, so the reaction is exothermic.",
+      "tr": "Nemoodar-e enerzhi: `Ea` fasele-ye vakonesh-dahande-ha ta ghelle-ye pichide-ye fa'al ast; inja faravarde-ha payin-tar-and, pas vakonesh garmade ast."
+     },
+     "anim": "chem.collisions"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چه چیزی سرعت را بالا می‌برد؟",
+      "en": "What raises the rate?",
+      "tr": "Che chizi sor'at ra bala mibarad?"
+     },
+     "body": {
+      "fa": "هر چیزی که شمار برخوردهای مؤثر در هر ثانیه را بیشتر کند، سرعت را بالا می‌برد. «غلظت بیشتر»: ذره‌های بیشتری در هر حجم، پس برخوردهای بیشتری در هر ثانیه (آزمون‌های دی ۱۳۹۹). «دمای بالاتر»: ذره‌ها تندتر حرکت می‌کنند، ولی مهم‌تر اینکه کسر بسیار بیشتری از آن‌ها انرژی بیشتر از `Ea` پیدا می‌کنند (آزمون خرداد ۱۴۰۲). «سطح تماس بیشتر» (پودر به‌جای تکه) و «کاتالیزگر» هم سرعت را زیاد می‌کنند.",
+      "en": "Anything that increases the number of effective collisions per second raises the rate. \"Higher concentration\": more particles in each volume, so more collisions each second (Dey 1399 papers). \"Higher temperature\": particles move faster, but more importantly a much larger fraction of them have energy above `Ea` (Khordad 1402 paper). \"Greater surface area\" (powder instead of a lump) and a \"catalyst\" also raise the rate.",
+      "tr": "Har chizi ke shomar-e barkhord-haye mo'asser dar har sanie ra bishtar konad, sor'at ra bala mibarad. \"Ghelzat-e bishtar\": zarre-haye bishtari dar har hajm, pas barkhord-haye bishtari dar har sanie (azmoon-haye Dey 1399). \"Dama-ye bala-tar\": zarre-ha tond-tar harekat mikonand, vali mohem-tar inke kasr-e besiyar bishtari az an-ha enerzhi-ye bishtar az `Ea` peyda mikonand (azmoon-e Khordad 1402). \"Sath-e tamas-e bishtar\" (pudr be-ja-ye tekke) va \"kataliz-gar\" ham sor'at ra ziyad mikonand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بر پایهٔ نظریهٔ برخورد، افزایش غلظت واکنش‌دهنده‌ها در ظرف بسته چگونه سرعت را زیاد می‌کند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: according to collision theory, how does increasing the reactant concentration in a closed vessel raise the rate? (Dey 1399 paper)",
+      "tr": "Garm kardan: bar paye-ye nazariye-ye barkhord, afzayesh-e ghelzat-e vakonesh-dahande-ha dar zarf-e baste chegoone sor'at ra ziyad mikonad? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ذره‌های بیشتر در همان حجم یعنی شانس بیشتر برای برخورد؛ مثل راهرویی شلوغ‌تر که آدم‌ها بیشتر به هم می‌خورند.",
+        "en": "More particles in the same volume means more chances to collide, like a more crowded corridor where people bump into each other more often.",
+        "tr": "Zarre-haye bishtar dar haman hajm ya'ni shans-e bishtar baraye barkhord; mesl-e rahrowi sholoogh-tar ke adam-ha bishtar be ham mikhorand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "با بیشتر کردن شمار برخوردهای مؤثر در هر ثانیه",
+      "en": "By increasing the number of effective collisions per second",
+      "tr": "Ba bishtar kardan-e shomar-e barkhord-haye mo'asser dar har sanie"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در نمودار انرژی یک واکنش، انرژی واکنش‌دهنده‌ها `100`، پیچیدهٔ فعال `250` و فراورده‌ها `40` کیلوژول است. `Ea` رفت، `Ea` برگشت و `ΔH` را حساب کن. (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: on a reaction's energy diagram, the reactants are at `100`, the activated complex at `250` and the products at `40` kJ. Find the forward `Ea`, the reverse `Ea` and `ΔH`. (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar nemoodar-e enerzhi-ye yek vakonesh, enerzhi-ye vakonesh-dahande-ha `100`, pichide-ye fa'al `250` va faravarde-ha `40` kilozhool ast. `Ea`-ye raft, `Ea`-ye bargasht va `ΔH` ra hesab kon. (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`Ea` رفت: از واکنش‌دهنده‌ها تا قله. این همان چیزی است که آزمون دی ۱۳۹۹ پرسیده: انرژی پیچیدهٔ فعال منهای انرژی واکنش‌دهنده‌ها.",
+        "en": "Forward `Ea`: from the reactants up to the peak. This is exactly what the Dey 1399 paper asks: the activated complex's energy minus the reactants' energy.",
+        "tr": "`Ea`-ye raft: az vakonesh-dahande-ha ta ghelle. In haman chizi ast ke azmoon-e Dey 1399 porside: enerzhi-ye pichide-ye fa'al menha-ye enerzhi-ye vakonesh-dahande-ha."
+       },
+       "math": "Ea = 250 − 100 = 150 kJ"
+      },
+      {
+       "text": {
+        "fa": "`Ea` برگشت: از فراورده‌ها تا همان قله.",
+        "en": "Reverse `Ea`: from the products up to the same peak.",
+        "tr": "`Ea`-ye bargasht: az faravarde-ha ta haman ghelle."
+       },
+       "math": "Ea' = 250 − 40 = 210 kJ"
+      },
+      {
+       "text": {
+        "fa": "`ΔH`: فراورده‌ها منهای واکنش‌دهنده‌ها؛ منفی یعنی گرماده.",
+        "en": "`ΔH`: products minus reactants; negative means exothermic.",
+        "tr": "`ΔH`: faravarde-ha menha-ye vakonesh-dahande-ha; manfi ya'ni garmade."
+       },
+       "math": "ΔH = 40 − 100 = −60 kJ"
+      }
+     ],
+     "answer": {
+      "fa": "`Ea = 150`، `Ea' = 210`، `ΔH = −60 kJ`",
+      "en": "`Ea = 150`, `Ea' = 210`, `ΔH = −60 kJ`",
+      "tr": "`Ea = 150`, `Ea' = 210`, `ΔH = −60 kJ`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: با `10` درجه گرم کردن، شمار برخوردها فقط چند درصد بیشتر می‌شود، ولی سرعت بسیاری از واکنش‌ها نزدیک دو برابر می‌شود. چرا؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: warming by `10` °C raises the number of collisions by only a few percent, yet many reactions nearly double in rate. Why? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: ba `10` daraje garm kardan, shomar-e barkhord-ha faghat chand darsad bishtar mishavad, vali sor'at-e besiyari az vakonesh-ha nazdik-e do barabar mishavad. Chera? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پاسخ «برخورد بیشتر» نیم‌درست است. مهم این است که چه کسری از برخوردها از سد `Ea` می‌گذرند.",
+        "en": "The twist: \"more collisions\" is only half right. What matters is the fraction of collisions that get over the `Ea` barrier.",
+        "tr": "Pich-e emtehan: pasokh-e \"barkhord-e bishtar\" nim-dorost ast. Mohem in ast ke che kasri az barkhord-ha az sadd-e `Ea` migozarand."
+       }
+      },
+      {
+       "text": {
+        "fa": "با گرم شدن، دم پرانرژی توزیع انرژی ذره‌ها بزرگ می‌شود؛ کسر ذره‌هایی که انرژی‌شان بیشتر از `Ea` است تقریباً دو برابر می‌شود، پس برخوردهای مؤثر هم دو برابر می‌شوند.",
+        "en": "On warming, the high-energy tail of the particles' energy spread grows; the fraction of particles with energy above `Ea` roughly doubles, so effective collisions double too.",
+        "tr": "Ba garm shodan, dom-e por-enerzhi-ye towzi'-e enerzhi-ye zarre-ha bozorg mishavad; kasr-e zarre-hayi ke enerzhi-shan bishtar az `Ea` ast taghriban do barabar mishavad, pas barkhord-haye mo'asser ham do barabar mishavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون کسر ذره‌های با انرژی بیشتر از `Ea` به‌شدت زیاد می‌شود",
+      "en": "Because the fraction of particles with energy above `Ea` rises sharply",
+      "tr": "Chon kasr-e zarre-haye ba enerzhi-ye bishtar az `Ea` be-shedat ziyad mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`Ea` از واکنش‌دهنده‌ها تا «قله» اندازه گرفته می‌شود، نه تا فراورده‌ها؛ فاصلهٔ واکنش‌دهنده تا فراورده `ΔH` است.",
+      "en": "`Ea` is measured from the reactants to the \"peak\", not to the products; the gap from reactants to products is `ΔH`.",
+      "tr": "`Ea` az vakonesh-dahande-ha ta \"ghelle\" andaze gerefte mishavad, na ta faravarde-ha; fasele-ye vakonesh-dahande ta faravarde `ΔH` ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اثر اصلی دما «بیشتر شدن کسر ذره‌های پرانرژی» است، نه فقط بیشتر شدن برخوردها؛ در پاسخ تشریحی هر دو را ننویسی، نیم نمره را از دست می‌دهی.",
+      "en": "The main effect of temperature is \"a larger fraction of high-energy particles\", not just more collisions; leave that out of a written answer and you lose half the mark.",
+      "tr": "Asar-e asli-ye dama \"bishtar shodan-e kasr-e zarre-haye por-enerzhi\" ast, na faghat bishtar shodan-e barkhord-ha; agar dar pasokh-e tashrihi an ra nanevisi, nim nomre ra az dast midahi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1399-Dey",
+     "number": 942
+    },
+    {
+     "session": "1399-Dey",
+     "number": 947
+    },
+    {
+     "session": "1399-Dey",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 1,
+   "key": "chem-1-soaps",
+   "title": {
+    "fa": "صابون: پلی میان آب و چربی",
+    "en": "Soap: a bridge between water and grease",
+    "tr": "Saboon: poli miyan-e ab va charbi"
+   },
+   "summary": {
+    "fa": "یک مولکول با دو سر: یکی آب را دوست دارد و دیگری چربی را.",
+    "en": "One molecule with two ends: one loves water, the other loves grease.",
+    "tr": "Yek molekool ba do sar: yeki ab ra doost darad va digari charbi ra."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پل دوسر",
+      "en": "Understand first: the two-ended bridge",
+      "tr": "Avval befahm: pol-e do-sar"
+     },
+     "body": {
+      "fa": "چرا آب به‌تنهایی لکهٔ چربی را نمی‌شوید؟ چون آب قطبی است و چربی ناقطبی، و «شبیه، شبیه را حل می‌کند». صابون این مشکل را با یک ترفند حل می‌کند: هر مولکولش دو سر دارد. یک «دم» بلند هیدروکربنی که ناقطبی، آب‌گریز و چربی‌دوست است، و یک «سر» یونی کربوکسیلات (`-COO-`) که قطبی و آب‌دوست است (آزمون‌های خرداد ۱۴۰۲، خرداد ۱۴۰۰ و خرداد ۱۳۹۷). صابون مثل یک پل دوسر، چربی را به آب وصل می‌کند.",
+      "en": "Why does water alone not wash off grease? Because water is polar and grease is non-polar, and \"like dissolves like\". Soap solves this with a trick: each molecule has two ends. A long hydrocarbon \"tail\" that is non-polar, water-hating and grease-loving, and an ionic carboxylate \"head\" (`-COO-`) that is polar and water-loving (Khordad 1402, Khordad 1400 and Khordad 1397 papers). Like a two-ended bridge, soap links grease to water.",
+      "tr": "Chera ab be-tanhayi lakke-ye charbi ra nemishooyad? Chon ab ghotbi ast va charbi na-ghotbi, va \"shabih, shabih ra hal mikonad\". Saboon in moshkel ra ba yek tarfand hal mikonad: har molekoolash do sar darad. Yek \"dom\"-e boland-e hidrokarboni ke na-ghotbi, ab-goriz va charbi-doost ast, va yek \"sar\"-e yoni-ye karboksilat (`-COO-`) ke ghotbi va ab-doost ast (azmoon-haye Khordad 1402, Khordad 1400 va Khordad 1397). Saboon mesl-e yek pol-e do-sar, charbi ra be ab vasl mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " tail (hydrophobic)      head\n CH3-(CH2)14-----------COO-  Na+\n non-polar, loves        polar,\n grease and oil          loves water",
+     "caption": {
+      "fa": "مولکول صابون: دم هیدروکربنی ناقطبی و سر کربوکسیلات قطبی.",
+      "en": "A soap molecule: a non-polar hydrocarbon tail and a polar carboxylate head.",
+      "tr": "Molekool-e saboon: dom-e hidrokarboni-ye na-ghotbi va sar-e karboksilat-e ghotbi."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "میسل: گویی که چربی را زندانی می‌کند",
+      "en": "The micelle: a ball that traps grease",
+      "tr": "Misel: gooyi ke charbi ra zendani mikonad"
+     },
+     "body": {
+      "fa": "وقتی صابون به آب چرب اضافه می‌شود، دم‌ها در قطره‌های چربی فرو می‌روند و سرها رو به آب می‌مانند. هر قطرهٔ چربی در یک گوی پر از سرهای باردار پیچیده می‌شود؛ به این گوی «میسل» می‌گویند. سرهای هم‌بار همدیگر را دفع می‌کنند، پس قطره‌ها به هم نمی‌چسبند و در آب پخش می‌مانند؛ صابون یک «امولسیون‌کننده» است. صابون با چربی واکنش شیمیایی نمی‌دهد؛ فقط با نیروهای بین‌مولکولی آن را جدا می‌کند (آزمون خرداد ۱۴۰۱).",
+      "en": "When soap is added to greasy water, the tails sink into the drops of grease and the heads stay facing the water. Each drop of grease is wrapped in a ball of charged heads; this ball is called a \"micelle\". Heads with the same charge repel each other, so the drops do not stick together and stay spread through the water; soap is an \"emulsifier\". Soap does not react chemically with grease; it only lifts it away through intermolecular forces (Khordad 1401 paper).",
+      "tr": "Vaghti saboon be ab-e charb ezafe mishavad, dom-ha dar ghatre-haye charbi foroo miravand va sar-ha roo be ab mimanand. Har ghatre-ye charbi dar yek gooy-e por az sar-haye bardar pichide mishavad; be in gooy \"misel\" migooyand. Sar-haye ham-bar hamdigar ra daf' mikonand, pas ghatre-ha be ham nemichasband va dar ab pakhsh mimanand; saboon yek \"emulsion-konande\" ast. Saboon ba charbi vakonesh-e shimiyayi nemidahad; faghat ba niroo-haye beyn-e molekooli an ra joda mikonad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            water\n        o    o    o\n      o  \\   |   /  o\n     o --[ grease ]-- o\n      o  /   |   \\  o\n        o    o    o\n\n  o  = water-loving head\n  -- = tail buried in grease",
+     "caption": {
+      "fa": "میسل: دم‌ها در چربی، سرها رو به آب. قطره‌های چربی جدا و معلق در آب می‌مانند.",
+      "en": "A micelle: tails in the grease, heads facing the water. The grease drops stay separate and suspended in water.",
+      "tr": "Misel: dom-ha dar charbi, sar-ha roo be ab. Ghatre-haye charbi joda va mo'allagh dar ab mimanand."
+     },
+     "anim": "chem.micelle"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ساختن صابون",
+      "en": "Making soap",
+      "tr": "Sakhtan-e saboon"
+     },
+     "body": {
+      "fa": "صابون از واکنش چربی یا روغن با یک باز قوی، مثل سدیم هیدروکسید، ساخته می‌شود؛ به این واکنش «صابونی شدن» می‌گویند (آزمون خرداد ۱۳۹۹). صابون‌های جامد معمولی نمک «سدیم» اسیدهای چرب‌اند و صابون‌های مایع نمک پتاسیم یا آمونیوم (آزمون خرداد ۱۴۰۱). افزودن نمک خوراکی به مخلوط، انحلال‌پذیری صابون را کم می‌کند و صابون جدا می‌شود؛ به این «نمک‌زنی» می‌گویند (آزمون دی ۱۳۹۸).",
+      "en": "Soap is made by reacting a fat or oil with a strong base such as sodium hydroxide; this reaction is called \"saponification\" (Khordad 1399 paper). Ordinary solid soaps are \"sodium\" salts of fatty acids, and liquid soaps are potassium or ammonium salts (Khordad 1401 paper). Adding table salt to the mixture lowers the soap's solubility and the soap separates out; this is \"salting out\" (Dey 1398 paper).",
+      "tr": "Saboon az vakonesh-e charbi ya roghan ba yek baz-e ghavi, mesl-e sodiyom hidroksid, sakhte mishavad; be in vakonesh \"sabooni shodan\" migooyand (azmoon-e Khordad 1399). Saboon-haye jamed-e ma'mooli namak-e \"sodiyom\"-e asid-haye charb-and va saboon-haye maye' namak-e potasiyom ya amoniyom (azmoon-e Khordad 1401). Afzoodan-e namak-e khoraki be makhloot, enhelal-paziri-ye saboon ra kam mikonad va saboon joda mishavad; be in \"namak-zani\" migooyand (azmoon-e Dey 1398)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "C3H5(OOCR)3 + 3 NaOH  →  3 RCOONa + C3H5(OH)3",
+     "caption": {
+      "fa": "صابونی شدن: چربی و باز قوی، صابون و گلیسرین می‌دهند",
+      "en": "Saponification: fat and a strong base give soap and glycerol",
+      "tr": "Sabooni shodan: charbi va baz-e ghavi, saboon va gliserin midahand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: دم هیدروکربنی صابون چه ویژگی‌ای دارد؟ (آزمون خرداد ۱۳۹۷)",
+      "en": "Warm-up: what property does the hydrocarbon tail of soap have? (Khordad 1397 paper)",
+      "tr": "Garm kardan: dom-e hidrokarboni-ye saboon che vizhegi-i darad? (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دم فقط کربن و هیدروژن دارد، پس ناقطبی است. ناقطبی با ناقطبی (چربی) جور است و با آب نه.",
+        "en": "The tail has only carbon and hydrogen, so it is non-polar. Non-polar mixes with non-polar (grease), not with water.",
+        "tr": "Dom faghat karbon va hidrozhen darad, pas na-ghotbi ast. Na-ghotbi ba na-ghotbi (charbi) joor ast va ba ab na."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آب‌گریز و چربی‌دوست",
+      "en": "Hydrophobic and grease-loving (lipophilic)",
+      "tr": "Ab-goriz va charbi-doost"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام ویژگی ساختاری صابون آن را امولسیون‌کننده می‌کند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: which structural feature of soap makes it an emulsifier? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam vizhegi-ye sakhtari-ye saboon an ra emulsion-konande mikonad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "امولسیون یعنی پخش کردن یک مایع ناقطبی در یک مایع قطبی. برای این کار مولکول باید با «هر دو» جور باشد.",
+        "en": "An emulsion means spreading a non-polar liquid through a polar one. To do that, the molecule must get on with \"both\".",
+        "tr": "Emulsion ya'ni pakhsh kardan-e yek maye'-e na-ghotbi dar yek maye'-e ghotbi. Baraye in kar molekool bayad ba \"har do\" joor bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "صابون دو بخش متضاد دارد: دم آب‌گریز در چربی و سر آب‌دوست در آب. نام هر دو بخش را در جواب بیاور.",
+        "en": "Soap has two opposite parts: a water-hating tail in the grease and a water-loving head in the water. Name both parts in your answer.",
+        "tr": "Saboon do bakhsh-e motazad darad: dom-e ab-goriz dar charbi va sar-e ab-doost dar ab. Nam-e har do bakhsh ra dar javab biyavar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "داشتن هم دم هیدروکربنی آب‌گریز و هم سر یونی آب‌دوست",
+      "en": "Having both a water-hating hydrocarbon tail and a water-loving ionic head",
+      "tr": "Dashtan-e ham dom-e hidrokarboni-ye ab-goriz va ham sar-e yoni-ye ab-doost"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا صابون مایع با یون پتاسیم ساخته می‌شود و صابون جامد با یون سدیم؟ (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: why is liquid soap made with potassium ions and solid soap with sodium ions? (as in the Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: chera saboon-e maye' ba yoon-e potasiyom sakhte mishavad va saboon-e jamed ba yoon-e sodiyom? (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سر کربوکسیلات در هر دو یکی است؛ فرق فقط در کاتیون همراه است.",
+        "en": "The twist: the carboxylate head is the same in both; the only difference is the cation that goes with it.",
+        "tr": "Pich-e emtehan: sar-e karboksilat dar har do yeki ast; fargh faghat dar katiyon-e hamrah ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "نمک‌های پتاسیم این اسیدهای چرب نرم‌تر و حل‌شونده‌ترند و مایع می‌مانند؛ نمک‌های سدیم سفت‌تر‌اند و قالب می‌گیرند.",
+        "en": "The potassium salts of these fatty acids are softer and more soluble and stay liquid; the sodium salts are harder and set into bars.",
+        "tr": "Namak-haye potasiyom-e in asid-haye charb narm-tar va hal-shavande-tar-and va maye' mimanand; namak-haye sodiyom seft-tar-and va ghaleb migirand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کاتیون فرق می‌کند: سدیم صابون جامد و پتاسیم (یا آمونیوم) صابون مایع می‌دهد",
+      "en": "The cation differs: sodium gives solid soap, potassium (or ammonium) liquid soap",
+      "tr": "Katiyon fargh mikonad: sodiyom saboon-e jamed va potasiyom (ya amoniyom) saboon-e maye' midahad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سر صابون آب‌دوست است و دم آن آب‌گریز؛ این دو را جابه‌جا ننویس.",
+      "en": "The soap head is water-loving and the tail water-hating; do not swap them.",
+      "tr": "Sar-e saboon ab-doost ast va dom-e an ab-goriz; in do ra jabeja nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "صابون و پاک‌کننده‌های غیرصابونی چربی را فقط با نیروهای بین‌مولکولی جدا می‌کنند؛ این پاک‌کننده‌های خورنده‌اند که با چرک واکنش شیمیایی می‌دهند (آزمون خرداد ۱۴۰۱).",
+      "en": "Soaps and non-soap detergents remove grease only through intermolecular forces; it is the corrosive cleaners that react chemically with dirt (Khordad 1401 paper).",
+      "tr": "Saboon va pak-konande-haye gheyr-e sabooni charbi ra faghat ba niroo-haye beyn-e molekooli joda mikonand; in pak-konande-haye khorande-and ke ba cherk vakonesh-e shimiyayi midahand (azmoon-e Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 922
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 934
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 936
+    },
+    {
+     "session": "1398-Dey",
+     "number": 924
+    },
+    {
+     "session": "1397-Khordad",
+     "number": 903
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 1,
+   "unit": 2,
+   "key": "bio-1-replication",
+   "title": {
+    "fa": "همانندسازی دنا",
+    "en": "DNA replication",
+    "tr": "Hamanand-sazi-ye dena"
+   },
+   "summary": {
+    "fa": "پیش از تقسیم، سلول از کل کتاب دستور پخت یک نسخهٔ کامل می‌سازد.",
+    "en": "Before dividing, the cell makes a complete copy of the whole recipe book.",
+    "tr": "Pish az taghsim, sellool az kol-e ketab-e dastoor-e pokht yek noskhe-ye kamel misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: باز کردن زیپ",
+      "en": "Understand first: opening a zip",
+      "tr": "Avval befahm: baz kardan-e zip"
+     },
+     "body": {
+      "fa": "وقتی یک سلول تقسیم می‌شود، هر سلول تازه یک کتاب کامل لازم دارد. پس اول باید از کتاب نسخه گرفت. دنا را مثل یک زیپ تصور کن. آنزیم «هلیکاز» زیپ را باز می‌کند: پیوندهای هیدروژنی بین بازهای مکمل را می‌شکند و دو رشته از هم جدا می‌شوند (آزمون خرداد ۱۳۹۷). حالا هر نیمهٔ زیپ یک «الگو» است، چون هر باز فقط یک جفت مشخص دارد.",
+      "en": "When a cell divides, each new cell needs a complete book. So the book has to be copied first. Picture DNA as a zip. The enzyme \"helicase\" opens the zip: it breaks the hydrogen bonds between complementary bases and the two strands come apart (Khordad 1397 paper). Now each half of the zip is a \"template\", because each base has only one matching partner.",
+      "tr": "Vaghti yek sellool taghsim mishavad, har sellool-e taze yek ketab-e kamel lazem darad. Pas avval bayad az ketab noskhe gereft. Dena ra mesl-e yek zip tasavvor kon. Anzim-e \"helikaz\" zip ra baz mikonad: peyvand-haye hidrojeni beyn-e baz-haye mokammel ra mishekanad va do reshte az ham joda mishavand (azmoon-e Khordad 1397). Hala har nime-ye zip yek \"olgoo\" ast, chon har baz faghat yek joft-e moshakhkhas darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "               old strand (template)\n             /==================\n  ==========<   helicase opens\n  (closed)   \\==================\n               old strand (template)\n\n  on each template, polymerase\n  adds new nucleotides 5' -> 3'",
+     "caption": {
+      "fa": "چنگال همانندسازی: هلیکاز دو رشته را از هم جدا می‌کند و هر رشتهٔ قدیمی الگوی یک رشتهٔ تازه می‌شود.",
+      "en": "The replication fork: helicase separates the two strands, and each old strand becomes the template for a new one.",
+      "tr": "Changal-e hamanand-sazi: helikaz do reshte ra az ham joda mikonad va har reshte-ye ghadimi olgoo-ye yek reshte-ye taze mishavad."
+     },
+     "anim": "bio.replication-fork"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دنابسپاراز: سازنده و غلط‌یاب",
+      "en": "DNA polymerase: builder and spell-checker",
+      "tr": "Dena-baspar-az: sazande va ghalat-yab"
+     },
+     "body": {
+      "fa": "آنزیم «دنابسپاراز» سازنده است: نوکلئوتید مکمل را روبه‌روی هر باز الگو می‌گذارد و بین نوکلئوتیدهای کنار هم پیوند فسفودی‌استر می‌سازد. این آنزیم همیشه در یک جهت کار می‌کند: نوکلئوتید تازه را به سر `3′` رشته اضافه می‌کند، یعنی رشته از `5′` به `3′` رشد می‌کند (آزمون خرداد ۱۴۰۱). مثل یک غلط‌یاب هم کار می‌کند: اگر نوکلئوتید اشتباهی گذاشت، آن را برمی‌دارد و درستش را می‌گذارد؛ به این «ویرایش» می‌گویند (آزمون خرداد ۱۴۰۱).",
+      "en": "The enzyme \"DNA polymerase\" is the builder: it places the matching nucleotide opposite each template base and makes phosphodiester bonds between neighbouring nucleotides. It always works in one direction: it adds each new nucleotide to the `3′` end, so the strand grows from `5′` to `3′` (Khordad 1401 paper). It also works like a spell-checker: if it puts in a wrong nucleotide, it removes it and puts in the right one; this is called \"proofreading\" (Khordad 1401 paper).",
+      "tr": "Anzim-e \"dena-baspar-az\" sazande ast: nukleotid-e mokammel ra roo-be-roo-ye har baz-e olgoo migozarad va beyn-e nukleotid-haye kenar-e ham peyvand-e fosfodi-ester misazad. In anzim hamishe dar yek jahat kar mikonad: nukleotid-e taze ra be sar-e `3′`-e reshte ezafe mikonad, ya'ni reshte az `5′` be `3′` roshd mikonad (azmoon-e Khordad 1401). Mesl-e yek ghalat-yab ham kar mikonad: agar nukleotid-e eshtebahi gozasht, an ra barmidarad va dorostash ra migozarad; be in \"virayesh\" migooyand (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "5′  →  3′",
+     "caption": {
+      "fa": "جهت ساخت رشتهٔ تازه (آزمون خرداد ۱۴۰۱)",
+      "en": "The direction the new strand is built in (Khordad 1401 paper)",
+      "tr": "Jahat-e sakht-e reshte-ye taze (azmoon-e Khordad 1401)"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   parent:   # #   (both old)\n               |\n       +-------+-------+\n       |               |\n     # o             o #\n   daughter 1     daughter 2\n\n   # = old strand  o = new strand",
+     "caption": {
+      "fa": "نیمه‌حفاظتی: هر دنای تازه یک رشتهٔ قدیمی و یک رشتهٔ تازه دارد (آزمون خرداد ۱۴۰۱).",
+      "en": "Semiconservative: each new DNA has one old strand and one new strand (Khordad 1401 paper).",
+      "tr": "Nime-hefazati: har dena-ye taze yek reshte-ye ghadimi va yek reshte-ye taze darad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: هلیکاز دقیقاً کدام پیوند را می‌شکند؟ (آزمون خرداد ۱۳۹۷)",
+      "en": "Warm-up: exactly which bonds does helicase break? (Khordad 1397 paper)",
+      "tr": "Garm kardan: helikaz daghighan kodam peyvand ra mishekanad? (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هلیکاز فقط باید دو رشته را از هم جدا کند، نه اینکه رشته‌ها را ببرد. پس پیوندی را می‌شکند که دو رشته را به هم چسبانده.",
+        "en": "Helicase only has to separate the two strands, not cut them. So it breaks the bonds that hold the two strands together.",
+        "tr": "Helikaz faghat bayad do reshte ra az ham joda konad, na inke reshte-ha ra bebord. Pas peyvandi ra mishekanad ke do reshte ra be ham chasbande."
+       }
+      },
+      {
+       "text": {
+        "fa": "آن پیوندها، پیوندهای هیدروژنی بین بازهای مکمل‌اند.",
+        "en": "Those bonds are the hydrogen bonds between complementary bases.",
+        "tr": "An peyvand-ha, peyvand-haye hidrojeni beyn-e baz-haye mokammel-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پیوندهای هیدروژنی بین بازهای مکمل",
+      "en": "The hydrogen bonds between complementary bases",
+      "tr": "Peyvand-haye hidrojeni beyn-e baz-haye mokammel"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: سؤال تشریحی ۱٫۵ نمره‌ای همانندسازی (آزمون خرداد ۱۴۰۳)",
+      "en": "Textbook and exam: the 1.5-mark written replication question (Khordad 1403 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: so'al-e tashrihi-ye 1.5 nomre-i-ye hamanand-sazi (azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "(آ) کار هلیکاز: پیوندهای هیدروژنی را می‌شکند و مارپیچ را باز می‌کند. مصحح هر دو را می‌خواهد.",
+        "en": "(a) Helicase's job: it breaks the hydrogen bonds and opens the helix. The examiner wants both.",
+        "tr": "(a) Kar-e helikaz: peyvand-haye hidrojeni ra mishekanad va marpich ra baz mikonad. Mosahhehe har do ra mikhahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "(ب) دو کار دنابسپاراز: ساختن پیوند فسفودی‌استر بین نوکلئوتیدها، و ویرایش. فقط نوشتن «دنا می‌سازد» کلی است و نمرهٔ کامل نمی‌گیرد.",
+        "en": "(b) DNA polymerase's two jobs: making phosphodiester bonds between nucleotides, and proofreading. Just writing \"it makes DNA\" is too general and loses marks.",
+        "tr": "(b) Do kar-e dena-baspar-az: sakhtan-e peyvand-e fosfodi-ester beyn-e nukleotid-ha, va virayesh. Faghat neveshtan-e \"dena misazad\" kolli ast va nomre-ye kamel nemigirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "(پ) چرا نیمه‌حفاظتی؟ چون هر دنای حاصل یک رشتهٔ قدیمی و یک رشتهٔ تازه دارد. «نیمی از دنا حفظ می‌شود» به‌تنهایی پذیرفته نیست.",
+        "en": "(c) Why semiconservative? Because each resulting DNA has one old strand and one new strand. \"Half the DNA is kept\" on its own is not accepted.",
+        "tr": "(c) Chera nime-hefazati? Chon har dena-ye hasel yek reshte-ye ghadimi va yek reshte-ye taze darad. \"Nimi az dena hefz mishavad\" be-tanhayi pazirofte nist."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هلیکاز باز می‌کند؛ دنابسپاراز پیوند می‌سازد و ویرایش می‌کند؛ هر دنا = یک رشتهٔ قدیمی + یک رشتهٔ تازه",
+      "en": "Helicase opens; polymerase makes bonds and proofreads; each DNA = one old strand + one new strand",
+      "tr": "Helikaz baz mikonad; dena-baspar-az peyvand misazad va virayesh mikonad; har dena = yek reshte-ye ghadimi + yek reshte-ye taze"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک دنا دو بار پشت سر هم همانندسازی می‌کند. از ۴ دنای حاصل، چند تا رشتهٔ قدیمی دارند؟",
+      "en": "Exam twist: a DNA molecule replicates twice in a row. Of the 4 resulting DNAs, how many contain an old strand?",
+      "tr": "Pich-e emtehani: yek dena do bar posht-e sar-e ham hamanand-sazi mikonad. Az 4 dena-ye hasel, chand ta reshte-ye ghadimi darand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بار اول: دو دنا، هر کدام یک رشتهٔ قدیمی و یک رشتهٔ تازه.",
+        "en": "First round: two DNAs, each with one old strand and one new strand.",
+        "tr": "Bar-e avval: do dena, har kodam yek reshte-ye ghadimi va yek reshte-ye taze."
+       },
+       "math": "# o   and   o #"
+      },
+      {
+       "text": {
+        "fa": "بار دوم: هر رشته الگوی یک دنای تازه می‌شود. دو رشتهٔ قدیمی هیچ‌وقت تکه نمی‌شوند؛ هر کدام فقط در یک دنا می‌ماند.",
+        "en": "Second round: every strand becomes the template for a new DNA. The two old strands never break up; each stays in just one DNA.",
+        "tr": "Bar-e dovvom: har reshte olgoo-ye yek dena-ye taze mishavad. Do reshte-ye ghadimi hich-vaght tekke nemishavand; har kodam faghat dar yek dena mimanad."
+       },
+       "math": "# o ,  o o ,  o o ,  o #"
+      },
+      {
+       "text": {
+        "fa": "پیچ امتحان: با هر دور، تعداد دناها دو برابر می‌شود ولی تعداد رشته‌های قدیمی همیشه ۲ می‌ماند.",
+        "en": "The twist: with each round the number of DNAs doubles, but the number of old strands always stays at 2.",
+        "tr": "Pich-e emtehan: ba har dor, te'dad-e dena-ha do barabar mishavad vali te'dad-e reshte-haye ghadimi hamishe 2 mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "۲ تا از ۴",
+      "en": "2 of the 4",
+      "tr": "2 ta az 4"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هلیکاز دنا را «نمی‌بُرد» و پیوند فسفودی‌استر را نمی‌شکند؛ فقط پیوندهای هیدروژنی بین دو رشته را می‌شکند.",
+      "en": "Helicase does not \"cut\" DNA and does not break phosphodiester bonds; it only breaks the hydrogen bonds between the two strands.",
+      "tr": "Helikaz dena ra \"nemiborad\" va peyvand-e fosfodi-ester ra nemishekanad; faghat peyvand-haye hidrojeni beyn-e do reshte ra mishekanad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«نیمه‌حفاظتی» یعنی هر دنای تازه یک رشتهٔ کامل قدیمی و یک رشتهٔ کامل تازه دارد، نه اینکه هر رشته نیمه قدیمی و نیمه تازه باشد.",
+      "en": "\"Semiconservative\" means each new DNA has one whole old strand and one whole new strand, not that each strand is half old and half new.",
+      "tr": "\"Nime-hefazati\" ya'ni har dena-ye taze yek reshte-ye kamel-e ghadimi va yek reshte-ye kamel-e taze darad, na inke har reshte nime ghadimi va nime taze bashad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1397-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 951
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 952
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 7
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 2,
+   "unit": 4,
+   "key": "bio-2-translation",
+   "title": {
+    "fa": "رناتن و مراحل ترجمه",
+    "en": "The ribosome and the steps of translation",
+    "tr": "Renatan va marahel-e tarjome"
+   },
+   "summary": {
+    "fa": "خط مونتاژ با سه ایستگاه: ورود، نگه‌داشتن، خروج.",
+    "en": "An assembly line with three stations: in, hold, out.",
+    "tr": "Khatt-e montazh ba se istgah: vorood, negah-dashtan, khorooj."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: خط مونتاژ",
+      "en": "Understand first: the assembly line",
+      "tr": "Avval befahm: khatt-e montazh"
+     },
+     "body": {
+      "fa": "رناتن خط مونتاژ کارخانه است. دو زیرواحد دارد: زیرواحد کوچک برگهٔ سفارش (رنای پیک) را نگه می‌دارد و زیرواحد بزرگ سه ایستگاه دارد. ایستگاه `A` در ورودی است: رنای ناقل تازه با آمینواسید بعدی اینجا می‌نشیند. ایستگاه `P` وسط است: رنای ناقلی که زنجیرهٔ در حال ساخت را نگه داشته اینجاست. ایستگاه `E` در خروجی است: رنای ناقل خالی از اینجا بیرون می‌رود (آزمون‌های خرداد ۱۳۹۶ و خرداد ۱۴۰۱).",
+      "en": "The ribosome is the factory's assembly line. It has two subunits: the small subunit holds the work order (mRNA) and the large subunit has three stations. Station `A` is at the entrance: the new tRNA with the next amino acid sits here. Station `P` is in the middle: the tRNA holding the growing chain is here. Station `E` is at the exit: the empty tRNA leaves from here (Khordad 1396 and Khordad 1401 papers).",
+      "tr": "Renatan khatt-e montazh-e karkhane ast. Do zirvahed darad: zirvahed-e koochak barge-ye sefaresh (rena-ye peyk) ra negah midarad va zirvahed-e bozorg se istgah darad. Istgah-e `A` dar voroodi ast: rena-ye naghel-e taze ba amino-asid-e ba'di inja mineshinad. Istgah-e `P` vasat ast: rena-ye nagheli ke zanjire-ye dar hal-e sakht ra negah dashte injast. Istgah-e `E` dar khorooji ast: rena-ye naghel-e khali az inja biroon miravad (azmoon-haye Khordad 1396 va Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "        large subunit\n   +-------+-------+-------+\n   |   E   |   P   |   A   |\n   | exit  | hold  |  new  |\n   +-------+-------+-------+\n 5'-...--GCU--UUU--GGC--...-3'\n        small subunit + mRNA\n   ribosome moves  ------>  3'",
+     "caption": {
+      "fa": "سه جایگاه رناتن: `A` ورود رنای ناقل تازه، `P` نگه‌داشتن زنجیره، `E` خروج رنای ناقل خالی. رناتن به سمت `3′` رنای پیک حرکت می‌کند.",
+      "en": "The three ribosome sites: `A` for the incoming tRNA, `P` holding the chain, `E` for the empty tRNA to exit. The ribosome moves towards the `3′` end of the mRNA.",
+      "tr": "Se jaygah-e renatan: `A` vorood-e rena-ye naghel-e taze, `P` negah-dashtan-e zanjire, `E` khorooj-e rena-ye naghel-e khali. Renatan be samt-e `3′`-e rena-ye peyk harekat mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آغاز، طویل شدن، پایان",
+      "en": "Initiation, elongation, termination",
+      "tr": "Aghaz, tavil shodan, payan"
+     },
+     "body": {
+      "fa": "ترجمه سه مرحله دارد. «آغاز»: زیرواحد کوچک روی رنای پیک می‌نشیند، رمزهٔ `AUG` را پیدا می‌کند، رنای ناقل آغازگر با متیونین در جایگاه `P` قرار می‌گیرد و زیرواحد بزرگ اضافه می‌شود. «طویل شدن»: یک چرخهٔ تکراری است که در شکل بعد می‌بینی. پیوند میان آمینواسیدها «پپتیدی» است (آزمون دی ۱۳۹۹) و آن را رنای رِناتنی زیرواحد بزرگ می‌سازد، نه یک پروتئین (آزمون خرداد ۱۴۰۱). «پایان»: وقتی رمزهٔ پایان به جایگاه `A` برسد، عامل آزادکننده وارد می‌شود، زنجیره آزاد می‌شود و دو زیرواحد از هم جدا می‌شوند.",
+      "en": "Translation has three stages. \"Initiation\": the small subunit sits on the mRNA and finds the `AUG` codon, the initiator tRNA with methionine takes the `P` site, and the large subunit joins. \"Elongation\": a repeating cycle, shown in the next figure. The bond between amino acids is a \"peptide\" bond (Dey 1399 paper), and it is made by the ribosomal RNA of the large subunit, not by a protein (Khordad 1401 paper). \"Termination\": when a stop codon reaches the `A` site, a release factor enters, the chain is released and the two subunits separate.",
+      "tr": "Tarjome se marhale darad. \"Aghaz\": zirvahed-e koochak rooye rena-ye peyk mineshinad, ramze-ye `AUG` ra peyda mikonad, rena-ye naghel-e aghazgar ba metionin dar jaygah-e `P` gharar migirad va zirvahed-e bozorg ezafe mishavad. \"Tavil shodan\": yek charkhe-ye tekrari ast ke dar shekl-e ba'd mibini. Peyvand-e miyan-e amino-asid-ha \"peptidi\" ast (azmoon-e Dey 1399) va an ra rena-ye renatani-ye zirvahed-e bozorg misazad, na yek protein (azmoon-e Khordad 1401). \"Payan\": vaghti ramze-ye payan be jaygah-e `A` beresad, amel-e azad-konande vared mishavad, zanjire azad mishavad va do zirvahed az ham joda mishavand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " elongation cycle\n 1. new tRNA enters site A\n 2. peptide bond: the chain moves\n    from the P-tRNA to the A-tRNA\n 3. ribosome slides one codon:\n    A -> P ,  P -> E\n 4. empty tRNA leaves from E\n repeat ... until a stop codon\n reaches A -> release factor",
+     "caption": {
+      "fa": "چرخهٔ طویل شدن: ورود به `A`، پیوند پپتیدی، جابه‌جایی یک رمزه، خروج از `E`.",
+      "en": "The elongation cycle: entry at `A`, peptide bond, a one-codon shift, exit from `E`.",
+      "tr": "Charkhe-ye tavil shodan: vorood be `A`, peyvand-e peptidi, jabejayi-ye yek ramze, khorooj az `E`."
+     },
+     "anim": "bio.ribosome"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رنای ناقل خالی از کدام جایگاه خارج می‌شود؟",
+      "en": "Warm-up: from which site does the empty tRNA leave?",
+      "tr": "Garm kardan: rena-ye naghel-e khali az kodam jaygah kharej mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ترتیب ایستگاه‌ها را از ورودی به خروجی بگو: `A` ورود، `P` نگه‌داشتن، `E` خروج. حرف `E` را با «اگزیت»، یعنی خروج، به یاد بسپار.",
+        "en": "Say the stations from entrance to exit: `A` in, `P` hold, `E` out. Remember `E` as \"exit\".",
+        "tr": "Tartib-e istgah-ha ra az voroodi be khorooji begoo: `A` vorood, `P` negah-dashtan, `E` khorooj. Harf-e `E` ra ba \"exit\", ya'ni khorooj, be yad besepar."
+       },
+       "math": "A → P → E"
+      }
+     ],
+     "answer": {
+      "fa": "جایگاه `E`",
+      "en": "The `E` site",
+      "tr": "Jaygah-e `E`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش جایگاه‌های `A`، `P` و `E` را در مرحلهٔ طویل شدن شرح بده. (آزمون خرداد ۱۳۹۶)",
+      "en": "Textbook and exam: describe the roles of the `A`, `P` and `E` sites during elongation. (Khordad 1396 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e jaygah-haye `A`, `P` va `E` ra dar marhale-ye tavil shodan sharh bede. (azmoon-e Khordad 1396)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید پاسخ سه بخش دارد، پس سه جملهٔ جدا بنویس، یکی برای هر جایگاه. اول `P`: رنای ناقل حامل زنجیرهٔ در حال رشد را نگه می‌دارد.",
+        "en": "The key has three parts, so write three separate sentences, one per site. First `P`: it holds the tRNA carrying the growing chain.",
+        "tr": "Kelid-e pasokh se bakhsh darad, pas se jomle-ye joda benevis, yeki baraye har jaygah. Avval `P`: rena-ye naghel-e hamel-e zanjire-ye dar hal-e roshd ra negah midarad."
+       }
+      },
+      {
+       "text": {
+        "fa": "بعد `A`: رنای ناقل تازه را که آمینواسید بعدی را دارد می‌پذیرد.",
+        "en": "Then `A`: it receives the new tRNA carrying the next amino acid.",
+        "tr": "Ba'd `A`: rena-ye naghel-e taze ra ke amino-asid-e ba'di ra darad mipazirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "آخر `E`: محل خروج رنای ناقل بدون آمینواسید است.",
+        "en": "Last `E`: the exit for the tRNA without an amino acid.",
+        "tr": "Akhar `E`: mahall-e khorooj-e rena-ye naghel-e bedoon-e amino-asid ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`P` نگه‌داشتن زنجیره، `A` پذیرش رنای ناقل تازه، `E` خروج رنای ناقل خالی",
+      "en": "`P` holds the chain, `A` receives the new tRNA, `E` is the exit for the empty tRNA",
+      "tr": "`P` negah-dashtan-e zanjire, `A` paziresh-e rena-ye naghel-e taze, `E` khorooj-e rena-ye naghel-e khali"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پروتئینی ۱۰۰ آمینواسید دارد. چند پیوند پپتیدی، چند رمزه (با رمزهٔ پایان) و چند نوکلئوتید در بخش رمزدار رنای پیک؟",
+      "en": "Exam twist: a protein has 100 amino acids. How many peptide bonds, how many codons (with the stop codon), and how many nucleotides in the coding part of the mRNA?",
+      "tr": "Pich-e emtehani: proteini 100 amino-asid darad. Chand peyvand-e peptidi, chand ramze (ba ramze-ye payan) va chand nukleotid dar bakhsh-e ramzdar-e rena-ye peyk?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیوند بین دو مهره است. در یک گردنبند باز با ۱۰۰ مهره، ۹۹ فاصله هست.",
+        "en": "A bond sits between two beads. An open necklace of 100 beads has 99 gaps.",
+        "tr": "Peyvand beyn-e do mohre ast. Dar yek gardanband-e baz ba 100 mohre, 99 fasele hast."
+       },
+       "math": "100 − 1 = 99"
+      },
+      {
+       "text": {
+        "fa": "هر آمینواسید یک رمزه دارد و یک رمزهٔ پایان هم در آخر هست که آمینواسید ندارد.",
+        "en": "Each amino acid has one codon, and there is also one stop codon at the end with no amino acid.",
+        "tr": "Har amino-asid yek ramze darad va yek ramze-ye payan ham dar akhar hast ke amino-asid nadarad."
+       },
+       "math": "100 + 1 = 101"
+      },
+      {
+       "text": {
+        "fa": "هر رمزه سه نوکلئوتید است.",
+        "en": "Each codon is three nucleotides.",
+        "tr": "Har ramze se nukleotid ast."
+       },
+       "math": "101 × 3 = 303"
+      }
+     ],
+     "answer": {
+      "fa": "۹۹ پیوند پپتیدی، ۱۰۱ رمزه، ۳۰۳ نوکلئوتید",
+      "en": "99 peptide bonds, 101 codons, 303 nucleotides",
+      "tr": "99 peyvand-e peptidi, 101 ramze, 303 nukleotid"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رنای ناقل آغازگر مستقیم در جایگاه `P` می‌نشیند، نه `A`. فقط رنای ناقل‌های بعدی از `A` وارد می‌شوند.",
+      "en": "The initiator tRNA goes straight into the `P` site, not `A`. Only the later tRNAs enter at `A`.",
+      "tr": "Rena-ye naghel-e aghazgar mostaghim dar jaygah-e `P` mineshinad, na `A`. Faghat rena-ye naghel-haye ba'di az `A` vared mishavand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیوند پپتیدی را «رنای رِناتنی» زیرواحد بزرگ می‌سازد، یعنی یک رنای آنزیمی. اگر بنویسی «یک آنزیم پروتئینی» نمره نمی‌گیری (آزمون خرداد ۱۴۰۱).",
+      "en": "The peptide bond is made by the \"ribosomal RNA\" of the large subunit, an RNA enzyme. If you write \"a protein enzyme\" you lose the mark (Khordad 1401 paper).",
+      "tr": "Peyvand-e peptidi ra \"rena-ye renatani\"-ye zirvahed-e bozorg misazad, ya'ni yek rena-ye anzimi. Agar benevisi \"yek anzim-e proteini\" nomre nemigiri (azmoon-e Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1396-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1399-Dey",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 4,
+   "key": "bio-5-electron-chain",
+   "title": {
+    "fa": "زنجیرهٔ انتقال الکترون و ساخت اکسایشی",
+    "en": "The electron transport chain and oxidative ATP making",
+    "tr": "Zanjire-ye enteghal-e elektron va sakht-e oksayeshi"
+   },
+   "summary": {
+    "fa": "آب را پشت سد جمع کن، بعد بگذار از توربین بگذرد.",
+    "en": "Pile water up behind a dam, then let it run through the turbine.",
+    "tr": "Ab ra posht-e sad jam' kon, ba'd bogzar az toorbin begozarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سد برق‌آبی",
+      "en": "Understand first: the hydroelectric dam",
+      "tr": "Avval befahm: sad-e barq-abi"
+     },
+     "body": {
+      "fa": "یک سد برق‌آبی را تصور کن. پمپ‌ها آب را پشت سد بالا می‌برند. وقتی دریچه باز شود، آب با فشار برمی‌گردد و توربین را می‌چرخاند و برق می‌سازد. در راکیزه، کیف پول‌ها (`NADH` و `FADH2`) الکترون‌هایشان را به پروتئین‌های زنجیرهٔ روی غشای درونی می‌دهند. انرژی الکترون‌ها، که از پروتئینی به پروتئین دیگر می‌روند، صرف پمپ کردن پروتون (`H+`) از بخش داخلی به «فضای بین دو غشا» می‌شود (آزمون دی ۱۴۰۱). این فضا مخزن پشت سد است.",
+      "en": "Picture a hydroelectric dam. Pumps lift water up behind the dam. When a gate opens, the water rushes back, turns the turbine and makes electricity. In the mitochondrion, the wallets (`NADH` and `FADH2`) hand their electrons to the proteins of the chain on the inner membrane. The energy of the electrons, moving from one protein to the next, is used to pump protons (`H+`) from the matrix into the \"intermembrane space\" (Dey 1401 paper). That space is the reservoir behind the dam.",
+      "tr": "Yek sad-e barq-abi ra tasavvor kon. Pomp-ha ab ra posht-e sad bala mibarand. Vaghti dariche baz shavad, ab ba feshar barmigardad va toorbin ra micharkhanad va barq misazad. Dar rakize, kif-e pool-ha (`NADH` va `FADH2`) elektron-hayeshan ra be protein-haye zanjire-ye rooye ghesha-ye daroonie midahand. Enerzhi-ye elektron-ha, ke az proteini be protein-e digar miravand, sarf-e pomp kardan-e proton (`H+`) az bakhsh-e dakheli be \"faza-ye beyn-e do ghesha\" mishavad (azmoon-e Dey 1401). In faza makhzan-e posht-e sad ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "توربین و پذیرندهٔ نهایی",
+      "en": "The turbine and the final acceptor",
+      "tr": "Toorbin va pazirande-ye nahayi"
+     },
+     "body": {
+      "fa": "حالا توربین. پروتون‌ها فقط از یک راه می‌توانند به بخش داخلی برگردند: کانال آنزیمی «`ATP` ساز» (آزمون دی ۱۴۰۱). جریان پروتون‌ها این آنزیم را به کار می‌اندازد و `ADP` و فسفات به `ATP` تبدیل می‌شوند. در پایان زنجیره، الکترون‌ها باید جایی بروند؛ «اکسیژن» پذیرندهٔ نهایی است و با پروتون‌ها ترکیب می‌شود و آب می‌سازد (آزمون‌های دی ۱۴۰۰ و دی ۱۴۰۱). برای همین بدون اکسیژن، کل زنجیره مثل ترافیکی که خروجی ندارد، می‌ایستد.",
+      "en": "Now the turbine. Protons can return to the matrix by only one route: the enzyme channel \"`ATP` synthase\" (Dey 1401 paper). The flow of protons drives this enzyme, and `ADP` and phosphate become `ATP`. At the end of the chain the electrons must go somewhere; \"oxygen\" is the final acceptor and combines with protons to make water (Dey 1400 and Dey 1401 papers). That is why without oxygen the whole chain stops, like traffic with no exit.",
+      "tr": "Hala toorbin. Proton-ha faghat az yek rah mitavanand be bakhsh-e dakheli bargardand: kanal-e anzimi-ye \"`ATP` saz\" (azmoon-e Dey 1401). Jaryan-e proton-ha in anzim ra be kar miandazad va `ADP` va fosfat be `ATP` tabdil mishavand. Dar payan-e zanjire, elektron-ha bayad jayi beravand; \"oksizhen\" pazirande-ye nahayi ast va ba proton-ha tarkib mishavad va ab misazad (azmoon-haye Dey 1400 va Dey 1401). Baraye hamin bedoon-e oksizhen, kol-e zanjire mesl-e terafiki ke khorooji nadarad, miistad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " intermembrane space (much H+)\n   H+  H+  H+  H+  H+  H+  H+\n ==pump====pump====[ATP synthase]==\n    ^        ^          |  H+ flows\n electrons pass along   v  back\n matrix (little H+)  ADP+P -> ATP",
+     "caption": {
+      "fa": "پمپ‌ها پروتون را به فضای بین دو غشا می‌برند؛ بازگشت پروتون‌ها از `ATP` ساز، `ATP` می‌سازد.",
+      "en": "The pumps move protons into the intermembrane space; protons flowing back through `ATP` synthase make `ATP`.",
+      "tr": "Pomp-ha proton ra be faza-ye beyn-e do ghesha mibarand; bazgasht-e proton-ha az `ATP` saz, `ATP` misazad."
+     },
+     "anim": "bio.atp-synthase"
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چرا یک کیف پول پرتر است؟",
+      "en": "Why is one wallet fuller?",
+      "tr": "Chera yek kif-e pool portar ast?"
+     },
+     "body": {
+      "fa": "چرا `NADH` بیشتر از `FADH2` می‌ارزد؟ `NADH` الکترون‌هایش را به اولین مجموعهٔ پروتئینی زنجیره می‌دهد، پس الکترون‌ها از همهٔ پمپ‌ها می‌گذرند. `FADH2` الکترون‌هایش را مستقیماً به «مجموعهٔ ۲» می‌دهد (آزمون خرداد ۱۴۰۱) که خودش پمپ نیست و پمپ اول را دور می‌زند. پروتون کمتری پمپ می‌شود، پس `ATP` کمتری ساخته می‌شود. برای همین `NADH` به ازای هر مولکول بیشترین `ATP` را پدید می‌آورد (آزمون خرداد ۱۴۰۱).",
+      "en": "Why is `NADH` worth more than `FADH2`? `NADH` gives its electrons to the first protein complex of the chain, so the electrons pass every pump. `FADH2` gives its electrons straight to \"complex II\" (Khordad 1401 paper), which is not a pump itself and skips the first pump. Fewer protons are pumped, so less `ATP` is made. That is why `NADH` yields the most `ATP` per molecule (Khordad 1401 paper).",
+      "tr": "Chera `NADH` bishtar az `FADH2` miarzad? `NADH` elektron-hayash ra be avvalin majmoo'e-ye proteini-ye zanjire midahad, pas elektron-ha az hame-ye pomp-ha migozarand. `FADH2` elektron-hayash ra mostaghiman be \"majmoo'e-ye 2\" midahad (azmoon-e Khordad 1401) ke khodash pomp nist va pomp-e avval ra dor mizanad. Proton-e kamtari pomp mishavad, pas `ATP`-e kamtari sakhte mishavad. Baraye hamin `NADH` be ezaye har molekool bishtarin `ATP` ra padid miavarad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " NADH  -> [I] -> [III] -> [IV] -> O2\n FADH2 -> [II] --^           |\n                    O2 + H+ -> water\n pumps H+:  I, III, IV\n II pumps none, so FADH2 gives\n less ATP than NADH",
+     "caption": {
+      "fa": "`NADH` از مجموعهٔ ۱ وارد می‌شود و از سه پمپ می‌گذرد؛ `FADH2` از مجموعهٔ ۲ وارد می‌شود و پمپ اول را جا می‌اندازد.",
+      "en": "`NADH` enters at complex I and passes three pumps; `FADH2` enters at complex II and misses the first pump.",
+      "tr": "`NADH` az majmoo'e-ye 1 vared mishavad va az se pomp migozarad; `FADH2` az majmoo'e-ye 2 vared mishavad va pomp-e avval ra ja miandazad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پذیرندهٔ نهایی الکترون در زنجیره چیست و چه می‌سازد؟ (آزمون‌های دی ۱۴۰۰ و دی ۱۴۰۱)",
+      "en": "Warm-up: what is the final electron acceptor of the chain, and what does it make? (Dey 1400 and Dey 1401 papers)",
+      "tr": "Garm kardan: pazirande-ye nahayi-ye elektron dar zanjire chist va che misazad? (azmoon-haye Dey 1400 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به ته زنجیره نگاه کن: الکترون‌ها به کسی می‌رسند که آن‌ها را بسیار قوی جذب می‌کند. اکسیژن همین کار را می‌کند.",
+        "en": "Look at the end of the chain: the electrons reach something that attracts them very strongly. Oxygen does exactly that.",
+        "tr": "Be tah-e zanjire negah kon: elektron-ha be kasi miresand ke an-ha ra besiyar ghavi jazb mikonad. Oksizhen hamin kar ra mikonad."
+       },
+       "math": "O2 + 4 e + 4 H+ → 2 H2O"
+      }
+     ],
+     "answer": {
+      "fa": "اکسیژن؛ با پروتون‌ها آب می‌سازد",
+      "en": "Oxygen; with protons it makes water",
+      "tr": "Oksizhen; ba proton-ha ab misazad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: پروتون‌ها به کدام فضا پمپ می‌شوند و از کدام کانال برمی‌گردند؟ (آزمون‌های دی ۱۴۰۱)",
+      "en": "Textbook and exam: into which space are protons pumped, and through which channel do they return? (Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: proton-ha be kodam faza pomp mishavand va az kodam kanal barmigardand? (azmoon-haye Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سد را به یاد بیاور: آب «پشت سد» جمع می‌شود. پشت سد در راکیزه فضای بین دو غشاست.",
+        "en": "Remember the dam: water piles up \"behind the dam\". Behind the dam in the mitochondrion is the intermembrane space.",
+        "tr": "Sad ra be yad biyavar: ab \"posht-e sad\" jam' mishavad. Posht-e sad dar rakize faza-ye beyn-e do ghesha-st."
+       }
+      },
+      {
+       "text": {
+        "fa": "آب فقط از توربین برمی‌گردد. توربین راکیزه `ATP` ساز است و بازگشت پروتون‌ها به بخش داخلی، انرژی ساختن `ATP` را می‌دهد.",
+        "en": "The water returns only through the turbine. The mitochondrion's turbine is `ATP` synthase, and the protons flowing back into the matrix give the energy to make `ATP`.",
+        "tr": "Ab faghat az toorbin barmigardad. Toorbin-e rakize `ATP` saz ast va bazgasht-e proton-ha be bakhsh-e dakheli, enerzhi-ye sakhtan-e `ATP` ra midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فضای بین دو غشا؛ برگشت از `ATP` ساز",
+      "en": "The intermembrane space; back through `ATP` synthase",
+      "tr": "Faza-ye beyn-e do ghesha; bargasht az `ATP` saz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سم سیانید آخرین گام زنجیره (رساندن الکترون به اکسیژن) را می‌بندد. چه زنجیره‌ای از پیامدها رخ می‌دهد؟",
+      "en": "Exam twist: cyanide poison blocks the last step of the chain (handing electrons to oxygen). What chain of consequences follows?",
+      "tr": "Pich-e emtehani: sam-e siyanid akharin gam-e zanjire (resandan-e elektron be oksizhen) ra mibandad. Che zanjire-i az payamad-ha rokh midahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: الکترون‌ها خروجی ندارند، پس کل زنجیره مثل ترافیک قفل می‌شود و پمپ‌ها می‌ایستند.",
+        "en": "Step one: the electrons have no exit, so the whole chain jams like traffic and the pumps stop.",
+        "tr": "Ghadam-e avval: elektron-ha khorooji nadarand, pas kol-e zanjire mesl-e terafik ghofl mishavad va pomp-ha miistand."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: پروتونی پمپ نمی‌شود، پس سد خالی می‌شود و `ATP` ساز دیگر `ATP` نمی‌سازد.",
+        "en": "Step two: no protons are pumped, so the dam empties and `ATP` synthase stops making `ATP`.",
+        "tr": "Ghadam-e dovvom: protoni pomp nemishavad, pas sad khali mishavad va `ATP` saz digar `ATP` nemisazad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: `NADH` جایی برای خالی کردن کیفش ندارد، پس `NAD+` تمام می‌شود و کربس هم می‌ایستد. یاخته فقط با ۲ `ATP` قندکافت می‌ماند؛ برای همین سیانید کشنده است.",
+        "en": "Step three, the real twist: `NADH` has nowhere to empty its wallet, so `NAD+` runs out and the Krebs cycle stops too. The cell is left with only glycolysis's 2 `ATP`; that is why cyanide is deadly.",
+        "tr": "Ghadam-e sevvom, pich-e asli: `NADH` jayi baraye khali kardan-e kifash nadarad, pas `NAD+` tamam mishavad va Krebs ham miistad. Yakhte faghat ba 2 `ATP`-e ghand-kaft mimanad; baraye hamin siyanid koshande ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "زنجیره، پمپ‌ها، `ATP` ساز و کربس همه می‌ایستند؛ فقط قندکافت می‌ماند",
+      "en": "The chain, the pumps, `ATP` synthase and the Krebs cycle all stop; only glycolysis is left",
+      "tr": "Zanjire, pomp-ha, `ATP` saz va Krebs hame miistand; faghat ghand-kaft mimanad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پروتون‌ها به «فضای بین دو غشا» پمپ می‌شوند، نه به بخش داخلی. بخش داخلی جایی است که از آن پمپ می‌شوند و به آن برمی‌گردند.",
+      "en": "Protons are pumped into the \"intermembrane space\", not into the matrix. The matrix is where they are pumped from and where they return to.",
+      "tr": "Proton-ha be \"faza-ye beyn-e do ghesha\" pomp mishavand, na be bakhsh-e dakheli. Bakhsh-e dakheli jayi ast ke az an pomp mishavand va be an barmigardand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اکسیژن الکترون می‌گیرد و آب می‌سازد؛ `CO2` بازدم ما از اکسیژن نیست، از کربن‌های گلوکز در کربس و اکسایش پیرووات است.",
+      "en": "Oxygen takes electrons and makes water; the `CO2` we breathe out does not come from oxygen, it comes from glucose's carbons in the Krebs cycle and pyruvate oxidation.",
+      "tr": "Oksizhen elektron migirad va ab misazad; `CO2`-e bazdam-e ma az oksizhen nist, az karbon-haye glukoz dar Krebs va oksayesh-e piruvat ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 912
+    },
+    {
+     "session": "1401-Dey",
+     "number": 921
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 923
+    },
+    {
+     "session": "1401-Dey",
+     "number": 927
+    },
+    {
+     "session": "1401-Dey",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 2,
+   "key": "bio-6-light-reactions",
+   "title": {
+    "fa": "واکنش‌های وابسته به نور",
+    "en": "The light-dependent reactions",
+    "tr": "Vakonesh-haye vabaste be noor"
+   },
+   "summary": {
+    "fa": "دو صفحهٔ خورشیدی پشت سر هم، و آبی که شکسته می‌شود تا الکترون بدهد.",
+    "en": "Two solar panels in a row, and water split to supply electrons.",
+    "tr": "Do safhe-ye khorshidi posht-e sar-e ham, va abi ke shekaste mishavad ta elektron bedahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو صفحه، با ترتیبی عجیب",
+      "en": "Understand first: two panels, in an odd order",
+      "tr": "Avval befahm: do safhe, ba tartibi ajib"
+     },
+     "body": {
+      "fa": "در غشای تیلاکوئید دو صفحهٔ خورشیدی پشت سر هم کار می‌کنند: «فتوسیستم ۲» و «فتوسیستم ۱». نکتهٔ عجیب این است که اول فتوسیستم ۲ کار می‌کند؛ شماره‌ها به ترتیب کشف‌شدن داده شده‌اند، نه ترتیب کار. فتوسیستم ۲ نور را جذب می‌کند و الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند (آزمون خرداد ۱۴۰۱). اولین گیرندهٔ این الکترون‌ها «پلاستوکینون» است (آزمون دی ۱۴۰۱).",
+      "en": "In the thylakoid membrane, two solar panels work one after the other: \"photosystem II\" and \"photosystem I\". The odd thing is that photosystem II works first; the numbers were given in the order they were discovered, not the order they work. Photosystem II absorbs light, its electrons are excited and enter the chain (Khordad 1401 paper). The first acceptor of these electrons is \"plastoquinone\" (Dey 1401 paper).",
+      "tr": "Dar ghesha-ye tilakoid do safhe-ye khorshidi posht-e sar-e ham kar mikonand: \"fotosistem 2\" va \"fotosistem 1\". Nokte-ye ajib in ast ke avval fotosistem 2 kar mikonad; shomare-ha be tartib-e kashf-shodan dade shode-and, na tartib-e kar. Fotosistem 2 noor ra jazb mikonad va elektron-hayash barangikhte mishavand va vared-e zanjire mishavand (azmoon-e Khordad 1401). Avvalin girande-ye in elektron-ha \"plastokinon\" ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مسیر الکترون: از آب تا باتری",
+      "en": "The electrons' path: from water to the battery",
+      "tr": "Masir-e elektron: az ab ta batri"
+     },
+     "body": {
+      "fa": "فتوسیستم ۲ الکترون از دست داده و باید جبرانش کند. منبع جبران، آب است: «تجزیهٔ نوری آب» آب را به اکسیژن، پروتون و الکترون می‌شکند (آزمون خرداد ۱۴۰۱). الکترون‌ها جای خالی فتوسیستم ۲ را پر می‌کنند، اکسیژن به هوا می‌رود و پروتون‌ها مستقیماً در «فضای درون تیلاکوئید» جمع می‌شوند (آزمون دی ۱۳۹۹). الکترون‌ها از زنجیره عبور می‌کنند و به فتوسیستم ۱ می‌رسند. فتوسیستم ۱ با نور دوباره آن‌ها را پرانرژی می‌کند و مستقیماً به «فرودوکسین» می‌دهد (آزمون خرداد ۱۳۹۹). در پایان، آنزیم «`NADP+` ردوکتاز» با این الکترون‌ها `NADPH` می‌سازد (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۲).",
+      "en": "Photosystem II has lost electrons and must replace them. The source is water: the \"photolysis of water\" splits water into oxygen, protons and electrons (Khordad 1401 paper). The electrons fill photosystem II's gap, the oxygen goes into the air, and the protons collect directly in the \"thylakoid lumen\" (Dey 1399 paper). The electrons travel down the chain and reach photosystem I. Photosystem I uses light to energise them again and passes them directly to \"ferredoxin\" (Khordad 1399 paper). At the end, the enzyme \"`NADP+` reductase\" uses these electrons to make `NADPH` (Dey 1399 and Khordad 1402 papers).",
+      "tr": "Fotosistem 2 elektron az dast dade va bayad jobranash konad. Manba'-e jobran, ab ast: \"tajziye-ye noori-ye ab\" ab ra be oksizhen, proton va elektron mishekanad (azmoon-e Khordad 1401). Elektron-ha ja-ye khali-ye fotosistem 2 ra por mikonand, oksizhen be hava miravad va proton-ha mostaghiman dar \"faza-ye daroon-e tilakoid\" jam' mishavand (azmoon-e Dey 1399). Elektron-ha az zanjire oboor mikonand va be fotosistem 1 miresand. Fotosistem 1 ba noor dobare an-ha ra por-enerzhi mikonad va mostaghiman be \"ferredoksin\" midahad (azmoon-e Khordad 1399). Dar payan, anzim-e \"`NADP+` redooktaz\" ba in elektron-ha `NADPH` misazad (azmoon-haye Dey 1399 va Khordad 1402)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 2 H2O -> O2 + 4 H+ + 4 e\n           (H+ stays in lumen)\n e -> photosystem II  (light!)\n   -> plastoquinone\n   -> chain: pumps H+ into lumen\n   -> photosystem I   (light!)\n   -> ferredoxin\n   -> NADP+ reductase\n   -> NADPH  (in the stroma)",
+     "caption": {
+      "fa": "مسیر الکترون در واکنش‌های نوری: از آب، از دو فتوسیستم، تا `NADPH`.",
+      "en": "The path of the electrons in the light reactions: from water, through two photosystems, to `NADPH`.",
+      "tr": "Masir-e elektron dar vakonesh-haye noori: az ab, az do fotosistem, ta `NADPH`."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "همان سد آشنا",
+      "en": "The same familiar dam",
+      "tr": "Haman sad-e ashena"
+     },
+     "body": {
+      "fa": "پروتون‌ها از دو راه در فضای درون تیلاکوئید انباشته می‌شوند: از تجزیهٔ آب و از پمپ زنجیره. این دقیقاً همان سد فصل قبل است. پروتون‌ها فقط از راه «`ATP` ساز» می‌توانند به بستره برگردند و جریانشان `ATP` می‌سازد (آزمون خرداد ۱۴۰۱). پس در پایان واکنش‌های نوری، هر دو باتری (`ATP` و `NADPH`) در بستره آماده‌اند، درست همان‌جا که چرخهٔ کالوین به آن‌ها نیاز دارد.",
+      "en": "Protons pile up in the thylakoid lumen in two ways: from splitting water and from the chain's pump. This is exactly the dam from the last chapter. The protons can return to the stroma only through \"`ATP` synthase\", and their flow makes `ATP` (Khordad 1401 paper). So at the end of the light reactions both batteries (`ATP` and `NADPH`) are ready in the stroma, exactly where the Calvin cycle needs them.",
+      "tr": "Proton-ha az do rah dar faza-ye daroon-e tilakoid anbashte mishavand: az tajziye-ye ab va az pomp-e zanjire. In daghighan haman sad-e fasl-e ghabl ast. Proton-ha faghat az rah-e \"`ATP` saz\" mitavanand be bastare bargardand va jaryaneshan `ATP` misazad (azmoon-e Khordad 1401). Pas dar payan-e vakonesh-haye noori, har do batri (`ATP` va `NADPH`) dar bastare amade-and, dorost haman-ja ke charkhe-ye Kalvin be an-ha niyaz darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " lumen (much H+)  H+ H+ H+ H+\n ==thylakoid membrane=[ATP synthase]\n                          |  H+ back\n stroma (little H+)       v\n                   ADP + P -> ATP",
+     "caption": {
+      "fa": "شیب پروتون از فضای درون تیلاکوئید به بستره، `ATP` ساز را می‌چرخاند.",
+      "en": "The proton gradient from the lumen to the stroma turns `ATP` synthase.",
+      "tr": "Shib-e proton az faza-ye daroon-e tilakoid be bastare, `ATP` saz ra micharkhanad."
+     },
+     "anim": "bio.atp-synthase"
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: الکترون‌های پرانرژی خروجی از فتوسیستم ۱ سرانجام به کدام ناقل می‌رسند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: which carrier do the high-energy electrons leaving photosystem I finally reach? (Dey 1399 paper)",
+      "tr": "Garm kardan: elektron-haye por-enerzhi-ye khorooji az fotosistem 1 saranjam be kodam naghel miresand? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "به ته مسیر نگاه کن: فرودوکسین الکترون را به آنزیم می‌دهد و آنزیم آن را روی باتری خالی می‌گذارد.",
+        "en": "Look at the end of the path: ferredoxin hands the electrons to the enzyme, and the enzyme loads them onto the empty battery.",
+        "tr": "Be tah-e masir negah kon: ferredoksin elektron ra be anzim midahad va anzim an ra rooye batri-ye khali migozarad."
+       },
+       "math": "NADP+ + 2 e + H+ → NADPH"
+      }
+     ],
+     "answer": {
+      "fa": "`NADP+`، که `NADPH` می‌شود",
+      "en": "`NADP+`, which becomes `NADPH`",
+      "tr": "`NADP+`, ke `NADPH` mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقش فتوسیستم ۲ و تجزیهٔ نوری آب را در زنجیرهٔ تیلاکوئید شرح بده. (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: describe the role of photosystem II and the photolysis of water in the thylakoid chain. (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: naghsh-e fotosistem 2 va tajziye-ye noori-ye ab ra dar zanjire-ye tilakoid sharh bede. (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، فتوسیستم ۲: نور را جذب می‌کند، الکترون‌هایش برانگیخته می‌شوند و وارد زنجیره می‌شوند.",
+        "en": "First half mark, photosystem II: it absorbs light, its electrons are excited and enter the chain.",
+        "tr": "Nim-nomre-ye avval, fotosistem 2: noor ra jazb mikonad, elektron-hayash barangikhte mishavand va vared-e zanjire mishavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، تجزیهٔ آب: آب به اکسیژن، پروتون و الکترون شکسته می‌شود و الکترون‌ها کمبود فتوسیستم ۲ را جبران می‌کنند. هر سه محصول را نام ببر.",
+        "en": "Second half mark, photolysis: water is split into oxygen, protons and electrons, and the electrons make up photosystem II's shortfall. Name all three products.",
+        "tr": "Nim-nomre-ye dovvom, tajziye-ye ab: ab be oksizhen, proton va elektron shekaste mishavad va elektron-ha kambood-e fotosistem 2 ra jobran mikonand. Har se mahsool ra nam bebar."
+       },
+       "math": "2 H2O → O2 + 4 H+ + 4 e"
+      }
+     ],
+     "answer": {
+      "fa": "فتوسیستم ۲: جذب نور و فرستادن الکترون؛ آب: جبران الکترون، با تولید اکسیژن و پروتون",
+      "en": "Photosystem II: absorbs light and sends electrons; water: replaces the electrons, releasing oxygen and protons",
+      "tr": "Fotosistem 2: jazb-e noor va ferestadan-e elektron; ab: jobran-e elektron, ba tolid-e oksizhen va proton"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک علف‌کش جلوی رسیدن الکترون از فتوسیستم ۲ به پلاستوکینون را می‌گیرد. چه چیزهایی می‌ایستد؟",
+      "en": "Exam twist: a herbicide blocks electrons getting from photosystem II to plastoquinone. What stops?",
+      "tr": "Pich-e emtehani: yek alaf-kosh jelo-ye residan-e elektron az fotosistem 2 be plastokinon ra migirad. Che chiz-hayi miistad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: الکترون از فتوسیستم ۲ جلوتر نمی‌رود، پس جای خالی‌اش پر نمی‌شود و آب هم دیگر شکسته نمی‌شود: اکسیژنی آزاد نمی‌شود.",
+        "en": "Step one: electrons get no further than photosystem II, so its gap is not refilled and water is no longer split: no oxygen is released.",
+        "tr": "Ghadam-e avval: elektron az fotosistem 2 jelo-tar nemiravad, pas ja-ye khali-ash por nemishavad va ab ham digar shekaste nemishavad: oksizheni azad nemishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: نه پمپ زنجیره کار می‌کند و نه الکترونی به `NADP+` می‌رسد، پس `ATP` و `NADPH` ساخته نمی‌شوند.",
+        "en": "Step two: the chain's pump does not work and no electrons reach `NADP+`, so `ATP` and `NADPH` are not made.",
+        "tr": "Ghadam-e dovvom: na pomp-e zanjire kar mikonad va na elektroni be `NADP+` miresad, pas `ATP` va `NADPH` sakhte nemishavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: باتری‌ها خالی می‌مانند، پس چرخهٔ کالوین هم با اینکه خودش آسیبی ندیده می‌ایستد و گیاه گرسنه می‌ماند.",
+        "en": "Step three, the real twist: the batteries stay empty, so the Calvin cycle stops too, even though it was not harmed itself, and the plant starves.",
+        "tr": "Ghadam-e sevvom, pich-e asli: batri-ha khali mimanand, pas charkhe-ye Kalvin ham ba inke khodash asibi nadide miistad va giyah gorosne mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تولید اکسیژن، `ATP`، `NADPH` و در نتیجه کالوین",
+      "en": "Oxygen release, `ATP`, `NADPH`, and so the Calvin cycle",
+      "tr": "Tolid-e oksizhen, `ATP`, `NADPH` va dar natije Kalvin"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فتوسیستم ۲ «اول» کار می‌کند و فتوسیستم ۱ «دوم». شماره‌ها ترتیب کشف‌اند، نه ترتیب مسیر.",
+      "en": "Photosystem II works \"first\" and photosystem I \"second\". The numbers are the order of discovery, not the order along the path.",
+      "tr": "Fotosistem 2 \"avval\" kar mikonad va fotosistem 1 \"dovvom\". Shomare-ha tartib-e kashf-and, na tartib-e masir."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پروتون‌ها در «فضای درون تیلاکوئید» جمع می‌شوند، نه در بستره. `ATP` و `NADPH` اما در «بستره» ساخته می‌شوند (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۱).",
+      "en": "Protons collect in the \"thylakoid lumen\", not in the stroma. `ATP` and `NADPH`, however, are made in the \"stroma\" (Dey 1399 and Khordad 1401 papers).",
+      "tr": "Proton-ha dar \"faza-ye daroon-e tilakoid\" jam' mishavand, na dar bastare. `ATP` va `NADPH` amma dar \"bastare\" sakhte mishavand (azmoon-haye Dey 1399 va Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Dey",
+     "number": 906
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 924
+    },
+    {
+     "session": "1399-Dey",
+     "number": 928
+    },
+    {
+     "session": "1399-Dey",
+     "number": 934
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 947
+    }
+   ]
+  }
+ ]
+}
