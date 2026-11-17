@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2043,
- "versionName": "3.16.5",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2043/Ghamgah-E-Hadis.apk",
+ "versionCode": 2044,
+ "versionName": "3.16.6",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2044/Ghamgah-E-Hadis.apk",
  "size": 43278254,
- "sha256": "29a94433f865fb6b2dfbbc94e8f30f2cf6ccfa89416ff32a5d47ab7bb879d8b8",
+ "sha256": "9b2dcab8ee71af54a1a11a4a7cfceec172571dc174e8364d90b8c6c1eeadc429",
  "notes": {
-  "fa": "عربی حالا در سه بخش مرتب می‌شود: قواعد، واژگان و حکمت‌ها، و آیات قرآن. درس‌نامه‌های تازهٔ قواعد (إنّ و خواهرانش، لای نفی جنس، باب‌های ثلاثی مزید) با به‌روزرسانی بانک سؤال می‌آیند.",
-  "en": "Arabic is now organised in three parts: grammar, vocabulary and sayings, and Quranic verses. New grammar lessons (inna and its sisters, the la of absolute negation, augmented verb forms) arrive with the question bank update.",
-  "tr": "Arabi hala dar se bakhsh morattab mishavad: ghava'ed, vazhegan va hekmat-ha, va ayat-e Ghoran. Darsname-haye taze-ye ghava'ed (enna va khaharanash, la-ye nafy-e jens, bab-haye solasi-ye mazid) ba be-rooz-resani-ye bank-e so'al miayand."
+  "fa": "دین و زندگی: درس‌های کتاب به‌همراه بخش تازهٔ «از کتاب‌های پیشین» برای پرسش‌های کتاب‌های اول و دوم.",
+  "en": "Religion and Life: the book's lessons plus a new 'From earlier books' section for questions on books 1 and 2.",
+  "tr": "Din va Zendegi: dars-haye ketab be-hamrah-e bakhsh-e taze-ye 'Az ketab-haye pishin' baraye porsesh-haye ketab-haye avval va dovvom."
  }
 }
