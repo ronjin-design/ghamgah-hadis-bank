@@ -1,0 +1,1275 @@
+{
+ "version": 127,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 1,
+   "key": "chem-1-soaps",
+   "title": {
+    "fa": "صابون: پلی میان آب و چربی",
+    "en": "Soap: a bridge between water and grease",
+    "tr": "Saboon: poli miyan-e ab va charbi"
+   },
+   "summary": {
+    "fa": "یک مولکول با دو سر: یکی آب را دوست دارد و دیگری چربی را.",
+    "en": "One molecule with two ends: one loves water, the other loves grease.",
+    "tr": "Yek molekool ba do sar: yeki ab ra doost darad va digari charbi ra."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پل دوسر",
+      "en": "Understand first: the two-ended bridge",
+      "tr": "Avval befahm: pol-e do-sar"
+     },
+     "body": {
+      "fa": "چرا آب به‌تنهایی لکهٔ چربی را نمی‌شوید؟ چون آب قطبی است و چربی ناقطبی، و «شبیه، شبیه را حل می‌کند». صابون این مشکل را با یک ترفند حل می‌کند: هر مولکولش دو سر دارد. یک «دم» بلند هیدروکربنی که ناقطبی، آب‌گریز و چربی‌دوست است، و یک «سر» یونی کربوکسیلات (`-COO-`) که قطبی و آب‌دوست است (آزمون‌های خرداد ۱۴۰۲، خرداد ۱۴۰۰ و خرداد ۱۳۹۷). صابون مثل یک پل دوسر، چربی را به آب وصل می‌کند.",
+      "en": "Why does water alone not wash off grease? Because water is polar and grease is non-polar, and \"like dissolves like\". Soap solves this with a trick: each molecule has two ends. A long hydrocarbon \"tail\" that is non-polar, water-hating and grease-loving, and an ionic carboxylate \"head\" (`-COO-`) that is polar and water-loving (Khordad 1402, Khordad 1400 and Khordad 1397 papers). Like a two-ended bridge, soap links grease to water.",
+      "tr": "Chera ab be-tanhayi lakke-ye charbi ra nemishooyad? Chon ab ghotbi ast va charbi na-ghotbi, va \"shabih, shabih ra hal mikonad\". Saboon in moshkel ra ba yek tarfand hal mikonad: har molekoolash do sar darad. Yek \"dom\"-e boland-e hidrokarboni ke na-ghotbi, ab-goriz va charbi-doost ast, va yek \"sar\"-e yoni-ye karboksilat (`-COO-`) ke ghotbi va ab-doost ast (azmoon-haye Khordad 1402, Khordad 1400 va Khordad 1397). Saboon mesl-e yek pol-e do-sar, charbi ra be ab vasl mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " tail (hydrophobic)      head\n CH3-(CH2)14-----------COO-  Na+\n non-polar, loves        polar,\n grease and oil          loves water",
+     "caption": {
+      "fa": "مولکول صابون: دم هیدروکربنی ناقطبی و سر کربوکسیلات قطبی.",
+      "en": "A soap molecule: a non-polar hydrocarbon tail and a polar carboxylate head.",
+      "tr": "Molekool-e saboon: dom-e hidrokarboni-ye na-ghotbi va sar-e karboksilat-e ghotbi."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "میسل: گویی که چربی را زندانی می‌کند",
+      "en": "The micelle: a ball that traps grease",
+      "tr": "Misel: gooyi ke charbi ra zendani mikonad"
+     },
+     "body": {
+      "fa": "وقتی صابون به آب چرب اضافه می‌شود، دم‌ها در قطره‌های چربی فرو می‌روند و سرها رو به آب می‌مانند. هر قطرهٔ چربی در یک گوی پر از سرهای باردار پیچیده می‌شود؛ به این گوی «میسل» می‌گویند. سرهای هم‌بار همدیگر را دفع می‌کنند، پس قطره‌ها به هم نمی‌چسبند و در آب پخش می‌مانند؛ صابون یک «امولسیون‌کننده» است. صابون با چربی واکنش شیمیایی نمی‌دهد؛ فقط با نیروهای بین‌مولکولی آن را جدا می‌کند (آزمون خرداد ۱۴۰۱).",
+      "en": "When soap is added to greasy water, the tails sink into the drops of grease and the heads stay facing the water. Each drop of grease is wrapped in a ball of charged heads; this ball is called a \"micelle\". Heads with the same charge repel each other, so the drops do not stick together and stay spread through the water; soap is an \"emulsifier\". Soap does not react chemically with grease; it only lifts it away through intermolecular forces (Khordad 1401 paper).",
+      "tr": "Vaghti saboon be ab-e charb ezafe mishavad, dom-ha dar ghatre-haye charbi foroo miravand va sar-ha roo be ab mimanand. Har ghatre-ye charbi dar yek gooy-e por az sar-haye bardar pichide mishavad; be in gooy \"misel\" migooyand. Sar-haye ham-bar hamdigar ra daf' mikonand, pas ghatre-ha be ham nemichasband va dar ab pakhsh mimanand; saboon yek \"emulsion-konande\" ast. Saboon ba charbi vakonesh-e shimiyayi nemidahad; faghat ba niroo-haye beyn-e molekooli an ra joda mikonad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            water\n        o    o    o\n      o  \\   |   /  o\n     o --[ grease ]-- o\n      o  /   |   \\  o\n        o    o    o\n\n  o  = water-loving head\n  -- = tail buried in grease",
+     "caption": {
+      "fa": "میسل: دم‌ها در چربی، سرها رو به آب. قطره‌های چربی جدا و معلق در آب می‌مانند.",
+      "en": "A micelle: tails in the grease, heads facing the water. The grease drops stay separate and suspended in water.",
+      "tr": "Misel: dom-ha dar charbi, sar-ha roo be ab. Ghatre-haye charbi joda va mo'allagh dar ab mimanand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ساختن صابون",
+      "en": "Making soap",
+      "tr": "Sakhtan-e saboon"
+     },
+     "body": {
+      "fa": "صابون از واکنش چربی یا روغن با یک باز قوی، مثل سدیم هیدروکسید، ساخته می‌شود؛ به این واکنش «صابونی شدن» می‌گویند (آزمون خرداد ۱۳۹۹). صابون‌های جامد معمولی نمک «سدیم» اسیدهای چرب‌اند و صابون‌های مایع نمک پتاسیم یا آمونیوم (آزمون خرداد ۱۴۰۱). افزودن نمک خوراکی به مخلوط، انحلال‌پذیری صابون را کم می‌کند و صابون جدا می‌شود؛ به این «نمک‌زنی» می‌گویند (آزمون دی ۱۳۹۸).",
+      "en": "Soap is made by reacting a fat or oil with a strong base such as sodium hydroxide; this reaction is called \"saponification\" (Khordad 1399 paper). Ordinary solid soaps are \"sodium\" salts of fatty acids, and liquid soaps are potassium or ammonium salts (Khordad 1401 paper). Adding table salt to the mixture lowers the soap's solubility and the soap separates out; this is \"salting out\" (Dey 1398 paper).",
+      "tr": "Saboon az vakonesh-e charbi ya roghan ba yek baz-e ghavi, mesl-e sodiyom hidroksid, sakhte mishavad; be in vakonesh \"sabooni shodan\" migooyand (azmoon-e Khordad 1399). Saboon-haye jamed-e ma'mooli namak-e \"sodiyom\"-e asid-haye charb-and va saboon-haye maye' namak-e potasiyom ya amoniyom (azmoon-e Khordad 1401). Afzoodan-e namak-e khoraki be makhloot, enhelal-paziri-ye saboon ra kam mikonad va saboon joda mishavad; be in \"namak-zani\" migooyand (azmoon-e Dey 1398)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "C3H5(OOCR)3 + 3 NaOH  →  3 RCOONa + C3H5(OH)3",
+     "caption": {
+      "fa": "صابونی شدن: چربی و باز قوی، صابون و گلیسرین می‌دهند",
+      "en": "Saponification: fat and a strong base give soap and glycerol",
+      "tr": "Sabooni shodan: charbi va baz-e ghavi, saboon va gliserin midahand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: دم هیدروکربنی صابون چه ویژگی‌ای دارد؟ (آزمون خرداد ۱۳۹۷)",
+      "en": "Warm-up: what property does the hydrocarbon tail of soap have? (Khordad 1397 paper)",
+      "tr": "Garm kardan: dom-e hidrokarboni-ye saboon che vizhegi-i darad? (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دم فقط کربن و هیدروژن دارد، پس ناقطبی است. ناقطبی با ناقطبی (چربی) جور است و با آب نه.",
+        "en": "The tail has only carbon and hydrogen, so it is non-polar. Non-polar mixes with non-polar (grease), not with water.",
+        "tr": "Dom faghat karbon va hidrozhen darad, pas na-ghotbi ast. Na-ghotbi ba na-ghotbi (charbi) joor ast va ba ab na."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آب‌گریز و چربی‌دوست",
+      "en": "Hydrophobic and grease-loving (lipophilic)",
+      "tr": "Ab-goriz va charbi-doost"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام ویژگی ساختاری صابون آن را امولسیون‌کننده می‌کند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: which structural feature of soap makes it an emulsifier? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam vizhegi-ye sakhtari-ye saboon an ra emulsion-konande mikonad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "امولسیون یعنی پخش کردن یک مایع ناقطبی در یک مایع قطبی. برای این کار مولکول باید با «هر دو» جور باشد.",
+        "en": "An emulsion means spreading a non-polar liquid through a polar one. To do that, the molecule must get on with \"both\".",
+        "tr": "Emulsion ya'ni pakhsh kardan-e yek maye'-e na-ghotbi dar yek maye'-e ghotbi. Baraye in kar molekool bayad ba \"har do\" joor bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "صابون دو بخش متضاد دارد: دم آب‌گریز در چربی و سر آب‌دوست در آب. نام هر دو بخش را در جواب بیاور.",
+        "en": "Soap has two opposite parts: a water-hating tail in the grease and a water-loving head in the water. Name both parts in your answer.",
+        "tr": "Saboon do bakhsh-e motazad darad: dom-e ab-goriz dar charbi va sar-e ab-doost dar ab. Nam-e har do bakhsh ra dar javab biyavar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "داشتن هم دم هیدروکربنی آب‌گریز و هم سر یونی آب‌دوست",
+      "en": "Having both a water-hating hydrocarbon tail and a water-loving ionic head",
+      "tr": "Dashtan-e ham dom-e hidrokarboni-ye ab-goriz va ham sar-e yoni-ye ab-doost"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا صابون مایع با یون پتاسیم ساخته می‌شود و صابون جامد با یون سدیم؟ (مثل آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: why is liquid soap made with potassium ions and solid soap with sodium ions? (as in the Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: chera saboon-e maye' ba yoon-e potasiyom sakhte mishavad va saboon-e jamed ba yoon-e sodiyom? (mesl-e azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سر کربوکسیلات در هر دو یکی است؛ فرق فقط در کاتیون همراه است.",
+        "en": "The twist: the carboxylate head is the same in both; the only difference is the cation that goes with it.",
+        "tr": "Pich-e emtehan: sar-e karboksilat dar har do yeki ast; fargh faghat dar katiyon-e hamrah ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "نمک‌های پتاسیم این اسیدهای چرب نرم‌تر و حل‌شونده‌ترند و مایع می‌مانند؛ نمک‌های سدیم سفت‌تر‌اند و قالب می‌گیرند.",
+        "en": "The potassium salts of these fatty acids are softer and more soluble and stay liquid; the sodium salts are harder and set into bars.",
+        "tr": "Namak-haye potasiyom-e in asid-haye charb narm-tar va hal-shavande-tar-and va maye' mimanand; namak-haye sodiyom seft-tar-and va ghaleb migirand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کاتیون فرق می‌کند: سدیم صابون جامد و پتاسیم (یا آمونیوم) صابون مایع می‌دهد",
+      "en": "The cation differs: sodium gives solid soap, potassium (or ammonium) liquid soap",
+      "tr": "Katiyon fargh mikonad: sodiyom saboon-e jamed va potasiyom (ya amoniyom) saboon-e maye' midahad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سر صابون آب‌دوست است و دم آن آب‌گریز؛ این دو را جابه‌جا ننویس.",
+      "en": "The soap head is water-loving and the tail water-hating; do not swap them.",
+      "tr": "Sar-e saboon ab-doost ast va dom-e an ab-goriz; in do ra jabeja nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "صابون و پاک‌کننده‌های غیرصابونی چربی را فقط با نیروهای بین‌مولکولی جدا می‌کنند؛ این پاک‌کننده‌های خورنده‌اند که با چرک واکنش شیمیایی می‌دهند (آزمون خرداد ۱۴۰۱).",
+      "en": "Soaps and non-soap detergents remove grease only through intermolecular forces; it is the corrosive cleaners that react chemically with dirt (Khordad 1401 paper).",
+      "tr": "Saboon va pak-konande-haye gheyr-e sabooni charbi ra faghat ba niroo-haye beyn-e molekooli joda mikonand; in pak-konande-haye khorande-and ke ba cherk vakonesh-e shimiyayi midahand (azmoon-e Khordad 1401)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 922
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 934
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 936
+    },
+    {
+     "session": "1398-Dey",
+     "number": 924
+    },
+    {
+     "session": "1397-Khordad",
+     "number": 903
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 2,
+   "key": "chem-1-hard-water-cleaners",
+   "title": {
+    "fa": "آب سخت، پاک‌کننده‌های غیرصابونی و خورنده",
+    "en": "Hard water, non-soap and corrosive cleaners",
+    "tr": "Ab-e sakht, pak-konande-haye gheyr-e sabooni va khorande"
+   },
+   "summary": {
+    "fa": "وقتی صابون رسوب می‌دهد، و پاک‌کننده‌هایی که سرشان را عوض کرده‌اند.",
+    "en": "When soap turns to scum, and the cleaners that changed their head.",
+    "tr": "Vaghti saboon rosoob midahad, va pak-konande-hayi ke sareshan ra avaz karde-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: یون‌هایی که صابون را می‌دزدند",
+      "en": "Understand first: the ions that steal soap",
+      "tr": "Avval befahm: yoon-hayi ke saboon ra midozdand"
+     },
+     "body": {
+      "fa": "«آب سخت» آبی است که یون‌های کلسیم (`Ca2+`) و منیزیم (`Mg2+`) زیادی دارد (آزمون خرداد ۱۴۰۲). این یون‌ها با سر کربوکسیلات صابون ترکیب می‌شوند و رسوبی نامحلول می‌سازند، همان لایهٔ چسبناک دور وان. پس بخشی از صابون هدر می‌رود و کف کم می‌شود (آزمون دی ۱۴۰۲).",
+      "en": "\"Hard water\" is water with plenty of calcium (`Ca2+`) and magnesium (`Mg2+`) ions (Khordad 1402 paper). These ions combine with the carboxylate head of soap and form an insoluble precipitate, the sticky scum around the bath. So part of the soap is wasted and there is less lather (Dey 1402 paper).",
+      "tr": "\"Ab-e sakht\" abi ast ke yoon-haye kalsiyom (`Ca2+`) va menizium (`Mg2+`)-e ziyadi darad (azmoon-e Khordad 1402). In yoon-ha ba sar-e karboksilat-e saboon tarkib mishavand va rosoobi na-mahlool misazand, haman laye-ye chasbnak dor-e van. Pas bakhshi az saboon hadar miravad va kaf kam mishavad (azmoon-e Dey 1402)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "2 RCOO- + Ca2+  →  (RCOO)2Ca (s)",
+     "caption": {
+      "fa": "هر یون کلسیم دو مولکول صابون را به رسوب تبدیل می‌کند",
+      "en": "Each calcium ion turns two soap molecules into scum",
+      "tr": "Har yoon-e kalsiyom do molekool-e saboon ra be rosoob tabdil mikonad"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پاک‌کننده‌های غیرصابونی: سر تازه",
+      "en": "Non-soap detergents: a new head",
+      "tr": "Pak-konande-haye gheyr-e sabooni: sar-e taze"
+     },
+     "body": {
+      "fa": "راه حل شیمی‌دان‌ها: سر مولکول را عوض کردند. در پاک‌کننده‌های غیرصابونی سر آب‌دوست، گروه «سولفونات» (`-SO3-`) است (آزمون‌های خرداد ۱۴۰۲ و خرداد ۱۴۰۰). نمک کلسیم این گروه حل‌شونده است، پس در آب سخت رسوب نمی‌دهد و پاک‌کننده خوب کار می‌کند. نمونهٔ کلاسیک آن سدیم آلکیل‌بنزن سولفونات است (آزمون خرداد ۱۴۰۲).",
+      "en": "The chemists' solution: they changed the head of the molecule. In non-soap detergents the water-loving head is the \"sulfonate\" group (`-SO3-`) (Khordad 1402 and Khordad 1400 papers). The calcium salt of this group is soluble, so it forms no precipitate in hard water and the detergent works well. The classic example is sodium alkylbenzene sulfonate (Khordad 1402 paper).",
+      "tr": "Rah-e hal-e shimidan-ha: sar-e molekool ra avaz kardand. Dar pak-konande-haye gheyr-e sabooni sar-e ab-doost, goroh-e \"soolfonat\" (`-SO3-`) ast (azmoon-haye Khordad 1402 va Khordad 1400). Namak-e kalsiyom-e in goroh hal-shavande ast, pas dar ab-e sakht rosoob nemidahad va pak-konande khoob kar mikonad. Nemoone-ye klasik-e an sodiyom alkil-benzen soolfonat ast (azmoon-e Khordad 1402)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " in hard water (Ca2+, Mg2+)\n\n soap:      R-COO-   + Ca2+\n            -> insoluble scum\n detergent: R-SO3-   + Ca2+\n            -> stays dissolved",
+     "caption": {
+      "fa": "سر کربوکسیلات با کلسیم رسوب می‌دهد؛ سر سولفونات نه.",
+      "en": "The carboxylate head precipitates with calcium; the sulfonate head does not.",
+      "tr": "Sar-e karboksilat ba kalsiyom rosoob midahad; sar-e soolfonat na."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پاک‌کننده‌های خورنده: واکنش، نه فقط جذب",
+      "en": "Corrosive cleaners: reaction, not just attraction",
+      "tr": "Pak-konande-haye khorande: vakonesh, na faghat jazb"
+     },
+     "body": {
+      "fa": "«پاک‌کننده‌های خورنده» فرق اساسی دارند: علاوه بر نیروهای بین‌مولکولی، با خود چرک «واکنش شیمیایی» می‌دهند (آزمون خرداد ۱۴۰۰). سدیم هیدروکسید (`NaOH`) محلولی بسیار بازی می‌سازد و چربی‌های گرفته در لوله را می‌شکند (آزمون خرداد ۱۳۹۸)؛ هیدروکلریک اسید (`HCl`) رسوب‌های آهکی را از سطوح حل می‌کند (آزمون خرداد ۱۴۰۲). این مواد خطرناک‌اند و باید با دستکش و احتیاط به کار روند.",
+      "en": "\"Corrosive cleaners\" are fundamentally different: besides intermolecular forces, they \"react chemically\" with the dirt itself (Khordad 1400 paper). Sodium hydroxide (`NaOH`) makes a strongly basic solution and breaks down fats clogging pipes (Khordad 1398 paper); hydrochloric acid (`HCl`) dissolves limescale from hard surfaces (Khordad 1402 paper). These substances are dangerous and must be used with gloves and care.",
+      "tr": "\"Pak-konande-haye khorande\" fargh-e asasi darand: alave bar niroo-haye beyn-e molekooli, ba khod-e cherk \"vakonesh-e shimiyayi\" midahand (azmoon-e Khordad 1400). Sodiyom hidroksid (`NaOH`) mahlooli besiyar bazi misazad va charbi-haye gerefte dar loole ra mishekanad (azmoon-e Khordad 1398); hidrokolorik asid (`HCl`) rosoob-haye ahaki ra az sotooh hal mikonad (azmoon-e Khordad 1402). In mavad khatarnak-and va bayad ba dastkesh va ehtiyat be kar ravand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نمک‌های کم‌محلول",
+      "en": "Sparingly soluble salts and Ksp",
+      "tr": "Namak-haye kam-mahlool va Ksp"
+     },
+     "body": {
+      "fa": "رسوب صابون در آب سخت نمونه‌ای از نمک‌های کم‌محلول است. در محلول سیرشدهٔ نمکی مثل نقره کلرید (`AgCl`)، حاصل‌ضرب غلظت مولی یون‌ها در دمای ثابت مقداری ثابت است که «ثابت حاصل‌ضرب انحلال‌پذیری» (`Ksp`) نام دارد (آزمون خرداد ۱۴۰۰): `Ksp = [Ag+][Cl-]`. هرچه `Ksp` کوچک‌تر باشد، نمک کم‌محلول‌تر است.",
+      "en": "Soap scum in hard water is one example of a sparingly soluble salt. In a saturated solution of a salt such as silver chloride (`AgCl`), the product of the molar ion concentrations is constant at a fixed temperature; it is called the \"solubility product constant\" (`Ksp`) (Khordad 1400 paper): `Ksp = [Ag+][Cl-]`. The smaller `Ksp` is, the less soluble the salt.",
+      "tr": "Rosoob-e saboon dar ab-e sakht nemoone-i az namak-haye kam-mahlool ast. Dar mahlool-e sir-shode-ye namaki mesl-e noghre kolorid (`AgCl`), hasel-zarb-e ghelzat-e moli-ye yoon-ha dar dama-ye sabet meghdari sabet ast ke \"sabet-e hasel-zarb-e enhelal-paziri\" (`Ksp`) nam darad (azmoon-e Khordad 1400): `Ksp = [Ag+][Cl-]`. Harche `Ksp` koochak-tar bashad, namak kam-mahlool-tar ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام کاتیون‌های آب سخت با صابون رسوب نامحلول می‌دهند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: which cations in hard water form an insoluble precipitate with soap? (Khordad 1402 paper)",
+      "tr": "Garm kardan: kodam katiyon-haye ab-e sakht ba saboon rosoob-e na-mahlool midahand? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تعریف آب سخت را به یاد بیاور: آبی با یون‌های دوبار مثبت فراوان.",
+        "en": "Recall the definition of hard water: water rich in doubly charged positive ions.",
+        "tr": "Ta'rif-e ab-e sakht ra be yad biyavar: abi ba yoon-haye do-bar mosbat-e faravan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "یون‌های کلسیم (`Ca2+`) و منیزیم (`Mg2+`)",
+      "en": "Calcium (`Ca2+`) and magnesium (`Mg2+`) ions",
+      "tr": "Yoon-haye kalsiyom (`Ca2+`) va menizium (`Mg2+`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: تفاوت عملکرد صابون و پاک‌کنندهٔ غیرصابونی را در آب سخت توضیح بده. (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: explain how soap and a non-soap detergent behave differently in hard water. (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: tafavot-e amalkard-e saboon va pak-konande-ye gheyr-e sabooni ra dar ab-e sakht tozih bede. (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، صابون: سر کربوکسیلات با `Ca2+` و `Mg2+` رسوب نامحلول می‌دهد و کارایی‌اش کم می‌شود.",
+        "en": "First half mark, soap: the carboxylate head forms an insoluble precipitate with `Ca2+` and `Mg2+`, and its efficiency drops.",
+        "tr": "Nim-nomre-ye avval, saboon: sar-e karboksilat ba `Ca2+` va `Mg2+` rosoob-e na-mahlool midahad va kara'i-ash kam mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، غیرصابونی: سر سولفونات رسوب نمی‌دهد، پس پاک‌کننده در آب سخت هم خوب کار می‌کند.",
+        "en": "Second half mark, non-soap: the sulfonate head forms no precipitate, so the detergent still cleans well in hard water.",
+        "tr": "Nim-nomre-ye dovvom, gheyr-e sabooni: sar-e soolfonat rosoob nemidahad, pas pak-konande dar ab-e sakht ham khoob kar mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "صابون رسوب می‌دهد و کارایی‌اش کم می‌شود؛ غیرصابونی رسوب نمی‌دهد و خوب می‌شوید",
+      "en": "Soap precipitates and loses efficiency; non-soap does not precipitate and cleans well",
+      "tr": "Saboon rosoob midahad va kara'i-ash kam mishavad; gheyr-e sabooni rosoob nemidahad va khoob mishooyad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در یک لیتر آب سخت `0.01` مول `Ca2+` هست. پیش از اینکه صابون کف کند، چند مول صابون هدر می‌رود؟",
+      "en": "Exam twist: one litre of hard water contains `0.01` mol of `Ca2+`. How many moles of soap are wasted before the soap starts to lather?",
+      "tr": "Pich-e emtehani: dar yek litr ab-e sakht `0.01` mol `Ca2+` hast. Pish az inke saboon kaf konad, chand mol saboon hadar miravad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: نسبت مولی را از فرمول رسوب بخوان. یون کلسیم دو بار مثبت دارد و هر آنیون صابون یک بار منفی، پس هر `Ca2+` دو آنیون صابون می‌گیرد.",
+        "en": "The twist: read the mole ratio off the precipitate's formula. Calcium has a 2+ charge and each soap anion a 1− charge, so each `Ca2+` takes two soap anions.",
+        "tr": "Pich-e emtehan: nesbat-e moli ra az formool-e rosoob bekhan. Yoon-e kalsiyom do bar mosbat darad va har aniyon-e saboon yek bar manfi, pas har `Ca2+` do aniyon-e saboon migirad."
+       },
+       "math": "(RCOO)2Ca  →  1 Ca2+ : 2 RCOO-"
+      },
+      {
+       "text": {
+        "fa": "پس دو برابر مول‌های کلسیم، صابون هدر می‌رود. فقط پس از آن کف ظاهر می‌شود.",
+        "en": "So twice the moles of calcium is wasted as soap. Only after that does lather appear.",
+        "tr": "Pas do barabar-e mol-haye kalsiyom, saboon hadar miravad. Faghat pas az an kaf zaher mishavad."
+       },
+       "math": "2 × 0.01 = 0.02 mol"
+      }
+     ],
+     "answer": {
+      "fa": "`0.02` مول صابون",
+      "en": "`0.02` mol of soap",
+      "tr": "`0.02` mol saboon"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گروه سولفونات (`-SO3-`) مال پاک‌کنندهٔ غیرصابونی است و کربوکسیلات (`-COO-`) مال صابون. سؤال «کدام گروه در آب سخت رسوب نمی‌دهد؟» جوابش سولفونات است (آزمون خرداد ۱۴۰۰).",
+      "en": "The sulfonate group (`-SO3-`) belongs to non-soap detergents and carboxylate (`-COO-`) to soap. \"Which group forms no precipitate in hard water?\" The answer is sulfonate (Khordad 1400 paper).",
+      "tr": "Goroh-e soolfonat (`-SO3-`) mal-e pak-konande-ye gheyr-e sabooni ast va karboksilat (`-COO-`) mal-e saboon. So'al-e \"kodam goroh dar ab-e sakht rosoob nemidahad?\" javabash soolfonat ast (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پاک‌کنندهٔ خورنده هم می‌تواند بازی باشد (`NaOH` برای لولهٔ گرفته) و هم اسیدی (`HCl` برای رسوب آهکی). از نوع چرک بپرس.",
+      "en": "A corrosive cleaner can be basic (`NaOH` for a clogged pipe) or acidic (`HCl` for limescale). Ask what kind of dirt it is.",
+      "tr": "Pak-konande-ye khorande ham mitavanad bazi bashad (`NaOH` baraye loole-ye gerefte) va ham asidi (`HCl` baraye rosoob-e ahaki). Az no'-e cherk bepors."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 0
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 916
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 912
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 947
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 3,
+   "key": "chem-1-acid-base-theories",
+   "title": {
+    "fa": "اسید و باز: آرنیوس و برونستد-لوری",
+    "en": "Acids and bases: Arrhenius and Brønsted-Lowry",
+    "tr": "Asid va baz: Arrhenius va Bronsted-Lowry"
+   },
+   "summary": {
+    "fa": "اسید چیزی می‌دهد و باز چیزی می‌گیرد؛ آن چیز پروتون است.",
+    "en": "An acid gives something and a base takes it; that something is a proton.",
+    "tr": "Asid chizi midahad va baz chizi migirad; an chiz proton ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: آرنیوس، تعریفی در آب",
+      "en": "Understand first: Arrhenius, a definition in water",
+      "tr": "Avval befahm: Arrhenius, ta'rifi dar ab"
+     },
+     "body": {
+      "fa": "نظریهٔ «آرنیوس» ساده است: اسید ماده‌ای است که در آب غلظت یون هیدرونیوم (`H3O+`) را زیاد می‌کند (آزمون خرداد ۱۳۹۹) و باز ماده‌ای که غلظت یون هیدروکسید (`OH-`) را زیاد می‌کند (آزمون دی ۱۴۰۰). هیدروکلریک اسید (`HCl`) یک اسید قوی آرنیوس است که در آب کامل یونیده می‌شود (آزمون‌های خرداد ۱۴۰۰ و دی ۱۳۹۹).",
+      "en": "The \"Arrhenius\" theory is simple: an acid is a substance that raises the concentration of hydronium ions (`H3O+`) in water (Khordad 1399 paper), and a base is one that raises the concentration of hydroxide ions (`OH-`) (Dey 1400 paper). Hydrochloric acid (`HCl`) is a strong Arrhenius acid that ionises completely in water (Khordad 1400 and Dey 1399 papers).",
+      "tr": "Nazariye-ye \"Arrhenius\" sade ast: asid maddei ast ke dar ab ghelzat-e yoon-e hidroniyom (`H3O+`) ra ziyad mikonad (azmoon-e Khordad 1399) va baz maddei ke ghelzat-e yoon-e hidroksid (`OH-`) ra ziyad mikonad (azmoon-e Dey 1400). Hidrokolorik asid (`HCl`) yek asid-e ghavi-ye Arrhenius ast ke dar ab kamel yonide mishavad (azmoon-haye Khordad 1400 va Dey 1399)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "برونستد-لوری: پاس دادن پروتون",
+      "en": "Brønsted-Lowry: passing the proton",
+      "tr": "Bronsted-Lowry: pas dadan-e proton"
+     },
+     "body": {
+      "fa": "نظریهٔ «برونستد-لوری» گسترده‌تر است و به آب محدود نیست: اسید «دهندهٔ پروتون» (`H+`) است و باز «گیرندهٔ پروتون» (آزمون دی ۱۳۹۹). مثل پاس دادن توپ: اسید توپ (پروتون) را پاس می‌دهد و باز آن را می‌گیرد. چیزی که از اسید پس از دادن پروتون می‌ماند «باز مزدوج» آن است (آزمون‌های دی ۱۳۹۹ و خرداد ۱۴۰۰) و چیزی که باز پس از گرفتن پروتون می‌شود «اسید مزدوج» آن (آزمون‌های خرداد ۱۴۰۱ و خرداد ۱۳۹۹). هر جفت مزدوج فقط در یک `H+` با هم فرق دارند.",
+      "en": "The \"Brønsted-Lowry\" theory is broader and not limited to water: an acid is a \"proton donor\" (`H+`) and a base a \"proton acceptor\" (Dey 1399 paper). Like passing a ball: the acid passes the ball (the proton) and the base catches it. What is left of the acid after giving its proton is its \"conjugate base\" (Dey 1399 and Khordad 1400 papers), and what the base becomes after taking the proton is its \"conjugate acid\" (Khordad 1401 and Khordad 1399 papers). The two members of a conjugate pair differ by just one `H+`.",
+      "tr": "Nazariye-ye \"Bronsted-Lowry\" gostarde-tar ast va be ab mahdood nist: asid \"dahande-ye proton\" (`H+`) ast va baz \"girande-ye proton\" (azmoon-e Dey 1399). Mesl-e pas dadan-e toop: asid toop (proton) ra pas midahad va baz an ra migirad. Chizi ke az asid pas az dadan-e proton mimanad \"baz-e mozdavaj\"-e an ast (azmoon-haye Dey 1399 va Khordad 1400) va chizi ke baz pas az gereftan-e proton mishavad \"asid-e mozdavaj\"-e an (azmoon-haye Khordad 1401 va Khordad 1399). Har joft-e mozdavaj faghat dar yek `H+` ba ham fargh darand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  HCl   +  H2O   ->  H3O+   +  Cl-\n  acid     base      conj.     conj.\n                     acid      base\n  |___________________________|\n     HCl / Cl-   (one pair)\n           |________|\n           H2O / H3O+ (other pair)",
+     "caption": {
+      "fa": "دو جفت مزدوج: `HCl` و `Cl-`، و `H2O` و `H3O+`. هر جفت فقط در یک پروتون فرق دارند.",
+      "en": "Two conjugate pairs: `HCl` and `Cl-`, and `H2O` and `H3O+`. Each pair differs by just one proton.",
+      "tr": "Do joft-e mozdavaj: `HCl` va `Cl-`, va `H2O` va `H3O+`. Har joft faghat dar yek proton fargh darand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: طبق نظریهٔ آرنیوس، باز غلظت کدام یون را در آب زیاد می‌کند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: according to the Arrhenius theory, a base raises the concentration of which ion in water? (Dey 1400 paper)",
+      "tr": "Garm kardan: tebgh-e nazariye-ye Arrhenius, baz ghelzat-e kodam yoon ra dar ab ziyad mikonad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آرنیوس اسید و باز را با دو یون آب تعریف می‌کند: اسید سهم `H3O+`، باز سهم `OH-`.",
+        "en": "Arrhenius defines acids and bases by water's two ions: the acid adds `H3O+`, the base adds `OH-`.",
+        "tr": "Arrhenius asid va baz ra ba do yoon-e ab ta'rif mikonad: asid sahm-e `H3O+`, baz sahm-e `OH-`."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "یون هیدروکسید (`OH-`)",
+      "en": "The hydroxide ion (`OH-`)",
+      "tr": "Yoon-e hidroksid (`OH-`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در واکنش `NH3 + H2O ⇌ NH4+ + OH-`، اسید، باز و جفت‌های مزدوج را مشخص کن. (آزمون دی ۱۳۹۵)",
+      "en": "Textbook and exam: in the reaction `NH3 + H2O ⇌ NH4+ + OH-`, identify the acid, the base and the conjugate pairs. (Dey 1395 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar vakonesh-e `NH3 + H2O ⇌ NH4+ + OH-`, asid, baz va joft-haye mozdavaj ra moshakhkhas kon. (azmoon-e Dey 1395)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دنبال پروتون بگرد: `NH3` یک `H` گرفته و `NH4+` شده، پس `NH3` باز است. آب یک `H` داده و `OH-` شده، پس آب اسید است.",
+        "en": "Follow the proton: `NH3` gained an `H` and became `NH4+`, so `NH3` is the base. Water gave an `H` and became `OH-`, so water is the acid.",
+        "tr": "Donbal-e proton begard: `NH3` yek `H` gerefte va `NH4+` shode, pas `NH3` baz ast. Ab yek `H` dade va `OH-` shode, pas ab asid ast."
+       },
+       "math": "NH3 + H+ → NH4+ ,   H2O − H+ → OH-"
+      },
+      {
+       "text": {
+        "fa": "حالا جفت‌ها: باز `NH3` اسید مزدوجش `NH4+` است؛ اسید `H2O` باز مزدوجش `OH-` است.",
+        "en": "Now the pairs: the base `NH3` has the conjugate acid `NH4+`; the acid `H2O` has the conjugate base `OH-`.",
+        "tr": "Hala joft-ha: baz-e `NH3` asid-e mozdavajash `NH4+` ast; asid-e `H2O` baz-e mozdavajash `OH-` ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اسید: `H2O`؛ باز: `NH3`؛ اسید مزدوج: `NH4+`؛ باز مزدوج: `OH-`",
+      "en": "Acid: `H2O`; base: `NH3`; conjugate acid: `NH4+`; conjugate base: `OH-`",
+      "tr": "Asid: `H2O`; baz: `NH3`; asid-e mozdavaj: `NH4+`; baz-e mozdavaj: `OH-`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در واکنش با `HCl` آب باز است و در واکنش با `NH3` اسید. این چطور ممکن است؟",
+      "en": "Exam twist: in the reaction with `HCl` water is a base, and in the reaction with `NH3` an acid. How is that possible?",
+      "tr": "Pich-e emtehani: dar vakonesh ba `HCl` ab baz ast va dar vakonesh ba `NH3` asid. In chetor momken ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در برونستد-لوری، اسید یا باز بودن «نقش» است، نه برچسب ثابت؛ بستگی دارد طرف مقابل کیست.",
+        "en": "The twist: in Brønsted-Lowry, being an acid or a base is a \"role\", not a fixed label; it depends on the partner.",
+        "tr": "Pich-e emtehan: dar Bronsted-Lowry, asid ya baz boodan \"naghsh\" ast, na barchasb-e sabet; bastegi darad taraf-e moghabel kist."
+       }
+      },
+      {
+       "text": {
+        "fa": "در برابر `HCl` که پروتون می‌دهد، آب پروتون می‌گیرد (باز). در برابر `NH3` که پروتون می‌خواهد، آب پروتون می‌دهد (اسید). به این ماده‌ها «آمفوتر» می‌گویند.",
+        "en": "Facing `HCl`, which donates a proton, water accepts one (a base). Facing `NH3`, which wants a proton, water gives one (an acid). Such substances are called \"amphoteric\".",
+        "tr": "Dar barabar-e `HCl` ke proton midahad, ab proton migirad (baz). Dar barabar-e `NH3` ke proton mikhahad, ab proton midahad (asid). Be in madde-ha \"amfoter\" migooyand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آب آمفوتر است: با پروتون‌دهنده باز و با پروتون‌گیرنده اسید است",
+      "en": "Water is amphoteric: a base towards a proton donor and an acid towards a proton acceptor",
+      "tr": "Ab amfoter ast: ba proton-dahande baz va ba proton-girande asid ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "باز مزدوج «از» اسید ساخته می‌شود و اسید مزدوج «از» باز. باز مزدوج `HCl` یون `Cl-` است، نه `H3O+` (آزمون خرداد ۱۴۰۰).",
+      "en": "The conjugate base is made \"from\" the acid and the conjugate acid \"from\" the base. The conjugate base of `HCl` is `Cl-`, not `H3O+` (Khordad 1400 paper).",
+      "tr": "Baz-e mozdavaj \"az\" asid sakhte mishavad va asid-e mozdavaj \"az\" baz. Baz-e mozdavaj-e `HCl` yoon-e `Cl-` ast, na `H3O+` (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آرنیوس فقط در محلول آبی کار می‌کند؛ برونستد-لوری با هر پروتون‌دهنده و گیرنده‌ای.",
+      "en": "Arrhenius works only in aqueous solution; Brønsted-Lowry with any proton donor and acceptor.",
+      "tr": "Arrhenius faghat dar mahlool-e abi kar mikonad; Bronsted-Lowry ba har proton-dahande va girande-i."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 926
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1399-Dey",
+     "number": 939
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 913
+    },
+    {
+     "session": "1399-Dey",
+     "number": 921
+    },
+    {
+     "session": "1399-Dey",
+     "number": 923
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 935
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1395-Dey",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 4,
+   "key": "chem-1-strong-weak-acids",
+   "title": {
+    "fa": "اسید قوی و ضعیف: درجهٔ یونش و ثابت یونش",
+    "en": "Strong and weak acids: degree of ionisation and Ka",
+    "tr": "Asid-e ghavi va za'if: daraje-ye yonesh va sabet-e yonesh"
+   },
+   "summary": {
+    "fa": "یکی کامل در استخر می‌پرد، دیگری فقط نوک پایش را خیس می‌کند.",
+    "en": "One jumps fully into the pool; the other only dips a toe.",
+    "tr": "Yeki kamel dar estakhr miparad, digari faghat nok-e payash ra khis mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پریدن یا خیس کردن پا",
+      "en": "Understand first: jumping in or dipping a toe",
+      "tr": "Avval befahm: paridan ya khis kardan-e pa"
+     },
+     "body": {
+      "fa": "یک استخر را تصور کن. اسید قوی مثل کسی است که کامل در آب می‌پرد: همهٔ مولکول‌هایش یونیده می‌شوند. اسید ضعیف فقط نوک پایش را در آب می‌گذارد: بیشتر مولکول‌هایش دست‌نخورده می‌مانند. نسبت مولکول‌های یونیده به کل مولکول‌های حل‌شده را «درجهٔ یونش» (`α`) می‌نامیم (آزمون‌های دی ۱۴۰۰ و خرداد ۱۴۰۰). برای اسید قوی مثل `HCl` و `HNO3`، `α = 1` است (آزمون‌های خرداد ۱۳۹۹ و خرداد ۱۴۰۰) و برای اسید ضعیف مثل `HF`، `α` خیلی کمتر از یک (آزمون خرداد ۱۳۹۹).",
+      "en": "Picture a swimming pool. A strong acid is like someone who jumps fully in: all its molecules ionise. A weak acid only dips a toe in: most of its molecules stay intact. The ratio of ionised molecules to all the dissolved molecules is the \"degree of ionisation\" (`α`) (Dey 1400 and Khordad 1400 papers). For a strong acid such as `HCl` and `HNO3`, `α = 1` (Khordad 1399 and Khordad 1400 papers), and for a weak acid such as `HF`, `α` is much less than one (Khordad 1399 paper).",
+      "tr": "Yek estakhr ra tasavvor kon. Asid-e ghavi mesl-e kasi ast ke kamel dar ab miparad: hame-ye molekool-hayash yonide mishavand. Asid-e za'if faghat nok-e payash ra dar ab migozarad: bishtar-e molekool-hayash dast-nakhorde mimanand. Nesbat-e molekool-haye yonide be kol-e molekool-haye hal-shode ra \"daraje-ye yonesh\" (`α`) minamim (azmoon-haye Dey 1400 va Khordad 1400). Baraye asid-e ghavi mesl-e `HCl` va `HNO3`, `α = 1` ast (azmoon-haye Khordad 1399 va Khordad 1400) va baraye asid-e za'if mesl-e `HF`, `α` kheyli kamtar az yek (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " strong HCl          weak HF\n H3O+ Cl- H3O+ Cl-   HF HF H3O+ F-\n H3O+ Cl- H3O+ Cl-   HF HF HF HF\n alpha = 1           alpha << 1\n bright bulb         dim bulb",
+     "caption": {
+      "fa": "اسید قوی کامل یونیده می‌شود و برق را خوب رسانا می‌کند؛ اسید ضعیف کم یونیده می‌شود و لامپ کم‌نور است.",
+      "en": "A strong acid ionises fully and conducts electricity well; a weak acid ionises little and the bulb is dim.",
+      "tr": "Asid-e ghavi kamel yonide mishavad va barq ra khoob resana mikonad; asid-e za'if kam yonide mishavad va lamp kam-noor ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "α = [A-] / M ,   [H3O+] = α × M",
+     "caption": {
+      "fa": "برای اسید تک‌پروتون‌دار با غلظت اولیهٔ `M`",
+      "en": "For a monoprotic acid with initial concentration `M`",
+      "tr": "Baraye asid-e tak-proton-dar ba ghelzat-e avvaliye-ye `M`"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ثابت یونش اسید",
+      "en": "The acid ionisation constant",
+      "tr": "Sabet-e yonesh-e asid"
+     },
+     "body": {
+      "fa": "برای اسید ضعیف `HA` تعادلی برقرار می‌شود و «ثابت یونش اسید» آن `Ka = [H3O+][A-] / [HA]` است (آزمون دی ۱۳۹۹). `Ka` بزرگ‌تر یعنی اسید بیشتر یونیده می‌شود و قوی‌تر است (آزمون خرداد ۱۳۹۹). مقدار `Ka` برای یک اسید مشخص فقط با تغییر «دما» عوض می‌شود، نه با غلظت (آزمون خرداد ۱۴۰۰).",
+      "en": "For a weak acid `HA` an equilibrium is set up, and its \"acid ionisation constant\" is `Ka = [H3O+][A-] / [HA]` (Dey 1399 paper). A larger `Ka` means the acid ionises more and is stronger (Khordad 1399 paper). For a given acid, `Ka` changes only when the \"temperature\" changes, not with concentration (Khordad 1400 paper).",
+      "tr": "Baraye asid-e za'if-e `HA` ta'adoli bargharar mishavad va \"sabet-e yonesh-e asid\"-e an `Ka = [H3O+][A-] / [HA]` ast (azmoon-e Dey 1399). `Ka`-ye bozorg-tar ya'ni asid bishtar yonide mishavad va ghavi-tar ast (azmoon-e Khordad 1399). Meghdar-e `Ka` baraye yek asid-e moshakhkhas faghat ba taghyir-e \"dama\" avaz mishavad, na ba ghelzat (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Ka = [H3O+][A-] / [HA]",
+     "caption": {
+      "fa": "ثابت یونش اسید ضعیف تک‌پروتون‌دار",
+      "en": "The ionisation constant of a weak monoprotic acid",
+      "tr": "Sabet-e yonesh-e asid-e za'if-e tak-proton-dar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: غلظت یون هیدرونیوم در محلول `0.05` مولار نیتریک اسید چقدر است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what is the hydronium ion concentration in a `0.05` M solution of nitric acid? (Dey 1401 paper)",
+      "tr": "Garm kardan: ghelzat-e yoon-e hidroniyom dar mahlool-e `0.05` molar nitrik asid cheghadr ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول: نیتریک اسید قوی است، پس کامل یونیده می‌شود و `α = 1`.",
+        "en": "First half mark: nitric acid is strong, so it ionises completely and `α = 1`.",
+        "tr": "Nim-nomre-ye avval: nitrik asid ghavi ast, pas kamel yonide mishavad va `α = 1`."
+       },
+       "math": "α = 1"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم: هر مولکول یک `H3O+` می‌دهد.",
+        "en": "Second half mark: each molecule gives one `H3O+`.",
+        "tr": "Nim-nomre-ye dovvom: har molekool yek `H3O+` midahad."
+       },
+       "math": "[H3O+] = 1 × 0.05 = 0.05 M"
+      }
+     ],
+     "answer": {
+      "fa": "`[H3O+] = 0.05 M` و `α = 1`",
+      "en": "`[H3O+] = 0.05 M` and `α = 1`",
+      "tr": "`[H3O+] = 0.05 M` va `α = 1`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: محلول `0.1` مولار یک اسید ضعیف `α = 0.01` دارد. `[H3O+]`، `pH` و `Ka` را حساب کن.",
+      "en": "Textbook and exam: a `0.1` M solution of a weak acid has `α = 0.01`. Work out `[H3O+]`, the `pH` and `Ka`.",
+      "tr": "Mas'ale-ye ketab va emtehan: mahlool-e `0.1` molar-e yek asid-e za'if `α = 0.01` darad. `[H3O+]`, `pH` va `Ka` ra hesab kon."
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فقط یک درصد مولکول‌ها یونیده شده‌اند.",
+        "en": "Only one percent of the molecules have ionised.",
+        "tr": "Faghat yek darsad-e molekool-ha yonide shode-and."
+       },
+       "math": "[H3O+] = 0.01 × 0.1 = 10^-3 M"
+      },
+      {
+       "text": {
+        "fa": "`pH` منفی لگاریتم غلظت هیدرونیوم است.",
+        "en": "The `pH` is minus the logarithm of the hydronium concentration.",
+        "tr": "`pH` manfi-ye logaritm-e ghelzat-e hidroniyom ast."
+       },
+       "math": "pH = −log(10^-3) = 3"
+      },
+      {
+       "text": {
+        "fa": "برای `Ka`: `[A-]` هم `10^-3` است و `HA` تقریباً همان `0.1` می‌ماند، چون یونش بسیار کم است.",
+        "en": "For `Ka`: `[A-]` is also `10^-3` and `HA` stays about `0.1`, because so little has ionised.",
+        "tr": "Baraye `Ka`: `[A-]` ham `10^-3` ast va `HA` taghriban haman `0.1` mimanad, chon yonesh besiyar kam ast."
+       },
+       "math": "Ka = (10^-3)(10^-3) / 0.1 = 10^-5"
+      }
+     ],
+     "answer": {
+      "fa": "`[H3O+] = 10^-3 M`، `pH = 3`، `Ka ≈ 10^-5`",
+      "en": "`[H3O+] = 10^-3 M`, `pH = 3`, `Ka ≈ 10^-5`",
+      "tr": "`[H3O+] = 10^-3 M`, `pH = 3`, `Ka ≈ 10^-5`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: دو محلول `0.1` مولار داریم: `HCl` و استیک اسید. کدام برق را بهتر رسانا می‌کند و کدام با فلز منیزیم سریع‌تر واکنش می‌دهد؟ برای خنثی کردن آن‌ها، کدام باز بیشتری لازم دارد؟",
+      "en": "Exam twist: we have two `0.1` M solutions: `HCl` and acetic acid. Which conducts electricity better, and which reacts faster with magnesium metal? Which needs more base to neutralise?",
+      "tr": "Pich-e emtehani: do mahlool-e `0.1` molar darim: `HCl` va asetik asid. Kodam barq ra behtar resana mikonad va kodam ba felez-e menizium sari'-tar vakonesh midahad? Baraye khonsa kardan-e an-ha, kodam baz-e bishtari lazem darad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: `HCl` قوی است و `α = 1`؛ استیک اسید ضعیف است. پس `HCl` یون‌های خیلی بیشتری دارد: رسانایی بیشتر و واکنش سریع‌تر با منیزیم.",
+        "en": "Step one: `HCl` is strong with `α = 1`; acetic acid is weak. So `HCl` has far more ions: higher conductivity and a faster reaction with magnesium.",
+        "tr": "Ghadam-e avval: `HCl` ghavi ast va `α = 1`; asetik asid za'if ast. Pas `HCl` yoon-haye kheyli bishtari darad: resanayi-ye bishtar va vakonesh-e sari'-tar ba menizium."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: هر دو از اول `0.1` مول در هر لیتر اسید دارند. هنگام خنثی شدن، تعادل اسید ضعیف جلو می‌رود تا همهٔ مولکول‌هایش پروتون بدهند. پس هر دو به یک اندازه باز لازم دارند.",
+        "en": "Step two, the real twist: both started with `0.1` mol of acid per litre. As it is neutralised, the weak acid's equilibrium keeps shifting until every molecule has given up its proton. So both need the same amount of base.",
+        "tr": "Ghadam-e dovvom, pich-e asli: har do az avval `0.1` mol dar har litr asid darand. Hengam-e khonsa shodan, ta'adol-e asid-e za'if jelo miravad ta hame-ye molekool-hayash proton bedahand. Pas har do be yek andaze baz lazem darand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`HCl` رساناتر و سریع‌تر است؛ ولی هر دو به یک اندازه باز لازم دارند",
+      "en": "`HCl` conducts better and reacts faster; but both need the same amount of base",
+      "tr": "`HCl` resana-tar va sari'-tar ast; vali har do be yek andaze baz lazem darand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«قوی» یعنی کامل یونیده، نه «غلیظ». اسید ضعیف غلیظ می‌تواند وجود داشته باشد و اسید قوی رقیق هم.",
+      "en": "\"Strong\" means fully ionised, not \"concentrated\". A concentrated weak acid can exist, and so can a dilute strong acid.",
+      "tr": "\"Ghavi\" ya'ni kamel yonide, na \"ghaliz\". Asid-e za'if-e ghaliz mitavanad vojood dashte bashad va asid-e ghavi-ye raghigh ham."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`Ka` با رقیق کردن عوض نمی‌شود، فقط با دما. ولی `α` با رقیق کردن زیاد می‌شود (آزمون خرداد ۱۴۰۰).",
+      "en": "`Ka` does not change on dilution, only with temperature. But `α` does increase on dilution (Khordad 1400 paper).",
+      "tr": "`Ka` ba raghigh kardan avaz nemishavad, faghat ba dama. Vali `α` ba raghigh kardan ziyad mishavad (azmoon-e Khordad 1400)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 0
+    },
+    {
+     "session": "1400-Dey",
+     "number": 911
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 928
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 930
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 917
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 950
+    },
+    {
+     "session": "1399-Dey",
+     "number": 906
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 940
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 5,
+   "key": "chem-1-water-ph",
+   "title": {
+    "fa": "آب، ثابت یونش آب و اسیدی بودن",
+    "en": "Water, Kw and pH",
+    "tr": "Ab, sabet-e yonesh-e ab va pH"
+   },
+   "summary": {
+    "fa": "یک الاکلنگ: هرچه هیدرونیوم بالا برود، هیدروکسید پایین می‌آید.",
+    "en": "A seesaw: the higher hydronium goes, the lower hydroxide falls.",
+    "tr": "Yek alakolang: harche hidroniyom bala beravad, hidroksid payin miayad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: الاکلنگ دو یون",
+      "en": "Understand first: the seesaw of two ions",
+      "tr": "Avval befahm: alakolang-e do yoon"
+     },
+     "body": {
+      "fa": "آب خالص هم کمی یونیده می‌شود: `2 H2O ⇌ H3O+ + OH-`. حاصل‌ضرب دو غلظت، «ثابت یونش آب» (`Kw`) است که در دمای اتاق (`25` درجه) برابر `10^-14` است (آزمون دی ۱۴۰۱). این حاصل‌ضرب ثابت است، پس `[H3O+]` و `[OH-]` مثل دو سر الاکلنگ‌اند: یکی که بالا برود، دیگری پایین می‌آید (آزمون‌های دی ۱۴۰۱ و خرداد ۱۴۰۱).",
+      "en": "Even pure water ionises a little: `2 H2O ⇌ H3O+ + OH-`. The product of the two concentrations is the \"ionisation constant of water\" (`Kw`), which equals `10^-14` at room temperature (`25` °C) (Dey 1401 paper). Because this product is constant, `[H3O+]` and `[OH-]` are like the two ends of a seesaw: when one goes up, the other comes down (Dey 1401 and Khordad 1401 papers).",
+      "tr": "Ab-e khales ham kami yonide mishavad: `2 H2O ⇌ H3O+ + OH-`. Hasel-zarb-e do ghelzat, \"sabet-e yonesh-e ab\" (`Kw`) ast ke dar dama-ye otagh (`25` daraje) barabar-e `10^-14` ast (azmoon-e Dey 1401). In hasel-zarb sabet ast, pas `[H3O+]` va `[OH-]` mesl-e do sar-e alakolang-and: yeki ke bala beravad, digari payin miayad (azmoon-haye Dey 1401 va Khordad 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Kw = [H3O+][OH-] = 10^-14 ,   pH + pOH = 14",
+     "caption": {
+      "fa": "در دمای `25` درجه",
+      "en": "At `25` °C",
+      "tr": "Dar dama-ye `25` daraje"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مقیاس اسیدی و بازی",
+      "en": "The pH scale",
+      "tr": "Meghyas-e pH"
+     },
+     "body": {
+      "fa": "چون این عددها خیلی کوچک‌اند، از «`pH`» استفاده می‌کنیم: `pH = −log[H3O+]` و `pOH = −log[OH-]`. پس هرچه `[H3O+]` بیشتر شود، `pH` کمتر می‌شود (آزمون خرداد ۱۴۰۰). محلولی که `[H3O+]` آن از `[OH-]` بیشتر است اسیدی است و `pH < 7` دارد (آزمون خرداد ۱۳۹۹). چون مقیاس لگاریتمی است، ده برابر رقیق کردن یک اسید قوی `pH` را فقط یک واحد بالا می‌برد (آزمون خرداد ۱۴۰۰).",
+      "en": "Because these numbers are very small, we use the \"`pH`\": `pH = −log[H3O+]` and `pOH = −log[OH-]`. So as `[H3O+]` rises, the `pH` falls (Khordad 1400 paper). A solution whose `[H3O+]` is greater than its `[OH-]` is acidic and has `pH < 7` (Khordad 1399 paper). Because the scale is logarithmic, diluting a strong acid ten times raises its `pH` by only one unit (Khordad 1400 paper).",
+      "tr": "Chon in adad-ha kheyli koochak-and, az \"`pH`\" estefade mikonim: `pH = −log[H3O+]` va `pOH = −log[OH-]`. Pas harche `[H3O+]` bishtar shavad, `pH` kamtar mishavad (azmoon-e Khordad 1400). Mahlooli ke `[H3O+]`-e an az `[OH-]` bishtar ast asidi ast va `pH < 7` darad (azmoon-e Khordad 1399). Chon meghyas logaritmi ast, dah barabar raghigh kardan-e yek asid-e ghavi `pH` ra faghat yek vahed bala mibarad (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "pH     0     3     7     11    14\n[H3O+] 1  10^-3 10^-7 10^-11 10^-14\n       <- acidic  neutral  basic ->\n\neach pH step = 10 times",
+     "caption": {
+      "fa": "مقیاس `pH` در `25` درجه: هر واحد یعنی ده برابر تفاوت در غلظت هیدرونیوم.",
+      "en": "The `pH` scale at `25` °C: each unit means a tenfold change in hydronium concentration.",
+      "tr": "Meghyas-e `pH` dar `25` daraje: har vahed ya'ni dah barabar tafavot dar ghelzat-e hidroniyom."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دما و ثابت یونش آب",
+      "en": "Temperature and Kw",
+      "tr": "Dama va Kw"
+     },
+     "body": {
+      "fa": "یونش آب گرماگیر است، پس با گرم شدن آب، `Kw` بزرگ‌تر می‌شود (آزمون خرداد ۱۴۰۰). در آب داغ خالص، `pH` کمی کمتر از ۷ می‌شود ولی آب هنوز خنثی است، چون `[H3O+]` و `[OH-]` همچنان برابرند.",
+      "en": "The ionisation of water is endothermic, so `Kw` gets larger as water warms (Khordad 1400 paper). In hot pure water the `pH` is a little below 7, but the water is still neutral, because `[H3O+]` and `[OH-]` are still equal.",
+      "tr": "Yonesh-e ab garma-gir ast, pas ba garm shodan-e ab, `Kw` bozorg-tar mishavad (azmoon-e Khordad 1400). Dar ab-e dagh-e khales, `pH` kami kamtar az 7 mishavad vali ab hanooz khonsa ast, chon `[H3O+]` va `[OH-]` hamchenan barabar-and."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: `[H3O+] = 0.001 M`؛ `pH` چقدر است؟ (آزمون دی ۱۳۹۸)",
+      "en": "Warm-up: `[H3O+] = 0.001 M`; what is the `pH`? (Dey 1398 paper)",
+      "tr": "Garm kardan: `[H3O+] = 0.001 M`; `pH` cheghadr ast? (azmoon-e Dey 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول عدد را به توان ده بنویس. چرا؟ چون لگاریتم توانِ ده را مستقیم می‌دهد.",
+        "en": "First write the number as a power of ten. Why? Because the logarithm gives the power of ten directly.",
+        "tr": "Avval adad ra be tavan-e dah benevis. Chera? Chon logaritm tavan-e dah ra mostaghim midahad."
+       },
+       "math": "0.001 = 10^-3   →   pH = 3"
+      }
+     ],
+     "answer": {
+      "fa": "`pH = 3`",
+      "en": "`pH = 3`",
+      "tr": "`pH = 3`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: `[H3O+] = 10^-3 M` است. `[OH-]` و `pOH` را در دمای اتاق حساب کن. (آزمون‌های دی ۱۴۰۱)",
+      "en": "Textbook and exam: `[H3O+] = 10^-3 M`. Work out `[OH-]` and the `pOH` at room temperature. (Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: `[H3O+] = 10^-3 M` ast. `[OH-]` va `pOH` ra dar dama-ye otagh hesab kon. (azmoon-haye Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الاکلنگ را به کار ببر: `Kw` را بر `[H3O+]` تقسیم کن.",
+        "en": "Use the seesaw: divide `Kw` by `[H3O+]`.",
+        "tr": "Alakolang ra be kar bebar: `Kw` ra bar `[H3O+]` taghsim kon."
+       },
+       "math": "[OH-] = 10^-14 / 10^-3 = 10^-11 M"
+      },
+      {
+       "text": {
+        "fa": "`pOH` از `[OH-]` می‌آید؛ یا از `pH + pOH = 14`.",
+        "en": "The `pOH` comes from `[OH-]`; or from `pH + pOH = 14`.",
+        "tr": "`pOH` az `[OH-]` miayad; ya az `pH + pOH = 14`."
+       },
+       "math": "pOH = 11   (14 − 3)"
+      }
+     ],
+     "answer": {
+      "fa": "`[OH-] = 10^-11 M` و `pOH = 11`",
+      "en": "`[OH-] = 10^-11 M` and `pOH = 11`",
+      "tr": "`[OH-] = 10^-11 M` va `pOH = 11`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: محلول یک اسید قوی `pH = 6` دارد. اگر آن را صد برابر رقیق کنیم، آیا `pH` به ۸ می‌رسد؟",
+      "en": "Exam twist: a strong acid solution has `pH = 6`. If we dilute it a hundred times, does the `pH` reach 8?",
+      "tr": "Pich-e emtehani: mahlool-e yek asid-e ghavi `pH = 6` darad. Agar an ra sad barabar raghigh konim, aya `pH` be 8 miresad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: قانون «هر ده برابر، یک واحد» فقط تا وقتی کار می‌کند که هیدرونیوم اسید از هیدرونیوم خود آب خیلی بیشتر باشد.",
+        "en": "The twist: the rule \"each tenfold, one unit\" only works while the acid's hydronium is much more than the water's own hydronium.",
+        "tr": "Pich-e emtehan: ghanoon-e \"har dah barabar, yek vahed\" faghat ta vaghti kar mikonad ke hidroniyom-e asid az hidroniyom-e khod-e ab kheyli bishtar bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "آب خودش `10^-7` هیدرونیوم دارد. افزودن اسید، هرچقدر هم رقیق، `[H3O+]` را کمتر از این نمی‌کند؛ پس `pH` به ۷ نزدیک می‌شود ولی از آن بالاتر نمی‌رود.",
+        "en": "Water itself has `10^-7` hydronium. Adding acid, however dilute, never brings `[H3O+]` below that; so the `pH` approaches 7 but never rises above it.",
+        "tr": "Ab khodash `10^-7` hidroniyom darad. Afzoodan-e asid, harcheghadr ham raghigh, `[H3O+]` ra kamtar az in nemikonad; pas `pH` be 7 nazdik mishavad vali az an bala-tar nemiravad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نه؛ `pH` به ۷ نزدیک می‌شود ولی اسیدی می‌ماند و هرگز بازی نمی‌شود",
+      "en": "No; the `pH` approaches 7 but stays acidic and never becomes basic",
+      "tr": "Na; `pH` be 7 nazdik mishavad vali asidi mimanad va hargez bazi nemishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`pH` کمتر یعنی اسیدی‌تر، نه کم‌اسیدتر؛ و یک واحد اختلاف یعنی ده برابر، نه یک‌ونیم برابر.",
+      "en": "A lower `pH` means more acidic, not less; and one unit of difference means ten times, not one and a half times.",
+      "tr": "`pH`-e kamtar ya'ni asidi-tar, na kam-asid-tar; va yek vahed ekhtelaf ya'ni dah barabar, na yek-o-nim barabar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`pH + pOH = 14` و `Kw = 10^-14` فقط در `25` درجه درست است؛ با تغییر دما `Kw` عوض می‌شود (آزمون خرداد ۱۴۰۰).",
+      "en": "`pH + pOH = 14` and `Kw = 10^-14` hold only at `25` °C; `Kw` changes with temperature (Khordad 1400 paper).",
+      "tr": "`pH + pOH = 14` va `Kw = 10^-14` faghat dar `25` daraje dorost ast; ba taghyir-e dama `Kw` avaz mishavad (azmoon-e Khordad 1400)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 942
+    },
+    {
+     "session": "1401-Dey",
+     "number": 947
+    },
+    {
+     "session": "1401-Dey",
+     "number": 948
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 932
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 927
+    },
+    {
+     "session": "1398-Dey",
+     "number": 910
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 1,
+   "unit": 6,
+   "key": "chem-1-neutralisation-buffers",
+   "title": {
+    "fa": "خنثی شدن، سنجش حجمی و محلول بافر",
+    "en": "Neutralisation, titration and buffers",
+    "tr": "Khonsa shodan, sanjesh-e hajmi va mahlool-e bafer"
+   },
+   "summary": {
+    "fa": "اسید و باز همدیگر را خنثی می‌کنند؛ بافر جلوی نوسان‌های ناگهانی را می‌گیرد.",
+    "en": "Acids and bases cancel each other; a buffer stops sudden swings.",
+    "tr": "Asid va baz hamdigar ra khonsa mikonand; bafer jelo-ye navasan-haye nagahani ra migirad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو نیروی مخالف که هم را خنثی می‌کنند",
+      "en": "Understand first: two opposite forces that cancel",
+      "tr": "Avval befahm: do niroo-ye mokhalef ke ham ra khonsa mikonand"
+     },
+     "body": {
+      "fa": "وقتی اسید و باز به هم می‌رسند، یون‌های `H3O+` و `OH-` با هم آب می‌سازند: `H3O+ + OH- → 2 H2O`. این «خنثی شدن» است. ضداسیدها، مثل منیزیم هیدروکسید (شیر منیزی)، بر همین اساس اسید اضافهٔ معده را خنثی می‌کنند. در «سنجش حجمی» (تیتراسیون)، باز را قطره‌قطره به اسید اضافه می‌کنیم تا به «نقطهٔ هم‌ارزی» برسیم: جایی که مول‌های `H3O+` دقیقاً با مول‌های `OH-` برابر شود (آزمون خرداد ۱۳۹۹).",
+      "en": "When an acid meets a base, the `H3O+` and `OH-` ions combine to make water: `H3O+ + OH- → 2 H2O`. This is \"neutralisation\". Antacids such as magnesium hydroxide (milk of magnesia) work on this basis, neutralising excess stomach acid. In a \"titration\" we add base drop by drop to an acid until we reach the \"equivalence point\": where the moles of `H3O+` exactly equal the moles of `OH-` (Khordad 1399 paper).",
+      "tr": "Vaghti asid va baz be ham miresand, yoon-haye `H3O+` va `OH-` ba ham ab misazand: `H3O+ + OH- → 2 H2O`. In \"khonsa shodan\" ast. Zed-asid-ha, mesl-e menizium hidroksid (shir-e menizi), bar hamin asas asid-e ezafe-ye me'de ra khonsa mikonand. Dar \"sanjesh-e hajmi\" (titrasiyon), baz ra ghatre-ghatre be asid ezafe mikonim ta be \"noghte-ye ham-arzi\" beresim: jayi ke mol-haye `H3O+` daghighan ba mol-haye `OH-` barabar shavad (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "       |  burette: NaOH\n       |\n       v  drop by drop\n    \\________/\n     \\ HCl  /   flask + indicator\n      \\____/\n\n equivalence point:\n mol H3O+  =  mol OH-",
+     "caption": {
+      "fa": "سنجش حجمی: باز از بورت قطره‌قطره به اسید اضافه می‌شود تا شناساگر نقطهٔ هم‌ارزی را نشان دهد.",
+      "en": "A titration: base is added drop by drop from the burette until the indicator shows the equivalence point.",
+      "tr": "Sanjesh-e hajmi: baz az boret ghatre-ghatre be asid ezafe mishavad ta shenasagar noghte-ye ham-arzi ra neshan dahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Ma × Va = Mb × Vb",
+     "caption": {
+      "fa": "برای اسید و باز تک‌ظرفیتی در نقطهٔ هم‌ارزی",
+      "en": "For a monoprotic acid and a one-hydroxide base at the equivalence point",
+      "tr": "Baraye asid va baz-e tak-zarfiyati dar noghte-ye ham-arzi"
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "محلول بافر: ضربه‌گیر اسیدی",
+      "en": "Buffer solutions: a shock absorber for pH",
+      "tr": "Mahlool-e bafer: zarbe-gir-e pH"
+     },
+     "body": {
+      "fa": "«محلول بافر» در برابر تغییر ناگهانی `pH` مقاومت می‌کند: اگر کمی اسید یا باز قوی به آن اضافه شود، آن را خنثی می‌کند و `pH` تقریباً ثابت می‌ماند (آزمون‌های خرداد ۱۳۹۹، دی ۱۳۹۸ و خرداد ۱۳۹۸). بافر از یک اسید ضعیف و نمک باز مزدوج آن ساخته می‌شود (آزمون خرداد ۱۴۰۱): اسید ضعیف باز اضافه را می‌گیرد و باز مزدوج اسید اضافه را. بافر طبیعی خون، سامانهٔ کربنیک اسید و بی‌کربنات (`H2CO3 / HCO3-`) است و `pH` خون را نزدیک ۷٫۴ نگه می‌دارد (آزمون‌های خرداد ۱۴۰۲ و خرداد ۱۴۰۰).",
+      "en": "A \"buffer solution\" resists sudden changes in `pH`: if a little strong acid or base is added, it neutralises it and the `pH` stays almost the same (Khordad 1399, Dey 1398 and Khordad 1398 papers). A buffer is made from a weak acid and a salt of its conjugate base (Khordad 1401 paper): the weak acid takes up added base and the conjugate base takes up added acid. Blood's natural buffer is the carbonic acid and bicarbonate system (`H2CO3 / HCO3-`), which keeps blood `pH` near 7.4 (Khordad 1402 and Khordad 1400 papers).",
+      "tr": "\"Mahlool-e bafer\" dar barabar-e taghyir-e nagahani-ye `pH` moghavemat mikonad: agar kami asid ya baz-e ghavi be an ezafe shavad, an ra khonsa mikonad va `pH` taghriban sabet mimanad (azmoon-haye Khordad 1399, Dey 1398 va Khordad 1398). Bafer az yek asid-e za'if va namak-e baz-e mozdavaj-e an sakhte mishavad (azmoon-e Khordad 1401): asid-e za'if baz-e ezafe ra migirad va baz-e mozdavaj asid-e ezafe ra. Bafer-e tabi'i-ye khoon, samane-ye karbonik asid va bi-karbonat (`H2CO3 / HCO3-`) ast va `pH`-e khoon ra nazdik-e 7.4 negah midarad (azmoon-haye Khordad 1402 va Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " buffer = weak acid + its conj. base\n          (HA)          (A-)\n\n add acid:  A-  + H3O+ -> HA + H2O\n add base:  HA  + OH-  -> A- + H2O\n pH hardly changes either way",
+     "caption": {
+      "fa": "بافر دو نگهبان دارد: باز مزدوج اسید اضافه را می‌گیرد و اسید ضعیف باز اضافه را.",
+      "en": "A buffer has two guards: the conjugate base takes up added acid and the weak acid takes up added base.",
+      "tr": "Bafer do negahban darad: baz-e mozdavaj asid-e ezafe ra migirad va asid-e za'if baz-e ezafe ra."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در سنجش حجمی اسید و باز، نقطه‌ای که مول‌های هیدرونیوم و هیدروکسید برابر می‌شوند چه نام دارد؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Warm-up: in an acid-base titration, what is the point called where the moles of hydronium and hydroxide become equal? (Khordad 1399 paper)",
+      "tr": "Garm kardan: dar sanjesh-e hajmi-ye asid va baz, noghte-i ke mol-haye hidroniyom va hidroksid barabar mishavand che nam darad? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«هم‌ارز» یعنی با ارزش برابر: مول‌ها برابر شده‌اند.",
+        "en": "\"Equivalence\" means of equal worth: the moles have become equal.",
+        "tr": "\"Ham-arz\" ya'ni ba arzesh-e barabar: mol-ha barabar shode-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نقطهٔ هم‌ارزی",
+      "en": "The equivalence point",
+      "tr": "Noghte-ye ham-arzi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: `20 mL` محلول `0.1` مولار `HCl` با چند میلی‌لیتر `NaOH` `0.05` مولار خنثی می‌شود؟",
+      "en": "Textbook and exam: how many millilitres of `0.05` M `NaOH` neutralise `20 mL` of `0.1` M `HCl`?",
+      "tr": "Mas'ale-ye ketab va emtehan: `20 mL` mahlool-e `0.1` molar-e `HCl` ba chand mili-litr `NaOH`-e `0.05` molar khonsa mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در نقطهٔ هم‌ارزی مول‌ها برابرند. هر دو تک‌ظرفیتی‌اند، پس `MV` اسید با `MV` باز برابر است.",
+        "en": "At the equivalence point the moles are equal. Both are one-to-one, so the acid's `MV` equals the base's `MV`.",
+        "tr": "Dar noghte-ye ham-arzi mol-ha barabar-and. Har do tak-zarfiyati-and, pas `MV`-e asid ba `MV`-e baz barabar ast."
+       },
+       "math": "0.1 × 20 = 0.05 × V"
+      },
+      {
+       "text": {
+        "fa": "حل کن. چون باز نصف غلیظ است، دو برابر حجم لازم است.",
+        "en": "Solve. Because the base is half as concentrated, twice the volume is needed.",
+        "tr": "Hal kon. Chon baz nesf ghaliz ast, do barabar hajm lazem ast."
+       },
+       "math": "V = 2 / 0.05 = 40 mL"
+      }
+     ],
+     "answer": {
+      "fa": "`40 mL`",
+      "en": "`40 mL`",
+      "tr": "`40 mL`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: چرا کمی `HCl` به بافر استیک اسید و سدیم استات `pH` را تقریباً عوض نمی‌کند، ولی همان مقدار به آب خالص آن را چند واحد پایین می‌آورد؟",
+      "en": "Exam twist: why does a little `HCl` added to an acetic acid and sodium acetate buffer hardly change the `pH`, while the same amount added to pure water drops it by several units?",
+      "tr": "Pich-e emtehani: chera kami `HCl` be bafer-e asetik asid va sodiyom asetat `pH` ra taghriban avaz nemikonad, vali haman meghdar be ab-e khales an ra chand vahed payin miavarad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، آب خالص: هیچ‌چیز `H3O+` اضافه را نمی‌گیرد، پس همهٔ آن آزاد می‌ماند و `pH` سقوط می‌کند.",
+        "en": "Step one, pure water: nothing takes up the extra `H3O+`, so it all stays free and the `pH` plunges.",
+        "tr": "Ghadam-e avval, ab-e khales: hich-chiz `H3O+`-e ezafe ra nemigirad, pas hame-ye an azad mimanad va `pH` soghoot mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، بافر: یون استات (باز مزدوج) `H3O+` اضافه را می‌گیرد و آن را به استیک اسید ضعیف تبدیل می‌کند که کم یونیده می‌شود.",
+        "en": "Step two, the buffer: the acetate ion (the conjugate base) takes up the extra `H3O+` and turns it into weak acetic acid, which barely ionises.",
+        "tr": "Ghadam-e dovvom, bafer: yoon-e asetat (baz-e mozdavaj) `H3O+`-e ezafe ra migirad va an ra be asetik asid-e za'if tabdil mikonad ke kam yonide mishavad."
+       },
+       "math": "CH3COO- + H3O+ → CH3COOH + H2O"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: `H3O+` آزاد تقریباً زیاد نمی‌شود، پس `pH` تقریباً ثابت می‌ماند. این تا وقتی کار می‌کند که باز مزدوج تمام نشده باشد.",
+        "en": "Step three: the free `H3O+` hardly increases, so the `pH` stays almost constant. This works only until the conjugate base runs out.",
+        "tr": "Ghadam-e sevvom: `H3O+`-e azad taghriban ziyad nemishavad, pas `pH` taghriban sabet mimanad. In ta vaghti kar mikonad ke baz-e mozdavaj tamam nashode bashad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "باز مزدوجِ بافر هیدرونیوم اضافه را به اسید ضعیف تبدیل می‌کند؛ آب خالص چنین نگهبانی ندارد",
+      "en": "The buffer's conjugate base turns the extra hydronium into a weak acid; pure water has no such guard",
+      "tr": "Baz-e mozdavaj-e bafer hidroniyom-e ezafe ra be asid-e za'if tabdil mikonad; ab-e khales chenin negahbani nadarad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بافر از اسید «ضعیف» و نمک باز مزدوجش ساخته می‌شود، نه از اسید قوی (آزمون خرداد ۱۴۰۱).",
+      "en": "A buffer is made from a \"weak\" acid and a salt of its conjugate base, not from a strong acid (Khordad 1401 paper).",
+      "tr": "Bafer az asid-e \"za'if\" va namak-e baz-e mozdavajash sakhte mishavad, na az asid-e ghavi (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بافر `pH` را «ثابت نگه نمی‌دارد» به‌طور کامل؛ فقط جلوی تغییر «ناگهانی» را در برابر مقدار کم اسید یا باز می‌گیرد.",
+      "en": "A buffer does not keep the `pH` \"perfectly fixed\"; it only prevents a \"sudden\" change against small amounts of acid or base.",
+      "tr": "Bafer `pH` ra kamelan \"sabet negah nemidarad\"; faghat jelo-ye taghyir-e \"nagahani\" ra dar barabar-e meghdar-e kam-e asid ya baz migirad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 909
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 933
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1398-Dey",
+     "number": 914
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 937
+    }
+   ]
+  }
+ ]
+}
