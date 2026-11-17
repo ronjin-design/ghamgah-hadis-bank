@@ -1,0 +1,587 @@
+{
+ "version": 140,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Physics",
+   "key": "phys-g-displacement",
+   "term": {
+    "fa": "جابه‌جایی",
+    "en": "displacement",
+    "tr": "jabejayi"
+   },
+   "explain": {
+    "fa": "پیکانی از نقطهٔ شروع تا نقطهٔ پایان حرکت: `Δx = x2 − x1`. جهت دارد، می‌تواند منفی یا صفر باشد و به مسیر میانه کاری ندارد.",
+    "en": "An arrow from the start point to the end point of the motion: `Δx = x2 − x1`. It has a direction, can be negative or zero, and ignores the route in between.",
+    "tr": "Peykani az noghte-ye shoru' ta noghte-ye payan-e harekat: `Δx = x2 − x1`. Jahat darad, mitavanad manfi ya sefr bashad va be masir-e miyane kari nadarad."
+   },
+   "analogy": {
+    "fa": "پیکان مسیریاب از مبدأ تا مقصد.",
+    "en": "A GPS arrow from start to destination.",
+    "tr": "Peykan-e masir-yab az mabda' ta maghsad."
+   },
+   "contrast": {
+    "fa": "یک دور کامل پیست: مسافت زیاد، جابه‌جایی صفر.",
+    "en": "A full lap of a track: lots of distance, zero displacement.",
+    "tr": "Yek dor-e kamel-e pist: masafat-e ziyad, jabejayi-ye sefr."
+   },
+   "unit": "phys-1-displacement-average"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-distance",
+   "term": {
+    "fa": "مسافت پیموده‌شده",
+    "en": "distance travelled",
+    "tr": "masafat-e peymoodeh-shodeh"
+   },
+   "explain": {
+    "fa": "طول کل راهی که جسم پیموده است؛ همیشه مثبت است و هرگز کم نمی‌شود، حتی اگر جسم برگردد.",
+    "en": "The total length of path the object has covered; always positive and never decreasing, even if the object turns back.",
+    "tr": "Tool-e kol-e rahi ke jesm peymoode ast; hamishe mosbat ast va hargez kam nemishavad, hatta agar jesm bargardad."
+   },
+   "analogy": {
+    "fa": "عدد کیلومترشمار ماشین.",
+    "en": "The reading on a car's odometer.",
+    "tr": "Adad-e kilometr-shomar-e mashin."
+   },
+   "contrast": {
+    "fa": "مسافت با جابه‌جایی برابر است فقط اگر جسم برنگردد.",
+    "en": "Distance equals displacement only if the object never turns back.",
+    "tr": "Masafat ba jabejayi barabar ast faghat agar jesm bargardad."
+   },
+   "unit": "phys-1-displacement-average"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-average-velocity",
+   "term": {
+    "fa": "سرعت متوسط",
+    "en": "average velocity",
+    "tr": "sorat-e motavasset"
+   },
+   "explain": {
+    "fa": "جابه‌جایی تقسیم بر بازهٔ زمانی: `v(av) = Δx / Δt`. روی نمودار مکان-زمان، شیب پاره‌خطی است که دو نقطه را به هم وصل می‌کند.",
+    "en": "Displacement divided by the time interval: `v(av) = Δx / Δt`. On a position-time graph, it is the slope of the chord joining the two points.",
+    "tr": "Jabejayi taghsim bar baze-ye zamani: `v(av) = Δx / Δt`. Rooye nemoodar-e makan-zaman, shib-e pare-khatti ast ke do noghte ra be ham vasl mikonad."
+   },
+   "contrast": {
+    "fa": "سرعت متوسط با جابه‌جایی است؛ تندی متوسط با مسافت.",
+    "en": "Average velocity uses displacement; average speed uses distance.",
+    "tr": "Sor'at-e motavasset ba jabejayi ast; tondi-ye motavasset ba masafat."
+   },
+   "unit": "phys-1-displacement-average"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-instantaneous-velocity",
+   "term": {
+    "fa": "سرعت لحظه‌ای",
+    "en": "instantaneous velocity",
+    "tr": "sorat-e lahzei"
+   },
+   "explain": {
+    "fa": "سرعت در یک لحظه: حد سرعت متوسط وقتی `Δt` به صفر میل کند؛ روی نمودار `x-t` برابر شیب خط مماس است.",
+    "en": "The velocity at one instant: the limit of the average velocity as `Δt` approaches zero; on an `x-t` graph it equals the slope of the tangent line.",
+    "tr": "Sor'at dar yek lahze: had-e sor'at-e motavasset vaghti `Δt` be sefr meyl konad; rooye nemoodar-e `x-t` barabar-e shib-e khatt-e momas ast."
+   },
+   "analogy": {
+    "fa": "عقربهٔ سرعت‌سنج ماشین.",
+    "en": "A car's speedometer needle.",
+    "tr": "Aghrabe-ye sor'at-sanj-e mashin."
+   },
+   "unit": "phys-1-instantaneous-velocity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-position-time-graph",
+   "term": {
+    "fa": "نمودار مکان-زمان",
+    "en": "position-time graph",
+    "tr": "nemoodar-e makan-zaman"
+   },
+   "explain": {
+    "fa": "نمودار `x` بر حسب `t`. شیب مماس سرعت لحظه‌ای و شیب پاره‌خط سرعت متوسط است. خط راست شیب‌دار یعنی سرعت ثابت؛ سهمی یعنی شتاب ثابت.",
+    "en": "The graph of `x` against `t`. The tangent's slope is the instantaneous velocity and the chord's slope the average velocity. A sloping straight line means constant velocity; a parabola means constant acceleration.",
+    "tr": "Nemoodar-e `x` bar hasab-e `t`. Shib-e momas sor'at-e lahze-i va shib-e pare-khatt sor'at-e motavasset ast. Khatt-e rast-e shib-dar ya'ni sor'at-e sabet; sahmi ya'ni shetab-e sabet."
+   },
+   "contrast": {
+    "fa": "مکان صفر یعنی در مبدأ، نه ساکن؛ سکون یعنی شیب صفر.",
+    "en": "Zero position means at the origin, not at rest; rest means zero slope.",
+    "tr": "Makan-e sefr ya'ni dar mabda', na saken; sokoon ya'ni shib-e sefr."
+   },
+   "unit": "phys-1-instantaneous-velocity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-horizontal-xt",
+   "term": {
+    "fa": "نمودار مکان-زمان افقی",
+    "en": "horizontal position-time graph",
+    "tr": "nemoodar-e makan-zaman-e ofoghi"
+   },
+   "explain": {
+    "fa": "اگر نمودار `x-t` در یک بازه افقی باشد، مکان تغییر نمی‌کند: شیب صفر، پس سرعت لحظه‌ای صفر و جسم ساکن است.",
+    "en": "If the `x-t` graph is horizontal over an interval, the position does not change: zero slope, so the instantaneous velocity is zero and the object is at rest.",
+    "tr": "Agar nemoodar-e `x-t` dar yek baze ofoghi bashad, makan taghyir nemikonad: shib-e sefr, pas sor'at-e lahze-i sefr va jesm saken ast."
+   },
+   "contrast": {
+    "fa": "`x-t` افقی یعنی سکون؛ `v-t` افقی یعنی سرعت ثابت.",
+    "en": "A horizontal `x-t` means rest; a horizontal `v-t` means constant velocity.",
+    "tr": "`x-t`-e ofoghi ya'ni sokoon; `v-t`-e ofoghi ya'ni sor'at-e sabet."
+   },
+   "unit": "phys-1-instantaneous-velocity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-constant-velocity",
+   "term": {
+    "fa": "حرکت با سرعت ثابت",
+    "en": "constant velocity motion",
+    "tr": "harekat ba sorat-e sabet"
+   },
+   "explain": {
+    "fa": "حرکت روی خط راست با جابه‌جایی‌های برابر در زمان‌های برابر: `x = v t + x0`. شتاب در هر لحظه صفر است؛ نمودار `x-t` خط راست شیب‌دار و نمودار `v-t` خط افقی است.",
+    "en": "Straight-line motion with equal displacements in equal times: `x = v t + x0`. The acceleration is zero at every instant; the `x-t` graph is a sloping straight line and the `v-t` graph a horizontal line.",
+    "tr": "Harekat rooye khatt-e rast ba jabejayi-haye barabar dar zaman-haye barabar: `x = v t + x0`. Shetab dar har lahze sefr ast; nemoodar-e `x-t` khatt-e rast-e shib-dar va nemoodar-e `v-t` khatt-e ofoghi ast."
+   },
+   "matches": {
+    "en": [
+     "constant velocity"
+    ]
+   },
+   "analogy": {
+    "fa": "ماشینی با کروز کنترل در جادهٔ مستقیم.",
+    "en": "A car on cruise control on a straight road.",
+    "tr": "Mashini ba kruz kontrol dar jadde-ye mostaghim."
+   },
+   "contrast": {
+    "fa": "سرعت منفی ولی ثابت هم شتاب صفر دارد.",
+    "en": "A negative but constant velocity also has zero acceleration.",
+    "tr": "Sor'at-e manfi vali sabet ham shetab-e sefr darad."
+   },
+   "unit": "phys-1-constant-velocity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-average-acceleration",
+   "term": {
+    "fa": "شتاب متوسط",
+    "en": "average acceleration",
+    "tr": "shetab-e motavasset"
+   },
+   "explain": {
+    "fa": "تغییر سرعت تقسیم بر بازهٔ زمانی آن: `a(av) = Δv / Δt`، با یکای `m/s^2`.",
+    "en": "The change in velocity divided by its time interval: `a(av) = Δv / Δt`, in `m/s^2`.",
+    "tr": "Taghyir-e sor'at taghsim bar baze-ye zamani-ye an: `a(av) = Δv / Δt`, ba yeka-ye `m/s^2`."
+   },
+   "unit": "phys-1-acceleration-vt"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-instantaneous-acceleration",
+   "term": {
+    "fa": "شتاب لحظه‌ای",
+    "en": "instantaneous acceleration",
+    "tr": "shetab-e lahzei"
+   },
+   "explain": {
+    "fa": "شتاب در یک لحظه؛ برابر شیب خط مماس بر نمودار سرعت-زمان در آن لحظه.",
+    "en": "The acceleration at one instant; equal to the slope of the tangent to the velocity-time graph at that instant.",
+    "tr": "Shetab dar yek lahze; barabar-e shib-e khatt-e momas bar nemoodar-e sor'at-zaman dar an lahze."
+   },
+   "contrast": {
+    "fa": "شیب `x-t` سرعت است؛ شیب `v-t` شتاب.",
+    "en": "The slope of `x-t` is velocity; the slope of `v-t` is acceleration.",
+    "tr": "Shib-e `x-t` sor'at ast; shib-e `v-t` shetab."
+   },
+   "unit": "phys-1-acceleration-vt"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-velocity-time-graph",
+   "term": {
+    "fa": "نمودار سرعت-زمان",
+    "en": "velocity-time graph",
+    "tr": "nemoodar-e sorat-zaman"
+   },
+   "explain": {
+    "fa": "نمودار `v` بر حسب `t`: شیبش شتاب و مساحت میان نمودار و محور زمان جابه‌جایی است. سرعت ثابت خط افقی، شتاب ثابت خط شیب‌دار.",
+    "en": "The graph of `v` against `t`: its slope is the acceleration and the area between the graph and the time axis is the displacement. Constant velocity is a horizontal line; constant acceleration a sloping line.",
+    "tr": "Nemoodar-e `v` bar hasab-e `t`: shibash shetab va masahat-e miyan-e nemoodar va mehvar-e zaman jabejayi ast. Sor'at-e sabet khatt-e ofoghi, shetab-e sabet khatt-e shib-dar."
+   },
+   "analogy": {
+    "fa": "شیب می‌گوید چقدر تند عوض می‌شود؛ مساحت می‌گوید چقدر راه رفته.",
+    "en": "The slope says how fast it is changing; the area says how far it has gone.",
+    "tr": "Shib migooyad cheghadr tond avaz mishavad; masahat migooyad cheghadr rah rafte."
+   },
+   "contrast": {
+    "fa": "مساحت زیر محور منفی شمرده می‌شود.",
+    "en": "Area below the axis counts as negative.",
+    "tr": "Masahat-e zir-e mehvar manfi shomorde mishavad."
+   },
+   "unit": "phys-1-acceleration-vt"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-area",
+   "term": {
+    "fa": "مساحت",
+    "en": "area",
+    "tr": "masahat"
+   },
+   "explain": {
+    "fa": "در نمودار سرعت-زمان، مساحت میان نمودار و محور زمان در یک بازه جابه‌جایی است، چون سرعت ضرب در زمان جابه‌جایی است.",
+    "en": "On a velocity-time graph, the area between the graph and the time axis over an interval is the displacement, because velocity times time is displacement.",
+    "tr": "Dar nemoodar-e sor'at-zaman, masahat-e miyan-e nemoodar va mehvar-e zaman dar yek baze jabejayi ast, chon sor'at zarb dar zaman jabejayi ast."
+   },
+   "contrast": {
+    "fa": "مساحت بالای محور مثبت، زیر محور منفی.",
+    "en": "Area above the axis is positive, below it negative.",
+    "tr": "Masahat-e bala-ye mehvar mosbat, zir-e mehvar manfi."
+   },
+   "unit": "phys-1-acceleration-vt"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-area-under-graph",
+   "term": {
+    "fa": "سطح زیر نمودار",
+    "en": "area under the graph",
+    "tr": "sath-e zir-e nemoodar"
+   },
+   "explain": {
+    "fa": "برای جابه‌جایی، مساحت‌ها را با علامت جمع کن؛ برای مسافت، قدر مطلق همهٔ مساحت‌ها را. اگر نمودار از محور زمان بگذرد، این دو با هم فرق دارند.",
+    "en": "For displacement, add the areas with their signs; for distance, add the absolute values of all the areas. If the graph crosses the time axis, the two differ.",
+    "tr": "Baraye jabejayi, masahat-ha ra ba alamat jam' kon; baraye masafat, ghadr-e motlagh-e hame-ye masahat-ha ra. Agar nemoodar az mehvar-e zaman begozarad, in do ba ham fargh darand."
+   },
+   "contrast": {
+    "fa": "`v = 10 − 2t` از `0` تا `8`: جابه‌جایی `16 m`، مسافت `34 m`.",
+    "en": "`v = 10 − 2t` from `0` to `8`: displacement `16 m`, distance `34 m`.",
+    "tr": "`v = 10 − 2t` az `0` ta `8`: jabejayi `16 m`, masafat `34 m`."
+   },
+   "unit": "phys-1-acceleration-vt"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-constant-acceleration",
+   "term": {
+    "fa": "شتاب ثابت",
+    "en": "constant acceleration",
+    "tr": "shetab-e sabet"
+   },
+   "explain": {
+    "fa": "شتابی که در طول حرکت تغییر نمی‌کند. اگر نمودار `x-t` سهمی باشد، شتاب ثابت و غیرصفر است؛ نمودار `v-t` آن خط راست شیب‌دار است.",
+    "en": "An acceleration that does not change during the motion. If the `x-t` graph is a parabola, the acceleration is constant and non-zero; its `v-t` graph is a sloping straight line.",
+    "tr": "Shetabi ke dar tool-e harekat taghyir nemikonad. Agar nemoodar-e `x-t` sahmi bashad, shetab sabet va gheyr-e sefr ast; nemoodar-e `v-t`-e an khatt-e rast-e shib-dar ast."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-constant-acceleration-motion",
+   "term": {
+    "fa": "حرکت با شتاب ثابت",
+    "en": "constant acceleration motion",
+    "tr": "harekat ba shetab-e sabet"
+   },
+   "explain": {
+    "fa": "حرکتی که سرعتش با آهنگ یکنواخت تغییر می‌کند. چهار معادله دارد؛ از حال سکون `Δx = (1/2) a t^2`، پس مسافت با مربع زمان متناسب است.",
+    "en": "Motion whose velocity changes at a steady rate. It has four equations; from rest `Δx = (1/2) a t^2`, so the distance is proportional to the square of the time.",
+    "tr": "Harekati ke sor'atash ba ahang-e yeknavakht taghyir mikonad. Chahar moadele darad; az hal-e sokoon `Δx = (1/2) a t^2`, pas masafat ba morabba'-e zaman motenaseb ast."
+   },
+   "analogy": {
+    "fa": "پدال گاز با فشار ثابت.",
+    "en": "The accelerator held at a steady pressure.",
+    "tr": "Pedal-e gaz ba feshar-e sabet."
+   },
+   "contrast": {
+    "fa": "فاصله‌های ثانیه‌های پیاپی از حال سکون به نسبت `1 : 3 : 5` اند.",
+    "en": "Distances in successive seconds from rest are in the ratio `1 : 3 : 5`.",
+    "tr": "Fasele-haye sanie-haye peyapey az hal-e sokoon be nesbat-e `1 : 3 : 5`-and."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-velocity-change",
+   "term": {
+    "fa": "تغییرات سرعت",
+    "en": "velocity change",
+    "tr": "taghyirat-e sorat"
+   },
+   "explain": {
+    "fa": "`Δv = v − v0`. در شتاب ثابت، تغییر سرعت با بازهٔ زمانی متناسب است: `Δv = a Δt`.",
+    "en": "`Δv = v − v0`. With constant acceleration, the change in velocity is proportional to the time interval: `Δv = a Δt`.",
+    "tr": "`Δv = v − v0`. Dar shetab-e sabet, taghyir-e sor'at ba baze-ye zamani motenaseb ast: `Δv = a Δt`."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-time-independent",
+   "term": {
+    "fa": "معادلهٔ مستقل از زمان",
+    "en": "time-independent equation",
+    "tr": "moadeleh-ye mostaghel az zaman"
+   },
+   "explain": {
+    "fa": "`v^2 − v0^2 = 2 a Δx`: معادلهٔ حرکت با شتاب ثابت که زمان در آن نیست؛ وقتی زمان نه داده شده و نه خواسته شده، آن را بردار.",
+    "en": "`v^2 − v0^2 = 2 a Δx`: the constant-acceleration equation with no time in it; use it when time is neither given nor asked for.",
+    "tr": "`v^2 − v0^2 = 2 a Δx`: moadele-ye harekat ba shetab-e sabet ke zaman dar an nist; vaghti zaman na dade shode va na khaste shode, an ra bardar."
+   },
+   "matches": {
+    "fa": [
+     "معادله مستقل از زمان"
+    ]
+   },
+   "contrast": {
+    "fa": "برای ترمز، `a` منفی است.",
+    "en": "For braking, `a` is negative.",
+    "tr": "Baraye tormoz, `a` manfi ast."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-stopping-distance",
+   "term": {
+    "fa": "مسافت توقف",
+    "en": "stopping distance",
+    "tr": "masafat-e tavaghof"
+   },
+   "explain": {
+    "fa": "مسافتی که خودرو از لحظهٔ ترمز تا ایستادن می‌پیماید؛ از `0 − v0^2 = 2 a Δx` با `a` منفی. برای `20 m/s` و `−5 m/s^2`، `40` متر است.",
+    "en": "The distance a car covers from braking to stopping; from `0 − v0^2 = 2 a Δx` with negative `a`. For `20 m/s` and `−5 m/s^2`, it is `40` m.",
+    "tr": "Masafati ke khodro az lahze-ye tormoz ta istadan mipeymayad; az `0 − v0^2 = 2 a Δx` ba `a`-ye manfi. Baraye `20 m/s` va `−5 m/s^2`, `40` metr ast."
+   },
+   "contrast": {
+    "fa": "دو برابر شدن سرعت، مسافت توقف را چهار برابر می‌کند.",
+    "en": "Doubling the speed makes the stopping distance four times longer.",
+    "tr": "Do barabar shodan-e sor'at, masafat-e tavaghof ra chahar barabar mikonad."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-deceleration",
+   "term": {
+    "fa": "شتاب منفی",
+    "en": "deceleration",
+    "tr": "shetab-e manfi"
+   },
+   "explain": {
+    "fa": "در اینجا یعنی شتاب مخالف جهت حرکت، که جسم را کند می‌کند، مثل ترمز. اگر جهت حرکت مثبت است، `a` را منفی بگذار.",
+    "en": "Here it means acceleration opposite to the direction of motion, which slows the object down, as in braking. If the motion is in the positive direction, make `a` negative.",
+    "tr": "Dar inja ya'ni shetab-e mokhalef-e jahat-e harekat, ke jesm ra kond mikonad, mesl-e tormoz. Agar jahat-e harekat mosbat ast, `a` ra manfi begozar."
+   },
+   "contrast": {
+    "fa": "شتاب منفی همیشه کند شدن نیست؛ اگر سرعت هم منفی باشد، جسم تند می‌شود.",
+    "en": "A negative acceleration is not always slowing down; if the velocity is negative too, the object speeds up.",
+    "tr": "Shetab-e manfi hamishe kond shodan nist; agar sor'at ham manfi bashad, jesm tond mishavad."
+   },
+   "unit": "phys-1-constant-acceleration"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-free-fall",
+   "term": {
+    "fa": "سقوط آزاد",
+    "en": "free fall",
+    "tr": "soghoot-e azad"
+   },
+   "explain": {
+    "fa": "حرکت فقط زیر اثر گرانش، بی مقاومت هوا: شتاب ثابت `g ≈ 10 m/s^2` رو به پایین. از حال سکون، `v = g t` و `h = (1/2) g t^2`.",
+    "en": "Motion under gravity alone, without air resistance: a constant acceleration `g ≈ 10 m/s^2` downwards. From rest, `v = g t` and `h = (1/2) g t^2`.",
+    "tr": "Harekat faghat zir-e asar-e geranesh, bi moghavemat-e hava: shetab-e sabet-e `g ≈ 10 m/s^2` roo be payin. Az hal-e sokoon, `v = g t` va `h = (1/2) g t^2`."
+   },
+   "analogy": {
+    "fa": "در خلأ، پَر و چکش با هم می‌رسند.",
+    "en": "In a vacuum, a feather and a hammer land together.",
+    "tr": "Dar khala', par va chakosh ba ham miresand."
+   },
+   "contrast": {
+    "fa": "فاصلهٔ سقوط با مربع زمان متناسب است، نه با خود زمان.",
+    "en": "The distance fallen goes with the square of the time, not the time itself.",
+    "tr": "Fasele-ye soghoot ba morabba'-e zaman motenaseb ast, na ba khod-e zaman."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-gravitational-acceleration",
+   "term": {
+    "fa": "شتاب گرانش",
+    "en": "gravitational acceleration",
+    "tr": "shetab-e geranesh"
+   },
+   "explain": {
+    "fa": "شتابی که گرانش زمین به هر جسم آزاد می‌دهد: `g ≈ 9.8`، در مسئله‌ها معمولاً `10 m/s^2`، همیشه رو به پایین و مستقل از جرم.",
+    "en": "The acceleration Earth's gravity gives any free object: `g ≈ 9.8`, usually `10 m/s^2` in problems, always downwards and independent of mass.",
+    "tr": "Shetabi ke geranesh-e zamin be har jesm-e azad midahad: `g ≈ 9.8`, dar mas'ale-ha ma'moolan `10 m/s^2`, hamishe roo be payin va mostaghel az jerm."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-fall-time",
+   "term": {
+    "fa": "زمان سقوط",
+    "en": "fall time",
+    "tr": "zaman-e soghoot"
+   },
+   "explain": {
+    "fa": "زمانی که جسم رهاشده تا زمین طول می‌کشد: از `h = (1/2) g t^2`، `t = √(2h/g)`. برای `45` متر، `3` ثانیه.",
+    "en": "The time a dropped object takes to reach the ground: from `h = (1/2) g t^2`, `t = √(2h/g)`. For `45` m, `3` s.",
+    "tr": "Zamani ke jesm-e raha-shode ta zamin tool mikeshad: az `h = (1/2) g t^2`, `t = √(2h/g)`. Baraye `45` metr, `3` sanie."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-impact-velocity",
+   "term": {
+    "fa": "سرعت برخورد",
+    "en": "impact velocity",
+    "tr": "sorat-e barkhord"
+   },
+   "explain": {
+    "fa": "سرعت جسم درست پیش از رسیدن به زمین: `v = g t` یا `v = √(2 g h)`. برای `45` متر، `30 m/s` رو به پایین.",
+    "en": "The object's velocity just before it hits the ground: `v = g t` or `v = √(2 g h)`. For `45` m, `30 m/s` downwards.",
+    "tr": "Sor'at-e jesm dorost pish az residan be zamin: `v = g t` ya `v = √(2 g h)`. Baraye `45` metr, `30 m/s` roo be payin."
+   },
+   "contrast": {
+    "fa": "جهت را هم بنویس: سرعت بردار است.",
+    "en": "Give the direction too: velocity is a vector.",
+    "tr": "Jahat ra ham benevis: sor'at bordar ast."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-position-time-equation",
+   "term": {
+    "fa": "معادلهٔ مکان-زمان",
+    "en": "position-time equation",
+    "tr": "moadeleh-ye makan-zaman"
+   },
+   "explain": {
+    "fa": "معادلهٔ مکان بر حسب زمان در شتاب ثابت: `x = (1/2) a t^2 + v0 t + x0`؛ برای سقوط آزاد از حال سکون `h = (1/2) g t^2`.",
+    "en": "The equation for position as a function of time under constant acceleration: `x = (1/2) a t^2 + v0 t + x0`; for free fall from rest, `h = (1/2) g t^2`.",
+    "tr": "Moadele-ye makan bar hasab-e zaman dar shetab-e sabet: `x = (1/2) a t^2 + v0 t + x0`; baraye soghoot-e azad az hal-e sokoon `h = (1/2) g t^2`."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-projectile-motion",
+   "term": {
+    "fa": "حرکت پرتابی",
+    "en": "projectile motion",
+    "tr": "harekat-e partabi"
+   },
+   "explain": {
+    "fa": "حرکت جسم پرتاب‌شده زیر اثر گرانش. شتاب در تمام مسیر، حتی در بالاترین نقطه، `g` رو به پایین است. در پرتاب دوبعدی، مؤلفهٔ افقی سرعت `vx` ثابت می‌ماند، پس سرعت در بالاترین نقطه همان `vx` است.",
+    "en": "The motion of a thrown object under gravity. The acceleration along the whole path, even at the highest point, is `g` downwards. In a two-dimensional throw the horizontal velocity component `vx` stays constant, so the velocity at the highest point is just `vx`.",
+    "tr": "Harekat-e jesm-e partab-shode zir-e asar-e geranesh. Shetab dar tamam-e masir, hatta dar bala-tarin noghte, `g` roo be payin ast. Dar partab-e do-bo'di, mo'allefe-ye ofoghi-ye sor'at `vx` sabet mimanad, pas sor'at dar bala-tarin noghte haman `vx` ast."
+   },
+   "matches": {
+    "en": [
+     "projectile acceleration"
+    ]
+   },
+   "contrast": {
+    "fa": "در بالاترین نقطه سرعت قائم صفر است، نه شتاب.",
+    "en": "At the highest point the vertical velocity is zero, not the acceleration.",
+    "tr": "Dar bala-tarin noghte sor'at-e gha'em sefr ast, na shetab."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-projectile-range",
+   "term": {
+    "fa": "برد پرتابه",
+    "en": "projectile range",
+    "tr": "bord-e partabeh"
+   },
+   "explain": {
+    "fa": "فاصلهٔ افقی که پرتابه تا برگشت به ارتفاع پرتاب می‌پیماید؛ با `vx` ضرب در زمان پرواز به‌دست می‌آید.",
+    "en": "The horizontal distance a projectile covers until it returns to its launch height; found as `vx` times the flight time.",
+    "tr": "Fasele-ye ofoghi ke partabe ta bargasht be ertefa'-e partab mipeymayad; ba `vx` zarb dar zaman-e parvaz be-dast miayad."
+   },
+   "unit": "phys-1-free-fall"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-q-cv",
+   "term": {
+    "fa": "Q = CV",
+    "en": "Q = CV",
+    "tr": "Q = CV"
+   },
+   "explain": {
+    "fa": "بار خازن (`Q`، کولن) برابر ظرفیت (`C`، فاراد) ضرب در ولتاژ دو سر آن (`V`، ولت) است. این پرسش از فیزیک ۲ (پایهٔ یازدهم) است.",
+    "en": "A capacitor's charge (`Q`, coulombs) equals its capacitance (`C`, farads) times the voltage across it (`V`, volts). This question is from Physics 2 (Grade 11).",
+    "tr": "Bar-e khazen (`Q`, koolon) barabar-e zarfiyat (`C`, farad) zarb dar voltazh-e do sar-e an (`V`, volt) ast. In porsesh az fizik 2 (paye-ye yazdahom) ast."
+   },
+   "analogy": {
+    "fa": "خازن مثل سطلی است که ظرفیتش `C` و فشار پرکردنش `V` است.",
+    "en": "A capacitor is like a bucket whose size is `C` and whose filling pressure is `V`.",
+    "tr": "Khazen mesl-e satli ast ke zarfiyatash `C` va feshar-e por-kardanash `V` ast."
+   }
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-u-half-cv2",
+   "term": {
+    "fa": "U = ½CV²",
+    "en": "U = ½CV²",
+    "tr": "U = ½CV²"
+   },
+   "explain": {
+    "fa": "انرژی ذخیره‌شده در خازن: `U = (1/2) C V^2` (ژول). چون با مربع ولتاژ متناسب است، دو برابر شدن ولتاژ انرژی را چهار برابر می‌کند.",
+    "en": "The energy stored in a capacitor: `U = (1/2) C V^2` (joules). Because it goes with the square of the voltage, doubling the voltage makes the energy four times larger.",
+    "tr": "Enerzhi-ye zakhire-shode dar khazen: `U = (1/2) C V^2` (zhool). Chon ba morabba'-e voltazh motenaseb ast, do barabar shodan-e voltazh enerzhi ra chahar barabar mikonad."
+   },
+   "contrast": {
+    "fa": "یادت باشد ضریب `1/2` را بنویسی.",
+    "en": "Remember to include the factor `1/2`.",
+    "tr": "Yadat bashad zarib-e `1/2` ra benevisi."
+   }
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-convert-uf",
+   "term": {
+    "fa": "میکروفاراد را به فاراد تبدیل کنید",
+    "en": "Convert μF to F",
+    "tr": "mikrofarad ra be farad tabdil konid"
+   },
+   "explain": {
+    "fa": "پیش از جایگذاری، ظرفیت را به فاراد ببر: `1 μF = 10^-6 F`. مثلاً `20 μF = 2 × 10^-5 F`.",
+    "en": "Before substituting, convert the capacitance to farads: `1 μF = 10^-6 F`. For example, `20 μF = 2 × 10^-5 F`.",
+    "tr": "Pish az jaygozari, zarfiyat ra be farad bebar: `1 μF = 10^-6 F`. Masalan `20 μF = 2 × 10^-5 F`."
+   },
+   "contrast": {
+    "fa": "فراموش کردن این تبدیل پاسخ را میلیون برابر بزرگ می‌کند.",
+    "en": "Forgetting this conversion makes the answer a million times too big.",
+    "tr": "Faramoosh kardan-e in tabdil pasokh ra milyoon barabar bozorg mikonad."
+   }
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-unit",
+   "term": {
+    "fa": "یکا",
+    "en": "unit",
+    "tr": "yeka"
+   },
+   "explain": {
+    "fa": "پاسخ عددی بدون یکا کامل نیست: بار با کولن (`C`)، انرژی با ژول (`J`)، ظرفیت با فاراد (`F`). در پاسخ تشریحی، یکا بخشی از نمره است.",
+    "en": "A numerical answer without its unit is incomplete: charge in coulombs (`C`), energy in joules (`J`), capacitance in farads (`F`). In a written answer, the unit earns part of the mark.",
+    "tr": "Pasokh-e adadi bedoon-e yeka kamel nist: bar ba koolon (`C`), enerzhi ba zhool (`J`), zarfiyat ba farad (`F`). Dar pasokh-e tashrihi, yeka bakhshi az nomre ast."
+   }
+  }
+ ]
+}
