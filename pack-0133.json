@@ -1,0 +1,736 @@
+{
+ "version": 133,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-oxidation",
+   "term": {
+    "fa": "اکسایش",
+    "en": "oxidation",
+    "tr": "oksayesh"
+   },
+   "explain": {
+    "fa": "از دست دادن الکترون؛ عدد اکسایش بالا می‌رود. مثل `Zn → Zn2+ + 2e-`. در هر سلول، اکسایش همیشه در آند رخ می‌دهد.",
+    "en": "Losing electrons; the oxidation number goes up, as in `Zn → Zn2+ + 2e-`. In every cell, oxidation always happens at the anode.",
+    "tr": "Az dast dadan-e elektron; adad-e oksayesh bala miravad. Mesl-e `Zn → Zn2+ + 2e-`. Dar har sellool, oksayesh hamishe dar anod rokh midahad."
+   },
+   "matches": {
+    "en": [
+     "oxidised"
+    ]
+   },
+   "analogy": {
+    "fa": "در طناب‌کشی الکترون، بازنده اکسید می‌شود.",
+    "en": "In the electron tug-of-war, the loser is oxidised.",
+    "tr": "Dar tanab-keshi-ye elektron, bazande oksid mishavad."
+   },
+   "contrast": {
+    "fa": "گونه‌ای که اکسید می‌شود «کاهنده» است، نه اکسنده.",
+    "en": "The species that is oxidised is the \"reducing agent\", not the oxidising agent.",
+    "tr": "Goone-i ke oksid mishavad \"kahande\" ast, na oksande."
+   },
+   "unit": "chem-2-redox-ladder"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-reduction",
+   "term": {
+    "fa": "کاهش",
+    "en": "reduced",
+    "tr": "kahesh"
+   },
+   "explain": {
+    "fa": "گرفتن الکترون؛ عدد اکسایش پایین می‌آید، مثل `Ag+ + e- → Ag`. کاهش همیشه در کاتد رخ می‌دهد.",
+    "en": "Gaining electrons; the oxidation number goes down, as in `Ag+ + e- → Ag`. Reduction always happens at the cathode.",
+    "tr": "Gereftan-e elektron; adad-e oksayesh payin miayad, mesl-e `Ag+ + e- → Ag`. Kahesh hamishe dar katod rokh midahad."
+   },
+   "matches": {
+    "en": [
+     "reduction"
+    ]
+   },
+   "analogy": {
+    "fa": "در طناب‌کشی الکترون، برنده کاهش می‌یابد.",
+    "en": "In the electron tug-of-war, the winner is reduced.",
+    "tr": "Dar tanab-keshi-ye elektron, barande kahesh miyabad."
+   },
+   "contrast": {
+    "fa": "رمز: «آند-اکسایش، کاتد-کاهش».",
+    "en": "Memory trick: \"AN OX, RED CAT\".",
+    "tr": "Ramz: \"anod-oksayesh, katod-kahesh\"."
+   },
+   "unit": "chem-2-redox-ladder"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-standard-potential",
+   "term": {
+    "fa": "پتانسیل استاندارد",
+    "en": "standard potential",
+    "tr": "potansiel-e estandard"
+   },
+   "explain": {
+    "fa": "پتانسیل کاهشی استاندارد (`E°`): میزان تمایل یک نیم‌واکنش به کاهش، نسبت به الکترود استاندارد هیدروژن (صفر). `E°` بزرگ‌تر یعنی اکسندهٔ قوی‌تر و در سلول، کاتد.",
+    "en": "The standard reduction potential (`E°`): how strongly a half-reaction tends to be reduced, measured against the standard hydrogen electrode (zero). A larger `E°` means a stronger oxidising agent and, in a cell, the cathode.",
+    "tr": "Potansiyel-e kaheshi-ye estandard (`E°`): mizan-e tamayol-e yek nim-vakonesh be kahesh, nesbat be elektrod-e estandard-e hidrozhen (sefr). `E°`-e bozorg-tar ya'ni oksande-ye ghavi-tar va dar sellool, katod."
+   },
+   "analogy": {
+    "fa": "زور هر تیم در طناب‌کشی الکترون.",
+    "en": "Each team's pulling strength in the electron tug-of-war.",
+    "tr": "Zoor-e har tim dar tanab-keshi-ye elektron."
+   },
+   "contrast": {
+    "fa": "هنگام ضرب نیم‌واکنش در عدد، `E°` را ضرب نکن.",
+    "en": "When you multiply a half-reaction by a number, do not multiply `E°`.",
+    "tr": "Hengam-e zarb-e nim-vakonesh dar adad, `E°` ra zarb nakon."
+   },
+   "unit": "chem-2-redox-ladder"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-galvanic-cell",
+   "term": {
+    "fa": "سلول گالوانی",
+    "en": "galvanic cell",
+    "tr": "selool-e galvani"
+   },
+   "explain": {
+    "fa": "سلولی که انرژی یک واکنش اکسایش-کاهش خودبه‌خودی را به انرژی الکتریکی تبدیل می‌کند. دو نیم‌سلول با سیم و پل نمکی به هم وصل‌اند؛ آند قطب منفی و کاتد قطب مثبت است.",
+    "en": "A cell that turns the energy of a spontaneous redox reaction into electrical energy. Two half-cells are joined by a wire and a salt bridge; the anode is the negative pole and the cathode the positive.",
+    "tr": "Sellooli ke enerzhi-ye yek vakonesh-e oksayesh-kahesh-e khod-be-khodi ra be enerzhi-ye elektriki tabdil mikonad. Do nim-sellool ba sim va pol-e namaki be ham vasl-and; anod ghotb-e manfi va katod ghotb-e mosbat ast."
+   },
+   "analogy": {
+    "fa": "آبشاری که سرازیر می‌شود و توربین را می‌چرخاند.",
+    "en": "A waterfall running downhill and turning a turbine.",
+    "tr": "Abshari ke sarazir mishavad va toorbin ra micharkhanad."
+   },
+   "contrast": {
+    "fa": "در سلول گالوانی آند منفی است؛ در سلول الکترولیتی مثبت.",
+    "en": "In a galvanic cell the anode is negative; in an electrolytic cell it is positive.",
+    "tr": "Dar sellool-e galvani anod manfi ast; dar sellool-e elektroliti mosbat."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-anode",
+   "term": {
+    "fa": "آند",
+    "en": "anode",
+    "tr": "anode"
+   },
+   "explain": {
+    "fa": "الکترودی که در آن اکسایش رخ می‌دهد و الکترون‌ها از آن بیرون می‌روند. در سلول گالوانی، فلز با `E°` کمتر آند است و جرمش کم می‌شود.",
+    "en": "The electrode where oxidation happens and electrons leave. In a galvanic cell, the metal with the lower `E°` is the anode and loses mass.",
+    "tr": "Elektrodi ke dar an oksayesh rokh midahad va elektron-ha az an biroon miravand. Dar sellool-e galvani, felez ba `E°`-e kamtar anod ast va jermash kam mishavad."
+   },
+   "matches": {
+    "tr": [
+     "anod"
+    ]
+   },
+   "contrast": {
+    "fa": "آند همیشه جای اکسایش است؛ فقط علامتش بین سلول گالوانی و الکترولیتی عوض می‌شود.",
+    "en": "The anode is always where oxidation is; only its sign changes between galvanic and electrolytic cells.",
+    "tr": "Anod hamishe ja-ye oksayesh ast; faghat alamatash beyn-e sellool-e galvani va elektroliti avaz mishavad."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-cathode",
+   "term": {
+    "fa": "کاتد",
+    "en": "cathode",
+    "tr": "cathode"
+   },
+   "explain": {
+    "fa": "الکترودی که در آن کاهش رخ می‌دهد و الکترون‌ها به آن می‌رسند. در سلول گالوانی، نیم‌سلول با `E°` بزرگ‌تر کاتد است و فلز روی آن می‌نشیند.",
+    "en": "The electrode where reduction happens and electrons arrive. In a galvanic cell, the half-cell with the larger `E°` is the cathode and metal deposits on it.",
+    "tr": "Elektrodi ke dar an kahesh rokh midahad va elektron-ha be an miresand. Dar sellool-e galvani, nim-sellool ba `E°`-e bozorg-tar katod ast va felez rooye an mineshinad."
+   },
+   "matches": {
+    "tr": [
+     "katod"
+    ]
+   },
+   "contrast": {
+    "fa": "کاتد در سلول گالوانی مثبت و در سلول الکترولیتی منفی است.",
+    "en": "The cathode is positive in a galvanic cell and negative in an electrolytic cell.",
+    "tr": "Katod dar sellool-e galvani mosbat va dar sellool-e elektroliti manfi ast."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-anode-electrode",
+   "term": {
+    "fa": "الکترود آند",
+    "en": "anode electrode",
+    "tr": "electrode-e anode"
+   },
+   "explain": {
+    "fa": "همان الکترودی که اکسایش در آن انجام می‌شود. در مدار بیرونی، الکترون‌ها از الکترود آند به سوی الکترود کاتد جریان می‌یابند.",
+    "en": "The electrode at which oxidation takes place. In the outer circuit, electrons flow from the anode electrode towards the cathode electrode.",
+    "tr": "Haman elektrodi ke oksayesh dar an anjam mishavad. Dar madar-e birooni, elektron-ha az elektrod-e anod be sooye elektrod-e katod jaryan miyaband."
+   },
+   "contrast": {
+    "fa": "جهت الکترون‌ها در سیم: همیشه از آند به کاتد.",
+    "en": "Direction of electrons in the wire: always anode to cathode.",
+    "tr": "Jahat-e elektron-ha dar sim: hamishe az anod be katod."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-cathode-electrode",
+   "term": {
+    "fa": "الکترود کاتد",
+    "en": "cathode electrode",
+    "tr": "electrode-e cathode"
+   },
+   "explain": {
+    "fa": "الکترودی که الکترون‌های مدار بیرونی به آن می‌رسند و گونه‌ای روی آن کاهش می‌یابد؛ مثلاً در برقکافت آب، گاز هیدروژن روی الکترود کاتد آزاد می‌شود.",
+    "en": "The electrode that receives electrons from the outer circuit and where a species is reduced; in the electrolysis of water, for example, hydrogen gas is released at the cathode electrode.",
+    "tr": "Elektrodi ke elektron-haye madar-e birooni be an miresand va goone-i rooye an kahesh miyabad; masalan dar barghkaft-e ab, gaz-e hidrozhen rooye elektrod-e katod azad mishavad."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-salt-bridge",
+   "term": {
+    "fa": "پل نمکی",
+    "en": "salt bridge",
+    "tr": "pol-e namaki"
+   },
+   "explain": {
+    "fa": "لوله‌ای پر از محلول یک نمک که دو نیم‌سلول را به هم وصل می‌کند و با جابه‌جا کردن یون‌ها بار را متعادل نگه می‌دارد: آنیون‌ها به سمت آند و کاتیون‌ها به سمت کاتد می‌روند.",
+    "en": "A tube of salt solution that joins the two half-cells and keeps the charge balanced by moving ions: anions move towards the anode and cations towards the cathode.",
+    "tr": "Loole-i por az mahlool-e yek namak ke do nim-sellool ra be ham vasl mikonad va ba jabeja kardan-e yoon-ha bar ra mote'adel negah midarad: aniyon-ha be samt-e anod va katiyon-ha be samt-e katod miravand."
+   },
+   "analogy": {
+    "fa": "مثل یک دریچهٔ اطمینان که نمی‌گذارد بار در یک طرف انبار شود.",
+    "en": "Like a pressure valve that stops charge piling up on one side.",
+    "tr": "Mesl-e yek dariche-ye etminan ke nemigozarad bar dar yek taraf anbar shavad."
+   },
+   "contrast": {
+    "fa": "از پل نمکی یون می‌گذرد، نه الکترون.",
+    "en": "Ions pass through the salt bridge, not electrons.",
+    "tr": "Az pol-e namaki yoon migozarad, na elektron."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ecell-formula",
+   "term": {
+    "fa": "E°cell = E°cathode − E°anode",
+    "en": "E°cell = E°cathode − E°anode",
+    "tr": "E°cell = E°cathode − E°anode"
+   },
+   "explain": {
+    "fa": "رابطهٔ نیروی الکتروموتوری استاندارد سلول: `E°` کاتد منهای `E°` آند. اگر حاصل مثبت باشد، واکنش خودبه‌خودی است؛ برای سلول نیکل-نقره `0.80 − (−0.25) = +1.05 V`.",
+    "en": "The formula for a cell's standard emf: the cathode's `E°` minus the anode's `E°`. A positive result means the reaction is spontaneous; for the nickel-silver cell, `0.80 − (−0.25) = +1.05 V`.",
+    "tr": "Rabete-ye niru-ye elektromotori-ye estandard-e sellool: `E°`-e katod menha-ye `E°`-e anod. Agar hasel mosbat bashad, vakonesh khod-be-khodi ast; baraye sellool-e nikel-noghre `0.80 − (−0.25) = +1.05 V`."
+   },
+   "contrast": {
+    "fa": "علامت `E°` آند را خودت برعکس نکن؛ فقط تفریق کن.",
+    "en": "Do not flip the anode's sign yourself; just subtract.",
+    "tr": "Alamat-e `E°`-e anod ra khodet bar-aks nakon; faghat tafrigh kon."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electrons-balanced",
+   "term": {
+    "fa": "الکترون‌ها موازنه شده باشند",
+    "en": "electrons balanced",
+    "tr": "electron-ha movazene shode bashand"
+   },
+   "explain": {
+    "fa": "شرط نوشتن معادلهٔ کلی سلول: الکترون‌های داده‌شده در آند باید برابر الکترون‌های گرفته‌شده در کاتد باشد. برای نیکل-نقره، نیم‌واکنش نقره دو برابر می‌شود: `Ni + 2Ag+ → Ni2+ + 2Ag`.",
+    "en": "The condition for writing the overall cell equation: the electrons given at the anode must equal those taken at the cathode. For nickel-silver, the silver half-reaction is doubled: `Ni + 2Ag+ → Ni2+ + 2Ag`.",
+    "tr": "Shart-e neveshtan-e moadele-ye kolli-ye sellool: elektron-haye dade-shode dar anod bayad barabar-e elektron-haye gerefte-shode dar katod bashad. Baraye nikel-noghre, nim-vakonesh-e noghre do barabar mishavad: `Ni + 2Ag+ → Ni2+ + 2Ag`."
+   },
+   "analogy": {
+    "fa": "مثل حساب بانکی: هر چه برداشته شده باید جایی واریز شود.",
+    "en": "Like a bank account: whatever is withdrawn must be deposited somewhere.",
+    "tr": "Mesl-e hesab-e banki: har che bardashte shode bayad jayi variz shavad."
+   },
+   "contrast": {
+    "fa": "معادلهٔ کلی را دو برابر کن، نه `E°` را.",
+    "en": "Double the equation, not `E°`.",
+    "tr": "Moadele-ye kolli ra do barabar kon, na `E°` ra."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-mole-ratio-1-2",
+   "term": {
+    "fa": "نسبت مولی ۱ به ۲",
+    "en": "1 : 2 mole ratio",
+    "tr": "nesbat-e moli-ye 1 be 2"
+   },
+   "explain": {
+    "fa": "در سلول نیکل-نقره، به ازای هر مول نیکل که از آند جدا می‌شود، دو مول نقره روی کاتد می‌نشیند؛ چون نیکل دو الکترون می‌دهد و هر یون نقره یک الکترون می‌گیرد. پس `0.020` مول نقره یعنی `0.010` مول نیکل.",
+    "en": "In the nickel-silver cell, for every mole of nickel that leaves the anode, two moles of silver deposit on the cathode, because nickel gives two electrons and each silver ion takes one. So `0.020` mol of silver means `0.010` mol of nickel.",
+    "tr": "Dar sellool-e nikel-noghre, be ezaye har mol nikel ke az anod joda mishavad, do mol noghre rooye katod mineshinad; chon nikel do elektron midahad va har yoon-e noghre yek elektron migirad. Pas `0.020` mol noghre ya'ni `0.010` mol nikel."
+   },
+   "contrast": {
+    "fa": "نسبت ۱ به ۱ رایج‌ترین اشتباه این بخش است.",
+    "en": "Using 1 : 1 is the most common mistake in this part.",
+    "tr": "Nesbat-e 1 be 1 rayej-tarin eshtebah-e in bakhsh ast."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-mass-decreases",
+   "term": {
+    "fa": "کاهش جرم آند",
+    "en": "decreases",
+    "tr": "kahesh-e jerm-e anod"
+   },
+   "explain": {
+    "fa": "جرم آند در سلول گالوانی «کم می‌شود»، چون فلز آن اکسید و به یون تبدیل و در محلول حل می‌شود؛ جرم کاتد زیاد می‌شود. در پاسخ، جهت تغییر را با واژه بنویس: «۰٫۵۹ گرم کاهش».",
+    "en": "The anode's mass \"decreases\" in a galvanic cell, because its metal is oxidised to ions that dissolve; the cathode's mass increases. In your answer, state the direction in words: \"decreases by 0.59 g\".",
+    "tr": "Jerm-e anod dar sellool-e galvani \"kam mishavad\", chon felez-e an oksid va be yoon tabdil va dar mahlool hal mishavad; jerm-e katod ziyad mishavad. Dar pasokh, jahat-e taghyir ra ba vazhe benevis: \"0.59 geram kahesh\"."
+   },
+   "contrast": {
+    "fa": "عدد بدون واژهٔ «کاهش» ربع نمرهٔ آخر را از دست می‌دهد.",
+    "en": "A number without the word \"decreases\" loses the last quarter mark.",
+    "tr": "Adad bedoon-e vazhe-ye \"kahesh\" rob'-e nomre-ye akhar ra az dast midahad."
+   },
+   "unit": "chem-2-galvanic-cells"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-fuel-cell",
+   "term": {
+    "fa": "سلول سوختی",
+    "en": "fuel cell",
+    "tr": "selool-e sookhti"
+   },
+   "explain": {
+    "fa": "سلول گالوانی‌ای که سوخت (مثل هیدروژن) و اکسیژن پیوسته به آن می‌رسند؛ تا وقتی سوخت برسد برق می‌سازد و محصول سلول هیدروژن-اکسیژن فقط آب است.",
+    "en": "A galvanic cell that is fed continuously with fuel (such as hydrogen) and oxygen; it makes electricity as long as fuel arrives, and a hydrogen-oxygen cell's only product is water.",
+    "tr": "Sellool-e galvani-i ke sookht (mesl-e hidrozhen) va oksizhen peyvaste be an miresand; ta vaghti sookht beresad barq misazad va mahsool-e sellool-e hidrozhen-oksizhen faghat ab ast."
+   },
+   "analogy": {
+    "fa": "باتری مخزن بسته است؛ سلول سوختی لولهٔ سوخت دارد.",
+    "en": "A battery is a sealed tank; a fuel cell has a fuel line.",
+    "tr": "Batri makhzan-e baste ast; sellool-e sookhti loole-ye sookht darad."
+   },
+   "unit": "chem-2-fuel-cells-batteries"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-h2-o2",
+   "term": {
+    "fa": "هیدروژن و اکسیژن",
+    "en": "hydrogen and oxygen",
+    "tr": "hydrogen va oxygen"
+   },
+   "explain": {
+    "fa": "دو واکنش‌دهندهٔ سلول سوختی: هیدروژن در آند اکسید می‌شود (`H2 → 2H+ + 2e-`) و اکسیژن در کاتد کاهش می‌یابد. واکنش کلی `2H2 + O2 → 2H2O` است.",
+    "en": "The two reactants of the fuel cell: hydrogen is oxidised at the anode (`H2 → 2H+ + 2e-`) and oxygen is reduced at the cathode. The overall reaction is `2H2 + O2 → 2H2O`.",
+    "tr": "Do vakonesh-dahande-ye sellool-e sookhti: hidrozhen dar anod oksid mishavad (`H2 → 2H+ + 2e-`) va oksizhen dar katod kahesh miyabad. Vakonesh-e kolli `2H2 + O2 → 2H2O` ast."
+   },
+   "contrast": {
+    "fa": "هیدروژن در آند، اکسیژن در کاتد؛ نه برعکس.",
+    "en": "Hydrogen at the anode, oxygen at the cathode; not the other way round.",
+    "tr": "Hidrozhen dar anod, oksizhen dar katod; na bar-aks."
+   },
+   "unit": "chem-2-fuel-cells-batteries"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-cathodic-half",
+   "term": {
+    "fa": "نیم‌واکنش کاتدی",
+    "en": "cathodic half-reaction",
+    "tr": "nim-vakonesh-e cathodi"
+   },
+   "explain": {
+    "fa": "نیم‌واکنش کاهشی که در کاتد رخ می‌دهد. در سلول سوختی اسیدی: `O2 + 4H+ + 4e- → 2H2O`؛ در خوردگی آهن: `O2 + 2H2O + 4e- → 4OH-`.",
+    "en": "The reduction half-reaction that happens at the cathode. In an acidic fuel cell: `O2 + 4H+ + 4e- → 2H2O`; in the corrosion of iron: `O2 + 2H2O + 4e- → 4OH-`.",
+    "tr": "Nim-vakonesh-e kaheshi ke dar katod rokh midahad. Dar sellool-e sookhti-ye asidi: `O2 + 4H+ + 4e- → 2H2O`; dar khordegi-ye ahan: `O2 + 2H2O + 4e- → 4OH-`."
+   },
+   "contrast": {
+    "fa": "هر `O2` چهار الکترون می‌گیرد؛ موازنه را از همین شروع کن.",
+    "en": "Each `O2` takes four electrons; start the balancing there.",
+    "tr": "Har `O2` chahar elektron migirad; movazene ra az hamin shoru' kon."
+   },
+   "unit": "chem-2-fuel-cells-batteries"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-pem",
+   "term": {
+    "fa": "غشای مبادله‌کنندهٔ پروتون",
+    "en": "proton exchange membrane",
+    "tr": "ghesha-ye mobadeleh-konandeh-ye proton"
+   },
+   "explain": {
+    "fa": "لایهٔ نازکی میان آند و کاتد سلول سوختی که فقط پروتون (`H+`) را عبور می‌دهد. پروتون‌ها از آند به کاتد می‌روند و الکترون‌ها مجبورند از سیم بیرونی بگذرند.",
+    "en": "A thin layer between the fuel cell's anode and cathode that lets only protons (`H+`) through. Protons travel from anode to cathode, and the electrons are forced round the outer wire.",
+    "tr": "Laye-ye nazoki miyan-e anod va katod-e sellool-e sookhti ke faghat proton (`H+`) ra oboor midahad. Proton-ha az anod be katod miravand va elektron-ha majboor-and az sim-e birooni begozarand."
+   },
+   "analogy": {
+    "fa": "مثل گیت فرودگاه که فقط مسافر رد می‌شود و چمدان باید از تسمه برود.",
+    "en": "Like an airport gate that lets passengers through while the luggage must go round on the belt.",
+    "tr": "Mesl-e geyt-e foroodgah ke faghat mosafer rad mishavad va chamedan bayad az tasme beravad."
+   },
+   "unit": "chem-2-fuel-cells-batteries"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-iron-corrosion",
+   "term": {
+    "fa": "خوردگی آهن",
+    "en": "iron corrosion",
+    "tr": "khordegi-ye ahan"
+   },
+   "explain": {
+    "fa": "زنگ زدن آهن: یک سلول گالوانی ناخواسته که در آن آهن اکسید می‌شود و اکسیژن با آب کاهش می‌یابد. هم آب و هم اکسیژن لازم‌اند.",
+    "en": "The rusting of iron: an unwanted galvanic cell in which iron is oxidised and oxygen is reduced with water. Both water and oxygen are needed.",
+    "tr": "Zang zadan-e ahan: yek sellool-e galvani-ye nakhaste ke dar an ahan oksid mishavad va oksizhen ba ab kahesh miyabad. Ham ab va ham oksizhen lazem-and."
+   },
+   "analogy": {
+    "fa": "سلولی که هیچ‌کس سفارش نداده بود.",
+    "en": "A cell nobody ordered.",
+    "tr": "Sellooli ke hich-kas sefaresh nadade bood."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-anodic-half",
+   "term": {
+    "fa": "نیم‌واکنش آندی",
+    "en": "anodic half-reaction",
+    "tr": "nim-vakonesh-e anodi"
+   },
+   "explain": {
+    "fa": "نیم‌واکنش اکسایشی که در آند رخ می‌دهد؛ در خوردگی آهن: `Fe → Fe2+ + 2e-`.",
+    "en": "The oxidation half-reaction that happens at the anode; in the corrosion of iron: `Fe → Fe2+ + 2e-`.",
+    "tr": "Nim-vakonesh-e oksayeshi ke dar anod rokh midahad; dar khordegi-ye ahan: `Fe → Fe2+ + 2e-`."
+   },
+   "contrast": {
+    "fa": "در نیم‌واکنش آندی الکترون‌ها سمت راست‌اند.",
+    "en": "In an anode half-reaction the electrons are on the right-hand side.",
+    "tr": "Dar nim-vakonesh-e anodi elektron-ha samt-e rast-and."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-moist-environment",
+   "term": {
+    "fa": "محیط مرطوب",
+    "en": "moist environment",
+    "tr": "mohit-e martoob"
+   },
+   "explain": {
+    "fa": "شرط زنگ زدن آهن: آب لازم است تا نیم‌واکنش کاتدی (`O2 + 2H2O + 4e- → 4OH-`) انجام شود و یون‌ها جابه‌جا شوند. آهن در هوای کاملاً خشک تقریباً زنگ نمی‌زند.",
+    "en": "A condition for rusting: water is needed so the cathode half-reaction (`O2 + 2H2O + 4e- → 4OH-`) can happen and ions can move. Iron in perfectly dry air hardly rusts.",
+    "tr": "Shart-e zang zadan-e ahan: ab lazem ast ta nim-vakonesh-e katodi (`O2 + 2H2O + 4e- → 4OH-`) anjam shavad va yoon-ha jabeja shavand. Ahan dar hava-ye kamelan khoshk taghriban zang nemizanad."
+   },
+   "contrast": {
+    "fa": "آب نمک خوردگی را تندتر می‌کند، چون یون‌ها رسانایی را بالا می‌برند.",
+    "en": "Salt water speeds up corrosion, because the ions raise conductivity.",
+    "tr": "Ab-e namak khordegi ra tond-tar mikonad, chon yoon-ha rasanayi ra bala mibarand."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-iron-anodic",
+   "term": {
+    "fa": "نیم‌واکنش آندی آهن",
+    "en": "iron anodic half-reaction",
+    "tr": "nim-vakonesh-e anodi-ye ahan"
+   },
+   "explain": {
+    "fa": "`Fe(s) → Fe2+(aq) + 2e-`: آهن در ناحیهٔ کم‌اکسیژن (زیر قطره) اکسید می‌شود و الکترون‌هایش از درون فلز به لبهٔ قطره می‌روند.",
+    "en": "`Fe(s) → Fe2+(aq) + 2e-`: iron is oxidised in the low-oxygen region (under the drop), and its electrons travel through the metal to the edge of the drop.",
+    "tr": "`Fe(s) → Fe2+(aq) + 2e-`: ahan dar nahiye-ye kam-oksizhen (zir-e ghatre) oksid mishavad va elektron-hayash az daroon-e felez be labe-ye ghatre miravand."
+   },
+   "contrast": {
+    "fa": "آهن در خوردگی ابتدا `Fe2+` می‌شود، نه `Fe3+`.",
+    "en": "In corrosion iron first becomes `Fe2+`, not `Fe3+`.",
+    "tr": "Ahan dar khordegi ebteda `Fe2+` mishavad, na `Fe3+`."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-iron-cathodic-region",
+   "term": {
+    "fa": "ناحیهٔ کاتدی آهن",
+    "en": "iron cathodic region",
+    "tr": "nahiye-ye cathodi-ye ahan"
+   },
+   "explain": {
+    "fa": "بخش پراکسیژن سطح آهن (لبهٔ قطره) که در آن اکسیژن با آب کاهش می‌یابد: `O2 + 2H2O + 4e- → 4OH-`.",
+    "en": "The oxygen-rich part of the iron surface (the edge of the drop), where oxygen is reduced with water: `O2 + 2H2O + 4e- → 4OH-`.",
+    "tr": "Bakhsh-e por-oksizhen-e sath-e ahan (labe-ye ghatre) ke dar an oksizhen ba ab kahesh miyabad: `O2 + 2H2O + 4e- → 4OH-`."
+   },
+   "contrast": {
+    "fa": "پراکسیژن: کاتد؛ کم‌اکسیژن: آند.",
+    "en": "Oxygen-rich: cathode; oxygen-poor: anode.",
+    "tr": "Por-oksizhen: katod; kam-oksizhen: anod."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-rust-formula",
+   "term": {
+    "fa": "فرمول زنگ آهن",
+    "en": "iron rust formula",
+    "tr": "formool-e zang-e ahan"
+   },
+   "explain": {
+    "fa": "زنگ، آهن `(III)` اکسید آب‌دار است: `Fe2O3·xH2O`. متخلخل است و پوسته می‌شود، پس از آهن زیرش محافظت نمی‌کند.",
+    "en": "Rust is hydrated iron(III) oxide: `Fe2O3·xH2O`. It is porous and flakes off, so it does not protect the iron beneath.",
+    "tr": "Zang, ahan (III) oksid-e ab-dar ast: `Fe2O3·xH2O`. Motakhalkhel ast va poste mishavad, pas az ahan-e zirash mohafezat nemikonad."
+   },
+   "contrast": {
+    "fa": "برخلاف لایهٔ اکسید آلومینیم، زنگ لایهٔ محافظ نیست.",
+    "en": "Unlike aluminium's oxide layer, rust is not a protective layer.",
+    "tr": "Bar-khalaf-e laye-ye oksid-e aluminiyom, zang laye-ye mohafez nist."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-galvanic-corrosion",
+   "term": {
+    "fa": "خوردگی گالوانی",
+    "en": "galvanic corrosion",
+    "tr": "khordegi-ye galvani"
+   },
+   "explain": {
+    "fa": "خوردگی تندتر فلزی که با فلز دیگری با `E°` بیشتر در تماس است؛ مثلاً آهن متصل به مس آند می‌شود و سریع‌تر می‌خورد.",
+    "en": "Faster corrosion of a metal in contact with another metal of higher `E°`; for example, iron joined to copper becomes the anode and corrodes faster.",
+    "tr": "Khordegi-ye tond-tar-e felezi ke ba felez-e digari ba `E°`-e bishtar dar tamas ast; masalan ahan-e mottasel be mes anod mishavad va sari'-tar mikhorad."
+   },
+   "contrast": {
+    "fa": "فلز با `E°` کمتر قربانی می‌شود.",
+    "en": "The metal with the lower `E°` is the one that suffers.",
+    "tr": "Felez ba `E°`-e kamtar ghorbani mishavad."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-sacrificial-anode",
+   "term": {
+    "fa": "آند فداشونده",
+    "en": "sacrificial anode",
+    "tr": "anode-e fada-shavande"
+   },
+   "explain": {
+    "fa": "فلزی با `E°` کمتر از آهن، مثل منیزیم یا روی، که به لوله یا بدنهٔ کشتی وصل می‌شود؛ خودش اکسید و خورده می‌شود و آهن کاتد و سالم می‌ماند (حفاظت کاتدی).",
+    "en": "A metal with a lower `E°` than iron, such as magnesium or zinc, connected to a pipe or ship's hull; it is oxidised and eaten away itself, while the iron stays as the cathode, safe (cathodic protection).",
+    "tr": "Felezi ba `E°`-e kamtar az ahan, mesl-e menizium ya rooy, ke be loole ya badane-ye kashti vasl mishavad; khodash oksid va khorde mishavad va ahan katod va salem mimanad (hefazat-e katodi)."
+   },
+   "analogy": {
+    "fa": "مثل محافظی که گلوله را به‌جای رئیس می‌خورد.",
+    "en": "Like a bodyguard who takes the bullet instead of the boss.",
+    "tr": "Mesl-e mohafezi ke gooloole ra be-ja-ye ra'is mikhorad."
+   },
+   "contrast": {
+    "fa": "مس یا قلع نمی‌تواند آند فداشونده باشد، چون `E°` بیشتری از آهن دارد.",
+    "en": "Copper or tin cannot be a sacrificial anode, because their `E°` is higher than iron's.",
+    "tr": "Mes ya ghal' nemitavanad anod-e fada-shavande bashad, chon `E°`-e bishtari az ahan darad."
+   },
+   "unit": "chem-2-corrosion"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electrolysis",
+   "term": {
+    "fa": "برقکافت",
+    "en": "electrolysis",
+    "tr": "barghkaft"
+   },
+   "explain": {
+    "fa": "به‌کار بردن انرژی الکتریکی برای پیش بردن یک واکنش اکسایش-کاهش که خودبه‌خودی نیست، مثل تجزیهٔ آب یا نمک مذاب.",
+    "en": "Using electrical energy to drive a redox reaction that is not spontaneous, such as splitting water or a molten salt.",
+    "tr": "Be-kar bordan-e enerzhi-ye elektriki baraye pish bordan-e yek vakonesh-e oksayesh-kahesh ke khod-be-khodi nist, mesl-e tajziye-ye ab ya namak-e mozab."
+   },
+   "analogy": {
+    "fa": "پمپی که آب را به بالای تپه می‌فرستد.",
+    "en": "A pump forcing water uphill.",
+    "tr": "Pompi ke ab ra be bala-ye tappe miferestad."
+   },
+   "unit": "chem-2-electrolysis"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electrolytic-cell",
+   "term": {
+    "fa": "سلول الکترولیتی",
+    "en": "electrolytic cell",
+    "tr": "selool-e electrolyti"
+   },
+   "explain": {
+    "fa": "سلولی که با یک منبع برق کار می‌کند و واکنش ناخودبه‌خودی را پیش می‌برد. آند به قطب مثبت و کاتد به قطب منفی منبع وصل است؛ باز هم اکسایش در آند و کاهش در کاتد.",
+    "en": "A cell that runs on a power supply and drives a non-spontaneous reaction. The anode is connected to the positive terminal and the cathode to the negative; oxidation is still at the anode and reduction at the cathode.",
+    "tr": "Sellooli ke ba yek manba'-e barq kar mikonad va vakonesh-e nakhod-be-khodi ra pish mibarad. Anod be ghotb-e mosbat va katod be ghotb-e manfi-ye manba' vasl ast; baz ham oksayesh dar anod va kahesh dar katod."
+   },
+   "contrast": {
+    "fa": "گالوانی: آند منفی؛ الکترولیتی: آند مثبت.",
+    "en": "Galvanic: anode negative; electrolytic: anode positive.",
+    "tr": "Galvani: anod manfi; elektroliti: anod mosbat."
+   },
+   "unit": "chem-2-electrolysis"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electroplating",
+   "term": {
+    "fa": "آبکاری",
+    "en": "electroplating",
+    "tr": "abkari"
+   },
+   "explain": {
+    "fa": "پوشاندن یک جسم با لایهٔ نازکی از فلز به کمک برقکافت. جسم پوشانده‌شونده کاتد است و فلز پوشش آند؛ مثلاً برای نقره‌کاری قاشق، نقره آند و قاشق کاتد است.",
+    "en": "Coating an object with a thin layer of metal by electrolysis. The object being coated is the cathode and the coating metal the anode; to silver-plate a spoon, for example, silver is the anode and the spoon the cathode.",
+    "tr": "Pooshandan-e yek jesm ba laye-ye nazoki az felez be komak-e barghkaft. Jesm-e pooshande-shavande katod ast va felez-e pooshesh anod; masalan baraye noghre-kari-ye ghashogh, noghre anod va ghashogh katod ast."
+   },
+   "contrast": {
+    "fa": "جسمی که باید پوشیده شود همیشه کاتد است.",
+    "en": "The object to be coated is always the cathode.",
+    "tr": "Jesmi ke bayad pooshide shavad hamishe katod ast."
+   },
+   "unit": "chem-2-electrolysis"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-water-electrolysis",
+   "term": {
+    "fa": "برقکافت آب",
+    "en": "water electrolysis",
+    "tr": "barghkaft-e ab"
+   },
+   "explain": {
+    "fa": "تجزیهٔ آب با برق: `2H2O → 2H2 + O2`. گاز هیدروژن در کاتد و گاز اکسیژن در آند آزاد می‌شود و حجم هیدروژن دو برابر اکسیژن است.",
+    "en": "Splitting water with electricity: `2H2O → 2H2 + O2`. Hydrogen gas is released at the cathode and oxygen gas at the anode, and there is twice as much hydrogen by volume.",
+    "tr": "Tajziye-ye ab ba barq: `2H2O → 2H2 + O2`. Gaz-e hidrozhen dar katod va gaz-e oksizhen dar anod azad mishavad va hajm-e hidrozhen do barabar-e oksizhen ast."
+   },
+   "contrast": {
+    "fa": "هیدروژن: کاتد، دو برابر؛ اکسیژن: آند، نصف.",
+    "en": "Hydrogen: cathode, double; oxygen: anode, half.",
+    "tr": "Hidrozhen: katod, do barabar; oksizhen: anod, nesf."
+   },
+   "unit": "chem-2-electrolysis"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-downs-process",
+   "term": {
+    "fa": "فرایند داونز",
+    "en": "Downs process",
+    "tr": "farayand-e Downs"
+   },
+   "explain": {
+    "fa": "تهیهٔ صنعتی سدیم و کلر با برقکافت سدیم کلرید مذاب؛ کلسیم کلرید (`CaCl2`) دمای ذوب را پایین می‌آورد. سدیم مایع در کاتد و گاز کلر در آند ساخته می‌شود.",
+    "en": "The industrial production of sodium and chlorine by electrolysing molten sodium chloride; calcium chloride (`CaCl2`) lowers the melting point. Liquid sodium forms at the cathode and chlorine gas at the anode.",
+    "tr": "Tahiye-ye san'ati-ye sodiyom va kolor ba barghkaft-e sodiyom kolorid-e mozab; kalsiyom kolorid (`CaCl2`) dama-ye zob ra payin miavarad. Sodiyom-e maye' dar katod va gaz-e kolor dar anod sakhte mishavad."
+   },
+   "contrast": {
+    "fa": "کمک‌ذوب داونز کلسیم کلرید است؛ کمک‌ذوب هال کرایولیت.",
+    "en": "The Downs flux is calcium chloride; the Hall flux is cryolite.",
+    "tr": "Komak-zob-e Downs kalsiyom kolorid ast; komak-zob-e Hall kerayolit."
+   },
+   "unit": "chem-2-downs-hall"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-chlorine-gas",
+   "term": {
+    "fa": "گاز کلر",
+    "en": "chlorine gas",
+    "tr": "gaz-e chlor"
+   },
+   "explain": {
+    "fa": "گازی زرد-سبز و سمی که در آند سلول داونز از اکسایش یون‌های کلرید ساخته می‌شود: `2Cl- → Cl2 + 2e-`.",
+    "en": "A toxic yellow-green gas made at the anode of the Downs cell by oxidising chloride ions: `2Cl- → Cl2 + 2e-`.",
+    "tr": "Gazi zard-sabz va sammi ke dar anod-e sellool-e Downs az oksayesh-e yoon-haye kolorid sakhte mishavad: `2Cl- → Cl2 + 2e-`."
+   },
+   "contrast": {
+    "fa": "کلر در آند، سدیم در کاتد.",
+    "en": "Chlorine at the anode, sodium at the cathode.",
+    "tr": "Kolor dar anod, sodiyom dar katod."
+   },
+   "unit": "chem-2-downs-hall"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-iron-screen-downs",
+   "term": {
+    "fa": "توری آهنی سلول داونز",
+    "en": "iron screen in Downs cell",
+    "tr": "toori-ye ahani dar selool-e Downs"
+   },
+   "explain": {
+    "fa": "توری‌ای میان آند و کاتد سلول داونز که سدیم مایع و گاز کلر را از هم جدا نگه می‌دارد تا دوباره با هم واکنش ندهند و نمک نسازند.",
+    "en": "A screen between the anode and cathode of the Downs cell that keeps liquid sodium and chlorine gas apart, so they do not react again and remake salt.",
+    "tr": "Toori-i miyan-e anod va katod-e sellool-e Downs ke sodiyom-e maye' va gaz-e kolor ra az ham joda negah midarad ta dobare ba ham vakonesh nadahand va namak nasazand."
+   },
+   "analogy": {
+    "fa": "مثل داوری که دو بوکسور را از هم جدا می‌کند.",
+    "en": "Like a referee keeping two boxers apart.",
+    "tr": "Mesl-e davari ke do boksor ra az ham joda mikonad."
+   },
+   "unit": "chem-2-downs-hall"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-hall-process",
+   "term": {
+    "fa": "فرایند هال",
+    "en": "Hall process",
+    "tr": "farayand-e Hall"
+   },
+   "explain": {
+    "fa": "تهیهٔ صنعتی آلومینیم با برقکافت آلومینا (`Al2O3`) حل‌شده در کرایولیت مذاب (`Na3AlF6`). آلومینیم روی کاتد کربنی (دیوارهٔ سلول) جمع می‌شود و آندهای گرافیتی با اکسیژن `CO2` می‌سازند.",
+    "en": "The industrial production of aluminium by electrolysing alumina (`Al2O3`) dissolved in molten cryolite (`Na3AlF6`). Aluminium collects on the carbon cathode (the cell lining), and the graphite anodes form `CO2` with oxygen.",
+    "tr": "Tahiye-ye san'ati-ye aluminiyom ba barghkaft-e alumina (`Al2O3`)-ye hal-shode dar kerayolit-e mozab (`Na3AlF6`). Aluminiyom rooye katod-e karboni (divare-ye sellool) jam' mishavad va anod-haye gerafiti ba oksizhen `CO2` misazand."
+   },
+   "contrast": {
+    "fa": "آلومینیم روی کاتد است؛ آندها مصرف می‌شوند.",
+    "en": "Aluminium is on the cathode; the anodes are used up.",
+    "tr": "Aluminiyom rooye katod ast; anod-ha masraf mishavand."
+   },
+   "unit": "chem-2-downs-hall"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-anode-consumption-hall",
+   "term": {
+    "fa": "مصرف آند در فرایند هال",
+    "en": "anode consumption in Hall process",
+    "tr": "masraf-e anode dar farayand-e Hall"
+   },
+   "explain": {
+    "fa": "آندهای گرافیتی فرایند هال کم‌کم «می‌سوزند»: اکسیژن آزادشده با کربن واکنش می‌دهد و `CO2` می‌سازد، پس آندها باید مرتب عوض شوند. `2Al2O3 + 3C → 4Al + 3CO2`.",
+    "en": "The graphite anodes of the Hall process gradually \"burn away\": the oxygen released reacts with the carbon to form `CO2`, so the anodes must be replaced regularly. `2Al2O3 + 3C → 4Al + 3CO2`.",
+    "tr": "Anod-haye gerafiti-ye farayand-e Hall kam-kam \"misoozand\": oksizhen-e azad-shode ba karbon vakonesh midahad va `CO2` misazad, pas anod-ha bayad morattab avaz shavand. `2Al2O3 + 3C → 4Al + 3CO2`."
+   },
+   "contrast": {
+    "fa": "در اینجا آند واکنش‌دهنده است، نه فقط الکترود.",
+    "en": "Here the anode is a reactant, not just an electrode.",
+    "tr": "Dar inja anod vakonesh-dahande ast, na faghat elektrod."
+   },
+   "unit": "chem-2-downs-hall"
+  }
+ ]
+}
