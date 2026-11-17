@@ -1,0 +1,557 @@
+{
+ "version": 160,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Religion and Life",
+   "chapter": 11,
+   "unit": 1,
+   "key": "rel-11-god-purpose-hereafter",
+   "title": {
+    "fa": "خدا، هدفمندی جهان و آخرت",
+    "en": "God, a purposeful world and the hereafter",
+    "tr": "Khoda, hadafmandi-ye jahan va akherat"
+   },
+   "summary": {
+    "fa": "ذات و صفات خدا یکی‌اند؛ جهان هدف دارد و هر موجودی به سوی هدفش هدایت می‌شود؛ و عدل خدا آخرت را لازم می‌کند.",
+    "en": "God's essence and attributes are one; the world has a purpose and every being is guided toward its goal; and God's justice requires the hereafter.",
+    "tr": "Zat va sefat-e khoda yeki-and; jahan hadaf darad va har mojoodi be sooy-e hadafash hedayat mishavad; va adl-e khoda akherat ra lazem mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ذات و صفات",
+      "en": "Understand first: essence and attributes",
+      "tr": "Avval befahm: zat va sefat"
+     },
+     "body": {
+      "fa": "این بخش از کتاب‌های پیشین چند پایهٔ اعتقادی را مرور می‌کند. «توحید در ذات»: ذات خدا یکتا و بی‌همتاست؛ این پایهٔ همهٔ مراتب دیگر توحید است و بی آن، آنها معنا ندارند. «توحید در صفات»: صفات خدا (مانند علم و قدرت) عین ذات او هستند و از ذات و از یکدیگر جدا نیستند؛ مثل نور خورشید که چیزی جدا از خود خورشید نیست.",
+      "en": "This part reviews some foundations from the earlier books. 'Oneness of the essence': God's essence is one and unique; it is the base of all the other ranks of monotheism, which mean nothing without it. 'Oneness in the attributes': God's attributes (such as knowledge and power) are one with His essence, not separate from it or from each other, like the sun's light, which is nothing apart from the sun itself.",
+      "tr": "In bakhsh az ketab-haye pishin chand paye-ye e'teghadi ra moroor mikonad. 'Towhid dar zat': zat-e khoda yekta va bi-hamtast; in paye-ye hame-ye marateb-e digar-e towhid ast va bi an, anha ma'na nadarand. 'Towhid dar sefat': sefat-e khoda (manand-e elm va ghodrat) eyn-e zat-e oo hastand va az zat va az yekdigar joda nistand; mesl-e noor-e khorshid ke chizi joda az khod-e khorshid nist."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ONENESS OF THE ESSENCE\n   the base of every rank\n ONENESS IN THE ATTRIBUTES\n   knowledge, power = essence\n A PURPOSEFUL WORLD\n   built-in guidance:\n   the bee builds its hive\n THE HEREAFTER\n   death -> barzakh -> rising\n   why? full justice",
+     "caption": {
+      "fa": "از یکتایی ذات تا هدفمندی جهان و ضرورت آخرت.",
+      "en": "From the oneness of the essence to a purposeful world and the need for the hereafter.",
+      "tr": "Az yektayi-ye zat ta hadafmandi-ye jahan va zaroorat-e akherat."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "هدایت تکوینی، برهان عدل و برزخ",
+      "en": "Built-in guidance, the argument from justice and barzakh",
+      "tr": "Hedayat-e takvini, borhan-e adl va barzakh"
+     },
+     "body": {
+      "fa": "نظام هماهنگ آفرینش همهٔ موجودات را به سوی هدفی نهایی می‌برد: «هدفمندی جهان». خدا هر موجود را از راه سرشت و غریزه‌ای که در آن نهاده به سوی هدفش هدایت می‌کند، مانند زنبور عسل که کندو می‌سازد: این «هدایت تکوینی (عام)» است، در برابر هدایت تشریعی که از راه پیامبران می‌رسد. و چون پاداش و کیفر کامل نیکوکاران و بدکاران در دنیا شدنی نیست، عدل الهی برپایی سرای آخرت را لازم می‌کند: «برهان عدل». زندگی انسان در فاصلهٔ مرگ تا قیامت در «عالم برزخ» می‌گذرد.",
+      "en": "The harmonious order of creation carries every being toward a final goal: 'the world has a purpose'. God guides each being toward its goal through the nature and instinct He placed in it, like the honeybee building its hive: this is 'built-in (takvini) guidance', as against legislated guidance that comes through the prophets. And since the full reward of the good and punishment of the wicked cannot happen in this world, God's justice requires the hereafter: 'the argument from justice'. Between death and the Resurrection a person lives in 'barzakh', the intermediate world.",
+      "tr": "Nezam-e hamahang-e afarinesh hame-ye mojoodat ra be sooy-e hadafi nahayi mibarad: 'hadafmandi-ye jahan'. Khoda har mojood ra az rah-e seresht va gharize-i ke dar an nahade be sooy-e hadafash hedayat mikonad, manand-e zanboor-e asal ke kandoo misazad: in 'hedayat-e takvini (am)' ast, dar barabar-e hedayat-e tashri'i ke az rah-e payambaran miresad. Va chon padash va keyfar-e kamel-e nikookaran va badkaran dar donya shodani nist, adl-e elahi barpayi-ye sara-ye akherat ra lazem mikonad: 'borhan-e adl'. Zendegi-ye ensan dar fasele-ye marg ta ghiyamat dar 'alam-e barzakh' migozarad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "essence -> attributes ;  purpose -> built-in guidance ;  justice -> hereafter",
+     "caption": {
+      "fa": "سه رشتهٔ این بخش",
+      "en": "The three threads of this unit",
+      "tr": "Se reshte-ye in bakhsh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: باور به اینکه صفات خداوند (مانند علم و قدرت) عین ذات او هستند و از ذات و از یکدیگر جدا نیستند، کدام مرتبهٔ توحید است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: believing that God's attributes (such as knowledge and power) are one with His essence, and not separate from it or from each other, is which rank of monotheism? (Dey 1400 paper)",
+      "tr": "Garm kardan: bavar be inke sefat-e khoda (manand-e elm va ghodrat) eyn-e zat-e oo hastand va az zat va az yekdigar joda nistand, kodam martabe-ye towhid ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "موضوع پرسش «علم و قدرت» است، یعنی صفات؛ پس توحید در صفات.",
+        "en": "The subject is 'knowledge and power', that is, the attributes; so oneness in the attributes.",
+        "tr": "Mozoo'-e porsesh 'elm va ghodrat' ast, ya'ni sefat; pas towhid dar sefat."
+       }
+      },
+      {
+       "text": {
+        "fa": "توحید در ذات (گزینهٔ کناری) دربارهٔ یکتایی خود ذات است، نه صفات.",
+        "en": "Oneness of the essence (the option beside it) is about the essence itself being one, not the attributes.",
+        "tr": "Towhid dar zat (gozine-ye kenari) darbare-ye yektayi-ye khod-e zat ast, na sefat."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "توحید در صفات",
+      "en": "Oneness in the attributes",
+      "tr": "Towhid dar sefat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: هدایت همهٔ موجودات به سوی هدفشان از راه سرشت و غریزه‌ای که خدا در آنها نهاده (مانند ساختن کندو به دست زنبور عسل)، کدام نوع هدایت است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: God guiding every creature toward its goal through the nature and instinct He placed in it (like the bee building its hive) is which kind of guidance? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: hedayat-e hame-ye mojoodat be sooy-e hadafeshan az rah-e seresht va gharize-i ke khoda dar anha nahade (manand-e sakhtan-e kandoo be dast-e zanboor-e asal), kodam no' hedayat ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "زنبور پیامبری ندارد؛ راهش را از سرشت خودش می‌داند: «تکوینی» یعنی در آفرینش نهاده.",
+        "en": "The bee has no prophet; it knows its way from its own nature: 'takvini' means built into creation.",
+        "tr": "Zanboor payambari nadarad; rahash ra az seresht-e khodash midanad: 'takvini' ya'ni dar afarinesh nahade."
+       }
+      },
+      {
+       "text": {
+        "fa": "هدایت تشریعی (از راه پیامبران) دام این پرسش است.",
+        "en": "Legislated guidance (through the prophets) is the trap here.",
+        "tr": "Hedayat-e tashri'i (az rah-e payambaran) dam-e in porsesh ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هدایت تکوینی (عام)",
+      "en": "Built-in (takvini) guidance",
+      "tr": "Hedayat-e takvini (am)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اینکه پاداش و کیفر کامل نیکوکاران و بدکاران در دنیا شدنی نیست و عدل الهی برپایی سرای آخرت را لازم می‌کند، کدام دلیل ضرورت معاد است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: that the full reward of the good and punishment of the wicked cannot happen in this world, so God's justice requires the hereafter, is which argument? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: inke padash va keyfar-e kamel-e nikookaran va badkaran dar donya shodani nist va adl-e elahi barpayi-ye sara-ye akherat ra lazem mikonad, kodam dalil-e zaroorat-e ma'ad ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «برهان حکمت» هم دلیل معاد است و به هدفمندی جهان تکیه دارد.",
+        "en": "The twist: the option 'argument from wisdom' is also an argument for the hereafter, and it rests on the world having a purpose.",
+        "tr": "Pich-e emtehan: gozine-ye 'borhan-e hekmat' ham dalil-e ma'ad ast va be hadafmandi-ye jahan tekye darad."
+       }
+      },
+      {
+       "text": {
+        "fa": "اما واژهٔ کلیدی این پرسش «پاداش و کیفر» و «عدل» است؛ پس برهان عدل.",
+        "en": "But this question's key words are 'reward and punishment' and 'justice'; so the argument from justice.",
+        "tr": "Amma vazhe-ye kelidi-ye in porsesh 'padash va keyfar' va 'adl' ast; pas borhan-e adl."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "برهان عدل",
+      "en": "The argument from justice",
+      "tr": "Borhan-e adl"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "برزخ همان بهشت یا دوزخ جاویدان نیست؛ عالم میان مرگ و قیامت است.",
+      "en": "Barzakh is not the eternal paradise or hell; it is the world between death and the Resurrection.",
+      "tr": "Barzakh haman behesht ya doozakh-e javidan nist; alam-e miyan-e marg va ghiyamat ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "توحید در ذات پایهٔ مراتب دیگر است؛ آن را با توحید در خالقیت اشتباه نکن.",
+      "en": "Oneness of the essence is the base of the other ranks; do not confuse it with monotheism in creation.",
+      "tr": "Towhid dar zat paye-ye marateb-e digar ast; an ra ba towhid dar khaleghiyat eshtebah nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 965
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1400-Dey",
+     "number": 961
+    },
+    {
+     "session": "1401-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Dey",
+     "number": 972
+    },
+    {
+     "session": "1400-Dey",
+     "number": 964
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 11,
+   "unit": 2,
+   "key": "rel-11-self-and-family",
+   "title": {
+    "fa": "نفس، فضیلت‌ها و خانواده",
+    "en": "The self, virtues and the family",
+    "tr": "Nafs, fazilat-ha va khanevade"
+   },
+   "summary": {
+    "fa": "نفس مرتبه‌هایی دارد؛ عفاف و عزت نفس از روح نگهبانی می‌کنند؛ و هدف ازدواج آرامش است.",
+    "en": "The self has levels; chastity and self-respect guard the soul; and the aim of marriage is peace.",
+    "tr": "Nafs martabe-hayi darad; efaf va ezzat-e nafs az rooh negahbani mikonand; va hadaf-e ezdevaj aramesh ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: زنگ هشدار درون",
+      "en": "Understand first: the inner alarm",
+      "tr": "Avval befahm: zang-e hoshdar-e daroon"
+     },
+     "body": {
+      "fa": "نفس انسان را می‌توان در سه مرتبه دید. «نفس امّاره» به بدی فرمان می‌دهد؛ «نفس لوّامه» پس از گناه انسان را سرزنش می‌کند و به جبران و توبه می‌کشاند؛ «نفس مطمئنه» به آرامش رسیده است. لوّامه مثل زنگ هشداری است که پس از اشتباه به صدا درمی‌آید.",
+      "en": "The human self can be seen at three levels. The 'commanding soul' (nafs-e ammara) urges evil; the 'self-reproaching soul' (nafs-e lawwama) blames a person after sin and pushes them to make amends and repent; the 'soul at peace' (nafs-e motma'enna) has reached calm. Lawwama is like an alarm that rings after a mistake.",
+      "tr": "Nafs-e ensan ra mitavan dar se martabe did. 'Nafs-e ammare' be badi farman midahad; 'nafs-e lavvame' pas az gonah ensan ra sarzanesh mikonad va be jobran va tobe mikeshanad; 'nafs-e motma'enne' be aramesh reside ast. Lavvame mesl-e zang-e hoshdari ast ke pas az eshtebah be seda dar-miayad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " LEVELS OF THE SELF\n   ammara      urges evil\n   lawwama     blames after\n               sin -> repent\n   motma'enna  at peace\n GUARDS OF THE SOUL\n   efaf   shield vs desire\n   ezzat  not breached by\n          temptation\n MARRIAGE: peace, closeness",
+     "caption": {
+      "fa": "سه مرتبهٔ نفس، دو نگهبان روح و هدف خانواده.",
+      "en": "Three levels of the self, two guards of the soul and the aim of the family.",
+      "tr": "Se martabe-ye nafs, do negahban-e rooh va hadaf-e khanevade."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "عفاف، عزت نفس و ازدواج",
+      "en": "Chastity, self-respect and marriage",
+      "tr": "Efaf, ezzat-e nafs va ezdevaj"
+     },
+     "body": {
+      "fa": "دو فضیلت از روح نگهبانی می‌کنند. «عفاف» سپر روح در برابر طغیان شهوت‌ها و نگهبان کرامت انسان است. «عزت نفس» حالت نفوذناپذیری روح در برابر وسوسه‌ها و تسلیم نشدن در برابر دنیاست؛ با غرور و تکبر فرق دارد. و دربارهٔ خانواده، آیهٔ «لِتَسْکُنُوا إِلَیْهَا» اصلی‌ترین هدف ازدواج را «آرامش و انس» می‌داند.",
+      "en": "Two virtues guard the soul. 'Chastity' (efaf) shields the soul against runaway desire and guards human dignity. 'Self-respect' (ezzat-e nafs) is the soul's state of being unbreachable by temptation and of not giving in to the world; it is not pride or arrogance. And on the family, the verse 'li-taskunu ilayha' ('that you may find rest in them') names 'peace and closeness' as the main aim of marriage.",
+      "tr": "Do fazilat az rooh negahbani mikonand. 'Efaf' separ-e rooh dar barabar-e toghyan-e shahvat-ha va negahban-e keramat-e ensan ast. 'Ezzat-e nafs' halat-e nofooznapaziri-ye rooh dar barabar-e vasvase-ha va taslim nashodan dar barabar-e donyast; ba ghoroor va takabbor fargh darad. Va darbare-ye khanevade, aye-ye 'letaskonoo elayha' asli-tarin hadaf-e ezdevaj ra 'aramesh va ons' midanad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ammara -> lawwama -> motma'enna",
+     "caption": {
+      "fa": "سه مرتبهٔ نفس",
+      "en": "The three levels of the self",
+      "tr": "Se martabe-ye nafs"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مرتبه‌ای از نفس که پس از گناه، انسان را سرزنش می‌کند و به جبران و توبه می‌کشاند، چه نام دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: which level of the soul blames a person after sin and pushes them to make amends and repent? (Dey 1400 paper)",
+      "tr": "Garm kardan: martabe-i az nafs ke pas az gonah, ensan ra sarzanesh mikonad va be jobran va tobe mikeshanad, che nam darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«لوّامه» از «لوم» یعنی سرزنش.",
+        "en": "'Lawwama' comes from 'lawm', blame.",
+        "tr": "'Lavvame' az 'lowm' ya'ni sarzanesh."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نفس لوّامه",
+      "en": "The self-reproaching soul (nafs-e lawwama)",
+      "tr": "Nafs-e lavvame"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: بنابر آیهٔ «لِتَسْکُنُوا إِلَیْهَا»، اصلی‌ترین هدف تشکیل خانواده در اسلام چیست؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: by the verse 'li-taskunu ilayha' ('that you may find rest in them'), what is the main aim of forming a family in Islam? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: bena bar aye-ye 'letaskonoo elayha', asli-tarin hadaf-e tashkil-e khanevade dar eslam chist? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«تَسْکُنُوا» از ریشهٔ «سکون» است: آرام گرفتن.",
+        "en": "'Taskunu' is from the root of 'sukun': coming to rest.",
+        "tr": "'Taskonoo' az rishe-ye 'sokoon' ast: aram gereftan."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینه‌های همکاری مالی و جایگاه اجتماعی فایده‌های جانبی‌اند، نه هدف اصلی آیه.",
+        "en": "Financial partnership and social standing are side benefits, not the verse's main aim.",
+        "tr": "Gozine-haye hamkari-ye mali va jaygah-e ejtema'i fayede-haye janebi-and, na hadaf-e asli-ye aye."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آرامش و انس",
+      "en": "Peace and closeness",
+      "tr": "Aramesh va ons"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: حالت نفوذناپذیری روح در برابر وسوسه‌ها و تسلیم نشدن در برابر دنیا، چه نام دارد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: the soul's state of being unbreachable by temptation and of not giving in to the world is called what? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: halat-e nofooznapaziri-ye rooh dar barabar-e vasvase-ha va taslim nashodan dar barabar-e donya, che nam darad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینه‌های «غرور» و «تکبر» هم حس بالا بودن دارند، ولی رذیلت‌اند.",
+        "en": "The twist: the options 'pride' and 'arrogance' also feel like standing tall, but they are vices.",
+        "tr": "Pich-e emtehan: gozine-haye 'ghoroor' va 'takabbor' ham hess-e bala boodan darand, vali razilat-and."
+       }
+      },
+      {
+       "text": {
+        "fa": "عزت نفس در برابر وسوسه و دنیا سر خم نمی‌کند، نه در برابر مردم گردن می‌کشد.",
+        "en": "Self-respect does not bow to temptation and the world; it does not lord it over people.",
+        "tr": "Ezzat-e nafs dar barabar-e vasvase va donya sar kham nemikonad, na dar barabar-e mardom gardan mikeshad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "عزت نفس",
+      "en": "Self-respect (ezzat-e nafs)",
+      "tr": "Ezzat-e nafs"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نفس لوّامه بد نیست؛ نشانهٔ بیداری وجدان است و به توبه می‌کشاند.",
+      "en": "The self-reproaching soul is not bad; it is the sign of a waking conscience and leads to repentance.",
+      "tr": "Nafs-e lavvame bad nist; neshane-ye bidari-ye vojdan ast va be tobe mikeshanad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "عفاف را با «عدل» یا «شجاعت» اشتباه نکن: سپر در برابر شهوت‌ها عفاف است.",
+      "en": "Do not confuse chastity with 'justice' or 'courage': the shield against desire is chastity.",
+      "tr": "Efaf ra ba 'adl' ya 'shoja'at' eshtebah nakon: separ dar barabar-e shahvat-ha efaf ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 962
+    },
+    {
+     "session": "1402-Dey",
+     "number": 955
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 955
+    },
+    {
+     "session": "1401-Dey",
+     "number": 955
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 11,
+   "unit": 3,
+   "key": "rel-11-prophethood-imamate",
+   "title": {
+    "fa": "نبوت و امامت: قلمروهای رسالت",
+    "en": "Prophethood and imamate: the spheres of the mission",
+    "tr": "Nobovvat va emamat: ghalamrow-haye resalat"
+   },
+   "summary": {
+    "fa": "پیامبر وحی را دریافت و ابلاغ می‌کرد؛ امامان مرجعیت دینی و ولایت را ادامه دادند؛ و در غیبت، فقیه جامع‌الشرایط این مسئولیت را دارد.",
+    "en": "The Prophet received and conveyed revelation; the Imams continued religious authority and guardianship; and in the occultation, the qualified jurist carries that charge.",
+    "tr": "Payambar vahy ra daryaft va ablagh mikard; emaman marja'iyat-e dini va velayat ra edame dadand; va dar gheybat, faghih-e jame'-osh-sharayet in mas'ooliyat ra darad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: حلقه‌های تو در تو",
+      "en": "Understand first: nested rings",
+      "tr": "Avval befahm: halghe-haye too dar too"
+     },
+     "body": {
+      "fa": "رسالت پیامبر (ص) چند قلمرو داشت که مثل حلقه‌های تو در تو هستند. نخستین و بنیادی‌ترین قلمرو «دریافت و ابلاغ وحی» است. سپس «مرجعیت دینی» (تبیین معارف دین)، «ولایت ظاهری» (حکومت، ادارهٔ جامعه و اجرای قوانین الهی) و «ولایت معنوی» (هدایت باطنی انسان‌ها به سوی کمال). پیامبر در مدینه حکومت اسلامی را با هدف «اجرای عدالت و قوانین الهی» بنا نهاد.",
+      "en": "The Prophet's mission had several spheres, nested like rings. The first and most basic is 'receiving and conveying the revelation'. Then 'religious authority' (explaining the teachings of the faith), 'outward guardianship' (government, running society and carrying out the divine laws) and 'spiritual guardianship' (guiding people inwardly toward perfection). In Medina the Prophet founded the Islamic government with the aim of 'carrying out justice and the divine laws'.",
+      "tr": "Resalat-e payambar (s) chand ghalamrow dasht ke mesl-e halghe-haye too dar too hastand. Nakhostin va bonyadi-tarin ghalamrow 'daryaft va ablagh-e vahy' ast. Sepas 'marja'iyat-e dini' (tabyin-e ma'aref-e din), 'velayat-e zaheri' (hokoomat, edare-ye jame'e va ejra-ye ghavanin-e elahi) va 'velayat-e ma'navi' (hedayat-e batenie ensan-ha be sooy-e kamal). Payambar dar Madine hokoomat-e eslami ra ba hadaf-e 'ejra-ye edalat va ghavanin-e elahi' bana nahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " THE PROPHET'S SPHERES\n   1 receive + convey\n     revelation   (ends\n     with the Prophet)\n   2 religious authority\n   3 outward guardianship\n     (government)\n   4 spiritual guardianship\n IMAMS: 2, 3, 4 continue\n OCCULTATION: the qualified\n   jurist (vali-ye faqih)",
+     "caption": {
+      "fa": "وحی با پیامبر پایان می‌یابد؛ قلمروهای دیگر با امامان ادامه دارد.",
+      "en": "Revelation ends with the Prophet; the other spheres continue with the Imams.",
+      "tr": "Vahy ba payambar payan miyabad; ghalamrow-haye digar ba emaman edame darad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "امامت و ولایت فقیه",
+      "en": "The imamate and the guardianship of the jurist",
+      "tr": "Emamat va velayat-e faghih"
+     },
+     "body": {
+      "fa": "بنابر باور شیعه، تبیین معارف دین و مرجعیت دینی پس از پیامبر بر عهدهٔ امامان معصوم (ع) است؛ آنها حق حکومت (ولایت ظاهری) و هدایت باطنی (ولایت معنوی، به عنوان واسطهٔ فیض الهی) را نیز دارند. اما دریافت وحی ویژهٔ پیامبر است. در دوران غیبت امام زمان (عج)، مرجعیت دینی و سرپرستی امور سیاسی جامعه بر عهدهٔ فقیه جامع‌الشرایط (ولی فقیه) است.",
+      "en": "In Shia belief, explaining the faith and religious authority after the Prophet belong to the infallible Imams; they also hold the right to govern (outward guardianship) and inward guidance (spiritual guardianship, as a channel of divine grace). But receiving revelation belongs to the Prophet alone. During the occultation of the Imam of the Age, religious authority and the leadership of society's political affairs rest with the fully qualified jurist (vali-ye faqih).",
+      "tr": "Bena bar bavar-e shi'e, tabyin-e ma'aref-e din va marja'iyat-e dini pas az payambar bar ohde-ye emaman-e ma'soom (a) ast; anha haghgh-e hokoomat (velayat-e zaheri) va hedayat-e batenie (velayat-e ma'navi, be onvan-e vasete-ye feyz-e elahi) ra niz darand. Amma daryaft-e vahy vizhe-ye payambar ast. Dar dowran-e gheybat-e emam-e zaman (aj), marja'iyat-e dini va sarparasti-ye omoor-e siyasi-ye jame'e bar ohde-ye faghih-e jame'-osh-sharayet (vali-ye faghih) ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "revelation (Prophet only) ;  authority + outward + spiritual guardianship (continue)",
+     "caption": {
+      "fa": "کدام قلمرو ادامه دارد؟",
+      "en": "Which sphere continues?",
+      "tr": "Kodam ghalamrow edame darad?"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: نخستین و بنیادی‌ترین قلمرو رسالت پیامبر اکرم (ص) کدام است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: what is the first and most basic sphere of the Prophet's mission? (Khordad 1402 paper)",
+      "tr": "Garm kardan: nakhostin va bonyadi-tarin ghalamrow-e resalat-e payambar-e akram (s) kodam ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بی وحی، چیزی برای تبیین یا اجرا نیست؛ پس وحی پایهٔ همهٔ قلمروهاست.",
+        "en": "Without revelation there is nothing to explain or carry out; so revelation is the base of every sphere.",
+        "tr": "Bi vahy, chizi baraye tabyin ya ejra nist; pas vahy paye-ye hame-ye ghalamrow-hast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دریافت و ابلاغ وحی",
+      "en": "Receiving and conveying the revelation",
+      "tr": "Daryaft va ablagh-e vahy"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: حق حکومت، ادارهٔ امور جامعه و اجرای قوانین الهی پس از پیامبر (ص)، کدام قلمرو امامت است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: the right to govern, run society's affairs and carry out the divine laws after the Prophet is which sphere of the imamate? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: haghgh-e hokoomat, edare-ye omoor-e jame'e va ejra-ye ghavanin-e elahi pas az payambar (s), kodam ghalamrow-e emamat ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«حکومت و ادارهٔ جامعه» کاری بیرونی و دیدنی است: ولایت «ظاهری».",
+        "en": "'Government and running society' is outward, visible work: 'outward' guardianship.",
+        "tr": "'Hokoomat va edare-ye jame'e' kari biroonie va didani ast: velayat-e 'zaheri'."
+       }
+      },
+      {
+       "text": {
+        "fa": "همان آزمون، هدایت باطنی را جداگانه پرسیده: ولایت معنوی.",
+        "en": "The same paper asked about inward guidance separately: spiritual guardianship.",
+        "tr": "Haman azmoon, hedayat-e batenie ra jodagane porside: velayat-e ma'navi."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ولایت ظاهری (حکومت)",
+      "en": "Outward guardianship (government)",
+      "tr": "Velayat-e zaheri (hokoomat)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در دوران غیبت امام زمان (عج)، مرجعیت دینی و سرپرستی امور سیاسی جامعه بر عهدهٔ کیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: during the occultation of the Imam of the Age, who carries religious authority and the leadership of society's political affairs? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: dar dowran-e gheybat-e emam-e zaman (aj), marja'iyat-e dini va sarparasti-ye omoor-e siyasi-ye jame'e bar ohde-ye kist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پرسش دو کار را با هم خواسته: مرجعیت دینی و سرپرستی سیاسی. گزینه‌ای درست است که هر دو را داشته باشد.",
+        "en": "The twist: the question asks for two roles together, religious authority and political leadership. The right option must hold both.",
+        "tr": "Pich-e emtehan: porsesh do kar ra ba ham khaste: marja'iyat-e dini va sarparasti-ye siyasi. Gozine-i dorost ast ke har do ra dashte bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "مجلس سکولار، شورای قبیله یا فرماندهان نظامی مرجعیت دینی ندارند.",
+        "en": "A secular parliament, a tribal council or military commanders hold no religious authority.",
+        "tr": "Majles-e sekoolar, shoora-ye ghabile ya farmandehan-e nezami marja'iyat-e dini nadarand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فقیه جامع‌الشرایط (ولی فقیه)",
+      "en": "The fully qualified jurist (vali-ye faqih)",
+      "tr": "Faghih-e jame'-osh-sharayet (vali-ye faghih)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دریافت وحی ادامه ندارد؛ امامان مرجعیت دینی و ولایت را ادامه دادند، نه وحی را.",
+      "en": "Receiving revelation does not continue; the Imams continued religious authority and guardianship, not revelation.",
+      "tr": "Daryaft-e vahy edame nadarad; emaman marja'iyat-e dini va velayat ra edame dadand, na vahy ra."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ولایت ظاهری (حکومت) و ولایت معنوی (هدایت باطنی) را جابه‌جا نکن.",
+      "en": "Do not swap outward guardianship (government) with spiritual guardianship (inward guidance).",
+      "tr": "Velayat-e zaheri (hokoomat) va velayat-e ma'navi (hedayat-e batenie) ra jabeja nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 960
+    },
+    {
+     "session": "1401-Dey",
+     "number": 963
+    },
+    {
+     "session": "1401-Dey",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 955
+    },
+    {
+     "session": "1400-Dey",
+     "number": 955
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    }
+   ]
+  }
+ ]
+}
