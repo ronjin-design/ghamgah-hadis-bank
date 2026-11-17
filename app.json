@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2035,
- "versionName": "3.15.1",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2035/Ghamgah-E-Hadis.apk",
+ "versionCode": 2036,
+ "versionName": "3.15.2",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2036/Ghamgah-E-Hadis.apk",
  "size": 43048706,
- "sha256": "b00d31ae88942fcd673b1091c614c05b2f9d5067c5d6874ef3e92b227690c5e8",
+ "sha256": "6e2e91ed0fa3719d66f0d7d38e0afb0f424b60c48b19c3e24158f5436ab8e8c4",
  "notes": {
-  "fa": "بهبودها: دکمهٔ بلوک تازه درست نمایش داده می‌شود، عنوان صفحه‌ها بریده نمی‌شوند، و برنامهٔ من هفته را از شنبه نشان می‌دهد.",
-  "en": "Polish: the New block button fits its label, screen titles no longer get cut off, My Schedule lists your week from Saturday.",
-  "tr": "Behbood-ha: dokme-ye block-e taze dorost dide mishavad, onvan-e safhe-ha boride nemishavand, va barname-ye man hafte ra az shanbe neshan midahad."
+  "fa": "رفع اشکال: برداشتن تیک همهٔ فصل‌ها در قطب‌نمای مطالعه حالا با برگشتن ذخیره می‌شود.",
+  "en": "Fix: unticking all chapters in the Study Compass now saves when you go back.",
+  "tr": "Rafe eshkal: bardashtan-e tik-e hame-ye fasl-ha dar ghotb-nama-ye motale-e hala ba bargashtan zakhire mishavad."
  }
 }
