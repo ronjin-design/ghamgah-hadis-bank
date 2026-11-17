@@ -1,0 +1,718 @@
+{
+ "version": 132,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-soap-structure",
+   "term": {
+    "fa": "ساختار صابون",
+    "en": "soap structure",
+    "tr": "sakhtar-e saboon"
+   },
+   "explain": {
+    "fa": "صابون نمک سدیم یا پتاسیم یک اسید چرب بلند است (`RCOO-Na+`). هر ذره دو بخش دارد: یک «سر» یونی و قطبی که آب‌دوست است، و یک «دُم» بلند هیدروکربنی که آب‌گریز و چربی‌دوست است.",
+    "en": "Soap is the sodium or potassium salt of a long-chain fatty acid (`RCOO-Na+`). Each particle has two parts: an ionic, polar \"head\" that loves water, and a long hydrocarbon \"tail\" that avoids water and loves grease.",
+    "tr": "Saboon namak-e sodiyom ya potasiyom-e yek asid-e charb-e boland ast (`RCOO-Na+`). Har zarre do bakhsh darad: yek \"sar\"-e yooni va ghotbi ke ab-doost ast, va yek \"dom\"-e boland-e hidrokarboni ke ab-goriz va charbi-doost ast."
+   },
+   "analogy": {
+    "fa": "مثل آدمی که یک دستش را به آب داده و دست دیگرش را به چربی؛ این‌گونه چربی را به آب وصل می‌کند.",
+    "en": "Like a person holding water with one hand and grease with the other; that is how it links grease to water.",
+    "tr": "Mesl-e adami ke yek dastash ra be ab dade va dast-e digarash ra be charbi; in-goone charbi ra be ab vasl mikonad."
+   },
+   "contrast": {
+    "fa": "دُم صابون چربی را می‌گیرد و سرش در آب می‌ماند؛ جای این دو را برعکس ننویس.",
+    "en": "The tail grabs the grease and the head stays in the water; do not swap them.",
+    "tr": "Dom-e saboon charbi ra migirad va sarash dar ab mimanad; ja-ye in do ra bar-aks nanevis."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-solid-soap",
+   "term": {
+    "fa": "صابون جامد",
+    "en": "solid soap",
+    "tr": "saboon-e jamed"
+   },
+   "explain": {
+    "fa": "صابونی که نمک «سدیم» اسید چرب است؛ قالبی و سفت است. صابون‌های مایع معمولاً نمک «پتاسیم» اسید چرب‌اند.",
+    "en": "A soap that is the \"sodium\" salt of a fatty acid; it sets hard as a bar. Liquid soaps are usually the \"potassium\" salts of fatty acids.",
+    "tr": "Saabooni ke namak-e \"sodiyom\"-e asid-e charb ast; ghalebi va seft ast. Saboon-haye maye' ma'moolan namak-e \"potasiyom\"-e asid-e charb-and."
+   },
+   "contrast": {
+    "fa": "سدیم: صابون جامد؛ پتاسیم: صابون مایع.",
+    "en": "Sodium: solid soap; potassium: liquid soap.",
+    "tr": "Sodiyom: saboon-e jamed; potasiyom: saboon-e maye'."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-soaps-detergents",
+   "term": {
+    "fa": "پاک‌کننده‌های صابونی و غیرصابونی",
+    "en": "soaps and detergents",
+    "tr": "pak-konandeh-haye sabooni va gheyr-e sabooni"
+   },
+   "explain": {
+    "fa": "پاک‌کننده‌های صابونی از چربی و روغن طبیعی ساخته می‌شوند و سرشان گروه کربوکسیلات است. پاک‌کننده‌های غیرصابونی (شوینده‌های سنتزی) از نفت ساخته می‌شوند و سرشان معمولاً گروه سولفونات است؛ در آب سخت هم خوب کار می‌کنند.",
+    "en": "Soap detergents are made from natural fats and oils and their head is a carboxylate group. Non-soap (synthetic) detergents are made from petroleum and their head is usually a sulfonate group; they still work well in hard water.",
+    "tr": "Pak-konande-haye sabooni az charbi va roghan-e tabi'i sakhte mishavand va sareshan gorooh-e karboksilat ast. Pak-konande-haye gheyr-e sabooni (shooyande-haye santezi) az naft sakhte mishavand va sareshan ma'moolan gorooh-e soolfonat ast; dar ab-e sakht ham khoob kar mikonand."
+   },
+   "contrast": {
+    "fa": "صابون در آب سخت رسوب می‌دهد؛ شویندهٔ غیرصابونی نه.",
+    "en": "Soap forms scum in hard water; a non-soap detergent does not.",
+    "tr": "Saboon dar ab-e sakht rosoob midahad; shooyande-ye gheyr-e sabooni na."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-carboxylate",
+   "term": {
+    "fa": "گروه کربوکسیلات",
+    "en": "carboxylate group",
+    "tr": "gorooh-e carboxylate"
+   },
+   "explain": {
+    "fa": "سر یونی صابون: `−COO-`. بار منفی دارد، با آب پیوند هیدروژنی و جاذبهٔ یون-دوقطبی برقرار می‌کند و صابون را در آب نگه می‌دارد.",
+    "en": "The ionic head of soap: `−COO-`. It carries a negative charge, attracts water by hydrogen bonding and ion-dipole forces, and keeps the soap in the water.",
+    "tr": "Sar-e yooni-ye saboon: `−COO-`. Bar-e manfi darad, ba ab peyvand-e hidrozheni va jazebe-ye yoon-dogotbi bargharar mikonad va saboon ra dar ab negah midarad."
+   },
+   "contrast": {
+    "fa": "کربوکسیلات سرِ صابون است؛ سولفونات سرِ شویندهٔ غیرصابونی.",
+    "en": "Carboxylate is the head of a soap; sulfonate is the head of a non-soap detergent.",
+    "tr": "Karboksilat sar-e saboon ast; soolfonat sar-e shooyande-ye gheyr-e sabooni."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-saponification",
+   "term": {
+    "fa": "صابونی شدن",
+    "en": "saponification",
+    "tr": "saboonai shodan"
+   },
+   "explain": {
+    "fa": "واکنش چربی یا روغن (یک استر سه‌تایی) با بازی قوی مثل `NaOH` که صابون و گلیسرین می‌دهد.",
+    "en": "The reaction of a fat or oil (a triester) with a strong base such as `NaOH`, giving soap and glycerol.",
+    "tr": "Vakonesh-e charbi ya roghan (yek ester-e se-tayi) ba bazi ghavi mesl-e `NaOH` ke saboon va giliserin midahad."
+   },
+   "analogy": {
+    "fa": "مثل باز کردن سه شاخهٔ یک چنگال: هر شاخه یک مولکول صابون می‌شود و دسته‌اش گلیسرین.",
+    "en": "Like snapping the three prongs off a fork: each prong becomes a soap molecule and the handle is glycerol.",
+    "tr": "Mesl-e baz kardan-e se shakhe-ye yek changal: har shakhe yek molekool saboon mishavad va daste-ash giliserin."
+   },
+   "contrast": {
+    "fa": "هر مولکول چربی سه مولکول صابون می‌دهد، نه یکی.",
+    "en": "Each fat molecule gives three soap molecules, not one.",
+    "tr": "Har molekool charbi se molekool saboon midahad, na yeki."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-salting-out",
+   "term": {
+    "fa": "نمک‌زنی صابون",
+    "en": "salting-out effect",
+    "tr": "namak-zani-ye saboon"
+   },
+   "explain": {
+    "fa": "افزودن نمک خوراکی (`NaCl`) به مخلوط پس از صابونی شدن؛ انحلال‌پذیری صابون کم می‌شود و صابون به‌صورت جامد جدا می‌شود و روی محلول می‌آید.",
+    "en": "Adding table salt (`NaCl`) to the mixture after saponification; the soap's solubility drops, so it separates out as a solid and rises to the top.",
+    "tr": "Afzoodan-e namak-e khoraki (`NaCl`) be makhloot pas az saboonai shodan; enhelal-paziri-ye saboon kam mishavad va saboon be-soorat-e jamed joda mishavad va rooye mahlool miayad."
+   },
+   "analogy": {
+    "fa": "مثل وقتی که سالن شلوغ می‌شود و مهمان‌های کم‌جا بیرون می‌روند.",
+    "en": "Like a crowded hall where the guests with least room are pushed outside.",
+    "tr": "Mesl-e vaghti ke salon sholoogh mishavad va mehman-haye kam-ja biroon miravand."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-hydrophobic",
+   "term": {
+    "fa": "آب‌گریز",
+    "en": "hydrophobic",
+    "tr": "ab-goriz"
+   },
+   "explain": {
+    "fa": "بخشی که با آب جاذبه ندارد و در آن حل نمی‌شود، مثل زنجیر بلند هیدروکربنی صابون. بخش‌های آب‌گریز در چربی حل می‌شوند.",
+    "en": "A part that has no attraction for water and does not dissolve in it, like the long hydrocarbon chain of soap. Hydrophobic parts dissolve in grease.",
+    "tr": "Bakhshi ke ba ab jazebe nadarad va dar an hal nemishavad, mesl-e zanjir-e boland-e hidrokarboni-ye saboon. Bakhsh-haye ab-goriz dar charbi hal mishavand."
+   },
+   "contrast": {
+    "fa": "آب‌گریز: دُم ناقطبی؛ آب‌دوست: سر یونی و قطبی.",
+    "en": "Hydrophobic: the non-polar tail; hydrophilic: the ionic, polar head.",
+    "tr": "Ab-goriz: dom-e naghotbi; ab-doost: sar-e yooni va ghotbi."
+   },
+   "unit": "chem-1-soaps"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-soap-detergent",
+   "term": {
+    "fa": "پاک‌کننده صابونی",
+    "en": "soap detergent",
+    "tr": "pak-konandeh-ye sabooni"
+   },
+   "explain": {
+    "fa": "پاک‌کننده‌ای که خودِ صابون است: نمک سدیم یا پتاسیم اسید چرب با سر کربوکسیلات. در آب سخت با `Ca2+` و `Mg2+` رسوب می‌دهد و کارایی‌اش کم می‌شود.",
+    "en": "A cleaner that is soap itself: a sodium or potassium salt of a fatty acid with a carboxylate head. In hard water it forms a precipitate with `Ca2+` and `Mg2+` and loses its power.",
+    "tr": "Pak-konande-i ke khod-e saboon ast: namak-e sodiyom ya potasiyom-e asid-e charb ba sar-e karboksilat. Dar ab-e sakht ba `Ca2+` va `Mg2+` rosoob midahad va karayi-ash kam mishavad."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-hard-water",
+   "term": {
+    "fa": "آب سخت",
+    "en": "hard water",
+    "tr": "ab-e sakht"
+   },
+   "explain": {
+    "fa": "آبی که یون‌های `Ca2+` و `Mg2+` زیادی دارد. این یون‌ها با صابون رسوب نامحلول (لکهٔ چرب‌نما) می‌سازند، کف کم می‌شود و روی کتری و لوله رسوب می‌نشیند.",
+    "en": "Water containing many `Ca2+` and `Mg2+` ions. These ions form an insoluble precipitate (scum) with soap, so there is little lather, and scale builds up in kettles and pipes.",
+    "tr": "Abi ke yoon-haye `Ca2+` va `Mg2+` ziyadi darad. In yoon-ha ba saboon rosoob-e namahlool (lakke-ye charb-nama) misazand, kaf kam mishavad va rooye ketri va loole rosoob mineshinad."
+   },
+   "analogy": {
+    "fa": "یون‌های کلسیم مثل دزدهایی‌اند که سرِ صابون را می‌گیرند و آن را از کار می‌اندازند.",
+    "en": "Calcium ions are like thieves that grab the soap's head and put it out of action.",
+    "tr": "Yoon-haye kalsiyom mesl-e dozd-hayi-and ke sar-e saboon ra migirand va an ra az kar mindazand."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-precipitate",
+   "term": {
+    "fa": "رسوب",
+    "en": "precipitate",
+    "tr": "rosoob"
+   },
+   "explain": {
+    "fa": "جامد نامحلولی که هنگام واکنش در محلول ساخته می‌شود و جدا می‌شود؛ مثل `(RCOO)2Ca` که صابون در آب سخت می‌سازد.",
+    "en": "An insoluble solid that forms in a solution during a reaction and separates out, such as `(RCOO)2Ca`, which soap forms in hard water.",
+    "tr": "Jamed-e namahlooli ke hengam-e vakonesh dar mahlool sakhte mishavad va joda mishavad; mesl-e `(RCOO)2Ca` ke saboon dar ab-e sakht misazad."
+   },
+   "contrast": {
+    "fa": "هر یون `Ca2+` دو یون صابون را می‌گیرد: `1 : 2`.",
+    "en": "Each `Ca2+` ion takes two soap ions: `1 : 2`.",
+    "tr": "Har yoon-e `Ca2+` do yoon-e saboon ra migirad: `1 : 2`."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-calcium-magnesium",
+   "term": {
+    "fa": "کلسیم و منیزیم",
+    "en": "calcium and magnesium",
+    "tr": "calcium va magnesium"
+   },
+   "explain": {
+    "fa": "دو یون دوبار مثبت `Ca2+` و `Mg2+` که عامل سختی آب‌اند. چون دوبار مثبت‌اند، هر کدام دو سرِ کربوکسیلات صابون را می‌گیرند و رسوب می‌سازند.",
+    "en": "The two doubly charged ions `Ca2+` and `Mg2+` that make water hard. Because they are 2+, each one grabs two carboxylate heads of soap and forms a precipitate.",
+    "tr": "Do yoon-e do-bar mosbat-e `Ca2+` va `Mg2+` ke amel-e sakhti-ye ab-and. Chon do-bar mosbat-and, har kodam do sar-e karboksilat-e saboon ra migirand va rosoob misazand."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-sulfonate",
+   "term": {
+    "fa": "گروه سولفونات",
+    "en": "sulfonate group",
+    "tr": "gorooh-e sulfonate"
+   },
+   "explain": {
+    "fa": "سر یونی شوینده‌های غیرصابونی: `−SO3-`. نمک کلسیم و منیزیمِ آن نامحلول نیست، پس این شوینده‌ها در آب سخت رسوب نمی‌دهند.",
+    "en": "The ionic head of non-soap detergents: `−SO3-`. Its calcium and magnesium salts are not insoluble, so these detergents do not form scum in hard water.",
+    "tr": "Sar-e yooni-ye shooyande-haye gheyr-e sabooni: `−SO3-`. Namak-e kalsiyom va menizium-e an namahlool nist, pas in shooyande-ha dar ab-e sakht rosoob nemidahand."
+   },
+   "matches": {
+    "tr": [
+     "goroh-e sulfonate"
+    ]
+   },
+   "contrast": {
+    "fa": "سولفونات در آب سخت کار می‌کند؛ کربوکسیلات صابون نه.",
+    "en": "Sulfonate works in hard water; soap's carboxylate does not.",
+    "tr": "Soolfonat dar ab-e sakht kar mikonad; karboksilat-e saboon na."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-corrosive-cleaner",
+   "term": {
+    "fa": "پاک‌کنندهٔ خورنده",
+    "en": "corrosive cleaner",
+    "tr": "pak-konandeh-ye khorandeh"
+   },
+   "explain": {
+    "fa": "پاک‌کننده‌ای که با واکنش شیمیایی، نه با حل کردن، آلودگی را از بین می‌برد؛ مثل `NaOH` در بازکنندهٔ لوله که چربی و مو را تجزیه می‌کند. به پوست و چشم آسیب می‌زند و باید با احتیاط به کار رود.",
+    "en": "A cleaner that removes dirt by chemical reaction rather than by dissolving it, such as `NaOH` in drain openers, which breaks down grease and hair. It harms skin and eyes and must be used with care.",
+    "tr": "Pak-konande-i ke ba vakonesh-e shimiyayi, na ba hal kardan, aloodegi ra az beyn mibarad; mesl-e `NaOH` dar baz-konande-ye loole ke charbi va moo ra tajziye mikonad. Be poost va chashm asib mizanad va bayad ba ehtiyat be kar ravad."
+   },
+   "contrast": {
+    "fa": "صابون آلودگی را «جدا» می‌کند؛ پاک‌کنندهٔ خورنده آن را «می‌شکند».",
+    "en": "Soap \"lifts\" dirt away; a corrosive cleaner \"breaks it down\".",
+    "tr": "Saboon aloodegi ra \"joda\" mikonad; pak-konande-ye khorande an ra \"mishekanad\"."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ksp",
+   "term": {
+    "fa": "ثابت حاصل‌ضرب انحلال‌پذیری",
+    "en": "solubility product constant",
+    "tr": "sabet-e hasel-zarb-e enhelal-paziri"
+   },
+   "explain": {
+    "fa": "ثابت تعادل انحلال یک نمک کم‌محلول (`Ksp`): حاصل‌ضرب غلظت یون‌ها در محلول سیرشده، هر کدام به توان ضریبش. `Ksp` کوچک‌تر یعنی نمک کم‌محلول‌تر، مثل `CaCO3` در رسوب کتری.",
+    "en": "The equilibrium constant for dissolving a slightly soluble salt (`Ksp`): the product of the ion concentrations in a saturated solution, each raised to its coefficient. A smaller `Ksp` means a less soluble salt, such as `CaCO3` in kettle scale.",
+    "tr": "Sabet-e ta'adol-e enhelal-e yek namak-e kam-mahlool (`Ksp`): hasel-zarb-e ghelzat-e yoon-ha dar mahlool-e sirshode, har kodam be tavan-e zaribash. `Ksp`-e koochak-tar ya'ni namak-e kam-mahlool-tar, mesl-e `CaCO3` dar rosoob-e ketri."
+   },
+   "unit": "chem-1-hard-water-cleaners"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-arrhenius-theory",
+   "term": {
+    "fa": "نظریهٔ آرنیوس",
+    "en": "Arrhenius theory",
+    "tr": "nazariyeh-ye Arrhenius"
+   },
+   "explain": {
+    "fa": "اسید ماده‌ای است که در آب غلظت `H3O+` (یا `H+`) را زیاد می‌کند و باز ماده‌ای که غلظت `OH-` را زیاد می‌کند. فقط محلول‌های آبی را توضیح می‌دهد.",
+    "en": "An acid is a substance that raises the concentration of `H3O+` (or `H+`) in water, and a base one that raises the concentration of `OH-`. It explains only aqueous solutions.",
+    "tr": "Asid made-i ast ke dar ab ghelzat-e `H3O+` (ya `H+`) ra ziyad mikonad va baz made-i ke ghelzat-e `OH-` ra ziyad mikonad. Faghat mahlool-haye abi ra tozih midahad."
+   },
+   "contrast": {
+    "fa": "آرنیوس به آب وابسته است؛ برونستد-لوری به انتقال پروتون.",
+    "en": "Arrhenius depends on water; Brønsted-Lowry on proton transfer.",
+    "tr": "Arrhenius be ab vabaste ast; Bronsted-Lowry be enteghal-e proton."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-arrhenius-acid",
+   "term": {
+    "fa": "اسید آرنیوس",
+    "en": "Arrhenius acid",
+    "tr": "asid-e Arrhenius"
+   },
+   "explain": {
+    "fa": "ماده‌ای که با حل شدن در آب غلظت یون هیدرونیوم (`H3O+`) را افزایش می‌دهد، مثل `HCl` و `HNO3`.",
+    "en": "A substance that increases the concentration of hydronium ions (`H3O+`) when it dissolves in water, such as `HCl` and `HNO3`.",
+    "tr": "Made-i ke ba hal shodan dar ab ghelzat-e yoon-e hidronium (`H3O+`) ra afzayesh midahad, mesl-e `HCl` va `HNO3`."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-bronsted-lowry",
+   "term": {
+    "fa": "برونستد-لوری",
+    "en": "Brønsted-Lowry",
+    "tr": "Bronsted-Lowry"
+   },
+   "explain": {
+    "fa": "نظریه‌ای که اسید را «دهندهٔ پروتون» و باز را «گیرندهٔ پروتون» می‌داند. به آب نیاز ندارد و هر واکنش انتقال `H+` را اسید-باز می‌شمارد.",
+    "en": "The theory that defines an acid as a \"proton donor\" and a base as a \"proton acceptor\". It does not need water and counts any `H+` transfer as an acid-base reaction.",
+    "tr": "Nazariye-i ke asid ra \"dahande-ye proton\" va baz ra \"girande-ye proton\" midanad. Be ab niyaz nadarad va har vakonesh-e enteghal-e `H+` ra asid-baz mishomarad."
+   },
+   "analogy": {
+    "fa": "مثل بازی پاس دادن توپ: کسی که توپ (پروتون) را پاس می‌دهد اسید است و کسی که می‌گیرد باز.",
+    "en": "Like passing a ball: whoever passes the ball (the proton) is the acid, and whoever catches it is the base.",
+    "tr": "Mesl-e bazi-ye pas dadan-e toop: kasi ke toop (proton) ra pas midahad asid ast va kasi ke migirad baz."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-bronsted-base",
+   "term": {
+    "fa": "باز برونستد-لوری",
+    "en": "Brønsted-Lowry base",
+    "tr": "baz-e Bronsted-Lowry"
+   },
+   "explain": {
+    "fa": "گونه‌ای که پروتون (`H+`) می‌گیرد؛ معمولاً یک جفت الکترون ناپیوندی دارد، مثل `NH3` که با گرفتن پروتون `NH4+` می‌شود.",
+    "en": "A species that accepts a proton (`H+`); it usually has a lone pair of electrons, like `NH3`, which becomes `NH4+` by taking a proton.",
+    "tr": "Goone-i ke proton (`H+`) migirad; ma'moolan yek joft elektron-e napeyvandi darad, mesl-e `NH3` ke ba gereftan-e proton `NH4+` mishavad."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-proton-donor",
+   "term": {
+    "fa": "دهندهٔ پروتون",
+    "en": "proton donor",
+    "tr": "dahande-ye proton"
+   },
+   "explain": {
+    "fa": "تعریف اسید در نظریهٔ برونستد-لوری: گونه‌ای که یون `H+` را به گونهٔ دیگر می‌دهد.",
+    "en": "The Brønsted-Lowry definition of an acid: a species that gives an `H+` ion to another species.",
+    "tr": "Ta'rif-e asid dar nazariye-ye Bronsted-Lowry: goone-i ke yoon-e `H+` ra be goone-ye digar midahad."
+   },
+   "contrast": {
+    "fa": "دهندهٔ پروتون: اسید؛ گیرندهٔ پروتون: باز.",
+    "en": "Proton donor: acid; proton acceptor: base.",
+    "tr": "Dahande-ye proton: asid; girande-ye proton: baz."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-conjugate-acid",
+   "term": {
+    "fa": "اسید مزدوج",
+    "en": "conjugate acid",
+    "tr": "asid-e mozdavaj"
+   },
+   "explain": {
+    "fa": "گونه‌ای که وقتی یک باز پروتون می‌گیرد ساخته می‌شود؛ یک `H+` بیشتر از باز خود دارد. مثلاً `NH4+` اسید مزدوج `NH3` است.",
+    "en": "The species formed when a base gains a proton; it has one more `H+` than its base. For example, `NH4+` is the conjugate acid of `NH3`.",
+    "tr": "Goone-i ke vaghti yek baz proton migirad sakhte mishavad; yek `H+` bishtar az baz-e khod darad. Masalan `NH4+` asid-e mozdavaj-e `NH3` ast."
+   },
+   "contrast": {
+    "fa": "جفت مزدوج فقط در یک `H+` فرق دارند.",
+    "en": "A conjugate pair differs by exactly one `H+`.",
+    "tr": "Joft-e mozdavaj faghat dar yek `H+` fargh darand."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-conjugate-base",
+   "term": {
+    "fa": "باز مزدوج",
+    "en": "conjugate base",
+    "tr": "baz-e mozdavaj"
+   },
+   "explain": {
+    "fa": "گونه‌ای که پس از دادن پروتون از یک اسید باقی می‌ماند؛ یک `H+` کمتر دارد. مثلاً `Cl-` باز مزدوج `HCl` است. هرچه اسید قوی‌تر، باز مزدوجش ضعیف‌تر.",
+    "en": "The species left after an acid gives away a proton; it has one `H+` fewer. For example, `Cl-` is the conjugate base of `HCl`. The stronger the acid, the weaker its conjugate base.",
+    "tr": "Goone-i ke pas az dadan-e proton az yek asid baghi mimanad; yek `H+` kamtar darad. Masalan `Cl-` baz-e mozdavaj-e `HCl` ast. Harche asid ghavi-tar, baz-e mozdavajash za'if-tar."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-acid-base-equilibrium",
+   "term": {
+    "fa": "تعادل اسید-باز",
+    "en": "acid-base equilibrium",
+    "tr": "taadol-e asid-baz"
+   },
+   "explain": {
+    "fa": "تعادلی که در آن پروتون در هر دو جهت جابه‌جا می‌شود: `HA + H2O ⇌ H3O+ + A-`. در هر طرف یک اسید و یک باز هست، پس دو جفت مزدوج داریم.",
+    "en": "An equilibrium in which a proton moves in both directions: `HA + H2O ⇌ H3O+ + A-`. Each side has one acid and one base, so there are two conjugate pairs.",
+    "tr": "Ta'adoli ke dar an proton dar har do jahat jabeja mishavad: `HA + H2O ⇌ H3O+ + A-`. Dar har taraf yek asid va yek baz hast, pas do joft-e mozdavaj darim."
+   },
+   "unit": "chem-1-acid-base-theories"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-nitric-acid",
+   "term": {
+    "fa": "اسید نیتریک",
+    "en": "nitric acid",
+    "tr": "nitric acid"
+   },
+   "explain": {
+    "fa": "`HNO3`، اسیدی قوی که در آب کامل یونیده می‌شود: `HNO3 + H2O → H3O+ + NO3-`. درجهٔ یونش آن تقریباً `1` است.",
+    "en": "`HNO3`, a strong acid that ionises completely in water: `HNO3 + H2O → H3O+ + NO3-`. Its degree of ionisation is about `1`.",
+    "tr": "`HNO3`, asidi ghavi ke dar ab kamel yoonide mishavad: `HNO3 + H2O → H3O+ + NO3-`. Daraje-ye yoonesh-e an taghriban `1` ast."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-strong-acid",
+   "term": {
+    "fa": "اسید قوی",
+    "en": "strong acid",
+    "tr": "asid-e ghavi"
+   },
+   "explain": {
+    "fa": "اسیدی که در آب تقریباً کامل یونیده می‌شود (`α ≈ 1`)، مثل `HCl`، `HNO3` و `H2SO4`. در غلظت برابر، `pH` کمتری از اسید ضعیف دارد.",
+    "en": "An acid that ionises almost completely in water (`α ≈ 1`), such as `HCl`, `HNO3` and `H2SO4`. At equal concentration it has a lower `pH` than a weak acid.",
+    "tr": "Asidi ke dar ab taghriban kamel yoonide mishavad (`α ≈ 1`), mesl-e `HCl`, `HNO3` va `H2SO4`. Dar ghelzat-e barabar, `pH`-e kamtari az asid-e za'if darad."
+   },
+   "contrast": {
+    "fa": "«قوی» یعنی کامل یونیده، نه «غلیظ».",
+    "en": "\"Strong\" means fully ionised, not \"concentrated\".",
+    "tr": "\"Ghavi\" ya'ni kamel yoonide, na \"ghaliz\"."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-weak-acid",
+   "term": {
+    "fa": "اسید ضعیف",
+    "en": "weak acid",
+    "tr": "asid-e zaif"
+   },
+   "explain": {
+    "fa": "اسیدی که در آب فقط بخش کوچکی از مولکول‌هایش یونیده می‌شوند (`α` بسیار کمتر از `1`) و تعادل برقرار می‌شود، مثل اسید استیک.",
+    "en": "An acid of which only a small fraction of molecules ionise in water (`α` much less than `1`), setting up an equilibrium, such as acetic acid.",
+    "tr": "Asidi ke dar ab faghat bakhsh-e koochaki az molekool-hayash yoonide mishavand (`α` besiyar kamtar az `1`) va ta'adol bargharar mishavad, mesl-e asid-e asetik."
+   },
+   "analogy": {
+    "fa": "مثل کلاسی که فقط چند نفر دست بلند می‌کنند؛ بیشتر مولکول‌ها دست‌نخورده می‌مانند.",
+    "en": "Like a class where only a few raise their hands; most molecules stay intact.",
+    "tr": "Mesl-e kelasi ke faghat chand nafar dast boland mikonand; bishtar-e molekool-ha dast-nakhorde mimanand."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-hydronium",
+   "term": {
+    "fa": "یون هیدرونیوم",
+    "en": "hydronium ion",
+    "tr": "yon-e hydronium"
+   },
+   "explain": {
+    "fa": "`H3O+`، یونی که وقتی یک پروتون به مولکول آب می‌چسبد ساخته می‌شود. در محلول آبی، `H+` همیشه به‌صورت `H3O+` است و غلظتش `pH` را تعیین می‌کند.",
+    "en": "`H3O+`, the ion formed when a proton attaches to a water molecule. In aqueous solution `H+` always exists as `H3O+`, and its concentration sets the `pH`.",
+    "tr": "`H3O+`, yooni ke vaghti yek proton be molekool-e ab michasbad sakhte mishavad. Dar mahlool-e abi, `H+` hamishe be-soorat-e `H3O+` ast va ghelzatash `pH` ra ta'yin mikonad."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-degree-ionization",
+   "term": {
+    "fa": "درجهٔ یونش",
+    "en": "degree of ionization",
+    "tr": "darajeh-ye yonesh"
+   },
+   "explain": {
+    "fa": "`α`: نسبت شمار مولکول‌های یونیده‌شده به شمار کل مولکول‌های حل‌شده. برای اسید قوی نزدیک `1` و برای اسید ضعیف بسیار کوچک است.",
+    "en": "`α`: the number of molecules that ionised divided by the total number dissolved. It is close to `1` for a strong acid and very small for a weak acid.",
+    "tr": "`α`: nesbat-e shomar-e molekool-haye yoonide-shode be shomar-e kol-e molekool-haye hal-shode. Baraye asid-e ghavi nazdik-e `1` va baraye asid-e za'if besiyar koochak ast."
+   },
+   "contrast": {
+    "fa": "`α = 0.01` یعنی از هر صد مولکول فقط یکی یونیده شده.",
+    "en": "`α = 0.01` means only one molecule in a hundred has ionised.",
+    "tr": "`α = 0.01` ya'ni az har sad molekool faghat yeki yoonide shode."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-complete-dissociation",
+   "term": {
+    "fa": "تفکیک کامل",
+    "en": "complete dissociation",
+    "tr": "tafkik-e kamel"
+   },
+   "explain": {
+    "fa": "یونیده شدن همهٔ مولکول‌های حل‌شده، بدون تعادل؛ معادله را با یک پیکان یک‌طرفه می‌نویسند. نشانهٔ اسید یا باز قوی است.",
+    "en": "Every dissolved molecule ionising, with no equilibrium; the equation is written with a one-way arrow. It is the sign of a strong acid or base.",
+    "tr": "Yoonide shodan-e hame-ye molekool-haye hal-shode, bedoon-e ta'adol; moadele ra ba yek peykan-e yek-tarafe minevisand. Neshane-ye asid ya baz-e ghavi ast."
+   },
+   "contrast": {
+    "fa": "تفکیک کامل: `→`؛ اسید ضعیف: `⇌`.",
+    "en": "Complete dissociation: `→`; weak acid: `⇌`.",
+    "tr": "Tafkik-e kamel: `→`; asid-e za'if: `⇌`."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ka",
+   "term": {
+    "fa": "ثابت یونش اسید",
+    "en": "acid ionization constant",
+    "tr": "sabet-e yonesh-e acid"
+   },
+   "explain": {
+    "fa": "ثابت تعادل یونش یک اسید ضعیف: `Ka = [H3O+][A-] / [HA]`. `Ka` بزرگ‌تر یعنی اسید قوی‌تر. به آن ثابت تفکیک اسیدی هم می‌گویند.",
+    "en": "The equilibrium constant for the ionisation of a weak acid: `Ka = [H3O+][A-] / [HA]`. A larger `Ka` means a stronger acid. It is also called the acid dissociation constant.",
+    "tr": "Sabet-e ta'adol-e yoonesh-e yek asid-e za'if: `Ka = [H3O+][A-] / [HA]`. `Ka`-ye bozorg-tar ya'ni asid-e ghavi-tar. Be an sabet-e tafkik-e asidi ham migooyand."
+   },
+   "matches": {
+    "fa": [
+     "ثابت تفکیک اسیدی"
+    ],
+    "en": [
+     "acid dissociation constant"
+    ],
+    "tr": [
+     "sabet-e tafkik-e asidi",
+     "sabet-e yonesh-e asid"
+    ]
+   },
+   "contrast": {
+    "fa": "آب در عبارت `Ka` نمی‌آید، چون مایع خالص است.",
+    "en": "Water does not appear in the `Ka` expression, because it is a pure liquid.",
+    "tr": "Ab dar ebarat-e `Ka` nemiayad, chon maye'-e khales ast."
+   },
+   "unit": "chem-1-strong-weak-acids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-kw",
+   "term": {
+    "fa": "ثابت یونش آب",
+    "en": "ionization constant of water",
+    "tr": "sabet-e yonesh-e ab"
+   },
+   "explain": {
+    "fa": "آب خالص اندکی خودیونش می‌کند و `Kw = [H3O+][OH-] = 10^-14` در دمای `25` درجه. در هر محلول آبی این حاصل‌ضرب ثابت است: اگر یکی زیاد شود، دیگری کم می‌شود.",
+    "en": "Pure water self-ionises slightly, and `Kw = [H3O+][OH-] = 10^-14` at `25` °C. This product is constant in every aqueous solution: if one rises, the other falls.",
+    "tr": "Ab-e khales andaki khod-yoonesh mikonad va `Kw = [H3O+][OH-] = 10^-14` dar dama-ye `25` daraje. Dar har mahlool-e abi in hasel-zarb sabet ast: agar yeki ziyad shavad, digari kam mishavad."
+   },
+   "analogy": {
+    "fa": "مثل الاکلنگی که حاصل‌ضرب دو طرفش همیشه یکی است.",
+    "en": "Like a seesaw whose two sides always multiply to the same number.",
+    "tr": "Mesl-e alakolangi ke hasel-zarb-e do tarafash hamishe yeki ast."
+   },
+   "contrast": {
+    "fa": "`Kw` با دما تغییر می‌کند؛ `10^-14` فقط برای `25` درجه است.",
+    "en": "`Kw` changes with temperature; `10^-14` holds only at `25` °C.",
+    "tr": "`Kw` ba dama taghyir mikonad; `10^-14` faghat baraye `25` daraje ast."
+   },
+   "unit": "chem-1-water-ph"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ph-scale",
+   "term": {
+    "fa": "مقیاس pH",
+    "en": "pH scale",
+    "tr": "meghyas-e pH"
+   },
+   "explain": {
+    "fa": "`pH = −log[H3O+]`. در `25` درجه: `pH < 7` اسیدی، `7` خنثی و `pH > 7` بازی. هر یک واحد کاهش `pH` یعنی `10` برابر شدن غلظت `H3O+`.",
+    "en": "`pH = −log[H3O+]`. At `25` °C: `pH < 7` is acidic, `7` neutral and `pH > 7` basic. Each drop of one `pH` unit means ten times more `H3O+`.",
+    "tr": "`pH = −log[H3O+]`. Dar `25` daraje: `pH < 7` asidi, `7` khonsa va `pH > 7` bazi. Har yek vahed kahesh-e `pH` ya'ni `10` barabar shodan-e ghelzat-e `H3O+`."
+   },
+   "contrast": {
+    "fa": "`pH` کمتر یعنی اسیدی‌تر، نه کمتر اسیدی.",
+    "en": "A lower `pH` means more acidic, not less.",
+    "tr": "`pH`-e kamtar ya'ni asidi-tar, na kamtar asidi."
+   },
+   "unit": "chem-1-water-ph"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-acidic-solution",
+   "term": {
+    "fa": "محلول اسیدی",
+    "en": "acidic solution",
+    "tr": "mahlool-e asidi"
+   },
+   "explain": {
+    "fa": "محلولی که در آن `[H3O+] > [OH-]` است؛ در `25` درجه یعنی `[H3O+] > 10^-7` و `pH < 7`.",
+    "en": "A solution in which `[H3O+] > [OH-]`; at `25` °C that means `[H3O+] > 10^-7` and `pH < 7`.",
+    "tr": "Mahlooli ke dar an `[H3O+] > [OH-]` ast; dar `25` daraje ya'ni `[H3O+] > 10^-7` va `pH < 7`."
+   },
+   "contrast": {
+    "fa": "محلول اسیدی هم `OH-` دارد، فقط کمتر از `H3O+`.",
+    "en": "An acidic solution still contains `OH-`, just less than `H3O+`.",
+    "tr": "Mahlool-e asidi ham `OH-` darad, faghat kamtar az `H3O+`."
+   },
+   "unit": "chem-1-water-ph"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-acid-dilution",
+   "term": {
+    "fa": "رقیق کردن اسید",
+    "en": "acid dilution",
+    "tr": "raghigh kardan-e asid"
+   },
+   "explain": {
+    "fa": "افزودن آب به اسید؛ غلظت `H3O+` کم و `pH` بیشتر می‌شود. ده برابر رقیق کردن یک اسید قوی `pH` را یک واحد بالا می‌برد، ولی هرگز از `7` بالاتر نمی‌رود.",
+    "en": "Adding water to an acid; the `H3O+` concentration falls and the `pH` rises. Diluting a strong acid tenfold raises its `pH` by one unit, but never above `7`.",
+    "tr": "Afzoodan-e ab be asid; ghelzat-e `H3O+` kam va `pH` bishtar mishavad. Dah barabar raghigh kardan-e yek asid-e ghavi `pH` ra yek vahed bala mibarad, vali hargez az `7` bala-tar nemiravad."
+   },
+   "contrast": {
+    "fa": "اسید با رقیق شدن به خنثی نزدیک می‌شود ولی بازی نمی‌شود.",
+    "en": "An acid approaches neutral as it is diluted, but never becomes basic.",
+    "tr": "Asid ba raghigh shodan be khonsa nazdik mishavad vali bazi nemishavad."
+   },
+   "unit": "chem-1-water-ph"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-equivalence-point",
+   "term": {
+    "fa": "نقطهٔ هم‌ارزی",
+    "en": "equivalence point",
+    "tr": "noghteh-ye ham-arzi"
+   },
+   "explain": {
+    "fa": "لحظه‌ای در سنجش حجمی (تیتراسیون) که مول‌های اسید و باز درست به نسبت معادله با هم واکنش داده‌اند. برای اسید قوی و باز قوی، `pH` در این نقطه `7` است.",
+    "en": "The moment in a titration when the moles of acid and base have reacted exactly in the ratio of the equation. For a strong acid with a strong base, the `pH` at this point is `7`.",
+    "tr": "Lahze-i dar sanjesh-e hajmi (titrasiyon) ke mol-haye asid va baz dorost be nesbat-e moadele ba ham vakonesh dade-and. Baraye asid-e ghavi va baz-e ghavi, `pH` dar in noghte `7` ast."
+   },
+   "contrast": {
+    "fa": "هم‌ارزی یعنی «مول‌های برابر به نسبت معادله»، نه حجم برابر.",
+    "en": "Equivalence means \"moles matched in the equation's ratio\", not equal volumes.",
+    "tr": "Ham-arzi ya'ni \"mol-haye barabar be nesbat-e moadele\", na hajm-e barabar."
+   },
+   "unit": "chem-1-neutralisation-buffers"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-buffer",
+   "term": {
+    "fa": "محلول بافر",
+    "en": "buffer solution",
+    "tr": "mahlool-e bafer"
+   },
+   "explain": {
+    "fa": "محلولی از یک اسید ضعیف و باز مزدوجش (یا باز ضعیف و اسید مزدوجش) که با افزودن کمی اسید یا باز، `pH` آن تقریباً ثابت می‌ماند: باز مزدوج اسید اضافه را می‌گیرد و اسید ضعیف باز اضافه را.",
+    "en": "A solution of a weak acid and its conjugate base (or a weak base and its conjugate acid) whose `pH` stays nearly constant when a little acid or base is added: the conjugate base takes up added acid and the weak acid takes up added base.",
+    "tr": "Mahlooli az yek asid-e za'if va baz-e mozdavajash (ya baz-e za'if va asid-e mozdavajash) ke ba afzoodan-e kami asid ya baz, `pH`-e an taghriban sabet mimanad: baz-e mozdavaj asid-e ezafe ra migirad va asid-e za'if baz-e ezafe ra."
+   },
+   "analogy": {
+    "fa": "مثل ضربه‌گیر ماشین که تکان‌ها را می‌گیرد تا سرنشین آرام بماند.",
+    "en": "Like a car's shock absorber, soaking up the bumps so the passengers stay steady.",
+    "tr": "Mesl-e zarbe-gir-e mashin ke takan-ha ra migirad ta sarneshin aram bemanad."
+   },
+   "contrast": {
+    "fa": "بافر `pH` را «ثابت نگه نمی‌دارد»، فقط تغییرش را بسیار کم می‌کند.",
+    "en": "A buffer does not \"freeze\" the `pH`; it only makes the change very small.",
+    "tr": "Bafer `pH` ra \"sabet negah nemidarad\", faghat taghyirash ra besiyar kam mikonad."
+   },
+   "unit": "chem-1-neutralisation-buffers"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-blood-buffer",
+   "term": {
+    "fa": "بافر خون",
+    "en": "blood buffer system",
+    "tr": "bafer-e khoon"
+   },
+   "explain": {
+    "fa": "سامانهٔ کربنیک اسید و یون هیدروژن‌کربنات (`H2CO3 / HCO3-`) که `pH` خون را نزدیک `7.4` نگه می‌دارد؛ حتی تغییر کوچکی از این مقدار خطرناک است.",
+    "en": "The carbonic acid / hydrogencarbonate system (`H2CO3 / HCO3-`) that keeps blood `pH` close to `7.4`; even a small change from this value is dangerous.",
+    "tr": "Samane-ye karbonik asid va yoon-e hidrozhen-karbonat (`H2CO3 / HCO3-`) ke `pH`-e khoon ra nazdik-e `7.4` negah midarad; hatta taghyir-e koochaki az in meghdar khatarnak ast."
+   },
+   "contrast": {
+    "fa": "خون کمی «بازی» است (`7.4`)، نه خنثی.",
+    "en": "Blood is slightly \"basic\" (`7.4`), not neutral.",
+    "tr": "Khoon kami \"bazi\" ast (`7.4`), na khonsa."
+   },
+   "unit": "chem-1-neutralisation-buffers"
+  }
+ ]
+}
