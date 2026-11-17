@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2042,
- "versionName": "3.16.4",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2042/Ghamgah-E-Hadis.apk",
+ "versionCode": 2043,
+ "versionName": "3.16.5",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2043/Ghamgah-E-Hadis.apk",
  "size": 43278254,
- "sha256": "1c48b1ac992bb980012563c65054830792a97ec2dd62a6deb189c9ffa7a2a679",
+ "sha256": "29a94433f865fb6b2dfbbc94e8f30f2cf6ccfa89416ff32a5d47ab7bb879d8b8",
  "notes": {
-  "fa": "ادبیات فارسی حالا بر پایهٔ سه قلمرو امتحان نهایی مرتب می‌شود: قلمرو زبانی، ادبی و فکری. درس‌نامه‌های تازهٔ آرایه‌ها و قرابت معنایی با به‌روزرسانی بانک سؤال می‌آیند.",
-  "en": "Persian Literature is now organised by the final exam's three domains: linguistic, literary and intellectual. New lessons on literary devices and thematic closeness arrive with the question bank update.",
-  "tr": "Adabiyat-e Farsi hala bar paye-ye se ghalamrow-e emtehan-e nahayi morattab mishavad: ghalamrow-e zabani, adabi va fekri. Darsname-haye taze-ye arayeh-ha va gharabat-e ma'nayi ba be-rooz-resani-ye bank-e so'al miayand."
+  "fa": "عربی حالا در سه بخش مرتب می‌شود: قواعد، واژگان و حکمت‌ها، و آیات قرآن. درس‌نامه‌های تازهٔ قواعد (إنّ و خواهرانش، لای نفی جنس، باب‌های ثلاثی مزید) با به‌روزرسانی بانک سؤال می‌آیند.",
+  "en": "Arabic is now organised in three parts: grammar, vocabulary and sayings, and Quranic verses. New grammar lessons (inna and its sisters, the la of absolute negation, augmented verb forms) arrive with the question bank update.",
+  "tr": "Arabi hala dar se bakhsh morattab mishavad: ghava'ed, vazhegan va hekmat-ha, va ayat-e Ghoran. Darsname-haye taze-ye ghava'ed (enna va khaharanash, la-ye nafy-e jens, bab-haye solasi-ye mazid) ba be-rooz-resani-ye bank-e so'al miayand."
  }
 }
