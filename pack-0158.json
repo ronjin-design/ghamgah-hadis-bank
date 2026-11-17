@@ -1,0 +1,1871 @@
+{
+ "version": 158,
+ "format": 11,
+ "questions": [
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 955,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (امامت و مرجعیت دینی)",
+    "en": "Part 11: From Earlier Books (Imamate and Religious Authority)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Emamat va Marjaiyat)",
+    "pages": "94–96"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "بنابر باور شیعه، تبیین معارف دین و مرجعیت دینی پس از پیامبر (ص) بر عهدهٔ چه کسانی است؟",
+     "grading_key": "- [1] امامان معصوم (ع)",
+     "final_resolution": "امامان معصوم (ع)",
+     "notes": "",
+     "keywords": [
+      "مرجعیت دینی"
+     ],
+     "distractors": [
+      "فرمانروایان سیاسی",
+      "تاریخ‌نگاران",
+      "سران قبایل"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "In Shia belief, who carries the task of explaining religion and of religious authority after the Prophet?",
+     "grading_key": "- [1] The infallible Imams",
+     "final_resolution": "The infallible Imams",
+     "notes": "",
+     "keywords": [
+      "religious authority (marja'iyyat)"
+     ],
+     "distractors": [
+      "Political rulers",
+      "Historians",
+      "Tribal chiefs"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Bena bar bavar-e Shie, tabyin-e maaref-e din va marjaiyat-e dini pas az Payambar bar ohde-ye che kasani ast?",
+     "grading_key": "- [1] Emaman-e masoom",
+     "final_resolution": "Emaman-e masoom",
+     "notes": "",
+     "keywords": [
+      "marjaiyat-e dini"
+     ],
+     "distractors": [
+      "Farmanravayan-e siyasi",
+      "Tarikh-negaran",
+      "Saran-e ghabayel"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 961,
+   "topic_tag": "afterlife",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (معاد: برهان عدل)",
+    "en": "Part 11: From Earlier Books (The Afterlife: Argument from Justice)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Ma'ad: Borhan-e Adl)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "معاد",
+     "question": "اینکه پاداش و کیفر کامل نیکوکاران و بدکاران در دنیا شدنی نیست و عدل الهی برپایی سرای آخرت را لازم می‌کند، کدام دلیل ضرورت معاد است؟",
+     "grading_key": "- [1] برهان عدل",
+     "final_resolution": "برهان عدل",
+     "notes": "",
+     "keywords": [
+      "برهان عدل"
+     ],
+     "distractors": [
+      "برهان حکمت",
+      "برهان حرکت",
+      "برهان فطرت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Afterlife",
+     "question": "That the full reward of the good and punishment of the wicked cannot happen in this world, so God's justice requires the hereafter, is which argument for the afterlife?",
+     "grading_key": "- [1] The argument from justice",
+     "final_resolution": "The argument from justice",
+     "notes": "",
+     "keywords": [
+      "argument from justice"
+     ],
+     "distractors": [
+      "The argument from wisdom",
+      "The argument from motion",
+      "The argument from innate nature"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ma'ad",
+     "question": "Inke padash va keyfar-e kamel-e nikookaran va badkaran dar donya shodani nist va adl-e elahi barpayi-ye saray-e akherat ra lazem mikonad, kodam dalil-e zaroorat-e maad ast?",
+     "grading_key": "- [1] Borhan-e adl",
+     "final_resolution": "Borhan-e adl",
+     "notes": "",
+     "keywords": [
+      "borhan-e adl"
+     ],
+     "distractors": [
+      "Borhan-e hekmat",
+      "Borhan-e harekat",
+      "Borhan-e fetrat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 962,
+   "topic_tag": "self",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (مراتب نفس)",
+    "en": "Part 11: From Earlier Books (Levels of the Self)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Marateb-e Nafs)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مراتب نفس",
+     "question": "مرتبه‌ای از نفس که پس از گناه، انسان را سرزنش می‌کند و به جبران و توبه می‌کشاند، چه نام دارد؟",
+     "grading_key": "- [1] نفس لوامه",
+     "final_resolution": "نفس لوامه",
+     "notes": "",
+     "keywords": [
+      "نفس لوامه"
+     ],
+     "distractors": [
+      "نفس اماره",
+      "نفس مطمئنه",
+      "نفس حیوانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Levels of the Self",
+     "question": "Which level of the soul blames a person after sin and pushes them to make amends and repent?",
+     "grading_key": "- [1] The self-reproaching soul (nafs-e lawwama)",
+     "final_resolution": "The self-reproaching soul (nafs-e lawwama)",
+     "notes": "",
+     "keywords": [
+      "the self-reproaching soul (nafs-e lawwama)"
+     ],
+     "distractors": [
+      "The commanding soul (nafs-e ammara)",
+      "The soul at peace (nafs-e mutma'inna)",
+      "The animal soul"
+     ]
+    },
+    "tr": {
+     "topic_label": "Marateb-e Nafs",
+     "question": "Martabe-i az nafs ke pas az gonah, ensan ra sarzanesh mikonad va be jobran va towbe mikeshanad, che nam darad?",
+     "grading_key": "- [1] Nafs-e lavvame",
+     "final_resolution": "Nafs-e lavvame",
+     "notes": "",
+     "keywords": [
+      "nafs-e lavvame"
+     ],
+     "distractors": [
+      "Nafs-e ammare",
+      "Nafs-e motmaenne",
+      "Nafs-e heyvani"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 964,
+   "topic_tag": "afterlife",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (عالم برزخ)",
+    "en": "Part 11: From Earlier Books (The Intermediate World)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Alam-e Barzakh)",
+    "pages": "68–70"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "معاد",
+     "question": "زندگی انسان در فاصلهٔ میان مرگ تا برپایی قیامت، در کدام عالم می‌گذرد؟",
+     "grading_key": "- [1] عالم برزخ",
+     "final_resolution": "عالم برزخ",
+     "notes": "",
+     "keywords": [
+      "عالم برزخ"
+     ],
+     "distractors": [
+      "عالم دنیا",
+      "بهشت جاویدان",
+      "عالم ذر"
+     ]
+    },
+    "en": {
+     "topic_label": "The Afterlife",
+     "question": "In which world does a person live in the time between death and the Resurrection?",
+     "grading_key": "- [1] Barzakh (the intermediate world)",
+     "final_resolution": "Barzakh (the intermediate world)",
+     "notes": "",
+     "keywords": [
+      "barzakh (intermediate world)"
+     ],
+     "distractors": [
+      "This world",
+      "Eternal paradise",
+      "The world of pre-existence (zarr)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Ma'ad",
+     "question": "Zendegi-ye ensan dar fasele-ye miyan-e marg ta barpayi-ye ghiyamat, dar kodam alam migozarad?",
+     "grading_key": "- [1] Alam-e barzakh",
+     "final_resolution": "Alam-e barzakh",
+     "notes": "",
+     "keywords": [
+      "alam-e barzakh"
+     ],
+     "distractors": [
+      "Alam-e donya",
+      "Behesht-e javidan",
+      "Alam-e zarr"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1400-Dey",
+   "number": 965,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (توحید در صفات)",
+    "en": "Part 11: From Earlier Books (Oneness in the Attributes)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Towhid dar Sefat)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "باور به اینکه صفات خداوند (مانند علم و قدرت) عین ذات او هستند و از ذات و از یکدیگر جدا نیستند، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در صفات",
+     "final_resolution": "توحید در صفات",
+     "notes": "",
+     "keywords": [
+      "توحید در صفات"
+     ],
+     "distractors": [
+      "توحید در ذات",
+      "توحید در خالقیت",
+      "توحید در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "Believing that God's attributes (such as knowledge and power) are one with His essence, and not separate from it or from each other, is which rank of monotheism?",
+     "grading_key": "- [1] Oneness in the attributes",
+     "final_resolution": "Oneness in the attributes",
+     "notes": "",
+     "keywords": [
+      "oneness in the attributes"
+     ],
+     "distractors": [
+      "Oneness of the essence",
+      "Oneness in creation",
+      "Oneness in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Bavar be inke sefat-e Khodavand (manand-e elm va ghodrat) eyn-e zat-e oo hastand va az zat va az yekdigar joda nistand, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar sefat",
+     "final_resolution": "Towhid dar sefat",
+     "notes": "",
+     "keywords": [
+      "towhid dar sefat"
+     ],
+     "distractors": [
+      "Towhid dar zat",
+      "Towhid dar khaleghiyat",
+      "Towhid dar rooboobiyat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 955,
+   "topic_tag": "ethics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (عفاف)",
+    "en": "Part 11: From Earlier Books (Chastity)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Efaf)",
+    "pages": "112–114"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "اخلاق فردی و اجتماعی",
+     "question": "کدام فضیلت اخلاقی، سپر روح در برابر طغیان شهوت‌ها و نگهبان کرامت انسان است؟",
+     "grading_key": "- [1] عفاف",
+     "final_resolution": "عفاف",
+     "notes": "",
+     "keywords": [
+      "عفاف"
+     ],
+     "distractors": [
+      "کرم",
+      "عدل",
+      "شجاعت"
+     ]
+    },
+    "en": {
+     "topic_label": "Personal and Social Ethics",
+     "question": "Which moral virtue shields the soul against runaway desire and guards human dignity?",
+     "grading_key": "- [1] Chastity (efaf)",
+     "final_resolution": "Chastity (efaf)",
+     "notes": "",
+     "keywords": [
+      "chastity (efaf)"
+     ],
+     "distractors": [
+      "Generosity (karam)",
+      "Justice (adl)",
+      "Courage (shaja'at)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Akhlagh-e Fardi va Ejtemai",
+     "question": "Kodam fazilat-e akhlaghi, separ-e rooh dar barabar-e toghyan-e shahvat-ha va negahban-e keramat-e ensan ast?",
+     "grading_key": "- [1] Efaf",
+     "final_resolution": "Efaf",
+     "notes": "",
+     "keywords": [
+      "efaf"
+     ],
+     "distractors": [
+      "Karam",
+      "Adl",
+      "Shojaat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 960,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (ولایت فقیه)",
+    "en": "Part 11: From Earlier Books (Guardianship of the Jurist)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Velayat-e Faghih)",
+    "pages": "86–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "در دوران غیبت امام زمان (عج)، مرجعیت دینی و سرپرستی امور سیاسی جامعه بر عهدهٔ کیست؟",
+     "grading_key": "- [1] فقیه جامع‌الشرایط (ولی فقیه)",
+     "final_resolution": "فقیه جامع‌الشرایط (ولی فقیه)",
+     "notes": "",
+     "keywords": [
+      "ولایت فقیه"
+     ],
+     "distractors": [
+      "نخبگان مجلس سکولار",
+      "شورای سنتی قبیله",
+      "فرماندهان نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "During the occultation of the Imam of the Age, who carries religious authority and the leadership of society's political affairs?",
+     "grading_key": "- [1] The fully qualified jurist (vali-ye faqih)",
+     "final_resolution": "The fully qualified jurist (vali-ye faqih)",
+     "notes": "",
+     "keywords": [
+      "guardianship of the jurist"
+     ],
+     "distractors": [
+      "A secular parliamentary elite",
+      "A tribe's traditional council",
+      "Military commanders"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Dar dowran-e gheybat-e Emam-e Zaman, marjaiyat-e dini va sarparasti-ye omoor-e siyasi-ye jame bar ohde-ye kist?",
+     "grading_key": "- [1] Faghih-e jame-osh-sharayet (vali-ye faghih)",
+     "final_resolution": "Faghih-e jame-osh-sharayet (vali-ye faghih)",
+     "notes": "",
+     "keywords": [
+      "velayat-e faghih"
+     ],
+     "distractors": [
+      "Nokhbegan-e majles-e sekolar",
+      "Shora-ye sonnati-ye ghabile",
+      "Farmandehan-e nezami"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 963,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (قلمروهای امامت: ولایت ظاهری)",
+    "en": "Part 11: From Earlier Books (Spheres of Imamate: Government)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Velayat-e Zaheri)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "حق حکومت، ادارهٔ امور جامعه و اجرای قوانین الهی پس از پیامبر (ص)، کدام قلمرو امامت است؟",
+     "grading_key": "- [1] ولایت ظاهری (حکومت)",
+     "final_resolution": "ولایت ظاهری (حکومت)",
+     "notes": "",
+     "keywords": [
+      "ولایت ظاهری"
+     ],
+     "distractors": [
+      "مرجعیت دینی",
+      "ولایت معنوی",
+      "دریافت وحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "The right to govern, run society's affairs and carry out the divine laws after the Prophet is which sphere of the Imamate?",
+     "grading_key": "- [1] Outward guardianship (government)",
+     "final_resolution": "Outward guardianship (government)",
+     "notes": "",
+     "keywords": [
+      "outward guardianship (government)"
+     ],
+     "distractors": [
+      "Religious authority",
+      "Spiritual guardianship",
+      "Receiving revelation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Hagh-e hokoomat, edare-ye omoor-e jame va ejra-ye ghavanin-e elahi pas az Payambar, kodam ghalamro-ye emamat ast?",
+     "grading_key": "- [1] Velayat-e zaheri (hokoomat)",
+     "final_resolution": "Velayat-e zaheri (hokoomat)",
+     "notes": "",
+     "keywords": [
+      "velayat-e zaheri"
+     ],
+     "distractors": [
+      "Marjaiyat-e dini",
+      "Velayat-e manavi",
+      "Daryaft-e vahy"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 964,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (قلمروهای امامت: ولایت معنوی)",
+    "en": "Part 11: From Earlier Books (Spheres of Imamate: Spiritual Guardianship)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Velayat-e Manavi)",
+    "pages": "96–98"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "هدایت باطنی انسان‌ها به سوی کمال به دست امام معصوم (ع)، که واسطهٔ فیض الهی است، کدام قلمرو امامت است؟",
+     "grading_key": "- [1] ولایت معنوی (باطنی)",
+     "final_resolution": "ولایت معنوی (باطنی)",
+     "notes": "",
+     "keywords": [
+      "ولایت معنوی"
+     ],
+     "distractors": [
+      "ولایت ظاهری (حکومت)",
+      "مرجعیت دینی",
+      "دریافت وحی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "Guiding people inwardly toward perfection by the infallible Imam, as a channel of divine grace, is which sphere of the Imamate?",
+     "grading_key": "- [1] Spiritual (inner) guardianship",
+     "final_resolution": "Spiritual (inner) guardianship",
+     "notes": "",
+     "keywords": [
+      "spiritual guardianship"
+     ],
+     "distractors": [
+      "Outward guardianship (government)",
+      "Religious authority",
+      "Receiving revelation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Hedayat-e bateni-ye ensan-ha be soo-ye kamal be dast-e emam-e masoom, ke vasete-ye feyz-e elahi ast, kodam ghalamro-ye emamat ast?",
+     "grading_key": "- [1] Velayat-e manavi (bateni)",
+     "final_resolution": "Velayat-e manavi (bateni)",
+     "notes": "",
+     "keywords": [
+      "velayat-e manavi"
+     ],
+     "distractors": [
+      "Velayat-e zaheri (hokoomat)",
+      "Marjaiyat-e dini",
+      "Daryaft-e vahy"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 970,
+   "topic_tag": "monotheism",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (توحید در ذات)",
+    "en": "Part 11: From Earlier Books (Oneness of the Essence)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Towhid dar Zat)",
+    "pages": "16–18"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "یگانهٔ بی‌همتا",
+     "question": "باور به یکتایی ذات خداوند، که بی آن مراتب دیگر توحید معنا ندارد و پایهٔ همهٔ آن‌هاست، کدام مرتبهٔ توحید است؟",
+     "grading_key": "- [1] توحید در ذات",
+     "final_resolution": "توحید در ذات",
+     "notes": "",
+     "keywords": [
+      "توحید در ذات"
+     ],
+     "distractors": [
+      "توحید در خالقیت",
+      "توحید در ربوبیت",
+      "توحید عملی"
+     ]
+    },
+    "en": {
+     "topic_label": "The Matchless One (Monotheism)",
+     "question": "Belief that God's essence is one and unique, the base without which the other ranks of monotheism mean nothing, is which rank?",
+     "grading_key": "- [1] Oneness of the essence",
+     "final_resolution": "Oneness of the essence",
+     "notes": "",
+     "keywords": [
+      "oneness of the essence"
+     ],
+     "distractors": [
+      "Oneness in creation",
+      "Oneness in lordship",
+      "Practical monotheism"
+     ]
+    },
+    "tr": {
+     "topic_label": "Yegane-ye Bi-hamta",
+     "question": "Bavar be yektayi-ye zat-e Khodavand, ke bi an marateb-e digar-e towhid ma'na nadarad va paye-ye hame-ye anhast, kodam martabe-ye towhid ast?",
+     "grading_key": "- [1] Towhid dar zat",
+     "final_resolution": "Towhid dar zat",
+     "notes": "",
+     "keywords": [
+      "towhid dar zat"
+     ],
+     "distractors": [
+      "Towhid dar khaleghiyat",
+      "Towhid dar rooboobiyat",
+      "Towhid-e amali"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Dey",
+   "number": 972,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (هدفمندی جهان)",
+    "en": "Part 11: From Earlier Books (A World with a Purpose)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Hadafmandi-ye Jahan)",
+    "pages": "12–14"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "اینکه نظام هماهنگ آفرینش همهٔ موجودات را به سوی هدفی نهایی می‌برد، کدام حقیقت را نشان می‌دهد؟",
+     "grading_key": "- [1] هدفمندی جهان",
+     "final_resolution": "هدفمندی جهان",
+     "notes": "",
+     "keywords": [
+      "هدفمندی جهان"
+     ],
+     "distractors": [
+      "پیدایش تصادفی جهان",
+      "بی‌نیازی ماده از آفریننده",
+      "شرک در ربوبیت"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "That the harmonious order of creation carries every being toward a final goal shows which truth?",
+     "grading_key": "- [1] The world has a purpose",
+     "final_resolution": "The world has a purpose",
+     "notes": "",
+     "keywords": [
+      "purposefulness of the world"
+     ],
+     "distractors": [
+      "The world came about by chance",
+      "Matter needs no creator",
+      "Polytheism in lordship"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Inke nezam-e hamahang-e afarinesh hame-ye mojoodat ra be sooye hadafi nahayi mibarad, kodam haghighat ra neshan midahad?",
+     "grading_key": "- [1] Hadafmandi-ye jahan",
+     "final_resolution": "Hadafmandi-ye jahan",
+     "notes": "",
+     "keywords": [
+      "hadafmandi-ye jahan"
+     ],
+     "distractors": [
+      "Peydayesh-e tasadofi-ye jahan",
+      "Bi-niyazi-ye madde az afarinande",
+      "Sherk dar rooboobiyat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1401-Khordad",
+   "number": 955,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (حکومت اسلامی)",
+    "en": "Part 11: From Earlier Books (Islamic Government)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Hokoomat-e Eslami)",
+    "pages": "84–86"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "مهم‌ترین هدف تشکیل حکومت اسلامی به دست پیامبر اکرم (ص) در مدینه چه بود؟",
+     "grading_key": "- [1] اجرای عدالت و قوانین الهی",
+     "final_resolution": "اجرای عدالت و قوانین الهی",
+     "notes": "",
+     "keywords": [
+      "حکومت اسلامی"
+     ],
+     "distractors": [
+      "گسترش مرزها",
+      "گردآوری ثروت و مالیات",
+      "برتری نظامی"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "What was the main aim of the Prophet in founding the Islamic government in Medina?",
+     "grading_key": "- [1] Carrying out justice and the divine laws",
+     "final_resolution": "Carrying out justice and the divine laws",
+     "notes": "",
+     "keywords": [
+      "Islamic government"
+     ],
+     "distractors": [
+      "Expanding borders",
+      "Gathering wealth and taxes",
+      "Military supremacy"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Mohem-tarin hadaf-e tashkil-e hokoomat-e eslami be dast-e Payambar-e Akram dar Madine che bood?",
+     "grading_key": "- [1] Ejra-ye edalat va ghavanin-e elahi",
+     "final_resolution": "Ejra-ye edalat va ghavanin-e elahi",
+     "notes": "",
+     "keywords": [
+      "hokoomat-e eslami"
+     ],
+     "distractors": [
+      "Gostaresh-e marz-ha",
+      "Gerdavari-ye servat va maliyat",
+      "Bartari-ye nezami"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Dey",
+   "number": 955,
+   "topic_tag": "family",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (ازدواج)",
+    "en": "Part 11: From Earlier Books (Marriage)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Ezdevaj)",
+    "pages": "134–136"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "خانواده",
+     "question": "بنابر آیهٔ «لِتَسْکُنُوا إِلَیْهَا»، اصلی‌ترین هدف تشکیل خانواده در اسلام چیست؟",
+     "grading_key": "- [1] آرامش و انس",
+     "final_resolution": "آرامش و انس",
+     "notes": "",
+     "keywords": [
+      "هدف ازدواج"
+     ],
+     "distractors": [
+      "همکاری مالی",
+      "جایگاه اجتماعی",
+      "گسترش قبیله"
+     ]
+    },
+    "en": {
+     "topic_label": "The Family",
+     "question": "By the verse «لِتَسْکُنُوا إِلَیْهَا» (\"that you may find rest in them\"), what is the main aim of forming a family in Islam?",
+     "grading_key": "- [1] Peace and closeness",
+     "final_resolution": "Peace and closeness",
+     "notes": "",
+     "keywords": [
+      "aims of marriage"
+     ],
+     "distractors": [
+      "Financial cooperation",
+      "Social standing",
+      "Enlarging the tribe"
+     ]
+    },
+    "tr": {
+     "topic_label": "Khanevade",
+     "question": "Bena bar aye-ye «لِتَسْکُنُوا إِلَیْهَا», asli-tarin hadaf-e tashkil-e khanevade dar Eslam chist?",
+     "grading_key": "- [1] Aramesh va ons",
+     "final_resolution": "Aramesh va ons",
+     "notes": "",
+     "keywords": [
+      "hadaf-e ezdevaj"
+     ],
+     "distractors": [
+      "Hamkari-ye mali",
+      "Jaygah-e ejtemai",
+      "Gostaresh-e ghabile"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 955,
+   "topic_tag": "ethics",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (عزت نفس)",
+    "en": "Part 11: From Earlier Books (Self-respect)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Ezzat-e Nafs)",
+    "pages": "122–124"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "اخلاق فردی و اجتماعی",
+     "question": "حالت نفوذناپذیری روح در برابر وسوسه‌ها و تسلیم نشدن در برابر دنیا، چه نام دارد؟",
+     "grading_key": "- [1] عزت نفس",
+     "final_resolution": "عزت نفس",
+     "notes": "",
+     "keywords": [
+      "عزت نفس"
+     ],
+     "distractors": [
+      "غرور",
+      "تکبر",
+      "ندامت"
+     ]
+    },
+    "en": {
+     "topic_label": "Personal and Social Ethics",
+     "question": "The soul's state of being unbreachable by temptation and of not giving in to the world is called what?",
+     "grading_key": "- [1] Self-respect (ezzat-e nafs)",
+     "final_resolution": "Self-respect (ezzat-e nafs)",
+     "notes": "",
+     "keywords": [
+      "self-respect (ezzat-e nafs)"
+     ],
+     "distractors": [
+      "Vanity (ghorur)",
+      "Arrogance (takabbor)",
+      "Remorse (nedamat)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Akhlagh-e Fardi va Ejtemai",
+     "question": "Halat-e nofooz-napaziri-ye rooh dar barabar-e vasvase-ha va taslim nashodan dar barabar-e donya, che nam darad?",
+     "grading_key": "- [1] Ezzat-e nafs",
+     "final_resolution": "Ezzat-e nafs",
+     "notes": "",
+     "keywords": [
+      "ezzat-e nafs"
+     ],
+     "distractors": [
+      "Ghoroor",
+      "Takabbor",
+      "Nedamat"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 960,
+   "topic_tag": "leadership",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (مسئولیت‌های پیامبر)",
+    "en": "Part 11: From Earlier Books (The Prophet's Duties)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Masooliyat-haye Payambar)",
+    "pages": "92–94"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "امامت و رهبری",
+     "question": "نخستین و بنیادی‌ترین قلمرو رسالت پیامبر اکرم (ص) کدام است؟",
+     "grading_key": "- [1] دریافت و ابلاغ وحی",
+     "final_resolution": "دریافت و ابلاغ وحی",
+     "notes": "",
+     "keywords": [
+      "دریافت و ابلاغ وحی"
+     ],
+     "distractors": [
+      "مرجعیت دینی",
+      "ولایت ظاهری و حکومت",
+      "داوری در اختلاف‌ها"
+     ]
+    },
+    "en": {
+     "topic_label": "Imamate and Leadership",
+     "question": "What is the first and most basic sphere of the Prophet's mission?",
+     "grading_key": "- [1] Receiving and conveying the revelation",
+     "final_resolution": "Receiving and conveying the revelation",
+     "notes": "",
+     "keywords": [
+      "receiving and conveying revelation"
+     ],
+     "distractors": [
+      "Religious authority",
+      "Government (outward guardianship)",
+      "Judging disputes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Emamat va Rahbari",
+     "question": "Nakhostin va bonyadi-tarin ghalamro-ye resalat-e Payambar-e Akram kodam ast?",
+     "grading_key": "- [1] Daryaft va eblagh-e vahy",
+     "final_resolution": "Daryaft va eblagh-e vahy",
+     "notes": "",
+     "keywords": [
+      "daryaft va eblagh-e vahy"
+     ],
+     "distractors": [
+      "Marjaiyat-e dini",
+      "Velayat-e zaheri va hokoomat",
+      "Davari dar ekhtelaf-ha"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Religion and Life",
+   "session": "1402-Khordad",
+   "number": 970,
+   "topic_tag": "creator",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "بخش ۱۱: از کتاب‌های پیشین (هدایت تکوینی)",
+    "en": "Part 11: From Earlier Books (Built-in Guidance)",
+    "tr": "Bakhsh-e 11: Az Ketab-haye Pishin (Hedayat-e Takvini)",
+    "pages": "54–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "هستی‌بخش",
+     "question": "هدایت همهٔ موجودات به سوی هدفشان از راه سرشت و غریزه‌ای که خدا در آن‌ها نهاده (مانند ساختن کندو به دست زنبور عسل)، کدام نوع هدایت است؟",
+     "grading_key": "- [1] هدایت تکوینی (عام)",
+     "final_resolution": "هدایت تکوینی (عام)",
+     "notes": "",
+     "keywords": [
+      "هدایت تکوینی"
+     ],
+     "distractors": [
+      "هدایت تشریعی (از راه پیامبران)",
+      "سنت استدراج",
+      "سنت املا"
+     ]
+    },
+    "en": {
+     "topic_label": "The Giver of Being",
+     "question": "God guiding every creature toward its goal through the nature and instinct He placed in it (like the bee building its hive) is which kind of guidance?",
+     "grading_key": "- [1] Built-in (takvini) guidance",
+     "final_resolution": "Built-in (takvini) guidance",
+     "notes": "",
+     "keywords": [
+      "built-in (takvini) guidance"
+     ],
+     "distractors": [
+      "Revealed (tashri'i) guidance through the prophets",
+      "Gradual entrapment (estedraj)",
+      "Respite (imla)"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hasti-bakhsh",
+     "question": "Hedayat-e hame-ye mojoodat be sooye hadafeshan az rah-e seresht va gharize-i ke Khoda dar anha nahade (manand-e sakhtan-e kandoo be dast-e zanboor-e asal), kodam no' hedayat ast?",
+     "grading_key": "- [1] Hedayat-e takvini (am)",
+     "final_resolution": "Hedayat-e takvini (am)",
+     "notes": "",
+     "keywords": [
+      "hedayat-e takvini"
+     ],
+     "distractors": [
+      "Hedayat-e tashri'i (az rah-e payambaran)",
+      "Sonnat-e estedraj",
+      "Sonnat-e emla"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ],
+ "lessons": [
+  {
+   "subject": "Religion and Life",
+   "chapter": 1,
+   "unit": 1,
+   "key": "rel-1-giver-of-being",
+   "title": {
+    "fa": "هستی‌بخش: نیاز همیشگی به خدا",
+    "en": "The Giver of Being: a constant need for God",
+    "tr": "Hasti-bakhsh: niyaz-e hamishegi be khoda"
+   },
+   "summary": {
+    "fa": "هر موجودی هم برای پدید آمدن و هم برای ماندن به خدا نیازمند است، مثل روشنایی لامپ که همیشه به برق نیاز دارد.",
+    "en": "Every being needs God both to come into being and to go on existing, like a lamp's light that always needs the current.",
+    "tr": "Har mojoodi ham baraye padid amadan va ham baraye mandan be khoda niyazmand ast, mesl-e roshanayi-ye lamp ke hamishe be bargh niyaz darad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بنّا یا برق؟",
+      "en": "Understand first: the builder or the current?",
+      "tr": "Avval befahm: banna ya bargh?"
+     },
+     "body": {
+      "fa": "درس اول دو نوع نیاز را از هم جدا می‌کند. ساختمان فقط برای «ساخته شدن» به بنّا نیاز دارد؛ بنّا که برود، ساختمان سر جایش می‌ماند. اما روشنایی لامپ هر لحظه به جریان برق نیاز دارد؛ برق که قطع شود، روشنایی هم نیست. نیاز موجودات به خدا از نوع دوم است: هم در پیدایش و هم در بقا. به همین دلیل کتاب آن را «فقر ذاتی» مخلوقات می‌نامد: نیاز در خود هستی آنهاست، نه حالتی گذرا.",
+      "en": "Lesson one separates two kinds of need. A building needs its builder only to be built; when the builder leaves, the building still stands. But a lamp's light needs the electric current every moment; cut the current and the light is gone. Creatures need God in the second way: both to come into being and to go on existing. That is why the book calls it the 'essential poverty' (faqr-e zati) of creation: the need lies in their very being, not in a passing state.",
+      "tr": "Dars-e avval do no' niyaz ra az ham joda mikonad. Sakhteman faghat baraye 'sakhte shodan' be banna niyaz darad; banna ke beravad, sakhteman sar-e jayash mimanad. Amma roshanayi-ye lamp har lahze be jaryan-e bargh niyaz darad; bargh ke ghat' shavad, roshanayi ham nist. Niyaz-e mojoodat be khoda az no'-e dovvom ast: ham dar peydayesh va ham dar bagha. Be hamin dalil ketab an ra 'faghr-e zati'-ye makhloghat minamad: niyaz dar khod-e hasti-ye anhast, na halati gozara."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " BUILDING and BUILDER\n   needed only to START\n   builder leaves -> it stands\n LAMP and CURRENT\n   needed EVERY MOMENT\n   current stops -> light gone\n creatures and God = the LAMP\n   need to begin AND to last",
+     "caption": {
+      "fa": "نیاز موجودات به خدا مثل نیاز روشنایی به برق است، نه مثل نیاز ساختمان به بنّا.",
+      "en": "Creatures need God as light needs the current, not as a building needs its builder.",
+      "tr": "Niyaz-e mojoodat be khoda mesl-e niyaz-e roshanayi be bargh ast, na mesl-e niyaz-e sakhteman be banna."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "انسان: نیازمندِ آگاه",
+      "en": "Humans: aware of their need",
+      "tr": "Ensan: niyazmand-e agah"
+     },
+     "body": {
+      "fa": "پس تفاوت انسان با دیگر موجودات در «اندازهٔ» نیاز نیست؛ همه به یک اندازه نیازمندند. تفاوت در «آگاهی» است: انسان می‌تواند از این نیاز آگاه شود و هرچه معرفتش بیشتر شود، آن را بیشتر درمی‌یابد.",
+      "en": "So humans do not differ from other beings in 'how much' they need; all are equally in need. They differ in 'awareness': humans can become aware of this need, and feel it more the more they know.",
+      "tr": "Pas tafavot-e ensan ba digar mojoodat dar 'andaze'-ye niyaz nist; hame be yek andaze niyazmandand. Tafavot dar 'agahi' ast: ensan mitavanad az in niyaz agah shavad va har che ma'refatash bishtar shavad, an ra bishtar dar-miyabad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "need for God = in coming to be + in going on (faqr-e zati)",
+     "caption": {
+      "fa": "نیاز در پیدایش و بقا",
+      "en": "Need in coming to be and in lasting",
+      "tr": "Niyaz dar peydayesh va bagha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در درس اول، نیاز همیشگی موجودات به خداوند برای ادامهٔ هستی، به کدام مثال تشبیه شده است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: in lesson one, the lasting need of every being for God, to go on existing, is likened to what? (Khordad 1401 paper)",
+      "tr": "Garm kardan: dar dars-e avval, niyaz-e hamishegi-ye mojoodat be khoda baraye edame-ye hasti, be kodam mesal tashbih shode ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید پرسش «ادامهٔ هستی» است: نیازی که هیچ‌وقت تمام نمی‌شود.",
+        "en": "The key word is 'go on existing': a need that never ends.",
+        "tr": "Kelid-e porsesh 'edame-ye hasti' ast: niyazi ke hich-vaght tamam nemishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "ساختمانِ ساخته‌شده دیگر به بنّا نیاز ندارد؛ اما روشنایی بی جریان برق یک لحظه هم نمی‌ماند.",
+        "en": "A finished building no longer needs its builder; but light does not last a moment without the current.",
+        "tr": "Sakhteman-e sakhte-shode digar be banna niyaz nadarad; amma roshanayi bi jaryan-e bargh yek lahze ham nemimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نیاز روشنایی لامپ به جریان پیوستهٔ برق",
+      "en": "A lamp's light needing a steady flow of electricity",
+      "tr": "Niyaz-e roshanayi-ye lamp be jaryan-e peyvaste-ye bargh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نیاز بنیادین و همیشگی همهٔ موجودات به خداوند برای پیدایش و بقا، نشان‌دهندهٔ کدام حقیقت است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: the basic and lasting need of every being for God, to come into being and to go on existing, shows which truth? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: niyaz-e bonyadin va hamishegi-ye hame-ye mojoodat be khoda baraye peydayesh va bagha, neshan-dahande-ye kodam haghighat ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیازی که هم در آغاز است هم در ادامه، از خود هستی موجود جدا نمی‌شود: «ذاتی» است.",
+        "en": "A need present both at the start and all along cannot be separated from the being itself: it is 'essential'.",
+        "tr": "Niyazi ke ham dar aghaz ast ham dar edame, az khod-e hasti-ye mojood joda nemishavad: 'zati' ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «وجود مستقل و مطلق» درست برعکس این حقیقت است.",
+        "en": "The option 'independent, absolute existence' is the exact opposite.",
+        "tr": "Gozine-ye 'vojood-e mostaghel va motlagh' dorost bar'aks-e in haghighat ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فقر ذاتی مخلوقات",
+      "en": "Creation's essential poverty (faqr-e zati)",
+      "tr": "Faghr-e zati-ye makhloghat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در درس اول، کدام مثال نیازی را نشان می‌دهد که تنها در «پیدایش» است و پس از آن از میان می‌رود؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: in lesson one, which example shows a need that exists only in coming to be and then ends? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: dar dars-e avval, kodam mesal niyazi ra neshan midahad ke tanha dar 'peydayesh' ast va pas az an az miyan miravad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار مثالِ «برعکس» را می‌خواهد؛ نیازی که شبیه نیاز ما به خدا نیست.",
+        "en": "The twist: this time it wants the opposite example, a need that is not like our need for God.",
+        "tr": "Pich-e emtehan: in bar mesal-e 'bar'aks' ra mikhahad; niyazi ke shabih-e niyaz-e ma be khoda nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "بنّا فقط برای ساختن لازم است؛ پس از آن ساختمان بی او می‌ماند.",
+        "en": "The builder is needed only to build; afterwards the building stands without him.",
+        "tr": "Banna faghat baraye sakhtan lazem ast; pas az an sakhteman bi oo mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نیاز ساختمان به بنّا",
+      "en": "A building's need of its builder",
+      "tr": "Niyaz-e sakhteman be banna"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«فقر ذاتی» یعنی نیاز وجودی به خدا، نه تهیدستی مالی.",
+      "en": "'Essential poverty' means an existential need for God, not lack of money.",
+      "tr": "'Faghr-e zati' ya'ni niyaz-e vojoodi be khoda, na tahidasti-ye mali."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "انسان کمتر یا بیشتر از دیگر موجودات به خدا نیازمند نیست؛ فرقش آگاه شدن از این نیاز است.",
+      "en": "Humans do not need God less or more than other beings; the difference is becoming aware of the need.",
+      "tr": "Ensan kamtar ya bishtar az digar mojoodat be khoda niyazmand nist; farghash agah shodan az in niyaz ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Dey",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1400-Dey",
+     "number": 970
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 2,
+   "unit": 1,
+   "key": "rel-2-matchless-one",
+   "title": {
+    "fa": "یگانهٔ بی‌همتا: مراتب توحید",
+    "en": "The Matchless One: the ranks of monotheism",
+    "tr": "Yegane-ye bi-hamta: marateb-e towhid"
+   },
+   "summary": {
+    "fa": "خدا تنها آفریننده است؛ پس تنها مالک و تنها پروردگار و مدبّر جهان هم اوست.",
+    "en": "God alone is the Creator; so He alone is also the Owner and the Lord who runs the world.",
+    "tr": "Khoda tanha afarinande ast; pas tanha malek va tanha parvardegar va modabber-e jahan ham oost."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سازنده، صاحب و گردانندهٔ دستگاه",
+      "en": "Understand first: maker, owner and operator of the machine",
+      "tr": "Avval befahm: sazande, saheb va gardanande-ye dastgah"
+     },
+     "body": {
+      "fa": "درس دوم توحید را چند پله می‌بیند که هر پله از پلهٔ پیش بیرون می‌آید. «توحید در خالقیت»: تنها آفریدگار جهان خداست («قُلِ اللَّهُ خَالِقُ کُلِّ شَیْءٍ»). «توحید در مالکیت»: هر چه هست ملک حقیقی اوست و تصرف در آن بی اجازهٔ او روا نیست. «توحید در ربوبیت»: تدبیر و ادارهٔ جهان هم تنها به دست اوست. مثل کسی که دستگاهی را ساخته: هم صاحب آن است و هم بهتر از هر کس می‌داند چطور اداره‌اش کند.",
+      "en": "Lesson two sees monotheism as steps, each rising from the one before. 'Monotheism in creation' (khaleqiyat): God alone created the world ('qul-illahu khaliqu kulli shay'', 'Say: God is the Creator of all things'). 'Monotheism in ownership' (malekiyyat): all that exists truly belongs to Him, and using it without His leave is not allowed. 'Monotheism in lordship' (robubiyyat): running and directing the world is in His hands alone. Like someone who built a machine: he owns it and knows best how to run it.",
+      "tr": "Dars-e dovvom towhid ra chand pelle mibinad ke har pelle az pelle-ye pish biroon miayad. 'Towhid dar khaleghiyat': tanha afaridgar-e jahan khodast ('qolillaho khalegho kolle shey''). 'Towhid dar malekiyat': har che hast melk-e haghighi-ye oost va tasarrof dar an bi ejaze-ye oo rava nist. 'Towhid dar rooboobiyat': tadbir va edare-ye jahan ham tanha be dast-e oost. Mesl-e kasi ke dastgahi ra sakhte: ham saheb-e an ast va ham behtar az har kas midanad chetor edare-ash konad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " RANKS OF MONOTHEISM\n khaleqiyat   He alone CREATES\n      |\n malekiyyat   He alone OWNS\n      |\n robubiyyat   He alone RUNS,\n              directs the world\n lordship follows from creation",
+     "caption": {
+      "fa": "هر مرتبه از مرتبهٔ آفرینش نتیجه می‌شود.",
+      "en": "Each rank follows from the rank of creation.",
+      "tr": "Har martabe az martabe-ye afarinesh natije mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رابطهٔ خالقیت و ربوبیت",
+      "en": "Creation and lordship",
+      "tr": "Rabete-ye khaleghiyat va rooboobiyat"
+     },
+     "body": {
+      "fa": "نکتهٔ امتحانی رابطهٔ پله‌هاست: چون آفرینش تنها از آنِ خداست، تدبیر و پروردگاری جهان هم تنها با اوست؛ یعنی ربوبیت از خالقیت جدا نیست و از آن نتیجه می‌شود. کسی که «آفریدن با خدا، اداره با دیگران» را بپذیرد، این رابطه را بریده است.",
+      "en": "The exam point is how the steps connect: since creating belongs to God alone, running and sustaining the world are His alone too; lordship cannot be separated from creation and follows from it. Whoever accepts 'God creates, others run it' has cut that link.",
+      "tr": "Nokte-ye emtehani rabete-ye pelle-hast: chon afarinesh tanha az an-e khodast, tadbir va parvardegari-ye jahan ham tanha ba oost; ya'ni rooboobiyat az khaleghiyat joda nist va az an natije mishavad. Kasi ke 'afaridan ba khoda, edare ba digaran' ra bepazirad, in rabete ra boride ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "creates alone  ->  owns alone  ->  runs alone",
+     "caption": {
+      "fa": "زنجیرهٔ مراتب توحید در این درس",
+      "en": "The chain of ranks in this lesson",
+      "tr": "Zanjire-ye marateb-e towhid dar in dars"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: آیهٔ شریفهٔ «قُلِ اللَّهُ خَالِقُ کُلِّ شَیْءٍ» بر کدام مرتبهٔ توحید دلالت دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: the verse 'qul-illahu khaliqu kulli shay'' ('Say: God is the Creator of all things') points to which rank of monotheism? (Khordad 1401 paper)",
+      "tr": "Garm kardan: aye-ye sharife-ye 'qolillaho khalegho kolle shey'' bar kodam martabe-ye towhid dalalat darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "واژهٔ کلیدی آیه «خَالِق» (آفریننده) است.",
+        "en": "The key word of the verse is 'khaliq' (Creator).",
+        "tr": "Vazhe-ye kelidi-ye aye 'khalegh' (afarinande) ast."
+       },
+       "math": "khaliq -> khaleqiyat"
+      }
+     ],
+     "answer": {
+      "fa": "توحید در خالقیت",
+      "en": "Monotheism in creation",
+      "tr": "Towhid dar khaleghiyat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: تدبیر و اداره کردن جهان هستی تنها به دست خداوند، کدام مرتبهٔ توحید است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: that God alone runs and directs the whole of creation is which rank of monotheism? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: tadbir va edare kardan-e jahan-e hasti tanha be dast-e khoda, kodam martabe-ye towhid ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«تدبیر و اداره» کار پروردگار (ربّ) است، نه آفریدن.",
+        "en": "'Running and directing' is the work of the Lord (rabb), not creating.",
+        "tr": "'Tadbir va edare' kar-e parvardegar (rabb) ast, na afaridan."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس گزینهٔ «خالقیت» دام است؛ پاسخ ربوبیت است.",
+        "en": "So the option 'creation' is the trap; the answer is lordship.",
+        "tr": "Pas gozine-ye 'khaleghiyat' dam ast; pasokh rooboobiyat ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "توحید در ربوبیت",
+      "en": "Monotheism in lordship",
+      "tr": "Towhid dar rooboobiyat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اینکه چون آفرینش جهان تنها از آنِ خداست، تدبیر و پروردگاری آن نیز تنها با اوست، کدام رابطه را نشان می‌دهد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: that since creating the world belongs to God alone, running and sustaining it also belong to Him alone, shows which relation? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: inke chon afarinesh-e jahan tanha az an-e khodast, tadbir va parvardegari-ye an niz tanha ba oost, kodam rabete ra neshan midahad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: اینجا نام یک مرتبه را نمی‌خواهد، بلکه «رابطهٔ» دو مرتبه را.",
+        "en": "The twist: it does not want the name of one rank but the relation between two.",
+        "tr": "Pich-e emtehan: inja nam-e yek martabe ra nemikhahad, balke 'rabete'-ye do martabe ra."
+       }
+      },
+      {
+       "text": {
+        "fa": "واژهٔ «چون» نشان می‌دهد دومی از اولی نتیجه می‌شود.",
+        "en": "The word 'since' shows the second follows from the first.",
+        "tr": "Vazhe-ye 'chon' neshan midahad dovvomi az avvali natije mishavad."
+       },
+       "math": "creation  ->  lordship"
+      }
+     ],
+     "answer": {
+      "fa": "ربوبیت از خالقیت جدا نیست و از آن نتیجه می‌شود",
+      "en": "Lordship cannot be separated from creation and follows from it",
+      "tr": "Rooboobiyat az khaleghiyat joda nist va az an natije mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ربوبیت را با خالقیت اشتباه نکن: یکی «اداره کردن» است و دیگری «آفریدن».",
+      "en": "Do not confuse lordship with creation: one is 'running', the other 'making'.",
+      "tr": "Rooboobiyat ra ba khaleghiyat eshtebah nakon: yeki 'edare kardan' ast va digari 'afaridan'."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در توحید در مالکیت، نکتهٔ پرسش «تصرف بی اجازه» است: چون همه چیز ملک خداست، بی اجازهٔ او روا نیست.",
+      "en": "In monotheism in ownership, the key is 'use without leave': since all belongs to God, it is not allowed without His permission.",
+      "tr": "Dar towhid dar malekiyat, nokte-ye porsesh 'tasarrof bi ejaze' ast: chon hame chiz melk-e khodast, bi ejaze-ye oo rava nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 950
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1400-Dey",
+     "number": 973
+    },
+    {
+     "session": "1401-Dey",
+     "number": 957
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 3,
+   "unit": 1,
+   "key": "rel-3-way-of-life",
+   "title": {
+    "fa": "توحید و سبک زندگی: نظری و عملی",
+    "en": "Monotheism and way of life: belief and practice",
+    "tr": "Towhid va sabk-e zendegi: nazari va amali"
+   },
+   "summary": {
+    "fa": "توحید و شرک هر کدام دو رو دارند: باور (نظری) و رفتار (عملی).",
+    "en": "Monotheism and polytheism each have two sides: belief (theoretical) and conduct (practical).",
+    "tr": "Towhid va sherk har kodam do roo darand: bavar (nazari) va raftar (amali)."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: باور و رفتار",
+      "en": "Understand first: belief and conduct",
+      "tr": "Avval befahm: bavar va raftar"
+     },
+     "body": {
+      "fa": "درس سوم توحید را از باور به زندگی می‌آورد. «توحید نظری» یعنی باور درست دربارهٔ خدا (همان مراتب درس دوم). «توحید عملی» یعنی همهٔ ابعاد زندگی و همهٔ بندگی‌ها را تنها برای خشنودی خدا جهت دادن. شرک هم همین دو رو را دارد: «شرک نظری» باور به چند سرچشمهٔ مستقل برای آفرینش یا تدبیر جهان است؛ «شرک عملی» در رفتار است: پرستش بت، قربانی برای خدایان دروغین، اطاعت از طاغوت.",
+      "en": "Lesson three carries monotheism from belief into life. 'Theoretical monotheism' is right belief about God (the ranks of lesson two). 'Practical monotheism' is directing every part of life and all one's worship to God's pleasure alone. Polytheism has the same two sides: 'theoretical polytheism' is believing in several independent sources for the creation or running of the world; 'practical polytheism' is in conduct: worshipping idols, sacrificing to false gods, obeying tyrants (taghut).",
+      "tr": "Dars-e sevvom towhid ra az bavar be zendegi miavarad. 'Towhid-e nazari' ya'ni bavar-e dorost darbare-ye khoda (haman marateb-e dars-e dovvom). 'Towhid-e amali' ya'ni hame-ye ab'ad-e zendegi va hame-ye bandegi-ha ra tanha baraye khoshnoodi-ye khoda jahat dadan. Sherk ham hamin do roo ra darad: 'sherk-e nazari' bavar be chand sarcheshme-ye mostaghel baraye afarinesh ya tadbir-e jahan ast; 'sherk-e amali' dar raftar ast: parastesh-e bot, ghorbani baraye khodayan-e doroogh-in, ete'at az taghoot."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          BELIEF        CONDUCT\n          (nazari)      ('amali)\n TOWHID   one source    all life\n          of all        for God\n SHIRK    several       idols,\n          sources       tyrants\n fruit of practical towhid:\n   peace + a whole personality",
+     "caption": {
+      "fa": "جدول دو در دو: توحید و شرک، هر کدام در باور و در رفتار.",
+      "en": "A two-by-two table: monotheism and polytheism, each in belief and in conduct.",
+      "tr": "Jadval-e do dar do: towhid va sherk, har kodam dar bavar va dar raftar."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ثمرهٔ توحید عملی",
+      "en": "The fruit of practical monotheism",
+      "tr": "Samare-ye towhid-e amali"
+     },
+     "body": {
+      "fa": "ثمرهٔ درونی توحید عملی، آرامش روحی و «شخصیت یکپارچه» است. کسی که همهٔ کارهایش یک جهت دارد، در سختی‌ها از هم نمی‌پاشد؛ مثل رودی که در یک بستر جاری است، نه آبی که به هزار شاخه پخش شده.",
+      "en": "The inner fruit of practical monotheism is peace of mind and a 'whole, undivided personality'. Someone whose every act has one direction does not fall apart in hardship, like a river in one bed rather than water split into a thousand streams.",
+      "tr": "Samare-ye daroonie towhid-e amali, aramesh-e roohi va 'shakhsiyat-e yekparche' ast. Kasi ke hame-ye karhayash yek jahat darad, dar sakhti-ha az ham nemipashad; mesl-e roodi ke dar yek bastar jari ast, na abi ke be hezar shakhe pakhsh shode."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "belief -> nazari ;  conduct, worship -> 'amali",
+     "caption": {
+      "fa": "نظری یا عملی؟ ببین دربارهٔ باور است یا رفتار",
+      "en": "Theoretical or practical? See if it is about belief or conduct",
+      "tr": "Nazari ya amali? Bebin darbare-ye bavar ast ya raftar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: جهت دادن همهٔ ابعاد زندگی و همهٔ بندگی‌ها تنها برای خشنودی خدا، کدام مرتبهٔ توحید است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: directing every part of life and all one's worship to God's pleasure alone is which level of monotheism? (Dey 1400 paper)",
+      "tr": "Garm kardan: jahat dadan-e hame-ye ab'ad-e zendegi va hame-ye bandegi-ha tanha baraye khoshnoodi-ye khoda, kodam martabe-ye towhid ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«جهت دادن زندگی و بندگی» رفتار است، نه باور؛ پس توحید عملی.",
+        "en": "'Directing life and worship' is conduct, not belief; so practical monotheism.",
+        "tr": "'Jahat dadan-e zendegi va bandegi' raftar ast, na bavar; pas towhid-e amali."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "توحید عملی (عبادی)",
+      "en": "Practical monotheism (in worship)",
+      "tr": "Towhid-e amali (ebadi)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: باور به چند سرچشمهٔ مستقل برای آفرینش یا تدبیر جهان، نمونهٔ کدام مفهوم است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: believing in several independent sources for the creation or running of the world is an example of which idea? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: bavar be chand sarcheshme-ye mostaghel baraye afarinesh ya tadbir-e jahan, nemoone-ye kodam mafhoom ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "واژهٔ «باور» نشان می‌دهد پرسش دربارهٔ ستون نظری است.",
+        "en": "The word 'believing' shows the question is about the belief column.",
+        "tr": "Vazhe-ye 'bavar' neshan midahad porsesh darbare-ye sotoon-e nazari ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "چند سرچشمه به جای یکی: شرک، نه توحید.",
+        "en": "Several sources instead of one: polytheism, not monotheism.",
+        "tr": "Chand sarcheshme be ja-ye yeki: sherk, na towhid."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "شرک نظری",
+      "en": "Theoretical polytheism",
+      "tr": "Sherk-e nazari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پرستش بت‌ها، قربانی کردن برای خدایان دروغین و اطاعت از طاغوت، نمونه‌هایی از کدام مفهوم است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: worshipping idols, sacrificing to false gods and obeying tyrants are examples of which idea? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: parastesh-e bot-ha, ghorbani kardan baraye khodayan-e doroogh-in va ete'at az taghoot, nemoone-hayi az kodam mafhoom ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «خدایان دروغین» ذهن را به سوی باور (نظری) می‌برد، ولی هر سه نمونه «کار» است: پرستیدن، قربانی کردن، اطاعت کردن.",
+        "en": "The twist: 'false gods' pulls you toward belief (theoretical), but all three examples are acts: worshipping, sacrificing, obeying.",
+        "tr": "Pich-e emtehan: 'khodayan-e doroogh-in' zehn ra be sooy-e bavar (nazari) mibarad, vali har se nemoone 'kar' ast: parastidan, ghorbani kardan, ete'at kardan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "شرک عملی (عبادی)",
+      "en": "Practical polytheism (in worship)",
+      "tr": "Sherk-e amali (ebadi)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اطاعت از طاغوت هم شرک عملی است، نه فقط پرستش بت.",
+      "en": "Obeying a tyrant (taghut) is practical polytheism too, not only idol worship.",
+      "tr": "Ete'at az taghoot ham sherk-e amali ast, na faghat parastesh-e bot."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ثمرهٔ توحید عملی «آرامش و شخصیت یکپارچه» است، نه ثروت یا رهایی از وظایف.",
+      "en": "The fruit of practical monotheism is 'peace and a whole personality', not wealth or freedom from duties.",
+      "tr": "Samare-ye towhid-e amali 'aramesh va shakhsiyat-e yekparche' ast, na servat ya rahayi az vazayef."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1400-Dey",
+     "number": 959
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 972
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 4,
+   "unit": 1,
+   "key": "rel-4-sincerity",
+   "title": {
+    "fa": "فقط برای تو: اخلاص و ثمرات آن",
+    "en": "Only for You: sincerity and its fruits",
+    "tr": "Faghat baraye to: ekhlas va samarat-e an"
+   },
+   "summary": {
+    "fa": "اخلاص یعنی دل را از هر نیتی جز خدا پاک کردن؛ میوه‌اش ایمنی از شیطان و حکمت است.",
+    "en": "Sincerity means clearing the heart of every aim but God; its fruit is safety from the Devil and wisdom.",
+    "tr": "Ekhlas ya'ni del ra az har niyati joz khoda pak kardan; mive-ash imeni az sheytan va hekmat ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو سکهٔ هم‌شکل",
+      "en": "Understand first: two coins that look alike",
+      "tr": "Avval befahm: do sekke-ye ham-shekl"
+     },
+     "body": {
+      "fa": "درس چهارم روی «نیت» تمرکز می‌کند. دو نفر ممکن است یک کار را انجام دهند ولی ارزش کارشان یکی نباشد؛ مثل دو سکهٔ هم‌شکل که یکی طلاست و دیگری بدل. «اخلاص» یعنی پاک کردن دل از نیت‌های غیرالهی و انجام دادن وظایف تنها برای نزدیکی به خدا.",
+      "en": "Lesson four focuses on intention. Two people may do the same act and yet its worth is not the same, like two coins that look alike, one gold and one fake. 'Sincerity' (ekhlas) means clearing the heart of every aim but God and doing one's duties only to draw near to Him.",
+      "tr": "Dars-e chaharom rooy-e 'niyat' tamarkoz mikonad. Do nafar momken ast yek kar ra anjam dahand vali arzesh-e karshan yeki nabashad; mesl-e do sekke-ye ham-shekl ke yeki talast va digari badal. 'Ekhlas' ya'ni pak kardan-e del az niyat-haye gheyr-e elahi va anjam dadan-e vazayef tanha baraye nazdiki be khoda."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " same ACT, different INTENTION\n   for God alone  -> sincere\n   for show       -> empty\n FRUITS of sincerity\n   safe from the Devil's reach\n   gaining wisdom (hekmat)",
+     "caption": {
+      "fa": "ارزش کار از نیت است؛ اخلاص دو میوه دارد.",
+      "en": "An act's worth comes from its intention; sincerity has two fruits.",
+      "tr": "Arzesh-e kar az niyat ast; ekhlas do mive darad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ثمرات اخلاص",
+      "en": "The fruits of sincerity",
+      "tr": "Samarat-e ekhlas"
+     },
+     "body": {
+      "fa": "بنابر درس چهارم، اخلاص در بندگی دو میوه دارد: انسان از نفوذ شیطان در امان می‌ماند و به حکمت دست می‌یابد. این میوه‌ها درونی‌اند؛ اخلاص وعدهٔ ثروت یا قدرت دنیوی نمی‌دهد.",
+      "en": "By lesson four, sincerity in worship bears two fruits: a person is kept beyond the Devil's reach, and gains wisdom. These fruits are inward; sincerity does not promise wealth or worldly power.",
+      "tr": "Bena bar dars-e chaharom, ekhlas dar bandegi do mive darad: ensan az nofooz-e sheytan dar aman mimanad va be hekmat dast miyabad. In mive-ha daroonie-and; ekhlas va'de-ye servat ya ghodrat-e donyavi nemidahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ekhlas = act + intention for God alone",
+     "caption": {
+      "fa": "تعریف اخلاص",
+      "en": "What sincerity is",
+      "tr": "Ta'rif-e ekhlas"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پاک کردن دل از نیت‌های غیرالهی و انجام دادن وظایف تنها برای نزدیکی به خدا، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: clearing the heart of every aim but God and doing one's duties only to draw near to Him is called what? (Dey 1401 paper)",
+      "tr": "Garm kardan: pak kardan-e del az niyat-haye gheyr-e elahi va anjam dadan-e vazayef tanha baraye nazdiki be khoda, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«پاک کردن دل از نیت‌های دیگر» همان خالص کردن است.",
+        "en": "'Clearing the heart of other aims' is making it pure (khales).",
+        "tr": "'Pak kardan-e del az niyat-haye digar' haman khales kardan ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اخلاص",
+      "en": "Sincerity (ekhlas)",
+      "tr": "Ekhlas"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: بنابر درس چهارم، میوه‌های اخلاص در بندگی کدام است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: by lesson four, what are the fruits of sincerity in worship? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: bena bar dars-e chaharom, mive-haye ekhlas dar bandegi kodam ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "میوه‌ها درونی‌اند؛ گزینه‌های «نفوذ سیاسی» و «ثروت گذرا» بیرونی‌اند.",
+        "en": "The fruits are inward; the options 'political influence' and 'passing wealth' are outward.",
+        "tr": "Mive-ha daroonie-and; gozine-haye 'nofooz-e siyasi' va 'servat-e gozara' biroonie-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در امان ماندن از نفوذ شیطان و دستیابی به حکمت",
+      "en": "Being beyond the Devil's reach and gaining wisdom",
+      "tr": "Dar aman mandan az nofooz-e sheytan va dastyabi be hekmat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در همان پرسش دی ۱۴۰۱، چرا «توبه»، «توکل» یا «صبر» پاسخ نیستند؟ (گزینه‌های آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: in the same Dey 1401 question, why are 'repentance', 'trust in God' or 'patience' not the answer? (options of the Dey 1401 paper)",
+      "tr": "Pich-e emtehani: dar haman porsesh-e Dey 1401, chera 'tobe', 'tavakkol' ya 'sabr' pasokh nistand? (gozine-haye azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: همه فضیلت‌اند، ولی پرسش دربارهٔ «نیت» است.",
+        "en": "The twist: all are virtues, but the question is about intention.",
+        "tr": "Pich-e emtehan: hame fazilat-and, vali porsesh darbare-ye 'niyat' ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "توبه بازگشت از گناه است، توکل سپردن کار به خدا و صبر پایداری؛ فقط اخلاص پاکی نیت است.",
+        "en": "Repentance is turning back from sin, trust is leaving one's affairs to God and patience is endurance; only sincerity is purity of intention.",
+        "tr": "Tobe bazgasht az gonah ast, tavakkol sepordan-e kar be khoda va sabr paydari; faghat ekhlas paki-ye niyat ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون فقط اخلاص به پاکی نیت می‌پردازد",
+      "en": "Because only sincerity is about purity of intention",
+      "tr": "Chon faghat ekhlas be paki-ye niyat mipardazad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اخلاص به خود کار نیست، به نیت کار است: کار خوب با نیت نمایش، اخلاص ندارد.",
+      "en": "Sincerity is not in the act but in its intention: a good act done for show has no sincerity.",
+      "tr": "Ekhlas be khod-e kar nist, be niyat-e kar ast: kar-e khoob ba niyat-e namayesh, ekhlas nadarad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ثمرهٔ اخلاص رهایی از مسئولیت‌های دنیا نیست.",
+      "en": "The fruit of sincerity is not freedom from worldly duties.",
+      "tr": "Samare-ye ekhlas rahayi az mas'ooliyat-haye donya nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 957
+    }
+   ]
+  },
+  {
+   "subject": "Religion and Life",
+   "chapter": 5,
+   "unit": 1,
+   "key": "rel-5-power-to-fly",
+   "title": {
+    "fa": "قدرت پرواز: اختیار، تقدیر و قضا",
+    "en": "The Power to Fly: free will, measuring and decree",
+    "tr": "Ghodrat-e parvaz: ekhtiyar, taghdir va ghaza"
+   },
+   "summary": {
+    "fa": "اختیار انسان با تقدیر الهی ناسازگار نیست؛ خودش بخشی از تقدیر است.",
+    "en": "Human free will does not clash with the divine measuring; it is itself part of it.",
+    "tr": "Ekhtiyar-e ensan ba taghdir-e elahi nasazgar nist; khodash bakhshi az taghdir ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نقشه و فرمان ساختن",
+      "en": "Understand first: the plan and the order to build",
+      "tr": "Avval befahm: naghshe va farman-e sakhtan"
+     },
+     "body": {
+      "fa": "«قدرت پرواز» نام کتاب برای «اختیار» است: توانایی انتخاب که انسان را از دیگر موجودات جدا می‌کند و برایش مسئولیت می‌آورد. خدا برای هر موجودی اندازه‌ها، ویژگی‌ها، حدود و جایگاهش را تعیین کرده: این «تقدیر» است. «قضا» حکم و فرمان قطعی خداست که آن اندازه‌ها را به مرحلهٔ تحقق می‌رساند. مثل نقشهٔ یک ساختمان (تقدیر) و فرمان ساختن آن (قضا).",
+      "en": "'The power to fly' is the book's name for free will (ekhtiyar): the power to choose, which sets humans apart from other beings and brings responsibility. God has set the measures, features, limits and place of every being: this is 'measuring' (taqdir). 'Decree' (qada) is God's final command that brings those measures to the point of coming true. Like a building's plan (taqdir) and the order to build it (qada).",
+      "tr": "'Ghodrat-e parvaz' nam-e ketab baraye 'ekhtiyar' ast: tavanayi-ye entekhab ke ensan ra az digar mojoodat joda mikonad va barayash mas'ooliyat miavarad. Khoda baraye har mojoodi andaze-ha, vizhegi-ha, hodood va jaygahash ra ta'yin karde: in 'taghdir' ast. 'Ghaza' hokm va farman-e ghat'i-ye khodast ke an andaze-ha ra be marhale-ye tahaghghogh miresanad. Mesl-e naghshe-ye yek sakhteman (taghdir) va farman-e sakhtan-e an (ghaza)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " TAQDIR   the plan: features,\n          limits, place\n    |\n QADA     the final decree:\n          it comes true\n a chosen act:\n   cause, cause, ... WILL -> act\n   (will = the last link)",
+     "caption": {
+      "fa": "تقدیر نقشه است و قضا فرمان تحقق؛ اراده آخرین حلقهٔ زنجیرهٔ علت‌هاست.",
+      "en": "Measuring is the plan and decree the order to make it real; will is the last link in the chain of causes.",
+      "tr": "Taghdir naghshe ast va ghaza farman-e tahaghghogh; erade akharin halghe-ye zanjire-ye ellat-hast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اختیار درون تقدیر",
+      "en": "Free will inside the measuring",
+      "tr": "Ekhtiyar daroon-e taghdir"
+     },
+     "body": {
+      "fa": "آیا تقدیر جای اختیار را تنگ می‌کند؟ نه. نظام علّی جهان چنان طراحی شده که انسان با ارادهٔ خود سرنوشتش را رقم بزند؛ پس اختیار انسان خودش یک تقدیر الهی است. در هر کار اختیاری، علت‌های بسیاری دست به دست هم می‌دهند و ارادهٔ انسان آخرین حلقه (علت نزدیک) این زنجیره است.",
+      "en": "Does the measuring squeeze out free will? No. The world's system of causes is built so people can shape their own destiny by their will; so free will is itself part of the divine measuring. In every chosen act many causes work together, and human will is the last link (the nearest cause) in that chain.",
+      "tr": "Aya taghdir ja-ye ekhtiyar ra tang mikonad? Na. Nezam-e ella-ye jahan chenan tarrahi shode ke ensan ba erade-ye khod sarneveshtash ra ragham bezanad; pas ekhtiyar-e ensan khodash yek taghdir-e elahi ast. Dar har kar-e ekhtiyari, ellat-haye besyari dast be dast-e ham midahand va erade-ye ensan akharin halghe (ellat-e nazdik)-e in zanjire ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "taqdir (plan) -> qada (decree) ;  free will is part of taqdir",
+     "caption": {
+      "fa": "ترتیب تقدیر و قضا",
+      "en": "The order of measuring and decree",
+      "tr": "Tartib-e taghdir va ghaza"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بنابر درس پنجم، «قدرت پرواز» انسان، که او را از دیگر موجودات جدا می‌کند و مسئولیت می‌آورد، چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: by lesson five, what is man's 'power to fly', which sets him apart from other beings and brings responsibility? (Khordad 1401 paper)",
+      "tr": "Garm kardan: bena bar dars-e panjom, 'ghodrat-e parvaz'-e ensan, ke oo ra az digar mojoodat joda mikonad va mas'ooliyat miavarad, chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«مسئولیت» فقط جایی معنا دارد که انتخاب باشد.",
+        "en": "'Responsibility' only makes sense where there is choice.",
+        "tr": "'Mas'ooliyat' faghat jayi ma'na darad ke entekhab bashad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اختیار (توانایی انتخاب)",
+      "en": "Free will (the power to choose)",
+      "tr": "Ekhtiyar (tavanayi-ye entekhab)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اندازه‌گیری و تعیین ویژگی‌ها، حدود و جایگاه هر موجود به دست خداوند، کدام مفهوم است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: God's measuring out and setting the features, limits and place of every being is which concept? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: andaze-giri va ta'yin-e vizhegi-ha, hodood va jaygah-e har mojood be dast-e khoda, kodam mafhoom ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«اندازه‌گیری» همان «قَدَر» است؛ پس تقدیر.",
+        "en": "'Measuring' is 'qadar' (measure); so taqdir.",
+        "tr": "'Andaze-giri' haman 'ghadar' ast; pas taghdir."
+       }
+      },
+      {
+       "text": {
+        "fa": "قضا مرحلهٔ بعد است: حکم قطعی که این اندازه‌ها را محقق می‌کند (آزمون دی ۱۴۰۱ همین را جداگانه پرسیده).",
+        "en": "Qada is the next stage: the final decree that makes these measures real (the Dey 1401 paper asked that separately).",
+        "tr": "Ghaza marhale-ye ba'd ast: hokm-e ghat'i ke in andaze-ha ra mohaghghagh mikonad (azmoon-e Dey 1401 hamin ra jodagane porside)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تقدیر الهی",
+      "en": "Divine measuring (taqdir)",
+      "tr": "Taghdir-e elahi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اینکه نظام علّی جهان چنان طراحی شده که انسان با ارادهٔ خود سرنوشتش را رقم بزند، دربارهٔ رابطهٔ اختیار و تقدیر چه نشان می‌دهد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: that the world's system of causes is built so people can shape their own destiny by their will shows what about free will and the divine measuring? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: inke nezam-e ella-ye jahan chenan tarrahi shode ke ensan ba erade-ye khod sarneveshtash ra ragham bezanad, darbare-ye rabete-ye ekhtiyar va taghdir che neshan midahad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینه‌ها اختیار و تقدیر را رقیب نشان می‌دهند («کاملاً ناسازگار»، «بیرون از نظام علّت‌ها»).",
+        "en": "The twist: the options paint free will and measuring as rivals ('wholly incompatible', 'outside the system of causes').",
+        "tr": "Pich-e emtehan: gozine-ha ekhtiyar va taghdir ra raghib neshan midahand ('kamelan nasazgar', 'biroon az nezam-e ellat-ha')."
+       }
+      },
+      {
+       "text": {
+        "fa": "ولی خود این طراحی کار خداست؛ پس اختیار درون تقدیر است، نه در برابر آن.",
+        "en": "But the design itself is God's work; so free will lies inside the measuring, not against it.",
+        "tr": "Vali khod-e in tarrahi kar-e khodast; pas ekhtiyar daroon-e taghdir ast, na dar barabar-e an."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اختیار انسان خود یک تقدیر الهی است",
+      "en": "Free will is itself part of the divine measuring",
+      "tr": "Ekhtiyar-e ensan khod yek taghdir-e elahi ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تقدیر و قضا را جابه‌جا نکن: تقدیر «اندازه و نقشه» است، قضا «حکم قطعی و تحقق».",
+      "en": "Do not swap measuring and decree: taqdir is 'measure and plan', qada is 'final decree and coming true'.",
+      "tr": "Taghdir va ghaza ra jabeja nakon: taghdir 'andaze va naghshe' ast, ghaza 'hokm-e ghat'i va tahaghghogh'."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اراده بیرون از زنجیرهٔ علت‌ها نیست؛ آخرین حلقهٔ آن است.",
+      "en": "Will is not outside the chain of causes; it is its last link.",
+      "tr": "Erade biroon az zanjire-ye ellat-ha nist; akharin halghe-ye an ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1401-Dey",
+     "number": 966
+    },
+    {
+     "session": "1401-Dey",
+     "number": 969
+    },
+    {
+     "session": "1401-Dey",
+     "number": 967
+    },
+    {
+     "session": "1401-Dey",
+     "number": 971
+    }
+   ]
+  }
+ ]
+}

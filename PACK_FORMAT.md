@@ -270,3 +270,11 @@ A pack for the five newest subjects should also list the subject in
 `subjects` (as pack 56 does for Persian). Apps older than 3.9 can then add
 the subject instead of stopping on an unknown key.
 
+
+## Format 11 (app 3.16.6)
+
+Adds sections after a book's own lessons: a textbook reference starting
+`Part N:` (fa `بخش N:`, tr `Bakhsh-e N:`) files the question under section N.
+Religion and Life uses Part 11, "From Earlier Books (<topic>)", for exam
+questions on topics from books 1 and 2; the app names that section
+"From earlier books". Older apps stop and ask for the update.
