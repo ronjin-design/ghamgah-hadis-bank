@@ -1,0 +1,913 @@
+{
+ "version": 130,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 1,
+   "key": "chem-4-rate-collisions",
+   "title": {
+    "fa": "سرعت واکنش، نظریهٔ برخورد و انرژی فعال‌سازی",
+    "en": "Reaction rate, collision theory and activation energy",
+    "tr": "Sor'at-e vakonesh, nazariye-ye barkhord va enerzhi-ye fa'al-sazi"
+   },
+   "summary": {
+    "fa": "واکنش یعنی برخوردی که هم درست باشد و هم پرانرژی؛ مثل توپی که باید از تپه بالا برود.",
+    "en": "A reaction needs a collision that is both well aimed and energetic enough, like a ball that must get over a hill.",
+    "tr": "Vakonesh ya'ni barkhordi ke ham dorost bashad va ham por-enerzhi; mesl-e toopi ke bayad az tappe bala beravad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: توپی که باید از تپه بگذرد",
+      "en": "Understand first: a ball that must clear a hill",
+      "tr": "Avval befahm: toopi ke bayad az tappe begozarad"
+     },
+     "body": {
+      "fa": "بر پایهٔ «نظریهٔ برخورد»، ذره‌ها فقط وقتی واکنش می‌دهند که با هم برخورد کنند؛ ولی هر برخوردی کافی نیست. برخورد «مؤثر» باید جهت مناسب داشته باشد و انرژی‌اش دست‌کم برابر «انرژی فعال‌سازی» (`Ea`) باشد. `Ea` کمترین انرژی لازم برای رسیدن واکنش‌دهنده‌ها به «پیچیدهٔ فعال» است (آزمون خرداد ۱۴۰۰). مثل توپی که باید از یک تپه بالا برود تا به آن سو بغلتد: اگر آرام هل داده شود، برمی‌گردد.",
+      "en": "According to \"collision theory\", particles react only when they collide; but not every collision is enough. An \"effective\" collision must have the right orientation and at least the \"activation energy\" (`Ea`). `Ea` is the minimum energy needed for the reactants to reach the \"activated complex\" (Khordad 1400 paper). Think of a ball that must be pushed over a hill to roll down the far side: push it gently and it rolls back.",
+      "tr": "Bar paye-ye \"nazariye-ye barkhord\", zarre-ha faghat vaghti vakonesh midahand ke ba ham barkhord konand; vali har barkhordi kafi nist. Barkhord-e \"mo'asser\" bayad jahat-e monaseb dashte bashad va enerzhi-ash dast-e kam barabar-e \"enerzhi-ye fa'al-sazi\" (`Ea`) bashad. `Ea` kamtarin enerzhi-ye lazem baraye residan-e vakonesh-dahande-ha be \"pichide-ye fa'al\" ast (azmoon-e Khordad 1400). Mesl-e toopi ke bayad az yek tappe bala beravad ta be an soo beghaltad: agar aram hol dade shavad, barmigardad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " E\n |          /\\  activated complex\n |         /  \\\n |        /    \\\n |  R ___/ Ea   \\\n |               \\\n |                \\___ P\n +---------------------------->\n        reaction progress\n\n Ea(forward) = E(peak) - E(R)\n dH          = E(P)    - E(R)",
+     "caption": {
+      "fa": "نمودار انرژی: `Ea` فاصلهٔ واکنش‌دهنده‌ها تا قلهٔ پیچیدهٔ فعال است؛ اینجا فراورده‌ها پایین‌ترند، پس واکنش گرماده است.",
+      "en": "An energy diagram: `Ea` is the gap from the reactants up to the activated complex at the peak; here the products are lower, so the reaction is exothermic.",
+      "tr": "Nemoodar-e enerzhi: `Ea` fasele-ye vakonesh-dahande-ha ta ghelle-ye pichide-ye fa'al ast; inja faravarde-ha payin-tar-and, pas vakonesh garmade ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چه چیزی سرعت را بالا می‌برد؟",
+      "en": "What raises the rate?",
+      "tr": "Che chizi sor'at ra bala mibarad?"
+     },
+     "body": {
+      "fa": "هر چیزی که شمار برخوردهای مؤثر در هر ثانیه را بیشتر کند، سرعت را بالا می‌برد. «غلظت بیشتر»: ذره‌های بیشتری در هر حجم، پس برخوردهای بیشتری در هر ثانیه (آزمون‌های دی ۱۳۹۹). «دمای بالاتر»: ذره‌ها تندتر حرکت می‌کنند، ولی مهم‌تر اینکه کسر بسیار بیشتری از آن‌ها انرژی بیشتر از `Ea` پیدا می‌کنند (آزمون خرداد ۱۴۰۲). «سطح تماس بیشتر» (پودر به‌جای تکه) و «کاتالیزگر» هم سرعت را زیاد می‌کنند.",
+      "en": "Anything that increases the number of effective collisions per second raises the rate. \"Higher concentration\": more particles in each volume, so more collisions each second (Dey 1399 papers). \"Higher temperature\": particles move faster, but more importantly a much larger fraction of them have energy above `Ea` (Khordad 1402 paper). \"Greater surface area\" (powder instead of a lump) and a \"catalyst\" also raise the rate.",
+      "tr": "Har chizi ke shomar-e barkhord-haye mo'asser dar har sanie ra bishtar konad, sor'at ra bala mibarad. \"Ghelzat-e bishtar\": zarre-haye bishtari dar har hajm, pas barkhord-haye bishtari dar har sanie (azmoon-haye Dey 1399). \"Dama-ye bala-tar\": zarre-ha tond-tar harekat mikonand, vali mohem-tar inke kasr-e besiyar bishtari az an-ha enerzhi-ye bishtar az `Ea` peyda mikonand (azmoon-e Khordad 1402). \"Sath-e tamas-e bishtar\" (pudr be-ja-ye tekke) va \"kataliz-gar\" ham sor'at ra ziyad mikonand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بر پایهٔ نظریهٔ برخورد، افزایش غلظت واکنش‌دهنده‌ها در ظرف بسته چگونه سرعت را زیاد می‌کند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: according to collision theory, how does increasing the reactant concentration in a closed vessel raise the rate? (Dey 1399 paper)",
+      "tr": "Garm kardan: bar paye-ye nazariye-ye barkhord, afzayesh-e ghelzat-e vakonesh-dahande-ha dar zarf-e baste chegoone sor'at ra ziyad mikonad? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ذره‌های بیشتر در همان حجم یعنی شانس بیشتر برای برخورد؛ مثل راهرویی شلوغ‌تر که آدم‌ها بیشتر به هم می‌خورند.",
+        "en": "More particles in the same volume means more chances to collide, like a more crowded corridor where people bump into each other more often.",
+        "tr": "Zarre-haye bishtar dar haman hajm ya'ni shans-e bishtar baraye barkhord; mesl-e rahrowi sholoogh-tar ke adam-ha bishtar be ham mikhorand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "با بیشتر کردن شمار برخوردهای مؤثر در هر ثانیه",
+      "en": "By increasing the number of effective collisions per second",
+      "tr": "Ba bishtar kardan-e shomar-e barkhord-haye mo'asser dar har sanie"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در نمودار انرژی یک واکنش، انرژی واکنش‌دهنده‌ها `100`، پیچیدهٔ فعال `250` و فراورده‌ها `40` کیلوژول است. `Ea` رفت، `Ea` برگشت و `ΔH` را حساب کن. (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: on a reaction's energy diagram, the reactants are at `100`, the activated complex at `250` and the products at `40` kJ. Find the forward `Ea`, the reverse `Ea` and `ΔH`. (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar nemoodar-e enerzhi-ye yek vakonesh, enerzhi-ye vakonesh-dahande-ha `100`, pichide-ye fa'al `250` va faravarde-ha `40` kilozhool ast. `Ea`-ye raft, `Ea`-ye bargasht va `ΔH` ra hesab kon. (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`Ea` رفت: از واکنش‌دهنده‌ها تا قله. این همان چیزی است که آزمون دی ۱۳۹۹ پرسیده: انرژی پیچیدهٔ فعال منهای انرژی واکنش‌دهنده‌ها.",
+        "en": "Forward `Ea`: from the reactants up to the peak. This is exactly what the Dey 1399 paper asks: the activated complex's energy minus the reactants' energy.",
+        "tr": "`Ea`-ye raft: az vakonesh-dahande-ha ta ghelle. In haman chizi ast ke azmoon-e Dey 1399 porside: enerzhi-ye pichide-ye fa'al menha-ye enerzhi-ye vakonesh-dahande-ha."
+       },
+       "math": "Ea = 250 − 100 = 150 kJ"
+      },
+      {
+       "text": {
+        "fa": "`Ea` برگشت: از فراورده‌ها تا همان قله.",
+        "en": "Reverse `Ea`: from the products up to the same peak.",
+        "tr": "`Ea`-ye bargasht: az faravarde-ha ta haman ghelle."
+       },
+       "math": "Ea' = 250 − 40 = 210 kJ"
+      },
+      {
+       "text": {
+        "fa": "`ΔH`: فراورده‌ها منهای واکنش‌دهنده‌ها؛ منفی یعنی گرماده.",
+        "en": "`ΔH`: products minus reactants; negative means exothermic.",
+        "tr": "`ΔH`: faravarde-ha menha-ye vakonesh-dahande-ha; manfi ya'ni garmade."
+       },
+       "math": "ΔH = 40 − 100 = −60 kJ"
+      }
+     ],
+     "answer": {
+      "fa": "`Ea = 150`، `Ea' = 210`، `ΔH = −60 kJ`",
+      "en": "`Ea = 150`, `Ea' = 210`, `ΔH = −60 kJ`",
+      "tr": "`Ea = 150`, `Ea' = 210`, `ΔH = −60 kJ`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: با `10` درجه گرم کردن، شمار برخوردها فقط چند درصد بیشتر می‌شود، ولی سرعت بسیاری از واکنش‌ها نزدیک دو برابر می‌شود. چرا؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: warming by `10` °C raises the number of collisions by only a few percent, yet many reactions nearly double in rate. Why? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: ba `10` daraje garm kardan, shomar-e barkhord-ha faghat chand darsad bishtar mishavad, vali sor'at-e besiyari az vakonesh-ha nazdik-e do barabar mishavad. Chera? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پاسخ «برخورد بیشتر» نیم‌درست است. مهم این است که چه کسری از برخوردها از سد `Ea` می‌گذرند.",
+        "en": "The twist: \"more collisions\" is only half right. What matters is the fraction of collisions that get over the `Ea` barrier.",
+        "tr": "Pich-e emtehan: pasokh-e \"barkhord-e bishtar\" nim-dorost ast. Mohem in ast ke che kasri az barkhord-ha az sadd-e `Ea` migozarand."
+       }
+      },
+      {
+       "text": {
+        "fa": "با گرم شدن، دم پرانرژی توزیع انرژی ذره‌ها بزرگ می‌شود؛ کسر ذره‌هایی که انرژی‌شان بیشتر از `Ea` است تقریباً دو برابر می‌شود، پس برخوردهای مؤثر هم دو برابر می‌شوند.",
+        "en": "On warming, the high-energy tail of the particles' energy spread grows; the fraction of particles with energy above `Ea` roughly doubles, so effective collisions double too.",
+        "tr": "Ba garm shodan, dom-e por-enerzhi-ye towzi'-e enerzhi-ye zarre-ha bozorg mishavad; kasr-e zarre-hayi ke enerzhi-shan bishtar az `Ea` ast taghriban do barabar mishavad, pas barkhord-haye mo'asser ham do barabar mishavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون کسر ذره‌های با انرژی بیشتر از `Ea` به‌شدت زیاد می‌شود",
+      "en": "Because the fraction of particles with energy above `Ea` rises sharply",
+      "tr": "Chon kasr-e zarre-haye ba enerzhi-ye bishtar az `Ea` be-shedat ziyad mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`Ea` از واکنش‌دهنده‌ها تا «قله» اندازه گرفته می‌شود، نه تا فراورده‌ها؛ فاصلهٔ واکنش‌دهنده تا فراورده `ΔH` است.",
+      "en": "`Ea` is measured from the reactants to the \"peak\", not to the products; the gap from reactants to products is `ΔH`.",
+      "tr": "`Ea` az vakonesh-dahande-ha ta \"ghelle\" andaze gerefte mishavad, na ta faravarde-ha; fasele-ye vakonesh-dahande ta faravarde `ΔH` ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اثر اصلی دما «بیشتر شدن کسر ذره‌های پرانرژی» است، نه فقط بیشتر شدن برخوردها؛ در پاسخ تشریحی هر دو را ننویسی، نیم نمره را از دست می‌دهی.",
+      "en": "The main effect of temperature is \"a larger fraction of high-energy particles\", not just more collisions; leave that out of a written answer and you lose half the mark.",
+      "tr": "Asar-e asli-ye dama \"bishtar shodan-e kasr-e zarre-haye por-enerzhi\" ast, na faghat bishtar shodan-e barkhord-ha; agar dar pasokh-e tashrihi an ra nanevisi, nim nomre ra az dast midahi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1399-Dey",
+     "number": 942
+    },
+    {
+     "session": "1399-Dey",
+     "number": 947
+    },
+    {
+     "session": "1399-Dey",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 2,
+   "key": "chem-4-catalysts",
+   "title": {
+    "fa": "کاتالیزگر",
+    "en": "Catalysts",
+    "tr": "Kataliz-gar"
+   },
+   "summary": {
+    "fa": "تونلی از میان تپه: راه کوتاه‌تر، ولی مبدأ و مقصد همان.",
+    "en": "A tunnel through the hill: a shorter route, but the same start and finish.",
+    "tr": "Tooneli az miyan-e tappe: rah-e kootah-tar, vali mabda' va maghsad haman."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تونلی از میان تپه",
+      "en": "Understand first: a tunnel through the hill",
+      "tr": "Avval befahm: tooneli az miyan-e tappe"
+     },
+     "body": {
+      "fa": "«کاتالیزگر» ماده‌ای است که سرعت واکنش را زیاد می‌کند و خودش در پایان مصرف نمی‌شود. راز کارش این است که «مسیر تازه‌ای» با انرژی فعال‌سازی کمتر پیش پای واکنش می‌گذارد (آزمون‌های خرداد ۱۴۰۲ و خرداد ۱۴۰۱)؛ مثل تونلی که از میان تپه کنده شده. با `Ea` کمتر، کسر بیشتری از برخوردها مؤثر می‌شوند. ولی ارتفاع مبدأ و مقصد عوض نمی‌شود: انرژی واکنش‌دهنده‌ها، فراورده‌ها و `ΔH` همان می‌ماند.",
+      "en": "A \"catalyst\" is a substance that speeds up a reaction and is not used up by the end. Its secret is that it offers \"a new pathway\" with a lower activation energy (Khordad 1402 and Khordad 1401 papers), like a tunnel dug through the hill. With a lower `Ea`, a larger fraction of collisions become effective. But the heights of the start and finish do not change: the energies of the reactants and products, and `ΔH`, stay the same.",
+      "tr": "\"Kataliz-gar\" made-i ast ke sor'at-e vakonesh ra ziyad mikonad va khodash dar payan masraf nemishavad. Raz-e karash in ast ke \"masir-e taze-i\" ba enerzhi-ye fa'al-sazi-ye kamtar pish-e pa-ye vakonesh migozarad (azmoon-haye Khordad 1402 va Khordad 1401); mesl-e tooneli ke az miyan-e tappe kande shode. Ba `Ea`-ye kamtar, kasr-e bishtari az barkhord-ha mo'asser mishavand. Vali ertefa'-e mabda' va maghsad avaz nemishavad: enerzhi-ye vakonesh-dahande-ha, faravarde-ha va `ΔH` haman mimanad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " E\n |         /\\    without catalyst\n |        /  \\\n |       / /\\ \\  with catalyst:\n |      / /  \\ \\ lower peak\n |  R__/_/    \\_\\\n |               \\___ P\n +---------------------------->\n same R, same P, same dH\n Ea lower in BOTH directions",
+     "caption": {
+      "fa": "کاتالیزگر قله را پایین می‌آورد، هم برای واکنش رفت و هم برگشت؛ `ΔH` تغییر نمی‌کند.",
+      "en": "A catalyst lowers the peak for both the forward and reverse reactions; `ΔH` does not change.",
+      "tr": "Kataliz-gar ghelle ra payin miavarad, ham baraye vakonesh-e raft va ham bargasht; `ΔH` taghyir nemikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "کاتالیزگر و تعادل",
+      "en": "Catalysts and equilibrium",
+      "tr": "Kataliz-gar va ta'adol"
+     },
+     "body": {
+      "fa": "چون قله برای هر دو جهت پایین می‌آید، کاتالیزگر سرعت واکنش رفت و برگشت را «به یک اندازه» زیاد می‌کند. پس در سامانهٔ تعادلی، کاتالیزگر تعادل را جابه‌جا نمی‌کند و غلظت‌های تعادلی و `K` را تغییر نمی‌دهد (آزمون دی ۱۴۰۰)؛ فقط کمک می‌کند سامانه زودتر به تعادل برسد. در صنعت، مثل فرایند هابر با کاتالیزگر آهن، همین «زودتر رسیدن» ارزش زیادی دارد.",
+      "en": "Because the peak drops for both directions, a catalyst speeds up the forward and reverse reactions \"by the same factor\". So in an equilibrium system a catalyst does not shift the equilibrium and does not change the equilibrium concentrations or `K` (Dey 1400 paper); it only helps the system reach equilibrium sooner. In industry, as in the Haber process with its iron catalyst, getting there sooner is worth a great deal.",
+      "tr": "Chon ghelle baraye har do jahat payin miayad, kataliz-gar sor'at-e vakonesh-e raft va bargasht ra \"be yek andaze\" ziyad mikonad. Pas dar samane-ye ta'adoli, kataliz-gar ta'adol ra jabeja nemikonad va ghelzat-haye ta'adoli va `K` ra taghyir nemidahad (azmoon-e Dey 1400); faghat komak mikonad samane zoodtar be ta'adol beresad. Dar san'at, mesl-e farayand-e Haber ba kataliz-gar-e ahan, hamin \"zoodtar residan\" arzesh-e ziyadi darad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کاتالیزگر با تغییر کدام ویژگی مسیر واکنش، سرعت را زیاد می‌کند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: by changing which feature of the reaction pathway does a catalyst speed up the reaction? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kataliz-gar ba taghyir-e kodam vizhegi-ye masir-e vakonesh, sor'at ra ziyad mikonad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کاتالیزگر مسیر تازه‌ای با قلهٔ کوتاه‌تر می‌سازد؛ ارتفاع قله همان انرژی فعال‌سازی است.",
+        "en": "A catalyst builds a new pathway with a lower peak; the height of the peak is the activation energy.",
+        "tr": "Kataliz-gar masir-e taze-i ba ghelle-ye kootah-tar misazad; ertefa'-e ghelle haman enerzhi-ye fa'al-sazi ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پایین آوردن انرژی فعال‌سازی",
+      "en": "By lowering the activation energy",
+      "tr": "Payin avardan-e enerzhi-ye fa'al-sazi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: افزودن کاتالیزگر مناسب به یک سامانهٔ گازی در حال تعادل، چه اثری بر جهت تعادل و غلظت‌های تعادلی دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: what effect does adding a suitable catalyst to a gaseous system at equilibrium have on the direction of the equilibrium and the equilibrium concentrations? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: afzoodan-e kataliz-gar-e monaseb be yek samane-ye gazi dar hal-e ta'adol, che asari bar jahat-e ta'adol va ghelzat-haye ta'adoli darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کاتالیزگر `Ea` رفت و برگشت را به یک اندازه کم می‌کند، پس هر دو سرعت به یک نسبت زیاد می‌شوند.",
+        "en": "A catalyst lowers the forward and reverse `Ea` by the same amount, so both rates rise in the same proportion.",
+        "tr": "Kataliz-gar `Ea`-ye raft va bargasht ra be yek andaze kam mikonad, pas har do sor'at be yek nesbat ziyad mishavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "در تعادل دو سرعت برابرند؛ اگر هر دو به یک نسبت زیاد شوند، باز برابر می‌مانند. پس هیچ جابه‌جایی رخ نمی‌دهد.",
+        "en": "At equilibrium the two rates are equal; if both rise in the same proportion, they stay equal. So no shift happens.",
+        "tr": "Dar ta'adol do sor'at barabar-and; agar har do be yek nesbat ziyad shavand, baz barabar mimanand. Pas hich jabejayi rokh nemidahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تعادل جابه‌جا نمی‌شود و غلظت‌های تعادلی تغییر نمی‌کنند",
+      "en": "The equilibrium does not shift and the equilibrium concentrations do not change",
+      "tr": "Ta'adol jabeja nemishavad va ghelzat-haye ta'adoli taghyir nemikonand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در واکنشی `Ea` رفت `150` و `ΔH = −60` کیلوژول است. کاتالیزگر `Ea` رفت را به `90` می‌رساند. `Ea` برگشت قبل و بعد از کاتالیزگر و `ΔH` تازه چیست؟",
+      "en": "Exam twist: a reaction has a forward `Ea` of `150` and `ΔH = −60` kJ. A catalyst brings the forward `Ea` down to `90`. What is the reverse `Ea` before and after the catalyst, and the new `ΔH`?",
+      "tr": "Pich-e emtehani: dar vakoneshi `Ea`-ye raft `150` va `ΔH = −60` kilozhool ast. Kataliz-gar `Ea`-ye raft ra be `90` miresanad. `Ea`-ye bargasht ghabl va ba'd az kataliz-gar va `ΔH`-e taze chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: `Ea` برگشت از فراورده‌ها تا قله است؛ فراورده‌ها `60` پایین‌ترند، پس `60` به `Ea` رفت اضافه می‌شود.",
+        "en": "Step one: the reverse `Ea` runs from the products to the peak; the products are `60` lower, so add `60` to the forward `Ea`.",
+        "tr": "Ghadam-e avval: `Ea`-ye bargasht az faravarde-ha ta ghelle ast; faravarde-ha `60` payin-tar-and, pas `60` be `Ea`-ye raft ezafe mishavad."
+       },
+       "math": "Ea' = 150 + 60 = 210 kJ"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: کاتالیزگر قله را `60` پایین آورده، ولی مبدأ و مقصد را نه؛ پس `ΔH` همان است و `Ea` برگشت هم `60` کم می‌شود.",
+        "en": "Step two, the real twist: the catalyst lowered the peak by `60`, but not the start or finish; so `ΔH` is unchanged and the reverse `Ea` also drops by `60`.",
+        "tr": "Ghadam-e dovvom, pich-e asli: kataliz-gar ghelle ra `60` payin avarde, vali mabda' va maghsad ra na; pas `ΔH` haman ast va `Ea`-ye bargasht ham `60` kam mishavad."
+       },
+       "math": "Ea' = 90 + 60 = 150 kJ ,   ΔH = −60 kJ"
+      }
+     ],
+     "answer": {
+      "fa": "برگشت: `210` سپس `150`؛ `ΔH` همان `−60 kJ`",
+      "en": "Reverse: `210` then `150`; `ΔH` stays `−60 kJ`",
+      "tr": "Bargasht: `210` sepas `150`; `ΔH` haman `−60 kJ`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کاتالیزگر `ΔH` را تغییر نمی‌دهد و واکنش گرماده را گرماگیر نمی‌کند؛ فقط ارتفاع قله را کم می‌کند.",
+      "en": "A catalyst does not change `ΔH` and does not turn an exothermic reaction into an endothermic one; it only lowers the peak.",
+      "tr": "Kataliz-gar `ΔH` ra taghyir nemidahad va vakonesh-e garmade ra garmagir nemikonad; faghat ertefa'-e ghelle ra kam mikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کاتالیزگر مقدار فراورده‌ها را در تعادل بیشتر نمی‌کند؛ فقط زمان رسیدن به تعادل را کوتاه می‌کند.",
+      "en": "A catalyst does not increase the amount of product at equilibrium; it only shortens the time taken to reach equilibrium.",
+      "tr": "Kataliz-gar meghdar-e faravarde-ha ra dar ta'adol bishtar nemikonad; faghat zaman-e residan be ta'adol ra kootah mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 907
+    },
+    {
+     "session": "1400-Dey",
+     "number": 919
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 3,
+   "key": "chem-4-equilibrium-constant",
+   "title": {
+    "fa": "واکنش برگشت‌پذیر و ثابت تعادل",
+    "en": "Reversible reactions and the equilibrium constant",
+    "tr": "Vakonesh-e bargasht-pazir va sabet-e ta'adol"
+   },
+   "summary": {
+    "fa": "دو پلهٔ برقی که برعکس هم می‌روند: آدم‌ها جابه‌جا می‌شوند، ولی شمار هر طبقه ثابت می‌ماند.",
+    "en": "Two escalators running opposite ways: people keep moving, but the number on each floor stays the same.",
+    "tr": "Do pelle-ye barghi ke bar-aks-e ham miravand: adam-ha jabeja mishavand, vali shomar-e har tabaghe sabet mimanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تعادل پویا",
+      "en": "Understand first: dynamic equilibrium",
+      "tr": "Avval befahm: ta'adol-e pooya"
+     },
+     "body": {
+      "fa": "در «واکنش برگشت‌پذیر»، فراورده‌ها می‌توانند با هم واکنش دهند و دوباره واکنش‌دهنده‌های اولیه را بسازند (آزمون خرداد ۱۴۰۱). در ظرف بسته، سرعت رفت کم‌کم کم می‌شود و سرعت برگشت زیاد، تا جایی که دو سرعت برابر شوند؛ این حالت «تعادل شیمیایی» است (آزمون خرداد ۱۴۰۰). تعادل «پویا»ست: هر دو واکنش هنوز ادامه دارند، ولی چون با یک سرعت پیش می‌روند، غلظت‌ها دیگر تغییر نمی‌کنند؛ مثل دو پلهٔ برقی که برعکس هم کار می‌کنند.",
+      "en": "In a \"reversible reaction\", the products can react together to re-form the original reactants (Khordad 1401 paper). In a closed vessel, the forward rate gradually falls and the reverse rate rises until the two rates are equal; this state is \"chemical equilibrium\" (Khordad 1400 paper). Equilibrium is \"dynamic\": both reactions still continue, but because they run at the same rate, the concentrations no longer change, like two escalators running in opposite directions.",
+      "tr": "Dar \"vakonesh-e bargasht-pazir\", faravarde-ha mitavanand ba ham vakonesh dahand va dobare vakonesh-dahande-haye avvaliye ra besazand (azmoon-e Khordad 1401). Dar zarf-e baste, sor'at-e raft kam-kam kam mishavad va sor'at-e bargasht ziyad, ta jayi ke do sor'at barabar shavand; in halat \"ta'adol-e shimiyayi\" ast (azmoon-e Khordad 1400). Ta'adol \"pooya\"st: har do vakonesh hanooz edame darand, vali chon ba yek sor'at pish miravand, ghelzat-ha digar taghyir nemikonand; mesl-e do pelle-ye barghi ke bar-aks-e ham kar mikonand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " rate\n | \\   forward\n |  \\\n |   \\___________ forward = reverse\n |   /            (equilibrium)\n |  /\n | /   reverse\n +--------------------------> time",
+     "caption": {
+      "fa": "سرعت رفت کم و سرعت برگشت زیاد می‌شود تا برابر شوند: لحظهٔ رسیدن به تعادل.",
+      "en": "The forward rate falls and the reverse rate rises until they are equal: the moment equilibrium is reached.",
+      "tr": "Sor'at-e raft kam va sor'at-e bargasht ziyad mishavad ta barabar shavand: lahze-ye residan be ta'adol."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "عبارت ثابت تعادل",
+      "en": "The equilibrium-constant expression",
+      "tr": "Ebarat-e sabet-e ta'adol"
+     },
+     "body": {
+      "fa": "«ثابت تعادل» (`K`) نسبت غلظت‌های تعادلی است: غلظت فراورده‌های گازی (یا محلول) در صورت و غلظت واکنش‌دهنده‌ها در مخرج (آزمون دی ۱۳۹۹)، هر کدام به توان ضریبش در معادلهٔ موازنه‌شده. جامدها و مایع‌های خالص در عبارت `K` نمی‌آیند. `K` بسیار بزرگ یعنی در تعادل فراورده‌ها بسیار بیشترند (آزمون دی ۱۴۰۱)؛ `K` بسیار کوچک، نزدیک صفر، یعنی واکنش‌دهنده‌ها غالب‌اند و واکنش به‌سختی پیش رفته (آزمون دی ۱۴۰۱).",
+      "en": "The \"equilibrium constant\" (`K`) is a ratio of equilibrium concentrations: gaseous (or dissolved) products in the numerator and reactants in the denominator (Dey 1399 paper), each raised to the power of its coefficient in the balanced equation. Solids and pure liquids do not appear in the `K` expression. A very large `K` means products far outweigh reactants at equilibrium (Dey 1401 paper); a very small `K`, close to zero, means reactants dominate and the reaction has barely gone forward (Dey 1401 paper).",
+      "tr": "\"Sabet-e ta'adol\" (`K`) nesbat-e ghelzat-haye ta'adoli ast: ghelzat-e faravarde-haye gazi (ya mahlool) dar soorat va ghelzat-e vakonesh-dahande-ha dar makhraj (azmoon-e Dey 1399), har kodam be tavan-e zaribash dar moadele-ye movazene-shode. Jamed-ha va maye'-haye khales dar ebarat-e `K` nemiayand. `K`-e besiyar bozorg ya'ni dar ta'adol faravarde-ha besiyar bishtar-and (azmoon-e Dey 1401); `K`-e besiyar koochak, nazdik-e sefr, ya'ni vakonesh-dahande-ha ghaleb-and va vakonesh be-sakhti pish rafte (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "aA + bB ⇌ cC + dD   ⟹   K = [C]^c [D]^d / ([A]^a [B]^b)",
+     "caption": {
+      "fa": "غلظت‌ها مولار و تعادلی‌اند؛ جامد و مایع خالص حذف می‌شوند",
+      "en": "Concentrations are molar and at equilibrium; solids and pure liquids are left out",
+      "tr": "Ghelzat-ha molar va ta'adoli-and; jamed va maye'-e khales hazf mishavand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر ثابت تعادل یک واکنش بسیار بزرگ باشد، دربارهٔ سامانهٔ تعادلی چه می‌گوید؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: if a reaction's equilibrium constant is very large, what does that say about the equilibrium system? (Dey 1401 paper)",
+      "tr": "Garm kardan: agar sabet-e ta'adol-e yek vakonesh besiyar bozorg bashad, darbare-ye samane-ye ta'adoli che migooyad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فراورده‌ها در صورت‌اند. کسری بسیار بزرگ یعنی صورت بسیار بزرگ‌تر از مخرج است.",
+        "en": "Products are in the numerator. A very large fraction means the numerator is much bigger than the denominator.",
+        "tr": "Faravarde-ha dar soorat-and. Kasri besiyar bozorg ya'ni soorat besiyar bozorg-tar az makhraj ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در تعادل، فراورده‌ها بسیار بیشتر از واکنش‌دهنده‌ها هستند",
+      "en": "At equilibrium, products far outweigh reactants",
+      "tr": "Dar ta'adol, faravarde-ha besiyar bishtar az vakonesh-dahande-ha hastand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: عبارت ثابت تعادل را برای `N2(g) + 3H2(g) ⇌ 2NH3(g)` بنویس. (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: write the equilibrium-constant expression for `N2(g) + 3H2(g) ⇌ 2NH3(g)`. (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ebarat-e sabet-e ta'adol ra baraye `N2(g) + 3H2(g) ⇌ 2NH3(g)` benevis. (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فراوردهٔ گازی در صورت، با توان ضریبش: `2`.",
+        "en": "The gaseous product goes in the numerator, raised to its coefficient: `2`.",
+        "tr": "Faravarde-ye gazi dar soorat, ba tavan-e zaribash: `2`."
+       }
+      },
+      {
+       "text": {
+        "fa": "واکنش‌دهنده‌ها در مخرج، هر کدام با توان ضریب خودش؛ ضریب‌ها در عبارت ضرب نمی‌شوند، توان می‌شوند.",
+        "en": "The reactants go in the denominator, each raised to its own coefficient; coefficients become powers, not multipliers.",
+        "tr": "Vakonesh-dahande-ha dar makhraj, har kodam ba tavan-e zarib-e khodash; zarib-ha dar ebarat zarb nemishavand, tavan mishavand."
+       },
+       "math": "K = [NH3]^2 / ([N2][H2]^3)"
+      }
+     ],
+     "answer": {
+      "fa": "`K = [NH3]^2 / ([N2][H2]^3)`",
+      "en": "`K = [NH3]^2 / ([N2][H2]^3)`",
+      "tr": "`K = [NH3]^2 / ([N2][H2]^3)`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای `A(g) ⇌ 2B(g)` در ظرف `2` لیتری، `K = 4 × 10^-2` است. اگر در تعادل `1` مول `A` باشد، غلظت تعادلی `B` چقدر است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: for `A(g) ⇌ 2B(g)` in a `2` L vessel, `K = 4 × 10^-2`. If `1` mol of `A` is present at equilibrium, what is the equilibrium concentration of `B`? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: baraye `A(g) ⇌ 2B(g)` dar zarf-e `2` litri, `K = 4 × 10^-2` ast. Agar dar ta'adol `1` mol `A` bashad, ghelzat-e ta'adoli-ye `B` cheghadr ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، پیچ اول: `K` با غلظت کار می‌کند، نه مول. مول را بر حجم تقسیم کن.",
+        "en": "Step one, the first twist: `K` works with concentrations, not moles. Divide the moles by the volume.",
+        "tr": "Ghadam-e avval, pich-e avval: `K` ba ghelzat kar mikonad, na mol. Mol ra bar hajm taghsim kon."
+       },
+       "math": "[A] = 1 / 2 = 0.5 M"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ دوم: ضریب `2` در عبارت `K` توان می‌شود.",
+        "en": "Step two, the second twist: the coefficient `2` becomes a power in the `K` expression.",
+        "tr": "Ghadam-e dovvom, pich-e dovvom: zarib-e `2` dar ebarat-e `K` tavan mishavad."
+       },
+       "math": "K = [B]^2 / [A]   ⟹   [B]^2 = 0.04 × 0.5 = 0.02"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: ریشهٔ دوم بگیر.",
+        "en": "Step three: take the square root.",
+        "tr": "Ghadam-e sevvom: rishe-ye dovvom begir."
+       },
+       "math": "[B] = √0.02 ≈ 0.141 M"
+      }
+     ],
+     "answer": {
+      "fa": "`[B] ≈ 0.141 M`",
+      "en": "`[B] ≈ 0.141 M`",
+      "tr": "`[B] ≈ 0.141 M`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در تعادل، غلظت‌ها «ثابت‌اند»، نه «برابر»؛ و واکنش‌ها متوقف نشده‌اند، فقط سرعت رفت و برگشت برابر شده است.",
+      "en": "At equilibrium the concentrations are \"constant\", not \"equal\"; and the reactions have not stopped, the forward and reverse rates have just become equal.",
+      "tr": "Dar ta'adol, ghelzat-ha \"sabet-and\", na \"barabar\"; va vakonesh-ha motevaghef nashode-and, faghat sor'at-e raft va bargasht barabar shode ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیش از جایگذاری در `K`، مول را به غلظت (مول بر لیتر) تبدیل کن و ضریب‌ها را توان بگذار.",
+      "en": "Before substituting into `K`, convert moles to concentration (moles per litre) and use the coefficients as powers.",
+      "tr": "Pish az jaygozari dar `K`, mol ra be ghelzat (mol bar litr) tabdil kon va zarib-ha ra tavan begozar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 920
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 911
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1399-Dey",
+     "number": 928
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 4,
+   "key": "chem-4-le-chatelier",
+   "title": {
+    "fa": "اصل لوشاتلیه: غلظت و فشار",
+    "en": "Le Chatelier's principle: concentration and pressure",
+    "tr": "Asl-e Lo Shatelie: ghelzat va feshar"
+   },
+   "summary": {
+    "fa": "سامانهٔ تعادلی مثل الاکلنگ است: هر طرف را سنگین کنی، به سمت دیگر خم می‌شود تا اثر را کم کند.",
+    "en": "An equilibrium system is like a seesaw: load one side and it tips the other way to ease the change.",
+    "tr": "Samane-ye ta'adoli mesl-e alakolang ast: har taraf ra sangin koni, be samt-e digar kham mishavad ta asar ra kam konad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: الاکلنگی که خودش را متعادل می‌کند",
+      "en": "Understand first: a seesaw that rebalances itself",
+      "tr": "Avval befahm: alakolangi ke khodash ra mote'adel mikonad"
+     },
+     "body": {
+      "fa": "«اصل لوشاتلیه» می‌گوید: اگر به سامانه‌ای در حال تعادل تغییری تحمیل شود، تعادل در جهتی جابه‌جا می‌شود که اثر آن تغییر را کم کند. اگر واکنش‌دهنده اضافه کنی، سامانه آن را مصرف می‌کند و به سمت فراورده می‌رود (آزمون دی ۱۴۰۱). اگر فراورده را پیوسته خارج کنی، سامانه برای جبران فراوردهٔ بیشتری می‌سازد و باز به سمت رفت می‌رود (آزمون خرداد ۱۴۰۱). مثل الاکلنگی که خودش را دوباره متعادل می‌کند.",
+      "en": "\"Le Chatelier's principle\" says: if a change is imposed on a system at equilibrium, the equilibrium shifts in the direction that reduces the effect of that change. Add a reactant and the system uses it up, shifting towards products (Dey 1401 paper). Keep removing a product and the system makes more to make up for it, again shifting forward (Khordad 1401 paper). Like a seesaw that rebalances itself.",
+      "tr": "\"Asl-e Lo Shatelie\" migooyad: agar be samane-i dar hal-e ta'adol taghyiri tahmil shavad, ta'adol dar jahati jabeja mishavad ke asar-e an taghyir ra kam konad. Agar vakonesh-dahande ezafe koni, samane an ra masraf mikonad va be samt-e faravarde miravad (azmoon-e Dey 1401). Agar faravarde ra peyvaste kharej koni, samane baraye jobran faravarde-ye bishtari misazad va baz be samt-e raft miravad (azmoon-e Khordad 1401). Mesl-e alakolangi ke khodash ra dobare mote'adel mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فشار، حجم و گاز بی‌اثر",
+      "en": "Pressure, volume and inert gases",
+      "tr": "Feshar, hajm va gaz-e bi-asar"
+     },
+     "body": {
+      "fa": "«فشار و حجم»: کم کردن حجم ظرف، فشار را بالا می‌برد؛ سامانه برای کم کردن فشار به سمتی می‌رود که مول گازی «کمتری» دارد (آزمون‌های خرداد ۱۴۰۲، دی ۱۴۰۱ و خرداد ۱۴۰۱)، چه واکنش گرماده باشد چه گرماگیر. زیاد کردن حجم، تعادل را به سمت مول گازی «بیشتر» می‌برد (آزمون خرداد ۱۴۰۰). اگر دو طرف مول گازی برابر داشته باشند، فشار اثری ندارد. افزودن گاز بی‌اثر در حجم ثابت، فشار کل را بالا می‌برد ولی غلظت هیچ گونه‌ای را عوض نمی‌کند؛ پس نه تعادل جابه‌جا می‌شود و نه `K` (آزمون خرداد ۱۴۰۲). مهم‌تر از همه: تغییر غلظت یا فشار تعادل را جابه‌جا می‌کند ولی مقدار `K` را تغییر نمی‌دهد (آزمون خرداد ۱۴۰۱).",
+      "en": "\"Pressure and volume\": reducing the vessel's volume raises the pressure; to lower it, the system shifts to the side with \"fewer\" moles of gas (Khordad 1402, Dey 1401 and Khordad 1401 papers), whether the reaction is exothermic or endothermic. Increasing the volume shifts the equilibrium towards \"more\" moles of gas (Khordad 1400 paper). If both sides have equal moles of gas, pressure has no effect. Adding an inert gas at constant volume raises the total pressure but changes no species' concentration, so neither the equilibrium nor `K` changes (Khordad 1402 paper). Most important of all: changing concentration or pressure shifts the equilibrium but does not change the value of `K` (Khordad 1401 paper).",
+      "tr": "\"Feshar va hajm\": kam kardan-e hajm-e zarf, feshar ra bala mibarad; samane baraye kam kardan-e feshar be samti miravad ke mol-e gazi-ye \"kamtari\" darad (azmoon-haye Khordad 1402, Dey 1401 va Khordad 1401), che vakonesh garmade bashad che garmagir. Ziyad kardan-e hajm, ta'adol ra be samt-e mol-e gazi-ye \"bishtar\" mibarad (azmoon-e Khordad 1400). Agar do taraf mol-e gazi-ye barabar dashte bashand, feshar asari nadarad. Afzoodan-e gaz-e bi-asar dar hajm-e sabet, feshar-e kol ra bala mibarad vali ghelzat-e hich goone-i ra avaz nemikonad; pas na ta'adol jabeja mishavad va na `K` (azmoon-e Khordad 1402). Mohem-tar az hame: taghyir-e ghelzat ya feshar ta'adol ra jabeja mikonad vali meghdar-e `K` ra taghyir nemidahad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " change made          shift\n -------------------  -------------\n add reactant         forward\n remove product       forward\n add product          reverse\n smaller volume       fewer gas mol\n larger volume        more gas mol\n inert gas, fixed V   none\n catalyst             none\n K changes only with temperature",
+     "caption": {
+      "fa": "جدول لوشاتلیه: هر تغییر و جهت جابه‌جایی؛ هیچ‌کدام از این‌ها `K` را عوض نمی‌کند.",
+      "en": "The Le Chatelier table: each change and the direction of the shift; none of these changes `K`.",
+      "tr": "Jadval-e Lo Shatelie: har taghyir va jahat-e jabejayi; hich-kodam az in-ha `K` ra avaz nemikonad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در یک تعادل گازی، خارج کردن پیوستهٔ فراوردهٔ گازی از ظرف، تعادل را به کدام سمت می‌برد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: in a gaseous equilibrium, which way does continuously removing the gaseous product shift the equilibrium? (Khordad 1401 paper)",
+      "tr": "Garm kardan: dar yek ta'adol-e gazi, kharej kardan-e peyvaste-ye faravarde-ye gazi az zarf, ta'adol ra be kodam samt mibarad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سامانه کمبود را جبران می‌کند: فراورده کم شده، پس فراوردهٔ بیشتری می‌سازد.",
+        "en": "The system makes up for the shortage: product has been lost, so it makes more product.",
+        "tr": "Samane kambood ra jobran mikonad: faravarde kam shode, pas faravarde-ye bishtari misazad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به سمت رفت (فراورده‌ها)",
+      "en": "Towards the forward (product) side",
+      "tr": "Be samt-e raft (faravarde-ha)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در تعادل گرمادهٔ `N2(g) + 3H2(g) ⇌ 2NH3(g)`، کم کردن حجم ظرف در دمای ثابت تعادل را به کدام سمت می‌برد؟ (آزمون‌های خرداد ۱۴۰۱ و دی ۱۴۰۱)",
+      "en": "Textbook and exam: in the exothermic equilibrium `N2(g) + 3H2(g) ⇌ 2NH3(g)`, which way does reducing the vessel's volume at constant temperature shift the equilibrium? (Khordad 1401 and Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar ta'adol-e garmade-ye `N2(g) + 3H2(g) ⇌ 2NH3(g)`, kam kardan-e hajm-e zarf dar dama-ye sabet ta'adol ra be kodam samt mibarad? (azmoon-haye Khordad 1401 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مول‌های گازی هر طرف را بشمار؛ گرماده بودن اینجا اهمیتی ندارد، چون دما ثابت است.",
+        "en": "Count the moles of gas on each side; being exothermic does not matter here, because the temperature is constant.",
+        "tr": "Mol-haye gazi-ye har taraf ra beshmar; garmade boodan inja ahammiyati nadarad, chon dama sabet ast."
+       },
+       "math": "1 + 3 = 4 mol   ⇌   2 mol"
+      },
+      {
+       "text": {
+        "fa": "حجم کمتر یعنی فشار بیشتر؛ سامانه با رفتن به سمت مول گازی کمتر فشار را کم می‌کند.",
+        "en": "A smaller volume means a higher pressure; the system lowers it by moving to the side with fewer moles of gas.",
+        "tr": "Hajm-e kamtar ya'ni feshar-e bishtar; samane ba raftan be samt-e mol-e gazi-ye kamtar feshar ra kam mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به سمت راست (تولید آمونیاک)، با مول گازی کمتر",
+      "en": "To the right (making ammonia), the side with fewer moles of gas",
+      "tr": "Be samt-e rast (towlid-e amoniyak), ba mol-e gazi-ye kamtar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای `H2(g) + I2(g) ⇌ 2HI(g)`، یک بار حجم ظرف را نصف می‌کنیم و بار دیگر در حجم ثابت گاز آرگون اضافه می‌کنیم. در هر حالت تعادل به کدام سمت می‌رود؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: for `H2(g) + I2(g) ⇌ 2HI(g)`, we once halve the vessel's volume, and another time add argon at constant volume. Which way does the equilibrium shift each time? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: baraye `H2(g) + I2(g) ⇌ 2HI(g)`, yek bar hajm-e zarf ra nesf mikonim va bar-e digar dar hajm-e sabet gaz-e argon ezafe mikonim. Dar har halat ta'adol be kodam samt miravad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "حالت اول، پیچ اول: مول‌های گازی را بشمار؛ دو طرف برابرند، پس فشار هیچ طرفی را ترجیح نمی‌دهد.",
+        "en": "Case one, the first twist: count the moles of gas; the two sides are equal, so pressure favours neither side.",
+        "tr": "Halat-e avval, pich-e avval: mol-haye gazi ra beshmar; do taraf barabar-and, pas feshar hich tarafi ra tarjih nemidahad."
+       },
+       "math": "1 + 1 = 2 mol   ⇌   2 mol"
+      },
+      {
+       "text": {
+        "fa": "حالت دوم، پیچ دوم: آرگون در واکنش شرکت نمی‌کند و در حجم ثابت غلظت هیچ گونه‌ای را عوض نمی‌کند؛ بالا رفتن فشار کل فریبنده است.",
+        "en": "Case two, the second twist: argon takes no part and, at constant volume, changes no species' concentration; the rise in total pressure is a decoy.",
+        "tr": "Halat-e dovvom, pich-e dovvom: argon dar vakonesh sherkat nemikonad va dar hajm-e sabet ghelzat-e hich goone-i ra avaz nemikonad; bala raftan-e feshar-e kol faribande ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در هیچ‌کدام جابه‌جا نمی‌شود، به دو دلیل متفاوت",
+      "en": "It shifts in neither case, for two different reasons",
+      "tr": "Dar hich-kodam jabeja nemishavad, be do dalil-e motafavet"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "افزودن واکنش‌دهنده تعادل را جابه‌جا می‌کند ولی `K` را تغییر نمی‌دهد؛ `K` فقط با دما عوض می‌شود (آزمون خرداد ۱۴۰۱).",
+      "en": "Adding a reactant shifts the equilibrium but does not change `K`; `K` changes only with temperature (Khordad 1401 paper).",
+      "tr": "Afzoodan-e vakonesh-dahande ta'adol ra jabeja mikonad vali `K` ra taghyir nemidahad; `K` faghat ba dama avaz mishavad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "برای اثر فشار فقط مول‌های «گازی» را بشمار؛ جامدها و مایع‌ها حساب نمی‌شوند. و در حجم ثابت، گاز بی‌اثر هیچ اثری ندارد.",
+      "en": "For the effect of pressure, count only the moles of \"gas\"; solids and liquids do not count. And at constant volume an inert gas has no effect.",
+      "tr": "Baraye asar-e feshar faghat mol-haye \"gazi\" ra beshmar; jamed-ha va maye'-ha hesab nemishavand. Va dar hajm-e sabet, gaz-e bi-asar hich asari nadarad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 909
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1401-Dey",
+     "number": 940
+    },
+    {
+     "session": "1401-Dey",
+     "number": 941
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 918
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 925
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 929
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 903
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 4,
+   "unit": 5,
+   "key": "chem-4-temperature-haber",
+   "title": {
+    "fa": "دما، ثابت تعادل و فرایند هابر",
+    "en": "Temperature, the equilibrium constant and the Haber process",
+    "tr": "Dama, sabet-e ta'adol va farayand-e Haber"
+   },
+   "summary": {
+    "fa": "گرما را مثل یک واکنش‌دهنده یا فراورده بنویس، آنگاه لوشاتلیه کار را تمام می‌کند.",
+    "en": "Write heat in as a reactant or a product, and Le Chatelier does the rest.",
+    "tr": "Garma ra mesl-e yek vakonesh-dahande ya faravarde benevis, angah Lo Shatelie kar ra tamam mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: گرما را در معادله بنویس",
+      "en": "Understand first: write heat into the equation",
+      "tr": "Avval befahm: garma ra dar moadele benevis"
+     },
+     "body": {
+      "fa": "دما تنها عاملی است که مقدار `K` را تغییر می‌دهد (آزمون‌های خرداد ۱۴۰۱ و دی ۱۴۰۰). ترفند ساده این است: گرما را در معادله بنویس. در واکنش «گرماده» گرما فراورده است؛ گرم کردن یعنی افزودن فراورده، پس تعادل به سمت برگشت می‌رود و `K` کم می‌شود (آزمون دی ۱۴۰۱)؛ سرد کردن تعادل را به سمت فراورده‌ها می‌برد (آزمون دی ۱۴۰۱). در واکنش «گرماگیر» گرما واکنش‌دهنده است؛ گرم کردن تعادل را به سمت رفت می‌برد و `K` را زیاد می‌کند (آزمون دی ۱۴۰۰)، و سرد کردن به سمت برگشت (آزمون دی ۱۴۰۱).",
+      "en": "Temperature is the only factor that changes the value of `K` (Khordad 1401 and Dey 1400 papers). The simple trick: write heat into the equation. In an \"exothermic\" reaction heat is a product; heating means adding product, so the equilibrium shifts backwards and `K` falls (Dey 1401 paper); cooling shifts it towards the products (Dey 1401 paper). In an \"endothermic\" reaction heat is a reactant; heating shifts the equilibrium forwards and raises `K` (Dey 1400 paper), and cooling shifts it backwards (Dey 1401 paper).",
+      "tr": "Dama tanha amel-i ast ke meghdar-e `K` ra taghyir midahad (azmoon-haye Khordad 1401 va Dey 1400). Tarfand-e sade in ast: garma ra dar moadele benevis. Dar vakonesh-e \"garmade\" garma faravarde ast; garm kardan ya'ni afzoodan-e faravarde, pas ta'adol be samt-e bargasht miravad va `K` kam mishavad (azmoon-e Dey 1401); sard kardan ta'adol ra be samt-e faravarde-ha mibarad (azmoon-e Dey 1401). Dar vakonesh-e \"garmagir\" garma vakonesh-dahande ast; garm kardan ta'adol ra be samt-e raft mibarad va `K` ra ziyad mikonad (azmoon-e Dey 1400), va sard kardan be samt-e bargasht (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " EXOTHERMIC:  A + B <=> C + heat\n   heat up   -> shift left,  K down\n   cool down -> shift right, K up\n\n ENDOTHERMIC: A + B + heat <=> C\n   heat up   -> shift right, K up\n   cool down -> shift left,  K down",
+     "caption": {
+      "fa": "گرما را مثل یک گونه در معادله بگذار: گرم کردن یعنی افزودن آن، سرد کردن یعنی برداشتن آن.",
+      "en": "Treat heat like a species in the equation: heating adds it, cooling removes it.",
+      "tr": "Garma ra mesl-e yek goone dar moadele begozar: garm kardan ya'ni afzoodan-e an, sard kardan ya'ni bardashtan-e an."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فرایند هابر: سازش میان مقدار و سرعت",
+      "en": "The Haber process: a compromise between yield and rate",
+      "tr": "Farayand-e Haber: sazesh miyan-e meghdar va sor'at"
+     },
+     "body": {
+      "fa": "«فرایند هابر» آمونیاک را از نیتروژن و هیدروژن می‌سازد: `N2 + 3H2 ⇌ 2NH3`، واکنشی گرماده. لوشاتلیه می‌گوید دمای پایین و فشار بالا بیشترین آمونیاک را می‌دهد؛ ولی در دمای پایین واکنش آن‌قدر کند است که عملاً به‌صرفه نیست. راه‌حل صنعتی یک «سازش» است: دمای حدود `450` درجه، فشار حدود `200` اتمسفر و کاتالیزگر آهن تا سرعت قابل‌قبول شود. آمونیاک تولیدشده را هم پیوسته با سرد کردن و مایع کردن خارج می‌کنند تا تعادل باز به سمت رفت برود.",
+      "en": "The \"Haber process\" makes ammonia from nitrogen and hydrogen: `N2 + 3H2 ⇌ 2NH3`, an exothermic reaction. Le Chatelier says low temperature and high pressure give the most ammonia; but at low temperature the reaction is so slow that it is not practical. The industrial answer is a \"compromise\": about `450` °C, about `200` atm and an iron catalyst to make the rate acceptable. The ammonia formed is also removed continuously by cooling and liquefying it, so the equilibrium keeps shifting forwards.",
+      "tr": "\"Farayand-e Haber\" amoniyak ra az nitrozhen va hidrozhen misazad: `N2 + 3H2 ⇌ 2NH3`, vakoneshi garmade. Lo Shatelie migooyad dama-ye payin va feshar-e bala bishtarin amoniyak ra midahad; vali dar dama-ye payin vakonesh an-ghadr kond ast ke amalan be-sarfe nist. Rah-hal-e san'ati yek \"sazesh\" ast: dama-ye hodood-e `450` daraje, feshar-e hodood-e `200` atmosfer va kataliz-gar-e ahan ta sor'at ghabel-e ghabool shavad. Amoniyak-e towlid-shode ra ham peyvaste ba sard kardan va maye' kardan kharej mikonand ta ta'adol baz be samt-e raft beravad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در یک تعادل گازی گرماده، پایین آوردن دما تعادل را به کدام سمت می‌برد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: in an exothermic gaseous equilibrium, which way does lowering the temperature shift the equilibrium? (Dey 1401 paper)",
+      "tr": "Garm kardan: dar yek ta'adol-e gazi-ye garmade, payin avardan-e dama ta'adol ra be kodam samt mibarad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گرما را بنویس: در گرماده، گرما سمت فراورده‌هاست. سرد کردن یعنی برداشتن گرما؛ سامانه برای جبران، گرمای بیشتری می‌سازد، یعنی به سمت رفت می‌رود.",
+        "en": "Write the heat in: in an exothermic reaction heat is on the product side. Cooling removes heat; to make up for it the system makes more heat, so it shifts forwards.",
+        "tr": "Garma ra benevis: dar garmade, garma samt-e faravarde-hast. Sard kardan ya'ni bardashtan-e garma; samane baraye jobran, garma-ye bishtari misazad, ya'ni be samt-e raft miravad."
+       },
+       "math": "A + B ⇌ C + q"
+      }
+     ],
+     "answer": {
+      "fa": "به سمت رفت (فراورده‌ها)",
+      "en": "Towards the forward (product) side",
+      "tr": "Be samt-e raft (faravarde-ha)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در تعادل گرمادهٔ `N2(g) + 3H2(g) ⇌ 2NH3(g) + q`، افزایش دما چه اثری بر جهت واکنش و مقدار `K` دارد؟ با اصل لوشاتلیه توضیح بده. (آزمون خرداد ۱۳۹۷)",
+      "en": "Textbook and exam: in the exothermic equilibrium `N2(g) + 3H2(g) ⇌ 2NH3(g) + q`, how does raising the temperature affect the direction of the reaction and the value of `K`? Explain using Le Chatelier's principle. (Khordad 1397 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar ta'adol-e garmade-ye `N2(g) + 3H2(g) ⇌ 2NH3(g) + q`, afzayesh-e dama che asari bar jahat-e vakonesh va meghdar-e `K` darad? Ba asl-e Lo Shatelie tozih bede. (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، جهت: گرما سمت فراورده‌هاست؛ گرم کردن مثل افزودن فراورده است، پس سامانه برای جذب گرما به سمت چپ (برگشت) می‌رود.",
+        "en": "First half mark, the direction: heat is on the product side; heating is like adding product, so the system shifts left (backwards) to absorb the heat.",
+        "tr": "Nim-nomre-ye avval, jahat: garma samt-e faravarde-hast; garm kardan mesl-e afzoodan-e faravarde ast, pas samane baraye jazb-e garma be samt-e chap (bargasht) miravad."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، `K`: در تعادل تازه آمونیاک (صورت) کمتر و نیتروژن و هیدروژن (مخرج) بیشترند، پس `K` کوچک‌تر می‌شود.",
+        "en": "Second half mark, `K`: at the new equilibrium there is less ammonia (numerator) and more nitrogen and hydrogen (denominator), so `K` becomes smaller.",
+        "tr": "Nim-nomre-ye dovvom, `K`: dar ta'adol-e taze amoniyak (soorat) kamtar va nitrozhen va hidrozhen (makhraj) bishtar-and, pas `K` koochak-tar mishavad."
+       },
+       "math": "K = [NH3]^2 / ([N2][H2]^3)   ↓"
+      }
+     ],
+     "answer": {
+      "fa": "تعادل به سمت چپ می‌رود و `K` کم می‌شود",
+      "en": "The equilibrium shifts left and `K` decreases",
+      "tr": "Ta'adol be samt-e chap miravad va `K` kam mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر دمای پایین برای واکنش گرمادهٔ هابر آمونیاک بیشتری می‌دهد، چرا کارخانه‌ها آن را در حدود `450` درجه انجام می‌دهند؟ و آیا کاتالیزگر آهن مقدار آمونیاک تعادلی را زیاد می‌کند؟",
+      "en": "Exam twist: if low temperature gives more ammonia in the exothermic Haber reaction, why do plants run it at about `450` °C? And does the iron catalyst increase the equilibrium amount of ammonia?",
+      "tr": "Pich-e emtehani: agar dama-ye payin baraye vakonesh-e garmade-ye Haber amoniyak-e bishtari midahad, chera karkhane-ha an ra dar hodood-e `450` daraje anjam midahand? Va aya kataliz-gar-e ahan meghdar-e amoniyak-e ta'adoli ra ziyad mikonad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: لوشاتلیه فقط از «مقدار» در تعادل می‌گوید، نه از «سرعت» رسیدن به آن. در دمای پایین برخوردهای مؤثر بسیار کم‌اند و رسیدن به تعادل بسیار طول می‌کشد.",
+        "en": "The twist: Le Chatelier speaks only of the \"amount\" at equilibrium, not the \"speed\" of getting there. At low temperature effective collisions are very rare and equilibrium takes far too long.",
+        "tr": "Pich-e emtehan: Lo Shatelie faghat az \"meghdar\" dar ta'adol migooyad, na az \"sor'at\"-e residan be an. Dar dama-ye payin barkhord-haye mo'asser besiyar kam-and va residan be ta'adol besiyar tool mikeshad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس `450` درجه سازشی میان مقدار کمی کمتر و سرعتی بسیار بیشتر است. کاتالیزگر فقط سرعت را زیاد می‌کند؛ مقدار تعادلی و `K` را تغییر نمی‌دهد.",
+        "en": "So `450` °C is a compromise between a slightly smaller yield and a much higher rate. The catalyst only raises the rate; it does not change the equilibrium amount or `K`.",
+        "tr": "Pas `450` daraje sazeshi miyan-e meghdar-e kami kamtar va sor'ati besiyar bishtar ast. Kataliz-gar faghat sor'at ra ziyad mikonad; meghdar-e ta'adoli va `K` ra taghyir nemidahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "برای سرعت قابل‌قبول، به بهای کمی آمونیاک کمتر؛ کاتالیزگر مقدار تعادلی را زیاد نمی‌کند",
+      "en": "For an acceptable rate, at the cost of slightly less ammonia; the catalyst does not raise the equilibrium amount",
+      "tr": "Baraye sor'at-e ghabel-e ghabool, be baha-ye kami amoniyak-e kamtar; kataliz-gar meghdar-e ta'adoli ra ziyad nemikonad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گرم کردن «همیشه» سرعت هر دو واکنش رفت و برگشت را زیاد می‌کند، ولی جهت جابه‌جایی تعادل به گرماده یا گرماگیر بودن بستگی دارد. سرعت و جهت را قاطی نکن.",
+      "en": "Heating \"always\" speeds up both the forward and reverse reactions, but the direction the equilibrium shifts depends on whether it is exothermic or endothermic. Do not confuse rate with direction.",
+      "tr": "Garm kardan \"hamishe\" sor'at-e har do vakonesh-e raft va bargasht ra ziyad mikonad, vali jahat-e jabejayi-ye ta'adol be garmade ya garmagir boodan bastegi darad. Sor'at va jahat ra ghati nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فقط دما `K` را تغییر می‌دهد؛ در واکنش گرماده گرم کردن `K` را «کم» می‌کند و در گرماگیر «زیاد».",
+      "en": "Only temperature changes `K`; in an exothermic reaction heating makes `K` \"smaller\", and in an endothermic one \"larger\".",
+      "tr": "Faghat dama `K` ra taghyir midahad; dar vakonesh-e garmade garm kardan `K` ra \"kam\" mikonad va dar garmagir \"ziyad\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 915
+    },
+    {
+     "session": "1401-Dey",
+     "number": 943
+    },
+    {
+     "session": "1401-Dey",
+     "number": 944
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 905
+    },
+    {
+     "session": "1400-Dey",
+     "number": 938
+    },
+    {
+     "session": "1400-Dey",
+     "number": 939
+    },
+    {
+     "session": "1397-Khordad",
+     "number": 0
+    }
+   ]
+  }
+ ]
+}
