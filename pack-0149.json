@@ -1,0 +1,922 @@
+{
+ "version": 149,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "English",
+   "key": "eng-g-sense-of-appreciation",
+   "term": {
+    "fa": "حس قدردانی",
+    "en": "sense of appreciation",
+    "tr": "hess-e ghadrdani"
+   },
+   "explain": {
+    "fa": "عنوان درس یک: «حس قدردانی»؛ یعنی قدر محبت و زحمت دیگران، به‌ویژه پدر و مادر و بزرگ‌ترها، را دانستن و نشان دادن.",
+    "en": "The title of Lesson 1: valuing the love and hard work of others, especially parents and the elderly, and showing it.",
+    "tr": "Onvan-e dars-e yek: \"hess-e ghadrdani\"; ya'ni ghadr-e mohabbat va zahmat-e digaran, be-vizhe pedar va madar va bozorg-tar-ha, ra danestan va neshan dadan."
+   },
+   "analogy": {
+    "fa": "مثل آبیاری گلی که سال‌ها به تو سایه داده است.",
+    "en": "Like watering a plant that has given you shade for years.",
+    "tr": "Mesl-e abyari-ye goli ke sal-ha be to saye dade ast."
+   },
+   "unit": "eng-1-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-respecting-parents",
+   "term": {
+    "fa": "احترام به والدین",
+    "en": "respecting parents",
+    "tr": "ehteram be valedein"
+   },
+   "explain": {
+    "fa": "احترام به پدر و مادر، پیام اصلی متن درس یک: آن‌ها ما را با عشق و مراقبت (`care`) بزرگ کرده‌اند (`brought us up`).",
+    "en": "Respect for parents, the main message of the Lesson 1 text: they brought us up with love and `care`.",
+    "tr": "Ehteram be pedar va madar, payam-e asli-ye matn-e dars-e yek: an-ha ma ra ba eshgh va moraghebat (`care`) bozorg karde-and (`brought us up`)."
+   },
+   "contrast": {
+    "fa": "`bring up` (بزرگ کردن فرزند) کار پدر و مادر است؛ `grow up` (بزرگ شدن) کار ما.",
+    "en": "`bring up` (raising a child) is what parents do; `grow up` is what we do.",
+    "tr": "`bring up` (bozorg kardan-e farzand) kar-e pedar va madar ast; `grow up` (bozorg shodan) kar-e ma."
+   },
+   "unit": "eng-1-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-phrasal-verbs",
+   "term": {
+    "fa": "اصطلاحات فعلی",
+    "en": "phrasal verbs",
+    "tr": "estelahat-e fe'li"
+   },
+   "explain": {
+    "fa": "فعل و حرف اضافه که با هم یک معنای تازه می‌سازند: `bring up` (بزرگ کردن)، `look after` (مراقبت کردن)، `care for` (مراقب بودن). معنایشان را با هم حفظ کن.",
+    "en": "A verb and a particle that together make a new meaning: `bring up`, `look after`, `care for`. Learn each meaning as one unit.",
+    "tr": "Fe'l va harf-e ezafe ke ba ham yek ma'na-ye taze misazand: `bring up` (bozorg kardan), `look after` (moraghebat kardan), `care for` (moragheb boodan). Ma'nayeshan ra ba ham hefz kon."
+   },
+   "analogy": {
+    "fa": "مثل دو حرف که با هم یک کلمهٔ تازه می‌سازند.",
+    "en": "Like two letters that together make a new word.",
+    "tr": "Mesl-e do harf ke ba ham yek kalame-ye taze misazand."
+   },
+   "unit": "eng-1-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-english-proverb",
+   "term": {
+    "fa": "ضرب‌المثل انگلیسی",
+    "en": "English proverb",
+    "tr": "zarb-ol-masal"
+   },
+   "explain": {
+    "fa": "جمله‌ای کوتاه و ثابت که یک درس زندگی را با یک تصویر می‌گوید؛ در امتحان فقط کلمهٔ اصلی خودش نمره دارد.",
+    "en": "A short fixed sentence that gives a life lesson through a picture; in the exam only its own exact word earns the mark.",
+    "tr": "Jomle-i kootah va sabet ke yek dars-e zendegi ra ba yek tasvir miguyad; dar emtehan faghat kalame-ye asli-ye khodash nomre darad."
+   },
+   "analogy": {
+    "fa": "یک نقاشی کوچک با یک درس بزرگ.",
+    "en": "A small painting with a big lesson.",
+    "tr": "Yek naghashi-ye koochak ba yek dars-e bozorg."
+   },
+   "unit": "eng-1-proverbs"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-barking-dogs",
+   "term": {
+    "fa": "barking dogs",
+    "en": "barking dogs",
+    "tr": "barking dogs"
+   },
+   "explain": {
+    "fa": "از ضرب‌المثل `Barking dogs seldom bite`: کسی که زیاد تهدید می‌کند، کمتر عمل می‌کند. کلمهٔ ثابت آخر آن `bite` است.",
+    "en": "From the proverb `Barking dogs seldom bite`: someone who makes many threats seldom acts. Its fixed last word is `bite`.",
+    "tr": "Az zarbolmasal-e `Barking dogs seldom bite`: kasi ke ziad tahdid mikonad, kamtar amal mikonad. Kalame-ye sabet-e akhar-e an `bite` ast."
+   },
+   "contrast": {
+    "fa": "`seldom` یعنی «به‌ندرت»، نه «هرگز».",
+    "en": "`seldom` means \"rarely\", not \"never\".",
+    "tr": "`seldom` ya'ni \"be-nodrat\", na \"hargez\"."
+   },
+   "unit": "eng-1-proverbs"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-empty-vessel",
+   "term": {
+    "fa": "empty vessel",
+    "en": "empty vessel",
+    "tr": "empty vessel"
+   },
+   "explain": {
+    "fa": "از ضرب‌المثل `An empty vessel makes the most noise`: کسی که کمتر می‌داند، بیشتر حرف می‌زند. کلمهٔ ثابت آخر آن `noise` است.",
+    "en": "From the proverb `An empty vessel makes the most noise`: the person who knows least talks most. Its fixed last word is `noise`.",
+    "tr": "Az zarbolmasal-e `An empty vessel makes the most noise`: kasi ke kamtar midanad, bishtar harf mizanad. Kalame-ye sabet-e akhar-e an `noise` ast."
+   },
+   "analogy": {
+    "fa": "ظرف خالی را تکان بده: بیشترین صدا را می‌دهد.",
+    "en": "Shake an empty pot: it makes the loudest sound.",
+    "tr": "Zarf-e khali ra tekan bede: bishtarin seda ra midahad."
+   },
+   "unit": "eng-1-proverbs"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-simple-past-passive",
+   "term": {
+    "fa": "گذشتهٔ ساده مجهول",
+    "en": "simple past passive",
+    "tr": "gozashte-ye sade-ye majhool"
+   },
+   "explain": {
+    "fa": "مجهول گذشتهٔ ساده: `was` یا `were` به‌اضافهٔ قسمت سوم فعل، برای کاری که در گذشته روی فاعل انجام شده: `The hospital was established by Dr. Gharib.`",
+    "en": "The simple past passive: `was` or `were` plus the past participle, for something done to the subject in the past: `The hospital was established by Dr. Gharib.`",
+    "tr": "Majhool-e gozashte-ye sade: `was` ya `were` be-ezafe-ye ghesmat-e sevvom-e fe'l, baraye kari ke dar gozashte rooye fa'el anjam shode: `The hospital was established by Dr. Gharib.`"
+   },
+   "matches": {
+    "fa": [
+     "گذشتهٔ مجهول"
+    ],
+    "en": [
+     "past passive"
+    ],
+    "tr": [
+     "gozashte-ye majhool"
+    ]
+   },
+   "analogy": {
+    "fa": "نورافکن از کننده برداشته و روی کار انداخته می‌شود.",
+    "en": "The spotlight moves off the doer and onto the action.",
+    "tr": "Noorafkan az konande bardashte va rooye kar andakhte mishavad."
+   },
+   "contrast": {
+    "fa": "`was` برای فاعل مفرد، `were` برای جمع؛ با فاعل جدید جور می‌شود، نه با کننده.",
+    "en": "`was` for a singular subject, `were` for a plural one; it agrees with the new subject, not the doer.",
+    "tr": "`was` baraye fa'el-e mofrad, `were` baraye jam'; ba fa'el-e jadid joor mishavad, na ba konande."
+   },
+   "unit": "eng-1-passive-why"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-simple-present-passive",
+   "term": {
+    "fa": "حال ساده مجهول",
+    "en": "simple present passive",
+    "tr": "hal-e sade-ye majhool"
+   },
+   "explain": {
+    "fa": "مجهول حال ساده: `am`، `is` یا `are` به‌اضافهٔ قسمت سوم فعل، برای کاری که معمولاً یا امروز روی فاعل انجام می‌شود: `Wind turbines are used today.`",
+    "en": "The simple present passive: `am`, `is` or `are` plus the past participle, for something usually or currently done to the subject: `Wind turbines are used today.`",
+    "tr": "Majhool-e hal-e sade: `am`, `is` ya `are` be-ezafe-ye ghesmat-e sevvom-e fe'l, baraye kari ke ma'moolan ya emrooz rooye fa'el anjam mishavad: `Wind turbines are used today.`"
+   },
+   "contrast": {
+    "fa": "سرنخ‌های آن: `every year`، `today`، `usually`.",
+    "en": "Its clues: `every year`, `today`, `usually`.",
+    "tr": "Sarnakh-haye an: `every year`, `today`, `usually`."
+   },
+   "unit": "eng-1-passive-why"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-present-perfect-passive",
+   "term": {
+    "fa": "حال کامل مجهول",
+    "en": "present perfect passive",
+    "tr": "hal-e kamel-e majhool"
+   },
+   "explain": {
+    "fa": "مجهول حال کامل: `has` یا `have` به‌اضافهٔ `been` و قسمت سوم فعل؛ با سرنخ‌هایی مثل `recently` و `already`: `Many plants have been built recently.`",
+    "en": "The present perfect passive: `has` or `have` plus `been` and the past participle; with clues like `recently` and `already`: `Many plants have been built recently.`",
+    "tr": "Majhool-e hal-e kamel: `has` ya `have` be-ezafe-ye `been` va ghesmat-e sevvom-e fe'l; ba sarnakh-hayi mesl-e `recently` va `already`: `Many plants have been built recently.`"
+   },
+   "contrast": {
+    "fa": "`been` درست است، نه `being`؛ فاعل جمع `have` می‌گیرد.",
+    "en": "`been` is right, not `being`; a plural subject takes `have`.",
+    "tr": "`been` dorost ast, na `being`; fa'el-e jam' `have` migirad."
+   },
+   "unit": "eng-1-passive-tenses"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-past-perfect-passive",
+   "term": {
+    "fa": "گذشتهٔ کامل مجهول",
+    "en": "past perfect passive",
+    "tr": "gozashte-ye kamel-e majhool"
+   },
+   "explain": {
+    "fa": "مجهول گذشتهٔ کامل: `had been` و قسمت سوم فعل، برای کاری که پیش از کار دیگری در گذشته انجام شده: `The book had been saved before the fire spread.`",
+    "en": "The past perfect passive: `had been` plus the past participle, for something done before another past action: `The book had been saved before the fire spread.`",
+    "tr": "Majhool-e gozashte-ye kamel: `had been` va ghesmat-e sevvom-e fe'l, baraye kari ke pish az kar-e digari dar gozashte anjam shode: `The book had been saved before the fire spread.`"
+   },
+   "analogy": {
+    "fa": "روی خط زمان، یک قدم عقب‌تر از گذشتهٔ ساده.",
+    "en": "On the timeline, one step further back than the simple past.",
+    "tr": "Rooye khatt-e zaman, yek gam aghab-tar az gozashte-ye sade."
+   },
+   "unit": "eng-1-passive-tenses"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-tag-questions",
+   "term": {
+    "fa": "سؤالات ضمیمه",
+    "en": "tag questions",
+    "tr": "soalat-e zamimeh"
+   },
+   "explain": {
+    "fa": "سؤال کوتاه آخر جمله برای تأیید گرفتن، مثل «مگه نه؟». با آینه ساخته می‌شود: فعل کمکی جمله با علامت برعکس و ضمیر فاعل: `She is studying, isn't she?`",
+    "en": "A short question at the end of a sentence to ask for agreement, like \"right?\". It is built with a mirror: the helping verb with the opposite sign plus the subject pronoun: `She is studying, isn't she?`",
+    "tr": "So'al-e kootah-e akhar-e jomle baraye ta'eed gereftan, mesl-e \"mage na?\". Ba ayene sakhte mishavad: fe'l-e komaki-ye jomle ba alamat-e bar-aks va zamir-e fa'el: `She is studying, isn't she?`"
+   },
+   "analogy": {
+    "fa": "آینه: مثبت، منفی برمی‌گرداند و منفی، مثبت.",
+    "en": "A mirror: positive gives back negative, negative gives back positive.",
+    "tr": "Ayene: mosbat, manfi barmigardanad va manfi, mosbat."
+   },
+   "contrast": {
+    "fa": "`never` جمله را منفی می‌کند، پس دنباله مثبت است: `He never lies, does he?`",
+    "en": "`never` makes the sentence negative, so the tag is positive: `He never lies, does he?`",
+    "tr": "`never` jomle ra manfi mikonad, pas donbale mosbat ast: `He never lies, does he?`"
+   },
+   "unit": "eng-1-tag-questions"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-comparative-adjectives",
+   "term": {
+    "fa": "صفت تفضیلی",
+    "en": "comparative adjectives",
+    "tr": "sefat-e tafzili"
+   },
+   "explain": {
+    "fa": "صفتی که دو چیز را با هم می‌سنجد: صفت کوتاه با `-er` و بلند با `more`، و همیشه همراه `than`: `more important than`.",
+    "en": "An adjective that compares two things: short ones take `-er`, long ones `more`, always with `than`: `more important than`.",
+    "tr": "Sefati ke do chiz ra ba ham misanjad: sefat-e kootah ba `-er` va boland ba `more`, va hamishe hamrah-e `than`: `more important than`."
+   },
+   "analogy": {
+    "fa": "ترازوی دوکفه‌ای.",
+    "en": "A two-pan scale.",
+    "tr": "Tarazoo-ye do-kaffe-i."
+   },
+   "contrast": {
+    "fa": "هرگز دو نشانه با هم نه: `more kinder` غلط است.",
+    "en": "Never two markers together: `more kinder` is wrong.",
+    "tr": "Hargez do neshane ba ham na: `more kinder` ghalat ast."
+   },
+   "unit": "eng-1-comparison"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-superlative-adjectives",
+   "term": {
+    "fa": "صفت عالی",
+    "en": "superlative adjectives",
+    "tr": "sefat-e aali"
+   },
+   "explain": {
+    "fa": "صفتی که یکی را از یک گروه بالاتر می‌نشاند: `the` به‌اضافهٔ `-est` یا `the most`؛ اغلب با `one of the`: `one of the kindest physicians`.",
+    "en": "An adjective that puts one above a group: `the` plus `-est` or `the most`; often with `one of the`: `one of the kindest physicians`.",
+    "tr": "Sefati ke yeki ra az yek goroh balatar mineshanad: `the` be-ezafe-ye `-est` ya `the most`; aghlab ba `one of the`: `one of the kindest physicians`."
+   },
+   "analogy": {
+    "fa": "سکوی اول مسابقه.",
+    "en": "The top step of a podium.",
+    "tr": "Sakoo-ye avval-e mosabeghe."
+   },
+   "unit": "eng-1-comparison"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-look-at-the-future",
+   "term": {
+    "fa": "نگاهی به آینده",
+    "en": "look at the future",
+    "tr": "negahi be ayande"
+   },
+   "explain": {
+    "fa": "عنوان درس دو در بانک سؤال؛ موضوعش محیط زیست، انرژی پاک و آیندهٔ سیاره است.",
+    "en": "The title of Lesson 2 in the question bank; its topic is the environment, clean energy and the planet's future.",
+    "tr": "Onvan-e dars-e do dar bank-e so'al; mozoo'ash mohit-e zist, enerzhi-ye pak va ayande-ye sayyare ast."
+   },
+   "unit": "eng-2-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-collocations",
+   "term": {
+    "fa": "ترکیب واژگانی",
+    "en": "English collocations",
+    "tr": "collocations"
+   },
+   "explain": {
+    "fa": "دو کلمه که همیشه با هم می‌آیند: `cause damage`، `reduce emissions`، `global warming`. هم‌معنی جایشان را نمی‌گیرد.",
+    "en": "Two words that always go together: `cause damage`, `reduce emissions`, `global warming`. A synonym cannot replace them.",
+    "tr": "Do kalame ke hamishe ba ham miayand: `cause damage`, `reduce emissions`, `global warming`. Ham-ma'ni jayeshan ra nemigirad."
+   },
+   "analogy": {
+    "fa": "دو دوست جدانشدنی.",
+    "en": "Two inseparable friends.",
+    "tr": "Do doost-e joda-nashodani."
+   },
+   "contrast": {
+    "fa": "`make damage` غلط است؛ جفت درست `cause damage` است.",
+    "en": "`make damage` is wrong; the right pair is `cause damage`.",
+    "tr": "`make damage` ghalat ast; joft-e dorost `cause damage` ast."
+   },
+   "unit": "eng-2-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-deforestation",
+   "term": {
+    "fa": "تخریب جنگل‌ها",
+    "en": "deforestation",
+    "tr": "takhrib-e jangal-ha"
+   },
+   "explain": {
+    "fa": "بریدن و از بین بردن جنگل‌ها (`cutting down trees`)؛ به حیات وحش آسیب جدی می‌زند: `deforestation can cause serious damage to wildlife`.",
+    "en": "Cutting down and destroying forests (`cutting down trees`); it causes serious damage to wildlife: `deforestation can cause serious damage to wildlife`.",
+    "tr": "Boridan va az beyn bordan-e jangal-ha (`cutting down trees`); be hayat-e vahsh asib-e jeddi mizanad: `deforestation can cause serious damage to wildlife`."
+   },
+   "unit": "eng-2-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-greenhouse-emissions",
+   "term": {
+    "fa": "انتشار گازهای گلخانه‌ای",
+    "en": "greenhouse gas emissions",
+    "tr": "enteshar-e gaz-haye golkhane-i"
+   },
+   "explain": {
+    "fa": "گازهایی که کارخانه‌ها و ماشین‌ها بیرون می‌دهند و زمین را گرم می‌کنند. هم‌نشین همیشگی‌اش: `reduce greenhouse gas emissions`.",
+    "en": "The gases factories and cars send out that warm the Earth. Its permanent collocation: `reduce greenhouse gas emissions`.",
+    "tr": "Gaz-hayi ke karkhane-ha va mashin-ha biroon midahand va zamin ra garm mikonand. Ham-neshin-e hamishegi-ash: `reduce greenhouse gas emissions`."
+   },
+   "analogy": {
+    "fa": "مثل پتویی که دور زمین کشیده می‌شود و گرما را نگه می‌دارد.",
+    "en": "Like a blanket pulled around the Earth that traps the heat.",
+    "tr": "Mesl-e patooyi ke dor-e zamin keshide mishavad va garma ra negah midarad."
+   },
+   "unit": "eng-2-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-physician",
+   "term": {
+    "fa": "پزشک",
+    "en": "physician",
+    "tr": "pezeshk"
+   },
+   "explain": {
+    "fa": "پزشک: کسی که در پزشکی آموزش دیده تا بیماران و آسیب‌دیدگان را درمان کند.",
+    "en": "A medical doctor: someone trained in medicine to treat people who are ill or injured.",
+    "tr": "Pezeshk: kasi ke dar pezeshki amoozesh dide ta bimaran va asib-didegan ra darman konad."
+   },
+   "contrast": {
+    "fa": "`physician` (پزشک) را با `physicist` (فیزیک‌دان) اشتباه نکن.",
+    "en": "Do not confuse `physician` (a doctor) with `physicist` (a scientist of physics).",
+    "tr": "`physician` (pezeshk) ra ba `physicist` (fizik-dan) eshtebah nakon."
+   },
+   "unit": "eng-2-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-future-passive",
+   "term": {
+    "fa": "آیندهٔ مجهول",
+    "en": "future passive",
+    "tr": "ayande-ye majhool"
+   },
+   "explain": {
+    "fa": "مجهول آینده: `will be` و قسمت سوم فعل، برای کاری که در آینده روی فاعل انجام خواهد شد: `The updates will be published next week.`",
+    "en": "The future passive: `will be` plus the past participle, for something that will be done to the subject: `The updates will be published next week.`",
+    "tr": "Majhool-e ayande: `will be` va ghesmat-e sevvom-e fe'l, baraye kari ke dar ayande rooye fa'el anjam khahad shod: `The updates will be published next week.`"
+   },
+   "contrast": {
+    "fa": "`will published` یا `will be publish` غلط است.",
+    "en": "`will published` or `will be publish` is wrong.",
+    "tr": "`will published` ya `will be publish` ghalat ast."
+   },
+   "unit": "eng-2-passive-past-future"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-passive-voice",
+   "term": {
+    "fa": "فعل مجهول",
+    "en": "passive voice",
+    "tr": "fe'l-e majhool"
+   },
+   "explain": {
+    "fa": "جمله‌ای که فاعلش کار را انجام نمی‌دهد، بلکه کار روی آن انجام می‌شود. قالبش همیشه `be` به‌اضافهٔ قسمت سوم فعل است و کننده (اگر لازم باشد) بعد از `by` می‌آید.",
+    "en": "A sentence whose subject does not do the action; the action is done to it. Its recipe is always `be` plus the past participle, with the doer (if needed) after `by`.",
+    "tr": "Jomle-i ke fa'elash kar ra anjam nemidahad, balke kar rooye an anjam mishavad. Ghalebash hamishe `be` be-ezafe-ye ghesmat-e sevvom-e fe'l ast va konande (agar lazem bashad) ba'd az `by` miayad."
+   },
+   "analogy": {
+    "fa": "جابه‌جایی نورافکن صحنه از کننده به کار.",
+    "en": "Moving the stage spotlight from the doer to the action.",
+    "tr": "Jabejayi-ye noorafkan-e sahne az konande be kar."
+   },
+   "unit": "eng-2-passive-past-future"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-modal-passive",
+   "term": {
+    "fa": "افعال کمکی مجهول",
+    "en": "modal passive",
+    "tr": "modal passive"
+   },
+   "explain": {
+    "fa": "مجهول با فعل کمکی: فعل کمکی، سپس `be` ساده و قسمت سوم فعل: `Endangered animals must be protected.`",
+    "en": "The passive with a modal: the modal, then plain `be` and the past participle: `Endangered animals must be protected.`",
+    "tr": "Majhool ba fe'l-e komaki: fe'l-e komaki, sepas `be`-ye sade va ghesmat-e sevvom-e fe'l: `Endangered animals must be protected.`"
+   },
+   "matches": {
+    "fa": [
+     "مجهول افعال وجهی"
+    ],
+    "tr": [
+     "majhool-e afal-e vajhi"
+    ]
+   },
+   "analogy": {
+    "fa": "تابلوی راهنما سر جایش می‌ماند.",
+    "en": "The road sign stays where it is.",
+    "tr": "Tablo-ye rahnama sar-e jayash mimanad."
+   },
+   "contrast": {
+    "fa": "`must is protected` غلط است؛ بعد از فعل کمکی همیشه `be` ساده.",
+    "en": "`must is protected` is wrong; plain `be` always follows a modal.",
+    "tr": "`must is protected` ghalat ast; ba'd az fe'l-e komaki hamishe `be`-ye sade."
+   },
+   "unit": "eng-2-modal-passive"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-modal-verbs",
+   "term": {
+    "fa": "افعال کمکی",
+    "en": "modal verbs",
+    "tr": "modal verbs"
+   },
+   "explain": {
+    "fa": "فعل‌های کمکی مثل `must` (باید)، `should` (بهتر است)، `can` (می‌تواند)، `may` (ممکن است) و `will` (خواهد)؛ هیچ‌وقت `-s` نمی‌گیرند و بعدشان فعل ساده می‌آید.",
+    "en": "Helping verbs such as `must`, `should`, `can`, `may` and `will`; they never take `-s`, and the base verb follows them.",
+    "tr": "Fe'l-haye komaki mesl-e `must` (bayad), `should` (behtar ast), `can` (mitavanad), `may` (momken ast) va `will` (khahad); hich-vaght `-s` nemigirand va ba'deshan fe'l-e sade miayad."
+   },
+   "unit": "eng-2-modal-passive"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-relative-pronoun",
+   "term": {
+    "fa": "ضمیرهای موصولی",
+    "en": "relative pronoun",
+    "tr": "zamir-e moosooli"
+   },
+   "explain": {
+    "fa": "کلمه‌ای که به اسم پیش از خودش برمی‌گردد و دربارهٔ آن توضیح می‌دهد: `who` برای انسان، `which` برای چیز و حیوان (`that` برای هر دو).",
+    "en": "A word that points back to the noun before it and tells us more about it: `who` for people, `which` for things and animals (`that` for both).",
+    "tr": "Kalame-i ke be esm-e pish az khodash barmigardad va darbare-ye an tozih midahad: `who` baraye ensan, `which` baraye chiz va heyvan (`that` baraye har do)."
+   },
+   "matches": {
+    "fa": [
+     "ضمیر موصولی"
+    ]
+   },
+   "analogy": {
+    "fa": "یک انگشت اشاره به عقب.",
+    "en": "A finger pointing back.",
+    "tr": "Yek angosht-e eshare be aghab."
+   },
+   "contrast": {
+    "fa": "`the smart student who` ولی `the smart system which`: فقط اسم تصمیم می‌گیرد.",
+    "en": "`the smart student who` but `the smart system which`: only the noun decides.",
+    "tr": "`the smart student who` vali `the smart system which`: faghat esm tasmim migirad."
+   },
+   "unit": "eng-2-who-which"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-relative-clause",
+   "term": {
+    "fa": "بند موصولی",
+    "en": "relative clause",
+    "tr": "relative clause"
+   },
+   "explain": {
+    "fa": "بخشی از جمله که با `who` یا `which` شروع می‌شود و درست پشت اسمی که توضیح می‌دهد می‌نشیند: `The panels which were installed last week generate electricity.`",
+    "en": "The part of a sentence that starts with `who` or `which` and sits right after the noun it describes: `The panels which were installed last week generate electricity.`",
+    "tr": "Bakhshi az jomle ke ba `who` ya `which` shoru' mishavad va dorost posht-e esmi ke tozih midahad mineshinad: `The panels which were installed last week generate electricity.`"
+   },
+   "contrast": {
+    "fa": "فاعل را دوبار نیاور: `which they were` غلط است.",
+    "en": "Do not repeat the subject: `which they were` is wrong.",
+    "tr": "Fa'el ra do-bar nayavar: `which they were` ghalat ast."
+   },
+   "unit": "eng-2-joining-sentences"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-complex-sentence",
+   "term": {
+    "fa": "جملهٔ مرکب",
+    "en": "complex sentence",
+    "tr": "jomle-ye morakkab"
+   },
+   "explain": {
+    "fa": "جمله‌ای که از به‌هم‌پیوستن دو جملهٔ کوتاه ساخته می‌شود، مثلاً با یک ضمیر موصولی.",
+    "en": "A sentence built by joining two short sentences, for example with a relative pronoun.",
+    "tr": "Jomle-i ke az be-ham-peyvastan-e do jomle-ye kootah sakhte mishavad, masalan ba yek zamir-e mowsooli."
+   },
+   "analogy": {
+    "fa": "پلی میان دو ساحل.",
+    "en": "A bridge between two riverbanks.",
+    "tr": "Poli miyan-e do sahel."
+   },
+   "unit": "eng-2-joining-sentences"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-conditional-sentence",
+   "term": {
+    "fa": "جملهٔ شرطی",
+    "en": "conditional sentence",
+    "tr": "jomle-ye sharti"
+   },
+   "explain": {
+    "fa": "جمله‌ای دوبخشی: یک شرط با `if` و یک نتیجه. در درس دو، نوع اول آن (شرط واقعی، نتیجهٔ آینده) آمده است.",
+    "en": "A two-part sentence: a condition with `if` and a result. Lesson 2 covers the first type (a real condition, a future result).",
+    "tr": "Jomle-i do-bakhshi: yek shart ba `if` va yek natije. Dar dars-e do, no'-e avval-e an (shart-e vaghe'i, natije-ye ayande) amade ast."
+   },
+   "unit": "eng-2-first-conditional"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-first-conditional",
+   "term": {
+    "fa": "شرطی نوع اول",
+    "en": "first conditional",
+    "tr": "sharti-ye no-e avval"
+   },
+   "explain": {
+    "fa": "شرطی نوع اول: `if` با حال ساده، نتیجه با `will` و فعل ساده: `If scientists develop clean energy, they will save the planet.`",
+    "en": "The first conditional: `if` with the simple present, the result with `will` plus the base verb: `If scientists develop clean energy, they will save the planet.`",
+    "tr": "Sharti-ye no'-e avval: `if` ba hal-e sade, natije ba `will` va fe'l-e sade: `If scientists develop clean energy, they will save the planet.`"
+   },
+   "analogy": {
+    "fa": "دانه امروز، درخت فردا.",
+    "en": "A seed today, a tree tomorrow.",
+    "tr": "Daane emrooz, derakht farda."
+   },
+   "contrast": {
+    "fa": "بعد از `if` هرگز `will`.",
+    "en": "Never `will` after `if`.",
+    "tr": "Ba'd az `if` hargez `will`."
+   },
+   "unit": "eng-2-first-conditional"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-passive-conditional",
+   "term": {
+    "fa": "جملات شرطی مجهول",
+    "en": "passive conditional sentences",
+    "tr": "jomalat-e sharti-ye majhool"
+   },
+   "explain": {
+    "fa": "جملهٔ شرطی که یک بخشش مجهول است؛ بند `if` همچنان حال ساده است: `If the laws are obeyed, the planet will be saved.`",
+    "en": "A conditional with a passive part; the `if` clause is still the simple present: `If the laws are obeyed, the planet will be saved.`",
+    "tr": "Jomle-ye sharti ke yek bakhshash majhool ast; band-e `if` hamchenan hal-e sade ast: `If the laws are obeyed, the planet will be saved.`"
+   },
+   "unit": "eng-2-first-conditional"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-simple-present",
+   "term": {
+    "fa": "حال ساده",
+    "en": "simple present",
+    "tr": "hal-e sade"
+   },
+   "explain": {
+    "fa": "حال ساده: برای کارهای همیشگی، و در شرطی نوع اول برای بند `if`. با فاعل سوم‌شخص مفرد `-s` می‌گیرد.",
+    "en": "The simple present: for regular actions, and in the first conditional for the `if` clause. It takes `-s` with a third-person singular subject.",
+    "tr": "Hal-e sade: baraye kar-haye hamishegi, va dar sharti-ye no'-e avval baraye band-e `if`. Ba fa'el-e sevvom-shakhs-e mofrad `-s` migirad."
+   },
+   "unit": "eng-2-first-conditional"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-simple-future",
+   "term": {
+    "fa": "آیندهٔ ساده",
+    "en": "simple future",
+    "tr": "ayande-ye sade"
+   },
+   "explain": {
+    "fa": "آیندهٔ ساده: `will` و فعل ساده؛ در شرطی نوع اول برای بخش نتیجه.",
+    "en": "The simple future: `will` plus the base verb; in the first conditional for the result part.",
+    "tr": "Ayande-ye sade: `will` va fe'l-e sade; dar sharti-ye no'-e avval baraye bakhsh-e natije."
+   },
+   "unit": "eng-2-first-conditional"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-gerunds",
+   "term": {
+    "fa": "اسم مصدر",
+    "en": "gerunds",
+    "tr": "esm-e masdar"
+   },
+   "explain": {
+    "fa": "فعل با `-ing` که مثل اسم رفتار می‌کند: بعد از فعل‌هایی مثل `finish` و `avoid`، یا به‌عنوان فاعل اول جمله: `Cutting down trees can destroy habitats.`",
+    "en": "A verb with `-ing` that behaves like a noun: after verbs like `finish` and `avoid`, or as the subject at the start: `Cutting down trees can destroy habitats.`",
+    "tr": "Fe'l ba `-ing` ke mesl-e esm raftar mikonad: ba'd az fe'l-hayi mesl-e `finish` va `avoid`, ya be-onvan-e fa'el-e avval-e jomle: `Cutting down trees can destroy habitats.`"
+   },
+   "contrast": {
+    "fa": "`finished installing` درست است، نه `finished to install`.",
+    "en": "`finished installing` is right, not `finished to install`.",
+    "tr": "`finished installing` dorost ast, na `finished to install`."
+   },
+   "unit": "eng-2-gerund-infinitive"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-infinitives-with-to",
+   "term": {
+    "fa": "مصدر با to",
+    "en": "infinitives with to",
+    "tr": "masdar ba to"
+   },
+   "explain": {
+    "fa": "`to` و فعل ساده: بعد از فعل‌های تصمیم و نقشه (`decide to launch`) و بعد از `It is` و صفت (`It is important to use`).",
+    "en": "`to` plus the base verb: after verbs of deciding and planning (`decide to launch`) and after `It is` plus an adjective (`It is important to use`).",
+    "tr": "`to` va fe'l-e sade: ba'd az fe'l-haye tasmim va naghshe (`decide to launch`) va ba'd az `It is` va sefat (`It is important to use`)."
+   },
+   "analogy": {
+    "fa": "پیکانی رو به آینده.",
+    "en": "An arrow pointing to the future.",
+    "tr": "Peykani roo be ayande."
+   },
+   "contrast": {
+    "fa": "بعد از `to` فعل ساده: `to launch`، نه `to launched`.",
+    "en": "The base verb after `to`: `to launch`, not `to launched`.",
+    "tr": "Ba'd az `to` fe'l-e sade: `to launch`, na `to launched`."
+   },
+   "unit": "eng-2-gerund-infinitive"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-contrast-linkers",
+   "term": {
+    "fa": "کلمات ربط تقابلی",
+    "en": "contrast linkers",
+    "tr": "kalamat-e rabt-e taghaboli"
+   },
+   "explain": {
+    "fa": "کلمه‌هایی که تضاد دو بخش را نشان می‌دهند: میان دو جمله `however`، `nevertheless`، `on the other hand` و `yet`؛ درون یک جمله `while` و `whereas`.",
+    "en": "Words that show a contrast between two parts: between two sentences `however`, `nevertheless`, `on the other hand` and `yet`; inside one sentence `while` and `whereas`.",
+    "tr": "Kalame-hayi ke tazad-e do bakhsh ra neshan midahand: miyan-e do jomle `however`, `nevertheless`, `on the other hand` va `yet`; daroon-e yek jomle `while` va `whereas`."
+   },
+   "analogy": {
+    "fa": "چراغ راهنمای پیچ: جملهٔ بعد مسیر را برمی‌گرداند.",
+    "en": "A turn indicator: the next sentence changes direction.",
+    "tr": "Cheragh-e rahnama-ye pich: jomle-ye ba'd masir ra barmigardanad."
+   },
+   "contrast": {
+    "fa": "`; however ,` میان دو جمله، `, whereas` درون یک جمله.",
+    "en": "`; however ,` between two sentences, `, whereas` inside one sentence.",
+    "tr": "`; however ,` miyan-e do jomle, `, whereas` daroon-e yek jomle."
+   },
+   "unit": "eng-3-however"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-transition-words",
+   "term": {
+    "fa": "کلمات ربط",
+    "en": "transition words",
+    "tr": "kalamat-e rabt"
+   },
+   "explain": {
+    "fa": "کلمه‌هایی که رابطهٔ دو جمله را نشان می‌دهند، مثل `therefore` (بنابراین) برای علت و نتیجه و `however` برای تضاد.",
+    "en": "Words that show how two sentences relate, such as `therefore` for cause and effect and `however` for contrast.",
+    "tr": "Kalame-hayi ke rabete-ye do jomle ra neshan midahand, mesl-e `therefore` (banabarin) baraye ellat va natije va `however` baraye tazad."
+   },
+   "analogy": {
+    "fa": "دومینو: اولی بیفتد، دومی هم می‌افتد.",
+    "en": "Dominoes: when the first falls, the second follows.",
+    "tr": "Domino: avvali biyoftad, dovvomi ham mioftad."
+   },
+   "contrast": {
+    "fa": "آزمون «پس یا ولی»: با «پس» معنا دارد؟ `therefore`؛ با «ولی»؟ `however`.",
+    "en": "The \"so or but\" test: makes sense with \"so\"? `therefore`; with \"but\"? `however`.",
+    "tr": "Azmoon-e \"pas ya vali\": ba \"pas\" ma'na darad? `therefore`; ba \"vali\"? `however`."
+   },
+   "unit": "eng-3-therefore"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-renewable-energy",
+   "term": {
+    "fa": "انرژی تجدیدپذیر",
+    "en": "renewable energy",
+    "tr": "enerji-ye tajdid-pazir"
+   },
+   "explain": {
+    "fa": "انرژی تجدیدپذیر: از منابعی مثل باد، خورشید و آب که هرگز تمام نمی‌شوند و آلودگی نمی‌سازند.",
+    "en": "Energy from sources such as wind, sun and water that never run out and do not pollute.",
+    "tr": "Enerzhi-ye tajdid-pazir: az manabe'i mesl-e bad, khorshid va ab ke hargez tamam nemishavand va aloodegi nemisazand."
+   },
+   "analogy": {
+    "fa": "چشمه‌ای که هرگز خشک نمی‌شود.",
+    "en": "A spring that never runs dry.",
+    "tr": "Cheshme-i ke hargez khoshk nemishavad."
+   },
+   "contrast": {
+    "fa": "در برابر `fossil fuels` (زغال‌سنگ، نفت، گاز) که تمام می‌شوند.",
+    "en": "The opposite of `fossil fuels` (coal, oil, gas), which run out.",
+    "tr": "Dar barabar-e `fossil fuels` (zoghal-sang, naft, gaz) ke tamam mishavand."
+   },
+   "unit": "eng-3-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-renewable-resource",
+   "term": {
+    "fa": "منبع تجدیدپذیر",
+    "en": "renewable resource",
+    "tr": "manba-ye tajdid-pazir"
+   },
+   "explain": {
+    "fa": "منبع تجدیدپذیر؛ هم‌معنی «انرژی پاک» در متن درس سه: منبعی که دوباره پر می‌شود و تمام نمی‌شود.",
+    "en": "A renewable resource; the synonym of \"clean energy\" in the Lesson 3 text: a source that refills itself and never runs out.",
+    "tr": "Manba'-e tajdid-pazir; ham-ma'ni-ye \"enerzhi-ye pak\" dar matn-e dars-e se: manba'i ke dobare por mishavad va tamam nemishavad."
+   },
+   "unit": "eng-3-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-wind-and-sunlight",
+   "term": {
+    "fa": "باد و نور خورشید",
+    "en": "wind and sunlight",
+    "tr": "bad va noor-e khorshid"
+   },
+   "explain": {
+    "fa": "دو نمونهٔ اصلی انرژی تجدیدپذیر در درس سه؛ توربین بادی انرژی جنبشی (`kinetic`) باد را و صفحهٔ خورشیدی نور را به برق تبدیل می‌کند.",
+    "en": "The two main examples of renewable energy in Lesson 3; a wind turbine turns the wind's `kinetic` energy, and a solar panel turns sunlight, into electricity.",
+    "tr": "Do nemoone-ye asli-ye enerzhi-ye tajdid-pazir dar dars-e se; turbin-e badi enerzhi-ye jonbeshi (`kinetic`)-ye bad ra va safhe-ye khorshidi noor ra be bargh tabdil mikonad."
+   },
+   "unit": "eng-3-vocabulary"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-plural-passive-auxiliary",
+   "term": {
+    "fa": "فعل مجهول جمع",
+    "en": "plural passive auxiliary",
+    "tr": "fe'l-e komaki-ye majhool-e jam'"
+   },
+   "explain": {
+    "fa": "شکل جمعِ فعل کمکی در مجهول: برای فاعل جمع `are`، `were` یا `have been`، نه `is`، `was` یا `has been`.",
+    "en": "The plural form of the passive helping verb: for a plural subject `are`, `were` or `have been`, not `is`, `was` or `has been`.",
+    "tr": "Shekl-e jam'-e fe'l-e komaki dar majhool: baraye fa'el-e jam' `are`, `were` ya `have been`, na `is`, `was` ya `has been`."
+   },
+   "contrast": {
+    "fa": "`Many plants have been built`، نه `has been built`.",
+    "en": "`Many plants have been built`, not `has been built`.",
+    "tr": "`Many plants have been built`, na `has been built`."
+   },
+   "unit": "eng-3-passive-review"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-language-skills",
+   "term": {
+    "fa": "مهارت‌های زبانی",
+    "en": "language skills",
+    "tr": "maharat-haye zabani"
+   },
+   "explain": {
+    "fa": "مهارت‌های زبانی: شنیدن، صحبت کردن، خواندن و نوشتن، به‌اضافهٔ دانش گرامر و واژگان که امتحان آن‌ها را می‌سنجد.",
+    "en": "Language skills: listening, speaking, reading and writing, plus the grammar and vocabulary knowledge the exam tests.",
+    "tr": "Maharat-haye zabani: shenidan, sohbat kardan, khandan va neveshtan, be-ezafe-ye danesh-e gramer va vazhegan ke emtehan an-ha ra misanjad."
+   },
+   "unit": "eng-3-passive-review"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-simple-future-passive",
+   "term": {
+    "fa": "آیندهٔ ساده مجهول",
+    "en": "simple future passive",
+    "tr": "ayande-ye sade-ye majhool"
+   },
+   "explain": {
+    "fa": "مجهول آیندهٔ ساده: `will be` و قسمت سوم فعل، با سرنخ‌هایی مثل `in the coming decades`: `Clean fuels will be used more widely.`",
+    "en": "The simple future passive: `will be` plus the past participle, with clues like `in the coming decades`: `Clean fuels will be used more widely.`",
+    "tr": "Majhool-e ayande-ye sade: `will be` va ghesmat-e sevvom-e fe'l, ba sarnakh-hayi mesl-e `in the coming decades`: `Clean fuels will be used more widely.`"
+   },
+   "unit": "eng-3-passive-review"
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-vision-3",
+   "term": {
+    "fa": "کتاب انگلیسی دوازدهم",
+    "en": "Vision 3",
+    "tr": "Vision 3"
+   },
+   "explain": {
+    "fa": "نام کتاب انگلیسی پایهٔ دوازدهم با سه درس: `Sense of Appreciation`، درس دو و `Renewable Energy`. همهٔ سؤال‌های این درس از همین کتاب‌اند.",
+    "en": "The name of the Grade 12 English book, with three lessons: `Sense of Appreciation`, Lesson 2 and `Renewable Energy`. Every question in this subject comes from it.",
+    "tr": "Nam-e ketab-e engelisi-ye paye-ye davazdahom ba se dars: `Sense of Appreciation`, dars-e do va `Renewable Energy`. Hame-ye so'al-haye in dars az hamin ketab-and."
+   },
+   "matches": {
+    "fa": [
+     "کتاب ویژن ۳",
+     "کتاب زبان دوازدهم",
+     "زبان انگلیسی دوازدهم"
+    ],
+    "en": [
+     "Vision 3 textbook",
+     "Grade 12 English"
+    ],
+    "tr": [
+     "zaban-e engelisi-ye davazdahom"
+    ]
+   }
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-grammar",
+   "term": {
+    "fa": "گرامر کاربردی",
+    "en": "English grammar",
+    "tr": "grammar"
+   },
+   "explain": {
+    "fa": "دستور زبان انگلیسی: قاعده‌هایی که شکل و ترتیب کلمه‌ها را تعیین می‌کنند. در این کتاب: مجهول، سؤال کوتاه، تفضیلی و عالی، ضمیر موصولی، شرطی نوع اول، مصدر و اسم مصدر، و کلمه‌های ربط.",
+    "en": "English grammar: the rules that decide the form and order of words. In this book: the passive, tag questions, comparatives and superlatives, relative pronouns, first conditionals, gerunds and infinitives, and linking words.",
+    "tr": "Dastoor-e zaban-e engelisi: ghaede-hayi ke shekl va tartib-e kalame-ha ra ta'yin mikonand. Dar in ketab: majhool, so'al-e kootah, tafzili va ali, zamir-e mowsooli, sharti-ye no'-e avval, masdar va esm-e masdar, va kalame-haye rabt."
+   },
+   "matches": {
+    "fa": [
+     "گرامر انگلیسی دوازدهم",
+     "گرامر انگلیسی",
+     "ساختار گرامری"
+    ],
+    "en": [
+     "grammar",
+     "grammar syntax"
+    ]
+   }
+  },
+  {
+   "subject": "English",
+   "key": "eng-g-vocabulary",
+   "term": {
+    "fa": "واژگان کاربردی",
+    "en": "applied vocabulary",
+    "tr": "vazhegan-e karbordi"
+   },
+   "explain": {
+    "fa": "واژگان کتاب و کاربردشان در جمله. برای هر جای خالی دو چیز را بسنج: معنا (جمله دربارهٔ چیست؟) و نقش (فعل، اسم یا صفت؟). واژه‌ها را با جفت همیشگی‌شان حفظ کن.",
+    "en": "The book's words and how they are used in a sentence. For every gap check two things: meaning (what is the sentence about?) and job (verb, noun or adjective?). Learn words with their permanent partners.",
+    "tr": "Vazhegan-e ketab va karbord-eshan dar jomle. Baraye har ja-ye khali do chiz ra besanj: ma'na (jomle darbare-ye chist?) va naghsh (fe'l, esm ya sefat?). Vazhe-ha ra ba joft-e hamishegi-shan hefz kon."
+   },
+   "matches": {
+    "fa": [
+     "واژگان متنی",
+     "واژگان انگلیسی",
+     "واژگان کتاب دوازدهم",
+     "واژگان درس اول"
+    ],
+    "en": [
+     "vocabulary context",
+     "English vocabulary",
+     "Vision 3 vocabulary",
+     "lesson 1 vocabulary"
+    ],
+    "tr": [
+     "vazhegan-e matni",
+     "loghat-e English",
+     "loghat-e Vision 3",
+     "loghat-e dars-e avval"
+    ]
+   },
+   "analogy": {
+    "fa": "درخت خانوادهٔ واژه‌ها: یک ریشه، چند شاخه.",
+    "en": "A word family tree: one root, several branches.",
+    "tr": "Derakht-e khanevade-ye vazhe-ha: yek rishe, chand shakhe."
+   }
+  }
+ ]
+}

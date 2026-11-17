@@ -888,6 +888,12 @@
    "format": 2,
    "file": "pack-0148.json",
    "sha256": "3b40291d070ed1feaaed5f1e635c65f9840e518b8b0009e06c1b33b20a1c65a3"
+  },
+  {
+   "version": 149,
+   "format": 6,
+   "file": "pack-0149.json",
+   "sha256": "e1ea7bc764219ef56631c8e151a3fc6fbacaead78740a1c2f800966b1bb3cc92"
   }
  ]
 }
