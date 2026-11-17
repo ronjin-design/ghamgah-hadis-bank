@@ -1,0 +1,711 @@
+{
+ "version": 148,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "English",
+   "session": "1395-Khordad",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (بخش واژگان ترکیبی)",
+    "en": "Lesson 2: Look at the Future (Collocations)",
+    "tr": "Dars 2: Negahi be Ayandeh (Collocations)",
+    "pages": "42–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "با توجه به بخش ترکیب‌های واژگانی درس دوم، جملهٔ زیر را کامل کنید:\n⁦'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'⁩",
+     "grading_key": "- [1.0] برای یافتن و نوشتن املای صحیح واژهٔ کلیدی (⁦damage⁩)",
+     "final_resolution": "⁦damage⁩",
+     "notes": "",
+     "keywords": [
+      "ترکیب واژگانی",
+      "نگاهی به آینده",
+      "تخریب جنگل‌ها",
+      "واژگان کتاب دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Based on the collocations section of lesson two, complete the following sentence:\n'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'",
+     "grading_key": "- [1.0] for correctly finding and spelling the collocation keyword (damage).",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "English collocations",
+      "look at the future",
+      "deforestation",
+      "Vision 3 vocabulary"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Ba tavajjoh be bakhsh-e loghat-haye tarkibi-ye dars-e dovom, jomleh-ye zir ra kamel konid:\n'We must take care of our planet and stop cutting down trees, because deforestation can cause serious _______ to wildlife.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'damage'",
+     "final_resolution": "damage",
+     "notes": "",
+     "keywords": [
+      "collocations",
+      "negahi be ayande",
+      "takhrib-e jangal-ha",
+      "loghat-e Vision 3"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1397-Khordad",
+   "number": 0,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (گرامر: مجهول زمان حال کامل)",
+    "en": "Lesson 3: Renewable Energy (Grammar: Present Perfect Passive)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Grammar)",
+    "pages": "82–88"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "جملهٔ زیر را با شکل صحیح مجهولِ حال کامل فعل داخل پرانتز کامل کنید:\n⁦'Many solar power plants _______ (build) in desert areas recently.'⁩",
+     "grading_key": "- [1.0] برای ساختار مجهول حال کامل با فاعل جمع (⁦have been built⁩)",
+     "final_resolution": "⁦Many solar power plants have been built in desert areas recently.⁩",
+     "notes": "",
+     "keywords": [
+      "حال کامل مجهول",
+      "گرامر انگلیسی دوازدهم",
+      "فعل مجهول جمع",
+      "مهارت‌های زبانی"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Complete the sentence with the Present Perfect Passive form of the verb in parentheses:\n'Many solar power plants _______ (build) in desert areas recently.'",
+     "grading_key": "- [1.0] for the plural Present Perfect Passive form (have been built).",
+     "final_resolution": "Many solar power plants have been built in desert areas recently.",
+     "notes": "",
+     "keywords": [
+      "present perfect passive",
+      "English grammar",
+      "plural passive auxiliary",
+      "language skills"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Jomleh-ye zir ra ba fe'l-e majhool-e hal-e kamel kamel konid:\n'Many solar power plants _______ (build) in desert areas recently.'",
+     "grading_key": "- [1.0] baraye 'have been built'",
+     "final_resolution": "Many solar power plants have been built in desert areas recently.",
+     "notes": "",
+     "keywords": [
+      "hal-e kamel-e majhool",
+      "grammar",
+      "fe'l-e komaki-ye majhool-e jam'",
+      "maharat-haye zabani"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: بندهای موصولی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Relative Clauses)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar)",
+    "pages": "50–56"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "دو جملهٔ زیر را با ضمیر موصولی مناسب (⁦who / which⁩) به یک جملهٔ مرکب تبدیل کنید:\n⁦'The solar panels generate electricity. They were installed on the roof last week.'⁩",
+     "grading_key": "- [0.5] برای حذف ضمیر تکراری (⁦They⁩) و انتخاب ضمیر موصولی اشیا (⁦which⁩)\n- [0.5] برای آوردن بند موصولی درست بعد از اسم مرجع (⁦The solar panels⁩)",
+     "final_resolution": "⁦The solar panels which were installed on the roof last week generate electricity.⁩",
+     "notes": "",
+     "keywords": [
+      "ضمیر موصولی",
+      "جملهٔ مرکب",
+      "بند موصولی",
+      "کتاب انگلیسی دوازدهم",
+      "گرامر کاربردی"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Combine the two sentences into a single complex sentence using the appropriate relative pronoun (who or which):\n'The solar panels generate electricity. They were installed on the roof last week.'",
+     "grading_key": "- [0.5] for omitting the repeated pronoun (They) and choosing the relative pronoun for things (which).\n- [0.5] for placing the relative clause right after the noun it describes (The solar panels).",
+     "final_resolution": "The solar panels which were installed on the roof last week generate electricity.",
+     "notes": "",
+     "keywords": [
+      "relative pronoun",
+      "complex sentence",
+      "relative clause",
+      "Vision 3",
+      "English grammar"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Do jomleh-ye zir ra ba estefadeh az zamir-e moosooli-ye monaseb (who ya which) be yek jomleh tabdil konid:\n'The solar panels generate electricity. They were installed on the roof last week.'",
+     "grading_key": "- [0.5] baraye hazf-e They va entekhab-e 'which'\n- [0.5] baraye etesal-e sahih-e jomleh ba The solar panels",
+     "final_resolution": "The solar panels which were installed on the roof last week generate electricity.",
+     "notes": "",
+     "keywords": [
+      "zamir-e moosooli",
+      "jomle-ye morakkab",
+      "relative clause",
+      "Vision 3",
+      "grammar"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (درک مطلب متنی)",
+    "en": "Lesson 1: Sense of Appreciation (Reading Comprehension)",
+    "tr": "Dars 1: Hess-e Ghadrdani",
+    "pages": "14–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "با توجه به متن کتاب در مورد احترام به والدین، جملهٔ زیر را کامل کنید:\n⁦'We should show great respect to our parents because they are the ones who brought us up with love and _______.'⁩",
+     "grading_key": "- [1.0] برای یافتن و نوشتن املای صحیح واژهٔ متن کتاب (⁦care⁩)",
+     "final_resolution": "⁦care⁩",
+     "notes": "",
+     "keywords": [
+      "احترام به والدین",
+      "واژگان متنی",
+      "حس قدردانی",
+      "زبان انگلیسی دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Based on the textbook text regarding respect for parents, complete the following sentence:\n'We should show great respect to our parents because they are the ones who brought us up with love and _______.'",
+     "grading_key": "- [1.0] for correctly locating and spelling the authentic textbook vocabulary keyword (care).",
+     "final_resolution": "care",
+     "notes": "",
+     "keywords": [
+      "respecting parents",
+      "vocabulary context",
+      "sense of appreciation",
+      "Grade 12 English"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Ba tavajjoh be matn-e ketab, jomleh-ye zir ra kamel konid:\n'We should show great respect to our parents because they are the ones who brought us up with love and _______.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'care'",
+     "final_resolution": "care",
+     "notes": "",
+     "keywords": [
+      "ehteram be valedein",
+      "vazhegan-e matni",
+      "hess-e ghadrdani",
+      "zaban-e engelisi-ye davazdahom"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (بخش ضرب‌المثل‌ها)",
+    "en": "Lesson 1: Sense of Appreciation (Proverbs & Idioms)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Zarb-ol-masal)",
+    "pages": "30–35"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "با توجه به بخش ضرب‌المثل‌های درس اول، عبارت زیر را با واژهٔ صحیح کامل کنید:\n⁦'An empty vessel makes the most _______.'⁩",
+     "grading_key": "- [1.0] برای تشخیص دقیق و نوشتن املای صحیح واژهٔ پایانی ضرب‌المثل (⁦noise⁩)",
+     "final_resolution": "⁦noise⁩",
+     "notes": "",
+     "keywords": [
+      "ضرب‌المثل انگلیسی",
+      "حس قدردانی",
+      "واژگان درس اول",
+      "کتاب انگلیسی دوازدهم"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Based on the proverbs section of lesson one, complete the following statement with the correct word:\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1.0] for precisely identifying and spelling the target idiomatic vocabulary keyword (noise).",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [
+      "English proverb",
+      "sense of appreciation",
+      "lesson 1 vocabulary",
+      "Vision 3"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Ba tavajjoh be bakhsh-e zarb-ol-masal-haye dars-e avval, ebarat-e zir ra ba vazheh-ye sahih kamel konid:\n'An empty vessel makes the most _______.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'noise'",
+     "final_resolution": "noise",
+     "notes": "",
+     "keywords": [
+      "zarb-ol-masal",
+      "hess-e ghadrdani",
+      "loghat-e dars-e avval",
+      "Vision 3"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان و درک مطلب)",
+    "en": "Lesson 3: Renewable Energy (Vocabulary & Reading Comprehension)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir",
+    "pages": "72–80"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "با توجه به مفاهیم درس انرژی‌های تجدیدپذیر، واژهٔ تعریف‌شده در جملهٔ زیر را مشخص کنید:\n⁦'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'⁩",
+     "grading_key": "- [1.0] برای تشخیص و نوشتن املای صحیح واژهٔ کلیدی (⁦renewable⁩)",
+     "final_resolution": "⁦renewable⁩",
+     "notes": "",
+     "keywords": [
+      "انرژی تجدیدپذیر",
+      "واژگان انگلیسی",
+      "باد و نور خورشید",
+      "کتاب ویژن ۳"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Based on the concepts of the renewable energy lesson, identify the word defined in the following sentence:\n'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'",
+     "grading_key": "- [1.0] for correctly identifying and spelling the target vocabulary key word (renewable).",
+     "final_resolution": "renewable",
+     "notes": "",
+     "keywords": [
+      "renewable energy",
+      "English vocabulary",
+      "wind and sunlight",
+      "Vision 3 textbook"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Ba tavajjoh be dars-e enerji-haye tajdid-pazir, vazheh-ye tarif shodeh ra moshakhas konid:\n'Resources like wind and sunlight that are never finished or used up completely are called _______ energy.'",
+     "grading_key": "- [1.0] baraye neveshtan-e sahih-e vazheh-ye 'renewable'",
+     "final_resolution": "renewable",
+     "notes": "",
+     "keywords": [
+      "enerji-ye tajdid-pazir",
+      "loghat-e English",
+      "bad va noor-e khorshid",
+      "Vision 3"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1402-Khordad",
+   "number": 0,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: جملات شرطی نوع اول)",
+    "en": "Lesson 2: Look at the Future (Grammar: Conditional Sentences Type I)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Sharti)",
+    "pages": "48–55"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "جملهٔ شرطی زیر را با شکل صحیح افعال داخل پرانتز کامل کنید:\n⁦'If scientists (develop) clean energy sources, they (save) the environment from global warming.'⁩",
+     "grading_key": "- [0.5] برای استفاده از زمان حال ساده در بند شرط (⁦develop⁩)\n- [0.5] برای استفاده از زمان آیندهٔ ساده در بند جواب شرط (⁦will save⁩)",
+     "final_resolution": "⁦If scientists develop clean energy sources, they will save the environment from global warming.⁩",
+     "notes": "",
+     "keywords": [
+      "جملهٔ شرطی",
+      "حال ساده",
+      "آیندهٔ ساده",
+      "گرامر انگلیسی"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Complete the conditional sentence with the correct form of the verbs in parentheses:\n'If scientists (develop) clean energy sources, they (save) the environment from global warming.'",
+     "grading_key": "- [0.5] for using the Simple Present in the if-clause (develop).\n- [0.5] for using the Simple Future in the main clause (will save).",
+     "final_resolution": "If scientists develop clean energy sources, they will save the environment from global warming.",
+     "notes": "",
+     "keywords": [
+      "conditional sentence",
+      "simple present",
+      "simple future",
+      "grammar"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Jomle-ye sharti-ye zir ra ba shekl-e sahih-e fe'l-haye dakhel-e parantez kamel konid:\n'If scientists (develop) clean energy sources, they (save) the environment from global warming.'",
+     "grading_key": "- [0.5] baraye develop (hal-e sade)\n- [0.5] baraye will save (ayande)",
+     "final_resolution": "If scientists develop clean energy sources, they will save the environment from global warming.",
+     "notes": "",
+     "keywords": [
+      "jomle-ye sharti",
+      "hal-e sade",
+      "ayande-ye sade",
+      "grammar"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1398-Dey",
+   "number": 903,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: مجهول)",
+    "en": "Lesson 2: Look at the Future (Grammar: Passive)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Majhool)",
+    "pages": "52–55"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "ساختار مجهول درست فعل را انتخاب کنید:\n⁦'The updates _______ by the developer next week.'⁩",
+     "grading_key": "- [1] ⁦will be published⁩",
+     "final_resolution": "⁦will be published⁩",
+     "notes": "",
+     "keywords": [
+      "آیندهٔ مجهول"
+     ],
+     "distractors": [
+      "⁦was published⁩",
+      "⁦has been published⁩",
+      "⁦are publishing⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct passive form:\n'The updates _______ by the developer next week.'",
+     "grading_key": "- [1] will be published",
+     "final_resolution": "will be published",
+     "notes": "",
+     "keywords": [
+      "future passive"
+     ],
+     "distractors": [
+      "was published",
+      "has been published",
+      "are publishing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Sakhtar-e majhool-e dorost-e fe'l ra entekhab konid:\n'The updates _______ by the developer next week.'",
+     "grading_key": "- [1] will be published",
+     "final_resolution": "will be published",
+     "notes": "",
+     "keywords": [
+      "ayande-ye majhool"
+     ],
+     "distractors": [
+      "was published",
+      "has been published",
+      "are publishing"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1399-Dey",
+   "number": 901,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (گرامر: جمله‌های شرطی)",
+    "en": "Lesson 2: Look at the Future (Grammar: Conditionals)",
+    "tr": "Dars 2: Negahi be Ayandeh (Grammar: Sharti)",
+    "pages": "48–52"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "شکل صحیح فعل را در جملهٔ شرطی نوع اول انتخاب کنید:\n⁦'If scientists develop clean energy, they _______ the planet.'⁩",
+     "grading_key": "- [1] ⁦will save⁩",
+     "final_resolution": "⁦will save⁩",
+     "notes": "",
+     "keywords": [
+      "شرطی نوع اول"
+     ],
+     "distractors": [
+      "⁦would save⁩",
+      "⁦saved⁩",
+      "⁦have saved⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Choose the correct verb form to complete the Type I conditional:\n'If scientists develop clean energy, they _______ the planet.'",
+     "grading_key": "- [1] will save",
+     "final_resolution": "will save",
+     "notes": "",
+     "keywords": [
+      "first conditional"
+     ],
+     "distractors": [
+      "would save",
+      "saved",
+      "have saved"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Shekl-e sahih-e fe'l ra dar jomle-ye sharti-ye no-e avval entekhab konid:\n'If scientists develop clean energy, they _______ the planet.'",
+     "grading_key": "- [1] will save",
+     "final_resolution": "will save",
+     "notes": "",
+     "keywords": [
+      "sharti-ye no-e avval"
+     ],
+     "distractors": [
+      "would save",
+      "saved",
+      "have saved"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1399-Khordad",
+   "number": 903,
+   "topic_tag": "renewable-energy",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۳: انرژی‌های تجدیدپذیر (واژگان کلیدی)",
+    "en": "Lesson 3: Renewable Energy (Key Vocabulary)",
+    "tr": "Dars 3: Enerji-haye Tajdid-pazir (Vazhegan)",
+    "pages": "75–78"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "انرژی‌های تجدیدپذیر",
+     "question": "بر اساس متن درس، کدام عبارت بهترین هم‌معنی برای ⁦'clean energy'⁩ است؟",
+     "grading_key": "- [1] ⁦Renewable resource⁩",
+     "final_resolution": "⁦Renewable resource⁩",
+     "notes": "",
+     "keywords": [
+      "منبع تجدیدپذیر"
+     ],
+     "distractors": [
+      "⁦Fossil fuel⁩",
+      "⁦Crude oil⁩",
+      "⁦Coal power⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Renewable Energy",
+     "question": "Based on the lesson text, which is the best synonym for 'clean energy'?",
+     "grading_key": "- [1] Renewable resource",
+     "final_resolution": "Renewable resource",
+     "notes": "",
+     "keywords": [
+      "renewable resource"
+     ],
+     "distractors": [
+      "Fossil fuel",
+      "Crude oil",
+      "Coal power"
+     ]
+    },
+    "tr": {
+     "topic_label": "Enerji-haye tajdid-pazir",
+     "question": "Bar asas-e matn-e dars, kodam ebarat behtarin ham-mani baraye 'clean energy' ast?",
+     "grading_key": "- [1] Renewable resource",
+     "final_resolution": "Renewable resource",
+     "notes": "",
+     "keywords": [
+      "manba-ye tajdid-pazir"
+     ],
+     "distractors": [
+      "Fossil fuel",
+      "Crude oil",
+      "Coal power"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1400-Dey",
+   "number": 904,
+   "topic_tag": "look-at-the-future",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۲: نگاهی به آینده (واژگان ترکیبی)",
+    "en": "Lesson 2: Look at the Future (Collocations)",
+    "tr": "Dars 2: Negahi be Ayandeh (Collocations)",
+    "pages": "44–46"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "نگاهی به آینده",
+     "question": "کدام واژه ترکیب «کاهش گازهای گلخانه‌ای» را درست کامل می‌کند؟\n⁦'We must reduce greenhouse gas _______.'⁩",
+     "grading_key": "- [1] ⁦emissions⁩",
+     "final_resolution": "⁦emissions⁩",
+     "notes": "",
+     "keywords": [
+      "انتشار گازهای گلخانه‌ای"
+     ],
+     "distractors": [
+      "⁦absorptions⁩",
+      "⁦creations⁩",
+      "⁦productions⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Look at the Future",
+     "question": "Which word completes the collocation for reducing greenhouse gases?\n'We must reduce greenhouse gas _______.'",
+     "grading_key": "- [1] emissions",
+     "final_resolution": "emissions",
+     "notes": "",
+     "keywords": [
+      "greenhouse gas emissions"
+     ],
+     "distractors": [
+      "absorptions",
+      "creations",
+      "productions"
+     ]
+    },
+    "tr": {
+     "topic_label": "Negahi be ayande",
+     "question": "Kodam vazhe tarkib-e 'kahesh-e gaz-haye golkhane-i' ra dorost kamel mikonad?\n'We must reduce greenhouse gas _______.'",
+     "grading_key": "- [1] emissions",
+     "final_resolution": "emissions",
+     "notes": "",
+     "keywords": [
+      "enteshar-e gaz-haye golkhane-i"
+     ],
+     "distractors": [
+      "absorptions",
+      "creations",
+      "productions"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "English",
+   "session": "1401-Khordad",
+   "number": 904,
+   "topic_tag": "sense-of-appreciation",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "درس ۱: حس قدردانی (گرامر: معلوم و مجهول)",
+    "en": "Lesson 1: Sense of Appreciation (Grammar: Active and Passive)",
+    "tr": "Dars 1: Hess-e Ghadrdani (Grammar: Maloom va Majhool)",
+    "pages": "22–24"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "حس قدردانی",
+     "question": "شکل مجهول گذشتهٔ سادهٔ فعل را برای کامل کردن جمله انتخاب کنید:\n⁦'A famous children’s hospital in Tehran _______ by Dr. Gharib.'⁩",
+     "grading_key": "- [1] ⁦was established⁩",
+     "final_resolution": "⁦was established⁩",
+     "notes": "",
+     "keywords": [
+      "گذشتهٔ مجهول"
+     ],
+     "distractors": [
+      "⁦established⁩",
+      "⁦has established⁩",
+      "⁦is establishing⁩"
+     ]
+    },
+    "en": {
+     "topic_label": "Sense of Appreciation",
+     "question": "Choose the past passive form to complete the sentence:\n'A famous children’s hospital in Tehran _______ by Dr. Gharib.'",
+     "grading_key": "- [1] was established",
+     "final_resolution": "was established",
+     "notes": "",
+     "keywords": [
+      "past passive"
+     ],
+     "distractors": [
+      "established",
+      "has established",
+      "is establishing"
+     ]
+    },
+    "tr": {
+     "topic_label": "Hess-e ghadrdani",
+     "question": "Shekl-e majhool-e gozashte-ye sade-ye fe'l ra baraye kamel kardan-e jomle entekhab konid:\n'A famous children’s hospital in Tehran _______ by Dr. Gharib.'",
+     "grading_key": "- [1] was established",
+     "final_resolution": "was established",
+     "notes": "",
+     "keywords": [
+      "gozashte-ye majhool"
+     ],
+     "distractors": [
+      "established",
+      "has established",
+      "is establishing"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
