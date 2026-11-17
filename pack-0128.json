@@ -1,0 +1,1133 @@
+{
+ "version": 128,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 1,
+   "key": "chem-2-redox-ladder",
+   "title": {
+    "fa": "اکسایش، کاهش و نردبان پتانسیل",
+    "en": "Redox and the reduction-potential ladder",
+    "tr": "Oksayesh, kahesh va nardeban-e potansiyel"
+   },
+   "summary": {
+    "fa": "طناب‌کشی بر سر الکترون: هر گونه‌ای که قوی‌تر بکشد، الکترون را می‌گیرد.",
+    "en": "A tug-of-war over electrons: whichever species pulls harder takes them.",
+    "tr": "Tanab-keshi bar sar-e elektron: har goone-i ke ghavi-tar bekeshad, elektron ra migirad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: طناب‌کشی بر سر الکترون",
+      "en": "Understand first: a tug-of-war over electrons",
+      "tr": "Avval befahm: tanab-keshi bar sar-e elektron"
+     },
+     "body": {
+      "fa": "در هر واکنش اکسایش-کاهش، الکترون از یک گونه به گونهٔ دیگر می‌رود. گونه‌ای که الکترون از دست می‌دهد «اکسایش» می‌یابد و عدد اکسایشش بالا می‌رود؛ گونه‌ای که الکترون می‌گیرد «کاهش» می‌یابد. گونه‌ای که الکترون را می‌گیرد «اکسنده» است (چون دیگری را اکسید می‌کند) و گونه‌ای که الکترون می‌دهد «کاهنده». اکسایش و کاهش همیشه با هم‌اند؛ هیچ الکترونی گم نمی‌شود.",
+      "en": "In every redox reaction, electrons move from one species to another. The species that loses electrons is \"oxidised\" and its oxidation number goes up; the species that gains electrons is \"reduced\". The species that takes the electrons is the \"oxidising agent\" (because it oxidises the other), and the one that gives them is the \"reducing agent\". Oxidation and reduction always happen together; no electron is ever lost.",
+      "tr": "Dar har vakonesh-e oksayesh-kahesh, elektron az yek goone be goone-ye digar miravad. Goone-i ke elektron az dast midahad \"oksayesh\" miyabad va adad-e oksayeshash bala miravad; goone-i ke elektron migirad \"kahesh\" miyabad. Goone-i ke elektron ra migirad \"oksande\" ast (chon digari ra oksid mikonad) va goone-i ke elektron midahad \"kahande\". Oksayesh va kahesh hamishe ba ham-and; hich elektroni gom nemishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نردبان پتانسیل کاهشی",
+      "en": "The reduction-potential ladder",
+      "tr": "Nardeban-e potansiyel-e kaheshi"
+     },
+     "body": {
+      "fa": "«پتانسیل کاهشی استاندارد» (`E°`) نشان می‌دهد هر نیم‌واکنش چقدر قوی الکترون را می‌کشد؛ نسبت به الکترود استاندارد هیدروژن که صفر فرض شده. `E°` بزرگ‌تر یعنی تمایل بیشتر به کاهش: در سلول، نیم‌سلول با `E°` بزرگ‌تر همیشه «کاتد» است (آزمون دی ۱۴۰۰). `E°` کوچک‌تر یعنی فلز آسان‌تر اکسید می‌شود: در سلول روی-مس، روی با `E°` کمتر «آند» است (آزمون دی ۱۴۰۱).",
+      "en": "The \"standard reduction potential\" (`E°`) shows how strongly each half-reaction pulls on electrons, measured against the standard hydrogen electrode, set at zero. A larger `E°` means a greater tendency to be reduced: in a cell, the half-cell with the larger `E°` is always the \"cathode\" (Dey 1400 paper). A smaller `E°` means the metal is oxidised more easily: in the zinc-copper cell, zinc, with the lower `E°`, is the \"anode\" (Dey 1401 paper).",
+      "tr": "\"Potansiyel-e kaheshi-ye estandard\" (`E°`) neshan midahad har nim-vakonesh cheghadr ghavi elektron ra mikeshad; nesbat be elektrod-e estandard-e hidrozhen ke sefr farz shode. `E°`-e bozorg-tar ya'ni tamayol-e bishtar be kahesh: dar sellool, nim-sellool ba `E°`-e bozorg-tar hamishe \"katod\" ast (azmoon-e Dey 1400). `E°`-e koochak-tar ya'ni felez asan-tar oksid mishavad: dar sellool-e rooy-mes, rooy ba `E°`-e kamtar \"anod\" ast (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " strongest oxidising agent (top)\n Ag+  + e-  -> Ag        +0.80 V\n Cu2+ + 2e- -> Cu        +0.34 V\n 2H+  + 2e- -> H2         0.00 V\n Fe2+ + 2e- -> Fe        -0.44 V\n Zn2+ + 2e- -> Zn        -0.76 V\n Mg2+ + 2e- -> Mg        -2.37 V\n strongest reducing agent (bottom)",
+     "caption": {
+      "fa": "نردبان `E°`: بالاترین‌ها بهتر کاهش می‌یابند (کاتد)؛ فلزهای پایین آسان‌تر اکسید می‌شوند (آند).",
+      "en": "The `E°` ladder: those at the top are reduced most easily (cathode); metals at the bottom are oxidised most easily (anode).",
+      "tr": "Nardeban-e `E°`: bala-tarin-ha behtar kahesh miyaband (katod); felez-haye payin asan-tar oksid mishavand (anod)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "E° = E°(C) − E°(A)",
+     "caption": {
+      "fa": "`C` کاتد و `A` آند است؛ اگر حاصل مثبت باشد، واکنش خودبه‌خودی است",
+      "en": "`C` is the cathode and `A` the anode; if the result is positive, the reaction is spontaneous",
+      "tr": "`C` katod va `A` anod ast; agar hasel mosbat bashad, vakonesh khod-be-khodi ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در واکنش `Zn + Cu2+ → Zn2+ + Cu`، اکسنده و کاهنده کدام‌اند؟",
+      "en": "Warm-up: in the reaction `Zn + Cu2+ → Zn2+ + Cu`, which is the oxidising agent and which the reducing agent?",
+      "tr": "Garm kardan: dar vakonesh-e `Zn + Cu2+ → Zn2+ + Cu`, oksande va kahande kodam-and?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الکترون‌ها را دنبال کن: `Zn` دو الکترون داده و `Zn2+` شده (اکسایش)؛ `Cu2+` دو الکترون گرفته و `Cu` شده (کاهش).",
+        "en": "Follow the electrons: `Zn` gave two electrons and became `Zn2+` (oxidation); `Cu2+` took two electrons and became `Cu` (reduction).",
+        "tr": "Elektron-ha ra donbal kon: `Zn` do elektron dade va `Zn2+` shode (oksayesh); `Cu2+` do elektron gerefte va `Cu` shode (kahesh)."
+       },
+       "math": "Zn → Zn2+ + 2e- ,   Cu2+ + 2e- → Cu"
+      },
+      {
+       "text": {
+        "fa": "اکسنده گونه‌ای است که کاهش یافته، و کاهنده گونه‌ای که اکسید شده. نام‌ها برعکس کاری است که برای خودشان رخ می‌دهد.",
+        "en": "The oxidising agent is the species that was reduced, and the reducing agent the one that was oxidised. The names are the opposite of what happens to them.",
+        "tr": "Oksande goone-i ast ke kahesh yafte, va kahande goone-i ke oksid shode. Nam-ha bar-aks-e kari ast ke baraye khodeshan rokh midahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسنده: `Cu2+`؛ کاهنده: `Zn`",
+      "en": "Oxidising agent: `Cu2+`; reducing agent: `Zn`",
+      "tr": "Oksande: `Cu2+`; kahande: `Zn`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در سلول استاندارد، نیم‌سلول با `E°` بزرگ‌تر کدام الکترود است؟ و در سلول روی-مس، روی چه الکترودی است؟ (آزمون‌های دی ۱۴۰۰ و دی ۱۴۰۱)",
+      "en": "Textbook and exam: in a standard cell, which electrode is the half-cell with the larger `E°`? And in the zinc-copper cell, which electrode is zinc? (Dey 1400 and Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar sellool-e estandard, nim-sellool ba `E°`-e bozorg-tar kodam elektrod ast? Va dar sellool-e rooy-mes, rooy che elektrodi ast? (azmoon-haye Dey 1400 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`E°` بزرگ‌تر یعنی کشش قوی‌تر برای الکترون: آن نیم‌سلول الکترون می‌گیرد و کاهش می‌یابد. کاهش در کاتد رخ می‌دهد.",
+        "en": "A larger `E°` means a stronger pull on electrons: that half-cell takes electrons and is reduced. Reduction happens at the cathode.",
+        "tr": "`E°`-e bozorg-tar ya'ni keshesh-e ghavi-tar baraye elektron: an nim-sellool elektron migirad va kahesh miyabad. Kahesh dar katod rokh midahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "روی (`−0.76`) پایین‌تر از مس (`+0.34`) است، پس روی الکترون می‌دهد و اکسید می‌شود؛ اکسایش در آند است.",
+        "en": "Zinc (`−0.76`) is below copper (`+0.34`), so zinc gives electrons and is oxidised; oxidation is at the anode.",
+        "tr": "Rooy (`−0.76`) payin-tar az mes (`+0.34`) ast, pas rooy elektron midahad va oksid mishavad; oksayesh dar anod ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`E°` بزرگ‌تر کاتد است؛ روی آند است",
+      "en": "The larger `E°` is the cathode; zinc is the anode",
+      "tr": "`E°`-e bozorg-tar katod ast; rooy anod ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آیا می‌شود محلول نقره نیترات را با قاشق مسی هم زد؟",
+      "en": "Exam twist: can you stir a silver nitrate solution with a copper spoon?",
+      "tr": "Pich-e emtehani: aya mishavad mahlool-e noghre nitrat ra ba ghashogh-e mesi ham zad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: بپرس آیا مس می‌تواند الکترونش را به `Ag+` بدهد. `E°` نقره (`+0.80`) بالاتر از مس (`+0.34`) است، پس `Ag+` قوی‌تر می‌کشد.",
+        "en": "The twist: ask whether copper can hand its electrons to `Ag+`. Silver's `E°` (`+0.80`) is above copper's (`+0.34`), so `Ag+` pulls harder.",
+        "tr": "Pich-e emtehan: bepors aya mes mitavanad elektronash ra be `Ag+` bedahad. `E°`-e noghre (`+0.80`) bala-tar az mes (`+0.34`) ast, pas `Ag+` ghavi-tar mikeshad."
+       },
+       "math": "E° = 0.80 − 0.34 = +0.46 V"
+      },
+      {
+       "text": {
+        "fa": "`E°` مثبت یعنی واکنش خودبه‌خودی است: مس حل می‌شود، نقره روی قاشق می‌نشیند و محلول آبی می‌شود.",
+        "en": "A positive `E°` means the reaction is spontaneous: copper dissolves, silver coats the spoon and the solution turns blue.",
+        "tr": "`E°`-e mosbat ya'ni vakonesh khod-be-khodi ast: mes hal mishavad, noghre rooye ghashogh mineshinad va mahlool abi mishavad."
+       },
+       "math": "Cu + 2 Ag+ → Cu2+ + 2 Ag"
+      }
+     ],
+     "answer": {
+      "fa": "نه؛ مس اکسید و نقره رسوب می‌کند، چون `E°cell = +0.46 V` است",
+      "en": "No; copper is oxidised and silver deposits, because `E°cell = +0.46 V`",
+      "tr": "Na; mes oksid va noghre rosoob mikonad, chon `E°cell = +0.46 V` ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اکسنده خودش «کاهش» می‌یابد و کاهنده خودش «اکسایش». این دو را با کاری که روی خودشان رخ می‌دهد قاطی نکن.",
+      "en": "The oxidising agent is itself \"reduced\" and the reducing agent is itself \"oxidised\". Do not confuse their names with what happens to them.",
+      "tr": "Oksande khodash \"kahesh\" miyabad va kahande khodash \"oksayesh\". In do ra ba kari ke rooye khodeshan rokh midahad ghati nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در `E° = E°(C) − E°(A)` علامت `E°` آند را برعکس نکن؛ فقط تفریق کن. اگر نتیجه منفی شد، واکنش در آن جهت خودبه‌خودی نیست.",
+      "en": "In `E° = E°(C) − E°(A)` do not flip the anode's sign yourself; just subtract. If the result is negative, the reaction is not spontaneous in that direction.",
+      "tr": "Dar `E° = E°(C) − E°(A)` alamat-e `E°`-e anod ra bar-aks nakon; faghat tafrigh kon. Agar natije manfi shod, vakonesh dar an jahat khod-be-khodi nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 934
+    },
+    {
+     "session": "1400-Dey",
+     "number": 940
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 2,
+   "key": "chem-2-galvanic-cells",
+   "title": {
+    "fa": "سلول گالوانی",
+    "en": "Galvanic cells",
+    "tr": "Sellool-e galvani"
+   },
+   "summary": {
+    "fa": "آبشاری که سرازیر می‌شود و توربین را می‌چرخاند: واکنش خودبه‌خودی، برق می‌سازد.",
+    "en": "A waterfall running downhill and turning a turbine: a spontaneous reaction makes electricity.",
+    "tr": "Abshari ke sarazir mishavad va toorbin ra micharkhanad: vakonesh-e khod-be-khodi, barq misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: آبشاری که برق می‌سازد",
+      "en": "Understand first: a waterfall that makes electricity",
+      "tr": "Avval befahm: abshari ke barq misazad"
+     },
+     "body": {
+      "fa": "اگر روی را مستقیم در محلول مس بگذاریم، الکترون‌ها همان‌جا جابه‌جا می‌شوند و فقط گرما می‌ماند. در «سلول گالوانی» دو نیم‌واکنش را از هم جدا می‌کنیم و الکترون‌ها را مجبور می‌کنیم از یک سیم بگذرند؛ مثل آبی که از آبشار پایین می‌ریزد و در راه توربین را می‌چرخاند. اکسایش همیشه در «آند» رخ می‌دهد (آزمون دی ۱۴۰۱) و کاهش در «کاتد». رمز حفظ: «آند-اکسایش، کاتد-کاهش».",
+      "en": "If we put zinc straight into a copper solution, the electrons move on the spot and only heat is left. In a \"galvanic cell\" we separate the two half-reactions and force the electrons through a wire, like water falling down a waterfall and turning a turbine on the way. Oxidation always happens at the \"anode\" (Dey 1401 paper) and reduction at the \"cathode\". Memory trick: \"AN OX, RED CAT\".",
+      "tr": "Agar rooy ra mostaghim dar mahlool-e mes bogzarim, elektron-ha haman-ja jabeja mishavand va faghat garma mimanad. Dar \"sellool-e galvani\" do nim-vakonesh ra az ham joda mikonim va elektron-ha ra majboor mikonim az yek sim begozarand; mesl-e abi ke az abshar payin mirizad va dar rah toorbin ra micharkhanad. Oksayesh hamishe dar \"anod\" rokh midahad (azmoon-e Dey 1401) va kahesh dar \"katod\". Ramz-e hefz: \"anod-oksayesh, katod-kahesh\"."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "       e- ->   e- ->   e- ->\n   +-----------( V )----------+\n   |                          |\n  Zn (-)    salt bridge    Cu (+)\n  anode   <- anions        cathode\n  ox.        cations ->    red.\n  [Zn2+]                   [Cu2+]",
+     "caption": {
+      "fa": "سلول روی-مس: الکترون‌ها در سیم از آند به کاتد می‌روند؛ در پل نمکی آنیون‌ها به سمت آند و کاتیون‌ها به سمت کاتد.",
+      "en": "The zinc-copper cell: electrons travel through the wire from anode to cathode; in the salt bridge, anions move towards the anode and cations towards the cathode.",
+      "tr": "Sellool-e rooy-mes: elektron-ha dar sim az anod be katod miravand; dar pol-e namaki aniyon-ha be samt-e anod va katiyon-ha be samt-e katod."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پل نمکی: نگه‌داشتن تعادل بار",
+      "en": "The salt bridge: keeping the charge balanced",
+      "tr": "Pol-e namaki: negah-dashtan-e ta'adol-e bar"
+     },
+     "body": {
+      "fa": "چرا «پل نمکی» لازم است؟ در آند یون‌های مثبت (`Zn2+`) زیاد می‌شوند و در کاتد یون‌های مثبت (`Cu2+`) کم. بدون جبران، بار جمع می‌شود و جریان می‌ایستد. پل نمکی یون می‌فرستد: آنیون‌ها به سمت نیم‌سلول آند می‌روند (آزمون خرداد ۱۳۹۸) و کاتیون‌ها به سمت کاتد. در سلول گالوانی آند قطب منفی و کاتد قطب مثبت است.",
+      "en": "Why is a \"salt bridge\" needed? At the anode positive ions (`Zn2+`) build up and at the cathode positive ions (`Cu2+`) are used up. Without compensation, charge piles up and the current stops. The salt bridge sends ions: anions move towards the anode half-cell (Khordad 1398 paper) and cations towards the cathode. In a galvanic cell the anode is the negative pole and the cathode the positive pole.",
+      "tr": "Chera \"pol-e namaki\" lazem ast? Dar anod yoon-haye mosbat (`Zn2+`) ziyad mishavand va dar katod yoon-haye mosbat (`Cu2+`) kam. Bedoon-e jobran, bar jam' mishavad va jaryan miistad. Pol-e namaki yoon miferestad: aniyon-ha be samt-e nim-sellool-e anod miravand (azmoon-e Khordad 1398) va katiyon-ha be samt-e katod. Dar sellool-e galvani anod ghotb-e manfi va katod ghotb-e mosbat ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در سلول گالوانی، آنیون‌ها در پل نمکی به کدام سمت می‌روند؟ (آزمون خرداد ۱۳۹۸)",
+      "en": "Warm-up: in a galvanic cell, which way do anions move in the salt bridge? (Khordad 1398 paper)",
+      "tr": "Garm kardan: dar sellool-e galvani, aniyon-ha dar pol-e namaki be kodam samt miravand? (azmoon-e Khordad 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس کجا بار مثبت زیاد می‌شود: در آند، چون فلز به یون مثبت تبدیل می‌شود. آنیون‌های منفی برای خنثی کردن آن به همان‌جا می‌روند.",
+        "en": "Ask where positive charge builds up: at the anode, because metal turns into positive ions. The negative anions go there to balance it.",
+        "tr": "Bepors koja bar-e mosbat ziyad mishavad: dar anod, chon felez be yoon-e mosbat tabdil mishavad. Aniyon-haye manfi baraye khonsa kardan-e an be haman-ja miravand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به سمت نیم‌سلول آند",
+      "en": "Towards the anode half-cell",
+      "tr": "Be samt-e nim-sellool-e anod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: برای سلول گالوانی روی-مس، نیم‌واکنش‌ها و `E°cell` را بنویس. (`E°` روی `−0.76` و مس `+0.34` ولت؛ آزمون خرداد ۱۴۰۳)",
+      "en": "Textbook and exam: for the zinc-copper galvanic cell, write the half-reactions and `E°cell`. (`E°` zinc `−0.76` V, copper `+0.34` V; Khordad 1403 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: baraye sellool-e galvani-ye rooy-mes, nim-vakonesh-ha va `E°cell` ra benevis. (`E°`-e rooy `−0.76` va mes `+0.34` volt; azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول نقش‌ها: روی `E°` کمتری دارد، پس آند است و اکسید می‌شود؛ مس کاتد است.",
+        "en": "Roles first: zinc has the lower `E°`, so it is the anode and is oxidised; copper is the cathode.",
+        "tr": "Avval naghsh-ha: rooy `E°`-e kamtari darad, pas anod ast va oksid mishavad; mes katod ast."
+       },
+       "math": "Zn → Zn2+ + 2e- ,   Cu2+ + 2e- → Cu"
+      },
+      {
+       "text": {
+        "fa": "حالا فرمول را به کار ببر: کاتد منهای آند.",
+        "en": "Now use the formula: cathode minus anode.",
+        "tr": "Hala formool ra be kar bebar: katod menha-ye anod."
+       },
+       "math": "E° = 0.34 − (−0.76) = +1.10 V"
+      }
+     ],
+     "answer": {
+      "fa": "`E°cell = +1.10 V`",
+      "en": "`E°cell = +1.10 V`",
+      "tr": "`E°cell = +1.10 V`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سلول نیکل-نقره (`E°` نیکل `−0.25`، نقره `+0.80` ولت). اگر کاتد `2.16` گرم سنگین‌تر شود، جرم آند چقدر تغییر می‌کند؟ (`Ag = 108`، `Ni = 59`؛ آزمون خرداد ۱۴۰۳)",
+      "en": "Exam twist: a nickel-silver cell (`E°` nickel `−0.25`, silver `+0.80` V). If the cathode gains `2.16` g, how does the anode's mass change? (`Ag = 108`, `Ni = 59`; Khordad 1403 paper)",
+      "tr": "Pich-e emtehani: sellool-e nikel-noghre (`E°`-e nikel `−0.25`, noghre `+0.80` volt). Agar katod `2.16` geram sangin-tar shavad, jerm-e anod cheghadr taghyir mikonad? (`Ag = 108`, `Ni = 59`; azmoon-e Khordad 1403)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، نقش‌ها و واکنش: نیکل آند است و نقره کاتد. هر نیکل دو الکترون می‌دهد و هر یون نقره یک الکترون می‌گیرد، پس دو نقره برای هر نیکل.",
+        "en": "Step one, roles and reaction: nickel is the anode and silver the cathode. Each nickel gives two electrons and each silver ion takes one, so two silvers for every nickel.",
+        "tr": "Ghadam-e avval, naghsh-ha va vakonesh: nikel anod ast va noghre katod. Har nikel do elektron midahad va har yoon-e noghre yek elektron migirad, pas do noghre baraye har nikel."
+       },
+       "math": "Ni + 2 Ag+ → Ni2+ + 2 Ag ,   E° = +1.05 V"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، از جرم کاتد به مول برس.",
+        "en": "Step two, turn the cathode's mass into moles.",
+        "tr": "Ghadam-e dovvom, az jerm-e katod be mol beres."
+       },
+       "math": "2.16 / 108 = 0.02 mol Ag"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: نسبت ۱ به ۲ را به کار ببر، نه ۱ به ۱. پس نصف این مول نیکل از آند جدا شده است.",
+        "en": "Step three, the real twist: use the 1 : 2 ratio, not 1 : 1. So half as many moles of nickel left the anode.",
+        "tr": "Ghadam-e sevvom, pich-e asli: nesbat-e 1 be 2 ra be kar bebar, na 1 be 1. Pas nesf-e in mol nikel az anod joda shode ast."
+       },
+       "math": "0.01 × 59 = 0.59 g"
+      }
+     ],
+     "answer": {
+      "fa": "آند `0.59` گرم سبک‌تر می‌شود",
+      "en": "The anode loses `0.59` g",
+      "tr": "Anod `0.59` geram sabok-tar mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رمز «آند-اکسایش، کاتد-کاهش» در همهٔ سلول‌ها درست است؛ ولی علامت قطب‌ها فرق دارد: در سلول گالوانی آند منفی است.",
+      "en": "The rule \"AN OX, RED CAT\" holds in every cell; but the signs of the poles differ: in a galvanic cell the anode is negative.",
+      "tr": "Ramz-e \"anod-oksayesh, katod-kahesh\" dar hame-ye sellool-ha dorost ast; vali alamat-e ghotb-ha fargh darad: dar sellool-e galvani anod manfi ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "الکترون‌ها از سیم می‌گذرند، نه از پل نمکی؛ در پل نمکی فقط یون‌ها حرکت می‌کنند.",
+      "en": "Electrons travel through the wire, not the salt bridge; only ions move in the salt bridge.",
+      "tr": "Elektron-ha az sim migozarand, na az pol-e namaki; dar pol-e namaki faghat yoon-ha harekat mikonand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1403-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Dey",
+     "number": 904
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1403-Khordad",
+     "number": 15
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 3,
+   "key": "chem-2-fuel-cells-batteries",
+   "title": {
+    "fa": "سلول سوختی و باتری‌ها",
+    "en": "Fuel cells and batteries",
+    "tr": "Sellool-e sookhti va batri-ha"
+   },
+   "summary": {
+    "fa": "باتری مخزن بسته است؛ سلول سوختی تا وقتی سوخت برسد کار می‌کند.",
+    "en": "A battery is a sealed tank; a fuel cell keeps working as long as fuel arrives.",
+    "tr": "Batri makhzan-e baste ast; sellool-e sookhti ta vaghti sookht beresad kar mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مخزن بسته یا لولهٔ سوخت",
+      "en": "Understand first: a sealed tank or a fuel line",
+      "tr": "Avval befahm: makhzan-e baste ya loole-ye sookht"
+     },
+     "body": {
+      "fa": "باتری یک سلول گالوانی بسته است: مواد واکنش‌دهنده درونش‌اند و وقتی تمام شوند، باتری خالی می‌شود (یا باید شارژ شود). در باتری خشک معمولی، پوستهٔ روی آند است؛ در باتری لیتیمی، لیتیم با `E°` بسیار پایین ولتاژ زیاد و وزن کم می‌دهد. «سلول سوختی» فرق دارد: سوخت (هیدروژن) و اکسیژن پیوسته به آن می‌رسند، پس تا وقتی سوخت هست برق می‌سازد و محصولش فقط آب است.",
+      "en": "A battery is a sealed galvanic cell: its reactants are inside, and when they run out the battery is flat (or must be recharged). In an ordinary dry cell the zinc casing is the anode; in a lithium battery, lithium, with its very low `E°`, gives high voltage and low weight. A \"fuel cell\" is different: fuel (hydrogen) and oxygen are fed in continuously, so it makes electricity as long as there is fuel, and its only product is water.",
+      "tr": "Batri yek sellool-e galvani-ye baste ast: mavad-e vakonesh-dahande daroonash-and va vaghti tamam shavand, batri khali mishavad (ya bayad sharzh shavad). Dar batri-ye khoshk-e ma'mooli, poste-ye rooy anod ast; dar batri-ye lityomi, lityom ba `E°`-e besiyar payin voltazh-e ziyad va vazn-e kam midahad. \"Sellool-e sookhti\" fargh darad: sookht (hidrozhen) va oksizhen peyvaste be an miresand, pas ta vaghti sookht hast barq misazad va mahsoolash faghat ab ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "درون سلول سوختی",
+      "en": "Inside a fuel cell",
+      "tr": "Daroon-e sellool-e sookhti"
+     },
+     "body": {
+      "fa": "در سلول سوختی هیدروژن-اکسیژن، هیدروژن در «آند» اکسید می‌شود (آزمون خرداد ۱۳۹۹): `H2 → 2H+ + 2e-`. پروتون‌ها از غشای مبادله‌کنندهٔ پروتون از آند به کاتد می‌روند و الکترون‌ها از سیم بیرونی. در «کاتد» اکسیژن کاهش می‌یابد: `O2 + 4H+ + 4e- → 2H2O` (آزمون خرداد ۱۴۰۰).",
+      "en": "In a hydrogen-oxygen fuel cell, hydrogen is oxidised at the \"anode\" (Khordad 1399 paper): `H2 → 2H+ + 2e-`. Protons pass through the proton exchange membrane from anode to cathode, and electrons through the outer wire. At the \"cathode\" oxygen is reduced: `O2 + 4H+ + 4e- → 2H2O` (Khordad 1400 paper).",
+      "tr": "Dar sellool-e sookhti-ye hidrozhen-oksizhen, hidrozhen dar \"anod\" oksid mishavad (azmoon-e Khordad 1399): `H2 → 2H+ + 2e-`. Proton-ha az ghesha-ye mobadele-konande-ye proton az anod be katod miravand va elektron-ha az sim-e birooni. Dar \"katod\" oksizhen kahesh miyabad: `O2 + 4H+ + 4e- → 2H2O` (azmoon-e Khordad 1400)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " anode (-):   H2 -> 2H+ + 2e-\n      H+ cross the membrane ->\n cathode (+): O2 + 4H+ + 4e-\n              -> 2H2O\n electrons: wire, anode -> cathode\n overall:  2H2 + O2 -> 2H2O",
+     "caption": {
+      "fa": "سلول سوختی: هیدروژن در آند، اکسیژن در کاتد؛ پروتون‌ها از غشا و الکترون‌ها از سیم می‌گذرند.",
+      "en": "A fuel cell: hydrogen at the anode, oxygen at the cathode; protons cross the membrane and electrons go through the wire.",
+      "tr": "Sellool-e sookhti: hidrozhen dar anod, oksizhen dar katod; proton-ha az ghesha va elektron-ha az sim migozarand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در سلول سوختی هیدروژن-اکسیژن، هیدروژن در کدام الکترود اکسید می‌شود؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Warm-up: in a hydrogen-oxygen fuel cell, at which electrode is hydrogen oxidised? (Khordad 1399 paper)",
+      "tr": "Garm kardan: dar sellool-e sookhti-ye hidrozhen-oksizhen, hidrozhen dar kodam elektrod oksid mishavad? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«آند-اکسایش»: هر جا اکسایش باشد، آند است.",
+        "en": "\"AN OX\": wherever there is oxidation, that is the anode.",
+        "tr": "\"Anod-oksayesh\": har ja oksayesh bashad, anod ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آند",
+      "en": "The anode",
+      "tr": "Anod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نیم‌واکنش کاتدی سلول سوختی و جهت حرکت پروتون‌ها را بنویس. (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: write the cathode half-reaction of the fuel cell and the direction the protons move. (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nim-vakonesh-e katodi-ye sellool-e sookhti va jahat-e harekat-e proton-ha ra benevis. (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول: در کاتد اکسیژن کاهش می‌یابد و با پروتون‌ها آب می‌سازد. الکترون‌ها را موازنه کن: هر `O2` چهار الکترون می‌خواهد.",
+        "en": "First half mark: at the cathode oxygen is reduced and makes water with the protons. Balance the electrons: each `O2` needs four.",
+        "tr": "Nim-nomre-ye avval: dar katod oksizhen kahesh miyabad va ba proton-ha ab misazad. Elektron-ha ra movazene kon: har `O2` chahar elektron mikhahad."
+       },
+       "math": "O2 + 4H+ + 4e- → 2H2O"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم: پروتون‌ها در آند ساخته و در کاتد مصرف می‌شوند، پس از آند به کاتد می‌روند.",
+        "en": "Second half mark: protons are made at the anode and used at the cathode, so they move from anode to cathode.",
+        "tr": "Nim-nomre-ye dovvom: proton-ha dar anod sakhte va dar katod masraf mishavand, pas az anod be katod miravand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`O2 + 4H+ + 4e- → 2H2O`؛ پروتون‌ها از آند به کاتد",
+      "en": "`O2 + 4H+ + 4e- → 2H2O`; protons go from anode to cathode",
+      "tr": "`O2 + 4H+ + 4e- → 2H2O`; proton-ha az anod be katod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای مصرف `1` مول اکسیژن در سلول سوختی، چند مول هیدروژن و چند مول الکترون لازم است و چند مول آب ساخته می‌شود؟",
+      "en": "Exam twist: to use up `1` mol of oxygen in the fuel cell, how many moles of hydrogen and of electrons are needed, and how many moles of water are made?",
+      "tr": "Pich-e emtehani: baraye masraf-e `1` mol oksizhen dar sellool-e sookhti, chand mol hidrozhen va chand mol elektron lazem ast va chand mol ab sakhte mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: از الکترون‌ها شروع کن، چون باید در دو نیم‌واکنش برابر باشند. هر `O2` چهار الکترون می‌گیرد.",
+        "en": "The twist: start from the electrons, because they must balance between the two half-reactions. Each `O2` takes four electrons.",
+        "tr": "Pich-e emtehan: az elektron-ha shoru' kon, chon bayad dar do nim-vakonesh barabar bashand. Har `O2` chahar elektron migirad."
+       },
+       "math": "1 O2 → 4 e-"
+      },
+      {
+       "text": {
+        "fa": "هر `H2` دو الکترون می‌دهد، پس برای چهار الکترون دو `H2` لازم است؛ و معادلهٔ کلی دو مولکول آب می‌دهد.",
+        "en": "Each `H2` gives two electrons, so four electrons need two `H2`; and the overall equation gives two molecules of water.",
+        "tr": "Har `H2` do elektron midahad, pas baraye chahar elektron do `H2` lazem ast; va moadele-ye kolli do molekool ab midahad."
+       },
+       "math": "2 H2 + O2 → 2 H2O"
+      }
+     ],
+     "answer": {
+      "fa": "`2` مول هیدروژن، `4` مول الکترون، `2` مول آب",
+      "en": "`2` mol of hydrogen, `4` mol of electrons, `2` mol of water",
+      "tr": "`2` mol hidrozhen, `4` mol elektron, `2` mol ab"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در سلول سوختی هیدروژن در آند است و اکسیژن در کاتد، نه برعکس.",
+      "en": "In a fuel cell hydrogen is at the anode and oxygen at the cathode, not the other way round.",
+      "tr": "Dar sellool-e sookhti hidrozhen dar anod ast va oksizhen dar katod, na bar-aks."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سلول سوختی شارژ نمی‌شود و خالی نمی‌شود؛ تا وقتی سوخت برسد کار می‌کند. باتری مواد را درون خودش دارد.",
+      "en": "A fuel cell is not charged and does not go flat; it works as long as fuel arrives. A battery holds its chemicals inside.",
+      "tr": "Sellool-e sookhti sharzh nemishavad va khali nemishavad; ta vaghti sookht beresad kar mikonad. Batri mavad ra daroon-e khodash darad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 910
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 4,
+   "key": "chem-2-corrosion",
+   "title": {
+    "fa": "خوردگی آهن و حفاظت از آن",
+    "en": "Corrosion of iron and its protection",
+    "tr": "Khordegi-ye ahan va hefazat az an"
+   },
+   "summary": {
+    "fa": "یک سلول گالوانی ناخواسته روی هر تکه آهن مرطوب.",
+    "en": "An unwanted galvanic cell on every piece of damp iron.",
+    "tr": "Yek sellool-e galvani-ye nakhaste rooye har tekke ahan-e martoob."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سلولی که نمی‌خواستیم",
+      "en": "Understand first: a cell nobody wanted",
+      "tr": "Avval befahm: sellooli ke nemikhastim"
+     },
+     "body": {
+      "fa": "زنگ زدن آهن یک سلول گالوانی کوچک و ناخواسته است. زیر یک قطرهٔ آب، بخشی از آهن که اکسیژن کمتری به آن می‌رسد «آند» می‌شود و اکسید می‌شود (آزمون خرداد ۱۳۹۸): `Fe → Fe2+ + 2e-` (آزمون دی ۱۴۰۰). الکترون‌ها از درون آهن به لبهٔ قطره می‌روند، جایی که اکسیژن فراوان است؛ آنجا «ناحیهٔ کاتدی» است و اکسیژن همراه آب کاهش می‌یابد (آزمون‌های خرداد ۱۴۰۱ و دی ۱۳۹۹): `O2 + 2H2O + 4e- → 4OH-`.",
+      "en": "Rusting is a small, unwanted galvanic cell. Under a drop of water, the part of the iron that gets less oxygen becomes the \"anode\" and is oxidised (Khordad 1398 paper): `Fe → Fe2+ + 2e-` (Dey 1400 paper). The electrons travel through the iron to the edge of the drop, where oxygen is plentiful; that is the \"cathodic region\", where oxygen is reduced together with water (Khordad 1401 and Dey 1399 papers): `O2 + 2H2O + 4e- → 4OH-`.",
+      "tr": "Zang zadan-e ahan yek sellool-e galvani-ye koochak va nakhaste ast. Zir-e yek ghatre-ye ab, bakhshi az ahan ke oksizhen-e kamtari be an miresad \"anod\" mishavad va oksid mishavad (azmoon-e Khordad 1398): `Fe → Fe2+ + 2e-` (azmoon-e Dey 1400). Elektron-ha az daroon-e ahan be labe-ye ghatre miravand, jayi ke oksizhen faravan ast; anja \"nahiye-ye katodi\" ast va oksizhen hamrah-e ab kahesh miyabad (azmoon-haye Khordad 1401 va Dey 1399): `O2 + 2H2O + 4e- → 4OH-`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          water drop\n     .---------------------.\n    /  O2 rich  O2 poor  O2  \\\n   /  cathode   anode   rich  \\\n  /             rusts  cathode \\\n =========== iron ===============\n anode:   Fe -> Fe2+ + 2e-\n cathode: O2 + 2H2O + 4e- -> 4OH-",
+     "caption": {
+      "fa": "زیر قطره: وسطِ کم‌اکسیژن آند است و لبه‌های پراکسیژن کاتد.",
+      "en": "Under the drop: the oxygen-poor middle is the anode and the oxygen-rich edges are the cathode.",
+      "tr": "Zir-e ghatre: vasat-e kam-oksizhen anod ast va labe-haye por-oksizhen katod."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "زنگ و خوردگی گالوانی",
+      "en": "Rust and galvanic corrosion",
+      "tr": "Zang va khordegi-ye galvani"
+     },
+     "body": {
+      "fa": "یون‌های `Fe2+` با `OH-` ترکیب می‌شوند و پس از اکسایش بیشتر، زنگ قهوه‌ای آب‌دار با فرمول `Fe2O3·xH2O` ساخته می‌شود (آزمون دی ۱۴۰۰). زنگ متخلخل است و پوسته می‌شود، پس آهن زیرش را محافظت نمی‌کند. برای همین هم آب و هم اکسیژن لازم‌اند: آنها نیم‌واکنش کاتدی را پیش می‌برند و الکترون‌های آند را مصرف می‌کنند (آزمون خرداد ۱۴۰۱). اگر آهن به فلزی با `E°` بیشتر، مثل مس، وصل باشد، آهن آند می‌شود و خیلی سریع‌تر می‌خورد (آزمون خرداد ۱۴۰۱).",
+      "en": "The `Fe2+` ions combine with `OH-`, and after further oxidation the brown hydrated rust `Fe2O3·xH2O` forms (Dey 1400 paper). Rust is porous and flakes off, so it does not protect the iron beneath. That is why both water and oxygen are needed: they drive the cathodic half-reaction and use up the anode's electrons (Khordad 1401 paper). If iron is joined to a metal with a higher `E°`, such as copper, iron becomes the anode and corrodes much faster (Khordad 1401 paper).",
+      "tr": "Yoon-haye `Fe2+` ba `OH-` tarkib mishavand va pas az oksayesh-e bishtar, zang-e ghahve-i-ye ab-dar ba formool-e `Fe2O3·xH2O` sakhte mishavad (azmoon-e Dey 1400). Zang motakhalkhel ast va poste mishavad, pas ahan-e zirash ra mohafezat nemikonad. Baraye hamin ham ab va ham oksizhen lazem-and: an-ha nim-vakonesh-e katodi ra pish mibarand va elektron-haye anod ra masraf mikonand (azmoon-e Khordad 1401). Agar ahan be felezi ba `E°`-e bishtar, mesl-e mes, vasl bashad, ahan anod mishavad va kheyli sari'-tar mikhorad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آند فداشونده",
+      "en": "The sacrificial anode",
+      "tr": "Anod-e fada-shavande"
+     },
+     "body": {
+      "fa": "راه حفاظت، وارونه کردن همین نقش‌هاست. در «حفاظت کاتدی»، فلزی با `E°` کمتر از آهن، مثل منیزیم یا روی، را به لوله‌های زیرزمینی وصل می‌کنند (آزمون دی ۱۳۹۹). آن فلز آند می‌شود و به‌جای آهن خورده می‌شود؛ به آن «آند فداشونده» می‌گویند. آهن گالوانیزه (روکش روی) هم همین‌طور کار می‌کند، حتی اگر روکش خراش بردارد.",
+      "en": "The way to protect iron is to reverse these roles. In \"cathodic protection\", a metal with a lower `E°` than iron, such as magnesium or zinc, is connected to underground pipes (Dey 1399 paper). That metal becomes the anode and corrodes instead of the iron; it is called a \"sacrificial anode\". Galvanised iron (a zinc coating) works the same way, even if the coating is scratched.",
+      "tr": "Rah-e hefazat, varoone kardan-e hamin naghsh-hast. Dar \"hefazat-e katodi\", felezi ba `E°`-e kamtar az ahan, mesl-e menizium ya rooy, ra be loole-haye zir-e zamini vasl mikonand (azmoon-e Dey 1399). An felez anod mishavad va be-ja-ye ahan khorde mishavad; be an \"anod-e fada-shavande\" migooyand. Ahan-e galvanize (rooykesh-e rooy) ham hamin-towr kar mikonad, hatta agar rooykesh kharash bardarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ground\n ======= iron pipe =======\n            |  wire\n          [Mg]  sacrificial anode\n Mg -> Mg2+ + 2e-   (Mg corrodes)\n electrons flow into the iron:\n iron is the cathode, stays safe",
+     "caption": {
+      "fa": "منیزیم با `E°` کمتر خورده می‌شود و آهن کاتد می‌ماند.",
+      "en": "Magnesium, with the lower `E°`, corrodes and the iron stays as the cathode.",
+      "tr": "Menizium ba `E°`-e kamtar khorde mishavad va ahan katod mimanad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در زنگ زدن آهن، کدام ناحیه آند است؟ (آزمون خرداد ۱۳۹۸)",
+      "en": "Warm-up: when iron rusts, which region is the anode? (Khordad 1398 paper)",
+      "tr": "Garm kardan: dar zang zadan-e ahan, kodam nahiye anod ast? (azmoon-e Khordad 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کاتد به اکسیژن نیاز دارد، پس جایی که اکسیژن کم است فقط می‌تواند آند باشد.",
+        "en": "The cathode needs oxygen, so the place where oxygen is scarce can only be the anode.",
+        "tr": "Katod be oksizhen niyaz darad, pas jayi ke oksizhen kam ast faghat mitavanad anod bashad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ناحیهٔ کم‌اکسیژن آهن",
+      "en": "The low-oxygen region of the iron",
+      "tr": "Nahiye-ye kam-oksizhen-e ahan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نیم‌واکنش آندی خوردگی آهن را بنویس و بگو چرا آب و اکسیژن لازم‌اند. (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: write the anode half-reaction for the corrosion of iron and explain why water and oxygen are needed. (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nim-vakonesh-e anodi-ye khordegi-ye ahan ra benevis va begoo chera ab va oksizhen lazem-and. (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول: آهن الکترون می‌دهد و یون دوبار مثبت می‌شود.",
+        "en": "First half mark: iron gives up electrons and becomes a 2+ ion.",
+        "tr": "Nim-nomre-ye avval: ahan elektron midahad va yoon-e do-bar mosbat mishavad."
+       },
+       "math": "Fe(s) → Fe2+(aq) + 2e-"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم: الکترون‌ها باید جایی مصرف شوند، وگرنه اکسایش می‌ایستد. اکسیژن و آب در نیم‌واکنش کاتدی آن‌ها را مصرف می‌کنند.",
+        "en": "Second half mark: the electrons must be used somewhere, or the oxidation stops. Oxygen and water use them in the cathode half-reaction.",
+        "tr": "Nim-nomre-ye dovvom: elektron-ha bayad jayi masraf shavand, vagarna oksayesh miistad. Oksizhen va ab dar nim-vakonesh-e katodi an-ha ra masraf mikonand."
+       },
+       "math": "O2 + 2H2O + 4e- → 4OH-"
+      }
+     ],
+     "answer": {
+      "fa": "`Fe → Fe2+ + 2e-`؛ اکسیژن و آب الکترون‌ها را در کاتد مصرف می‌کنند",
+      "en": "`Fe → Fe2+ + 2e-`; oxygen and water use up the electrons at the cathode",
+      "tr": "`Fe → Fe2+ + 2e-`; oksizhen va ab elektron-ha ra dar katod masraf mikonand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک قوطی حلبی (آهن با روکش قلع) و یک ورق گالوانیزه (آهن با روکش روی) هر دو خراش برداشته‌اند. در کدام آهن سریع‌تر زنگ می‌زند؟ (`E°` قلع `−0.14`، آهن `−0.44`، روی `−0.76` ولت)",
+      "en": "Exam twist: a tin can (iron coated with tin) and a galvanised sheet (iron coated with zinc) are both scratched. In which does the iron rust faster? (`E°` tin `−0.14`, iron `−0.44`, zinc `−0.76` V)",
+      "tr": "Pich-e emtehani: yek ghooti-ye halabi (ahan ba rooykesh-e ghal') va yek varagh-e galvanize (ahan ba rooykesh-e rooy) har do kharash bardashte-and. Dar kodam ahan sari'-tar zang mizanad? (`E°`-e ghal' `−0.14`, ahan `−0.44`, rooy `−0.76` volt)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پس از خراش، دو فلز در تماس‌اند و یک سلول می‌سازند. فلز با `E°` کمتر آند می‌شود.",
+        "en": "The twist: after the scratch, two metals touch and make a cell. The metal with the lower `E°` becomes the anode.",
+        "tr": "Pich-e emtehan: pas az kharash, do felez dar tamas-and va yek sellool misazand. Felez ba `E°`-e kamtar anod mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "حلبی: آهن (`−0.44`) پایین‌تر از قلع است، پس آهن آند می‌شود و حتی سریع‌تر از آهن تنها می‌خورد. گالوانیزه: روی (`−0.76`) پایین‌تر از آهن است، پس روی فدا می‌شود و آهن سالم می‌ماند.",
+        "en": "Tin can: iron (`−0.44`) is below tin, so iron becomes the anode and corrodes even faster than bare iron. Galvanised: zinc (`−0.76`) is below iron, so zinc is sacrificed and the iron stays safe.",
+        "tr": "Halabi: ahan (`−0.44`) payin-tar az ghal' ast, pas ahan anod mishavad va hatta sari'-tar az ahan-e tanha mikhorad. Galvanize: rooy (`−0.76`) payin-tar az ahan ast, pas rooy fada mishavad va ahan salem mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در قوطی حلبی؛ روکش روی حتی پس از خراش از آهن محافظت می‌کند",
+      "en": "In the tin can; a zinc coating protects the iron even after it is scratched",
+      "tr": "Dar ghooti-ye halabi; rooykesh-e rooy hatta pas az kharash az ahan mohafezat mikonad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آند فداشونده باید `E°` «کمتر» از آهن داشته باشد (منیزیم، روی)؛ مس یا قلع با `E°` بیشتر، خوردگی آهن را سریع‌تر می‌کنند.",
+      "en": "A sacrificial anode must have a \"lower\" `E°` than iron (magnesium, zinc); copper or tin, with a higher `E°`, speed up iron's corrosion.",
+      "tr": "Anod-e fada-shavande bayad `E°`-e \"kamtar\" az ahan dashte bashad (menizium, rooy); mes ya ghal' ba `E°`-e bishtar, khordegi-ye ahan ra sari'-tar mikonand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در خوردگی، ناحیهٔ «کم‌اکسیژن» آند است و ناحیهٔ «پراکسیژن» کاتد؛ برعکس حدس اول بیشتر دانش‌آموزان.",
+      "en": "In corrosion the \"low-oxygen\" region is the anode and the \"oxygen-rich\" region the cathode; the opposite of most students' first guess.",
+      "tr": "Dar khordegi, nahiye-ye \"kam-oksizhen\" anod ast va nahiye-ye \"por-oksizhen\" katod; bar-aks-e hads-e avval-e bishtar-e danesh-amoozan."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 921
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1400-Dey",
+     "number": 922
+    },
+    {
+     "session": "1400-Dey",
+     "number": 936
+    },
+    {
+     "session": "1399-Dey",
+     "number": 935
+    },
+    {
+     "session": "1399-Dey",
+     "number": 938
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 901
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 5,
+   "key": "chem-2-electrolysis",
+   "title": {
+    "fa": "برقکافت و آبکاری",
+    "en": "Electrolysis and electroplating",
+    "tr": "Barghkaft va abkari"
+   },
+   "summary": {
+    "fa": "پمپی که آب را به بالا می‌فرستد: برق، واکنش ناخواسته را به پیش می‌راند.",
+    "en": "A pump pushing water uphill: electricity drives a reaction that would not go by itself.",
+    "tr": "Pompi ke ab ra be bala miferestad: barq, vakonesh-e nakhaste ra be pish mirand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: آبشار یا پمپ",
+      "en": "Understand first: a waterfall or a pump",
+      "tr": "Avval befahm: abshar ya pomp"
+     },
+     "body": {
+      "fa": "سلول گالوانی مثل آبشار است: واکنش خودبه‌خودی برق می‌سازد. «سلول الکترولیتی» مثل پمپ است: با برق یک منبع، واکنشی را که خودبه‌خودی نیست مجبور به انجام می‌کنیم؛ به این «برقکافت» می‌گویند. باز هم اکسایش در آند و کاهش در کاتد است، و الکترون‌ها در مدار بیرونی از آند به کاتد می‌روند (آزمون خرداد ۱۴۰۱)؛ ولی این بار آند به قطب مثبت منبع وصل است و کاتد به قطب منفی.",
+      "en": "A galvanic cell is like a waterfall: a spontaneous reaction makes electricity. An \"electrolytic cell\" is like a pump: using electricity from a supply, we force a reaction that is not spontaneous; this is \"electrolysis\". Oxidation is still at the anode and reduction at the cathode, and electrons still travel in the outer circuit from anode to cathode (Khordad 1401 paper); but this time the anode is connected to the positive terminal of the supply and the cathode to the negative.",
+      "tr": "Sellool-e galvani mesl-e abshar ast: vakonesh-e khod-be-khodi barq misazad. \"Sellool-e elektroliti\" mesl-e pomp ast: ba barq-e yek manba', vakoneshi ra ke khod-be-khodi nist majboor be anjam mikonim; be in \"barghkaft\" migooyand. Baz ham oksayesh dar anod va kahesh dar katod ast, va elektron-ha dar madar-e birooni az anod be katod miravand (azmoon-e Khordad 1401); vali in bar anod be ghotb-e mosbat-e manba' vasl ast va katod be ghotb-e manfi."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "            galvanic    electrolytic\n energy     makes       uses\n reaction   spontaneous forced\n anode      ox, (-)     ox, (+)\n cathode    red, (+)    red, (-)\n like       waterfall   water pump",
+     "caption": {
+      "fa": "در هر دو سلول آند جای اکسایش است، ولی علامت قطب‌ها برعکس می‌شود.",
+      "en": "In both cells the anode is where oxidation happens, but the signs of the poles are reversed.",
+      "tr": "Dar har do sellool anod ja-ye oksayesh ast, vali alamat-e ghotb-ha bar-aks mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "برقکافت آب و آبکاری",
+      "en": "Electrolysis of water and electroplating",
+      "tr": "Barghkaft-e ab va abkari"
+     },
+     "body": {
+      "fa": "در برقکافت آب، گاز هیدروژن در «کاتد» آزاد می‌شود (آزمون‌های دی ۱۴۰۱ و خرداد ۱۴۰۰)، چون کاتیون‌های هیدروژن به سمت کاتد می‌روند و کاهش می‌یابند. گاز اکسیژن در «آند» آزاد می‌شود (آزمون خرداد ۱۴۰۰). حجم هیدروژن دو برابر اکسیژن است: `2H2O → 2H2 + O2`. در «آبکاری»، جسمی که باید پوشانده شود کاتد است و فلز پوشش آند؛ مثلاً برای نقره‌کاری قاشق، نقره آند و قاشق کاتد است (آزمون دی ۱۳۹۹).",
+      "en": "In the electrolysis of water, hydrogen gas is released at the \"cathode\" (Dey 1401 and Khordad 1400 papers), because hydrogen cations move to the cathode and are reduced. Oxygen gas is released at the \"anode\" (Khordad 1400 paper). The volume of hydrogen is twice that of oxygen: `2H2O → 2H2 + O2`. In \"electroplating\", the object to be coated is the cathode and the coating metal the anode; for example, to silver-plate a spoon, silver is the anode and the spoon the cathode (Dey 1399 paper).",
+      "tr": "Dar barghkaft-e ab, gaz-e hidrozhen dar \"katod\" azad mishavad (azmoon-haye Dey 1401 va Khordad 1400), chon katiyon-haye hidrozhen be samt-e katod miravand va kahesh miyaband. Gaz-e oksizhen dar \"anod\" azad mishavad (azmoon-e Khordad 1400). Hajm-e hidrozhen do barabar-e oksizhen ast: `2H2O → 2H2 + O2`. Dar \"abkari\", jesmi ke bayad pooshande shavad katod ast va felez-e pooshesh anod; masalan baraye noghre-kari-ye ghashogh, noghre anod va ghashogh katod ast (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در برقکافت آب، گاز هیدروژن در کدام الکترود آزاد می‌شود؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: in the electrolysis of water, at which electrode is hydrogen gas released? (Dey 1401 paper)",
+      "tr": "Garm kardan: dar barghkaft-e ab, gaz-e hidrozhen dar kodam elektrod azad mishavad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ساختن `H2` از `H+` یعنی گرفتن الکترون، یعنی کاهش؛ و کاهش در کاتد است.",
+        "en": "Making `H2` from `H+` means gaining electrons, which is reduction; and reduction is at the cathode.",
+        "tr": "Sakhtan-e `H2` az `H+` ya'ni gereftan-e elektron, ya'ni kahesh; va kahesh dar katod ast."
+       },
+       "math": "2H+ + 2e- → H2"
+      }
+     ],
+     "answer": {
+      "fa": "کاتد",
+      "en": "The cathode",
+      "tr": "Katod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: برای نقره‌کاری یک قاشق فولادی، نقرهٔ خالص و قاشق به‌ترتیب کدام الکترودند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: to silver-plate a steel spoon, which electrodes are the pure silver and the spoon, respectively? (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: baraye noghre-kari-ye yek ghashogh-e fooladi, noghre-ye khales va ghashogh be-tartib kodam elektrod-and? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نقره باید روی قاشق بنشیند: `Ag+ + e- → Ag`، یعنی کاهش، پس قاشق کاتد است.",
+        "en": "Silver must settle on the spoon: `Ag+ + e- → Ag`, which is reduction, so the spoon is the cathode.",
+        "tr": "Noghre bayad rooye ghashogh beneshinad: `Ag+ + e- → Ag`, ya'ni kahesh, pas ghashogh katod ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "یون‌های نقرهٔ مصرف‌شده باید جایگزین شوند: نقرهٔ خالص اکسید و حل می‌شود، یعنی آند است.",
+        "en": "The silver ions used up must be replaced: the pure silver is oxidised and dissolves, so it is the anode.",
+        "tr": "Yoon-haye noghre-ye masraf-shode bayad jaygozin shavand: noghre-ye khales oksid va hal mishavad, ya'ni anod ast."
+       },
+       "math": "Ag → Ag+ + e-"
+      }
+     ],
+     "answer": {
+      "fa": "نقره آند، قاشق کاتد",
+      "en": "Silver is the anode, the spoon the cathode",
+      "tr": "Noghre anod, ghashogh katod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در برقکافت آب `40 mL` گاز در کاتد جمع شده است. در آند چند میلی‌لیتر گاز جمع شده و قطب آند مثبت است یا منفی؟",
+      "en": "Exam twist: in the electrolysis of water `40 mL` of gas has collected at the cathode. How many millilitres have collected at the anode, and is the anode positive or negative?",
+      "tr": "Pich-e emtehani: dar barghkaft-e ab `40 mL` gaz dar katod jam' shode ast. Dar anod chand mili-litr gaz jam' shode va ghotb-e anod mosbat ast ya manfi?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: گاز کاتد هیدروژن است و گاز آند اکسیژن. از معادله، به ازای هر دو مولکول هیدروژن یک مولکول اکسیژن ساخته می‌شود.",
+        "en": "Step one: the cathode gas is hydrogen and the anode gas oxygen. From the equation, one oxygen molecule forms for every two hydrogen molecules.",
+        "tr": "Ghadam-e avval: gaz-e katod hidrozhen ast va gaz-e anod oksizhen. Az moadele, be ezaye har do molekool hidrozhen yek molekool oksizhen sakhte mishavad."
+       },
+       "math": "2H2O → 2H2 + O2   ⟹   40 / 2 = 20 mL"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: این سلول الکترولیتی است، پس آند به قطب مثبت منبع وصل است؛ برعکس سلول گالوانی.",
+        "en": "Step two, the real twist: this is an electrolytic cell, so the anode is connected to the positive terminal; the opposite of a galvanic cell.",
+        "tr": "Ghadam-e dovvom, pich-e asli: in sellool-e elektroliti ast, pas anod be ghotb-e mosbat-e manba' vasl ast; bar-aks-e sellool-e galvani."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`20 mL` اکسیژن؛ آند مثبت است",
+      "en": "`20 mL` of oxygen; the anode is positive",
+      "tr": "`20 mL` oksizhen; anod mosbat ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آند همیشه جای اکسایش است، ولی علامتش عوض می‌شود: در سلول گالوانی منفی و در سلول الکترولیتی مثبت.",
+      "en": "The anode is always where oxidation happens, but its sign changes: negative in a galvanic cell, positive in an electrolytic cell.",
+      "tr": "Anod hamishe ja-ye oksayesh ast, vali alamatash avaz mishavad: dar sellool-e galvani manfi va dar sellool-e elektroliti mosbat."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در آبکاری جسم پوشانده‌شونده «کاتد» است، نه آند؛ فلز پوشش آند است.",
+      "en": "In electroplating the object being coated is the \"cathode\", not the anode; the coating metal is the anode.",
+      "tr": "Dar abkari jesm-e pooshande-shavande \"katod\" ast, na anod; felez-e pooshesh anod ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 917
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 923
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 906
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 937
+    },
+    {
+     "session": "1399-Dey",
+     "number": 916
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 2,
+   "unit": 6,
+   "key": "chem-2-downs-hall",
+   "title": {
+    "fa": "برقکافت صنعتی: فرایند داونز و فرایند هال",
+    "en": "Industrial electrolysis: the Downs and Hall processes",
+    "tr": "Barghkaft-e san'ati: farayand-e Downs va farayand-e Hall"
+   },
+   "summary": {
+    "fa": "فلزهای بسیار واکنش‌پذیر را فقط با برق می‌شود از نمکشان بیرون کشید.",
+    "en": "Very reactive metals can only be pulled out of their salts with electricity.",
+    "tr": "Felez-haye besiyar vakonesh-pazir ra faghat ba barq mishavad az namakeshan biroon keshid."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سلول داونز",
+      "en": "Understand first: the Downs cell",
+      "tr": "Avval befahm: sellool-e Downs"
+     },
+     "body": {
+      "fa": "سدیم و آلومینیم آن‌قدر تمایل به اکسایش دارند (`E°` بسیار پایین) که هیچ کاهندهٔ ارزانی آن‌ها را از ترکیبشان جدا نمی‌کند؛ فقط برقکافت مذاب. در «سلول داونز» سدیم کلرید مذاب برقکافت می‌شود. برای پایین آوردن دمای ذوب، کلسیم کلرید (`CaCl2`) اضافه می‌کنند (آزمون دی ۱۴۰۱). در کاتد سدیم مایع ساخته می‌شود (آزمون‌های خرداد ۱۴۰۰ و دی ۱۳۹۹): `Na+ + e- → Na(l)`؛ در آند گاز سمی کلر آزاد می‌شود (آزمون‌های خرداد ۱۴۰۰ و دی ۱۴۰۰): `2Cl- → Cl2 + 2e-`. یک توری آهنی بین الکترودها نمی‌گذارد سدیم و کلر دوباره با هم واکنش دهند (آزمون دی ۱۳۹۹).",
+      "en": "Sodium and aluminium are so eager to be oxidised (very low `E°`) that no cheap reducing agent can free them from their compounds; only electrolysis of the melt can. In the \"Downs cell\", molten sodium chloride is electrolysed. Calcium chloride (`CaCl2`) is added to lower the melting point (Dey 1401 paper). Liquid sodium forms at the cathode (Khordad 1400 and Dey 1399 papers): `Na+ + e- → Na(l)`; toxic chlorine gas is released at the anode (Khordad 1400 and Dey 1400 papers): `2Cl- → Cl2 + 2e-`. An iron screen between the electrodes stops the sodium and chlorine reacting together again (Dey 1399 paper).",
+      "tr": "Sodiyom va aluminiyom an-ghadr tamayol be oksayesh darand (`E°`-e besiyar payin) ke hich kahande-ye arzani an-ha ra az tarkibeshan joda nemikonad; faghat barghkaft-e mozab. Dar \"sellool-e Downs\" sodiyom kolorid-e mozab barghkaft mishavad. Baraye payin avardan-e dama-ye zob, kalsiyom kolorid (`CaCl2`) ezafe mikonand (azmoon-e Dey 1401). Dar katod sodiyom-e maye' sakhte mishavad (azmoon-haye Khordad 1400 va Dey 1399): `Na+ + e- → Na(l)`; dar anod gaz-e sammi-ye kolor azad mishavad (azmoon-haye Khordad 1400 va Dey 1400): `2Cl- → Cl2 + 2e-`. Yek toori-ye ahani beyn-e elektrod-ha nemigozarad sodiyom va kolor dobare ba ham vakonesh dahand (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " Downs cell: molten NaCl + CaCl2\n anode (C):    2Cl- -> Cl2 + 2e-\n cathode (Fe): Na+ + e- -> Na(l)\n iron screen keeps Na and Cl2 apart",
+     "caption": {
+      "fa": "سلول داونز: کلر در آند، سدیم مایع در کاتد، و توری آهنی میان آن‌ها.",
+      "en": "The Downs cell: chlorine at the anode, liquid sodium at the cathode, and an iron screen between them.",
+      "tr": "Sellool-e Downs: kolor dar anod, sodiyom-e maye' dar katod, va toori-ye ahani miyan-e an-ha."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فرایند هال",
+      "en": "The Hall process",
+      "tr": "Farayand-e Hall"
+     },
+     "body": {
+      "fa": "در «فرایند هال» آلومینیم از آلومینا (`Al2O3`) به‌دست می‌آید. آلومینا دمای ذوب بسیار بالایی دارد، پس آن را در کرایولیت مذاب (`Na3AlF6`) حل می‌کنند تا دما پایین بیاید (آزمون دی ۱۴۰۰). کاتد، پوشش کربنی (گرافیتی) دیوارهٔ سلول است (آزمون دی ۱۳۹۹) و آلومینیم مذاب روی آن کاهش می‌یابد و جمع می‌شود (آزمون دی ۱۳۹۹). در آندهای گرافیتی، اکسیژن آزادشده با کربن واکنش می‌دهد و کربن دی‌اکسید می‌سازد (آزمون‌های دی ۱۴۰۱ و دی ۱۳۹۹)؛ پس آندها کم‌کم مصرف می‌شوند و باید عوض شوند (آزمون دی ۱۳۹۹).",
+      "en": "In the \"Hall process\", aluminium is obtained from alumina (`Al2O3`). Alumina has a very high melting point, so it is dissolved in molten cryolite (`Na3AlF6`) to bring the temperature down (Dey 1400 paper). The cathode is the carbon (graphite) lining of the cell (Dey 1399 paper), and molten aluminium is reduced and collects on it (Dey 1399 paper). At the graphite anodes, the oxygen released reacts with the carbon to form carbon dioxide (Dey 1401 and Dey 1399 papers); so the anodes are gradually used up and must be replaced (Dey 1399 paper).",
+      "tr": "Dar \"farayand-e Hall\" aluminiyom az alumina (`Al2O3`) be-dast miayad. Alumina dama-ye zob-e besiyar balayi darad, pas an ra dar kerayolit-e mozab (`Na3AlF6`) hal mikonand ta dama payin biyayad (azmoon-e Dey 1400). Katod, pooshesh-e karboni (gerafiti)-ye divare-ye sellool ast (azmoon-e Dey 1399) va aluminiyom-e mozab rooye an kahesh miyabad va jam' mishavad (azmoon-e Dey 1399). Dar anod-haye gerafiti, oksizhen-e azad-shode ba karbon vakonesh midahad va karbon di-oksid misazad (azmoon-haye Dey 1401 va Dey 1399); pas anod-ha kam-kam masraf mishavand va bayad avaz shavand (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " Hall cell: Al2O3 in molten\n            cryolite (Na3AlF6)\n cathode (C): Al3+ + 3e- -> Al(l)\n anodes (graphite): oxygen + C\n          -> CO2 (anodes burn away)\n overall: 2Al2O3 + 3C -> 4Al + 3CO2",
+     "caption": {
+      "fa": "فرایند هال: آلومینیم روی کاتد کربنی، و آندهای گرافیتی که با اکسیژن می‌سوزند.",
+      "en": "The Hall process: aluminium on the carbon cathode, and graphite anodes that burn away with oxygen.",
+      "tr": "Farayand-e Hall: aluminiyom rooye katod-e karboni, va anod-haye gerafiti ke ba oksizhen misoozand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در فرایند هال، کدام ترکیب مذاب دمای ذوب آلومینا را پایین می‌آورد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: in the Hall process, which molten compound lowers the melting point of alumina? (Dey 1400 paper)",
+      "tr": "Garm kardan: dar farayand-e Hall, kodam tarkib-e mozab dama-ye zob-e alumina ra payin miavarad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر دو فرایند یک «کمک‌ذوب» دارند: داونز کلسیم کلرید و هال کرایولیت. آن‌ها را جابه‌جا نکن.",
+        "en": "Both processes use a \"flux\" to lower the melting point: Downs uses calcium chloride and Hall uses cryolite. Do not swap them.",
+        "tr": "Har do farayand yek \"komak-zob\" darand: Downs kalsiyom kolorid va Hall kerayolit. An-ha ra jabeja nakon."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کرایولیت (`Na3AlF6`)",
+      "en": "Cryolite (`Na3AlF6`)",
+      "tr": "Kerayolit (`Na3AlF6`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در سلول داونز، نیم‌واکنش‌های آند و کاتد را بنویس و نقش توری آهنی را بگو. (آزمون‌های دی ۱۴۰۰، خرداد ۱۴۰۰ و دی ۱۳۹۹)",
+      "en": "Textbook and exam: in the Downs cell, write the anode and cathode half-reactions and state the role of the iron screen. (Dey 1400, Khordad 1400 and Dey 1399 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar sellool-e Downs, nim-vakonesh-haye anod va katod ra benevis va naghsh-e toori-ye ahani ra begoo. (azmoon-haye Dey 1400, Khordad 1400 va Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آند جای اکسایش است: یون‌های کلرید الکترون می‌دهند و گاز کلر می‌سازند.",
+        "en": "The anode is where oxidation happens: chloride ions give up electrons and form chlorine gas.",
+        "tr": "Anod ja-ye oksayesh ast: yoon-haye kolorid elektron midahand va gaz-e kolor misazand."
+       },
+       "math": "2Cl-(l) → Cl2(g) + 2e-"
+      },
+      {
+       "text": {
+        "fa": "کاتد جای کاهش است: یون‌های سدیم الکترون می‌گیرند و سدیم مایع می‌شوند.",
+        "en": "The cathode is where reduction happens: sodium ions gain electrons and become liquid sodium.",
+        "tr": "Katod ja-ye kahesh ast: yoon-haye sodiyom elektron migirand va sodiyom-e maye' mishavand."
+       },
+       "math": "Na+(l) + e- → Na(l)"
+      },
+      {
+       "text": {
+        "fa": "سدیم و کلر با شدت با هم واکنش می‌دهند و دوباره نمک می‌سازند؛ توری آهنی آن‌ها را جدا نگه می‌دارد.",
+        "en": "Sodium and chlorine react violently and would remake salt; the iron screen keeps them apart.",
+        "tr": "Sodiyom va kolor ba shedat ba ham vakonesh midahand va dobare namak misazand; toori-ye ahani an-ha ra joda negah midarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آند: `2Cl- → Cl2 + 2e-`؛ کاتد: `Na+ + e- → Na`؛ توری: جدا نگه‌داشتن سدیم و کلر",
+      "en": "Anode: `2Cl- → Cl2 + 2e-`; cathode: `Na+ + e- → Na`; screen: keeps sodium and chlorine apart",
+      "tr": "Anod: `2Cl- → Cl2 + 2e-`; katod: `Na+ + e- → Na`; toori: joda negah-dashtan-e sodiyom va kolor"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای ساختن `54` گرم آلومینیم در فرایند هال، چند گرم از آند کربنی مصرف می‌شود؟ (`Al = 27`، `C = 12`)",
+      "en": "Exam twist: to make `54` g of aluminium in the Hall process, how many grams of the carbon anode are used up? (`Al = 27`, `C = 12`)",
+      "tr": "Pich-e emtehani: baraye sakhtan-e `54` geram aluminiyom dar farayand-e Hall, chand geram az anod-e karboni masraf mishavad? (`Al = 27`, `C = 12`)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: آند فقط الکترود نیست؛ واکنش‌دهنده است. نسبت را از معادلهٔ کلی بخوان.",
+        "en": "The twist: the anode is not just an electrode; it is a reactant. Read the ratio from the overall equation.",
+        "tr": "Pich-e emtehan: anod faghat elektrod nist; vakonesh-dahande ast. Nesbat ra az moadele-ye kolli bekhan."
+       },
+       "math": "2Al2O3 + 3C → 4Al + 3CO2   ⟹   4 Al : 3 C"
+      },
+      {
+       "text": {
+        "fa": "جرم آلومینیم را به مول تبدیل کن و با نسبت به مول کربن برس.",
+        "en": "Turn the aluminium's mass into moles and use the ratio to get the moles of carbon.",
+        "tr": "Jerm-e aluminiyom ra be mol tabdil kon va ba nesbat be mol-e karbon beres."
+       },
+       "math": "54 / 27 = 2 mol Al   →   2 × 3/4 = 1.5 mol C"
+      },
+      {
+       "text": {
+        "fa": "به گرم برگردان.",
+        "en": "Convert back to grams.",
+        "tr": "Be geram bargardan."
+       },
+       "math": "1.5 × 12 = 18 g"
+      }
+     ],
+     "answer": {
+      "fa": "`18` گرم کربن",
+      "en": "`18` g of carbon",
+      "tr": "`18` geram karbon"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در فرایند هال آلومینیم روی «کاتد» (پوشش کربنی) جمع می‌شود و آندهای گرافیتی مصرف می‌شوند؛ برعکس ننویس (آزمون دی ۱۳۹۹).",
+      "en": "In the Hall process aluminium collects on the \"cathode\" (the carbon lining) and the graphite anodes are used up; do not reverse them (Dey 1399 paper).",
+      "tr": "Dar farayand-e Hall aluminiyom rooye \"katod\" (pooshesh-e karboni) jam' mishavad va anod-haye gerafiti masraf mishavand; bar-aks nanevis (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کمک‌ذوب داونز کلسیم کلرید است و کمک‌ذوب هال کرایولیت.",
+      "en": "The Downs flux is calcium chloride and the Hall flux is cryolite.",
+      "tr": "Komak-zob-e Downs kalsiyom kolorid ast va komak-zob-e Hall kerayolit."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 926
+    },
+    {
+     "session": "1401-Dey",
+     "number": 932
+    },
+    {
+     "session": "1400-Dey",
+     "number": 924
+    },
+    {
+     "session": "1400-Dey",
+     "number": 943
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 914
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1399-Dey",
+     "number": 912
+    },
+    {
+     "session": "1399-Dey",
+     "number": 930
+    },
+    {
+     "session": "1399-Dey",
+     "number": 933
+    },
+    {
+     "session": "1399-Dey",
+     "number": 941
+    },
+    {
+     "session": "1399-Dey",
+     "number": 944
+    },
+    {
+     "session": "1399-Dey",
+     "number": 945
+    }
+   ]
+  }
+ ]
+}
