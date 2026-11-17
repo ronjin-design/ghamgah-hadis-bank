@@ -1,0 +1,855 @@
+{
+ "version": 155,
+ "format": 10,
+ "lessons": [
+  {
+   "subject": "Arabic",
+   "chapter": 2,
+   "unit": 1,
+   "key": "ar-2-saying-verbs",
+   "title": {
+    "fa": "فعل‌ها در حکمت‌ها: زمان و حالت",
+    "en": "Verbs in the sayings: tense and mood",
+    "tr": "Fe'l-ha dar hekmat-ha: zaman va halat"
+   },
+   "summary": {
+    "fa": "آخر فعل و کلمهٔ پیش از آن، زمان و حالت فعل را لو می‌دهند.",
+    "en": "The end of the verb and the word before it give away its tense and mood.",
+    "tr": "Akhar-e fe'l va kalame-ye pish az an, zaman va halat-e fe'l ra loo midahand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چهره و کفش",
+      "en": "Understand first: the face and the shoes",
+      "tr": "Avval befahm: chehre va kafsh"
+     },
+     "body": {
+      "fa": "برای ترجمهٔ درست فعل در حکمت‌ها، به دو جا نگاه کن، مثل کارآگاهی که هم چهره را می‌بیند هم کفش را. اول خود فعل: ماضی («نَفَعَ»، «زَرَعَ»: سود رساند، کاشت) یا مضارع («یَفْنَى»: نابود می‌شود). دوم کلمهٔ پیش از آن: «لا»ی پیش از مضارع منفی می‌کند («لا یَنْفَدُ»: تمام نمی‌شود)؛ «مَنْ» پیش از فعل ماضی یعنی «هر کس که» («خَیرُ النّاسِ مَن نَفَعَ النّاسَ»: بهترین مردم کسی است که به مردم سود برساند)؛ و فعل امر فرمان می‌دهد («جالِسْ»: همنشینی کن).",
+      "en": "To translate a verb in the sayings correctly, look in two places, like a detective who checks both the face and the shoes. First the verb itself: past (\"nafa'a\", \"zara'a\": he benefited, he sowed) or present (\"yafna\": it perishes). Second the word before it: a \"la\" before a present verb negates it (\"la yanfadu\": it does not run out); a \"man\" before a past verb means \"whoever does\" (\"khayru-n-nasi man nafa'a-n-nas\": the best of people is whoever benefits people); and an imperative gives a command (\"jalis\": keep company with).",
+      "tr": "Baraye tarjome-ye dorost-e fe'l dar hekmat-ha, be do ja negah kon, mesl-e karagahi ke ham chehre ra mibinad ham kafsh ra. Avval khod-e fe'l: mazi (\"nafa'a\", \"zara'a\": sood resand, kasht) ya mozare' (\"yafna\": nabood mishavad). Dovvom kalame-ye pish az an: \"la\"-ye pish az mozare' manfi mikonad (\"la yanfado\": tamam nemishavad); \"man\" pish az fe'l-e mazi ya'ni \"har kas ke\" (\"khayro-n-nasi man nafa'a-n-nas\": behtarin-e mardom kasi ast ke be mardom sood beresanad); va fe'l-e amr farman midahad (\"jales\": hamneshini kon)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " clue before the verb    meaning\n ---------------------   ----------\n (none) + past           did\n la + present            does not\n man (who) + past        whoever...\n imperative              do!\n imperative ... + verb   (then) you\n   (jussive, no -u)        will ...\n   khudh..ta'ish          take..live",
+     "caption": {
+      "fa": "کلمهٔ پیش از فعل و حرکت آخر آن، ترجمه را تعیین می‌کنند.",
+      "en": "The word before the verb and its final vowel decide the translation.",
+      "tr": "Kalame-ye pish az fe'l va harekat-e akhar-e an, tarjome ra ta'yin mikonand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جواب امر",
+      "en": "The answer to a command",
+      "tr": "Javab-e amr"
+     },
+     "body": {
+      "fa": "یک نکتهٔ امتحانی: وقتی پس از فعل امر، فعل مضارعِ بی‌ضمه می‌آید، آن فعل «جواب امر» است و نتیجهٔ کار را می‌گوید: «خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً» یعنی «از دنیا قناعت را بگیر تا پادشاهانه زندگی کنی». «تَعِشْ» (بی‌ضمه) همین جواب است.",
+      "en": "An exam point: when a present verb with no final -u follows an imperative, it is the \"answer to the command\" and gives the result: \"khudhi-l-qana'ata mina-d-dunya ta'ish malikan\" means \"take contentment from the world and you will live like a king\". \"Ta'ish\" (with no -u) is that answer.",
+      "tr": "Yek nokte-ye emtehani: vaghti pas az fe'l-e amr, fe'l-e mozare'-e bi-zamme miayad, an fe'l \"javab-e amr\" ast va natije-ye kar ra miguyad: \"khozi-l-ghana'ata mena-d-donya ta'esh malekan\" ya'ni \"az donya ghena'at ra begir ta padeshahane zendegi koni\". \"Ta'esh\" (bi-zamme) hamin javab ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "la + present = does not ;  man + past = whoever does ;  imperative + jussive = do ... and you will",
+     "caption": {
+      "fa": "سه سرنخ برای ترجمهٔ فعل",
+      "en": "Three clues for translating a verb",
+      "tr": "Se sarnakh baraye tarjome-ye fe'l"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «لَا یَنْفَدُ» در «الْقَنَاعَةُ مَالٌ لَا یَنْفَدُ.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what does \"la yanfadu\" mean in \"al-qana'atu malun la yanfadu\"? (Dey 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"la yanfado\" dar \"al-ghana'ato malon la yanfado\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«لا» پیش از مضارع: نفی ساده. «یَنْفَدُ» یعنی تمام می‌شود.",
+        "en": "\"La\" before a present verb: plain negation. \"Yanfadu\" means it runs out.",
+        "tr": "\"La\" pish az mozare': nafy-e sade. \"Yanfado\" ya'ni tamam mishavad."
+       },
+       "math": "la + yanfadu  ->  does not run out"
+      }
+     ],
+     "answer": {
+      "fa": "تمام نمی‌شود",
+      "en": "It does not run out",
+      "tr": "Tamam nemishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «تَعِشْ» در «خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"ta'ish\" mean in \"khudhi-l-qana'ata mina-d-dunya ta'ish malikan\"? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"ta'esh\" dar \"khozi-l-ghana'ata mena-d-donya ta'esh malekan\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیش از آن فعل امر «خُذْ» آمده و «تَعِشْ» ضمه ندارد: جواب امر.",
+        "en": "An imperative \"khudh\" comes before it and \"ta'ish\" has no -u: the answer to the command.",
+        "tr": "Pish az an fe'l-e amr \"khoz\" amade va \"ta'esh\" zamme nadarad: javab-e amr."
+       }
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ «ع ی ش» یعنی زندگی کردن؛ پس «(تا) زندگی کنی».",
+        "en": "The root \"'-y-sh\" means living; so \"(and) you will live\".",
+        "tr": "Rishe-ye \"'-y-sh\" ya'ni zendegi kardan; pas \"(ta) zendegi koni\"."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "زندگی می‌کنی (تا زندگی کنی)",
+      "en": "You will live",
+      "tr": "Zendegi mikoni (ta zendegi koni)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «فَیَضُرَّکَ» در «إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ.» چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: what does \"fa-yadurraka\" mean in \"iyyaka wa musadaqata-l-ahmaqi fa-innahu yuridu an yanfa'aka fa-yadurraka\"? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"fa-yazorraka\" dar \"iyyaka va mosadaghata-l-ahmaghi fa-ennaho yorido an yanfa'aka fa-yazorraka\" chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «یَضُرَّ» فتحه گرفته، نه ضمه؛ چون پشت «أَنْ یَنْفَعَکَ» آمده و با «فَـ» به آن پیوسته.",
+        "en": "The twist: \"yadurra\" takes -a, not -u, because it follows \"an yanfa'aka\" and is joined to it with \"fa\".",
+        "tr": "Pich-e emtehan: \"yazorra\" fathe gerefte, na zamme; chon posht-e \"an yanfa'aka\" amade va ba \"fa\" be an peyvaste."
+       }
+      },
+      {
+       "text": {
+        "fa": "معنا: احمق می‌خواهد به تو سود برساند، «پس به تو زیان می‌رساند». «کَ» یعنی «تو را/به تو».",
+        "en": "Meaning: the fool wants to help you \"and so he harms you\". \"-ka\" means \"you\".",
+        "tr": "Ma'na: ahmagh mikhahad be to sood beresanad, \"pas be to ziyan miresanad\". \"-ka\" ya'ni \"to ra/be to\"."
+       },
+       "math": "fa + yadurr-a + ka  ->  and so harms you"
+      }
+     ],
+     "answer": {
+      "fa": "پس به تو زیان می‌رساند",
+      "en": "And so he harms you",
+      "tr": "Pas be to ziyan miresanad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ضمیر چسبیده به فعل را در ترجمه جا نینداز: «وَعَظَتْهُ» یعنی «او را پند داد»، نه فقط «پند داد».",
+      "en": "Do not drop the pronoun attached to the verb: \"wa'azathu\" means \"taught him a lesson\", not just \"taught a lesson\".",
+      "tr": "Zamir-e chasbide be fe'l ra dar tarjome ja nayandaz: \"va'azat-ho\" ya'ni \"oo ra pand dad\", na faghat \"pand dad\"."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فعل ماضی پس از «مَنْ» را همیشه گذشته ترجمه نکن: «مَن نَفَعَ النّاسَ» یعنی «کسی که به مردم سود برساند».",
+      "en": "Do not always translate a past verb after \"man\" as past: \"man nafa'a-n-nas\" means \"whoever benefits people\".",
+      "tr": "Fe'l-e mazi pas az \"man\" ra hamishe gozashte tarjome nakon: \"man nafa'a-n-nas\" ya'ni \"kasi ke be mardom sood beresanad\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 974
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 975
+    },
+    {
+     "session": "1400-Dey",
+     "number": 973
+    },
+    {
+     "session": "1400-Dey",
+     "number": 969
+    },
+    {
+     "session": "1400-Dey",
+     "number": 971
+    },
+    {
+     "session": "1400-Dey",
+     "number": 972
+    },
+    {
+     "session": "1401-Dey",
+     "number": 951
+    },
+    {
+     "session": "1401-Dey",
+     "number": 961
+    },
+    {
+     "session": "1401-Dey",
+     "number": 963
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1402-Dey",
+     "number": 955
+    },
+    {
+     "session": "1402-Dey",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 2,
+   "unit": 2,
+   "key": "ar-2-virtues-vices",
+   "title": {
+    "fa": "واژه‌های خوبی و بدی در حکمت‌ها",
+    "en": "Words of virtue and vice in the sayings",
+    "tr": "Vazhe-haye khoobi va badi dar hekmat-ha"
+   },
+   "summary": {
+    "fa": "حکمت‌ها اغلب دو کفهٔ ترازو دارند: عاقل در برابر جاهل، غنا در برابر فقر.",
+    "en": "The sayings often have two pans of a scale: the wise against the ignorant, wealth against poverty.",
+    "tr": "Hekmat-ha aghlab do kaffe-ye tarazoo darand: aghel dar barabar-e jahel, ghena dar barabar-e faghr."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو کفهٔ ترازو",
+      "en": "Understand first: two pans of a scale",
+      "tr": "Avval befahm: do kaffe-ye tarazoo"
+     },
+     "body": {
+      "fa": "بیشتر حکمت‌ها مثل ترازو ساخته شده‌اند: یک کفه خوبی، یک کفه بدی. «الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ»: جاهل به آرزویش تکیه می‌کند و عاقل به کارش. اگر یک کفه را بشناسی، کفهٔ دیگر را حدس می‌زنی: «أَمَل» در برابر «عَمَل»، «الْغِنَى» در برابر «الْفَقْر»، «عَداوَة» در برابر «صَداقَة». این تقابل بهترین سرنخ معنای واژهٔ ناآشناست.",
+      "en": "Most sayings are built like a scale: one pan good, one pan bad. \"Al-jahilu ya'tamidu 'ala amalihi, wa-l-'aqilu ya'tamidu 'ala 'amalihi\": the ignorant rely on their hopes and the wise on their work. If you know one pan you can guess the other: \"amal\" (hope) against \"'amal\" (work), \"al-ghina\" (wealth) against \"al-faqr\" (poverty), \"'adawa\" (enmity) against \"sadaqa\" (friendship). This contrast is the best clue to an unfamiliar word.",
+      "tr": "Bishtar-e hekmat-ha mesl-e tarazoo sakhte shode-and: yek kaffe khoobi, yek kaffe badi. \"Al-jahelo ya'tamedo 'ala amaleh, va-l-'aghelo ya'tamedo 'ala 'amaleh\": jahel be arezooyash tekye mikonad va aghel be karash. Agar yek kaffe ra beshenasi, kaffe-ye digar ra hads mizani: \"amal\" dar barabar-e \"'amal\", \"al-ghena\" dar barabar-e \"al-faghr\", \"'adava\" dar barabar-e \"sadagha\". In taghabol behtarin sarnakh-e ma'na-ye vazhe-ye na-ashnast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  GOOD pan            BAD pan\n  ---------------     --------------\n  al-'aqil (wise)  vs al-jahil\n  'amal  (work)    vs amal  (hope)\n  al-ghina (rich)  vs al-faqr (poor)\n  sadaqa (friend)  vs 'adawa (enemy)\n  al-'afw (pardon)\n  al-hilm (patience)  al-hawa (whim)\n  al-qana'a           al-mihan\n     (contentment)       (troubles)",
+     "caption": {
+      "fa": "واژه‌ها را در دو کفه بچین؛ کفهٔ مقابل معنای واژهٔ ناآشنا را نشان می‌دهد.",
+      "en": "Sort the words into two pans; the opposite pan shows the unfamiliar word's meaning.",
+      "tr": "Vazhe-ha ra dar do kaffe bechin; kaffe-ye moghabel ma'na-ye vazhe-ye na-ashna ra neshan midahad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "حکمت‌های تعریفی",
+      "en": "Defining sayings",
+      "tr": "Hekmat-haye ta'rifi"
+     },
+     "body": {
+      "fa": "حکمت‌های تعریفی هم هستند که یک واژه را با واژهٔ دیگری معنا می‌کنند: «الْهَوَى أُسُّ الْمِحَنِ» (هوای نفس، پایهٔ گرفتاری‌هاست)، «الْحِلْمُ غِطَاءٌ سَاتِرٌ» (بردباری، پوششی پوشاننده است). اینجا هم جهت معنا (خوب یا بد) را از تصویر جمله بگیر: «پوشش» برای چیزی خوب، «پایهٔ رنج‌ها» برای چیزی بد.",
+      "en": "There are also defining sayings that explain one word with another: \"al-hawa ussu-l-mihan\" (whim is the root of troubles), \"al-hilmu ghita'un satir\" (patience is a covering veil). Here too, take the direction (good or bad) from the picture: a \"covering\" for something good, \"the root of troubles\" for something bad.",
+      "tr": "Hekmat-haye ta'rifi ham hastand ke yek vazhe ra ba vazhe-ye digari ma'na mikonand: \"al-hava osso-l-mehan\" (hava-ye nafs, paye-ye gereftari-hast), \"al-helmo ghetaon satir\" (bordbari, pooshesh-i pooshanande ast). Inja ham jahat-e ma'na (khoob ya bad) ra az tasvir-e jomle begir: \"pooshesh\" baraye chizi khoob, \"paye-ye ranj-ha\" baraye chizi bad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "word A  vs  word B   ->   know one pan, find the other",
+     "caption": {
+      "fa": "تقابل دو کفه، کلید معنا",
+      "en": "The contrast of the two pans is the key to meaning",
+      "tr": "Taghabol-e do kaffe, kelid-e ma'na"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «أَمَل» در «الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what does \"amal\" mean in \"al-jahilu ya'tamidu 'ala amalihi, wa-l-'aqilu ya'tamidu 'ala 'amalihi\"? (Dey 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"amal\" dar \"al-jahelo ya'tamedo 'ala amaleh, va-l-'aghelo ya'tamedo 'ala 'amaleh\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کفهٔ مقابل «عَمَل» (کار) است و جاهل در برابر عاقل؛ پس «أَمَل» چیزی است که جاهل به جای کار به آن تکیه می‌کند: آرزو.",
+        "en": "The opposite pan is \"'amal\" (work), and the ignorant against the wise; so \"amal\" is what the ignorant lean on instead of work: hope, wishful thinking.",
+        "tr": "Kaffe-ye moghabel \"'amal\" (kar) ast va jahel dar barabar-e aghel; pas \"amal\" chizi ast ke jahel be ja-ye kar be an tekye mikonad: arezoo."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آرزو",
+      "en": "Hope, wish",
+      "tr": "Arezoo"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «عَداوَة» در «عَداوَةُ العاقِلِ خَیرٌ مِن صَداقَةِ الجاهِلِ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"'adawa\" mean in \"'adawatu-l-'aqili khayrun min sadaqati-l-jahil\"? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"'adava\" dar \"'adavato-l-'agheli kheyron men sadaghati-l-jahel\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو کفه: «عَداوَةُ العاقِل» و «صَداقَةُ الجاهِل». «صَداقَة» یعنی دوستی؛ پس کفهٔ مقابل «دشمنی» است.",
+        "en": "Two pans: \"'adawatu-l-'aqil\" and \"sadaqatu-l-jahil\". \"Sadaqa\" means friendship; so the opposite pan is \"enmity\".",
+        "tr": "Do kaffe: \"'adavato-l-'aghel\" va \"sadaghato-l-jahel\". \"Sadagha\" ya'ni doosti; pas kaffe-ye moghabel \"doshmani\" ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "معنای کل: دشمنی دانا بهتر از دوستی نادان است.",
+        "en": "The whole meaning: a wise man's enmity is better than a fool's friendship.",
+        "tr": "Ma'na-ye kol: doshmani-ye dana behtar az doosti-ye nadan ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دشمنی",
+      "en": "Enmity",
+      "tr": "Doshmani"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در «الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ.» معنای «الْغِنَى» و «الْغُرْبَة» چیست؟ (آزمون‌های دی ۱۴۰۱ و خرداد ۱۴۰۲)",
+      "en": "Exam twist: in \"al-ghina fi-l-ghurbati watanun, wa-l-faqru fi-l-watani ghurbatun\", what do \"al-ghina\" and \"al-ghurba\" mean? (Dey 1401 and Khordad 1402 papers)",
+      "tr": "Pich-e emtehani: dar \"al-ghena fi-l-ghorbati vatanon, va-l-faghro fi-l-vatani ghorbaton\" ma'na-ye \"al-ghena\" va \"al-ghorba\" chist? (azmoon-haye Dey 1401 va Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو تقابل در هم بافته شده: «الْغِنَى/الْفَقْر» و «الْغُرْبَة/الْوَطَن».",
+        "en": "The twist: two contrasts are woven together: \"al-ghina/al-faqr\" and \"al-ghurba/al-watan\".",
+        "tr": "Pich-e emtehan: do taghabol dar ham bafte shode: \"al-ghena/al-faghr\" va \"al-ghorba/al-vatan\"."
+       }
+      },
+      {
+       "text": {
+        "fa": "«الْفَقْر» تهیدستی است، پس «الْغِنَى» توانگری؛ «الْوَطَن» میهن است، پس «الْغُرْبَة» دوری از میهن. معنا: توانگری در غربت، وطن است و تهیدستی در وطن، غربت.",
+        "en": "\"Al-faqr\" is poverty, so \"al-ghina\" is wealth; \"al-watan\" is homeland, so \"al-ghurba\" is being far from home. Meaning: wealth abroad is a homeland, and poverty at home is exile.",
+        "tr": "\"Al-faghr\" tahidasti ast, pas \"al-ghena\" tavangari; \"al-vatan\" mihan ast, pas \"al-ghorba\" doori az mihan. Ma'na: tavangari dar ghorbat, vatan ast va tahidasti dar vatan, ghorbat."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "«الْغِنَى»: توانگری؛ «الْغُرْبَة»: دوری از وطن",
+      "en": "\"Al-ghina\": wealth; \"al-ghurba\": being far from home",
+      "tr": "\"Al-ghena\": tavangari; \"al-ghorba\": doori az vatan"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«أَمَل» (آرزو) و «عَمَل» (کار) فقط در یک حرف فرق دارند؛ با دقت بخوان.",
+      "en": "\"Amal\" (hope) and \"'amal\" (work) differ in one letter only; read carefully.",
+      "tr": "\"Amal\" (arezoo) va \"'amal\" (kar) faghat dar yek harf fargh darand; ba deghghat bekhan."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«الْهَوَى» در حکمت‌ها یعنی «هوای نفس»، نه «هوا»ی فارسی.",
+      "en": "\"Al-hawa\" in the sayings means \"whim, desire of the self\", not the Persian \"hava\" (air, weather).",
+      "tr": "\"Al-hava\" dar hekmat-ha ya'ni \"hava-ye nafs\", na \"hava\"-ye farsi."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 952
+    },
+    {
+     "session": "1401-Dey",
+     "number": 976
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 976
+    },
+    {
+     "session": "1401-Dey",
+     "number": 953
+    },
+    {
+     "session": "1401-Dey",
+     "number": 959
+    },
+    {
+     "session": "1401-Dey",
+     "number": 968
+    },
+    {
+     "session": "1401-Dey",
+     "number": 969
+    },
+    {
+     "session": "1401-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Dey",
+     "number": 971
+    },
+    {
+     "session": "1401-Dey",
+     "number": 975
+    },
+    {
+     "session": "1401-Dey",
+     "number": 977
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 951
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 972
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 973
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 968
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 2,
+   "unit": 3,
+   "key": "ar-2-images",
+   "title": {
+    "fa": "واژه‌های ملموس و تصویرها",
+    "en": "Concrete words and images",
+    "tr": "Vazhe-haye malmoos va tasvir-ha"
+   },
+   "summary": {
+    "fa": "حکمت‌ها با چیزهای ملموس حرف می‌زنند: کشتزار، چاه، هیزم.",
+    "en": "The sayings speak through concrete things: a field, a well, firewood.",
+    "tr": "Hekmat-ha ba chiz-haye malmoos harf mizanand: keshtzar, chah, hizom."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: یک شیء، یک داستان",
+      "en": "Understand first: one object, one story",
+      "tr": "Avval befahm: yek shey', yek dastan"
+     },
+     "body": {
+      "fa": "بسیاری از حکمت‌ها یک حقیقت معنوی را با یک تصویر روزمره می‌گویند، مثل نقاشی که با یک شیء ساده یک داستان می‌سازد. «الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ»: دنیا کشتزار آخرت است؛ آنچه امروز بکاری، فردا درو می‌کنی. «اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ»: حسد نیکی‌ها را می‌خورد، همان‌طور که آتش هیزم را. معنای واژهٔ ملموس را از خود تصویر بگیر: آتش چه چیزی را می‌خورد؟ هیزم.",
+      "en": "Many sayings put a spiritual truth into an everyday picture, like a painter telling a story with one simple object. \"Ad-dunya mazra'atu-l-akhira\": the world is the field of the hereafter; what you sow today, you reap tomorrow. \"Al-hasadu ya'kulu-l-hasanati kama ta'kulu-n-naru-l-hatab\": envy eats up good deeds as fire eats firewood. Take the concrete word's meaning from the picture itself: what does fire eat? Firewood.",
+      "tr": "Besyari az hekmat-ha yek haghighat-e ma'navi ra ba yek tasvir-e rooz-marre miguyand, mesl-e naghashi ke ba yek shey'-e sade yek dastan misazad. \"Ad-donya mazra'ato-l-akhera\": donya keshtzar-e akherat ast; anche emrooz bekari, farda deraw mikoni. \"Al-hasado ya'kolo-l-hasanati kama ta'kolo-n-naro-l-hatab\": hasad niki-ha ra mikhorad, haman-tor ke atash hizom ra. Ma'na-ye vazhe-ye malmoos ra az khod-e tasvir begir: atash che chizi ra mikhorad? Hizom."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " picture (concrete)  truth (moral)\n ------------------  -------------\n mazra'a (field)  -> sow deeds now,\n                     reap later\n hatab (firewood) -> envy burns up\n   eaten by fire     good deeds\n bi'r (a well) dug -> plot against\n   for a brother     others, fall in\n wara' (behind)   -> think before\n   the heart         you speak",
+     "caption": {
+      "fa": "هر تصویر ملموس یک درس معنوی دارد؛ معنای واژه را از تصویر بگیر.",
+      "en": "Every concrete picture carries a moral lesson; take the word's meaning from the picture.",
+      "tr": "Har tasvir-e malmoos yek dars-e ma'navi darad; ma'na-ye vazhe ra az tasvir begir."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "واژه‌های کوچک، معنای بزرگ",
+      "en": "Small words, big meaning",
+      "tr": "Vazhe-haye koochak, ma'na-ye bozorg"
+     },
+     "body": {
+      "fa": "واژه‌های کوچک هم مهم‌اند: «وَرَاءَ» یعنی «پشت»: «لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ» یعنی زبان عاقل پشت دل اوست (اول فکر، بعد سخن). «نَفْسَهُ» یعنی «خودش»: «مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ». «امْرَأً» یعنی «انسانی»: «رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ».",
+      "en": "The small words matter too: \"wara'a\" means \"behind\": \"lisanu-l-'aqili wara'a qalbihi\" means the wise man's tongue is behind his heart (thought first, speech after). \"Nafsahu\" means \"himself\": \"man 'arafa nafsahu faqad 'arafa rabbahu\" (whoever knows himself knows his Lord). \"Imra'an\" means \"a person\": \"rahima-llahu imra'an 'arafa qadrahu\" (God bless a person who knows his worth).",
+      "tr": "Vazhe-haye koochak ham mohem-and: \"vara'a\" ya'ni \"posht\": \"lesano-l-'agheli vara'a ghalbeh\" ya'ni zaban-e aghel posht-e del-e oost (avval fekr, ba'd sokhan). \"Nafsaho\" ya'ni \"khodash\": \"man 'arafa nafsaho faghad 'arafa rabbah\". \"Emra'an\" ya'ni \"ensani\": \"rahema-llaho emra'an 'arafa ghadrah\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "concrete picture  ->  what does it do in the sentence?  ->  meaning",
+     "caption": {
+      "fa": "از تصویر به معنای واژه",
+      "en": "From the picture to the word's meaning",
+      "tr": "Az tasvir be ma'na-ye vazhe"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «مَزْرَعَةُ» در «الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what does \"mazra'atu\" mean in \"ad-dunya mazra'atu-l-akhira\"? (Khordad 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"mazra'ato\" dar \"ad-donya mazra'ato-l-akhera\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ریشهٔ «ز ر ع» یعنی کاشتن (مثل «زَرَعَ»)؛ وزن «مَفْعَلَة» جای کار را می‌سازد: جای کاشتن.",
+        "en": "The root \"z-r-'\" means sowing (as in \"zara'a\"); the \"maf'ala\" pattern makes the place of the action: the place of sowing.",
+        "tr": "Rishe-ye \"z-r-'\" ya'ni kashtan (mesl-e \"zara'a\"); vazn-e \"maf'ala\" ja-ye kar ra misazad: ja-ye kashtan."
+       },
+       "math": "z-r-'  +  maf'ala  ->  mazra'a = field"
+      }
+     ],
+     "answer": {
+      "fa": "کشتزار",
+      "en": "A field, farmland",
+      "tr": "Keshtzar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «الحَطَب» در «اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ.» چیست؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: what does \"al-hatab\" mean in \"al-hasadu ya'kulu-l-hasanati kama ta'kulu-n-naru-l-hatab\"? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"al-hatab\" dar \"al-hasado ya'kolo-l-hasanati kama ta'kolo-n-naro-l-hatab\" chist? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تصویر: آتش چیزی را «می‌خورد»، همان‌طور که حسد نیکی‌ها را. آتش چه می‌خورد؟ هیزم.",
+        "en": "The picture: fire \"eats\" something, as envy eats good deeds. What does fire eat? Firewood.",
+        "tr": "Tasvir: atash chizi ra \"mikhorad\", haman-tor ke hasad niki-ha ra. Atash che mikhorad? Hizom."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هیزم",
+      "en": "Firewood",
+      "tr": "Hizom"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «وَرَاءَ» در «لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَ قَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ.» چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: what does \"wara'a\" mean in \"lisanu-l-'aqili wara'a qalbihi, wa qalbu-l-ahmaqi wara'a lisanihi\"? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"vara'a\" dar \"lesano-l-'agheli vara'a ghalbeh, va ghalbo-l-ahmaghi vara'a lesaneh\" chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: واژه کوچک است ولی کل معنای حکمت به آن بسته است. جای زبان و دل در دو بخش جابه‌جا شده.",
+        "en": "The twist: the word is small, but the whole saying hangs on it. Tongue and heart swap places in the two halves.",
+        "tr": "Pich-e emtehan: vazhe koochak ast vali kol-e ma'na-ye hekmat be an baste ast. Ja-ye zaban va del dar do bakhsh jabeja shode."
+       }
+      },
+      {
+       "text": {
+        "fa": "«وَرَاءَ» یعنی پشت: عاقل اول فکر می‌کند بعد می‌گوید؛ احمق اول می‌گوید بعد فکر می‌کند.",
+        "en": "\"Wara'a\" means behind: the wise think first and speak after; the fool speaks first and thinks after.",
+        "tr": "\"Vara'a\" ya'ni posht: aghel avval fekr mikonad ba'd miguyad; ahmagh avval miguyad ba'd fekr mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پشت",
+      "en": "Behind",
+      "tr": "Posht"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«وَرَاءَ» در فارسی «ورای» (فراتر) هم معنا می‌دهد، ولی در این حکمت یعنی «پشت».",
+      "en": "\"Wara'a\" can suggest \"beyond\" in Persian (\"varay\"), but in this saying it means \"behind\".",
+      "tr": "\"Vara'a\" dar farsi \"varay-e\" (faratar) ham ma'na midahad, vali dar in hekmat ya'ni \"posht\"."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«نَفْسَهُ» را «نفسش» (دم و بازدم) ترجمه نکن؛ یعنی «خودش».",
+      "en": "Do not translate \"nafsahu\" as \"his breath\"; it means \"himself\".",
+      "tr": "\"Nafsaho\" ra \"nafasash\" (dam va bazdam) tarjome nakon; ya'ni \"khodash\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 977
+    },
+    {
+     "session": "1402-Dey",
+     "number": 953
+    },
+    {
+     "session": "1400-Dey",
+     "number": 976
+    },
+    {
+     "session": "1400-Dey",
+     "number": 977
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 968
+    },
+    {
+     "session": "1402-Dey",
+     "number": 977
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 967
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 2,
+   "unit": 4,
+   "key": "ar-2-science-text",
+   "title": {
+    "fa": "متن علمی: منظومهٔ شمسی",
+    "en": "The science text: the solar system",
+    "tr": "Matn-e elmi: manzoome-ye shamsi"
+   },
+   "summary": {
+    "fa": "واژه‌های علمی عربی را با ریشه و باب‌شان بشناس: «تَستَضیءُ» یعنی روشنایی می‌گیرد.",
+    "en": "Recognise Arabic science words by their root and form: \"tastadi'u\" means it takes light.",
+    "tr": "Vazhe-haye elmi-ye arabi ra ba rishe va bab-eshan beshenas: \"tastazi'o\" ya'ni roshanayi migirad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دستی که چیزی می‌گیرد",
+      "en": "Understand first: a hand reaching to take",
+      "tr": "Avval befahm: dasti ke chizi migirad"
+     },
+     "body": {
+      "fa": "متن علمی کتاب دربارهٔ خورشید، سیاره‌ها و جاذبه است. بسیاری از واژه‌هایش در فارسی هم آشنا‌اند: «السَّیّارات» (سیاره‌ها)، «الشُّهُب» (شهاب‌ها)، «مَدَارَات» (مدارها). برای فعل‌ها، باب کمک می‌کند: «اِسْتَـ» در «تَستَضیءُ» و «یَسْتَمِدُّ» معنای «طلب کردن» دارد: «روشنایی می‌گیرند»، «یاری می‌گیرد». مثل این است که فعل دستش را دراز کرده تا چیزی بگیرد.",
+      "en": "The book's science text is about the sun, the planets and gravity. Many of its words are familiar in Persian too: \"as-sayyarat\" (planets), \"ash-shuhub\" (meteors), \"madarat\" (orbits). For the verbs, the form helps: the \"ista-\" in \"tastadi'u\" and \"yastamiddu\" carries the meaning of \"seeking\": \"they take light\", \"it draws (help)\". It is as if the verb reaches out its hand to take something.",
+      "tr": "Matn-e elmi-ye ketab darbare-ye khorshid, sayyare-ha va jazebe ast. Besyari az vazhe-hayash dar farsi ham ashna-and: \"as-sayyarat\" (sayyare-ha), \"ash-shohob\" (shahab-ha), \"madarat\" (madar-ha). Baraye fe'l-ha, bab komak mikonad: \"esta-\" dar \"tastazi'o\" va \"yastamedd\" ma'na-ye \"talab kardan\" darad: \"roshanayi migirand\", \"yari migirad\". Mesl-e in ast ke fe'l dastash ra deraz karde ta chizi begirad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " word            root     form\n -------------   -------  ----------\n tastadi'u       d-w-'    istif'al\n   takes light            (seeking)\n yastamiddu      m-d-d    istif'al\n   draws from\n yata'allafu     '-l-f    tafa''ul\n   is made of\n tajdhibu        j-dh-b   (plain)\n   pulls\n sayyarat, shuhub, madarat\n   = planets, meteors, orbits",
+     "caption": {
+      "fa": "ریشه معنا را می‌دهد و باب رنگ معنا را: استفعال یعنی طلب کردن.",
+      "en": "The root gives the meaning and the form its colour: istif'al means seeking.",
+      "tr": "Rishe ma'na ra midahad va bab rang-e ma'na ra: estef'al ya'ni talab kardan."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جمع‌ها و صفت برتر",
+      "en": "Plurals and the comparative",
+      "tr": "Jam'-ha va sefat-e bartar"
+     },
+     "body": {
+      "fa": "برای جمع‌ها هم دقت کن: «مَدَارَات» جمع «مَدار» است، «الشُّهُب» جمع «شِهاب»، «السَّیّارات» جمع «سَیّارة». واژهٔ «أَقْوَى» بر وزن «أَفْعَل» است و برتری را نشان می‌دهد: «قوی‌تر»؛ مثل «أَجْمَل» (زیباتر) در درس لای نفی جنس.",
+      "en": "Watch the plurals too: \"madarat\" is the plural of \"madar\", \"ash-shuhub\" of \"shihab\", \"as-sayyarat\" of \"sayyara\". The word \"aqwa\" is on the \"af'al\" pattern and shows superiority: \"stronger\"; like \"ajmal\" (finer) in the absolute-la lesson.",
+      "tr": "Baraye jam'-ha ham deghghat kon: \"madarat\" jam'-e \"madar\" ast, \"ash-shohob\" jam'-e \"shehab\", \"as-sayyarat\" jam'-e \"sayyara\". Vazhe-ye \"aghva\" bar vazn-e \"af'al\" ast va bartari ra neshan midahad: \"ghavi-tar\"; mesl-e \"ajmal\" (zibatar) dar dars-e la-ye nafy-e jens."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ista- + root  ->  seek / take ;   af'al  ->  more (aqwa = stronger)",
+     "caption": {
+      "fa": "دو الگوی پرکاربرد متن علمی",
+      "en": "Two common patterns of the science text",
+      "tr": "Do olgoo-ye por-karbord-e matn-e elmi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «السَّیّارات» در «تَدُورُ السَّیّاراتُ حَوْلَ الشَّمْسِ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what does \"as-sayyarat\" mean in \"taduru-s-sayyaratu hawla-sh-shams\"? (Khordad 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"as-sayyarat\" dar \"tadooro-s-sayyarato hawla-sh-shams\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "واژه در فارسی هم هست: «سیاره»؛ «ـات» نشانهٔ جمع است.",
+        "en": "The word exists in Persian too: \"sayyare\"; \"-at\" marks the plural.",
+        "tr": "Vazhe dar farsi ham hast: \"sayyare\"; \"-at\" neshane-ye jam' ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سیاره‌ها",
+      "en": "Planets",
+      "tr": "Sayyare-ha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «یَسْتَمِدُّ» در «یَسْتَمِدُّ الْقَمَرُ ضَوْءَهُ مِنَ الشَّمْسِ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"yastamiddu\" mean in \"yastamiddu-l-qamaru daw'ahu mina-sh-shams\"? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"yastamedd\" dar \"yastameddo-l-ghamaro zaw'aho mena-sh-shams\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "باب استفعال (طلب کردن) از ریشهٔ «م د د» (یاری، مدد).",
+        "en": "The istif'al form (seeking) from the root \"m-d-d\" (help, supply).",
+        "tr": "Bab-e estef'al (talab kardan) az rishe-ye \"m-d-d\" (yari, madad)."
+       }
+      },
+      {
+       "text": {
+        "fa": "تصویر هم کمک می‌کند: ماه نورش را «از خورشید» می‌گیرد.",
+        "en": "The picture helps too: the moon takes its light \"from the sun\".",
+        "tr": "Tasvir ham komak mikonad: mah noorash ra \"az khorshid\" migirad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "می‌گیرد، یاری می‌گیرد",
+      "en": "It draws, it takes",
+      "tr": "Migirad, yari migirad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «تَستَضیءُ» در «تَستَضیءُ کَواکِبُ المَجموعَةِ الشَّمسیَّةِ بِالضَّوءِ الشَّمسیِّ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: what does \"tastadi'u\" mean in \"tastadi'u kawakibu-l-majmu'ati-sh-shamsiyyati bi-d-daw'i-sh-shamsi\"? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"tastazi'o\" dar \"tastazi'o kawakebo-l-majmoo'ati-sh-shamsiyyati be-z-zaw'i-sh-shamsi\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «تـ» آغاز می‌تواند گولت بزند که فعل از باب تفعّل یا تفاعل است؛ ولی «تـ» اینجا حرف مضارع است و بعدش «سْتَـ» می‌آید.",
+        "en": "The twist: the initial \"t\" can fool you into thinking it is tafa''ul or tafa'ul; but here \"t\" is the present-tense prefix, and \"sta-\" follows it.",
+        "tr": "Pich-e emtehan: \"t\"-e aghaz mitavanad golat bezanad ke fe'l az bab-e tafa''ol ya tafa'ol ast; vali \"t\" inja harf-e mozare' ast va ba'dash \"sta-\" miayad."
+       }
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ «ض و ء» (روشنایی، همان «ضَوء») در باب استفعال: روشنایی گرفتن.",
+        "en": "The root \"d-w-'\" (light, as in \"daw'\") in the istif'al form: taking light.",
+        "tr": "Rishe-ye \"z-v-'\" (roshanayi, haman \"zaw'\") dar bab-e estef'al: roshanayi gereftan."
+       },
+       "math": "t- (present) + sta + di'u  ->  istif'al"
+      }
+     ],
+     "answer": {
+      "fa": "روشنایی می‌گیرند",
+      "en": "They take light",
+      "tr": "Roshanayi migirand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«تـ»ی آغاز فعل مضارع را با «تَـ»ی باب تفعّل و تفاعل اشتباه نکن؛ اول حرف مضارع را کنار بگذار.",
+      "en": "Do not confuse the present prefix \"t-\" with the \"ta-\" of tafa''ul and tafa'ul; set the present prefix aside first.",
+      "tr": "\"T\"-e aghaz-e fe'l-e mozare' ra ba \"ta\"-ye bab-e tafa''ol va tafa'ol eshtebah nakon; avval harf-e mozare' ra kenar begozar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«أَقْوَى» یعنی «قوی‌تر»، نه «قوی»؛ وزن «أَفْعَل» برتری را نشان می‌دهد.",
+      "en": "\"Aqwa\" means \"stronger\", not \"strong\"; the \"af'al\" pattern shows superiority.",
+      "tr": "\"Aghva\" ya'ni \"ghavi-tar\", na \"ghavi\"; vazn-e \"af'al\" bartari ra neshan midahad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 955
+    },
+    {
+     "session": "1400-Dey",
+     "number": 968
+    },
+    {
+     "session": "1401-Dey",
+     "number": 955
+    },
+    {
+     "session": "1401-Dey",
+     "number": 957
+    },
+    {
+     "session": "1401-Dey",
+     "number": 958
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    },
+    {
+     "session": "1401-Dey",
+     "number": 966
+    },
+    {
+     "session": "1401-Dey",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 964
+    }
+   ]
+  }
+ ]
+}
