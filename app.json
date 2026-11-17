@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2041,
- "versionName": "3.16.3",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2041/Ghamgah-E-Hadis.apk",
- "size": 43261870,
- "sha256": "2e7de96c986b02c1e7abef4cf2b85a2734f8c379eb8f17d50a15316555dfc57d",
+ "versionCode": 2042,
+ "versionName": "3.16.4",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2042/Ghamgah-E-Hadis.apk",
+ "size": 43278254,
+ "sha256": "1c48b1ac992bb980012563c65054830792a97ec2dd62a6deb189c9ffa7a2a679",
  "notes": {
-  "fa": "آماده برای تمرین‌های تازه: پرسش‌های تمرینی که برای خود برنامه نوشته شده‌اند، با برچسب روشن «تمرین نوشته‌شده برای برنامه» در درس‌ها و فصل‌ها می‌آیند و هرگز جای سؤال امتحان واقعی نمی‌نشینند.",
-  "en": "Ready for new practice: questions written for the app itself now come clearly labelled 'Practice written for the app' in lessons and chapters, and never pose as real exam questions.",
-  "tr": "Amade baraye tamrin-haye taze: porsesh-haye tamrini ke baraye khod-e barname neveshte shode-and, ba barchasb-e roshan-e 'Tamrin-e neveshte-shode baraye barname' dar dars-ha va fasl-ha miayand va hargez ja-ye so'al-e emtehan-e vaghe'i nemineshinand."
+  "fa": "ادبیات فارسی حالا بر پایهٔ سه قلمرو امتحان نهایی مرتب می‌شود: قلمرو زبانی، ادبی و فکری. درس‌نامه‌های تازهٔ آرایه‌ها و قرابت معنایی با به‌روزرسانی بانک سؤال می‌آیند.",
+  "en": "Persian Literature is now organised by the final exam's three domains: linguistic, literary and intellectual. New lessons on literary devices and thematic closeness arrive with the question bank update.",
+  "tr": "Adabiyat-e Farsi hala bar paye-ye se ghalamrow-e emtehan-e nahayi morattab mishavad: ghalamrow-e zabani, adabi va fekri. Darsname-haye taze-ye arayeh-ha va gharabat-e ma'nayi ba be-rooz-resani-ye bank-e so'al miayand."
  }
 }
