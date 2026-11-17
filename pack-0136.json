@@ -1,0 +1,1262 @@
+{
+ "version": 136,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 1,
+   "key": "phys-2-newton-1-2",
+   "title": {
+    "fa": "قانون اول و دوم نیوتون",
+    "en": "Newton's first and second laws",
+    "tr": "Ghanoon-e avval va dovvom-e Newton"
+   },
+   "summary": {
+    "fa": "نیرو سرعت را نگه نمی‌دارد، آن را «عوض» می‌کند؛ و هرچه جرم بیشتر، تغییر سخت‌تر.",
+    "en": "Force does not keep velocity going, it \"changes\" it; and the more mass, the harder the change.",
+    "tr": "Niroo sor'at ra negah nemidarad, an ra \"avaz\" mikonad; va harche jerm bishtar, taghyir sakht-tar."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: لختی در اتوبوس",
+      "en": "Understand first: inertia on a bus",
+      "tr": "Avval befahm: lakhti dar otoboos"
+     },
+     "body": {
+      "fa": "«قانون اول نیوتون» (لختی): اگر نیروی خالص وارد بر جسم صفر باشد، جسم ساکن، ساکن می‌ماند و جسم متحرک با سرعت ثابت روی خط راست به حرکتش ادامه می‌دهد. وقتی اتوبوس ناگهان ترمز می‌کند، بدن تو به جلو می‌رود: هیچ نیرویی تو را هل نداده، بدنت فقط می‌خواهد به حرکتش ادامه دهد. پس نیرو برای «حفظ» حرکت لازم نیست؛ برای «تغییر» آن لازم است.",
+      "en": "\"Newton's first law\" (inertia): if the net force on an object is zero, an object at rest stays at rest and a moving object keeps moving at constant velocity in a straight line. When a bus brakes suddenly, your body lurches forward: no force pushed you, your body simply wants to keep moving. So force is not needed to \"keep\" motion going; it is needed to \"change\" it.",
+      "tr": "\"Ghanoon-e avval-e Newton\" (lakhti): agar niroo-ye khales-e vared bar jesm sefr bashad, jesm-e saken, saken mimanad va jesm-e motaharrek ba sor'at-e sabet rooye khatt-e rast be harekatash edame midahad. Vaghti otoboos nagahan tormoz mikonad, badan-e to be jelo miravad: hich niruyi to ra hol nadade, badanat faghat mikhahad be harekatash edame dahad. Pas niroo baraye \"hefz\"-e harekat lazem nist; baraye \"taghyir\"-e an lazem ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون دوم: نیرو، جرم و شتاب",
+      "en": "The second law: force, mass and acceleration",
+      "tr": "Ghanoon-e dovvom: niroo, jerm va shetab"
+     },
+     "body": {
+      "fa": "«قانون دوم نیوتون»: شتاب جسم با نیروی خالص متناسب و با جرم وارون‌متناسب است: `F(net) = m a`. اگر جرم ثابت بماند و نیروی خالص دو یا سه برابر شود، شتاب هم دو یا سه برابر می‌شود (آزمون‌های دی ۱۴۰۰ و خرداد ۱۳۹۹). جهت شتاب در هر لحظه همیشه همان جهت نیروی خالص است (آزمون دی ۱۴۰۱)، نه لزوماً جهت سرعت. مثل هل دادن چرخ فروشگاه: پر یا خالی، با یک هل، چرخ خالی تندتر شتاب می‌گیرد.",
+      "en": "\"Newton's second law\": an object's acceleration is proportional to the net force and inversely proportional to its mass: `F(net) = m a`. If the mass stays the same and the net force doubles or triples, the acceleration doubles or triples too (Dey 1400 and Khordad 1399 papers). The direction of the acceleration at every instant is always the direction of the net force (Dey 1401 paper), not necessarily the direction of the velocity. Like pushing a shopping trolley: with the same push, the empty one speeds up faster than the full one.",
+      "tr": "\"Ghanoon-e dovvom-e Newton\": shetab-e jesm ba niroo-ye khales motenaseb va ba jerm varoon-motenaseb ast: `F(net) = m a`. Agar jerm sabet bemanad va niroo-ye khales do ya se barabar shavad, shetab ham do ya se barabar mishavad (azmoon-haye Dey 1400 va Khordad 1399). Jahat-e shetab dar har lahze hamishe haman jahat-e niroo-ye khales ast (azmoon-e Dey 1401), na lozooman jahat-e sor'at. Mesl-e hol dadan-e charkh-e foroushgah: por ya khali, ba yek hol, charkh-e khali tond-tar shetab migirad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "F(net) = m a",
+     "caption": {
+      "fa": "نیروی خالص یعنی جمع برداری همهٔ نیروها؛ یکای نیوتون `N = kg·m/s^2`",
+      "en": "The net force is the vector sum of all forces; the unit is the newton, `N = kg·m/s^2`",
+      "tr": "Niroo-ye khales ya'ni jam'-e bordari-ye hame-ye niroo-ha; yeka-ye Newton `N = kg·m/s^2`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "          4 N         10 N\n       <-------[ m ]------->\n\n  F(net) = 10 - 4 = 6 N  -> right\n  a = F(net) / m, same direction\n\n  braking car:  v ->   a <-\n  a follows F(net), not v",
+     "caption": {
+      "fa": "نمودار نیروها: اول نیروی خالص را پیدا کن؛ شتاب همیشه هم‌جهت آن است.",
+      "en": "A force diagram: find the net force first; the acceleration always points the same way.",
+      "tr": "Nemoodar-e niroo-ha: avval niroo-ye khales ra peyda kon; shetab hamishe ham-jahat-e an ast."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بنا بر قانون دوم نیوتون، اگر نیروی خالص وارد بر جسمی با جرم ثابت دو برابر شود، شتاب آن چه تغییری می‌کند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: by Newton's second law, if the net force on an object of constant mass doubles, how does its acceleration change? (Dey 1400 paper)",
+      "tr": "Garm kardan: bana bar ghanoon-e dovvom-e Newton, agar niroo-ye khales-e vared bar jesmi ba jerm-e sabet do barabar shavad, shetab-e an che taghyiri mikonad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`a = F / m`؛ با `m` ثابت، `a` با `F` متناسب است.",
+        "en": "`a = F / m`; with `m` fixed, `a` is proportional to `F`.",
+        "tr": "`a = F / m`; ba `m`-e sabet, `a` ba `F` motenaseb ast."
+       },
+       "math": "a' = 2F / m = 2a"
+      }
+     ],
+     "answer": {
+      "fa": "دو برابر می‌شود",
+      "en": "It doubles",
+      "tr": "Do barabar mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: به جسمی `2` کیلوگرمی روی سطح بدون اصطکاک، نیروی `10 N` به راست و نیروی `4 N` به چپ وارد می‌شود. شتاب آن را بیاب. (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: a `2` kg object on a frictionless surface feels `10 N` to the right and `4 N` to the left. Find its acceleration. (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: be jesmi `2` kilogrami rooye sath-e bedoon-e estekak, niroo-ye `10 N` be rast va niroo-ye `4 N` be chap vared mishavad. Shetab-e an ra beyab. (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "راست را مثبت بگیر و نیروی خالص را بساز؛ نیروهای مخالف کم می‌شوند.",
+        "en": "Take right as positive and build the net force; opposite forces subtract.",
+        "tr": "Rast ra mosbat begir va niroo-ye khales ra besaz; niroo-haye mokhalef kam mishavand."
+       },
+       "math": "F(net) = 10 − 4 = 6 N"
+      },
+      {
+       "text": {
+        "fa": "حالا قانون دوم؛ جهت شتاب همان جهت نیروی خالص است.",
+        "en": "Now the second law; the acceleration points along the net force.",
+        "tr": "Hala ghanoon-e dovvom; jahat-e shetab haman jahat-e niroo-ye khales ast."
+       },
+       "math": "a = 6 / 2 = 3 m/s^2"
+      }
+     ],
+     "answer": {
+      "fa": "`3 m/s^2` به راست",
+      "en": "`3 m/s^2` to the right",
+      "tr": "`3 m/s^2` be rast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: خودرویی به سمت شرق حرکت می‌کند و ترمز می‌گیرد. جهت سرعت، جهت نیروی خالص و جهت شتاب آن را بنویس. (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: a car moving east brakes. Give the direction of its velocity, of the net force and of the acceleration. (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: khodrowi be samt-e shargh harekat mikonad va tormoz migirad. Jahat-e sor'at, jahat-e niroo-ye khales va jahat-e shetab-e an ra benevis. (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سرعت هنوز به شرق است، چون خودرو هنوز جلو می‌رود.",
+        "en": "The twist: the velocity is still east, because the car is still moving forward.",
+        "tr": "Pich-e emtehan: sor'at hanooz be shargh ast, chon khodro hanooz jelo miravad."
+       }
+      },
+      {
+       "text": {
+        "fa": "ولی خودرو کند می‌شود، پس نیروی خالص (اصطکاک ترمز) به غرب است؛ و شتاب همیشه هم‌جهت نیروی خالص است، نه سرعت.",
+        "en": "But the car is slowing down, so the net force (braking friction) points west; and the acceleration always follows the net force, not the velocity.",
+        "tr": "Vali khodro kond mishavad, pas niroo-ye khales (estekak-e tormoz) be gharb ast; va shetab hamishe ham-jahat-e niroo-ye khales ast, na sor'at."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سرعت به شرق؛ نیروی خالص و شتاب به غرب",
+      "en": "Velocity east; net force and acceleration west",
+      "tr": "Sor'at be shargh; niroo-ye khales va shetab be gharb"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جهت حرکت (سرعت) لزوماً جهت نیرو نیست؛ شتاب همیشه هم‌جهت «نیروی خالص» است.",
+      "en": "The direction of motion (velocity) is not necessarily the direction of the force; the acceleration always points along the \"net force\".",
+      "tr": "Jahat-e harekat (sor'at) lozooman jahat-e niroo nist; shetab hamishe ham-jahat-e \"niroo-ye khales\" ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در `F = m a`، `F` نیروی «خالص» است؛ اگر چند نیرو هست، اول جمع برداری‌شان را بگیر.",
+      "en": "In `F = m a`, `F` is the \"net\" force; if there are several forces, take their vector sum first.",
+      "tr": "Dar `F = m a`, `F` niroo-ye \"khales\" ast; agar chand niroo hast, avval jam'-e bordari-shan ra begir."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 905
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Dey",
+     "number": 922
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 2,
+   "key": "phys-2-newton-3",
+   "title": {
+    "fa": "قانون سوم نیوتون: کنش و واکنش",
+    "en": "Newton's third law: action and reaction",
+    "tr": "Ghanoon-e sevvom-e Newton: konesh va vakonesh"
+   },
+   "summary": {
+    "fa": "دیوار را هل بده؛ دیوار هم با همان اندازه تو را هل می‌دهد.",
+    "en": "Push a wall; the wall pushes you back just as hard.",
+    "tr": "Divar ra hol bede; divar ham ba haman andaze to ra hol midahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دیواری که هل می‌دهد",
+      "en": "Understand first: the wall that pushes back",
+      "tr": "Avval befahm: divari ke hol midahad"
+     },
+     "body": {
+      "fa": "«قانون سوم نیوتون»: هر وقت جسم `A` به جسم `B` نیرو وارد کند، `B` هم به `A` نیرویی وارد می‌کند. این دو نیرو هم‌اندازه‌اند (آزمون خرداد ۱۴۰۰)، روی یک خط اثر می‌کنند و جهتشان مخالف است (آزمون خرداد ۱۴۰۱)، و همیشه به «دو جسم متفاوت» وارد می‌شوند (آزمون خرداد ۱۳۹۹). وقتی روی اسکیت دیوار را هل می‌دهی، تو به عقب می‌روی: نیروی دیوار به تو وارد شده، نه به دیوار.",
+      "en": "\"Newton's third law\": whenever object `A` exerts a force on object `B`, `B` exerts a force on `A`. The two forces are equal in magnitude (Khordad 1400 paper), act along the same line in opposite directions (Khordad 1401 paper), and always act on \"two different objects\" (Khordad 1399 paper). When you push a wall on skates, you roll backwards: the wall's force acts on you, not on the wall.",
+      "tr": "\"Ghanoon-e sevvom-e Newton\": har vaght jesm-e `A` be jesm-e `B` niroo vared konad, `B` ham be `A` niruyi vared mikonad. In do niroo ham-andaze-and (azmoon-e Khordad 1400), rooye yek khatt asar mikonand va jahateshan mokhalef ast (azmoon-e Khordad 1401), va hamishe be \"do jesm-e motafavet\" vared mishavand (azmoon-e Khordad 1399). Vaghti rooye eskeyt divar ra hol midahi, to be aghab miravi: niroo-ye divar be to vared shode, na be divar."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   hand                 wall\n    |                    |\n    |  F(hand on wall) ->|\n    |<- F(wall on hand)  |\n    |                    |\n\n  same size, same line,\n  opposite directions,\n  on TWO different objects",
+     "caption": {
+      "fa": "کنش و واکنش: هم‌اندازه، هم‌راستا، مخالف، و روی دو جسم متفاوت؛ پس هرگز هم را خنثی نمی‌کنند.",
+      "en": "Action and reaction: equal, along one line, opposite, and on two different objects; so they never cancel each other.",
+      "tr": "Konesh va vakonesh: ham-andaze, ham-rasta, mokhalef, va rooye do jesm-e motafavet; pas hargez ham ra khonsa nemikonand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بنا بر قانون سوم نیوتون، نیروهای کنش و واکنش همیشه در کدام ویژگی یکسان‌اند؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: by Newton's third law, in which property are action and reaction forces always identical? (Khordad 1400 paper)",
+      "tr": "Garm kardan: bana bar ghanoon-e sevvom-e Newton, niroo-haye konesh va vakonesh hamishe dar kodam vizhegi yeksan-and? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "جهتشان مخالف است و روی دو جسم‌اند؛ تنها چیزی که کاملاً یکی است اندازه است.",
+        "en": "Their directions are opposite and they act on two objects; the only thing exactly the same is the magnitude.",
+        "tr": "Jahateshan mokhalef ast va rooye do jesm-and; tanha chizi ke kamelan yeki ast andaze ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اندازه",
+      "en": "Magnitude",
+      "tr": "Andaze"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کتابی روی میز ساکن است. نیروی وزن کتاب را با نیروی عمودی میز مقایسه کن. آیا این دو جفت کنش-واکنش‌اند؟ (آزمون‌های خرداد ۱۳۹۹ و خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a book rests on a table. Compare the book's weight with the table's normal force. Are they an action-reaction pair? (Khordad 1399 and Khordad 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: ketabi rooye miz saken ast. Niroo-ye vazn-e ketab ra ba niroo-ye amoodi-ye miz moghayese kon. Aya in do joft-e konesh-vakonesh-and? (azmoon-haye Khordad 1399 va Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هر دو به «کتاب» وارد می‌شوند و چون کتاب ساکن است، هم‌اندازه و مخالف‌اند. ولی جفت کنش-واکنش باید روی دو جسم متفاوت باشد.",
+        "en": "Both act on the \"book\", and because the book is at rest they are equal and opposite. But an action-reaction pair must act on two different objects.",
+        "tr": "Har do be \"ketab\" vared mishavand va chon ketab saken ast, ham-andaze va mokhalef-and. Vali joft-e konesh-vakonesh bayad rooye do jesm-e motafavet bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "واکنش وزن (کشش زمین بر کتاب)، کشش کتاب بر زمین است؛ واکنش نیروی عمودی، فشار کتاب بر میز است.",
+        "en": "The reaction to the weight (Earth pulling the book) is the book pulling Earth; the reaction to the normal force is the book pressing on the table.",
+        "tr": "Vakonesh-e vazn (keshesh-e zamin bar ketab), keshesh-e ketab bar zamin ast; vakonesh-e niroo-ye amoodi, feshar-e ketab bar miz ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هم‌اندازه و مخالف‌اند، ولی جفت کنش-واکنش نیستند؛ هر دو روی کتاب‌اند",
+      "en": "They are equal and opposite but not an action-reaction pair; both act on the book",
+      "tr": "Ham-andaze va mokhalef-and, vali joft-e konesh-vakonesh nistand; har do rooye ketab-and"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اسب گاری را می‌کشد و گاری هم با نیروی هم‌اندازه اسب را به عقب می‌کشد. پس چرا حرکت می‌کنند؟",
+      "en": "Exam twist: a horse pulls a cart, and the cart pulls the horse back with an equal force. So why do they move?",
+      "tr": "Pich-e emtehani: asb gari ra mikeshad va gari ham ba niroo-ye ham-andaze asb ra be aghab mikeshad. Pas chera harekat mikonand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو نیروی کنش و واکنش روی دو جسم متفاوت‌اند، پس نمی‌توانند هم را خنثی کنند. برای هر جسم فقط نیروهای وارد بر «خودش» را جمع کن.",
+        "en": "The twist: action and reaction act on two different objects, so they cannot cancel. For each object add only the forces acting on \"it\".",
+        "tr": "Pich-e emtehan: do niroo-ye konesh va vakonesh rooye do jesm-e motafavet-and, pas nemitavanand ham ra khonsa konand. Baraye har jesm faghat niroo-haye vared bar \"khodash\" ra jam' kon."
+       }
+      },
+      {
+       "text": {
+        "fa": "اسب با سم‌هایش زمین را به عقب هل می‌دهد و زمین اسب را به جلو؛ اگر این نیرو از کشش گاری بیشتر باشد، نیروی خالص بر اسب و گاری رو به جلوست.",
+        "en": "The horse pushes the ground backwards with its hooves and the ground pushes the horse forwards; if this force is larger than the cart's pull, the net force on horse and cart points forwards.",
+        "tr": "Asb ba som-hayash zamin ra be aghab hol midahad va zamin asb ra be jelo; agar in niroo az keshesh-e gari bishtar bashad, niroo-ye khales bar asb va gari roo be jelost."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون نیروی زمین بر اسب (به جلو) بیشتر از کشش گاری است؛ کنش و واکنش روی دو جسم‌اند و هم را خنثی نمی‌کنند",
+      "en": "Because the ground's push on the horse (forwards) is larger than the cart's pull; action and reaction act on two objects and do not cancel",
+      "tr": "Chon niroo-ye zamin bar asb (be jelo) bishtar az keshesh-e gari ast; konesh va vakonesh rooye do jesm-and va ham ra khonsa nemikonand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "وزن و نیروی عمودی جفت کنش-واکنش «نیستند»، حتی اگر هم‌اندازه و مخالف باشند؛ هر دو روی یک جسم‌اند.",
+      "en": "Weight and normal force are \"not\" an action-reaction pair, even when equal and opposite; both act on one object.",
+      "tr": "Vazn va niroo-ye amoodi joft-e konesh-vakonesh \"nistand\", hatta agar ham-andaze va mokhalef bashand; har do rooye yek jesm-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کنش و واکنش هم‌زمان‌اند و هیچ‌کدام «اول» نیست؛ جسم سنگین‌تر هم نیروی بزرگ‌تری وارد نمی‌کند.",
+      "en": "Action and reaction happen at the same time and neither comes \"first\"; the heavier object does not exert the larger force either.",
+      "tr": "Konesh va vakonesh ham-zaman-and va hich-kodam \"avval\" nist; jesm-e sangin-tar ham niroo-ye bozorg-tari vared nemikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 919
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 934
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 940
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 3,
+   "key": "phys-2-normal-spring",
+   "title": {
+    "fa": "نیروی عمودی تکیه‌گاه و نیروی فنر",
+    "en": "Normal force and spring force",
+    "tr": "Niroo-ye amoodi-ye tekye-gah va niroo-ye fanar"
+   },
+   "summary": {
+    "fa": "سطح و فنر هر دو «پس می‌زنند»: هرچه بیشتر فشارشان دهی، بیشتر هل می‌دهند.",
+    "en": "Surfaces and springs both \"push back\": the harder you press, the harder they push.",
+    "tr": "Sath va fanar har do \"pas mizanand\": harche bishtar fesharshan dahi, bishtar hol midahand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سطحی که پس می‌زند",
+      "en": "Understand first: a surface that pushes back",
+      "tr": "Avval befahm: sathi ke pas mizanad"
+     },
+     "body": {
+      "fa": "«نیروی عمودی تکیه‌گاه» (`FN`) نیرویی است که سطح به جسمِ روی خودش وارد می‌کند؛ همیشه عمود بر سطح تماس و رو به بیرونِ سطح است (آزمون‌های خرداد ۱۴۰۰ و خرداد ۱۴۰۱). سطح مثل یک تشک فنری خیلی سفت است: کمی فشرده می‌شود و پس می‌زند. برای جسم ساکن روی سطح افقی، بی هیچ نیروی قائم دیگر، `FN = mg` (آزمون دی ۱۴۰۰) و هم‌راستا و مخالف وزن است (آزمون دی ۱۴۰۰). ولی `FN` همیشه برابر `mg` نیست: اگر جسم را به پایین فشار دهی یا آسانسور شتاب بگیرد، `FN` عوض می‌شود.",
+      "en": "The \"normal force\" (`FN`) is the force a surface exerts on an object resting on it; it is always perpendicular to the contact surface and points away from it (Khordad 1400 and Khordad 1401 papers). A surface is like a very stiff sprung mattress: it squashes slightly and pushes back. For an object at rest on a horizontal surface, with no other vertical force, `FN = mg` (Dey 1400 paper), along the same line as the weight but opposite (Dey 1400 paper). But `FN` is not always `mg`: press the object down, or let a lift accelerate, and `FN` changes.",
+      "tr": "\"Niroo-ye amoodi-ye tekye-gah\" (`FN`) niruyi ast ke sath be jesm-e rooye khodash vared mikonad; hamishe amood bar sath-e tamas va roo be biroon-e sath ast (azmoon-haye Khordad 1400 va Khordad 1401). Sath mesl-e yek toshak-e fanari-ye kheyli seft ast: kami feshorde mishavad va pas mizanad. Baraye jesm-e saken rooye sath-e ofoghi, bi hich niroo-ye gha'em-e digar, `FN = mg` (azmoon-e Dey 1400) va ham-rasta va mokhalef-e vazn ast (azmoon-e Dey 1400). Vali `FN` hamishe barabar-e `mg` nist: agar jesm ra be payin feshar dahi ya asansor shetab begirad, `FN` avaz mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "             ^ FN\n             |\n          +-----+\n          |  m  |\n          +-----+\n  ===========|============ table\n             v W = mg\n\n  at rest, nothing else vertical:\n             FN = mg",
+     "caption": {
+      "fa": "نیروی عمودی عمود بر سطح و رو به بالا؛ وزن رو به پایین.",
+      "en": "The normal force is perpendicular to the surface and upwards; the weight is downwards.",
+      "tr": "Niroo-ye amoodi amood bar sath va roo be bala; vazn roo be payin."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون هوک",
+      "en": "Hooke's law",
+      "tr": "Ghanoon-e Hooke"
+     },
+     "body": {
+      "fa": "«قانون هوک»: نیروی فنر آرمانی با تغییر طولش متناسب است: `F = k x`، که `k` ثابت فنر (سفتی آن) است. پس اگر نیرو دو برابر شود، تغییر طول دو برابر می‌شود (آزمون خرداد ۱۴۰۱) و اگر تغییر طول سه برابر شود، نیروی کشسانی سه برابر (آزمون خرداد ۱۴۰۱). نیروی فنر «بازگرداننده» است: همیشه مخالف تغییر طول و رو به حالت تعادل (آزمون دی ۱۴۰۰)؛ فنر فشرده هل می‌دهد و فنر کشیده می‌کشد.",
+      "en": "\"Hooke's law\": the force of an ideal spring is proportional to its change in length: `F = k x`, where `k` is the spring constant (its stiffness). So if the force doubles, the extension doubles (Khordad 1401 paper), and if the extension triples, the elastic force triples (Khordad 1401 paper). The spring force is \"restoring\": always opposite to the change in length, towards equilibrium (Dey 1400 paper); a compressed spring pushes and a stretched spring pulls.",
+      "tr": "\"Ghanoon-e Hooke\": niroo-ye fanar-e armani ba taghyir-e toolash motenaseb ast: `F = k x`, ke `k` sabet-e fanar (sefti-ye an) ast. Pas agar niroo do barabar shavad, taghyir-e tool do barabar mishavad (azmoon-e Khordad 1401) va agar taghyir-e tool se barabar shavad, niroo-ye keshsani se barabar (azmoon-e Khordad 1401). Niroo-ye fanar \"bazgardanande\" ast: hamishe mokhalef-e taghyir-e tool va roo be halat-e ta'adol (azmoon-e Dey 1400); fanar-e feshorde hol midahad va fanar-e keshide mikeshad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "F = k x",
+     "caption": {
+      "fa": "`x` تغییر طول از طول عادی (نه طول کل)؛ `k` بر حسب `N/m`",
+      "en": "`x` is the change from the natural length (not the total length); `k` in `N/m`",
+      "tr": "`x` taghyir-e tool az tool-e adi (na tool-e kol); `k` bar hasab-e `N/m`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " wall\n |-/\\/\\/\\/\\/-[m]        natural\n |\n |-/\\/\\/\\/\\/\\/\\/\\-[m]   stretched x\n                <--     F = k x\n |-/\\/\\/-[m]            compressed\n          -->           pushes out\n\n spring force: always back toward\n the natural length (restoring)",
+     "caption": {
+      "fa": "فنر کشیده می‌کشد و فنر فشرده هل می‌دهد؛ همیشه رو به طول عادی.",
+      "en": "A stretched spring pulls and a compressed spring pushes; always back towards its natural length.",
+      "tr": "Fanar-e keshide mikeshad va fanar-e feshorde hol midahad; hamishe roo be tool-e adi."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بنا بر قانون هوک، اگر نیروی وارد بر فنر آرمانی دو برابر شود، تغییر طول فنر چه می‌شود؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: by Hooke's law, if the force on an ideal spring doubles, what happens to its extension? (Khordad 1401 paper)",
+      "tr": "Garm kardan: bana bar ghanoon-e Hooke, agar niroo-ye vared bar fanar-e armani do barabar shavad, taghyir-e tool-e fanar che mishavad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`x = F / k`؛ با `k` ثابت، `x` با `F` متناسب است.",
+        "en": "`x = F / k`; with `k` fixed, `x` is proportional to `F`.",
+        "tr": "`x = F / k`; ba `k`-e sabet, `x` ba `F` motenaseb ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دو برابر می‌شود",
+      "en": "It doubles",
+      "tr": "Do barabar mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: فنری با نیروی `8 N` به اندازهٔ `4` سانتی‌متر کشیده می‌شود. ثابت فنر چقدر است و چه جرمی آویزان شود تا `10` سانتی‌متر کشیده شود؟ (`g = 10`؛ آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a spring stretches `4` cm under a `8 N` force. What is the spring constant, and what hanging mass stretches it `10` cm? (`g = 10`; Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: fanari ba niroo-ye `8 N` be andaze-ye `4` santi-metr keshide mishavad. Sabet-e fanar cheghadr ast va che jermi avizan shavad ta `10` santi-metr keshide shavad? (`g = 10`; azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول سانتی‌متر را به متر تبدیل کن؛ سپس `k = F / x`.",
+        "en": "First convert centimetres to metres; then `k = F / x`.",
+        "tr": "Avval santi-metr ra be metr tabdil kon; sepas `k = F / x`."
+       },
+       "math": "k = 8 / 0.04 = 200 N/m"
+      },
+      {
+       "text": {
+        "fa": "برای جسم آویزان در تعادل، نیروی فنر برابر وزن است.",
+        "en": "For a hanging mass in equilibrium, the spring force equals the weight.",
+        "tr": "Baraye jesm-e avizan dar ta'adol, niroo-ye fanar barabar-e vazn ast."
+       },
+       "math": "F = 200 × 0.1 = 20 N = m g   ⟹   m = 2 kg"
+      }
+     ],
+     "answer": {
+      "fa": "`k = 200 N/m`؛ جرم `2 kg`",
+      "en": "`k = 200 N/m`; mass `2 kg`",
+      "tr": "`k = 200 N/m`; jerm `2 kg`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شخصی `50` کیلوگرمی روی ترازویی در آسانسور ایستاده است. وقتی آسانسور با شتاب `2 m/s^2` رو به بالا شروع به حرکت می‌کند، ترازو چه عددی نشان می‌دهد؟ (`g = 10`؛ آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: a `50` kg person stands on scales in a lift. When the lift starts moving up with an acceleration of `2 m/s^2`, what do the scales read? (`g = 10`; Dey 1400 paper)",
+      "tr": "Pich-e emtehani: shakhsi `50` kilogrami rooye tarazooyi dar asansor istade ast. Vaghti asansor ba shetab-e `2 m/s^2` roo be bala shoru' be harekat mikonad, tarazoo che adadi neshan midahad? (`g = 10`; azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: ترازو نیروی عمودی را نشان می‌دهد، نه وزن را. `FN = mg` فقط وقتی درست است که شتاب قائم صفر باشد.",
+        "en": "The twist: scales read the normal force, not the weight. `FN = mg` holds only when the vertical acceleration is zero.",
+        "tr": "Pich-e emtehan: tarazoo niroo-ye amoodi ra neshan midahad, na vazn ra. `FN = mg` faghat vaghti dorost ast ke shetab-e gha'em sefr bashad."
+       }
+      },
+      {
+       "text": {
+        "fa": "بالا را مثبت بگیر و قانون دوم را برای شخص بنویس.",
+        "en": "Take up as positive and write the second law for the person.",
+        "tr": "Bala ra mosbat begir va ghanoon-e dovvom ra baraye shakhs benevis."
+       },
+       "math": "FN − mg = m a   ⟹   FN = 50(10 + 2) = 600 N"
+      }
+     ],
+     "answer": {
+      "fa": "`600 N` (بیشتر از وزن `500 N`)",
+      "en": "`600 N` (more than the `500 N` weight)",
+      "tr": "`600 N` (bishtar az vazn-e `500 N`)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`FN = mg` قاعدهٔ همیشگی نیست؛ فقط برای جسم ساکن روی سطح افقی بدون نیروی قائم دیگر.",
+      "en": "`FN = mg` is not a universal rule; it holds only for an object at rest on a horizontal surface with no other vertical force.",
+      "tr": "`FN = mg` gha'ede-ye hamishegi nist; faghat baraye jesm-e saken rooye sath-e ofoghi bedoon-e niroo-ye gha'em-e digar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در قانون هوک `x` تغییر طول است، نه طول کل فنر.",
+      "en": "In Hooke's law `x` is the change in length, not the spring's total length.",
+      "tr": "Dar ghanoon-e Hooke `x` taghyir-e tool ast, na tool-e kol-e fanar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 909
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1400-Dey",
+     "number": 939
+    },
+    {
+     "session": "1400-Dey",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 916
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1400-Dey",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 4,
+   "key": "phys-2-friction",
+   "title": {
+    "fa": "نیروی اصطکاک",
+    "en": "Friction",
+    "tr": "Niroo-ye estekak"
+   },
+   "summary": {
+    "fa": "اصطکاک ایستایی هر چقدر لازم باشد زور می‌زند، تا یک سقف؛ بعد جسم می‌لغزد.",
+    "en": "Static friction pushes back exactly as hard as it needs to, up to a limit; then the object slides.",
+    "tr": "Estekak-e istayi har cheghadr lazem bashad zoor mizanad, ta yek saghf; ba'd jesm milaghzad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کمدی که تکان نمی‌خورد",
+      "en": "Understand first: the wardrobe that will not budge",
+      "tr": "Avval befahm: komodi ke takan nemikhorad"
+     },
+     "body": {
+      "fa": "وقتی کمد سنگینی را هل می‌دهی و تکان نمی‌خورد، «اصطکاک ایستایی» با هل تو برابر و مخالف است (آزمون دی ۱۴۰۰): هل کم، اصطکاک کم؛ هل بیشتر، اصطکاک بیشتر. ولی این اصطکاک سقفی دارد: «بیشینهٔ اصطکاک ایستایی» (`fs,max`)، که درست لحظهٔ آستانهٔ حرکت جلوی حرکت را می‌گیرد (آزمون خرداد ۱۳۹۹) و با نیروی عمودی متناسب است: `fs,max = μs FN` (آزمون دی ۱۳۹۸). هل که از این سقف بگذرد، کمد می‌لغزد.",
+      "en": "When you push a heavy wardrobe and it does not budge, \"static friction\" is equal and opposite to your push (Dey 1400 paper): a small push, small friction; a bigger push, bigger friction. But this friction has a ceiling: the \"maximum static friction\" (`fs,max`), which holds the object back at the very point it is about to move (Khordad 1399 paper) and is proportional to the normal force: `fs,max = μs FN` (Dey 1398 paper). Once your push passes this ceiling, the wardrobe slides.",
+      "tr": "Vaghti komod-e sangini ra hol midahi va takan nemikhorad, \"estekak-e istayi\" ba hol-e to barabar va mokhalef ast (azmoon-e Dey 1400): hol-e kam, estekak-e kam; hol-e bishtar, estekak-e bishtar. Vali in estekak saghfi darad: \"bishine-ye estekak-e istayi\" (`fs,max`), ke dorost lahze-ye astane-ye harekat jelo-ye harekat ra migirad (azmoon-e Khordad 1399) va ba niroo-ye amoodi motenaseb ast: `fs,max = μs FN` (azmoon-e Dey 1398). Hol ke az in saghf begozarad, komod milaghzad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اصطکاک جنبشی",
+      "en": "Kinetic friction",
+      "tr": "Estekak-e jonbeshi"
+     },
+     "body": {
+      "fa": "وقتی جسم می‌لغزد، «اصطکاک جنبشی» عمل می‌کند: `fk = μk FN`، یعنی با نیروی عمودی متناسب است (آزمون دی ۱۳۹۸) و معمولاً کمی کمتر از بیشینهٔ ایستایی است؛ برای همین هل دادن کمد پس از راه افتادن آسان‌تر است. ضریب اصطکاک جنبشی `μk` بیشتر به جنس و وضعیت دو سطح بستگی دارد (آزمون دی ۱۴۰۰)، نه به مساحت تماس یا سرعت.",
+      "en": "When the object slides, \"kinetic friction\" acts: `fk = μk FN`, proportional to the normal force (Dey 1398 paper) and usually a little less than the maximum static friction; that is why a wardrobe is easier to push once it is moving. The coefficient of kinetic friction `μk` depends mainly on the materials and condition of the two surfaces (Dey 1400 paper), not on the contact area or the speed.",
+      "tr": "Vaghti jesm milaghzad, \"estekak-e jonbeshi\" amal mikonad: `fk = μk FN`, ya'ni ba niroo-ye amoodi motenaseb ast (azmoon-e Dey 1398) va ma'moolan kami kamtar az bishine-ye istayi ast; baraye hamin hol dadan-e komod pas az rah oftadan asan-tar ast. Zarib-e estekak-e jonbeshi `μk` bishtar be jens va vaz'iyat-e do sath bastegi darad (azmoon-e Dey 1400), na be masahat-e tamas ya sor'at."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " friction\n |          fs,max\n |         /|\n |        / |________ fk (kinetic)\n |       /\n |      /   static: f = applied F\n |     /\n |    /\n +--------------------> applied F\n      at rest     |  sliding",
+     "caption": {
+      "fa": "اصطکاک ایستایی با نیروی وارد بالا می‌رود تا سقف `fs,max`؛ پس از لغزش، اصطکاک جنبشی کمی کمتر و ثابت است.",
+      "en": "Static friction rises with the applied force up to the ceiling `fs,max`; once sliding, kinetic friction is a little lower and constant.",
+      "tr": "Estekak-e istayi ba niroo-ye vared bala miravad ta saghf-e `fs,max`; pas az laghzesh, estekak-e jonbeshi kami kamtar va sabet ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "fs ≤ μs FN ,   fk = μk FN",
+     "caption": {
+      "fa": "ایستایی: هر مقداری تا سقف؛ جنبشی: یک مقدار ثابت",
+      "en": "Static: any value up to the ceiling; kinetic: one fixed value",
+      "tr": "Istayi: har meghdari ta saghf; jonbeshi: yek meghdar-e sabet"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بیشینهٔ نیروی اصطکاک ایستایی مستقیماً به چه عاملی بستگی دارد؟ (آزمون دی ۱۳۹۸)",
+      "en": "Warm-up: the maximum static friction force depends directly on which factor? (Dey 1398 paper)",
+      "tr": "Garm kardan: bishine-ye niroo-ye estekak-e istayi mostaghiman be che ameli bastegi darad? (azmoon-e Dey 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`fs,max = μs FN`؛ هرچه دو سطح محکم‌تر به هم فشرده شوند، چسبندگی بیشتر است.",
+        "en": "`fs,max = μs FN`; the harder the two surfaces are pressed together, the more they grip.",
+        "tr": "`fs,max = μs FN`; harche do sath mohkam-tar be ham feshorde shavand, chasbandegi bishtar ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نیروی عمودی سطح",
+      "en": "The normal force from the surface",
+      "tr": "Niroo-ye amoodi-ye sath"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جسمی `4` کیلوگرمی روی سطح افقی با `μk = 0.2` است. نیروی افقی `16 N` به آن وارد می‌شود. شتاب را حساب کن. (`g = 10`؛ آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: a `4` kg object is on a horizontal surface with `μk = 0.2`. A horizontal force of `16 N` is applied. Find the acceleration. (`g = 10`; Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: jesmi `4` kilogrami rooye sath-e ofoghi ba `μk = 0.2` ast. Niroo-ye ofoghi-ye `16 N` be an vared mishavad. Shetab ra hesab kon. (`g = 10`; azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ربع نمرهٔ اول: نیروی عمودی؛ سطح افقی و نیروی قائم دیگری نیست.",
+        "en": "First quarter mark: the normal force; the surface is horizontal and there is no other vertical force.",
+        "tr": "Rob'-e nomre-ye avval: niroo-ye amoodi; sath ofoghi va niroo-ye gha'em-e digari nist."
+       },
+       "math": "FN = m g = 40 N"
+      },
+      {
+       "text": {
+        "fa": "ربع نمرهٔ دوم: اصطکاک جنبشی.",
+        "en": "Second quarter mark: kinetic friction.",
+        "tr": "Rob'-e nomre-ye dovvom: estekak-e jonbeshi."
+       },
+       "math": "fk = 0.2 × 40 = 8 N"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ آخر: قانون دوم با نیروی «خالص»، یعنی نیروی وارد منهای اصطکاک.",
+        "en": "Last half mark: the second law with the \"net\" force, i.e. the applied force minus friction.",
+        "tr": "Nim-nomre-ye akhar: ghanoon-e dovvom ba niroo-ye \"khales\", ya'ni niroo-ye vared menha-ye estekak."
+       },
+       "math": "16 − 8 = 4 a   ⟹   a = 2 m/s^2"
+      }
+     ],
+     "answer": {
+      "fa": "`a = 2 m/s^2`",
+      "en": "`a = 2 m/s^2`",
+      "tr": "`a = 2 m/s^2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: جعبه‌ای `4` کیلوگرمی روی زمین با `μs = 0.3` است. آن را با نیروی افقی `6 N` هل می‌دهیم. نیروی اصطکاک چقدر است؟ (`g = 10`؛ آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: a `4` kg crate sits on the floor with `μs = 0.3`. We push it with a horizontal `6 N`. How big is the friction force? (`g = 10`; Dey 1400 paper)",
+      "tr": "Pich-e emtehani: ja'be-i `4` kilogrami rooye zamin ba `μs = 0.3` ast. An ra ba niroo-ye ofoghi-ye `6 N` hol midahim. Niroo-ye estekak cheghadr ast? (`g = 10`; azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پاسخ `μs FN` نیست! اول سقف را حساب کن تا ببینی جعبه حرکت می‌کند یا نه.",
+        "en": "The twist: the answer is not `μs FN`! First find the ceiling to see whether the crate moves at all.",
+        "tr": "Pich-e emtehan: pasokh `μs FN` nist! Avval saghf ra hesab kon ta bebini ja'be harekat mikonad ya na."
+       },
+       "math": "fs,max = 0.3 × 40 = 12 N > 6 N"
+      },
+      {
+       "text": {
+        "fa": "هل از سقف کمتر است، پس جعبه ساکن می‌ماند و اصطکاک ایستایی فقط به اندازهٔ هل است.",
+        "en": "The push is below the ceiling, so the crate stays put and static friction is just as large as the push.",
+        "tr": "Hol az saghf kamtar ast, pas ja'be saken mimanad va estekak-e istayi faghat be andaze-ye hol ast."
+       },
+       "math": "fs = 6 N"
+      }
+     ],
+     "answer": {
+      "fa": "`6 N` (جعبه حرکت نمی‌کند)",
+      "en": "`6 N` (the crate does not move)",
+      "tr": "`6 N` (ja'be harekat nemikonad)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`μs FN` سقف اصطکاک ایستایی است، نه مقدار همیشگی آن؛ وقتی جسم ساکن است، اصطکاک برابر نیروی وارد است.",
+      "en": "`μs FN` is the ceiling of static friction, not its constant value; while the object is at rest, friction equals the applied force.",
+      "tr": "`μs FN` saghf-e estekak-e istayi ast, na meghdar-e hamishegi-ye an; vaghti jesm saken ast, estekak barabar-e niroo-ye vared ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ضریب اصطکاک به جنس سطح‌ها بستگی دارد، نه به جرم جسم؛ جرم از راه `FN` در نیروی اصطکاک اثر می‌کند.",
+      "en": "The coefficient of friction depends on the surfaces, not the mass; mass affects the friction force only through `FN`.",
+      "tr": "Zarib-e estekak be jens-e sath-ha bastegi darad, na be jerm-e jesm; jerm az rah-e `FN` dar niroo-ye estekak asar mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Dey",
+     "number": 903
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 920
+    },
+    {
+     "session": "1400-Dey",
+     "number": 944
+    },
+    {
+     "session": "1398-Dey",
+     "number": 918
+    },
+    {
+     "session": "1400-Dey",
+     "number": 945
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 5,
+   "key": "phys-2-momentum-impulse",
+   "title": {
+    "fa": "تکانه و ضربه",
+    "en": "Momentum and impulse",
+    "tr": "Takane va zarbe"
+   },
+   "summary": {
+    "fa": "ایستاندن یک کامیون سخت‌تر از یک دوچرخه است، حتی با سرعت برابر: این همان تکانه است.",
+    "en": "Stopping a lorry is harder than stopping a bicycle, even at the same speed: that is momentum.",
+    "tr": "Istandan-e yek kamiyon sakht-tar az yek docharkhe ast, hatta ba sor'at-e barabar: in haman takane ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مقدار حرکت",
+      "en": "Understand first: the amount of motion",
+      "tr": "Avval befahm: meghdar-e harekat"
+     },
+     "body": {
+      "fa": "«تکانهٔ خطی» حاصل‌ضرب جرم در سرعت لحظه‌ای است: `p = m v`، یک کمیت برداری هم‌جهت سرعت (آزمون خرداد ۱۳۹۸). تکانه مثل «مقدار حرکت» است: کامیون و دوچرخه با یک سرعت، تکانهٔ بسیار متفاوتی دارند. چون `p` با `v` متناسب است (آزمون دی ۱۳۹۸)، اگر سرعت نصف شود تکانه نصف می‌شود (آزمون خرداد ۱۴۰۱) و اگر سه برابر شود، سه برابر (آزمون دی ۱۴۰۱).",
+      "en": "\"Linear momentum\" is mass times instantaneous velocity: `p = m v`, a vector quantity in the direction of the velocity (Khordad 1398 paper). Momentum is like the \"amount of motion\": a lorry and a bicycle at the same speed have very different momenta. Because `p` is proportional to `v` (Dey 1398 paper), halving the velocity halves the momentum (Khordad 1401 paper) and tripling it triples the momentum (Dey 1401 paper).",
+      "tr": "\"Takane-ye khatti\" hasel-zarb-e jerm dar sor'at-e lahze-i ast: `p = m v`, yek kamiyat-e bordari-ye ham-jahat-e sor'at (azmoon-e Khordad 1398). Takane mesl-e \"meghdar-e harekat\" ast: kamiyon va docharkhe ba yek sor'at, takane-ye besiyar motafaveti darand. Chon `p` ba `v` motenaseb ast (azmoon-e Dey 1398), agar sor'at nesf shavad takane nesf mishavad (azmoon-e Khordad 1401) va agar se barabar shavad, se barabar (azmoon-e Dey 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ضربه و قضیهٔ تکانه-ضربه",
+      "en": "Impulse and the impulse-momentum theorem",
+      "tr": "Zarbe va ghaziye-ye takane-zarbe"
+     },
+     "body": {
+      "fa": "قانون دوم نیوتون را می‌شود با تکانه نوشت: نیروی خالص برابر آهنگ تغییر تکانه است، `F = Δp / Δt` (آزمون دی ۱۴۰۰). اگر دو طرف را در `Δt` ضرب کنیم، «ضربه» به‌دست می‌آید: `J = F Δt`، یعنی نیروی خالص متوسط ضرب در مدت اثرش (آزمون دی ۱۳۹۹). «قضیهٔ تکانه-ضربه» می‌گوید تغییر تکانه برابر ضربه است (آزمون خرداد ۱۳۹۹)؛ مثلاً وقتی خودرو ترمز می‌کند و می‌ایستد، تغییر تکانهٔ افقی آن برابر ضربهٔ نیروی ترمز است (آزمون خرداد ۱۳۹۸). انرژی جنبشی را هم می‌شود با تکانه نوشت: `K = p^2 / (2m)`.",
+      "en": "Newton's second law can be written with momentum: the net force equals the rate of change of momentum, `F = Δp / Δt` (Dey 1400 paper). Multiply both sides by `Δt` and you get \"impulse\": `J = F Δt`, the average net force times the time it acts (Dey 1399 paper). The \"impulse-momentum theorem\" says the change in momentum equals the impulse (Khordad 1399 paper); for example, when a car brakes to a stop, its change in horizontal momentum equals the impulse of the braking force (Khordad 1398 paper). Kinetic energy can also be written with momentum: `K = p^2 / (2m)`.",
+      "tr": "Ghanoon-e dovvom-e Newton ra mishavad ba takane nevesht: niroo-ye khales barabar-e ahang-e taghyir-e takane ast, `F = Δp / Δt` (azmoon-e Dey 1400). Agar do taraf ra dar `Δt` zarb konim, \"zarbe\" be-dast miayad: `J = F Δt`, ya'ni niroo-ye khales-e motavasset zarb dar moddat-e asarash (azmoon-e Dey 1399). \"Ghaziye-ye takane-zarbe\" migooyad taghyir-e takane barabar-e zarbe ast (azmoon-e Khordad 1399); masalan vaghti khodro tormoz mikonad va miistad, taghyir-e takane-ye ofoghi-ye an barabar-e zarbe-ye niroo-ye tormoz ast (azmoon-e Khordad 1398). Enerzhi-ye jonbeshi ra ham mishavad ba takane nevesht: `K = p^2 / (2m)`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "J = F Δt = Δp = m v − m v0",
+     "caption": {
+      "fa": "ضربه برابر تغییر تکانه است",
+      "en": "Impulse equals the change in momentum",
+      "tr": "Zarbe barabar-e taghyir-e takane ast"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  same change in momentum dp:\n\n  long time   dt  -> small force\n  short time  dt  -> large force\n\n  airbag, bent knees on landing,\n  sand pit: they stretch dt\n  so the force on you is smaller",
+     "caption": {
+      "fa": "همان تغییر تکانه در زمان طولانی‌تر یعنی نیروی کمتر؛ کیسهٔ هوا و خم کردن زانو همین کار را می‌کنند.",
+      "en": "The same change in momentum over a longer time means a smaller force; airbags and bending your knees do exactly that.",
+      "tr": "Haman taghyir-e takane dar zaman-e toolani-tar ya'ni niroo-ye kamtar; kise-ye hava va kham kardan-e zanoo hamin kar ra mikonand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حاصل‌ضرب جرم یک جسم متحرک در سرعت لحظه‌ای آن، کدام کمیت برداری است؟ (آزمون خرداد ۱۳۹۸)",
+      "en": "Warm-up: the product of a moving object's mass and its instantaneous velocity is which vector quantity? (Khordad 1398 paper)",
+      "tr": "Garm kardan: hasel-zarb-e jerm-e yek jesm-e motaharrek dar sor'at-e lahze-i-ye an, kodam kamiyat-e bordari ast? (azmoon-e Khordad 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`m v` تعریف تکانه است؛ چون سرعت بردار است، تکانه هم بردار است.",
+        "en": "`m v` is the definition of momentum; because velocity is a vector, so is momentum.",
+        "tr": "`m v` ta'rif-e takane ast; chon sor'at bordar ast, takane ham bordar ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تکانهٔ خطی (`p`)",
+      "en": "Linear momentum (`p`)",
+      "tr": "Takane-ye khatti (`p`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جسمی `2` کیلوگرمی با سرعت `10 m/s` حرکت می‌کند. نیروی ثابت `6 N` در جهت حرکت به مدت `4` ثانیه به آن وارد می‌شود. سرعت نهایی را با مفهوم تکانه حساب کن. (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: a `2` kg object moves at `10 m/s`. A constant `6 N` force acts in the direction of motion for `4` s. Find the final velocity using momentum. (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: jesmi `2` kilogrami ba sor'at-e `10 m/s` harekat mikonad. Niroo-ye sabet-e `6 N` dar jahat-e harekat be moddat-e `4` sanie be an vared mishavad. Sor'at-e nahayi ra ba mafhoom-e takane hesab kon. (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تکانهٔ آغازی و ضربهٔ نیرو را حساب کن.",
+        "en": "Find the initial momentum and the impulse of the force.",
+        "tr": "Takane-ye aghazi va zarbe-ye niroo ra hesab kon."
+       },
+       "math": "p0 = 2 × 10 = 20 ,   J = 6 × 4 = 24   (kg·m/s)"
+      },
+      {
+       "text": {
+        "fa": "تکانهٔ پایانی = تکانهٔ آغازی + ضربه؛ سپس بر جرم تقسیم کن.",
+        "en": "Final momentum = initial momentum + impulse; then divide by the mass.",
+        "tr": "Takane-ye payani = takane-ye aghazi + zarbe; sepas bar jerm taghsim kon."
+       },
+       "math": "p = 20 + 24 = 44   ⟹   v = 44 / 2 = 22 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`22 m/s`",
+      "en": "`22 m/s`",
+      "tr": "`22 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر تکانهٔ جسمی با جرم ثابت سه برابر شود، انرژی جنبشی آن چند برابر می‌شود؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Exam twist: if the momentum of an object of constant mass triples, by what factor does its kinetic energy change? (Khordad 1400 paper)",
+      "tr": "Pich-e emtehani: agar takane-ye jesmi ba jerm-e sabet se barabar shavad, enerzhi-ye jonbeshi-ye an chand barabar mishavad? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پاسخ «سه برابر» تله است. انرژی جنبشی را بر حسب تکانه بنویس.",
+        "en": "The twist: \"three times\" is the trap. Write kinetic energy in terms of momentum.",
+        "tr": "Pich-e emtehan: pasokh-e \"se barabar\" tale ast. Enerzhi-ye jonbeshi ra bar hasab-e takane benevis."
+       },
+       "math": "K = p^2 / (2m)"
+      },
+      {
+       "text": {
+        "fa": "با `m` ثابت، `K` با مربع `p` متناسب است.",
+        "en": "With `m` fixed, `K` is proportional to the square of `p`.",
+        "tr": "Ba `m`-e sabet, `K` ba morabba'-e `p` motenaseb ast."
+       },
+       "math": "K' = (3p)^2 / (2m) = 9 K"
+      }
+     ],
+     "answer": {
+      "fa": "`9` برابر",
+      "en": "Nine times",
+      "tr": "`9` barabar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تکانه بردار است؛ وقتی توپ برمی‌گردد، تغییر تکانه `m v − (−m v) = 2 m v` است، نه صفر.",
+      "en": "Momentum is a vector; when a ball bounces back, the change in momentum is `m v − (−m v) = 2 m v`, not zero.",
+      "tr": "Takane bordar ast; vaghti toop barmigardad, taghyir-e takane `m v − (−m v) = 2 m v` ast, na sefr."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تکانه با `v` متناسب است ولی انرژی جنبشی با `v^2` (یا `p^2`)؛ این دو را در سؤال‌های «چند برابر» قاطی نکن.",
+      "en": "Momentum is proportional to `v` but kinetic energy to `v^2` (or `p^2`); do not mix them up in \"how many times\" questions.",
+      "tr": "Takane ba `v` motenaseb ast vali enerzhi-ye jonbeshi ba `v^2` (ya `p^2`); in do ra dar so'al-haye \"chand barabar\" ghati nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Khordad",
+     "number": 906
+    },
+    {
+     "session": "1398-Dey",
+     "number": 923
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 926
+    },
+    {
+     "session": "1401-Dey",
+     "number": 930
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 917
+    },
+    {
+     "session": "1399-Dey",
+     "number": 911
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 912
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 915
+    },
+    {
+     "session": "1400-Dey",
+     "number": 950
+    },
+    {
+     "session": "1399-Dey",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 6,
+   "key": "phys-2-momentum-conservation",
+   "title": {
+    "fa": "پایستگی تکانهٔ خطی",
+    "en": "Conservation of linear momentum",
+    "tr": "Payestegi-ye takane-ye khatti"
+   },
+   "summary": {
+    "fa": "در سامانه‌ای که از بیرون هل داده نمی‌شود، تکانهٔ کل فقط میان اجزا دست‌به‌دست می‌شود.",
+    "en": "In a system that is not pushed from outside, the total momentum is only passed around between its parts.",
+    "tr": "Dar samane-i ke az biroon hol dade nemishavad, takane-ye kol faghat miyan-e ajza dast-be-dast mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پول در یک جمع بسته",
+      "en": "Understand first: money in a closed group",
+      "tr": "Avval befahm: pool dar yek jam'-e baste"
+     },
+     "body": {
+      "fa": "«قانون پایستگی تکانهٔ خطی»: اگر نیروی خالص خارجی بر یک سامانه وارد نشود، تکانهٔ کل سامانه ثابت می‌ماند (آزمون خرداد ۱۴۰۰). در برخورد افقی دو جسم در سامانهٔ منزوی، نیروهای میان دو جسم کنش و واکنش‌اند و هم را در کل سامانه خنثی می‌کنند؛ پس تکانهٔ کل همیشه پایسته است (آزمون دی ۱۴۰۰). مثل پول در یک جمع بسته: میان افراد جابه‌جا می‌شود ولی جمع کل همان است.",
+      "en": "\"The law of conservation of linear momentum\": if no net external force acts on a system, the system's total momentum stays constant (Khordad 1400 paper). In a horizontal collision of two bodies in an isolated system, the forces between them are an action-reaction pair and cancel over the whole system; so the total momentum is always conserved (Dey 1400 paper). Like money inside a closed group: it moves between people, but the total stays the same.",
+      "tr": "\"Ghanoon-e payestegi-ye takane-ye khatti\": agar niroo-ye khales-e khareji bar yek samane vared nashavad, takane-ye kol-e samane sabet mimanad (azmoon-e Khordad 1400). Dar barkhord-e ofoghi-ye do jesm dar samane-ye monzavi, niroo-haye miyan-e do jesm konesh va vakonesh-and va ham ra dar kol-e samane khonsa mikonand; pas takane-ye kol hamishe payeste ast (azmoon-e Dey 1400). Mesl-e pool dar yek jam'-e baste: miyan-e afrad jabeja mishavad vali jam'-e kol haman ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "m1 v1 + m2 v2 = m1 v1' + m2 v2'",
+     "caption": {
+      "fa": "تکانهٔ کل پیش از برخورد = تکانهٔ کل پس از آن؛ علامت جهت را فراموش نکن",
+      "en": "Total momentum before = total momentum after; do not forget the direction signs",
+      "tr": "Takane-ye kol pish az barkhord = takane-ye kol pas az an; alamat-e jahat ra faramoosh nakon"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " before: [2 kg] -> 6 m/s  [1 kg] 0\n after:  [2 kg + 1 kg] -> v (stuck)\n\n p before = p after\n 2(6) + 1(0) = 3 v\n v = 4 m/s",
+     "caption": {
+      "fa": "برخورد چسبنده: دو جسم پس از برخورد با هم حرکت می‌کنند؛ تکانهٔ کل حفظ می‌شود.",
+      "en": "A sticking collision: the two objects move together afterwards; the total momentum is kept.",
+      "tr": "Barkhord-e chasbande: do jesm pas az barkhord ba ham harekat mikonand; takane-ye kol hefz mishavad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام قانون می‌گوید اگر نیروی خالص خارجی بر سامانه‌ای وارد نشود، تکانهٔ کل آن ثابت می‌ماند؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: which law says that if no net external force acts on a system, its total momentum stays constant? (Khordad 1400 paper)",
+      "tr": "Garm kardan: kodam ghanoon migooyad agar niroo-ye khales-e khareji bar samane-i vared nashavad, takane-ye kol-e an sabet mimanad? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«ثابت ماندن» یعنی «پایستگی»؛ و کمیت مورد نظر تکانهٔ خطی است.",
+        "en": "\"Staying constant\" means \"conservation\"; and the quantity is linear momentum.",
+        "tr": "\"Sabet mandan\" ya'ni \"payestegi\"; va kamiyat-e mored-e nazar takane-ye khatti ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "قانون پایستگی تکانهٔ خطی",
+      "en": "The law of conservation of linear momentum",
+      "tr": "Ghanoon-e payestegi-ye takane-ye khatti"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: ارابه‌ای `2` کیلوگرمی با سرعت `6 m/s` به ارابهٔ ساکن `1` کیلوگرمی می‌خورد و دو ارابه به هم می‌چسبند. سرعت مشترک پس از برخورد چقدر است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: a `2` kg trolley moving at `6 m/s` hits a stationary `1` kg trolley and they stick together. What is their common velocity afterwards? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: arabe-i `2` kilogrami ba sor'at-e `6 m/s` be arabe-ye saken-e `1` kilogrami mikhorad va do arabe be ham michasband. Sor'at-e moshtarak pas az barkhord cheghadr ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سامانه منزوی است، پس تکانهٔ کل حفظ می‌شود. تکانهٔ پیش از برخورد را حساب کن.",
+        "en": "The system is isolated, so total momentum is conserved. Find the momentum before the collision.",
+        "tr": "Samane monzavi ast, pas takane-ye kol hefz mishavad. Takane-ye pish az barkhord ra hesab kon."
+       },
+       "math": "2 × 6 + 1 × 0 = 12"
+      },
+      {
+       "text": {
+        "fa": "پس از برخورد، دو ارابه یک جسم `3` کیلوگرمی‌اند.",
+        "en": "After the collision, the two trolleys are one `3` kg object.",
+        "tr": "Pas az barkhord, do arabe yek jesm-e `3` kilogrami-and."
+       },
+       "math": "12 = 3 v   ⟹   v = 4 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`4 m/s` در همان جهت",
+      "en": "`4 m/s` in the same direction",
+      "tr": "`4 m/s` dar haman jahat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تفنگی `4` کیلوگرمی گلوله‌ای `20` گرمی را با سرعت `400 m/s` شلیک می‌کند. سرعت پس‌زنی تفنگ چقدر است؟",
+      "en": "Exam twist: a `4` kg rifle fires a `20` g bullet at `400 m/s`. What is the rifle's recoil velocity?",
+      "tr": "Pich-e emtehani: tofangi `4` kilogrami gooloole-i `20` gerami ra ba sor'at-e `400 m/s` shelik mikonad. Sor'at-e pas-zani-ye tofang cheghadr ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پیش از شلیک همه ساکن‌اند، پس تکانهٔ کل صفر است و پس از شلیک هم باید صفر بماند. گرم را به کیلوگرم تبدیل کن.",
+        "en": "The twist: before firing everything is at rest, so the total momentum is zero, and it must stay zero after firing. Convert grams to kilograms.",
+        "tr": "Pich-e emtehan: pish az shelik hame saken-and, pas takane-ye kol sefr ast va pas az shelik ham bayad sefr bemanad. Geram ra be kilogram tabdil kon."
+       },
+       "math": "0 = 0.02 × 400 + 4 v"
+      },
+      {
+       "text": {
+        "fa": "حل کن؛ علامت منفی یعنی تفنگ در جهت مخالف گلوله پس می‌زند.",
+        "en": "Solve; the negative sign means the rifle recoils opposite to the bullet.",
+        "tr": "Hal kon; alamat-e manfi ya'ni tofang dar jahat-e mokhalef-e gooloole pas mizanad."
+       },
+       "math": "v = −8 / 4 = −2 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`2 m/s` در جهت مخالف گلوله",
+      "en": "`2 m/s` opposite to the bullet",
+      "tr": "`2 m/s` dar jahat-e mokhalef-e gooloole"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تکانه بردار است؛ در برخورد رو‌در‌رو، سرعت یکی از اجسام را منفی بگذار.",
+      "en": "Momentum is a vector; in a head-on collision, make one object's velocity negative.",
+      "tr": "Takane bordar ast; dar barkhord-e roo-dar-roo, sor'at-e yeki az ajsam ra manfi begozar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در برخورد، تکانهٔ کل پایسته است، ولی انرژی جنبشی همیشه پایسته نیست؛ در برخورد چسبنده بخشی از آن به گرما تبدیل می‌شود.",
+      "en": "In a collision total momentum is conserved, but kinetic energy is not always; in a sticking collision part of it turns into heat.",
+      "tr": "Dar barkhord, takane-ye kol payeste ast, vali enerzhi-ye jonbeshi hamishe payeste nist; dar barkhord-e chasbande bakhshi az an be garma tabdil mishavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 925
+    },
+    {
+     "session": "1400-Dey",
+     "number": 947
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 2,
+   "unit": 7,
+   "key": "phys-2-circular-gravitation",
+   "title": {
+    "fa": "حرکت دایره‌ای یکنواخت و گرانش",
+    "en": "Uniform circular motion and gravitation",
+    "tr": "Harekat-e dayere-i-ye yeknavakht va geranesh"
+   },
+   "summary": {
+    "fa": "سنگ را با نخ بچرخان: نخ همیشه به مرکز می‌کشد؛ ماه هم با نخی نامرئی به نام گرانش می‌چرخد.",
+    "en": "Whirl a stone on a string: the string always pulls towards the centre; the Moon circles on an invisible string called gravity.",
+    "tr": "Sang ra ba nakh becharkhan: nakh hamishe be markaz mikeshad; mah ham ba nakhi namar'i be nam-e geranesh micharkhad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سنگی که با نخ می‌چرخد",
+      "en": "Understand first: a stone whirled on a string",
+      "tr": "Avval befahm: sangi ke ba nakh micharkhad"
+     },
+     "body": {
+      "fa": "در «حرکت دایره‌ای یکنواخت»، تندی ثابت است ولی جهت سرعت مدام عوض می‌شود؛ پس جسم شتاب دارد. این «شتاب مرکزگرا» همیشه رو به مرکز دایره است (آزمون دی ۱۴۰۰) و اندازه‌اش `a = v^2 / r`. نیرویی که این شتاب را می‌سازد (کشش نخ، اصطکاک چرخ‌ها، یا گرانش) «نیروی مرکزگرا» است: `F = m v^2 / r`. اگر نخ پاره شود، سنگ روی خط مماس، نه رو به بیرون، دور می‌شود.",
+      "en": "In \"uniform circular motion\" the speed is constant but the direction of the velocity keeps changing; so the object is accelerating. This \"centripetal acceleration\" always points towards the centre of the circle (Dey 1400 paper), and its size is `a = v^2 / r`. The force that produces it (string tension, tyre friction, or gravity) is the \"centripetal force\": `F = m v^2 / r`. If the string snaps, the stone flies off along the tangent, not outwards.",
+      "tr": "Dar \"harekat-e dayere-i-ye yeknavakht\", tondi sabet ast vali jahat-e sor'at modam avaz mishavad; pas jesm shetab darad. In \"shetab-e markazgara\" hamishe roo be markaz-e dayere ast (azmoon-e Dey 1400) va andaze-ash `a = v^2 / r`. Niruyi ke in shetab ra misazad (keshesh-e nakh, estekak-e charkh-ha, ya geranesh) \"niroo-ye markazgara\" ast: `F = m v^2 / r`. Agar nakh pare shavad, sang rooye khatt-e momas, na roo be biroon, door mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "              v ->\n          .---*---.\n        .'    |    '.\n       /      | a   \\\n      |       v      |   a points to\n      |       O      |   centre O\n       \\            /\n        '.        .'\n          '------'\n\n   a = v^2 / r ,   F = m v^2 / r",
+     "caption": {
+      "fa": "سرعت مماس بر دایره و شتاب رو به مرکز است؛ این دو بر هم عمودند.",
+      "en": "The velocity is tangent to the circle and the acceleration points to the centre; the two are perpendicular.",
+      "tr": "Sor'at momas bar dayere va shetab roo be markaz ast; in do bar ham amood-and."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون گرانش عمومی",
+      "en": "The law of universal gravitation",
+      "tr": "Ghanoon-e geranesh-e omoomi"
+     },
+     "body": {
+      "fa": "«قانون گرانش عمومی نیوتون»: هر دو جسم یکدیگر را با نیرویی می‌کشند که با حاصل‌ضرب جرم‌ها متناسب و با «مربع فاصله» وارون‌متناسب است: `F = G m1 m2 / r^2`. این همان نیرویی است که سیب را پایین می‌آورد و ماه را در مدار نگه می‌دارد. چون نیرو با `1 / r^2` تغییر می‌کند، سه برابر شدن فاصله نیرو را `9` بار کم می‌کند (آزمون خرداد ۱۳۹۹).",
+      "en": "\"Newton's law of universal gravitation\": any two objects pull on each other with a force proportional to the product of their masses and inversely proportional to the \"square of the distance\": `F = G m1 m2 / r^2`. It is the same force that brings an apple down and keeps the Moon in orbit. Because the force varies as `1 / r^2`, tripling the distance makes the force nine times smaller (Khordad 1399 paper).",
+      "tr": "\"Ghanoon-e geranesh-e omoomi-ye Newton\": har do jesm yekdigar ra ba niruyi mikeshand ke ba hasel-zarb-e jerm-ha motenaseb va ba \"morabba'-e fasele\" varoon-motenaseb ast: `F = G m1 m2 / r^2`. In haman niruyi ast ke sib ra payin miavarad va mah ra dar madar negah midarad. Chon niroo ba `1 / r^2` taghyir mikonad, se barabar shodan-e fasele niroo ra `9` bar kam mikonad (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "F = G m1 m2 / r^2 ,   G = 6.67 × 10^-11 N·m^2/kg^2",
+     "caption": {
+      "fa": "`r` فاصلهٔ مرکز تا مرکز دو جسم",
+      "en": "`r` is the centre-to-centre distance of the two objects",
+      "tr": "`r` fasele-ye markaz ta markaz-e do jesm"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در حرکت دایره‌ای یکنواخت، بردار شتاب مرکزگرا همیشه به کدام سمت است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: in uniform circular motion, which way does the centripetal acceleration vector always point? (Dey 1400 paper)",
+      "tr": "Garm kardan: dar harekat-e dayere-i-ye yeknavakht, bordar-e shetab-e markazgara hamishe be kodam samt ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نام «مرکزگرا» خودش پاسخ است: نخ سنگ را رو به مرکز می‌کشد و شتاب هم‌جهت نیروی خالص است.",
+        "en": "The name \"centripetal\" (centre-seeking) is the answer: the string pulls the stone towards the centre, and acceleration follows the net force.",
+        "tr": "Nam-e \"markazgara\" khodash pasokh ast: nakh sang ra roo be markaz mikeshad va shetab ham-jahat-e niroo-ye khales ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رو به مرکز دایره",
+      "en": "Towards the centre of the circle",
+      "tr": "Roo be markaz-e dayere"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اگر فاصلهٔ دو جسم سه برابر شود، نیروی گرانشی میان آن‌ها چه تغییری می‌کند؟ رابطه را بنویس. (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: if the distance between two objects triples, how does the gravitational force between them change? Write the relation. (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: agar fasele-ye do jesm se barabar shavad, niroo-ye geraneshi miyan-e an-ha che taghyiri mikonad? Rabete ra benevis. (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رابطه را بنویس؛ جرم‌ها و `G` ثابت‌اند، پس فقط `r` عوض می‌شود.",
+        "en": "Write the relation; the masses and `G` are fixed, so only `r` changes.",
+        "tr": "Rabete ra benevis; jerm-ha va `G` sabet-and, pas faghat `r` avaz mishavad."
+       },
+       "math": "F = G m1 m2 / r^2"
+      },
+      {
+       "text": {
+        "fa": "`r` را با `3r` جایگزین کن؛ مربع `3` می‌شود `9`.",
+        "en": "Replace `r` with `3r`; the square of `3` is `9`.",
+        "tr": "`r` ra ba `3r` jaygozin kon; morabba'-e `3` mishavad `9`."
+       },
+       "math": "F' = G m1 m2 / (3r)^2 = F / 9"
+      }
+     ],
+     "answer": {
+      "fa": "`1/9` نیروی اولیه می‌شود",
+      "en": "It becomes `1/9` of the original force",
+      "tr": "`1/9` niroo-ye avvaliye mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: خودرویی `1000` کیلوگرمی با تندی ثابت `10 m/s` پیچی دایره‌ای به شعاع `50` متر را دور می‌زند. شتاب و نیروی مرکزگرا چقدر است و این نیرو را چه چیزی تأمین می‌کند؟",
+      "en": "Exam twist: a `1000` kg car goes round a circular bend of radius `50` m at a steady `10 m/s`. What are the centripetal acceleration and force, and what supplies this force?",
+      "tr": "Pich-e emtehani: khodrowi `1000` kilogrami ba tondi-ye sabet-e `10 m/s` pichi dayere-i be sho'a'-e `50` metr ra dor mizanad. Shetab va niroo-ye markazgara cheghadr ast va in niroo ra che chizi ta'min mikonad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: تندی ثابت است ولی شتاب صفر نیست، چون جهت سرعت عوض می‌شود.",
+        "en": "The twist: the speed is constant but the acceleration is not zero, because the velocity's direction is changing.",
+        "tr": "Pich-e emtehan: tondi sabet ast vali shetab sefr nist, chon jahat-e sor'at avaz mishavad."
+       },
+       "math": "a = v^2 / r = 100 / 50 = 2 m/s^2"
+      },
+      {
+       "text": {
+        "fa": "نیرو از قانون دوم؛ روی جادهٔ افقی تنها نیروی افقی رو به مرکز، اصطکاک ایستایی میان لاستیک و جاده است.",
+        "en": "The force comes from the second law; on a flat road the only horizontal force towards the centre is static friction between the tyres and the road.",
+        "tr": "Niroo az ghanoon-e dovvom; rooye jadde-ye ofoghi tanha niroo-ye ofoghi-ye roo be markaz, estekak-e istayi miyan-e lastik va jadde ast."
+       },
+       "math": "F = m a = 1000 × 2 = 2000 N"
+      }
+     ],
+     "answer": {
+      "fa": "`2 m/s^2` و `2000 N` رو به مرکز؛ اصطکاک ایستایی لاستیک‌ها",
+      "en": "`2 m/s^2` and `2000 N` towards the centre; static friction of the tyres",
+      "tr": "`2 m/s^2` va `2000 N` roo be markaz; estekak-e istayi-ye lastik-ha"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تندی ثابت به معنی شتاب صفر نیست؛ در حرکت دایره‌ای جهت سرعت مدام عوض می‌شود.",
+      "en": "Constant speed does not mean zero acceleration; in circular motion the velocity's direction keeps changing.",
+      "tr": "Tondi-ye sabet be ma'ni-ye shetab-e sefr nist; dar harekat-e dayere-i jahat-e sor'at modam avaz mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در گرانش، نیرو با «مربع» فاصله وارون‌متناسب است؛ دو برابر شدن فاصله نیرو را `4` بار کم می‌کند، نه `2` بار.",
+      "en": "In gravitation the force varies inversely with the \"square\" of the distance; doubling the distance makes it four times smaller, not two.",
+      "tr": "Dar geranesh, niroo ba \"morabba'\"-e fasele varoon-motenaseb ast; do barabar shodan-e fasele niroo ra `4` bar kam mikonad, na `2` bar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 942
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 0
+    }
+   ]
+  }
+ ]
+}
