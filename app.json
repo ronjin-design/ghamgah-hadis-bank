@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2039,
- "versionName": "3.16.1",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2039/Ghamgah-E-Hadis.apk",
+ "versionCode": 2040,
+ "versionName": "3.16.2",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2040/Ghamgah-E-Hadis.apk",
  "size": 43261870,
- "sha256": "cba5beecf34b43a0b912c5c758d821e37c3631dea84e29d3c4951c68015956dc",
+ "sha256": "fb85f4fb573c357b94ed7891d572d6472306053aadd8c45dd489a0f12a057fe4",
  "notes": {
-  "fa": "نمودارهای متحرک: ۱۲ نمودار درس‌های فیزیک، شیمی و زیست حالا جان می‌گیرند؛ مثل نوسان فنر، شکست نور، پرش الکترون، سلول گالوانی، تعادل پویا، چنگال همانندسازی، ریبوزوم و توربین ATP. دکمهٔ مکث و نسخهٔ متنی هم هست.",
-  "en": "Animated diagrams: 12 lesson diagrams in Physics, Chemistry and Biology now move, from the spring and refraction to the electron jump, galvanic cell, dynamic equilibrium, replication fork, ribosome and the ATP turbine. Pause and text-version buttons included.",
-  "tr": "Nemoodar-haye motaharrek: 12 nemoodar-e dars-haye fizik, shimi va zist hala jan migirand; mesl-e navasan-e fanar, shekast-e noor, paresh-e electron, selool-e galvani, ta-adol-e pooya, changal-e hamanand-sazi, ribosome va turbin-e ATP. Dokme-ye maks va noskhe-ye matni ham hast."
+  "fa": "برچسب «پیش‌رو» از فصل‌ها برداشته شد؛ همهٔ فصل‌ها درس‌نامهٔ کامل دارند. فصل‌هایی که در قطب‌نما تیک زده‌ای حالا یک تیک دارند.",
+  "en": "The 'Upcoming' tag is gone from the chapter list: every chapter has its full lesson now. Chapters you ticked in the Study Compass now show a tick.",
+  "tr": "Barchasb-e 'Pish-roo' az fasl-ha bardashte shod; hame-ye fasl-ha darsname-ye kamel darand. Fasl-hayi ke dar ghotb-nama tik zade-i hala yek tik darand."
  }
 }
