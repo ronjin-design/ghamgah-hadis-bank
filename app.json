@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2036,
- "versionName": "3.15.2",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2036/Ghamgah-E-Hadis.apk",
- "size": 43048706,
- "sha256": "6e2e91ed0fa3719d66f0d7d38e0afb0f424b60c48b19c3e24158f5436ab8e8c4",
+ "versionCode": 2037,
+ "versionName": "3.15.3",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2037/Ghamgah-E-Hadis.apk",
+ "size": 43081538,
+ "sha256": "2ad5e03181ce4a3bbf535ffc41872c0cf592d1289f924f9bea892da596bc8929",
  "notes": {
-  "fa": "رفع اشکال: برداشتن تیک همهٔ فصل‌ها در قطب‌نمای مطالعه حالا با برگشتن ذخیره می‌شود.",
-  "en": "Fix: unticking all chapters in the Study Compass now saves when you go back.",
-  "tr": "Rafe eshkal: bardashtan-e tik-e hame-ye fasl-ha dar ghotb-nama-ye motale-e hala ba bargashtan zakhire mishavad."
+  "fa": "قطب‌نما حالا تنها پرسش‌نامهٔ شروع است؛ دکمهٔ «بدون آزمون ادامه بده» درست کار می‌کند؛ قطب‌نما همیشه در داشبورد، برنامهٔ من و نمایه در دسترس است. ظاهر تازهٔ قطب‌نما و کارت «منطقهٔ خطر» برای شروع دوباره.",
+  "en": "The Study Compass is now the only start-up check-in; 'Continue without the test' works; the Compass is always one tap away on the dashboard, My Schedule and Profile, with your chapters kept. New Compass & Lantern look, and Fresh Start now sits in its own Danger Zone card.",
+  "tr": "Ghotb-nama hala tanha porsesh-name-ye shoru ast; dokme-ye 'Bedoon-e azmoon edame bede' dorost kar mikonad; ghotb-nama hamishe dar dashboard, barname-ye man va namaye hast. Zaher-e taze-ye ghotb-nama va kart-e 'Mantaghe-ye khatar' baraye shoru-e dobare."
  }
 }
