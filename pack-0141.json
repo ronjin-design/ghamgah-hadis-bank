@@ -1,0 +1,501 @@
+{
+ "version": 141,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Physics",
+   "key": "phys-g-newton-2",
+   "term": {
+    "fa": "قانون دوم نیوتون",
+    "en": "Newton's second law",
+    "tr": "ghanoon-e dovom-e Newton"
+   },
+   "explain": {
+    "fa": "شتاب جسم با نیروی خالص متناسب و با جرم وارون‌متناسب است: `F(net) = m a`. به زبان تکانه: نیروی خالص برابر آهنگ تغییر تکانه است، `F = Δp / Δt`.",
+    "en": "An object's acceleration is proportional to the net force and inversely proportional to its mass: `F(net) = m a`. In terms of momentum: the net force equals the rate of change of momentum, `F = Δp / Δt`.",
+    "tr": "Shetab-e jesm ba niroo-ye khales motenaseb va ba jerm varoon-motenaseb ast: `F(net) = m a`. Be zaban-e takane: niroo-ye khales barabar-e ahang-e taghyir-e takane ast, `F = Δp / Δt`."
+   },
+   "analogy": {
+    "fa": "با یک هل، چرخ خالی فروشگاه تندتر از چرخ پر شتاب می‌گیرد.",
+    "en": "With the same push, an empty shopping trolley speeds up faster than a full one.",
+    "tr": "Ba yek hol, charkh-e khali-ye foroushgah tond-tar az charkh-e por shetab migirad."
+   },
+   "contrast": {
+    "fa": "`F` در این قانون نیروی «خالص» است، نه یکی از نیروها.",
+    "en": "The `F` in this law is the \"net\" force, not just one of the forces.",
+    "tr": "`F` dar in ghanoon niroo-ye \"khales\" ast, na yeki az niroo-ha."
+   },
+   "unit": "phys-2-newton-1-2"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-acceleration",
+   "term": {
+    "fa": "شتاب حرکت",
+    "en": "acceleration",
+    "tr": "shetab-e harekat"
+   },
+   "explain": {
+    "fa": "آهنگ تغییر سرعت (`m/s^2`). از قانون دوم، `a = F(net) / m`؛ مثلاً جسم `4` کیلوگرمی با نیروی خالص `8 N` شتاب `2 m/s^2` می‌گیرد.",
+    "en": "The rate of change of velocity (`m/s^2`). From the second law, `a = F(net) / m`; for example, a `4` kg object with a net force of `8 N` accelerates at `2 m/s^2`.",
+    "tr": "Ahang-e taghyir-e sor'at (`m/s^2`). Az ghanoon-e dovvom, `a = F(net) / m`; masalan jesm-e `4` kilogrami ba niroo-ye khales-e `8 N` shetab-e `2 m/s^2` migirad."
+   },
+   "unit": "phys-2-newton-1-2"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-acceleration-force-direction",
+   "term": {
+    "fa": "جهت شتاب و نیرو",
+    "en": "acceleration and net force direction",
+    "tr": "jahat-e shetab va niroo"
+   },
+   "explain": {
+    "fa": "بردار شتاب در هر لحظه همیشه هم‌جهت نیروی خالص است، نه لزوماً هم‌جهت سرعت. خودرویی که به شرق می‌رود و ترمز می‌کند، شتابش به غرب است.",
+    "en": "The acceleration vector always points along the net force at every instant, not necessarily along the velocity. A car moving east and braking has its acceleration pointing west.",
+    "tr": "Bordar-e shetab dar har lahze hamishe ham-jahat-e niroo-ye khales ast, na lozooman ham-jahat-e sor'at. Khodrowi ke be shargh miravad va tormoz mikonad, shetabash be gharb ast."
+   },
+   "contrast": {
+    "fa": "شتاب دنبال نیرو می‌رود، نه دنبال حرکت.",
+    "en": "Acceleration follows the force, not the motion.",
+    "tr": "Shetab donbal-e niroo miravad, na donbal-e harekat."
+   },
+   "unit": "phys-2-newton-1-2"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-newton-3",
+   "term": {
+    "fa": "قانون سوم نیوتون",
+    "en": "Newton's third law",
+    "tr": "ghanoon-e sevvom-e Newton"
+   },
+   "explain": {
+    "fa": "هر وقت `A` به `B` نیرو وارد کند، `B` هم به `A` نیرویی هم‌اندازه، هم‌راستا و در جهت مخالف وارد می‌کند.",
+    "en": "Whenever `A` pushes or pulls on `B`, `B` exerts on `A` a force of equal size, along the same line, in the opposite direction.",
+    "tr": "Har vaght `A` be `B` niroo vared konad, `B` ham be `A` niruyi ham-andaze, ham-rasta va dar jahat-e mokhalef vared mikonad."
+   },
+   "analogy": {
+    "fa": "دیوار را روی اسکیت هل بده؛ خودت عقب می‌روی.",
+    "en": "Push a wall on skates; you roll backwards.",
+    "tr": "Divar ra rooye eskeyt hol bede; khodet aghab miravi."
+   },
+   "contrast": {
+    "fa": "وزن و نیروی عمودی جفت کنش-واکنش نیستند؛ هر دو روی یک جسم‌اند.",
+    "en": "Weight and normal force are not an action-reaction pair; both act on one object.",
+    "tr": "Vazn va niroo-ye amoodi joft-e konesh-vakonesh nistand; har do rooye yek jesm-and."
+   },
+   "unit": "phys-2-newton-3"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-action-reaction",
+   "term": {
+    "fa": "نیروهای کنش و واکنش",
+    "en": "action and reaction forces",
+    "tr": "niroo-haye konesh va vakonesh"
+   },
+   "explain": {
+    "fa": "جفت نیروهای قانون سوم: همیشه به دو جسم متفاوت وارد می‌شوند، پس هرگز یکدیگر را خنثی نمی‌کنند، و هم‌زمان‌اند.",
+    "en": "The pair of forces in the third law: they always act on two different objects, so they never cancel each other, and they happen at the same time.",
+    "tr": "Joft niroo-haye ghanoon-e sevvom: hamishe be do jesm-e motafavet vared mishavand, pas hargez yekdigar ra khonsa nemikonand, va ham-zaman-and."
+   },
+   "contrast": {
+    "fa": "اسب و گاری حرکت می‌کنند چون زمین اسب را به جلو هل می‌دهد.",
+    "en": "A horse and cart move because the ground pushes the horse forwards.",
+    "tr": "Asb va gari harekat mikonand chon zamin asb ra be jelo hol midahad."
+   },
+   "unit": "phys-2-newton-3"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-normal-force",
+   "term": {
+    "fa": "نیروی عمودی تکیه‌گاه",
+    "en": "normal force",
+    "tr": "niroo-ye amoodi"
+   },
+   "explain": {
+    "fa": "نیرویی که سطح به جسمِ رویش وارد می‌کند؛ عمود بر سطح و رو به بیرون. برای جسم ساکن روی سطح افقی بی نیروی قائم دیگر، `FN = mg` و مخالف وزن است.",
+    "en": "The force a surface exerts on an object resting on it; perpendicular to the surface and pointing away from it. For an object at rest on a horizontal surface with no other vertical force, `FN = mg`, opposite to the weight.",
+    "tr": "Niruyi ke sath be jesm-e rooyash vared mikonad; amood bar sath va roo be biroon. Baraye jesm-e saken rooye sath-e ofoghi bi niroo-ye gha'em-e digar, `FN = mg` va mokhalef-e vazn ast."
+   },
+   "matches": {
+    "fa": [
+     "نیروی عمودی"
+    ]
+   },
+   "analogy": {
+    "fa": "سطح مثل تشک فنری خیلی سفتی است که پس می‌زند.",
+    "en": "A surface is like a very stiff sprung mattress pushing back.",
+    "tr": "Sath mesl-e toshak-e fanari-ye kheyli sefti ast ke pas mizanad."
+   },
+   "contrast": {
+    "fa": "`FN = mg` همیشگی نیست؛ در آسانسور شتاب‌دار یا با فشار اضافه عوض می‌شود.",
+    "en": "`FN = mg` is not universal; it changes in an accelerating lift or with an extra push.",
+    "tr": "`FN = mg` hamishegi nist; dar asansor-e shetab-dar ya ba feshar-e ezafe avaz mishavad."
+   },
+   "unit": "phys-2-normal-spring"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-hooke",
+   "term": {
+    "fa": "قانون هوک",
+    "en": "Hooke's law",
+    "tr": "ghanoon-e Hooke"
+   },
+   "explain": {
+    "fa": "نیروی فنر آرمانی با تغییر طولش متناسب است: `F = k x`. دو برابر شدن نیرو تغییر طول را دو برابر می‌کند و سه برابر شدن تغییر طول نیرو را سه برابر.",
+    "en": "An ideal spring's force is proportional to its change in length: `F = k x`. Doubling the force doubles the extension, and tripling the extension triples the force.",
+    "tr": "Niroo-ye fanar-e armani ba taghyir-e toolash motenaseb ast: `F = k x`. Do barabar shodan-e niroo taghyir-e tool ra do barabar mikonad va se barabar shodan-e taghyir-e tool niroo ra se barabar."
+   },
+   "contrast": {
+    "fa": "`x` تغییر طول است، نه طول کل فنر.",
+    "en": "`x` is the change in length, not the spring's total length.",
+    "tr": "`x` taghyir-e tool ast, na tool-e kol-e fanar."
+   },
+   "unit": "phys-2-normal-spring"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-spring-restoring",
+   "term": {
+    "fa": "نیروی بازگرداننده فنر",
+    "en": "spring restoring force",
+    "tr": "niroo-ye bazgardanandeh"
+   },
+   "explain": {
+    "fa": "نیروی فنر همیشه مخالف تغییر طول و رو به حالت تعادل است: فنر فشرده هل می‌دهد و فنر کشیده می‌کشد.",
+    "en": "A spring's force always opposes its change in length and points back towards equilibrium: a compressed spring pushes and a stretched spring pulls.",
+    "tr": "Niroo-ye fanar hamishe mokhalef-e taghyir-e tool va roo be halat-e ta'adol ast: fanar-e feshorde hol midahad va fanar-e keshide mikeshad."
+   },
+   "analogy": {
+    "fa": "مثل کش لاستیکی که همیشه می‌خواهد به اندازهٔ خودش برگردد.",
+    "en": "Like a rubber band that always wants to return to its own size.",
+    "tr": "Mesl-e kesh-e lastiki ke hamishe mikhahad be andaze-ye khodash bargardad."
+   },
+   "unit": "phys-2-normal-spring"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-static-friction",
+   "term": {
+    "fa": "اصطکاک ایستایی",
+    "en": "static friction",
+    "tr": "estekak-e istayi"
+   },
+   "explain": {
+    "fa": "اصطکاکی که جسم ساکن را از حرکت باز می‌دارد؛ برابر و مخالف نیروی وارد است، تا سقف `fs,max = μs FN` که با نیروی عمودی متناسب است.",
+    "en": "The friction that keeps a resting object from moving; it is equal and opposite to the applied force, up to the ceiling `fs,max = μs FN`, which is proportional to the normal force.",
+    "tr": "Estekaki ke jesm-e saken ra az harekat baz midarad; barabar va mokhalef-e niroo-ye vared ast, ta saghf-e `fs,max = μs FN` ke ba niroo-ye amoodi motenaseb ast."
+   },
+   "analogy": {
+    "fa": "کمدی که هل می‌دهی و تکان نمی‌خورد.",
+    "en": "A wardrobe you push that will not budge.",
+    "tr": "Komodi ke hol midahi va takan nemikhorad."
+   },
+   "contrast": {
+    "fa": "`μs FN` سقف است؛ اگر جسم ساکن است، اصطکاک برابر هل توست.",
+    "en": "`μs FN` is the ceiling; while the object is at rest, friction equals your push.",
+    "tr": "`μs FN` saghf ast; agar jesm saken ast, estekak barabar-e hol-e tost."
+   },
+   "unit": "phys-2-friction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-kinetic-friction",
+   "term": {
+    "fa": "اصطکاک جنبشی",
+    "en": "kinetic friction",
+    "tr": "estekak-e jonbeshi"
+   },
+   "explain": {
+    "fa": "اصطکاک روی جسمی که می‌لغزد: `fk = μk FN`؛ با نیروی عمودی متناسب و معمولاً کمی کمتر از بیشینهٔ اصطکاک ایستایی.",
+    "en": "The friction on a sliding object: `fk = μk FN`; proportional to the normal force and usually a little less than the maximum static friction.",
+    "tr": "Estekak rooye jesmi ke milaghzad: `fk = μk FN`; ba niroo-ye amoodi motenaseb va ma'moolan kami kamtar az bishine-ye estekak-e istayi."
+   },
+   "contrast": {
+    "fa": "برای شتاب، نیروی وارد منهای اصطکاک را در `F = ma` بگذار.",
+    "en": "For the acceleration, put the applied force minus friction into `F = ma`.",
+    "tr": "Baraye shetab, niroo-ye vared menha-ye estekak ra dar `F = ma` begozar."
+   },
+   "unit": "phys-2-friction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-kinetic-friction-coefficient",
+   "term": {
+    "fa": "ضریب اصطکاک جنبشی",
+    "en": "kinetic friction coefficient",
+    "tr": "zarib-e estekak-e jonbeshi"
+   },
+   "explain": {
+    "fa": "`μk`: عددی بی‌یکا که بیشتر به جنس و وضعیت دو سطح در تماس بستگی دارد، نه به مساحت تماس، سرعت یا جرم جسم.",
+    "en": "`μk`: a unitless number that depends mainly on the materials and condition of the two surfaces in contact, not on the contact area, the speed or the object's mass.",
+    "tr": "`μk`: adadi bi-yeka ke bishtar be jens va vaz'iyat-e do sath-e dar tamas bastegi darad, na be masahat-e tamas, sor'at ya jerm-e jesm."
+   },
+   "contrast": {
+    "fa": "جرم فقط از راه `FN` روی نیروی اصطکاک اثر می‌گذارد، نه روی ضریب.",
+    "en": "Mass affects the friction force only through `FN`, not the coefficient.",
+    "tr": "Jerm faghat az rah-e `FN` rooye niroo-ye estekak asar migozarad, na rooye zarib."
+   },
+   "unit": "phys-2-friction"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-linear-momentum",
+   "term": {
+    "fa": "تکانهٔ خطی",
+    "en": "linear momentum",
+    "tr": "takaneh"
+   },
+   "explain": {
+    "fa": "`p = m v`: بردار هم‌جهت سرعت و با آن متناسب؛ نصف شدن سرعت تکانه را نصف و سه برابر شدن آن را سه برابر می‌کند.",
+    "en": "`p = m v`: a vector along the velocity and proportional to it; halving the velocity halves the momentum, and tripling it triples the momentum.",
+    "tr": "`p = m v`: bordar-e ham-jahat-e sor'at va ba an motenaseb; nesf shodan-e sor'at takane ra nesf va se barabar shodan-e an ra se barabar mikonad."
+   },
+   "matches": {
+    "tr": [
+     "takaneh-ye khatti"
+    ]
+   },
+   "analogy": {
+    "fa": "ایستاندن کامیون سخت‌تر از دوچرخه است، حتی با سرعت برابر.",
+    "en": "Stopping a lorry is harder than stopping a bicycle, even at the same speed.",
+    "tr": "Istandan-e kamiyon sakht-tar az docharkhe ast, hatta ba sor'at-e barabar."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-change-in-momentum",
+   "term": {
+    "fa": "تغییر تکانه",
+    "en": "change in momentum",
+    "tr": "taghyir-e takaneh"
+   },
+   "explain": {
+    "fa": "`Δp = m v − m v0`، برابر ضربهٔ نیروی خالص. چون تکانه بردار است، توپی که با همان تندی برمی‌گردد تغییر تکانهٔ `2 m v` دارد.",
+    "en": "`Δp = m v − m v0`, equal to the impulse of the net force. Because momentum is a vector, a ball bouncing back at the same speed has a change in momentum of `2 m v`.",
+    "tr": "`Δp = m v − m v0`, barabar-e zarbe-ye niroo-ye khales. Chon takane bordar ast, toopi ke ba haman tondi barmigardad taghyir-e takane-ye `2 m v` darad."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-constant-force",
+   "term": {
+    "fa": "نیروی ثابت",
+    "en": "constant force",
+    "tr": "niroo-ye sabet"
+   },
+   "explain": {
+    "fa": "نیرویی که در مدت اثرش تغییر نمی‌کند؛ ضربه‌اش ساده است: `J = F Δt`. مثلاً `6 N` در `4` ثانیه ضربهٔ `24 kg·m/s` می‌دهد.",
+    "en": "A force that does not change while it acts; its impulse is simply `J = F Δt`. For example, `6 N` for `4` s gives an impulse of `24 kg·m/s`.",
+    "tr": "Niruyi ke dar moddat-e asarash taghyir nemikonad; zarbe-ash sade ast: `J = F Δt`. Masalan `6 N` dar `4` sanie zarbe-ye `24 kg·m/s` midahad."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-final-velocity",
+   "term": {
+    "fa": "سرعت نهایی",
+    "en": "final velocity",
+    "tr": "sorat-e nahayi"
+   },
+   "explain": {
+    "fa": "سرعت جسم در پایان بازه؛ با تکانه: `v = (m v0 + J) / m`. برای `2 kg`، `10 m/s` و ضربهٔ `24`، `22 m/s`.",
+    "en": "The object's velocity at the end of the interval; with momentum: `v = (m v0 + J) / m`. For `2 kg`, `10 m/s` and an impulse of `24`, it is `22 m/s`.",
+    "tr": "Sor'at-e jesm dar payan-e baze; ba takane: `v = (m v0 + J) / m`. Baraye `2 kg`, `10 m/s` va zarbe-ye `24`, `22 m/s`."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-impulse",
+   "term": {
+    "fa": "ضربه",
+    "en": "impulse",
+    "tr": "zarbeh"
+   },
+   "explain": {
+    "fa": "نیروی خالص متوسط ضرب در مدت اثرش: `J = F Δt`، یک کمیت برداری با یکای `N·s` (یا `kg·m/s`).",
+    "en": "The average net force times the time it acts: `J = F Δt`, a vector quantity in `N·s` (or `kg·m/s`).",
+    "tr": "Niroo-ye khales-e motavasset zarb dar moddat-e asarash: `J = F Δt`, yek kamiyat-e bordari ba yeka-ye `N·s` (ya `kg·m/s`)."
+   },
+   "analogy": {
+    "fa": "کیسهٔ هوا زمان برخورد را طولانی می‌کند تا نیرو کم شود.",
+    "en": "An airbag stretches the collision time so the force is smaller.",
+    "tr": "Kise-ye hava zaman-e barkhord ra toolani mikonad ta niroo kam shavad."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-impulse-momentum",
+   "term": {
+    "fa": "قضیهٔ تکانه-نیرو",
+    "en": "impulse-momentum theorem",
+    "tr": "ghaziyeh-ye takaneh-niroo"
+   },
+   "explain": {
+    "fa": "تغییر تکانهٔ جسم برابر ضربهٔ نیروی خالص است: `Δp = J`. وقتی خودرو ترمز می‌کند و می‌ایستد، تغییر تکانهٔ افقی‌اش برابر ضربهٔ نیروی ترمز است.",
+    "en": "An object's change in momentum equals the impulse of the net force: `Δp = J`. When a car brakes to a stop, its change in horizontal momentum equals the impulse of the braking force.",
+    "tr": "Taghyir-e takane-ye jesm barabar-e zarbe-ye niroo-ye khales ast: `Δp = J`. Vaghti khodro tormoz mikonad va miistad, taghyir-e takane-ye ofoghi-ash barabar-e zarbe-ye niroo-ye tormoz ast."
+   },
+   "contrast": {
+    "fa": "همان `Δp` در زمان طولانی‌تر یعنی نیروی کمتر.",
+    "en": "The same `Δp` over a longer time means a smaller force.",
+    "tr": "Haman `Δp` dar zaman-e toolani-tar ya'ni niroo-ye kamtar."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-momentum-kinetic-energy",
+   "term": {
+    "fa": "تکانه و انرژی جنبشی",
+    "en": "momentum and kinetic energy",
+    "tr": "takaneh va enerji-ye jonbeshi"
+   },
+   "explain": {
+    "fa": "`K = p^2 / (2m)`. با جرم ثابت، انرژی جنبشی با مربع تکانه متناسب است: سه برابر شدن تکانه انرژی جنبشی را نه برابر می‌کند.",
+    "en": "`K = p^2 / (2m)`. With constant mass, kinetic energy is proportional to the square of the momentum: tripling the momentum makes the kinetic energy nine times larger.",
+    "tr": "`K = p^2 / (2m)`. Ba jerm-e sabet, enerzhi-ye jonbeshi ba morabba'-e takane motenaseb ast: se barabar shodan-e takane enerzhi-ye jonbeshi ra noh barabar mikonad."
+   },
+   "contrast": {
+    "fa": "تکانه با `v`، انرژی جنبشی با `v^2`.",
+    "en": "Momentum goes with `v`, kinetic energy with `v^2`.",
+    "tr": "Takane ba `v`, enerzhi-ye jonbeshi ba `v^2`."
+   },
+   "unit": "phys-2-momentum-impulse"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-momentum-conservation",
+   "term": {
+    "fa": "پایستگی تکانهٔ خطی",
+    "en": "conservation of linear momentum",
+    "tr": "payestegi-ye takaneh"
+   },
+   "explain": {
+    "fa": "اگر نیروی خالص خارجی بر سامانه وارد نشود، تکانهٔ کل ثابت می‌ماند؛ در برخورد دو جسم در سامانهٔ منزوی، تکانهٔ کل پیش و پس از برخورد برابر است.",
+    "en": "If no net external force acts on a system, its total momentum stays constant; in a collision of two bodies in an isolated system, the total momentum before equals the total after.",
+    "tr": "Agar niroo-ye khales-e khareji bar samane vared nashavad, takane-ye kol sabet mimanad; dar barkhord-e do jesm dar samane-ye monzavi, takane-ye kol pish va pas az barkhord barabar ast."
+   },
+   "analogy": {
+    "fa": "مثل پول در یک جمع بسته: دست‌به‌دست می‌شود، ولی جمع کل همان است.",
+    "en": "Like money in a closed group: it changes hands, but the total stays the same.",
+    "tr": "Mesl-e pool dar yek jam'-e baste: dast-be-dast mishavad, vali jam'-e kol haman ast."
+   },
+   "contrast": {
+    "fa": "تکانه پایسته است، ولی انرژی جنبشی در برخورد همیشه نه.",
+    "en": "Momentum is conserved, but kinetic energy is not always conserved in a collision.",
+    "tr": "Takane payeste ast, vali enerzhi-ye jonbeshi dar barkhord hamishe na."
+   },
+   "unit": "phys-2-momentum-conservation"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-centripetal-acceleration",
+   "term": {
+    "fa": "شتاب مرکزگرا",
+    "en": "centripetal acceleration",
+    "tr": "shetab-e markazgara"
+   },
+   "explain": {
+    "fa": "در حرکت دایره‌ای یکنواخت، شتابی که همیشه رو به مرکز دایره است: `a = v^2 / r`. تندی ثابت است ولی جهت سرعت مدام عوض می‌شود.",
+    "en": "In uniform circular motion, the acceleration that always points to the centre of the circle: `a = v^2 / r`. The speed is constant but the direction of the velocity keeps changing.",
+    "tr": "Dar harekat-e dayere-i-ye yeknavakht, shetabi ke hamishe roo be markaz-e dayere ast: `a = v^2 / r`. Tondi sabet ast vali jahat-e sor'at modam avaz mishavad."
+   },
+   "analogy": {
+    "fa": "نخی که سنگ چرخان را همیشه به مرکز می‌کشد.",
+    "en": "The string that always pulls a whirling stone towards the centre.",
+    "tr": "Nakhi ke sang-e charkhan ra hamishe be markaz mikeshad."
+   },
+   "contrast": {
+    "fa": "تندی ثابت به معنی شتاب صفر نیست.",
+    "en": "Constant speed does not mean zero acceleration.",
+    "tr": "Tondi-ye sabet be ma'ni-ye shetab-e sefr nist."
+   },
+   "unit": "phys-2-circular-gravitation"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-universal-gravitation",
+   "term": {
+    "fa": "قانون گرانش عمومی",
+    "en": "universal gravitation",
+    "tr": "ghanoon-e geranesh"
+   },
+   "explain": {
+    "fa": "هر دو جسم یکدیگر را با نیروی `F = G m1 m2 / r^2` می‌کشند: متناسب با حاصل‌ضرب جرم‌ها و وارون‌متناسب با مربع فاصلهٔ مرکزهایشان.",
+    "en": "Any two objects attract each other with a force `F = G m1 m2 / r^2`: proportional to the product of the masses and inversely proportional to the square of the distance between their centres.",
+    "tr": "Har do jesm yekdigar ra ba niroo-ye `F = G m1 m2 / r^2` mikeshand: motenaseb ba hasel-zarb-e jerm-ha va varoon-motenaseb ba morabba'-e fasele-ye markaz-hayeshan."
+   },
+   "analogy": {
+    "fa": "همان نیرویی که سیب را پایین می‌آورد ماه را در مدار نگه می‌دارد.",
+    "en": "The same force that brings an apple down keeps the Moon in orbit.",
+    "tr": "Haman niruyi ke sib ra payin miavarad mah ra dar madar negah midarad."
+   },
+   "unit": "phys-2-circular-gravitation"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-attractive-force",
+   "term": {
+    "fa": "نیروی جاذبه",
+    "en": "attractive force",
+    "tr": "niroo-ye jazebeh"
+   },
+   "explain": {
+    "fa": "نیروی گرانشی همیشه جاذبه است و روی خط واصل دو جسم اثر می‌کند؛ دو جسم با نیروهای هم‌اندازه یکدیگر را می‌کشند (قانون سوم).",
+    "en": "The gravitational force is always attractive and acts along the line joining the two objects; the two pull on each other with equal forces (third law).",
+    "tr": "Niroo-ye geraneshi hamishe jazebe ast va rooye khatt-e vasel-e do jesm asar mikonad; do jesm ba niroo-haye ham-andaze yekdigar ra mikeshand (ghanoon-e sevvom)."
+   },
+   "unit": "phys-2-circular-gravitation"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-distance-between-objects",
+   "term": {
+    "fa": "فاصلهٔ بین دو جسم",
+    "en": "distance between objects",
+    "tr": "faseleh-ye beyn-e do jesm"
+   },
+   "explain": {
+    "fa": "در قانون گرانش، `r` فاصلهٔ مرکز تا مرکز دو جسم است و به توان دو در مخرج می‌آید.",
+    "en": "In the law of gravitation, `r` is the centre-to-centre distance of the two objects, and it appears squared in the denominator.",
+    "tr": "Dar ghanoon-e geranesh, `r` fasele-ye markaz ta markaz-e do jesm ast va be tavan-e do dar makhraj miayad."
+   },
+   "contrast": {
+    "fa": "فاصله را از مرکز بسنج، نه از سطح.",
+    "en": "Measure the distance from the centres, not the surfaces.",
+    "tr": "Fasele ra az markaz besanj, na az sath."
+   },
+   "unit": "phys-2-circular-gravitation"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-inverse-square",
+   "term": {
+    "fa": "تناسب وارون با مجذور فاصله",
+    "en": "inverse-square law",
+    "tr": "tanasob-e varoon ba majzoor-e faseleh"
+   },
+   "explain": {
+    "fa": "نیرو (یا شدت) با `1 / r^2` تغییر می‌کند: دو برابر شدن فاصله یعنی `1/4` و سه برابر شدن یعنی `1/9`.",
+    "en": "The force (or intensity) varies as `1 / r^2`: doubling the distance means `1/4`, and tripling it means `1/9`.",
+    "tr": "Niroo (ya shedat) ba `1 / r^2` taghyir mikonad: do barabar shodan-e fasele ya'ni `1/4` va se barabar shodan ya'ni `1/9`."
+   },
+   "contrast": {
+    "fa": "سه برابر شدن فاصله نیرو را نه بار کم می‌کند، نه سه بار.",
+    "en": "Tripling the distance makes the force nine times smaller, not three.",
+    "tr": "Se barabar shodan-e fasele niroo ra noh bar kam mikonad, na se bar."
+   },
+   "unit": "phys-2-circular-gravitation"
+  }
+ ]
+}
