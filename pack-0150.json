@@ -1,0 +1,2095 @@
+{
+ "version": 150,
+ "format": 8,
+ "questions": [
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 1,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "در جمعیتی که در تعادل هاردی-واینبرگ است، `9%` افراد صفت نهفته را نشان می‌دهند. چند درصد افراد ناخالص (`Aa`) هستند؟",
+     "grading_key": "- [0.5] افراد نهفته `q²` هستند: `q² = 0.09`، پس `q = 0.3` و `p = 1 − 0.3 = 0.7`.\n- [0.5] ناخالص‌ها `2pq` هستند: `2 × 0.7 × 0.3 = 0.42`، یعنی `42%`.",
+     "final_resolution": "`42%`",
+     "notes": "",
+     "keywords": [
+      "تعادل هاردی-واینبرگ",
+      "فراوانی دگره",
+      "هتروزیگوت"
+     ],
+     "distractors": [
+      "`9%`",
+      "`21%`",
+      "`49%`"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "In a population in Hardy-Weinberg equilibrium, `9%` of individuals show the recessive phenotype. What percentage of individuals are heterozygous (`Aa`)?",
+     "grading_key": "- [0.5] Recessive individuals are `q²`: `q² = 0.09`, so `q = 0.3` and `p = 1 − 0.3 = 0.7`.\n- [0.5] Heterozygotes are `2pq`: `2 × 0.7 × 0.3 = 0.42`, that is `42%`.",
+     "final_resolution": "`42%`",
+     "notes": "",
+     "keywords": [
+      "Hardy-Weinberg equilibrium",
+      "allele frequency",
+      "heterozygous"
+     ],
+     "distractors": [
+      "`9%`",
+      "`21%`",
+      "`49%`"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Dar jam'iyati ke dar ta-adol-e Hardy-Weinberg ast, `9%` afrad sefat-e nahofte ra neshan midahand. Chand darsad-e afrad nakhales (`Aa`) hastand?",
+     "grading_key": "- [0.5] Afrad-e nahofte `q²` hastand: `q² = 0.09`, pas `q = 0.3` va `p = 1 − 0.3 = 0.7`.\n- [0.5] Nakhales-ha `2pq` hastand: `2 × 0.7 × 0.3 = 0.42`, ya'ni `42%`.",
+     "final_resolution": "`42%`",
+     "notes": "",
+     "keywords": [
+      "ta-adol-e Hardy-Weinberg",
+      "faravani-ye degareh",
+      "heterozygote"
+     ],
+     "distractors": [
+      "`9%`",
+      "`21%`",
+      "`49%`"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 2,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "در جمعیتی ۲۰۰ نفره، ۹۸ نفر `AA`، ۸۴ نفر `Aa` و ۱۸ نفر `aa` هستند. فراوانی دگرهٔ `a` در خزانهٔ ژن چقدر است؟",
+     "grading_key": "- [0.5] هر فرد دو دگره دارد، پس خزانهٔ ژن `400` دگره دارد. دگره‌های `a`: هر `Aa` یکی و هر `aa` دوتا: `84 + 2 × 18 = 120`.\n- [0.5] فراوانی: `120 / 400 = 0.3`.",
+     "final_resolution": "`0.3`",
+     "notes": "",
+     "keywords": [
+      "خزانهٔ ژن",
+      "فراوانی دگره",
+      "دگره"
+     ],
+     "distractors": [
+      "`0.09`",
+      "`0.42`",
+      "`0.7`"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "In a population of 200, 98 are `AA`, 84 are `Aa` and 18 are `aa`. What is the frequency of allele `a` in the gene pool?",
+     "grading_key": "- [0.5] Each individual has two alleles, so the gene pool holds `400` alleles. The `a` alleles: one in each `Aa` and two in each `aa`: `84 + 2 × 18 = 120`.\n- [0.5] The frequency: `120 / 400 = 0.3`.",
+     "final_resolution": "`0.3`",
+     "notes": "",
+     "keywords": [
+      "gene pool",
+      "allele frequency",
+      "allele"
+     ],
+     "distractors": [
+      "`0.09`",
+      "`0.42`",
+      "`0.7`"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Dar jam'iyati 200 nafare, 98 nafar `AA`, 84 nafar `Aa` va 18 nafar `aa` hastand. Faravani-ye degare-ye `a` dar khazane-ye zhen cheghadr ast?",
+     "grading_key": "- [0.5] Har fard do degare darad, pas khazane-ye zhen `400` degare darad. Degare-haye `a`: har `Aa` yeki va har `aa` dota: `84 + 2 × 18 = 120`.\n- [0.5] Faravani: `120 / 400 = 0.3`.",
+     "final_resolution": "`0.3`",
+     "notes": "",
+     "keywords": [
+      "khazane-ye zhen",
+      "faravani-ye degareh",
+      "degareh"
+     ],
+     "distractors": [
+      "`0.09`",
+      "`0.42`",
+      "`0.7`"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 3,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "کدام عامل به ماندن یک جمعیت در تعادل هاردی-واینبرگ کمک می‌کند؟",
+     "grading_key": "- [0.5] تعادل فقط وقتی برقرار است که هیچ نیرویی فراوانی دگره‌ها را عوض نکند: جمعیت بزرگ، نبود جهش، شارش ژن و انتخاب طبیعی.\n- [0.5] آمیزش تصادفی شرط تعادل است؛ سه گزینهٔ دیگر هر کدام فراوانی‌ها را تغییر می‌دهند.",
+     "final_resolution": "آمیزش تصادفی",
+     "notes": "",
+     "keywords": [
+      "تعادل هاردی-واینبرگ",
+      "آمیزش تصادفی",
+      "انتخاب طبیعی"
+     ],
+     "distractors": [
+      "انتخاب طبیعی",
+      "ورود افراد از جمعیت همسایه",
+      "کوچک بودن جمعیت"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "Which factor helps a population stay in Hardy-Weinberg equilibrium?",
+     "grading_key": "- [0.5] Equilibrium holds only when no force changes the allele frequencies: a large population and no mutation, gene flow or natural selection.\n- [0.5] Random mating is a condition of equilibrium; each of the other three options changes the frequencies.",
+     "final_resolution": "Random mating",
+     "notes": "",
+     "keywords": [
+      "Hardy-Weinberg equilibrium",
+      "random mating",
+      "natural selection"
+     ],
+     "distractors": [
+      "Natural selection",
+      "Migrants arriving from a neighbouring population",
+      "A small population size"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Kodam amel be mandan-e yek jam'iyat dar ta-adol-e Hardy-Weinberg komak mikonad?",
+     "grading_key": "- [0.5] Ta-adol faghat vaghti bargharar ast ke hich niroo-yi faravani-ye degare-ha ra avaz nakonad: jam'iyat-e bozorg, naboood-e jahesh, sharesh-e zhen va entekhab-e tabi-i.\n- [0.5] Amizesh-e tasadofi shart-e ta-adol ast; se gozine-ye digar har kodam faravani-ha ra taghyir midahand.",
+     "final_resolution": "Amizesh-e tasadofi",
+     "notes": "",
+     "keywords": [
+      "ta-adol-e Hardy-Weinberg",
+      "amizesh-e tasadofi",
+      "entekhab-e tabi-i"
+     ],
+     "distractors": [
+      "Entekhab-e tabi-i",
+      "Vorood-e afrad az jam'iyat-e hamsaye",
+      "Koochak boodan-e jam'iyat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 4,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "یک بیماری نهفتهٔ ژنی در یک نفر از هر `10000` نوزاد دیده می‌شود. اگر جمعیت در تعادل باشد، تقریباً یک نفر از هر چند نفر ناقل (ناخالص) است؟",
+     "grading_key": "- [0.5] `q² = 1/10000`، پس `q = 0.01` و `p` تقریباً `1` است.\n- [0.5] ناقل‌ها `2pq ≈ 2 × 0.01 = 0.02` هستند، یعنی یک نفر از هر `50` نفر.",
+     "final_resolution": "حدود یک نفر از هر `50` نفر",
+     "notes": "",
+     "keywords": [
+      "تعادل هاردی-واینبرگ",
+      "هتروزیگوت",
+      "فراوانی دگره"
+     ],
+     "distractors": [
+      "یک نفر از هر `100` نفر",
+      "یک نفر از هر `5000` نفر",
+      "یک نفر از هر `10000` نفر"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "A recessive genetic disease appears in one in every `10000` newborns. If the population is in equilibrium, roughly one person in how many is a carrier (heterozygous)?",
+     "grading_key": "- [0.5] `q² = 1/10000`, so `q = 0.01` and `p` is almost `1`.\n- [0.5] Carriers are `2pq ≈ 2 × 0.01 = 0.02`, that is one person in every `50`.",
+     "final_resolution": "About one person in every `50`",
+     "notes": "",
+     "keywords": [
+      "Hardy-Weinberg equilibrium",
+      "heterozygous",
+      "allele frequency"
+     ],
+     "distractors": [
+      "One person in every `100`",
+      "One person in every `5000`",
+      "One person in every `10000`"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Yek bimari-ye nahofte-ye zheni dar yek nafar az har `10000` nozad dide mishavad. Agar jam'iyat dar ta-adol bashad, taghriban yek nafar az har chand nafar naghel (nakhales) ast?",
+     "grading_key": "- [0.5] `q² = 1/10000`, pas `q = 0.01` va `p` taghriban `1` ast.\n- [0.5] Naghel-ha `2pq ≈ 2 × 0.01 = 0.02` hastand, ya'ni yek nafar az har `50` nafar.",
+     "final_resolution": "Hodood-e yek nafar az har `50` nafar",
+     "notes": "",
+     "keywords": [
+      "ta-adol-e Hardy-Weinberg",
+      "heterozygote",
+      "faravani-ye degareh"
+     ],
+     "distractors": [
+      "Yek nafar az har `100` nafar",
+      "Yek nafar az har `5000` nafar",
+      "Yek nafar az har `10000` nafar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 5,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "زلزله‌ای `95%` بزهای کوهی یک منطقه را از بین می‌برد و فراوانی دگره‌ها در بازماندگان، فقط از روی شانس، با جمعیت اول فرق دارد. این پدیده چه نام دارد؟",
+     "grading_key": "- [0.5] تغییر تصادفی فراوانی‌ها رانش دگره‌ای است، نه انتخاب؛ چون زنده ماندن به برازندگی ربطی نداشت.\n- [0.5] وقتی یک فاجعه جمعیت را به چند بازمانده کاهش دهد، این حالت رانش «اثر تنگنا» است.",
+     "final_resolution": "اثر تنگنا",
+     "notes": "",
+     "keywords": [
+      "رانش دگره‌ای",
+      "اثر تنگنا"
+     ],
+     "distractors": [
+      "اثر بنیان‌گذار",
+      "شارش ژن",
+      "انتخاب جهت‌دار"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "An earthquake kills `95%` of the mountain goats in an area, and by chance alone the allele frequencies of the survivors differ from the original population. What is this called?",
+     "grading_key": "- [0.5] A random change in frequencies is genetic drift, not selection, because survival had nothing to do with fitness.\n- [0.5] When a disaster cuts the population down to a few survivors, this case of drift is the \"bottleneck effect\".",
+     "final_resolution": "The bottleneck effect",
+     "notes": "",
+     "keywords": [
+      "genetic drift",
+      "bottleneck effect"
+     ],
+     "distractors": [
+      "The founder effect",
+      "Gene flow",
+      "Directional selection"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Zelzele-i `95%` boz-haye koohi-ye yek mantaghe ra az beyn mibarad va faravani-ye degare-ha dar bazmandegan, faghat az rooye shans, ba jam'iyat-e avval fargh darad. In padide che nam darad?",
+     "grading_key": "- [0.5] Taghyir-e tasadofi-ye faravani-ha ranesh-e degare-i ast, na entekhab; chon zende mandan be barazandegi rabti nadasht.\n- [0.5] Vaghti yek faje'e jam'iyat ra be chand bazmande kahesh dahad, in halat-e ranesh \"asar-e tangna\" ast.",
+     "final_resolution": "Asar-e tangna",
+     "notes": "",
+     "keywords": [
+      "ranesh-e degare-i",
+      "asar-e tangna"
+     ],
+     "distractors": [
+      "Asar-e bonyan-gozar",
+      "Sharesh-e zhen",
+      "Entekhab-e jahat-dar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 6,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "چند خانواده از یک جمعیت بزرگ به جزیره‌ای دورافتاده می‌روند. دگره‌ای که در جمعیت اصلی نادر بود، در جزیره رایج می‌شود. علت چیست؟",
+     "grading_key": "- [0.5] جمعیت تازه را چند نفر تصادفی ساخته‌اند، پس خزانهٔ ژن جزیره فقط دگره‌های همین چند نفر است.\n- [0.5] این حالت رانش، که با جدا شدن گروهی کوچک شروع می‌شود، «اثر بنیان‌گذار» است.",
+     "final_resolution": "اثر بنیان‌گذار",
+     "notes": "",
+     "keywords": [
+      "رانش دگره‌ای",
+      "اثر بنیان‌گذار",
+      "خزانهٔ ژن"
+     ],
+     "distractors": [
+      "اثر تنگنا",
+      "انتخاب طبیعی",
+      "جهش"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "A few families from a large population move to a remote island. An allele that was rare in the original population becomes common on the island. What is the cause?",
+     "grading_key": "- [0.5] A few random individuals made the new population, so the island's gene pool is only these few people's alleles.\n- [0.5] This case of drift, which starts when a small group splits off, is the \"founder effect\".",
+     "final_resolution": "The founder effect",
+     "notes": "",
+     "keywords": [
+      "genetic drift",
+      "founder effect",
+      "gene pool"
+     ],
+     "distractors": [
+      "The bottleneck effect",
+      "Natural selection",
+      "Mutation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Chand khanevade az yek jam'iyat-e bozorg be jazire-i doroftade miravand. Degare-i ke dar jam'iyat-e asli nader bood, dar jazire rayej mishavad. Ellat chist?",
+     "grading_key": "- [0.5] Jam'iyat-e taze ra chand nafar-e tasadofi sakhte-and, pas khazane-ye zhen-e jazire faghat degare-haye hamin chand nafar ast.\n- [0.5] In halat-e ranesh, ke ba joda shodan-e goroohi koochak shoru' mishavad, \"asar-e bonyan-gozar\" ast.",
+     "final_resolution": "Asar-e bonyan-gozar",
+     "notes": "",
+     "keywords": [
+      "ranesh-e degare-i",
+      "asar-e bonyan-gozar",
+      "khazane-ye zhen"
+     ],
+     "distractors": [
+      "Asar-e tangna",
+      "Entekhab-e tabi-i",
+      "Jahesh"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 7,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "با مصرف زیاد آنتی‌بیوتیک، درصد باکتری‌های مقاوم در یک جمعیت هر سال بیشتر می‌شود. این کدام نوع انتخاب طبیعی است؟",
+     "grading_key": "- [0.5] باکتری‌های مقاوم بیشتر زنده می‌مانند و تولید مثل می‌کنند؛ یک سر طیف ترجیح داده می‌شود.\n- [0.5] وقتی میانگین جمعیت به یک سمت جابه‌جا شود، انتخاب «جهت‌دار» است.",
+     "final_resolution": "انتخاب جهت‌دار",
+     "notes": "",
+     "keywords": [
+      "انتخاب طبیعی",
+      "انتخاب جهت‌دار"
+     ],
+     "distractors": [
+      "انتخاب پایدارکننده",
+      "انتخاب گسلنده",
+      "رانش دگره‌ای"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "With heavy use of an antibiotic, the share of resistant bacteria in a population grows every year. Which type of natural selection is this?",
+     "grading_key": "- [0.5] Resistant bacteria survive and reproduce more; one end of the range is favoured.\n- [0.5] When the population average shifts to one side, the selection is \"directional\".",
+     "final_resolution": "Directional selection",
+     "notes": "",
+     "keywords": [
+      "natural selection",
+      "directional selection"
+     ],
+     "distractors": [
+      "Stabilising selection",
+      "Disruptive selection",
+      "Genetic drift"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Ba masraf-e ziad-e anti-biotic, darsad-e bakteri-haye moghavem dar yek jam'iyat har sal bishtar mishavad. In kodam no'-e entekhab-e tabi-i ast?",
+     "grading_key": "- [0.5] Bakteri-haye moghavem bishtar zende mimanand va tolid-e mesl mikonand; yek sar-e teyf tarjih dade mishavad.\n- [0.5] Vaghti miyangin-e jam'iyat be yek samt jabeja shavad, entekhab \"jahat-dar\" ast.",
+     "final_resolution": "Entekhab-e jahat-dar",
+     "notes": "",
+     "keywords": [
+      "entekhab-e tabi-i",
+      "entekhab-e jahat-dar"
+     ],
+     "distractors": [
+      "Entekhab-e paydar-konande",
+      "Entekhab-e gosalande",
+      "Ranesh-e degare-i"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 8,
+   "topic_tag": "genetic-change",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۴: تغییر در اطلاعات وراثتی (گفتار ۳: تغییر در جمعیت‌ها)",
+    "en": "Chapter 4: Changes in Genetic Information (Section 3: Changes in Populations)",
+    "tr": "Fasl 4: Taghyir dar Ettelaat-e Verasati (Goftar 3)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تغییر در اطلاعات وراثتی",
+     "question": "در جزیره‌ای فقط دانه‌های خیلی ریز و خیلی درشت پیدا می‌شود. پرندگانی که منقار متوسط دارند کمتر زنده می‌مانند و نمودار اندازهٔ منقار دو قله پیدا می‌کند. این کدام نوع انتخاب است؟",
+     "grading_key": "- [0.5] هر دو سر طیف (منقار ریز و درشت) ترجیح داده می‌شوند و حالت میانه کنار گذاشته می‌شود.\n- [0.5] نمودار دو قله‌ای نشانهٔ انتخاب «گسلنده» است.",
+     "final_resolution": "انتخاب گسلنده",
+     "notes": "",
+     "keywords": [
+      "انتخاب طبیعی",
+      "انتخاب گسلنده"
+     ],
+     "distractors": [
+      "انتخاب پایدارکننده",
+      "انتخاب جهت‌دار",
+      "اثر بنیان‌گذار"
+     ]
+    },
+    "en": {
+     "topic_label": "Changes in Genetic Information",
+     "question": "On an island there are only very small and very large seeds. Birds with medium beaks survive less, and the graph of beak size gets two peaks. Which type of selection is this?",
+     "grading_key": "- [0.5] Both ends of the range (small and large beaks) are favoured and the middle is pushed out.\n- [0.5] A two-peaked graph is the sign of \"disruptive\" selection.",
+     "final_resolution": "Disruptive selection",
+     "notes": "",
+     "keywords": [
+      "natural selection",
+      "disruptive selection"
+     ],
+     "distractors": [
+      "Stabilising selection",
+      "Directional selection",
+      "The founder effect"
+     ]
+    },
+    "tr": {
+     "topic_label": "Taghyir dar Ettelaat-e Verasati",
+     "question": "Dar jazire-i faghat daane-haye kheyli riz va kheyli dorosht peyda mishavad. Parandegani ke menghar-e motavasset darand kamtar zende mimanand va nemoodar-e andaze-ye menghar do gholle peyda mikonad. In kodam no'-e entekhab ast?",
+     "grading_key": "- [0.5] Har do sar-e teyf (menghar-e riz va dorosht) tarjih dade mishavand va halat-e miyane kenar gozashte mishavad.\n- [0.5] Nemoodar-e do gholle-i neshane-ye entekhab-e \"gosalande\" ast.",
+     "final_resolution": "Entekhab-e gosalande",
+     "notes": "",
+     "keywords": [
+      "entekhab-e tabi-i",
+      "entekhab-e gosalande"
+     ],
+     "distractors": [
+      "Entekhab-e paydar-konande",
+      "Entekhab-e jahat-dar",
+      "Asar-e bonyan-gozar"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 9,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "مولکول `ATP` از کدام بخش‌ها ساخته شده است؟",
+     "grading_key": "- [0.5] `ATP` یک باز آدنین و یک قند ریبوز دارد (همان قند `RNA`، نه دئوکسی‌ریبوز).\n- [0.5] و سه گروه فسفات؛ با جدا شدن فسفات سوم به `ADP` تبدیل می‌شود و انرژی آزاد می‌کند.",
+     "final_resolution": "باز آدنین، قند ریبوز و سه گروه فسفات",
+     "notes": "",
+     "keywords": [
+      "مولکول ATP",
+      "آدنین",
+      "ریبوز"
+     ],
+     "distractors": [
+      "باز آدنین، قند دئوکسی‌ریبوز و سه گروه فسفات",
+      "باز آدنین، قند ریبوز و دو گروه فسفات",
+      "باز گوانین، قند ریبوز و سه گروه فسفات"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Which parts is the `ATP` molecule made of?",
+     "grading_key": "- [0.5] `ATP` has an adenine base and a ribose sugar (the sugar of `RNA`, not deoxyribose).\n- [0.5] And three phosphate groups; losing the third phosphate turns it into `ADP` and releases energy.",
+     "final_resolution": "An adenine base, a ribose sugar and three phosphate groups",
+     "notes": "",
+     "keywords": [
+      "ATP",
+      "adenine",
+      "ribose"
+     ],
+     "distractors": [
+      "An adenine base, a deoxyribose sugar and three phosphate groups",
+      "An adenine base, a ribose sugar and two phosphate groups",
+      "A guanine base, a ribose sugar and three phosphate groups"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e Enerji",
+     "question": "Molekool-e `ATP` az kodam bakhsh-ha sakhte shode ast?",
+     "grading_key": "- [0.5] `ATP` yek baz-e adenine va yek ghand-e ribose darad (haman ghand-e `RNA`, na deoxyribose).\n- [0.5] Va se gorooh-e fosfat; ba joda shodan-e fosfat-e sevvom be `ADP` tabdil mishavad va enerzhi azad mikonad.",
+     "final_resolution": "Baz-e adenine, ghand-e ribose va se gorooh-e fosfat",
+     "notes": "",
+     "keywords": [
+      "molekool-e ATP",
+      "adenine",
+      "ribose"
+     ],
+     "distractors": [
+      "Baz-e adenine, ghand-e deoxyribose va se gorooh-e fosfat",
+      "Baz-e adenine, ghand-e ribose va do gorooh-e fosfat",
+      "Baz-e guanine, ghand-e ribose va se gorooh-e fosfat"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 10,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "کدام مرحلهٔ تنفس یاخته‌ای بیرون از راکیزه، در مادهٔ زمینه‌ای سیتوپلاسم، انجام می‌شود؟",
+     "grading_key": "- [0.5] اکسایش پیرووات و چرخهٔ کربس در بخش داخلی راکیزه و زنجیرهٔ انتقال الکترون روی غشای داخلی آن است.\n- [0.5] فقط قندکافت بیرون از راکیزه، در سیتوپلاسم، انجام می‌شود.",
+     "final_resolution": "قندکافت",
+     "notes": "",
+     "keywords": [
+      "قندکافت",
+      "راکیزه",
+      "چرخهٔ کربس"
+     ],
+     "distractors": [
+      "چرخهٔ کربس",
+      "اکسایش پیرووات",
+      "زنجیرهٔ انتقال الکترون"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "Which stage of cellular respiration takes place outside the mitochondrion, in the cytoplasm?",
+     "grading_key": "- [0.5] Pyruvate oxidation and the Krebs cycle are in the inner compartment of the mitochondrion, and the electron transport chain is on its inner membrane.\n- [0.5] Only glycolysis happens outside the mitochondrion, in the cytoplasm.",
+     "final_resolution": "Glycolysis",
+     "notes": "",
+     "keywords": [
+      "glycolysis",
+      "mitochondrion",
+      "Krebs cycle"
+     ],
+     "distractors": [
+      "The Krebs cycle",
+      "Pyruvate oxidation",
+      "The electron transport chain"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e Enerji",
+     "question": "Kodam marhale-ye tanaffos-e yakhte-i biroon az rakize, dar madde-ye zamine-i-ye sitoplasm, anjam mishavad?",
+     "grading_key": "- [0.5] Oksayesh-e pyruvate va charkhe-ye Krebs dar bakhsh-e dakheli-ye rakize va zanjire-ye enteghal-e electron rooye ghesha-ye dakheli-ye an ast.\n- [0.5] Faghat ghand-kaft biroon az rakize, dar sitoplasm, anjam mishavad.",
+     "final_resolution": "Ghand-kaft",
+     "notes": "",
+     "keywords": [
+      "ghand-kaft",
+      "mitokondri",
+      "charkhe-ye Krebs"
+     ],
+     "distractors": [
+      "Charkhe-ye Krebs",
+      "Oksayesh-e pyruvate",
+      "Zanjire-ye enteghal-e electron"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 11,
+   "topic_tag": "energy-supply",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۵: تأمین انرژی (گفتار ۱: تنفس یاخته‌ای)",
+    "en": "Chapter 5: Energy Supply (Section 1: Cellular Respiration)",
+    "tr": "Fasl 5: Tamin-e Enerji (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "تأمین انرژی",
+     "question": "در کدام روش ساخت `ATP`، انرژی زنجیرهٔ انتقال الکترون و آنزیم `ATP` ساز در غشای داخلی راکیزه به‌کار می‌رود؟",
+     "grading_key": "- [0.5] در ساخت در سطح پیش‌ماده، آنزیم یک فسفات را مستقیم از یک مولکول به `ADP` می‌دهد و زنجیره‌ای لازم نیست.\n- [0.5] روشی که از زنجیره و `ATP` ساز در راکیزه استفاده می‌کند و بیشتر `ATP` را می‌سازد، ساخت «اکسایشی» است.",
+     "final_resolution": "ساخت اکسایشی `ATP`",
+     "notes": "",
+     "keywords": [
+      "ساخت اکسایشی ATP",
+      "ساخت ATP در سطح پیش‌ماده",
+      "مولکول ATP"
+     ],
+     "distractors": [
+      "ساخت `ATP` در سطح پیش‌ماده",
+      "ساخت نوری `ATP`",
+      "قندکافت"
+     ]
+    },
+    "en": {
+     "topic_label": "Energy Supply",
+     "question": "In which way of making `ATP` is the energy of the electron transport chain used, with `ATP` synthase in the inner mitochondrial membrane?",
+     "grading_key": "- [0.5] In substrate-level phosphorylation an enzyme hands a phosphate straight from a molecule to `ADP`, and no chain is needed.\n- [0.5] The way that uses the chain and `ATP` synthase in the mitochondrion, and makes most of the `ATP`, is \"oxidative\" phosphorylation.",
+     "final_resolution": "Oxidative phosphorylation",
+     "notes": "",
+     "keywords": [
+      "oxidative phosphorylation",
+      "substrate-level phosphorylation",
+      "ATP"
+     ],
+     "distractors": [
+      "Substrate-level phosphorylation",
+      "Photophosphorylation",
+      "Glycolysis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Tamin-e Enerji",
+     "question": "Dar kodam ravesh-e sakht-e `ATP`, enerzhi-ye zanjire-ye enteghal-e electron va anzim-e `ATP`-saz dar ghesha-ye dakheli-ye rakize be-kar miravad?",
+     "grading_key": "- [0.5] Dar sakht dar sath-e pish-madde, anzim yek fosfat ra mostaghim az yek molekool be `ADP` midahad va zanjire-i lazem nist.\n- [0.5] Raveshi ke az zanjire va `ATP`-saz dar rakize estefade mikonad va bishtar-e `ATP` ra misazad, sakht-e \"oksayeshi\" ast.",
+     "final_resolution": "Sakht-e oksayeshi-ye `ATP`",
+     "notes": "",
+     "keywords": [
+      "sakht-e oksayeshi-ye ATP",
+      "sakht-e ATP dar sath-e pish-madde",
+      "molekool-e ATP"
+     ],
+     "distractors": [
+      "Sakht-e `ATP` dar sath-e pish-madde",
+      "Sakht-e noori-ye `ATP`",
+      "Ghand-kaft"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 12,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "برگ گیاهان سبز دیده می‌شود، چون سبزینه (کلروفیل)...",
+     "grading_key": "- [0.5] سبزینه نور آبی و قرمز را بیشتر جذب می‌کند.\n- [0.5] و نور سبز را جذب نمی‌کند و بازمی‌تاباند؛ همین نور بازتابیده به چشم ما می‌رسد.",
+     "final_resolution": "نور سبز را بازمی‌تاباند و بیشتر نور آبی و قرمز را جذب می‌کند",
+     "notes": "",
+     "keywords": [
+      "سبزینه",
+      "رنگیزه‌های فتوسنتزی"
+     ],
+     "distractors": [
+      "نور سبز را بیشتر از همه جذب می‌کند",
+      "نور قرمز را بازمی‌تاباند",
+      "همهٔ رنگ‌ها را به یک اندازه جذب می‌کند"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "Plant leaves look green because chlorophyll...",
+     "grading_key": "- [0.5] Chlorophyll mostly absorbs blue and red light.\n- [0.5] And it does not absorb green light but reflects it; this reflected light is what reaches our eyes.",
+     "final_resolution": "reflects green light and mostly absorbs blue and red light",
+     "notes": "",
+     "keywords": [
+      "chlorophyll",
+      "photosynthetic pigments"
+     ],
+     "distractors": [
+      "absorbs green light most of all",
+      "reflects red light",
+      "absorbs all colours equally"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az Enerji be Madde",
+     "question": "Barg-e giahan sabz dide mishavad, chon sabzine (chlorophyll)...",
+     "grading_key": "- [0.5] Sabzine noor-e abi va ghermez ra bishtar jazb mikonad.\n- [0.5] Va noor-e sabz ra jazb nemikonad va baz mitabanad; hamin noor-e baztabide be cheshm-e ma miresad.",
+     "final_resolution": "noor-e sabz ra baz mitabanad va bishtar noor-e abi va ghermez ra jazb mikonad",
+     "notes": "",
+     "keywords": [
+      "sabzine",
+      "rangize-haye fotosantezi"
+     ],
+     "distractors": [
+      "noor-e sabz ra bishtar az hame jazb mikonad",
+      "noor-e ghermez ra baz mitabanad",
+      "hame-ye rang-ha ra be yek andaze jazb mikonad"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 13,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "چرخهٔ کالوین در کدام بخش سبزدیسه (کلروپلاست) انجام می‌شود؟",
+     "grading_key": "- [0.5] واکنش‌های وابسته به نور روی غشای تیلاکوئید انجام می‌شوند و `ATP` و `NADPH` می‌سازند.\n- [0.5] چرخهٔ کالوین این‌ها را در مایع اطراف تیلاکوئیدها، یعنی بستره، مصرف می‌کند تا قند بسازد.",
+     "final_resolution": "بستره",
+     "notes": "",
+     "keywords": [
+      "چرخهٔ کالوین",
+      "بستره",
+      "تیلاکوئید"
+     ],
+     "distractors": [
+      "غشای تیلاکوئید",
+      "فضای درون تیلاکوئید",
+      "فضای بین دو غشای بیرونی"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "In which part of the chloroplast does the Calvin cycle take place?",
+     "grading_key": "- [0.5] The light-dependent reactions take place on the thylakoid membrane and make `ATP` and `NADPH`.\n- [0.5] The Calvin cycle spends them in the fluid around the thylakoids, the stroma, to build sugar.",
+     "final_resolution": "The stroma",
+     "notes": "",
+     "keywords": [
+      "Calvin cycle",
+      "stroma",
+      "thylakoid"
+     ],
+     "distractors": [
+      "The thylakoid membrane",
+      "The thylakoid lumen",
+      "The space between the two outer membranes"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az Enerji be Madde",
+     "question": "Charkhe-ye Calvin dar kodam bakhsh-e sabzdise (chloroplast) anjam mishavad?",
+     "grading_key": "- [0.5] Vakonesh-haye vabaste be noor rooye ghesha-ye thylakoid anjam mishavand va `ATP` va `NADPH` misazand.\n- [0.5] Charkhe-ye Calvin in-ha ra dar maye'-e atraf-e thylakoid-ha, ya'ni bastare, masraf mikonad ta ghand besazad.",
+     "final_resolution": "Bastare",
+     "notes": "",
+     "keywords": [
+      "charkhe-ye Calvin",
+      "bastare",
+      "thylakoid"
+     ],
+     "distractors": [
+      "Ghesha-ye thylakoid",
+      "Faza-ye daroon-e thylakoid",
+      "Faza-ye beyn-e do ghesha-ye birooni"
+     ]
+    }
+   }
+  },
+  {
+   "subject": "Biology",
+   "session": "1405-Practice1",
+   "number": 14,
+   "topic_tag": "energy-to-matter",
+   "total_points": 1.0,
+   "source": "sample",
+   "textbook": {
+    "fa": "فصل ۶: از انرژی به ماده (گفتار ۱: فتوسنتز)",
+    "en": "Chapter 6: From Energy to Matter (Section 1: Photosynthesis)",
+    "tr": "Fasl 6: Az Enerji be Madde (Goftar 1)"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "از انرژی به ماده",
+     "question": "نقش کاروتنوئیدها (رنگیزه‌های زرد و نارنجی) در فتوسنتز چیست؟",
+     "grading_key": "- [0.5] کاروتنوئیدها نورهایی را جذب می‌کنند که سبزینه خوب جذب نمی‌کند.\n- [0.5] و انرژی آن را به سبزینه می‌دهند؛ مثل آنتن‌های کمکی کنار آنتن اصلی.",
+     "final_resolution": "نور دیگری را جذب می‌کنند و انرژی آن را به سبزینه می‌دهند",
+     "notes": "",
+     "keywords": [
+      "کاروتنوئیدها",
+      "سبزینه",
+      "رنگیزه‌های فتوسنتزی"
+     ],
+     "distractors": [
+      "در بستره قند می‌سازند",
+      "آب را تجزیه می‌کنند و اکسیژن آزاد می‌کنند",
+      "الکترون‌ها را به `NADP⁺` می‌رسانند"
+     ]
+    },
+    "en": {
+     "topic_label": "From Energy to Matter",
+     "question": "What is the role of carotenoids (the yellow and orange pigments) in photosynthesis?",
+     "grading_key": "- [0.5] Carotenoids absorb colours of light that chlorophyll does not absorb well.\n- [0.5] And pass that energy on to chlorophyll, like helper antennas beside the main one.",
+     "final_resolution": "They absorb other colours of light and pass the energy to chlorophyll",
+     "notes": "",
+     "keywords": [
+      "carotenoids",
+      "chlorophyll",
+      "photosynthetic pigments"
+     ],
+     "distractors": [
+      "They build sugar in the stroma",
+      "They split water and release oxygen",
+      "They carry electrons to `NADP⁺`"
+     ]
+    },
+    "tr": {
+     "topic_label": "Az Enerji be Madde",
+     "question": "Naghsh-e karotenoid-ha (rangize-haye zard va narenji) dar fotosantez chist?",
+     "grading_key": "- [0.5] Karotenoid-ha noor-hayi ra jazb mikonand ke sabzine khoob jazb nemikonad.\n- [0.5] Va enerzhi-ye an ra be sabzine midahand; mesl-e anten-haye komaki kenar-e anten-e asli.",
+     "final_resolution": "Noor-e digari ra jazb mikonand va enerzhi-ye an ra be sabzine midahand",
+     "notes": "",
+     "keywords": [
+      "karotenoid-ha",
+      "sabzine",
+      "rangize-haye fotosantezi"
+     ],
+     "distractors": [
+      "Dar bastare ghand misazand",
+      "Ab ra tajziye mikonand va oksizhen azad mikonand",
+      "Electron-ha ra be `NADP⁺` miresanand"
+     ]
+    }
+   }
+  }
+ ],
+ "lessons": [
+  {
+   "subject": "Biology",
+   "chapter": 4,
+   "unit": 4,
+   "key": "bio-4-gene-pool",
+   "title": {
+    "fa": "خزانهٔ ژن و جمعیت در حال تعادل",
+    "en": "The gene pool and a population in equilibrium",
+    "tr": "Khazane-ye zhen va jam'iyat-e dar hal-e ta'adol"
+   },
+   "summary": {
+    "fa": "یک کیسهٔ بزرگ تیله‌های رنگی که از نسلی به نسل دیگر می‌رود.",
+    "en": "A big bag of coloured marbles passed from one generation to the next.",
+    "tr": "Yek kise-ye bozorg-e tile-haye rangi ke az nasli be nasl-e digar miravad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کیسهٔ تیله‌ها",
+      "en": "Understand first: the bag of marbles",
+      "tr": "Avval befahm: kise-ye tile-ha"
+     },
+     "body": {
+      "fa": "تا اینجا دربارهٔ یک خانواده حرف زدیم. حالا کل یک جمعیت را تصور کن. همهٔ دگره‌های همهٔ افراد را بریز در یک کیسهٔ بزرگ تیله: تیله‌های قرمز برای `A` و آبی برای `a`. این کیسه «خزانهٔ ژن» است. سهم هر رنگ در کیسه «فراوانی دگره» است. اگر ۶۰ درصد تیله‌ها قرمز باشند، فراوانی `A` برابر `0.6` است. برای ساختن نسل بعد، کورکورانه دو تیله برمی‌داریم و یک فرد می‌سازیم.",
+      "en": "So far we talked about one family. Now picture a whole population. Pour all the alleles of all the individuals into one big bag of marbles: red marbles for `A` and blue for `a`. This bag is the \"gene pool\". The share of each colour in the bag is the \"allele frequency\". If 60% of the marbles are red, the frequency of `A` is `0.6`. To make the next generation, we draw two marbles blindly and build one individual.",
+      "tr": "Ta inja darbare-ye yek khanevade harf zadim. Hala kol-e yek jam'iyat ra tasavvor kon. Hame-ye degare-haye hame-ye afrad ra beriz dar yek kise-ye bozorg-e tile: tile-haye ghermez baraye `A` va abi baraye `a`. In kise \"khazane-ye zhen\" ast. Sahm-e har rang dar kise \"faravani-ye degare\" ast. Agar 60 darsad-e tile-ha ghermez bashand, faravani-ye `A` barabar-e `0.6` ast. Baraye sakhtan-e nasl-e ba'd, koorkoorane do tile barmidarim va yek fard misazim."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "از تیله‌ها تا فرمول",
+      "en": "From marbles to the formula",
+      "tr": "Az tile-ha ta formool"
+     },
+     "body": {
+      "fa": "فراوانی `A` را `p` و فراوانی `a` را `q` می‌نامیم. چون فقط دو رنگ داریم، جمعشان یک است. احتمال برداشتن دو قرمز `p` ضرب در `p` است، پس `AA` با فراوانی `p²` ساخته می‌شود و `aa` با `q²`. ناخالص دو راه دارد (اول قرمز بعد آبی، یا برعکس)، پس `2pq`. اگر جمعیت بزرگ باشد، آمیزش تصادفی باشد و جهش، مهاجرت و انتخاب طبیعی نباشد، این فراوانی‌ها نسل به نسل ثابت می‌مانند. به چنین جمعیتی «جمعیت در حال تعادل» (هاردی و واینبرگ) می‌گویند.",
+      "en": "We call the frequency of `A` `p` and the frequency of `a` `q`. Because there are only two colours, they add up to one. The chance of drawing two reds is `p` times `p`, so `AA` is made with frequency `p²` and `aa` with `q²`. A heterozygote can be made two ways (red then blue, or the other way round), so `2pq`. If the population is large, mating is random and there is no mutation, migration or natural selection, these frequencies stay the same generation after generation. Such a population is called a \"population in equilibrium\" (Hardy-Weinberg).",
+      "tr": "Faravani-ye `A` ra `p` va faravani-ye `a` ra `q` minamim. Chon faghat do rang darim, jam'eshan yek ast. Ehtemal-e bardashtan-e do ghermez `p` zarb dar `p` ast, pas `AA` ba faravani-ye `p²` sakhte mishavad va `aa` ba `q²`. Nakhales do rah darad (avval ghermez ba'd abi, ya bar-aks), pas `2pq`. Agar jam'iyat bozorg bashad, amizesh tasadofi bashad va jahesh, mohajerat va entekhab-e tabi'i nabashad, in faravani-ha nasl be nasl sabet mimanand. Be chenin jam'iyati \"jam'iyat-e dar hal-e ta'adol\" (Hardy va Weinberg) migooyand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "p + q = 1 ,   p² + 2pq + q² = 1",
+     "caption": {
+      "fa": "اولی دربارهٔ دگره‌ها (تیله‌ها) و دومی دربارهٔ ژن‌نمودها (افراد)",
+      "en": "The first is about alleles (marbles) and the second about genotypes (individuals)",
+      "tr": "Avvali darbare-ye degare-ha (tile-ha) va dovvomi darbare-ye zhen-namood-ha (afrad)"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "               sperm\n            A (p)     a (q)\n         +---------+---------+\n  egg  A |  AA     |  Aa     |\n  (p)    |  p x p  |  p x q  |\n         +---------+---------+\n       a |  Aa     |  aa     |\n  (q)    |  q x p  |  q x q  |\n         +---------+---------+\n  AA = p2   Aa = 2pq   aa = q2",
+     "caption": {
+      "fa": "جدول پانت برای کل جمعیت: به‌جای کارت‌های دو والد، فراوانی دگره‌ها در خزانهٔ ژن.",
+      "en": "A Punnett square for a whole population: instead of two parents' cards, the allele frequencies in the gene pool.",
+      "tr": "Jadval-e Punnett baraye kol-e jam'iyat: be-ja-ye kart-haye do valed, faravani-ye degare-ha dar khazane-ye zhen."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در جمعیتی ۱۰۰ نفره، ۳۶ نفر `AA`، ۴۸ نفر `Aa` و ۱۶ نفر `aa` هستند. فراوانی `A`؟",
+      "en": "Warm-up: in a population of 100, 36 are `AA`, 48 are `Aa` and 16 are `aa`. What is the frequency of `A`?",
+      "tr": "Garm kardan: dar jam'iyati 100 nafare, 36 nafar `AA`, 48 nafar `Aa` va 16 nafar `aa` hastand. Faravani-ye `A`?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تیله‌ها را بشمار، نه آدم‌ها را. هر نفر دو تیله دارد، پس کل تیله‌ها ۲۰۰ است.",
+        "en": "Count marbles, not people. Each person has two marbles, so there are 200 marbles in all.",
+        "tr": "Tile-ha ra beshmar, na adam-ha ra. Har nafar do tile darad, pas kol-e tile-ha 200 ast."
+       },
+       "math": "100 × 2 = 200"
+      },
+      {
+       "text": {
+        "fa": "هر `AA` دو تیلهٔ `A` دارد و هر `Aa` یکی.",
+        "en": "Each `AA` has two `A` marbles and each `Aa` has one.",
+        "tr": "Har `AA` do tile-ye `A` darad va har `Aa` yeki."
+       },
+       "math": "36 × 2 + 48 = 120"
+      },
+      {
+       "text": {
+        "fa": "سهم را حساب کن.",
+        "en": "Work out the share.",
+        "tr": "Sahm ra hesab kon."
+       },
+       "math": "p = 120 / 200 = 0.6"
+      }
+     ],
+     "answer": {
+      "fa": "`p = 0.6` و پس `q = 0.4`",
+      "en": "`p = 0.6`, so `q = 0.4`",
+      "tr": "`p = 0.6` va pas `q = 0.4`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در یک جمعیت در حال تعادل، ۱۶ درصد افراد رخ‌نمود نهفته دارند. درصد افراد ناقل (ناخالص)؟",
+      "en": "Textbook and exam: in a population in equilibrium, 16% of individuals show the recessive phenotype. What percentage are carriers (heterozygous)?",
+      "tr": "Mas'ale-ye ketab va emtehan: dar yek jam'iyat-e dar hal-e ta'adol, 16 darsad-e afrad rokh-namood-e nahofte darand. Darsad-e afrad-e naghel (nakhales)?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رخ‌نمود نهفته فقط `aa` است، پس این عدد `q²` است، نه `q`. چرا مهم است؟ چون افراد را می‌بینیم ولی تیله‌ها را نه.",
+        "en": "The recessive phenotype is only `aa`, so this number is `q²`, not `q`. Why does that matter? Because we can see people, but not marbles.",
+        "tr": "Rokh-namood-e nahofte faghat `aa` ast, pas in adad `q²` ast, na `q`. Chera mohem ast? Chon afrad ra mibinim vali tile-ha ra na."
+       },
+       "math": "q² = 0.16"
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ دوم بگیر تا به تیله برسی، بعد `p` را از یک کم کن.",
+        "en": "Take the square root to get to the marbles, then subtract from one to get `p`.",
+        "tr": "Rishe-ye dovvom begir ta be tile beresi, ba'd `p` ra az yek kam kon."
+       },
+       "math": "q = 0.4 ,   p = 1 − 0.4 = 0.6"
+      },
+      {
+       "text": {
+        "fa": "ناقل‌ها `2pq` هستند. ضریب ۲ را فراموش نکن.",
+        "en": "Carriers are `2pq`. Do not forget the factor of 2.",
+        "tr": "Naghel-ha `2pq` hastand. Zarib-e 2 ra faramoosh nakon."
+       },
+       "math": "2 × 0.6 × 0.4 = 0.48"
+      }
+     ],
+     "answer": {
+      "fa": "۴۸ درصد",
+      "en": "48 percent",
+      "tr": "48 darsad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک بیماری نهفته در یک نفر از هر ۲۵۰۰ نفر دیده می‌شود. از هر چند نفر، تقریباً یکی ناقل است؟",
+      "en": "Exam twist: a recessive disease is seen in one person in every 2500. Roughly one person in how many is a carrier?",
+      "tr": "Pich-e emtehani: yek bimari-ye nahofte dar yek nafar az har 2500 nafar dide mishavad. Az har chand nafar, taghriban yeki naghel ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "باز هم بیماران `q²` هستند.",
+        "en": "Once again, the affected people are `q²`.",
+        "tr": "Baz ham bimaran `q²` hastand."
+       },
+       "math": "q² = 1/2500   ⟹   q = 1/50 = 0.02"
+      },
+      {
+       "text": {
+        "fa": "`p` تقریباً یک است، پس ناقل‌ها تقریباً `2q`.",
+        "en": "`p` is almost one, so the carriers are about `2q`.",
+        "tr": "`p` taghriban yek ast, pas naghel-ha taghriban `2q`."
+       },
+       "math": "2pq = 2 × 0.98 × 0.02 ≈ 0.04 = 1/25"
+      },
+      {
+       "text": {
+        "fa": "نتیجهٔ شگفت‌انگیز: بیماری در ۱ از ۲۵۰۰ نفر است، ولی ناقل‌ها حدود ۱ از ۲۵ نفرند، یعنی صد برابر. دگرهٔ نهفته بیشتر در افراد سالم پنهان است.",
+        "en": "The surprising result: the disease is in 1 in 2500, but carriers are about 1 in 25, a hundred times more. A recessive allele hides mostly in healthy people.",
+        "tr": "Natije-ye shegeft-angiz: bimari dar 1 az 2500 nafar ast, vali naghel-ha hodood-e 1 az 25 nafar-and, ya'ni sad barabar. Degare-ye nahofte bishtar dar afrad-e salem penhan ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تقریباً ۱ نفر از هر ۲۵ نفر",
+      "en": "About 1 person in 25",
+      "tr": "Taghriban 1 nafar az har 25 nafar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "عدد افراد نهفته `q²` است. اول ریشهٔ دوم بگیر، بعد `p` و `2pq` را حساب کن. استفادهٔ مستقیم از ۰٫۱۶ به‌جای `q` رایج‌ترین اشتباه است.",
+      "en": "The number of recessive individuals is `q²`. Take the square root first, then work out `p` and `2pq`. Using 0.16 directly as `q` is the most common mistake.",
+      "tr": "Adad-e afrad-e nahofte `q²` ast. Avval rishe-ye dovvom begir, ba'd `p` va `2pq` ra hesab kon. Estefade-ye mostaghim az 0.16 be-ja-ye `q` rayej-tarin eshtebah ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ناخالص‌ها `2pq` هستند، نه `pq`. دو راه برای ساختن ناخالص هست.",
+      "en": "Heterozygotes are `2pq`, not `pq`. There are two ways to make a heterozygote.",
+      "tr": "Nakhales-ha `2pq` hastand, na `pq`. Do rah baraye sakhtan-e nakhales hast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1405-Practice1",
+     "number": 1
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 2
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 3
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 4
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 4,
+   "unit": 5,
+   "key": "bio-4-population-change",
+   "title": {
+    "fa": "عوامل تغییر جمعیت‌ها: رانش، شارش و انتخاب",
+    "en": "What changes populations: drift, gene flow and selection",
+    "tr": "Avamel-e taghyir-e jam'iyat-ha: ranesh, sharesh va entekhab"
+   },
+   "summary": {
+    "fa": "وقتی کیسهٔ تیله‌ها کوچک می‌شود، تکان می‌خورد یا غربال می‌شود.",
+    "en": "When the bag of marbles shrinks, gets shaken, or gets sieved.",
+    "tr": "Vaghti kise-ye tile-ha koochak mishavad, tekan mikhorad ya gharbal mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چه کسی کیسه را به هم می‌زند؟",
+      "en": "Understand first: who disturbs the bag?",
+      "tr": "Avval befahm: che kasi kise ra be ham mizanad?"
+     },
+     "body": {
+      "fa": "جمعیت در حال تعادل یک حالت ایده‌آل است. در دنیای واقعی چند نیرو فراوانی تیله‌ها را عوض می‌کنند و این همان «تغییر جمعیت» است. «جهش» تیلهٔ رنگ تازه می‌سازد. «شارش ژن» یعنی افراد مهاجر تیله‌هایشان را با خود به کیسهٔ دیگری می‌برند. «آمیزش غیرتصادفی» یعنی انتخاب جفت دیگر کورکورانه نیست. دو نیروی مهم‌تر را جدا می‌بینیم: رانش و انتخاب طبیعی.",
+      "en": "A population in equilibrium is an ideal state. In the real world several forces change the marble frequencies, and that is what \"population change\" means. \"Mutation\" makes marbles of a new colour. \"Gene flow\" means migrants carry their marbles with them into another bag. \"Non-random mating\" means choosing a mate is no longer blind. We look at the two more important forces separately: drift and natural selection.",
+      "tr": "Jam'iyat-e dar hal-e ta'adol yek halat-e ide-al ast. Dar donya-ye vaghe'i chand niroo faravani-ye tile-ha ra avaz mikonand va in haman \"taghyir-e jam'iyat\" ast. \"Jahesh\" tile-ye rang-e taze misazad. \"Sharesh-e zhen\" ya'ni afrad-e mohajer tile-hayeshan ra ba khod be kise-ye digari mibarand. \"Amizesh-e gheyr-e tasadofi\" ya'ni entekhab-e joft digar koorkoorane nist. Do niroo-ye mohem-tar ra joda mibinim: ranesh va entekhab-e tabi'i."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رانش: بازی شانس",
+      "en": "Drift: a game of chance",
+      "tr": "Ranesh: bazi-ye shans"
+     },
+     "body": {
+      "fa": "«رانش دگره‌ای» یعنی تغییر تصادفی فراوانی‌ها، فقط از روی شانس. در کیسهٔ بزرگ، شانس تقریباً خنثی می‌شود؛ ولی اگر فقط ۱۰ تیله برداری، ممکن است اتفاقی همه قرمز باشند. برای همین رانش در جمعیت‌های کوچک قوی است. دو حالت معروف دارد. «اثر تنگنا»: بلایی مثل سیل بیشتر جمعیت را از بین می‌برد و چند بازماندهٔ تصادفی کیسهٔ تازه را می‌سازند. «اثر بنیان‌گذار»: چند فرد از جمعیت جدا می‌شوند و در جای تازه جمعیتی می‌سازند که فقط تیله‌های همان چند نفر را دارد.",
+      "en": "\"Genetic drift\" means a random change in the frequencies, purely by chance. In a big bag, chance almost cancels out; but if you draw only 10 marbles, they might all happen to be red. That is why drift is strong in small populations. It has two well-known cases. \"Bottleneck effect\": a disaster such as a flood kills most of the population, and a few random survivors make the new bag. \"Founder effect\": a few individuals split off and start a population in a new place, which has only those few individuals' marbles.",
+      "tr": "\"Ranesh-e degare-i\" ya'ni taghyir-e tasadofi-ye faravani-ha, faghat az rooye shans. Dar kise-ye bozorg, shans taghriban khonsa mishavad; vali agar faghat 10 tile bardari, momken ast ettefaghi hame ghermez bashand. Baraye hamin ranesh dar jam'iyat-haye koochak ghavi ast. Do halat-e ma'roof darad. \"Asar-e tangna\": balayi mesl-e seyl bishtar-e jam'iyat ra az beyn mibarad va chand bazmande-ye tasadofi kise-ye taze ra misazand. \"Asar-e bonyangozar\": chand fard az jam'iyat joda mishavand va dar ja-ye taze jam'iyati misazand ke faghat tile-haye haman chand nafar ra darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " big bag:   R R B R B B R B R B ...\n            (about half and half)\n\n bottleneck / founders:\n grab 4 ->  R R R B\n            red 75%  (by chance!)",
+     "caption": {
+      "fa": "در اثر تنگنا یا بنیان‌گذار، چند فرد تصادفی خزانهٔ ژن تازه را می‌سازند و فراوانی‌ها جهش‌وار عوض می‌شوند.",
+      "en": "In a bottleneck or founder event, a few random individuals make the new gene pool, and the frequencies jump.",
+      "tr": "Dar asar-e tangna ya bonyangozar, chand fard-e tasadofi khazane-ye zhen-e taze ra misazand va faravani-ha jahesh-var avaz mishavand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "انتخاب طبیعی: غربال",
+      "en": "Natural selection: the sieve",
+      "tr": "Entekhab-e tabi'i: gharbal"
+     },
+     "body": {
+      "fa": "«انتخاب طبیعی» شانسی نیست. افرادی که رخ‌نمودشان در آن محیط بهتر کار می‌کند، بیشتر زنده می‌مانند و بیشتر تولیدمثل می‌کنند، پس تیله‌هایشان در کیسه زیاد می‌شود؛ مثل غربالی که فقط اندازهٔ خاصی را عبور می‌دهد. سه الگو دارد. «جهت‌دار»: یک سر طیف برتری دارد و میانگین به آن سمت می‌رود، مثل مقاوم شدن باکتری‌ها به پادزیست. «پایدارکننده»: حالت میانه برتری دارد و دو سر حذف می‌شوند، مثل وزن نوزاد. «گسلنده»: دو سر طیف برتری دارند و حالت میانه حذف می‌شود.",
+      "en": "\"Natural selection\" is not chance. Individuals whose phenotype works better in that environment survive more and reproduce more, so their marbles grow in the bag; like a sieve that only lets a certain size through. It has three patterns. \"Directional\": one end of the range is favoured and the average moves that way, like bacteria becoming resistant to antibiotics. \"Stabilising\": the middle is favoured and both ends are removed, like birth weight in babies. \"Disruptive\": both ends of the range are favoured and the middle is removed.",
+      "tr": "\"Entekhab-e tabi'i\" shansi nist. Afradi ke rokh-namoodeshan dar an mohit behtar kar mikonad, bishtar zende mimanand va bishtar tolid-e mesl mikonand, pas tile-hayeshan dar kise ziyad mishavad; mesl-e gharbali ke faghat andaze-ye khassi ra oboor midahad. Se olgoo darad. \"Jahat-dar\": yek sar-e tif bartari darad va miyangin be an samt miravad, mesl-e moghavem shodan-e bakteri-ha be padzist. \"Paydar-konande\": halat-e miyane bartari darad va do sar hazf mishavand, mesl-e vazn-e nozad. \"Gosalande\": do sar-e tif bartari darand va halat-e miyane hazf mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " . = before   # = after selection\n\n directional     ...       ###\n                .....    #####\n               small  ->  large\n\n stabilising       ###\n                 .#####.\n                ...###...\n\n disruptive    ##   .   ##\n              ###  ...  ###",
+     "caption": {
+      "fa": "سه الگوی انتخاب: جهت‌دار (جابه‌جایی میانگین)، پایدارکننده (باریک‌تر شدن دور میانه)، گسلنده (دو قله).",
+      "en": "The three patterns of selection: directional (the average shifts), stabilising (narrower around the middle), disruptive (two peaks).",
+      "tr": "Se olgoo-ye entekhab: jahat-dar (jabejayi-ye miyangin), paydar-konande (barik-tar shodan dor-e miyane), gosalande (do gholle)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: چرا رانش در جمعیت ۲۰ نفره از جمعیت ۲۰۰۰۰ نفره قوی‌تر است؟",
+      "en": "Warm-up: why is drift stronger in a population of 20 than in one of 20,000?",
+      "tr": "Garm kardan: chera ranesh dar jam'iyat-e 20 nafare az jam'iyat-e 20000 nafare ghavi-tar ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سکه را تصور کن. با ۴ بار انداختن، گرفتن ۳ شیر عجیب نیست؛ با ۴۰۰۰ بار، نسبت تقریباً نصف‌نصف می‌ماند. نمونهٔ کوچک بیشتر تحت تأثیر شانس است.",
+        "en": "Think of a coin. In 4 tosses, getting 3 heads is not strange; in 4000 tosses the split stays close to half and half. A small sample is pushed around more by chance.",
+        "tr": "Sekke ra tasavvor kon. Ba 4 bar andakhtan, gereftan-e 3 shir ajib nist; ba 4000 bar, nesbat taghriban nesf-nesf mimanad. Nemoone-ye koochak bishtar taht-e ta'sir-e shans ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون در نمونهٔ کوچک، شانس اثر بیشتری بر فراوانی‌ها دارد",
+      "en": "Because in a small sample, chance has a bigger effect on the frequencies",
+      "tr": "Chon dar nemoone-ye koochak, shans asar-e bishtari bar faravani-ha darad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: وزن نوزادان انسان: نوزادان خیلی سبک و خیلی سنگین کمتر زنده می‌مانند. کدام نوع انتخاب است؟",
+      "en": "Textbook and exam: human birth weight: very light and very heavy babies survive less. Which kind of selection is it?",
+      "tr": "Mas'ale-ye ketab va emtehan: vazn-e nozadan-e ensan: nozadan-e kheyli sabok va kheyli sangin kamtar zende mimanand. Kodam no' entekhab ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بپرس: کدام بخش طیف حذف می‌شود؟ هر دو سر.",
+        "en": "Ask: which part of the range is removed? Both ends.",
+        "tr": "Bepors: kodam bakhsh-e tif hazf mishavad? Har do sar."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس حالت میانه برتری دارد و نمودار دور میانگین باریک‌تر می‌شود، بی‌آنکه میانگین جابه‌جا شود.",
+        "en": "So the middle is favoured and the graph gets narrower around the average, without the average moving.",
+        "tr": "Pas halat-e miyane bartari darad va nemoodar dor-e miyangin barik-tar mishavad, bi-anke miyangin jabeja shavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "انتخاب پایدارکننده",
+      "en": "Stabilising selection",
+      "tr": "Entekhab-e paydar-konande"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: ۱۰ نفر از یک جمعیت بزرگ به جزیره‌ای می‌روند؛ یکی از آن‌ها `Aa` است و بقیه `AA`. در سرزمین اصلی `q = 0.001`. در جزیره `q` چقدر است؟",
+      "en": "Exam twist: 10 people from a big population move to an island; one of them is `Aa` and the rest are `AA`. On the mainland `q = 0.001`. What is `q` on the island?",
+      "tr": "Pich-e emtehani: 10 nafar az yek jam'iyat-e bozorg be jazire-i miravand; yeki az an-ha `Aa` ast va baghiye `AA`. Dar sarzamin-e asli `q = 0.001`. Dar jazire `q` cheghadr ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تیله‌ها را بشمار: ۱۰ نفر یعنی ۲۰ تیله، و فقط یک تیلهٔ `a` هست.",
+        "en": "Count the marbles: 10 people means 20 marbles, and there is only one `a` marble.",
+        "tr": "Tile-ha ra beshmar: 10 nafar ya'ni 20 tile, va faghat yek tile-ye `a` hast."
+       },
+       "math": "q = 1 / 20 = 0.05"
+      },
+      {
+       "text": {
+        "fa": "مقایسه کن: فراوانی در جزیره پنجاه برابر شده، بدون هیچ انتخاب طبیعی، فقط چون آن یک نفر اتفاقی در گروه بود. این اثر بنیان‌گذار است.",
+        "en": "Compare: the frequency on the island is fifty times higher, with no natural selection at all, just because that one person happened to be in the group. That is the founder effect.",
+        "tr": "Moghayese kon: faravani dar jazire panjah barabar shode, bedoon-e hich entekhab-e tabi'i, faghat chon an yek nafar ettefaghi dar goroh bood. In asar-e bonyangozar ast."
+       },
+       "math": "0.05 / 0.001 = 50"
+      }
+     ],
+     "answer": {
+      "fa": "`q = 0.05`، پنجاه برابر؛ اثر بنیان‌گذار",
+      "en": "`q = 0.05`, fifty times higher; the founder effect",
+      "tr": "`q = 0.05`, panjah barabar; asar-e bonyangozar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رانش «تصادفی» است و به سازگاری ربطی ندارد؛ انتخاب طبیعی «غیرتصادفی» است و رخ‌نمود سازگارتر را زیاد می‌کند. این دو را یکی ندان.",
+      "en": "Drift is \"random\" and has nothing to do with fitness; natural selection is \"non-random\" and increases the better-suited phenotype. Do not treat them as the same.",
+      "tr": "Ranesh \"tasadofi\" ast va be sazgari rabti nadarad; entekhab-e tabi'i \"gheyr-e tasadofi\" ast va rokh-namood-e sazgar-tar ra ziyad mikonad. In do ra yeki nadan."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در انتخاب پایدارکننده میانگین جابه‌جا نمی‌شود، فقط پراکندگی کم می‌شود. جابه‌جا شدن میانگین نشانهٔ انتخاب جهت‌دار است.",
+      "en": "In stabilising selection the average does not move; only the spread shrinks. A shifting average is the sign of directional selection.",
+      "tr": "Dar entekhab-e paydar-konande miyangin jabeja nemishavad, faghat parakandegi kam mishavad. Jabeja shodan-e miyangin neshane-ye entekhab-e jahat-dar ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1405-Practice1",
+     "number": 5
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 6
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 7
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 8
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 5,
+   "unit": 1,
+   "key": "bio-5-atp-map",
+   "title": {
+    "fa": "انرژی یاخته و نقشهٔ تنفس",
+    "en": "The cell's energy and the map of respiration",
+    "tr": "Enerzhi-ye yakhte va naghshe-ye tanaffos"
+   },
+   "summary": {
+    "fa": "یک اسکناس درشت را به سکه‌های خرد تبدیل کن تا بتوانی خرجش کنی.",
+    "en": "Change one big banknote into small coins so you can spend it.",
+    "tr": "Yek eskenas-e dorosht ra be sekke-haye khord tabdil kon ta betavani kharjash koni."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: اسکناس درشت و سکهٔ خرد",
+      "en": "Understand first: the big note and the small coins",
+      "tr": "Avval befahm: eskenas-e dorosht va sekke-ye khord"
+     },
+     "body": {
+      "fa": "گلوکز مثل یک اسکناس درشت است: انرژی زیادی دارد، ولی هیچ مغازه‌ای در یاخته آن را مستقیم قبول نمی‌کند. کارهای یاخته، مثل انقباض ماهیچه یا پمپ کردن یون‌ها، با سکه‌های خرد پرداخت می‌شوند. این سکه «`ATP`» است. «تنفس یاخته‌ای» همان صرافی است: گلوکز را کم‌کم می‌شکند و انرژی‌اش را به ده‌ها سکهٔ `ATP` تبدیل می‌کند.",
+      "en": "Glucose is like a big banknote: it holds a lot of energy, but no shop in the cell accepts it directly. The cell's jobs, such as muscle contraction or pumping ions, are paid for with small coins. That coin is \"`ATP`\". \"Cellular respiration\" is the money changer: it breaks glucose down step by step and turns its energy into dozens of `ATP` coins.",
+      "tr": "Glukoz mesl-e yek eskenas-e dorosht ast: enerzhi-ye ziyadi darad, vali hich maghaze-i dar yakhte an ra mostaghim ghabool nemikonad. Kar-haye yakhte, mesl-e enghebaz-e mahiche ya pomp kardan-e yoon-ha, ba sekke-haye khord pardakht mishavand. In sekke \"`ATP`\" ast. \"Tanaffos-e yakhte-i\" haman sarrafi ast: glukoz ra kam-kam mishekanad va enerzhi-ash ra be dah-ha sekke-ye `ATP` tabdil mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سکه و شارژ دوباره",
+      "en": "The coin and its recharge",
+      "tr": "Sekke va sharzh-e dobare"
+     },
+     "body": {
+      "fa": "`ATP` یک باز آدنین، یک قند ریبوز و سه گروه فسفات دارد. وقتی فسفات سوم جدا می‌شود، `ATP` به `ADP` تبدیل می‌شود و انرژی آزاد می‌کند، مثل خرج کردن یک سکه. یاخته دوباره با انرژی غذا آن فسفات را برمی‌گرداند و سکه را «شارژ» می‌کند. یاخته سه راه برای ساختن `ATP` دارد: در سطح پیش‌ماده (یک آنزیم فسفات را مستقیم از یک مولکول به `ADP` می‌دهد)، اکسایشی (در راکیزه با کمک زنجیرهٔ انتقال الکترون) و نوری (در فتوسنتز).",
+      "en": "`ATP` has an adenine base, a ribose sugar and three phosphate groups. When the third phosphate comes off, `ATP` becomes `ADP` and releases energy, like spending a coin. The cell then uses energy from food to put that phosphate back and \"recharge\" the coin. The cell has three ways to make `ATP`: substrate-level (an enzyme hands a phosphate straight from a molecule to `ADP`), oxidative (in the mitochondrion with the help of the electron transport chain) and light-driven (in photosynthesis).",
+      "tr": "`ATP` yek baz-e adenin, yek ghand-e riboz va se goroh-e fosfat darad. Vaghti fosfat-e sevvom joda mishavad, `ATP` be `ADP` tabdil mishavad va enerzhi azad mikonad, mesl-e kharj kardan-e yek sekke. Yakhte dobare ba enerzhi-ye ghaza an fosfat ra barmigardanad va sekke ra \"sharzh\" mikonad. Yakhte se rah baraye sakhtan-e `ATP` darad: dar sath-e pish-madde (yek anzim fosfat ra mostaghim az yek molekool be `ADP` midahad), oksayeshi (dar rakize ba komak-e zanjire-ye enteghal-e elektron) va noori (dar fotosantez)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ATP = adenine - ribose - P - P - P\n\n ATP --> ADP + P + energy  (spend)\n ADP + P + energy --> ATP  (charge)",
+     "caption": {
+      "fa": "خرج و شارژ سکهٔ انرژی یاخته.",
+      "en": "Spending and recharging the cell's energy coin.",
+      "tr": "Kharj va sharzh-e sekke-ye enerzhi-ye yakhte."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نقشهٔ صرافی: کجا چه اتفاقی می‌افتد؟",
+      "en": "The map of the money changer: what happens where?",
+      "tr": "Naghshe-ye sarrafi: koja che ettefaghi miofte?"
+     },
+     "body": {
+      "fa": "صرافی چند غرفه دارد. «قندکافت» در میان‌یاخته است. اکسایش پیرووات و «چرخهٔ کربس» در بخش داخلی راکیزه انجام می‌شوند. «زنجیرهٔ انتقال الکترون» روی غشای درونی راکیزه است که چین‌های زیادی دارد تا جای بیشتری برای زنجیره باشد. بین دو غشا یک فضای باریک هست که بعداً نقش مخزن سد را بازی می‌کند. حامل‌های `NADH` و `FADH2` مثل کیف پول‌اند: الکترون‌های پرانرژی را از غرفه‌های اول به زنجیره می‌برند.",
+      "en": "The money changer has several counters. \"Glycolysis\" is in the cytoplasm. Pyruvate oxidation and the \"Krebs cycle\" take place in the inner compartment (matrix) of the mitochondrion. The \"electron transport chain\" sits on the inner membrane of the mitochondrion, which has many folds to give the chain more room. Between the two membranes is a narrow space that will later act as the dam's reservoir. The carriers `NADH` and `FADH2` are like wallets: they carry high-energy electrons from the first counters to the chain.",
+      "tr": "Sarrafi chand ghorfe darad. \"Ghand-kaft\" dar miyan-yakhte ast. Oksayesh-e piruvat va \"charkhe-ye Krebs\" dar bakhsh-e dakheli-ye rakize anjam mishavand. \"Zanjire-ye enteghal-e elektron\" rooye ghesha-ye daroonie rakize ast ke chin-haye ziyadi darad ta ja-ye bishtari baraye zanjire bashad. Beyn-e do ghesha yek faza-ye barik hast ke ba'dan naghsh-e makhzan-e sad ra bazi mikonad. Hamel-haye `NADH` va `FADH2` mesl-e kif-e pool-and: elektron-haye por-enerzhi ra az ghorfe-haye avval be zanjire mibarand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " +--------------------------------+\n | outer membrane                 |\n |  +--------------------------+  |\n |  | inner membrane (folded): |  |\n |  |   electron chain         |  |\n |  |  +--------------------+  |  |\n |  |  | matrix: pyruvate   |  |  |\n |  |  | oxidation, Krebs   |  |  |\n |  |  +--------------------+  |  |\n |  +--------------------------+  |\n |  intermembrane space (between) |\n +--------------------------------+\n glycolysis: outside, in cytoplasm",
+     "caption": {
+      "fa": "راکیزه: غشای بیرونی، فضای بین دو غشا، غشای درونی چین‌خورده (زنجیره) و بخش داخلی (کربس). قندکافت بیرون از راکیزه است.",
+      "en": "The mitochondrion: outer membrane, intermembrane space, folded inner membrane (the chain) and the matrix (Krebs). Glycolysis is outside the mitochondrion.",
+      "tr": "Rakize: ghesha-ye birooni, faza-ye beyn-e do ghesha, ghesha-ye daroonie chin-khorde (zanjire) va bakhsh-e dakheli (Krebs). Ghand-kaft biroon az rakize ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " per glucose  place   ATP NADH FADH2\n glycolysis   cytopl.  2   2    0\n pyruvate ox. matrix   0   2    0\n Krebs (x2)   matrix   2   6    2\n chain        inner   ~26  -    -\n total               ~30  10    2",
+     "caption": {
+      "fa": "دفتر حساب هر گلوکز: بیشتر `ATP` از زنجیره می‌آید، با خرج کردن `NADH` و `FADH2`. عدد نهایی تقریبی است (حدود ۳۰).",
+      "en": "The ledger for each glucose: most `ATP` comes from the chain, by spending `NADH` and `FADH2`. The final figure is approximate (about 30).",
+      "tr": "Daftar-e hesab-e har glukoz: bishtar-e `ATP` az zanjire miayad, ba kharj kardan-e `NADH` va `FADH2`. Adad-e nahayi taghribi ast (hodood-e 30)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: وقتی `ATP` خرج می‌شود، چه چیزی باقی می‌ماند؟",
+      "en": "Warm-up: when `ATP` is spent, what is left?",
+      "tr": "Garm kardan: vaghti `ATP` kharj mishavad, che chizi baghi mimanad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسمش را بخوان: تری‌فسفات یعنی سه فسفات. خرج کردن یعنی جدا شدن یک فسفات.",
+        "en": "Read its name: triphosphate means three phosphates. Spending means one phosphate comes off.",
+        "tr": "Esmash ra bekhan: tri-fosfat ya'ni se fosfat. Kharj kardan ya'ni joda shodan-e yek fosfat."
+       },
+       "math": "3 − 1 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "`ADP` (دو فسفات) و یک گروه فسفات آزاد",
+      "en": "`ADP` (two phosphates) and a free phosphate group",
+      "tr": "`ADP` (do fosfat) va yek goroh-e fosfat-e azad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: از یک گلوکز در تنفس هوازی، چند `NADH` و `FADH2` ساخته می‌شود؟",
+      "en": "Textbook and exam: how many `NADH` and `FADH2` does one glucose make in aerobic respiration?",
+      "tr": "Mas'ale-ye ketab va emtehan: az yek glukoz dar tanaffos-e havazi, chand `NADH` va `FADH2` sakhte mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مرحله به مرحله جمع کن. قندکافت: ۲ تا `NADH`.",
+        "en": "Add it up stage by stage. Glycolysis: 2 `NADH`.",
+        "tr": "Marhale be marhale jam' kon. Ghand-kaft: 2 ta `NADH`."
+       },
+       "math": "2"
+      },
+      {
+       "text": {
+        "fa": "یک گلوکز دو پیرووات می‌دهد، پس اکسایش پیرووات و چرخهٔ کربس هر کدام دو بار انجام می‌شوند. چرا مهم است؟ چون بیشتر اشتباه‌ها از فراموش کردن همین «ضرب در دو» است.",
+        "en": "One glucose gives two pyruvates, so pyruvate oxidation and the Krebs cycle each happen twice. Why does it matter? Because most mistakes come from forgetting this \"times two\".",
+        "tr": "Yek glukoz do piruvat midahad, pas oksayesh-e piruvat va charkhe-ye Krebs har kodam do bar anjam mishavand. Chera mohem ast? Chon bishtar-e eshtebah-ha az faramoosh kardan-e hamin \"zarb dar do\" ast."
+       },
+       "math": "2 × 1 = 2 ,   2 × 3 = 6"
+      },
+      {
+       "text": {
+        "fa": "`FADH2` فقط در کربس ساخته می‌شود: یکی در هر دور.",
+        "en": "`FADH2` is made only in the Krebs cycle: one per turn.",
+        "tr": "`FADH2` faghat dar Krebs sakhte mishavad: yeki dar har dor."
+       },
+       "math": "2 + 2 + 6 = 10 ,   2 × 1 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "۱۰ تا `NADH` و ۲ تا `FADH2`",
+      "en": "10 `NADH` and 2 `FADH2`",
+      "tr": "10 ta `NADH` va 2 ta `FADH2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یاخته بدون راکیزه (مثل گویچهٔ قرمز بالغ انسان) از هر گلوکز چند `ATP` می‌سازد؟",
+      "en": "Exam twist: how many `ATP` does a cell without mitochondria (such as a mature human red blood cell) make from each glucose?",
+      "tr": "Pich-e emtehani: yakhte bedoon-e rakize (mesl-e goychche-ye ghermez-e baleq-e ensan) az har glukoz chand `ATP` misazad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: بدون راکیزه نه کربس هست و نه زنجیره. فقط غرفهٔ اول کار می‌کند.",
+        "en": "The twist: without mitochondria there is no Krebs cycle and no chain. Only the first counter works.",
+        "tr": "Pich-e emtehan: bedoon-e rakize na Krebs hast va na zanjire. Faghat ghorfe-ye avval kar mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "قندکافت ۴ تا می‌سازد و ۲ تا خرج می‌کند.",
+        "en": "Glycolysis makes 4 and spends 2.",
+        "tr": "Ghand-kaft 4 ta misazad va 2 ta kharj mikonad."
+       },
+       "math": "4 − 2 = 2"
+      }
+     ],
+     "answer": {
+      "fa": "فقط ۲ `ATP`، در برابر حدود ۳۰ در تنفس هوازی",
+      "en": "Only 2 `ATP`, against about 30 in aerobic respiration",
+      "tr": "Faghat 2 `ATP`, dar barabar-e hodood-e 30 dar tanaffos-e havazi"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`NADH` و `FADH2` خودشان `ATP` نیستند؛ کیف پول‌اند. `ATP` آن‌ها بعداً در زنجیرهٔ انتقال الکترون پرداخت می‌شود.",
+      "en": "`NADH` and `FADH2` are not `ATP` themselves; they are wallets. Their `ATP` is paid out later, in the electron transport chain.",
+      "tr": "`NADH` va `FADH2` khodeshan `ATP` nistand; kif-e pool-and. `ATP`-e an-ha ba'dan dar zanjire-ye enteghal-e elektron pardakht mishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "قندکافت در میان‌یاخته است، نه در راکیزه. فقط اکسایش پیرووات، کربس و زنجیره در راکیزه‌اند.",
+      "en": "Glycolysis is in the cytoplasm, not in the mitochondrion. Only pyruvate oxidation, the Krebs cycle and the chain are in the mitochondrion.",
+      "tr": "Ghand-kaft dar miyan-yakhte ast, na dar rakize. Faghat oksayesh-e piruvat, Krebs va zanjire dar rakize-and."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1405-Practice1",
+     "number": 9
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 10
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 11
+    }
+   ]
+  },
+  {
+   "subject": "Biology",
+   "chapter": 6,
+   "unit": 1,
+   "key": "bio-6-chloroplast",
+   "title": {
+    "fa": "سبزدیسه، رنگیزه‌ها و دو مرحلهٔ فتوسنتز",
+    "en": "The chloroplast, pigments and the two stages",
+    "tr": "Sabz-dise, rangize-ha va do marhale-ye fotosantez"
+   },
+   "summary": {
+    "fa": "صفحهٔ خورشیدی باتری را شارژ می‌کند و چاپگر سه‌بعدی با آن آجر قندی می‌سازد.",
+    "en": "Solar panels charge the batteries, and a 3D printer uses them to build sugar bricks.",
+    "tr": "Safhe-ye khorshidi batri ra sharzh mikonad va chapgar-e se-bo'di ba an ajor-e ghandi misazad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: صفحهٔ خورشیدی و چاپگر",
+      "en": "Understand first: the solar panel and the printer",
+      "tr": "Avval befahm: safhe-ye khorshidi va chapgar"
+     },
+     "body": {
+      "fa": "فصل قبل دیدیم که یاخته قند را می‌شکند تا انرژی بگیرد. فتوسنتز برعکس است: انرژی نور را می‌گیرد و با آن قند می‌سازد. یک کارخانهٔ دومرحله‌ای را تصور کن. در مرحلهٔ اول، صفحه‌های خورشیدی نور را می‌گیرند و باتری‌ها را شارژ می‌کنند؛ این «واکنش‌های وابسته به نور» است و باتری‌های شارژشده `ATP` و `NADPH`اند. در مرحلهٔ دوم، یک چاپگر سه‌بعدی با همان باتری‌ها از `CO2` هوا آجرهای قندی می‌سازد؛ این «چرخهٔ کالوین» است.",
+      "en": "Last chapter we saw the cell break sugar down to get energy. Photosynthesis is the reverse: it captures light energy and uses it to make sugar. Picture a two-stage factory. In stage one, solar panels catch the light and charge the batteries; these are the \"light-dependent reactions\", and the charged batteries are `ATP` and `NADPH`. In stage two, a 3D printer uses those batteries to build sugar bricks out of the `CO2` in the air; this is the \"Calvin cycle\".",
+      "tr": "Fasl-e ghabl didim ke yakhte ghand ra mishekanad ta enerzhi begirad. Fotosantez bar-aks ast: enerzhi-ye noor ra migirad va ba an ghand misazad. Yek karkhane-ye do-marhale-i ra tasavvor kon. Dar marhale-ye avval, safhe-haye khorshidi noor ra migirand va batri-ha ra sharzh mikonand; in \"vakonesh-haye vabaste be noor\" ast va batri-haye sharzh-shode `ATP` va `NADPH`-and. Dar marhale-ye dovvom, yek chapgar-e se-bo'di ba haman batri-ha az `CO2`-e hava ajor-haye ghandi misazad; in \"charkhe-ye Kalvin\" ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نقشهٔ سبزدیسه",
+      "en": "The map of the chloroplast",
+      "tr": "Naghshe-ye sabz-dise"
+     },
+     "body": {
+      "fa": "این کارخانه در «سبزدیسه» است. سبزدیسه دو غشای بیرونی دارد و درونش مایعی به نام «بستره» است. در بستره کیسه‌های پهنی به نام «تیلاکوئید» روی هم چیده شده‌اند، مثل سکه‌های روی هم. صفحه‌های خورشیدی روی غشای تیلاکوئید نصب‌اند و چاپگر در بستره کار می‌کند. فضای درون هر تیلاکوئید هم مخزنی است که بعداً پروتون‌ها در آن جمع می‌شوند.",
+      "en": "This factory is in the \"chloroplast\". The chloroplast has two outer membranes, and inside it is a fluid called the \"stroma\". In the stroma, flat sacs called \"thylakoids\" are stacked on each other, like piles of coins. The solar panels are fixed on the thylakoid membrane, and the printer works in the stroma. The space inside each thylakoid (the lumen) is a reservoir where protons will later collect.",
+      "tr": "In karkhane dar \"sabz-dise\" ast. Sabz-dise do ghesha-ye birooni darad va daroonash maye'i be nam-e \"bastare\" ast. Dar bastare kise-haye pahni be nam-e \"tilakoid\" rooye ham chide shode-and, mesl-e sekke-haye rooye ham. Safhe-haye khorshidi rooye ghesha-ye tilakoid nasb-and va chapgar dar bastare kar mikonad. Faza-ye daroon-e har tilakoid ham makhzani ast ke ba'dan proton-ha dar an jam' mishavand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " +--------------------------------+\n | two outer membranes            |\n |                                |\n |  stroma (fluid): Calvin cycle  |\n |    [====]  [====]              |\n |    [====]  [====] <- thylakoid |\n |    [====]  [====]    stacks    |\n |                                |\n |  thylakoid membrane: light     |\n |  reactions; inside: lumen      |\n +--------------------------------+",
+     "caption": {
+      "fa": "سبزدیسه: واکنش‌های نوری روی غشای تیلاکوئید، چرخهٔ کالوین در بستره.",
+      "en": "The chloroplast: the light reactions on the thylakoid membrane, the Calvin cycle in the stroma.",
+      "tr": "Sabz-dise: vakonesh-haye noori rooye ghesha-ye tilakoid, charkhe-ye Kalvin dar bastare."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رنگیزه‌ها: چرا برگ سبز است؟",
+      "en": "Pigments: why is a leaf green?",
+      "tr": "Rangize-ha: chera barg sabz ast?"
+     },
+     "body": {
+      "fa": "صفحهٔ خورشیدی از «رنگیزه‌ها» ساخته شده. سبزینهٔ `a` و `b` بیشتر نور آبی و قرمز را جذب می‌کنند و نور سبز را بازمی‌تابانند؛ برای همین برگ سبز دیده می‌شود. کاروتنوئیدها (زرد و نارنجی) نورهای دیگری را می‌گیرند و به سبزینه می‌دهند. رنگیزه‌ها در گروه‌هایی به نام «فتوسیستم» کنار هم‌اند: بیشترشان مثل آنتن نور را می‌گیرند و انرژی را به «مرکز واکنش» می‌رسانند، جایی که یک سبزینهٔ `a` ویژه الکترونش را از دست می‌دهد.",
+      "en": "The solar panel is made of \"pigments\". Chlorophyll `a` and `b` mostly absorb blue and red light and reflect green light; that is why a leaf looks green. Carotenoids (yellow and orange) catch other colours and pass the energy on to chlorophyll. The pigments sit together in groups called \"photosystems\": most of them act like an antenna that catches light and passes the energy to the \"reaction centre\", where a special chlorophyll `a` gives away its electron.",
+      "tr": "Safhe-ye khorshidi az \"rangize-ha\" sakhte shode. Sabzine-ye `a` va `b` bishtar noor-e abi va ghermez ra jazb mikonand va noor-e sabz ra baz-mitabanand; baraye hamin barg sabz dide mishavad. Karotenoid-ha (zard va narenji) noor-haye digari ra migirand va be sabzine midahand. Rangize-ha dar goroh-hayi be nam-e \"fotosistem\" kenar-e ham-and: bishtareshan mesl-e anten noor ra migirand va enerzhi ra be \"markaz-e vakonesh\" miresanand, jayi ke yek sabzine-ye `a`-ye vizhe elektronash ra az dast midahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " light:      blue   green   red\n chlorophyll  ###     .     ###\n absorbed?    yes     no    yes\n\n green bounces back to our eyes",
+     "caption": {
+      "fa": "سبزینه آبی و قرمز را جذب و سبز را بازتاب می‌کند.",
+      "en": "Chlorophyll absorbs blue and red and reflects green.",
+      "tr": "Sabzine abi va ghermez ra jazb va sabz ra baztab mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " LIGHT REACTIONS (thylakoid)\n light + H2O --> O2 out\n   charge: ATP + NADPH\n        |            ^\n        v            | ADP, NADP+\n CALVIN CYCLE (stroma)\n CO2 + ATP + NADPH --> sugar",
+     "caption": {
+      "fa": "دو مرحله با هم کار می‌کنند: واکنش‌های نوری باتری‌ها را شارژ می‌کنند و کالوین آن‌ها را خرج می‌کند و خالی برمی‌گرداند.",
+      "en": "The two stages work together: the light reactions charge the batteries, and the Calvin cycle spends them and sends them back empty.",
+      "tr": "Do marhale ba ham kar mikonand: vakonesh-haye noori batri-ha ra sharzh mikonand va Kalvin an-ha ra kharj mikonad va khali barmigardanad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: چرا نور سبز برای فتوسنتز کم‌اثرترین رنگ است؟",
+      "en": "Warm-up: why is green light the least useful colour for photosynthesis?",
+      "tr": "Garm kardan: chera noor-e sabz baraye fotosantez kam-asar-tarin rang ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فقط نوری که جذب شود انرژی می‌دهد. سبزینه نور سبز را جذب نمی‌کند و برمی‌گرداند؛ همان نوری که ما می‌بینیم.",
+        "en": "Only light that is absorbed gives energy. Chlorophyll does not absorb green light, it sends it back; that is exactly the light we see.",
+        "tr": "Faghat noori ke jazb shavad enerzhi midahad. Sabzine noor-e sabz ra jazb nemikonad va barmigardanad; haman noori ke ma mibinim."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون سبزینه آن را جذب نمی‌کند و بازمی‌تاباند",
+      "en": "Because chlorophyll does not absorb it; it reflects it",
+      "tr": "Chon sabzine an ra jazb nemikonad va baz-mitabanad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: هر کدام از این کارها کجای سبزدیسه انجام می‌شود: تولید اکسیژن، ساخت قند؟",
+      "en": "Textbook and exam: where in the chloroplast does each of these happen: making oxygen, making sugar?",
+      "tr": "Mas'ale-ye ketab va emtehan: har kodam az in kar-ha koja-ye sabz-dise anjam mishavad: tolid-e oksizhen, sakht-e ghand?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اکسیژن از شکستن آب در واکنش‌های نوری می‌آید، و صفحه‌های خورشیدی روی غشای تیلاکوئیدند.",
+        "en": "Oxygen comes from splitting water in the light reactions, and the solar panels are on the thylakoid membrane.",
+        "tr": "Oksizhen az shekastan-e ab dar vakonesh-haye noori miayad, va safhe-haye khorshidi rooye ghesha-ye tilakoid-and."
+       }
+      },
+      {
+       "text": {
+        "fa": "قند را چاپگر، یعنی چرخهٔ کالوین، در بستره می‌سازد.",
+        "en": "Sugar is built by the printer, the Calvin cycle, in the stroma.",
+        "tr": "Ghand ra chapgar, ya'ni charkhe-ye Kalvin, dar bastare misazad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اکسیژن: غشای تیلاکوئید؛ قند: بستره",
+      "en": "Oxygen: the thylakoid membrane; sugar: the stroma",
+      "tr": "Oksizhen: ghesha-ye tilakoid; ghand: bastare"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: گیاهی را در تاریکی می‌گذاریم. چرخهٔ کالوین که مستقیماً به نور نیاز ندارد، چقدر ادامه می‌دهد؟",
+      "en": "Exam twist: we put a plant in the dark. How long does the Calvin cycle, which does not need light directly, keep going?",
+      "tr": "Pich-e emtehani: giyahi ra dar tariki migozarim. Charkhe-ye Kalvin ke mostaghiman be noor niyaz nadarad, cheghadr edame midahad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: کالوین نور نمی‌خواهد، ولی باتری‌های شارژشده (`ATP` و `NADPH`) را می‌خواهد.",
+        "en": "The twist: the Calvin cycle does not want light, but it does want charged batteries (`ATP` and `NADPH`).",
+        "tr": "Pich-e emtehan: Kalvin noor nemikhahad, vali batri-haye sharzh-shode (`ATP` va `NADPH`) ra mikhahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "در تاریکی صفحه‌ها شارژ نمی‌کنند. وقتی ذخیرهٔ باتری‌ها خالی شد، چاپگر هم می‌ایستد.",
+        "en": "In the dark the panels do not charge. Once the battery stock runs out, the printer stops too.",
+        "tr": "Dar tariki safhe-ha sharzh nemikonand. Vaghti zakhire-ye batri-ha khali shod, chapgar ham miistad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فقط کمی، تا وقتی `ATP` و `NADPH` ذخیره تمام شود",
+      "en": "Only briefly, until the stored `ATP` and `NADPH` run out",
+      "tr": "Faghat kami, ta vaghti `ATP` va `NADPH`-e zakhire tamam shavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«مستقل از نور» یعنی کالوین مستقیماً نور مصرف نمی‌کند، نه اینکه شب کار کند. بدون محصولات واکنش‌های نوری، کالوین زود می‌ایستد.",
+      "en": "\"Light-independent\" means the Calvin cycle does not use light directly, not that it runs at night. Without the products of the light reactions it soon stops.",
+      "tr": "\"Mostaghel az noor\" ya'ni Kalvin mostaghiman noor masraf nemikonad, na inke shab kar konad. Bedoon-e mahsoolat-e vakonesh-haye noori, Kalvin zood miistad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در فتوسنتز باتری کاهنده `NADPH` است (با `P`)، نه `NADH` تنفس یاخته‌ای. این دو را جابه‌جا ننویس.",
+      "en": "In photosynthesis the reducing battery is `NADPH` (with a `P`), not the `NADH` of cellular respiration. Do not swap them.",
+      "tr": "Dar fotosantez batri-ye kahande `NADPH` ast (ba `P`), na `NADH`-e tanaffos-e yakhte-i. In do ra jabeja nanevis."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1405-Practice1",
+     "number": 12
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 13
+    },
+    {
+     "session": "1405-Practice1",
+     "number": 14
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "subject": "Biology",
+   "key": "bio-g-hardy-weinberg",
+   "term": {
+    "fa": "تعادل هاردی-واینبرگ",
+    "en": "Hardy-Weinberg equilibrium",
+    "tr": "ta-adol-e Hardy-Weinberg"
+   },
+   "explain": {
+    "fa": "حالتی که در آن فراوانی دگره‌ها و ژن‌نمودها نسل به نسل ثابت می‌ماند: `p + q = 1` و `p² + 2pq + q² = 1`. شرط‌ها: جمعیت بزرگ، آمیزش تصادفی، نبود جهش، شارش ژن و انتخاب.",
+    "en": "The state in which allele and genotype frequencies stay the same from generation to generation: `p + q = 1` and `p² + 2pq + q² = 1`. Conditions: a large population, random mating, and no mutation, gene flow or selection.",
+    "tr": "Halati ke dar an faravani-ye degare-ha va zhen-nemood-ha nasl be nasl sabet mimanad: `p + q = 1` va `p² + 2pq + q² = 1`. Shart-ha: jam'iyat-e bozorg, amizesh-e tasadofi, naboood-e jahesh, sharesh-e zhen va entekhab."
+   },
+   "analogy": {
+    "fa": "کیسه‌ای از تیله‌ها که کسی تکانش نمی‌دهد.",
+    "en": "A bag of marbles nobody shakes.",
+    "tr": "Kise-i az tile-ha ke kasi tekanash nemidahad."
+   },
+   "contrast": {
+    "fa": "افراد نهفته `q²` هستند؛ اول جذر بگیر، بعد `p` و `2pq` را حساب کن.",
+    "en": "Recessive individuals are `q²`; take the square root first, then work out `p` and `2pq`.",
+    "tr": "Afrad-e nahofte `q²` hastand; avval jazr begir, ba'd `p` va `2pq` ra hesab kon."
+   },
+   "unit": "bio-4-gene-pool"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-allele-frequency",
+   "term": {
+    "fa": "فراوانی دگره",
+    "en": "allele frequency",
+    "tr": "faravani-ye degareh"
+   },
+   "explain": {
+    "fa": "سهم یک دگره از همهٔ دگره‌های آن ژن در خزانهٔ ژن؛ برای دو دگره `p` و `q` که جمعشان `1` است.",
+    "en": "The share of one allele among all the alleles of that gene in the gene pool; for two alleles, `p` and `q`, which add up to `1`.",
+    "tr": "Sahm-e yek degare az hame-ye degare-haye an zhen dar khazane-ye zhen; baraye do degare `p` va `q` ke jam'eshan `1` ast."
+   },
+   "analogy": {
+    "fa": "درصد تیله‌های قرمز در کیسه.",
+    "en": "The percentage of red marbles in the bag.",
+    "tr": "Darsad-e tile-haye ghermez dar kise."
+   },
+   "contrast": {
+    "fa": "در شمارش، هر فرد دو دگره دارد: کل دگره‌ها دو برابر تعداد افراد است.",
+    "en": "When counting, each individual has two alleles: the total is twice the number of individuals.",
+    "tr": "Dar shomaresh, har fard do degare darad: kol-e degare-ha do barabar-e te'dad-e afrad ast."
+   },
+   "unit": "bio-4-gene-pool"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-gene-pool",
+   "term": {
+    "fa": "خزانهٔ ژن",
+    "en": "gene pool",
+    "tr": "khazane-ye zhen"
+   },
+   "explain": {
+    "fa": "مجموع همهٔ دگره‌های همهٔ افراد یک جمعیت.",
+    "en": "All the alleles of all the individuals of a population, taken together.",
+    "tr": "Majmoo'-e hame-ye degare-haye hame-ye afrad-e yek jam'iyat."
+   },
+   "analogy": {
+    "fa": "یک کیسهٔ بزرگ پر از تیله‌های رنگی.",
+    "en": "One big bag full of coloured marbles.",
+    "tr": "Yek kise-ye bozorg por az tile-haye rangi."
+   },
+   "unit": "bio-4-gene-pool"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-random-mating",
+   "term": {
+    "fa": "آمیزش تصادفی",
+    "en": "random mating",
+    "tr": "amizesh-e tasadofi"
+   },
+   "explain": {
+    "fa": "آمیزشی که در آن انتخاب جفت به ژن‌نمود ربطی ندارد؛ یکی از شرط‌های تعادل هاردی-واینبرگ.",
+    "en": "Mating in which choosing a partner has nothing to do with genotype; one of the conditions of Hardy-Weinberg equilibrium.",
+    "tr": "Amizeshi ke dar an entekhab-e joft be zhen-nemood rabti nadarad; yeki az shart-haye ta-adol-e Hardy-Weinberg."
+   },
+   "analogy": {
+    "fa": "دو تیله را چشم‌بسته از کیسه درآوردن.",
+    "en": "Drawing two marbles from the bag blindfolded.",
+    "tr": "Do tile ra cheshm-baste az kise daravardan."
+   },
+   "unit": "bio-4-gene-pool"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-genetic-drift",
+   "term": {
+    "fa": "رانش دگره‌ای",
+    "en": "genetic drift",
+    "tr": "ranesh-e degare-i"
+   },
+   "explain": {
+    "fa": "تغییر تصادفی فراوانی دگره‌ها، فقط از روی شانس؛ در جمعیت‌های کوچک قوی‌تر است و به برازندگی ربطی ندارد.",
+    "en": "A random change in allele frequencies, by chance alone; it is stronger in small populations and has nothing to do with fitness.",
+    "tr": "Taghyir-e tasadofi-ye faravani-ye degare-ha, faghat az rooye shans; dar jam'iyat-haye koochak ghavi-tar ast va be barazandegi rabti nadarad."
+   },
+   "analogy": {
+    "fa": "ده تیله از کیسه برداری و از بدشانسی همه قرمز باشند.",
+    "en": "You take ten marbles from the bag and, by bad luck, they are all red.",
+    "tr": "Dah tile az kise bardari va az bad-shansi hame ghermez bashand."
+   },
+   "contrast": {
+    "fa": "رانش تصادفی است؛ انتخاب طبیعی غیرتصادفی است.",
+    "en": "Drift is random; natural selection is not.",
+    "tr": "Ranesh tasadofi ast; entekhab-e tabi-i gheyr-e tasadofi ast."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-bottleneck",
+   "term": {
+    "fa": "اثر تنگنا",
+    "en": "bottleneck effect",
+    "tr": "asar-e tangna"
+   },
+   "explain": {
+    "fa": "حالتی از رانش که یک فاجعه (سیل، زلزله، بیماری) بیشتر جمعیت را از بین می‌برد و چند بازماندهٔ تصادفی خزانهٔ ژن تازه را می‌سازند.",
+    "en": "A case of drift in which a disaster (flood, earthquake, disease) kills most of the population and a few random survivors make the new gene pool.",
+    "tr": "Halati az ranesh ke yek faje'e (seyl, zelzele, bimari) bishtar-e jam'iyat ra az beyn mibarad va chand bazmande-ye tasadofi khazane-ye zhen-e taze ra misazand."
+   },
+   "analogy": {
+    "fa": "گردن باریک بطری: فقط چند تیله رد می‌شوند.",
+    "en": "The narrow neck of a bottle: only a few marbles get through.",
+    "tr": "Gardan-e barik-e botri: faghat chand tile rad mishavand."
+   },
+   "contrast": {
+    "fa": "تنگنا با «مرگ» بیشتر جمعیت است؛ بنیان‌گذار با «مهاجرت» گروهی کوچک.",
+    "en": "A bottleneck comes from most of the population \"dying\"; a founder effect from a small group \"moving away\".",
+    "tr": "Tangna ba \"marg\"-e bishtar-e jam'iyat ast; bonyan-gozar ba \"mohajerat\"-e goroohi koochak."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-founder",
+   "term": {
+    "fa": "اثر بنیان‌گذار",
+    "en": "founder effect",
+    "tr": "asar-e bonyan-gozar"
+   },
+   "explain": {
+    "fa": "حالتی از رانش که گروهی کوچک از جمعیت جدا می‌شود و جمعیت تازه‌ای می‌سازد؛ خزانهٔ ژن تازه فقط دگره‌های همان چند نفر است.",
+    "en": "A case of drift in which a small group splits off and starts a new population; the new gene pool holds only those few people's alleles.",
+    "tr": "Halati az ranesh ke goroohi koochak az jam'iyat joda mishavad va jam'iyat-e taze-i misazad; khazane-ye zhen-e taze faghat degare-haye haman chand nafar ast."
+   },
+   "analogy": {
+    "fa": "چند تیله را برداری و با آن‌ها یک کیسهٔ تازه شروع کنی.",
+    "en": "Taking a handful of marbles and starting a new bag with them.",
+    "tr": "Chand tile ra bardari va ba an-ha yek kise-ye taze shoru' koni."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-natural-selection",
+   "term": {
+    "fa": "انتخاب طبیعی",
+    "en": "natural selection",
+    "tr": "entekhab-e tabi-i"
+   },
+   "explain": {
+    "fa": "بقا و تولید مثل بیشترِ افرادی که رخ‌نمودشان با محیط سازگارتر است؛ برخلاف رانش، تصادفی نیست. سه الگو دارد: جهت‌دار، پایدارکننده و گسلنده.",
+    "en": "The greater survival and reproduction of individuals whose phenotype suits the environment better; unlike drift, it is not random. It has three patterns: directional, stabilising and disruptive.",
+    "tr": "Bagha va tolid-e mesl-e bishtar-e afradi ke rokh-nemoodeshan ba mohit sazgar-tar ast; barkhalaf-e ranesh, tasadofi nist. Se olgoo darad: jahat-dar, paydar-konande va gosalande."
+   },
+   "analogy": {
+    "fa": "غربالی که فقط اندازهٔ مشخصی را رد می‌کند.",
+    "en": "A sieve that only lets a certain size through.",
+    "tr": "Ghorbali ke faghat andaze-ye moshakhasi ra rad mikonad."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-directional-selection",
+   "term": {
+    "fa": "انتخاب جهت‌دار",
+    "en": "directional selection",
+    "tr": "entekhab-e jahat-dar"
+   },
+   "explain": {
+    "fa": "انتخابی که یک سر طیف را ترجیح می‌دهد و میانگین جمعیت را به همان سمت می‌برد؛ مثل مقاوم شدن باکتری‌ها به آنتی‌بیوتیک.",
+    "en": "Selection that favours one end of the range and moves the population average that way; like bacteria becoming resistant to antibiotics.",
+    "tr": "Entekhabi ke yek sar-e teyf ra tarjih midahad va miyangin-e jam'iyat ra be haman samt mibarad; mesl-e moghavem shodan-e bakteri-ha be anti-biotic."
+   },
+   "contrast": {
+    "fa": "در انتخاب پایدارکننده میانگین جابه‌جا نمی‌شود؛ فقط پراکندگی کم می‌شود.",
+    "en": "In stabilising selection the average does not move; only the spread shrinks.",
+    "tr": "Dar entekhab-e paydar-konande miyangin jabeja nemishavad; faghat parakandegi kam mishavad."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-disruptive-selection",
+   "term": {
+    "fa": "انتخاب گسلنده",
+    "en": "disruptive selection",
+    "tr": "entekhab-e gosalande"
+   },
+   "explain": {
+    "fa": "انتخابی که هر دو سر طیف را ترجیح می‌دهد و حالت میانه را کنار می‌گذارد؛ نمودار دو قله پیدا می‌کند.",
+    "en": "Selection that favours both ends of the range and pushes out the middle; the graph gets two peaks.",
+    "tr": "Entekhabi ke har do sar-e teyf ra tarjih midahad va halat-e miyane ra kenar migozarad; nemoodar do gholle peyda mikonad."
+   },
+   "analogy": {
+    "fa": "جاده‌ای که وسطش بسته است و همه از دو کنار می‌روند.",
+    "en": "A road closed in the middle, so everyone uses the two sides.",
+    "tr": "Jade-i ke vasatash baste ast va hame az do kenar miravand."
+   },
+   "unit": "bio-4-population-change"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-atp",
+   "term": {
+    "fa": "مولکول ATP",
+    "en": "ATP",
+    "tr": "molekool-e ATP"
+   },
+   "explain": {
+    "fa": "سکهٔ انرژی یاخته: یک باز آدنین، یک قند ریبوز و سه گروه فسفات. با جدا شدن فسفات سوم به `ADP` تبدیل می‌شود و انرژی آزاد می‌کند.",
+    "en": "The cell's energy coin: an adenine base, a ribose sugar and three phosphate groups. Losing the third phosphate turns it into `ADP` and releases energy.",
+    "tr": "Sekke-ye enerzhi-ye yakhte: yek baz-e adenine, yek ghand-e ribose va se gorooh-e fosfat. Ba joda shodan-e fosfat-e sevvom be `ADP` tabdil mishavad va enerzhi azad mikonad."
+   },
+   "analogy": {
+    "fa": "گلوکز اسکناس درشت است؛ `ATP` سکه‌ای که هر مغازهٔ یاخته قبول می‌کند.",
+    "en": "Glucose is a big banknote; `ATP` is the coin every shop in the cell accepts.",
+    "tr": "Glucose eskenas-e dorosht ast; `ATP` sekke-i ke har maghaze-ye yakhte ghabool mikonad."
+   },
+   "contrast": {
+    "fa": "قند `ATP` ریبوز است، نه دئوکسی‌ریبوز.",
+    "en": "The sugar in `ATP` is ribose, not deoxyribose.",
+    "tr": "Ghand-e `ATP` ribose ast, na deoxyribose."
+   },
+   "unit": "bio-5-atp-map"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-oxidative-phosphorylation",
+   "term": {
+    "fa": "ساخت اکسایشی ATP",
+    "en": "oxidative phosphorylation",
+    "tr": "sakht-e oksayeshi-ye ATP"
+   },
+   "explain": {
+    "fa": "ساخت `ATP` با انرژی زنجیرهٔ انتقال الکترون و آنزیم `ATP` ساز در غشای داخلی راکیزه؛ بیشترِ `ATP` تنفس هوازی از همین راه است.",
+    "en": "Making `ATP` with the energy of the electron transport chain and `ATP` synthase in the inner mitochondrial membrane; most of the `ATP` of aerobic respiration comes this way.",
+    "tr": "Sakht-e `ATP` ba enerzhi-ye zanjire-ye enteghal-e electron va anzim-e `ATP`-saz dar ghesha-ye dakheli-ye rakize; bishtar-e `ATP`-e tanaffos-e havazi az hamin rah ast."
+   },
+   "contrast": {
+    "fa": "در سطح پیش‌ماده، فسفات مستقیم از یک مولکول به `ADP` می‌رسد و زنجیره‌ای در کار نیست.",
+    "en": "At substrate level, a phosphate goes straight from a molecule to `ADP`, with no chain involved.",
+    "tr": "Dar sath-e pish-madde, fosfat mostaghim az yek molekool be `ADP` miresad va zanjire-i dar kar nist."
+   },
+   "unit": "bio-5-atp-map"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-substrate-level",
+   "term": {
+    "fa": "ساخت ATP در سطح پیش‌ماده",
+    "en": "substrate-level phosphorylation",
+    "tr": "sakht-e ATP dar sath-e pish-madde"
+   },
+   "explain": {
+    "fa": "ساخت `ATP` وقتی آنزیم یک گروه فسفات را مستقیم از یک مولکول به `ADP` می‌دهد؛ مثل `ATP`‌های قندکافت و چرخهٔ کربس.",
+    "en": "Making `ATP` when an enzyme hands a phosphate group straight from a molecule to `ADP`; like the `ATP` made in glycolysis and the Krebs cycle.",
+    "tr": "Sakht-e `ATP` vaghti anzim yek gorooh-e fosfat ra mostaghim az yek molekool be `ADP` midahad; mesl-e `ATP`-haye ghand-kaft va charkhe-ye Krebs."
+   },
+   "analogy": {
+    "fa": "دست به دست دادن یک سکه، بی‌واسطه.",
+    "en": "Handing over a coin directly, hand to hand.",
+    "tr": "Dast be dast dadan-e yek sekke, bi-vasete."
+   },
+   "unit": "bio-5-atp-map"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-chlorophyll",
+   "term": {
+    "fa": "سبزینه",
+    "en": "chlorophyll",
+    "tr": "sabzine"
+   },
+   "explain": {
+    "fa": "رنگیزهٔ سبز فتوسنتز (`a` و `b`)؛ نور آبی و قرمز را بیشتر جذب می‌کند و نور سبز را بازمی‌تاباند، به همین دلیل برگ سبز دیده می‌شود.",
+    "en": "The green pigment of photosynthesis (`a` and `b`); it mostly absorbs blue and red light and reflects green, which is why leaves look green.",
+    "tr": "Rangize-ye sabz-e fotosantez (`a` va `b`); noor-e abi va ghermez ra bishtar jazb mikonad va noor-e sabz ra baz mitabanad, be hamin dalil barg sabz dide mishavad."
+   },
+   "analogy": {
+    "fa": "صفحهٔ خورشیدی کارخانهٔ فتوسنتز.",
+    "en": "The solar panel of the photosynthesis factory.",
+    "tr": "Safhe-ye khorshidi-ye karkhane-ye fotosantez."
+   },
+   "contrast": {
+    "fa": "سبز رنگی است که سبزینه «جذب نمی‌کند»؛ پس کمترین سهم را در فتوسنتز دارد.",
+    "en": "Green is the colour chlorophyll \"does not absorb\", so it does the least for photosynthesis.",
+    "tr": "Sabz rangi ast ke sabzine \"jazb nemikonad\"; pas kamtarin sahm ra dar fotosantez darad."
+   },
+   "unit": "bio-6-chloroplast"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-carotenoids",
+   "term": {
+    "fa": "کاروتنوئیدها",
+    "en": "carotenoids",
+    "tr": "karotenoid-ha"
+   },
+   "explain": {
+    "fa": "رنگیزه‌های زرد و نارنجی سبزدیسه که نورهایی را جذب می‌کنند که سبزینه خوب جذب نمی‌کند و انرژی آن را به سبزینه می‌دهند.",
+    "en": "The yellow and orange pigments of the chloroplast that absorb colours chlorophyll does not absorb well and pass the energy on to chlorophyll.",
+    "tr": "Rangize-haye zard va narenji-ye sabzdise ke noor-hayi ra jazb mikonand ke sabzine khoob jazb nemikonad va enerzhi-ye an ra be sabzine midahand."
+   },
+   "analogy": {
+    "fa": "آنتن‌های کمکی کنار آنتن اصلی.",
+    "en": "Helper antennas beside the main antenna.",
+    "tr": "Anten-haye komaki kenar-e anten-e asli."
+   },
+   "unit": "bio-6-chloroplast"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-stroma",
+   "term": {
+    "fa": "بستره",
+    "en": "stroma",
+    "tr": "bastare"
+   },
+   "explain": {
+    "fa": "مایع درون سبزدیسه که تیلاکوئیدها در آن هستند؛ چرخهٔ کالوین اینجا با `ATP` و `NADPH` قند می‌سازد.",
+    "en": "The fluid inside the chloroplast where the thylakoids sit; the Calvin cycle builds sugar here with `ATP` and `NADPH`.",
+    "tr": "Maye'-e daroon-e sabzdise ke thylakoid-ha dar an hastand; charkhe-ye Calvin inja ba `ATP` va `NADPH` ghand misazad."
+   },
+   "analogy": {
+    "fa": "کارگاه چاپ سه‌بعدی کارخانه.",
+    "en": "The factory floor where the 3D printer works.",
+    "tr": "Kargah-e chap-e se-bo'di-ye karkhane."
+   },
+   "contrast": {
+    "fa": "اکسیژن روی غشای تیلاکوئید ساخته می‌شود؛ قند در بستره.",
+    "en": "Oxygen is made on the thylakoid membrane; sugar in the stroma.",
+    "tr": "Oksizhen rooye ghesha-ye thylakoid sakhte mishavad; ghand dar bastare."
+   },
+   "unit": "bio-6-chloroplast"
+  },
+  {
+   "subject": "Biology",
+   "key": "bio-g-photosynthetic-pigments",
+   "term": {
+    "fa": "رنگیزه‌های فتوسنتزی",
+    "en": "photosynthetic pigments",
+    "tr": "rangize-haye fotosantezi"
+   },
+   "explain": {
+    "fa": "مولکول‌هایی که نور را برای فتوسنتز جذب می‌کنند: سبزینه‌های `a` و `b` و کاروتنوئیدها؛ در گروه‌هایی به نام فتوسیستم روی غشای تیلاکوئید کنار هم هستند.",
+    "en": "The molecules that absorb light for photosynthesis: chlorophylls `a` and `b` and the carotenoids; they sit together in groups called photosystems on the thylakoid membrane.",
+    "tr": "Molekool-hayi ke noor ra baraye fotosantez jazb mikonand: sabzine-haye `a` va `b` va karotenoid-ha; dar gorooh-hayi be nam-e fotosistem rooye ghesha-ye thylakoid kenar-e ham hastand."
+   },
+   "unit": "bio-6-chloroplast"
+  }
+ ]
+}

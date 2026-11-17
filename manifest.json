@@ -894,6 +894,12 @@
    "format": 6,
    "file": "pack-0149.json",
    "sha256": "e1ea7bc764219ef56631c8e151a3fc6fbacaead78740a1c2f800966b1bb3cc92"
+  },
+  {
+   "version": 150,
+   "format": 8,
+   "file": "pack-0150.json",
+   "sha256": "7bfe46a1a5a4224eabef56d67357b2966a4a3d8e1f0a59e2be0c21dc95eb6f3f"
   }
  ]
 }

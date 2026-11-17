@@ -268,3 +268,5 @@ not named here, unused words from the Arabic lesson texts, Math chapter 6).
 - Pack 148 (2026-11-17, format 2 corrections): English keyword fixes for 12 questions (7 short tr lists; en realigned in 1399-Dey/0 and 1397-Khordad/0; 5 fa grammar/topic keywords typed in English now Persian). Before the English Pocket Tutor glossary.
 
 - Pack 149 (2026-11-17, format 6): English Pocket Tutor glossary, 43 entries covering every English Codex term (56 fa / 52 en / 50 tr); 40 linked to a lesson unit, 3 book-wide labels (Vision 3, grammar, vocabulary) with no lesson button. English 3 now has lessons + full glossary.
+
+- Pack 150 (2026-11-17, format 8, app 3.16.3): Ghamgah practice set 1 (session 1405-Practice1, source sample = written for the app, not past papers): 14 four-option Biology questions linked to the 4 units that had none (4.4 gene pool/Hardy-Weinberg 4, 4.5 drift/selection 4, 5.1 ATP map 3, 6.1 chloroplast 3) + those units re-issued + 17 Pocket Tutor entries for the new Codex terms. Every lesson unit in every subject now has practice.

@@ -170,6 +170,18 @@ SHA-256 checksums stay exact.
     for the update instead of storing the unit without its animation (a
     stored unit is not fetched again). Re-issue a unit by its `key`, copied
     unchanged from its latest pack plus the `anim` field (pack 144 does this).
+- **Format 8** (app 3.16.3+) adds **practice sets**: exam-style questions
+  written for the app, never presented as a real or mock paper.
+  - `session` is `<year>-Practice<n>` (for example `1405-Practice1`), and
+    `source` must be `"sample"`; the app labels them "Practice written for
+    the app (exam-style)". Every other field is as for any question;
+    `distractors` give the four-option Crucible.
+  - They appear in their chapter, in the lessons that link them and in
+    practice modes, but never in Exam marathons, Mock exams, the exam
+    simulator, the Official Examiners' View or the chapter-weight figures.
+  - Older apps cannot read the sitting, so a pack with practice questions
+    must say `"format": 8`; older apps then stop and ask for the update
+    instead of failing the whole bank update. Pack 150 is practice set 1.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,
