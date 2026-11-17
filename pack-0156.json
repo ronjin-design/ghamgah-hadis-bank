@@ -1,0 +1,1157 @@
+{
+ "version": 156,
+ "format": 10,
+ "lessons": [
+  {
+   "subject": "Arabic",
+   "chapter": 3,
+   "unit": 1,
+   "key": "ar-3-naba",
+   "title": {
+    "fa": "سورهٔ نبأ: «قرار دادیم» و فعل مجهول",
+    "en": "Surah an-Naba': 'we made' and the passive",
+    "tr": "Sure-ye Naba': 'gharar dadim' va fe'l-e majhool"
+   },
+   "summary": {
+    "fa": "در این سوره دو الگو بارها تکرار می‌شود: «وَ جَعَلْنَا ... » و فعل‌های مجهول روز رستاخیز.",
+    "en": "Two patterns repeat in this surah: 'wa ja'alna ...' (and we made) and the passive verbs of the Last Day.",
+    "tr": "Dar in soore do olgoo bar-ha tekrar mishavad: 'va ja'alna ...' va fe'l-haye majhool-e rooz-e rastakhiz."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: برچسب روی هر چیز",
+      "en": "Understand first: a label on each thing",
+      "tr": "Avval befahm: barchasb rooy-e har chiz"
+     },
+     "body": {
+      "fa": "نیمهٔ اول سورهٔ نبأ مثل فهرست نعمت‌هاست و هر آیه با «وَ جَعَلْنَا» (و قرار دادیم) شروع می‌شود. فعل «جَعَلَ» در این آیه‌ها دو مفعول می‌گیرد: «چه چیزی را» و «چه قرار داد». «وَ جَعَلْنَا اللَّیْلَ لِبَاساً»: شب را پوشش قرار دادیم؛ «وَ جَعَلْنَا النَّهَارَ مَعَاشاً»: روز را زمان کسب روزی قرار دادیم. مثل برچسبی که روی هر چیز می‌چسبانی: شب، برچسب «پوشش» می‌خورد.",
+      "en": "The first half of an-Naba' reads like a list of blessings, and verse after verse begins with 'wa ja'alna' (and we made). Here the verb 'ja'ala' takes two objects: 'what' and 'made into what'. 'Wa ja'alna-l-layla libasan': we made the night a covering; 'wa ja'alna-n-nahara ma'ashan': we made the day a time to earn a living. It is like sticking a label on each thing: the night gets the label 'covering'.",
+      "tr": "Nime-ye avval-e Sure-ye Naba' mesl-e fehrest-e ne'mat-hast va har aye ba 'va ja'alna' (va gharar dadim) shoroo mishavad. Fe'l-e 'ja'ala' dar in aye-ha do maf'ool migirad: 'che chizi ra' va 'che gharar dad'. 'Va ja'alna-l-leyla lebasan': shab ra pooshesh gharar dadim; 'va ja'alna-n-nahara ma'ashan': rooz ra zaman-e kasb-e roozi gharar dadim. Mesl-e barchasbi ke rooy-e har chiz michasbani: shab, barchasb-e 'pooshesh' mikhorad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " wa ja'alna  X        Y (label)\n ----------  -------  -----------\n             al-layla libasan\n             (night)  (covering)\n             an-nahara ma'ashan\n             (day)    (earning)\n PASSIVE: u ... i  = was done\n   suyyirat   were set moving\n   futihat    was opened",
+     "caption": {
+      "fa": "«جَعَلْنا» دو مفعول می‌گیرد؛ ضمه در آغاز و کسره پیش از آخر، نشان فعل مجهول است.",
+      "en": "'Ja'alna' takes two objects; u at the start and i before the last letter mark a passive verb.",
+      "tr": "'Ja'alna' do maf'ool migirad; zamme dar aghaz va kasre pish az akhar, neshan-e fe'l-e majhool ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فعل مجهول و قافیهٔ «ـاً»",
+      "en": "The passive and the '-an' rhyme",
+      "tr": "Fe'l-e majhool va ghafiye-ye '-an'"
+     },
+     "body": {
+      "fa": "نیمهٔ دوم سوره دربارهٔ روز داوری است و فعل‌هایش اغلب مجهول‌اند: کار انجام می‌شود ولی کننده نام برده نمی‌شود. نشانه‌اش در ماضی: حرف اول ضمه، حرف پیش از آخر کسره. «وَ فُتِحَتِ السَّمَاءُ فَکَانَتْ أَبْوَاباً»: آسمان گشوده شد و درهایی شد. یک نکتهٔ دیگر: تقریباً همهٔ آیه‌ها با «ـاً» تمام می‌شوند (شِدَاداً، أَلْفَافاً، مَفَازاً)؛ این تنوین فقط نقش واژه را نشان می‌دهد و در ترجمه دیده نمی‌شود.",
+      "en": "The second half is about the Day of Judgement, and its verbs are often passive: the action happens but the doer is not named. The sign in the past tense: u on the first letter, i on the letter before the last. 'Wa futihati-s-sama'u fa-kanat abwaban': the sky was opened and became gateways. One more point: almost every verse ends in '-an' (shidadan, alfafan, mafazan); this ending only marks the word's role and does not show in the translation.",
+      "tr": "Nime-ye dovvom darbare-ye rooz-e davari ast va fe'l-hayash aghlab majhool-and: kar anjam mishavad vali konande nam borde nemishavad. Neshane-ash dar mazi: harf-e avval zamme, harf-e pish az akhar kasre. 'Va fotehati-s-sama'o fa-kanat abvaban': aseman goshoode shod va dar-hayi shod. Yek nokte-ye digar: taghriban hame-ye aye-ha ba '-an' tamam mishavand (shedadan, alfafan, mafazan); in tanvin faghat naghsh-e vazhe ra neshan midahad va dar tarjome dide nemishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ja'alna + X + Y = we made X (into) Y ;  fu'ila = was done",
+     "caption": {
+      "fa": "دو الگوی سورهٔ نبأ",
+      "en": "The two patterns of an-Naba'",
+      "tr": "Do olgoo-ye Sure-ye Naba'"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «لِبَاساً» در «وَ جَعَلْنَا اللَّیْلَ لِبَاساً.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what does 'libasan' mean in 'wa ja'alna-l-layla libasan'? (Khordad 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye 'lebasan' dar 'va ja'alna-l-leyla lebasan' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الگوی «جَعَلْنا + چیز + برچسب»: شب چه قرار داده شد؟ «لِبَاساً»، همان لباس: چیزی که می‌پوشاند.",
+        "en": "The 'ja'alna + X + Y' pattern: the night (X) was made into what? 'Libasan', clothing: something that covers.",
+        "tr": "Olgoo-ye 'ja'alna + X + Y': shab (X) che gharar dade shod? 'Lebasan', haman lebas: chizi ke mipooshanad."
+       },
+       "math": "ja'alna + al-layla + libasan"
+      }
+     ],
+     "answer": {
+      "fa": "پوشش، جامه",
+      "en": "A covering, a garment",
+      "tr": "Pooshesh, jame"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «سُیِّرَتِ» در «وَ سُیِّرَتِ الْجِبَالُ فَکَانَتْ سَرَاباً.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does 'suyyirat' mean in 'wa suyyirati-l-jibalu fa-kanat saraban'? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye 'soyyerat' dar 'va soyyerati-l-jebalo fa-kanat saraban' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ضمه روی حرف اول و کسره پیش از آخر: فعل مجهول. کوه‌ها کاری نکردند؛ با آنها کاری شد.",
+        "en": "U on the first letter and i before the last: a passive verb. The mountains did nothing; something was done to them.",
+        "tr": "Zamme rooy-e harf-e avval va kasre pish az akhar: fe'l-e majhool. Kooh-ha kari nakardand; ba anha kari shod."
+       }
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ «س ی ر» یعنی راه رفتن (مثل «سِیر»)؛ پس «روان ساخته شدند».",
+        "en": "The root 's-y-r' means travelling (as in 'seyr'); so 'were set moving'.",
+        "tr": "Rishe-ye 's-y-r' ya'ni rah raftan (mesl-e 'seyr'); pas 'ravan sakhte shodand'."
+       },
+       "math": "s-y-r + passive -> were set moving"
+      }
+     ],
+     "answer": {
+      "fa": "روان ساخته شدند",
+      "en": "Were set moving",
+      "tr": "Ravan sakhte shodand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در «إِلَّا حَمِیماً وَ غَسَّاقاً.» دو آزمون دو واژهٔ متفاوت پرسیده‌اند (دی ۱۴۰۰: «غَسَّاقاً»، خرداد ۱۴۰۱: «حَمِیماً»). معنای هر کدام چیست؟",
+      "en": "Exam twist: in 'illa hamiman wa ghassaqan' two papers asked two different words (Dey 1400: 'ghassaqan', Khordad 1401: 'hamiman'). What does each mean?",
+      "tr": "Pich-e emtehani: dar 'ella hamiman va ghassaghan' do azmoon do vazhe-ye motefavet porside-and (Dey 1400: 'ghassaghan', Khordad 1401: 'hamiman'). Ma'na-ye har kodam chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو واژهٔ کنار هم با «وَ» به هم وصل‌اند و هر دو نوشیدنی دوزخ‌اند؛ جای معنایشان را عوض نکن.",
+        "en": "The twist: the two words stand side by side joined by 'wa', and both are drinks of hell; do not swap their meanings.",
+        "tr": "Pich-e emtehan: do vazhe-ye kenar-e ham ba 'va' be ham vasl-and va har do noosheedani-ye doozakh-and; ja-ye ma'nayeshan ra avaz nakon."
+       }
+      },
+      {
+       "text": {
+        "fa": "«حَمِیم» از «حَمّ» (گرما، مثل «حمّام»): آب جوشان. «غَسَّاق»: چرکاب و زرداب بدبو.",
+        "en": "'Hamim' is from heat (as in 'hammam', a bathhouse): boiling water. 'Ghassaq': foul pus.",
+        "tr": "'Hamim' az garma (mesl-e 'hammam'): ab-e jooshan. 'Ghassagh': cherkab va zardab-e badboo."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "«حَمِیماً»: آب جوشان؛ «غَسَّاقاً»: چرکاب بدبو",
+      "en": "'Hamiman': boiling water; 'ghassaqan': foul pus",
+      "tr": "'Hamiman': ab-e jooshan; 'ghassaghan': cherkab-e badboo"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«لَا یَذُوقُونَ» نهی نیست؛ نون آخرش مانده، پس منفی ساده است: «نمی‌چشند»، نه «نچشید!».",
+      "en": "'La yadhuquna' is not a command: its final -na stays, so it is plain negation: 'they do not taste', not 'do not taste!'.",
+      "tr": "'La yazooghoona' nahy nist; noon-e akharash mande, pas manfi-ye sade ast: 'nemichashand', na 'nachashid!'."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ضمیر چسبیده را جا نینداز: «أَحْصَیْنَاهُ» یعنی «آن را برشمردیم».",
+      "en": "Do not drop the attached pronoun: 'ahsaynahu' means 'we counted it'.",
+      "tr": "Zamir-e chasbide ra ja nayandaz: 'ahsaynaho' ya'ni 'an ra barshemordim'."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1400-Dey",
+     "number": 982
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 982
+    },
+    {
+     "session": "1400-Dey",
+     "number": 979
+    },
+    {
+     "session": "1400-Dey",
+     "number": 980
+    },
+    {
+     "session": "1400-Dey",
+     "number": 981
+    },
+    {
+     "session": "1400-Dey",
+     "number": 983
+    },
+    {
+     "session": "1400-Dey",
+     "number": 984
+    },
+    {
+     "session": "1401-Dey",
+     "number": 979
+    },
+    {
+     "session": "1401-Dey",
+     "number": 980
+    },
+    {
+     "session": "1401-Dey",
+     "number": 981
+    },
+    {
+     "session": "1401-Dey",
+     "number": 982
+    },
+    {
+     "session": "1401-Dey",
+     "number": 983
+    },
+    {
+     "session": "1401-Dey",
+     "number": 984
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 974
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 980
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 983
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 984
+    },
+    {
+     "session": "1402-Dey",
+     "number": 979
+    },
+    {
+     "session": "1402-Dey",
+     "number": 980
+    },
+    {
+     "session": "1402-Dey",
+     "number": 981
+    },
+    {
+     "session": "1402-Dey",
+     "number": 982
+    },
+    {
+     "session": "1402-Dey",
+     "number": 983
+    },
+    {
+     "session": "1402-Dey",
+     "number": 984
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 980
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 982
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 983
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 984
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 3,
+   "unit": 2,
+   "key": "ar-3-naziat",
+   "title": {
+    "fa": "سورهٔ نازعات: نام‌های رستاخیز و دو راه",
+    "en": "Surah an-Nazi'at: names of the Last Day and two paths",
+    "tr": "Sure-ye Nazi'at: nam-haye rastakhiz va do rah"
+   },
+   "summary": {
+    "fa": "رستاخیز با چند نام آمده و انسان‌ها به دو گروه تقسیم می‌شوند: «فَأَمَّا مَنْ ... وَ أَمَّا مَنْ ...».",
+    "en": "The Last Day comes under several names, and people split into two groups: 'fa-amma man ... wa amma man ...'.",
+    "tr": "Rastakhiz ba chand nam amade va ensan-ha be do gorooh taghsim mishavand: 'fa-amma man ... va amma man ...'."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: یک طوفان، چند نام",
+      "en": "Understand first: one storm, many names",
+      "tr": "Avval befahm: yek toofan, chand nam"
+     },
+     "body": {
+      "fa": "این سوره رستاخیز را با نام‌های گوناگون صدا می‌زند، مثل کسی که یک طوفان را با چند وصف توصیف کند: «الطَّامَّةُ الْکُبْرَى» (رویداد بزرگ فراگیر)، «الرَّاجِفَةُ» (لرزانندهٔ زمین)، «السَّاهِرَةُ» (دشت هموار رستاخیز). سپس آدم‌ها را دو دسته می‌کند: «فَأَمَّا مَنْ طَغَى» (اما هر که سرکشی کرد) «وَ آثَرَ الْحَیَاةَ الدُّنْیَا» (و زندگی دنیا را برگزید)، و در برابرش «وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى».",
+      "en": "This surah calls the Last Day by many names, like someone describing one storm with several epithets: 'at-tammatu-l-kubra' (the great overwhelming event), 'ar-rajifa' (the quake), 'as-sahira' (the open plain of the gathering). Then it splits people into two groups: 'fa-amma man tagha' (as for whoever rebelled) 'wa athara-l-hayata-d-dunya' (and preferred the life of this world), and against it 'wa amma man khafa maqama rabbihi wa naha-n-nafsa ’ani-l-hawa' (and as for whoever feared standing before his Lord and held the self back from desire).",
+      "tr": "In soore rastakhiz ra ba nam-haye goonagoon seda mizanad, mesl-e kasi ke yek toofan ra ba chand vasf tosif konad: 'at-tammato-l-kobra' (roydad-e bozorg-e faragir), 'ar-rajefa' (larzanande-ye zamin), 'as-sahera' (dasht-e hamvar-e rastakhiz). Sepas adam-ha ra do daste mikonad: 'fa-amma man tagha' (amma har ke sarkeshi kard) 'va asara-l-hayata-d-donya' (va zendegi-ye donya ra bargozid), va dar barabarash 'va amma man khafa maghama rabbehi va naha-n-nafsa ’ani-l-hava'."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " NAMES of the Day\n   at-tamma   the overwhelming\n   ar-rajifa  the quake\n   as-sahira  the open plain\n TWO PATHS\n   fa-amma man   wa amma man\n   tagha         khafa\n   (rebelled)    (feared)\n   athara        naha\n   (preferred)   (held back)",
+     "caption": {
+      "fa": "نام‌های رستاخیز را کنار هم بیاموز؛ دو راه را با «فَأَمَّا / وَ أَمَّا» از هم جدا کن.",
+      "en": "Learn the Day's names together; split the two paths with 'fa-amma / wa amma'.",
+      "tr": "Nam-haye rastakhiz ra kenar-e ham biamooz; do rah ra ba 'fa-amma / va amma' az ham joda kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "«مَنْ» و پرسش «أَیَّانَ»",
+      "en": "'Man' and the question 'ayyana'",
+      "tr": "'Man' va porsesh-e 'ayyana'"
+     },
+     "body": {
+      "fa": "فعل‌های دو راه همه ماضی‌اند (طَغَى، آثَرَ، خَافَ، نَهَى) و پس از «مَنْ» یعنی «هر کس که». یک پرسش هم در سوره هست: «یَسْأَلُونَکَ عَنِ السَّاعَةِ أَیَّانَ مُرْسَاهَا» (از تو دربارهٔ رستاخیز می‌پرسند که چه وقت فرا می‌رسد). «أَیَّانَ» واژهٔ پرسشی زمان است.",
+      "en": "The verbs of the two paths are all past (tagha, athara, khafa, naha), and after 'man' they mean 'whoever'. There is also a question in the surah: 'yas'alunaka ’ani-s-sa’ati ayyana mursaha' (they ask you about the Hour: when will it arrive?). 'Ayyana' is a question word for time.",
+      "tr": "Fe'l-haye do rah hame mazi-and (tagha, asara, khafa, naha) va pas az 'man' ya'ni 'har kas ke'. Yek porsesh ham dar soore hast: 'yas'aloonaka ’ani-s-sa’ati ayyana morsaha' (az to darbare-ye rastakhiz miporsand ke che vaght fara miresad). 'Ayyana' vazhe-ye porseshi-ye zaman ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "fa-amma man A ... wa amma man B   ->   two paths",
+     "caption": {
+      "fa": "ساختار دو راه",
+      "en": "The two-path structure",
+      "tr": "Sakhtar-e do rah"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «الطَّامَّةُ» در «فَإِذَا جَاءَتِ الطَّامَّةُ الْکُبْرَى.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what does 'at-tamma' mean in 'fa-idha ja'ati-t-tammatu-l-kubra'? (Khordad 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye 'at-tamma' dar 'fa-eza ja'ati-t-tammato-l-kobra' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«الْکُبْرَى» یعنی بزرگ‌ترین؛ «جَاءَتْ» یعنی فرا رسید. چیزی بزرگ که فرا می‌رسد و همه را می‌پوشاند: رستاخیز.",
+        "en": "'Al-kubra' means the greatest; 'ja'at' means it arrived. Something great that arrives and covers everyone: the Last Day.",
+        "tr": "'Al-kobra' ya'ni bozorg-tarin; 'ja'at' ya'ni fara resid. Chizi bozorg ke fara miresad va hame ra mipooshanad: rastakhiz."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رویداد بزرگ و فراگیر (رستاخیز)",
+      "en": "The great overwhelming event (the Last Day)",
+      "tr": "Roydad-e bozorg va faragir (rastakhiz)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «طَغَى» در «فَأَمَّا مَنْ طَغَى.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does 'tagha' mean in 'fa-amma man tagha'? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye 'tagha' dar 'fa-amma man tagha' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«طغیان» در فارسی هم هست. کفهٔ مقابلش در آیهٔ دیگر آمده: «وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى» (آزمون خرداد ۱۴۰۲).",
+        "en": "'Toghyan' (rebellion) exists in Persian too. Its opposite path comes in another verse: 'wa amma man khafa maqama rabbihi wa naha-n-nafsa ’ani-l-hawa' (Khordad 1402 paper).",
+        "tr": "'Toghyan' dar farsi ham hast. Kaffe-ye moghabelash dar aye-ye digar amade: 'va amma man khafa maghama rabbehi va naha-n-nafsa ’ani-l-hava' (azmoon-e Khordad 1402)."
+       }
+      },
+      {
+       "text": {
+        "fa": "ترس از خدا و بازداشتن نفس در برابر سرکشی: پس «طَغَى» یعنی سرکشی کرد.",
+        "en": "Fear of God and holding the self back stand against it: so 'tagha' means he rebelled.",
+        "tr": "Tars az khoda va bazdashtan-e nafs dar barabar-e sarkeshi: pas 'tagha' ya'ni sarkeshi kard."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سرکشی کرد",
+      "en": "He rebelled, transgressed",
+      "tr": "Sarkeshi kard"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «تَرْجُفُ» در «یَوْمَ تَرْجُفُ الرَّاجِفَةُ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: what does 'tarjufu' mean in 'yawma tarjufu-r-rajifa'? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye 'tarjofo' dar 'yawma tarjofo-r-rajefa' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: فعل و فاعل از یک ریشه‌اند (ر ج ف). «الرَّاجِفَة» اسم است (لرزاننده) و «تَرْجُفُ» فعل؛ هر دو را «لرزه» ترجمه نکن.",
+        "en": "The twist: the verb and its subject share one root (r-j-f). 'Ar-rajifa' is a noun (the quake) and 'tarjufu' a verb; do not translate both as 'quake'.",
+        "tr": "Pich-e emtehan: fe'l va fa'el az yek rishe-and (r-j-f). 'Ar-rajefa' esm ast (larzanande) va 'tarjofo' fe'l; har do ra 'larze' tarjome nakon."
+       },
+       "math": "tarjufu (verb) + ar-rajifa (noun)"
+      },
+      {
+       "text": {
+        "fa": "«تَـ» در آغاز مضارع است: «به لرزه درمی‌آید». معنای کل: روزی که لرزاننده به لرزه درآید.",
+        "en": "The 't-' prefix makes it present: 'it quakes'. The whole: the day the quake quakes.",
+        "tr": "'Ta-' dar aghaz mozare' ast: 'be larze darmiayad'. Ma'na-ye kol: roozi ke larzanande be larze darayad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "به لرزه درمی‌آید",
+      "en": "It quakes",
+      "tr": "Be larze darmiayad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«آثَرَ» یعنی «برگزید»، با «آثار» (نشانه‌ها) اشتباه نشود.",
+      "en": "'Athara' means 'preferred'; do not confuse it with 'athar' (traces).",
+      "tr": "'Asara' ya'ni 'bargozid', ba 'asar' (neshane-ha) eshtebah nashavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«سَعَى» فعل ماضی است: «کوشید»، نه اسم «سعی».",
+      "en": "'Sa’a' is a past verb: 'he strove', not the noun 'effort'.",
+      "tr": "'Sa’a' fe'l-e mazi ast: 'kooshid', na esm-e 'sa’y'."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 989
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 989
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 986
+    },
+    {
+     "session": "1400-Dey",
+     "number": 985
+    },
+    {
+     "session": "1400-Dey",
+     "number": 986
+    },
+    {
+     "session": "1400-Dey",
+     "number": 987
+    },
+    {
+     "session": "1400-Dey",
+     "number": 988
+    },
+    {
+     "session": "1400-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 987
+    },
+    {
+     "session": "1402-Dey",
+     "number": 989
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 3,
+   "unit": 3,
+   "key": "ar-3-abasa",
+   "title": {
+    "fa": "سورهٔ عبس: باران، گیاه و دو گونه چهره",
+    "en": "Surah Abasa: rain, plants and two kinds of faces",
+    "tr": "Sure-ye Abasa: baran, giyah va do goone chehre"
+   },
+   "summary": {
+    "fa": "خدا آب می‌باراند و زمین را می‌شکافد تا گیاه بروید؛ در رستاخیز، چهره‌ها یا روشن‌اند یا تیره.",
+    "en": "God pours water and splits the earth so plants grow; on the Last Day faces are either bright or dark.",
+    "tr": "Khoda ab mibarand va zamin ra mishekafad ta giyah beruyad; dar rastakhiz, chehre-ha ya roshan-and ya tire."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: زنجیرهٔ باران تا گیاه",
+      "en": "Understand first: the chain from rain to plants",
+      "tr": "Avval befahm: zanjire-ye baran ta giyah"
+     },
+     "body": {
+      "fa": "بخش اول این آیه‌ها یک زنجیرهٔ کشاورزی است: «أَنَّا صَبَبْنَا الْمَاءَ صَبّاً» (ما آب را فرو ریختیم)، «ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً» (سپس زمین را شکافتیم)، «فَأَنْبَتْنَا فِیهَا حَبّاً * وَ عِنَباً وَ قَضْباً» (و در آن دانه و انگور و سبزی رویاندیم). پس از هر فعل، مصدر همان فعل آمده (صَبَبْنَا ... صَبّاً، شَقَقْنَا ... شَقّاً) تا کار را محکم و پرزور نشان دهد، مثل اینکه بگویی «ریختیم، چه ریختنی!».",
+      "en": "The first part of these verses is a farming chain: 'anna sababna-l-ma'a sabban' (we poured down the water), 'thumma shaqaqna-l-arda shaqqan' (then we split the earth), 'fa-anbatna fiha habban * wa ’inaban wa qadban' (and grew in it grain, grapes and fresh greens). After each verb comes that verb's own verbal noun (sababna ... sabban, shaqaqna ... shaqqan) to make the action strong and emphatic, as if saying 'we poured, and what a pouring!'.",
+      "tr": "Bakhsh-e avval-e in aye-ha yek zanjire-ye keshavarzi ast: 'anna sababna-l-ma'a sabban' (ma ab ra foroo rikhtim), 'somma shaghaghna-l-arza shaghghan' (sepas zamin ra shekaftim), 'fa-anbatna fiha habban * va ’enaban va ghazban' (va dar an dane va angoor va sabzi ruyandim). Pas az har fe'l, masdar-e haman fe'l amade (sababna ... sabban, shaghaghna ... shaghghan) ta kar ra mohkam va porzoor neshan dahad, mesl-e inke begooyi 'rikhtim, che rikhtani!'."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " sababna -> shaqaqna -> anbatna\n (poured)   (split)     (grew)\n habb grain    'inab grapes\n qadb greens   abb pasture\n hada'iq ghulb  thick gardens\n BRIGHT faces    DARK faces\n musfira         ghabara\n (shining)       (dust)\n dahika,         qatara\n mustabshira     (gloom)\n (glad)          tarhaquha",
+     "caption": {
+      "fa": "زنجیرهٔ باران تا گیاه، و دو ستون چهره‌ها در روز رستاخیز.",
+      "en": "The chain from rain to plants, and the two columns of faces on the Last Day.",
+      "tr": "Zanjire-ye baran ta giyah, va do sotoon-e chehre-ha dar rooz-e rastakhiz."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو ستون چهره‌ها",
+      "en": "The two columns of faces",
+      "tr": "Do sotoon-e chehre-ha"
+     },
+     "body": {
+      "fa": "بخش دوم، روز رستاخیز است: «یَوْمَ یَفِرُّ الْمَرْءُ مِنْ أَخِیهِ» (روزی که انسان از برادرش می‌گریزد). سپس چهره‌ها دو ستون می‌شوند: «وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ * ضَاحِکَةٌ مُسْتَبْشِرَةٌ» در برابر «وَ وُجُوهٌ یَوْمَئِذٍ عَلَیْهَا غَبَرَةٌ * تَرْهَقُهَا قَتَرَةٌ». اگر یک ستون را بدانی، معنای واژهٔ ستون دیگر را حدس می‌زنی: روشن در برابر تیره.",
+      "en": "The second part is the Last Day: 'yawma yafirru-l-mar'u min akhihi' (the day a man flees from his brother). Then faces form two columns: 'wujuhun yawma’idhin musfira * dahikatun mustabshira' against 'wa wujuhun yawma’idhin ’alayha ghabara * tarhaquha qatara'. Know one column and you can guess the other column's word: bright against dark.",
+      "tr": "Bakhsh-e dovvom, rooz-e rastakhiz ast: 'yawma yaferro-l-mar'o men akhih' (roozi ke ensan az baradarash migorizad). Sepas chehre-ha do sotoon mishavand: 'vojoohon yawma’ezen mosfera * zahekaton mostabshera' dar barabar-e 'va vojoohon yawma’ezen ’aleyha ghabara * tarhaghoha ghatara'. Agar yek sotoon ra bedani, ma'na-ye vazhe-ye sotoon-e digar ra hads mizani: roshan dar barabar-e tire."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "verb + its own verbal noun (sababna ... sabban) = emphasis",
+     "caption": {
+      "fa": "مصدرِ پس از فعل، تأکید است",
+      "en": "A verbal noun after its verb is emphasis",
+      "tr": "Masdar-e pas az fe'l, ta'kid ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «مُسْفِرَةٌ» در «وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ.» چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: what does 'musfira' mean in 'wujuhun yawma’idhin musfira'? (Dey 1400 paper)",
+      "tr": "Garm kardan: ma'na-ye 'mosfera' dar 'vojoohon yawma’ezen mosfera' chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ستون روشن: آیهٔ بعدی «ضَاحِکَةٌ مُسْتَبْشِرَةٌ» (خندان و شادمان) است؛ پس «مُسْفِرَة» هم روشن است. (ریشه همان «سَفَر»: آشکار شدن، مثل سپیده.)",
+        "en": "The bright column: the next verse is 'dahikatun mustabshira' (laughing, glad); so 'musfira' is bright too. (The root is the one in 'safar': coming into the open, like dawn.)",
+        "tr": "Sotoon-e roshan: aye-ye ba'di 'zahekaton mostabshera' (khandan va shadman) ast; pas 'mosfera' ham roshan ast. (Rishe haman 'safar': ashkar shodan, mesl-e sepide.)"
+       }
+      }
+     ],
+     "answer": {
+      "fa": "درخشان و روشن",
+      "en": "Shining, bright",
+      "tr": "Derakhshan va roshan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «شَقَقْنَا» در «ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً.» چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: what does 'shaqaqna' mean in 'thumma shaqaqna-l-arda shaqqan'? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye 'shaghaghna' dar 'somma shaghaghna-l-arza shaghghan' chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«ـنا» در آخر فعل ماضی یعنی «ما»؛ ریشهٔ «ش ق ق» یعنی شکافتن (مثل «شقّ» و «شکاف»).",
+        "en": "'-na' at the end of a past verb means 'we'; the root 'sh-q-q' means splitting (as in 'shaqq', a crack).",
+        "tr": "'-na' dar akhar-e fe'l-e mazi ya'ni 'ma'; rishe-ye 'sh-q-q' ya'ni shekaftan (mesl-e 'shaghgh' va 'shekaf')."
+       }
+      },
+      {
+       "text": {
+        "fa": "«شَقّاً» مصدر همان فعل است و فقط تأکید می‌کند: «به خوبی شکافتیم».",
+        "en": "'Shaqqan' is the same verb's verbal noun and only adds emphasis: 'we split it well'.",
+        "tr": "'Shaghghan' masdar-e haman fe'l ast va faghat ta'kid mikonad: 'be khoobi shekaftim'."
+       },
+       "math": "shaqaqna + shaqqan  ->  emphasis"
+      }
+     ],
+     "answer": {
+      "fa": "شکافتیم",
+      "en": "We split",
+      "tr": "Shekaftim"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در «لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ.» دو آزمون دو واژه پرسیده‌اند (دی ۱۴۰۲: «شَأْنٌ»، خرداد ۱۴۰۲: «یُغْنِیهِ»). معنای هر کدام چیست؟",
+      "en": "Exam twist: in 'li-kulli-mri’in minhum yawma’idhin sha’nun yughnihi' two papers asked two words (Dey 1402: 'sha’n', Khordad 1402: 'yughnihi'). What does each mean?",
+      "tr": "Pich-e emtehani: dar 'le-kolle-mre’en menhom yawma’ezen sha’non yoghnih' do azmoon do vazhe porside-and (Dey 1402: 'sha’n', Khordad 1402: 'yoghnih'). Ma'na-ye har kodam chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «یُغْنِیهِ» از ریشهٔ «غنی» (بی‌نیازی) است، ولی اینجا یعنی کار هر کس آن‌قدر سنگین است که او را از دیگران بی‌نیاز و سرگرم خود می‌کند؛ «توانگر می‌کند» ترجمه نکن.",
+        "en": "The twist: 'yughnihi' is from the root of 'ghina' (being free of need), but here it means each person's affair is so heavy it keeps him busy and indifferent to others; do not translate it 'makes him rich'.",
+        "tr": "Pich-e emtehan: 'yoghnih' az rishe-ye 'ghena' (bi-niyazi) ast, vali inja ya'ni kar-e har kas an-ghadr sangin ast ke oo ra az digaran bi-niyaz va sargarm-e khod mikonad; 'tavangar mikonad' tarjome nakon."
+       }
+      },
+      {
+       "text": {
+        "fa": "«شَأْن» یعنی کار و گرفتاری؛ «ـهِ» یعنی «او را».",
+        "en": "'Sha’n' means an affair, a concern; '-hi' means 'him'.",
+        "tr": "'Sha’n' ya'ni kar va gereftari; '-hi' ya'ni 'oo ra'."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "«شَأْنٌ»: کاری و گرفتاری؛ «یُغْنِیهِ»: او را بی‌نیاز و سرگرم خود می‌کند",
+      "en": "'Sha’n': an affair; 'yughnihi': keeps him busy, free of others",
+      "tr": "'Sha’n': kari va gereftari; 'yoghnih': oo ra bi-niyaz va sargarm-e khod mikonad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«أَبّاً» (چراگاه، علف) را با «أَب» (پدر) اشتباه نکن؛ در آیه کنار «فَاکِهَةً» (میوه) آمده.",
+      "en": "Do not confuse 'abban' (pasture) with 'ab' (father); in the verse it stands next to 'fakihatan' (fruit).",
+      "tr": "'Abban' (charagah, alaf) ra ba 'ab' (pedar) eshtebah nakon; dar aye kenar-e 'fakehatan' (mive) amade."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«صَبّاً» پس از «صَبَبْنَا» معنای تازه ندارد؛ آن را «یک ریختن» ترجمه نکن، فقط تأکید است.",
+      "en": "'Sabban' after 'sababna' adds no new meaning; do not translate it 'a pouring', it is only emphasis.",
+      "tr": "'Sabban' pas az 'sababna' ma'na-ye taze nadarad; an ra 'yek rikhtan' tarjome nakon, faghat ta'kid ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 990
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1402-Dey",
+     "number": 987
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 988
+    },
+    {
+     "session": "1401-Dey",
+     "number": 985
+    },
+    {
+     "session": "1401-Dey",
+     "number": 986
+    },
+    {
+     "session": "1401-Dey",
+     "number": 987
+    },
+    {
+     "session": "1401-Dey",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 990
+    },
+    {
+     "session": "1402-Dey",
+     "number": 985
+    },
+    {
+     "session": "1402-Dey",
+     "number": 986
+    },
+    {
+     "session": "1402-Dey",
+     "number": 988
+    },
+    {
+     "session": "1402-Dey",
+     "number": 990
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 986
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 987
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 990
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 3,
+   "unit": 4,
+   "key": "ar-3-takwir-infitar-mutaffifin",
+   "title": {
+    "fa": "تکویر، انفطار و مطففین: «إِذَا» و کم‌فروشان",
+    "en": "At-Takwir, al-Infitar and al-Mutaffifin: 'idha' and the cheats",
+    "tr": "Takvir, Enfetar va Motaffefin: 'eza' va kam-forooshan"
+   },
+   "summary": {
+    "fa": "«إِذَا» + فعل ماضی یعنی «هنگامی که ...»؛ و کم‌فروشان هنگام گرفتن کامل می‌گیرند و هنگام دادن کم می‌گذارند.",
+    "en": "'Idha' + a past verb means 'when ...'; and the cheats take in full but give short.",
+    "tr": "'Eza' + fe'l-e mazi ya'ni 'hengami ke ...'; va kam-forooshan hengam-e gereftan kamel migirand va hengam-e dadan kam migozarand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پرده‌هایی که یکی‌یکی می‌افتند",
+      "en": "Understand first: curtains falling one by one",
+      "tr": "Avval befahm: parde-hayi ke yeki-yeki mioftand"
+     },
+     "body": {
+      "fa": "آغاز این سوره‌ها فهرست نشانه‌های پایان جهان است و هر آیه یک الگو دارد: «إِذَا» + اسم + فعل ماضی. «إِذَا السَّمَاءُ انْفَطَرَتْ»: هنگامی که آسمان بشکافد. فعل ماضی است، ولی پس از «إِذَا» دربارهٔ آینده است. فعل‌ها اغلب از باب انفعال‌اند (انْفَطَرَتْ، انْکَدَرَتْ) که یعنی «خود به خود شد»، یا مجهول‌اند (کُوِّرَتْ). مثل نمایشی که پرده‌هایش یکی‌یکی فرو می‌افتد.",
+      "en": "These surahs open with a list of the signs of the world's end, and every verse has one pattern: 'idha' + noun + past verb. 'Idha-s-sama’u-nfatarat': when the sky splits. The verb is past, but after 'idha' it speaks of the future. The verbs are often in the infi’al form (infatarat, inkadarat), meaning 'it happened to itself', or passive (kuwwirat). Like a play whose curtains fall one by one.",
+      "tr": "Aghaz-e in soore-ha fehrest-e neshane-haye payan-e jahan ast va har aye yek olgoo darad: 'eza' + esm + fe'l-e mazi. 'Eza-s-sama’o-nfatarat': hengami ke aseman beshekafad. Fe'l mazi ast, vali pas az 'eza' darbare-ye ayande ast. Fe'l-ha aghlab az bab-e enfe’al-and (enfatarat, enkadarat) ke ya'ni 'khod be khod shod', ya majhool-and (kovverat). Mesl-e namayeshi ke parde-hayash yeki-yeki foroo mioftad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " idha + noun + past = when ...\n as-sama'u   infatarat  splits\n an-nujumu   inkadarat  dim\n ash-shamsu  kuwwirat   is wrapped\n al-kawakib  intatharat scatter\n MUTAFFIFIN (the cheats)\n   taking:  yastawfuna  in full\n   giving:  yukhsiruna  short",
+     "caption": {
+      "fa": "«إِذَا» با فعل ماضی، آینده را می‌گوید؛ کم‌فروش دو رو دارد: گرفتن و دادن.",
+      "en": "'Idha' with a past verb speaks of the future; the cheat has two faces: taking and giving.",
+      "tr": "'Eza' ba fe'l-e mazi, ayande ra miguyad; kam-froosh do roo darad: gereftan va dadan."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ترازوی کج کم‌فروشان",
+      "en": "The cheats' crooked scale",
+      "tr": "Tarazoo-ye kaj-e kam-forooshan"
+     },
+     "body": {
+      "fa": "سورهٔ مطففین با «وَیْلٌ لِلْمُطَفِّفِینَ» (وای بر کم‌فروشان) شروع می‌شود و آنها را با دو آیهٔ قرینه وصف می‌کند: «الَّذِینَ إِذَا اکْتَالُوا عَلَى النَّاسِ یَسْتَوْفُونَ» (کسانی که وقتی از مردم پیمانه می‌گیرند، کامل می‌گیرند) و «وَ إِذَا کَالُوهُمْ أَوْ وَزَنُوهُمْ یُخْسِرُونَ» (و وقتی برایشان پیمانه یا وزن می‌کنند، کم می‌گذارند). «یَسْتَوْفُونَ» (باب استفعال: کامل طلب کردن) و «یُخْسِرُونَ» (باب افعال از «خسر»: زیان رساندن) دو کفهٔ یک ترازوی کج‌اند.",
+      "en": "Al-Mutaffifin opens with 'waylun li-l-mutaffifin' (woe to the cheats) and describes them in two matching verses: 'alladhina idha-ktalu ’ala-n-nasi yastawfun' (those who, when they take a measure from people, take it in full) and 'wa idha kaluhum aw wazanuhum yukhsirun' (and when they measure or weigh for them, give short). 'Yastawfuna' (istif’al: seeking in full) and 'yukhsiruna' (if’al from 'khasira': to cause loss) are the two pans of one crooked scale.",
+      "tr": "Sure-ye Motaffefin ba 'veylon le-l-motaffefin' (vay bar kam-forooshan) shoroo mishavad va anha ra ba do aye-ye gharine vasf mikonad: 'allazina eza-ktaloo ’ala-n-nasi yastawfoon' (kasani ke vaghti az mardom peymane migirand, kamel migirand) va 'va eza kaloohom aw vazanoohom yokhseroon' (va vaghti barayeshan peymane ya vazn mikonand, kam migozarand). 'Yastawfoona' (bab-e estef’al: kamel talab kardan) va 'yokhseroona' (bab-e ef’al az 'khasera': ziyan resandan) do kaffe-ye yek tarazoo-ye kaj-and."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "idha + past = when (future) ;  infa’ala = it became / happened to itself",
+     "caption": {
+      "fa": "الگوی آغاز این سوره‌ها",
+      "en": "The opening pattern of these surahs",
+      "tr": "Olgoo-ye aghaz-e in soore-ha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «انْفَطَرَتْ» در «إِذَا السَّمَاءُ انْفَطَرَتْ.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what does 'infatarat' mean in 'idha-s-sama’u-nfatarat'? (Dey 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye 'enfatarat' dar 'eza-s-sama’o-nfatarat' chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ریشهٔ «ف ط ر» یعنی شکافتن؛ باب انفعال یعنی «خود شکافته شد». پس از «إِذَا» به آینده ترجمه می‌شود.",
+        "en": "The root 'f-t-r' means splitting; the infi’al form means 'split open by itself'. After 'idha' it is translated as future.",
+        "tr": "Rishe-ye 'f-t-r' ya'ni shekaftan; bab-e enfe’al ya'ni 'khod shekafte shod'. Pas az 'eza' be ayande tarjome mishavad."
+       },
+       "math": "in + f-t-r  ->  infatara = split open"
+      }
+     ],
+     "answer": {
+      "fa": "شکافت (بشکافد)",
+      "en": "It split open",
+      "tr": "Shekaft (beshekafad)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «کُوِّرَتْ» در «إِذَا الشَّمْسُ کُوِّرَتْ.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does 'kuwwirat' mean in 'idha-sh-shamsu kuwwirat'? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye 'kovverat' dar 'eza-sh-shamso kovverat' chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ضمه روی حرف اول و کسره پیش از آخر: مجهول. خورشید کاری نکرد؛ با آن کاری شد.",
+        "en": "U on the first letter and i before the last: passive. The sun did nothing; something was done to it.",
+        "tr": "Zamme rooy-e harf-e avval va kasre pish az akhar: majhool. Khorshid kari nakard; ba an kari shod."
+       }
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ «ک و ر» یعنی پیچیدن (مثل پیچیدن عمامه)؛ پس خورشید در هم پیچیده و تاریک شد.",
+        "en": "The root 'k-w-r' means wrapping (as one winds a turban); so the sun was wrapped up and darkened.",
+        "tr": "Rishe-ye 'k-v-r' ya'ni pichidan (mesl-e pichidan-e ammame); pas khorshid dar ham pichide va tarik shod."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "در هم پیچیده و تاریک شد",
+      "en": "It was wrapped up and darkened",
+      "tr": "Dar ham pichide va tarik shod"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «انْتَثَرَتْ» در «وَ إِذَا الْکَوَاکِبُ انْتَثَرَتْ.» چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: what does 'intatharat' mean in 'wa idha-l-kawakibu-ntatharat'? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye 'entasarat' dar 'va eza-l-kavakebo-ntasarat' chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: شبیه «انْفَطَرَتْ» به نظر می‌رسد، ولی «ن» اینجا حرف ریشه است: ریشه «ن ث ر» (پراکندن، مثل «نثار») و «تـ» نشان باب افتعال است.",
+        "en": "The twist: it looks like 'infatarat', but here the 'n' is a root letter: the root is 'n-th-r' (scattering, as in 'nesar', strewn gifts) and the 't' marks the ifti’al form.",
+        "tr": "Pich-e emtehan: shabih-e 'enfatarat' be nazar miresad, vali 'n' inja harf-e rishe ast: rishe 'n-s-r' (parakandan, mesl-e 'nesar') va 't' neshan-e bab-e efte’al ast."
+       },
+       "math": "i + n + t + th-r  ->  ifta’ala"
+      },
+      {
+       "text": {
+        "fa": "معنا: هنگامی که ستارگان پراکنده شوند.",
+        "en": "Meaning: when the stars are scattered.",
+        "tr": "Ma'na: hengami ke setaregan parakande shavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پراکنده شدند",
+      "en": "They scattered",
+      "tr": "Parakande shodand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فعل ماضی پس از «إِذَا» را گذشته ترجمه نکن: «إِذَا السَّمَاءُ انْفَطَرَتْ» یعنی «هنگامی که آسمان بشکافد».",
+      "en": "Do not translate a past verb after 'idha' as past: 'idha-s-sama’u-nfatarat' means 'when the sky splits'.",
+      "tr": "Fe'l-e mazi pas az 'eza' ra gozashte tarjome nakon: 'eza-s-sama’o-nfatarat' ya'ni 'hengami ke aseman beshekafad'."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«الْفُجَّار» (بدکاران) را با «الْفَجْر» (سپیده‌دم) اشتباه نکن.",
+      "en": "Do not confuse 'al-fujjar' (the wicked) with 'al-fajr' (dawn).",
+      "tr": "'Al-fojjar' (badkaran) ra ba 'al-fajr' (sepide-dam) eshtebah nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 991
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 991
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 992
+    },
+    {
+     "session": "1400-Dey",
+     "number": 993
+    },
+    {
+     "session": "1401-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Dey",
+     "number": 993
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 992
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 993
+    },
+    {
+     "session": "1402-Dey",
+     "number": 991
+    },
+    {
+     "session": "1402-Dey",
+     "number": 992
+    },
+    {
+     "session": "1402-Dey",
+     "number": 993
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 992
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 993
+    }
+   ]
+  },
+  {
+   "subject": "Arabic",
+   "chapter": 3,
+   "unit": 5,
+   "key": "ar-3-other-verses",
+   "title": {
+    "fa": "آیه‌های دیگر: نهی و آفرینش",
+    "en": "Other verses: prohibition and creation",
+    "tr": "Aye-haye digar: nahy va afarinesh"
+   },
+   "summary": {
+    "fa": "«لا» + مضارع بی‌نون و بی‌ضمه یعنی «نکن!»؛ و آیه‌های آفرینش خورشید و ماه و کوه‌ها را وصف می‌کنند.",
+    "en": "'La' + a present verb with no -u and no -na means 'do not!'; and the creation verses describe the sun, the moon and the mountains.",
+    "tr": "'La' + mozare'-e bi-noon va bi-zamme ya'ni 'nakon!'; va aye-haye afarinesh khorshid va mah va kooh-ha ra vasf mikonand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دم بریده یعنی «ایست!»",
+      "en": "Understand first: a clipped tail means 'stop!'",
+      "tr": "Avval befahm: dom-e boride ya'ni 'ist!'"
+     },
+     "body": {
+      "fa": "«لا» پیش از مضارع دو کار می‌کند و آخر فعل لو می‌دهد کدام: اگر آخر فعل افتاده باشد (ضمه نباشد، یا «نَ»ی «ـونَ» حذف شده باشد) «لا»ی نهی است: «وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً» (و برخی از شما غیبت برخی را نکند)، «وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ» (از چیزهای مردم کم مدهید). اگر آخر فعل سالم باشد، «لا»ی نفی است: «لَا یَذُوقُونَ» (نمی‌چشند). مثل چراغ راهنما: دم بریده یعنی «ایست!».",
+      "en": "A 'la' before a present verb does one of two jobs, and the end of the verb tells you which: if the end has dropped (no -u, or the '-na' of '-una' gone), it is the 'la' of prohibition: 'wa la yaghtab ba’dukum ba’dan' (and let none of you backbite another), 'wa la tabkhasu-n-nasa ashya’ahum' (do not short people their goods). If the end is intact, it is the 'la' of plain negation: 'la yadhuquna' (they do not taste). Like a traffic light: a clipped tail means 'stop!'.",
+      "tr": "'La' pish az mozare' do kar mikonad va akhar-e fe'l loo midahad kodam: agar akhar-e fe'l oftade bashad (zamme nabashad, ya 'na'-ye '-oona' hazf shode bashad) 'la'-ye nahy ast: 'va la yaghtab ba’zokom ba’zan' (va barkhi az shoma gheybat-e barkhi ra nakonad), 'va la tabkhasoo-n-nasa ashya’ahom' (az chiz-haye mardom kam madahid). Agar akhar-e fe'l salem bashad, 'la'-ye nafy ast: 'la yazooghoona' (nemichashand). Mesl-e cheragh-e rahnama: dom-e boride ya'ni 'ist!'."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " la + present, look at the END\n ----------------------------\n la yaghtab    no -u   let not\n la tabkhasu   no -na  do not!\n la ta'thaw    no -na  do not!\n la yadhuquna  -na     they do\n               stays   not taste\n man yabkhal   no -u   whoever\n                       is stingy",
+     "caption": {
+      "fa": "آخر فعل را نگاه کن: افتاده یعنی نهی یا شرط، سالم یعنی نفی ساده.",
+      "en": "Look at the end of the verb: dropped means prohibition or condition, intact means plain negation.",
+      "tr": "Akhar-e fe'l ra negah kon: oftade ya'ni nahy ya shart, salem ya'ni nafy-e sade."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "واژه‌های آفرینش",
+      "en": "The words of creation",
+      "tr": "Vazhe-haye afarinesh"
+     },
+     "body": {
+      "fa": "آیه‌های آفرینش هم واژه‌های تصویری دارند: «هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً» (خورشید را روشنایی درخشان و ماه را نور قرار داد)؛ «وَ جَعَلَ الشَّمْسَ سِرَاجاً» (خورشید را چراغی قرار داد)؛ «وَ أَلْقَى فِی الْأَرْضِ رَوَاسِیَ أَنْ تَمِیدَ بِکُمْ» (در زمین کوه‌های استوار افکند). همان الگوی «جَعَلَ + چیز + برچسب» از درس نبأ اینجا هم کار می‌کند.",
+      "en": "The creation verses have picture words too: 'huwa-lladhi ja’ala-sh-shamsa diya’an wa-l-qamara nuran' (it is He who made the sun a radiance and the moon a light); 'wa ja’ala-sh-shamsa sirajan' (and made the sun a lamp); 'wa alqa fi-l-ardi rawasiya an tamida bikum' (and cast firm mountains into the earth). The same 'ja’ala + X + Y' pattern from the Naba' lesson works here too.",
+      "tr": "Aye-haye afarinesh ham vazhe-haye tasviri darand: 'hova-llazi ja’ala-sh-shamsa ziya’an va-l-ghamara nooran' (khorshid ra roshanayi-ye derakhshan va mah ra noor gharar dad); 'va ja’ala-sh-shamsa serajan' (khorshid ra cheraghi gharar dad); 'va algha fi-l-arzi ravasiya an tamida bekom' (dar zamin kooh-haye ostovar afkand). Haman olgoo-ye 'ja’ala + X + Y' az dars-e Naba' inja ham kar mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "la + clipped present = do not! ;  la + full present = does not",
+     "caption": {
+      "fa": "نهی یا نفی؟ آخر فعل را ببین",
+      "en": "Prohibition or negation? Look at the end",
+      "tr": "Nahy ya nafy? Akhar-e fe'l ra bebin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «لَا یَغْتَبْ» در «وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً.» چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: what does 'la yaghtab' mean in 'wa la yaghtab ba’dukum ba’dan'? (Dey 1400 paper)",
+      "tr": "Garm kardan: ma'na-ye 'la yaghtab' dar 'va la yaghtab ba’zokom ba’zan' chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آخر «یَغْتَبْ» ضمه ندارد: «لا»ی نهی. ریشهٔ «غ ی ب» همان «غیبت» است.",
+        "en": "The end of 'yaghtab' has no -u: the 'la' of prohibition. The root 'gh-y-b' is the one in 'gheybat' (backbiting).",
+        "tr": "Akhar-e 'yaghtab' zamme nadarad: 'la'-ye nahy. Rishe-ye 'gh-y-b' haman 'gheybat' ast."
+       },
+       "math": "la + yaghtab (no -u)  ->  let not backbite"
+      }
+     ],
+     "answer": {
+      "fa": "غیبت نکند",
+      "en": "Let him not backbite",
+      "tr": "Gheybat nakonad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «ضِیَاءً» در «هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: what does 'diya’an' mean in 'huwa-lladhi ja’ala-sh-shamsa diya’an wa-l-qamara nuran'? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye 'ziya’an' dar 'hova-llazi ja’ala-sh-shamsa ziya’an va-l-ghamara nooran' chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الگوی «جَعَلَ + چیز + برچسب» دو بار آمده: خورشید ← «ضِیَاءً»، ماه ← «نُوراً».",
+        "en": "The 'ja’ala + X + Y' pattern appears twice: the sun -> 'diya’an', the moon -> 'nuran'.",
+        "tr": "Olgoo-ye 'ja’ala + X + Y' do bar amade: khorshid -> 'ziya’an', mah -> 'nooran'."
+       }
+      },
+      {
+       "text": {
+        "fa": "خورشید خودش می‌درخشد، پس «ضِیَاء» روشنایی درخشان است (همان ریشهٔ «ضَوء» در درس متن علمی).",
+        "en": "The sun shines by itself, so 'diya’' is a brilliant radiance (the same root as 'daw’' in the science-text lesson).",
+        "tr": "Khorshid khodash miderakhshad, pas 'ziya’' roshanayi-ye derakhshan ast (haman rishe-ye 'zaw’' dar dars-e matn-e elmi)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "روشنایی، نور درخشان",
+      "en": "Radiance, brilliant light",
+      "tr": "Roshanayi, noor-e derakhshan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در «وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ.» دو آزمون دو نهی را پرسیده‌اند (دی ۱۴۰۰: «لَا تَعْثَوْا»، خرداد ۱۴۰۱: «لَا تَبْخَسُوا»). معنای هر کدام چیست؟",
+      "en": "Exam twist: in 'wa la tabkhasu-n-nasa ashya’ahum wa la ta’thaw fi-l-ardi mufsidin' two papers asked the two prohibitions (Dey 1400: 'la ta’thaw', Khordad 1401: 'la tabkhasu'). What does each mean?",
+      "tr": "Pich-e emtehani: dar 'va la tabkhasoo-n-nasa ashya’ahom va la ta’saw fi-l-arzi mofsedin' do azmoon do nahy ra porside-and (Dey 1400: 'la ta’saw', Khordad 1401: 'la tabkhasoo'). Ma'na-ye har kodam chist?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: هر دو فعل «نَ»ی آخر را از دست داده‌اند (تَبْخَسُونَ ← تَبْخَسُوا)؛ پس هر دو نهی‌اند، نه نفی.",
+        "en": "The twist: both verbs have lost their final '-na' (tabkhasuna -> tabkhasu); so both are prohibitions, not plain negation.",
+        "tr": "Pich-e emtehan: har do fe'l 'na'-ye akhar ra az dast dade-and (tabkhasoona -> tabkhasoo); pas har do nahy-and, na nafy."
+       }
+      },
+      {
+       "text": {
+        "fa": "«لَا تَبْخَسُوا»: از چیزهای مردم کم مدهید (کم‌فروشی نکنید). «لَا تَعْثَوْا»: در زمین تبهکاری نکنید، و «مُفْسِدِینَ» آن را تأکید می‌کند.",
+        "en": "'La tabkhasu': do not short people their goods. 'La ta’thaw': do not spread corruption on earth, and 'mufsidin' (as corrupters) reinforces it.",
+        "tr": "'La tabkhasoo': az chiz-haye mardom kam madahid (kam-forooshi nakonid). 'La ta’saw': dar zamin tabahkari nakonid, va 'mofsedin' an ra ta'kid mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "«لَا تَبْخَسُوا»: کم مدهید؛ «لَا تَعْثَوْا»: تبهکاری مکنید",
+      "en": "'La tabkhasu': do not short; 'la ta’thaw': do not spread corruption",
+      "tr": "'La tabkhasoo': kam madahid; 'la ta’saw': tabahkari makonid"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«لا» را همیشه «نه» ترجمه نکن: «لَا یَذُوقُونَ» (نون مانده) یعنی «نمی‌چشند»، ولی «لَا تَبْخَسُوا» (نون رفته) یعنی «کم مدهید!».",
+      "en": "Do not always translate 'la' the same way: 'la yadhuquna' (-na kept) means 'they do not taste', but 'la tabkhasu' (-na gone) means 'do not short!'.",
+      "tr": "'La' ra hamishe yeksan tarjome nakon: 'la yazooghoona' (noon mande) ya'ni 'nemichashand', vali 'la tabkhasoo' (noon rafte) ya'ni 'kam madahid!'."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "«عَجَل» (شتاب) در «خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ» را با «عِجْل» (گوساله) اشتباه نکن.",
+      "en": "Do not confuse '’ajal' (haste) in 'khuliqa-l-insanu min ’ajal' with '’ijl' (a calf).",
+      "tr": "'’Ajal' (shetab) dar 'kholegha-l-ensano men ’ajal' ra ba '’ejl' (goosale) eshtebah nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Dey",
+     "number": 972
+    },
+    {
+     "session": "1400-Dey",
+     "number": 978
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 978
+    },
+    {
+     "session": "1400-Dey",
+     "number": 974
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 969
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 971
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 969
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 974
+    }
+   ]
+  }
+ ]
+}
