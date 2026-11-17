@@ -1,0 +1,475 @@
+{
+ "version": 131,
+ "format": 2,
+ "questions": [
+  {
+   "subject": "Chemistry",
+   "session": "1402-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (پاک‌کننده‌ها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Cleaners)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti",
+    "pages": "4–12"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "تفاوت عملکرد پاک‌کننده‌های صابونی و غیرصابونی را در آب سخت حاوی یون‌های کلسیم (⁦Ca²⁺⁩) و منیزیم (⁦Mg²⁺⁩) توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به تشکیل رسوب غیرقابل حل صابون با یون‌های کلسیم/منیزیم و کاهش خاصیت پاک‌کنندگی صابون\n- [0.5] برای بیان اینکه پاک‌کننده‌های غیرصابونی با این یون‌ها رسوب تشکیل نداده و در آب سخت کارایی خود را حفظ می‌کنند",
+     "final_resolution": "صابون با یون‌های ⁦Ca²⁺⁩ و ⁦Mg²⁺⁩ رسوب نامحلول می‌دهد و کارایی‌اش کم می‌شود؛ پاک‌کننده‌های غیرصابونی رسوب نمی‌دهند و در آب سخت هم به‌خوبی پاک می‌کنند.",
+     "notes": "",
+     "keywords": [
+      "پاک‌کننده صابونی",
+      "آب سخت",
+      "رسوب",
+      "کلسیم و منیزیم"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Explain the operational difference between soap and non-soap detergents in hard water containing calcium (Ca²⁺) and magnesium (Mg²⁺) ions.",
+     "grading_key": "- [0.5] for stating that soap forms insoluble precipitates with calcium/magnesium ions, lowering cleansing efficiency.\n- [0.5] for explaining that non-soap detergents do not form precipitates and maintain efficiency in hard water.",
+     "final_resolution": "Soap forms insoluble precipitates with Ca²⁺/Mg²⁺, reducing its efficiency, while non-soap detergents do not form precipitates and clean effectively.",
+     "notes": "",
+     "keywords": [
+      "soap detergent",
+      "hard water",
+      "precipitate",
+      "calcium and magnesium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Tafavot-e amalkard-e pak-konandeh-haye sabooni va gheyr-e-sabooni ra dar ab-e sakht (Ca²⁺ va Mg²⁺) moshakhas konid.",
+     "grading_key": "- [0.5] baraye tashkil-e rosoob-e saboon\n- [0.5] baraye amalkard-e pak-konandeh-ye gheyr-e-sabooni",
+     "final_resolution": "Saboon ba Ca²⁺ va Mg²⁺ rosoob-e namahlool midahad va karayi-ash kam mishavad; pak-konande-haye gheyr-e sabooni rosoob nemidahand va dar ab-e sakht ham khoob pak mikonand.",
+     "notes": "",
+     "keywords": [
+      "pak-konandeh-ye sabooni",
+      "ab-e sakht",
+      "rosoob",
+      "calcium va magnesium"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (اسیدها و بازها)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Acids and Bases)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Acid va Baz)",
+    "pages": "18–26"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "غلظت یون هیدرونیوم (⁦H₃O⁺⁩) را در محلولی از اسید نیتریک (⁦HNO₃⁩) با غلظت ⁦0.05 M⁩ محاسبه کنید و درجهٔ یونش آن را به‌عنوان یک اسید قوی مشخص کنید.",
+     "grading_key": "- [0.5] برای بیان اینکه اسید نیتریک یک اسید قوی است و به‌طور کامل یونیده می‌شود، پس غلظت هیدرونیوم برابر با غلظت اسید اولیه یعنی ⁦0.05 M⁩ است\n- [0.5] برای مشخص کردن درجهٔ یونش اسیدهای قوی که برابر ۱ (یا ۱۰۰ درصد) است (⁦α = 1⁩)",
+     "final_resolution": "⁦[H₃O⁺] = 0.05 M⁩ ، ⁦α = 1⁩ (اسید قوی)",
+     "notes": "",
+     "keywords": [
+      "اسید نیتریک",
+      "اسید قوی",
+      "یون هیدرونیوم",
+      "درجهٔ یونش",
+      "تفکیک کامل"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "Calculate the hydronium ion (H₃O⁺) concentration in a 0.05 M solution of nitric acid (HNO₃) and specify its degree of ionization as a strong acid.",
+     "grading_key": "- [0.5] for stating that nitric acid is a strong acid and ionizes completely, making the hydronium concentration equal to the initial acid (0.05 M).\n- [0.5] for correctly specifying that the degree of ionization (α) for strong acids equals 1 (or 100%).",
+     "final_resolution": "[H₃O⁺] = 0.05 M, α = 1 (strong acid)",
+     "notes": "",
+     "keywords": [
+      "nitric acid",
+      "strong acid",
+      "hydronium ion",
+      "degree of ionization",
+      "complete dissociation"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Ghelzat-e yon-e hydronium (H₃O⁺) ra dar mahlooli az nitric acid (HNO₃) ba ghelzat-e 0.05 M mohasebeh konid va darajeh-ye yonesh-e an ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye ghelzat-e hydronium (0.05 M)\n- [0.5] baraye darajeh-ye yonesh (α = 1)",
+     "final_resolution": "[H₃O⁺] = 0.05 M, α = 1 (acid-e ghavi)",
+     "notes": "",
+     "keywords": [
+      "nitric acid",
+      "asid-e ghavi",
+      "yon-e hydronium",
+      "darajeh-ye yonesh",
+      "tafkik-e kamel"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1401-Khordad",
+   "number": 0,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (خوردگی آهن)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Iron Corrosion)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi",
+    "pages": "52–58"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "فرآیند خوردگی آهن را در محیط مرطوب بررسی کنید.\nالف) نیم‌واکنش آندی اکسایش آهن را بنویسید.\nب) چرا حضور اکسیژن و آب برای پیشرفت خوردگی ضروری است؟",
+     "grading_key": "- [0.5] برای نوشتن صحیح نیم‌واکنش آندی: ⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩\n- [0.5] برای توضیح اینکه اکسیژن و آب در ناحیهٔ کاتدی کاهش یافته و الکترون‌های آزادشده از آند را مصرف می‌کنند",
+     "final_resolution": "نیم‌واکنش آندی: ⁦Fe(s) → Fe²⁺(aq) + 2e⁻⁩\nاکسیژن و آب در نیم‌واکنش کاهش در ناحیهٔ کاتدی شرکت می‌کنند و الکترون‌های آند را مصرف می‌کنند؛ بدون آن‌ها خوردگی پیش نمی‌رود.",
+     "notes": "",
+     "keywords": [
+      "خوردگی آهن",
+      "نیم‌واکنش آندی",
+      "کاتد",
+      "اکسایش",
+      "محیط مرطوب"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "Examine the corrosion process of iron in a moist environment.\na) Write the anodic half-reaction for iron oxidation.\nb) Why is the presence of oxygen and water necessary for corrosion to progress?",
+     "grading_key": "- [0.5] for correctly writing the anodic half-reaction: Fe(s) → Fe²⁺(aq) + 2e⁻.\n- [0.5] for explaining that oxygen and water undergo reduction at the cathodic region, consuming the electrons released from the anode.",
+     "final_resolution": "Anode half-reaction: Fe(s) → Fe²⁺(aq) + 2e⁻.\nOxygen and water drive the cathodic reduction half-reaction, consuming the electrons from the anode.",
+     "notes": "",
+     "keywords": [
+      "iron corrosion",
+      "anodic half-reaction",
+      "cathode",
+      "oxidation",
+      "moist environment"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Farayand-e khordegi-ye ahan ra dar mohit-e mortoob barresi konid.\na) Nim-vakonesh-e anodi-ye oksayesh-e ahan ra benevisid.\nb) Chera hozoor-e oxygen va ab zaroori ast?",
+     "grading_key": "- [0.5] baraye nim-vakonesh-e anodi: Fe(s) → Fe²⁺(aq) + 2e⁻\n- [0.5] baraye tozih-e nahiye-ye cathodi",
+     "final_resolution": "Nim-vakonesh-e anodi: Fe(s) → Fe²⁺(aq) + 2e⁻.\nOxygen va ab dar nahiye-ye cathodi kahesh mi-yaband va electron-haye anod ra masraf mikonand.",
+     "notes": "",
+     "keywords": [
+      "khordegi-ye ahan",
+      "nim-vakonesh-e anodi",
+      "cathode",
+      "oksayesh",
+      "mohit-e martoob"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Dey",
+   "number": 0,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای کووالانسی)",
+    "en": "Chapter 3: Chemistry an Exhibition of Art, Beauty, and Durability (Covalent Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar, Zibayi va Mandegari",
+    "pages": "70–76"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "ساختار شیمیایی سیلیس (⁦SiO₂⁩) را بررسی کنید. چرا این ماده نقطهٔ ذوب بسیار بالایی دارد؟ بر اساس نوع شبکهٔ پیوندی توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به اینکه سیلیس یک جامد کووالانسی شبکه‌ای غول‌آسا است و ساختار مولکولی مجزا ندارد\n- [0.5] برای توضیح اینکه شکستن پیوندهای اشتراکی قوی سیلیسیم-اکسیژن در شبکهٔ سه‌بعدی به انرژی گرمایی بسیار زیادی نیاز دارد",
+     "final_resolution": "سیلیس جامدی کووالانسی و شبکه‌ای است: هر اتم سیلیسیم با چهار اتم اکسیژن در یک شبکهٔ سه‌بعدی سخت پیوند دارد و شکستن این شبکه انرژی بسیار زیادی می‌خواهد.",
+     "notes": "",
+     "keywords": [
+      "سیلیس",
+      "جامد کووالانسی",
+      "شبکهٔ سه‌بعدی",
+      "پیوند اشتراکی",
+      "نقطهٔ ذوب بالا"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Examine the chemical structure of silica (SiO₂). Why does this substance have an exceptionally high melting point? Explain based on its bonding network.",
+     "grading_key": "- [0.5] for specifying that silica is a giant covalent network solid without isolated molecular units.\n- [0.5] for explaining that breaking the strong, rigid silicon-oxygen covalent bonds throughout the 3D lattice requires immense thermal energy.",
+     "final_resolution": "Silica is a covalent network solid where every silicon atom is bound to four oxygen atoms in a rigid 3D lattice, requiring massive energy to break.",
+     "notes": "",
+     "keywords": [
+      "silica",
+      "covalent solid",
+      "3D network",
+      "covalent bond",
+      "high melting point"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Sakhtar-e shimiayi-ye silica (SiO₂) ra barresi konid. Chera in maddeh noghteh-ye zob-e besyar balayi darad? Bar asas-e no-e shabake-ye peyvandi tozih dahid.",
+     "grading_key": "- [0.5] baraye jamed-e covalent-e shabakeyi\n- [0.5] baraye peyvand-e ghavi-ye silicon-oxygen",
+     "final_resolution": "Silica jamed-e covalent-e shabakeyi ast: har atom-e silicon ba chahar atom-e oxygen dar yek shabake-ye se-bodi-ye sakht peyvand darad va shekastan-ash enerji-ye besyar ziadi mikhahad.",
+     "notes": "",
+     "keywords": [
+      "silica",
+      "jamed-e covalent",
+      "shabakeh-ye se-bodi",
+      "peyvand-e eshteraki",
+      "noghteh-ye zob-e bala"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1400-Khordad",
+   "number": 0,
+   "topic_tag": "electrochemistry",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۲: آسایش و رفاه در سایه شیمی (سلول‌های سوختی)",
+    "en": "Chapter 2: Comfort and Well-being in the Light of Chemistry (Fuel Cells)",
+    "tr": "Fasl 2: Asayesh va Refah dar Sayeh-ye Shimi (Selool-e Sookhti)",
+    "pages": "45–50"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "الکتروشیمی",
+     "question": "در یک سلول سوختی هیدروژن-اکسیژن استاندارد:\nالف) نیم‌واکنش کاهش کاتدی را بنویسید.\nب) جهت حرکت پروتون‌ها از غشای مبادله‌کنندهٔ پروتون را مشخص کنید.",
+     "grading_key": "- [0.5] برای نوشتن صحیح نیم‌واکنش کاهش کاتدی: ⁦O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)⁩\n- [0.5] برای بیان جهت حرکت پروتون‌ها (⁦H⁺⁩) از آند به کاتد از طریق غشای مبادله‌کننده",
+     "final_resolution": "کاتد: ⁦O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)⁩\nپروتون‌ها از آند به سوی کاتد حرکت می‌کنند.",
+     "notes": "",
+     "keywords": [
+      "سلول سوختی",
+      "هیدروژن و اکسیژن",
+      "نیم‌واکنش کاتدی",
+      "غشای مبادله‌کنندهٔ پروتون"
+     ]
+    },
+    "en": {
+     "topic_label": "Electrochemistry",
+     "question": "In a standard hydrogen-oxygen fuel cell:\na) Write the cathodic reduction half-reaction.\nb) Determine the direction of proton migration across the exchange membrane.",
+     "grading_key": "- [0.5] for correctly writing the cathodic reduction: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l).\n- [0.5] for specifying that protons (H⁺) migrate from the anode toward the cathode via the membrane.",
+     "final_resolution": "Cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\nProtons migrate from the anode to the cathode.",
+     "notes": "",
+     "keywords": [
+      "fuel cell",
+      "hydrogen and oxygen",
+      "cathodic half-reaction",
+      "proton exchange membrane"
+     ]
+    },
+    "tr": {
+     "topic_label": "Electroshimi",
+     "question": "Dar yek selool-e sookhti-ye hydrogen-oxygen:\na) Nim-vakonesh-e kahesh-e cathodi ra benevisid.\nb) Jahat-e harekat-e proton-ha az ghesha ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye nim-vakonesh-e cathodi: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\n- [0.5] baraye jahat-e proton az anode be cathode",
+     "final_resolution": "Cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)\nProton-ha az anode be samt-e cathode harekat mikonand.",
+     "notes": "",
+     "keywords": [
+      "selool-e sookhti",
+      "hydrogen va oxygen",
+      "nim-vakonesh-e cathodi",
+      "ghesha-ye mobadeleh-konandeh-ye proton"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1399-Khordad",
+   "number": 0,
+   "topic_tag": "art-solids",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۳: شیمی جلوه‌ای از هنر، زیبایی و ماندگاری (جامدهای بلوری)",
+    "en": "Chapter 3: Chemistry an Exhibition of Art, Beauty, and Durability (Crystalline Solids)",
+    "tr": "Fasl 3: Shimi Jelveh-yi az Honar, Zibayi va Mandegari",
+    "pages": "78–85"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "شیمی، هنر و جامدها",
+     "question": "تفاوت ساختاری و رسانایی الکتریکی دو دگرشکل کربن، یعنی الماس و گرافیت را بر اساس نوع پیوندها و آرایش اتم‌ها توضیح دهید.",
+     "grading_key": "- [0.5] برای اشاره به ساختار سه‌بعدی و شبکه‌ای الماس با پیوندهای اشتراکی محکم (عایق الکتریکی)\n- [0.5] برای توضیح ساختار لایه‌ای گرافیت و وجود الکترون‌های غیرمستقر بین لایه‌ها (رسانای الکتریکی)",
+     "final_resolution": "الماس شبکه‌ای سه‌بعدی از پیوندهای اشتراکی است و الکترون آزاد ندارد (عایق)؛ گرافیت ساختار لایه‌ای دارد و الکترون‌های ⁦π⁩ غیرمستقر دارد (رسانا).",
+     "notes": "",
+     "keywords": [
+      "دگرشکل کربن",
+      "الماس",
+      "گرافیت",
+      "پیوند اشتراکی",
+      "الکترون غیرمستقر",
+      "رسانایی الکتریکی"
+     ]
+    },
+    "en": {
+     "topic_label": "Art & Solids",
+     "question": "Explain the structural and electrical conductivity differences between the two allotropes of carbon, diamond and graphite, based on their bond types and atomic arrangements.",
+     "grading_key": "- [0.5] for specifying diamond's 3D covalent network with tightly bound electrons (electrical insulator).\n- [0.5] for explaining graphite's layered planar geometry containing free, delocalized π electrons (electrical conductor).",
+     "final_resolution": "Diamond has a 3D network of covalent bonds with no free electrons (insulator); graphite has a layered structure with delocalized π electrons (conductor).",
+     "notes": "",
+     "keywords": [
+      "carbon allotrope",
+      "diamond",
+      "graphite",
+      "covalent bond",
+      "delocalized electron",
+      "conductivity"
+     ]
+    },
+    "tr": {
+     "topic_label": "Shimi, honar va jamed-ha",
+     "question": "Tafavot-e sakhtari va resanayi-ye electriki-ye do degarshekl-e carbon, yani almas va graphite ra bar asas-e no-e peyvand-ha va arayesh-e atom-ha sharh dahid.",
+     "grading_key": "- [0.5] baraye almas va shabake-ye se-bodi\n- [0.5] baraye graphite va sakhtar-e laye-i",
+     "final_resolution": "Almas shabake-ye se-bodi-ye peyvand-haye eshteraki ast va electron-e azad nadarad (ayegh); graphite laye-i ast va electron-haye π-ye gheyr-e mostaghar darad (resana).",
+     "notes": "",
+     "keywords": [
+      "carbon allotrope",
+      "almas",
+      "graphite",
+      "peyvand-e eshteraki",
+      "electron-e gheyr-e mostaghar",
+      "rasanayi-ye electriki"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1397-Khordad",
+   "number": 0,
+   "topic_tag": "kinetics-equilibrium",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۴: شیمی، راهی به سوی آینده‌ای روشن‌تر (اصل لوشاتلیه)",
+    "en": "Chapter 4: Chemistry, a Path to a Brighter Future (Le Chatelier's Principle)",
+    "tr": "Fasl 4: Shimi Rahi be Sooy-e Ayandeh-ye Roshan-tar",
+    "pages": "112–118"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "سینتیک و تعادل",
+     "question": "در واکنش تعادلی گرماده ⁦N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q⁩، افزایش دمای سامانه چه اثری بر مقدار ثابت تعادل (⁦K⁩) و جهت پیشرفت واکنش دارد؟ بر اساس اصل لوشاتلیه توضیح دهید.",
+     "grading_key": "- [0.5] برای استدلال بر اساس اصل لوشاتلیه که افزایش دما، سامانه را برای مصرف گرما به سمت واکنش برگشت (چپ) می‌برد\n- [0.5] برای نتیجه‌گیری درست اینکه در واکنش‌های گرماده، با افزایش دما مقدار ثابت تعادل (⁦K⁩) کاهش می‌یابد",
+     "final_resolution": "تعادل برای جذب گرما به سمت چپ (برگشت) جابه‌جا می‌شود و مقدار ⁦K⁩ کاهش می‌یابد.",
+     "notes": "",
+     "keywords": [
+      "اصل لوشاتلیه",
+      "واکنش گرماده",
+      "ثابت تعادل",
+      "جابه‌جایی تعادل",
+      "سنتز آمونیاک"
+     ]
+    },
+    "en": {
+     "topic_label": "Kinetics & Equilibrium",
+     "question": "In the exothermic equilibrium reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q, how does increasing the temperature affect the equilibrium constant (K) and the direction of the reaction? Explain using Le Chatelier's principle.",
+     "grading_key": "- [0.5] for explaining via Le Chatelier's principle that increasing temperature drives the system backward (left) to consume the extra heat.\n- [0.5] for concluding that for exothermic reactions, an increase in temperature decreases K.",
+     "final_resolution": "The reaction shifts backward (left) to absorb heat, and the value of the equilibrium constant (K) decreases.",
+     "notes": "",
+     "keywords": [
+      "Le Chatelier's principle",
+      "exothermic reaction",
+      "equilibrium constant",
+      "reaction shift",
+      "ammonia synthesis"
+     ]
+    },
+    "tr": {
+     "topic_label": "Sinetik va taadol",
+     "question": "Dar vakonesh-e taadoli-ye garmaza-ye N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + q, afzayesh-e dama che tasiri bar sabet-e taadol (K) va jahat-e vakonesh darad? Ba asl-e Le Chatelier tozih dahid.",
+     "grading_key": "- [0.5] baraye jabejayi be samt-e chap tebgh-e asl-e Le Chatelier\n- [0.5] baraye kahesh-e sabet-e taadol (K)",
+     "final_resolution": "Taadol baraye jazb-e garma be samt-e chap jabeja mishavad va K kahesh mi-yabad.",
+     "notes": "",
+     "keywords": [
+      "asl-e Le Chatelier",
+      "vakonesh-e garmadeh",
+      "sabet-e taadol",
+      "jabejayi-ye taadol",
+      "santez-e ammonia"
+     ]
+    }
+   },
+   "correction": true
+  },
+  {
+   "subject": "Chemistry",
+   "session": "1395-Dey",
+   "number": 0,
+   "topic_tag": "health-cleansing",
+   "total_points": 1.0,
+   "source": "official",
+   "textbook": {
+    "fa": "فصل ۱: مولکول‌ها در خدمت تندرستی (نظریهٔ اسید-باز برونستد-لوری)",
+    "en": "Chapter 1: Molecules for Health and Cleansing (Brønsted-Lowry Acid-Base Theory)",
+    "tr": "Fasl 1: Molkool-ha dar Khedmat-e Tandorosti (Bronsted-Lowry)",
+    "pages": "14–19"
+   },
+   "text": {
+    "fa": {
+     "topic_label": "مولکول‌ها در خدمت تندرستی",
+     "question": "در واکنش ⁦NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)⁩، اسید و باز برونستد-لوری و جفت‌های مزدوج آن‌ها را مشخص کنید.",
+     "grading_key": "- [0.5] برای شناسایی آب (⁦H₂O⁩) به‌عنوان اسید (دهندهٔ پروتون) و آمونیاک (⁦NH₃⁩) به‌عنوان باز (گیرندهٔ پروتون)\n- [0.5] برای مشخص کردن یون آمونیوم (⁦NH₄⁺⁩) به‌عنوان اسید مزدوج و یون هیدروکسید (⁦OH⁻⁩) به‌عنوان باز مزدوج",
+     "final_resolution": "اسید: ⁦H₂O⁩ ، باز: ⁦NH₃⁩\nاسید مزدوج: ⁦NH₄⁺⁩ ، باز مزدوج: ⁦OH⁻⁩",
+     "notes": "",
+     "keywords": [
+      "برونستد-لوری",
+      "دهندهٔ پروتون",
+      "اسید مزدوج",
+      "باز مزدوج",
+      "تعادل اسید-باز"
+     ]
+    },
+    "en": {
+     "topic_label": "Molecules for Health",
+     "question": "In the reaction NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq), identify the Brønsted-Lowry acid and base and their conjugate pairs.",
+     "grading_key": "- [0.5] for identifying water (H₂O) as the acid (proton donor) and ammonia (NH₃) as the base (proton acceptor).\n- [0.5] for identifying ammonium (NH₄⁺) as the conjugate acid and hydroxide (OH⁻) as the conjugate base.",
+     "final_resolution": "Acid: H₂O, base: NH₃\nConjugate acid: NH₄⁺, conjugate base: OH⁻",
+     "notes": "",
+     "keywords": [
+      "Brønsted-Lowry",
+      "proton donor",
+      "conjugate acid",
+      "conjugate base",
+      "acid-base equilibrium"
+     ]
+    },
+    "tr": {
+     "topic_label": "Molkool-ha dar khedmat-e tandorosti",
+     "question": "Dar vakonesh-e NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq), acid va baz-e Bronsted-Lowry va joft-haye mozdavaj-e anha ra moshakhas konid.",
+     "grading_key": "- [0.5] baraye H₂O (acid) va NH₃ (baz)\n- [0.5] baraye NH₄⁺ va OH⁻ (mozdavaj)",
+     "final_resolution": "Acid: H₂O, baz: NH₃\nAcid-e mozdavaj: NH₄⁺, baz-e mozdavaj: OH⁻",
+     "notes": "",
+     "keywords": [
+      "Bronsted-Lowry",
+      "dahande-ye proton",
+      "asid-e mozdavaj",
+      "baz-e mozdavaj",
+      "taadol-e asid-baz"
+     ]
+    }
+   },
+   "correction": true
+  }
+ ]
+}
