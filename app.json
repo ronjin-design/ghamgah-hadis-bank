@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2034,
- "versionName": "3.15.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2034/Ghamgah-E-Hadis.apk",
+ "versionCode": 2035,
+ "versionName": "3.15.1",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2035/Ghamgah-E-Hadis.apk",
  "size": 43048706,
- "sha256": "d38bc5c3d570e8a578c2f4244a8c6ad74e794558fe04ba9adabfe03685a1889e",
+ "sha256": "b00d31ae88942fcd673b1091c614c05b2f9d5067c5d6874ef3e92b227690c5e8",
  "notes": {
-  "fa": "قطب‌نمای مطالعه: فصل‌هایی را که خوانده‌ای علامت بزن، یک آزمون نبض کوتاه بده و برنامهٔ هفته‌ات را با زنگ بگیر. امروز کم‌انرژی‌ام، جمع‌بندی ۵ پرسشی بعد از هر جلسه، ادامهٔ مطالعه ۳۰+ و ۶۰+، قطب‌نمای هفته در جمعه، و شروع دوباره در پروفایل.",
-  "en": "Study Compass: tell it which chapters you've covered, take a short pulse test, and get a weekly plan with alarms. Low Energy Today, a 5-question Cool-Down after each session, Continue +30/+60, a warm Friday Weekly Compass, and Fresh Start in Profile.",
-  "tr": "Ghotb-nama-ye motale-e: fasl-haye khande-at ra alamat bezan, yek azmoon-e nabz bede va barname-ye hafte ra ba zang begir. Emrooz kam-enerzhi-am, jam-bandi-ye 5 porseshi, edame-ye motale-e +30/+60, ghotb-nama-ye hafte dar jome, va shoru-e dobare dar profile."
+  "fa": "بهبودها: دکمهٔ بلوک تازه درست نمایش داده می‌شود، عنوان صفحه‌ها بریده نمی‌شوند، و برنامهٔ من هفته را از شنبه نشان می‌دهد.",
+  "en": "Polish: the New block button fits its label, screen titles no longer get cut off, My Schedule lists your week from Saturday.",
+  "tr": "Behbood-ha: dokme-ye block-e taze dorost dide mishavad, onvan-e safhe-ha boride nemishavand, va barname-ye man hafte ra az shanbe neshan midahad."
  }
 }
