@@ -1,0 +1,471 @@
+{
+ "version": 143,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Physics",
+   "key": "phys-g-photon-energy",
+   "term": {
+    "fa": "انرژی فوتون",
+    "en": "photon energy",
+    "tr": "enerji-ye photon"
+   },
+   "explain": {
+    "fa": "انرژی هر بستهٔ نور: `E = h f = hc / λ`. بسامد بیشتر یا طول موج کوتاه‌تر یعنی فوتون پرانرژی‌تر.",
+    "en": "The energy of each packet of light: `E = h f = hc / λ`. Higher frequency or shorter wavelength means a more energetic photon.",
+    "tr": "Enerzhi-ye har baste-ye noor: `E = h f = hc / λ`. Basamad-e bishtar ya tool-e moj-e kootah-tar ya'ni foton-e por-enerzhi-tar."
+   },
+   "matches": {
+    "en": [
+     "photon energy relation"
+    ]
+   },
+   "analogy": {
+    "fa": "نور مثل باران است: هر قطره یک فوتون، و اندازهٔ قطره را بسامد تعیین می‌کند.",
+    "en": "Light is like rain: each drop is a photon, and the frequency sets the size of the drop.",
+    "tr": "Noor mesl-e baran ast: har ghatre yek foton, va andaze-ye ghatre ra basamad ta'yin mikonad."
+   },
+   "contrast": {
+    "fa": "شدت نور شمار فوتون‌هاست، نه انرژی هر فوتون.",
+    "en": "Light intensity is the number of photons, not the energy of each one.",
+    "tr": "Shedat-e noor shomar-e foton-hast, na enerzhi-ye har foton."
+   },
+   "unit": "phys-4-photons-threshold"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-quantum-theory",
+   "term": {
+    "fa": "نظریهٔ کوانتومی",
+    "en": "quantum theory",
+    "tr": "nazariyeh-ye quantomi"
+   },
+   "explain": {
+    "fa": "این ایده که انرژی نور و اتم «گسسته» است: نور در بسته‌های `h f` می‌آید و الکترون اتم فقط ترازهای معینی دارد؛ همین اثر فوتوالکتریک و طیف خطی را توضیح می‌دهد.",
+    "en": "The idea that the energy of light and of atoms is \"discrete\": light comes in packets of `h f`, and an atom's electron has only certain levels; this explains the photoelectric effect and line spectra.",
+    "tr": "In ide ke enerzhi-ye noor va atom \"gosaste\" ast: noor dar baste-haye `h f` miayad va elektron-e atom faghat taraz-haye mo'ayyani darad; hamin asar-e fotoelektrik va tif-e khatti ra tozih midahad."
+   },
+   "analogy": {
+    "fa": "پله‌های نردبان به‌جای سطح شیب‌دار.",
+    "en": "The rungs of a ladder instead of a smooth ramp.",
+    "tr": "Pelle-haye nardeban be-ja-ye sath-e shib-dar."
+   },
+   "unit": "phys-4-photons-threshold"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-work-function",
+   "term": {
+    "fa": "تابع کار",
+    "en": "work function",
+    "tr": "tabe-e kar"
+   },
+   "explain": {
+    "fa": "کمترین انرژی لازم برای جدا کردن الکترون از سطح یک فلز (`W0`)؛ ویژگی خود فلز است و `W0 = h f0`.",
+    "en": "The minimum energy needed to free an electron from a metal surface (`W0`); a property of the metal itself, and `W0 = h f0`.",
+    "tr": "Kamtarin enerzhi-ye lazem baraye joda kardan-e elektron az sath-e yek felez (`W0`); vizhegi-ye khod-e felez ast va `W0 = h f0`."
+   },
+   "analogy": {
+    "fa": "بلیت خروج از سالن.",
+    "en": "The exit fee from a hall.",
+    "tr": "Belit-e khorooj az salon."
+   },
+   "unit": "phys-4-photons-threshold"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-threshold-frequency",
+   "term": {
+    "fa": "بسامد آستانه",
+    "en": "threshold frequency",
+    "tr": "basamad-e astaneh"
+   },
+   "explain": {
+    "fa": "کمترین بسامد نوری که می‌تواند از یک فلز الکترون جدا کند: `f0 = W0 / h`. زیر آن هیچ الکترونی جدا نمی‌شود، هرچقدر هم نور شدید باشد.",
+    "en": "The lowest frequency of light that can free electrons from a given metal: `f0 = W0 / h`. Below it no electron is freed, however intense the light.",
+    "tr": "Kamtarin basamad-e noori ke mitavanad az yek felez elektron joda konad: `f0 = W0 / h`. Zir-e an hich elektroni joda nemishavad, harcheghadr ham noor shadid bashad."
+   },
+   "contrast": {
+    "fa": "بسامد آستانه را فلز تعیین می‌کند، نه نور.",
+    "en": "The metal sets the threshold frequency, not the light.",
+    "tr": "Basamad-e astane ra felez ta'yin mikonad, na noor."
+   },
+   "unit": "phys-4-photons-threshold"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-photoelectric-effect",
+   "term": {
+    "fa": "اثر فوتوالکتریک",
+    "en": "photoelectric effect",
+    "tr": "asar-e photoelectric"
+   },
+   "explain": {
+    "fa": "جدا شدن الکترون از سطح فلز با تابش نور. هر فوتون یک الکترون را آزاد می‌کند و `K(max) = h f − W0`؛ پس `K(max)` با بسامد به‌صورت خطی زیاد می‌شود.",
+    "en": "Electrons being freed from a metal surface by light. Each photon frees one electron and `K(max) = h f − W0`; so `K(max)` rises linearly with frequency.",
+    "tr": "Joda shodan-e elektron az sath-e felez ba tabesh-e noor. Har foton yek elektron ra azad mikonad va `K(max) = h f − W0`; pas `K(max)` ba basamad be-soorat-e khatti ziyad mishavad."
+   },
+   "analogy": {
+    "fa": "هر فوتون با یک الکترون حساب می‌کند: همه یا هیچ.",
+    "en": "Each photon deals with one electron: all or nothing.",
+    "tr": "Har foton ba yek elektron hesab mikonad: hame ya hich."
+   },
+   "contrast": {
+    "fa": "شدت شمار الکترون‌ها را تعیین می‌کند؛ بسامد انرژی آن‌ها را.",
+    "en": "Intensity sets the number of electrons; frequency sets their energy.",
+    "tr": "Shedat shomar-e elektron-ha ra ta'yin mikonad; basamad enerzhi-ye an-ha ra."
+   },
+   "unit": "phys-4-kmax-stopping"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-kmax",
+   "term": {
+    "fa": "انرژی جنبشی بیشینه",
+    "en": "maximum kinetic energy",
+    "tr": "enerji-ye jonbeshi-ye bishineh"
+   },
+   "explain": {
+    "fa": "بیشترین انرژی جنبشی فوتوالکترون‌ها: `K(max) = h f − W0`. اگر طول موج نور کم شود، انرژی فوتون و در نتیجه `K(max)` زیاد می‌شود.",
+    "en": "The greatest kinetic energy of the photoelectrons: `K(max) = h f − W0`. If the light's wavelength decreases, the photon energy, and hence `K(max)`, increases.",
+    "tr": "Bishtarin enerzhi-ye jonbeshi-ye fotoelektron-ha: `K(max) = h f − W0`. Agar tool-e moj-e noor kam shavad, enerzhi-ye foton va dar natije `K(max)` ziyad mishavad."
+   },
+   "analogy": {
+    "fa": "پولی که پس از پرداخت بلیت خروج برای دویدن می‌ماند.",
+    "en": "The money left over to run with after paying the exit fee.",
+    "tr": "Pooli ke pas az pardakht-e belit-e khorooj baraye davidan mimanad."
+   },
+   "contrast": {
+    "fa": "`K(max)` با بسامد خطی است، نه متناسب.",
+    "en": "`K(max)` is linear in frequency, not proportional to it.",
+    "tr": "`K(max)` ba basamad khatti ast, na motenaseb."
+   },
+   "unit": "phys-4-kmax-stopping"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-light-intensity",
+   "term": {
+    "fa": "شدت نور",
+    "en": "light intensity",
+    "tr": "sheddat-e noor"
+   },
+   "explain": {
+    "fa": "شمار فوتون‌ها در هر ثانیه؛ بالای بسامد آستانه، شدت بیشتر یعنی فوتوالکترون‌های بیشتر در هر ثانیه، ولی `K(max)` و `V0` همان می‌مانند.",
+    "en": "The number of photons each second; above the threshold frequency, higher intensity means more photoelectrons each second, but `K(max)` and `V0` stay the same.",
+    "tr": "Shomar-e foton-ha dar har sanie; bala-ye basamad-e astane, shedat-e bishtar ya'ni fotoelektron-haye bishtar dar har sanie, vali `K(max)` va `V0` haman mimanand."
+   },
+   "contrast": {
+    "fa": "نور شدیدتر: الکترون‌های بیشتر، نه تندتر.",
+    "en": "Brighter light: more electrons, not faster ones.",
+    "tr": "Noor-e shadid-tar: elektron-haye bishtar, na tond-tar."
+   },
+   "unit": "phys-4-kmax-stopping"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-stopping-potential",
+   "term": {
+    "fa": "ولتاژ متوقف‌کننده",
+    "en": "stopping potential",
+    "tr": "voltage-e motevaghef-konandeh"
+   },
+   "explain": {
+    "fa": "ولتاژ معکوسی که تندترین فوتوالکترون‌ها را هم می‌ایستاند: `e V0 = K(max)`. با بسامد نور خطی تغییر می‌کند و به شدت نور بستگی ندارد.",
+    "en": "The reverse voltage that stops even the fastest photoelectrons: `e V0 = K(max)`. It varies linearly with the light's frequency and does not depend on its intensity.",
+    "tr": "Voltazh-e ma'koosi ke tond-tarin fotoelektron-ha ra ham miistanad: `e V0 = K(max)`. Ba basamad-e noor khatti taghyir mikonad va be shedat-e noor bastegi nadarad."
+   },
+   "contrast": {
+    "fa": "با انرژی بر حسب `eV`، عدد `V0` به ولت همان `K(max)` است.",
+    "en": "With energy in `eV`, the value of `V0` in volts equals `K(max)`.",
+    "tr": "Ba enerzhi bar hasab-e `eV`, adad-e `V0` be volt haman `K(max)` ast."
+   },
+   "unit": "phys-4-kmax-stopping"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-bohr-model",
+   "term": {
+    "fa": "مدل بور",
+    "en": "Bohr model",
+    "tr": "model-e Bohr"
+   },
+   "explain": {
+    "fa": "الکترون هیدروژن فقط در مدارهای مجاز با تکانهٔ زاویه‌ای کوانتیده می‌چرخد: `E(n) = −13.6 / n^2` الکترون‌ولت و `r(n) = n^2 r1`. بسامد فوتون گسیلی با اختلاف انرژی دو تراز متناسب است.",
+    "en": "Hydrogen's electron moves only in allowed orbits with quantized angular momentum: `E(n) = −13.6 / n^2` electronvolts and `r(n) = n^2 r1`. The emitted photon's frequency is proportional to the energy difference between two levels.",
+    "tr": "Elektron-e hidrozhen faghat dar madar-haye mojaz ba takane-ye zaviye-i-ye kvantide micharkhad: `E(n) = −13.6 / n^2` elektron-volt va `r(n) = n^2 r1`. Basamad-e foton-e gosili ba ekhtelaf-e enerzhi-ye do taraz motenaseb ast."
+   },
+   "matches": {
+    "en": [
+     "Bohr quantized orbits"
+    ]
+   },
+   "analogy": {
+    "fa": "پله‌های نردبان: الکترون روی پله می‌ایستد، نه میان آن‌ها.",
+    "en": "Ladder rungs: the electron stands on a rung, never between.",
+    "tr": "Pelle-haye nardeban: elektron rooye pelle miistad, na miyan-e an-ha."
+   },
+   "contrast": {
+    "fa": "شعاع با `n^2`؛ انرژی با `−1/n^2`.",
+    "en": "Radius goes with `n^2`; energy with `−1/n^2`.",
+    "tr": "Sho'a' ba `n^2`; enerzhi ba `−1/n^2`."
+   },
+   "unit": "phys-4-bohr-laser"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-photon-emission",
+   "term": {
+    "fa": "گسیل فوتون",
+    "en": "photon emission",
+    "tr": "gosil-e photon"
+   },
+   "explain": {
+    "fa": "وقتی الکترون از تراز پرانرژی‌تر به تراز کم‌انرژی‌تر می‌رود، فوتونی با انرژی برابر اختلاف دو تراز گسیل می‌کند: `h f = ΔE`. از `n = 3` به `n = 2`، حدود `1.89 eV`.",
+    "en": "When an electron drops from a higher energy level to a lower one, it emits a photon with energy equal to the difference between the levels: `h f = ΔE`. From `n = 3` to `n = 2`, about `1.89 eV`.",
+    "tr": "Vaghti elektron az taraz-e por-enerzhi-tar be taraz-e kam-enerzhi-tar miravad, footoni ba enerzhi-ye barabar-e ekhtelaf-e do taraz gosil mikonad: `h f = ΔE`. Az `n = 3` be `n = 2`, hodood-e `1.89 eV`."
+   },
+   "contrast": {
+    "fa": "بالا رفتن الکترون فوتون جذب می‌کند؛ پایین آمدن فوتون گسیل می‌کند.",
+    "en": "An electron going up absorbs a photon; going down emits one.",
+    "tr": "Bala raftan-e elektron foton jazb mikonad; payin amadan foton gosil mikonad."
+   },
+   "unit": "phys-4-bohr-laser"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-ionization-energy",
+   "term": {
+    "fa": "انرژی یونش",
+    "en": "ionization energy",
+    "tr": "enerji-ye yonesh"
+   },
+   "explain": {
+    "fa": "کمترین انرژی برای جدا کردن الکترون اتم هیدروژن از حالت پایه تا بی‌نهایت: `13.6 eV`.",
+    "en": "The minimum energy to remove a hydrogen atom's electron from the ground state to infinity: `13.6 eV`.",
+    "tr": "Kamtarin enerzhi baraye joda kardan-e elektron-e atom-e hidrozhen az halat-e paye ta bi-nahayat: `13.6 eV`."
+   },
+   "contrast": {
+    "fa": "از `n = 2` فقط `3.4 eV` لازم است.",
+    "en": "From `n = 2` only `3.4 eV` is needed.",
+    "tr": "Az `n = 2` faghat `3.4 eV` lazem ast."
+   },
+   "unit": "phys-4-bohr-laser"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-stimulated-emission",
+   "term": {
+    "fa": "گسیل القایی",
+    "en": "stimulated emission",
+    "tr": "gosil-e alghayi"
+   },
+   "explain": {
+    "fa": "اساس کار لیزر: فوتونی که از کنار اتم برانگیخته می‌گذرد، آن را وادار می‌کند فوتونی هم‌بسامد، هم‌جهت و هم‌فاز گسیل کند؛ نور حاصل تک‌رنگ و هم‌دوس است.",
+    "en": "How a laser works: a photon passing an excited atom makes it emit a photon of the same frequency, direction and phase; the resulting light is monochromatic and coherent.",
+    "tr": "Asas-e kar-e leyzer: footoni ke az kenar-e atom-e barangikhte migozarad, an ra vadar mikonad footoni ham-basamad, ham-jahat va ham-faz gosil konad; noor-e hasel tak-rang va ham-doos ast."
+   },
+   "analogy": {
+    "fa": "سربازانی که هم‌قدم رژه می‌روند.",
+    "en": "Soldiers marching in step.",
+    "tr": "Sarbazani ke ham-ghadam reje miravand."
+   },
+   "unit": "phys-4-bohr-laser"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-atomic-number",
+   "term": {
+    "fa": "عدد اتمی",
+    "en": "atomic number",
+    "tr": "adad-e atomi"
+   },
+   "explain": {
+    "fa": "شمار پروتون‌های هسته (`Z`)؛ عنصر را به‌طور یکتا مشخص می‌کند.",
+    "en": "The number of protons in the nucleus (`Z`); it uniquely identifies the element.",
+    "tr": "Shomar-e proton-haye haste (`Z`); onsor ra be-towr-e yekta moshakhas mikonad."
+   },
+   "contrast": {
+    "fa": "پروتون متفاوت یعنی عنصر متفاوت.",
+    "en": "Different protons means a different element.",
+    "tr": "Proton-e motafavet ya'ni onsor-e motafavet."
+   },
+   "unit": "phys-4-nucleus"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-mass-number",
+   "term": {
+    "fa": "عدد جرمی",
+    "en": "mass number",
+    "tr": "adad-e jermi"
+   },
+   "explain": {
+    "fa": "مجموع پروتون‌ها و نوترون‌های هسته (`A`)؛ شمار نوترون‌ها `N = A − Z`. اورانیم-۲۳۵ با `Z = 92`، `143` نوترون دارد.",
+    "en": "The total number of protons and neutrons in the nucleus (`A`); the number of neutrons is `N = A − Z`. Uranium-235 with `Z = 92` has `143` neutrons.",
+    "tr": "Majmoo'-e proton-ha va notron-haye haste (`A`); shomar-e notron-ha `N = A − Z`. Oraniyom-235 ba `Z = 92`, `143` notron darad."
+   },
+   "unit": "phys-4-nucleus"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-isotopes",
+   "term": {
+    "fa": "ایزوتوپ",
+    "en": "isotopes",
+    "tr": "isotope"
+   },
+   "explain": {
+    "fa": "اتم‌های یک عنصر با عدد اتمی یکسان ولی عدد جرمی متفاوت، یعنی شمار نوترون متفاوت؛ مثل کربن-۱۲ و کربن-۱۴.",
+    "en": "Atoms of one element with the same atomic number but a different mass number, i.e. a different number of neutrons; like carbon-12 and carbon-14.",
+    "tr": "Atom-haye yek onsor ba adad-e atomi-ye yeksan vali adad-e jermi-ye motafavet, ya'ni shomar-e notron-e motafavet; mesl-e karbon-12 va karbon-14."
+   },
+   "analogy": {
+    "fa": "دو برادر با یک نام خانوادگی و وزن متفاوت.",
+    "en": "Two brothers with the same surname but different weights.",
+    "tr": "Do baradar ba yek nam-e khanevadegi va vazn-e motafavet."
+   },
+   "unit": "phys-4-nucleus"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-strong-nuclear-force",
+   "term": {
+    "fa": "نیروی هسته‌ای قوی",
+    "en": "strong nuclear force",
+    "tr": "niroo-ye hastei-ye ghavi"
+   },
+   "explain": {
+    "fa": "نیروی جاذبهٔ بسیار قوی و بسیار کوتاه‌بُرد میان همهٔ نوکلئون‌ها (پروتون و نوترون) که هسته را با وجود دافعهٔ الکتریکی پروتون‌ها نگه می‌دارد.",
+    "en": "The very strong, very short-range attraction between all nucleons (protons and neutrons) that holds the nucleus together despite the protons' electrical repulsion.",
+    "tr": "Niroo-ye jazebe-ye besiyar ghavi va besiyar kootah-bord miyan-e hame-ye nokle'on-ha (proton va notron) ke haste ra ba vojood-e dafe'e-ye elektriki-ye proton-ha negah midarad."
+   },
+   "analogy": {
+    "fa": "چسبی قوی‌تر از دافعهٔ آهن‌رباهای هم‌نام، ولی فقط از فاصلهٔ خیلی نزدیک.",
+    "en": "A glue stronger than like magnets pushing apart, but only at very close range.",
+    "tr": "Chasbi ghavi-tar az dafe'e-ye ahan-roba-haye ham-nam, vali faghat az fasele-ye kheyli nazdik."
+   },
+   "unit": "phys-4-nucleus"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-mass-defect",
+   "term": {
+    "fa": "کاستی جرم",
+    "en": "mass defect",
+    "tr": "kasti-ye jerm"
+   },
+   "explain": {
+    "fa": "جرم هسته کمی کمتر از مجموع جرم نوکلئون‌هایش است؛ این کاستی (`Δm`) همان انرژی بستگی است: `E = Δm c^2`، و `1 u` معادل حدود `931 MeV`.",
+    "en": "A nucleus has slightly less mass than the sum of its nucleons; this shortfall (`Δm`) is the binding energy: `E = Δm c^2`, with `1 u` equivalent to about `931 MeV`.",
+    "tr": "Jerm-e haste kami kamtar az majmoo'-e jerm-e nokle'on-hayash ast; in kasti (`Δm`) haman enerzhi-ye bastegi ast: `E = Δm c^2`, va `1 u` mo'adel-e hodood-e `931 MeV`."
+   },
+   "contrast": {
+    "fa": "جرم گم نشده؛ به انرژی بستگی تبدیل شده است.",
+    "en": "The mass has not vanished; it has become binding energy.",
+    "tr": "Jerm gom nashode; be enerzhi-ye bastegi tabdil shode ast."
+   },
+   "unit": "phys-4-nucleus"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-alpha-decay",
+   "term": {
+    "fa": "واپاشی آلفا",
+    "en": "alpha decay equation",
+    "tr": "vapashi-ye alfa"
+   },
+   "explain": {
+    "fa": "گسیل یک هستهٔ هلیم (دو پروتون و دو نوترون): `Z` دو تا و `A` چهار تا کم می‌شود.",
+    "en": "The emission of a helium nucleus (two protons and two neutrons): `Z` drops by two and `A` by four.",
+    "tr": "Gosil-e yek haste-ye heliyom (do proton va do notron): `Z` do ta va `A` chahar ta kam mishavad."
+   },
+   "contrast": {
+    "fa": "آلفا: `Z − 2`، `A − 4`.",
+    "en": "Alpha: `Z − 2`, `A − 4`.",
+    "tr": "Alfa: `Z − 2`, `A − 4`."
+   },
+   "unit": "phys-4-radioactivity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-beta-decay",
+   "term": {
+    "fa": "واپاشی بتا",
+    "en": "beta decay",
+    "tr": "vapashi-ye beta"
+   },
+   "explain": {
+    "fa": "در بتای منفی یک نوترون به پروتون و الکترون تبدیل می‌شود و الکترون بیرون می‌رود: `Z` یکی زیاد می‌شود و `A` ثابت می‌ماند.",
+    "en": "In beta-minus decay a neutron turns into a proton and an electron, and the electron leaves: `Z` rises by one and `A` stays the same.",
+    "tr": "Dar beta-ye manfi yek notron be proton va elektron tabdil mishavad va elektron biroon miravad: `Z` yeki ziyad mishavad va `A` sabet mimanad."
+   },
+   "contrast": {
+    "fa": "بتای منفی `Z` را زیاد می‌کند، نه کم.",
+    "en": "Beta-minus raises `Z`, it does not lower it.",
+    "tr": "Beta-ye manfi `Z` ra ziyad mikonad, na kam."
+   },
+   "unit": "phys-4-radioactivity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-gamma-decay",
+   "term": {
+    "fa": "واپاشی گاما",
+    "en": "gamma decay",
+    "tr": "vapashi-ye gamma"
+   },
+   "explain": {
+    "fa": "گسیل پرتو گاما، موجی الکترومغناطیسی و پرانرژی بی بار و بی جرم؛ `Z` و `A` تغییر نمی‌کنند، فقط هسته انرژی از دست می‌دهد.",
+    "en": "The emission of a gamma ray, a high-energy electromagnetic wave with no charge and no mass; `Z` and `A` do not change, the nucleus only loses energy.",
+    "tr": "Gosil-e partow-e gama, moji elektromeghnatisi va por-enerzhi bi bar va bi jerm; `Z` va `A` taghyir nemikonand, faghat haste enerzhi az dast midahad."
+   },
+   "unit": "phys-4-radioactivity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-gamma-application",
+   "term": {
+    "fa": "پرتو گاما",
+    "en": "gamma ray application",
+    "tr": "partov-e gamma"
+   },
+   "explain": {
+    "fa": "پرتو گاما به خاطر نفوذ بسیار زیاد و بی‌باری، در پزشکی برای پرتودرمانی سرطان به کار می‌رود.",
+    "en": "Because of their great penetrating power and lack of charge, gamma rays are used in medicine for cancer radiotherapy.",
+    "tr": "Partow-e gama be khater-e nofooz-e besiyar ziyad va bi-bari, dar pezeshki baraye partow-darmani-ye saratan be kar miravad."
+   },
+   "unit": "phys-4-radioactivity"
+  },
+  {
+   "subject": "Physics",
+   "key": "phys-g-half-life",
+   "term": {
+    "fa": "نیمه‌عمر",
+    "en": "half-life",
+    "tr": "nime-omr"
+   },
+   "explain": {
+    "fa": "زمانی که نصف هسته‌های پرتوزای نمونه واپاشیده شوند: `N = N0 × (1/2)^(t/T)`. پس از سه نیمه‌عمر `1/8` باقی می‌ماند.",
+    "en": "The time for half the radioactive nuclei in a sample to decay: `N = N0 × (1/2)^(t/T)`. After three half-lives `1/8` remains.",
+    "tr": "Zamani ke nesf-e haste-haye partoza-ye nemoone vapashide shavand: `N = N0 × (1/2)^(t/T)`. Pas az se nime-omr `1/8` baghi mimanad."
+   },
+   "matches": {
+    "tr": [
+     "nimeh-omr"
+    ]
+   },
+   "analogy": {
+    "fa": "پیتزایی که هر بار نصف باقی‌مانده‌اش خورده می‌شود.",
+    "en": "A pizza where half of what is left is eaten each time.",
+    "tr": "Pitzayi ke har bar nesf-e baghi-mande-ash khorde mishavad."
+   },
+   "contrast": {
+    "fa": "پس از دو نیمه‌عمر `1/4` می‌ماند، نه صفر.",
+    "en": "After two half-lives `1/4` remains, not zero.",
+    "tr": "Pas az do nime-omr `1/4` mimanad, na sefr."
+   },
+   "unit": "phys-4-radioactivity"
+  }
+ ]
+}
