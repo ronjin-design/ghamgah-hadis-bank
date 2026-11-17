@@ -1,10 +1,10 @@
 {
  "format": 1,
- "versionCode": 2038,
- "versionName": "3.16.0",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2038/Ghamgah-E-Hadis.apk",
+ "versionCode": 2039,
+ "versionName": "3.16.1",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2039/Ghamgah-E-Hadis.apk",
  "size": 43261870,
- "sha256": "ab60130d97c4c075165adc07ba9f1f587a3ffdfc9a294e892781d5ebbf61e749",
+ "sha256": "cba5beecf34b43a0b912c5c758d821e37c3631dea84e29d3c4951c68015956dc",
  "notes": {
   "fa": "نمودارهای متحرک: ۱۲ نمودار درس‌های فیزیک، شیمی و زیست حالا جان می‌گیرند؛ مثل نوسان فنر، شکست نور، پرش الکترون، سلول گالوانی، تعادل پویا، چنگال همانندسازی، ریبوزوم و توربین ATP. دکمهٔ مکث و نسخهٔ متنی هم هست.",
   "en": "Animated diagrams: 12 lesson diagrams in Physics, Chemistry and Biology now move, from the spring and refraction to the electron jump, galvanic cell, dynamic equilibrium, replication fork, ribosome and the ATP turbine. Pause and text-version buttons included.",
