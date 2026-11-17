@@ -1,0 +1,1656 @@
+{
+ "version": 153,
+ "format": 9,
+ "glossary": [
+  {
+   "subject": "Persian",
+   "key": "per-g-khezlan",
+   "term": {
+    "fa": "خذلان",
+    "en": "khezlan (being left helpless)",
+    "tr": "khezlan"
+   },
+   "explain": {
+    "fa": "«خذلان»: خواری و بی‌یاور ماندن. همزادش «گمراهی» است: «خذلان و گمراهی»",
+    "en": "\"khezlan\": disgrace, being left without help. Its twin is \"gomrahi\": \"khezlan va gomrahi\"",
+    "tr": "\"khezlan\": khari va bi-yavar mandan. Hamzadash \"gomrahi\" ast: \"khezlan va gomrahi\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-behjat",
+   "term": {
+    "fa": "بهجت",
+    "en": "behjat (joy)",
+    "tr": "behjat"
+   },
+   "explain": {
+    "fa": "«بهجت»: شادی و خرمی. همزادش «سرور» است: «بهجت و سرور»",
+    "en": "\"behjat\": joy, delight. Its twin is \"soroor\" (gladness): \"behjat va soroor\"",
+    "tr": "\"behjat\": shadi va khorrami. Hamzadash \"soroor\" ast: \"behjat va soroor\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-olfat",
+   "term": {
+    "fa": "الفت",
+    "en": "olfat (fond familiarity)",
+    "tr": "olfat"
+   },
+   "explain": {
+    "fa": "«الفت»: دوستی و انس. همزادش «صمیمیت» است: «الفت و صمیمیت»",
+    "en": "\"olfat\": friendship, fond familiarity. Its twin is \"samimiyat\" (warmth): \"olfat va samimiyat\"",
+    "tr": "\"olfat\": doosti va ons. Hamzadash \"samimiyat\" ast: \"olfat va samimiyat\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-kodoorat",
+   "term": {
+    "fa": "کدورت",
+    "en": "kodoorat (ill feeling)",
+    "tr": "kodoorat"
+   },
+   "explain": {
+    "fa": "«کدورت»: تیرگی و رنجش خاطر. همزادش «کینه» است: «کدورت و کینه»",
+    "en": "\"kodoorat\": gloom, ill feeling. Its twin is \"kine\" (grudge): \"kodoorat va kine\"",
+    "tr": "\"kodoorat\": tiregi va ranjesh-e khater. Hamzadash \"kine\" ast: \"kodoorat va kine\""
+   },
+   "contrast": {
+    "fa": "متضادش «پاکی و روشنی» است.",
+    "en": "Its opposite is \"purity and brightness\".",
+    "tr": "Motazadash \"paki va roshani\" ast."
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-taab",
+   "term": {
+    "fa": "تعب",
+    "en": "ta'ab (toil, weariness)",
+    "tr": "ta'ab"
+   },
+   "explain": {
+    "fa": "«تعب»: رنج و سختی. همزادش «خستگی» است: «تعب و خستگی»",
+    "en": "\"ta'ab\": toil, hardship. Its twin is \"khastegi\" (tiredness): \"ta'ab va khastegi\"",
+    "tr": "\"ta'ab\": ranj va sakhti. Hamzadash \"khastegi\" ast: \"ta'ab va khastegi\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-ghadr",
+   "term": {
+    "fa": "غدر",
+    "en": "ghadr (treachery)",
+    "tr": "ghadr"
+   },
+   "explain": {
+    "fa": "«غدر»: پیمان‌شکنی، خیانت. همزادش «مکر» است: «غدر و مکر»",
+    "en": "\"ghadr\": breaking faith, treachery. Its twin is \"makr\" (deceit): \"ghadr va makr\"",
+    "tr": "\"ghadr\": peyman-shekani, khiyanat. Hamzadash \"makr\" ast: \"ghadr va makr\""
+   },
+   "contrast": {
+    "fa": "«غدر» را با «قدر» (ارزش) اشتباه نکن.",
+    "en": "Do not confuse \"ghadr\" (treachery, with ghein) with \"ghadr\" (worth, with ghaf).",
+    "tr": "\"Ghadr\" (ba ghein) ra ba \"ghadr\" (arzesh, ba ghaf) eshtebah nakon."
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-salabat",
+   "term": {
+    "fa": "صلابت",
+    "en": "salabat (firmness)",
+    "tr": "salabat"
+   },
+   "explain": {
+    "fa": "«صلابت»: استواری و سختی. همزادش «پایداری» است: «صلابت و پایداری»",
+    "en": "\"salabat\": firmness, solidity. Its twin is \"paydari\" (steadfastness): \"salabat va paydari\"",
+    "tr": "\"salabat\": ostovari va sakhti. Hamzadash \"paydari\" ast: \"salabat va paydari\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-zaval",
+   "term": {
+    "fa": "زوال",
+    "en": "zaval (decline, passing away)",
+    "tr": "zaval"
+   },
+   "explain": {
+    "fa": "«زوال»: نابودی و از میان رفتن. همزادش «دگرگونی» است: «زوال و دگرگونی»",
+    "en": "\"zaval\": decline, passing away. Its twin is \"degargooni\" (change): \"zaval va degargooni\"",
+    "tr": "\"zaval\": nabudi va az miyan raftan. Hamzadash \"degargooni\" ast: \"zaval va degargooni\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-ajz",
+   "term": {
+    "fa": "عجز",
+    "en": "ajz (helplessness)",
+    "tr": "ajz"
+   },
+   "explain": {
+    "fa": "«عجز»: ناتوانی و درماندگی. همزادش «ناتوانی» است: «عجز و ناتوانی»",
+    "en": "\"ajz\": helplessness, inability. Its twin is \"natavani\" (weakness): \"ajz va natavani\"",
+    "tr": "\"ajz\": natavani va darmandegi. Hamzadash \"natavani\" ast: \"ajz va natavani\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-satvat",
+   "term": {
+    "fa": "سطوت",
+    "en": "satvat (majesty)",
+    "tr": "satvat"
+   },
+   "explain": {
+    "fa": "«سطوت»: شکوه و هیبت. همزادش «عظمت» است: «سطوت و عظمت»",
+    "en": "\"satvat\": majesty, awe. Its twin is \"azamat\" (grandeur): \"satvat va azamat\"",
+    "tr": "\"satvat\": shokooh va heybat. Hamzadash \"azamat\" ast: \"satvat va azamat\""
+   },
+   "contrast": {
+    "fa": "با «صولت» (حمله و تندی) فرق دارد.",
+    "en": "Different from \"sowlat\" (onslaught, fury).",
+    "tr": "Ba \"sowlat\" (hamle va tondi) fargh darad."
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tomanine",
+   "term": {
+    "fa": "طمأنینه",
+    "en": "toma'nine (calm)",
+    "tr": "toma'nine"
+   },
+   "explain": {
+    "fa": "«طمأنینه»: آرامش و آسودگی دل. همزادش «سکوت» است: «طمأنینه و سکوت»؛ همزه روی الف دارد",
+    "en": "\"toma'nine\": calm, peace of heart. Its twin is \"sokoot\" (silence): \"toma'nine va sokoot\"; it has a hamza on alef",
+    "tr": "\"toma'nine\": aramesh va asoodegi-ye del. Hamzadash \"sokoot\" ast: \"toma'nine va sokoot\"; hamze rooye alef darad"
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-rafat",
+   "term": {
+    "fa": "رأفت",
+    "en": "ra'fat (kindness)",
+    "tr": "ra'fat"
+   },
+   "explain": {
+    "fa": "«رأفت»: مهربانی و دلسوزی. در متن کنار «سعهٔ صدر» می‌آید؛ همزه روی الف دارد",
+    "en": "\"ra'fat\": kindness, compassion. In the text it comes beside \"se'e-ye sadr\" (open-heartedness); it has a hamza on alef",
+    "tr": "\"ra'fat\": mehrabani va delsoozi. Dar matn kenar-e \"se'e-ye sadr\" miayad; hamze rooye alef darad"
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-obohhat",
+   "term": {
+    "fa": "ابهت",
+    "en": "obohhat (grandeur)",
+    "tr": "obohhat"
+   },
+   "explain": {
+    "fa": "«ابهت»: شکوه و عظمت. همزادش «بزرگی» است: «ابهت و بزرگی»",
+    "en": "\"obohhat\": grandeur, majesty. Its twin is \"bozorgi\" (greatness): \"obohhat va bozorgi\"",
+    "tr": "\"obohhat\": shokooh va azamat. Hamzadash \"bozorgi\" ast: \"obohhat va bozorgi\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mazallat",
+   "term": {
+    "fa": "مذلت",
+    "en": "mazallat (humiliation)",
+    "tr": "mazallat"
+   },
+   "explain": {
+    "fa": "«مذلت»: خواری و پستی. همزادش «سرافکندگی» است: «مذلت و سرافکندگی»",
+    "en": "\"mazallat\": humiliation, abasement. Its twin is \"sarafkandegi\" (shame): \"mazallat va sarafkandegi\"",
+    "tr": "\"mazallat\": khari va pasti. Hamzadash \"sarafkandegi\" ast: \"mazallat va sarafkandegi\""
+   },
+   "contrast": {
+    "fa": "متضادش «سربلندی» است.",
+    "en": "Its opposite is \"sarbolandi\" (pride).",
+    "tr": "Motazadash \"sarbolandi\" ast."
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-maskanat",
+   "term": {
+    "fa": "مسکنت",
+    "en": "maskanat (wretched poverty)",
+    "tr": "maskanat"
+   },
+   "explain": {
+    "fa": "«مسکنت»: بیچارگی و تهیدستی. هم‌خانوادهٔ «مسکین» و همزاد «مذلت»",
+    "en": "\"maskanat\": misery, wretched poverty. Related to \"meskin\" (poor) and twinned with \"mazallat\"",
+    "tr": "\"maskanat\": bicharegi va tahidasti. Ham-khanevade-ye \"meskin\" va hamzad-e \"mazallat\""
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-zalalat",
+   "term": {
+    "fa": "ضلالت",
+    "en": "zalalat (going astray)",
+    "tr": "zalalat"
+   },
+   "explain": {
+    "fa": "«ضلالت»: گمراهی. همزادش در متن «گمراهی» است: «ضلالت و گمراهی»",
+    "en": "\"zalalat\": going astray. Its twin in the text is \"gomrahi\": \"zalalat va gomrahi\"",
+    "tr": "\"zalalat\": gomrahi. Hamzadash dar matn \"gomrahi\" ast: \"zalalat va gomrahi\""
+   },
+   "contrast": {
+    "fa": "متضادش «راه راست» است.",
+    "en": "Its opposite is \"the right path\".",
+    "tr": "Motazadash \"rah-e rast\" ast."
+   },
+   "unit": "per-1-twin-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-eghlim",
+   "term": {
+    "fa": "اقلیم",
+    "en": "eghlim (land, region)",
+    "tr": "eghlim"
+   },
+   "explain": {
+    "fa": "«اقلیم»: سرزمین، ناحیه. در متن کویر: «این اقلیم پررمز و راز»؛ یعنی یک سرزمین",
+    "en": "\"eghlim\": land, region. In the Kavir text: \"this mysterious eghlim\"; a land",
+    "tr": "\"eghlim\": sarzamin, nahiye. Dar matn-e Kavir: \"in eghlim-e por-ramz-o-raz\"; ya'ni yek sarzamin"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-vadie",
+   "term": {
+    "fa": "ودیعه",
+    "en": "vadi'e (something held in trust)",
+    "tr": "vadi'e"
+   },
+   "explain": {
+    "fa": "«ودیعه»: امانت، سپرده. جمله خودش می‌گوید: «به امانت گذاشته شده»",
+    "en": "\"vadi'e\": something held in trust. The sentence says it itself: \"left in trust\"",
+    "tr": "\"vadi'e\": amanat, seporde. Jomle khodash miguyad: \"be amanat gozashte shode\""
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tamanna",
+   "term": {
+    "fa": "تمنا",
+    "en": "tamanna (longing)",
+    "tr": "tamanna"
+   },
+   "explain": {
+    "fa": "«تمنا»: آرزو و خواهش. در جمله: «تمنای مادیات»؛ یعنی خواستن",
+    "en": "\"tamanna\": longing, desire. In the sentence: \"tamanna of material things\"; wanting",
+    "tr": "\"tamanna\": arezoo va khahesh. Dar jomle: \"tamanna-ye maddiyat\"; ya'ni khastan"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-khalal",
+   "term": {
+    "fa": "خلل",
+    "en": "khalal (a flaw, a breach)",
+    "tr": "khalal"
+   },
+   "explain": {
+    "fa": "«خلل»: رخنه و آسیب. صحنه: طوفان نتوانست در اراده «خللی» پدید آورد؛ یعنی رخنه",
+    "en": "\"khalal\": a breach, damage. The scene: the storm could not make a \"khalal\" in his will; a breach",
+    "tr": "\"khalal\": rakhne va asib. Sahne: toofan natavanest dar erade \"khalali\" padid avarad; ya'ni rakhne"
+   },
+   "contrast": {
+    "fa": "متضادش «استواری» است.",
+    "en": "Its opposite is \"ostovari\" (firmness).",
+    "tr": "Motazadash \"ostovari\" ast."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-nozhat",
+   "term": {
+    "fa": "نزهت",
+    "en": "nozhat (pleasantness)",
+    "tr": "nozhat"
+   },
+   "explain": {
+    "fa": "«نزهت»: خرمی و شادابی، صفا. صحنه: چشمه‌ای زلال در شوره‌زار مایهٔ «نزهت خاطر»",
+    "en": "\"nozhat\": pleasantness, freshness. The scene: a clear spring in a salt desert gives \"nozhat\" of mind",
+    "tr": "\"nozhat\": khorrami va shadabi, safa. Sahne: cheshme-i zolal dar shoore-zar maye-ye \"nozhat-e khater\""
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-semajat",
+   "term": {
+    "fa": "سماجت",
+    "en": "semajat (persistence)",
+    "tr": "semajat"
+   },
+   "explain": {
+    "fa": "«سماجت»: پافشاری و سرسختی. صحنه: گیاهان خاردار در بیابان داغ با «سماجت» زنده می‌مانند",
+    "en": "\"semajat\": persistence, stubbornness. The scene: thorny plants in a hot desert survive with \"semajat\"",
+    "tr": "\"semajat\": pafeshari va sarsakhti. Sahne: giahan-e khardar dar biaban-e dagh ba \"semajat\" zende mimanand"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-samoom",
+   "term": {
+    "fa": "سموم",
+    "en": "samoom (scorching wind)",
+    "tr": "samoom"
+   },
+   "explain": {
+    "fa": "«سموم»: باد سوزان و زهرآگین. صحنهٔ کویر تفته؛ پس باد داغ، نه سرد",
+    "en": "\"samoom\": a burning, poisonous wind. A burning-desert scene; so a hot wind, not a cold one",
+    "tr": "\"samoom\": bad-e soozan va zahragin. Sahne-ye kavir-e tafte; pas bad-e dagh, na sard"
+   },
+   "contrast": {
+    "fa": "با «سموم» به معنای «زهرها» یکی نوشته می‌شود؛ معنا از صحنه.",
+    "en": "Spelt like \"somoom\" (poisons); the scene decides the meaning.",
+    "tr": "Ba \"somoom\" be ma'na-ye \"zahr-ha\" yeki neveshte mishavad; ma'na az sahne."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-jazbe",
+   "term": {
+    "fa": "جذبه",
+    "en": "jazbe (pull, allure)",
+    "tr": "jazbe"
+   },
+   "explain": {
+    "fa": "«جذبه»: کشش و گیرایی. هم‌خانوادهٔ «جذب»؛ صحنه: کشش آسمان شب",
+    "en": "\"jazbe\": pull, allure. Related to \"jazb\" (attraction); the scene: the pull of the night sky",
+    "tr": "\"jazbe\": keshesh va girayi. Ham-khanevade-ye \"jazb\"; sahne: keshesh-e aseman-e shab"
+   },
+   "contrast": {
+    "fa": "متضادش «دفع و راندن» است.",
+    "en": "Its opposite is \"repelling\".",
+    "tr": "Motazadash \"daf' va randan\" ast."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-khalse",
+   "term": {
+    "fa": "خلسه",
+    "en": "khalse (rapture, trance)",
+    "tr": "khalse"
+   },
+   "explain": {
+    "fa": "«خلسه»: بیخودی و فرو رفتن در خود. صحنه: جان در خلسهٔ رازآمیز آسمان فرو می‌رود",
+    "en": "\"khalse\": rapture, trance. The scene: the soul sinks into the mysterious khalse of the sky",
+    "tr": "\"khalse\": bikhodi va foroo raftan dar khod. Sahne: jan dar khalse-ye razamiz-e aseman foroo miravad"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-veghar",
+   "term": {
+    "fa": "وقار",
+    "en": "veghar (dignified calm)",
+    "tr": "veghar"
+   },
+   "explain": {
+    "fa": "«وقار»: سنگینی و متانت. صحنهٔ شب آرام و باشکوه کویر",
+    "en": "\"veghar\": dignified calm, composure. The calm, majestic desert night",
+    "tr": "\"veghar\": sangini va metanat. Sahne-ye shab-e aram va ba-shokooh-e kavir"
+   },
+   "contrast": {
+    "fa": "متضادش «سبکی و جلفی» است.",
+    "en": "Its opposite is \"lightness and frivolity\".",
+    "tr": "Motazadash \"sabki va jelfi\" ast."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-badavi",
+   "term": {
+    "fa": "بدوی",
+    "en": "badavi (primitive, nomadic)",
+    "tr": "badavi"
+   },
+   "explain": {
+    "fa": "«بدوی»: ابتدایی و چادرنشینی. صحنه: سیاه‌چادرهای عشایر",
+    "en": "\"badavi\": primitive, nomadic. The scene: the black tents of nomads",
+    "tr": "\"badavi\": ebtedayi va chador-neshini. Sahne: siah-chador-haye ashayer"
+   },
+   "contrast": {
+    "fa": "متضادش «شهری و صنعتی» است.",
+    "en": "Its opposite is \"urban and industrial\".",
+    "tr": "Motazadash \"shahri va san'ati\" ast."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-ferasat",
+   "term": {
+    "fa": "فراست",
+    "en": "insight (ferasat)",
+    "tr": "ferasat"
+   },
+   "explain": {
+    "fa": "«فراست»: زیرکی و تیزبینی. صحنه: پزشک حاذق بیماری را «به فراست» دریافت",
+    "en": "\"ferasat\": insight, shrewdness. The scene: the skilled doctor grasped the illness \"by ferasat\"",
+    "tr": "\"ferasat\": ziraki va tizbini. Sahne: pezeshk-e hazegh bimari ra \"be ferasat\" daryaft"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-talie",
+   "term": {
+    "fa": "طلیعه",
+    "en": "tali'e (first sign, dawn)",
+    "tr": "tali'e"
+   },
+   "explain": {
+    "fa": "«طلیعه»: آغاز و نخستین نشانهٔ هر چیز. صحنه: چشمان خسته در پی «طلیعهٔ امید»",
+    "en": "\"tali'e\": the first sign, the dawn of something. The scene: tired eyes searching for the \"tali'e of hope\"",
+    "tr": "\"tali'e\": aghaz va nakhostin neshane-ye har chiz. Sahne: cheshman-e khaste dar pey-e \"tali'e-ye omid\""
+   },
+   "contrast": {
+    "fa": "متضادش «پایان کار» است.",
+    "en": "Its opposite is \"the end\".",
+    "tr": "Motazadash \"payan-e kar\" ast."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-ons",
+   "term": {
+    "fa": "انس",
+    "en": "ons (close companionship)",
+    "tr": "ons"
+   },
+   "explain": {
+    "fa": "«انس»: خو گرفتن و همدمی. صحنه: پیوند انس با دیگران",
+    "en": "\"ons\": close companionship. The scene: a bond of ons with others",
+    "tr": "\"ons\": khoo gereftan va hamdami. Sahne: peyvand-e ons ba digaran"
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-sowlat",
+   "term": {
+    "fa": "صولت",
+    "en": "sowlat (fury, onslaught)",
+    "tr": "sowlat"
+   },
+   "explain": {
+    "fa": "«صولت»: حمله و تندی، هیبت. صحنه: بادهای شبانه بر چادرهای عشایر",
+    "en": "\"sowlat\": fury, onslaught. The scene: night winds against the nomads' tents",
+    "tr": "\"sowlat\": hamle va tondi, heybat. Sahne: bad-haye shabane bar chador-haye ashayer"
+   },
+   "contrast": {
+    "fa": "با «سطوت» (شکوه) فرق دارد.",
+    "en": "Different from \"satvat\" (majesty).",
+    "tr": "Ba \"satvat\" (shokooh) fargh darad."
+   },
+   "unit": "per-1-scene-meaning"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-motanabbeh",
+   "term": {
+    "fa": "متنبه",
+    "en": "motanabbeh (awakened, warned)",
+    "tr": "motanabbeh"
+   },
+   "explain": {
+    "fa": "«متنبه»: آگاه و بیدار شده، پند گرفته. از ریشهٔ «نبه» (بیداری)؛ هم‌خانوادهٔ «تنبیه»",
+    "en": "\"motanabbeh\": awakened, brought to one's senses. From the root \"n-b-h\" (waking); related to \"tanbih\"",
+    "tr": "\"motanabbeh\": agah va bidar shode, pand gerefte. Az rishe-ye \"n-b-h\" (bidari); ham-khanevade-ye \"tanbih\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-saman-bakhs",
+   "term": {
+    "fa": "ثمن بخس",
+    "en": "saman-e bakhs (a paltry price)",
+    "tr": "saman-e bakhs"
+   },
+   "explain": {
+    "fa": "«ثمن بخس»: بهایی بسیار اندک و ناچیز. «ثمن» یعنی بها و «بخس» یعنی اندک",
+    "en": "\"saman-e bakhs\": a paltry price. \"Saman\" means price and \"bakhs\" means little",
+    "tr": "\"saman-e bakhs\": bahayi besyar andak va nachiz. \"Saman\" ya'ni baha va \"bakhs\" ya'ni andak"
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mamloo",
+   "term": {
+    "fa": "مملو",
+    "en": "mamloo (full)",
+    "tr": "mamloo"
+   },
+   "explain": {
+    "fa": "«مملو»: پر و آکنده. از ریشهٔ «ملأ» (پر شدن)",
+    "en": "\"mamloo\": full, filled. From the root \"m-l-a\" (filling)",
+    "tr": "\"mamloo\": por va akande. Az rishe-ye \"m-l-a\" (por shodan)"
+   },
+   "contrast": {
+    "fa": "متضادش «تهی» است.",
+    "en": "Its opposite is \"tohi\" (empty).",
+    "tr": "Motazadash \"tohi\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mastoor",
+   "term": {
+    "fa": "مستور",
+    "en": "mastoor (hidden)",
+    "tr": "mastoor"
+   },
+   "explain": {
+    "fa": "«مستور»: پوشیده و پنهان. از ریشهٔ «ستر» (پوشاندن)، وزن «مفعول»",
+    "en": "\"mastoor\": hidden, covered. From the root \"s-t-r\" (covering), on the \"maf'ool\" pattern",
+    "tr": "\"mastoor\": pooshide va penhan. Az rishe-ye \"s-t-r\" (poushandan), vazn-e \"maf'ool\""
+   },
+   "contrast": {
+    "fa": "متضادش «آشکار» است.",
+    "en": "Its opposite is \"ashkar\" (obvious).",
+    "tr": "Motazadash \"ashkar\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-zakharef",
+   "term": {
+    "fa": "زخارف",
+    "en": "zakharef (worldly glitter)",
+    "tr": "zakharef"
+   },
+   "explain": {
+    "fa": "«زخارف»: زیورها و آرایش‌های ناپایدار دنیا. جمع مکسّر «زخرف» (زیور)",
+    "en": "\"zakharef\": the passing ornaments of the world. The broken plural of \"zokhrof\" (ornament)",
+    "tr": "\"zakharef\": zivar-ha va arayesh-haye napaydar-e donya. Jam'-e mokassar-e \"zokhrof\" (zivar)"
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-movasat",
+   "term": {
+    "fa": "مواسات",
+    "en": "movasat (sharing, fellow feeling)",
+    "tr": "movasat"
+   },
+   "explain": {
+    "fa": "«مواسات»: همدردی و یاری برادرانه. وزن «مفاعله»: کاری که با دیگری انجام می‌شود",
+    "en": "\"movasat\": fellow feeling, brotherly help. The \"mofa'ala\" pattern: something done with another person",
+    "tr": "\"movasat\": hamdardi va yari-ye baradarane. Vazn-e \"mofa'ala\": kari ke ba digari anjam mishavad"
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mofakherat",
+   "term": {
+    "fa": "مفاخرت",
+    "en": "mofakherat (pride, glory)",
+    "tr": "mofakherat"
+   },
+   "explain": {
+    "fa": "«مفاخرت»: نازش و افتخار. از ریشهٔ «فخر»، هم‌خانوادهٔ «افتخار»",
+    "en": "\"mofakherat\": pride, glory. From the root \"fakhr\", related to \"eftekhar\"",
+    "tr": "\"mofakherat\": nazesh va eftekhar. Az rishe-ye \"fakhr\", ham-khanevade-ye \"eftekhar\""
+   },
+   "contrast": {
+    "fa": "متضادش «خواری» است.",
+    "en": "Its opposite is \"khari\" (disgrace).",
+    "tr": "Motazadash \"khari\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mavaddat",
+   "term": {
+    "fa": "مودت",
+    "en": "mavaddat (affection)",
+    "tr": "mavaddat"
+   },
+   "explain": {
+    "fa": "«مودت»: دوستی و محبت. از ریشهٔ «ودّ» (دوست داشتن)",
+    "en": "\"mavaddat\": affection, love. From the root \"vadd\" (loving)",
+    "tr": "\"mavaddat\": doosti va mohabbat. Az rishe-ye \"vadd\" (doost dashtan)"
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-abniye",
+   "term": {
+    "fa": "ابنیه",
+    "en": "abniye (buildings)",
+    "tr": "abniye"
+   },
+   "explain": {
+    "fa": "«ابنیه»: بناها، ساختمان‌ها. جمع مکسّر «بنا» بر وزن «افعِلَه»",
+    "en": "\"abniye\": buildings. The broken plural of \"bana\" on the \"af'ila\" pattern",
+    "tr": "\"abniye\": bana-ha, sakhteman-ha. Jam'-e mokassar-e \"bana\" bar vazn-e \"af'ila\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tajanos",
+   "term": {
+    "fa": "تجانس",
+    "en": "tajanos (likeness)",
+    "tr": "tajanos"
+   },
+   "explain": {
+    "fa": "«تجانس»: هم‌جنسی و همانندی. از ریشهٔ «جنس»؛ هم‌خانوادهٔ «جناس»",
+    "en": "\"tajanos\": likeness, kinship of kind. From the root \"jens\" (kind); related to \"jenas\"",
+    "tr": "\"tajanos\": ham-jensi va hamanandi. Az rishe-ye \"jens\"; ham-khanevade-ye \"jenas\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-maman",
+   "term": {
+    "fa": "مأمن",
+    "en": "ma'man (a safe haven)",
+    "tr": "ma'man"
+   },
+   "explain": {
+    "fa": "«مأمن»: پناهگاه، جای امن. از ریشهٔ «امن»، وزن «مَفعَل» یعنی جای کار",
+    "en": "\"ma'man\": a refuge, a safe place. From the root \"amn\" (safety); the \"maf'al\" pattern means a place",
+    "tr": "\"ma'man\": panahgah, ja-ye amn. Az rishe-ye \"amn\", vazn-e \"maf'al\" ya'ni ja-ye kar"
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tow",
+   "term": {
+    "fa": "طوع",
+    "en": "tow' (willing obedience)",
+    "tr": "tow'"
+   },
+   "explain": {
+    "fa": "«طوع»: فرمان‌برداری از روی میل. در متن کنار «رغبت»: «طوع و رغبت»",
+    "en": "\"tow'\": willing obedience. In the text beside \"reghbat\" (willingness): \"tow' va reghbat\"",
+    "tr": "\"tow'\": farman-bardari az rooye meyl. Dar matn kenar-e \"reghbat\": \"tow' va reghbat\""
+   },
+   "contrast": {
+    "fa": "متضادش «اجبار» است.",
+    "en": "Its opposite is \"ejbar\" (compulsion).",
+    "tr": "Motazadash \"ejbar\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mafased",
+   "term": {
+    "fa": "مفاسد",
+    "en": "mafased (corruptions)",
+    "tr": "mafased"
+   },
+   "explain": {
+    "fa": "«مفاسد»: تباهی‌ها و بدی‌ها. جمع مکسّر «مفسده»، از ریشهٔ «فساد»",
+    "en": "\"mafased\": corruptions, evils. The broken plural of \"mafsade\", from the root \"fasad\"",
+    "tr": "\"mafased\": tabahi-ha va badi-ha. Jam'-e mokassar-e \"mafsade\", az rishe-ye \"fasad\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-manaat",
+   "term": {
+    "fa": "مناعت",
+    "en": "mana'at (dignity)",
+    "tr": "mana'at"
+   },
+   "explain": {
+    "fa": "«مناعت»: بلندطبعی و عزت نفس. در متن کنار «صلابت»: ایستادگی در برابر ستم",
+    "en": "\"mana'at\": dignity, self-respect. In the text beside \"salabat\": standing up to tyranny",
+    "tr": "\"mana'at\": boland-tab'i va ezzat-e nafs. Dar matn kenar-e \"salabat\": istadegi dar barabar-e setam"
+   },
+   "contrast": {
+    "fa": "متضادش «خواری و فرمان‌بری» است.",
+    "en": "Its opposite is \"abasement and servility\".",
+    "tr": "Motazadash \"khari va farman-bari\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-otoofat",
+   "term": {
+    "fa": "عطوفت",
+    "en": "otoofat (tenderness)",
+    "tr": "otoofat"
+   },
+   "explain": {
+    "fa": "«عطوفت»: مهربانی و دلسوزی. از ریشهٔ «عطف»؛ در متن کنار «شفقت»",
+    "en": "\"otoofat\": tenderness, compassion. From the root \"atf\"; beside \"shefghat\" (compassion) in the text",
+    "tr": "\"otoofat\": mehrabani va delsoozi. Az rishe-ye \"atf\"; dar matn kenar-e \"shefghat\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mostaghni",
+   "term": {
+    "fa": "مستغنی",
+    "en": "mostaghni (free of need)",
+    "tr": "mostaghni"
+   },
+   "explain": {
+    "fa": "«مستغنی»: بی‌نیاز. از ریشهٔ «غنا»، وزن «مستفعِل»: کسی که در آن حالت است",
+    "en": "\"mostaghni\": free of need. From the root \"ghena\", on the \"mostaf'el\" pattern: one in that state",
+    "tr": "\"mostaghni\": bi-niaz. Az rishe-ye \"ghena\", vazn-e \"mostaf'el\": kasi ke dar an halat ast"
+   },
+   "contrast": {
+    "fa": "متضادش «نیازمند» است.",
+    "en": "Its opposite is \"niazmand\" (needy).",
+    "tr": "Motazadash \"niazmand\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tazarro",
+   "term": {
+    "fa": "تضرع",
+    "en": "tazarro' (humble pleading)",
+    "tr": "tazarro'"
+   },
+   "explain": {
+    "fa": "«تضرع»: زاری و التماس فروتنانه. در متن کنار «خشوع»: «تضرع و خشوع»",
+    "en": "\"tazarro'\": humble pleading. In the text beside \"khoshoo'\" (humility): \"tazarro' va khoshoo'\"",
+    "tr": "\"tazarro'\": zari va eltemas-e forootanane. Dar matn kenar-e \"khoshoo'\": \"tazarro' va khoshoo'\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tahavvor",
+   "term": {
+    "fa": "تهور",
+    "en": "tahavvor (daring)",
+    "tr": "tahavvor"
+   },
+   "explain": {
+    "fa": "«تهور»: بی‌باکی و جسارت. در متن کنار «شجاعت»: «تهور و شجاعت»",
+    "en": "\"tahavvor\": daring, boldness. In the text beside \"shoja'at\" (courage): \"tahavvor va shoja'at\"",
+    "tr": "\"tahavvor\": bi-baki va jesarat. Dar matn kenar-e \"shoja'at\": \"tahavvor va shoja'at\""
+   },
+   "contrast": {
+    "fa": "متضادش «ترس و بزدلی» است.",
+    "en": "Its opposite is \"fear and cowardice\".",
+    "tr": "Motazadash \"tars va bozdeli\" ast."
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-molatefat",
+   "term": {
+    "fa": "ملاطفت",
+    "en": "molatefat (gentle kindness)",
+    "tr": "molatefat"
+   },
+   "explain": {
+    "fa": "«ملاطفت»: نرم‌خویی و مهربانی. از ریشهٔ «لطف»، وزن «مفاعله»",
+    "en": "\"molatefat\": gentle kindness. From the root \"lotf\" (kindness), on the \"mofa'ala\" pattern",
+    "tr": "\"molatefat\": narm-khooyi va mehrabani. Az rishe-ye \"lotf\", vazn-e \"mofa'ala\""
+   },
+   "unit": "per-1-arabic-roots"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tafte",
+   "term": {
+    "fa": "تفته",
+    "en": "tafte (scorching hot)",
+    "tr": "tafte"
+   },
+   "explain": {
+    "fa": "«تفته»: سوزان و بسیار گرم. خویشاوند امروزی: «تافتن» (گرم کردن)",
+    "en": "\"tafte\": scorching hot. Modern relative: \"taftan\" (to heat)",
+    "tr": "\"tafte\": soozan va besyar garm. Khishavand-e emroozi: \"taftan\" (garm kardan)"
+   },
+   "contrast": {
+    "fa": "متضادش «یخ‌زده» است.",
+    "en": "Its opposite is \"frozen\".",
+    "tr": "Motazadash \"yakh-zade\" ast."
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-pahne",
+   "term": {
+    "fa": "پهنه",
+    "en": "pahne (expanse)",
+    "tr": "pahne"
+   },
+   "explain": {
+    "fa": "«پهنه»: گستره، میدان پهناور. خویشاوند امروزی: «پهن»",
+    "en": "\"pahne\": an expanse, a wide field. Modern relative: \"pahn\" (wide)",
+    "tr": "\"pahne\": gostare, meydan-e pahnavar. Khishavand-e emroozi: \"pahn\""
+   },
+   "contrast": {
+    "fa": "متضادش «تنگه» است.",
+    "en": "Its opposite is \"tange\" (a narrow pass).",
+    "tr": "Motazadash \"tange\" ast."
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-zabooni",
+   "term": {
+    "fa": "زبونی",
+    "en": "zabooni (helplessness)",
+    "tr": "zabooni"
+   },
+   "explain": {
+    "fa": "«زبونی»: خواری و ناتوانی. در متن کنار «تسلیم»: ذرات شن در برابر باد",
+    "en": "\"zabooni\": helplessness, abasement. In the text beside \"taslim\" (surrender): sand before the wind",
+    "tr": "\"zabooni\": khari va natavani. Dar matn kenar-e \"taslim\": zarrat-e shen dar barabar-e bad"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-koorsoo",
+   "term": {
+    "fa": "کورسو",
+    "en": "koorsoo (faint glimmer)",
+    "tr": "koorsoo"
+   },
+   "explain": {
+    "fa": "«کورسو»: روشنایی بسیار کم. دو تکه است: «کور» (کم‌نور) + «سو» (روشنایی)",
+    "en": "\"koorsoo\": a very faint light. Two parts: \"koor\" (dim) + \"soo\" (light)",
+    "tr": "\"koorsoo\": roshanayi-ye besyar kam. Do tekke ast: \"koor\" (kam-noor) + \"soo\" (roshanayi)"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-bahr",
+   "term": {
+    "fa": "بحر",
+    "en": "sea (bahr)",
+    "tr": "bahr"
+   },
+   "explain": {
+    "fa": "«بحر»: دریا. در بیت کنار «برّ» (خشکی) آمده؛ یک جفت متضاد",
+    "en": "\"bahr\": sea. In the verse it comes beside \"barr\" (land); an opposite pair",
+    "tr": "\"bahr\": darya. Dar beyt kenar-e \"barr\" (khoshki) amade; yek joft-e motazad"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-sahba",
+   "term": {
+    "fa": "صهبا",
+    "en": "sahba (red wine)",
+    "tr": "sahba"
+   },
+   "explain": {
+    "fa": "«صهبا»: شراب سرخ. واژه‌ای که در شعر کهن بسیار می‌آید",
+    "en": "\"sahba\": red wine. A word that appears often in classical poetry",
+    "tr": "\"sahba\": sharab-e sorkh. Vazhe-i ke dar she'r-e kohan besyar miayad"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-chehr",
+   "term": {
+    "fa": "چهر",
+    "en": "chehr (face)",
+    "tr": "chehr"
+   },
+   "explain": {
+    "fa": "«چهر»: چهره. شکل کوتاه و کهن «چهره»؛ در دماوندیهٔ بهار",
+    "en": "\"chehr\": face. The short, old form of \"chehre\"; in Bahar's Damavandiyeh",
+    "tr": "\"chehr\": chehre. Shekl-e kootah va kohan-e \"chehre\"; dar Damavandiye-ye Bahar"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-nilgun",
+   "term": {
+    "fa": "نیلگون",
+    "en": "nilgun (deep blue)",
+    "tr": "nilgun"
+   },
+   "explain": {
+    "fa": "«نیلگون»: به رنگ نیل، کبود و لاجوردی. دو تکه است: «نیل» + «گون» (رنگ)",
+    "en": "\"nilgun\": indigo, deep blue. Two parts: \"nil\" (indigo) + \"goon\" (colour)",
+    "tr": "\"nilgun\": be rang-e nil, kabood va lajavardi. Do tekke ast: \"nil\" + \"goon\" (rang)"
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-naghz",
+   "term": {
+    "fa": "نغز",
+    "en": "naghz (fine, choice)",
+    "tr": "naghz"
+   },
+   "explain": {
+    "fa": "«نغز»: نیکو و دلپذیر. واژهٔ کهن فارسی؛ «سخنان نغز» یعنی سخنان نیکو",
+    "en": "\"naghz\": fine, pleasing. An old Persian word; \"sokhanan-e naghz\" are fine words",
+    "tr": "\"naghz\": nikoo va delpazir. Vazhe-ye kohan-e farsi; \"sokhanan-e naghz\" ya'ni sokhanan-e nikoo"
+   },
+   "contrast": {
+    "fa": "متضادش «زشت» یا «ملال‌آور» است.",
+    "en": "Its opposite is \"ugly\" or \"dull\".",
+    "tr": "Motazadash \"zesht\" ya \"malal-avar\" ast."
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-benehofte",
+   "term": {
+    "fa": "بنهفته",
+    "en": "concealed (benehofte)",
+    "tr": "benehofte"
+   },
+   "explain": {
+    "fa": "«بنهفته»: نهان کرده. خویشاوند امروزی: «نهفته»؛ «ب» پیشوند کهن فعل است",
+    "en": "\"benehofte\": hidden away. Modern relative: \"nahofte\"; \"be-\" is an old verb prefix",
+    "tr": "\"benehofte\": nahan karde. Khishavand-e emroozi: \"nahofte\"; \"be\" pishvand-e kohan-e fe'l ast"
+   },
+   "contrast": {
+    "fa": "متضادش «آشکار کرده» است.",
+    "en": "Its opposite is \"revealed\".",
+    "tr": "Motazadash \"ashkar karde\" ast."
+   },
+   "unit": "per-1-poetic-words"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-halabi",
+   "term": {
+    "fa": "حلبی",
+    "en": "halabi (of Aleppo)",
+    "tr": "halabi"
+   },
+   "explain": {
+    "fa": "«حلبی»: منسوب به شهر حلب. با «ح»، چون نام شهر «حلب» با «ح» است؛ در ترکیب «آبگینهٔ حلبی»",
+    "en": "\"halabi\": of Aleppo (Halab). With \"he-ye hoti\", because the city \"Halab\" is; in \"abgine-ye halabi\"",
+    "tr": "\"halabi\": mansoob be shahr-e Halab. Ba \"he-ye hoti\", chon nam-e shahr-e \"Halab\" ba \"he-ye hoti\" ast; dar tarkib-e \"abgine-ye halabi\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-estehghagh",
+   "term": {
+    "fa": "استحقاق",
+    "en": "estehghagh (deserving)",
+    "tr": "estehghagh"
+   },
+   "explain": {
+    "fa": "«استحقاق»: سزاواری و شایستگی. از ریشهٔ «حق»: با «ح» و «ق»، مثل «مستحق»",
+    "en": "\"estehghagh\": deserving, worthiness. From the root \"hagh\": with \"he-ye hoti\" and \"ghaf\", like \"mostahagh\"",
+    "tr": "\"estehghagh\": sezavari va shayestegi. Az rishe-ye \"hagh\": ba \"he-ye hoti\" va \"ghaf\", mesl-e \"mostahagh\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-fanadegh",
+   "term": {
+    "fa": "فنادق",
+    "en": "fanadegh (inns)",
+    "tr": "fanadegh"
+   },
+   "explain": {
+    "fa": "«فنادق»: مهمان‌خانه‌ها و کاروان‌سراها. جمع مکسّر «فندق»، با «ق»",
+    "en": "\"fanadegh\": inns and caravanserais. The broken plural of \"fondogh\", with \"ghaf\"",
+    "tr": "\"fanadegh\": mehman-khane-ha va karevan-sara-ha. Jam'-e mokassar-e \"fondogh\", ba \"ghaf\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-sarir",
+   "term": {
+    "fa": "سریر",
+    "en": "sarir (throne)",
+    "tr": "sarir"
+   },
+   "explain": {
+    "fa": "«سریر»: تخت پادشاهی. با «س»؛ در ترکیب ثابت «سریر سلطنت» (سلطنت با «ط»)",
+    "en": "\"sarir\": a royal throne. With \"sin\"; in the fixed phrase \"sarir-e saltanat\" (saltanat with \"ta\")",
+    "tr": "\"sarir\": takht-e padeshahi. Ba \"sin\"; dar tarkib-e sabet-e \"sarir-e saltanat\" (saltanat ba \"ta\")"
+   },
+   "contrast": {
+    "fa": "«صریر» با «ص» یعنی صدای قلم؛ واژه‌ای دیگر.",
+    "en": "\"Sarir\" with \"sad\" means the scratch of a pen; a different word.",
+    "tr": "\"Sarir\" ba \"sad\" ya'ni seda-ye ghalam; vazhe-i digar."
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-abzan",
+   "term": {
+    "fa": "آبزن",
+    "en": "abzan (wash-basin)",
+    "tr": "abzan"
+   },
+   "explain": {
+    "fa": "«آبزن»: حوضچه و تشت شست‌وشو. فارسی است: «آب» + «زن» (از «زدن»)، با «ز»",
+    "en": "\"abzan\": a wash-basin, a bathing tub. It is Persian: \"ab\" + \"zan\" (from \"zadan\"), with \"ze\"",
+    "tr": "\"abzan\": hozche va tasht-e shost-o-shoo. Farsi ast: \"ab\" + \"zan\" (az \"zadan\"), ba \"ze\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-salatin",
+   "term": {
+    "fa": "سلاطین",
+    "en": "salatin (sultans)",
+    "tr": "salatin"
+   },
+   "explain": {
+    "fa": "«سلاطین»: پادشاهان و فرمانروایان. جمع «سلطان»: با «س» و «ط»",
+    "en": "\"salatin\": kings and rulers. The plural of \"soltan\": with \"sin\" and \"ta\"",
+    "tr": "\"salatin\": padeshahan va farmanravayan. Jam'-e \"soltan\": ba \"sin\" va \"ta\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mostowfi",
+   "term": {
+    "fa": "مستوفی",
+    "en": "mostowfi (royal accountant)",
+    "tr": "mostowfi"
+   },
+   "explain": {
+    "fa": "«مستوفی»: حسابدار و خزانه‌دار دیوانی. با «س» و «ت»؛ جمعش «مستوفیان»",
+    "en": "\"mostowfi\": a royal accountant, a treasurer. With \"sin\" and \"te\"; its plural is \"mostowfiyan\"",
+    "tr": "\"mostowfi\": hesabdar va khazane-dar-e divani. Ba \"sin\" va \"te\"; jam'ash \"mostowfiyan\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-hofre",
+   "term": {
+    "fa": "حفره",
+    "en": "hofre (hollow)",
+    "tr": "hofre"
+   },
+   "explain": {
+    "fa": "«حفره»: گودی و فرورفتگی. از ریشهٔ «حفر» (کندن)، با «ح»",
+    "en": "\"hofre\": a hollow, a pit. From the root \"hafr\" (digging), with \"he-ye hoti\"",
+    "tr": "\"hofre\": goodi va foroo-raftegi. Az rishe-ye \"hafr\" (kandan), ba \"he-ye hoti\""
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-vahlat",
+   "term": {
+    "fa": "وحلت",
+    "en": "vahlat (being stuck in mud)",
+    "tr": "vahlat"
+   },
+   "explain": {
+    "fa": "«وحلت»: فرو رفتن در گل و گرفتار شدن. با «ح» و «ت»؛ از «وحل» (گل و لای)",
+    "en": "\"vahlat\": being stuck in mud, a quagmire. With \"he-ye hoti\" and \"te\"; from \"vahl\" (mud)",
+    "tr": "\"vahlat\": foroo raftan dar gel va gereftar shodan. Ba \"he-ye hoti\" va \"te\"; az \"vahl\" (gel-o-lay)"
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-berke",
+   "term": {
+    "fa": "برکه",
+    "en": "berke (pool)",
+    "tr": "berke"
+   },
+   "explain": {
+    "fa": "«برکه»: آبگیر. با «ک»؛ «برقه» و «بحرکه» غلط‌اند",
+    "en": "\"berke\": a pool, a pond. With \"kaf\"; \"barghe\" and \"bahrke\" are wrong",
+    "tr": "\"berke\": abgir. Ba \"kaf\"; \"barghe\" va \"bahrke\" ghalat-and"
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-sayyahan",
+   "term": {
+    "fa": "سیاحان",
+    "en": "sayyahan (travellers)",
+    "tr": "sayyahan"
+   },
+   "explain": {
+    "fa": "«سیاحان»: جهانگردان. از «سیاحت» (سفر)، با «س» و «ح»",
+    "en": "\"sayyahan\": travellers. From \"siyahat\" (travel), with \"sin\" and \"he-ye hoti\"",
+    "tr": "\"sayyahan\": jahangardan. Az \"siyahat\" (safar), ba \"sin\" va \"he-ye hoti\""
+   },
+   "contrast": {
+    "fa": "«صیّاد» (شکارچی) با «ص» است؛ ربطی ندارد.",
+    "en": "\"Sayyad\" (hunter) is with \"sad\"; it is unrelated.",
+    "tr": "\"Sayyad\" (shekarchi) ba \"sad\" ast; rabti nadarad."
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-asasiye",
+   "term": {
+    "fa": "اثاثیه",
+    "en": "asasiye (belongings)",
+    "tr": "asasiye"
+   },
+   "explain": {
+    "fa": "«اثاثیه»: وسایل و اسباب سفر و خانه. از «اثاث» (کالا)، با دو «ث»",
+    "en": "\"asasiye\": household and travel goods. From \"asas\" (goods), with two \"se\"",
+    "tr": "\"asasiye\": vasayel va asbab-e safar va khane. Az \"asas\" (kala), ba do \"se\""
+   },
+   "contrast": {
+    "fa": "با «اساس» (پایه) ربطی ندارد.",
+    "en": "Unrelated to \"asas\" (foundation).",
+    "tr": "Ba \"asas\" (paye) rabti nadarad."
+   },
+   "unit": "per-1-spelling-letters"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-ejab",
+   "term": {
+    "fa": "اعجاب",
+    "en": "e'jab (wonder)",
+    "tr": "e'jab"
+   },
+   "explain": {
+    "fa": "«اعجاب»: شگفتی و به شگفت آوردن. از «عجب»، پس با «ع»",
+    "en": "\"e'jab\": wonder, amazement. From \"ajab\", so with \"eyn\"",
+    "tr": "\"e'jab\": shegefti va be shegeft avardan. Az \"ajab\", pas ba \"eyn\""
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-estedaa",
+   "term": {
+    "fa": "استدعا",
+    "en": "ested'a (request)",
+    "tr": "ested'a"
+   },
+   "explain": {
+    "fa": "«استدعا»: درخواست و خواهش. از «دعا»، پس با «ع» و «د»",
+    "en": "\"ested'a\": a request, a plea. From \"do'a\", so with \"eyn\" and \"dal\"",
+    "tr": "\"ested'a\": darkhast va khahesh. Az \"do'a\", pas ba \"eyn\" va \"dal\""
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-vala",
+   "term": {
+    "fa": "ولع",
+    "en": "vala' (keen craving)",
+    "tr": "vala'"
+   },
+   "explain": {
+    "fa": "«ولع»: شوق و حرص شدید. با «ع» در پایان؛ «ولأ» و «ولذ» غلط‌اند",
+    "en": "\"vala'\": keen craving. Ends in \"eyn\"; \"vala'\" with hamza or zal is wrong",
+    "tr": "\"vala'\": showgh va hers-e shadid. Ba \"eyn\" dar payan; ba hamze ya zal ghalat ast"
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-talalo",
+   "term": {
+    "fa": "تلألؤ",
+    "en": "tala'lo' (gleaming)",
+    "tr": "tala'lo'"
+   },
+   "explain": {
+    "fa": "«تلألؤ»: درخشش و تابش. دو همزه دارد: یکی روی الف و یکی روی واو",
+    "en": "\"tala'lo'\": gleaming, radiance. It has two hamzas: one on the alef and one on the vav",
+    "tr": "\"tala'lo'\": derakhshesh va tabesh. Do hamze darad: yeki rooye alef va yeki rooye vav"
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-mamooran",
+   "term": {
+    "fa": "مأموران",
+    "en": "ma'mooran (officials)",
+    "tr": "ma'mooran"
+   },
+   "explain": {
+    "fa": "«مأموران»: کارگزاران و فرستادگان دولتی. از «امر» (فرمان): همزه روی الف",
+    "en": "\"ma'mooran\": government agents, officials. From \"amr\" (command): a hamza on alef",
+    "tr": "\"ma'mooran\": kargozaran va ferestadegan-e dowlati. Az \"amr\" (farman): hamze rooye alef"
+   },
+   "contrast": {
+    "fa": "«معمور» با «ع» یعنی آباد؛ واژه‌ای دیگر.",
+    "en": "\"Ma'moor\" with \"eyn\" means flourishing; a different word.",
+    "tr": "\"Ma'moor\" ba \"eyn\" ya'ni abad; vazhe-i digar."
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-homophone-spelling",
+   "term": {
+    "fa": "املای هم‌آوا",
+    "en": "homophone spelling",
+    "tr": "emla-ye ham-ava"
+   },
+   "explain": {
+    "fa": "«املای هم‌آوا»: نوشتن درست واژه‌های هم‌آوا: یکسان خوانده می‌شوند، ولی املا و معنایشان جداست. اول معنای خواسته‌شده را بخوان؛ «غُل و زنجیر» با «غ» است",
+    "en": "\"emla-ye ham-ava\": spelling homophones right: words read the same but spelt and meant differently. Read the meaning asked for first; \"ghol o zanjir\" (shackle and chain) is written with \"ghein\"",
+    "tr": "\"emla-ye ham-ava\": neveshtan-e dorost-e vazhe-haye ham-ava: yeksan khande mishavand, vali emla va ma'nayeshan joda-st. Avval ma'na-ye khaste-shode ra bekhan; \"ghol o zanjir\" ba \"ghein\" ast"
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-afshande",
+   "term": {
+    "fa": "افشانده",
+    "en": "scattered (afshande)",
+    "tr": "afshande"
+   },
+   "explain": {
+    "fa": "«افشانده»: پاشیده‌شده. از «افشاندن»، با الف ساده در آغاز؛ «اعشانده» غلط است",
+    "en": "\"afshande\": scattered, sprinkled. From \"afshandan\", with a plain alef at the start; with \"eyn\" it is wrong",
+    "tr": "\"afshande\": pashide-shode. Az \"afshandan\", ba alef-e sade dar aghaz; ba \"eyn\" ghalat ast"
+   },
+   "unit": "per-1-hamza-homophones"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-jenas-tam",
+   "term": {
+    "fa": "جناس تام",
+    "en": "complete pun (jinas-e tam)",
+    "tr": "jenas-e tam"
+   },
+   "explain": {
+    "fa": "«جناس تام»: یک واژه دو بار، با شکل و صدای یکسان ولی دو معنای جدا. نمونه: «روان» (جاری) و «روان» (جان) در بیت فردوسی",
+    "en": "\"jenas-e tam\": one word used twice with the same form and sound but two meanings. Example: \"ravan\" (flowing) and \"ravan\" (soul) in Ferdowsi's line",
+    "tr": "\"jenas-e tam\": yek vazhe do bar, ba shekl va seda-ye yeksan vali do ma'na-ye joda. Nemoone: \"ravan\" (jari) va \"ravan\" (jan) dar beyt-e Ferdowsi"
+   },
+   "analogy": {
+    "fa": "دو برادر دوقلو با دو شغل متفاوت.",
+    "en": "Identical twins with two different jobs.",
+    "tr": "Do baradar-e doghoolo ba do shoghl-e motafavet."
+   },
+   "contrast": {
+    "fa": "تکرار با همان معنا جناس نیست.",
+    "en": "Repetition with the same meaning is not jinas.",
+    "tr": "Tekrar ba haman ma'na jenas nist."
+   },
+   "unit": "per-2-sound-devices"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-jenas-nahamsan",
+   "term": {
+    "fa": "جناس ناهمسان",
+    "en": "jenas-e nahamsan (partial pun)",
+    "tr": "jenas-e nahamsan"
+   },
+   "explain": {
+    "fa": "«جناس ناهمسان»: دو واژه که فقط در یک صدا فرق دارند و معنایشان جداست. نمونه: «چاه» و «راه»؛ «چمان» و «چمن» در بیت حافظ",
+    "en": "\"jenas-e nahamsan\": two words that differ in one sound only and mean different things. Example: \"chah\" and \"rah\"; \"chaman\" and \"chaman\" in Hafez's line",
+    "tr": "\"jenas-e nahamsan\": do vazhe ke faghat dar yek seda fargh darand va ma'nayeshan joda-st. Nemoone: \"chah\" va \"rah\"; \"chaman\" va \"chaman\" dar beyt-e Hafez"
+   },
+   "unit": "per-2-sound-devices"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-vaj-arayi",
+   "term": {
+    "fa": "واج‌آرایی",
+    "en": "vaj-arayi (alliteration)",
+    "tr": "vaj-arayi"
+   },
+   "explain": {
+    "fa": "«واج‌آرایی»: تکرار یک صامت یا مصوت در یک بیت برای ساختن موسیقی. نمونه: تکرار «خ» در «خیزید و خزید»",
+    "en": "\"vaj-arayi\": repeating one consonant or vowel across a line to make music. Example: the repeated \"kh\" in \"khizid o khazid\"",
+    "tr": "\"vaj-arayi\": tekrar-e yek samet ya mosavvet dar yek beyt baraye sakhtan-e moosighi. Nemoone: tekrar-e \"kh\" dar \"khizid o khazid\""
+   },
+   "analogy": {
+    "fa": "نتی که در یک آهنگ تکرار می‌شود.",
+    "en": "A note repeated through a tune.",
+    "tr": "Noti ke dar yek ahang tekrar mishavad."
+   },
+   "unit": "per-2-sound-devices"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-saj",
+   "term": {
+    "fa": "سجع",
+    "en": "saj' (rhymed prose)",
+    "tr": "saj'"
+   },
+   "explain": {
+    "fa": "«سجع»: هم‌آهنگی پایان جمله‌های نثر. نمونه: «قربت» و «نعمت» در آغاز گلستان",
+    "en": "\"saj'\": matching endings of prose sentences. Example: \"ghorbat\" and \"ne'mat\" at the opening of the Golestan",
+    "tr": "\"saj'\": ham-ahangi-ye payan-e jomle-haye nasr. Nemoone: \"ghorbat\" va \"ne'mat\" dar aghaz-e Golestan"
+   },
+   "contrast": {
+    "fa": "سجع مال نثر است، قافیه مال شعر.",
+    "en": "Saj' belongs to prose, rhyme to poetry.",
+    "tr": "Saj' mal-e nasr ast, ghafiye mal-e she'r."
+   },
+   "unit": "per-2-sound-devices"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-movazene",
+   "term": {
+    "fa": "موازنه",
+    "en": "movazene (balance)",
+    "tr": "movazene"
+   },
+   "explain": {
+    "fa": "«موازنه»: هم‌وزنی واژه‌های دو بخش، جفت به جفت. همهٔ جفت‌ها هم‌وزن‌اند ولی لازم نیست همه هم‌قافیه باشند",
+    "en": "\"movazene\": two parts whose words match in weight, pair by pair. Every pair matches in weight, but not every pair has to rhyme",
+    "tr": "\"movazene\": ham-vazni-ye vazhe-haye do bakhsh, joft be joft. Hame-ye joft-ha ham-vazn-and vali lazem nist hame ham-ghafiye bashand"
+   },
+   "analogy": {
+    "fa": "دو کفهٔ ترازو با وزن برابر.",
+    "en": "Two pans of a scale with equal weight.",
+    "tr": "Do kaffe-ye tarazoo ba vazn-e barabar."
+   },
+   "contrast": {
+    "fa": "اگر همهٔ جفت‌ها هم‌قافیه هم باشند، ترصیع است.",
+    "en": "If every pair also rhymes, it is tarsi'.",
+    "tr": "Agar hame-ye joft-ha ham-ghafiye ham bashand, tarsi' ast."
+   },
+   "unit": "per-2-balance"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tarsi",
+   "term": {
+    "fa": "ترصیع",
+    "en": "tarsi' (jewelled balance)",
+    "tr": "tarsi'"
+   },
+   "explain": {
+    "fa": "«ترصیع»: هم‌وزنی و هم‌قافیگی همهٔ واژه‌های دو بخش، جفت به جفت. یعنی موازنه به‌اضافهٔ سجعِ همهٔ جفت‌ها",
+    "en": "\"tarsi'\": two parts whose words match in weight and rhyme, every pair. That is, movazene plus saj' in every pair",
+    "tr": "\"tarsi'\": ham-vazni va ham-ghafiyegi-ye hame-ye vazhe-haye do bakhsh, joft be joft. Ya'ni movazene be-ezafe-ye saj'-e hame-ye joft-ha"
+   },
+   "analogy": {
+    "fa": "گردنبندی که همهٔ مهره‌هایش جفت دارند.",
+    "en": "A necklace whose beads all come in matching pairs.",
+    "tr": "Gardanbandi ke hame-ye mohre-hayash joft darand."
+   },
+   "contrast": {
+    "fa": "یک جفت ناهم‌قافیه کافی است تا ترصیع نباشد.",
+    "en": "One non-rhyming pair is enough to rule out tarsi'.",
+    "tr": "Yek joft-e na-ham-ghafiye kafi ast ta tarsi' nabashad."
+   },
+   "unit": "per-2-balance"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-tashbih",
+   "term": {
+    "fa": "تشبیه",
+    "en": "tashbih (simile)",
+    "tr": "tashbih"
+   },
+   "explain": {
+    "fa": "«تشبیه»: مانند کردن چیزی به چیز دیگر به خاطر ویژگی مشترک. چهار پایه دارد؛ نمونه: «قدی چون سرو»",
+    "en": "\"tashbih\": likening one thing to another for a shared feature. It has four parts; example: \"ghaddi chon sarv\"",
+    "tr": "\"tashbih\": manand kardan-e chizi be chiz-e digar be khater-e vizhegi-ye moshtarak. Chahar paye darad; nemoone: \"ghaddi chon sarv\""
+   },
+   "contrast": {
+    "fa": "بدون مقایسهٔ دو چیز، تشبیه نیست.",
+    "en": "Without two things compared, it is not a simile.",
+    "tr": "Bedoon-e moghayese-ye do chiz, tashbih nist."
+   },
+   "unit": "per-2-imagery"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-eghragh",
+   "term": {
+    "fa": "اغراق",
+    "en": "eghragh (hyperbole)",
+    "tr": "eghragh"
+   },
+   "explain": {
+    "fa": "«اغراق»: بزرگ‌نمایی تا حد باورنکردنی، به‌ویژه در حماسه. نمونه: گریستن به اندازهٔ رود جیحون",
+    "en": "\"eghragh\": exaggeration past belief, especially in epic. Example: weeping as much as the river Jeyhoon",
+    "tr": "\"eghragh\": bozorg-nemayi ta had-e bavar-nakardani, be-vizhe dar hamase. Nemoone: geristan be andaze-ye rood-e Jeyhoon"
+   },
+   "contrast": {
+    "fa": "معنای نزدیک اغراق ناممکن است؛ در کنایه ممکن.",
+    "en": "Hyperbole's near meaning is impossible; kenaye's is possible.",
+    "tr": "Ma'na-ye nazdik-e eghragh na-momken ast; dar kenaye momken."
+   },
+   "unit": "per-2-imagery"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-kenaye",
+   "term": {
+    "fa": "کنایه",
+    "en": "kenaye (implied meaning)",
+    "tr": "kenaye"
+   },
+   "explain": {
+    "fa": "«کنایه»: عبارتی که معنای دورش منظور است ولی معنای نزدیکش هم پذیرفتنی است. نمونه: «ریش‌سفید» برای بزرگ و باتجربه",
+    "en": "\"kenaye\": a phrase meant in its far sense while its near sense is also possible. Example: \"rish-sefid\" for an experienced elder",
+    "tr": "\"kenaye\": ebarati ke ma'na-ye doorash manzoor ast vali ma'na-ye nazdikash ham paziroftani ast. Nemoone: \"rish-sefid\" baraye bozorg va ba-tajrobe"
+   },
+   "analogy": {
+    "fa": "حرفی که پشت یک تصویر پنهان شده.",
+    "en": "A point hidden behind a picture.",
+    "tr": "Harfi ke posht-e yek tasvir penhan shode."
+   },
+   "unit": "per-2-imagery"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-pay-dar-daman",
+   "term": {
+    "fa": "پای در دامن کشیدن",
+    "en": "pay dar daman keshidan (to withdraw)",
+    "tr": "pay dar daman keshidan"
+   },
+   "explain": {
+    "fa": "«پای در دامن کشیدن»: گوشه‌گیری کردن و کناره گرفتن. کنایه است: معنای نزدیک «پا زیر دامن جمع کردن»، معنای دور «کناره گرفتن»",
+    "en": "\"pay dar daman keshidan\": to withdraw from the world. A kenaye: near meaning \"tucking one's feet under one's robe\", far meaning \"withdrawing\"",
+    "tr": "\"pay dar daman keshidan\": gooshe-giri kardan va kenare gereftan. Kenaye ast: ma'na-ye nazdik \"pa zir-e daman jam' kardan\", ma'na-ye door \"kenare gereftan\""
+   },
+   "unit": "per-2-imagery"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-moraat-nazir",
+   "term": {
+    "fa": "مراعات نظیر",
+    "en": "congruity (moraat-e nazir)",
+    "tr": "moraat-e nazir"
+   },
+   "explain": {
+    "fa": "«مراعات نظیر»: آوردن واژه‌هایی از یک خانواده در یک بیت. نمونه: «گریبان» و «پیراهن» در شعر «مست و هشیار» پروین",
+    "en": "\"moraat-e nazir\": bringing words of one family into one line. Example: \"giriban\" and \"pirahan\" in Parvin's \"Mast va Hoshyar\"",
+    "tr": "\"moraat-e nazir\": avardan-e vazhe-hayi az yek khanevade dar yek beyt. Nemoone: \"giriban\" va \"pirahan\" dar she'r-e \"Mast va Hoshyar\"-e Parvin"
+   },
+   "analogy": {
+    "fa": "اعضای یک خانه.",
+    "en": "Members of one household.",
+    "tr": "A'za-ye yek khane."
+   },
+   "unit": "per-2-meaning-links"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-hosn-talil",
+   "term": {
+    "fa": "حسن تعلیل",
+    "en": "poetic cause (husn-e ta'lil)",
+    "tr": "hosn-e ta'lil"
+   },
+   "explain": {
+    "fa": "«حسن تعلیل»: آوردن علتی زیبا و شاعرانه ولی غیرواقعی برای یک پدیده. نامش می‌گوید: «حسن» (زیبایی) + «تعلیل» (علت آوردن)",
+    "en": "\"hosn-e ta'lil\": giving a beautiful, poetic but unreal reason for something. Its name says it: \"hosn\" (beauty) + \"ta'lil\" (giving a reason)",
+    "tr": "\"hosn-e ta'lil\": avardan-e ellati ziba va sha'erane vali gheyr-e vaghe'i baraye yek padide. Namash miguyad: \"hosn\" (zibayi) + \"ta'lil\" (ellat avardan)"
+   },
+   "contrast": {
+    "fa": "اگر علت واقعی باشد، حسن تعلیل نیست.",
+    "en": "If the reason is real, it is not hosn-e ta'lil.",
+    "tr": "Agar ellat vaghe'i bashad, hosn-e ta'lil nist."
+   },
+   "unit": "per-2-meaning-links"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-talmih",
+   "term": {
+    "fa": "تلمیح",
+    "en": "allusion (talmih)",
+    "tr": "talmih"
+   },
+   "explain": {
+    "fa": "«تلمیح»: اشاره به داستان، آیه یا رویدادی که خواننده می‌شناسد. مثل چشمکی به یک خاطرهٔ مشترک",
+    "en": "\"talmih\": pointing to a story, verse or event the reader knows. Like a wink at a shared memory",
+    "tr": "\"talmih\": eshare be dastan, aye ya rooydadi ke khanande mishenasad. Mesl-e cheshmaki be yek khatere-ye moshtarak"
+   },
+   "unit": "per-2-meaning-links"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-monazere",
+   "term": {
+    "fa": "مناظره",
+    "en": "debate poem (monazere)",
+    "tr": "monazere"
+   },
+   "explain": {
+    "fa": "«مناظره»: گفت‌وگوی پرسش و پاسخ میان دو شخصیت. نمونه: محتسب و مست در شعر پروین اعتصامی",
+    "en": "\"monazere\": a question-and-answer exchange between two characters. Example: the inspector and the drunk in Parvin E'tesami's poem",
+    "tr": "\"monazere\": goft-o-goo-ye porsesh va pasokh miyan-e do shakhsiyat. Nemoone: mohtaseb va mast dar she'r-e Parvin E'tesami"
+   },
+   "unit": "per-2-meaning-links"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-osloob-moadele",
+   "term": {
+    "fa": "اسلوب معادله",
+    "en": "osloob-e moadele (poetic equation)",
+    "tr": "osloob-e moadele"
+   },
+   "explain": {
+    "fa": "«اسلوب معادله»: یک مصراع ادعا و مصراع دیگر مثالی برای آن، چنان‌که جایشان عوض شود. آزمون: میان دو مصراع نشانهٔ «=» بگذار",
+    "en": "\"osloob-e moadele\": one half-line a claim and the other an example of it, so they could swap. Test: put an \"=\" between the two half-lines",
+    "tr": "\"osloob-e moadele\": yek mesra' edde'a va mesra'-e digar mesali baraye an, chenan-ke jayeshan avaz shavad. Azmoon: miyan-e do mesra' neshane-ye \"=\" begozar"
+   },
+   "unit": "per-2-meaning-links"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-gharabat",
+   "term": {
+    "fa": "قرابت معنایی",
+    "en": "thematic concept pairing",
+    "tr": "gharabat-e manayi"
+   },
+   "explain": {
+    "fa": "«قرابت معنایی»: هم‌پیامی دو بیت، حتی با واژه‌های متفاوت. هر بیت را به یک جملهٔ ساده برگردان و پیام‌ها را بسنج، نه واژه‌ها را",
+    "en": "\"gharabat-e manayi\": two lines sharing a message, even with different words. Turn each line into one plain sentence and compare messages, not words",
+    "tr": "\"gharabat-e manayi\": ham-payami-ye do beyt, hatta ba vazhe-haye motafavet. Har beyt ra be yek jomle-ye sade bargardan va payam-ha ra besanj, na vazhe-ha ra"
+   },
+   "analogy": {
+    "fa": "دو آدم که با دو زبان یک حرف را می‌زنند.",
+    "en": "Two people saying the same thing in two languages.",
+    "tr": "Do adam ke ba do zaban yek harf ra mizanand."
+   },
+   "contrast": {
+    "fa": "واژهٔ مشترک دام است؛ پیام مشترک کلید.",
+    "en": "A shared word is a trap; a shared message is the key.",
+    "tr": "Vazhe-ye moshtarak dam ast; payam-e moshtarak kelid."
+   },
+   "unit": "per-3-thematic"
+  },
+  {
+   "subject": "Persian",
+   "key": "per-g-jan-feshani",
+   "term": {
+    "fa": "جان‌فشانی برای میهن",
+    "en": "sacrifice for the homeland",
+    "tr": "jan-feshani baraye mihan"
+   },
+   "explain": {
+    "fa": "«جان‌فشانی برای میهن»: جان دادن در راه آزادی و میهن. پیام مشترک بیت فرخی یزدی و بیت فردوسی «همه سر به سر تن به کشتن دهیم»",
+    "en": "\"jan-feshani baraye mihan\": giving one's life for freedom and the homeland. The shared message of Farrokhi Yazdi's line and Ferdowsi's \"hame sar be sar tan be koshtan dahim\"",
+    "tr": "\"jan-feshani baraye mihan\": jan dadan dar rah-e azadi va mihan. Payam-e moshtarak-e beyt-e Farrokhi Yazdi va beyt-e Ferdowsi \"hame sar be sar tan be koshtan dahim\""
+   },
+   "unit": "per-3-thematic"
+  }
+ ]
+}
