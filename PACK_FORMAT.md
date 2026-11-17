@@ -182,6 +182,17 @@ SHA-256 checksums stay exact.
   - Older apps cannot read the sitting, so a pack with practice questions
     must say `"format": 8`; older apps then stop and ask for the update
     instead of failing the whole bank update. Pack 150 is practice set 1.
+- **Format 9** (app 3.16.4+) files **Persian Literature by exam domain**
+  instead of textbook lesson. The `textbook` reference starts with the
+  domain number: `"Domain 1: Linguistic Domain (Kavir · Vocabulary)"`, fa
+  `«قلمرو ۱: قلمرو زبانی (کویر، واژگان)»`, tr `"Ghalamrow 1: …"`. Domain 1 is
+  linguistic (vocabulary, spelling), 2 literary (devices), 3 intellectual
+  (thematic closeness). The app reads the number as the chapter and names
+  the sections by domain, never "Lesson N", so they are not confused with
+  the textbook's lessons. Lesson units for Persian use `chapter` 1–3 the same
+  way. A pack that re-files questions this way must say `"format": 9`, so
+  older apps (which would show the domains as lessons) wait for the update.
+  Pack 151 re-files all 96 Persian questions and adds Domains 2–3.
 - **Persian 3** ships with app 3.6.0 under the key `Persian` (packs do not
   need to add it). It has three final-exam components, as `topic_tag`:
   `vocabulary` (shown as flashcards: `question` on the front,
