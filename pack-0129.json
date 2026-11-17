@@ -1,0 +1,871 @@
+{
+ "version": 129,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Chemistry",
+   "chapter": 3,
+   "unit": 1,
+   "key": "chem-3-molecular-solids",
+   "title": {
+    "fa": "چهار خانوادهٔ جامد و جامدهای مولکولی",
+    "en": "The four families of solids and molecular solids",
+    "tr": "Chahar khanevade-ye jamed va jamed-haye molekooli"
+   },
+   "summary": {
+    "fa": "هر جامد را با یک سؤال بشناس: ذره‌هایش چیست و چه چیزی آن‌ها را کنار هم نگه می‌دارد؟",
+    "en": "Know every solid by one question: what are its particles, and what holds them together?",
+    "tr": "Har jamed ra ba yek so'al beshenas: zarre-hayash chist va che chizi an-ha ra kenar-e ham negah midarad?"
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو سؤال برای هر جامد",
+      "en": "Understand first: two questions for every solid",
+      "tr": "Avval befahm: do so'al baraye har jamed"
+     },
+     "body": {
+      "fa": "جامدهای بلوری را بر اساس دو چیز دسته‌بندی می‌کنیم: ذره‌های سازنده و نیرویی که آن‌ها را در شبکه نگه می‌دارد. چهار خانواده داریم: «مولکولی» (مولکول‌ها با نیروهای ضعیف بین‌مولکولی)، «کووالانسی» (اتم‌ها با پیوندهای اشتراکی در یک شبکهٔ غول‌پیکر)، «یونی» (یون‌های مثبت و منفی با جاذبهٔ الکترواستاتیکی) و «فلزی» (کاتیون‌های فلز در دریایی از الکترون). تقریباً همهٔ ویژگی‌ها، مثل نقطهٔ ذوب، سختی و رسانایی، از همین دو پاسخ بیرون می‌آیند.",
+      "en": "We classify crystalline solids by two things: the particles they are built from, and the force that holds those particles in the lattice. There are four families: \"molecular\" (molecules held by weak intermolecular forces), \"covalent network\" (atoms joined by covalent bonds in one giant network), \"ionic\" (positive and negative ions held by electrostatic attraction) and \"metallic\" (metal cations in a sea of electrons). Almost every property, such as melting point, hardness and conductivity, follows from those two answers.",
+      "tr": "Jamed-haye boloori ra bar asas-e do chiz daste-bandi mikonim: zarre-haye sazande va niruyi ke an-ha ra dar shabake negah midarad. Chahar khanevade darim: \"molekooli\" (molekool-ha ba niru-haye za'if-e beyn-e molekooli), \"kovalansi\" (atom-ha ba peyvand-haye eshteraki dar yek shabake-ye ghool-peykar), \"yooni\" (yoon-haye mosbat va manfi ba jazebe-ye elektrostatiki) va \"felezi\" (katiyon-haye felez dar daryayi az elektron). Taghriban hame-ye vizhegi-ha, mesl-e noghte-ye zob, sakhti va rasanayi, az hamin do pasokh biroon miayand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " type      particles   held by\n --------- ----------- ------------\n molecular molecules   weak forces\n covalent  atoms       covalent\n                       bonds\n ionic     + and - ions attraction\n metallic  cations     electron sea",
+     "caption": {
+      "fa": "چهار خانوادهٔ جامد: ذره‌ها و نیروی نگه‌دارنده.",
+      "en": "The four families of solids: their particles and the force that holds them.",
+      "tr": "Chahar khanevade-ye jamed: zarre-ha va niru-ye negah-darande."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جامد مولکولی: آجرهای محکم، چسب ضعیف",
+      "en": "Molecular solids: strong bricks, weak glue",
+      "tr": "Jamed-e molekooli: ajor-haye mohkam, chasb-e za'if"
+     },
+     "body": {
+      "fa": "در «جامد مولکولی»، مثل ید (`I2`)، گوگرد، یخ خشک (`CO2` جامد) و یخ، درون هر مولکول پیوند اشتراکی قوی است، ولی مولکول‌ها فقط با نیروهای ضعیف واندروالسی یا پیوند هیدروژنی کنار هم مانده‌اند (آزمون خرداد ۱۴۰۱). مثل آجرهای لگو که هر آجر محکم است، ولی آجرها فقط با آهن‌رباهای ضعیف به هم چسبیده‌اند: با کمی تکان از هم جدا می‌شوند. برای همین جامدهای مولکولی نقطهٔ ذوب و جوش پایینی دارند و اغلب در دمای اتاق فرارند (آزمون خرداد ۱۴۰۰). یخ خشک (آزمون‌های خرداد ۱۳۹۹) و بلور ید (آزمون خرداد ۱۴۰۱) نمونه‌های آشنای این خانواده‌اند.",
+      "en": "In a \"molecular solid\", such as iodine (`I2`), sulfur, dry ice (solid `CO2`) and ice, the covalent bonds inside each molecule are strong, but the molecules are held together only by weak van der Waals forces or hydrogen bonds (Khordad 1401 paper). Think of Lego bricks: each brick is solid, but the bricks are stuck together only by weak magnets, so a little shaking pulls them apart. That is why molecular solids have low melting and boiling points and are often volatile at room temperature (Khordad 1400 paper). Dry ice (Khordad 1399 papers) and iodine crystals (Khordad 1401 paper) are familiar members of this family.",
+      "tr": "Dar \"jamed-e molekooli\", mesl-e yod (`I2`), gogerd, yakh-e khoshk (`CO2`-e jamed) va yakh, daroon-e har molekool peyvand-e eshteraki ghavi ast, vali molekool-ha faghat ba niru-haye za'if-e van der Waals ya peyvand-e hidrozheni kenar-e ham mande-and (azmoon-e Khordad 1401). Mesl-e ajor-haye Lego ke har ajor mohkam ast, vali ajor-ha faghat ba ahan-roba-haye za'if be ham chasbide-and: ba kami takan az ham joda mishavand. Baraye hamin jamed-haye molekooli noghte-ye zob va jooshe payini darand va aghlab dar dama-ye otagh farar-and (azmoon-e Khordad 1400). Yakh-e khoshk (azmoon-haye Khordad 1399) va bolur-e yod (azmoon-e Khordad 1401) nemoone-haye ashna-ye in khanevade-and."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  solid iodine, I2 molecules\n\n   I-I    I-I    I-I\n      :      :      :   weak\n   I-I    I-I    I-I    forces\n      :      :      :   (:)\n   I-I    I-I    I-I\n\n  \"-\"  strong covalent bond\n  \":\"  weak force, breaks on\n       melting or subliming",
+     "caption": {
+      "fa": "در جامد مولکولی، ذوب یا تصعید فقط نیروهای ضعیف میان مولکول‌ها را می‌شکند؛ پیوند درون مولکول سالم می‌ماند.",
+      "en": "In a molecular solid, melting or subliming breaks only the weak forces between molecules; the bond inside each molecule stays whole.",
+      "tr": "Dar jamed-e molekooli, zob ya tas'id faghat niru-haye za'if-e miyan-e molekool-ha ra mishekanad; peyvand-e daroon-e molekool salem mimanad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: بلورهای یخ خشک (`CO2` جامد) در کدام دسته از جامدها هستند؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Warm-up: which class of solids do dry ice crystals (solid `CO2`) belong to? (Khordad 1399 paper)",
+      "tr": "Garm kardan: bolur-haye yakh-e khoshk (`CO2`-e jamed) dar kodam daste az jamed-ha hastand? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو سؤال را بپرس: ذره‌ها مولکول‌های جدای `CO2` هستند، و آن‌ها را فقط نیروهای ضعیف واندروالسی کنار هم نگه می‌دارند.",
+        "en": "Ask the two questions: the particles are separate `CO2` molecules, and only weak van der Waals forces hold them together.",
+        "tr": "Do so'al ra bepors: zarre-ha molekool-haye jodaye `CO2` hastand, va an-ha ra faghat niru-haye za'if-e van der Waals kenar-e ham negah midarand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جامد مولکولی",
+      "en": "A molecular solid",
+      "tr": "Jamed-e molekooli"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نقطهٔ ذوب و جوش نسبتاً پایین و فرار بودن در دمای اتاق، ویژگی اصلی کدام دسته از جامدهاست و چرا؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: relatively low melting and boiling points and volatility at room temperature are the main features of which class of solids, and why? (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: noghte-ye zob va jooshe-ye nesbatan payin va farar boodan dar dama-ye otagh, vizhegi-ye asli-ye kodam daste az jamed-hast va chera? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نقطهٔ ذوب نشان می‌دهد برای جدا کردن ذره‌ها چه نیرویی باید شکسته شود. نقطهٔ ذوب پایین یعنی نیروی نگه‌دارنده ضعیف است.",
+        "en": "A melting point tells you what force must be broken to separate the particles. A low melting point means the holding force is weak.",
+        "tr": "Noghte-ye zob neshan midahad baraye joda kardan-e zarre-ha che niruyi bayad shekaste shavad. Noghte-ye zob-e payin ya'ni niru-ye negah-darande za'if ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "در میان چهار خانواده، فقط جامد مولکولی ذره‌هایش را با نیروی ضعیف بین‌مولکولی نگه می‌دارد؛ بقیه پیوند واقعی (اشتراکی، یونی یا فلزی) دارند.",
+        "en": "Of the four families, only a molecular solid holds its particles with weak intermolecular forces; the others have real bonds (covalent, ionic or metallic).",
+        "tr": "Dar miyan-e chahar khanevade, faghat jamed-e molekooli zarre-hayash ra ba niru-ye za'if-e beyn-e molekooli negah midarad; baghiye peyvand-e vaghe'i (eshteraki, yooni ya felezi) darand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جامد مولکولی؛ چون نیروهای بین مولکول‌ها ضعیف‌اند",
+      "en": "A molecular solid; because the forces between its molecules are weak",
+      "tr": "Jamed-e molekooli; chon niru-haye beyn-e molekool-ha za'if-and"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یخ (`H2O` جامد) در `0` درجه ذوب می‌شود ولی یخ خشک در `−78` درجه تصعید می‌شود. هر دو مولکولی‌اند؛ کدام نیروی بین‌مولکولی قوی‌تری دارد و چرا؟",
+      "en": "Exam twist: ice (solid `H2O`) melts at `0` °C but dry ice sublimes at `−78` °C. Both are molecular; which has the stronger intermolecular forces, and why?",
+      "tr": "Pich-e emtehani: yakh (`H2O`-e jamed) dar `0` daraje zob mishavad vali yakh-e khoshk dar `−78` daraje tas'id mishavad. Har do molekooli-and; kodam niru-ye beyn-e molekooli-ye ghavi-tari darad va chera?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: هر دو یک خانواده‌اند، پس باید نوع نیروی بین‌مولکولی را مقایسه کنی، نه نوع جامد را.",
+        "en": "The twist: both are in the same family, so you must compare the type of intermolecular force, not the type of solid.",
+        "tr": "Pich-e emtehan: har do yek khanevade-and, pas bayad no'-e niru-ye beyn-e molekooli ra moghayese koni, na no'-e jamed ra."
+       }
+      },
+      {
+       "text": {
+        "fa": "مولکول‌های آب با پیوند هیدروژنی به هم وصل‌اند؛ مولکول‌های ناقطبی `CO2` فقط نیروی ضعیف واندروالسی دارند. دمای تغییر حالت بالاتر یعنی نیروی قوی‌تر.",
+        "en": "Water molecules are linked by hydrogen bonds; non-polar `CO2` molecules have only weak van der Waals forces. A higher change-of-state temperature means a stronger force.",
+        "tr": "Molekool-haye ab ba peyvand-e hidrozheni be ham vasl-and; molekool-haye naghotbi-ye `CO2` faghat niru-ye za'if-e van der Waals darand. Dama-ye taghyir-e halat-e bala-tar ya'ni niru-ye ghavi-tar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "یخ؛ پیوند هیدروژنی از نیروی واندروالسی میان مولکول‌های `CO2` قوی‌تر است",
+      "en": "Ice; hydrogen bonds are stronger than the van der Waals forces between `CO2` molecules",
+      "tr": "Yakh; peyvand-e hidrozheni az niru-ye van der Waals miyan-e molekool-haye `CO2` ghavi-tar ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "وقتی جامد مولکولی ذوب می‌شود، پیوندهای اشتراکی درون مولکول نمی‌شکنند؛ فقط نیروهای بین مولکول‌ها می‌شکنند. یخ که ذوب می‌شود باز هم `H2O` است.",
+      "en": "When a molecular solid melts, the covalent bonds inside the molecules do not break; only the forces between molecules do. Melted ice is still `H2O`.",
+      "tr": "Vaghti jamed-e molekooli zob mishavad, peyvand-haye eshteraki-ye daroon-e molekool nemishekanand; faghat niru-haye beyn-e molekool-ha mishekanand. Yakhi ke zob mishavad baz ham `H2O` ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "داشتن پیوند اشتراکی، جامد را «کووالانسی» نمی‌کند. یخ خشک و ید پیوند اشتراکی دارند ولی مولکولی‌اند؛ جامد کووالانسی یعنی یک شبکهٔ پیوسته از پیوند اشتراکی بدون مولکول جدا.",
+      "en": "Having covalent bonds does not make a solid \"covalent network\". Dry ice and iodine contain covalent bonds but are molecular; a covalent network solid is one continuous network of covalent bonds with no separate molecules.",
+      "tr": "Dashtan-e peyvand-e eshteraki, jamed ra \"kovalansi\" nemikonad. Yakh-e khoshk va yod peyvand-e eshteraki darand vali molekooli-and; jamed-e kovalansi ya'ni yek shabake-ye peyvaste az peyvand-e eshteraki bedoon-e molekool-e joda."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 920
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 915
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 3,
+   "unit": 2,
+   "key": "chem-3-covalent-network",
+   "title": {
+    "fa": "جامدهای کووالانسی: سیلیس و سیلیسیم",
+    "en": "Covalent network solids: silica and silicon",
+    "tr": "Jamed-haye kovalansi: silis va silisiyom"
+   },
+   "summary": {
+    "fa": "یک داربست غول‌پیکر که همهٔ اتصال‌هایش جوش خورده؛ برای ذوب باید همهٔ جوش‌ها را برید.",
+    "en": "A giant scaffold welded at every joint; to melt it you must cut every weld.",
+    "tr": "Yek darbast-e ghool-peykar ke hame-ye ettesal-hayash joosh khorde; baraye zob bayad hame-ye joosh-ha ra borid."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: داربستی که همه‌جایش جوش خورده",
+      "en": "Understand first: a scaffold welded everywhere",
+      "tr": "Avval befahm: darbasti ke hame-jayash joosh khorde"
+     },
+     "body": {
+      "fa": "در «جامد کووالانسی» هیچ مولکول جدایی وجود ندارد: همهٔ اتم‌ها با پیوند اشتراکی در یک شبکهٔ سه‌بعدی پیوسته به هم وصل‌اند، طوری که کل بلور در واقع یک «مولکول غول‌پیکر» است. مثل داربستی که همهٔ اتصال‌هایش جوش خورده: برای ذوب کردنش باید میلیاردها پیوند قوی را شکست. برای همین این جامدها بسیار سخت‌اند و نقطهٔ ذوب بسیار بالایی دارند. نمونه‌ها: کوارتز و سیلیس (`SiO2`) (آزمون‌های دی ۱۴۰۱ و خرداد ۱۳۹۹)، سیلیسیم خالص (آزمون خرداد ۱۴۰۱)، الماس و گرافیت.",
+      "en": "In a \"covalent network solid\" there are no separate molecules: all the atoms are joined by covalent bonds in one continuous three-dimensional network, so the whole crystal is really one \"giant molecule\". Think of a scaffold welded at every joint: to melt it you must break billions of strong bonds. That is why these solids are very hard and have very high melting points. Examples: quartz and silica (`SiO2`) (Dey 1401 and Khordad 1399 papers), pure silicon (Khordad 1401 paper), diamond and graphite.",
+      "tr": "Dar \"jamed-e kovalansi\" hich molekool-e jodayi vojood nadarad: hame-ye atom-ha ba peyvand-e eshteraki dar yek shabake-ye se-bo'di-ye peyvaste be ham vasl-and, towri ke kol-e bolur dar vaghe' yek \"molekool-e ghool-peykar\" ast. Mesl-e darbasti ke hame-ye ettesal-hayash joosh khorde: baraye zob kardanash bayad milyard-ha peyvand-e ghavi ra shekast. Baraye hamin in jamed-ha besiyar sakht-and va noghte-ye zob-e besiyar balayi darand. Nemoone-ha: kvarts va silis (`SiO2`) (azmoon-haye Dey 1401 va Khordad 1399), silisiyom-e khales (azmoon-e Khordad 1401), almas va gerafit."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "درون شبکهٔ سیلیس",
+      "en": "Inside the silica network",
+      "tr": "Daroon-e shabake-ye silis"
+     },
+     "body": {
+      "fa": "در سیلیس، هر اتم سیلیسیم با چهار اتم اکسیژن پیوند دارد و هر اکسیژن پل میان دو سیلیسیم است (آزمون دی ۱۴۰۰). فرمول `SiO2` فقط «نسبت» اتم‌هاست، نه یک مولکول. سیلیسیم خالص هم شبکه‌ای شبیه الماس دارد: هر اتم سیلیسیم با چهار سیلیسیم دیگر پیوند دارد. جامدهای کووالانسی معمولاً رسانای برق نیستند، چون همهٔ الکترون‌های ظرفیت در پیوندها قفل شده‌اند؛ سختی بسیار زیاد همراه با نارسانایی برق نشانهٔ آشنای این خانواده است (آزمون خرداد ۱۳۹۹). گرافیت استثنای مهم است.",
+      "en": "In silica, each silicon atom is bonded to four oxygen atoms and each oxygen is a bridge between two silicons (Dey 1400 paper). The formula `SiO2` is only the \"ratio\" of atoms, not a molecule. Pure silicon also has a diamond-like network: each silicon atom is bonded to four other silicons. Covalent network solids usually do not conduct electricity, because all the valence electrons are locked in bonds; very great hardness together with no electrical conductivity is the familiar sign of this family (Khordad 1399 paper). Graphite is the important exception.",
+      "tr": "Dar silis, har atom-e silisiyom ba chahar atom-e oksizhen peyvand darad va har oksizhen pol-e miyan-e do silisiyom ast (azmoon-e Dey 1400). Formool-e `SiO2` faghat \"nesbat\"-e atom-hast, na yek molekool. Silisiyom-e khales ham shabake-i shabih-e almas darad: har atom-e silisiyom ba chahar silisiyom-e digar peyvand darad. Jamed-haye kovalansi ma'moolan rasana-ye barq nistand, chon hame-ye elektron-haye zarfiyat dar peyvand-ha ghofl shode-and; sakhti-ye besiyar ziyad hamrah ba narasanayi-ye barq neshane-ye ashna-ye in khanevade ast (azmoon-e Khordad 1399). Gerafit estesna-ye mohem ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  silica, SiO2 (flattened view)\n\n      O       O       O\n      |       |       |\n  O - Si - O - Si - O - Si - O\n      |       |       |\n      O       O       O\n      |       |       |\n  O - Si - O - Si - O - Si - O\n      |       |       |\n\n  each Si: 4 bonds to O\n  each O : bridge between 2 Si\n  no separate molecules",
+     "caption": {
+      "fa": "شبکهٔ سیلیس: هر سیلیسیم چهار پیوند با اکسیژن دارد و هر اکسیژن دو سیلیسیم را به هم وصل می‌کند.",
+      "en": "The silica network: each silicon has four bonds to oxygen and each oxygen links two silicons.",
+      "tr": "Shabake-ye silis: har silisiyom chahar peyvand ba oksizhen darad va har oksizhen do silisiyom ra be ham vasl mikonad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام ماده جامد کووالانسی با شبکهٔ سه‌بعدی و نقطهٔ ذوب بسیار بالاست: یخ خشک، ید یا کوارتز؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: which substance is a covalent network solid with a 3D lattice and a very high melting point: dry ice, iodine or quartz? (Dey 1401 paper)",
+      "tr": "Garm kardan: kodam made jamed-e kovalansi ba shabake-ye se-bo'di va noghte-ye zob-e besiyar balast: yakh-e khoshk, yod ya kvarts? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "یخ خشک و ید از مولکول‌های جدا ساخته شده‌اند و آسان تصعید می‌شوند. کوارتز (`SiO2`) یک شبکهٔ پیوسته از پیوندهای `Si−O` است.",
+        "en": "Dry ice and iodine are made of separate molecules and sublime easily. Quartz (`SiO2`) is one continuous network of `Si−O` bonds.",
+        "tr": "Yakh-e khoshk va yod az molekool-haye joda sakhte shode-and va asan tas'id mishavand. Kvarts (`SiO2`) yek shabake-ye peyvaste az peyvand-haye `Si−O` ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کوارتز (`SiO2`)",
+      "en": "Quartz (`SiO2`)",
+      "tr": "Kvarts (`SiO2`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: با توجه به ساختار سیلیس (`SiO2`)، توضیح بده چرا نقطهٔ ذوب آن بسیار بالاست. (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: from the structure of silica (`SiO2`), explain why its melting point is so high. (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ba tavajjoh be sakhtar-e silis (`SiO2`), tozih bede chera noghte-ye zob-e an besiyar balast. (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول، ساختار: سیلیس جامد کووالانسی است؛ هر سیلیسیم با چهار اکسیژن در یک شبکهٔ سه‌بعدی سخت پیوند دارد.",
+        "en": "First half mark, the structure: silica is a covalent network solid; each silicon is bonded to four oxygens in a rigid three-dimensional network.",
+        "tr": "Nim-nomre-ye avval, sakhtar: silis jamed-e kovalansi ast; har silisiyom ba chahar oksizhen dar yek shabake-ye se-bo'di-ye sakht peyvand darad."
+       }
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم، پیامد: برای ذوب باید پیوندهای اشتراکی قوی را شکست، نه نیروهای ضعیف بین‌مولکولی؛ این کار انرژی بسیار زیادی می‌خواهد.",
+        "en": "Second half mark, the consequence: melting means breaking strong covalent bonds, not weak intermolecular forces; that needs a very large amount of energy.",
+        "tr": "Nim-nomre-ye dovvom, payamad: baraye zob bayad peyvand-haye eshteraki-ye ghavi ra shekast, na niru-haye za'if-e beyn-e molekooli; in kar enerzhi-ye besiyar ziyadi mikhahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون ذوب آن یعنی شکستن پیوندهای اشتراکی قوی در یک شبکهٔ سه‌بعدی پیوسته",
+      "en": "Because melting it means breaking strong covalent bonds throughout one continuous 3D network",
+      "tr": "Chon zob-e an ya'ni shekastan-e peyvand-haye eshteraki-ye ghavi dar yek shabake-ye se-bo'di-ye peyvaste"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در `60` گرم سیلیس (`SiO2`، جرم مولی `60`) چند مول پیوند `Si−O` وجود دارد؟ و چرا `CO2` با فرمول مشابه، گاز است؟",
+      "en": "Exam twist: how many moles of `Si−O` bonds are there in `60` g of silica (`SiO2`, molar mass `60`)? And why is `CO2`, with a similar formula, a gas?",
+      "tr": "Pich-e emtehani: dar `60` geram silis (`SiO2`, jerm-e moli `60`) chand mol peyvand-e `Si−O` vojood darad? Va chera `CO2` ba formool-e moshabeh, gaz ast?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: جرم را به مول تبدیل کن؛ `60` گرم یعنی `1` مول اتم سیلیسیم.",
+        "en": "Step one: turn the mass into moles; `60` g means `1` mol of silicon atoms.",
+        "tr": "Ghadam-e avval: jerm ra be mol tabdil kon; `60` geram ya'ni `1` mol atom-e silisiyom."
+       },
+       "math": "60 / 60 = 1 mol Si"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: فرمول را نخوان، ساختار را بخوان. هر سیلیسیم چهار پیوند `Si−O` دارد و هر پیوند فقط یک سیلیسیم دارد، پس شمارش تکراری نیست.",
+        "en": "Step two, the real twist: read the structure, not the formula. Each silicon has four `Si−O` bonds and each bond has only one silicon, so nothing is counted twice.",
+        "tr": "Ghadam-e dovvom, pich-e asli: formool ra nakhan, sakhtar ra bekhan. Har silisiyom chahar peyvand-e `Si−O` darad va har peyvand faghat yek silisiyom darad, pas shomaresh tekrari nist."
+       },
+       "math": "1 × 4 = 4 mol Si−O"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم: کربن با اکسیژن پیوند دوگانه می‌سازد و مولکول کوچک و جدای `O=C=O` می‌سازد، پس `CO2` مولکولی است؛ سیلیسیم پیوند ساده با چهار اکسیژن می‌سازد و شبکه می‌سازد.",
+        "en": "Step three: carbon makes double bonds to oxygen and forms small, separate `O=C=O` molecules, so `CO2` is molecular; silicon makes single bonds to four oxygens and builds a network.",
+        "tr": "Ghadam-e sevvom: karbon ba oksizhen peyvand-e dogane misazad va molekool-e koochak va joda-ye `O=C=O` misazad, pas `CO2` molekooli ast; silisiyom peyvand-e sade ba chahar oksizhen misazad va shabake misazad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`4` مول پیوند؛ `CO2` مولکول‌های جدا دارد ولی `SiO2` یک شبکه است",
+      "en": "`4` mol of bonds; `CO2` has separate molecules but `SiO2` is a network",
+      "tr": "`4` mol peyvand; `CO2` molekool-haye joda darad vali `SiO2` yek shabake ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شباهت فرمول‌های `CO2` و `SiO2` فریبنده است: اولی مولکولی و فرار است، دومی کووالانسی با نقطهٔ ذوب بسیار بالا.",
+      "en": "The similar formulas `CO2` and `SiO2` are a trap: the first is molecular and volatile, the second a covalent network with a very high melting point.",
+      "tr": "Shebahat-e formool-haye `CO2` va `SiO2` faribande ast: avvali molekooli va farar ast, dovvomi kovalansi ba noghte-ye zob-e besiyar bala."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سیلیسیم (`Si`، عنصر) را با سیلیس (`SiO2`، ترکیب) یکی نگیر؛ هر دو جامد کووالانسی‌اند ولی دو مادهٔ متفاوت‌اند.",
+      "en": "Do not confuse silicon (`Si`, an element) with silica (`SiO2`, a compound); both are covalent network solids, but they are different substances.",
+      "tr": "Silisiyom (`Si`, onsor) ra ba silis (`SiO2`, tarkib) yeki nagir; har do jamed-e kovalansi-and vali do made-ye motafavet-and."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1400-Dey",
+     "number": 0
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 905
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 929
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 3,
+   "unit": 3,
+   "key": "chem-3-diamond-graphite",
+   "title": {
+    "fa": "الماس و گرافیت: دو چهرهٔ کربن",
+    "en": "Diamond and graphite: two faces of carbon",
+    "tr": "Almas va gerafit: do chehre-ye karbon"
+   },
+   "summary": {
+    "fa": "یک اتم، دو معماری: داربست سه‌بعدی یا دسته‌ای از برگه‌های کاغذ.",
+    "en": "One atom, two architectures: a 3D scaffold or a stack of paper sheets.",
+    "tr": "Yek atom, do me'mari: darbast-e se-bo'di ya daste-i az barge-haye kaghaz."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: یک اتم، دو معماری",
+      "en": "Understand first: one atom, two architectures",
+      "tr": "Avval befahm: yek atom, do me'mari"
+     },
+     "body": {
+      "fa": "الماس و گرافیت هر دو فقط از کربن‌اند؛ به این دو «دگرشکل» کربن می‌گویند. تفاوتشان فقط در چیدمان اتم‌هاست، ولی همین تفاوت همه‌چیز را عوض می‌کند. در «الماس» هر کربن با چهار کربن دیگر پیوند اشتراکی دارد و یک داربست سه‌بعدی محکم می‌سازد: سخت‌ترین مادهٔ طبیعی با نقطهٔ ذوب بسیار بالا (آزمون خرداد ۱۴۰۱). هیچ الکترون آزادی نمی‌ماند، پس الماس نارسانای برق است، هرچند گرما را بسیار خوب منتقل می‌کند.",
+      "en": "Diamond and graphite are both pure carbon; they are called carbon \"allotropes\". They differ only in how the atoms are arranged, but that difference changes everything. In \"diamond\" each carbon has covalent bonds to four other carbons, building a rigid 3D scaffold: the hardest natural substance, with a very high melting point (Khordad 1401 paper). No free electron is left, so diamond is an electrical insulator, though it conducts heat very well.",
+      "tr": "Almas va gerafit har do faghat az karbon-and; be in do \"degarshekl\"-e karbon migooyand. Tafavotashan faghat dar chidman-e atom-hast, vali hamin tafavot hame-chiz ra avaz mikonad. Dar \"almas\" har karbon ba chahar karbon-e digar peyvand-e eshteraki darad va yek darbast-e se-bo'di-ye mohkam misazad: sakht-tarin made-ye tabi'i ba noghte-ye zob-e besiyar bala (azmoon-e Khordad 1401). Hich elektron-e azadi nemimanad, pas almas narasana-ye barq ast, harchand garma ra besiyar khoob montaghel mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "گرافیت: لایه‌ها و الکترون‌های غیرمستقر",
+      "en": "Graphite: layers and delocalized electrons",
+      "tr": "Gerafit: laye-ha va elektron-haye gheyr-e mostaghar"
+     },
+     "body": {
+      "fa": "در «گرافیت» هر کربن فقط با سه کربن دیگر پیوند دارد و لایه‌های تخت شش‌ضلعی می‌سازد. الکترون چهارم هر کربن «غیرمستقر» است و آزادانه در طول لایه حرکت می‌کند؛ مثل بزرگراهی روی هر برگه. برای همین گرافیت، با اینکه نافلز است، برق را رسانا می‌کند (آزمون‌های خرداد ۱۴۰۱، دی ۱۳۹۹ و خرداد ۱۳۹۹). لایه‌ها با نیروی ضعیف واندروالسی روی هم مانده‌اند، پس مثل دسته‌ای از برگه‌های کاغذ روی هم می‌لغزند؛ به همین دلیل گرافیت نرم است و در مداد و روان‌کننده‌ها به کار می‌رود.",
+      "en": "In \"graphite\" each carbon bonds to only three others, forming flat hexagonal layers. Each carbon's fourth electron is \"delocalized\" and moves freely along the layer, like a highway on each sheet. That is why graphite, although a non-metal, conducts electricity (Khordad 1401, Dey 1399 and Khordad 1399 papers). The layers are held on top of each other by weak van der Waals forces, so they slide over each other like a stack of paper sheets; that is why graphite is soft and is used in pencils and lubricants.",
+      "tr": "Dar \"gerafit\" har karbon faghat ba se karbon-e digar peyvand darad va laye-haye takht-e shesh-zel'i misazad. Elektron-e chaharom-e har karbon \"gheyr-e mostaghar\" ast va azadane dar tool-e laye harekat mikonad; mesl-e bozorgrahi rooye har barge. Baraye hamin gerafit, ba inke nafelez ast, barq ra rasana mikonad (azmoon-haye Khordad 1401, Dey 1399 va Khordad 1399). Laye-ha ba niru-ye za'if-e van der Waals rooye ham mande-and, pas mesl-e daste-i az barge-haye kaghaz rooye ham milaghzand; be hamin dalil gerafit narm ast va dar medad va ravan-konande-ha be kar miravad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  DIAMOND           GRAPHITE\n  C: 4 bonds        C: 3 bonds\n\n      C             C-C-C-C  layer\n      |              e- e-   free\n  C - C - C         ..weak forces..\n      |             C-C-C-C  layer\n      C              e- e-   free\n\n  3D network        sliding sheets\n  hard, insulator   soft, conductor",
+     "caption": {
+      "fa": "الماس: چهار پیوند و شبکهٔ سه‌بعدی؛ گرافیت: سه پیوند، لایه‌های لغزان و الکترون‌های آزاد.",
+      "en": "Diamond: four bonds and a 3D network; graphite: three bonds, sliding layers and free electrons.",
+      "tr": "Almas: chahar peyvand va shabake-ye se-bo'di; gerafit: se peyvand, laye-haye laghzan va elektron-haye azad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام دگرشکل کربن، یک جامد کووالانسی لایه‌ای، برق را رسانا می‌کند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: which carbon allotrope, a layered covalent solid, conducts electricity? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kodam degarshekl-e karbon, yek jamed-e kovalansi-ye laye-i, barq ra rasana mikonad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رسانایی به ذرهٔ بار‌دار متحرک نیاز دارد. فقط در گرافیت هر کربن یک الکترون آزاد دارد.",
+        "en": "Conduction needs mobile charged particles. Only in graphite does each carbon have a free electron.",
+        "tr": "Rasanayi be zarre-ye bar-dar-e motaharrek niyaz darad. Faghat dar gerafit har karbon yek elektron-e azad darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "گرافیت",
+      "en": "Graphite",
+      "tr": "Gerafit"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: تفاوت ساختار و رسانایی الکتریکی الماس و گرافیت را بر اساس نوع پیوند و چیدمان اتم‌ها توضیح بده. (آزمون خرداد ۱۳۹۹؛ نیز دی ۱۳۹۹)",
+      "en": "Textbook and exam: explain the difference in structure and electrical conductivity between diamond and graphite from their bonding and atomic arrangement. (Khordad 1399 paper; also Dey 1399)",
+      "tr": "Mas'ale-ye ketab va emtehan: tafavot-e sakhtar va rasanayi-ye elektriki-ye almas va gerafit ra bar asas-e no'-e peyvand va chidman-e atom-ha tozih bede. (azmoon-e Khordad 1399; niz Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الماس: هر کربن چهار پیوند اشتراکی در یک شبکهٔ سه‌بعدی دارد؛ همهٔ الکترون‌های ظرفیت در پیوندند، پس نارساناست.",
+        "en": "Diamond: each carbon has four covalent bonds in a 3D network; all the valence electrons are in bonds, so it is an insulator.",
+        "tr": "Almas: har karbon chahar peyvand-e eshteraki dar yek shabake-ye se-bo'di darad; hame-ye elektron-haye zarfiyat dar peyvand-and, pas narasanast."
+       }
+      },
+      {
+       "text": {
+        "fa": "گرافیت: هر کربن سه پیوند در لایه‌های تخت دارد؛ الکترون چهارم غیرمستقر است و در لایه حرکت می‌کند، پس رساناست.",
+        "en": "Graphite: each carbon has three bonds in flat layers; the fourth electron is delocalized and moves through the layer, so it conducts.",
+        "tr": "Gerafit: har karbon se peyvand dar laye-haye takht darad; elektron-e chaharom gheyr-e mostaghar ast va dar laye harekat mikonad, pas rasanast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "الماس: شبکهٔ سه‌بعدی، بدون الکترون آزاد، نارسانا؛ گرافیت: لایه‌ای، با الکترون غیرمستقر، رسانا",
+      "en": "Diamond: 3D network, no free electrons, insulator; graphite: layered, with delocalized electrons, conductor",
+      "tr": "Almas: shabake-ye se-bo'di, bedoon-e elektron-e azad, narasana; gerafit: laye-i, ba elektron-e gheyr-e mostaghar, rasana"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در `12` گرم الماس و در `12` گرم گرافیت، هر کدام چند مول پیوند `C−C` (پیوند میان دو کربن) وجود دارد؟ (`C = 12`)",
+      "en": "Exam twist: how many moles of `C−C` bonds are there in `12` g of diamond and in `12` g of graphite? (`C = 12`)",
+      "tr": "Pich-e emtehani: dar `12` geram almas va dar `12` geram gerafit, har kodam chand mol peyvand-e `C−C` vojood darad? (`C = 12`)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: `12` گرم یعنی `1` مول اتم کربن در هر دو.",
+        "en": "Step one: `12` g means `1` mol of carbon atoms in both.",
+        "tr": "Ghadam-e avval: `12` geram ya'ni `1` mol atom-e karbon dar har do."
+       },
+       "math": "12 / 12 = 1 mol C"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: هر پیوند میان «دو» کربن مشترک است، پس تعداد پیوندهای هر اتم را باید نصف کرد؛ برخلاف `Si−O` در سیلیس.",
+        "en": "Step two, the real twist: each bond is shared between \"two\" carbons, so the bonds per atom must be halved; unlike `Si−O` in silica.",
+        "tr": "Ghadam-e dovvom, pich-e asli: har peyvand miyan-e \"do\" karbon moshtarak ast, pas te'dad-e peyvand-haye har atom ra bayad nesf kard; bar-khalaf-e `Si−O` dar silis."
+       },
+       "math": "1 × 4 / 2 = 2 ,   1 × 3 / 2 = 1.5"
+      }
+     ],
+     "answer": {
+      "fa": "الماس `2` مول، گرافیت `1.5` مول پیوند `C−C`",
+      "en": "Diamond `2` mol, graphite `1.5` mol of `C−C` bonds",
+      "tr": "Almas `2` mol, gerafit `1.5` mol peyvand-e `C−C`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "الماس نارسانای «برق» است ولی رسانای بسیار خوب «گرما»؛ این دو رسانایی را با هم قاطی نکن (آزمون خرداد ۱۳۹۹).",
+      "en": "Diamond is an \"electrical\" insulator but a very good \"heat\" conductor; do not mix up the two kinds of conduction (Khordad 1399 paper).",
+      "tr": "Almas narasana-ye \"barq\" ast vali rasana-ye besiyar khoob-e \"garma\"; in do rasanayi ra ba ham ghati nakon (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نرمی گرافیت از نیروی ضعیف «میان لایه‌ها»ست، نه از ضعف پیوندهای درون لایه؛ پیوندهای درون لایه بسیار قوی‌اند.",
+      "en": "Graphite's softness comes from the weak forces \"between the layers\", not from weak bonds inside a layer; the bonds within a layer are very strong.",
+      "tr": "Narmi-ye gerafit az niru-ye za'if-e \"miyan-e laye-ha\"st, na az za'f-e peyvand-haye daroon-e laye; peyvand-haye daroon-e laye besiyar ghavi-and."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1399-Dey",
+     "number": 925
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 3,
+   "unit": 4,
+   "key": "chem-3-ionic-solids",
+   "title": {
+    "fa": "جامدهای یونی و آنتالپی فروپاشی شبکه",
+    "en": "Ionic solids and lattice energy",
+    "tr": "Jamed-haye yooni va antalpi-ye foroopashi-ye shabake"
+   },
+   "summary": {
+    "fa": "صفحهٔ شطرنجی از آهن‌رباها: بسیار محکم، ولی یک لغزش کافی است تا بشکند.",
+    "en": "A chessboard of magnets: very strong, but one slip is enough to shatter it.",
+    "tr": "Safhe-ye shatranji az ahan-roba-ha: besiyar mohkam, vali yek laghzesh kafi ast ta beshkanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: صفحهٔ شطرنجی از آهن‌رباها",
+      "en": "Understand first: a chessboard of magnets",
+      "tr": "Avval befahm: safhe-ye shatranji az ahan-roba-ha"
+     },
+     "body": {
+      "fa": "در «جامد یونی»، مثل نمک خوراکی (`NaCl`)، یون‌های مثبت و منفی یک‌درمیان در یک شبکهٔ منظم چیده شده‌اند و «جاذبهٔ الکترواستاتیکی» آن‌ها را محکم کنار هم نگه می‌دارد (آزمون دی ۱۴۰۰). هر یون از همه طرف با یون‌های ناهم‌نام احاطه شده؛ مثل صفحهٔ شطرنجی از آهن‌رباهای کوچک. برای همین جامدهای یونی سخت‌اند و نقطهٔ ذوب بالایی دارند. انرژی لازم برای فروپاشی یک مول شبکهٔ یونی به یون‌های گازی جدا را «آنتالپی فروپاشی شبکه» می‌گویند (آزمون دی ۱۳۹۹).",
+      "en": "In an \"ionic solid\", such as table salt (`NaCl`), positive and negative ions alternate in an ordered lattice, and \"electrostatic attraction\" holds them firmly together (Dey 1400 paper). Every ion is surrounded on all sides by ions of the opposite charge, like a chessboard of tiny magnets. That is why ionic solids are hard and have high melting points. The energy needed to break one mole of an ionic lattice into separate gaseous ions is called the \"lattice energy\" (Dey 1399 paper).",
+      "tr": "Dar \"jamed-e yooni\", mesl-e namak-e khoraki (`NaCl`), yoon-haye mosbat va manfi yek-dar-miyan dar yek shabake-ye monazzam chide shode-and va \"jazebe-ye elektrostatiki\" an-ha ra mohkam kenar-e ham negah midarad (azmoon-e Dey 1400). Har yoon az hame taraf ba yoon-haye naham-nam ehate shode; mesl-e safhe-ye shatranji az ahan-roba-haye koochak. Baraye hamin jamed-haye yooni sakht-and va noghte-ye zob-e balayi darand. Enerzhi-ye lazem baraye foroopashi-ye yek mol shabake-ye yooni be yoon-haye gazi-ye joda ra \"antalpi-ye foroopashi-ye shabake\" migooyand (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آنتالپی شبکه، رسانایی و شکنندگی",
+      "en": "Lattice energy, conductivity and brittleness",
+      "tr": "Antalpi-ye shabake, rasanayi va shekanandegi"
+     },
+     "body": {
+      "fa": "آنتالپی فروپاشی شبکه با دو چیز بزرگ می‌شود: «بار بیشتر» یون‌ها و «اندازهٔ کوچک‌تر» آن‌ها (یون‌ها نزدیک‌تر). اثر بار معمولاً قوی‌تر است: `MgO` با یون‌های دوبار‌دار شبکه‌ای بسیار محکم‌تر از `NaCl` دارد. جامد یونی در حالت جامد برق را رسانا نمی‌کند، چون یون‌ها در جای خود قفل‌اند؛ ولی در حالت مذاب یا محلول، یون‌ها آزاد می‌شوند و برق را رسانا می‌کنند (آزمون خرداد ۱۳۹۹). جامدهای یونی شکننده‌اند (آزمون خرداد ۱۴۰۱): ضربه یک لایه را جابه‌جا می‌کند، یون‌های هم‌نام روبه‌روی هم قرار می‌گیرند، یکدیگر را می‌رانند و بلور می‌شکند.",
+      "en": "Lattice energy grows with two things: a \"larger charge\" on the ions and a \"smaller size\" (ions closer together). The charge effect is usually stronger: `MgO`, with doubly charged ions, has a far stronger lattice than `NaCl`. An ionic solid does not conduct electricity as a solid, because the ions are locked in place; but when molten or dissolved, the ions are freed and conduct (Khordad 1399 paper). Ionic solids are brittle (Khordad 1401 paper): a blow shifts one layer, ions of the same charge end up facing each other, they repel, and the crystal shatters.",
+      "tr": "Antalpi-ye foroopashi-ye shabake ba do chiz bozorg mishavad: \"bar-e bishtar\"-e yoon-ha va \"andaze-ye koochak-tar\"-e an-ha (yoon-ha nazdik-tar). Asar-e bar ma'moolan ghavi-tar ast: `MgO` ba yoon-haye do-bar-dar shabake-i besiyar mohkam-tar az `NaCl` darad. Jamed-e yooni dar halat-e jamed barq ra rasana nemikonad, chon yoon-ha dar ja-ye khod ghofl-and; vali dar halat-e mozab ya mahlool, yoon-ha azad mishavand va barq ra rasana mikonand (azmoon-e Khordad 1399). Jamed-haye yooni shekanande-and (azmoon-e Khordad 1401): zarbe yek laye ra jabeja mikonad, yoon-haye ham-nam roo-be-rooye ham gharar migirand, yekdigar ra miranand va bolur mishekanad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  before the blow:\n    + - + - + -\n    - + - + - +\n\n  after the top layer slides:\n      + - + - + -\n    - + - + - +\n      ^   ^   ^\n  + now sits over +, - over -\n  like charges repel: SHATTERS",
+     "caption": {
+      "fa": "شکنندگی جامد یونی: پس از لغزش یک لایه، یون‌های هم‌نام روبه‌رو می‌شوند و یکدیگر را می‌رانند.",
+      "en": "Why ionic solids are brittle: after one layer slides, ions of the same charge face each other and repel.",
+      "tr": "Shekanandegi-ye jamed-e yooni: pas az laghzesh-e yek laye, yoon-haye ham-nam roo-be-roo mishavand va yekdigar ra miranand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: چه نیرویی یون‌های مثبت و منفی را در شبکهٔ بلور یک جامد یونی محکم کنار هم نگه می‌دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: what force holds the positive and negative ions tightly together in the crystal lattice of an ionic solid? (Dey 1400 paper)",
+      "tr": "Garm kardan: che niruyi yoon-haye mosbat va manfi ra dar shabake-ye bolur-e yek jamed-e yooni mohkam kenar-e ham negah midarad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بارهای ناهم‌نام یکدیگر را می‌کشند؛ این همان جاذبهٔ الکترواستاتیکی است، مثل قطب‌های مخالف آهن‌ربا.",
+        "en": "Opposite charges attract each other; that is electrostatic attraction, like opposite poles of a magnet.",
+        "tr": "Bar-haye naham-nam yekdigar ra mikeshand; in haman jazebe-ye elektrostatiki ast, mesl-e ghotb-haye mokhalef-e ahan-roba."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جاذبهٔ الکترواستاتیکی",
+      "en": "Electrostatic attraction",
+      "tr": "Jazebe-ye elektrostatiki"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رسانایی خوب در حالت مذاب یا محلول ولی نارسانایی در حالت جامد، ویژگی کدام دسته از جامدهاست؟ چرا؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: good conductivity when molten or dissolved, but none in the solid state, is the main feature of which class of solids? Why? (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: rasanayi-ye khoob dar halat-e mozab ya mahlool vali narasanayi dar halat-e jamed, vizhegi-ye kodam daste az jamed-hast? Chera? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رسانایی به ذرهٔ بار‌دار «متحرک» نیاز دارد. فلزها در هر دو حالت رسانا‌اند و جامدهای مولکولی و کووالانسی معمولاً در هیچ حالتی. فقط جامد یونی بین این دو حالت فرق می‌کند.",
+        "en": "Conduction needs \"mobile\" charged particles. Metals conduct in both states, and molecular and covalent solids usually in neither. Only an ionic solid changes between the two.",
+        "tr": "Rasanayi be zarre-ye bar-dar-e \"motaharrek\" niyaz darad. Felez-ha dar har do halat rasana-and va jamed-haye molekooli va kovalansi ma'moolan dar hich halati. Faghat jamed-e yooni beyn-e in do halat fargh mikonad."
+       }
+      },
+      {
+       "text": {
+        "fa": "در جامد، یون‌ها هستند ولی در شبکه قفل‌اند؛ با ذوب یا انحلال آزاد می‌شوند و می‌توانند حرکت کنند.",
+        "en": "In the solid, the ions are there but locked in the lattice; melting or dissolving frees them to move.",
+        "tr": "Dar jamed, yoon-ha hastand vali dar shabake ghofl-and; ba zob ya enhelal azad mishavand va mitavanand harekat konand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جامد یونی؛ چون یون‌ها فقط در مذاب یا محلول آزادانه حرکت می‌کنند",
+      "en": "An ionic solid; because the ions move freely only when molten or dissolved",
+      "tr": "Jamed-e yooni; chon yoon-ha faghat dar mozab ya mahlool azadane harekat mikonand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: نقطهٔ ذوب `NaCl`، `KCl` و `MgO` را از بیشترین به کمترین مرتب کن. (شعاع: `K+` بزرگ‌تر از `Na+`)",
+      "en": "Exam twist: rank the melting points of `NaCl`, `KCl` and `MgO` from highest to lowest. (Radius: `K+` is larger than `Na+`)",
+      "tr": "Pich-e emtehani: noghte-ye zob-e `NaCl`, `KCl` va `MgO` ra az bishtarin be kamtarin morattab kon. (sho'a': `K+` bozorg-tar az `Na+`)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول، اول بار را نگاه کن: `MgO` از `Mg2+` و `O2-` ساخته شده؛ حاصل‌ضرب بارها چهار برابر `NaCl` و `KCl` است، پس شبکه‌اش بسیار محکم‌تر است.",
+        "en": "Step one, look at charge first: `MgO` is made of `Mg2+` and `O2-`; the product of the charges is four times that of `NaCl` and `KCl`, so its lattice is far stronger.",
+        "tr": "Ghadam-e avval, avval bar ra negah kon: `MgO` az `Mg2+` va `O2-` sakhte shode; hasel-e zarb-e bar-ha chahar barabar-e `NaCl` va `KCl` ast, pas shabake-ash besiyar mohkam-tar ast."
+       },
+       "math": "2 × 2 = 4   vs   1 × 1 = 1"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم، پیچ اصلی: وقتی بارها برابرند، اندازه تصمیم می‌گیرد. `K+` بزرگ‌تر است، پس یون‌ها دورترند و جاذبه ضعیف‌تر.",
+        "en": "Step two, the real twist: when the charges are equal, size decides. `K+` is larger, so the ions are farther apart and the attraction is weaker.",
+        "tr": "Ghadam-e dovvom, pich-e asli: vaghti bar-ha barabar-and, andaze tasmim migirad. `K+` bozorg-tar ast, pas yoon-ha door-tar-and va jazebe za'if-tar."
+       },
+       "math": "MgO > NaCl > KCl"
+      }
+     ],
+     "answer": {
+      "fa": "`MgO` بیشترین، سپس `NaCl`، سپس `KCl`",
+      "en": "`MgO` highest, then `NaCl`, then `KCl`",
+      "tr": "`MgO` bishtarin, sepas `NaCl`, sepas `KCl`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جامد یونی «یون دارد» ولی در حالت جامد رسانا نیست؛ رسانایی به یون «متحرک» نیاز دارد، نه فقط وجود یون.",
+      "en": "An ionic solid \"has ions\" but does not conduct as a solid; conduction needs \"mobile\" ions, not just ions being present.",
+      "tr": "Jamed-e yooni \"yoon darad\" vali dar halat-e jamed rasana nist; rasanayi be yoon-e \"motaharrek\" niyaz darad, na faghat vojood-e yoon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سختی و شکنندگی با هم تناقض ندارند: جامد یونی سخت است (خراش برنمی‌دارد) ولی شکننده است (با ضربه خرد می‌شود).",
+      "en": "Hardness and brittleness do not contradict each other: an ionic solid is hard (resists scratching) but brittle (shatters when struck).",
+      "tr": "Sakhti va shekanandegi ba ham tanaghoz nadarand: jamed-e yooni sakht ast (kharash bar nemidarad) vali shekanande ast (ba zarbe khord mishavad)."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1400-Dey",
+     "number": 907
+    },
+    {
+     "session": "1399-Dey",
+     "number": 908
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 919
+    }
+   ]
+  },
+  {
+   "subject": "Chemistry",
+   "chapter": 3,
+   "unit": 5,
+   "key": "chem-3-metallic-solids",
+   "title": {
+    "fa": "جامدهای فلزی و مدل دریای الکترونی",
+    "en": "Metallic solids and the electron-sea model",
+    "tr": "Jamed-haye felezi va model-e darya-ye elektroni"
+   },
+   "summary": {
+    "fa": "کاتیون‌هایی که در دریایی از الکترون شناورند: دریا جاری است، پس فلز خم می‌شود و رسانا است.",
+    "en": "Cations floating in a sea of electrons: the sea flows, so the metal bends and conducts.",
+    "tr": "Katiyon-hayi ke dar daryayi az elektron shenavar-and: darya jari ast, pas felez kham mishavad va rasana ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کاتیون‌ها در دریای الکترون",
+      "en": "Understand first: cations in an electron sea",
+      "tr": "Avval befahm: katiyon-ha dar darya-ye elektron"
+     },
+     "body": {
+      "fa": "در «جامد فلزی» اتم‌های فلز الکترون‌های ظرفیتشان را رها می‌کنند و به کاتیون تبدیل می‌شوند. این کاتیون‌ها در یک شبکهٔ بلوری منظم می‌نشینند و الکترون‌های رهاشده مثل دریایی میان آن‌ها جاری‌اند؛ جاذبهٔ میان کاتیون‌ها و این «دریای الکترونی» فلز را نگه می‌دارد (آزمون خرداد ۱۴۰۱). به این مدل «مدل دریای الکترونی» می‌گویند (آزمون دی ۱۳۹۹).",
+      "en": "In a \"metallic solid\", the metal atoms release their valence electrons and become cations. These cations sit in an ordered crystal lattice, and the released electrons flow between them like a sea; the attraction between the cations and this \"electron sea\" holds the metal together (Khordad 1401 paper). This picture is called the \"electron-sea model\" (Dey 1399 paper).",
+      "tr": "Dar \"jamed-e felezi\" atom-haye felez elektron-haye zarfiyateshan ra raha mikonand va be katiyon tabdil mishavand. In katiyon-ha dar yek shabake-ye boloori-ye monazzam mineshinand va elektron-haye raha-shode mesl-e daryayi miyan-e an-ha jari-and; jazebe-ye miyan-e katiyon-ha va in \"darya-ye elektroni\" felez ra negah midarad (azmoon-e Khordad 1401). Be in model \"model-e darya-ye elektroni\" migooyand (azmoon-e Dey 1399)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  metallic solid: electron sea\n\n   +   e-  +   e-  +   e-  +\n     e-  e-  e-  e-  e-  e-\n   +   e-  +   e-  +   e-  +\n     e-  e-  e-  e-  e-  e-\n   +   e-  +   e-  +   e-  +\n\n  \"+\"  metal cation (fixed lattice)\n  \"e-\" delocalized valence electron\n       free to move anywhere",
+     "caption": {
+      "fa": "مدل دریای الکترونی: کاتیون‌های فلز در شبکه، و الکترون‌های غیرمستقر که آزادانه میان آن‌ها حرکت می‌کنند.",
+      "en": "The electron-sea model: metal cations in a lattice, and delocalized electrons moving freely between them.",
+      "tr": "Model-e darya-ye elektroni: katiyon-haye felez dar shabake, va elektron-haye gheyr-e mostaghar ke azadane miyan-e an-ha harekat mikonand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سه ویژگی از یک دریا",
+      "en": "Three properties from one sea",
+      "tr": "Se vizhegi az yek darya"
+     },
+     "body": {
+      "fa": "همین دریای جاری، سه ویژگی مشهور فلزها را توضیح می‌دهد. «رسانایی برق و گرما»: الکترون‌های غیرمستقر آزادانه حرکت می‌کنند، چه فلز جامد باشد چه مذاب (آزمون خرداد ۱۴۰۱). «چکش‌خواری و شکل‌پذیری»: وقتی ضربه لایه‌ای از کاتیون‌ها را جابه‌جا می‌کند، دریای الکترون فوراً خودش را با شکل تازه تنظیم می‌کند و پیوند نمی‌شکند (آزمون خرداد ۱۴۰۱)؛ مثل تیله‌هایی در عسل. «جلای فلزی»: الکترون‌های آزاد نور را بازتاب می‌دهند. هرچه کاتیون بار بیشتری داشته باشد و الکترون بیشتری به دریا بدهد، پیوند فلزی قوی‌تر است؛ منیزیم (`650` درجه) بسیار دیرتر از سدیم (`98` درجه) ذوب می‌شود.",
+      "en": "This flowing sea explains three famous properties of metals. \"Electrical and thermal conductivity\": the delocalized electrons move freely, whether the metal is solid or molten (Khordad 1401 paper). \"Malleability and ductility\": when a blow shifts a layer of cations, the electron sea instantly adjusts to the new shape and no bond breaks (Khordad 1401 paper), like marbles in honey. \"Metallic lustre\": the free electrons reflect light. The higher the cation's charge and the more electrons it gives to the sea, the stronger the metallic bond; magnesium (`650` °C) melts far later than sodium (`98` °C).",
+      "tr": "Hamin darya-ye jari, se vizhegi-ye mashhoor-e felez-ha ra tozih midahad. \"Rasanayi-ye barq va garma\": elektron-haye gheyr-e mostaghar azadane harekat mikonand, che felez jamed bashad che mozab (azmoon-e Khordad 1401). \"Chakosh-khari va shekl-paziri\": vaghti zarbe laye-i az katiyon-ha ra jabeja mikonad, darya-ye elektron foran khodash ra ba shekl-e taze tanzim mikonad va peyvand nemishekanad (azmoon-e Khordad 1401); mesl-e tile-hayi dar asal. \"Jala-ye felezi\": elektron-haye azad noor ra baztab midahand. Harche katiyon bar-e bishtari dashte bashad va elektron-e bishtari be darya bedahad, peyvand-e felezi ghavi-tar ast; menizium (`650` daraje) besiyar dir-tar az sodiyom (`98` daraje) zob mishavad."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام مدل پیوند، رسانایی بالا و چکش‌خواری فلزها را با حرکت آزاد الکترون‌های غیرمستقر توضیح می‌دهد؟ (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: which bonding model explains the high conductivity and malleability of metals through the free movement of delocalized electrons? (Dey 1399 paper)",
+      "tr": "Garm kardan: kodam model-e peyvand, rasanayi-ye bala va chakosh-khari-ye felez-ha ra ba harekat-e azad-e elektron-haye gheyr-e mostaghar tozih midahad? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید سؤال «الکترون‌های غیرمستقر» است؛ در فلز این الکترون‌ها دریایی می‌سازند که کاتیون‌ها در آن شناورند.",
+        "en": "The key words are \"delocalized electrons\"; in a metal these electrons form a sea in which the cations float.",
+        "tr": "Kelid-e so'al \"elektron-haye gheyr-e mostaghar\" ast; dar felez in elektron-ha daryayi misazand ke katiyon-ha dar an shenavar-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مدل دریای الکترونی",
+      "en": "The electron-sea model",
+      "tr": "Model-e darya-ye elektroni"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام ویژگی ساختار فلزی، رسانایی گرمایی و الکتریکی بالای فلزها را، چه جامد و چه مذاب، توضیح می‌دهد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: which feature of metallic structure explains the high thermal and electrical conductivity of metals, both solid and molten? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam vizhegi-ye sakhtar-e felezi, rasanayi-ye garmayi va elektriki-ye bala-ye felez-ha ra, che jamed va che mozab, tozih midahad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رسانایی برق یعنی حرکت ذرهٔ بار‌دار. در فلز، کاتیون‌ها در جای خود می‌مانند، ولی الکترون‌های ظرفیت غیرمستقرند و آزادانه جریان می‌یابند.",
+        "en": "Electrical conduction means charged particles moving. In a metal the cations stay in place, but the valence electrons are delocalized and flow freely.",
+        "tr": "Rasanayi-ye barq ya'ni harekat-e zarre-ye bar-dar. Dar felez, katiyon-ha dar ja-ye khod mimanand, vali elektron-haye zarfiyat gheyr-e mostaghar-and va azadane jaryan miyaband."
+       }
+      },
+      {
+       "text": {
+        "fa": "این دریا با ذوب از بین نمی‌رود، پس فلز مذاب هم رساناست؛ همین الکترون‌های متحرک انرژی گرمایی را هم سریع جابه‌جا می‌کنند.",
+        "en": "Melting does not destroy this sea, so molten metal also conducts; the same mobile electrons also carry heat energy quickly.",
+        "tr": "In darya ba zob az beyn nemiravad, pas felez-e mozab ham rasanast; hamin elektron-haye motaharrek enerzhi-ye garmayi ra ham sari' jabeja mikonand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دریای الکترون‌های ظرفیت غیرمستقر",
+      "en": "The sea of delocalized valence electrons",
+      "tr": "Darya-ye elektron-haye zarfiyat-e gheyr-e mostaghar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یک تکه مس و یک بلور نمک را چکش می‌زنیم. چرا مس پهن می‌شود ولی نمک خرد می‌شود؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: we hammer a piece of copper and a salt crystal. Why does the copper flatten while the salt shatters? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: yek tekke mes va yek bolur-e namak ra chakosh mizanim. Chera mes pahn mishavad vali namak khord mishavad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در هر دو، ضربه یک لایه را جابه‌جا می‌کند؛ تفاوت در این است که «پس از لغزش» چه چیزی کنار هم قرار می‌گیرد.",
+        "en": "The twist: in both, the blow shifts a layer; the difference is what ends up side by side \"after the slide\".",
+        "tr": "Pich-e emtehan: dar har do, zarbe yek laye ra jabeja mikonad; tafavot dar in ast ke \"pas az laghzesh\" che chizi kenar-e ham gharar migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "در مس، کاتیون‌ها هنوز در همان دریای الکترون‌اند و جاذبه حفظ می‌شود. در نمک، یون‌های هم‌نام روبه‌رو می‌شوند و یکدیگر را می‌رانند.",
+        "en": "In copper, the cations are still in the same electron sea and the attraction is kept. In salt, ions of the same charge come face to face and repel.",
+        "tr": "Dar mes, katiyon-ha hanooz dar haman darya-ye elektron-and va jazebe hefz mishavad. Dar namak, yoon-haye ham-nam roo-be-roo mishavand va yekdigar ra miranand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دریای الکترون مس با لغزش لایه‌ها سازگار می‌شود؛ در نمک دافعهٔ یون‌های هم‌نام بلور را می‌شکند",
+      "en": "Copper's electron sea adjusts as the layers slide; in salt, repulsion between like ions shatters the crystal",
+      "tr": "Darya-ye elektron-e mes ba laghzesh-e laye-ha sazgar mishavad; dar namak dafe'e-ye yoon-haye ham-nam bolur ra mishekanad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فلز هم در حالت جامد و هم در حالت مذاب رساناست؛ جامد یونی فقط در حالت مذاب یا محلول. این دو را در جدول مقایسه جابه‌جا ننویس.",
+      "en": "A metal conducts both as a solid and when molten; an ionic solid only when molten or dissolved. Do not swap them in a comparison table.",
+      "tr": "Felez ham dar halat-e jamed va ham dar halat-e mozab rasanast; jamed-e yooni faghat dar halat-e mozab ya mahlool. In do ra dar jadval-e moghayese jabeja nanevis."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در فلز، حامل جریان «الکترون‌ها»یند و کاتیون‌ها در جای خود می‌مانند؛ در مذاب یونی، حامل جریان خود «یون‌ها»یند.",
+      "en": "In a metal the current carriers are \"electrons\" and the cations stay put; in a molten ionic compound the carriers are the \"ions\" themselves.",
+      "tr": "Dar felez, hamel-e jaryan \"elektron-ha\"-yand va katiyon-ha dar ja-ye khod mimanand; dar mozab-e yooni, hamel-e jaryan khod-e \"yoon-ha\"-yand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 927
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1399-Dey",
+     "number": 918
+    }
+   ]
+  }
+ ]
+}
