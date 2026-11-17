@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2040,
- "versionName": "3.16.2",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2040/Ghamgah-E-Hadis.apk",
+ "versionCode": 2041,
+ "versionName": "3.16.3",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2041/Ghamgah-E-Hadis.apk",
  "size": 43261870,
- "sha256": "fb85f4fb573c357b94ed7891d572d6472306053aadd8c45dd489a0f12a057fe4",
+ "sha256": "2e7de96c986b02c1e7abef4cf2b85a2734f8c379eb8f17d50a15316555dfc57d",
  "notes": {
-  "fa": "برچسب «پیش‌رو» از فصل‌ها برداشته شد؛ همهٔ فصل‌ها درس‌نامهٔ کامل دارند. فصل‌هایی که در قطب‌نما تیک زده‌ای حالا یک تیک دارند.",
-  "en": "The 'Upcoming' tag is gone from the chapter list: every chapter has its full lesson now. Chapters you ticked in the Study Compass now show a tick.",
-  "tr": "Barchasb-e 'Pish-roo' az fasl-ha bardashte shod; hame-ye fasl-ha darsname-ye kamel darand. Fasl-hayi ke dar ghotb-nama tik zade-i hala yek tik darand."
+  "fa": "آماده برای تمرین‌های تازه: پرسش‌های تمرینی که برای خود برنامه نوشته شده‌اند، با برچسب روشن «تمرین نوشته‌شده برای برنامه» در درس‌ها و فصل‌ها می‌آیند و هرگز جای سؤال امتحان واقعی نمی‌نشینند.",
+  "en": "Ready for new practice: questions written for the app itself now come clearly labelled 'Practice written for the app' in lessons and chapters, and never pose as real exam questions.",
+  "tr": "Amade baraye tamrin-haye taze: porsesh-haye tamrini ke baraye khod-e barname neveshte shode-and, ba barchasb-e roshan-e 'Tamrin-e neveshte-shode baraye barname' dar dars-ha va fasl-ha miayand va hargez ja-ye so'al-e emtehan-e vaghe'i nemineshinand."
  }
 }
