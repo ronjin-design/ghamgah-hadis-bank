@@ -1,0 +1,1346 @@
+{
+ "version": 137,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 1,
+   "key": "phys-3-shm",
+   "title": {
+    "fa": "حرکت هماهنگ ساده: دوره، بسامد و دامنه",
+    "en": "Simple harmonic motion: period, frequency and amplitude",
+    "tr": "Harekat-e hamahang-e sade: dowre, basamad va damane"
+   },
+   "summary": {
+    "fa": "تابی که رفت و برگشت می‌کند: هر دور همان‌قدر طول می‌کشد، هرچقدر هم بلند تاب بخوری.",
+    "en": "A swing going back and forth: every cycle takes the same time, however high you swing.",
+    "tr": "Tabi ke raft va bargasht mikonad: har dor haman-ghadr tool mikeshad, harcheghadr ham boland tab bekhori."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: رفت و برگشتِ منظم",
+      "en": "Understand first: a regular back-and-forth",
+      "tr": "Avval befahm: raft va bargasht-e monazzam"
+     },
+     "body": {
+      "fa": "در «حرکت هماهنگ ساده»، جسم حول یک نقطهٔ تعادل رفت و برگشت می‌کند و نیروی بازگرداننده او را همیشه به تعادل برمی‌گرداند، مثل جسمی که به فنر بسته شده. بیشترین فاصله از تعادل «دامنه» (`A`) است (آزمون دی ۱۴۰۰). زمان یک نوسان کامل «دوره» (`T`) است (آزمون دی ۱۴۰۰) و شمار نوسان‌ها در هر ثانیه «بسامد» (`f`)؛ این دو وارون هم‌اند: `f = 1/T` (آزمون خرداد ۱۴۰۱). «بسامد زاویه‌ای» `ω = 2πf` است (آزمون خرداد ۱۴۰۱).",
+      "en": "In \"simple harmonic motion\", an object moves back and forth about an equilibrium point, and a restoring force always pulls it back towards equilibrium, like an object tied to a spring. The greatest distance from equilibrium is the \"amplitude\" (`A`) (Dey 1400 paper). The time for one complete oscillation is the \"period\" (`T`) (Dey 1400 paper), and the number of oscillations each second is the \"frequency\" (`f`); the two are reciprocals: `f = 1/T` (Khordad 1401 paper). The \"angular frequency\" is `ω = 2πf` (Khordad 1401 paper).",
+      "tr": "Dar \"harekat-e hamahang-e sade\", jesm hol-e yek noghte-ye ta'adol raft va bargasht mikonad va niroo-ye bazgardanande oo ra hamishe be ta'adol barmigardanad, mesl-e jesmi ke be fanar baste shode. Bishtarin fasele az ta'adol \"damane\" (`A`) ast (azmoon-e Dey 1400). Zaman-e yek navasan-e kamel \"dowre\" (`T`) ast (azmoon-e Dey 1400) va shomar-e navasan-ha dar har sanie \"basamad\" (`f`); in do varoon-e ham-and: `f = 1/T` (azmoon-e Khordad 1401). \"Basamad-e zaviye-i\" `ω = 2πf` ast (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " wall\n |-/\\/\\/\\/\\-[m]\n\n x:  -A --- 0 --- +A --- 0 --- -A\n     |<--- one full cycle: T --->|\n\n at 0     : speed largest, a = 0\n at -A, +A: speed 0, |a| largest",
+     "caption": {
+      "fa": "نوسانگر جرم-فنر: در مرکز تندترین و در دو سر لحظه‌ای ساکن است.",
+      "en": "A mass-spring oscillator: fastest in the middle, momentarily at rest at the two ends.",
+      "tr": "Navasangar-e jerm-fanar: dar markaz tond-tarin va dar do sar lahze-i saken ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نوسانگر جرم-فنر",
+      "en": "The mass-spring oscillator",
+      "tr": "Navasangar-e jerm-fanar"
+     },
+     "body": {
+      "fa": "برای نوسانگر جرم-فنر، بسامد زاویه‌ای فقط به ثابت فنر و جرم بستگی دارد (آزمون خرداد ۱۳۹۹): `ω = √(k/m)` و `T = 2π√(m/k)`. فنر سفت‌تر (`k` بیشتر) تندتر نوسان می‌کند و جرم بیشتر کندتر؛ ولی دامنه در دوره اثری ندارد. بیشینهٔ تندی در نقطهٔ تعادل است: `v(max) = A ω`.",
+      "en": "For a mass-spring oscillator, the angular frequency depends only on the spring constant and the mass (Khordad 1399 paper): `ω = √(k/m)` and `T = 2π√(m/k)`. A stiffer spring (larger `k`) oscillates faster and a larger mass slower; but the amplitude has no effect on the period. The maximum speed is at equilibrium: `v(max) = A ω`.",
+      "tr": "Baraye navasangar-e jerm-fanar, basamad-e zaviye-i faghat be sabet-e fanar va jerm bastegi darad (azmoon-e Khordad 1399): `ω = √(k/m)` va `T = 2π√(m/k)`. Fanar-e seft-tar (`k`-e bishtar) tond-tar navasan mikonad va jerm-e bishtar kond-tar; vali damane dar dowre asari nadarad. Bishine-ye tondi dar noghte-ye ta'adol ast: `v(max) = A ω`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "ω = √(k/m) ,   T = 2π√(m/k) ,   f = 1/T ,   ω = 2πf",
+     "caption": {
+      "fa": "جرم بر حسب کیلوگرم؛ `v(max) = A ω`",
+      "en": "Mass in kilograms; `v(max) = A ω`",
+      "tr": "Jerm bar hasab-e kilogram; `v(max) = A ω`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: رابطهٔ بسامد (`f`) و دوره (`T`) در حرکت هماهنگ ساده چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what is the relationship between frequency (`f`) and period (`T`) in simple harmonic motion? (Khordad 1401 paper)",
+      "tr": "Garm kardan: rabete-ye basamad (`f`) va dowre (`T`) dar harekat-e hamahang-e sade chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اگر هر نوسان `T` ثانیه طول بکشد، در یک ثانیه `1/T` نوسان انجام می‌شود.",
+        "en": "If each oscillation takes `T` seconds, then `1/T` oscillations happen in one second.",
+        "tr": "Agar har navasan `T` sanie tool bekeshad, dar yek sanie `1/T` navasan anjam mishavad."
+       },
+       "math": "T = 0.5 s   ⟹   f = 2 Hz"
+      }
+     ],
+     "answer": {
+      "fa": "`f = 1/T`",
+      "en": "`f = 1/T`",
+      "tr": "`f = 1/T`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نوسانگری به جرم `200` گرم به فنری با `k = 50 N/m` بسته است. دوره را حساب کن و اگر دامنه `10 cm` باشد، بیشینهٔ تندی را بیاب. (`π = 3`؛ آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a `200` g oscillator is attached to a spring with `k = 50 N/m`. Find the period and, if the amplitude is `10 cm`, the maximum speed. (`π = 3`; Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: navasangari be jerm-e `200` geram be fanari ba `k = 50 N/m` baste ast. Dowre ra hesab kon va agar damane `10 cm` bashad, bishine-ye tondi ra beyab. (`π = 3`; azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ اول: جرم را به کیلوگرم تبدیل کن (`0.2 kg`) و در فرمول دوره بگذار؛ کلید آزمون آن را `0.4` ثانیه گرد کرده است.",
+        "en": "First half mark: convert the mass to kilograms (`0.2 kg`) and use the period formula; the paper's key rounds it to `0.4` s.",
+        "tr": "Nim-nomre-ye avval: jerm ra be kilogram tabdil kon (`0.2 kg`) va dar formool-e dowre begozar; kelid-e azmoon an ra `0.4` sanie gerd karde ast."
+       },
+       "math": "T = 2π√(0.2 / 50) = 6 × 0.063 ≈ 0.4 s"
+      },
+      {
+       "text": {
+        "fa": "نیم‌نمرهٔ دوم: `ω = 2π/T` و سپس `v(max) = A ω`، با دامنه به متر. (بدون گرد کردن، `ω = √250 ≈ 15.8` است.)",
+        "en": "Second half mark: `ω = 2π/T`, then `v(max) = A ω`, with the amplitude in metres. (Without rounding, `ω = √250 ≈ 15.8`.)",
+        "tr": "Nim-nomre-ye dovvom: `ω = 2π/T` va sepas `v(max) = A ω`, ba damane be metr. (Bedoon-e gerd kardan, `ω = √250 ≈ 15.8` ast.)"
+       },
+       "math": "ω = 6 / 0.4 = 15 rad/s ,   v(max) = 0.1 × 15 = 1.5 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`T ≈ 0.4 s`؛ `v(max) = 1.5 m/s`",
+      "en": "`T ≈ 0.4 s`; `v(max) = 1.5 m/s`",
+      "tr": "`T ≈ 0.4 s`; `v(max) = 1.5 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر جرم نوسانگر جرم-فنر چهار برابر شود و دامنه دو برابر، دوره چه تغییری می‌کند؟ (آزمون خرداد ۱۳۹۹)",
+      "en": "Exam twist: if the mass of a mass-spring oscillator is made four times larger and its amplitude doubled, how does the period change? (Khordad 1399 paper)",
+      "tr": "Pich-e emtehani: agar jerm-e navasangar-e jerm-fanar chahar barabar shavad va damane do barabar, dowre che taghyiri mikonad? (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دامنه در فرمول دوره نیست؛ آن تغییر را کنار بگذار.",
+        "en": "The twist: amplitude is not in the period formula; set that change aside.",
+        "tr": "Pich-e emtehan: damane dar formool-e dowre nist; an taghyir ra kenar begozar."
+       }
+      },
+      {
+       "text": {
+        "fa": "`T` با `√m` متناسب است؛ ریشهٔ `4` می‌شود `2`.",
+        "en": "`T` is proportional to `√m`; the square root of `4` is `2`.",
+        "tr": "`T` ba `√m` motenaseb ast; rishe-ye `4` mishavad `2`."
+       },
+       "math": "T' = 2π√(4m/k) = 2T"
+      }
+     ],
+     "answer": {
+      "fa": "دو برابر می‌شود (فقط به خاطر جرم)",
+      "en": "It doubles (because of the mass alone)",
+      "tr": "Do barabar mishavad (faghat be khater-e jerm)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دامنه در دورهٔ نوسانگر جرم-فنر اثری ندارد؛ فقط `m` و `k`.",
+      "en": "Amplitude has no effect on the period of a mass-spring oscillator; only `m` and `k` do.",
+      "tr": "Damane dar dowre-ye navasangar-e jerm-fanar asari nadarad; faghat `m` va `k`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیش از جایگذاری، گرم را به کیلوگرم و سانتی‌متر را به متر تبدیل کن.",
+      "en": "Before substituting, convert grams to kilograms and centimetres to metres.",
+      "tr": "Pish az jaygozari, geram ra be kilogram va santi-metr ra be metr tabdil kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1400-Dey",
+     "number": 910
+    },
+    {
+     "session": "1400-Dey",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 2,
+   "key": "phys-3-pendulum-resonance",
+   "title": {
+    "fa": "آونگ ساده و تشدید",
+    "en": "The simple pendulum and resonance",
+    "tr": "Avang-e sade va tashdid"
+   },
+   "summary": {
+    "fa": "دورهٔ آونگ را فقط طول نخ و گرانش تعیین می‌کنند؛ و هل دادن هم‌آهنگ با تاب، آن را بالا و بالاتر می‌برد.",
+    "en": "Only the string length and gravity set a pendulum's period; and pushing a swing in time with it sends it higher and higher.",
+    "tr": "Dowre-ye avang ra faghat tool-e nakh va geranesh ta'yin mikonand; va hol dadan-e ham-ahang ba tab, an ra bala va bala-tar mibarad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو تاب هم‌طول",
+      "en": "Understand first: two swings of equal length",
+      "tr": "Avval befahm: do tab-e ham-tool"
+     },
+     "body": {
+      "fa": "«آونگ ساده» وزنه‌ای کوچک است که به نخی سبک آویزان است. برای نوسان‌های کوچک، دوره‌اش `T = 2π√(L/g)` است: با ریشهٔ دوم طول نخ متناسب است (آزمون خرداد ۱۴۰۱) و جرم وزنه در آن نیست، پس دو برابر کردن جرم دوره را تغییر نمی‌دهد (آزمون خرداد ۱۴۰۱). مثل دو تاب هم‌طول، یکی با بچه و یکی با بزرگ‌سال: هم‌زمان رفت و برگشت می‌کنند.",
+      "en": "A \"simple pendulum\" is a small bob hanging on a light string. For small oscillations its period is `T = 2π√(L/g)`: it is proportional to the square root of the string length (Khordad 1401 paper), and the bob's mass does not appear, so doubling the mass does not change the period (Khordad 1401 paper). Like two swings of the same length, one with a child and one with an adult: they swing back and forth in step.",
+      "tr": "\"Avang-e sade\" vazne-i koochak ast ke be nakhi sabok avizan ast. Baraye navasan-haye koochak, dowre-ash `T = 2π√(L/g)` ast: ba rishe-ye dovvom-e tool-e nakh motenaseb ast (azmoon-e Khordad 1401) va jerm-e vazne dar an nist, pas do barabar kardan-e jerm dowre ra taghyir nemidahad (azmoon-e Khordad 1401). Mesl-e do tab-e ham-tool, yeki ba bachche va yeki ba bozorg-sal: ham-zaman raft va bargasht mikonand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   ///////////////\n          |\\\n          | \\\n          |  \\   L\n          |   \\\n          |    O   bob, mass m\n\n   T = 2 pi sqrt(L / g)\n   no m in the formula!\n   L x 4  ->  T x 2",
+     "caption": {
+      "fa": "آونگ ساده: دوره فقط به `L` و `g` بستگی دارد، نه به جرم وزنه.",
+      "en": "A simple pendulum: the period depends only on `L` and `g`, not on the bob's mass.",
+      "tr": "Avang-e sade: dowre faghat be `L` va `g` bastegi darad, na be jerm-e vazne."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تشدید",
+      "en": "Resonance",
+      "tr": "Tashdid"
+     },
+     "body": {
+      "fa": "هر نوسانگر یک «بسامد طبیعی» دارد. اگر نیروی دوره‌ای بیرونی با همان بسامد طبیعی به آن وارد شود، دامنه به‌شدت بزرگ می‌شود؛ این «تشدید» است (آزمون دی ۱۴۰۱). مثل هل دادن تاب: اگر درست در لحظهٔ برگشت هل بدهی، با هل‌های کوچک تاب بالا و بالاتر می‌رود. تشدید می‌تواند مفید باشد (رادیو، آلات موسیقی) یا خطرناک (لرزش پل‌ها).",
+      "en": "Every oscillator has a \"natural frequency\". If a periodic outside force acts on it at that same natural frequency, the amplitude grows sharply; this is \"resonance\" (Dey 1401 paper). Like pushing a swing: push at just the right moment each time it comes back, and small pushes send it higher and higher. Resonance can be useful (radios, musical instruments) or dangerous (bridges shaking).",
+      "tr": "Har navasangar yek \"basamad-e tabi'i\" darad. Agar niroo-ye dowre-i-ye birooni ba haman basamad-e tabi'i be an vared shavad, damane be-shedat bozorg mishavad; in \"tashdid\" ast (azmoon-e Dey 1401). Mesl-e hol dadan-e tab: agar dorost dar lahze-ye bargasht hol bedahi, ba hol-haye koochak tab bala va bala-tar miravad. Tashdid mitavanad mofid bashad (radio, alat-e moosighi) ya khatarnak (larzesh-e pol-ha)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: اگر بسامد یک نیروی دوره‌ای بیرونی با بسامد طبیعی نوسانگر برابر شود و دامنه به‌شدت زیاد شود، این پدیده چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: when the frequency of a periodic outside force matches an oscillator's natural frequency and the amplitude grows sharply, what is this called? (Dey 1401 paper)",
+      "tr": "Garm kardan: agar basamad-e yek niroo-ye dowre-i-ye birooni ba basamad-e tabi'i-ye navasangar barabar shavad va damane be-shedat ziyad shavad, in padide che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "هم‌آهنگی هل‌ها با رفت و برگشت طبیعی، انرژی را مرتب اضافه می‌کند.",
+        "en": "Pushes in step with the natural back-and-forth keep adding energy.",
+        "tr": "Ham-ahangi-ye hol-ha ba raft va bargasht-e tabi'i, enerzhi ra morattab ezafe mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تشدید",
+      "en": "Resonance",
+      "tr": "Tashdid"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: آونگی به طول `1` متر داریم. دورهٔ آن را حساب کن. اگر جرم وزنه دو برابر شود، دوره چه می‌شود؟ (`g = 10`، `π^2 ≈ 10`؛ آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a pendulum is `1` m long. Find its period. If the bob's mass is doubled, what happens to the period? (`g = 10`, `π^2 ≈ 10`; Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: avangi be tool-e `1` metr darim. Dowre-ye an ra hesab kon. Agar jerm-e vazne do barabar shavad, dowre che mishavad? (`g = 10`, `π^2 ≈ 10`; azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در فرمول بگذار؛ با `π^2 ≈ g`، ریشه ساده می‌شود.",
+        "en": "Substitute; with `π^2 ≈ g`, the square root simplifies.",
+        "tr": "Dar formool begozar; ba `π^2 ≈ g`, rishe sade mishavad."
+       },
+       "math": "T = 2π√(1/10) = 2π / √10 ≈ 2π / π = 2 s"
+      },
+      {
+       "text": {
+        "fa": "جرم در فرمول نیست، پس دوره عوض نمی‌شود.",
+        "en": "Mass is not in the formula, so the period does not change.",
+        "tr": "Jerm dar formool nist, pas dowre avaz nemishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`T ≈ 2 s`؛ با دو برابر شدن جرم تغییر نمی‌کند",
+      "en": "`T ≈ 2 s`; it does not change when the mass doubles",
+      "tr": "`T ≈ 2 s`; ba do barabar shodan-e jerm taghyir nemikonad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آونگی روی زمین دورهٔ `2` ثانیه دارد. همان آونگ را به ماه می‌بریم که `g` در آن شش‌یک زمین است. دوره چه می‌شود؟",
+      "en": "Exam twist: a pendulum has a period of `2` s on Earth. We take it to the Moon, where `g` is one-sixth of Earth's. What is the period there?",
+      "tr": "Pich-e emtehani: avangi rooye zamin dowre-ye `2` sanie darad. Haman avang ra be mah mibarim ke `g` dar an shesh-yek-e zamin ast. Dowre che mishavad?"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `g` زیر رادیکال و در مخرج است؛ `g` کمتر یعنی دورهٔ «بیشتر».",
+        "en": "The twist: `g` is under the root, in the denominator; a smaller `g` means a \"longer\" period.",
+        "tr": "Pich-e emtehan: `g` zir-e radikal va dar makhraj ast; `g`-e kamtar ya'ni dowre-ye \"bishtar\"."
+       },
+       "math": "T' = 2π√(L / (g/6)) = √6 × T"
+      },
+      {
+       "text": {
+        "fa": "عدد بگذار.",
+        "en": "Put the numbers in.",
+        "tr": "Adad begozar."
+       },
+       "math": "T' = 2 × √6 ≈ 4.9 s"
+      }
+     ],
+     "answer": {
+      "fa": "حدود `4.9` ثانیه (`√6` برابر)",
+      "en": "About `4.9` s (`√6` times longer)",
+      "tr": "Hodood-e `4.9` sanie (`√6` barabar)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دورهٔ آونگ به جرم وزنه بستگی ندارد؛ ولی دورهٔ نوسانگر جرم-فنر دارد. این دو را قاطی نکن.",
+      "en": "A pendulum's period does not depend on the bob's mass; a mass-spring oscillator's does. Do not mix them up.",
+      "tr": "Dowre-ye avang be jerm-e vazne bastegi nadarad; vali dowre-ye navasangar-e jerm-fanar darad. In do ra ghati nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دوره با ریشهٔ طول متناسب است، نه با خود طول؛ چهار برابر شدن طول دوره را فقط دو برابر می‌کند.",
+      "en": "The period is proportional to the square root of the length, not the length itself; four times the length only doubles the period.",
+      "tr": "Dowre ba rishe-ye tool motenaseb ast, na ba khod-e tool; chahar barabar shodan-e tool dowre ra faghat do barabar mikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1401-Dey",
+     "number": 935
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 3,
+   "key": "phys-3-wave-basics",
+   "title": {
+    "fa": "موج: طول موج، بسامد و تندی",
+    "en": "Waves: wavelength, frequency and speed",
+    "tr": "Moj: tool-e moj, basamad va tondi"
+   },
+   "summary": {
+    "fa": "موج انرژی را جابه‌جا می‌کند، نه ماده را؛ مثل موج ورزشگاه که تماشاگران فقط بلند می‌شوند و می‌نشینند.",
+    "en": "A wave carries energy, not matter; like a stadium wave where the fans only stand up and sit down.",
+    "tr": "Moj enerzhi ra jabeja mikonad, na made ra; mesl-e moj-e varzeshgah ke tamashagaran faghat boland mishavand va mineshinand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: موج ورزشگاه",
+      "en": "Understand first: the stadium wave",
+      "tr": "Avval befahm: moj-e varzeshgah"
+     },
+     "body": {
+      "fa": "موج آشفتگی‌ای است که در محیط پیش می‌رود و انرژی را می‌برد، در حالی که ذره‌های محیط فقط در جای خود نوسان می‌کنند؛ مثل موج ورزشگاه. در موج «عرضی» ذره‌ها عمود بر جهت انتشار نوسان می‌کنند (موج طناب) و در موج «طولی» در راستای انتشار (صوت). فاصلهٔ دو قلهٔ پشت سر هم، یا دو دره، «طول موج» (`λ`) است (آزمون‌های خرداد ۱۳۹۹ و خرداد ۱۴۰۱) و فاصلهٔ یک قله تا درهٔ بعدی نصف طول موج (آزمون خرداد ۱۴۰۱).",
+      "en": "A wave is a disturbance that travels through a medium carrying energy, while the particles of the medium only oscillate in place, like a stadium wave. In a \"transverse\" wave the particles vibrate perpendicular to the direction of travel (a wave on a rope), and in a \"longitudinal\" wave along it (sound). The distance between two consecutive crests, or two troughs, is the \"wavelength\" (`λ`) (Khordad 1399 and Khordad 1401 papers), and the distance from a crest to the next trough is half a wavelength (Khordad 1401 paper).",
+      "tr": "Moj ashoftegi-i ast ke dar mohit pish miravad va enerzhi ra mibarad, dar hali ke zarre-haye mohit faghat dar ja-ye khod navasan mikonand; mesl-e moj-e varzeshgah. Dar moj-e \"arzi\" zarre-ha amood bar jahat-e enteshar navasan mikonand (moj-e tanab) va dar moj-e \"tooli\" dar rasta-ye enteshar (sowt). Fasele-ye do ghelle-ye posht-e sar-e ham, ya do darre, \"tool-e moj\" (`λ`) ast (azmoon-haye Khordad 1399 va Khordad 1401) va fasele-ye yek ghelle ta darre-ye ba'di nesf-e tool-e moj (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "     crest          crest\n      _              _\n    /   \\          /   \\\n --/-----\\--------/-----\\------\n          \\      /       \\\n           '-__-'         '-_\n           trough\n      |<-- wavelength -->|\n\n crest to next trough = half of it",
+     "caption": {
+      "fa": "طول موج: از یک قله تا قلهٔ بعدی؛ قله تا دره نصف آن است.",
+      "en": "Wavelength: from one crest to the next; crest to trough is half of it.",
+      "tr": "Tool-e moj: az yek ghelle ta ghelle-ye ba'di; ghelle ta darre nesf-e an ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "چه چیزی تندی، بسامد و طول موج را تعیین می‌کند؟",
+      "en": "What sets the speed, frequency and wavelength?",
+      "tr": "Che chizi tondi, basamad va tool-e moj ra ta'yin mikonad?"
+     },
+     "body": {
+      "fa": "موج در هر دوره یک طول موج جلو می‌رود، پس `v = f λ` (آزمون دی ۱۴۰۰). «بسامد» را چشمه تعیین می‌کند؛ وقتی موج وارد محیط دیگری می‌شود، بسامد ثابت می‌ماند (آزمون دی ۱۴۰۱) و تندی و طول موج عوض می‌شوند. تندی را محیط تعیین می‌کند: برای موج عرضی روی تار کشیده، `v = √(F/μ)`، یعنی با ریشهٔ دوم چگالی خطی جرم `μ` وارون‌متناسب است (آزمون دی ۱۴۰۰).",
+      "en": "A wave moves forward one wavelength every period, so `v = f λ` (Dey 1400 paper). The \"frequency\" is set by the source; when a wave passes into another medium the frequency stays the same (Dey 1401 paper) while the speed and the wavelength change. The speed is set by the medium: for a transverse wave on a stretched string, `v = √(F/μ)`, so it is inversely proportional to the square root of the linear mass density `μ` (Dey 1400 paper).",
+      "tr": "Moj dar har dowre yek tool-e moj jelo miravad, pas `v = f λ` (azmoon-e Dey 1400). \"Basamad\" ra cheshme ta'yin mikonad; vaghti moj vared-e mohit-e digari mishavad, basamad sabet mimanad (azmoon-e Dey 1401) va tondi va tool-e moj avaz mishavand. Tondi ra mohit ta'yin mikonad: baraye moj-e arzi rooye tar-e keshide, `v = √(F/μ)`, ya'ni ba rishe-ye dovvom-e chegali-ye khatti-ye jerm-e `μ` varoon-motenaseb ast (azmoon-e Dey 1400)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "v = f λ ,   v = √(F / μ)",
+     "caption": {
+      "fa": "دومی برای تار: `F` نیروی کشش، `μ` جرم هر متر تار",
+      "en": "The second is for a string: `F` is its tension, `μ` its mass per metre",
+      "tr": "Dovvomi baraye tar: `F` niroo-ye keshesh, `μ` jerm-e har metr-e tar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: فاصلهٔ دو قلهٔ پشت سر هم در یک موج عرضی چه نام دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what is the distance between two consecutive crests of a transverse wave called? (Khordad 1401 paper)",
+      "tr": "Garm kardan: fasele-ye do ghelle-ye posht-e sar-e ham dar yek moj-e arzi che nam darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "از یک قله تا قلهٔ بعدی، موج یک الگوی کامل را تکرار کرده است.",
+        "en": "From one crest to the next, the wave has repeated one complete pattern.",
+        "tr": "Az yek ghelle ta ghelle-ye ba'di, moj yek olgoo-ye kamel ra tekrar karde ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "طول موج (`λ`)",
+      "en": "Wavelength (`λ`)",
+      "tr": "Tool-e moj (`λ`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رابطهٔ تندی، بسامد و طول موج را بنویس. اگر بسامد یک موج صوتی در هوا دو برابر شود، طول موج چه می‌شود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: write the relation between speed, frequency and wavelength. If the frequency of a sound wave in air doubles, what happens to the wavelength? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: rabete-ye tondi, basamad va tool-e moj ra benevis. Agar basamad-e yek moj-e sowti dar hava do barabar shavad, tool-e moj che mishavad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رابطه را بنویس؛ هوا همان محیط است، پس تندی ثابت می‌ماند.",
+        "en": "Write the relation; the air is the same medium, so the speed stays fixed.",
+        "tr": "Rabete ra benevis; hava haman mohit ast, pas tondi sabet mimanad."
+       },
+       "math": "v = f λ"
+      },
+      {
+       "text": {
+        "fa": "با `v` ثابت، `λ` با `f` وارون‌متناسب است.",
+        "en": "With `v` fixed, `λ` is inversely proportional to `f`.",
+        "tr": "Ba `v`-e sabet, `λ` ba `f` varoon-motenaseb ast."
+       },
+       "math": "λ' = v / (2f) = λ / 2"
+      }
+     ],
+     "answer": {
+      "fa": "`v = fλ`؛ طول موج نصف می‌شود",
+      "en": "`v = fλ`; the wavelength halves",
+      "tr": "`v = fλ`; tool-e moj nesf mishavad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تاری با چگالی خطی `0.01 kg/m` با نیروی `100 N` کشیده شده و با بسامد `50 Hz` نوسان می‌کند. طول موج چقدر است؟ اگر نیروی کشش چهار برابر شود، تندی چه می‌شود؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: a string of linear density `0.01 kg/m` is stretched with `100 N` and vibrated at `50 Hz`. What is the wavelength? If the tension is made four times larger, what happens to the speed? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: tari ba chegali-ye khatti-ye `0.01 kg/m` ba niroo-ye `100 N` keshide shode va ba basamad-e `50 Hz` navasan mikonad. Tool-e moj cheghadr ast? Agar niroo-ye keshesh chahar barabar shavad, tondi che mishavad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قدم اول: تندی را محیط تعیین می‌کند؛ از رابطهٔ تار حساب کن.",
+        "en": "Step one: the medium sets the speed; use the string formula.",
+        "tr": "Ghadam-e avval: tondi ra mohit ta'yin mikonad; az rabete-ye tar hesab kon."
+       },
+       "math": "v = √(100 / 0.01) = √10000 = 100 m/s"
+      },
+      {
+       "text": {
+        "fa": "قدم دوم: بسامد را چشمه داده؛ طول موج از `v = fλ`.",
+        "en": "Step two: the source gave the frequency; the wavelength comes from `v = fλ`.",
+        "tr": "Ghadam-e dovvom: basamad ra cheshme dade; tool-e moj az `v = fλ`."
+       },
+       "math": "λ = 100 / 50 = 2 m"
+      },
+      {
+       "text": {
+        "fa": "قدم سوم، پیچ اصلی: تندی با «ریشهٔ» نیرو متناسب است؛ ریشهٔ `4` می‌شود `2`.",
+        "en": "Step three, the real twist: the speed goes with the \"square root\" of the tension; the root of `4` is `2`.",
+        "tr": "Ghadam-e sevvom, pich-e asli: tondi ba \"rishe\"-ye niroo motenaseb ast; rishe-ye `4` mishavad `2`."
+       },
+       "math": "v' = √(4F/μ) = 2v = 200 m/s"
+      }
+     ],
+     "answer": {
+      "fa": "`λ = 2 m`؛ تندی دو برابر (`200 m/s`)",
+      "en": "`λ = 2 m`; the speed doubles (`200 m/s`)",
+      "tr": "`λ = 2 m`; tondi do barabar (`200 m/s`)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بسامد را چشمه تعیین می‌کند و تندی را محیط؛ در یک محیط، تغییر بسامد تندی را عوض نمی‌کند، فقط طول موج را.",
+      "en": "The source sets the frequency and the medium sets the speed; in one medium, changing the frequency changes only the wavelength, not the speed.",
+      "tr": "Basamad ra cheshme ta'yin mikonad va tondi ra mohit; dar yek mohit, taghyir-e basamad tondi ra avaz nemikonad, faghat tool-e moj ra."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فاصلهٔ قله تا دره نصف طول موج است، نه یک طول موج.",
+      "en": "The distance from a crest to a trough is half a wavelength, not a whole one.",
+      "tr": "Fasele-ye ghelle ta darre nesf-e tool-e moj ast, na yek tool-e moj."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 0
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 906
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1400-Dey",
+     "number": 913
+    },
+    {
+     "session": "1401-Dey",
+     "number": 907
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 4,
+   "key": "phys-3-sound-speed-pitch",
+   "title": {
+    "fa": "صوت: تندی، زیر و بمی و گسترهٔ شنوایی",
+    "en": "Sound: speed, pitch and the range of hearing",
+    "tr": "Sowt: tondi, zir va bami va gostare-ye shenavayi"
+   },
+   "summary": {
+    "fa": "صوت در جامد تندتر از هوا می‌رود؛ و زیر و بمی آن را بسامد تعیین می‌کند.",
+    "en": "Sound travels faster in solids than in air; and its pitch is set by its frequency.",
+    "tr": "Sowt dar jamed tond-tar az hava miravad; va zir va bami-ye an ra basamad ta'yin mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: گوش روی ریل",
+      "en": "Understand first: your ear on the rail",
+      "tr": "Avval befahm: goosh rooye reyl"
+     },
+     "body": {
+      "fa": "صوت یک موج طولی مکانیکی است: لایه‌های فشرده و باز شدهٔ محیط که پشت سر هم پیش می‌روند. تندی صوت بیشتر به ویژگی‌های محیط بستگی دارد (آزمون خرداد ۱۴۰۰)، نه به بلندی یا بسامد آن. معمولاً صوت در جامدها از همه تندتر است (آزمون خرداد ۱۴۰۰)، بعد مایع‌ها و بعد گازها؛ مثل گوش گذاشتن روی ریل که صدای قطار را زودتر از هوا می‌شنوی. در هوای گرم‌تر هم صوت تندتر می‌رود.",
+      "en": "Sound is a longitudinal mechanical wave: compressed and stretched layers of the medium travelling one after another. The speed of sound depends mainly on the properties of the medium (Khordad 1400 paper), not on its loudness or frequency. Sound is usually fastest in solids (Khordad 1400 paper), then liquids, then gases, like putting your ear to a rail and hearing the train sooner than through the air. Sound also travels faster in warmer air.",
+      "tr": "Sowt yek moj-e tooli-ye mekaniki ast: laye-haye feshorde va baz shode-ye mohit ke posht-e sar-e ham pish miravand. Tondi-ye sowt bishtar be vizhegi-haye mohit bastegi darad (azmoon-e Khordad 1400), na be bolandi ya basamad-e an. Ma'moolan sowt dar jamed-ha az hame tond-tar ast (azmoon-e Khordad 1400), ba'd maye'-ha va ba'd gaz-ha; mesl-e goosh gozashtan rooye reyl ke seda-ye ghatar ra zoodtar az hava mishenavi. Dar hava-ye garm-tar ham sowt tond-tar miravad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " speed of sound (roughly)\n air, 20 C     about  340 m/s\n water         about 1500 m/s\n steel         about 5000 m/s\n\n solid  >  liquid  >  gas\n\n new medium: f stays the same\n faster medium -> longer wavelength",
+     "caption": {
+      "fa": "تندی صوت در محیط‌های گوناگون؛ هنگام عبور، بسامد ثابت و طول موج همراه تندی تغییر می‌کند.",
+      "en": "The speed of sound in different media; on crossing, the frequency stays fixed and the wavelength changes with the speed.",
+      "tr": "Tondi-ye sowt dar mohit-haye goonagoon; hengam-e oboor, basamad sabet va tool-e moj hamrah-e tondi taghyir mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "زیر و بمی و گسترهٔ شنوایی",
+      "en": "Pitch and the range of hearing",
+      "tr": "Zir va bami va gostare-ye shenavayi"
+     },
+     "body": {
+      "fa": "«زیر و بمی» صوت را بسامد تعیین می‌کند (آزمون خرداد ۱۴۰۱): بسامد بیشتر یعنی صدای زیرتر. گوش سالم انسان معمولاً بسامدهای `20` تا `20000` هرتز را می‌شنود (آزمون دی ۱۴۰۱)؛ پایین‌تر فروصوت و بالاتر فراصوت است. چون بسامد هنگام رفتن به محیط دیگر ثابت است، طول موج با تندی هم‌گام تغییر می‌کند: صوتی که به محیطی با تندی بیشتر می‌رود طول موجش بلندتر می‌شود (آزمون دی ۱۳۹۹)، و از هوای گرم به هوای سرد کوتاه‌تر (آزمون خرداد ۱۴۰۱).",
+      "en": "The \"pitch\" of a sound is set by its frequency (Khordad 1401 paper): higher frequency means a higher pitch. A healthy human ear normally hears frequencies from `20` to `20000` Hz (Dey 1401 paper); below that is infrasound and above it ultrasound. Because the frequency stays fixed on entering another medium, the wavelength changes in step with the speed: sound going into a medium where it travels faster gets a longer wavelength (Dey 1399 paper), and going from warm air into cold air a shorter one (Khordad 1401 paper).",
+      "tr": "\"Zir va bami\"-ye sowt ra basamad ta'yin mikonad (azmoon-e Khordad 1401): basamad-e bishtar ya'ni seda-ye zir-tar. Goosh-e salem-e ensan ma'moolan basamad-haye `20` ta `20000` hertz ra mishenavad (azmoon-e Dey 1401); payin-tar forosowt va bala-tar farasowt ast. Chon basamad hengam-e raftan be mohit-e digar sabet ast, tool-e moj ba tondi ham-gam taghyir mikonad: sowti ke be mohiti ba tondi-ye bishtar miravad tool-e mojash boland-tar mishavad (azmoon-e Dey 1399), va az hava-ye garm be hava-ye sard kootah-tar (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام ویژگی موج صوتی زیر یا بم بودن آن را برای گوش تعیین می‌کند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: which property of a sound wave decides how high or low it sounds? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kodam vizhegi-ye moj-e sowti zir ya bam boodan-e an ra baraye goosh ta'yin mikonad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صدای زیر یعنی ارتعاش تندتر، یعنی نوسان بیشتر در هر ثانیه.",
+        "en": "A high pitch means faster vibration, more oscillations each second.",
+        "tr": "Seda-ye zir ya'ni erte'ash-e tond-tar, ya'ni navasan-e bishtar dar har sanie."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بسامد (`f`)",
+      "en": "Frequency (`f`)",
+      "tr": "Basamad (`f`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: صوتی با بسامد `680 Hz` در هوا (`340 m/s`) طول موجش چقدر است؟ اگر وارد آب (`1500 m/s`) شود، بسامد و طول موج چه می‌شوند؟ (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: a `680 Hz` sound in air (`340 m/s`): what is its wavelength? If it enters water (`1500 m/s`), what happen to its frequency and wavelength? (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: sowti ba basamad-e `680 Hz` dar hava (`340 m/s`) tool-e mojash cheghadr ast? Agar vared-e ab (`1500 m/s`) shavad, basamad va tool-e moj che mishavand? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "در هوا: `λ = v / f`.",
+        "en": "In air: `λ = v / f`.",
+        "tr": "Dar hava: `λ = v / f`."
+       },
+       "math": "λ = 340 / 680 = 0.5 m"
+      },
+      {
+       "text": {
+        "fa": "در آب: بسامد را چشمه داده و ثابت است؛ فقط تندی عوض شده.",
+        "en": "In water: the source set the frequency, so it is unchanged; only the speed has changed.",
+        "tr": "Dar ab: basamad ra cheshme dade va sabet ast; faghat tondi avaz shode."
+       },
+       "math": "λ' = 1500 / 680 ≈ 2.2 m"
+      }
+     ],
+     "answer": {
+      "fa": "`0.5 m` در هوا؛ در آب بسامد همان `680 Hz` و طول موج حدود `2.2 m`",
+      "en": "`0.5 m` in air; in water the frequency stays `680 Hz` and the wavelength is about `2.2 m`",
+      "tr": "`0.5 m` dar hava; dar ab basamad haman `680 Hz` va tool-e moj hodood-e `2.2 m`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: صوتی از هوای گرم وارد هوای سرد می‌شود. بسامد، تندی و طول موج هر کدام چه می‌شوند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: a sound passes from warm air into cold air. What happens to its frequency, speed and wavelength? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: sowti az hava-ye garm vared-e hava-ye sard mishavad. Basamad, tondi va tool-e moj har kodam che mishavand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: هر دو محیط «هوا»ست، ولی دما ویژگی محیط را عوض کرده؛ صوت در هوای سرد کندتر است.",
+        "en": "The twist: both media are \"air\", but temperature changes the medium's properties; sound is slower in cold air.",
+        "tr": "Pich-e emtehan: har do mohit \"hava\"st, vali dama vizhegi-ye mohit ra avaz karde; sowt dar hava-ye sard kond-tar ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "بسامد ثابت است، پس طول موج همراه تندی کم می‌شود.",
+        "en": "The frequency is fixed, so the wavelength falls along with the speed.",
+        "tr": "Basamad sabet ast, pas tool-e moj hamrah-e tondi kam mishavad."
+       },
+       "math": "λ = v / f ,   v ↓  ⟹  λ ↓"
+      }
+     ],
+     "answer": {
+      "fa": "بسامد ثابت؛ تندی و طول موج کم می‌شوند",
+      "en": "Frequency unchanged; speed and wavelength decrease",
+      "tr": "Basamad sabet; tondi va tool-e moj kam mishavand"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تندی صوت به بلندی یا بسامد آن بستگی ندارد؛ به محیط (و دمای آن) بستگی دارد.",
+      "en": "The speed of sound does not depend on its loudness or frequency; it depends on the medium (and its temperature).",
+      "tr": "Tondi-ye sowt be bolandi ya basamad-e an bastegi nadarad; be mohit (va dama-ye an) bastegi darad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "زیر و بمی با بسامد است و بلندی با دامنه؛ این دو را جابه‌جا ننویس.",
+      "en": "Pitch goes with frequency and loudness with amplitude; do not swap them.",
+      "tr": "Zir va bami ba basamad ast va bolandi ba damane; in do ra jabeja nanevis."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 932
+    },
+    {
+     "session": "1401-Dey",
+     "number": 924
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 934
+    },
+    {
+     "session": "1399-Dey",
+     "number": 943
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 5,
+   "key": "phys-3-sound-intensity",
+   "title": {
+    "fa": "شدت صوت و بلندی",
+    "en": "Sound intensity and loudness",
+    "tr": "Shedat-e sowt va bolandi"
+   },
+   "summary": {
+    "fa": "صدا مثل رنگی است که روی بادکنکی بزرگ‌شونده پخش می‌شود: هرچه دورتر، کم‌رنگ‌تر.",
+    "en": "Sound is like paint spread over a growing balloon: the farther out, the thinner it gets.",
+    "tr": "Seda mesl-e rangi ast ke rooye badkonaki bozorg-shavande pakhsh mishavad: harche door-tar, kam-rang-tar."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: شدت یعنی انرژی بر مساحت",
+      "en": "Understand first: intensity is energy per area",
+      "tr": "Avval befahm: shedat ya'ni enerzhi bar masahat"
+     },
+     "body": {
+      "fa": "«شدت صوت» (`I`) انرژی صوتی است که در هر ثانیه از یکای سطح عمود بر جهت انتشار می‌گذرد (آزمون خرداد ۱۴۰۱)؛ یعنی توان تقسیم بر مساحت: `I = P / A`. شدت با مربع دامنهٔ نوسان ذره‌های محیط متناسب است (آزمون‌های دی ۱۴۰۱) و بلندی صدایی که می‌شنویم را دامنه (و شدت) تعیین می‌کند (آزمون خرداد ۱۴۰۰). پس دو برابر شدن دامنه، شدت را چهار برابر می‌کند.",
+      "en": "\"Sound intensity\" (`I`) is the sound energy passing each second through a unit area perpendicular to the direction of travel (Khordad 1401 paper); that is, power divided by area: `I = P / A`. Intensity is proportional to the square of the amplitude of the medium's vibrating particles (Dey 1401 papers), and how loud we hear a sound is set by its amplitude (and intensity) (Khordad 1400 paper). So doubling the amplitude makes the intensity four times larger.",
+      "tr": "\"Shedat-e sowt\" (`I`) enerzhi-ye sowti ast ke dar har sanie az yeka-ye sath-e amood bar jahat-e enteshar migozarad (azmoon-e Khordad 1401); ya'ni tavan taghsim bar masahat: `I = P / A`. Shedat ba morabba'-e damane-ye navasan-e zarre-haye mohit motenaseb ast (azmoon-haye Dey 1401) va bolandi-ye sedayi ke mishenavim ra damane (va shedat) ta'yin mikonad (azmoon-e Khordad 1400). Pas do barabar shodan-e damane, shedat ra chahar barabar mikonad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قانون وارون مربع فاصله",
+      "en": "The inverse-square law",
+      "tr": "Ghanoon-e varoon-e morabba'-e fasele"
+     },
+     "body": {
+      "fa": "چشمهٔ نقطه‌ای صوت را یکنواخت به همهٔ جهت‌ها می‌فرستد؛ انرژی روی سطح کره‌ای به مساحت `4πr^2` پخش می‌شود. پس `I = P / (4πr^2)` و شدت با مربع فاصله وارون‌متناسب است: سه برابر شدن فاصله، شدت را `1/9` می‌کند (آزمون خرداد ۱۳۹۹)؛ مثل رنگ ثابتی که روی بادکنکی بزرگ‌تر پخش شود.",
+      "en": "A point source sends sound evenly in all directions; the energy spreads over a sphere of area `4πr^2`. So `I = P / (4πr^2)`, and intensity is inversely proportional to the square of the distance: tripling the distance cuts the intensity to `1/9` (Khordad 1399 paper), like a fixed amount of paint spread over a bigger balloon.",
+      "tr": "Cheshme-ye noghte-i sowt ra yeknavakht be hame-ye jahat-ha miferestad; enerzhi rooye sath-e kore-i be masahat-e `4πr^2` pakhsh mishavad. Pas `I = P / (4πr^2)` va shedat ba morabba'-e fasele varoon-motenaseb ast: se barabar shodan-e fasele, shedat ra `1/9` mikonad (azmoon-e Khordad 1399); mesl-e rang-e sabeti ke rooye badkonaki bozorg-tar pakhsh shavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "  *  source, power P\n\n  distance r  : area 4 pi r^2\n  distance 2r : area x 4 -> I / 4\n  distance 3r : area x 9 -> I / 9\n\n  I = P / (4 pi r^2)\n  I  ~  (amplitude)^2",
+     "caption": {
+      "fa": "همان توان روی سطحی بزرگ‌تر پخش می‌شود: شدت با `1/r^2` و با مربع دامنه تغییر می‌کند.",
+      "en": "The same power spreads over a larger surface: intensity varies as `1/r^2` and as the square of the amplitude.",
+      "tr": "Haman tavan rooye sathi bozorg-tar pakhsh mishavad: shedat ba `1/r^2` va ba morabba'-e damane taghyir mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "I = P / A = P / (4π r^2)",
+     "caption": {
+      "fa": "یکای شدت `W/m^2`",
+      "en": "The unit of intensity is `W/m^2`",
+      "tr": "Yeka-ye shedat `W/m^2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام ویژگی موج صوتی شدت و بلندی آن را برای گوش تعیین می‌کند؟ (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: which property of a sound wave sets its intensity and how loud it sounds? (Khordad 1400 paper)",
+      "tr": "Garm kardan: kodam vizhegi-ye moj-e sowti shedat va bolandi-ye an ra baraye goosh ta'yin mikonad? (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ارتعاش بزرگ‌تر ذره‌ها انرژی بیشتری می‌برد؛ اندازهٔ ارتعاش همان دامنه است.",
+        "en": "Bigger vibrations of the particles carry more energy; the size of the vibration is the amplitude.",
+        "tr": "Erte'ash-e bozorg-tar-e zarre-ha enerzhi-ye bishtari mibarad; andaze-ye erte'ash haman damane ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دامنهٔ موج (`A`)",
+      "en": "The wave's amplitude (`A`)",
+      "tr": "Damane-ye moj (`A`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: چشمه‌ای نقطه‌ای با توان `314 W` صوت را یکنواخت پخش می‌کند. شدت صوت در فاصلهٔ `5` متری چقدر است؟ (`π = 3.14`؛ آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a point source of power `314 W` spreads sound evenly. What is the intensity at `5` m? (`π = 3.14`; Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: cheshme-i noghte-i ba tavan-e `314 W` sowt ra yeknavakht pakhsh mikonad. Shedat-e sowt dar fasele-ye `5` metri cheghadr ast? (`π = 3.14`; azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مساحت کره‌ای که صوت روی آن پخش شده را حساب کن.",
+        "en": "Find the area of the sphere the sound has spread over.",
+        "tr": "Masahat-e kore-i ke sowt rooye an pakhsh shode ra hesab kon."
+       },
+       "math": "A = 4 × 3.14 × 25 = 314 m^2"
+      },
+      {
+       "text": {
+        "fa": "توان را بر مساحت تقسیم کن.",
+        "en": "Divide the power by the area.",
+        "tr": "Tavan ra bar masahat taghsim kon."
+       },
+       "math": "I = 314 / 314 = 1 W/m^2"
+      }
+     ],
+     "answer": {
+      "fa": "`1 W/m^2`",
+      "en": "`1 W/m^2`",
+      "tr": "`1 W/m^2`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: فاصلهٔ شنونده از چشمهٔ نقطه‌ای سه برابر و هم‌زمان دامنهٔ چشمه دو برابر می‌شود. شدت دریافتی چند برابر می‌شود؟ (آزمون‌های خرداد ۱۳۹۹ و دی ۱۴۰۱)",
+      "en": "Exam twist: a listener moves three times farther from a point source while the source's amplitude doubles. By what factor does the received intensity change? (Khordad 1399 and Dey 1401 papers)",
+      "tr": "Pich-e emtehani: fasele-ye shenavande az cheshme-ye noghte-i se barabar va ham-zaman damane-ye cheshme do barabar mishavad. Shedat-e daryafti chand barabar mishavad? (azmoon-haye Khordad 1399 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو اثر هم‌زمان‌اند؛ هر کدام را جدا حساب کن و در هم ضرب کن. دامنه به توان دو.",
+        "en": "The twist: two effects at once; work out each separately and multiply. Amplitude goes as the square.",
+        "tr": "Pich-e emtehan: do asar ham-zaman-and; har kodam ra joda hesab kon va dar ham zarb kon. Damane be tavan-e do."
+       },
+       "math": "(2)^2 = 4"
+      },
+      {
+       "text": {
+        "fa": "فاصله با وارون مربع.",
+        "en": "Distance with the inverse square.",
+        "tr": "Fasele ba varoon-e morabba'."
+       },
+       "math": "1 / (3)^2 = 1/9   ⟹   4 × 1/9 = 4/9"
+      }
+     ],
+     "answer": {
+      "fa": "`4/9` برابر",
+      "en": "`4/9` of the original",
+      "tr": "`4/9` barabar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شدت با مربع دامنه متناسب است، نه با خود دامنه؛ و با مربع فاصله وارون‌متناسب، نه با خود فاصله.",
+      "en": "Intensity goes with the square of the amplitude, not the amplitude itself; and inversely with the square of the distance, not the distance itself.",
+      "tr": "Shedat ba morabba'-e damane motenaseb ast, na ba khod-e damane; va ba morabba'-e fasele varoon-motenaseb, na ba khod-e fasele."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بلندی صدا با دامنه است، نه با بسامد؛ صدای زیر لزوماً بلند نیست.",
+      "en": "Loudness goes with amplitude, not frequency; a high-pitched sound is not necessarily loud.",
+      "tr": "Bolandi-ye seda ba damane ast, na ba basamad; seda-ye zir lozooman boland nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 933
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Dey",
+     "number": 940
+    },
+    {
+     "session": "1401-Dey",
+     "number": 941
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 916
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 6,
+   "key": "phys-3-reflection-standing",
+   "title": {
+    "fa": "بازتاب، پژواک، پراش و موج ایستاده",
+    "en": "Reflection, echo, diffraction and standing waves",
+    "tr": "Baztab, pazhvak, parash va moj-e istade"
+   },
+   "summary": {
+    "fa": "موج به مانع که می‌رسد برمی‌گردد، از لبه‌ها خم می‌شود، و میان دو سر بسته می‌تواند «بایستد».",
+    "en": "A wave bounces back from obstacles, bends round edges, and between two fixed ends it can \"stand still\".",
+    "tr": "Moj be mane' ke miresad barmigardad, az labe-ha kham mishavad, va miyan-e do sar-e baste mitavanad \"beistad\"."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: جبههٔ موج و بازتاب",
+      "en": "Understand first: wavefronts and reflection",
+      "tr": "Avval befahm: jebhe-ye moj va baztab"
+     },
+     "body": {
+      "fa": "«جبههٔ موج» مکان همهٔ نقطه‌هایی از محیط است که در یک لحظه در یک فاز نوسان‌اند (آزمون خرداد ۱۳۹۹)؛ مثل حلقه‌های روی آب. پرتو عمود بر جبهه است. در «بازتاب»، زاویهٔ بازتاب برابر زاویهٔ تابش است، هر دو نسبت به خط عمود (نرمال)؛ پس پرتویی که عمود به آینه می‌تابد با زاویهٔ صفر بازمی‌گردد (آزمون دی ۱۳۹۸). موج روی طنابی که به تکیه‌گاه ثابت می‌رسد وارونه بازتاب می‌شود، یعنی فازش `180` درجه تغییر می‌کند (آزمون خرداد ۱۴۰۱).",
+      "en": "A \"wavefront\" is the set of all points in a medium that vibrate in the same phase at a given instant (Khordad 1399 paper), like the rings on water. A ray is perpendicular to the wavefront. In \"reflection\" the angle of reflection equals the angle of incidence, both measured from the normal; so a ray striking a mirror perpendicularly comes back at an angle of zero (Dey 1398 paper). A wave on a rope reaching a fixed support reflects upside down, i.e. its phase shifts by `180` degrees (Khordad 1401 paper).",
+      "tr": "\"Jebhe-ye moj\" makan-e hame-ye noghte-hayi az mohit ast ke dar yek lahze dar yek faz navasan-and (azmoon-e Khordad 1399); mesl-e halghe-haye rooye ab. Partow amood bar jebhe ast. Dar \"baztab\", zaviye-ye baztab barabar-e zaviye-ye tabesh ast, har do nesbat be khatt-e amood (normal); pas partowi ke amood be ayene mitabad ba zaviye-ye sefr baz migardad (azmoon-e Dey 1398). Moj rooye tanabi ke be tekye-gah-e sabet miresad varoone baztab mishavad, ya'ni fazash `180` daraje taghyir mikonad (azmoon-e Khordad 1401)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پژواک و پراش",
+      "en": "Echo and diffraction",
+      "tr": "Pazhvak va parash"
+     },
+     "body": {
+      "fa": "«پژواک» بازتاب صوت از مانعی دور است که صدا را با تأخیر دوباره به گوش می‌رساند (آزمون دی ۱۴۰۱). گوش برای شنیدن پژواک جدا، دست‌کم `0.1` ثانیه فاصله لازم دارد (آزمون دی ۱۴۰۰)؛ با تندی `340 m/s` یعنی مانع باید دست‌کم `17` متر دور باشد. «پراش» خم شدن و پخش شدن موج هنگام گذشتن از لبهٔ مانع یا شکافی باریک است (آزمون دی ۱۴۰۰)؛ برای همین صدای پشت در باز را می‌شنوی. پراش وقتی چشمگیر است که اندازهٔ شکاف نزدیک طول موج باشد.",
+      "en": "An \"echo\" is sound reflected from a distant obstacle that reaches the ear again after a delay (Dey 1401 paper). The ear needs a gap of at least `0.1` s to hear a separate echo (Dey 1400 paper); at `340 m/s` this means the obstacle must be at least `17` m away. \"Diffraction\" is the bending and spreading of a wave as it passes the edge of an obstacle or through a narrow slit (Dey 1400 paper); that is why you hear voices round an open door. Diffraction is strongest when the slit is about the size of the wavelength.",
+      "tr": "\"Pazhvak\" baztab-e sowt az mane'i door ast ke seda ra ba ta'khir dobare be goosh miresanad (azmoon-e Dey 1401). Goosh baraye shenidan-e pazhvak-e joda, dast-e kam `0.1` sanie fasele lazem darad (azmoon-e Dey 1400); ba tondi-ye `340 m/s` ya'ni mane' bayad dast-e kam `17` metr door bashad. \"Parash\" kham shodan va pakhsh shodan-e moj hengam-e gozashtan az labe-ye mane' ya shekafi barik ast (azmoon-e Dey 1400); baraye hamin seda-ye posht-e dar-e baz ra mishenavi. Parash vaghti cheshmgir ast ke andaze-ye shekaf nazdik-e tool-e moj bashad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " you *  ------- d ------->  | wall\n     *  <------ d --------  |\n\n sound travels 2d in time t:\n     d = v t / 2\n\n separate echo needs t >= 0.1 s\n d >= 340 x 0.1 / 2 = 17 m",
+     "caption": {
+      "fa": "پژواک: صوت راه رفت و برگشت را می‌پیماید، پس فاصله نصف `v t` است.",
+      "en": "Echo: the sound covers the trip there and back, so the distance is half of `v t`.",
+      "tr": "Pazhvak: sowt rah-e raft va bargasht ra mipeymayad, pas fasele nesf-e `v t` ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "موج ایستاده: گره و شکم",
+      "en": "Standing waves: nodes and antinodes",
+      "tr": "Moj-e istade: gereh va shekam"
+     },
+     "body": {
+      "fa": "وقتی موج‌های رفت و برگشتی روی تاری با دو سر بسته روی هم می‌افتند، «موج ایستاده» ساخته می‌شود: الگویی که پیش نمی‌رود. نقطه‌هایی که دامنه‌شان همیشه صفر است و ساکن می‌مانند «گره» نام دارند (آزمون دی ۱۴۰۱) و نقطه‌های بیشترین دامنه «شکم». فاصلهٔ دو گرهٔ پشت سر هم نصف طول موج است و طول تار باید مضرب درستی از نیم‌طول موج باشد: `L = n λ / 2`.",
+      "en": "When the outgoing and reflected waves on a string fixed at both ends overlap, a \"standing wave\" forms: a pattern that does not travel. Points whose amplitude is always zero, so that they stay still, are called \"nodes\" (Dey 1401 paper), and points of greatest amplitude \"antinodes\". The distance between neighbouring nodes is half a wavelength, and the string's length must be a whole number of half-wavelengths: `L = n λ / 2`.",
+      "tr": "Vaghti moj-haye raft va bargashti rooye tari ba do sar-e baste rooye ham miyoftand, \"moj-e istade\" sakhte mishavad: olgooyi ke pish nemiravad. Noghte-hayi ke damane-shan hamishe sefr ast va saken mimanand \"gereh\" nam darand (azmoon-e Dey 1401) va noghte-haye bishtarin damane \"shekam\". Fasele-ye do gereh-e posht-e sar-e ham nesf-e tool-e moj ast va tool-e tar bayad mazrab-e dorosti az nim-tool-e moj bashad: `L = n λ / 2`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " string fixed at both ends\n\n N       A       N       A       N\n *   .-'''''-.   *   .-'''''-.   *\n *.-'         '-.*.-'         '-.*\n\n N = node: amplitude always zero\n A = antinode: largest amplitude\n node to next node = half wavelength\n L = n x (wavelength / 2)",
+     "caption": {
+      "fa": "موج ایستاده: گره‌ها هرگز تکان نمی‌خورند؛ دو گرهٔ پیاپی نیم طول موج فاصله دارند.",
+      "en": "A standing wave: nodes never move; neighbouring nodes are half a wavelength apart.",
+      "tr": "Moj-e istade: gereh-ha hargez takan nemikhorand; do gereh-e peyapey nim tool-e moj fasele darand."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پرتویی عمود بر آینهٔ تخت می‌تابد. زاویهٔ بازتاب چقدر است؟ (آزمون دی ۱۳۹۸)",
+      "en": "Warm-up: a ray strikes a flat mirror perpendicularly. What is the angle of reflection? (Dey 1398 paper)",
+      "tr": "Garm kardan: partowi amood bar ayene-ye takht mitabad. Zaviye-ye baztab cheghadr ast? (azmoon-e Dey 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "زاویه‌ها از خط عمود سنجیده می‌شوند، نه از سطح آینه. پرتو روی خود خط عمود است، پس زاویهٔ تابش صفر است و بازتاب هم.",
+        "en": "Angles are measured from the normal, not from the mirror's surface. The ray lies along the normal, so the angle of incidence is zero and so is the reflection.",
+        "tr": "Zaviye-ha az khatt-e amood sanjide mishavand, na az sath-e ayene. Partow rooye khod-e khatt-e amood ast, pas zaviye-ye tabesh sefr ast va baztab ham."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "صفر درجه",
+      "en": "Zero degrees",
+      "tr": "Sefr daraje"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شخصی در برابر کوهی فریاد می‌زند و پژواک را `2` ثانیه بعد می‌شنود. فاصلهٔ او تا کوه چقدر است؟ (`340 m/s`؛ آزمون‌های دی ۱۴۰۱ و دی ۱۴۰۰)",
+      "en": "Textbook and exam: a person shouts towards a mountain and hears the echo `2` s later. How far away is the mountain? (`340 m/s`; Dey 1401 and Dey 1400 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: shakhsi dar barabar-e koohi faryad mizanad va pazhvak ra `2` sanie ba'd mishenavad. Fasele-ye oo ta kooh cheghadr ast? (`340 m/s`; azmoon-haye Dey 1401 va Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صوت در `2` ثانیه هم رفته و هم برگشته؛ کل راه را حساب کن.",
+        "en": "In `2` s the sound went there and came back; find the whole path.",
+        "tr": "Sowt dar `2` sanie ham rafte va ham bargashte; kol-e rah ra hesab kon."
+       },
+       "math": "2d = 340 × 2 = 680 m"
+      },
+      {
+       "text": {
+        "fa": "فاصله نصف آن است.",
+        "en": "The distance is half of that.",
+        "tr": "Fasele nesf-e an ast."
+       },
+       "math": "d = 340 m"
+      }
+     ],
+     "answer": {
+      "fa": "`340` متر",
+      "en": "`340` m",
+      "tr": "`340` metr"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: تاری به طول `1.2` متر با دو سر بسته، موج ایستاده‌ای با `3` شکم دارد. طول موج چقدر است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: a `1.2` m string fixed at both ends carries a standing wave with `3` antinodes. What is the wavelength? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: tari be tool-e `1.2` metr ba do sar-e baste, moj-e istade-i ba `3` shekam darad. Tool-e moj cheghadr ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: هر شکم یک «حلقه» میان دو گره است و هر حلقه نیم طول موج؛ شمار شکم‌ها همان `n` است.",
+        "en": "The twist: each antinode is one \"loop\" between two nodes, and each loop is half a wavelength; the number of antinodes is `n`.",
+        "tr": "Pich-e emtehan: har shekam yek \"halghe\" miyan-e do gereh ast va har halghe nim tool-e moj; shomar-e shekam-ha haman `n` ast."
+       },
+       "math": "L = 3 × λ / 2"
+      },
+      {
+       "text": {
+        "fa": "حل کن.",
+        "en": "Solve.",
+        "tr": "Hal kon."
+       },
+       "math": "1.2 = 1.5 λ   ⟹   λ = 0.8 m"
+      }
+     ],
+     "answer": {
+      "fa": "`0.8` متر",
+      "en": "`0.8` m",
+      "tr": "`0.8` metr"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "زاویهٔ تابش و بازتاب از «خط عمود» سنجیده می‌شوند، نه از سطح.",
+      "en": "Angles of incidence and reflection are measured from the \"normal\", not from the surface.",
+      "tr": "Zaviye-ye tabesh va baztab az \"khatt-e amood\" sanjide mishavand, na az sath."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در پژواک، زمان مربوط به رفت و برگشت است؛ فاصله را با `v t / 2` حساب کن، نه `v t`.",
+      "en": "In an echo the time covers the round trip; find the distance as `v t / 2`, not `v t`.",
+      "tr": "Dar pazhvak, zaman marboot be raft va bargasht ast; fasele ra ba `v t / 2` hesab kon, na `v t`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1398-Dey",
+     "number": 908
+    },
+    {
+     "session": "1401-Dey",
+     "number": 918
+    },
+    {
+     "session": "1400-Dey",
+     "number": 920
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 919
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 914
+    },
+    {
+     "session": "1400-Dey",
+     "number": 928
+    },
+    {
+     "session": "1401-Dey",
+     "number": 942
+    }
+   ]
+  },
+  {
+   "subject": "Physics",
+   "chapter": 3,
+   "unit": 7,
+   "key": "phys-3-refraction",
+   "title": {
+    "fa": "شکست نور",
+    "en": "Refraction of light",
+    "tr": "Shekast-e noor"
+   },
+   "summary": {
+    "fa": "نور وقتی وارد شیشه می‌شود کند می‌شود و خم می‌شود؛ ولی رنگش (بسامدش) همان می‌ماند.",
+    "en": "Light slows down and bends as it enters glass; but its colour (its frequency) stays the same.",
+    "tr": "Noor vaghti vared-e shishe mishavad kond mishavad va kham mishavad; vali rangash (basamadash) haman mimanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نور در شیشه کند می‌شود",
+      "en": "Understand first: light slows down in glass",
+      "tr": "Avval befahm: noor dar shishe kond mishavad"
+     },
+     "body": {
+      "fa": "نور در محیط شفاف کندتر از خلأ حرکت می‌کند. «ضریب شکست» `n = c / v` نشان می‌دهد چقدر کندتر: در شیشه با `n = 1.5`، نور `1.5` بار کندتر است، پس `v = c / n` (آزمون‌های خرداد ۱۴۰۰ و خرداد ۱۴۰۱). بسامد را چشمه تعیین می‌کند و در هر محیطی ثابت می‌ماند (آزمون‌های خرداد ۱۴۰۱، دی ۱۳۹۹ و دی ۱۴۰۰)؛ پس چون تندی کم شده، طول موج تغییر می‌کند (آزمون دی ۱۳۹۹) و کوتاه‌تر می‌شود: `λ' = λ / n` (آزمون خرداد ۱۳۹۹).",
+      "en": "Light travels more slowly in a transparent medium than in a vacuum. The \"refractive index\" `n = c / v` says how much slower: in glass with `n = 1.5`, light is `1.5` times slower, so `v = c / n` (Khordad 1400 and Khordad 1401 papers). The frequency is set by the source and stays the same in every medium (Khordad 1401, Dey 1399 and Dey 1400 papers); so, because the speed has dropped, the wavelength changes (Dey 1399 paper) and gets shorter: `λ' = λ / n` (Khordad 1399 paper).",
+      "tr": "Noor dar mohit-e shaffaf kond-tar az khala' harekat mikonad. \"Zarib-e shekast\" `n = c / v` neshan midahad cheghadr kond-tar: dar shishe ba `n = 1.5`, noor `1.5` bar kond-tar ast, pas `v = c / n` (azmoon-haye Khordad 1400 va Khordad 1401). Basamad ra cheshme ta'yin mikonad va dar har mohiti sabet mimanad (azmoon-haye Khordad 1401, Dey 1399 va Dey 1400); pas chon tondi kam shode, tool-e moj taghyir mikonad (azmoon-e Dey 1399) va kootah-tar mishavad: `λ' = λ / n` (azmoon-e Khordad 1399)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خم شدن پرتو و قانون اسنل",
+      "en": "Bending of the ray and Snell's law",
+      "tr": "Kham shodan-e partow va ghanoon-e Snell"
+     },
+     "body": {
+      "fa": "چون نور کند یا تند می‌شود، مسیرش هم در مرز دو محیط خم می‌شود. وقتی از هوا وارد آب یا شیشه (ضریب شکست بیشتر) می‌شود، به «خط عمود نزدیک» می‌شود (آزمون‌های خرداد ۱۴۰۱ و دی ۱۳۹۹)؛ و وقتی از شیشه به هوا می‌رود، تندتر می‌شود (آزمون دی ۱۳۹۹) و از خط عمود «دور» می‌شود (آزمون دی ۱۴۰۰). مثل ماشینی که با زاویه از آسفالت وارد شن می‌شود: چرخی که زودتر به شن می‌رسد کند می‌شود و ماشین می‌چرخد. قانون اسنل: `n1 sin i = n2 sin r`.",
+      "en": "Because light slows down or speeds up, its path also bends at the boundary between two media. Going from air into water or glass (higher refractive index), it bends \"towards the normal\" (Khordad 1401 and Dey 1399 papers); going from glass into air it speeds up (Dey 1399 paper) and bends \"away from the normal\" (Dey 1400 paper). Like a car driving at an angle from tarmac onto sand: the wheel that reaches the sand first slows down and the car turns. Snell's law: `n1 sin i = n2 sin r`.",
+      "tr": "Chon noor kond ya tond mishavad, masirash ham dar marz-e do mohit kham mishavad. Vaghti az hava vared-e ab ya shishe (zarib-e shekast-e bishtar) mishavad, be \"khatt-e amood nazdik\" mishavad (azmoon-haye Khordad 1401 va Dey 1399); va vaghti az shishe be hava miravad, tond-tar mishavad (azmoon-e Dey 1399) va az khatt-e amood \"door\" mishavad (azmoon-e Dey 1400). Mesl-e mashini ke ba zaviye az asfalt vared-e shen mishavad: charkhi ke zoodtar be shen miresad kond mishavad va mashin micharkhad. Ghanoon-e Snell: `n1 sin i = n2 sin r`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "           normal\n       \\     |\n   air   \\ i |   n1 sin i = n2 sin r\n ----------\\-+--------------------\n   glass     |\\\n             | \\ r   bends TOWARD\n             |  \\    the normal\n             |   \\   (slower)\n\n f same;  v = c / n;  l' = l / n",
+     "caption": {
+      "fa": "از هوا به شیشه: نور کند می‌شود و به خط عمود نزدیک می‌شود؛ بسامد ثابت، طول موج کوتاه‌تر.",
+      "en": "From air into glass: light slows down and bends towards the normal; the frequency is unchanged and the wavelength shorter.",
+      "tr": "Az hava be shishe: noor kond mishavad va be khatt-e amood nazdik mishavad; basamad sabet, tool-e moj kootah-tar."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "n = c / v ,   λ' = λ / n ,   n1 sin i = n2 sin r",
+     "caption": {
+      "fa": "زاویه‌ها از خط عمود؛ `c = 3 × 10^8 m/s`",
+      "en": "Angles from the normal; `c = 3 × 10^8 m/s`",
+      "tr": "Zaviye-ha az khatt-e amood; `c = 3 × 10^8 m/s`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: وقتی پرتو نور تک‌رنگ از هوا وارد شیشه می‌شود، کدام ویژگی موج نور کاملاً ثابت می‌ماند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: when a monochromatic light ray passes from air into glass, which property of the light wave stays exactly the same? (Dey 1400 paper)",
+      "tr": "Garm kardan: vaghti partow-e noor-e tak-rang az hava vared-e shishe mishavad, kodam vizhegi-ye moj-e noor kamelan sabet mimanad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تندی و طول موج را محیط تغییر می‌دهد؛ ولی بسامد را چشمه تعیین کرده.",
+        "en": "The medium changes the speed and the wavelength; but the source set the frequency.",
+        "tr": "Tondi va tool-e moj ra mohit taghyir midahad; vali basamad ra cheshme ta'yin karde."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بسامد (`f`)",
+      "en": "Frequency (`f`)",
+      "tr": "Basamad (`f`)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نور تک‌رنگی با طول موج `600 nm` از هوا وارد شیشه با `n = 1.5` می‌شود. تندی، طول موج و بسامد آن در شیشه چقدر است؟ (آزمون‌های خرداد ۱۴۰۱ و خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: monochromatic light of wavelength `600 nm` passes from air into glass with `n = 1.5`. What are its speed, wavelength and frequency in the glass? (Khordad 1401 and Khordad 1399 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: noor-e tak-rangi ba tool-e moj-e `600 nm` az hava vared-e shishe ba `n = 1.5` mishavad. Tondi, tool-e moj va basamad-e an dar shishe cheghadr ast? (azmoon-haye Khordad 1401 va Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تندی: `v = c / n`.",
+        "en": "Speed: `v = c / n`.",
+        "tr": "Tondi: `v = c / n`."
+       },
+       "math": "v = 3 × 10^8 / 1.5 = 2 × 10^8 m/s"
+      },
+      {
+       "text": {
+        "fa": "طول موج: بر `n` تقسیم می‌شود.",
+        "en": "Wavelength: divide by `n`.",
+        "tr": "Tool-e moj: bar `n` taghsim mishavad."
+       },
+       "math": "λ' = 600 / 1.5 = 400 nm"
+      },
+      {
+       "text": {
+        "fa": "بسامد: همان بسامد در هوا، از `f = c / λ`.",
+        "en": "Frequency: the same as in air, from `f = c / λ`.",
+        "tr": "Basamad: haman basamad dar hava, az `f = c / λ`."
+       },
+       "math": "f = 3 × 10^8 / (6 × 10^-7) = 5 × 10^14 Hz"
+      }
+     ],
+     "answer": {
+      "fa": "`2 × 10^8 m/s`، `400 nm`، بسامد بدون تغییر `5 × 10^14 Hz`",
+      "en": "`2 × 10^8 m/s`, `400 nm`, frequency unchanged at `5 × 10^14 Hz`",
+      "tr": "`2 × 10^8 m/s`, `400 nm`, basamad bedoon-e taghyir `5 × 10^14 Hz`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پرتویی با زاویهٔ تابش `60` درجه از هوا به محیطی با `n = √3` می‌تابد. زاویهٔ شکست چقدر است و پرتو به خط عمود نزدیک می‌شود یا دور؟ (آزمون دی ۱۳۹۹)",
+      "en": "Exam twist: a ray strikes a medium with `n = √3` from air at `60` degrees incidence. What is the angle of refraction, and does the ray bend towards or away from the normal? (Dey 1399 paper)",
+      "tr": "Pich-e emtehani: partowi ba zaviye-ye tabesh-e `60` daraje az hava be mohiti ba `n = √3` mitabad. Zaviye-ye shekast cheghadr ast va partow be khatt-e amood nazdik mishavad ya door? (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "قانون اسنل را بنویس؛ برای هوا `n1 = 1`.",
+        "en": "Write Snell's law; for air `n1 = 1`.",
+        "tr": "Ghanoon-e Snell ra benevis; baraye hava `n1 = 1`."
+       },
+       "math": "1 × sin 60 = √3 × sin r"
+      },
+      {
+       "text": {
+        "fa": "`sin 60 = √3 / 2`؛ ساده کن.",
+        "en": "`sin 60 = √3 / 2`; simplify.",
+        "tr": "`sin 60 = √3 / 2`; sade kon."
+       },
+       "math": "sin r = (√3 / 2) / √3 = 1/2   ⟹   r = 30°"
+      },
+      {
+       "text": {
+        "fa": "پیچ اصلی: `30` کمتر از `60` است، پس پرتو به خط عمود نزدیک شده؛ همان‌طور که ورود به محیط با ضریب شکست بیشتر پیش‌بینی می‌کرد.",
+        "en": "The real twist: `30` is less than `60`, so the ray has bent towards the normal, just as entering a higher-index medium predicts.",
+        "tr": "Pich-e asli: `30` kamtar az `60` ast, pas partow be khatt-e amood nazdik shode; haman-towr ke vorood be mohit ba zarib-e shekast-e bishtar pish-bini mikard."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`30` درجه؛ به خط عمود نزدیک می‌شود",
+      "en": "`30` degrees; it bends towards the normal",
+      "tr": "`30` daraje; be khatt-e amood nazdik mishavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هنگام شکست، بسامد «هرگز» تغییر نمی‌کند؛ تندی و طول موج تغییر می‌کنند.",
+      "en": "On refraction the frequency \"never\" changes; the speed and wavelength do.",
+      "tr": "Hengam-e shekast, basamad \"hargez\" taghyir nemikonad; tondi va tool-e moj taghyir mikonand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ورود به محیط با ضریب شکست بیشتر: نزدیک شدن به خط عمود؛ خروج به محیط با ضریب کمتر: دور شدن. زاویه‌ها همیشه از خط عمود.",
+      "en": "Entering a higher-index medium: towards the normal; leaving into a lower-index one: away from it. Angles are always from the normal.",
+      "tr": "Vorood be mohit ba zarib-e shekast-e bishtar: nazdik shodan be khatt-e amood; khorooj be mohit ba zarib-e kamtar: door shodan. Zaviye-ha hamishe az khatt-e amood."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1399-Dey",
+     "number": 901
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 921
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 929
+    },
+    {
+     "session": "1400-Dey",
+     "number": 931
+    },
+    {
+     "session": "1399-Dey",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 936
+    },
+    {
+     "session": "1400-Dey",
+     "number": 941
+    },
+    {
+     "session": "1399-Dey",
+     "number": 944
+    },
+    {
+     "session": "1399-Dey",
+     "number": 945
+    },
+    {
+     "session": "1399-Dey",
+     "number": 946
+    }
+   ]
+  }
+ ]
+}

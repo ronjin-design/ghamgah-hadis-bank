@@ -35,8 +35,9 @@ corrects the transliteration keyword lists of eight Chemistry questions (no new 
 132 is the Chemistry Pocket Tutor glossary for Chapter 1; pack 133 covers Chapter 2 (plus the built-in
 galvanic-cell question's terms); pack 134 covers Chapters 3-4 (every Chemistry Codex term now has a Pocket Tutor).
 Pack 135 is the Physics 3 Chapter 1 (Motion along a straight line) Master Tutor lesson. Pack 136
-is the Physics 3 Chapter 2 (Dynamics and forces) Master Tutor lesson. THE NEXT QUESTION BLOCK IS
-PACK 137.
+is the Physics 3 Chapter 2 (Dynamics and forces) Master Tutor lesson. Pack 137 is
+the Physics 3 Chapter 3 (Oscillations and waves) Master Tutor lesson. THE NEXT QUESTION BLOCK IS
+PACK 138.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.
