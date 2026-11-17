@@ -1,0 +1,2471 @@
+{
+ "version": 157,
+ "format": 10,
+ "glossary": [
+  {
+   "subject": "Arabic",
+   "key": "ar-g-horoof-e-moshabbaha-bel-fe-l",
+   "term": {
+    "fa": "حروف مشبهة بالفعل",
+    "en": "particles resembling verbs (inna and her sisters)",
+    "tr": "horoof-e moshabbaha bel-fe'l"
+   },
+   "explain": {
+    "fa": "«حروف مشبهة بالفعل»: شش حرف «إِنَّ، أَنَّ، کَأَنَّ، لٰکِنَّ، لَیْتَ، لَعَلَّ» که بر جملهٔ اسمیه می‌آیند و هر کدام معنایی دارند؛ «إِنَّ» تأکید است.",
+    "en": "\"horoof-e moshabbaha bel-fe'l\": The six particles inna, anna, ka'anna, lakinna, layta, la'alla that come before a nominal sentence, each with its own meaning; inna is emphasis.",
+    "tr": "\"horoof-e moshabbaha bel-fe'l\": Shesh harf-e inna, anna, ka'anna, lakenna, leyta, la'alla ke bar jomle-ye esmiye miayand va har kodam ma'nayi darand; inna ta'kid ast."
+   },
+   "analogy": {
+    "fa": "مثل خواهرانی که یک کار می‌کنند ولی هر کدام صدای خودش را دارد.",
+    "en": "Like sisters who do the same job but each with her own voice.",
+    "tr": "Mesl-e khaharani ke yek kar mikonand vali har kodam seda-ye khodash ra darad."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-esm-e-la-ye-nafy-e-jens",
+   "term": {
+    "fa": "اسم لای نفی جنس",
+    "en": "noun after the la of absolute negation",
+    "tr": "esm-e la-ye nafy-e jens"
+   },
+   "explain": {
+    "fa": "«اسم لای نفی جنس»: اسم پس از «لا»ی نفی جنس: نکره، بدون «ال» و تنوین، با فتحه.",
+    "en": "\"esm-e la-ye nafy-e jens\": The noun after the la of absolute negation: indefinite, with neither 'al-' nor tanwin, ending in -a.",
+    "tr": "\"esm-e la-ye nafy-e jens\": Esm pas az 'la'-ye nafy-e jens: nakare, bedoon-e 'al' va tanvin, ba fathe."
+   },
+   "unit": "ar-1-la-nafy-jins"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-lakinna",
+   "term": {
+    "fa": "لٰکِنَّ",
+    "en": "lakinna (rectification)",
+    "tr": "lakinna"
+   },
+   "explain": {
+    "fa": "«لٰکِنَّ»: حرف «استدراک»: «ولی»؛ برداشت نادرستی را که جملهٔ پیش ساخته، اصلاح می‌کند.",
+    "en": "\"lakinna\": The particle of rectification (istidrak): 'but'; it corrects a wrong impression left by the sentence before.",
+    "tr": "\"lakinna\": Harf-e estedrak: 'vali'; bardasht-e nadorosti ra ke jomle-ye pish sakhte, eslah mikonad."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-layta",
+   "term": {
+    "fa": "لَیْتَ",
+    "en": "layta (wishing)",
+    "tr": "layta"
+   },
+   "explain": {
+    "fa": "«لَیْتَ»: حرف «تمنّی»: «ای کاش»؛ آرزوی چیزی دست‌نیافتنی یا دور.",
+    "en": "\"layta\": The particle of wishing (tamanni): 'if only'; a wish for something impossible or far-off.",
+    "tr": "\"layta\": Harf-e tamanni: 'ey kash'; arezoo-ye chizi dast-nayaftani ya door."
+   },
+   "contrast": {
+    "fa": "با «لَعَلَّ» فرق دارد: «لَعَلَّ» امید به چیزی شدنی است.",
+    "en": "Different from 'la'alla', which hopes for something possible.",
+    "tr": "Ba 'la'alla' fargh darad: 'la'alla' omid be chizi shodani ast."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-amal-e-horoof-e-moshabbaha",
+   "term": {
+    "fa": "عمل حروف مشبهة بالفعل",
+    "en": "what inna and her sisters do",
+    "tr": "amal-e horoof-e moshabbaha"
+   },
+   "explain": {
+    "fa": "«عمل حروف مشبهة بالفعل»: اسم پس از آنها منصوب (فتحه) می‌شود و خبر مرفوع (ضمه) می‌ماند.",
+    "en": "\"amal-e horoof-e moshabbaha\": The noun after them becomes accusative (-a) and the predicate stays nominative (-u).",
+    "tr": "\"amal-e horoof-e moshabbaha\": Esm pas az anha mansoob (fathe) mishavad va khabar marfoo' (zamme) mimanad."
+   },
+   "contrast": {
+    "fa": "برعکس «کانَ» که اسم را مرفوع و خبر را منصوب می‌کند.",
+    "en": "The reverse of 'kana', which makes the noun nominative and the predicate accusative.",
+    "tr": "Bar'aks-e 'kana' ke esm ra marfoo' va khabar ra mansoob mikonad."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-anna",
+   "term": {
+    "fa": "أَنَّ",
+    "en": "anna (that)",
+    "tr": "anna"
+   },
+   "explain": {
+    "fa": "«أَنَّ»: دو جمله را به هم پیوند می‌دهد و به معنای «که» است.",
+    "en": "\"anna\": It joins two sentences and means 'that'.",
+    "tr": "\"anna\": Do jomle ra be ham peyvand midahad va be ma'na-ye 'ke' ast."
+   },
+   "contrast": {
+    "fa": "با «إِنَّ» (همانا، تأکید) فرق دارد.",
+    "en": "Different from 'inna' (indeed, emphasis).",
+    "tr": "Ba 'inna' (hamana, ta'kid) fargh darad."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-zamir-e-mottasel-pas-az-inna",
+   "term": {
+    "fa": "ضمیر متصل پس از إنّ",
+    "en": "attached pronoun after inna",
+    "tr": "zamir-e mottasel pas az inna"
+   },
+   "explain": {
+    "fa": "«ضمیر متصل پس از إنّ»: ضمیری که به «إِنَّ» می‌چسبد (مثل «إِنَّهُ») اسم «إِنَّ» است.",
+    "en": "\"zamir-e mottasel pas az inna\": A pronoun attached to 'inna' (as in 'innahu') is the noun of inna.",
+    "tr": "\"zamir-e mottasel pas az inna\": Zamiri ke be 'inna' michasbad (mesl-e 'innaho') esm-e 'inna' ast."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-efte-al",
+   "term": {
+    "fa": "باب افتعال",
+    "en": "bab of ifti'al",
+    "tr": "bab-e efte'al"
+   },
+   "explain": {
+    "fa": "«باب افتعال»: اِفْتَعَلَ، یَفْتَعِلُ: «تـ» پس از حرف اول ریشه می‌آید؛ مثل «انْتَثَرَتْ» (ریشهٔ ن ث ر) و «اکْتَالُوا».",
+    "en": "\"bab-e efte'al\": ifta'ala, yafta'ilu: a 't' comes after the first root letter; as in 'intatharat' (root n-th-r) and 'iktalu'.",
+    "tr": "\"bab-e efte'al\": efta'ala, yafta'elo: 't' pas az harf-e avval-e rishe miayad; mesl-e 'entasarat' (rishe-ye n-s-r) va 'ektaloo'."
+   },
+   "contrast": {
+    "fa": "با انفعال اشتباه نشود: در «انْتَثَرَ» «ن» حرف ریشه است.",
+    "en": "Not infi'al: in 'intathara' the 'n' is a root letter.",
+    "tr": "Ba enfe'al eshtebah nashavad: dar 'entasara' 'n' harf-e rishe ast."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-madd-va-al-jazr",
+   "term": {
+    "fa": "الْمَدِّ وَ الْجَزْرِ",
+    "en": "al-madd wa al-jazr (the tides)",
+    "tr": "al-madd va al-jazr"
+   },
+   "explain": {
+    "fa": "«الْمَدِّ وَ الْجَزْرِ»: جزر و مد دریا. در «جَاذِبِیَّةُ الْقَمَرِ تُؤَثِّرُ فِی حَرَکَةِ الْمَدِّ وَ الْجَزْرِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"al-madd va al-jazr\": The tides (high and low tide). From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"al-madd va al-jazr\": Jazr va madd-e darya. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yafna",
+   "term": {
+    "fa": "یَفْنَى",
+    "en": "yafna (perishes)",
+    "tr": "yafna"
+   },
+   "explain": {
+    "fa": "«یَفْنَى»: نابود می‌شود، پایان می‌یابد. در «الْعِلْمُ کَنْزٌ عَظِیمٌ لَا یَفْنَى». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"yafna\": Perishes, comes to an end. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"yafna\": Nabood mishavad, payan miyabad. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-yaghtab",
+   "term": {
+    "fa": "لَا یَغْتَبْ",
+    "en": "la yaghtab (do not backbite)",
+    "tr": "la yaghtab"
+   },
+   "explain": {
+    "fa": "«لَا یَغْتَبْ»: غیبت نکند. در «وَ لَا یَغْتَبْ بَعْضُکُمْ بَعْضاً». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"la yaghtab\": Should not backbite. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"la yaghtab\": Gheybat nakonad. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wa-azathu",
+   "term": {
+    "fa": "وَعَظَتْهُ",
+    "en": "wa'azathu (taught him a lesson)",
+    "tr": "wa'azathu"
+   },
+   "explain": {
+    "fa": "«وَعَظَتْهُ»: او را پند داد. در «الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"wa'azathu\": Taught him a lesson, admonished him. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"wa'azathu\": Oo ra pand dad. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tamma",
+   "term": {
+    "fa": "تَمَّ",
+    "en": "tamma (became complete)",
+    "tr": "tamma"
+   },
+   "explain": {
+    "fa": "«تَمَّ»: کامل شد. در «إِذَا تَمَّ الْعَقْلُ نَقَصَ الْکَلَامُ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"tamma\": Became complete. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"tamma\": Kamel shod. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-fa-yadurraka",
+   "term": {
+    "fa": "فَیَضُرَّکَ",
+    "en": "yadurru (harms)",
+    "tr": "fa-yadurraka"
+   },
+   "explain": {
+    "fa": "«فَیَضُرَّکَ»: پس به تو زیان می‌رساند. در «إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"fa-yadurraka\": And so he harms you. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"fa-yadurraka\": Pas be to ziyan miresanad. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yabkhal",
+   "term": {
+    "fa": "یَبْخَلْ",
+    "en": "yabkhal (is stingy)",
+    "tr": "yabkhal"
+   },
+   "explain": {
+    "fa": "«یَبْخَلْ»: بخل بورزد. در «وَ مَنْ یَبْخَلْ فَإِنَّمَا یَبْخَلُ عَنْ نَفْسِهِ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"yabkhal\": Is stingy, holds back. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"yabkhal\": Bokhl bevarzad. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wara-a",
+   "term": {
+    "fa": "وَرَاءَ",
+    "en": "wara'a (behind)",
+    "tr": "wara'a"
+   },
+   "explain": {
+    "fa": "«وَرَاءَ»: پشت. در «لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَ قَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"wara'a\": Behind. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"wara'a\": Posht. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "contrast": {
+    "fa": "در این حکمت یعنی «پشت»، نه «فراتر» در فارسی.",
+    "en": "Here it means 'behind', not the Persian 'beyond'.",
+    "tr": "Dar in hekmat ya'ni 'posht', na 'faratar' dar farsi."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-saqatuhu",
+   "term": {
+    "fa": "سَقَطُهُ",
+    "en": "saqat (slip, error)",
+    "tr": "saqatuhu"
+   },
+   "explain": {
+    "fa": "«سَقَطُهُ»: لغزش و خطای او. در «مَنْ کَثُرَ کَلَامُهُ کَثُرَ سَقَطُهُ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"saqatuhu\": His slips, his mistakes. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"saqatuhu\": Laghzesh va khata-ye oo. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-ta-thaw",
+   "term": {
+    "fa": "لَا تَعْثَوْا",
+    "en": "la ta'thaw (do not spread mischief)",
+    "tr": "la ta'thaw"
+   },
+   "explain": {
+    "fa": "«لَا تَعْثَوْا»: تبهکاری و فساد مکنید. در «وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"la ta'thaw\": Do not spread mischief and corruption. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"la ta'thaw\": Tabahkari va fesad makonid. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-shidadan",
+   "term": {
+    "fa": "شِدَاداً",
+    "en": "shidad (strong, firm)",
+    "tr": "shidadan"
+   },
+   "explain": {
+    "fa": "«شِدَاداً»: استوار و محکم. در «وَ بَنَیْنَا فَوْقَکُمْ سَبْعاً شِدَاداً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"shidadan\": Strong, firm. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"shidadan\": Ostovar va mohkam. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-alfafan",
+   "term": {
+    "fa": "أَلْفَافاً",
+    "en": "alfaf (thick, dense)",
+    "tr": "alfafan"
+   },
+   "explain": {
+    "fa": "«أَلْفَافاً»: درهم‌تنیده و انبوه. در «وَ جَنَّاتٍ أَلْفَافاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"alfafan\": Thick, densely grown. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"alfafan\": Daham-tanide va anbooh. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-mirsadan",
+   "term": {
+    "fa": "مِرْصَاداً",
+    "en": "mirsad (a place of ambush)",
+    "tr": "mirsadan"
+   },
+   "explain": {
+    "fa": "«مِرْصَاداً»: کمین‌گاه. در «إِنَّ جَهَنَّمَ کَانَتْ مِرْصَاداً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"mirsadan\": A place of ambush. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"mirsadan\": Kamin-gah. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ghassaqan",
+   "term": {
+    "fa": "غَسَّاقاً",
+    "en": "ghassaq (foul discharge)",
+    "tr": "ghassaqan"
+   },
+   "explain": {
+    "fa": "«غَسَّاقاً»: چرکاب و زرداب بدبو. در «إِلَّا حَمِیماً وَ غَسَّاقاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"ghassaqan\": Foul pus and discharge. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"ghassaqan\": Cherkab va zardab-e badboo. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "contrast": {
+    "fa": "همسایه‌اش در آیه «حَمِیماً» (آب جوشان) است؛ جایشان را عوض نکن.",
+    "en": "Its neighbour in the verse is 'hamiman' (boiling water); do not swap them.",
+    "tr": "Hamsaye-ash dar aye 'hamiman' (ab-e jooshan) ast; jayeshan ra avaz nakon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-mafazan",
+   "term": {
+    "fa": "مَفَازاً",
+    "en": "mafaz (triumph)",
+    "tr": "mafazan"
+   },
+   "explain": {
+    "fa": "«مَفَازاً»: رستگاری و پیروزی. در «إِنَّ لِلْمُتَّقِینَ مَفَازاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"mafazan\": Triumph, salvation. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"mafazan\": Rastegari va piroozi. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-khitaban",
+   "term": {
+    "fa": "خِطَاباً",
+    "en": "khitab (right to speak)",
+    "tr": "khitaban"
+   },
+   "explain": {
+    "fa": "«خِطَاباً»: حق سخن گفتن. در «الرَّحْمَنِ لَا یَمْلِکُونَ مِنْهُ خِطَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"khitaban\": The right to speak, to address. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"khitaban\": Hagh-e sokhan goftan. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-nashtan",
+   "term": {
+    "fa": "نَشْطاً",
+    "en": "nasht (gently, easily)",
+    "tr": "nashtan"
+   },
+   "explain": {
+    "fa": "«نَشْطاً»: به نرمی و آسانی. در «وَ النَّاشِطَاتِ نَشْطاً». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"nashtan\": Gently, with ease. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"nashtan\": Be narmi va asani. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wajifa",
+   "term": {
+    "fa": "وَاجِفَةٌ",
+    "en": "wajifa (trembling with fear)",
+    "tr": "wajifa"
+   },
+   "explain": {
+    "fa": "«وَاجِفَةٌ»: هراسان و لرزان. در «قُلُوبٌ یَوْمَئِذٍ وَاجِفَةٌ». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"wajifa\": Trembling with fear. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"wajifa\": Harasan va larzan. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-as-sahira",
+   "term": {
+    "fa": "السَّاهِرَةِ",
+    "en": "as-sahira (the open plain)",
+    "tr": "as-sahira"
+   },
+   "explain": {
+    "fa": "«السَّاهِرَةِ»: دشت هموار و گسترده (عرصهٔ رستاخیز). در «فَإِذَا هُمْ بِالسَّاهِرَةِ». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"as-sahira\": The wide open plain (of the Resurrection). From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"as-sahira\": Dasht-e hamvar va gostarde (arse-ye rastakhiz). Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sa-a",
+   "term": {
+    "fa": "سَعَى",
+    "en": "sa'a (strove)",
+    "tr": "sa'a"
+   },
+   "explain": {
+    "fa": "«سَعَى»: کوشید. در «یَوْمَ یَتَذَکَّرُ الْإِنْسَانُ مَا سَعَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"sa'a\": Strove, worked for. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"sa'a\": Kooshid. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-athara",
+   "term": {
+    "fa": "آثَرَ",
+    "en": "athara (preferred)",
+    "tr": "athara"
+   },
+   "explain": {
+    "fa": "«آثَرَ»: برگزید، ترجیح داد. در «وَ آثَرَ الْحَیَاةَ الدُّنْیَا». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"athara\": Preferred, chose above all. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"athara\": Bargozid, tarjih dad. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "contrast": {
+    "fa": "با «آثار» (نشانه‌ها) اشتباه نشود.",
+    "en": "Not 'athar' (traces).",
+    "tr": "Ba 'asar' (neshane-ha) eshtebah nashavad."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-musfira",
+   "term": {
+    "fa": "مُسْفِرَةٌ",
+    "en": "musfira (bright, radiant)",
+    "tr": "musfira"
+   },
+   "explain": {
+    "fa": "«مُسْفِرَةٌ»: درخشان و روشن. در «وُجُوهٌ یَوْمَئِذٍ مُسْفِرَةٌ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"musfira\": Bright, radiant. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"musfira\": Derakhshan va rowshan. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-inkadarat",
+   "term": {
+    "fa": "انْکَدَرَتْ",
+    "en": "inkadarat (lost their light)",
+    "tr": "inkadarat"
+   },
+   "explain": {
+    "fa": "«انْکَدَرَتْ»: تیره و بی‌فروغ شدند. در «وَ إِذَا النُّجُومُ انْکَدَرَتْ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"inkadarat\": Lost their light, grew dim. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"inkadarat\": Tire va bi-forough shodand. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-mutaffifin",
+   "term": {
+    "fa": "الْمُطَفِّفِینَ",
+    "en": "al-mutaffifin (those who give short measure)",
+    "tr": "al-mutaffifin"
+   },
+   "explain": {
+    "fa": "«الْمُطَفِّفِینَ»: کم‌فروشان. در «وَیْلٌ لِلْمُطَفِّفِینَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"al-mutaffifin\": Those who give short measure. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"al-mutaffifin\": Kam-forooshan. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-fujjar",
+   "term": {
+    "fa": "الْفُجَّارِ",
+    "en": "al-fujjar (the wicked)",
+    "tr": "al-fujjar"
+   },
+   "explain": {
+    "fa": "«الْفُجَّارِ»: بدکاران. در «کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"al-fujjar\": The wicked. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"al-fujjar\": Badkaran. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "contrast": {
+    "fa": "با «الْفَجْر» (سپیده‌دم) اشتباه نشود.",
+    "en": "Not 'al-fajr' (dawn).",
+    "tr": "Ba 'al-fajr' (sepide-dam) eshtebah nashavad."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-nafa-a",
+   "term": {
+    "fa": "نَفَعَ",
+    "en": "nafa'a (benefited)",
+    "tr": "nafa'a"
+   },
+   "explain": {
+    "fa": "«نَفَعَ»: سود رساند. در «خَیرُ النّاسِ مَن نَفَعَ النّاسَ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"nafa'a\": Benefited. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"nafa'a\": Sood resand. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-at-tawaddud",
+   "term": {
+    "fa": "التَّوَدُّد",
+    "en": "tawaddud (friendliness)",
+    "tr": "at-tawaddud"
+   },
+   "explain": {
+    "fa": "«التَّوَدُّد»: دوستی کردن. در «رَأْسُ الْعَقْلِ بَعْدَ الْإِیمَانِ بِاللَّهِ التَّوَدُّدُ إِلَى النَّاسِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"at-tawaddud\": Showing friendliness. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"at-tawaddud\": Doosti kardan. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yata-allafu",
+   "term": {
+    "fa": "یَتَأَلَّفُ",
+    "en": "yata'allafu (consists of)",
+    "tr": "yata'allafu"
+   },
+   "explain": {
+    "fa": "«یَتَأَلَّفُ»: تشکیل می‌شود از. در «یَتَأَلَّفُ النِّظَامُ الشَّمْسِیُّ مِنْ ثَمَانِیَةِ کَوَاکِبَ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"yata'allafu\": Consists of. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"yata'allafu\": Tashkil mishavad az. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ash-shuhub",
+   "term": {
+    "fa": "الشُّهُب",
+    "en": "shuhub (meteors)",
+    "tr": "ash-shuhub"
+   },
+   "explain": {
+    "fa": "«الشُّهُب»: شهاب‌ها. در «تَظْهَرُ الشُّهُبُ فِی السَّمَاءِ کَخُطُوطٍ مُضِیئَةٍ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"ash-shuhub\": Meteors (shooting stars). From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"ash-shuhub\": Shahab-ha. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-aqwa",
+   "term": {
+    "fa": "أَقْوَى",
+    "en": "aqwa (stronger)",
+    "tr": "aqwa"
+   },
+   "explain": {
+    "fa": "«أَقْوَى»: قوی‌تر. در «جَاذِبِیَّةُ الشَّمْسِ أَقْوَى مِنْ جَاذِبِیَّةِ الْأَرْضِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"aqwa\": Stronger. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"aqwa\": Ghavi-tar. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-ihsan",
+   "term": {
+    "fa": "الإِحسان",
+    "en": "ihsan (kindness)",
+    "tr": "al-ihsan"
+   },
+   "explain": {
+    "fa": "«الإِحسان»: نیکی. در «اَلْإِنْسَانُ عَبْدُ الْإِحْسَانِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-ihsan\": Kindness. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-ihsan\": Niki. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-amal",
+   "term": {
+    "fa": "أَمَل",
+    "en": "amal (hope)",
+    "tr": "amal"
+   },
+   "explain": {
+    "fa": "«أَمَل»: آرزو. در «الْجَاهِلُ یَعْتَمِدُ عَلَى أَمَلِهِ، وَ الْعَاقِلُ یَعْتَمِدُ عَلَى عَمَلِهِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"amal\": Hope, wishful thinking. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"amal\": Arezoo. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "contrast": {
+    "fa": "با «عَمَل» (کار) فقط یک حرف فرق دارد؛ در حکمت کفهٔ مقابل هم‌اند.",
+    "en": "Differs from ''amal' (work) by one letter; in the saying they are opposite pans.",
+    "tr": "Ba ''amal' (kar) faghat yek harf fargh darad; dar hekmat kaffe-ye moghabel-e ham-and."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-salaka",
+   "term": {
+    "fa": "سَلَکَ",
+    "en": "salaka (travelled a path)",
+    "tr": "salaka"
+   },
+   "explain": {
+    "fa": "«سَلَکَ»: پیمود (راهی را رفت). در «مَن سَلَکَ طَریقاً یَطلُبُ فِیهِ عِلماً سَلَکَ اللهُ بِهِ طَریقاً إلَى الجَنَّةِ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"salaka\": Travelled (a path). A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"salaka\": Peymood (rahi ra raft). Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-zara-a",
+   "term": {
+    "fa": "زَرَعَ",
+    "en": "zara'a (planted)",
+    "tr": "zara'a"
+   },
+   "explain": {
+    "fa": "«زَرَعَ»: کاشت. در «وَ لَا یَمْلِکُ حَاصِلَ الْعُمْرِ إِلَّا الَّذِی زَرَعَ الْخَیْرَ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"zara'a\": Planted. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"zara'a\": Kasht. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-natij",
+   "term": {
+    "fa": "نَاتِج",
+    "en": "natij (resulting from)",
+    "tr": "natij"
+   },
+   "explain": {
+    "fa": "«نَاتِج»: حاصل، ناشی. در «ضَوْءُ الشَّمْسِ نَاتِجٌ عَنِ التَّفَاعُلَاتِ النَّوَوِیَّةِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"natij\": Resulting (from). From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"natij\": Hasel, nashi. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-mofa-ele",
+   "term": {
+    "fa": "باب مفاعله",
+    "en": "bab of mufa'ala",
+    "tr": "bab-e mofa'ele"
+   },
+   "explain": {
+    "fa": "«باب مفاعله»: فاعَلَ، یُفاعِلُ: الف پس از حرف اول ریشه؛ اغلب کاری دوطرفه، مثل «جالِسْ» (همنشینی کن) و «مُصَادَقَة» (دوستی).",
+    "en": "\"bab-e mofa'ele\": fa'ala, yufa'ilu: an 'a' (alif) after the first root letter; often a two-way action, as in 'jalis' (keep company) and 'musadaqa' (friendship).",
+    "tr": "\"bab-e mofa'ele\": fa'ala, yofa'elo: alef pas az harf-e avval-e rishe; aghlab kari do-tarafe, mesl-e 'jales' va 'mosadagha'."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-madarat",
+   "term": {
+    "fa": "مَدَارَات",
+    "en": "madarat (orbits)",
+    "tr": "madarat"
+   },
+   "explain": {
+    "fa": "«مَدَارَات»: مدارها، مسیرهای گردش. در «جَاذِبِیَّةُ الشَّمْسِ تَجْعَلُ الْکَوَاکِبَ تَدُورُ فِی مَدَارَاتِهَا». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"madarat\": Orbits. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"madarat\": Madar-ha, masir-haye gardesh. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-moshtari",
+   "term": {
+    "fa": "الْمُشْتَرِی",
+    "en": "al-mushtari (Jupiter)",
+    "tr": "al-moshtari"
+   },
+   "explain": {
+    "fa": "«الْمُشْتَرِی»: سیارهٔ مشتری. در «تَبْلُغُ جَاذِبِیَّةُ الْمُشْتَرِی أَکْثَرَ مِنْ جَاذِبِیَّةِ الْأَرْضِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"al-moshtari\": Jupiter. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"al-moshtari\": Sayyare-ye Moshtari. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sharafu",
+   "term": {
+    "fa": "شَرَفُ",
+    "en": "sharaf (honour)",
+    "tr": "sharafu"
+   },
+   "explain": {
+    "fa": "«شَرَفُ»: شرف و بزرگواری. در «شَرَفُ الْمَرْءِ بِالْعِلْمِ وَ الْأَدَبِ لَا بِالْأَصْلِ وَ النَّسَبِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"sharafu\": Honour, nobility. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"sharafu\": Sharaf va bozorgvari. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-khusran",
+   "term": {
+    "fa": "الْخُسْرَانَ",
+    "en": "al-khusran (loss)",
+    "tr": "al-khusran"
+   },
+   "explain": {
+    "fa": "«الْخُسْرَانَ»: زیان. در «مَنْ زَرَعَ الْعُدْوَانَ حَصَدَ الْخُسْرَانَ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-khusran\": Loss, ruin. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-khusran\": Ziyan. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tuba",
+   "term": {
+    "fa": "طُوبَى",
+    "en": "tuba (blessed is)",
+    "tr": "tuba"
+   },
+   "explain": {
+    "fa": "«طُوبَى»: خوشا به حال. در «طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"tuba\": Blessed is, happy is. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"tuba\": Khosha be hal-e. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-mihan",
+   "term": {
+    "fa": "الْمِحَنِ",
+    "en": "al-mihan (hardships)",
+    "tr": "al-mihan"
+   },
+   "explain": {
+    "fa": "«الْمِحَنِ»: رنج‌ها و گرفتاری‌ها. در «الْهَوَى أُسُّ الْمِحَنِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-mihan\": Hardships, afflictions. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-mihan\": Ranj-ha va gereftari-ha. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-diya-an",
+   "term": {
+    "fa": "ضِیَاءً",
+    "en": "diya' (bright light)",
+    "tr": "diya'an"
+   },
+   "explain": {
+    "fa": "«ضِیَاءً»: روشنایی، نور درخشان. در «هُوَ الَّذِی جَعَلَ الشَّمْسَ ضِیَاءً وَ الْقَمَرَ نُوراً». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"diya'an\": Bright light, radiance. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"diya'an\": Rowshanayi, noor-e derakhshan. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-yanfadu",
+   "term": {
+    "fa": "لَا یَنْفَدُ",
+    "en": "la yanfadu (never runs out)",
+    "tr": "la yanfadu"
+   },
+   "explain": {
+    "fa": "«لَا یَنْفَدُ»: تمام نمی‌شود. در «الْقَنَاعَةُ مَالٌ لَا یَنْفَدُ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"la yanfadu\": Never runs out. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"la yanfadu\": Tamam nemishavad. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-hawa",
+   "term": {
+    "fa": "الْهَوَى",
+    "en": "al-hawa (whim, desire)",
+    "tr": "al-hawa"
+   },
+   "explain": {
+    "fa": "«الْهَوَى»: هوای نفس. در «الْهَوَى أُسُّ الْمِحَنِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-hawa\": Selfish desire, whim. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-hawa\": Hava-ye nafs. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "contrast": {
+    "fa": "«هوای نفس» است، نه «هوا»ی فارسی (آسمان و آب‌وهوا).",
+    "en": "Desire of the self, not the Persian 'hava' (air, weather).",
+    "tr": "'Hava-ye nafs' ast, na 'hava'-ye farsi."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-ghina",
+   "term": {
+    "fa": "الْغِنَى",
+    "en": "al-ghina (wealth)",
+    "tr": "al-ghina"
+   },
+   "explain": {
+    "fa": "«الْغِنَى»: توانگری، بی‌نیازی. در «الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-ghina\": Wealth, not being in need. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-ghina\": Tavangari, bi-niyazi. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-jahl",
+   "term": {
+    "fa": "الْجَهْلِ",
+    "en": "al-jahl (ignorance)",
+    "tr": "al-jahl"
+   },
+   "explain": {
+    "fa": "«الْجَهْلِ»: نادانی. در «الْعِلْمُ حَیَاةُ الْقُلُوبِ مِنَ الْجَهْلِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-jahl\": Ignorance. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-jahl\": Nadani. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-mu-sirat",
+   "term": {
+    "fa": "الْمُعْصِرَاتِ",
+    "en": "al-mu'sirat (rain clouds)",
+    "tr": "al-mu'sirat"
+   },
+   "explain": {
+    "fa": "«الْمُعْصِرَاتِ»: ابرهای باران‌زا. در «وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"al-mu'sirat\": Rain clouds. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"al-mu'sirat\": Abr-haye baran-za. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-miqatan",
+   "term": {
+    "fa": "مِیقَاتاً",
+    "en": "miqat (appointed time)",
+    "tr": "miqatan"
+   },
+   "explain": {
+    "fa": "«مِیقَاتاً»: زمانی معین، وعده‌گاه. در «إِنَّ یَوْمَ الْفَصْلِ کَانَ مِیقَاتاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"miqatan\": An appointed time. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"miqatan\": Zamani mo'ayyan, va'de-gah. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ma-aban",
+   "term": {
+    "fa": "مَآباً",
+    "en": "ma'ab (place of return)",
+    "tr": "ma'aban"
+   },
+   "explain": {
+    "fa": "«مَآباً»: بازگشت‌گاه، جایگاه. در «لِلطَّاغِینَ مَآباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"ma'aban\": A place of return, an abode. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"ma'aban\": Bazgasht-gah, jaygah. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wifaqan",
+   "term": {
+    "fa": "وِفَاقاً",
+    "en": "wifaq (fitting)",
+    "tr": "wifaqan"
+   },
+   "explain": {
+    "fa": "«وِفَاقاً»: متناسب و درخور. در «جَزَاءً وِفَاقاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"wifaqan\": Fitting, in proportion. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"wifaqan\": Motanaseb va darkhor. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-hada-iq",
+   "term": {
+    "fa": "حَدَائِقَ",
+    "en": "hada'iq (gardens)",
+    "tr": "hada'iq"
+   },
+   "explain": {
+    "fa": "«حَدَائِقَ»: باغ‌ها. در «حَدَائِقَ وَ أَعْنَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"hada'iq\": Gardens. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"hada'iq\": Bagh-ha. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-saffan",
+   "term": {
+    "fa": "صَفّاً",
+    "en": "saff (in rows)",
+    "tr": "saffan"
+   },
+   "explain": {
+    "fa": "«صَفّاً»: صف‌بسته، به صف. در «یَوْمَ یَقُومُ الرُّوحُ وَ الْمَلَائِکَةُ صَفّاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"saffan\": In rows, in ranks. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"saffan\": Saf-baste, be saf. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sababna",
+   "term": {
+    "fa": "صَبَبْنَا",
+    "en": "sababna (we poured down)",
+    "tr": "sababna"
+   },
+   "explain": {
+    "fa": "«صَبَبْنَا»: فرو ریختیم، باراندیم. در «أَنَّا صَبَبْنَا الْمَاءَ صَبّاً». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"sababna\": We poured down. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"sababna\": Foroo rikhtim, barandim. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ghulban",
+   "term": {
+    "fa": "غُلْباً",
+    "en": "ghulb (thick, dense)",
+    "tr": "ghulban"
+   },
+   "explain": {
+    "fa": "«غُلْباً»: انبوه و پردرخت. در «وَ زَیْتُوناً وَ نَخْلاً * وَ حَدَائِقَ غُلْباً». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"ghulban\": Thick with trees, dense. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"ghulban\": Anbooh va por-derakht. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-suhufin",
+   "term": {
+    "fa": "صُحُفٍ",
+    "en": "suhuf (scrolls, pages)",
+    "tr": "suhufin"
+   },
+   "explain": {
+    "fa": "«صُحُفٍ»: نامه‌ها و نوشته‌ها. در «فِی صُحُفٍ مُکَرَّمَةٍ * مَرْفُوعَةٍ مُطَهَّرَةٍ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"suhufin\": Scrolls, written pages. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"suhufin\": Name-ha va neveshte-ha. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-burrizat",
+   "term": {
+    "fa": "بُرِّزَتِ",
+    "en": "burrizat (was laid open to view)",
+    "tr": "burrizat"
+   },
+   "explain": {
+    "fa": "«بُرِّزَتِ»: آشکار شد، نمایان گردید. در «وَ بُرِّزَتِ الْجَحِیمُ لِمَنْ یَرَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"burrizat\": Was laid open to view. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"burrizat\": Ashkar shod, namayan gardid. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-ma-wa",
+   "term": {
+    "fa": "الْمَأْوَى",
+    "en": "al-ma'wa (the abode)",
+    "tr": "al-ma'wa"
+   },
+   "explain": {
+    "fa": "«الْمَأْوَى»: جایگاه، پناهگاه. در «فَإِنَّ الْجَحِیمَ هِیَ الْمَأْوَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"al-ma'wa\": The abode, the dwelling place. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"al-ma'wa\": Jaygah, panahgah. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ghabara",
+   "term": {
+    "fa": "غَبَرَةٌ",
+    "en": "ghabara (dust)",
+    "tr": "ghabara"
+   },
+   "explain": {
+    "fa": "«غَبَرَةٌ»: گرد و غبار، تیرگی. در «وَ وُجُوهٌ یَوْمَئِذٍ عَلَیْهَا غَبَرَةٌ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"ghabara\": Dust, a dusty gloom. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"ghabara\": Gard va ghobar, tiregi. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-infatarat",
+   "term": {
+    "fa": "انْفَطَرَتْ",
+    "en": "infatarat (split apart)",
+    "tr": "infatarat"
+   },
+   "explain": {
+    "fa": "«انْفَطَرَتْ»: شکافت. در «إِذَا السَّمَاءُ انْفَطَرَتْ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"infatarat\": Split apart. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"infatarat\": Shekaft. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yastawfun",
+   "term": {
+    "fa": "یَسْتَوْفُونَ",
+    "en": "yastawfun (take in full)",
+    "tr": "yastawfun"
+   },
+   "explain": {
+    "fa": "«یَسْتَوْفُونَ»: تمام و کامل می‌گیرند. در «الَّذِینَ إِذَا اکْتَالُوا عَلَى النَّاسِ یَسْتَوْفُونَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"yastawfun\": They take in full. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"yastawfun\": Tamam va kamel migirand. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sijjin",
+   "term": {
+    "fa": "سِجِّینٍ",
+    "en": "sijjin (the register of the wicked)",
+    "tr": "sijjin"
+   },
+   "explain": {
+    "fa": "«سِجِّینٍ»: دیوان اعمال بدکاران (در ژرفای دوزخ). در «کَلَّا إِنَّ کِتَابَ الْفُجَّارِ لَفِی سِجِّینٍ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"sijjin\": The register of the wicked (in the depths of Hell). From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"sijjin\": Divan-e a'mal-e badkaran (dar zharfa-ye doozakh). Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-afw",
+   "term": {
+    "fa": "العَفو",
+    "en": "al-afw (forgiveness)",
+    "tr": "al-afw"
+   },
+   "explain": {
+    "fa": "«العَفو»: گذشت و بخشش. در «عَلیکَ بِالعَفوِ عِندَ المَقدِرَةِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-afw\": Forgiveness, pardon. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-afw\": Gozasht va bakhshesh. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-adawa",
+   "term": {
+    "fa": "عَداوَة",
+    "en": "adawa (enmity)",
+    "tr": "adawa"
+   },
+   "explain": {
+    "fa": "«عَداوَة»: دشمنی. در «عَداوَةُ العاقِلِ خَیرٌ مِن صَداقَةِ الجاهِلِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"adawa\": Enmity. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"adawa\": Doshmani. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-jalis",
+   "term": {
+    "fa": "جالِس",
+    "en": "jalis (keep company with)",
+    "tr": "jalis"
+   },
+   "explain": {
+    "fa": "«جالِس»: همنشینی کن. در «جالِسِ العُلَماءَ لِیَزدادَ عِلمُکَ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"jalis\": Keep company with. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"jalis\": Hamneshini kon. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tastadi-u",
+   "term": {
+    "fa": "تَستَضیءُ",
+    "en": "tastadi'u (receive light)",
+    "tr": "tastadi'u"
+   },
+   "explain": {
+    "fa": "«تَستَضیءُ»: روشنایی می‌گیرند. در «تَستَضیءُ کَواکِبُ المَجموعَةِ الشَّمسیَّةِ بِالضَّوءِ الشَّمسیِّ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"tastadi'u\": They receive light. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"tastadi'u\": Roshanayi migirand. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tajzibu",
+   "term": {
+    "fa": "تَجْذِبُ",
+    "en": "tajdhibu (attracts)",
+    "tr": "tajzibu"
+   },
+   "explain": {
+    "fa": "«تَجْذِبُ»: جذب می‌کند (می‌کشد). در «تَجْذِبُ الْأَرْضُ الْأَجْسَامَ نَحْوَ مَرْکَزِهَا بِقُوَّةِ الْجَاذِبِیَّةِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"tajzibu\": Attracts (pulls). From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"tajzibu\": Jazb mikonad (mikeshad). Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-as-sayyarat",
+   "term": {
+    "fa": "السَّیّارات",
+    "en": "sayyarat (planets)",
+    "tr": "as-sayyarat"
+   },
+   "explain": {
+    "fa": "«السَّیّارات»: سیاره‌ها. در «تَدُورُ السَّیّاراتُ حَوْلَ الشَّمْسِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"as-sayyarat\": The planets. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"as-sayyarat\": Sayyare-ha. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ibad",
+   "term": {
+    "fa": "عِباد",
+    "en": "ibad (servants)",
+    "tr": "ibad"
+   },
+   "explain": {
+    "fa": "«عِباد»: بندگان. در «أَفضَلُ النّاسِ أَنفَعُهُم لِعِبادِ اللهِ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"ibad\": Servants. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"ibad\": Bandegan. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-farida",
+   "term": {
+    "fa": "فَرِیضَة",
+    "en": "farida (obligation)",
+    "tr": "farida"
+   },
+   "explain": {
+    "fa": "«فَرِیضَة»: واجب. در «طَلَبُ الْعِلْمِ فَرِیضَةٌ عَلَى کُلِّ مُسْلِمٍ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"farida\": An obligation. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"farida\": Vajeb. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ahda",
+   "term": {
+    "fa": "أَهْدى",
+    "en": "ahda (gave as a gift)",
+    "tr": "ahda"
+   },
+   "explain": {
+    "fa": "«أَهْدى»: هدیه داد. در «خَیرُ إخوانِکُم مَن أهدى إلَیکُم عُیُوبَکُم». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"ahda\": Gave as a gift. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"ahda\": Hedie dad. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-qana-a",
+   "term": {
+    "fa": "القَناعَة",
+    "en": "qana'a (contentment)",
+    "tr": "al-qana'a"
+   },
+   "explain": {
+    "fa": "«القَناعَة»: قناعت، خرسندی. در «خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-qana'a\": Contentment. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-qana'a\": Ghenaat, khorsandi. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tab-udu",
+   "term": {
+    "fa": "تَبْعُدُ",
+    "en": "tab'udu (is far from)",
+    "tr": "tab'udu"
+   },
+   "explain": {
+    "fa": "«تَبْعُدُ»: فاصله دارد، دور است. در «تَبْعُدُ الْأَرْضُ عَنِ الشَّمْسِ خَمْسَةً وَ تِسْعِینَ مِلْیُونَ مِیلٍ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"tab'udu\": Is far from. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"tab'udu\": Fasele darad, door ast. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-taf-il",
+   "term": {
+    "fa": "باب تفعیل",
+    "en": "bab of taf'il",
+    "tr": "bab-e taf'il"
+   },
+   "explain": {
+    "fa": "«باب تفعیل»: فَعَّلَ، یُفَعِّلُ: تشدید روی حرف دوم ریشه؛ مجهولش مثل «کُوِّرَتْ» و «سُیِّرَتْ».",
+    "en": "\"bab-e taf'il\": fa''ala, yufa''ilu: a doubled middle root letter; its passive as in 'kuwwirat' and 'suyyirat'.",
+    "tr": "\"bab-e taf'il\": fa''ala, yofa''elo: tashdid rooy-e harf-e dovvom-e rishe; majhoolash mesl-e 'kovverat' va 'soyyerat'."
+   },
+   "contrast": {
+    "fa": "با «تَفَعُّل» (یَتَفَعَّلُ) اشتباه نشود که «تـ» در آغاز دارد.",
+    "en": "Not tafa''ul (yatafa''alu), which starts with 'ta-'.",
+    "tr": "Ba tafa''ol (yatafa''alo) eshtebah nashavad ke 'ta' dar aghaz darad."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yastamiddu",
+   "term": {
+    "fa": "یَسْتَمِدُّ",
+    "en": "yastamiddu (draws from)",
+    "tr": "yastamiddu"
+   },
+   "explain": {
+    "fa": "«یَسْتَمِدُّ»: می‌گیرد، یاری می‌گیرد. در «یَسْتَمِدُّ الْقَمَرُ ضَوْءَهُ مِنَ الشَّمْسِ». از متن علمی منظومهٔ شمسی؛ ریشه و باب، معنا را می‌دهند.",
+    "en": "\"yastamiddu\": Draws (from), takes. From the solar-system science text: the root and the verb form give the meaning.",
+    "tr": "\"yastamiddu\": Migirad, yari migirad. Az matn-e elmi-ye manzoome-ye shamsi; rishe va bab, ma'na ra midahand."
+   },
+   "unit": "ar-2-science-text"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-enfe-al",
+   "term": {
+    "fa": "باب انفعال",
+    "en": "bab of infi'al",
+    "tr": "bab-e enfe'al"
+   },
+   "explain": {
+    "fa": "«باب انفعال»: اِنْفَعَلَ، یَنْفَعِلُ: «ن» پیش از ریشه؛ یعنی «خود به خود شد»، مثل «انْفَطَرَتْ» و «انْکَدَرَتْ».",
+    "en": "\"bab-e enfe'al\": infa'ala, yanfa'ilu: an 'n' before the root; it means 'happened by itself', as in 'infatarat' and 'inkadarat'.",
+    "tr": "\"bab-e enfe'al\": enfa'ala, yanfa'elo: 'n' pish az rishe; ya'ni 'khod be khod shod', mesl-e 'enfatarat' va 'enkadarat'."
+   },
+   "contrast": {
+    "fa": "هر «انـ»ی انفعال نیست: «انْتَثَرَتْ» افتعال است.",
+    "en": "Not every 'in-' is infi'al: 'intatharat' is ifti'al.",
+    "tr": "Har 'en'-i enfe'al nist: 'entasarat' efte'al ast."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bi-ran",
+   "term": {
+    "fa": "بِئْراً",
+    "en": "bi'r (a well)",
+    "tr": "bi'ran"
+   },
+   "explain": {
+    "fa": "«بِئْراً»: چاهی. در «مَنْ حَفَرَ بِئْراً لِأَخِیهِ وَقَعَ فِیهَا». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"bi'ran\": A well, a pit. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"bi'ran\": Chahi. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ayyamin",
+   "term": {
+    "fa": "أَیَّامٍ",
+    "en": "ayyam (days)",
+    "tr": "ayyamin"
+   },
+   "explain": {
+    "fa": "«أَیَّامٍ»: روزها (دوره‌ها). در «هُوَ الَّذِی خَلَقَ السَّمَاوَاتِ وَ الْأَرْضَ فِی سِتَّةِ أَیَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"ayyamin\": Days (periods). From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"ayyamin\": Rooz-ha (dowre-ha). Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sirajan",
+   "term": {
+    "fa": "سِرَاجاً",
+    "en": "siraj (a lamp)",
+    "tr": "sirajan"
+   },
+   "explain": {
+    "fa": "«سِرَاجاً»: چراغی. در «وَ جَعَلَ الْقَمَرَ فِیهِنَّ نُوراً وَ جَعَلَ الشَّمْسَ سِرَاجاً». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"sirajan\": A lamp. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"sirajan\": Cheraghi. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-rawasiya",
+   "term": {
+    "fa": "رَوَاسِیَ",
+    "en": "rawasi (firm mountains)",
+    "tr": "rawasiya"
+   },
+   "explain": {
+    "fa": "«رَوَاسِیَ»: کوه‌های استوار. در «وَ أَلْقَى فِی الْأَرْضِ رَوَاسِیَ أَنْ تَمِیدَ بِکُمْ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"rawasiya\": Firm mountains. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"rawasiya\": Kooh-haye ostovar. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wakhimatun",
+   "term": {
+    "fa": "وَخِیمَةٌ",
+    "en": "wakhima (disastrous)",
+    "tr": "wakhimatun"
+   },
+   "explain": {
+    "fa": "«وَخِیمَةٌ»: ناگوار، وخیم. در «عَاقِبَةُ الظُّلْمِ وَخِیمَةٌ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"wakhimatun\": Disastrous, grim. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"wakhimatun\": Nagovar, vakhim. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-hilmu",
+   "term": {
+    "fa": "الْحِلْمُ",
+    "en": "al-hilm (forbearance)",
+    "tr": "al-hilmu"
+   },
+   "explain": {
+    "fa": "«الْحِلْمُ»: بردباری. در «الْحِلْمُ غِطَاءٌ سَاتِرٌ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-hilmu\": Forbearance, patience. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-hilmu\": Bordbari. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-wahhajan",
+   "term": {
+    "fa": "وَهَّاجاً",
+    "en": "wahhaj (blazing)",
+    "tr": "wahhajan"
+   },
+   "explain": {
+    "fa": "«وَهَّاجاً»: بسیار درخشان و فروزان. در «وَ جَعَلْنَا سِرَاجاً وَهَّاجاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"wahhajan\": Blazing, brilliantly bright. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"wahhajan\": Besyar derakhshan va foroozan. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ta-ish",
+   "term": {
+    "fa": "تَعِشْ",
+    "en": "ta'ish (you will live)",
+    "tr": "ta'ish"
+   },
+   "explain": {
+    "fa": "«تَعِشْ»: زندگی می‌کنی. در «خُذِ الْقَنَاعَةَ مِنَ الدُّنْیَا تَعِشْ مَلِکاً». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"ta'ish\": You will live. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"ta'ish\": Zendegi mikoni. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "contrast": {
+    "fa": "بی‌ضمه است چون جواب فعل امر «خُذْ» است.",
+    "en": "It has no -u because it answers the command 'khudh'.",
+    "tr": "Bi-zamme ast chon javab-e fe'l-e amr 'khoz' ast."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-mazra-atu",
+   "term": {
+    "fa": "مَزْرَعَةُ",
+    "en": "mazra'a (farm)",
+    "tr": "mazra'atu"
+   },
+   "explain": {
+    "fa": "«مَزْرَعَةُ»: کشتزار. در «الدُّنْیَا مَزْرَعَةُ الْآخِرَةِ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"mazra'atu\": A farm, a field. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"mazra'atu\": Keshtzar. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-tabkhasu",
+   "term": {
+    "fa": "لَا تَبْخَسُوا",
+    "en": "la tabkhasu (do not short-change)",
+    "tr": "la tabkhasu"
+   },
+   "explain": {
+    "fa": "«لَا تَبْخَسُوا»: کم مدهید، از ارزشش نکاهید. در «وَ لَا تَبْخَسُوا النَّاسَ أَشْیَاءَهُمْ وَ لَا تَعْثَوْا فِی الْأَرْضِ مُفْسِدِینَ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"la tabkhasu\": Do not short-change, do not cut the value of. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"la tabkhasu\": Kam madahid, az arzeshash nakahid. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-libasan",
+   "term": {
+    "fa": "لِبَاساً",
+    "en": "libas (a covering)",
+    "tr": "libasan"
+   },
+   "explain": {
+    "fa": "«لِبَاساً»: پوشش، جامه. در «وَ جَعَلْنَا اللَّیْلَ لِبَاساً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"libasan\": A covering, a garment. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"libasan\": Pooshesh, jame. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ma-ashan",
+   "term": {
+    "fa": "مَعَاشاً",
+    "en": "ma'ash (livelihood)",
+    "tr": "ma'ashan"
+   },
+   "explain": {
+    "fa": "«مَعَاشاً»: زمان کسب روزی. در «وَ جَعَلْنَا النَّهَارَ مَعَاشاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"ma'ashan\": A time for earning a living. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"ma'ashan\": Zaman-e kasb-e roozi. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-suyyirat",
+   "term": {
+    "fa": "سُیِّرَتِ",
+    "en": "suyyirat (were set moving)",
+    "tr": "suyyirat"
+   },
+   "explain": {
+    "fa": "«سُیِّرَتِ»: روان ساخته شدند. در «وَ سُیِّرَتِ الْجِبَالُ فَکَانَتْ سَرَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"suyyirat\": Were set moving. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"suyyirat\": Ravan sakhte shodand. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-hamiman",
+   "term": {
+    "fa": "حَمِیماً",
+    "en": "hamim (boiling water)",
+    "tr": "hamiman"
+   },
+   "explain": {
+    "fa": "«حَمِیماً»: آب جوشان. در «إِلَّا حَمِیماً وَ غَسَّاقاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"hamiman\": Boiling water. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"hamiman\": Ab-e jooshan. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "contrast": {
+    "fa": "همسایه‌اش در آیه «غَسَّاقاً» (چرکاب) است؛ جایشان را عوض نکن.",
+    "en": "Its neighbour in the verse is 'ghassaqan' (foul pus); do not swap them.",
+    "tr": "Hamsaye-ash dar aye 'ghassaghan' (cherkab) ast; jayeshan ra avaz nakon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ahsaynahu",
+   "term": {
+    "fa": "أَحْصَیْنَاهُ",
+    "en": "ahsaynahu (we counted it)",
+    "tr": "ahsaynahu"
+   },
+   "explain": {
+    "fa": "«أَحْصَیْنَاهُ»: آن را برشمردیم. در «وَ کُلَّ شَیْءٍ أَحْصَیْنَاهُ کِتَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"ahsaynahu\": We have counted it all. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"ahsaynahu\": An ra bar-shemordim. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-laghwan",
+   "term": {
+    "fa": "لَغْواً",
+    "en": "laghw (idle talk)",
+    "tr": "laghwan"
+   },
+   "explain": {
+    "fa": "«لَغْواً»: سخن بیهوده. در «لَا یَسْمَعُونَ فِیهَا لَغْواً وَ لَا کِذَّاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"laghwan\": Idle, empty talk. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"laghwan\": Sokhan-e bihoode. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-gharqan",
+   "term": {
+    "fa": "غَرْقاً",
+    "en": "gharq (forcefully, deeply)",
+    "tr": "gharqan"
+   },
+   "explain": {
+    "fa": "«غَرْقاً»: به سختی و از ژرفا. در «وَ النَّازِعَاتِ غَرْقاً». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"gharqan\": Forcefully, from deep within. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"gharqan\": Be sakhti va az zharfa. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tarjufu",
+   "term": {
+    "fa": "تَرْجُفُ",
+    "en": "tarjufu (quakes)",
+    "tr": "tarjufu"
+   },
+   "explain": {
+    "fa": "«تَرْجُفُ»: به لرزه درمی‌آید. در «یَوْمَ تَرْجُفُ الرَّاجِفَةُ». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"tarjufu\": Quakes, shakes violently. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"tarjufu\": Be larze dar-miayad. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-nakhiratan",
+   "term": {
+    "fa": "نَخِرَةً",
+    "en": "nakhira (crumbling, decayed)",
+    "tr": "nakhiratan"
+   },
+   "explain": {
+    "fa": "«نَخِرَةً»: پوسیده و از هم پاشیده. در «أَ إِذَا کُنَّا عِظَاماً نَخِرَةً». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"nakhiratan\": Crumbling, decayed. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"nakhiratan\": Poosideh va az ham pashide. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-at-tamma",
+   "term": {
+    "fa": "الطَّامَّةُ",
+    "en": "at-tamma (the overwhelming calamity)",
+    "tr": "at-tamma"
+   },
+   "explain": {
+    "fa": "«الطَّامَّةُ»: رویداد بزرگ و فراگیر (رستاخیز). در «فَإِذَا جَاءَتِ الطَّامَّةُ الْکُبْرَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"at-tamma\": The overwhelming catastrophe (the Resurrection). From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"at-tamma\": Rooydad-e bozorg va faragir (rastakhiz). Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tagha",
+   "term": {
+    "fa": "طَغَى",
+    "en": "tagha (rebelled, went too far)",
+    "tr": "tagha"
+   },
+   "explain": {
+    "fa": "«طَغَى»: سرکشی کرد. در «فَأَمَّا مَنْ طَغَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"tagha\": Rebelled, went beyond all bounds. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"tagha\": Sarkeshi kard. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yafirru",
+   "term": {
+    "fa": "یَفِرُّ",
+    "en": "yafirru (flees)",
+    "tr": "yafirru"
+   },
+   "explain": {
+    "fa": "«یَفِرُّ»: می‌گریزد. در «یَوْمَ یَفِرُّ الْمَرْءُ مِنْ أَخِیهِ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"yafirru\": Flees. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"yafirru\": Migorizad. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-kuwwirat",
+   "term": {
+    "fa": "کُوِّرَتْ",
+    "en": "kuwwirat (was wrapped up, darkened)",
+    "tr": "kuwwirat"
+   },
+   "explain": {
+    "fa": "«کُوِّرَتْ»: در هم پیچیده و تاریک شد. در «إِذَا الشَّمْسُ کُوِّرَتْ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"kuwwirat\": Was wrapped up and darkened. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"kuwwirat\": Dar ham pichide va tarik shod. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-waylun",
+   "term": {
+    "fa": "وَیْلٌ",
+    "en": "wayl (woe)",
+    "tr": "waylun"
+   },
+   "explain": {
+    "fa": "«وَیْلٌ»: وای بر، نابودی. در «وَیْلٌ لِلْمُطَفِّفِینَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"waylun\": Woe to, ruin. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"waylun\": Vay bar, naboodi. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yaqumu",
+   "term": {
+    "fa": "یَقُومُ",
+    "en": "yaqumu (stands up)",
+    "tr": "yaqumu"
+   },
+   "explain": {
+    "fa": "«یَقُومُ»: برمی‌خیزد، می‌ایستد. در «یَوْمَ یَقُومُ النَّاسُ لِرَبِّ الْعَالَمِینَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"yaqumu\": Stands up, rises. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"yaqumu\": Barmikhizad, miistad. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-hatab",
+   "term": {
+    "fa": "الحَطَب",
+    "en": "hatab (firewood)",
+    "tr": "al-hatab"
+   },
+   "explain": {
+    "fa": "«الحَطَب»: هیزم. در «اَلْحَسَدُ یَأْکُلُ الْحَسَنَاتِ کَمَا تَأْکُلُ النَّارُ الْحَطَبَ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"al-hatab\": Firewood. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"al-hatab\": Hizom. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-istasbihu",
+   "term": {
+    "fa": "اِسْتَصْبِحُوا",
+    "en": "istasbihu (seek light)",
+    "tr": "istasbihu"
+   },
+   "explain": {
+    "fa": "«اِسْتَصْبِحُوا»: روشنایی بجویید. در «أَیُّهَا النَّاسُ، اِسْتَصْبِحُوا مِنْ شُعْلَةِ مِصْبَاحِ وَاعِظٍ مُتَّعِظٍ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"istasbihu\": Seek light. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"istasbihu\": Roshanayi bejooyid. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-estef-al",
+   "term": {
+    "fa": "باب استفعال",
+    "en": "bab of istif'al",
+    "tr": "bab-e estef'al"
+   },
+   "explain": {
+    "fa": "«باب استفعال»: اِسْتَفْعَلَ، یَسْتَفْعِلُ: «اسْتـ» پیش از ریشه؛ اغلب «طلب کردن»، مثل «یَسْتَمِدُّ»، «تَسْتَضِیءُ» و «یَسْتَوْفُونَ».",
+    "en": "\"bab-e estef'al\": istaf'ala, yastaf'ilu: 'ista-' before the root; often 'seeking', as in 'yastamiddu', 'tastadi'u' and 'yastawfuna'.",
+    "tr": "\"bab-e estef'al\": estaf'ala, yastaf'elo: 'esta' pish az rishe; aghlab 'talab kardan', mesl-e 'yastamedd', 'tastazi'o' va 'yastawfoon'."
+   },
+   "analogy": {
+    "fa": "مثل دستی که دراز می‌شود تا چیزی بگیرد.",
+    "en": "Like a hand reaching out to take something.",
+    "tr": "Mesl-e dasti ke deraz mishavad ta chizi begirad."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-shaghalahu",
+   "term": {
+    "fa": "شَغَلَهُ",
+    "en": "shaghala (kept busy)",
+    "tr": "shaghalahu"
+   },
+   "explain": {
+    "fa": "«شَغَلَهُ»: او را مشغول کرد. در «طُوبَى لِمَنْ شَغَلَهُ عَیْبُهُ عَنْ عُیُوبِ النَّاسِ». فعلی از حکمت‌ها؛ زمان و حالتش را از آخر فعل و کلمهٔ پیش از آن بخوان.",
+    "en": "\"shaghalahu\": Kept him busy. A verb from the sayings: read its tense and mood from its ending and the word before it.",
+    "tr": "\"shaghalahu\": Oo ra mashghool kard. Fe'li az hekmat-ha; zaman va halatash ra az akhar-e fe'l va kalame-ye pish az an bekhan."
+   },
+   "unit": "ar-2-saying-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-nafsahu",
+   "term": {
+    "fa": "نَفْسَهُ",
+    "en": "nafs (self)",
+    "tr": "nafsahu"
+   },
+   "explain": {
+    "fa": "«نَفْسَهُ»: خودش، خویشتن. در «مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"nafsahu\": Himself, his own self. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"nafsahu\": Khodash, khishtan. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "contrast": {
+    "fa": "یعنی «خودش»، نه «نَفَس» (دم).",
+    "en": "Means 'himself', not 'nafas' (breath).",
+    "tr": "Ya'ni 'khodash', na 'nafas' (dam)."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-habban",
+   "term": {
+    "fa": "حَبّاً",
+    "en": "habb (grain)",
+    "tr": "habban"
+   },
+   "explain": {
+    "fa": "«حَبّاً»: دانه. در «لِنُخْرِجَ بِهِ حَبّاً وَ نَبَاتاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"habban\": Grain, seeds. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"habban\": Dane. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-futihat",
+   "term": {
+    "fa": "فُتِحَتِ",
+    "en": "futihat (was opened)",
+    "tr": "futihat"
+   },
+   "explain": {
+    "fa": "«فُتِحَتِ»: گشوده شد. در «وَ فُتِحَتِ السَّمَاءُ فَکَانَتْ أَبْوَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"futihat\": Was opened. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"futihat\": Gooshoode shod. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-yadhuquna",
+   "term": {
+    "fa": "لَا یَذُوقُونَ",
+    "en": "la yadhuquna (they do not taste)",
+    "tr": "la yadhuquna"
+   },
+   "explain": {
+    "fa": "«لَا یَذُوقُونَ»: نمی‌چشند. در «لَا یَذُوقُونَ فِیهَا بَرْداً وَ لَا شَرَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"la yadhuquna\": They do not taste. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"la yadhuquna\": Nemicheshand. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "contrast": {
+    "fa": "نون آخر مانده، پس نفی است («نمی‌چشند»)، نه نهی.",
+    "en": "Its final -na stays, so it is negation ('they do not taste'), not a command.",
+    "tr": "Noon-e akhar mande, pas nafy ast ('nemichashand'), na nahy."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-kidhdhaban",
+   "term": {
+    "fa": "کِذَّاباً",
+    "en": "kidhdhab (utter denial)",
+    "tr": "kidhdhaban"
+   },
+   "explain": {
+    "fa": "«کِذَّاباً»: تکذیبی سخت. در «وَ کَذَّبُوا بِآیَاتِنَا کِذَّاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"kidhdhaban\": Utter, stubborn denial. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"kidhdhaban\": Takzibi sakht. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-dihaqan",
+   "term": {
+    "fa": "دِهَاقاً",
+    "en": "dihaq (brimming)",
+    "tr": "dihaqan"
+   },
+   "explain": {
+    "fa": "«دِهَاقاً»: پر و لبالب. در «وَ کَأْساً دِهَاقاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"dihaqan\": Full to the brim. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"dihaqan\": Por va labalab. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-turaban",
+   "term": {
+    "fa": "تُرَاباً",
+    "en": "turab (dust)",
+    "tr": "turaban"
+   },
+   "explain": {
+    "fa": "«تُرَاباً»: خاک. در «وَ یَقُولُ الْکَافِرُ یَا لَیْتَنِی کُنْتُ تُرَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"turaban\": Dust, earth. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"turaban\": Khak. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-qadban",
+   "term": {
+    "fa": "قَضْباً",
+    "en": "qadb (green fodder)",
+    "tr": "qadban"
+   },
+   "explain": {
+    "fa": "«قَضْباً»: سبزی تازه، یونجه. در «فَأَنْبَتْنَا فِیهَا حَبّاً * وَ عِنَباً وَ قَضْباً». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"qadban\": Fresh green plants, fodder. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"qadban\": Sabzi-ye taze, yoonje. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-as-sakhkha",
+   "term": {
+    "fa": "الصَّاخَّةُ",
+    "en": "as-sakhkha (the deafening blast)",
+    "tr": "as-sakhkha"
+   },
+   "explain": {
+    "fa": "«الصَّاخَّةُ»: بانگ کرکننده. در «فَإِذَا جَاءَتِ الصَّاخَّةُ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"as-sakhkha\": The deafening blast. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"as-sakhkha\": Bang-e kar-konande. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sha-nun",
+   "term": {
+    "fa": "شَأْنٌ",
+    "en": "sha'n (a matter, a concern)",
+    "tr": "sha'nun"
+   },
+   "explain": {
+    "fa": "«شَأْنٌ»: کاری و گرفتاری. در «لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"sha'nun\": A matter, a concern. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"sha'nun\": Kari va gereftari. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-mustabshira",
+   "term": {
+    "fa": "مُسْتَبْشِرَةٌ",
+    "en": "mustabshira (rejoicing)",
+    "tr": "mustabshira"
+   },
+   "explain": {
+    "fa": "«مُسْتَبْشِرَةٌ»: شادمان و خرسند. در «ضَاحِکَةٌ مُسْتَبْشِرَةٌ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"mustabshira\": Rejoicing, full of joy. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"mustabshira\": Shadman va khorsand. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ayyana",
+   "term": {
+    "fa": "أَیَّانَ",
+    "en": "ayyana (when)",
+    "tr": "ayyana"
+   },
+   "explain": {
+    "fa": "«أَیَّانَ»: چه وقت. در «یَسْأَلُونَکَ عَنِ السَّاعَةِ أَیَّانَ مُرْسَاهَا». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"ayyana\": When. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"ayyana\": Che vaght. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-qatara",
+   "term": {
+    "fa": "قَتَرَةٌ",
+    "en": "qatara (blackness)",
+    "tr": "qatara"
+   },
+   "explain": {
+    "fa": "«قَتَرَةٌ»: سیاهی و تیرگی. در «تَرْهَقُهَا قَتَرَةٌ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"qatara\": Blackness, darkness. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"qatara\": Siyahi va tiregi. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-gharraka",
+   "term": {
+    "fa": "غَرَّکَ",
+    "en": "gharraka (deceived you)",
+    "tr": "gharraka"
+   },
+   "explain": {
+    "fa": "«غَرَّکَ»: تو را فریفت. در «یَا أَیُّهَا الْإِنْسَانُ مَا غَرَّکَ بِرَبِّکَ الْکَرِیمِ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"gharraka\": Deceived you, made you heedless. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"gharraka\": To ra farift. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-mab-uthun",
+   "term": {
+    "fa": "مَبْعُوثُونَ",
+    "en": "mab'uthun (raised to life again)",
+    "tr": "mab'uthun"
+   },
+   "explain": {
+    "fa": "«مَبْعُوثُونَ»: برانگیخته‌شدگان. در «أَلَا یَظُنُّ أُولَئِکَ أَنَّهُمْ مَبْعُوثُونَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"mab'uthun\": Raised to life again. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"mab'uthun\": Barangikhte-shodegan. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-lil-mukadhdhibin",
+   "term": {
+    "fa": "لِلْمُکَذِّبِینَ",
+    "en": "mukadhdhibin (deniers)",
+    "tr": "lil-mukadhdhibin"
+   },
+   "explain": {
+    "fa": "«لِلْمُکَذِّبِینَ»: تکذیب‌کنندگان. در «وَیْلٌ یَوْمَئِذٍ لِلْمُکَذِّبِینَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"lil-mukadhdhibin\": The deniers. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"lil-mukadhdhibin\": Takzib-konandegan. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-ye-nafy-e-jens",
+   "term": {
+    "fa": "لای نفی جنس",
+    "en": "la of absolute negation",
+    "tr": "la-ye nafy-e jens"
+   },
+   "explain": {
+    "fa": "«لای نفی جنس»: «لا»یی که کل یک جنس را نفی می‌کند: «هیچ ... نیست».",
+    "en": "\"la-ye nafy-e jens\": The 'la' that denies a whole kind: 'there is no ... at all'.",
+    "tr": "\"la-ye nafy-e jens\": 'La'-yi ke kol-e yek jens ra nafy mikonad: 'hich ... nist'."
+   },
+   "contrast": {
+    "fa": "با «لا»ی نفی فعل («لا یَنْفَدُ») و «لا»ی نهی فرق دارد؛ پس از آن اسم می‌آید.",
+    "en": "Different from the 'la' that negates a verb ('la yanfadu') and the 'la' of prohibition; a noun follows it.",
+    "tr": "Ba 'la'-ye nafy-e fe'l ('la yanfado') va 'la'-ye nahy fargh darad; pas az an esm miayad."
+   },
+   "unit": "ar-1-la-nafy-jins"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-alla",
+   "term": {
+    "fa": "لَعَلَّ",
+    "en": "la'alla (hope)",
+    "tr": "la'alla"
+   },
+   "explain": {
+    "fa": "«لَعَلَّ»: حرف «ترجّی»: «شاید، امید است»؛ امید به چیزی شدنی.",
+    "en": "\"la'alla\": The particle of hope (tarajji): 'perhaps, it is hoped'; hope for something possible.",
+    "tr": "\"la'alla\": Harf-e tarajji: 'shayad, omid ast'; omid be chizi shodani."
+   },
+   "contrast": {
+    "fa": "با «لَیْتَ» فرق دارد: «لَیْتَ» آرزوی دست‌نیافتنی است.",
+    "en": "Different from 'layta', a wish for the impossible.",
+    "tr": "Ba 'leyta' fargh darad: 'leyta' arezoo-ye dast-nayaftani ast."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-khabar-e-la-ye-nafy-e-jens",
+   "term": {
+    "fa": "خبر لای نفی جنس",
+    "en": "predicate of the la of absolute negation",
+    "tr": "khabar-e la-ye nafy-e jens"
+   },
+   "explain": {
+    "fa": "«خبر لای نفی جنس»: خبر «لا»ی نفی جنس مرفوع است و گاهی حذف می‌شود.",
+    "en": "\"khabar-e la-ye nafy-e jens\": The predicate of the la of absolute negation is nominative and is sometimes left out.",
+    "tr": "\"khabar-e la-ye nafy-e jens\": Khabar-e 'la'-ye nafy-e jens marfoo' ast va gahi hazf mishavad."
+   },
+   "unit": "ar-1-la-nafy-jins"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-esm-e-inna",
+   "term": {
+    "fa": "اسم إنَّ",
+    "en": "the noun of inna",
+    "tr": "esm-e inna"
+   },
+   "explain": {
+    "fa": "«اسم إنَّ»: اسمی که پس از «إِنَّ» می‌آید و منصوب (با فتحه) است.",
+    "en": "\"esm-e inna\": The noun that comes after 'inna'; it is accusative (-a).",
+    "tr": "\"esm-e inna\": Esmi ke pas az 'inna' miayad va mansoob (ba fathe) ast."
+   },
+   "unit": "ar-1-inna"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-bab-e-tafa-ol",
+   "term": {
+    "fa": "باب تفاعل",
+    "en": "bab of tafa'ul",
+    "tr": "bab-e tafa'ol"
+   },
+   "explain": {
+    "fa": "«باب تفاعل»: تَفاعَلَ، یَتَفاعَلُ: «تـ» در آغاز و الف پس از حرف اول ریشه؛ اغلب کاری که چند نفر با هم می‌کنند.",
+    "en": "\"bab-e tafa'ol\": tafa'ala, yatafa'alu: 'ta-' at the start and an 'a' after the first root letter; often an action people do together.",
+    "tr": "\"bab-e tafa'ol\": tafa'ala, yatafa'alo: 'ta' dar aghaz va alef pas az harf-e avval-e rishe; aghlab kari ke chand nafar ba ham mikonand."
+   },
+   "contrast": {
+    "fa": "با «تَفَعُّل» فرق دارد: آنجا الف نیست و حرف دوم تشدید دارد.",
+    "en": "Different from tafa''ul: there is no alif there and the middle letter is doubled.",
+    "tr": "Ba tafa''ol fargh darad: anja alef nist va harf-e dovvom tashdid darad."
+   },
+   "unit": "ar-1-augmented-verbs"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-emra-an",
+   "term": {
+    "fa": "امْرَأً",
+    "en": "imra'an (a man, a person)",
+    "tr": "emra'an"
+   },
+   "explain": {
+    "fa": "«امْرَأً»: انسانی، مردی. در «رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَ لَمْ یَتَعَدَّ طَوْرَهُ». واژه‌ای ملموس از حکمت‌ها؛ معنایش را از تصویر جمله بگیر.",
+    "en": "\"emra'an\": A person, a man. A concrete word from the sayings: take its meaning from the sentence's picture.",
+    "tr": "\"emra'an\": Ensani, mardi. Vazhe-i malmoos az hekmat-ha; ma'nayash ra az tasvir-e jomle begir."
+   },
+   "unit": "ar-2-images"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-izzu",
+   "term": {
+    "fa": "عِزُّ",
+    "en": "'izz (honour, might)",
+    "tr": "'izzu"
+   },
+   "explain": {
+    "fa": "«عِزُّ»: عزت و ارجمندی. در «عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"'izzu\": Honour, dignity. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"'izzu\": Ezzat va arjmandi. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-a-ana",
+   "term": {
+    "fa": "أَعَانَ",
+    "en": "a'ana (helped)",
+    "tr": "a'ana"
+   },
+   "explain": {
+    "fa": "«أَعَانَ»: یاری کرد. در «وَ أَعَانَهُ عَلَیْهِ قَوْمٌ آخَرُونَ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"a'ana\": Helped. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"a'ana\": Yari kard. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-ahmaq",
+   "term": {
+    "fa": "الْأَحْمَقِ",
+    "en": "al-ahmaq (the fool)",
+    "tr": "al-ahmaq"
+   },
+   "explain": {
+    "fa": "«الْأَحْمَقِ»: نادان، احمق. در «إِیَّاکَ وَ مُصَادَقَةَ الْأَحْمَقِ فَإِنَّهُ یُرِیدُ أَنْ یَنْفَعَکَ فَیَضُرَّکَ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-ahmaq\": The fool. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-ahmaq\": Nadan, ahmagh. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-at-tajarib",
+   "term": {
+    "fa": "التَّجَارِبُ",
+    "en": "tajarib (experiences)",
+    "tr": "at-tajarib"
+   },
+   "explain": {
+    "fa": "«التَّجَارِبُ»: تجربه‌ها. در «الْعَاقِلُ مَنْ وَعَظَتْهُ التَّجَارِبُ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"at-tajarib\": Experiences. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"at-tajarib\": Tajrobe-ha. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ajalin",
+   "term": {
+    "fa": "عَجَلٍ",
+    "en": "'ajal (haste)",
+    "tr": "'ajalin"
+   },
+   "explain": {
+    "fa": "«عَجَلٍ»: شتاب. در «خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ». از آیه‌های نهی و آفرینش؛ آخر فعل نشان می‌دهد نهی است یا نفی.",
+    "en": "\"'ajalin\": Haste. From the verses of prohibition and creation: the end of the verb shows prohibition or negation.",
+    "tr": "\"'ajalin\": Shetab. Az aye-haye nahy va afarinesh; akhar-e fe'l neshan midahad nahy ast ya nafy."
+   },
+   "contrast": {
+    "fa": "با «عِجْل» (گوساله) اشتباه نشود.",
+    "en": "Not ''ijl' (a calf).",
+    "tr": "Ba ''ejl' (goosale) eshtebah nashavad."
+   },
+   "unit": "ar-3-other-verses"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-al-ghurba",
+   "term": {
+    "fa": "الْغُرْبَةِ",
+    "en": "al-ghurba (being far from home)",
+    "tr": "al-ghurba"
+   },
+   "explain": {
+    "fa": "«الْغُرْبَةِ»: دوری از وطن، غربت. در «الْغِنَى فِی الْغُرْبَةِ وَطَنٌ، وَ الْفَقْرُ فِی الْوَطَنِ غُرْبَةٌ». از حکمت‌ها؛ کفهٔ مقابلش در همان جمله معنا را تأیید می‌کند.",
+    "en": "\"al-ghurba\": Being far from home, exile. From the sayings: its opposite pan in the same sentence confirms the meaning.",
+    "tr": "\"al-ghurba\": Doori az vatan, ghorbat. Az hekmat-ha; kaffe-ye moghabelash dar haman jomle ma'na ra ta'yid mikonad."
+   },
+   "unit": "ar-2-virtues-vices"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-thajjajan",
+   "term": {
+    "fa": "ثَجَّاجاً",
+    "en": "thajjaj (pouring abundantly)",
+    "tr": "thajjajan"
+   },
+   "explain": {
+    "fa": "«ثَجَّاجاً»: ریزان و فراوان. در «وَ أَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"thajjajan\": Pouring down in plenty. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"thajjajan\": Rizan va faravan. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-afwajan",
+   "term": {
+    "fa": "أَفْوَاجاً",
+    "en": "afwaj (crowds)",
+    "tr": "afwajan"
+   },
+   "explain": {
+    "fa": "«أَفْوَاجاً»: گروه گروه. در «یَوْمَ یُنْفَخُ فِی الصُّورِ فَتَأْتُونَ أَفْوَاجاً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"afwajan\": In crowds, group after group. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"afwajan\": Gorooh gorooh. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-ahqaban",
+   "term": {
+    "fa": "أَحْقَاباً",
+    "en": "ahqab (long ages)",
+    "tr": "ahqaban"
+   },
+   "explain": {
+    "fa": "«أَحْقَاباً»: روزگارانی دراز. در «لَابِثِینَ فِیهَا أَحْقَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"ahqaban\": For long ages. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"ahqaban\": Roozgarani deraz. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-la-yarjuna",
+   "term": {
+    "fa": "لَا یَرْجُونَ",
+    "en": "la yarjuna (did not expect)",
+    "tr": "la yarjuna"
+   },
+   "explain": {
+    "fa": "«لَا یَرْجُونَ»: انتظار و بیم نداشتند. در «إِنَّهُمْ کَانُوا لَا یَرْجُونَ حِسَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"la yarjuna\": Did not expect, did not fear. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"la yarjuna\": Entezar va bim nadashtand. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-atraban",
+   "term": {
+    "fa": "أَتْرَاباً",
+    "en": "atrab (of equal age)",
+    "tr": "atraban"
+   },
+   "explain": {
+    "fa": "«أَتْرَاباً»: هم‌سن و سال. در «وَ کَوَاعِبَ أَتْرَاباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"atraban\": Of equal age. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"atraban\": Ham-senn va sal. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-sha-a",
+   "term": {
+    "fa": "شَاءَ",
+    "en": "sha'a (willed)",
+    "tr": "sha'a"
+   },
+   "explain": {
+    "fa": "«شَاءَ»: خواست. در «فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآباً». از سورهٔ نبأ؛ به الگوی «جَعَلْنَا» و فعل‌های مجهول دقت کن.",
+    "en": "\"sha'a\": Willed, wished. From an-Naba': watch for the 'ja'alna' pattern and the passive verbs.",
+    "tr": "\"sha'a\": Khast. Az Sure-ye Naba'; be olgoo-ye 'ja'alna' va fe'l-haye majhool deghghat kon."
+   },
+   "unit": "ar-3-naba"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-shaqaqna",
+   "term": {
+    "fa": "شَقَقْنَا",
+    "en": "shaqaqna (we split open)",
+    "tr": "shaqaqna"
+   },
+   "explain": {
+    "fa": "«شَقَقْنَا»: شکافتیم. در «ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"shaqaqna\": We split open. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"shaqaqna\": Shekaftim. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-abban",
+   "term": {
+    "fa": "أَبّاً",
+    "en": "abb (pasture)",
+    "tr": "abban"
+   },
+   "explain": {
+    "fa": "«أَبّاً»: چراگاه، علف. در «وَ فَاکِهَةً وَ أَبّاً». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"abban\": Pasture, grazing grass. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"abban\": Charagah, alaf. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "contrast": {
+    "fa": "با «أَب» (پدر) اشتباه نشود؛ کنار «فَاکِهَةً» (میوه) آمده.",
+    "en": "Not 'ab' (father); it stands next to 'fakihatan' (fruit).",
+    "tr": "Ba 'ab' (pedar) eshtebah nashavad; kenar-e 'fakehatan' (mive) amade."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-safaratin",
+   "term": {
+    "fa": "سَفَرَةٍ",
+    "en": "safara (angel scribes)",
+    "tr": "safaratin"
+   },
+   "explain": {
+    "fa": "«سَفَرَةٍ»: نویسندگان (فرشتگان نگارنده). در «بِأَیْدِی سَفَرَةٍ * کِرَامٍ بَرَرَةٍ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"safaratin\": Scribes (the recording angels). From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"safaratin\": Nevisandegan (fereshtegan-e negarande). Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yughnihi",
+   "term": {
+    "fa": "یُغْنِیهِ",
+    "en": "yughnihi (keeps him fully occupied)",
+    "tr": "yughnihi"
+   },
+   "explain": {
+    "fa": "«یُغْنِیهِ»: او را (از دیگران) بی‌نیاز و سرگرم خود می‌کند. در «لِکُلِّ امْرِئٍ مِنْهُمْ یَوْمَئِذٍ شَأْنٌ یُغْنِیهِ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"yughnihi\": Keeps him fully occupied (with no thought for others). From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"yughnihi\": Oo ra (az digaran) bi-niyaz va sargarm-e khod mikonad. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "contrast": {
+    "fa": "اینجا «توانگر می‌کند» نیست؛ یعنی او را سرگرم خود و بی‌نیاز از دیگران می‌کند.",
+    "en": "Not 'makes him rich' here: it keeps him busy and indifferent to others.",
+    "tr": "Inja 'tavangar mikonad' nist; ya'ni oo ra sargarm-e khod va bi-niyaz az digaran mikonad."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-naha",
+   "term": {
+    "fa": "نَهَى",
+    "en": "naha (held back, forbade)",
+    "tr": "naha"
+   },
+   "explain": {
+    "fa": "«نَهَى»: بازداشت. در «وَ أَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَ نَهَى النَّفْسَ عَنِ الْهَوَى». از سورهٔ نازعات؛ نام‌های رستاخیز و دو راه «فَأَمَّا / وَ أَمَّا».",
+    "en": "\"naha\": Held back, restrained. From an-Nazi'at: the names of the Last Day and the two paths 'fa-amma / wa amma'.",
+    "tr": "\"naha\": Bazdasht. Az Sure-ye Nazi'at; nam-haye rastakhiz va do rah-e 'fa-amma / va amma'."
+   },
+   "unit": "ar-3-naziat"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-tarhaquha",
+   "term": {
+    "fa": "تَرْهَقُهَا",
+    "en": "tarhaqu (covers, overcomes)",
+    "tr": "tarhaquha"
+   },
+   "explain": {
+    "fa": "«تَرْهَقُهَا»: آن را فرا می‌گیرد. در «تَرْهَقُهَا قَتَرَةٌ». از سورهٔ عبس؛ زنجیرهٔ باران تا گیاه و دو ستون چهره‌ها.",
+    "en": "\"tarhaquha\": Covers it, overcomes it. From Abasa: the chain from rain to plants and the two columns of faces.",
+    "tr": "\"tarhaquha\": An ra fara migirad. Az Sure-ye Abasa; zanjire-ye baran ta giyah va do sotoon-e chehre-ha."
+   },
+   "unit": "ar-3-abasa"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-intatharat",
+   "term": {
+    "fa": "انْتَثَرَتْ",
+    "en": "intatharat (were scattered)",
+    "tr": "intatharat"
+   },
+   "explain": {
+    "fa": "«انْتَثَرَتْ»: پراکنده شدند. در «وَ إِذَا الْکَوَاکِبُ انْتَثَرَتْ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"intatharat\": Were scattered. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"intatharat\": Parakande shodand. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "contrast": {
+    "fa": "شبیه «انْفَطَرَتْ» است ولی باب افتعال است: «ن» حرف ریشه است (ن ث ر).",
+    "en": "Looks like 'infatarat' but is ifti'al: the 'n' is a root letter (n-th-r).",
+    "tr": "Shabih-e 'enfatarat' ast vali bab-e efte'al ast: 'n' harf-e rishe ast (n-s-r)."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-yukhsirun",
+   "term": {
+    "fa": "یُخْسِرُونَ",
+    "en": "yukhsirun (give less than due)",
+    "tr": "yukhsirun"
+   },
+   "explain": {
+    "fa": "«یُخْسِرُونَ»: کم می‌گذارند. در «وَ إِذَا کَالُوهُمْ أَوْ وَزَنُوهُمْ یُخْسِرُونَ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"yukhsirun\": They give less than is due. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"yukhsirun\": Kam migozarand. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  },
+  {
+   "subject": "Arabic",
+   "key": "ar-g-marqum",
+   "term": {
+    "fa": "مَرْقُومٌ",
+    "en": "marqum (inscribed)",
+    "tr": "marqum"
+   },
+   "explain": {
+    "fa": "«مَرْقُومٌ»: نوشته‌شده. در «کِتَابٌ مَرْقُومٌ». از تکویر، انفطار یا مطففین؛ «إِذَا» + ماضی یعنی «هنگامی که ...».",
+    "en": "\"marqum\": Written, inscribed. From at-Takwir, al-Infitar or al-Mutaffifin: 'idha' + past means 'when ...'.",
+    "tr": "\"marqum\": Neveshte-shode. Az Takvir, Enfetar ya Motaffefin; 'eza' + mazi ya'ni 'hengami ke ...'."
+   },
+   "unit": "ar-3-takwir-infitar-mutaffifin"
+  }
+ ]
+}
