@@ -1,0 +1,1090 @@
+{
+ "version": 145,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 1,
+   "key": "eng-1-passive-why",
+   "title": {
+    "fa": "جملهٔ مجهول: چرا و چگونه",
+    "en": "The passive voice: why and how",
+    "tr": "Jomle-ye majhool: chera va chegoone"
+   },
+   "summary": {
+    "fa": "نورافکن صحنه را از «کننده» برمی‌داریم و روی «کار» می‌اندازیم.",
+    "en": "We move the spotlight off the doer and onto the action.",
+    "tr": "Noorafkan-e sahne ra az \"konande\" barmidarim va rooye \"kar\" mindazim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: جابه‌جایی نورافکن",
+      "en": "Understand first: moving the spotlight",
+      "tr": "Avval befahm: jabejayi-ye noorafkan"
+     },
+     "body": {
+      "fa": "هر جمله مثل یک صحنهٔ تئاتر است و نورافکن روی یک نفر می‌افتد. در جملهٔ معلوم، نورافکن روی «کننده» است: `Dr. Gharib built a hospital.` ولی گاهی کار یا نتیجه مهم‌تر از کننده است، یا کننده را نمی‌دانیم، یا اصلاً مهم نیست. آن‌وقت نورافکن را روی «مفعول» می‌اندازیم و آن را به اول جمله می‌آوریم: `A hospital was built.` این جملهٔ «مجهول» است. کننده اگر لازم باشد، با `by` در آخر جمله می‌آید.",
+      "en": "Every sentence is like a stage, and the spotlight falls on one person. In an active sentence the spotlight is on the \"doer\": `Dr. Gharib built a hospital.` But sometimes the action or the result matters more than the doer, or we do not know the doer, or it simply does not matter. Then we turn the spotlight onto the \"object\" and bring it to the front: `A hospital was built.` This is the \"passive\" sentence. If the doer is needed, it comes at the end after `by`.",
+      "tr": "Har jomle mesl-e yek sahne-ye teatr ast va noorafkan rooye yek nafar mioftad. Dar jomle-ye ma'loom, noorafkan rooye \"konande\" ast: `Dr. Gharib built a hospital.` Vali gahi kar ya natije mohem-tar az konande ast, ya konande ra nemidanim, ya aslan mohem nist. An-vaght noorafkan ra rooye \"maf'ool\" mindazim va an ra be avval-e jomle miavarim: `A hospital was built.` In jomle-ye \"majhool\" ast. Konande agar lazem bashad, ba `by` dar akhar-e jomle miayad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ACTIVE\n [doer]      [verb]  [object]\n Dr. Gharib  built   a hospital\n     |                   |\n     +------.     .------+\n             \\   /\n              \\ /\n              / \\\n             /   \\\n     +------'     '------+\n     |                   |\n A hospital  was built  (by him)\n [subject]   [be + V3]  [doer?]\n PASSIVE",
+     "caption": {
+      "fa": "مفعول جملهٔ معلوم، فاعل جملهٔ مجهول می‌شود؛ فعل به `be` و قسمت سوم فعل تبدیل می‌شود و کننده (اگر بیاید) بعد از `by` می‌نشیند.",
+      "en": "The object of the active sentence becomes the subject of the passive one; the verb becomes `be` plus the past participle, and the doer (if it comes at all) sits after `by`.",
+      "tr": "Maf'ool-e jomle-ye ma'loom, fa'el-e jomle-ye majhool mishavad; fe'l be `be` va ghesmat-e sevvom-e fe'l tabdil mishavad va konande (agar biayad) ba'd az `by` mineshinad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قالب ثابت مجهول",
+      "en": "The fixed recipe of the passive",
+      "tr": "Ghaleb-e sabet-e majhool"
+     },
+     "body": {
+      "fa": "قالب ساختن مجهول همیشه یکی است: فعل `be` در همان زمانِ جملهٔ اصلی، به‌اضافهٔ قسمت سوم فعل (`V3`). زمان جمله را فقط `be` نشان می‌دهد: برای گذشتهٔ ساده `was` یا `were`، برای حال ساده `am`، `is` یا `are`. شکل `be` هم با فاعل جدید جور می‌شود، نه با فاعل قدیم: `The monuments were visited`، چون `monuments` جمع است.",
+      "en": "The recipe for the passive is always the same: the verb `be` in the tense of the original sentence, plus the past participle (`V3`). Only `be` shows the tense: `was` or `were` for the simple past, `am`, `is` or `are` for the simple present. The form of `be` agrees with the new subject, not the old one: `The monuments were visited`, because `monuments` is plural.",
+      "tr": "Ghaleb-e sakhtan-e majhool hamishe yeki ast: fe'l-e `be` dar haman zaman-e jomle-ye asli, be-ezafe-ye ghesmat-e sevvom-e fe'l (`V3`). Zaman-e jomle ra faghat `be` neshan midahad: baraye gozashte-ye sade `was` ya `were`, baraye hal-e sade `am`, `is` ya `are`. Shekl-e `be` ham ba fa'el-e jadid joor mishavad, na ba fa'el-e ghadim: `The monuments were visited`, chon `monuments` jam' ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "object + be + V3  ( + by + doer )",
+     "caption": {
+      "fa": "`be` زمان را نشان می‌دهد و با فاعل جدید جور می‌شود؛ `V3` همیشه ثابت است",
+      "en": "`be` shows the tense and agrees with the new subject; `V3` never changes",
+      "tr": "`be` zaman ra neshan midahad va ba fa'el-e jadid joor mishavad; `V3` hamishe sabet ast"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: جای خالی را با مجهول گذشتهٔ ساده پر کن: `A famous children's hospital in Tehran ___ by Dr. Gharib.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: fill the gap with the simple past passive: `A famous children's hospital in Tehran ___ by Dr. Gharib.` (Khordad 1401 paper)",
+      "tr": "Garm kardan: ja-ye khali ra ba majhool-e gozashte-ye sade por kon: `A famous children's hospital in Tehran ___ by Dr. Gharib.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فاعل جمله `hospital` است: کاری روی آن انجام شده، پس مجهول لازم است. مفرد است، پس `was`.",
+        "en": "The subject is `hospital`: something was done to it, so we need the passive. It is singular, so `was`.",
+        "tr": "Fa'el-e jomle `hospital` ast: kari rooye an anjam shode, pas majhool lazem ast. Mofrad ast, pas `was`."
+       }
+      },
+      {
+       "text": {
+        "fa": "حالا قسمت سوم فعل را بگذار.",
+        "en": "Now add the past participle.",
+        "tr": "Hala ghesmat-e sevvom-e fe'l ra begozar."
+       },
+       "math": "was + established"
+      }
+     ],
+     "answer": {
+      "fa": "`was established`",
+      "en": "`was established`",
+      "tr": "`was established`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جای خالی را پر کن: `The historical monuments of Isfahan ___ by thousands of tourists last summer.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: fill the gap: `The historical monuments of Isfahan ___ by thousands of tourists last summer.` (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ja-ye khali ra por kon: `The historical monuments of Isfahan ___ by thousands of tourists last summer.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو سرنخ داریم: `by thousands of tourists` می‌گوید کننده بعد از `by` آمده، پس جمله مجهول است؛ `last summer` می‌گوید زمان گذشته است.",
+        "en": "Two clues: `by thousands of tourists` says the doer comes after `by`, so the sentence is passive; `last summer` says the tense is past.",
+        "tr": "Do sarnakh darim: `by thousands of tourists` miguyad konande ba'd az `by` amade, pas jomle majhool ast; `last summer` miguyad zaman gozashte ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "فاعل جدید `monuments` جمع است، پس `were`، نه `was`.",
+        "en": "The new subject `monuments` is plural, so `were`, not `was`.",
+        "tr": "Fa'el-e jadid `monuments` jam' ast, pas `were`, na `was`."
+       },
+       "math": "were + visited"
+      }
+     ],
+     "answer": {
+      "fa": "`were visited`",
+      "en": "`were visited`",
+      "tr": "`were visited`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: فقط یک کلمه کم است: `The valuable medical papers ___ translated into Persian centuries ago.` (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: only one word is missing: `The valuable medical papers ___ translated into Persian centuries ago.` (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: faghat yek kalame kam ast: `The valuable medical papers ___ translated into Persian centuries ago.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: قسمت سوم فعل (`translated`) از قبل در جمله هست؛ فقط `be` کم است. خیلی‌ها `were translated` می‌نویسند و فعل دوبار می‌شود.",
+        "en": "The twist: the past participle (`translated`) is already in the sentence; only `be` is missing. Many students write `were translated` and the verb appears twice.",
+        "tr": "Pich-e emtehan: ghesmat-e sevvom-e fe'l (`translated`) az ghabl dar jomle hast; faghat `be` kam ast. Kheyli-ha `were translated` minevisand va fe'l do-bar mishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "`centuries ago` یعنی گذشته و `papers` جمع است.",
+        "en": "`centuries ago` means past, and `papers` is plural.",
+        "tr": "`centuries ago` ya'ni gozashte va `papers` jam' ast."
+       },
+       "math": "papers + were + translated"
+      }
+     ],
+     "answer": {
+      "fa": "`were`",
+      "en": "`were`",
+      "tr": "`were`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شکل `be` با فاعل جدید جور می‌شود، نه با کننده: `The papers were written by Ibn Sina` (نه `was`، با اینکه `Ibn Sina` یک نفر است).",
+      "en": "The form of `be` agrees with the new subject, not with the doer: `The papers were written by Ibn Sina` (not `was`, even though `Ibn Sina` is one person).",
+      "tr": "Shekl-e `be` ba fa'el-e jadid joor mishavad, na ba konande: `The papers were written by Ibn Sina` (na `was`, ba inke `Ibn Sina` yek nafar ast)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مجهول بدون `be` ساخته نمی‌شود: `The hospital established in 1968` غلط است؛ درست آن `was established` است.",
+      "en": "There is no passive without `be`: `The hospital established in 1968` is wrong; the correct form is `was established`.",
+      "tr": "Majhool bedoon-e `be` sakhte nemishavad: `The hospital established in 1968` ghalat ast; dorost-e an `was established` ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 904
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1401-Dey",
+     "number": 928
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 916
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 924
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 2,
+   "key": "eng-1-passive-tenses",
+   "title": {
+    "fa": "مجهول در زمان‌های مختلف",
+    "en": "The passive across tenses",
+    "tr": "Majhool dar zaman-haye mokhtalef"
+   },
+   "summary": {
+    "fa": "قسمت سوم فعل ثابت می‌ماند؛ فقط `be` لباس زمان را عوض می‌کند.",
+    "en": "The past participle stays the same; only `be` changes into the clothes of each tense.",
+    "tr": "Ghesmat-e sevvom-e fe'l sabet mimanad; faghat `be` lebas-e zaman ra avaz mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: بازیگری که لباس عوض می‌کند",
+      "en": "Understand first: the actor who changes clothes",
+      "tr": "Avval befahm: bazigari ke lebas avaz mikonad"
+     },
+     "body": {
+      "fa": "`be` را مثل بازیگری تصور کن که برای هر زمان لباس تازه می‌پوشد، ولی `V3` همیشه همان است. حال ساده: `is built`؛ گذشتهٔ ساده: `was built`؛ حال کامل: `has been built`؛ گذشتهٔ کامل: `had been built`؛ با فعل کمکی مثل `can`، `should` یا `must`: `should be built`. پس برای ساختن هر مجهول کافی است `be` را در همان زمانی بگذاری که جملهٔ معلوم داشت.",
+      "en": "Picture `be` as an actor who wears new clothes for every tense, while the `V3` always stays the same. Simple present: `is built`; simple past: `was built`; present perfect: `has been built`; past perfect: `had been built`; with a modal such as `can`, `should` or `must`: `should be built`. So to build any passive, just put `be` in the same tense the active sentence had.",
+      "tr": "`be` ra mesl-e bazigari tasavvor kon ke baraye har zaman lebas-e taze mipooshad, vali `V3` hamishe haman ast. Hal-e sade: `is built`; gozashte-ye sade: `was built`; hal-e kamel: `has been built`; gozashte-ye kamel: `had been built`; ba fe'l-e komaki mesl-e `can`, `should` ya `must`: `should be built`. Pas baraye sakhtan-e har majhool kafi ast `be` ra dar haman zamani begozari ke jomle-ye ma'loom dasht."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " tense          passive form\n ------------   ----------------\n pres. simple   am / is / are V3\n past simple    was / were V3\n pres. perfect  have / has been V3\n past perfect   had been V3\n modal          can / must be V3\n\n V3 never changes:  built  taken\n                    saved  visited",
+     "caption": {
+      "fa": "در هر ردیف فقط `be` عوض می‌شود؛ ستون قسمت سوم فعل ثابت است.",
+      "en": "In every row only `be` changes; the past-participle column stays fixed.",
+      "tr": "Dar har radif faghat `be` avaz mishavad; sotoon-e ghesmat-e sevvom-e fe'l sabet ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سرنخ‌های زمان",
+      "en": "Time clues",
+      "tr": "Sarnakh-haye zaman"
+     },
+     "body": {
+      "fa": "سرنخ‌های زمان را در جمله پیدا کن: `recently`، `already` یا `so far` معمولاً حال کامل را می‌خواهند (`have been taken`). وقتی دو کار در گذشته پشت سر هم اتفاق افتاده و یکی زودتر بوده، کار زودتر گذشتهٔ کامل می‌گیرد (`had been saved before the fire spread`). بعد از فعل‌های کمکی مثل `should` همیشه `be` ساده می‌آید: `should be appreciated`.",
+      "en": "Find the time clues in the sentence: `recently`, `already` or `so far` usually call for the present perfect (`have been taken`). When two past actions happen one after the other and one came first, the earlier one takes the past perfect (`had been saved before the fire spread`). After modals such as `should`, plain `be` always follows: `should be appreciated`.",
+      "tr": "Sarnakh-haye zaman ra dar jomle peyda kon: `recently`, `already` ya `so far` ma'moolan hal-e kamel ra mikhahand (`have been taken`). Vaghti do kar dar gozashte posht-e sar-e ham ettefagh oftade va yeki zoodtar boode, kar-e zoodtar gozashte-ye kamel migirad (`had been saved before the fire spread`). Ba'd az fe'l-haye komaki mesl-e `should` hamishe `be`-ye sade miayad: `should be appreciated`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   had been V3   was V3   NOW\n -------|-----------|------|---->\n   (earlier)     (past)    |\n                 has been V3\n                 (up to now)\n\n should / must / can + be + V3",
+     "caption": {
+      "fa": "خط زمان: گذشتهٔ کامل پیش از گذشتهٔ ساده؛ حال کامل تا همین الان می‌رسد.",
+      "en": "The timeline: the past perfect comes before the simple past; the present perfect reaches up to now.",
+      "tr": "Khatt-e zaman: gozashte-ye kamel pish az gozashte-ye sade; hal-e kamel ta hamin alan miresad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "has / have been + V3 ,   had been + V3 ,   modal + be + V3",
+     "caption": {
+      "fa": "مجهول حال کامل، گذشتهٔ کامل و فعل کمکی",
+      "en": "The present perfect, past perfect and modal passives",
+      "tr": "Majhool-e hal-e kamel, gozashte-ye kamel va fe'l-e komaki"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: با مجهول حال کامل پر کن: `Several important steps ___ recently by the team to improve the app.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: complete with the present perfect passive: `Several important steps ___ recently by the team to improve the app.` (Dey 1400 paper)",
+      "tr": "Garm kardan: ba majhool-e hal-e kamel por kon: `Several important steps ___ recently by the team to improve the app.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`recently` سرنخ حال کامل است. فاعل `steps` جمع است، پس `have` نه `has`.",
+        "en": "`recently` is the clue for the present perfect. The subject `steps` is plural, so `have`, not `has`.",
+        "tr": "`recently` sarnakh-e hal-e kamel ast. Fa'el `steps` jam' ast, pas `have` na `has`."
+       },
+       "math": "have + been + taken"
+      }
+     ],
+     "answer": {
+      "fa": "`have been taken`",
+      "en": "`have been taken`",
+      "tr": "`have been taken`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: با مجهول گذشتهٔ کامل پر کن: `The valuable antique book ___ safely before the fire spread.` (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: complete with the past perfect passive: `The valuable antique book ___ safely before the fire spread.` (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ba majhool-e gozashte-ye kamel por kon: `The valuable antique book ___ safely before the fire spread.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو کار در گذشته: نجات کتاب و گسترش آتش. نجات «پیش از» آتش بود، پس زودتر است و گذشتهٔ کامل می‌گیرد.",
+        "en": "Two past actions: saving the book and the fire spreading. The saving came \"before\" the fire, so it is earlier and takes the past perfect.",
+        "tr": "Do kar dar gozashte: nejat-e ketab va gostaresh-e atash. Nejat \"pish az\" atash bood, pas zoodtar ast va gozashte-ye kamel migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "کتاب نجات داده شده (خودش کسی را نجات نداده)، پس مجهول.",
+        "en": "The book was saved (it did not save anyone), so passive.",
+        "tr": "Ketab nejat dade shode (khodash kasi ra nejat nadade), pas majhool."
+       },
+       "math": "had + been + saved"
+      }
+     ],
+     "answer": {
+      "fa": "`had been saved`",
+      "en": "`had been saved`",
+      "tr": "`had been saved`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: واژهٔ درست را انتخاب کن: `Hard-working researchers should be highly ___ by the university for their academic success.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Exam twist: choose the right word: `Hard-working researchers should be highly ___ by the university for their academic success.` (Khordad 1399 paper)",
+      "tr": "Pich-e emtehani: vazhe-ye dorost ra entekhab kon: `Hard-working researchers should be highly ___ by the university for their academic success.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سؤال شبیه سؤال واژگان است، ولی `should be` و `by the university` نشان می‌دهند جملهٔ مجهول با فعل کمکی است.",
+        "en": "The twist: it looks like a vocabulary question, but `should be` and `by the university` show a modal passive.",
+        "tr": "Pich-e emtehan: so'al shabih-e so'al-e vazhegan ast, vali `should be` va `by the university` neshan midahand jomle-ye majhool ba fe'l-e komaki ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "بعد از `be` باید قسمت سوم فعل بیاید، پس `appreciate` یا `appreciation` غلط است.",
+        "en": "After `be` we need the past participle, so `appreciate` or `appreciation` is wrong.",
+        "tr": "Ba'd az `be` bayad ghesmat-e sevvom-e fe'l biayad, pas `appreciate` ya `appreciation` ghalat ast."
+       },
+       "math": "should + be + appreciated"
+      }
+     ],
+     "answer": {
+      "fa": "`appreciated`",
+      "en": "`appreciated`",
+      "tr": "`appreciated`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`been` را با `being` اشتباه نکن: حال کامل مجهول `has been taken` است، نه `has being taken`.",
+      "en": "Do not confuse `been` with `being`: the present perfect passive is `has been taken`, not `has being taken`.",
+      "tr": "`been` ra ba `being` eshtebah nakon: hal-e kamel-e majhool `has been taken` ast, na `has being taken`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از `should`، `can` یا `must` همیشه `be` ساده: `must be done`، نه `must is done` یا `must been done`.",
+      "en": "After `should`, `can` or `must` always plain `be`: `must be done`, not `must is done` or `must been done`.",
+      "tr": "Ba'd az `should`, `can` ya `must` hamishe `be`-ye sade: `must be done`, na `must is done` ya `must been done`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 914
+    },
+    {
+     "session": "1400-Dey",
+     "number": 921
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 944
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 3,
+   "key": "eng-1-tag-questions",
+   "title": {
+    "fa": "سؤال‌های کوتاه پایانی",
+    "en": "Tag questions",
+    "tr": "So'al-haye kootah-e payani"
+   },
+   "summary": {
+    "fa": "آینه: جملهٔ مثبت، دنبالهٔ منفی می‌گیرد و جملهٔ منفی، دنبالهٔ مثبت.",
+    "en": "A mirror: a positive sentence takes a negative tag, and a negative sentence a positive one.",
+    "tr": "Ayene: jomle-ye mosbat, donbale-ye manfi migirad va jomle-ye manfi, donbale-ye mosbat."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: قاعدهٔ آینه",
+      "en": "Understand first: the mirror rule",
+      "tr": "Avval befahm: ghaede-ye ayene"
+     },
+     "body": {
+      "fa": "سؤال کوتاه پایانی همان «مگه نه؟» فارسی است که آخر جمله می‌گذاریم تا تأیید بگیریم. انگلیسی آن را با «آینه» می‌سازد: فعل کمکی جمله را برمی‌داری، علامتش را برعکس می‌کنی و ضمیر فاعل را بعدش می‌گذاری. `She is studying, isn't she?` و `You haven't seen it, have you?`",
+      "en": "A tag question is the English version of \"right?\" that we add at the end of a sentence to ask for agreement. English builds it with a \"mirror\": take the sentence's helping verb, flip its sign, and put the subject pronoun after it. `She is studying, isn't she?` and `You haven't seen it, have you?`",
+      "tr": "So'al-e kootah-e payani haman \"mage na?\"-ye farsi ast ke akhar-e jomle migozarim ta ta'eed begirim. Engelisi an ra ba \"ayene\" misazad: fe'l-e komaki-ye jomle ra barmidari, alamatash ra bar-aks mikoni va zamir-e fa'el ra ba'dash migozari. `She is studying, isn't she?` va `You haven't seen it, have you?`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " positive sentence -> negative tag\n negative sentence -> positive tag\n\n She is studying,    isn't she?\n     (+) is            (-) is\n You haven't seen,   have you?\n     (-) have          (+) have\n He works hard,      doesn't he?\n     (+) no helper     do/does/did",
+     "caption": {
+      "fa": "فعل کمکی جمله در دنباله تکرار می‌شود با علامت برعکس؛ اگر جمله فعل کمکی ندارد، `do`، `does` یا `did` به‌کار می‌رود.",
+      "en": "The sentence's helping verb is repeated in the tag with the opposite sign; if there is no helping verb, use `do`, `does` or `did`.",
+      "tr": "Fe'l-e komaki-ye jomle dar donbale tekrar mishavad ba alamat-e bar-aks; agar jomle fe'l-e komaki nadarad, `do`, `does` ya `did` be-kar miravad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ضمیر، کلمه‌های منفی و شکل کوتاه",
+      "en": "Pronoun, negative words and the short form",
+      "tr": "Zamir, kalame-haye manfi va shekl-e kootah"
+     },
+     "body": {
+      "fa": "سه نکته: اول، ضمیر دنباله با فاعل جور است (`Hadis` می‌شود `she`). دوم، کلمه‌هایی مثل `never`، `hardly` و `no one` جمله را منفی می‌کنند، پس دنباله مثبت می‌شود: `He never lies, does he?` سوم، شکل منفی دنباله همیشه کوتاه است: `isn't`، `haven't`، `doesn't`.",
+      "en": "Three points: first, the tag pronoun matches the subject (`Hadis` becomes `she`). Second, words such as `never`, `hardly` and `no one` make the sentence negative, so the tag becomes positive: `He never lies, does he?` Third, the negative tag is always the short form: `isn't`, `haven't`, `doesn't`.",
+      "tr": "Se nokte: avval, zamir-e donbale ba fa'el joor ast (`Hadis` mishavad `she`). Dovvom, kalame-hayi mesl-e `never`, `hardly` va `no one` jomle ra manfi mikonand, pas donbale mosbat mishavad: `He never lies, does he?` Sevvom, shekl-e manfi-ye donbale hamishe kootah ast: `isn't`, `haven't`, `doesn't`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sentence ( + ) , helper + n't + pronoun ?     sentence ( − ) , helper + pronoun ?",
+     "caption": {
+      "fa": "آینهٔ فعل کمکی با علامت برعکس",
+      "en": "The mirrored helping verb with the opposite sign",
+      "tr": "Ayene-ye fe'l-e komaki ba alamat-e bar-aks"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: دنبالهٔ درست را بنویس: `You haven't seen my grammar book today, ___?` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: write the right tag: `You haven't seen my grammar book today, ___?` (Khordad 1401 paper)",
+      "tr": "Garm kardan: donbale-ye dorost ra benevis: `You haven't seen my grammar book today, ___?` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فعل کمکی `have` است و جمله منفی است (`haven't`)، پس دنباله مثبت.",
+        "en": "The helping verb is `have` and the sentence is negative (`haven't`), so the tag is positive.",
+        "tr": "Fe'l-e komaki `have` ast va jomle manfi ast (`haven't`), pas donbale mosbat."
+       },
+       "math": "haven't  →  have you"
+      }
+     ],
+     "answer": {
+      "fa": "`have you`",
+      "en": "`have you`",
+      "tr": "`have you`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: دنبالهٔ درست را بنویس: `Hadis is studying her chemistry notes diligently, ___?` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: write the right tag: `Hadis is studying her chemistry notes diligently, ___?` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: donbale-ye dorost ra benevis: `Hadis is studying her chemistry notes diligently, ___?` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فعل کمکی `is` است و جمله مثبت است، پس دنباله منفی و کوتاه: `isn't`.",
+        "en": "The helping verb is `is` and the sentence is positive, so the tag is negative and short: `isn't`.",
+        "tr": "Fe'l-e komaki `is` ast va jomle mosbat ast, pas donbale manfi va kootah: `isn't`."
+       }
+      },
+      {
+       "text": {
+        "fa": "`Hadis` یک دختر است، پس ضمیرش `she`.",
+        "en": "`Hadis` is a girl, so her pronoun is `she`.",
+        "tr": "`Hadis` yek dokhtar ast, pas zamirash `she`."
+       },
+       "math": "is  →  isn't she"
+      }
+     ],
+     "answer": {
+      "fa": "`isn't she`",
+      "en": "`isn't she`",
+      "tr": "`isn't she`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: دنباله را کامل کن: `Your grandfather never forgets your birthday, ___?`",
+      "en": "Exam twist: complete the tag: `Your grandfather never forgets your birthday, ___?`",
+      "tr": "Pich-e emtehani: donbale ra kamel kon: `Your grandfather never forgets your birthday, ___?`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در جمله `not` نیست، ولی `never` آن را منفی کرده است؛ پس دنباله مثبت.",
+        "en": "The twist: there is no `not`, but `never` makes the sentence negative; so the tag is positive.",
+        "tr": "Pich-e emtehan: dar jomle `not` nist, vali `never` an ra manfi karde ast; pas donbale mosbat."
+       }
+      },
+      {
+       "text": {
+        "fa": "فعل کمکی نداریم و فعل `forgets` حال ساده با `-s` است، پس `does`.",
+        "en": "There is no helping verb and `forgets` is the simple present with `-s`, so `does`.",
+        "tr": "Fe'l-e komaki nadarim va fe'l `forgets` hal-e sade ba `-s` ast, pas `does`."
+       },
+       "math": "never forgets  →  does he"
+      }
+     ],
+     "answer": {
+      "fa": "`does he`",
+      "en": "`does he`",
+      "tr": "`does he`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اسم را در دنباله تکرار نکن: `isn't Hadis?` غلط است؛ همیشه ضمیر: `isn't she?`",
+      "en": "Do not repeat the name in the tag: `isn't Hadis?` is wrong; always a pronoun: `isn't she?`",
+      "tr": "Esm ra dar donbale tekrar nakon: `isn't Hadis?` ghalat ast; hamishe zamir: `isn't she?`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اگر جمله فعل کمکی ندارد، فعل اصلی را تکرار نکن (`works he?`)؛ از `do`، `does` یا `did` استفاده کن.",
+      "en": "If the sentence has no helping verb, do not repeat the main verb (`works he?`); use `do`, `does` or `did`.",
+      "tr": "Agar jomle fe'l-e komaki nadarad, fe'l-e asli ra tekrar nakon (`works he?`); az `do`, `does` ya `did` estefade kon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 913
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 929
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 4,
+   "key": "eng-1-comparison",
+   "title": {
+    "fa": "صفت تفضیلی و عالی",
+    "en": "Comparatives and superlatives",
+    "tr": "Sefat-e tafzili va ali"
+   },
+   "summary": {
+    "fa": "دو نفر را با هم می‌سنجیم یا یک نفر را از همه بالاتر می‌نشانیم.",
+    "en": "We compare two things, or we put one above all the others.",
+    "tr": "Do nafar ra ba ham misanjim ya yek nafar ra az hame balatar mineshanim."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ترازو و سکوی اول",
+      "en": "Understand first: the scale and the podium",
+      "tr": "Avval befahm: tarazoo va sakoo-ye avval"
+     },
+     "body": {
+      "fa": "صفت تفضیلی مثل ترازوی دوکفه‌ای است: دو چیز را با هم می‌سنجد و `than` بینشان می‌نشیند (`kinder than`). صفت عالی مثل سکوی اول مسابقه است: یکی را از یک گروه سه‌تایی یا بیشتر بالاتر می‌گذارد و همیشه `the` می‌گیرد (`the kindest`). صفت‌های کوتاه `-er` و `-est` می‌گیرند؛ صفت‌های بلند `more` و `the most`.",
+      "en": "A comparative is like a two-pan scale: it weighs two things against each other, with `than` between them (`kinder than`). A superlative is like the top step of a podium: it puts one above a group of three or more, and always takes `the` (`the kindest`). Short adjectives take `-er` and `-est`; long ones take `more` and `the most`.",
+      "tr": "Sefat-e tafzili mesl-e tarazoo-ye do-kaffe-i ast: do chiz ra ba ham misanjad va `than` beynashan mineshinad (`kinder than`). Sefat-e ali mesl-e sakoo-ye avval-e mosabeghe ast: yeki ra az yek goroh-e se-tayi ya bishtar balatar migozarad va hamishe `the` migirad (`the kindest`). Sefat-haye kootah `-er` va `-est` migirand; sefat-haye boland `more` va `the most`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " word      compare 2   top of 3+\n kind      kinder      the kindest\n big       bigger      the biggest\n happy     happier     the happiest\n good      better      the best\n bad       worse       the worst\n\n important  -> more important\n            -> the most important",
+     "caption": {
+      "fa": "صفت‌های کوتاه پسوند می‌گیرند، بلندها `more` و `the most`؛ `good` و `bad` بی‌قاعده‌اند.",
+      "en": "Short adjectives take endings, long ones `more` and `the most`; `good` and `bad` are irregular.",
+      "tr": "Sefat-haye kootah pasvand migirand, bolandha `more` va `the most`; `good` va `bad` bi-ghaede-and."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو سرنخ: کلمهٔ مقایسه و «یکی از»",
+      "en": "Two clues: than and one of the",
+      "tr": "Do sarnakh: kalame-ye moghayese va yeki az"
+     },
+     "body": {
+      "fa": "صفت عالی اغلب با `one of the` می‌آید: `one of the kindest doctors`. در این حالت اسم بعد از آن جمع است. صفت تفضیلی هم تقریباً همیشه `than` را با خودش می‌آورد؛ اگر در جمله `than` دیدی، دنبال صفت تفضیلی بگرد.",
+      "en": "A superlative often comes with `one of the`: `one of the kindest doctors`. Then the noun after it is plural. A comparative almost always brings `than` with it; if you see `than` in the sentence, look for a comparative.",
+      "tr": "Sefat-e ali aghlab ba `one of the` miayad: `one of the kindest doctors`. Dar in halat esm-e ba'd az an jam' ast. Sefat-e tafzili ham taghriban hamishe `than` ra ba khodash miavarad; agar dar jomle `than` didi, donbal-e sefat-e tafzili begard."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "A is adj-er / more adj than B ,   A is the adj-est / the most adj ( of all )",
+     "caption": {
+      "fa": "تفضیلی برای دو چیز، عالی برای بالاترینِ یک گروه",
+      "en": "Comparative for two things, superlative for the top of a group",
+      "tr": "Tafzili baraye do chiz, ali baraye balatarin-e yek goroh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: صفت عالی را بنویس: `Dr. Gharib was one of the ___ and most dedicated physicians of his time.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Warm-up: write the superlative: `Dr. Gharib was one of the ___ and most dedicated physicians of his time.` (Khordad 1399 paper)",
+      "tr": "Garm kardan: sefat-e ali ra benevis: `Dr. Gharib was one of the ___ and most dedicated physicians of his time.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`one of the` سرنخ صفت عالی است. `kind` کوتاه است، پس `-est`.",
+        "en": "`one of the` is the clue for a superlative. `kind` is short, so `-est`.",
+        "tr": "`one of the` sarnakh-e sefat-e ali ast. `kind` kootah ast, pas `-est`."
+       },
+       "math": "kind  →  the kindest"
+      }
+     ],
+     "answer": {
+      "fa": "`kindest`",
+      "en": "`kindest`",
+      "tr": "`kindest`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: صفت تفضیلی را بنویس: `Caring for elderly parents is ___ than neglecting them in our moral culture.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: write the comparative: `Caring for elderly parents is ___ than neglecting them in our moral culture.` (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: sefat-e tafzili ra benevis: `Caring for elderly parents is ___ than neglecting them in our moral culture.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`than` یعنی دو چیز سنجیده می‌شوند: تفضیلی. صفت `important` بلند است (سه بخش)، پس `-er` نمی‌گیرد.",
+        "en": "`than` means two things are compared: comparative. `important` is long (three syllables), so it cannot take `-er`.",
+        "tr": "`than` ya'ni do chiz sanjide mishavand: tafzili. Sefat-e `important` boland ast (se bakhsh), pas `-er` nemigirad."
+       },
+       "math": "important  →  more important"
+      }
+     ],
+     "answer": {
+      "fa": "`more important`",
+      "en": "`more important`",
+      "tr": "`more important`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: غلط را پیدا کن: `My grandmother is the most kindest person in our family.`",
+      "en": "Exam twist: find the mistake: `My grandmother is the most kindest person in our family.`",
+      "tr": "Pich-e emtehani: ghalat ra peyda kon: `My grandmother is the most kindest person in our family.`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: صفت عالی دوبار ساخته شده: هم `the most` آمده و هم `-est`. فقط یکی لازم است.",
+        "en": "The twist: the superlative is built twice: both `the most` and `-est`. Only one is needed.",
+        "tr": "Pich-e emtehan: sefat-e ali do-bar sakhte shode: ham `the most` amade va ham `-est`. Faghat yeki lazem ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "`kind` کوتاه است، پس `the kindest` درست است و `most` حذف می‌شود.",
+        "en": "`kind` is short, so `the kindest` is correct and `most` goes.",
+        "tr": "`kind` kootah ast, pas `the kindest` dorost ast va `most` hazf mishavad."
+       },
+       "math": "the most kindest  →  the kindest"
+      }
+     ],
+     "answer": {
+      "fa": "`the kindest person`",
+      "en": "`the kindest person`",
+      "tr": "`the kindest person`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هرگز دو نشانه را با هم نیاور: `more kinder` و `most kindest` غلط‌اند.",
+      "en": "Never use two markers together: `more kinder` and `most kindest` are wrong.",
+      "tr": "Hargez do neshane ra ba ham nayavar: `more kinder` va `most kindest` ghalat-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "صفت عالی بدون `the` نمرهٔ کامل نمی‌گیرد: `one of the kindest`، نه `one of kindest`.",
+      "en": "A superlative without `the` loses marks: `one of the kindest`, not `one of kindest`.",
+      "tr": "Sefat-e ali bedoon-e `the` nomre-ye kamel nemigirad: `one of the kindest`, na `one of kindest`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 5,
+   "key": "eng-1-vocabulary",
+   "title": {
+    "fa": "واژگان قدردانی و فعل‌های دوکلمه‌ای",
+    "en": "Appreciation vocabulary and phrasal verbs",
+    "tr": "Vazhegan-e ghadrdani va fe'l-haye do-kalame-i"
+   },
+   "summary": {
+    "fa": "یک ریشه، چند شاخه: فعل، اسم و صفت از یک خانواده‌اند.",
+    "en": "One root, several branches: the verb, noun and adjective belong to one family.",
+    "tr": "Yek rishe, chand shakhe: fe'l, esm va sefat az yek khanevade-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: درخت خانوادهٔ واژه‌ها",
+      "en": "Understand first: the word family tree",
+      "tr": "Avval befahm: derakht-e khanevade-ye vazhe-ha"
+     },
+     "body": {
+      "fa": "واژه‌های این درس را مثل یک درخت خانوادگی یاد بگیر: از ریشهٔ `appreciate` (قدر دانستن) شاخهٔ `appreciation` (اسم) و `appreciative` (صفت) درمی‌آید؛ از `respect` شاخهٔ `respectful`؛ از `grateful` اسم `gratitude`. در سؤال جای خالی، اول نقش کلمه را از جایش در جمله بفهم: بعد از `to` یا `should` فعل می‌آید، بعد از `his` یا `our` اسم، و پیش از اسم یا بعد از `be` صفت.",
+      "en": "Learn this lesson's words as a family tree: from the root `appreciate` grow `appreciation` (noun) and `appreciative` (adjective); from `respect` grows `respectful`; from `grateful` the noun `gratitude`. In a gap question, first work out the word's job from its place in the sentence: after `to` or `should` comes a verb, after `his` or `our` a noun, and before a noun or after `be` an adjective.",
+      "tr": "Vazhe-haye in dars ra mesl-e yek derakht-e khanevadegi yad begir: az rishe-ye `appreciate` (ghadr danestan) shakhe-ye `appreciation` (esm) va `appreciative` (sefat) dar miayad; az `respect` shakhe-ye `respectful`; az `grateful` esm-e `gratitude`. Dar so'al-e ja-ye khali, avval naghsh-e kalame ra az jayash dar jomle befahm: ba'd az `to` ya `should` fe'l miayad, ba'd az `his` ya `our` esm, va pish az esm ya ba'd az `be` sefat."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "        appreciate (v)\n             |\n     +-------+--------+\n     |                |\n appreciation   appreciative\n    (n)            (adj)\n\n respect (v, n)  -> respectful (adj)\n grateful (adj)  -> gratitude (n)\n care (n, v)     -> careful (adj)\n neglect (v)     = not look after",
+     "caption": {
+      "fa": "یک ریشه و شاخه‌هایش: جای کلمه در جمله نشان می‌دهد کدام شاخه لازم است.",
+      "en": "One root and its branches: the word's place in the sentence shows which branch is needed.",
+      "tr": "Yek rishe va shakhe-hayash: ja-ye kalame dar jomle neshan midahad kodam shakhe lazem ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فعل‌های دوکلمه‌ای و واژه‌های کلیدی",
+      "en": "Phrasal verbs and key words",
+      "tr": "Fe'l-haye do-kalame-i va vazhe-haye kelidi"
+     },
+     "body": {
+      "fa": "فعل‌های دوکلمه‌ای (فعل + حرف اضافه) معنایی تازه می‌سازند که از تک‌تک کلمه‌ها حدس زده نمی‌شود: `bring up` یعنی «بزرگ کردن و پروردن فرزند»؛ `look after` یعنی «مراقبت کردن»؛ `care for` هم یعنی «مراقب بودن و دوست داشتن». بعد از بعضی فعل‌ها هم شکل `-ing` می‌آید، مثل `avoid hurting`. واژه‌های کلیدی دیگر: `neglect` (بی‌توجهی کردن)، `heritage` (میراث)، `treat` (رفتار کردن با)، `advise` (نصیحت کردن).",
+      "en": "Phrasal verbs (verb + particle) make a new meaning you cannot guess from each word: `bring up` means \"to raise and nurture a child\"; `look after` means \"to take care of\"; `care for` also means \"to look after and love\". Some verbs are followed by the `-ing` form, as in `avoid hurting`. Other key words: `neglect` (to fail to look after), `heritage` (what a family or nation passes down), `treat` (to behave towards), `advise` (to give advice to).",
+      "tr": "Fe'l-haye do-kalame-i (fe'l + harf-e ezafe) ma'nayi taze misazand ke az tak-tak-e kalame-ha hads zade nemishavad: `bring up` ya'ni \"bozorg kardan va parvardan-e farzand\"; `look after` ya'ni \"moraghebat kardan\"; `care for` ham ya'ni \"moragheb boodan va doost dashtan\". Ba'd az ba'zi fe'l-ha ham shekl-e `-ing` miayad, mesl-e `avoid hurting`. Vazhe-haye kelidi-ye digar: `neglect` (bi-tavajjohi kardan), `heritage` (miras), `treat` (raftar kardan ba), `advise` (nasihat kardan)."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " bring up   = raise a child\n look after = take care of\n care for   = look after, love\n avoid + -ing : avoid hurting\n\n to / should + VERB   appreciate\n his / our   + NOUN   gratitude\n a / be      + ADJ    respectful",
+     "caption": {
+      "fa": "معنای فعل‌های دوکلمه‌ای را با هم حفظ کن؛ جای خالی را با نقش کلمه پر کن.",
+      "en": "Learn each phrasal verb as one unit; fill a gap by the job of the word.",
+      "tr": "Ma'na-ye fe'l-haye do-kalame-i ra ba ham hefz kon; ja-ye khali ra ba naghsh-e kalame por kon."
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: حرف اضافه را بنویس: `We should always remember to care for and look ___ elderly people in our society.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: write the particle: `We should always remember to care for and look ___ elderly people in our society.` (Khordad 1401 paper)",
+      "tr": "Garm kardan: harf-e ezafe ra benevis: `We should always remember to care for and look ___ elderly people in our society.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "معنا «مراقبت کردن» است و همان فعل دوکلمه‌ای است که با `care for` هم‌معناست.",
+        "en": "The meaning is \"to take care of\", the phrasal verb that matches `care for`.",
+        "tr": "Ma'na \"moraghebat kardan\" ast va haman fe'l-e do-kalame-i ast ke ba `care for` ham-ma'nast."
+       },
+       "math": "look after = take care of"
+      }
+     ],
+     "answer": {
+      "fa": "`after`",
+      "en": "`after`",
+      "tr": "`after`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: واژهٔ درست را بنویس: `The student wanted to express his ___ to the teacher by writing a beautiful card.` (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: write the right word: `The student wanted to express his ___ to the teacher by writing a beautiful card.` (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: vazhe-ye dorost ra benevis: `The student wanted to express his ___ to the teacher by writing a beautiful card.` (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بعد از `his` اسم لازم است، پس صفت `grateful` جا نمی‌شود.",
+        "en": "After `his` we need a noun, so the adjective `grateful` does not fit.",
+        "tr": "Ba'd az `his` esm lazem ast, pas sefat-e `grateful` ja nemishavad."
+       }
+      },
+      {
+       "text": {
+        "fa": "معنا «سپاس» است و کارت تشکر نشانه‌اش. اسمِ هم‌خانوادهٔ `grateful` همین است.",
+        "en": "The meaning is \"thankfulness\", shown by a thank-you card. It is the noun in the family of `grateful`.",
+        "tr": "Ma'na \"sepas\" ast va kart-e tashakkor neshane-ash. Esm-e ham-khanevade-ye `grateful` hamin ast."
+       },
+       "math": "his + NOUN  →  gratitude"
+      }
+     ],
+     "answer": {
+      "fa": "`gratitude`",
+      "en": "`gratitude`",
+      "tr": "`gratitude`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: واژهٔ درست را بنویس: `We must always speak kindly to elderly people and avoid ___ their sensitive feelings.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Exam twist: write the right word: `We must always speak kindly to elderly people and avoid ___ their sensitive feelings.` (Khordad 1399 paper)",
+      "tr": "Pich-e emtehani: vazhe-ye dorost ra benevis: `We must always speak kindly to elderly people and avoid ___ their sensitive feelings.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: معنا را می‌دانی («آزردن» یعنی `hurt`)، ولی شکل مهم است: بعد از `avoid` فعل با `-ing` می‌آید، نه `to`.",
+        "en": "The twist: you know the meaning (`hurt`), but the form matters: after `avoid` the verb takes `-ing`, not `to`.",
+        "tr": "Pich-e emtehan: ma'na ra midani (`hurt`), vali shekl mohem ast: ba'd az `avoid` fe'l ba `-ing` miayad, na `to`."
+       },
+       "math": "avoid + hurting"
+      }
+     ],
+     "answer": {
+      "fa": "`hurting`",
+      "en": "`hurting`",
+      "tr": "`hurting`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`bring up` (بزرگ کردن فرزند) را با `grow up` (بزرگ شدن) اشتباه نکن: پدر و مادر ما را `bring up` می‌کنند؛ ما `grow up` می‌کنیم.",
+      "en": "Do not confuse `bring up` (to raise a child) with `grow up` (to become an adult): our parents `bring us up`; we `grow up`.",
+      "tr": "`bring up` (bozorg kardan-e farzand) ra ba `grow up` (bozorg shodan) eshtebah nakon: pedar va madar ma ra `bring up` mikonand; ma `grow up` mikonim."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از `avoid` همیشه `-ing`: `avoid hurting`، نه `avoid to hurt`.",
+      "en": "After `avoid` always `-ing`: `avoid hurting`, not `avoid to hurt`.",
+      "tr": "Ba'd az `avoid` hamishe `-ing`: `avoid hurting`, na `avoid to hurt`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 926
+    },
+    {
+     "session": "1399-Dey",
+     "number": 937
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1398-Khordad",
+     "number": 910
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 935
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 911
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 923
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 939
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 1,
+   "unit": 6,
+   "key": "eng-1-proverbs",
+   "title": {
+    "fa": "ضرب‌المثل‌های درس",
+    "en": "The lesson's proverbs",
+    "tr": "Zarbolmasal-haye dars"
+   },
+   "summary": {
+    "fa": "ضرب‌المثل یک تصویر ساده است که یک درس بزرگ زندگی را در خود دارد.",
+    "en": "A proverb is a simple picture that carries a big life lesson.",
+    "tr": "Zarbolmasal yek tasvir-e sade ast ke yek dars-e bozorg-e zendegi ra dar khod darad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تصویر، سپس درس",
+      "en": "Understand first: the picture, then the lesson",
+      "tr": "Avval befahm: tasvir, sepas dars"
+     },
+     "body": {
+      "fa": "ضرب‌المثل را مثل یک نقاشی کوچک ببین: تصویر را تصور کن، بعد درسش را بگیر. سگی که زیاد پارس می‌کند معمولاً گاز نمی‌گیرد: `Barking dogs seldom bite` یعنی کسی که زیاد تهدید می‌کند، کمتر عمل می‌کند. ظرف خالی بیشترین صدا را می‌دهد: `An empty vessel makes the most noise` یعنی کسی که کمتر می‌داند، بیشتر حرف می‌زند؛ مثل «آب که از سر گذشت» که تصویرش درسش را می‌گوید.",
+      "en": "See a proverb as a small painting: imagine the picture, then take its lesson. A dog that barks a lot usually does not bite: `Barking dogs seldom bite` means someone who makes many threats seldom acts on them. An empty pot makes the loudest sound: `An empty vessel makes the most noise` means the person who knows least often talks most. The picture carries the lesson.",
+      "tr": "Zarbolmasal ra mesl-e yek naghashi-ye koochak bebin: tasvir ra tasavvor kon, ba'd darsash ra begir. Sagi ke ziad pars mikonad ma'moolan gaz nemigirad: `Barking dogs seldom bite` ya'ni kasi ke ziad tahdid mikonad, kamtar amal mikonad. Zarf-e khali bishtarin seda ra midahad: `An empty vessel makes the most noise` ya'ni kasi ke kamtar midanad, bishtar harf mizanad. Tasvir, dars ra ba khod darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " \"Barking dogs seldom bite.\"\n   loud threats -> little action\n\n \"An empty vessel makes\n  the most noise.\"\n   knows little -> talks the most\n\n fixed words: seldom BITE,\n              the most NOISE",
+     "caption": {
+      "fa": "هر ضرب‌المثل یک تصویر و یک درس دارد؛ کلمه‌های آن ثابت‌اند و عوض نمی‌شوند.",
+      "en": "Each proverb has a picture and a lesson; its words are fixed and never change.",
+      "tr": "Har zarbolmasal yek tasvir va yek dars darad; kalame-haye an sabet-and va avaz nemishavand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قالب ثابت، کلمهٔ ثابت",
+      "en": "Fixed form, fixed word",
+      "tr": "Ghaleb-e sabet, kalame-ye sabet"
+     },
+     "body": {
+      "fa": "در امتحان، ضرب‌المثل معمولاً با یک جای خالی می‌آید و فقط یک کلمه درست است، چون ضرب‌المثل‌ها قالب ثابت دارند. هم‌معنی‌ها نمره نمی‌گیرند: `An empty vessel makes the most sound` غلط است، حتی اگر معنایش نزدیک باشد. پس ضرب‌المثل را کامل و کلمه به کلمه حفظ کن.",
+      "en": "In the exam, a proverb usually comes with one gap and only one word is right, because proverbs have a fixed form. Synonyms earn no marks: `An empty vessel makes the most sound` is wrong, even if the meaning is close. So learn each proverb whole, word for word.",
+      "tr": "Dar emtehan, zarbolmasal ma'moolan ba yek ja-ye khali miayad va faghat yek kalame dorost ast, chon zarbolmasal-ha ghaleb-e sabet darand. Ham-ma'ni-ha nomre nemigirand: `An empty vessel makes the most sound` ghalat ast, hatta agar ma'nayash nazdik bashad. Pas zarbolmasal ra kamel va kalame be kalame hefz kon."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Barking dogs seldom bite.     An empty vessel makes the most noise.",
+     "caption": {
+      "fa": "دو ضرب‌المثل درس، کلمه به کلمه",
+      "en": "The lesson's two proverbs, word for word",
+      "tr": "Do zarbolmasal-e dars, kalame be kalame"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ضرب‌المثل را کامل کن: `Barking dogs seldom ___.` (آزمون خرداد ۱۳۹۷)",
+      "en": "Warm-up: complete the proverb: `Barking dogs seldom ___.` (Khordad 1397 paper)",
+      "tr": "Garm kardan: zarbolmasal ra kamel kon: `Barking dogs seldom ___.` (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "تصویر را تصور کن: سگ پارس می‌کند ولی کاری که از آن می‌ترسیم «گاز گرفتن» است.",
+        "en": "Imagine the picture: the dog barks, but what we fear is the bite.",
+        "tr": "Tasvir ra tasavvor kon: sag pars mikonad vali kari ke az an mitarsim \"gaz gereftan\" ast."
+       },
+       "math": "seldom bite"
+      }
+     ],
+     "answer": {
+      "fa": "`bite`",
+      "en": "`bite`",
+      "tr": "`bite`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: ضرب‌المثل درس یک را کامل کن: `An empty vessel makes the most ___.` (آزمون‌های خرداد ۱۴۰۰ و دی ۱۴۰۱)",
+      "en": "Textbook and exam: complete the Lesson 1 proverb: `An empty vessel makes the most ___.` (Khordad 1400 and Dey 1401 papers)",
+      "tr": "Mas'ale-ye ketab va emtehan: zarbolmasal-e dars-e yek ra kamel kon: `An empty vessel makes the most ___.` (azmoon-haye Khordad 1400 va Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ظرف خالی وقتی تکان می‌خورد چه می‌کند؟ صدا می‌دهد. کلمهٔ ثابت ضرب‌المثل `noise` است.",
+        "en": "What does an empty pot do when it is shaken? It makes a sound. The proverb's fixed word is `noise`.",
+        "tr": "Zarf-e khali vaghti tekan mikhorad che mikonad? Seda midahad. Kalame-ye sabet-e zarbolmasal `noise` ast."
+       },
+       "math": "the most noise"
+      }
+     ],
+     "answer": {
+      "fa": "`noise`",
+      "en": "`noise`",
+      "tr": "`noise`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام ضرب‌المثل با این موقعیت جور است؟ هم‌کلاسی‌ای که کمتر از همه درس خوانده، بیشتر از همه دربارهٔ امتحان حرف می‌زند.",
+      "en": "Exam twist: which proverb fits this situation? The classmate who studied least talks most about the exam.",
+      "tr": "Pich-e emtehani: kodam zarbolmasal ba in mogheiyat joor ast? Ham-kelasi-i ke kamtar az hame dars khande, bishtar az hame darbare-ye emtehan harf mizanad."
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار کلمه نمی‌خواهند، درس ضرب‌المثل را می‌خواهند. «کم دانستن، زیاد حرف زدن» یعنی ظرف خالی.",
+        "en": "The twist: this time they want the proverb's lesson, not a word. \"Knowing little, talking a lot\" is the empty vessel.",
+        "tr": "Pich-e emtehan: in bar kalame nemikhahand, dars-e zarbolmasal ra mikhahand. \"Kam danestan, ziad harf zadan\" ya'ni zarf-e khali."
+       }
+      },
+      {
+       "text": {
+        "fa": "`Barking dogs seldom bite` دربارهٔ تهدید بی‌عمل است، نه دانستن؛ پس جور نیست.",
+        "en": "`Barking dogs seldom bite` is about threats without action, not knowledge; so it does not fit.",
+        "tr": "`Barking dogs seldom bite` darbare-ye tahdid-e bi-amal ast, na danestan; pas joor nist."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`An empty vessel makes the most noise.`",
+      "en": "`An empty vessel makes the most noise.`",
+      "tr": "`An empty vessel makes the most noise.`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هم‌معنی جای کلمهٔ ضرب‌المثل را نمی‌گیرد: `the most sound` یا `seldom attack` نمره ندارد.",
+      "en": "A synonym cannot replace the proverb's word: `the most sound` or `seldom attack` earns nothing.",
+      "tr": "Ham-ma'ni ja-ye kalame-ye zarbolmasal ra nemigirad: `the most sound` ya `seldom attack` nomre nadarad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`seldom` یعنی «به‌ندرت»، نه «هرگز»؛ معنای ضرب‌المثل را با `never` عوض نکن.",
+      "en": "`seldom` means \"rarely\", not \"never\"; do not change the proverb's meaning to `never`.",
+      "tr": "`seldom` ya'ni \"be-nodrat\", na \"hargez\"; ma'na-ye zarbolmasal ra ba `never` avaz nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1397-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 901
+    },
+    {
+     "session": "1401-Dey",
+     "number": 0
+    }
+   ]
+  }
+ ]
+}
