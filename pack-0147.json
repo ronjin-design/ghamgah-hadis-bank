@@ -1,0 +1,1071 @@
+{
+ "version": 147,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 1,
+   "key": "eng-3-however",
+   "title": {
+    "fa": "کلمه‌های تضاد میان دو جمله",
+    "en": "Contrast linkers between two sentences",
+    "tr": "Kalame-haye tazad miyan-e do jomle"
+   },
+   "summary": {
+    "fa": "جملهٔ دوم «ولی» می‌گوید: خوب است، اما…",
+    "en": "The second sentence says \"but\": it is good, however…",
+    "tr": "Jomle-ye dovvom \"vali\" miguyad: khoob ast, amma…"
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چراغ راهنمای پیچ",
+      "en": "Understand first: the turn indicator",
+      "tr": "Avval befahm: cheragh-e rahnama-ye pich"
+     },
+     "body": {
+      "fa": "کلمه‌های تضاد مثل چراغ راهنمای ماشین‌اند که پیش از پیچیدن روشن می‌شود: به خواننده خبر می‌دهند که جملهٔ بعد مسیر را برمی‌گرداند. `Solar power is expensive to install; however, it saves money in the long run.` جملهٔ اول یک طرف ماجراست (گران است) و جملهٔ دوم طرف مقابل (پول را پس می‌آورد). `however`، `nevertheless`، `on the other hand` و `yet` همه همین کار را می‌کنند.",
+      "en": "Contrast linkers are like a car's indicator that comes on before a turn: they warn the reader that the next sentence changes direction. `Solar power is expensive to install; however, it saves money in the long run.` The first sentence is one side of the story (it is expensive) and the second the other side (it pays the money back). `however`, `nevertheless`, `on the other hand` and `yet` all do this job.",
+      "tr": "Kalame-haye tazad mesl-e cheragh-e rahnama-ye mashin-and ke pish az pichidan roshan mishavad: be khanande khabar midahand ke jomle-ye ba'd masir ra barmigardanad. `Solar power is expensive to install; however, it saves money in the long run.` Jomle-ye avval yek taraf-e majarast (geran ast) va jomle-ye dovvom taraf-e moghabel (pool ra pas miavarad). `however`, `nevertheless`, `on the other hand` va `yet` hame hamin kar ra mikonand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " sentence A ; LINKER , sentence B\n  (one side)         (other side)\n\n Solar is expensive ; however ,\n it saves money in the long run.\n\n however    = nevertheless\n            = on the other hand\n            = yet",
+     "caption": {
+      "fa": "دو جملهٔ کامل، با نقطه‌ویرگول پیش از کلمهٔ تضاد و ویرگول بعد از آن.",
+      "en": "Two complete sentences, with a semicolon before the linker and a comma after it.",
+      "tr": "Do jomle-ye kamel, ba noghte-virgool pish az kalame-ye tazad va virgool ba'd az an."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خلاف یا نتیجه؟",
+      "en": "Against, or a result?",
+      "tr": "Khalaf ya natije?"
+     },
+     "body": {
+      "fa": "برای انتخاب درست، فقط بپرس: آیا جملهٔ دوم «برخلاف» جملهٔ اول است؟ اگر بله، کلمهٔ تضاد. `Dams produce a lot of electricity; however, they change river habitats.` (یک خوبی، یک بدی.) اگر جملهٔ دوم «نتیجهٔ» جملهٔ اول باشد، کلمهٔ تضاد غلط است و `therefore` لازم است (واحد سوم). `nevertheless` رسمی‌تر از `however` است و `on the other hand` دو طرف یک مقایسه را نشان می‌دهد.",
+      "en": "To choose correctly, just ask: is the second sentence \"against\" the first one? If yes, a contrast linker. `Dams produce a lot of electricity; however, they change river habitats.` (One good point, one bad point.) If the second sentence is the \"result\" of the first, a contrast linker is wrong and you need `therefore` (Unit 3). `nevertheless` is more formal than `however`, and `on the other hand` shows the two sides of a comparison.",
+      "tr": "Baraye entekhab-e dorost, faghat bepors: aya jomle-ye dovvom \"barkhalaf\"-e jomle-ye avval ast? Agar bale, kalame-ye tazad. `Dams produce a lot of electricity; however, they change river habitats.` (Yek khoobi, yek badi.) Agar jomle-ye dovvom \"natije\"-ye jomle-ye avval bashad, kalame-ye tazad ghalat ast va `therefore` lazem ast (vahed-e sevvom). `nevertheless` rasmi-tar az `however` ast va `on the other hand` do taraf-e yek moghayese ra neshan midahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Sentence A ;  however / nevertheless / on the other hand / yet ,  sentence B",
+     "caption": {
+      "fa": "میان دو جملهٔ کامل که با هم در تضادند",
+      "en": "Between two complete sentences that contrast",
+      "tr": "Miyan-e do jomle-ye kamel ke ba ham dar tazad-and"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کلمهٔ تضاد را بنویس: `Solar power is expensive to install initially; ___, it saves a lot of money in the long run.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: write the contrast linker: `Solar power is expensive to install initially; ___, it saves a lot of money in the long run.` (Dey 1400 paper)",
+      "tr": "Garm kardan: kalame-ye tazad ra benevis: `Solar power is expensive to install initially; ___, it saves a lot of money in the long run.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اول: گران؛ دوم: صرفه‌جویی. جملهٔ دوم خلاف اول است و جای خالی بین `;` و `,` نشسته.",
+        "en": "First: expensive; second: saves money. The second sentence goes against the first, and the gap sits between `;` and `,`.",
+        "tr": "Avval: geran; dovvom: sarfe-jooyi. Jomle-ye dovvom khalaf-e avval ast va ja-ye khali beyn-e `;` va `,` neshaste."
+       },
+       "math": "; however ,"
+      }
+     ],
+     "answer": {
+      "fa": "`however`",
+      "en": "`however`",
+      "tr": "`however`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کلمهٔ تضاد را بنویس: `Renewable energy systems are friendly to nature; ___, their installation costs are currently high.` (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: write the contrast linker: `Renewable energy systems are friendly to nature; ___, their installation costs are currently high.` (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kalame-ye tazad ra benevis: `Renewable energy systems are friendly to nature; ___, their installation costs are currently high.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو طرف یک ترازو: طرف خوب (دوستدار طبیعت) و طرف بد (هزینهٔ بالا).",
+        "en": "Two sides of a scale: the good side (friendly to nature) and the bad side (high cost).",
+        "tr": "Do taraf-e yek tarazoo: taraf-e khoob (doostdar-e tabi'at) va taraf-e bad (hazine-ye bala)."
+       }
+      },
+      {
+       "text": {
+        "fa": "در گزینه‌های این سؤال، عبارتِ سه‌کلمه‌ای که دقیقاً «طرف دیگر» را می‌گوید جواب است.",
+        "en": "Among this question's options, the three-word phrase that literally says \"the other side\" is the answer.",
+        "tr": "Dar gozine-haye in so'al, ebarat-e se-kalame-i ke daghighan \"taraf-e digar\" ra miguyad javab ast."
+       },
+       "math": "; on the other hand ,"
+      }
+     ],
+     "answer": {
+      "fa": "`on the other hand`",
+      "en": "`on the other hand`",
+      "tr": "`on the other hand`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کلمهٔ درست را بنویس: `Fossil fuels cause severe air pollution; ___, they are still used in many old factories.` (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: write the right word: `Fossil fuels cause severe air pollution; ___, they are still used in many old factories.` (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: kalame-ye dorost ra benevis: `Fossil fuels cause severe air pollution; ___, they are still used in many old factories.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `still` (هنوز) نشانهٔ تعجب است: با همهٔ آلودگی، هنوز استفاده می‌شوند. پس تضاد، نه نتیجه.",
+        "en": "The twist: `still` signals surprise: despite all the pollution, they are still used. So contrast, not a result.",
+        "tr": "Pich-e emtehan: `still` (hanooz) neshane-ye ta'ajjob ast: ba hame-ye aloodegi, hanooz estefade mishavand. Pas tazad, na natije."
+       }
+      },
+      {
+       "text": {
+        "fa": "جواب این سؤال کلمهٔ کوتاه سه‌حرفی تضاد است که مثل `however` کار می‌کند.",
+        "en": "The answer here is the short three-letter contrast word that works like `however`.",
+        "tr": "Javab-e in so'al kalame-ye kootah-e se-harfi-ye tazad ast ke mesl-e `however` kar mikonad."
+       },
+       "math": "; yet ,"
+      }
+     ],
+     "answer": {
+      "fa": "`yet`",
+      "en": "`yet`",
+      "tr": "`yet`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`however` را با `therefore` عوض نکن: اگر جملهٔ دوم خلاف اول است، `therefore` نمره نمی‌گیرد.",
+      "en": "Do not swap `however` for `therefore`: if the second sentence goes against the first, `therefore` earns nothing.",
+      "tr": "`however` ra ba `therefore` avaz nakon: agar jomle-ye dovvom khalaf-e avval ast, `therefore` nomre nemigirad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`however` دو جملهٔ کامل را جدا می‌کند؛ آن را مثل `but` وسط یک جمله با ویرگول تنها نگذار.",
+      "en": "`however` separates two complete sentences; do not drop it mid-sentence with just a comma, as if it were `but`.",
+      "tr": "`however` do jomle-ye kamel ra joda mikonad; an ra mesl-e `but` vasat-e yek jomle ba virgool-e tanha nagozar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 918
+    },
+    {
+     "session": "1401-Dey",
+     "number": 940
+    },
+    {
+     "session": "1401-Dey",
+     "number": 919
+    },
+    {
+     "session": "1401-Dey",
+     "number": 938
+    },
+    {
+     "session": "1401-Dey",
+     "number": 939
+    },
+    {
+     "session": "1401-Dey",
+     "number": 941
+    },
+    {
+     "session": "1401-Dey",
+     "number": 943
+    },
+    {
+     "session": "1401-Dey",
+     "number": 944
+    },
+    {
+     "session": "1401-Dey",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 2,
+   "key": "eng-3-while-whereas",
+   "title": {
+    "fa": "تضاد درون یک جمله",
+    "en": "Contrast inside one sentence",
+    "tr": "Tazad daroon-e yek jomle"
+   },
+   "summary": {
+    "fa": "دو تصویر کنار هم در یک قاب: این یکی تمیز است، در حالی که آن یکی آلوده.",
+    "en": "Two pictures side by side in one frame: this one is clean, whereas that one pollutes.",
+    "tr": "Do tasvir kenar-e ham dar yek ghab: in yeki tamiz ast, dar hali ke an yeki aloode."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو تصویر در یک قاب",
+      "en": "Understand first: two pictures in one frame",
+      "tr": "Avval befahm: do tasvir dar yek ghab"
+     },
+     "body": {
+      "fa": "`while` و `whereas` دو تصویر را در یک قاب کنار هم می‌گذارند تا تفاوتشان دیده شود: «در حالی که». فرقشان با `however` در ساختار است: `however` میان دو جملهٔ جدا می‌آید (با `;`)، ولی `while` و `whereas` دو بخش را در «یک» جمله به هم می‌دوزند، معمولاً با یک ویرگول: `Wind energy is clean, whereas fossil fuels pollute the environment.`",
+      "en": "`while` and `whereas` put two pictures side by side in one frame so their difference shows. The difference from `however` is in the structure: `however` comes between two separate sentences (with `;`), but `while` and `whereas` stitch two parts into \"one\" sentence, usually with a comma: `Wind energy is clean, whereas fossil fuels pollute the environment.`",
+      "tr": "`while` va `whereas` do tasvir ra dar yek ghab kenar-e ham migozarand ta tafavotashan dide shavad: \"dar hali ke\". Farghashan ba `however` dar sakhtar ast: `however` miyan-e do jomle-ye joda miayad (ba `;`), vali `while` va `whereas` do bakhsh ra dar \"yek\" jomle be ham midoozand, ma'moolan ba yek virgool: `Wind energy is clean, whereas fossil fuels pollute the environment.`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ONE sentence, two sides:\n A is clean , whereas B pollutes.\n Some like X , while others like Y.\n\n TWO sentences:\n A is clean ; however , B pollutes.\n\n , while / , whereas  -> inside\n ; however ,          -> between",
+     "caption": {
+      "fa": "`while` و `whereas` درون یک جمله با ویرگول؛ `however` میان دو جمله با نقطه‌ویرگول.",
+      "en": "`while` and `whereas` inside one sentence with a comma; `however` between two sentences with a semicolon.",
+      "tr": "`while` va `whereas` daroon-e yek jomle ba virgool; `however` miyan-e do jomle ba noghte-virgool."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نشانه‌گذاری سرنخ است",
+      "en": "Punctuation is the clue",
+      "tr": "Neshane-gozari sarnakh ast"
+     },
+     "body": {
+      "fa": "نشانه‌گذاری بهترین سرنخ است: اگر پیش از جای خالی ویرگول است و بعدش ویرگول نیست، کلمه‌ای از نوع `while` یا `whereas` لازم است. اگر پیش از جای خالی `;` و بعدش `,` است، کلمه‌ای از نوع `however`. `while` معنای «در حین» هم دارد، ولی در تضاد یعنی «در حالی که».",
+      "en": "Punctuation is the best clue: if there is a comma before the gap and none after it, you need a word like `while` or `whereas`. If there is `;` before the gap and `,` after it, a word like `however`. `while` can also mean \"during the time that\", but in a contrast it means \"whereas\".",
+      "tr": "Neshane-gozari behtarin sarnakh ast: agar pish az ja-ye khali virgool ast va ba'dash virgool nist, kalame-i az no'-e `while` ya `whereas` lazem ast. Agar pish az ja-ye khali `;` va ba'dash `,` ast, kalame-i az no'-e `however`. `while` ma'na-ye \"dar heyn\" ham darad, vali dar tazad ya'ni \"dar hali ke\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Clause A ,  while / whereas  clause B .",
+     "caption": {
+      "fa": "دو بخش متضاد در یک جمله",
+      "en": "Two contrasting parts in one sentence",
+      "tr": "Do bakhsh-e motazad dar yek jomle"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کلمهٔ تضاد را بنویس: `Wind energy is clean and unlimited, ___ fossil fuels pollute the environment and are finite.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: write the contrast linker: `Wind energy is clean and unlimited, ___ fossil fuels pollute the environment and are finite.` (Khordad 1401 paper)",
+      "tr": "Garm kardan: kalame-ye tazad ra benevis: `Wind energy is clean and unlimited, ___ fossil fuels pollute the environment and are finite.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو تصویر متضاد (تمیز و نامحدود / آلوده و محدود) در یک جمله، با ویرگول پیش از جای خالی و بدون ویرگول بعد از آن.",
+        "en": "Two opposite pictures (clean and unlimited / polluting and finite) in one sentence, with a comma before the gap and none after it.",
+        "tr": "Do tasvir-e motazad (tamiz va namahdood / aloode va mahdood) dar yek jomle, ba virgool pish az ja-ye khali va bedoon-e virgool ba'd az an."
+       },
+       "math": ", whereas"
+      }
+     ],
+     "answer": {
+      "fa": "`whereas`",
+      "en": "`whereas`",
+      "tr": "`whereas`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کلمهٔ تضاد را بنویس: `Some people prefer fossil fuels, ___ others advocate for solar energy.` (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: write the contrast linker: `Some people prefer fossil fuels, ___ others advocate for solar energy.` (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kalame-ye tazad ra benevis: `Some people prefer fossil fuels, ___ others advocate for solar energy.` (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`Some ...` و `others ...` دو گروه مقابل هم‌اند، در یک جمله.",
+        "en": "`Some ...` and `others ...` are two opposing groups, in one sentence.",
+        "tr": "`Some ...` va `others ...` do goroh-e moghabel-e ham-and, dar yek jomle."
+       }
+      },
+      {
+       "text": {
+        "fa": "ویرگول پیش از جای خالی و بی‌ویرگول بعدش؛ جواب این سؤال `while` است.",
+        "en": "A comma before the gap and none after; the answer here is `while`.",
+        "tr": "Virgool pish az ja-ye khali va bi-virgool ba'dash; javab-e in so'al `while` ast."
+       },
+       "math": ", while"
+      }
+     ],
+     "answer": {
+      "fa": "`while`",
+      "en": "`while`",
+      "tr": "`while`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام درست است؟ `Solar panels are clean, ___ coal is dirty.` الف) `however` ب) `whereas`",
+      "en": "Exam twist: which is correct? `Solar panels are clean, ___ coal is dirty.` a) `however` b) `whereas`",
+      "tr": "Pich-e emtehani: kodam dorost ast? `Solar panels are clean, ___ coal is dirty.` alef) `however` be) `whereas`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: معنای هر دو تضاد است، پس معنا کمکی نمی‌کند؛ ساختار تصمیم می‌گیرد.",
+        "en": "The twist: both mean contrast, so meaning does not help; the structure decides.",
+        "tr": "Pich-e emtehan: ma'na-ye har do tazad ast, pas ma'na komaki nemikonad; sakhtar tasmim migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پیش از جای خالی ویرگول است و جمله یکی است؛ `however` با ویرگول تنها درست نیست.",
+        "en": "There is a comma before the gap and it is one sentence; `however` with just a comma is not correct.",
+        "tr": "Pish az ja-ye khali virgool ast va jomle yeki ast; `however` ba virgool-e tanha dorost nist."
+       },
+       "math": ", whereas"
+      }
+     ],
+     "answer": {
+      "fa": "ب) `whereas`",
+      "en": "b) `whereas`",
+      "tr": "be) `whereas`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`whereas` و `while` را پس از نقطه‌ویرگول نگذار؛ آن‌ها دو بخش «یک» جمله را وصل می‌کنند.",
+      "en": "Do not put `whereas` or `while` after a semicolon; they join two parts of \"one\" sentence.",
+      "tr": "`whereas` va `while` ra pas az noghte-virgool nagozar; an-ha do bakhsh-e \"yek\" jomle ra vasl mikonand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "معنای «در حین» `while` را با تضاد قاطی نکن: در `Some like X, while others like Y` معنا «در حالی که» است.",
+      "en": "Do not mix up the \"during\" meaning of `while` with contrast: in `Some like X, while others like Y` it means \"whereas\".",
+      "tr": "Ma'na-ye \"dar heyn\"-e `while` ra ba tazad ghati nakon: dar `Some like X, while others like Y` ma'na \"dar hali ke\" ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 909
+    },
+    {
+     "session": "1399-Dey",
+     "number": 915
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 3,
+   "key": "eng-3-therefore",
+   "title": {
+    "fa": "علت و نتیجه",
+    "en": "Cause and effect",
+    "tr": "Ellat va natije"
+   },
+   "summary": {
+    "fa": "دومینو: اولی که بیفتد، دومی هم می‌افتد.",
+    "en": "Dominoes: when the first falls, the second falls too.",
+    "tr": "Domino: avvali ke biyoftad, dovvomi ham mioftad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دومینو",
+      "en": "Understand first: the dominoes",
+      "tr": "Avval befahm: domino"
+     },
+     "body": {
+      "fa": "`therefore` مثل دومینوست: جملهٔ اول علت است و جملهٔ دوم نتیجه‌ای که از آن می‌افتد: «بنابراین». `Fossil fuels are running out; therefore, we need renewable energy.` تمام شدنِ سوخت (علت) باعث نیاز به انرژی نو (نتیجه) می‌شود. ساختارش مثل `however` است (`;` پیش از آن و `,` بعد از آن)، ولی معنایش برعکس: `however` مسیر را برمی‌گرداند، `therefore` مسیر را ادامه می‌دهد.",
+      "en": "`therefore` is like a line of dominoes: the first sentence is the cause and the second the result that falls from it. `Fossil fuels are running out; therefore, we need renewable energy.` Fuel running out (the cause) creates the need for new energy (the result). Its structure is like `however` (`;` before it and `,` after it), but its meaning is the opposite: `however` turns the road, `therefore` keeps going straight.",
+      "tr": "`therefore` mesl-e domino-st: jomle-ye avval ellat ast va jomle-ye dovvom natije-i ke az an mioftad: \"banabarin\". `Fossil fuels are running out; therefore, we need renewable energy.` Tamam shodan-e sookht (ellat) ba'es-e niaz be enerzhi-ye no (natije) mishavad. Sakhtarash mesl-e `however` ast (`;` pish az an va `,` ba'd az an), vali ma'nayash bar-aks: `however` masir ra barmigardanad, `therefore` masir ra edame midahad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " cause ; therefore , result\n   -->               -->\n   same direction (so)\n\n fact  ; however ,   surprise\n   -->               <--\n   direction turns (but)",
+     "caption": {
+      "fa": "`therefore` ادامهٔ مسیر است (علت به نتیجه)؛ `however` برگشت مسیر (خلاف انتظار).",
+      "en": "`therefore` continues the road (cause to result); `however` turns it (against expectation).",
+      "tr": "`therefore` edame-ye masir ast (ellat be natije); `however` bargasht-e masir (khalaf-e entezar)."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آزمون «پس» یا «ولی»",
+      "en": "The \"so\" or \"but\" test",
+      "tr": "Azmoon-e \"pas\" ya \"vali\""
+     },
+     "body": {
+      "fa": "آزمون سادهٔ «پس»: جای خالی را با «پس» فارسی بخوان. اگر جمله معنا داشت، `therefore` درست است: «سوخت‌های فسیلی تمام می‌شوند؛ پس باید به انرژی‌های نو توجه کنیم.» اگر با «ولی» معنا داشت، کلمهٔ تضاد لازم است.",
+      "en": "The simple \"so\" test: read the gap as \"so\". If the sentence makes sense, `therefore` is right: \"fossil fuels are running out; so we must focus on renewable energy.\" If it makes sense with \"but\", you need a contrast linker.",
+      "tr": "Azmoon-e sade-ye \"pas\": ja-ye khali ra ba \"pas\"-e farsi bekhan. Agar jomle ma'na dasht, `therefore` dorost ast: \"sookht-haye fosili tamam mishavand; pas bayad be enerzhi-haye no tavajjoh konim.\" Agar ba \"vali\" ma'na dasht, kalame-ye tazad lazem ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "Cause ;  therefore ,  result .",
+     "caption": {
+      "fa": "بنابراین: نتیجه از علت پیروی می‌کند",
+      "en": "Therefore: the result follows from the cause",
+      "tr": "Banabarin: natije az ellat peyravi mikonad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کلمهٔ ربط را بنویس: `Fossil fuels are running out; ___, we need to focus more on renewable energy sources.` (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: write the linker: `Fossil fuels are running out; ___, we need to focus more on renewable energy sources.` (Khordad 1400 paper)",
+      "tr": "Garm kardan: kalame-ye rabt ra benevis: `Fossil fuels are running out; ___, we need to focus more on renewable energy sources.` (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "آزمون «پس»: «سوخت تمام می‌شود؛ پس باید به انرژی نو توجه کنیم.» معنا دارد.",
+        "en": "The \"so\" test: \"fuel is running out; so we must focus on new energy.\" It makes sense.",
+        "tr": "Azmoon-e \"pas\": \"sookht tamam mishavad; pas bayad be enerzhi-ye no tavajjoh konim.\" Ma'na darad."
+       },
+       "math": "; therefore ,"
+      }
+     ],
+     "answer": {
+      "fa": "`therefore`",
+      "en": "`therefore`",
+      "tr": "`therefore`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کلمهٔ ربط علت و نتیجه را بنویس: `Fossil fuels are limited and cause heavy pollution; ___, solar and wind energy are getting more popular.` (آزمون خرداد ۱۳۹۹)",
+      "en": "Textbook and exam: write the cause-and-effect linker: `Fossil fuels are limited and cause heavy pollution; ___, solar and wind energy are getting more popular.` (Khordad 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kalame-ye rabt-e ellat va natije ra benevis: `Fossil fuels are limited and cause heavy pollution; ___, solar and wind energy are getting more popular.` (azmoon-e Khordad 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "علت: محدود و آلاینده. نتیجه: محبوب‌تر شدن انرژی پاک. همان دومینو.",
+        "en": "Cause: limited and polluting. Result: clean energy getting more popular. The same dominoes.",
+        "tr": "Ellat: mahdood va alayande. Natije: mahboob-tar shodan-e enerzhi-ye pak. Haman domino."
+       },
+       "math": "; therefore ,"
+      }
+     ],
+     "answer": {
+      "fa": "`therefore`",
+      "en": "`therefore`",
+      "tr": "`therefore`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام درست است؟ `Fossil fuels damage our environment; ___, we must invest heavily in solar infrastructure.` الف) `however` ب) `therefore` (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: which is correct? `Fossil fuels damage our environment; ___, we must invest heavily in solar infrastructure.` a) `however` b) `therefore` (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: kodam dorost ast? `Fossil fuels damage our environment; ___, we must invest heavily in solar infrastructure.` alef) `however` be) `therefore` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: نشانه‌گذاری برای هر دو یکی است (`;` و `,`)، پس فقط معنا تصمیم می‌گیرد.",
+        "en": "The twist: the punctuation is the same for both (`;` and `,`), so only meaning decides.",
+        "tr": "Pich-e emtehan: neshane-gozari baraye har do yeki ast (`;` va `,`), pas faghat ma'na tasmim migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "«آسیب می‌زنند؛ پس باید سرمایه‌گذاری کنیم» معنا دارد، «ولی» ندارد.",
+        "en": "\"They damage it; so we must invest\" makes sense, \"but\" does not.",
+        "tr": "\"Asib mizanand; pas bayad sarmaye-gozari konim\" ma'na darad, \"vali\" nadarad."
+       },
+       "math": "; therefore ,"
+      }
+     ],
+     "answer": {
+      "fa": "ب) `therefore`",
+      "en": "b) `therefore`",
+      "tr": "be) `therefore`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "شکل نشانه‌گذاری `therefore` و `however` یکی است؛ فقط با معنا انتخاب کن، نه با ظاهر جمله.",
+      "en": "`therefore` and `however` look the same on the page; choose only by meaning, not by the look of the sentence.",
+      "tr": "Shekl-e neshane-gozari-ye `therefore` va `however` yeki ast; faghat ba ma'na entekhab kon, na ba zaher-e jomle."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اگر نتیجه پیش از علت آمده باشد (`We need solar power; fossil fuels are running out.`)، `therefore` جا نمی‌شود؛ آنجا `because` لازم است.",
+      "en": "If the result comes before the cause (`We need solar power; fossil fuels are running out.`), `therefore` does not fit; that needs `because`.",
+      "tr": "Agar natije pish az ellat amade bashad (`We need solar power; fossil fuels are running out.`), `therefore` ja nemishavad; anja `because` lazem ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 908
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 931
+    },
+    {
+     "session": "1401-Dey",
+     "number": 942
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 4,
+   "key": "eng-3-passive-review",
+   "title": {
+    "fa": "مرور مجهول: حال، آینده و حال کامل",
+    "en": "Passive review: present, future and present perfect",
+    "tr": "Moroor-e majhool: hal, ayande va hal-e kamel"
+   },
+   "summary": {
+    "fa": "سه زمان، یک قالب: فقط `be` عوض می‌شود.",
+    "en": "Three tenses, one recipe: only `be` changes.",
+    "tr": "Se zaman, yek ghaleb: faghat `be` avaz mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: همان بازیگر، لباس تازه",
+      "en": "Understand first: the same actor, new clothes",
+      "tr": "Avval befahm: haman bazigar, lebas-e taze"
+     },
+     "body": {
+      "fa": "درس سه همان مجهول درس‌های یک و دو را در موضوع انرژی مرور می‌کند. یادت هست: `be` لباس زمان را می‌پوشد و قسمت سوم فعل ثابت می‌ماند. `Wind turbines are used today` (حال ساده)، `Clean fuels will be used in the coming decades` (آینده)، `Many solar plants have been built recently` (حال کامل). سرنخ هر زمان را در جمله پیدا کن: `today`، `in the coming decades`، `recently`.",
+      "en": "Lesson 3 reviews the passive of Lessons 1 and 2 in the energy topic. Remember: `be` wears the clothes of the tense, and the past participle stays the same. `Wind turbines are used today` (simple present), `Clean fuels will be used in the coming decades` (future), `Many solar plants have been built recently` (present perfect). Find each tense's clue in the sentence: `today`, `in the coming decades`, `recently`.",
+      "tr": "Dars-e se haman majhool-e dars-haye yek va do ra dar mozoo'-e enerzhi moroor mikonad. Yadat hast: `be` lebas-e zaman ra mipooshad va ghesmat-e sevvom-e fe'l sabet mimanad. `Wind turbines are used today` (hal-e sade), `Clean fuels will be used in the coming decades` (ayande), `Many solar plants have been built recently` (hal-e kamel). Sarnakh-e har zaman ra dar jomle peyda kon: `today`, `in the coming decades`, `recently`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " clue word          passive\n ---------------    ---------------\n today, usually     am/is/are + V3\n next, coming       will be + V3\n recently, already  has/have been\n                    + V3\n\n are used / will be used /\n have been built",
+     "caption": {
+      "fa": "سرنخ زمان در ستون چپ، شکل مجهول در ستون راست.",
+      "en": "The time clue on the left, the passive form on the right.",
+      "tr": "Sarnakh-e zaman dar sotoon-e chap, shekl-e majhool dar sotoon-e rast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فعل داخل پرانتز",
+      "en": "The verb in brackets",
+      "tr": "Fe'l-e dakhel-e parantez"
+     },
+     "body": {
+      "fa": "در سؤال‌هایی که فعل داخل پرانتز داده شده (`build`)، دو کار لازم است: `be` درست را بساز و فعل را به قسمت سوم ببر. `build` بی‌قاعده است: `built`. فاعل جمع (`plants`) یعنی `have`، نه `has`.",
+      "en": "In questions that give the verb in brackets (`build`), two jobs are needed: build the right `be` and turn the verb into its past participle. `build` is irregular: `built`. A plural subject (`plants`) means `have`, not `has`.",
+      "tr": "Dar so'al-hayi ke fe'l-e dakhel-e parantez dade shode (`build`), do kar lazem ast: `be`-ye dorost ra besaz va fe'l ra be ghesmat-e sevvom bebar. `build` bi-ghaede ast: `built`. Fa'el-e jam' (`plants`) ya'ni `have`, na `has`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "am / is / are + V3 ,   will be + V3 ,   has / have been + V3",
+     "caption": {
+      "fa": "سه مجهول درس سه",
+      "en": "The three passives of Lesson 3",
+      "tr": "Se majhool-e dars-e se"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: با مجهول حال ساده پر کن: `Today, wind turbines ___ in many countries to generate clean electricity.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: complete with the simple present passive: `Today, wind turbines ___ in many countries to generate clean electricity.` (Dey 1400 paper)",
+      "tr": "Garm kardan: ba majhool-e hal-e sade por kon: `Today, wind turbines ___ in many countries to generate clean electricity.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`Today` یعنی حال ساده؛ `turbines` جمع است، پس `are`.",
+        "en": "`Today` means the simple present; `turbines` is plural, so `are`.",
+        "tr": "`Today` ya'ni hal-e sade; `turbines` jam' ast, pas `are`."
+       },
+       "math": "are + used"
+      }
+     ],
+     "answer": {
+      "fa": "`are used`",
+      "en": "`are used`",
+      "tr": "`are used`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: با مجهول آینده پر کن: `Clean fuels and energy resources ___ more widely by industries in the coming decades.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: complete with the future passive: `Clean fuels and energy resources ___ more widely by industries in the coming decades.` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ba majhool-e ayande por kon: `Clean fuels and energy resources ___ more widely by industries in the coming decades.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`in the coming decades` سرنخ آینده و `by industries` سرنخ مجهول است.",
+        "en": "`in the coming decades` is the future clue and `by industries` the passive clue.",
+        "tr": "`in the coming decades` sarnakh-e ayande va `by industries` sarnakh-e majhool ast."
+       },
+       "math": "will + be + used"
+      }
+     ],
+     "answer": {
+      "fa": "`will be used`",
+      "en": "`will be used`",
+      "tr": "`will be used`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شکل حال کامل مجهول فعل داخل پرانتز را بنویس: `Many solar power plants ___ (build) in desert areas recently.` (آزمون خرداد ۱۳۹۷)",
+      "en": "Exam twist: write the present perfect passive of the verb in brackets: `Many solar power plants ___ (build) in desert areas recently.` (Khordad 1397 paper)",
+      "tr": "Pich-e emtehani: shekl-e hal-e kamel-e majhool-e fe'l-e dakhel-e parantez ra benevis: `Many solar power plants ___ (build) in desert areas recently.` (azmoon-e Khordad 1397)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سه کار در یک جای خالی: `have` (فاعل جمع)، `been` (مجهول) و قسمت سوم بی‌قاعدهٔ `build`.",
+        "en": "The twist: three jobs in one gap: `have` (plural subject), `been` (passive) and the irregular past participle of `build`.",
+        "tr": "Pich-e emtehan: se kar dar yek ja-ye khali: `have` (fa'el-e jam'), `been` (majhool) va ghesmat-e sevvom-e bi-ghaede-ye `build`."
+       },
+       "math": "have + been + built"
+      }
+     ],
+     "answer": {
+      "fa": "`have been built`",
+      "en": "`have been built`",
+      "tr": "`have been built`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`has been built` برای `plants` غلط است؛ فاعل جمع `have` می‌گیرد.",
+      "en": "`has been built` is wrong for `plants`; a plural subject takes `have`.",
+      "tr": "`has been built` baraye `plants` ghalat ast; fa'el-e jam' `have` migirad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فعل داخل پرانتز را به شکل ساده رها نکن: `have been build` نمره ندارد؛ `built`.",
+      "en": "Do not leave the bracketed verb in its base form: `have been build` earns nothing; `built`.",
+      "tr": "Fe'l-e dakhel-e parantez ra be shekl-e sade raha nakon: `have been build` nomre nadarad; `built`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 927
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 917
+    },
+    {
+     "session": "1397-Khordad",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 5,
+   "key": "eng-3-gerund-subject",
+   "title": {
+    "fa": "اسم مصدر در نقش فاعل؛ صفت با مصدر",
+    "en": "The gerund as subject; adjective + to-infinitive",
+    "tr": "Esm-e masdar dar naghsh-e fa'el; sefat ba masdar"
+   },
+   "summary": {
+    "fa": "یک کار می‌تواند خودش فاعل جمله باشد: «بریدن درختان» نابود می‌کند.",
+    "en": "An action can itself be the subject: \"cutting trees\" destroys.",
+    "tr": "Yek kar mitavanad khodash fa'el-e jomle bashad: \"boridan-e derakhtan\" naboood mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کار، قهرمان جمله",
+      "en": "Understand first: the action as the hero",
+      "tr": "Avval befahm: kar, ghahreman-e jomle"
+     },
+     "body": {
+      "fa": "گاهی «یک کار» قهرمان جمله است، نه یک نفر یا یک چیز: «بریدن درختان زیستگاه‌ها را نابود می‌کند.» در انگلیسی، کار وقتی فاعل جمله می‌شود شکل `-ing` می‌گیرد و مثل یک اسم رفتار می‌کند: `Cutting down trees can destroy habitats.` فعل اصلی هم با آن مثل یک اسم مفرد جور می‌شود.",
+      "en": "Sometimes \"an action\" is the hero of the sentence, not a person or a thing: \"cutting down trees destroys habitats.\" In English, when an action becomes the subject it takes the `-ing` form and behaves like a noun: `Cutting down trees can destroy habitats.` The main verb agrees with it like a singular noun.",
+      "tr": "Gahi \"yek kar\" ghahreman-e jomle ast, na yek nafar ya yek chiz: \"boridan-e derakhtan zistgah-ha ra naboood mikonad.\" Dar engelisi, kar vaghti fa'el-e jomle mishavad shekl-e `-ing` migirad va mesl-e yek esm raftar mikonad: `Cutting down trees can destroy habitats.` Fe'l-e asli ham ba an mesl-e yek esm-e mofrad joor mishavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " V-ing as SUBJECT (start):\n [Cutting down trees] can destroy\n       habitats.\n\n It is + ADJ + to V1:\n It is important [to use]\n       clean energy.\n It is easy / necessary / hard\n       + to V1",
+     "caption": {
+      "fa": "اول جمله، کار با `-ing`؛ بعد از `It is` و صفت، مصدر با `to`.",
+      "en": "At the start, the action takes `-ing`; after `It is` and an adjective, the infinitive with `to`.",
+      "tr": "Avval-e jomle, kar ba `-ing`; ba'd az `It is` va sefat, masdar ba `to`."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "الگوی دوم: صفت و مصدر",
+      "en": "The second pattern: adjective and infinitive",
+      "tr": "Olgoo-ye dovvom: sefat va masdar"
+     },
+     "body": {
+      "fa": "الگوی دوم: `It is` به‌اضافهٔ صفت (`important`، `necessary`، `easy`) و بعد مصدر با `to`: `It is important to use clean energy.` اینجا `It` فقط جای خالی را پر می‌کند و فاعل واقعی همان `to use clean energy` است. پس دو الگو: کار اول جمله با `-ing`، یا `It is` و صفت و `to`.",
+      "en": "The second pattern: `It is` plus an adjective (`important`, `necessary`, `easy`), then the infinitive with `to`: `It is important to use clean energy.` Here `It` just fills the subject slot; the real subject is `to use clean energy`. So two patterns: the action at the start with `-ing`, or `It is` plus adjective plus `to`.",
+      "tr": "Olgoo-ye dovvom: `It is` be-ezafe-ye sefat (`important`, `necessary`, `easy`) va ba'd masdar ba `to`: `It is important to use clean energy.` Inja `It` faghat ja-ye khali ra por mikonad va fa'el-e vaghe'i haman `to use clean energy` ast. Pas do olgoo: kar avval-e jomle ba `-ing`, ya `It is` va sefat va `to`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "V-ing ... + verb ...     It is + adj + to + V1",
+     "caption": {
+      "fa": "دو الگو برای «کار» در جمله",
+      "en": "Two patterns for an \"action\" in the sentence",
+      "tr": "Do olgoo baraye \"kar\" dar jomle"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: شکل درست را بنویس: `___ down trees for industrial goals can destroy the natural habitats of animals.` (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: write the right form: `___ down trees for industrial goals can destroy the natural habitats of animals.` (Dey 1401 paper)",
+      "tr": "Garm kardan: shekl-e dorost ra benevis: `___ down trees for industrial goals can destroy the natural habitats of animals.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "جای خالی اول جمله است و یک «کار» (`cut down`) فاعل است؛ پس `-ing`.",
+        "en": "The gap starts the sentence and an \"action\" (`cut down`) is the subject; so `-ing`.",
+        "tr": "Ja-ye khali avval-e jomle ast va yek \"kar\" (`cut down`) fa'el ast; pas `-ing`."
+       },
+       "math": "Cut + ting  →  Cutting"
+      }
+     ],
+     "answer": {
+      "fa": "`Cutting`",
+      "en": "`Cutting`",
+      "tr": "`Cutting`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شکل درست را بنویس: `It is important ___ clean energy resources to save our planet from pollution.` (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: write the right form: `It is important ___ clean energy resources to save our planet from pollution.` (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: shekl-e dorost ra benevis: `It is important ___ clean energy resources to save our planet from pollution.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "الگوی `It is` و صفت (`important`)؛ پشتش مصدر با `to` و فعل ساده.",
+        "en": "The pattern `It is` plus an adjective (`important`); after it the infinitive with `to` and the base verb.",
+        "tr": "Olgoo-ye `It is` va sefat (`important`); poshtash masdar ba `to` va fe'l-e sade."
+       },
+       "math": "It is important + to use"
+      }
+     ],
+     "answer": {
+      "fa": "`to use`",
+      "en": "`to use`",
+      "tr": "`to use`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: این جمله را با الگوی دیگر بازنویسی کن: `Using solar power is important.`",
+      "en": "Exam twist: rewrite the sentence with the other pattern: `Using solar power is important.`",
+      "tr": "Pich-e emtehani: jomle ra ba olgoo-ye digar baz-nevisi kon: `Using solar power is important.`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو الگو یک معنا دارند. فاعل `-ing` را آخر ببر و به مصدر با `to` تبدیل کن؛ جای خالی اول را `It` پر می‌کند.",
+        "en": "The twist: the two patterns mean the same. Move the `-ing` subject to the end as a `to` infinitive; `It` fills the empty front slot.",
+        "tr": "Pich-e emtehan: do olgoo yek ma'na darand. Fa'el-e `-ing` ra akhar bebar va be masdar ba `to` tabdil kon; ja-ye khali-ye avval ra `It` por mikonad."
+       },
+       "math": "Using solar power is important  →  It is important to use solar power"
+      }
+     ],
+     "answer": {
+      "fa": "`It is important to use solar power.`",
+      "en": "`It is important to use solar power.`",
+      "tr": "`It is important to use solar power.`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فاعلِ کار را با شکل ساده شروع نکن: `Cut down trees can destroy...` غلط است؛ `Cutting`.",
+      "en": "Do not start an action subject with the base form: `Cut down trees can destroy...` is wrong; `Cutting`.",
+      "tr": "Fa'el-e kar ra ba shekl-e sade shoru' nakon: `Cut down trees can destroy...` ghalat ast; `Cutting`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "حرف آخر `cut` دوبار می‌شود: `cutting`، نه `cuting`؛ مثل `running` و `stopping`.",
+      "en": "The last letter of `cut` doubles: `cutting`, not `cuting`; like `running` and `stopping`.",
+      "tr": "Harf-e akhar-e `cut` do-bar mishavad: `cutting`, na `cuting`; mesl-e `running` va `stopping`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 947
+    },
+    {
+     "session": "1401-Dey",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 3,
+   "unit": 6,
+   "key": "eng-3-vocabulary",
+   "title": {
+    "fa": "واژگان انرژی تجدیدپذیر",
+    "en": "Renewable-energy vocabulary",
+    "tr": "Vazhegan-e enerzhi-ye tajdid-pazir"
+   },
+   "summary": {
+    "fa": "دو خانواده: انرژی‌هایی که هرگز تمام نمی‌شوند و سوخت‌هایی که تمام می‌شوند.",
+    "en": "Two families: energy that never runs out, and fuels that do.",
+    "tr": "Do khanevade: enerzhi-hayi ke hargez tamam nemishavand va sookht-hayi ke tamam mishavand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چشمه یا قوطی کنسرو",
+      "en": "Understand first: a spring or a tin",
+      "tr": "Avval befahm: cheshme ya ghooti konserv"
+     },
+     "body": {
+      "fa": "واژه‌های این درس را در دو ستون بچین. ستون اول، انرژی‌های `renewable` (تجدیدپذیر): باد، خورشید و آب، که مثل چشمه هرگز خشک نمی‌شوند و `emissions` (گاز خروجی) ندارند. ستون دوم، سوخت‌های `fossil` (فسیلی): زغال‌سنگ، نفت و گاز، که مثل یک قوطی کنسرو تمام می‌شوند (`deplete`)، میلیون‌ها سال طول می‌کشد تا بسازند و هوا را `pollute` (آلوده) می‌کنند. هر جای خالی را اول به یکی از این دو ستون ببر.",
+      "en": "Arrange this lesson's words in two columns. Column one, `renewable` energy: wind, sun and water, which like a spring never run dry and produce no `emissions`. Column two, `fossil` fuels: coal, oil and gas, which run out like a tin of food (`deplete`), take millions of years to form, and `pollute` the air. Put every gap into one of these two columns first.",
+      "tr": "Vazhe-haye in dars ra dar do sotoon bechin. Sotoon-e avval, enerzhi-haye `renewable` (tajdid-pazir): bad, khorshid va ab, ke mesl-e cheshme hargez khoshk nemishavand va `emissions` (gaz-e khorooji) nadarand. Sotoon-e dovvom, sookht-haye `fossil` (fosili): zoghal-sang, naft va gaz, ke mesl-e yek ghooti konserv tamam mishavand (`deplete`), milyon-ha sal tool mikeshad ta besazand va hava ra `pollute` (aloode) mikonand. Har ja-ye khali ra avval be yeki az in do sotoon bebar."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " RENEWABLE        NON-RENEWABLE\n (never ends)     (runs out)\n ------------     -------------\n wind, sun,       coal, oil, gas\n water            = FOSSIL FUELS\n clean SOURCES    millions of yrs\n no EMISSIONS     POLLUTE the air\n KINETIC energy   DEPLETE resources\n of wind          POLLUTION",
+     "caption": {
+      "fa": "هر واژه را در ستون درست بگذار؛ جای خالی معمولاً از روی ستونش پیدا می‌شود.",
+      "en": "Put each word in its column; a gap is usually found from its column.",
+      "tr": "Har vazhe ra dar sotoon-e dorost begozar; ja-ye khali ma'moolan az rooye sotoonash peyda mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فعل یا اسم؟",
+      "en": "Verb or noun?",
+      "tr": "Fe'l ya esm?"
+     },
+     "body": {
+      "fa": "خانواده‌های فعل و اسم را هم جدا کن: `pollute` (آلوده کردن، فعل) و `pollution` (آلودگی، اسم)؛ `emit` (بیرون دادن) و `emissions` (گازهای خروجی). بعد از `do not` فعل می‌آید (`do not pollute the air`) و بعد از `heavy` اسم (`heavy pollution`). واژه‌های دیگر: `kinetic` (جنبشی، انرژی حرکت باد)، `provide` (فراهم کردن)، `environment` (محیط زیست)، `sources` (منابع).",
+      "en": "Separate the verb and noun families too: `pollute` (verb) and `pollution` (noun); `emit` (to send out) and `emissions` (the gases sent out). After `do not` comes a verb (`do not pollute the air`) and after `heavy` a noun (`heavy pollution`). Other words: `kinetic` (the energy of the wind's movement), `provide` (to supply), `environment`, `sources`.",
+      "tr": "Khanevade-haye fe'l va esm ra ham joda kon: `pollute` (aloode kardan, fe'l) va `pollution` (aloodegi, esm); `emit` (biroon dadan) va `emissions` (gaz-haye khorooji). Ba'd az `do not` fe'l miayad (`do not pollute the air`) va ba'd az `heavy` esm (`heavy pollution`). Vazhe-haye digar: `kinetic` (jonbeshi, enerzhi-ye harekat-e bad), `provide` (faraham kardan), `environment` (mohit-e zist), `sources` (manabe')."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "renewable ≠ fossil ,   pollute (v) → pollution (n) ,   emit (v) → emissions (n)",
+     "caption": {
+      "fa": "دو ستون و دو خانوادهٔ واژه",
+      "en": "Two columns and two word families",
+      "tr": "Do sotoon va do khanevade-ye vazhe"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: واژهٔ تعریف‌شده را بنویس: `Resources like wind and sunlight that are never finished or used up completely are called ___ energy.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: write the word defined: `Resources like wind and sunlight that are never finished or used up completely are called ___ energy.` (Khordad 1401 paper)",
+      "tr": "Garm kardan: vazhe-ye ta'rif-shode ra benevis: `Resources like wind and sunlight that are never finished or used up completely are called ___ energy.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`never finished` یعنی ستون چشمه: انرژی‌ای که هرگز تمام نمی‌شود.",
+        "en": "`never finished` means the spring column: energy that never runs out.",
+        "tr": "`never finished` ya'ni sotoon-e cheshme: enerzhi-i ke hargez tamam nemishavad."
+       },
+       "math": "never finished  →  renewable"
+      }
+     ],
+     "answer": {
+      "fa": "`renewable`",
+      "en": "`renewable`",
+      "tr": "`renewable`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: واژهٔ درست را بنویس: `Coal, oil, and natural gas are non-renewable resources that are called ___ fuels.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: write the right word: `Coal, oil, and natural gas are non-renewable resources that are called ___ fuels.` (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: vazhe-ye dorost ra benevis: `Coal, oil, and natural gas are non-renewable resources that are called ___ fuels.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "زغال‌سنگ، نفت و گاز در ستون قوطی کنسرو‌اند و جفت همیشگی‌شان `fuels` است.",
+        "en": "Coal, oil and gas are in the tin column, and their permanent partner is `fuels`.",
+        "tr": "Zoghal-sang, naft va gaz dar sotoon-e ghooti konserv-and va joft-e hamishegi-shan `fuels` ast."
+       },
+       "math": "___ fuels  →  fossil fuels"
+      }
+     ],
+     "answer": {
+      "fa": "`fossil`",
+      "en": "`fossil`",
+      "tr": "`fossil`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: واژهٔ درست را بنویس: `Solar panels and wind turbines are clean technologies that protect our environment from heavy ___.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: write the right word: `Solar panels and wind turbines are clean technologies that protect our environment from heavy ___.` (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: vazhe-ye dorost ra benevis: `Solar panels and wind turbines are clean technologies that protect our environment from heavy ___.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: معنا «آلودگی» است و همه `pollute` را می‌شناسند، ولی بعد از `heavy` اسم لازم است، نه فعل.",
+        "en": "The twist: the meaning is pollution and everyone knows `pollute`, but after `heavy` a noun is needed, not a verb.",
+        "tr": "Pich-e emtehan: ma'na \"aloodegi\" ast va hame `pollute` ra mishenasand, vali ba'd az `heavy` esm lazem ast, na fe'l."
+       },
+       "math": "heavy + NOUN  →  pollution"
+      }
+     ],
+     "answer": {
+      "fa": "`pollution`",
+      "en": "`pollution`",
+      "tr": "`pollution`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`pollute` و `pollution` را جابه‌جا نکن: `do not pollute the air` (فعل) ولی `heavy pollution` (اسم).",
+      "en": "Do not swap `pollute` and `pollution`: `do not pollute the air` (verb) but `heavy pollution` (noun).",
+      "tr": "`pollute` va `pollution` ra jabeja nakon: `do not pollute the air` (fe'l) vali `heavy pollution` (esm)."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`renewable` یعنی «تمام‌نشدنی»، نه فقط «تمیز»؛ نفت هرگز `renewable` نیست، حتی اگر کم مصرف شود.",
+      "en": "`renewable` means \"never running out\", not just \"clean\"; oil is never `renewable`, even if used sparingly.",
+      "tr": "`renewable` ya'ni \"tamam-nashodani\", na faghat \"tamiz\"; naft hargez `renewable` nist, hatta agar kam masraf shavad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 903
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 920
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 932
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 939
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 944
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 905
+    }
+   ]
+  }
+ ]
+}
