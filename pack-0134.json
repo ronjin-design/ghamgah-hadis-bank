@@ -1,0 +1,776 @@
+{
+ "version": 134,
+ "format": 6,
+ "glossary": [
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-molecular-solid",
+   "term": {
+    "fa": "جامد مولکولی",
+    "en": "molecular solid",
+    "tr": "jamed-e molekuli"
+   },
+   "explain": {
+    "fa": "جامدی از مولکول‌های جدا که فقط با نیروهای ضعیف واندروالسی یا پیوند هیدروژنی کنار هم مانده‌اند، مثل یخ خشک (`CO2`)، ید (`I2`) و یخ. نقطهٔ ذوب پایین دارد و اغلب فرار است.",
+    "en": "A solid of separate molecules held together only by weak van der Waals forces or hydrogen bonds, such as dry ice (`CO2`), iodine (`I2`) and ice. It has a low melting point and is often volatile.",
+    "tr": "Jamedi az molekool-haye joda ke faghat ba niru-haye za'if-e van der Waals ya peyvand-e hidrozheni kenar-e ham mande-and, mesl-e yakh-e khoshk (`CO2`), yod (`I2`) va yakh. Noghte-ye zob-e payin darad va aghlab farar ast."
+   },
+   "analogy": {
+    "fa": "آجرهای لگوی محکم که فقط با آهن‌رباهای ضعیف به هم چسبیده‌اند.",
+    "en": "Solid Lego bricks stuck together only by weak magnets.",
+    "tr": "Ajor-haye Lego-ye mohkam ke faghat ba ahan-roba-haye za'if be ham chasbide-and."
+   },
+   "contrast": {
+    "fa": "ذوب جامد مولکولی پیوندهای درون مولکول را نمی‌شکند.",
+    "en": "Melting a molecular solid does not break the bonds inside the molecules.",
+    "tr": "Zob-e jamed-e molekooli peyvand-haye daroon-e molekool ra nemishekanad."
+   },
+   "unit": "chem-3-molecular-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-covalent-solid",
+   "term": {
+    "fa": "جامد کووالانسی",
+    "en": "covalent solid",
+    "tr": "jamed-e covalent"
+   },
+   "explain": {
+    "fa": "جامدی که همهٔ اتم‌هایش با پیوند اشتراکی در یک شبکهٔ سه‌بعدی پیوسته به هم وصل‌اند و مولکول جدا ندارد، مثل الماس، سیلیس (`SiO2`) و سیلیسیم. بسیار سخت است، نقطهٔ ذوب بسیار بالایی دارد و معمولاً نارساناست.",
+    "en": "A solid whose atoms are all joined by covalent bonds in one continuous 3D network, with no separate molecules, such as diamond, silica (`SiO2`) and silicon. It is very hard, has a very high melting point and usually does not conduct.",
+    "tr": "Jamedi ke hame-ye atom-hayash ba peyvand-e eshteraki dar yek shabake-ye se-bo'di-ye peyvaste be ham vasl-and va molekool-e joda nadarad, mesl-e almas, silis (`SiO2`) va silisiyom. Besiyar sakht ast, noghte-ye zob-e besiyar balayi darad va ma'moolan narasanast."
+   },
+   "matches": {
+    "en": [
+     "covalent network solid"
+    ]
+   },
+   "analogy": {
+    "fa": "داربستی که همهٔ اتصال‌هایش جوش خورده.",
+    "en": "A scaffold welded at every joint.",
+    "tr": "Darbasti ke hame-ye ettesal-hayash joosh khorde."
+   },
+   "contrast": {
+    "fa": "پیوند اشتراکی داشتن کافی نیست؛ جامد کووالانسی یعنی «شبکهٔ پیوسته».",
+    "en": "Having covalent bonds is not enough; a covalent solid means \"a continuous network\".",
+    "tr": "Peyvand-e eshteraki dashtan kafi nist; jamed-e kovalansi ya'ni \"shabake-ye peyvaste\"."
+   },
+   "unit": "chem-3-covalent-network"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-3d-network",
+   "term": {
+    "fa": "شبکهٔ سه‌بعدی",
+    "en": "3D network",
+    "tr": "shabakeh-ye se-bodi"
+   },
+   "explain": {
+    "fa": "چیدمانی که پیوندهای قوی در هر سه جهت فضا ادامه دارند و کل بلور یک «مولکول غول‌پیکر» است؛ مثل شبکهٔ سیلیس که در آن هر سیلیسیم به چهار اکسیژن وصل است.",
+    "en": "An arrangement in which strong bonds continue in all three directions of space, so the whole crystal is one \"giant molecule\"; like the silica network, in which each silicon is bonded to four oxygens.",
+    "tr": "Chidmani ke peyvand-haye ghavi dar har se jahat-e faza edame darand va kol-e bolur yek \"molekool-e ghool-peykar\" ast; mesl-e shabake-ye silis ke dar an har silisiyom be chahar oksizhen vasl ast."
+   },
+   "contrast": {
+    "fa": "شبکهٔ سه‌بعدی: الماس؛ لایه‌ای: گرافیت.",
+    "en": "3D network: diamond; layered: graphite.",
+    "tr": "Shabake-ye se-bo'di: almas; laye-i: gerafit."
+   },
+   "unit": "chem-3-covalent-network"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-covalent-bond",
+   "term": {
+    "fa": "پیوند اشتراکی",
+    "en": "covalent bond",
+    "tr": "peyvand-e eshteraki"
+   },
+   "explain": {
+    "fa": "پیوندی که در آن دو اتم یک یا چند جفت الکترون را به اشتراک می‌گذارند. در جامد کووالانسی همین پیوندهای قوی کل شبکه را نگه می‌دارند.",
+    "en": "A bond in which two atoms share one or more pairs of electrons. In a covalent solid these strong bonds hold the whole network together.",
+    "tr": "Peyvandi ke dar an do atom yek ya chand joft elektron ra be eshterak migozarand. Dar jamed-e kovalansi hamin peyvand-haye ghavi kol-e shabake ra negah midarand."
+   },
+   "contrast": {
+    "fa": "پیوند اشتراکی «درون» مولکول است؛ نیروی واندروالسی «میان» مولکول‌ها.",
+    "en": "A covalent bond is \"within\" a molecule; a van der Waals force acts \"between\" molecules.",
+    "tr": "Peyvand-e eshteraki \"daroon\"-e molekool ast; niru-ye van der Waals \"miyan\"-e molekool-ha."
+   },
+   "unit": "chem-3-covalent-network"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-silica",
+   "term": {
+    "fa": "سیلیس",
+    "en": "silica",
+    "tr": "silica"
+   },
+   "explain": {
+    "fa": "سیلیسیم دی‌اکسید (`SiO2`)، مادهٔ اصلی کوارتز و ماسه. جامد کووالانسی است: هر سیلیسیم با چهار اکسیژن و هر اکسیژن با دو سیلیسیم پیوند دارد، پس نقطهٔ ذوبش بسیار بالاست.",
+    "en": "Silicon dioxide (`SiO2`), the main substance of quartz and sand. It is a covalent network solid: each silicon bonds to four oxygens and each oxygen to two silicons, so its melting point is very high.",
+    "tr": "Silisiyom di-oksid (`SiO2`), made-ye asli-ye kvarts va mase. Jamed-e kovalansi ast: har silisiyom ba chahar oksizhen va har oksizhen ba do silisiyom peyvand darad, pas noghte-ye zobash besiyar balast."
+   },
+   "contrast": {
+    "fa": "`CO2` مولکولی و گاز است؛ `SiO2` شبکه و جامد سخت.",
+    "en": "`CO2` is molecular and a gas; `SiO2` is a network and a hard solid.",
+    "tr": "`CO2` molekooli va gaz ast; `SiO2` shabake va jamed-e sakht."
+   },
+   "unit": "chem-3-covalent-network"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-high-melting-point",
+   "term": {
+    "fa": "نقطهٔ ذوب بالا",
+    "en": "high melting point",
+    "tr": "noghteh-ye zob-e bala"
+   },
+   "explain": {
+    "fa": "نشانهٔ اینکه برای ذوب باید پیوندهای قوی (اشتراکی، یونی یا فلزی) شکسته شوند، نه نیروهای ضعیف بین‌مولکولی. جامدهای کووالانسی بالاترین نقطه‌های ذوب را دارند.",
+    "en": "A sign that melting requires breaking strong bonds (covalent, ionic or metallic) rather than weak intermolecular forces. Covalent network solids have the highest melting points.",
+    "tr": "Neshane-ye inke baraye zob bayad peyvand-haye ghavi (eshteraki, yooni ya felezi) shekaste shavand, na niru-haye za'if-e beyn-e molekooli. Jamed-haye kovalansi bala-tarin noghte-haye zob ra darand."
+   },
+   "unit": "chem-3-covalent-network"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-carbon-allotrope",
+   "term": {
+    "fa": "دگرشکل کربن",
+    "en": "carbon allotrope",
+    "tr": "carbon allotrope"
+   },
+   "explain": {
+    "fa": "شکل‌های گوناگون یک عنصر با چیدمان متفاوت اتم‌ها. الماس و گرافیت دو دگرشکل کربن‌اند: هر دو فقط کربن‌اند، ولی ویژگی‌هایشان کاملاً فرق دارد.",
+    "en": "Different forms of one element with different atomic arrangements. Diamond and graphite are two allotropes of carbon: both are pure carbon, but their properties are completely different.",
+    "tr": "Shekl-haye goonagoon-e yek onsor ba chidman-e motafavet-e atom-ha. Almas va gerafit do degarshekl-e karbon-and: har do faghat karbon-and, vali vizhegi-hayeshan kamelan fargh darad."
+   },
+   "analogy": {
+    "fa": "یک مشت آجر که یک بار برج و یک بار پیاده‌رو ساخته‌اند.",
+    "en": "The same bricks built once into a tower and once into a pavement.",
+    "tr": "Yek mosht ajor ke yek bar borj va yek bar piyade-ro sakhte-and."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-diamond",
+   "term": {
+    "fa": "الماس",
+    "en": "diamond",
+    "tr": "almas"
+   },
+   "explain": {
+    "fa": "دگرشکل کربن که در آن هر اتم با چهار کربن دیگر پیوند اشتراکی دارد و شبکهٔ سه‌بعدی محکمی می‌سازد: سخت‌ترین مادهٔ طبیعی، نارسانای برق، ولی رسانای بسیار خوب گرما.",
+    "en": "The carbon allotrope in which each atom has covalent bonds to four other carbons, forming a rigid 3D network: the hardest natural substance, an electrical insulator, but a very good conductor of heat.",
+    "tr": "Degarshekl-e karbon ke dar an har atom ba chahar karbon-e digar peyvand-e eshteraki darad va shabake-ye se-bo'di-ye mohkami misazad: sakht-tarin made-ye tabi'i, narasana-ye barq, vali rasana-ye besiyar khoob-e garma."
+   },
+   "contrast": {
+    "fa": "در `12` گرم الماس `2` مول پیوند `C−C` هست.",
+    "en": "There are `2` mol of `C−C` bonds in `12` g of diamond.",
+    "tr": "Dar `12` geram almas `2` mol peyvand-e `C−C` hast."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-graphite",
+   "term": {
+    "fa": "گرافیت",
+    "en": "graphite",
+    "tr": "graphite"
+   },
+   "explain": {
+    "fa": "دگرشکل کربن با لایه‌های تخت شش‌ضلعی: هر کربن سه پیوند دارد و الکترون چهارمش غیرمستقر است، پس رسانای برق است. لایه‌ها با نیروی ضعیف روی هم می‌لغزند، پس نرم است (مداد، روان‌کننده).",
+    "en": "The carbon allotrope of flat hexagonal layers: each carbon has three bonds and its fourth electron is delocalized, so it conducts electricity. The layers slide over each other on weak forces, so it is soft (pencils, lubricants).",
+    "tr": "Degarshekl-e karbon ba laye-haye takht-e shesh-zel'i: har karbon se peyvand darad va elektron-e chaharomash gheyr-e mostaghar ast, pas rasana-ye barq ast. Laye-ha ba niru-ye za'if rooye ham milaghzand, pas narm ast (medad, ravan-konande)."
+   },
+   "analogy": {
+    "fa": "دسته‌ای از برگه‌های کاغذ که روی هر برگه یک بزرگراه الکترون هست.",
+    "en": "A stack of paper sheets with an electron highway on each sheet.",
+    "tr": "Daste-i az barge-haye kaghaz ke rooye har barge yek bozorgrah-e elektron hast."
+   },
+   "contrast": {
+    "fa": "نرمی گرافیت از نیروی ضعیف «میان» لایه‌هاست؛ پیوندهای درون لایه بسیار قوی‌اند.",
+    "en": "Graphite's softness comes from the weak forces \"between\" layers; the bonds within a layer are very strong.",
+    "tr": "Narmi-ye gerafit az niru-ye za'if-e \"miyan\"-e laye-hast; peyvand-haye daroon-e laye besiyar ghavi-and."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-graphite-conductivity",
+   "term": {
+    "fa": "رسانایی گرافیت",
+    "en": "graphite conductivity",
+    "tr": "rasanayi-ye graphite"
+   },
+   "explain": {
+    "fa": "گرافیت با اینکه نافلز است برق را رسانا می‌کند، چون هر کربن یک الکترون غیرمستقر دارد که در طول لایه آزادانه حرکت می‌کند. الماس این الکترون آزاد را ندارد و نارساناست.",
+    "en": "Graphite conducts electricity although it is a non-metal, because each carbon has one delocalized electron that moves freely along the layer. Diamond has no such free electron and is an insulator.",
+    "tr": "Gerafit ba inke nafelez ast barq ra rasana mikonad, chon har karbon yek elektron-e gheyr-e mostaghar darad ke dar tool-e laye azadane harekat mikonad. Almas in elektron-e azad ra nadarad va narasanast."
+   },
+   "contrast": {
+    "fa": "الماس: نارسانا؛ گرافیت: رسانا.",
+    "en": "Diamond: insulator; graphite: conductor.",
+    "tr": "Almas: narasana; gerafit: rasana."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-delocalized-electron",
+   "term": {
+    "fa": "الکترون غیرمستقر",
+    "en": "delocalized electron",
+    "tr": "electron-e gheyr-e mostaghar"
+   },
+   "explain": {
+    "fa": "الکترونی که به یک پیوند یا اتم خاص بسته نیست و می‌تواند در بخش بزرگی از ساختار حرکت کند؛ مثل الکترون چهارم کربن در گرافیت یا الکترون‌های دریای الکترونی فلزها. همین الکترون‌ها رسانایی برق را ممکن می‌کنند.",
+    "en": "An electron not tied to one particular bond or atom, free to move over a large part of the structure, like carbon's fourth electron in graphite or the electrons of a metal's electron sea. These electrons make electrical conduction possible.",
+    "tr": "Elektroni ke be yek peyvand ya atom-e khas baste nist va mitavanad dar bakhsh-e bozorgi az sakhtar harekat konad; mesl-e elektron-e chaharom-e karbon dar gerafit ya elektron-haye darya-ye elektroni-ye felez-ha. Hamin elektron-ha rasanayi-ye barq ra momken mikonand."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-conductivity",
+   "term": {
+    "fa": "رسانایی الکتریکی",
+    "en": "conductivity",
+    "tr": "rasanayi-ye electriki"
+   },
+   "explain": {
+    "fa": "توانایی رساندن جریان برق؛ نیاز به ذرهٔ بار‌دار «متحرک» دارد: الکترون آزاد (فلزها، گرافیت) یا یون آزاد (نمک مذاب یا محلول).",
+    "en": "The ability to carry an electric current; it needs \"mobile\" charged particles: free electrons (metals, graphite) or free ions (molten or dissolved salts).",
+    "tr": "Tavanayi-ye resandan-e jaryan-e barq; niyaz be zarre-ye bar-dar-e \"motaharrek\" darad: elektron-e azad (felez-ha, gerafit) ya yoon-e azad (namak-e mozab ya mahlool)."
+   },
+   "contrast": {
+    "fa": "رسانایی برق و رسانایی گرما همیشه با هم نیستند؛ الماس دومی را دارد و اولی را نه.",
+    "en": "Electrical and thermal conductivity do not always go together; diamond has the second but not the first.",
+    "tr": "Rasanayi-ye barq va rasanayi-ye garma hamishe ba ham nistand; almas dovvomi ra darad va avvali ra na."
+   },
+   "unit": "chem-3-diamond-graphite"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ionic-solid",
+   "term": {
+    "fa": "جامد یونی",
+    "en": "ionic solid",
+    "tr": "jamed-e yoni"
+   },
+   "explain": {
+    "fa": "جامدی از یون‌های مثبت و منفی که یک‌درمیان در شبکه چیده شده‌اند، مثل `NaCl`. سخت و شکننده است، نقطهٔ ذوب بالایی دارد و فقط در حالت مذاب یا محلول برق را رسانا می‌کند.",
+    "en": "A solid of positive and negative ions alternating in a lattice, such as `NaCl`. It is hard and brittle, has a high melting point and conducts electricity only when molten or dissolved.",
+    "tr": "Jamedi az yoon-haye mosbat va manfi ke yek-dar-miyan dar shabake chide shode-and, mesl-e `NaCl`. Sakht va shekanande ast, noghte-ye zob-e balayi darad va faghat dar halat-e mozab ya mahlool barq ra rasana mikonad."
+   },
+   "analogy": {
+    "fa": "صفحهٔ شطرنجی از آهن‌رباها: محکم، ولی با یک لغزش می‌شکند.",
+    "en": "A chessboard of magnets: strong, but one slip shatters it.",
+    "tr": "Safhe-ye shatranji az ahan-roba-ha: mohkam, vali ba yek laghzesh mishekanad."
+   },
+   "contrast": {
+    "fa": "جامد یونی یون دارد ولی در حالت جامد رسانا نیست؛ یون‌ها قفل‌اند.",
+    "en": "An ionic solid contains ions but does not conduct as a solid; the ions are locked in place.",
+    "tr": "Jamed-e yooni yoon darad vali dar halat-e jamed rasana nist; yoon-ha ghofl-and."
+   },
+   "unit": "chem-3-ionic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electrostatic-attraction",
+   "term": {
+    "fa": "جاذبهٔ الکترواستاتیکی",
+    "en": "electrostatic attraction",
+    "tr": "jazebeh-ye electrostatic"
+   },
+   "explain": {
+    "fa": "کشش میان بارهای ناهم‌نام. در جامد یونی همین نیرو یون‌های مثبت و منفی را محکم در شبکه نگه می‌دارد؛ هرچه بارها بیشتر و یون‌ها نزدیک‌تر، قوی‌تر است.",
+    "en": "The pull between opposite charges. In an ionic solid this force holds the positive and negative ions firmly in the lattice; it is stronger the larger the charges and the closer the ions.",
+    "tr": "Keshesh miyan-e bar-haye naham-nam. Dar jamed-e yooni hamin niru yoon-haye mosbat va manfi ra mohkam dar shabake negah midarad; harche bar-ha bishtar va yoon-ha nazdik-tar, ghavi-tar ast."
+   },
+   "unit": "chem-3-ionic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-lattice-energy",
+   "term": {
+    "fa": "آنتالپی فروپاشی شبکه",
+    "en": "lattice energy",
+    "tr": "antalpi-ye foroopashi-ye shabakeh"
+   },
+   "explain": {
+    "fa": "انرژی لازم برای فروپاشی یک مول جامد یونی به یون‌های گازی جدا. با بار بیشتر و اندازهٔ کوچک‌تر یون‌ها بزرگ‌تر می‌شود؛ برای همین `MgO` بسیار بیشتر از `NaCl` است.",
+    "en": "The energy needed to break one mole of an ionic solid into separate gaseous ions. It grows with larger ionic charges and smaller ions, which is why `MgO`'s is far greater than `NaCl`'s.",
+    "tr": "Enerzhi-ye lazem baraye foroopashi-ye yek mol jamed-e yooni be yoon-haye gazi-ye joda. Ba bar-e bishtar va andaze-ye koochak-tar-e yoon-ha bozorg-tar mishavad; baraye hamin `MgO` besiyar bishtar az `NaCl` ast."
+   },
+   "contrast": {
+    "fa": "اثر بار معمولاً از اثر اندازه قوی‌تر است.",
+    "en": "The effect of charge is usually stronger than the effect of size.",
+    "tr": "Asar-e bar ma'moolan az asar-e andaze ghavi-tar ast."
+   },
+   "unit": "chem-3-ionic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-metallic-solid",
+   "term": {
+    "fa": "جامد فلزی",
+    "en": "metallic solid",
+    "tr": "jamed-e felezi"
+   },
+   "explain": {
+    "fa": "جامدی که در آن کاتیون‌های فلز در شبکهٔ منظمی نشسته‌اند و الکترون‌های ظرفیتشان مثل دریایی میان آن‌ها جاری است. رسانا، چکش‌خوار و براق است.",
+    "en": "A solid in which metal cations sit in an ordered lattice and their valence electrons flow between them like a sea. It conducts, is malleable and is shiny.",
+    "tr": "Jamedi ke dar an katiyon-haye felez dar shabake-ye monazzami neshaste-and va elektron-haye zarfiyateshan mesl-e daryayi miyan-e an-ha jari ast. Rasana, chakosh-khar va barragh ast."
+   },
+   "analogy": {
+    "fa": "کاتیون‌هایی که در دریای الکترون شناورند.",
+    "en": "Cations floating in a sea of electrons.",
+    "tr": "Katiyon-hayi ke dar darya-ye elektron shenavar-and."
+   },
+   "unit": "chem-3-metallic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-metallic-properties",
+   "term": {
+    "fa": "ویژگی‌های فلزها",
+    "en": "metallic properties",
+    "tr": "vizhegi-haye felez-ha"
+   },
+   "explain": {
+    "fa": "رسانایی برق و گرما (در حالت جامد و مذاب)، چکش‌خواری و شکل‌پذیری، و جلای فلزی؛ همه از دریای الکترون‌های غیرمستقر می‌آیند. هنگام ضربه، لایه‌ها می‌لغزند و دریای الکترون پیوند را نگه می‌دارد.",
+    "en": "Electrical and thermal conductivity (solid and molten), malleability and ductility, and metallic lustre; all come from the sea of delocalized electrons. When struck, layers slide and the electron sea keeps them bonded.",
+    "tr": "Rasanayi-ye barq va garma (dar halat-e jamed va mozab), chakosh-khari va shekl-paziri, va jala-ye felezi; hame az darya-ye elektron-haye gheyr-e mostaghar miayand. Hengam-e zarbe, laye-ha milaghzand va darya-ye elektron peyvand ra negah midarad."
+   },
+   "analogy": {
+    "fa": "تیله‌هایی در عسل: جابه‌جا می‌شوند ولی از هم جدا نمی‌شوند.",
+    "en": "Marbles in honey: they move about but do not come apart.",
+    "tr": "Tile-hayi dar asal: jabeja mishavand vali az ham joda nemishavand."
+   },
+   "contrast": {
+    "fa": "فلز با چکش پهن می‌شود؛ جامد یونی خرد می‌شود.",
+    "en": "A metal flattens under the hammer; an ionic solid shatters.",
+    "tr": "Felez ba chakosh pahn mishavad; jamed-e yooni khord mishavad."
+   },
+   "unit": "chem-3-metallic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-electron-sea",
+   "term": {
+    "fa": "دریای الکترونی",
+    "en": "electron sea model",
+    "tr": "darya-ye electroni"
+   },
+   "explain": {
+    "fa": "مدلی که پیوند فلزی را با کاتیون‌های فلز در دریایی از الکترون‌های ظرفیت غیرمستقر توضیح می‌دهد. حرکت آزاد این الکترون‌ها رسانایی بالا و چکش‌خواری فلزها را توضیح می‌دهد.",
+    "en": "The model that explains metallic bonding as metal cations in a sea of delocalized valence electrons. The free movement of these electrons explains metals' high conductivity and malleability.",
+    "tr": "Modeli ke peyvand-e felezi ra ba katiyon-haye felez dar daryayi az elektron-haye zarfiyat-e gheyr-e mostaghar tozih midahad. Harekat-e azad-e in elektron-ha rasanayi-ye bala va chakosh-khari-ye felez-ha ra tozih midahad."
+   },
+   "contrast": {
+    "fa": "در فلز الکترون‌ها حرکت می‌کنند؛ کاتیون‌ها سر جایشان می‌مانند.",
+    "en": "In a metal the electrons move; the cations stay in place.",
+    "tr": "Dar felez elektron-ha harekat mikonand; katiyon-ha sar-e jayeshan mimanand."
+   },
+   "unit": "chem-3-metallic-solids"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-activated-complex",
+   "term": {
+    "fa": "پیچیدهٔ فعال‌شده",
+    "en": "activated complex",
+    "tr": "pichideh-ye faal-shodeh"
+   },
+   "explain": {
+    "fa": "آرایش ناپایدار و پرانرژی ذره‌ها در قلهٔ نمودار انرژی، جایی که پیوندهای قدیمی نیمه‌شکسته و پیوندهای تازه نیمه‌ساخته‌اند. انرژی آن منهای انرژی واکنش‌دهنده‌ها، `Ea` رفت است.",
+    "en": "The unstable, high-energy arrangement of particles at the peak of the energy diagram, where old bonds are half broken and new ones half formed. Its energy minus the reactants' energy is the forward `Ea`.",
+    "tr": "Arayesh-e napaydar va por-enerzhi-ye zarre-ha dar ghelle-ye nemoodar-e enerzhi, jayi ke peyvand-haye ghadimi nime-shekaste va peyvand-haye taze nime-sakhte-and. Enerzhi-ye an menha-ye enerzhi-ye vakonesh-dahande-ha, `Ea`-ye raft ast."
+   },
+   "analogy": {
+    "fa": "توپی که درست روی نوک تپه ایستاده: به هر دو سو می‌تواند بغلتد.",
+    "en": "A ball balanced on the very top of the hill: it can roll either way.",
+    "tr": "Toopi ke dorost rooye nok-e tappe istade: be har do soo mitavanad beghaltad."
+   },
+   "unit": "chem-4-rate-collisions"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-activation-energy",
+   "term": {
+    "fa": "انرژی فعال‌سازی",
+    "en": "activation energy",
+    "tr": "enerji-ye faal-sazi"
+   },
+   "explain": {
+    "fa": "`Ea`: کمترین انرژی لازم برای اینکه واکنش‌دهنده‌ها به پیچیدهٔ فعال برسند و واکنش آغاز شود. `Ea` کمتر یعنی واکنش سریع‌تر.",
+    "en": "`Ea`: the minimum energy needed for the reactants to reach the activated complex and for the reaction to start. A lower `Ea` means a faster reaction.",
+    "tr": "`Ea`: kamtarin enerzhi-ye lazem baraye inke vakonesh-dahande-ha be pichide-ye fa'al beresand va vakonesh aghaz shavad. `Ea`-ye kamtar ya'ni vakonesh-e sari'-tar."
+   },
+   "analogy": {
+    "fa": "ارتفاع تپه‌ای که توپ باید از آن بگذرد.",
+    "en": "The height of the hill the ball must get over.",
+    "tr": "Ertefa'-e tappe-i ke toop bayad az an begozarad."
+   },
+   "contrast": {
+    "fa": "`Ea` تا قله است؛ فاصلهٔ واکنش‌دهنده تا فراورده `ΔH` است.",
+    "en": "`Ea` runs to the peak; the gap from reactants to products is `ΔH`.",
+    "tr": "`Ea` ta ghelle ast; fasele-ye vakonesh-dahande ta faravarde `ΔH` ast."
+   },
+   "unit": "chem-4-rate-collisions"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-collision-theory",
+   "term": {
+    "fa": "نظریهٔ برخورد",
+    "en": "collision theory",
+    "tr": "nazariyeh-ye barkhord"
+   },
+   "explain": {
+    "fa": "ذره‌ها فقط با برخورد واکنش می‌دهند، و فقط برخوردی «مؤثر» است که جهت مناسب و انرژی دست‌کم برابر `Ea` داشته باشد. هرچه برخوردهای مؤثر در هر ثانیه بیشتر، سرعت بیشتر.",
+    "en": "Particles react only by colliding, and only a collision with the right orientation and at least `Ea` of energy is \"effective\". The more effective collisions per second, the faster the reaction.",
+    "tr": "Zarre-ha faghat ba barkhord vakonesh midahand, va faghat barkhordi \"mo'asser\" ast ke jahat-e monaseb va enerzhi-ye dast-e kam barabar-e `Ea` dashte bashad. Harche barkhord-haye mo'asser dar har sanie bishtar, sor'at bishtar."
+   },
+   "analogy": {
+    "fa": "در راهروی شلوغ، آدم‌ها بیشتر به هم می‌خورند.",
+    "en": "In a crowded corridor, people bump into each other more often.",
+    "tr": "Dar rahrow-e sholoogh, adam-ha bishtar be ham mikhorand."
+   },
+   "unit": "chem-4-rate-collisions"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-temperature-rate",
+   "term": {
+    "fa": "اثر دما بر سرعت",
+    "en": "temperature effect on rate",
+    "tr": "asar-e dama bar sorat"
+   },
+   "explain": {
+    "fa": "افزایش دما سرعت واکنش را زیاد می‌کند، بیشتر به این دلیل که کسر ذره‌هایی که انرژی بیشتر از `Ea` دارند به‌شدت زیاد می‌شود؛ افزایش شمار برخوردها سهم کوچک‌تری دارد.",
+    "en": "Raising the temperature speeds up a reaction, mainly because the fraction of particles with energy above `Ea` rises sharply; the increase in the number of collisions plays a smaller part.",
+    "tr": "Afzayesh-e dama sor'at-e vakonesh ra ziyad mikonad, bishtar be in dalil ke kasr-e zarre-hayi ke enerzhi-ye bishtar az `Ea` darand be-shedat ziyad mishavad; afzayesh-e shomar-e barkhord-ha sahm-e koochak-tari darad."
+   },
+   "contrast": {
+    "fa": "گرم کردن سرعت هر دو واکنش رفت و برگشت را زیاد می‌کند.",
+    "en": "Heating speeds up both the forward and reverse reactions.",
+    "tr": "Garm kardan sor'at-e har do vakonesh-e raft va bargasht ra ziyad mikonad."
+   },
+   "unit": "chem-4-rate-collisions"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-catalyst",
+   "term": {
+    "fa": "کاتالیزگر",
+    "en": "catalyst",
+    "tr": "catalyzgar"
+   },
+   "explain": {
+    "fa": "ماده‌ای که با فراهم کردن مسیر تازه‌ای با `Ea` کمتر سرعت واکنش را زیاد می‌کند و خودش مصرف نمی‌شود. `ΔH` و ثابت تعادل را تغییر نمی‌دهد.",
+    "en": "A substance that speeds up a reaction by providing a new pathway with a lower `Ea`, and is not used up itself. It does not change `ΔH` or the equilibrium constant.",
+    "tr": "Made-i ke ba faraham kardan-e masir-e taze-i ba `Ea`-ye kamtar sor'at-e vakonesh ra ziyad mikonad va khodash masraf nemishavad. `ΔH` va sabet-e ta'adol ra taghyir nemidahad."
+   },
+   "analogy": {
+    "fa": "تونلی از میان تپه: راه کوتاه‌تر، مبدأ و مقصد همان.",
+    "en": "A tunnel through the hill: a shorter route, the same start and finish.",
+    "tr": "Tooneli az miyan-e tappe: rah-e kootah-tar, mabda' va maghsad haman."
+   },
+   "contrast": {
+    "fa": "کاتالیزگر `Ea` رفت و برگشت را به یک اندازه کم می‌کند.",
+    "en": "A catalyst lowers the forward and reverse `Ea` by the same amount.",
+    "tr": "Kataliz-gar `Ea`-ye raft va bargasht ra be yek andaze kam mikonad."
+   },
+   "unit": "chem-4-catalysts"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-catalyst-equilibrium",
+   "term": {
+    "fa": "اثر کاتالیزگر بر تعادل",
+    "en": "catalyst effect on equilibrium",
+    "tr": "asar-e catalyzgar bar taadol"
+   },
+   "explain": {
+    "fa": "کاتالیزگر سرعت رفت و برگشت را به یک نسبت زیاد می‌کند، پس تعادل را جابه‌جا نمی‌کند و غلظت‌های تعادلی و `K` را تغییر نمی‌دهد؛ فقط سامانه زودتر به تعادل می‌رسد.",
+    "en": "A catalyst raises the forward and reverse rates in the same proportion, so it does not shift the equilibrium or change the equilibrium concentrations or `K`; the system just reaches equilibrium sooner.",
+    "tr": "Kataliz-gar sor'at-e raft va bargasht ra be yek nesbat ziyad mikonad, pas ta'adol ra jabeja nemikonad va ghelzat-haye ta'adoli va `K` ra taghyir nemidahad; faghat samane zoodtar be ta'adol miresad."
+   },
+   "contrast": {
+    "fa": "کاتالیزگر مقدار فراوردهٔ تعادلی را بیشتر نمی‌کند.",
+    "en": "A catalyst does not increase the amount of product at equilibrium.",
+    "tr": "Kataliz-gar meghdar-e faravarde-ye ta'adoli ra bishtar nemikonad."
+   },
+   "unit": "chem-4-catalysts"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-reversible-reaction",
+   "term": {
+    "fa": "واکنش برگشت‌پذیر",
+    "en": "reversible reaction",
+    "tr": "vakonesh-e bargasht-pazir"
+   },
+   "explain": {
+    "fa": "واکنشی که فراورده‌هایش می‌توانند با هم واکنش دهند و دوباره واکنش‌دهنده‌های اولیه را بسازند؛ با `⇌` نوشته می‌شود و در ظرف بسته به تعادل می‌رسد.",
+    "en": "A reaction whose products can react together to re-form the original reactants; it is written with `⇌` and reaches equilibrium in a closed vessel.",
+    "tr": "Vakoneshi ke faravarde-hayash mitavanand ba ham vakonesh dahand va dobare vakonesh-dahande-haye avvaliye ra besazand; ba `⇌` neveshte mishavad va dar zarf-e baste be ta'adol miresad."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-chemical-equilibrium",
+   "term": {
+    "fa": "تعادل شیمیایی",
+    "en": "chemical equilibrium",
+    "tr": "taadol-e shimiayi"
+   },
+   "explain": {
+    "fa": "حالتی در ظرف بسته که سرعت واکنش رفت با سرعت برگشت برابر شده است؛ هر دو واکنش ادامه دارند (تعادل پویا)، ولی غلظت‌ها دیگر تغییر نمی‌کنند.",
+    "en": "The state in a closed vessel where the forward rate equals the reverse rate; both reactions continue (dynamic equilibrium), but the concentrations no longer change.",
+    "tr": "Halati dar zarf-e baste ke sor'at-e vakonesh-e raft ba sor'at-e bargasht barabar shode ast; har do vakonesh edame darand (ta'adol-e pooya), vali ghelzat-ha digar taghyir nemikonand."
+   },
+   "analogy": {
+    "fa": "دو پلهٔ برقی برعکس هم: آدم‌ها جابه‌جا می‌شوند، شمار هر طبقه ثابت است.",
+    "en": "Two escalators running opposite ways: people keep moving, the number on each floor stays fixed.",
+    "tr": "Do pelle-ye barghi bar-aks-e ham: adam-ha jabeja mishavand, shomar-e har tabaghe sabet ast."
+   },
+   "contrast": {
+    "fa": "در تعادل غلظت‌ها «ثابت»اند، نه «برابر».",
+    "en": "At equilibrium the concentrations are \"constant\", not \"equal\".",
+    "tr": "Dar ta'adol ghelzat-ha \"sabet\"-and, na \"barabar\"."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-equilibrium-constant",
+   "term": {
+    "fa": "ثابت تعادل",
+    "en": "equilibrium constant",
+    "tr": "sabet-e taadol"
+   },
+   "explain": {
+    "fa": "`K`: نسبت غلظت‌های تعادلی فراورده‌ها به واکنش‌دهنده‌ها، هر کدام به توان ضریبش. در دمای ثابت مقدارش ثابت است و فقط با تغییر دما عوض می‌شود.",
+    "en": "`K`: the ratio of the equilibrium concentrations of products to reactants, each raised to its coefficient. At constant temperature its value is fixed; it changes only when the temperature changes.",
+    "tr": "`K`: nesbat-e ghelzat-haye ta'adoli-ye faravarde-ha be vakonesh-dahande-ha, har kodam be tavan-e zaribash. Dar dama-ye sabet meghdarash sabet ast va faghat ba taghyir-e dama avaz mishavad."
+   },
+   "contrast": {
+    "fa": "تغییر غلظت یا فشار تعادل را جابه‌جا می‌کند ولی `K` را نه.",
+    "en": "Changing concentration or pressure shifts the equilibrium but not `K`.",
+    "tr": "Taghyir-e ghelzat ya feshar ta'adol ra jabeja mikonad vali `K` ra na."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-k-value",
+   "term": {
+    "fa": "مقدار ثابت تعادل",
+    "en": "equilibrium constant value",
+    "tr": "meghdar-e sabet-e taadol"
+   },
+   "explain": {
+    "fa": "اندازهٔ `K` می‌گوید واکنش تا کجا پیش رفته: `K` بسیار بزرگ یعنی در تعادل فراورده‌ها غالب‌اند؛ `K` بسیار کوچک یعنی واکنش‌دهنده‌ها. این مقدار فقط با دما تغییر می‌کند.",
+    "en": "The size of `K` tells you how far the reaction goes: a very large `K` means products dominate at equilibrium; a very small `K` means reactants do. This value changes only with temperature.",
+    "tr": "Andaze-ye `K` migooyad vakonesh ta koja pish rafte: `K`-e besiyar bozorg ya'ni dar ta'adol faravarde-ha ghaleb-and; `K`-e besiyar koochak ya'ni vakonesh-dahande-ha. In meghdar faghat ba dama taghyir mikonad."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-small-k",
+   "term": {
+    "fa": "ثابت تعادل کوچک",
+    "en": "small equilibrium constant",
+    "tr": "sabet-e taadol-e koochak"
+   },
+   "explain": {
+    "fa": "`K` نزدیک صفر یعنی صورت کسر (فراورده‌ها) بسیار کوچک‌تر از مخرج است: در تعادل، واکنش‌دهنده‌ها غالب‌اند و واکنش به‌سختی پیش رفته.",
+    "en": "A `K` close to zero means the numerator (products) is much smaller than the denominator: at equilibrium, reactants dominate and the reaction has barely gone forward.",
+    "tr": "`K`-e nazdik-e sefr ya'ni soorat-e kasr (faravarde-ha) besiyar koochak-tar az makhraj ast: dar ta'adol, vakonesh-dahande-ha ghaleb-and va vakonesh be-sakhti pish rafte."
+   },
+   "contrast": {
+    "fa": "`K` کوچک ربطی به سرعت ندارد؛ فقط از مقدار در تعادل می‌گوید.",
+    "en": "A small `K` says nothing about speed; it only tells you the amounts at equilibrium.",
+    "tr": "`K`-e koochak rabti be sor'at nadarad; faghat az meghdar dar ta'adol migooyad."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-k-expression",
+   "term": {
+    "fa": "رابطه تعادل",
+    "en": "K expression",
+    "tr": "rabeteh-ye taadol"
+   },
+   "explain": {
+    "fa": "عبارت ثابت تعادل: برای `aA + bB ⇌ cC + dD`، `K = [C]^c [D]^d / ([A]^a [B]^b)`. ضریب‌ها توان می‌شوند و جامدها و مایع‌های خالص حذف می‌شوند.",
+    "en": "The equilibrium-constant expression: for `aA + bB ⇌ cC + dD`, `K = [C]^c [D]^d / ([A]^a [B]^b)`. Coefficients become powers, and solids and pure liquids are left out.",
+    "tr": "Ebarat-e sabet-e ta'adol: baraye `aA + bB ⇌ cC + dD`, `K = [C]^c [D]^d / ([A]^a [B]^b)`. Zarib-ha tavan mishavand va jamed-ha va maye'-haye khales hazf mishavand."
+   },
+   "contrast": {
+    "fa": "ضریب در عبارت `K` «توان» است، نه ضریب ضرب.",
+    "en": "A coefficient is a \"power\" in the `K` expression, not a multiplier.",
+    "tr": "Zarib dar ebarat-e `K` \"tavan\" ast, na zarib-e zarb."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-equilibrium-concentration",
+   "term": {
+    "fa": "غلظت تعادلی",
+    "en": "equilibrium concentration",
+    "tr": "ghelzat-e taadoli"
+   },
+   "explain": {
+    "fa": "غلظت (مول بر لیتر) هر گونه پس از رسیدن به تعادل؛ فقط همین غلظت‌ها در عبارت `K` جایگذاری می‌شوند. اگر مول داده شده، اول بر حجم ظرف تقسیم کن.",
+    "en": "The concentration (moles per litre) of each species once equilibrium is reached; only these concentrations go into the `K` expression. If moles are given, divide by the vessel's volume first.",
+    "tr": "Ghelzat (mol bar litr)-e har goone pas az residan be ta'adol; faghat hamin ghelzat-ha dar ebarat-e `K` jaygozari mishavand. Agar mol dade shode, avval bar hajm-e zarf taghsim kon."
+   },
+   "contrast": {
+    "fa": "مقدار اولیه جای غلظت تعادلی را نمی‌گیرد.",
+    "en": "An initial amount cannot stand in for an equilibrium concentration.",
+    "tr": "Meghdar-e avvaliye ja-ye ghelzat-e ta'adoli ra nemigirad."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-gaseous-products",
+   "term": {
+    "fa": "فرآورده‌های گازی",
+    "en": "gaseous products",
+    "tr": "faravardeh-haye gazi"
+   },
+   "explain": {
+    "fa": "در عبارت `K` یک تعادل گازی همگن، غلظت فراورده‌های گازی در «صورت» و غلظت واکنش‌دهنده‌ها در «مخرج» می‌آید.",
+    "en": "In the `K` expression for a homogeneous gaseous equilibrium, the concentrations of the gaseous products go in the \"numerator\" and those of the reactants in the \"denominator\".",
+    "tr": "Dar ebarat-e `K`-e yek ta'adol-e gazi-ye hamgen, ghelzat-e faravarde-haye gazi dar \"soorat\" va ghelzat-e vakonesh-dahande-ha dar \"makhraj\" miayad."
+   },
+   "contrast": {
+    "fa": "فراورده بالا، واکنش‌دهنده پایین.",
+    "en": "Products on top, reactants underneath.",
+    "tr": "Faravarde bala, vakonesh-dahande payin."
+   },
+   "unit": "chem-4-equilibrium-constant"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-le-chatelier",
+   "term": {
+    "fa": "اصل لوشاتلیه",
+    "en": "Le Chatelier's principle",
+    "tr": "asl-e Le Chatelier"
+   },
+   "explain": {
+    "fa": "اگر به سامانه‌ای در حال تعادل تغییری (غلظت، فشار یا دما) تحمیل شود، تعادل در جهتی جابه‌جا می‌شود که اثر آن تغییر را کم کند.",
+    "en": "If a change (in concentration, pressure or temperature) is imposed on a system at equilibrium, the equilibrium shifts in the direction that reduces the effect of that change.",
+    "tr": "Agar be samane-i dar hal-e ta'adol taghyiri (ghelzat, feshar ya dama) tahmil shavad, ta'adol dar jahati jabeja mishavad ke asar-e an taghyir ra kam konad."
+   },
+   "analogy": {
+    "fa": "الاکلنگی که هر طرفش سنگین شود، به سمت دیگر خم می‌شود تا دوباره متعادل شود.",
+    "en": "A seesaw: load one side and it tips the other way to rebalance.",
+    "tr": "Alakolangi ke har tarafash sangin shavad, be samt-e digar kham mishavad ta dobare mote'adel shavad."
+   },
+   "contrast": {
+    "fa": "لوشاتلیه جهت را می‌گوید، نه سرعت را.",
+    "en": "Le Chatelier tells you the direction, not the speed.",
+    "tr": "Lo Shatelie jahat ra migooyad, na sor'at ra."
+   },
+   "unit": "chem-4-le-chatelier"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-reaction-shift",
+   "term": {
+    "fa": "جابه‌جایی تعادل",
+    "en": "reaction shift",
+    "tr": "jabejayi-ye taadol"
+   },
+   "explain": {
+    "fa": "حرکت سامانهٔ تعادلی به سمت فراورده‌ها (رفت) یا واکنش‌دهنده‌ها (برگشت) پس از یک تغییر، تا تعادل تازه‌ای برقرار شود. افزودن واکنش‌دهنده یا برداشتن فراورده آن را به سمت رفت می‌برد.",
+    "en": "The movement of an equilibrium system towards products (forward) or reactants (reverse) after a change, until a new equilibrium is set up. Adding reactant or removing product shifts it forward.",
+    "tr": "Harekat-e samane-ye ta'adoli be samt-e faravarde-ha (raft) ya vakonesh-dahande-ha (bargasht) pas az yek taghyir, ta ta'adol-e taze-i bargharar shavad. Afzoodan-e vakonesh-dahande ya bardashtan-e faravarde an ra be samt-e raft mibarad."
+   },
+   "contrast": {
+    "fa": "جابه‌جایی با غلظت یا فشار `K` را عوض نمی‌کند؛ با دما عوض می‌کند.",
+    "en": "A shift caused by concentration or pressure leaves `K` unchanged; one caused by temperature changes it.",
+    "tr": "Jabejayi ba ghelzat ya feshar `K` ra avaz nemikonad; ba dama avaz mikonad."
+   },
+   "unit": "chem-4-le-chatelier"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-volume-effect",
+   "term": {
+    "fa": "اثر حجم بر تعادل",
+    "en": "volume effect on equilibrium",
+    "tr": "asar-e hajm bar taadol"
+   },
+   "explain": {
+    "fa": "کم کردن حجم ظرف فشار را بالا می‌برد و تعادل گازی را به سمت مول گازی کمتر می‌برد؛ زیاد کردن حجم به سمت مول گازی بیشتر. اگر دو طرف مول گازی برابر داشته باشند، اثری ندارد.",
+    "en": "Reducing the vessel's volume raises the pressure and shifts a gaseous equilibrium towards fewer moles of gas; increasing the volume shifts it towards more. If both sides have equal moles of gas, there is no effect.",
+    "tr": "Kam kardan-e hajm-e zarf feshar ra bala mibarad va ta'adol-e gazi ra be samt-e mol-e gazi-ye kamtar mibarad; ziyad kardan-e hajm be samt-e mol-e gazi-ye bishtar. Agar do taraf mol-e gazi-ye barabar dashte bashand, asari nadarad."
+   },
+   "contrast": {
+    "fa": "گاز بی‌اثر در حجم ثابت هیچ جابه‌جایی ایجاد نمی‌کند.",
+    "en": "An inert gas at constant volume causes no shift.",
+    "tr": "Gaz-e bi-asar dar hajm-e sabet hich jabejayi ijad nemikonad."
+   },
+   "unit": "chem-4-le-chatelier"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-exothermic",
+   "term": {
+    "fa": "واکنش گرماده",
+    "en": "exothermic reaction",
+    "tr": "vakonesh-e garmadeh"
+   },
+   "explain": {
+    "fa": "واکنشی که گرما آزاد می‌کند (`ΔH < 0`)؛ فراورده‌ها پایین‌تر از واکنش‌دهنده‌ها‌اند. در تعادل گرماده، گرم کردن تعادل را به سمت برگشت می‌برد و `K` را کم می‌کند.",
+    "en": "A reaction that releases heat (`ΔH < 0`); the products lie lower than the reactants. In an exothermic equilibrium, heating shifts the equilibrium backwards and lowers `K`.",
+    "tr": "Vakoneshi ke garma azad mikonad (`ΔH < 0`); faravarde-ha payin-tar az vakonesh-dahande-ha-and. Dar ta'adol-e garmade, garm kardan ta'adol ra be samt-e bargasht mibarad va `K` ra kam mikonad."
+   },
+   "analogy": {
+    "fa": "گرما را مثل یک فراورده در معادله بنویس.",
+    "en": "Write heat into the equation as a product.",
+    "tr": "Garma ra mesl-e yek faravarde dar moadele benevis."
+   },
+   "contrast": {
+    "fa": "گرماده: گرم کردن `K` را کم می‌کند؛ گرماگیر: زیاد.",
+    "en": "Exothermic: heating lowers `K`; endothermic: raises it.",
+    "tr": "Garmade: garm kardan `K` ra kam mikonad; garmagir: ziyad."
+   },
+   "unit": "chem-4-temperature-haber"
+  },
+  {
+   "subject": "Chemistry",
+   "key": "chem-g-ammonia-synthesis",
+   "term": {
+    "fa": "سنتز آمونیاک",
+    "en": "ammonia synthesis",
+    "tr": "santez-e ammonia"
+   },
+   "explain": {
+    "fa": "فرایند هابر: `N2 + 3H2 ⇌ 2NH3`، واکنشی گرماده با کاهش مول گازی. فشار بالا و دمای پایین آمونیاک بیشتری می‌دهند، ولی برای سرعت کافی در حدود `450` درجه، `200` اتمسفر و با کاتالیزگر آهن انجام می‌شود.",
+    "en": "The Haber process: `N2 + 3H2 ⇌ 2NH3`, an exothermic reaction that reduces the moles of gas. High pressure and low temperature give more ammonia, but for a fast enough rate it is run at about `450` °C and `200` atm with an iron catalyst.",
+    "tr": "Farayand-e Haber: `N2 + 3H2 ⇌ 2NH3`, vakoneshi garmade ba kahesh-e mol-e gazi. Feshar-e bala va dama-ye payin amoniyak-e bishtari midahand, vali baraye sor'at-e kafi dar hodood-e `450` daraje, `200` atmosfer va ba kataliz-gar-e ahan anjam mishavad."
+   },
+   "contrast": {
+    "fa": "دمای `450` درجه سازش میان مقدار و سرعت است.",
+    "en": "`450` °C is a compromise between yield and rate.",
+    "tr": "Dama-ye `450` daraje sazesh miyan-e meghdar va sor'at ast."
+   },
+   "unit": "chem-4-temperature-haber"
+  }
+ ]
+}

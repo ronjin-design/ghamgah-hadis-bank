@@ -33,7 +33,8 @@ Tutor lesson. Pack 130 is the Chemistry 3 Chapter 4 (Chemistry, a path to a sust
 kinetics and equilibrium) Master Tutor lesson; Chemistry 3 lessons are now complete. Pack 131
 corrects the transliteration keyword lists of eight Chemistry questions (no new questions). Pack
 132 is the Chemistry Pocket Tutor glossary for Chapter 1; pack 133 covers Chapter 2 (plus the built-in
-galvanic-cell question's terms). THE NEXT QUESTION BLOCK IS PACK 134.
+galvanic-cell question's terms); pack 134 covers Chapters 3-4 (every Chemistry Codex term now has a Pocket Tutor).
+THE NEXT QUESTION BLOCK IS PACK 135.
 Every item below is already in the bank. Do not ask it again in any form:
 not reworded, not inverted (asking for the opposite case), and not as a
 new example of the same rule.
