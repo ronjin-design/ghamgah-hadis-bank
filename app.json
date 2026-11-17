@@ -1,13 +1,13 @@
 {
  "format": 1,
- "versionCode": 2037,
- "versionName": "3.15.3",
- "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2037/Ghamgah-E-Hadis.apk",
- "size": 43081538,
- "sha256": "2ad5e03181ce4a3bbf535ffc41872c0cf592d1289f924f9bea892da596bc8929",
+ "versionCode": 2038,
+ "versionName": "3.16.0",
+ "apk": "https://github.com/ronjin-design/ghamgah-hadis-bank/releases/download/app-2038/Ghamgah-E-Hadis.apk",
+ "size": 43261870,
+ "sha256": "ab60130d97c4c075165adc07ba9f1f587a3ffdfc9a294e892781d5ebbf61e749",
  "notes": {
-  "fa": "قطب‌نما حالا تنها پرسش‌نامهٔ شروع است؛ دکمهٔ «بدون آزمون ادامه بده» درست کار می‌کند؛ قطب‌نما همیشه در داشبورد، برنامهٔ من و نمایه در دسترس است. ظاهر تازهٔ قطب‌نما و کارت «منطقهٔ خطر» برای شروع دوباره.",
-  "en": "The Study Compass is now the only start-up check-in; 'Continue without the test' works; the Compass is always one tap away on the dashboard, My Schedule and Profile, with your chapters kept. New Compass & Lantern look, and Fresh Start now sits in its own Danger Zone card.",
-  "tr": "Ghotb-nama hala tanha porsesh-name-ye shoru ast; dokme-ye 'Bedoon-e azmoon edame bede' dorost kar mikonad; ghotb-nama hamishe dar dashboard, barname-ye man va namaye hast. Zaher-e taze-ye ghotb-nama va kart-e 'Mantaghe-ye khatar' baraye shoru-e dobare."
+  "fa": "نمودارهای متحرک: ۱۲ نمودار درس‌های فیزیک، شیمی و زیست حالا جان می‌گیرند؛ مثل نوسان فنر، شکست نور، پرش الکترون، سلول گالوانی، تعادل پویا، چنگال همانندسازی، ریبوزوم و توربین ATP. دکمهٔ مکث و نسخهٔ متنی هم هست.",
+  "en": "Animated diagrams: 12 lesson diagrams in Physics, Chemistry and Biology now move, from the spring and refraction to the electron jump, galvanic cell, dynamic equilibrium, replication fork, ribosome and the ATP turbine. Pause and text-version buttons included.",
+  "tr": "Nemoodar-haye motaharrek: 12 nemoodar-e dars-haye fizik, shimi va zist hala jan migirand; mesl-e navasan-e fanar, shekast-e noor, pajesh-e electron, selool-e galvani, ta-adol-e pooya, changal-e hamanand-sazi, ribosome va turbin-e ATP. Dokme-ye maks va noskhe-ye matni ham hast."
  }
 }
