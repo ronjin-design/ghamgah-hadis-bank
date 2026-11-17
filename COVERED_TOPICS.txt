@@ -260,3 +260,5 @@ not named here, unused words from the Arabic lesson texts, Math chapter 6).
 - Pack 144 (2026-11-17, format 7): no new questions. Re-issues 13 lesson units unchanged, adding built-in animations (app 3.16.1): Physics motion graphs, spring SHM, wave types, refraction, Bohr; Chemistry galvanic cell, equilibrium, collisions/Ea, micelle; Biology replication fork, ribosome, ATP synthase (x2).
 
 - Pack 145 (2026-11-17, format 5): English 3 Lesson 1 (Sense of Appreciation) Master Tutor lesson, 6 units (passive why/how, passive across tenses, tag questions, comparatives/superlatives, appreciation vocabulary + phrasal verbs, proverbs), all 28 Lesson 1 questions linked. English totals: 98 Qs = L1 28, L2 36, L3 34.
+
+- Pack 146 (2026-11-17, format 5): English 3 Lesson 2 Master Tutor lesson, 7 units (passive past/future, modal passive, who vs which, joining sentences with a relative clause, first conditional, gerund vs infinitive, environment vocabulary + collocations), all 36 Lesson 2 questions linked.

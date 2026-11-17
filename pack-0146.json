@@ -1,0 +1,1278 @@
+{
+ "version": 146,
+ "format": 5,
+ "lessons": [
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 1,
+   "key": "eng-2-passive-past-future",
+   "title": {
+    "fa": "مجهول در گذشته و آینده",
+    "en": "The passive in the past and the future",
+    "tr": "Majhool dar gozashte va ayande"
+   },
+   "summary": {
+    "fa": "یک قالب، سه زمان: `was built`، `is built`، `will be built`.",
+    "en": "One recipe, three times: `was built`, `is built`, `will be built`.",
+    "tr": "Yek ghaleb, se zaman: `was built`, `is built`, `will be built`."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: خبرهایی که نتیجه را می‌گویند",
+      "en": "Understand first: news that reports the result",
+      "tr": "Avval befahm: khabar-hayi ke natije ra miguyand"
+     },
+     "body": {
+      "fa": "در درس یک دیدیم مجهول یعنی نورافکن را از «کننده» برداشتن و روی «کار» انداختن. در این درس، خبرهای محیط زیست پر از مجهول است، چون نتیجه مهم‌تر از کننده است: نیروگاه ساخته شد، قرارداد امضا شد، کارخانه بسته شد. قالب همان است: `be` در زمان درست به‌اضافهٔ قسمت سوم فعل. برای آینده، `will be` به‌اضافهٔ قسمت سوم فعل می‌آید: `The updates will be published next week.`",
+      "en": "In Lesson 1 we saw that the passive means moving the spotlight off the \"doer\" and onto the \"action\". In this lesson, environment news is full of passives, because the result matters more than the doer: the power station was built, the contract was signed, the factory was shut down. The recipe is the same: `be` in the right tense plus the past participle. For the future, `will be` plus the past participle: `The updates will be published next week.`",
+      "tr": "Dar dars-e yek didim majhool ya'ni noorafkan ra az \"konande\" bardashtan va rooye \"kar\" andakhtan. Dar in dars, khabar-haye mohit-e zist por az majhool ast, chon natije mohem-tar az konande ast: niroogah sakhte shod, gharardad emza shod, karkhane baste shod. Ghaleb haman ast: `be` dar zaman-e dorost be-ezafe-ye ghesmat-e sevvom-e fe'l. Baraye ayande, `will be` be-ezafe-ye ghesmat-e sevvom-e fe'l miayad: `The updates will be published next week.`"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " yesterday / last year / ago\n   -> was / were + V3\n      The plan was approved.\n\n every day / usually / now\n   -> am / is / are + V3\n      Waste is recycled here.\n\n tomorrow / next week / soon\n   -> will be + V3\n      The updates will be\n      published next week.",
+     "caption": {
+      "fa": "قید زمان می‌گوید `be` کدام لباس را بپوشد؛ قسمت سوم فعل همیشه ثابت است.",
+      "en": "The time word tells `be` which clothes to wear; the past participle never changes.",
+      "tr": "Ghid-e zaman miguyad `be` kodam lebas ra bepooshad; ghesmat-e sevvom-e fe'l hamishe sabet ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فعل‌های دوکلمه‌ای و بی‌قاعده",
+      "en": "Phrasal and irregular verbs",
+      "tr": "Fe'l-haye do-kalame-i va bi-ghaede"
+     },
+     "body": {
+      "fa": "بعضی فعل‌ها دوکلمه‌ای‌اند و در مجهول هم دو کلمه می‌مانند: `shut down` (تعطیل کردن) در مجهول می‌شود `was shut down`. حرف اضافه را جا نینداز. قسمت سوم فعل‌های بی‌قاعده را هم دقیق بنویس: `shut` در هر سه شکل `shut` است و `build` می‌شود `built`.",
+      "en": "Some verbs are phrasal and stay two words in the passive too: `shut down` (to close) becomes `was shut down`. Do not drop the particle. Write irregular past participles carefully too: `shut` is `shut` in all three forms, and `build` becomes `built`.",
+      "tr": "Ba'zi fe'l-ha do-kalame-i-and va dar majhool ham do kalame mimanand: `shut down` (ta'til kardan) dar majhool mishavad `was shut down`. Harf-e ezafe ra ja nayandaz. Ghesmat-e sevvom-e fe'l-haye bi-ghaede ra ham daghigh benevis: `shut` dar har se shekl `shut` ast va `build` mishavad `built`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "was / were + V3 ,   am / is / are + V3 ,   will be + V3",
+     "caption": {
+      "fa": "مجهول گذشته، حال و آینده",
+      "en": "The past, present and future passive",
+      "tr": "Majhool-e gozashte, hal va ayande"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: با مجهول گذشته پر کن: `The first solar power grid in that region ___ by engineers two years ago.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: complete with the past passive: `The first solar power grid in that region ___ by engineers two years ago.` (Dey 1400 paper)",
+      "tr": "Garm kardan: ba majhool-e gozashte por kon: `The first solar power grid in that region ___ by engineers two years ago.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`two years ago` یعنی گذشته؛ `grid` مفرد است و ساخته شده، پس `was` و قسمت سوم بی‌قاعدهٔ `build`.",
+        "en": "`two years ago` means past; `grid` is singular and was built, so `was` and the irregular past participle of `build`.",
+        "tr": "`two years ago` ya'ni gozashte; `grid` mofrad ast va sakhte shode, pas `was` va ghesmat-e sevvom-e bi-ghaede-ye `build`."
+       },
+       "math": "was + built"
+      }
+     ],
+     "answer": {
+      "fa": "`was built`",
+      "en": "`was built`",
+      "tr": "`was built`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: با مجهول پر کن: `The updates ___ by the developer next week.` (آزمون دی ۱۳۹۸)",
+      "en": "Textbook and exam: complete with the passive: `The updates ___ by the developer next week.` (Dey 1398 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ba majhool por kon: `The updates ___ by the developer next week.` (azmoon-e Dey 1398)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`next week` سرنخ آینده است و `by the developer` نشان می‌دهد جمله مجهول است.",
+        "en": "`next week` is the clue for the future, and `by the developer` shows the sentence is passive.",
+        "tr": "`next week` sarnakh-e ayande ast va `by the developer` neshan midahad jomle majhool ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "آیندهٔ مجهول: `will be` و قسمت سوم فعل؛ `will` با فاعل جمع و مفرد یکی است.",
+        "en": "The future passive: `will be` plus the past participle; `will` is the same for singular and plural subjects.",
+        "tr": "Ayande-ye majhool: `will be` va ghesmat-e sevvom-e fe'l; `will` ba fa'el-e jam' va mofrad yeki ast."
+       },
+       "math": "will + be + published"
+      }
+     ],
+     "answer": {
+      "fa": "`will be published`",
+      "en": "`will be published`",
+      "tr": "`will be published`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: با مجهول گذشته پر کن: `The old factory ___ down by the government last year to reduce city pollution.` (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: complete with the past passive: `The old factory ___ down by the government last year to reduce city pollution.` (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: ba majhool-e gozashte por kon: `The old factory ___ down by the government last year to reduce city pollution.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `down` از قبل در جمله هست؛ فعل دوکلمه‌ای `shut down` است و فقط بخش اول جای خالی است.",
+        "en": "The twist: `down` is already in the sentence; the phrasal verb is `shut down` and only its first part goes in the gap.",
+        "tr": "Pich-e emtehan: `down` az ghabl dar jomle hast; fe'l-e do-kalame-i `shut down` ast va faghat bakhsh-e avval ja-ye khali ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "`shut` بی‌قاعده است و شکل سومش هم `shut` است؛ `last year` یعنی گذشته و `factory` مفرد.",
+        "en": "`shut` is irregular and its third form is also `shut`; `last year` means past and `factory` is singular.",
+        "tr": "`shut` bi-ghaede ast va shekl-e sevvomash ham `shut` ast; `last year` ya'ni gozashte va `factory` mofrad."
+       },
+       "math": "was + shut (down)"
+      }
+     ],
+     "answer": {
+      "fa": "`was shut`",
+      "en": "`was shut`",
+      "tr": "`was shut`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`shutted` و `builded` وجود ندارند؛ شکل سوم این فعل‌ها `shut` و `built` است.",
+      "en": "`shutted` and `builded` do not exist; the third forms of these verbs are `shut` and `built`.",
+      "tr": "`shutted` va `builded` vojood nadarand; shekl-e sevvom-e in fe'l-ha `shut` va `built` ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آیندهٔ مجهول `will be published` است؛ `will published` یا `will be publish` نمره نمی‌گیرد.",
+      "en": "The future passive is `will be published`; `will published` or `will be publish` earns no marks.",
+      "tr": "Ayande-ye majhool `will be published` ast; `will published` ya `will be publish` nomre nemigirad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 940
+    },
+    {
+     "session": "1398-Dey",
+     "number": 903
+    },
+    {
+     "session": "1400-Dey",
+     "number": 938
+    },
+    {
+     "session": "1400-Dey",
+     "number": 941
+    },
+    {
+     "session": "1400-Dey",
+     "number": 943
+    },
+    {
+     "session": "1400-Dey",
+     "number": 944
+    },
+    {
+     "session": "1400-Dey",
+     "number": 945
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 2,
+   "key": "eng-2-modal-passive",
+   "title": {
+    "fa": "مجهول با فعل‌های کمکی",
+    "en": "The modal passive",
+    "tr": "Majhool ba fe'l-haye komaki"
+   },
+   "summary": {
+    "fa": "فعل کمکی سر جایش می‌ماند و `be` ساده و قسمت سوم فعل پشتش می‌آیند.",
+    "en": "The modal stays in place, and plain `be` plus the past participle follow it.",
+    "tr": "Fe'l-e komaki sar-e jayash mimanad va `be`-ye sade va ghesmat-e sevvom-e fe'l poshtash miayand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: تابلوی راهنما سر جایش می‌ماند",
+      "en": "Understand first: the road sign stays put",
+      "tr": "Avval befahm: tablo-ye rahnama sar-e jayash mimanad"
+     },
+     "body": {
+      "fa": "فعل‌های کمکی مثل `must`، `should`، `can`، `may` و `will` مثل یک تابلوی راهنما هستند: «باید»، «می‌تواند»، «ممکن است». وقتی جمله را مجهول می‌کنیم، تابلو سر جایش می‌ماند و فقط پشتش `be` ساده و قسمت سوم فعل می‌نشیند: `We must protect animals` می‌شود `Animals must be protected`. فعل کمکی هیچ‌وقت `-s` یا `-ed` نمی‌گیرد و بعدش همیشه `be` ساده است.",
+      "en": "Modals such as `must`, `should`, `can`, `may` and `will` are like road signs: \"must\", \"can\", \"may\". When we make the sentence passive, the sign stays where it is, and just behind it sit plain `be` and the past participle: `We must protect animals` becomes `Animals must be protected`. A modal never takes `-s` or `-ed`, and plain `be` always follows it.",
+      "tr": "Fe'l-haye komaki mesl-e `must`, `should`, `can`, `may` va `will` mesl-e yek tablo-ye rahnama hastand: \"bayad\", \"mitavanad\", \"momken ast\". Vaghti jomle ra majhool mikonim, tablo sar-e jayash mimanad va faghat poshtash `be`-ye sade va ghesmat-e sevvom-e fe'l mineshinad: `We must protect animals` mishavad `Animals must be protected`. Fe'l-e komaki hich-vaght `-s` ya `-ed` nemigirad va ba'dash hamishe `be`-ye sade ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ACTIVE\n We    must   protect  animals.\n [doer][modal][V1]     [object]\n                          |\n        +-----------------+\n        v\n Animals must  be protected.\n [subj]  [modal][be][V3]\n\n drop \"we\": the doer is everyone",
+     "caption": {
+      "fa": "مفعول به اول می‌آید، فعل کمکی می‌ماند، `be` ساده و قسمت سوم فعل پشتش؛ کنندهٔ کلی مثل `we` حذف می‌شود.",
+      "en": "The object moves to the front, the modal stays, plain `be` and the past participle follow; a general doer like `we` is dropped.",
+      "tr": "Maf'ool be avval miayad, fe'l-e komaki mimanad, `be`-ye sade va ghesmat-e sevvom-e fe'l poshtash; konande-ye kolli mesl-e `we` hazf mishavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "حذف کنندهٔ کلی و معنای فعل کمکی",
+      "en": "Dropping a general doer, and the modal's meaning",
+      "tr": "Hazf-e konande-ye kolli va ma'na-ye fe'l-e komaki"
+     },
+     "body": {
+      "fa": "وقتی کننده کلی است (`we`، `people`، `they`، `someone`)، در جملهٔ مجهول آن را حذف می‌کنیم، چون چیزی به معنا اضافه نمی‌کند. `by us` آخر جمله نمره نمی‌گیرد. معنای فعل کمکی را هم دقیق انتخاب کن: `must` برای «باید»، `may` برای «ممکن است»، `can` برای «می‌تواند».",
+      "en": "When the doer is general (`we`, `people`, `they`, `someone`), we drop it from the passive sentence, because it adds nothing to the meaning. `by us` at the end earns no marks. Choose the modal's meaning carefully too: `must` for necessity, `may` for possibility, `can` for ability.",
+      "tr": "Vaghti konande kolli ast (`we`, `people`, `they`, `someone`), dar jomle-ye majhool an ra hazf mikonim, chon chizi be ma'na ezafe nemikonad. `by us` akhar-e jomle nomre nemigirad. Ma'na-ye fe'l-e komaki ra ham daghigh entekhab kon: `must` baraye \"bayad\", `may` baraye \"momken ast\", `can` baraye \"mitavanad\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "object + modal + be + V3     ( must / should / can / may / will )",
+     "caption": {
+      "fa": "بعد از فعل کمکی همیشه `be` ساده",
+      "en": "Plain `be` always follows the modal",
+      "tr": "Ba'd az fe'l-e komaki hamishe `be`-ye sade"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: با مجهول و فعل کمکی پر کن: `Endangered animals ___ from hunters to preserve nature.` (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: complete with a modal passive: `Endangered animals ___ from hunters to preserve nature.` (Dey 1401 paper)",
+      "tr": "Garm kardan: ba majhool va fe'l-e komaki por kon: `Endangered animals ___ from hunters to preserve nature.` (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "حیوانات کسی را حمایت نمی‌کنند؛ از آن‌ها حمایت می‌شود: مجهول. معنا «باید» است، پس `must`.",
+        "en": "The animals do not protect anyone; they are protected: passive. The meaning is necessity, so `must`.",
+        "tr": "Heyvanat kasi ra hemayat nemikonand; az an-ha hemayat mishavad: majhool. Ma'na \"bayad\" ast, pas `must`."
+       },
+       "math": "must + be + protected"
+      }
+     ],
+     "answer": {
+      "fa": "`must be protected`",
+      "en": "`must be protected`",
+      "tr": "`must be protected`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: مجهول کن: `We must protect endangered animals to preserve nature.` (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: make it passive: `We must protect endangered animals to preserve nature.` (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: majhool kon: `We must protect endangered animals to preserve nature.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "مفعول `endangered animals` را به اول بیاور.",
+        "en": "Bring the object `endangered animals` to the front.",
+        "tr": "Maf'ool-e `endangered animals` ra be avval biyavar."
+       }
+      },
+      {
+       "text": {
+        "fa": "`must` می‌ماند، پشتش `be protected`؛ `we` کنندهٔ کلی است و حذف می‌شود.",
+        "en": "`must` stays, followed by `be protected`; `we` is a general doer and is dropped.",
+        "tr": "`must` mimanad, poshtash `be protected`; `we` konande-ye kolli ast va hazf mishavad."
+       },
+       "math": "Endangered animals + must be protected + to preserve nature"
+      }
+     ],
+     "answer": {
+      "fa": "`Endangered animals must be protected to preserve nature.`",
+      "en": "`Endangered animals must be protected to preserve nature.`",
+      "tr": "`Endangered animals must be protected to preserve nature.`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شکل درست را انتخاب کن: `Our planet ___ by cutting down too many trees for industrial purposes.` (آزمون دی ۱۳۹۹)",
+      "en": "Exam twist: choose the right form: `Our planet ___ by cutting down too many trees for industrial purposes.` (Dey 1399 paper)",
+      "tr": "Pich-e emtehani: shekl-e dorost ra entekhab kon: `Our planet ___ by cutting down too many trees for industrial purposes.` (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: بعد از `by` این بار یک «کار» آمده (`cutting down trees`)، نه یک نفر؛ ولی جمله همچنان مجهول است، چون سیاره نابود «می‌شود».",
+        "en": "The twist: after `by` this time comes an \"action\" (`cutting down trees`), not a person; but the sentence is still passive, because the planet \"is\" destroyed.",
+        "tr": "Pich-e emtehan: ba'd az `by` in bar yek \"kar\" amade (`cutting down trees`), na yek nafar; vali jomle hamchenan majhool ast, chon sayyare naboood \"mishavad\"."
+       }
+      },
+      {
+       "text": {
+        "fa": "معنا «ممکن است» است (هشدار، نه قطعیت)، پس `may`.",
+        "en": "The meaning is possibility (a warning, not a certainty), so `may`.",
+        "tr": "Ma'na \"momken ast\" ast (hoshdar, na ghat'iyat), pas `may`."
+       },
+       "math": "may + be + destroyed"
+      }
+     ],
+     "answer": {
+      "fa": "`may be destroyed`",
+      "en": "`may be destroyed`",
+      "tr": "`may be destroyed`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از فعل کمکی `be` ساده می‌آید: `must be protected`، نه `must is protected` یا `must protected`.",
+      "en": "Plain `be` follows a modal: `must be protected`, not `must is protected` or `must protected`.",
+      "tr": "Ba'd az fe'l-e komaki `be`-ye sade miayad: `must be protected`, na `must is protected` ya `must protected`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کنندهٔ کلی را در مجهول نیاور: `Animals must be protected by us` نمرهٔ کامل نمی‌گیرد.",
+      "en": "Do not keep a general doer in the passive: `Animals must be protected by us` loses marks.",
+      "tr": "Konande-ye kolli ra dar majhool nayavar: `Animals must be protected by us` nomre-ye kamel nemigirad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 906
+    },
+    {
+     "session": "1400-Dey",
+     "number": 0
+    },
+    {
+     "session": "1399-Dey",
+     "number": 939
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 3,
+   "key": "eng-2-who-which",
+   "title": {
+    "fa": "ضمیر موصولی: انسان یا چیز",
+    "en": "Relative pronouns: who or which",
+    "tr": "Zamir-e mowsooli: ensan ya chiz"
+   },
+   "summary": {
+    "fa": "به اسمِ پیش از جای خالی نگاه کن: انسان یا چیز؟",
+    "en": "Look at the noun before the gap: a person or a thing?",
+    "tr": "Be esm-e pish az ja-ye khali negah kon: ensan ya chiz?"
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: انگشت اشاره",
+      "en": "Understand first: the pointing finger",
+      "tr": "Avval befahm: angosht-e eshare"
+     },
+     "body": {
+      "fa": "ضمیر موصولی مثل یک «انگشت اشاره» است که به اسم پیش از خودش برمی‌گردد و دربارهٔ آن توضیح می‌دهد. انتخابش فقط به یک سؤال بستگی دارد: آن اسم انسان است یا چیز (و حیوان)؟ برای انسان `who`، برای چیز و حیوان `which`. `The scientist who discovered the vaccine` و `The panels which generate electricity`.",
+      "en": "A relative pronoun is like a \"pointing finger\" that points back to the noun before it and tells us more about it. Choosing it depends on one question only: is that noun a person or a thing (or an animal)? For a person `who`, for a thing or an animal `which`. `The scientist who discovered the vaccine` and `The panels which generate electricity`.",
+      "tr": "Zamir-e mowsooli mesl-e yek \"angosht-e eshare\" ast ke be esm-e pish az khodash barmigardad va darbare-ye an tozih midahad. Entekhabash faghat be yek so'al bastegi darad: an esm ensan ast ya chiz (va heyvan)? Baraye ensan `who`, baraye chiz va heyvan `which`. `The scientist who discovered the vaccine` va `The panels which generate electricity`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   the noun just before the gap\n              |\n       +------+-------+\n       |              |\n    a person     a thing / animal\n       |              |\n      who           which\n   (or that)      (or that)\n\n The scientist WHO discovered ...\n The panels WHICH generate ...",
+     "caption": {
+      "fa": "درخت تصمیم: فقط اسمِ درست پیش از جای خالی تعیین می‌کند؛ `that` برای هر دو هم درست است.",
+      "en": "The decision tree: only the noun right before the gap decides; `that` is also correct for both.",
+      "tr": "Derakht-e tasmim: faghat esm-e dorost pish az ja-ye khali ta'yin mikonad; `that` baraye har do ham dorost ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اسمِ درست و فعلِ هم‌خوان",
+      "en": "The right noun and the matching verb",
+      "tr": "Esm-e dorost va fe'l-e ham-khan"
+     },
+     "body": {
+      "fa": "حواست به اسم «درست» باشد: گاهی بین اسم اصلی و جای خالی کلمهٔ دیگری نیست، ولی صفت‌ها گولت می‌زنند: `The smart student who` (دانش‌آموز انسان است، حتی با صفت `smart`) و `The smart system which` (سیستم چیز است، با همان صفت). بعد از ضمیر موصولی فعل با همان اسم جور می‌شود: `panels which generate`، `system which generates`.",
+      "en": "Make sure you pick the \"right\" noun: adjectives can fool you: `The smart student who` (a student is a person, even with `smart`) and `The smart system which` (a system is a thing, with the same adjective). After the relative pronoun, the verb agrees with that same noun: `panels which generate`, `system which generates`.",
+      "tr": "Havaset be esm-e \"dorost\" bashad: sefat-ha golat mizanand: `The smart student who` (danesh-amooz ensan ast, hatta ba sefat-e `smart`) va `The smart system which` (sistem chiz ast, ba haman sefat). Ba'd az zamir-e mowsooli fe'l ba haman esm joor mishavad: `panels which generate`, `system which generates`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "person + who + verb ...     thing / animal + which + verb ...",
+     "caption": {
+      "fa": "ضمیر موصولی به اسمِ پیش از خودش برمی‌گردد",
+      "en": "The relative pronoun points back to the noun before it",
+      "tr": "Zamir-e mowsooli be esm-e pish az khodash barmigardad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ضمیر موصولی را بنویس: `The scientist ___ discovered the new vaccine was appreciated by everyone.` (آزمون خرداد ۱۴۰۰)",
+      "en": "Warm-up: write the relative pronoun: `The scientist ___ discovered the new vaccine was appreciated by everyone.` (Khordad 1400 paper)",
+      "tr": "Garm kardan: zamir-e mowsooli ra benevis: `The scientist ___ discovered the new vaccine was appreciated by everyone.` (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسم پیش از جای خالی `scientist` است: یک انسان.",
+        "en": "The noun before the gap is `scientist`: a person.",
+        "tr": "Esm-e pish az ja-ye khali `scientist` ast: yek ensan."
+       },
+       "math": "person  →  who"
+      }
+     ],
+     "answer": {
+      "fa": "`who`",
+      "en": "`who`",
+      "tr": "`who`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: ضمیر موصولی را بنویس: `The wind turbines ___ generate electricity are clean and eco-friendly.` (آزمون خرداد ۱۴۰۰)",
+      "en": "Textbook and exam: write the relative pronoun: `The wind turbines ___ generate electricity are clean and eco-friendly.` (Khordad 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: zamir-e mowsooli ra benevis: `The wind turbines ___ generate electricity are clean and eco-friendly.` (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسم پیش از جای خالی `wind turbines` است: چیز.",
+        "en": "The noun before the gap is `wind turbines`: things.",
+        "tr": "Esm-e pish az ja-ye khali `wind turbines` ast: chiz."
+       }
+      },
+      {
+       "text": {
+        "fa": "فعل `generate` بدون `-s` است چون با `turbines` (جمع) جور است، نه با `electricity`.",
+        "en": "The verb `generate` has no `-s` because it agrees with `turbines` (plural), not with `electricity`.",
+        "tr": "Fe'l-e `generate` bedoon-e `-s` ast chon ba `turbines` (jam') joor ast, na ba `electricity`."
+       },
+       "math": "thing  →  which"
+      }
+     ],
+     "answer": {
+      "fa": "`which`",
+      "en": "`which`",
+      "tr": "`which`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: ضمیر موصولی را بنویس: `The smart student ___ scored the highest rank on the national exam was highly praised.` (آزمون خرداد ۱۴۰۰)",
+      "en": "Exam twist: write the relative pronoun: `The smart student ___ scored the highest rank on the national exam was highly praised.` (Khordad 1400 paper)",
+      "tr": "Pich-e emtehani: zamir-e mowsooli ra benevis: `The smart student ___ scored the highest rank on the national exam was highly praised.` (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: در همین آزمون `The smart system ___` هم آمده و جوابش `which` است. صفت `smart` برای هر دو یکی است؛ فقط اسم تصمیم می‌گیرد.",
+        "en": "The twist: the same paper also has `The smart system ___`, whose answer is `which`. The adjective `smart` is the same for both; only the noun decides.",
+        "tr": "Pich-e emtehan: dar hamin azmoon `The smart system ___` ham amade va javabash `which` ast. Sefat-e `smart` baraye har do yeki ast; faghat esm tasmim migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "`student` انسان است.",
+        "en": "`student` is a person.",
+        "tr": "`student` ensan ast."
+       },
+       "math": "student (person)  →  who"
+      }
+     ],
+     "answer": {
+      "fa": "`who`",
+      "en": "`who`",
+      "tr": "`who`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "برای انسان `which` ننویس و برای چیز `who`: `the panels who` و `the scientist which` هر دو غلط‌اند.",
+      "en": "Never use `which` for a person or `who` for a thing: `the panels who` and `the scientist which` are both wrong.",
+      "tr": "Baraye ensan `which` nanevis va baraye chiz `who`: `the panels who` va `the scientist which` har do ghalat-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از ضمیر موصولی فاعل را تکرار نکن: `The panels which they were installed` غلط است؛ `which` خودش جای `they` را گرفته.",
+      "en": "Do not repeat the subject after the relative pronoun: `The panels which they were installed` is wrong; `which` has already replaced `they`.",
+      "tr": "Ba'd az zamir-e mowsooli fa'el ra tekrar nakon: `The panels which they were installed` ghalat ast; `which` khodash ja-ye `they` ra gerefte."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Khordad",
+     "number": 938
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 945
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 942
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 907
+    },
+    {
+     "session": "1400-Dey",
+     "number": 939
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 940
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 941
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 943
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 944
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 4,
+   "key": "eng-2-joining-sentences",
+   "title": {
+    "fa": "ترکیب دو جمله با ضمیر موصولی",
+    "en": "Joining two sentences with a relative clause",
+    "tr": "Tarkib-e do jomle ba zamir-e mowsooli"
+   },
+   "summary": {
+    "fa": "ضمیر موصولی پلی است که دو جملهٔ کوتاه را یک جملهٔ بلند می‌کند.",
+    "en": "A relative pronoun is a bridge that turns two short sentences into one long one.",
+    "tr": "Zamir-e mowsooli poli ast ke do jomle-ye kootah ra yek jomle-ye boland mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پل میان دو ساحل",
+      "en": "Understand first: the bridge between two banks",
+      "tr": "Avval befahm: pol miyan-e do sahel"
+     },
+     "body": {
+      "fa": "دو جملهٔ کوتاه که دربارهٔ یک چیزند مثل دو ساحل رودخانه‌اند. ضمیر موصولی پلی است که آن‌ها را به هم وصل می‌کند. روش سه قدم دارد: ۱) اسم مشترک را در دو جمله پیدا کن. ۲) در جملهٔ دوم، ضمیری را که به آن اسم برمی‌گردد (`they`، `it`، `he`) با `which` یا `who` عوض کن. ۳) جملهٔ دوم را درست بعد از آن اسم در جملهٔ اول بگذار.",
+      "en": "Two short sentences about the same thing are like the two banks of a river. A relative pronoun is the bridge that joins them. The method has three steps: 1) find the shared noun in both sentences. 2) In the second sentence, replace the pronoun that points to that noun (`they`, `it`, `he`) with `which` or `who`. 3) Put the second sentence right after that noun in the first one.",
+      "tr": "Do jomle-ye kootah ke darbare-ye yek chiz-and mesl-e do sahel-e roodkhane-and. Zamir-e mowsooli poli ast ke an-ha ra be ham vasl mikonad. Ravesh se gam darad: 1) esm-e moshtarak ra dar do jomle peyda kon. 2) Dar jomle-ye dovvom, zamiri ra ke be an esm barmigardad (`they`, `it`, `he`) ba `which` ya `who` avaz kon. 3) Jomle-ye dovvom ra dorost ba'd az an esm dar jomle-ye avval begozar."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 1) The panels generate power.\n 2) They were installed last week.\n    ^^^^\n    They = the panels -> WHICH\n\n The panels\n   [which were installed\n    last week]\n generate power.",
+     "caption": {
+      "fa": "ضمیر جملهٔ دوم به ضمیر موصولی تبدیل می‌شود و کل جمله پشت اسم مشترک می‌نشیند.",
+      "en": "The pronoun of the second sentence becomes the relative pronoun, and the whole sentence sits right after the shared noun.",
+      "tr": "Zamir-e jomle-ye dovvom be zamir-e mowsooli tabdil mishavad va kol-e jomle posht-e esm-e moshtarak mineshinad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "بند موصولی وسط یا آخر جمله",
+      "en": "The relative clause in the middle or at the end",
+      "tr": "Band-e mowsooli vasat ya akhar-e jomle"
+     },
+     "body": {
+      "fa": "بند موصولی ممکن است وسط جمله بنشیند، یعنی بین فاعل و فعل اصلی. این عادی است: `The panels which were installed last week generate electricity.` فعل اصلی (`generate`) هنوز با `panels` جور است. اگر اسم مشترک آخر جملهٔ اول باشد، بند موصولی آخر جمله می‌آید: `I met a doctor who works in Tehran.`",
+      "en": "The relative clause may sit in the middle of the sentence, between the subject and the main verb. That is normal: `The panels which were installed last week generate electricity.` The main verb (`generate`) still agrees with `panels`. If the shared noun is at the end of the first sentence, the relative clause goes at the end: `I met a doctor who works in Tehran.`",
+      "tr": "Band-e mowsooli momken ast vasat-e jomle beneshinad, ya'ni beyn-e fa'el va fe'l-e asli. In adi ast: `The panels which were installed last week generate electricity.` Fe'l-e asli (`generate`) hanooz ba `panels` joor ast. Agar esm-e moshtarak akhar-e jomle-ye avval bashad, band-e mowsooli akhar-e jomle miayad: `I met a doctor who works in Tehran.`"
+     }
+    },
+    {
+     "type": "formula",
+     "math": "noun + [ who / which + rest of sentence 2 ] + rest of sentence 1",
+     "caption": {
+      "fa": "بند موصولی درست پشت اسمی که توضیح می‌دهد",
+      "en": "The relative clause goes right after the noun it describes",
+      "tr": "Band-e mowsooli dorost posht-e esmi ke tozih midahad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: با `who` یکی کن: `I met a doctor. She works in a children's hospital.`",
+      "en": "Warm-up: join with `who`: `I met a doctor. She works in a children's hospital.`",
+      "tr": "Garm kardan: ba `who` yeki kon: `I met a doctor. She works in a children's hospital.`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "اسم مشترک `doctor` است و `She` به او برمی‌گردد؛ پزشک انسان است، پس `who`.",
+        "en": "The shared noun is `doctor` and `She` points to her; a doctor is a person, so `who`.",
+        "tr": "Esm-e moshtarak `doctor` ast va `She` be oo barmigardad; pezeshk ensan ast, pas `who`."
+       },
+       "math": "She  →  who"
+      },
+      {
+       "text": {
+        "fa": "اسم مشترک آخر جملهٔ اول است، پس بند موصولی آخر می‌آید.",
+        "en": "The shared noun ends the first sentence, so the clause goes at the end.",
+        "tr": "Esm-e moshtarak akhar-e jomle-ye avval ast, pas band-e mowsooli akhar miayad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`I met a doctor who works in a children's hospital.`",
+      "en": "`I met a doctor who works in a children's hospital.`",
+      "tr": "`I met a doctor who works in a children's hospital.`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: با ضمیر موصولی یکی کن: `The solar panels generate electricity. They were installed on the roof last week.` (آزمون دی ۱۳۹۹)",
+      "en": "Textbook and exam: join with a relative pronoun: `The solar panels generate electricity. They were installed on the roof last week.` (Dey 1399 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ba zamir-e mowsooli yeki kon: `The solar panels generate electricity. They were installed on the roof last week.` (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`They` همان `solar panels` است: چیز، پس `which`.",
+        "en": "`They` is the `solar panels`: things, so `which`.",
+        "tr": "`They` haman `solar panels` ast: chiz, pas `which`."
+       },
+       "math": "They  →  which"
+      },
+      {
+       "text": {
+        "fa": "اسم مشترک اول جملهٔ اول است، پس بند موصولی وسط جمله، بین `panels` و `generate`، می‌نشیند.",
+        "en": "The shared noun starts the first sentence, so the clause sits in the middle, between `panels` and `generate`.",
+        "tr": "Esm-e moshtarak avval-e jomle-ye avval ast, pas band-e mowsooli vasat-e jomle, beyn-e `panels` va `generate`, mineshinad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "`The solar panels which were installed on the roof last week generate electricity.`",
+      "en": "`The solar panels which were installed on the roof last week generate electricity.`",
+      "tr": "`The solar panels which were installed on the roof last week generate electricity.`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: غلط این ترکیب را پیدا کن: `The solar panels which they were installed last week generate electricity.`",
+      "en": "Exam twist: find the mistake in this joined sentence: `The solar panels which they were installed last week generate electricity.`",
+      "tr": "Pich-e emtehani: ghalat-e in tarkib ra peyda kon: `The solar panels which they were installed last week generate electricity.`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `which` جای `they` را گرفته، ولی `they` هم مانده؛ فاعل دوبار آمده.",
+        "en": "The twist: `which` has replaced `they`, but `they` is still there; the subject appears twice.",
+        "tr": "Pich-e emtehan: `which` ja-ye `they` ra gerefte, vali `they` ham mande; fa'el do-bar amade."
+       },
+       "math": "which they were  →  which were"
+      }
+     ],
+     "answer": {
+      "fa": "`they` اضافه است و باید حذف شود",
+      "en": "`they` is extra and must go",
+      "tr": "`they` ezafe ast va bayad hazf shavad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ضمیر جملهٔ دوم را نگه ندار: `which they`، `who she` غلط‌اند؛ ضمیر موصولی جای آن را می‌گیرد.",
+      "en": "Do not keep the second sentence's pronoun: `which they` and `who she` are wrong; the relative pronoun replaces it.",
+      "tr": "Zamir-e jomle-ye dovvom ra negah nadar: `which they` va `who she` ghalat-and; zamir-e mowsooli ja-ye an ra migirad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بند موصولی را آخر جمله نچسبان اگر اسم مشترک اول جمله است: `The panels generate electricity which were installed` معنا را به‌هم می‌ریزد.",
+      "en": "Do not stick the clause at the end when the shared noun starts the sentence: `The panels generate electricity which were installed` scrambles the meaning.",
+      "tr": "Band-e mowsooli ra akhar-e jomle nachasban agar esm-e moshtarak avval-e jomle ast: `The panels generate electricity which were installed` ma'na ra be-ham mirizad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Dey",
+     "number": 0
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 5,
+   "key": "eng-2-first-conditional",
+   "title": {
+    "fa": "جملهٔ شرطی نوع اول",
+    "en": "First conditional sentences",
+    "tr": "Jomle-ye sharti-ye no'-e avval"
+   },
+   "summary": {
+    "fa": "اگر امروز دانه بکاری، فردا درخت خواهی داشت: شرط ممکن، نتیجهٔ آینده.",
+    "en": "If you plant a seed today, you will have a tree tomorrow: a real condition, a future result.",
+    "tr": "Agar emrooz daane bekari, farda derakht khahi dasht: shart-e momken, natije-ye ayande."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دانه امروز، درخت فردا",
+      "en": "Understand first: a seed today, a tree tomorrow",
+      "tr": "Avval befahm: daane emrooz, derakht farda"
+     },
+     "body": {
+      "fa": "شرطی نوع اول دربارهٔ چیزی است که واقعاً ممکن است اتفاق بیفتد و نتیجه‌اش در آینده است. مثل کاشتن دانه: «اگر بکاری، درخت خواهد رویید.» قالبش دو تکه دارد: بند `if` با حال ساده، و بند اصلی با `will` و شکل ساده فعل: `If scientists develop clean energy, they will save the planet.` نکتهٔ طلایی: `will` فقط در بند اصلی می‌آید، هرگز در بند `if`.",
+      "en": "The first conditional is about something that can really happen, with a result in the future. Like planting a seed: \"if you plant it, a tree will grow.\" It has two parts: the `if` clause in the simple present, and the main clause with `will` and the base verb: `If scientists develop clean energy, they will save the planet.` The golden rule: `will` goes only in the main clause, never in the `if` clause.",
+      "tr": "Sharti-ye no'-e avval darbare-ye chizi ast ke vaghe'an momken ast ettefagh biyoftad va natije-ash dar ayande ast. Mesl-e kashtan-e daane: \"agar bekari, derakht khahad rooyid.\" Ghalebash do tekke darad: band-e `if` ba hal-e sade, va band-e asli ba `will` va shekl-e sade-ye fe'l: `If scientists develop clean energy, they will save the planet.` Nokte-ye talayi: `will` faghat dar band-e asli miayad, hargez dar band-e `if`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": "   IF-clause        main clause\n present simple  ,  will + V1\n ---------------    -----------\n If they develop ,  they will save\n If the laws are ,  the planet will\n   obeyed           be saved\n\n NO \"will\" after \"if\"!",
+     "caption": {
+      "fa": "حال ساده در بند شرط، `will` و فعل ساده در بند نتیجه؛ بند شرط می‌تواند مجهول هم باشد.",
+      "en": "The simple present in the condition, `will` plus the base verb in the result; the condition can be passive too.",
+      "tr": "Hal-e sade dar band-e shart, `will` va fe'l-e sade dar band-e natije; band-e shart mitavanad majhool ham bashad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ترتیب، ویرگول و شرط مجهول",
+      "en": "Order, the comma and a passive condition",
+      "tr": "Tartib, virgool va shart-e majhool"
+     },
+     "body": {
+      "fa": "بند `if` می‌تواند اول یا آخر جمله بیاید؛ اگر اول بیاید، بعدش ویرگول می‌گذاریم. بند `if` می‌تواند مجهول هم باشد، با همان حال ساده: `If the laws are obeyed, the planet will be saved.` در سؤال‌های «شکل درست فعل‌های داخل پرانتز»، هر دو فعل را باید عوض کنی: یکی را حال ساده و دیگری را `will` به‌اضافهٔ فعل ساده.",
+      "en": "The `if` clause can come first or last; if it comes first, a comma follows it. The `if` clause can also be passive, still in the simple present: `If the laws are obeyed, the planet will be saved.` In \"correct form of the verbs in brackets\" questions, you must change both verbs: one to the simple present, the other to `will` plus the base verb.",
+      "tr": "Band-e `if` mitavanad avval ya akhar-e jomle biayad; agar avval biayad, ba'dash virgool migozarim. Band-e `if` mitavanad majhool ham bashad, ba haman hal-e sade: `If the laws are obeyed, the planet will be saved.` Dar so'al-haye \"shekl-e dorost-e fe'l-haye dakhel-e parantez\", har do fe'l ra bayad avaz koni: yeki ra hal-e sade va digari ra `will` be-ezafe-ye fe'l-e sade."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "If + present simple ,  will + V1",
+     "caption": {
+      "fa": "شرطی نوع اول: شرط واقعی، نتیجهٔ آینده",
+      "en": "First conditional: a real condition, a future result",
+      "tr": "Sharti-ye no'-e avval: shart-e vaghe'i, natije-ye ayande"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: فعل درست را بنویس: `If scientists develop clean energy, they ___ the planet.` (آزمون دی ۱۳۹۹)",
+      "en": "Warm-up: write the right verb: `If scientists develop clean energy, they ___ the planet.` (Dey 1399 paper)",
+      "tr": "Garm kardan: fe'l-e dorost ra benevis: `If scientists develop clean energy, they ___ the planet.` (azmoon-e Dey 1399)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بند `if` حال ساده است (`develop`)، پس جای خالی بند نتیجه است: `will` و فعل ساده.",
+        "en": "The `if` clause is the simple present (`develop`), so the gap is the result clause: `will` plus the base verb.",
+        "tr": "Band-e `if` hal-e sade ast (`develop`), pas ja-ye khali band-e natije ast: `will` va fe'l-e sade."
+       },
+       "math": "will + save"
+      }
+     ],
+     "answer": {
+      "fa": "`will save`",
+      "en": "`will save`",
+      "tr": "`will save`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شکل درست فعل‌های داخل پرانتز را بنویس: `If scientists (develop) clean energy sources, they (save) the environment from global warming.` (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: write the correct form of the verbs in brackets: `If scientists (develop) clean energy sources, they (save) the environment from global warming.` (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: shekl-e dorost-e fe'l-haye dakhel-e parantez ra benevis: `If scientists (develop) clean energy sources, they (save) the environment from global warming.` (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بند `if`: حال ساده؛ `scientists` جمع است، پس `develop` بدون `-s`.",
+        "en": "The `if` clause: simple present; `scientists` is plural, so `develop` with no `-s`.",
+        "tr": "Band-e `if`: hal-e sade; `scientists` jam' ast, pas `develop` bedoon-e `-s`."
+       },
+       "math": "If scientists develop"
+      },
+      {
+       "text": {
+        "fa": "بند نتیجه: `will` و فعل ساده.",
+        "en": "The result clause: `will` plus the base verb.",
+        "tr": "Band-e natije: `will` va fe'l-e sade."
+       },
+       "math": "they will save"
+      }
+     ],
+     "answer": {
+      "fa": "`If scientists develop clean energy sources, they will save the environment from global warming.`",
+      "en": "`If scientists develop clean energy sources, they will save the environment from global warming.`",
+      "tr": "`If scientists develop clean energy sources, they will save the environment from global warming.`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شکل حال سادهٔ مجهول را برای بند شرط بنویس: `If the environmental laws ___ by companies, the planet will be saved from global warming.` (آزمون خرداد ۱۴۰۰)",
+      "en": "Exam twist: write the simple present passive for the condition: `If the environmental laws ___ by companies, the planet will be saved from global warming.` (Khordad 1400 paper)",
+      "tr": "Pich-e emtehani: shekl-e hal-e sade-ye majhool ra baraye band-e shart benevis: `If the environmental laws ___ by companies, the planet will be saved from global warming.` (azmoon-e Khordad 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: شرطی و مجهول با هم. قوانین را رعایت «می‌کنند» (`by companies`)، پس بند شرط مجهول است.",
+        "en": "The twist: conditional and passive together. The laws are obeyed by companies (`by companies`), so the condition is passive.",
+        "tr": "Pich-e emtehan: sharti va majhool ba ham. Ghavanin ra ra'ayat \"mikonand\" (`by companies`), pas band-e shart majhool ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "بند شرط حال ساده می‌خواهد، نه `will`؛ `laws` جمع است، پس `are`.",
+        "en": "The condition needs the simple present, not `will`; `laws` is plural, so `are`.",
+        "tr": "Band-e shart hal-e sade mikhahad, na `will`; `laws` jam' ast, pas `are`."
+       },
+       "math": "are + obeyed"
+      }
+     ],
+     "answer": {
+      "fa": "`are obeyed`",
+      "en": "`are obeyed`",
+      "tr": "`are obeyed`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از `if` آینده ننویس: `If scientists will develop...` غلط است؛ `will` فقط در بند نتیجه.",
+      "en": "Do not write the future after `if`: `If scientists will develop...` is wrong; `will` only in the result clause.",
+      "tr": "Ba'd az `if` ayande nanevis: `If scientists will develop...` ghalat ast; `will` faghat dar band-e natije."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "در سؤال پرانتزی هر دو فعل را عوض کن؛ فقط یکی را درست کردن نیمی از نمره است.",
+      "en": "In a brackets question change both verbs; fixing only one earns half the mark.",
+      "tr": "Dar so'al-e parantezi har do fe'l ra avaz kon; faghat yeki ra dorost kardan nimi az nomre ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1399-Dey",
+     "number": 901
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 936
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 6,
+   "key": "eng-2-gerund-infinitive",
+   "title": {
+    "fa": "مصدر یا اسم مصدر بعد از فعل",
+    "en": "Gerund or infinitive",
+    "tr": "Masdar ya esm-e masdar ba'd az fe'l"
+   },
+   "summary": {
+    "fa": "بعضی فعل‌ها به آینده نگاه می‌کنند (`to`)، بعضی به کاری که در جریان است (`-ing`).",
+    "en": "Some verbs look ahead to the future (`to`), others at an action in progress (`-ing`).",
+    "tr": "Ba'zi fe'l-ha be ayande negah mikonand (`to`), ba'zi be kari ke dar jaryan ast (`-ing`)."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: پیکان رو به جلو یا کار در جریان",
+      "en": "Understand first: an arrow forward or an action in progress",
+      "tr": "Avval befahm: peykan-e roo be jolo ya kar-e dar jaryan"
+     },
+     "body": {
+      "fa": "وقتی دو فعل پشت هم می‌آیند، فعل اول تعیین می‌کند دومی چه شکلی بگیرد. یک راه یادگیری: فعل‌هایی که دربارهٔ تصمیم و نقشهٔ آینده‌اند معمولاً `to` می‌گیرند، مثل پیکانی رو به جلو: `decide to launch`، `want to help`، `plan to build`. فعل‌هایی که دربارهٔ خودِ کارِ در جریان یا تمام‌شده‌اند `-ing` می‌گیرند: `finish installing`، `avoid hurting`، `enjoy reading`.",
+      "en": "When two verbs come together, the first one decides the form of the second. One way to learn it: verbs about decisions and future plans usually take `to`, like an arrow pointing forward: `decide to launch`, `want to help`, `plan to build`. Verbs about the action itself, in progress or finished, take `-ing`: `finish installing`, `avoid hurting`, `enjoy reading`.",
+      "tr": "Vaghti do fe'l posht-e ham miayand, fe'l-e avval ta'yin mikonad dovvomi che shekli begirad. Yek rah-e yadgiri: fe'l-hayi ke darbare-ye tasmim va naghshe-ye ayande-and ma'moolan `to` migirand, mesl-e peykani roo be jolo: `decide to launch`, `want to help`, `plan to build`. Fe'l-hayi ke darbare-ye khod-e kar-e dar jaryan ya tamam-shode-and `-ing` migirand: `finish installing`, `avoid hurting`, `enjoy reading`."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " + to V1  (looking ahead)\n   decide  want  plan  hope\n   -> decided TO LAUNCH\n\n + V-ing  (the action itself)\n   finish  avoid  enjoy  keep\n   -> finished INSTALLING",
+     "caption": {
+      "fa": "دو گروه فعل: گروه اول با `to`، گروه دوم با `-ing`؛ این فهرست‌ها را حفظ کن.",
+      "en": "Two groups of verbs: the first with `to`, the second with `-ing`; learn these lists.",
+      "tr": "Do goroh fe'l: goroh-e avval ba `to`, goroh-e dovvom ba `-ing`; in fehrest-ha ra hefz kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "فقط فعل اول زمان را نشان می‌دهد",
+      "en": "Only the first verb shows the tense",
+      "tr": "Faghat fe'l-e avval zaman ra neshan midahad"
+     },
+     "body": {
+      "fa": "زمانِ فعل اول هر چه باشد، شکل فعل دوم عوض نمی‌شود: `decided to launch` (نه `decided to launched`) و `finished installing` (نه `finished installed`). یعنی فقط فعل اول زمان را نشان می‌دهد.",
+      "en": "Whatever the tense of the first verb, the second verb's form does not change: `decided to launch` (not `decided to launched`) and `finished installing` (not `finished installed`). Only the first verb shows the tense.",
+      "tr": "Zaman-e fe'l-e avval har che bashad, shekl-e fe'l-e dovvom avaz nemishavad: `decided to launch` (na `decided to launched`) va `finished installing` (na `finished installed`). Ya'ni faghat fe'l-e avval zaman ra neshan midahad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "decide / want / plan + to + V1     finish / avoid / enjoy + V-ing",
+     "caption": {
+      "fa": "شکل فعل دوم را فعل اول تعیین می‌کند",
+      "en": "The first verb decides the second verb's form",
+      "tr": "Shekl-e fe'l-e dovvom ra fe'l-e avval ta'yin mikonad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: شکل درست را بنویس: `The local council decided ___ a clean solar energy program next month.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: write the right form: `The local council decided ___ a clean solar energy program next month.` (Dey 1400 paper)",
+      "tr": "Garm kardan: shekl-e dorost ra benevis: `The local council decided ___ a clean solar energy program next month.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`decide` دربارهٔ تصمیم برای آینده است (`next month`)، پس `to` و فعل ساده.",
+        "en": "`decide` is about a decision for the future (`next month`), so `to` plus the base verb.",
+        "tr": "`decide` darbare-ye tasmim baraye ayande ast (`next month`), pas `to` va fe'l-e sade."
+       },
+       "math": "decided + to launch"
+      }
+     ],
+     "answer": {
+      "fa": "`to launch`",
+      "en": "`to launch`",
+      "tr": "`to launch`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: شکل درست را بنویس: `They finished ___ the clean solar power station lines yesterday.` (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: write the right form: `They finished ___ the clean solar power station lines yesterday.` (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: shekl-e dorost ra benevis: `They finished ___ the clean solar power station lines yesterday.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`finish` به خودِ کار نگاه می‌کند، پس فعل بعدش `-ing` می‌گیرد.",
+        "en": "`finish` looks at the action itself, so the next verb takes `-ing`.",
+        "tr": "`finish` be khod-e kar negah mikonad, pas fe'l-e ba'dash `-ing` migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "`yesterday` فقط روی `finished` اثر دارد؛ فعل دوم همان `-ing` می‌ماند.",
+        "en": "`yesterday` affects only `finished`; the second verb stays as `-ing`.",
+        "tr": "`yesterday` faghat rooye `finished` asar darad; fe'l-e dovvom haman `-ing` mimanad."
+       },
+       "math": "finished + installing"
+      }
+     ],
+     "answer": {
+      "fa": "`installing`",
+      "en": "`installing`",
+      "tr": "`installing`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: غلط را پیدا کن: `The engineers decided building a new wind farm, and they finished to plan it last week.`",
+      "en": "Exam twist: find the mistakes: `The engineers decided building a new wind farm, and they finished to plan it last week.`",
+      "tr": "Pich-e emtehani: ghalat ra peyda kon: `The engineers decided building a new wind farm, and they finished to plan it last week.`"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: شکل‌ها جابه‌جا شده‌اند. `decide` باید `to` بگیرد و `finish` باید `-ing`.",
+        "en": "The twist: the forms are swapped. `decide` needs `to` and `finish` needs `-ing`.",
+        "tr": "Pich-e emtehan: shekl-ha jabeja shode-and. `decide` bayad `to` begirad va `finish` bayad `-ing`."
+       },
+       "math": "decided to build ...  finished planning ..."
+      }
+     ],
+     "answer": {
+      "fa": "`decided to build` و `finished planning`",
+      "en": "`decided to build` and `finished planning`",
+      "tr": "`decided to build` va `finished planning`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از `to` فعل ساده: `to launch`، نه `to launched` یا `to launching`.",
+      "en": "After `to` the base verb: `to launch`, not `to launched` or `to launching`.",
+      "tr": "Ba'd az `to` fe'l-e sade: `to launch`, na `to launched` ya `to launching`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بعد از `finish` هرگز `to`: `finished installing`، نه `finished to install`.",
+      "en": "Never `to` after `finish`: `finished installing`, not `finished to install`.",
+      "tr": "Ba'd az `finish` hargez `to`: `finished installing`, na `finished to install`."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 947
+    },
+    {
+     "session": "1400-Dey",
+     "number": 948
+    }
+   ]
+  },
+  {
+   "subject": "English",
+   "chapter": 2,
+   "unit": 7,
+   "key": "eng-2-vocabulary",
+   "title": {
+    "fa": "واژگان محیط زیست و هم‌نشین‌ها",
+    "en": "Environment vocabulary and collocations",
+    "tr": "Vazhegan-e mohit-e zist va ham-neshin-ha"
+   },
+   "summary": {
+    "fa": "بعضی کلمه‌ها جفت‌های همیشگی دارند، مثل دو دوست که همیشه با هم‌اند.",
+    "en": "Some words have permanent partners, like two friends who always go together.",
+    "tr": "Ba'zi kalame-ha joft-haye hamishegi darand, mesl-e do doost ke hamishe ba ham-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: جفت‌های جدانشدنی",
+      "en": "Understand first: inseparable pairs",
+      "tr": "Avval befahm: joft-haye joda-nashodani"
+     },
+     "body": {
+      "fa": "«هم‌نشین» یعنی دو کلمه که انگلیسی‌زبان‌ها همیشه با هم به‌کار می‌برند، مثل دو دوست جدانشدنی: `cause damage` (آسیب زدن)، `reduce emissions` (کاهش گازهای خروجی)، `global warming` (گرمایش جهانی)، `generate electricity` (تولید برق). اگر جفت را بشناسی، جای خالی خودش پر می‌شود. پس واژه‌ها را تکی حفظ نکن؛ با جفتشان حفظ کن.",
+      "en": "A \"collocation\" is two words that English speakers always use together, like two inseparable friends: `cause damage`, `reduce emissions`, `global warming`, `generate electricity`. If you know the pair, the gap fills itself. So do not learn words on their own; learn them with their partner.",
+      "tr": "\"Ham-neshin\" ya'ni do kalame ke engelisi-zaban-ha hamishe ba ham be-kar mibarand, mesl-e do doost-e joda-nashodani: `cause damage` (asib zadan), `reduce emissions` (kahesh-e gaz-haye khorooji), `global warming` (garmayesh-e jahani), `generate electricity` (tolid-e bargh). Agar joft ra beshenasi, ja-ye khali khodash por mishavad. Pas vazhe-ha ra taki hefz nakon; ba jofteshan hefz kon."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " cause      + damage\n reduce     + emissions\n global     + warming\n generate   + electricity\n convert X  + into electricity\n recycle    + paper / plastic\n achieve    + success\n protect    + nature / animals",
+     "caption": {
+      "fa": "هر جفت را با هم حفظ کن؛ در سؤال، یکی از دو کلمه داده شده و دیگری جای خالی است.",
+      "en": "Learn each pair together; in a question one word is given and the other is the gap.",
+      "tr": "Har joft ra ba ham hefz kon; dar so'al, yeki az do kalame dade shode va digari ja-ye khali ast."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "معنا و شکل",
+      "en": "Meaning and form",
+      "tr": "Ma'na va shekl"
+     },
+     "body": {
+      "fa": "واژه‌های کلیدی دیگر درس: `destroy` (نابود کردن)، `protect` (حفاظت کردن از خطر)، `recycle` (بازیافت کردن)، `convert ... into` (تبدیل کردن به)، `physician` (پزشک). برای هر جای خالی دو چیز را بسنج: معنا (جمله دربارهٔ چیست؟) و شکل (فعل، اسم یا صفت؟ گذشته یا حال؟). مثلاً بعد از `can be` قسمت سوم فعل لازم است: `can be converted`.",
+      "en": "Other key words of the lesson: `destroy`, `protect` (keep safe from harm), `recycle`, `convert ... into` (change into), `physician` (a medical doctor). For every gap check two things: meaning (what is the sentence about?) and form (verb, noun or adjective? past or present?). For example, after `can be` we need a past participle: `can be converted`.",
+      "tr": "Vazhe-haye kelidi-ye digar-e dars: `destroy` (naboood kardan), `protect` (hefazat kardan az khatar), `recycle` (baz-yaft kardan), `convert ... into` (tabdil kardan be), `physician` (pezeshk). Baraye har ja-ye khali do chiz ra besanj: ma'na (jomle darbare-ye chist?) va shekl (fe'l, esm ya sefat? gozashte ya hal?). Masalan ba'd az `can be` ghesmat-e sevvom-e fe'l lazem ast: `can be converted`."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cause damage ,  reduce emissions ,  global warming ,  generate electricity",
+     "caption": {
+      "fa": "چهار جفت پرتکرار امتحان",
+      "en": "Four pairs the exam asks most",
+      "tr": "Chahar joft-e por-tekrar-e emtehan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: هم‌نشین را کامل کن: `We must reduce greenhouse gas ___.` (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: complete the collocation: `We must reduce greenhouse gas ___.` (Dey 1400 paper)",
+      "tr": "Garm kardan: ham-neshin ra kamel kon: `We must reduce greenhouse gas ___.` (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "جفت `reduce` در بحث گازها `emissions` است: گازهایی که بیرون داده می‌شوند.",
+        "en": "The partner of `reduce` for gases is `emissions`: the gases that are released.",
+        "tr": "Joft-e `reduce` dar bahs-e gaz-ha `emissions` ast: gaz-hayi ke biroon dade mishavand."
+       },
+       "math": "reduce + emissions"
+      }
+     ],
+     "answer": {
+      "fa": "`emissions`",
+      "en": "`emissions`",
+      "tr": "`emissions`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کلمهٔ درست را بنویس: `We must take care of our planet and stop cutting down trees, because deforestation can cause serious ___ to wildlife.` (آزمون خرداد ۱۳۹۵)",
+      "en": "Textbook and exam: write the right word: `We must take care of our planet and stop cutting down trees, because deforestation can cause serious ___ to wildlife.` (Khordad 1395 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kalame-ye dorost ra benevis: `We must take care of our planet and stop cutting down trees, because deforestation can cause serious ___ to wildlife.` (azmoon-e Khordad 1395)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "`cause` جفت همیشگی‌اش را می‌خواهد و `serious` نشان می‌دهد جای خالی اسم است.",
+        "en": "`cause` wants its permanent partner, and `serious` shows the gap is a noun.",
+        "tr": "`cause` joft-e hamishegi-ash ra mikhahad va `serious` neshan midahad ja-ye khali esm ast."
+       },
+       "math": "cause serious + damage"
+      }
+     ],
+     "answer": {
+      "fa": "`damage`",
+      "en": "`damage`",
+      "tr": "`damage`"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: شکل درست را بنویس: `Wind and solar radiation are renewable energy sources that can be ___ into clean electricity.` (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: write the right form: `Wind and solar radiation are renewable energy sources that can be ___ into clean electricity.` (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: shekl-e dorost ra benevis: `Wind and solar radiation are renewable energy sources that can be ___ into clean electricity.` (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: معنا را `into` لو می‌دهد (`convert ... into`)، ولی `can be` می‌گوید جمله مجهول است.",
+        "en": "The twist: `into` gives away the meaning (`convert ... into`), but `can be` says the sentence is passive.",
+        "tr": "Pich-e emtehan: ma'na ra `into` loo midahad (`convert ... into`), vali `can be` miguyad jomle majhool ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس قسمت سوم فعل لازم است، نه `convert`.",
+        "en": "So we need the past participle, not `convert`.",
+        "tr": "Pas ghesmat-e sevvom-e fe'l lazem ast, na `convert`."
+       },
+       "math": "can be + converted + into"
+      }
+     ],
+     "answer": {
+      "fa": "`converted`",
+      "en": "`converted`",
+      "tr": "`converted`"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`damage` اسم غیرقابل‌شمارش است: `cause serious damage`، نه `a damage` یا `damages`.",
+      "en": "`damage` is uncountable: `cause serious damage`, not `a damage` or `damages`.",
+      "tr": "`damage` esm-e gheyr-e ghabel-e shomaresh ast: `cause serious damage`, na `a damage` ya `damages`."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هم‌معنی جای هم‌نشین را نمی‌گیرد: `make damage` یا `produce warming` نمره ندارد.",
+      "en": "A synonym cannot replace a collocation: `make damage` or `produce warming` earns nothing.",
+      "tr": "Ham-ma'ni ja-ye ham-neshin ra nemigirad: `make damage` ya `produce warming` nomre nadarad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 904
+    },
+    {
+     "session": "1395-Khordad",
+     "number": 0
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 930
+    },
+    {
+     "session": "1400-Dey",
+     "number": 934
+    },
+    {
+     "session": "1399-Khordad",
+     "number": 933
+    },
+    {
+     "session": "1400-Dey",
+     "number": 942
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 947
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 948
+    },
+    {
+     "session": "1401-Dey",
+     "number": 925
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 922
+    },
+    {
+     "session": "1399-Dey",
+     "number": 912
+    }
+   ]
+  }
+ ]
+}
