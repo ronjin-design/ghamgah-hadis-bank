@@ -1,0 +1,1272 @@
+{
+ "version": 152,
+ "format": 9,
+ "lessons": [
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 1,
+   "key": "per-1-twin-words",
+   "title": {
+    "fa": "معنا از راه واژهٔ همزاد",
+    "en": "Meaning from the twin word",
+    "tr": "Ma'na az rah-e vazhe-ye hamzad"
+   },
+   "summary": {
+    "fa": "واژهٔ ناآشنا اغلب با یک همزاد آشنا کنارش می‌آید: «خذلان و گمراهی».",
+    "en": "An unfamiliar word often comes with a familiar twin beside it: \"khezlan va gomrahi\".",
+    "tr": "Vazhe-ye na-ashna aghlab ba yek hamzad-e ashna kenarash miayad: \"khezlan va gomrahi\"."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو خواهر دوقلو",
+      "en": "Understand first: twin sisters",
+      "tr": "Avval befahm: do khahar-e doghoolo"
+     },
+     "body": {
+      "fa": "نویسنده‌های فارسی عادت دارند دو واژهٔ هم‌معنا را با «و» کنار هم بگذارند: یکی کهن یا عربی، دیگری ساده‌تر. مثل دو خواهر دوقلو که یکی را می‌شناسی: اگر «گمراهی» را بشناسی، «خذلان» هم از همان خانواده است. در سؤال معنای واژه، اول دنبال این همزاد بگرد؛ اغلب جواب درست را خود جمله لو داده است.",
+      "en": "Persian writers like to set two words of the same meaning side by side with \"va\" (and): one old or Arabic, the other plainer. Like twin sisters when you know one of them: if you know \"gomrahi\" (going astray), then \"khezlan\" belongs to the same family. In a word-meaning question, look for this twin first; the sentence itself often gives the answer away.",
+      "tr": "Nevisande-haye farsi adat darand do vazhe-ye ham-ma'na ra ba \"va\" kenar-e ham begozarand: yeki kohan ya arabi, digari sade-tar. Mesl-e do khahar-e doghoolo ke yeki ra mishenasi: agar \"gomrahi\" ra beshenasi, \"khezlan\" ham az haman khanevade ast. Dar so'al-e ma'na-ye vazhe, avval donbal-e in hamzad begard; aghlab javab-e dorost ra khod-e jomle loo dade ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " \"... mayeh-ye KHEZLAN va gomrahi\"\n              [unknown] and [known]\n                   \\        /\n                  same family\n                       |\n   khezlan = disgrace, left helpless\n\n look for:  X va Y   (X and Y)\n also:      X o Y,  \"and\" pairs",
+     "caption": {
+      "fa": "واژهٔ ناشناخته و همزاد آشنایش با «و» به هم بسته‌اند؛ معنای آشنا راه را نشان می‌دهد.",
+      "en": "The unknown word and its familiar twin are tied with \"va\"; the familiar meaning shows the way.",
+      "tr": "Vazhe-ye nashenakhte va hamzad-e ashnayash ba \"va\" be ham baste-and; ma'na-ye ashna rah ra neshan midahad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جهت معنا",
+      "en": "The direction of meaning",
+      "tr": "Jahat-e ma'na"
+     },
+     "body": {
+      "fa": "گاهی همزاد دقیقاً هم‌معنا نیست ولی هم‌خانواده است: «سطوت و عظمت» (شکوه)، «صلابت و پایداری» (استواری)، «زوال و دگرگونی» (نابودی و از میان رفتن). کافی است جهت معنا را بگیری: مثبت یا منفی، قدرت یا ضعف. بعد گزینه‌ای را بزن که در همان جهت است.",
+      "en": "Sometimes the twin is not an exact synonym but from the same family: \"satvat va azamat\" (majesty), \"salabat va paydari\" (firmness), \"zaval va degargooni\" (decline, passing away). It is enough to catch the direction of the meaning: positive or negative, strength or weakness. Then choose the option that points the same way.",
+      "tr": "Gahi hamzad daghighan ham-ma'na nist vali ham-khanevade ast: \"satvat va azamat\" (shokooh), \"salabat va paydari\" (ostovari), \"zaval va degargooni\" (nabudi va az miyan raftan). Kafi ast jahat-e ma'na ra begiri: mosbat ya manfi, ghodrat ya za'f. Ba'd gozine-i ra bezan ke dar haman jahat ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "X  va  Y   ->   meaning(X) ≈ meaning(Y)",
+     "caption": {
+      "fa": "واژهٔ ناشناخته کنار همزاد آشنایش",
+      "en": "The unknown word beside its familiar twin",
+      "tr": "Vazhe-ye nashenakhte kenar-e hamzad-e ashnayash"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «ضلالت» در «آن نویسنده، غبار ضلالت و گمراهی را از اندیشهٔ خوانندگان زدود.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: what does \"zalalat\" mean in \"that writer wiped the dust of zalalat va gomrahi from his readers' minds\"? (Khordad 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"zalalat\" dar \"an nevisande, ghobar-e zalalat va gomrahi ra az andishe-ye khanandegan zodood\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "همزاد آشنا درست کنارش است: «گمراهی».",
+        "en": "The familiar twin is right beside it: \"gomrahi\" (going astray).",
+        "tr": "Hamzad-e ashna dorost kenarash ast: \"gomrahi\"."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "گمراهی",
+      "en": "Going astray",
+      "tr": "Gomrahi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «تعب» در «با دیدن کاروان‌سرا، گویی غبار تعب و خستگی از تن مسافران زدوده می‌شد.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"ta'ab\" mean in \"at the sight of the caravanserai, the dust of ta'ab va khastegi seemed to be wiped from the travellers\"? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"ta'ab\" dar \"ba didan-e karevan-sara, gooyi ghobar-e ta'ab va khastegi az tan-e mosaferan zodoode mishod\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "همزاد: «خستگی». جهت معنا منفی و جسمی است.",
+        "en": "The twin: \"khastegi\" (tiredness). The meaning is negative and physical.",
+        "tr": "Hamzad: \"khastegi\". Jahat-e ma'na manfi va jesmi ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "در گزینه‌ها «ثروت»، «شادمانی» و «دانش» همه مثبت‌اند؛ فقط «رنج و سختی» در جهت همزاد است.",
+        "en": "Among the options, \"wealth\", \"joy\" and \"knowledge\" are all positive; only \"hardship\" points the way of the twin.",
+        "tr": "Dar gozine-ha \"servat\", \"shadmani\" va \"danesh\" hame mosbat-and; faghat \"ranj va sakhti\" dar jahat-e hamzad ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "رنج و سختی",
+      "en": "Hardship, toil",
+      "tr": "Ranj va sakhti"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «مسکنت» در «سزاوار نیست که انسان شرافت خود را با مذلت و مسکنت سودا کند.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: what does \"maskanat\" mean in \"it is not fitting for a person to trade their honour for mazallat va maskanat\"? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"maskanat\" dar \"sezavar nist ke ensan sharafat-e khod ra ba mazallat va maskanat sowda konad\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: این بار هر دو واژهٔ جفت ناآشنا‌اند. ولی اگر «مذلت» (خواری) را از سؤال دیگری بشناسی، جهت معنا روشن است: پستی و بیچارگی.",
+        "en": "The twist: this time both words of the pair are unfamiliar. But if you know \"mazallat\" (abasement) from another question, the direction is clear: lowliness and misery.",
+        "tr": "Pich-e emtehan: in bar har do vazhe-ye joft na-ashna-and. Vali agar \"mazallat\" (khari) ra az so'al-e digari beshenasi, jahat-e ma'na roshan ast: pasti va bicharegi."
+       }
+      },
+      {
+       "text": {
+        "fa": "ریشهٔ «مسکین» هم کمک می‌کند: مسکنت یعنی حال مسکین بودن.",
+        "en": "The root \"meskin\" (poor) helps too: maskanat is the state of being poor and wretched.",
+        "tr": "Rishe-ye \"meskin\" ham komak mikonad: maskanat ya'ni hal-e meskin boodan."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بیچارگی و تهیدستی",
+      "en": "Misery and poverty",
+      "tr": "Bicharegi va tahidasti"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "همزاد را با «متضاد» اشتباه نگیر: گاهی «و» میان دو واژهٔ مخالف می‌آید («شب و روز»). معنای کل جمله را هم بسنج.",
+      "en": "Do not take an opposite for a twin: sometimes \"va\" joins two opposite words (\"shab va rooz\", night and day). Check the meaning of the whole sentence too.",
+      "tr": "Hamzad ra ba \"motazad\" eshtebah nagir: gahi \"va\" miyan-e do vazhe-ye mokhalef miayad (\"shab va rooz\"). Ma'na-ye kol-e jomle ra ham besanj."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گزینه‌ای که دقیقاً همان همزاد را تکرار کند همیشه درست نیست؛ معنای «دقیق» واژه را بخواه، نه فقط جهتش.",
+      "en": "An option that simply repeats the twin is not always right; aim for the word's \"exact\" meaning, not just its direction.",
+      "tr": "Gozine-i ke daghighan haman hamzad ra tekrar konad hamishe dorost nist; ma'na-ye \"daghigh\"-e vazhe ra bekhah, na faghat jahatash."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 993
+    },
+    {
+     "session": "1401-Dey",
+     "number": 976
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 988
+    },
+    {
+     "session": "1400-Dey",
+     "number": 977
+    },
+    {
+     "session": "1400-Dey",
+     "number": 980
+    },
+    {
+     "session": "1400-Dey",
+     "number": 985
+    },
+    {
+     "session": "1400-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Dey",
+     "number": 977
+    },
+    {
+     "session": "1401-Dey",
+     "number": 978
+    },
+    {
+     "session": "1401-Dey",
+     "number": 979
+    },
+    {
+     "session": "1401-Dey",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 986
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 976
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 983
+    }
+   ]
+  },
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 2,
+   "key": "per-1-scene-meaning",
+   "title": {
+    "fa": "معنا از تصویر جمله",
+    "en": "Meaning from the picture of the sentence",
+    "tr": "Ma'na az tasvir-e jomle"
+   },
+   "summary": {
+    "fa": "وقتی همزادی نیست، تصویر جمله را ببین و گزینه‌های ناجور را خط بزن.",
+    "en": "When there is no twin, see the picture the sentence paints and strike out the options that do not fit.",
+    "tr": "Vaghti hamzadi nist, tasvir-e jomle ra bebin va gozine-haye najoor ra khatt bezan."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مثل یک کارآگاه",
+      "en": "Understand first: like a detective",
+      "tr": "Avval befahm: mesl-e yek karagah"
+     },
+     "body": {
+      "fa": "بعضی جمله‌ها همزاد ندارند، ولی یک «صحنه» می‌سازند. مثل کارآگاهی که از روی صحنهٔ جرم حدس می‌زند: «در آن کویر تفته، ذرات شن همواره دستخوش بادهای سموم بودند.» کویر داغ و باد؛ پس «سموم» بادی داغ است، نه کولاک برف. صحنه را در ذهنت بساز و بپرس: کدام معنا در این صحنه جا می‌شود؟",
+      "en": "Some sentences have no twin but paint a \"scene\". Like a detective guessing from a crime scene: \"in that burning desert, the grains of sand were always at the mercy of the samoom winds\". A hot desert and wind: so \"samoom\" is a hot wind, not a snowstorm. Build the scene in your head and ask: which meaning fits this scene?",
+      "tr": "Ba'zi jomle-ha hamzad nadarand, vali yek \"sahne\" misazand. Mesl-e karagahi ke az rooye sahne-ye jorm hads mizanad: \"dar an kavir-e tafte, zarrat-e shen hamvare dastkhosh-e bad-haye samoom boodand.\" Kavir-e dagh va bad; pas \"samoom\" badi dagh ast, na koolak-e barf. Sahne ra dar zehnat besaz va bepors: kodam ma'na dar in sahne ja mishavad?"
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 1  picture the scene\n    (desert? battle? prayer?)\n 2  feel its mood: + or -\n 3  strike out options that\n    clash with the scene\n    (snowstorm in a hot desert)\n 4  strike out the opposite\n    (the usual trap option)\n 5  check the last one in the gap",
+     "caption": {
+      "fa": "پنج قدم: صحنه، حال‌وهوا، حذف ناجورها، حذف متضاد، و آزمودن گزینهٔ باقی‌مانده در جای خالی.",
+      "en": "Five steps: the scene, its mood, strike the misfits, strike the opposite, and test the remaining option in the gap.",
+      "tr": "Panj gam: sahne, hal-o-hava, hazf-e najoor-ha, hazf-e motazad, va azmoodan-e gozine-ye baghi-mande dar ja-ye khali."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دام متضاد",
+      "en": "The opposite trap",
+      "tr": "Dam-e motazad"
+     },
+     "body": {
+      "fa": "طراح سؤال تقریباً همیشه «متضاد» واژه را هم در گزینه‌ها می‌گذارد: برای «مستور» گزینهٔ «آشکار»، برای «وقار» گزینهٔ «سبکی و جلفی». این متضاد دامی است برای کسی که فقط «حس» می‌کند واژه با آن مرتبط است. وقتی یکی از گزینه‌ها دقیقاً ضد دیگری است، جواب معمولاً یکی از همین دوتاست؛ تصویر جمله می‌گوید کدام.",
+      "en": "The examiner almost always puts the word's \"opposite\" among the options: for \"mastoor\" (hidden) the option \"ashkar\" (obvious), for \"vaghar\" (dignity) the option \"lightness and frivolity\". This opposite is a trap for anyone who only \"feels\" the word is connected to it. When one option is the exact opposite of another, the answer is usually one of those two; the picture of the sentence says which.",
+      "tr": "Tarrah-e so'al taghriban hamishe \"motazad\"-e vazhe ra ham dar gozine-ha migozarad: baraye \"mastoor\" gozine-ye \"ashkar\", baraye \"vaghar\" gozine-ye \"sabki va jelfi\". In motazad dami ast baraye kasi ke faghat \"hes\" mikonad vazhe ba an mortabet ast. Vaghti yeki az gozine-ha daghighan zedd-e digari ast, javab ma'moolan yeki az hamin do-tast; tasvir-e jomle miguyad kodam."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "scene + mood  ->  strike misfits + strike the opposite  ->  answer",
+     "caption": {
+      "fa": "حذف گزینه‌ها با صحنهٔ جمله",
+      "en": "Eliminating options with the sentence's scene",
+      "tr": "Hazf-e gozine-ha ba sahne-ye jomle"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «سموم» در «در آن کویر تفته، ذرات شن همواره دستخوش بادهای سموم بودند.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what does \"samoom\" mean in \"in that burning desert, the sand was always at the mercy of the samoom winds\"? (Dey 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"samoom\" dar \"dar an kavir-e tafte, zarrat-e shen hamvare dastkhosh-e bad-haye samoom boodand\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صحنه: کویر داغ و باد. «کولاک برف» و «نسیم مرطوب صبحگاهی» با کویر تفته نمی‌خوانند.",
+        "en": "The scene: a hot desert and wind. \"A snowstorm\" and \"a damp morning breeze\" do not fit a burning desert.",
+        "tr": "Sahne: kavir-e dagh va bad. \"Koolak-e barf\" va \"nasim-e martoob-e sobhgahi\" ba kavir-e tafte nemikhanand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "باد سوزان و زهرآگین",
+      "en": "A burning, poisonous wind",
+      "tr": "Bad-e soozan va zahragin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «مأمن» در «کاروان خسته سرانجام در آن صحرای تفته به مأمنی رسید.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"ma'man\" mean in \"the tired caravan at last reached a ma'man in that burning desert\"? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"ma'man\" dar \"karevan-e khaste saranjam dar an sahra-ye tafte be ma'mani resid\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "صحنه: کاروانی خسته در صحرای داغ که «سرانجام» به جایی می‌رسد. حال‌وهوا: نجات و آسودگی.",
+        "en": "The scene: a tired caravan in a hot desert that \"at last\" reaches somewhere. The mood: rescue and relief.",
+        "tr": "Sahne: karevani khaste dar sahra-ye dagh ke \"saranjam\" be jayi miresad. Hal-o-hava: nejat va asoodegi."
+       }
+      },
+      {
+       "text": {
+        "fa": "«تنگهٔ خطرناک» و «سیاه‌چاله» با این حال‌وهوا جور نیستند. ریشهٔ «امن» هم در واژه پیداست.",
+        "en": "\"A dangerous pass\" and \"a black hole\" clash with this mood. The root \"amn\" (safety) is visible in the word too.",
+        "tr": "\"Tange-ye khatarnak\" va \"siah-chale\" ba in hal-o-hava joor nistand. Rishe-ye \"amn\" ham dar vazhe peydast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پناهگاه، جای امن",
+      "en": "A refuge, a safe place",
+      "tr": "Panahgah, ja-ye amn"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «وقار» در «در آن کویر بی‌پایان، گویی شب با وقار خود بر جهان سایه می‌گستراند.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: what does \"vaghar\" mean in \"in that endless desert, the night seemed to spread its shadow over the world with its vaghar\"? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"vaghar\" dar \"dar an kavir-e bi-payan, gooyi shab ba vaghar-e khod bar jahan saye migostarand\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «سبکی و جلفی» دقیقاً ضد گزینهٔ «سنگینی و متانت» است؛ جواب یکی از این دوتاست.",
+        "en": "The twist: the option \"lightness and frivolity\" is the exact opposite of \"weight and composure\"; the answer is one of these two.",
+        "tr": "Pich-e emtehan: gozine-ye \"sabki va jelfi\" daghighan zedd-e gozine-ye \"sangini va metanat\" ast; javab yeki az in do-tast."
+       }
+      },
+      {
+       "text": {
+        "fa": "صحنهٔ شب آرام و باشکوه کویر با «سنگینی و متانت» می‌خواند، نه با جلفی.",
+        "en": "The calm, majestic desert night fits \"weight and composure\", not frivolity.",
+        "tr": "Sahne-ye shab-e aram va ba-shokooh-e kavir ba \"sangini va metanat\" mikhanad, na ba jelfi."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سنگینی و متانت",
+      "en": "Weight and composure",
+      "tr": "Sangini va metanat"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "معنایی را که فقط «در ذهنت» با واژه گره خورده انتخاب نکن؛ آن را در جای خالی جمله بگذار و ببین جمله معنا دارد یا نه.",
+      "en": "Do not choose a meaning only because it is tied to the word \"in your mind\"; put it in the gap and see whether the sentence still makes sense.",
+      "tr": "Ma'nayi ra ke faghat \"dar zehnat\" ba vazhe gereh khorde entekhab nakon; an ra dar ja-ye khali-ye jomle begozar va bebin jomle ma'na darad ya na."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "متضادِ واژه تقریباً همیشه در گزینه‌هاست؛ دیدن یک گزینهٔ «آشنا» دلیل درستی آن نیست.",
+      "en": "The word's opposite is almost always among the options; seeing a \"familiar\" option is no proof it is right.",
+      "tr": "Motazad-e vazhe taghriban hamishe dar gozine-hast; didan-e yek gozine-ye \"ashna\" dalil-e dorosti-ye an nist."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 984
+    },
+    {
+     "session": "1401-Dey",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 976
+    },
+    {
+     "session": "1400-Dey",
+     "number": 982
+    },
+    {
+     "session": "1400-Dey",
+     "number": 983
+    },
+    {
+     "session": "1400-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Dey",
+     "number": 981
+    },
+    {
+     "session": "1401-Dey",
+     "number": 983
+    },
+    {
+     "session": "1401-Dey",
+     "number": 986
+    },
+    {
+     "session": "1401-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 949
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 977
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 992
+    },
+    {
+     "session": "1402-Dey",
+     "number": 965
+    }
+   ]
+  },
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 3,
+   "key": "per-1-arabic-roots",
+   "title": {
+    "fa": "ریشه و وزن واژه‌های عربی",
+    "en": "Arabic roots and patterns",
+    "tr": "Rishe va vazn-e vazhe-haye arabi"
+   },
+   "summary": {
+    "fa": "هر واژهٔ عربی یک ریشهٔ سه‌حرفی دارد؛ ریشه را پیدا کن تا خانوادهٔ معنا را بشناسی.",
+    "en": "Every Arabic word has a three-letter root; find the root and you know the family of meaning.",
+    "tr": "Har vazhe-ye arabi yek rishe-ye se-harfi darad; rishe ra peyda kon ta khanevade-ye ma'na ra beshenasi."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: شاخه‌های یک ریشه",
+      "en": "Understand first: branches of one root",
+      "tr": "Avval befahm: shakhe-haye yek rishe"
+     },
+     "body": {
+      "fa": "واژه‌های عربی فارسی مثل شاخه‌های یک درخت‌اند که از یک ریشهٔ سه‌حرفی می‌رویند. «مفاخرت»، «افتخار» و «فاخر» همه از ریشهٔ «فخر» می‌آیند؛ «مستغنی» و «غنی» از «غنا» (بی‌نیازی)؛ «مستور» و «ستر» از پوشاندن؛ «مأمن» از «امن». اگر ریشه را بشناسی، نیمی از راه را رفته‌ای. «وزن» واژه هم نقش آن را می‌گوید: «مُستَفعِل» (مستغنی) یعنی کسی که آن حالت را دارد، «مَفعول» (مستور) یعنی چیزی که آن کار بر آن انجام شده.",
+      "en": "The Arabic words of Persian are like branches growing from a three-letter root. \"Mofakherat\", \"eftekhar\" and \"fakher\" all come from the root \"fakhr\" (pride); \"mostaghni\" and \"ghani\" from \"ghena\" (being free of need); \"mastoor\" and \"satr\" from covering; \"ma'man\" from \"amn\" (safety). Know the root and you are halfway there. The word's \"pattern\" tells its role too: \"mostaf'el\" (mostaghni) is someone in that state, \"maf'ool\" (mastoor) is something the action was done to.",
+      "tr": "Vazhe-haye arabi-ye farsi mesl-e shakhe-haye yek derakht-and ke az yek rishe-ye se-harfi mirooyand. \"Mofakherat\", \"eftekhar\" va \"fakher\" hame az rishe-ye \"fakhr\" miayand; \"mostaghni\" va \"ghani\" az \"ghena\" (bi-niazi); \"mastoor\" va \"satr\" az poushandan; \"ma'man\" az \"amn\". Agar rishe ra beshenasi, nimi az rah ra rafte-i. \"Vazn\"-e vazhe ham naghsh-e an ra miguyad: \"mostaf'el\" (mostaghni) ya'ni kasi ke an halat ra darad, \"maf'ool\" (mastoor) ya'ni chizi ke an kar bar an anjam shode."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " root      pattern       word\n f-kh-r    mofa'ala   -> mofakherat\n           (doing it with others)\n gh-n-y    mostaf'el  -> mostaghni\n           (one in that state)\n s-t-r     maf'ul     -> mastoor\n           (the one it is done to)\n a-m-n     maf'al     -> ma'man\n           (the place of it)\n b-n-y     af'ila     -> abniye\n           (plural of bana)",
+     "caption": {
+      "fa": "ریشهٔ سه‌حرفی معنا را می‌دهد و وزن نقش را: کننده، شونده، جای کار، یا جمع.",
+      "en": "The three-letter root gives the meaning and the pattern gives the role: doer, receiver, place of the action, or plural.",
+      "tr": "Rishe-ye se-harfi ma'na ra midahad va vazn naghsh ra: konande, shavande, ja-ye kar, ya jam'."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جمع‌های مکسّر",
+      "en": "Broken plurals",
+      "tr": "Jam'-haye mokassar"
+     },
+     "body": {
+      "fa": "جمع‌های مکسّر هم از همین قاعده‌اند: «ابنیه» جمع «بنا»، «مفاسد» جمع «مفسده»، «زخارف» جمع «زخرف» (زیور)، «سلاطین» جمع «سلطان». اگر مفرد را بشناسی، معنای جمع روشن است. «ثمن بخس» هم ترکیبی عربی است: «ثمن» یعنی بها و «بخس» یعنی اندک، پس «بهایی ناچیز».",
+      "en": "Broken plurals follow the same rule: \"abniye\" is the plural of \"bana\" (building), \"mafased\" of \"mafsade\" (corruption), \"zakharef\" of \"zokhrof\" (ornament), \"salatin\" of \"soltan\". Know the singular and the plural's meaning is clear. \"Saman-e bakhs\" is an Arabic phrase too: \"saman\" means price and \"bakhs\" means little, so \"a paltry price\".",
+      "tr": "Jam'-haye mokassar ham az hamin ghaede-and: \"abniye\" jam'-e \"bana\", \"mafased\" jam'-e \"mafsade\", \"zakharef\" jam'-e \"zokhrof\" (zivar), \"salatin\" jam'-e \"soltan\". Agar mofrad ra beshenasi, ma'na-ye jam' roshan ast. \"Saman-e bakhs\" ham tarkibi arabi ast: \"saman\" ya'ni baha va \"bakhs\" ya'ni andak, pas \"bahayi nachiz\"."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "root (3 letters) = meaning family ;  pattern = role (doer / done-to / place / plural)",
+     "caption": {
+      "fa": "ریشه و وزن با هم معنای دقیق را می‌سازند",
+      "en": "Root and pattern together give the exact meaning",
+      "tr": "Rishe va vazn ba ham ma'na-ye daghigh ra misazand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: معنای «ابنیه» در «سیاحان از تماشای ابنیهٔ تاریخی غرق در شگفتی شدند.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what does \"abniye\" mean in \"the travellers were lost in wonder at the historic abniye\"? (Dey 1401 paper)",
+      "tr": "Garm kardan: ma'na-ye \"abniye\" dar \"sayyahan az tamasha-ye abniye-ye tarikhi gharq dar shegefti shodand\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ریشه «بنا» است و وزن «افعِلَه» جمع می‌سازد.",
+        "en": "The root is \"bana\" (build) and the pattern \"af'ila\" makes a plural.",
+        "tr": "Rishe \"bana\" ast va vazn-e \"af'ila\" jam' misazad."
+       },
+       "math": "b-n-y  ->  abniye = plural of bana"
+      }
+     ],
+     "answer": {
+      "fa": "بناها، ساختمان‌ها",
+      "en": "Buildings",
+      "tr": "Bana-ha, sakhteman-ha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: معنای «مستغنی» در «انسان وارسته با مناعت نفس، خود را از مادیات دنیا مستغنی می‌داند.» چیست؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: what does \"mostaghni\" mean in \"a free-spirited person, with dignity of soul, considers himself mostaghni of the world's material things\"? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: ma'na-ye \"mostaghni\" dar \"ensan-e varaste ba mana'at-e nafs, khod ra az maddiyat-e donya mostaghni midanad\" chist? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ریشه «غنی» (بی‌نیازی، توانگری) است و وزن «مستفعِل» یعنی کسی که در آن حالت است.",
+        "en": "The root is \"ghani\" (free of need, rich) and the pattern \"mostaf'el\" means someone in that state.",
+        "tr": "Rishe \"ghani\" (bi-niazi, tavangari) ast va vazn-e \"mostaf'el\" ya'ni kasi ke dar an halat ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «نیازمند» دقیقاً متضاد است، همان دام همیشگی.",
+        "en": "The option \"needy\" is the exact opposite, the usual trap.",
+        "tr": "Gozine-ye \"niazmand\" daghighan motazad ast, haman dam-e hamishegi."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بی‌نیاز",
+      "en": "Free of need",
+      "tr": "Bi-niaz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «مفاخرت» در «فداکاری قهرمانان، مایهٔ مفاخرت و سربلندی یک ملت است.» چیست؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: what does \"mofakherat\" mean in \"the heroes' sacrifice is a source of mofakherat va sarbolandi for a nation\"? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"mofakherat\" dar \"fadakari-ye ghahremanan, maye-ye mofakherat va sarbolandi-ye yek mellat ast\" chist? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دو راه به یک جواب می‌رسند. ریشه: «فخر». همزاد: «سربلندی». هر دو به «افتخار» اشاره می‌کنند.",
+        "en": "The twist: two roads lead to one answer. The root: \"fakhr\" (pride). The twin: \"sarbolandi\" (holding one's head high). Both point to pride.",
+        "tr": "Pich-e emtehan: do rah be yek javab miresand. Rishe: \"fakhr\". Hamzad: \"sarbolandi\". Har do be \"eftekhar\" eshare mikonand."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «خواری» متضاد است و حذف می‌شود.",
+        "en": "The option \"khari\" (disgrace) is the opposite and goes.",
+        "tr": "Gozine-ye \"khari\" motazad ast va hazf mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نازش و افتخار",
+      "en": "Pride, glory",
+      "tr": "Nazesh va eftekhar"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ریشه را درست جدا کن: «مستور» از «ستر» (پوشاندن) است، نه از «ستاره»؛ هم‌صدایی ظاهری گولت نزند.",
+      "en": "Separate the root carefully: \"mastoor\" comes from \"satr\" (covering), not from \"setare\" (star); do not be fooled by a look-alike sound.",
+      "tr": "Rishe ra dorost joda kon: \"mastoor\" az \"satr\" (poushandan) ast, na az \"setare\"; ham-sedayi-ye zaheri golat nazanad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جمع مکسّر را مفرد معنا نکن: «ابنیه» یعنی «بناها»، نه «یک بنا».",
+      "en": "Do not give a broken plural a singular meaning: \"abniye\" means \"buildings\", not \"a building\".",
+      "tr": "Jam'-e mokassar ra mofrad ma'na nakon: \"abniye\" ya'ni \"bana-ha\", na \"yek bana\"."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 962
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1400-Dey",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1400-Dey",
+     "number": 987
+    },
+    {
+     "session": "1400-Dey",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 986
+    },
+    {
+     "session": "1400-Dey",
+     "number": 984
+    },
+    {
+     "session": "1400-Dey",
+     "number": 978
+    },
+    {
+     "session": "1401-Dey",
+     "number": 993
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 984
+    },
+    {
+     "session": "1401-Dey",
+     "number": 982
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 989
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 978
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 982
+    },
+    {
+     "session": "1400-Dey",
+     "number": 979
+    }
+   ]
+  },
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 4,
+   "key": "per-1-poetic-words",
+   "title": {
+    "fa": "واژه‌های کهن فارسی و زبان شعر",
+    "en": "Old Persian and poetic words",
+    "tr": "Vazhe-haye kohan-e farsi va zaban-e she'r"
+   },
+   "summary": {
+    "fa": "شعر کهن گاهی واژه را کوتاه یا کهنه می‌کند: «چهر» همان «چهره» است.",
+    "en": "Old poetry sometimes shortens or ages a word: \"chehr\" is simply \"chehre\" (face).",
+    "tr": "She'r-e kohan gahi vazhe ra kootah ya kohne mikonad: \"chehr\" haman \"chehre\" ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: عکس‌های قدیمی خانوادگی",
+      "en": "Understand first: old family photos",
+      "tr": "Avval befahm: aks-haye ghadimi-ye khanevadegi"
+     },
+     "body": {
+      "fa": "بسیاری از واژه‌های دشوار درس عربی نیستند، فارسی کهن‌اند؛ مثل عکس‌های قدیمی خانوادگی که چهره‌ها همان‌اند ولی لباس‌ها کهنه. «چهر» همان «چهره» است، «بنهفته» یعنی «نهفته کرده، پنهان کرده»، «تفته» یعنی «داغ و سوزان»، «نغز» یعنی «نیکو و دلپذیر»، «کورسو» یعنی «روشنایی کم» (سوی کور). برای این واژه‌ها، دنبال واژهٔ امروزی هم‌خانواده بگرد: نهفته، تافتن، سو.",
+      "en": "Many of the lesson's hard words are not Arabic but old Persian; like old family photos where the faces are the same but the clothes are dated. \"Chehr\" is just \"chehre\" (face), \"benhofte\" means \"hidden away\", \"tafte\" means \"hot, burning\", \"naghz\" means \"fine, pleasing\", \"koorsoo\" means \"a faint light\" (a blind glimmer). For these words, look for a related modern word: nahofte (hidden), taftan (to heat), soo (light).",
+      "tr": "Besyari az vazhe-haye doshvar-e dars arabi nistand, farsi-ye kohan-and; mesl-e aks-haye ghadimi-ye khanevadegi ke chehre-ha haman-and vali lebas-ha kohne. \"Chehr\" haman \"chehre\" ast, \"benhofte\" ya'ni \"nahofte karde, penhan karde\", \"tafte\" ya'ni \"dagh va soozan\", \"naghz\" ya'ni \"nikoo va delpazir\", \"koorsoo\" ya'ni \"roshanayi-ye kam\" (soo-ye koor). Baraye in vazhe-ha, donbal-e vazhe-ye emroozi-ye ham-khanevade begard: nahofte, taftan, soo."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " old / poetic       modern relative\n ------------       ---------------\n chehr          ->  chehre   (face)\n benhofte       ->  nahofte  (hid)\n tafte          ->  taftan   (heat)\n koorsoo        ->  koor + soo\n                    (faint light)\n niilgoon       ->  niil + goon\n                    (indigo colour)\n pahne          ->  pahn     (wide)",
+     "caption": {
+      "fa": "هر واژهٔ کهن یک خویشاوند امروزی دارد؛ خویشاوند را پیدا کن.",
+      "en": "Every old word has a modern relative; find the relative.",
+      "tr": "Har vazhe-ye kohan yek khishavand-e emroozi darad; khishavand ra peyda kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "جفت‌های متضاد در بیت",
+      "en": "Opposite pairs in a verse",
+      "tr": "Joft-haye motazad dar beyt"
+     },
+     "body": {
+      "fa": "در بیت‌ها، واژه‌های عربیِ آشنای شعر هم می‌آیند: در بیت «بحر آفرید و برّ و شجر ساخت و آدمی / خورشید و ماه و انجم و لیل و نهار کرد» «بحر» یعنی دریا و کنار «برّ» (خشکی) آمده؛ یک جفت متضاد که معنای هر کدام را از دیگری می‌فهمی.",
+      "en": "In verses, the familiar Arabic words of poetry appear too: in the line \"Bahr afarid o barr o shajar sakht o adami / khorshid o mah o anjom o leyl o nahar kard\", \"bahr\" means sea and comes beside \"barr\" (land); an opposite pair where each explains the other.",
+      "tr": "Dar beyt-ha, vazhe-haye arabi-ye ashna-ye she'r ham miayand: dar beyt-e \"Bahr afarid o barr o shajar sakht o adami / khorshid o mah o anjom o leyl o nahar kard\" \"bahr\" ya'ni darya va kenar-e \"barr\" (khoshki) amade; yek joft-e motazad ke ma'na-ye har kodam ra az digari mifahmi."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "old word  ->  modern relative  ->  meaning",
+     "caption": {
+      "fa": "از واژهٔ کهن به خویشاوند امروزی",
+      "en": "From the old word to its modern relative",
+      "tr": "Az vazhe-ye kohan be khishavand-e emroozi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در بیت بهار «تا چشم بشر نبیندت روی / بنهفته به ابر چهر دلبند» «چهر» یعنی چه؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: in Bahar's line \"Ta cheshm-e bashar nabinadat rooy / benhofte be abr chehr-e delband\", what does \"chehr\" mean? (Khordad 1401 paper)",
+      "tr": "Garm kardan: dar beyt-e Bahar \"Ta cheshm-e bashar nabinadat rooy / benhofte be abr chehr-e delband\" \"chehr\" ya'ni che? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«چهر» شکل کوتاه و کهن «چهره» است؛ دماوند روی خود را پشت ابر پنهان کرده.",
+        "en": "\"Chehr\" is the short, old form of \"chehre\"; Damavand hides its face behind the cloud.",
+        "tr": "\"Chehr\" shekl-e kootah va kohan-e \"chehre\" ast; Damavand rooy-e khod ra posht-e abr penhan karde."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چهره",
+      "en": "Face",
+      "tr": "Chehre"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در همان بیت، «بنهفته» یعنی چه؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: in the same line, what does \"benhofte\" mean? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar haman beyt, \"benhofte\" ya'ni che? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خویشاوند امروزی: «نهفته» (پنهان). «ب» آغاز فعل در فارسی کهن است.",
+        "en": "Modern relative: \"nahofte\" (hidden). The \"be-\" at the start is an old Persian verb prefix.",
+        "tr": "Khishavand-e emroozi: \"nahofte\" (penhan). \"Be\" aghaz-e fe'l dar farsi-ye kohan ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "سه گزینهٔ دیگر («عیان»، «آشکار»، «هویدا» کرده) همه یک معنای متضاد دارند؛ پس هر سه با هم حذف می‌شوند.",
+        "en": "The other three options (\"made visible\", \"revealed\", \"shown\") all share one opposite meaning; so all three go together.",
+        "tr": "Se gozine-ye digar (\"ayan\", \"ashkar\", \"hoveyda\" karde) hame yek ma'na-ye motazad darand; pas har se ba ham hazf mishavand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نهان کرده",
+      "en": "Hidden away",
+      "tr": "Nahan karde"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: معنای «کورسو» در «کاروان خسته در آن بیابان تفته، در پی کورسویی از آبادی گام برمی‌داشت.» چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: what does \"koorsoo\" mean in \"the tired caravan in that burning desert walked on in search of a koorsoo of a village\"? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: ma'na-ye \"koorsoo\" dar \"karevan-e khaste dar an biaban-e tafte, dar pey-e koorsooyi az abadi gam barmidasht\" chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: واژه را دو تکه کن: «کور» (کم‌نور) + «سو» (روشنایی). جمله هم کمک می‌کند: کاروان «در پی» نشانه‌ای کوچک از آبادی است.",
+        "en": "The twist: split the word: \"koor\" (dim) + \"soo\" (light). The sentence helps too: the caravan is \"searching for\" a small sign of a village.",
+        "tr": "Pich-e emtehan: vazhe ra do tekke kon: \"koor\" (kam-noor) + \"soo\" (roshanayi). Jomle ham komak mikonad: karevan \"dar pey\"-e neshane-i koochak az abadi ast."
+       },
+       "math": "koor + soo  ->  faint light"
+      }
+     ],
+     "answer": {
+      "fa": "روشنایی بسیار کم",
+      "en": "A very faint light",
+      "tr": "Roshanayi-ye besyar kam"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "واژهٔ کهن را با واژهٔ هم‌شکل امروزی اشتباه نکن: «تفته» یعنی داغ، نه «تافته» به معنای پارچه.",
+      "en": "Do not confuse an old word with a modern look-alike: \"tafte\" means hot, not \"tafte\" the fabric (taffeta).",
+      "tr": "Vazhe-ye kohan ra ba vazhe-ye ham-shekl-e emroozi eshtebah nakon: \"tafte\" ya'ni dagh, na \"tafte\" be ma'na-ye parche."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "وقتی سه گزینه هم‌معنای هم‌اند، معمولاً هر سه غلط‌اند؛ جواب همان گزینهٔ تنهاست.",
+      "en": "When three options mean the same thing, usually all three are wrong; the answer is the one that stands alone.",
+      "tr": "Vaghti se gozine ham-ma'na-ye ham-and, ma'moolan har se ghalat-and; javab haman gozine-ye tanhast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 950
+    },
+    {
+     "session": "1401-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 980
+    },
+    {
+     "session": "1401-Dey",
+     "number": 980
+    },
+    {
+     "session": "1401-Dey",
+     "number": 985
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 965
+    },
+    {
+     "session": "1401-Dey",
+     "number": 987
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 950
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 951
+    }
+   ]
+  },
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 5,
+   "key": "per-1-spelling-letters",
+   "title": {
+    "fa": "املا: حرف‌های هم‌صدا",
+    "en": "Spelling: letters that share a sound",
+    "tr": "Emla: harf-haye ham-seda"
+   },
+   "summary": {
+    "fa": "یک صدا، چند حرف: «س، ص، ث» یا «ز، ذ، ض، ظ». معنا و خانوادهٔ واژه حرف درست را نشان می‌دهد.",
+    "en": "One sound, several letters: \"s, s, s\" or \"z, z, z, z\". The word's meaning and family show the right letter.",
+    "tr": "Yek seda, chand harf: \"sin, sad, se\" ya \"ze, zal, zad, za\". Ma'na va khanevade-ye vazhe harf-e dorost ra neshan midahad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چند کلید، یک قفل",
+      "en": "Understand first: many keys, one lock",
+      "tr": "Avval befahm: chand kelid, yek ghofl"
+     },
+     "body": {
+      "fa": "در فارسی چند حرف یک صدا دارند، مثل چند کلید که یک در را باز می‌کنند ولی فقط یکی کلید اصلی است. «س، ص، ث» همه «س» خوانده می‌شوند؛ «ز، ذ، ض، ظ» همه «ز»؛ «ت، ط» هر دو «ت»؛ «ح، ه» هر دو «ه»؛ «غ، ق» تقریباً یکی. راه پیدا کردن کلید اصلی: یک واژهٔ هم‌خانوادهٔ آشنا بیاب. «سلاطین» با «س» است چون «سلطان» با «س» است؛ «حفره» با «ح» چون «حفر» (کندن) با «ح» است.",
+      "en": "In Persian several letters share one sound, like several keys that turn the same lock while only one is the real key. \"Sin, sad, se\" are all read \"s\"; \"ze, zal, zad, za\" all \"z\"; \"te, ta\" both \"t\"; \"he, he-ye hoti\" both \"h\"; \"ghein, ghaf\" nearly the same. The way to the real key: find a familiar word of the same family. \"Salatin\" has \"sin\" because \"soltan\" does; \"hofre\" (hollow) has \"he-ye hoti\" because \"hafr\" (digging) does.",
+      "tr": "Dar farsi chand harf yek seda darand, mesl-e chand kelid ke yek dar ra baz mikonand vali faghat yeki kelid-e asli ast. \"Sin, sad, se\" hame \"s\" khande mishavand; \"ze, zal, zad, za\" hame \"z\"; \"te, ta\" har do \"t\"; \"he, he-ye hoti\" har do \"h\"; \"ghein, ghaf\" taghriban yeki. Rah-e peyda kardan-e kelid-e asli: yek vazhe-ye ham-khanevade-ye ashna biyab. \"Salatin\" ba \"sin\" ast chon \"soltan\" ba \"sin\" ast; \"hofre\" ba \"he-ye hoti\" chon \"hafr\" (kandan) ba \"he-ye hoti\" ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " sound   letters        family check\n -----   ------------   ------------\n \"s\"     sin sad se     salatin <-\n                         soltan\n \"z\"     ze zal zad za  abzan  <-\n                         ab + zan\n \"t\"     te ta          saltanat\n \"h\"     he he-hoti     hofre <-hafr\n \"gh\"    ghein ghaf     fanadegh <-\n                         fondogh",
+     "caption": {
+      "fa": "جدول حرف‌های هم‌صدا: برای هر واژه یک خویشاوند آشنا پیدا کن تا حرف درست معلوم شود.",
+      "en": "The table of same-sound letters: for each word find a familiar relative and the right letter becomes clear.",
+      "tr": "Jadval-e harf-haye ham-seda: baraye har vazhe yek khishavand-e ashna peyda kon ta harf-e dorost ma'loom shavad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "ریشهٔ عربی، حرف ثابت",
+      "en": "An Arabic root keeps its letters",
+      "tr": "Rishe-ye arabi, harf-e sabet"
+     },
+     "body": {
+      "fa": "برای واژه‌های عربی، ریشهٔ سه‌حرفی همیشه یکی است: «استحقاق»، «حق» و «مستحق» همه با «ح» و «ق»؛ «سریر» (تخت) با «س» و «سلطنت» با «ط». ترکیب‌ها را هم جفت حفظ کن: «سریر سلطنت»، «آبگینهٔ حلبی» (منسوب به شهر حلب).",
+      "en": "For Arabic words the three-letter root is always the same: \"estehghagh\", \"hagh\" and \"mostahagh\" all take \"he-ye hoti\" and \"ghaf\"; \"sarir\" (throne) takes \"sin\" and \"saltanat\" takes \"ta\". Learn phrases as pairs too: \"sarir-e saltanat\" (royal throne), \"abgine-ye halabi\" (glass of Aleppo).",
+      "tr": "Baraye vazhe-haye arabi, rishe-ye se-harfi hamishe yeki ast: \"estehghagh\", \"hagh\" va \"mostahagh\" hame ba \"he-ye hoti\" va \"ghaf\"; \"sarir\" (takht) ba \"sin\" va \"saltanat\" ba \"ta\". Tarkib-ha ra ham joft hefz kon: \"sarir-e saltanat\", \"abgine-ye halabi\" (mansoob be shahr-e Halab)."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "unknown spelling  ->  familiar relative of the same root  ->  same letter",
+     "caption": {
+      "fa": "حرف درست را از خویشاوند واژه بگیر",
+      "en": "Take the right letter from the word's relative",
+      "tr": "Harf-e dorost ra az khishavand-e vazhe begir"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: املای درست واژهٔ «پادشاهان و فرمانروایان» کدام است: سلاطین، صلاطین، ثلاطین، سلاتین؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: which is the right spelling of the word for \"kings and rulers\": salatin with sin and ta, or the look-alikes with sad, se or te? (Dey 1402 paper)",
+      "tr": "Garm kardan: emla-ye dorost-e vazhe-ye \"padeshahan va farmanravayan\" kodam ast: salatin ba sin va ta, ya shabih-ha ba sad, se ya te? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خویشاوند آشنا: «سلطان»، با «س» و «ط». پس جمعش هم همان حرف‌ها را دارد.",
+        "en": "The familiar relative: \"soltan\", with \"sin\" and \"ta\". So its plural keeps the same letters.",
+        "tr": "Khishavand-e ashna: \"soltan\", ba \"sin\" va \"ta\". Pas jam'ash ham haman harf-ha ra darad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سلاطین",
+      "en": "Salatin (with sin and ta)",
+      "tr": "Salatin (ba sin va ta)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: املای درست واژهٔ «حوضچه‌ها و تشت‌های شست‌وشو» کدام است: آبزن‌ها، آبذن‌ها، آبظن‌ها، آبضن‌ها؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: which is the right spelling of the word for \"basins and washing tubs\": abzan with ze, or the look-alikes with zal, za or zad? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: emla-ye dorost-e vazhe-ye \"hozche-ha va tasht-haye shost-o-shoo\" kodam ast: abzan ba ze, ya shabih-ha ba zal, za ya zad? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "این واژه عربی نیست؛ فارسی است: «آب» + «زن» (از «زدن»). حرف‌های «ذ، ظ، ض» در واژه‌های فارسی کمیاب‌اند.",
+        "en": "This word is not Arabic but Persian: \"ab\" (water) + \"zan\" (from \"zadan\", to strike). The letters \"zal, za, zad\" are rare in Persian words.",
+        "tr": "In vazhe arabi nist; farsi ast: \"ab\" + \"zan\" (az \"zadan\"). Harf-haye \"zal, za, zad\" dar vazhe-haye farsi kamyab-and."
+       },
+       "math": "ab + zan (zadan)  ->  abzan"
+      }
+     ],
+     "answer": {
+      "fa": "آبزن‌ها",
+      "en": "Abzan-ha (with ze)",
+      "tr": "Abzan-ha (ba ze)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: املای درست واژهٔ «وسایل و اسباب سفر و خانه» کدام است: اثاثیه، اساسیه، اصاصیه، اساثیه؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: which is the right spelling of the word for \"household and travel goods\": asasiye with se twice, or the look-alikes mixing sin, sad and se? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: emla-ye dorost-e vazhe-ye \"vasayel va asbab-e safar va khane\" kodam ast: asasiye ba do se, ya shabih-ha ke sin, sad va se ra ghati mikonand? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: واژه «اساس» (پایه) به ذهن می‌آید ولی ربطی ندارد؛ این از «اثاث» (کالا) است و هر دو «ث» دارد.",
+        "en": "The twist: \"asas\" (foundation) comes to mind but is unrelated; this comes from \"asas\" (goods) and both of its \"s\" sounds are \"se\".",
+        "tr": "Pich-e emtehan: vazhe-ye \"asas\" (paye) be zehn miayad vali rabti nadarad; in az \"asas\" (kala) ast va har do \"s\" ra ba \"se\" darad."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «اساثیه» نیمه‌درست است و دام‌ترین گزینه.",
+        "en": "The option with sin then se is half right, and the most treacherous trap.",
+        "tr": "Gozine-ye ba sin va se nime-dorost ast va dam-tarin gozine."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اثاثیه",
+      "en": "Asasiye (with se twice)",
+      "tr": "Asasiye (ba do se)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هم‌صدایی با یک واژهٔ آشنای دیگر دام است («اساس» و «اثاث»)؛ خویشاوند «هم‌معنا» را پیدا کن، نه فقط هم‌صدا.",
+      "en": "A look-alike familiar word is a trap (\"asas\" foundation vs \"asas\" goods); find a relative with the same \"meaning\", not just the same sound.",
+      "tr": "Ham-sedayi ba yek vazhe-ye ashna-ye digar dam ast (\"asas\" va \"asas\"); khishavand-e \"ham-ma'na\" ra peyda kon, na faghat ham-seda."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گزینهٔ نیمه‌درست (یک حرف درست، یک حرف غلط) خطرناک‌ترین است؛ همهٔ حرف‌ها را تک‌تک بسنج.",
+      "en": "The half-right option (one letter right, one wrong) is the most dangerous; check every letter one by one.",
+      "tr": "Gozine-ye nime-dorost (yek harf dorost, yek harf ghalat) khatarnak-tarin ast; hame-ye harf-ha ra tak-tak besanj."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 985
+    },
+    {
+     "session": "1402-Dey",
+     "number": 984
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 965
+    },
+    {
+     "session": "1402-Dey",
+     "number": 978
+    },
+    {
+     "session": "1402-Dey",
+     "number": 980
+    },
+    {
+     "session": "1402-Dey",
+     "number": 981
+    },
+    {
+     "session": "1402-Dey",
+     "number": 982
+    },
+    {
+     "session": "1402-Dey",
+     "number": 986
+    },
+    {
+     "session": "1402-Dey",
+     "number": 987
+    },
+    {
+     "session": "1402-Dey",
+     "number": 989
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 962
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 963
+    }
+   ]
+  },
+  {
+   "subject": "Persian",
+   "chapter": 1,
+   "unit": 6,
+   "key": "per-1-hamza-homophones",
+   "title": {
+    "fa": "همزه، عین و واژه‌های هم‌آوا",
+    "en": "Hamza, ain and homophones",
+    "tr": "Hamze, eyn va vazhe-haye ham-ava"
+   },
+   "summary": {
+    "fa": "حرف‌هایی که در گفتار گم می‌شوند ولی در نوشتار باید بمانند.",
+    "en": "Letters that vanish in speech but must stay in writing.",
+    "tr": "Harf-hayi ke dar goftar gom mishavand vali dar neveshtar bayad bemanand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: حرف‌های بی‌صدا",
+      "en": "Understand first: silent letters",
+      "tr": "Avval befahm: harf-haye bi-seda"
+     },
+     "body": {
+      "fa": "«ع» و همزه «ء» در گفتار امروز تقریباً شنیده نمی‌شوند، مثل حرف‌های بی‌صدای یک واژهٔ انگلیسی؛ ولی در املا باید باشند. «اعجاب» (از «عجب») عین دارد، «استدعا» (از «دعا») عین دارد، «ولع» با عین تمام می‌شود، «مأموران» (از «امر») همزه روی الف دارد، «تلألؤ» دو همزه دارد. باز هم کلید، واژهٔ هم‌خانواده است: «عجب»، «دعا»، «امر».",
+      "en": "The letters \"eyn\" and hamza are barely heard in today's speech, like the silent letters of an English word; but in spelling they must be there. \"E'jab\" (from \"ajab\", wonder) has eyn, \"este'da\" (from \"do'a\", prayer) has eyn, \"vala'\" ends in eyn, \"ma'mooran\" (from \"amr\", command) has a hamza on its alef, \"tala'lo'\" has two hamzas. Again the key is the family word: \"ajab\", \"do'a\", \"amr\".",
+      "tr": "\"Eyn\" va hamze dar goftar-e emrooz taghriban shenide nemishavand, mesl-e harf-haye bi-seda-ye yek vazhe-ye engelisi; vali dar emla bayad bashand. \"E'jab\" (az \"ajab\") eyn darad, \"este'da\" (az \"do'a\") eyn darad, \"vala'\" ba eyn tamam mishavad, \"ma'mooran\" (az \"amr\") hamze rooye alef darad, \"tala'lo'\" do hamze darad. Baz ham kelid, vazhe-ye ham-khanevade ast: \"ajab\", \"do'a\", \"amr\"."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " word        silent letter  family\n ---------   -------------  -------\n e'jab       eyn            ajab\n este'da     eyn            do'a\n vala'       eyn (end)      -\n ma'mooran   hamza on alef  amr\n tala'lo'    two hamzas     -\n afshande    plain alef    afshandan\n\n homophones: ghol (chain, ghein)\n         vs  ghol (other words)",
+     "caption": {
+      "fa": "حرف‌های بی‌صدا را با خویشاوند واژه پیدا کن؛ هم‌آواها را با معنا از هم جدا کن.",
+      "en": "Find the silent letters through the word's relative; tell homophones apart by meaning.",
+      "tr": "Harf-haye bi-seda ra ba khishavand-e vazhe peyda kon; ham-ava-ha ra ba ma'na az ham joda kon."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "هم‌آواها: معنا تصمیم می‌گیرد",
+      "en": "Homophones: the meaning decides",
+      "tr": "Ham-ava-ha: ma'na tasmim migirad"
+     },
+     "body": {
+      "fa": "«هم‌آوا»ها واژه‌هایی‌اند که یکسان خوانده می‌شوند ولی املا و معنای جدا دارند. در سؤال هم‌آوا، اول معنای خواسته‌شده را بخوان، بعد املایی را انتخاب کن که با آن معنا جور است: «غُل» (بند و زنجیر) با «غ» است، و «غُل و زنجیر» یک ترکیب ثابت است.",
+      "en": "\"Homophones\" are words read the same way but with different spellings and meanings. In a homophone question, first read the meaning asked for, then choose the spelling that goes with it: \"ghol\" (shackle, chain) is written with \"ghein\", and \"ghol o zanjir\" (shackle and chain) is a fixed phrase.",
+      "tr": "\"Ham-ava\"-ha vazhe-hayi-and ke yeksan khande mishavand vali emla va ma'na-ye joda darand. Dar so'al-e ham-ava, avval ma'na-ye khaste-shode ra bekhan, ba'd emlayi ra entekhab kon ke ba an ma'na joor ast: \"ghol\" (band va zanjir) ba \"ghein\" ast, va \"ghol o zanjir\" yek tarkib-e sabet ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "silent eyn / hamza  ->  family word (ajab, do'a, amr)  ->  keep the letter",
+     "caption": {
+      "fa": "حرف بی‌صدا را از خویشاوند واژه بگیر",
+      "en": "Take the silent letter from the word's relative",
+      "tr": "Harf-e bi-seda ra az khishavand-e vazhe begir"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: املای درست واژهٔ «درخواست و خواهش» کدام است: استدعا، استدا، استضاد، اصتدعا؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: which is the right spelling of the word for \"request, plea\": este'da with eyn, or the look-alikes without eyn or with sad or zad? (Dey 1402 paper)",
+      "tr": "Garm kardan: emla-ye dorost-e vazhe-ye \"darkhast va khahesh\" kodam ast: este'da ba eyn, ya shabih-ha bedoon-e eyn ya ba sad ya zad? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خویشاوند: «دعا» (خواستن از خدا). پس عین دارد، و «س» و «د» هم ثابت‌اند.",
+        "en": "The relative: \"do'a\" (asking God). So it has eyn, and its \"sin\" and \"dal\" stay fixed too.",
+        "tr": "Khishavand: \"do'a\" (khastan az khoda). Pas eyn darad, va \"sin\" va \"dal\" ham sabet-and."
+       },
+       "math": "do'a  ->  este'da"
+      }
+     ],
+     "answer": {
+      "fa": "استدعا",
+      "en": "Este'da (with eyn)",
+      "tr": "Este'da (ba eyn)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: املای درست واژهٔ «کارگزاران و فرستادگان دولتی» کدام است: مأموران، معموران، محموران، مامعوران؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: which is the right spelling of the word for \"government agents\": ma'mooran with a hamza on alef, or the look-alikes with eyn or he? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: emla-ye dorost-e vazhe-ye \"kargozaran va ferestadegan-e dowlati\" kodam ast: ma'mooran ba hamze rooye alef, ya shabih-ha ba eyn ya he? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خویشاوند: «امر» (فرمان)؛ مأمور یعنی کسی که فرمان گرفته. پس همزه روی الف، نه عین.",
+        "en": "The relative: \"amr\" (command); a ma'moor is someone who has received orders. So a hamza on alef, not eyn.",
+        "tr": "Khishavand: \"amr\" (farman); ma'moor ya'ni kasi ke farman gerefte. Pas hamze rooye alef, na eyn."
+       }
+      },
+      {
+       "text": {
+        "fa": "«معموران» دام است: «معمور» یعنی آباد، واژه‌ای دیگر.",
+        "en": "\"Ma'mooran\" with eyn is a trap: \"ma'moor\" with eyn means \"flourishing\", a different word.",
+        "tr": "\"Ma'mooran\" ba eyn dam ast: \"ma'moor\" ba eyn ya'ni abad, vazhe-i digar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مأموران",
+      "en": "Ma'mooran (hamza on alef)",
+      "tr": "Ma'mooran (hamze rooye alef)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: املای درست «بند و زنجیر» در کدام گزینه است: غُل و زنجیر، قُل و زنجیر، غول و زنجیر، قلع و زنجیر؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: in which option is \"shackle and chain\" spelled right: ghol with ghein, ghol with ghaf, ghool (giant) or ghal' (tin)? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: emla-ye dorost-e \"band va zanjir\" dar kodam gozine ast: ghol ba ghein, ghol ba ghaf, ghool ya ghal'? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: همهٔ گزینه‌ها تقریباً یکسان خوانده می‌شوند؛ فقط معنا تصمیم می‌گیرد.",
+        "en": "The twist: all the options sound almost the same; only the meaning decides.",
+        "tr": "Pich-e emtehan: hame-ye gozine-ha taghriban yeksan khande mishavand; faghat ma'na tasmim migirad."
+       }
+      },
+      {
+       "text": {
+        "fa": "«غول» یعنی دیو، «قلع» یک فلز است؛ برای بند و زنجیر، ترکیب ثابت «غُل و زنجیر» با «غ» است.",
+        "en": "\"Ghool\" means a giant and \"ghal'\" is a metal (tin); for shackle and chain, the fixed phrase is \"ghol o zanjir\" with ghein.",
+        "tr": "\"Ghool\" ya'ni div, \"ghal'\" yek felez ast; baraye band va zanjir, tarkib-e sabet-e \"ghol o zanjir\" ba \"ghein\" ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "غُل و زنجیر",
+      "en": "Ghol o zanjir (with ghein)",
+      "tr": "Ghol o zanjir (ba ghein)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "عین و همزه را با هم عوض نکن: «مأمور» (فرمان‌گرفته) و «معمور» (آباد) دو واژهٔ جدا‌اند.",
+      "en": "Do not swap eyn and hamza: \"ma'moor\" with hamza (one who has orders) and \"ma'moor\" with eyn (flourishing) are two separate words.",
+      "tr": "Eyn va hamze ra ba ham avaz nakon: \"ma'moor\" ba hamze (farman-gerefte) va \"ma'moor\" ba eyn (abad) do vazhe-ye joda-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "حرف بی‌صدا را جا نینداز: «استدا» و «تلالو» شبیه‌اند ولی غلط‌اند؛ عین و همزه باید نوشته شوند.",
+      "en": "Do not drop the silent letter: \"esteda\" and \"talalo\" look close but are wrong; the eyn and hamza must be written.",
+      "tr": "Harf-e bi-seda ra ja nayandaz: \"esteda\" va \"talalo\" shabih-and vali ghalat-and; eyn va hamze bayad neveshte shavand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 977
+    },
+    {
+     "session": "1402-Dey",
+     "number": 991
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 949
+    },
+    {
+     "session": "1402-Dey",
+     "number": 976
+    },
+    {
+     "session": "1402-Dey",
+     "number": 979
+    },
+    {
+     "session": "1402-Dey",
+     "number": 983
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 951
+    }
+   ]
+  }
+ ]
+}
