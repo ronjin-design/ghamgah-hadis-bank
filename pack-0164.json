@@ -1,0 +1,811 @@
+{
+ "version": 164,
+ "format": 11,
+ "glossary": [
+  {
+   "subject": "Social Identity",
+   "key": "si-g-hadaf-e-konesh",
+   "term": {
+    "fa": "هدف کنش",
+    "en": "goal of an action",
+    "tr": "hadaf-e konesh"
+   },
+   "explain": {
+    "fa": "«هدف کنش»: مقصودی که کنشگر پیش از انجام کنش در ذهن دارد و کنش را برای رسیدن به آن انجام می‌دهد.",
+    "en": "\"goal of an action\": the aim an actor has in mind before acting, and acts in order to reach.",
+    "tr": "\"hadaf-e konesh\": maghsoodi ke koneshgar pish az anjam-e konesh dar zehn darad va konesh ra baraye residan be an anjam midahad."
+   },
+   "contrast": {
+    "fa": "هدف پیش از کنش است؛ پیامد پس از آن.",
+    "en": "The goal comes before the action; a consequence after it.",
+    "tr": "Hadaf pish az konesh ast; payamad pas az an."
+   },
+   "unit": "si-1-actions"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-payamad-haye-gheyr-e-eradi-ye-konesh",
+   "term": {
+    "fa": "پیامدهای غیرارادی کنش",
+    "en": "involuntary consequences of action",
+    "tr": "payamad-haye gheyr-e eradi-ye konesh"
+   },
+   "explain": {
+    "fa": "«پیامدهای غیرارادی کنش»: نتیجه‌هایی از کنش که به ارادهٔ کنشگر وابسته نیستند، مانند خستگی پس از ورزش.",
+    "en": "\"involuntary consequences of action\": results of an action that do not depend on the actor's will, like tiredness after exercise.",
+    "tr": "\"payamad-haye gheyr-e eradi-ye konesh\": natije-hayi az konesh ke be erade-ye koneshgar vabaste nistand, manand-e khastegi pas az varzesh."
+   },
+   "unit": "si-1-actions"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-konesh-e-darooni",
+   "term": {
+    "fa": "کنش درونی",
+    "en": "inner action",
+    "tr": "konesh-e darooni"
+   },
+   "explain": {
+    "fa": "«کنش درونی»: کنشی که در ذهن انجام می‌شود، مانند اندیشیدن و تخیل؛ درونی و فردی.",
+    "en": "\"inner action\": an action carried out in the mind, like thinking and imagining; inner and individual.",
+    "tr": "\"konesh-e darooni\": kongeshi ke dar zehn anjam mishavad, manand-e andishidan va takhayyol; daroonie va fardi."
+   },
+   "unit": "si-1-actions"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-konesh-e-ejtemai",
+   "term": {
+    "fa": "کنش اجتماعی",
+    "en": "social action",
+    "tr": "konesh-e ejtemai"
+   },
+   "explain": {
+    "fa": "«کنش اجتماعی»: کنشی که آگاهانه و با توجه به دیگران انجام شود.",
+    "en": "\"social action\": an action done consciously and with others in mind.",
+    "tr": "\"konesh-e ejtemai\": kongeshi ke agahane va ba tavajjoh be digaran anjam shavad."
+   },
+   "contrast": {
+    "fa": "شلوغی مکان آن را اجتماعی نمی‌کند.",
+    "en": "A crowded place does not make it social.",
+    "tr": "Sholooghi-ye makan an ra ejtema'i nemikonad."
+   },
+   "unit": "si-1-actions"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nahad-e-ejtemai",
+   "term": {
+    "fa": "نهاد اجتماعی",
+    "en": "social institution",
+    "tr": "nahad-e ejtemai"
+   },
+   "explain": {
+    "fa": "«نهاد اجتماعی»: مجموعه‌ای پایدار از ارزش‌ها، هنجارها و کنش‌ها که برای برآوردن نیازهای بنیادین جامعه شکل می‌گیرد، مانند خانواده یا آموزش.",
+    "en": "\"social institution\": a stable set of values, norms and actions formed to meet society's basic needs, like the family or education.",
+    "tr": "\"nahad-e ejtemai\": majmoo'e-i paydar az arzesh-ha, hanjar-ha va konesh-ha ke baraye bar-avardan-e niyaz-haye bonyadin-e jame'e shekl migirad, manand-e khanevade ya amoozesh."
+   },
+   "unit": "si-2-social-phenomena"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-eyni-boodan-e-padide-haye-ejtemai",
+   "term": {
+    "fa": "عینی بودن پدیده‌های اجتماعی",
+    "en": "objectivity of social phenomena",
+    "tr": "eyni boodan-e padide-haye ejtemai"
+   },
+   "explain": {
+    "fa": "«عینی بودن پدیده‌های اجتماعی»: پدیده‌های اجتماعی مستقل از ارادهٔ هر فرد وجود دارند و بر او اثر می‌گذارند.",
+    "en": "\"objectivity of social phenomena\": social phenomena exist independently of each person's will and act upon him.",
+    "tr": "\"eyni boodan-e padide-haye ejtemai\": padide-haye ejtema'i mostaghel az erade-ye har fard vojood darand va bar oo asar migozarand."
+   },
+   "analogy": {
+    "fa": "مثل زبان مادری که پیش از تو بوده و پس از تو هم می‌ماند.",
+    "en": "Like your mother tongue, there before you and after you.",
+    "tr": "Mesl-e zaban-e madari ke pish az to boode va pas az to ham mimanad."
+   },
+   "unit": "si-2-social-phenomena"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-ejtemai",
+   "term": {
+    "fa": "جهان اجتماعی",
+    "en": "social world",
+    "tr": "jahan-e ejtemai"
+   },
+   "explain": {
+    "fa": "«جهان اجتماعی»: مجموعهٔ پدیده‌ها، کنش‌ها و ساختارهای اجتماعی که بر پایهٔ آگاهی و فرهنگ مشترک انسان‌ها شکل می‌گیرد.",
+    "en": "\"social world\": the whole of the social phenomena, actions and structures formed on people's shared awareness and culture.",
+    "tr": "\"jahan-e ejtemai\": majmoo'e-ye padide-ha, konesh-ha va sakhtar-haye ejtema'i ke bar paye-ye agahi va farhang-e moshtarak-e ensan-ha shekl migirad."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-tabiei-va-jahan-e-ejtemai",
+   "term": {
+    "fa": "جهان طبیعی و جهان اجتماعی",
+    "en": "natural and social worlds",
+    "tr": "jahan-e tabiei va jahan-e ejtemai"
+   },
+   "explain": {
+    "fa": "«جهان طبیعی و جهان اجتماعی»: پدیده‌های طبیعی با وارد شدن به قلمرو آگاهی و کنش انسان‌ها وارد جهان اجتماعی می‌شوند.",
+    "en": "\"natural and social worlds\": natural phenomena enter the social world by coming into the realm of human awareness and action.",
+    "tr": "\"jahan-e tabiei va jahan-e ejtemai\": padide-haye tabi'i ba vared shodan be ghalamrow-e agahi va konesh-e ensan-ha vared-e jahan-e ejtema'i mishavand."
+   },
+   "analogy": {
+    "fa": "ستاره برای دریانوردی که با آن راه را پیدا می‌کند.",
+    "en": "A star, for the sailor who finds his way by it.",
+    "tr": "Setare baraye daryanavardi ke ba an rah ra peyda mikonad."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-farhangi-ye-asatiri",
+   "term": {
+    "fa": "جهان فرهنگی اساطیری",
+    "en": "mythological cultural world",
+    "tr": "jahan-e farhangi-ye asatiri"
+   },
+   "explain": {
+    "fa": "«جهان فرهنگی اساطیری»: جهان فرهنگی‌ای که پدیده‌ها را با خدایان متعدد، نیروهای خیالی و افسانه‌ها تبیین می‌کند.",
+    "en": "\"mythological cultural world\": the cultural world that explains things by many gods, imaginary forces and legends.",
+    "tr": "\"jahan-e farhangi-ye asatiri\": jahan-e farhangi-i ke padide-ha ra ba khodayan-e mota'added, niroo-haye khiyali va afsane-ha tabyin mikonad."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-farhangi-ye-ma-navi",
+   "term": {
+    "fa": "جهان فرهنگی معنوی",
+    "en": "spiritual cultural world",
+    "tr": "jahan-e farhangi-ye ma'navi"
+   },
+   "explain": {
+    "fa": "«جهان فرهنگی معنوی»: جهان فرهنگی‌ای که همه چیز را با نگاه توحیدی و باور به عالم غیب تبیین می‌کند و پدیده‌های مادی را در خدمت سعادت جاودان و کمال معنوی قرار می‌دهد.",
+    "en": "\"spiritual cultural world\": the cultural world that explains everything through monotheism and belief in the unseen, and puts material things at the service of eternal happiness and spiritual perfection.",
+    "tr": "\"jahan-e farhangi-ye ma'navi\": jahan-e farhangi-i ke hame chiz ra ba negah-e towhidi va bavar be alam-e gheyb tabyin mikonad va padide-haye maddi ra dar khedmat-e sa'adat-e javdan va kamal-e ma'navi gharar midahad."
+   },
+   "contrast": {
+    "fa": "جهان اساطیری خدایان متعدد دارد؛ جهان معنوی توحیدی است.",
+    "en": "The mythological world has many gods; the spiritual world is monotheistic.",
+    "tr": "Jahan-e asatiri khodayan-e mota'added darad; jahan-e ma'navi towhidi ast."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-farhangi-ye-sekolar",
+   "term": {
+    "fa": "جهان فرهنگی سکولار",
+    "en": "secular cultural world",
+    "tr": "jahan-e farhangi-ye sekolar"
+   },
+   "explain": {
+    "fa": "«جهان فرهنگی سکولار»: جهان فرهنگی‌ای که پدیده‌ها را تنها بر پایهٔ امور دنیوی، با نفی یا نادیده گرفتن ماورای طبیعت تبیین می‌کند.",
+    "en": "\"secular cultural world\": the cultural world that explains things by worldly matters alone, denying or ignoring what lies beyond nature.",
+    "tr": "\"jahan-e farhangi-ye sekolar\": jahan-e farhangi-i ke padide-ha ra tanha bar paye-ye omoor-e donyavi, ba nafy ya nadide gereftan-e mavara-ye tabi'at tabyin mikonad."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-bohran-e-ma-navi-ye-jahan-e-sekolar",
+   "term": {
+    "fa": "بحران معنوی جهان سکولار",
+    "en": "spiritual crisis of the secular world",
+    "tr": "bohran-e ma'navi-ye jahan-e sekolar"
+   },
+   "explain": {
+    "fa": "«بحران معنوی جهان سکولار»: به گفتهٔ کتاب، نادیده گرفتن نیازهای معنوی انسان در جهان سکولار بحران معنویت و هویت پدید می‌آورد.",
+    "en": "\"spiritual crisis of the secular world\": by the book, the secular world's neglect of spiritual needs produces a crisis of spirituality and identity.",
+    "tr": "\"bohran-e ma'navi-ye jahan-e sekolar\": be gofte-ye ketab, nadide gereftan-e niyaz-haye ma'navi-ye ensan dar jahan-e sekoolar bohran-e ma'naviyat va hoviyat padid miavarad."
+   },
+   "unit": "si-3-cultural-world"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-hanjar-e-ejtemai",
+   "term": {
+    "fa": "هنجار اجتماعی",
+    "en": "social norms",
+    "tr": "hanjar-e ejtemai"
+   },
+   "explain": {
+    "fa": "«هنجار اجتماعی»: قواعد رفتاری که اعضای جامعه در موقعیت‌های گوناگون رعایت می‌کنند و سرپیچی از آنها کیفر یا سرزنش در پی دارد.",
+    "en": "\"social norms\": rules of conduct members of society follow in various situations; breaking them brings punishment or blame.",
+    "tr": "\"hanjar-e ejtemai\": ghava'ed-e raftari ke a'za-ye jame'e dar mowghe'iyat-haye goonagoon ra'ayat mikonand va sarpichi az anha keyfar ya sarzanesh dar pey darad."
+   },
+   "contrast": {
+    "fa": "ارزش می‌گوید چه چیزی خوب است؛ هنجار می‌گوید چطور رفتار کن.",
+    "en": "A value says what is good; a norm says how to behave.",
+    "tr": "Arzesh miguyad che chizi khoob ast; hanjar miguyad chetor raftar kon."
+   },
+   "unit": "si-4-social-world-parts"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-padide-haye-kalan-e-ejtemai",
+   "term": {
+    "fa": "پدیده‌های کلان اجتماعی",
+    "en": "macro social phenomena",
+    "tr": "padide-haye kalan-e ejtemai"
+   },
+   "explain": {
+    "fa": "«پدیده‌های کلان اجتماعی»: نهادها و سازمان‌های اجتماعی، مانند خانواده، آموزش و دولت، که در سطح کلان جهان اجتماعی جای دارند.",
+    "en": "\"macro social phenomena\": social institutions and organisations, like the family, education and the state, at the macro level of the social world.",
+    "tr": "\"padide-haye kalan-e ejtemai\": nahad-ha va sazman-haye ejtema'i, manand-e khanevade, amoozesh va dowlat, ke dar sath-e kalan-e jahan-e ejtema'i jay darand."
+   },
+   "contrast": {
+    "fa": "سطح خرد، کنش‌ها و رابطه‌های فردی است.",
+    "en": "The micro level is individual actions and relationships.",
+    "tr": "Sath-e khord, konesh-ha va rabete-haye fardi ast."
+   },
+   "unit": "si-4-social-world-parts"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-aghayed-va-arzesh-haye-bonyadin",
+   "term": {
+    "fa": "عقاید و ارزش‌های بنیادین",
+    "en": "core beliefs and values",
+    "tr": "aghayed va arzesh-haye bonyadin"
+   },
+   "explain": {
+    "fa": "«عقاید و ارزش‌های بنیادین»: عمیق‌ترین لایهٔ جهان اجتماعی، که هنجارها بر پایهٔ آن شکل می‌گیرند و تغییرش کل جامعه را دگرگون می‌کند.",
+    "en": "\"core beliefs and values\": the deepest layer of the social world, on which norms are built and whose change transforms the whole society.",
+    "tr": "\"aghayed va arzesh-haye bonyadin\": amigh-tarin laye-ye jahan-e ejtema'i, ke hanjar-ha bar paye-ye an shekl migirand va taghyirash kol-e jame'e ra degargoon mikonad."
+   },
+   "analogy": {
+    "fa": "ریشهٔ درخت؛ نمادها و رسوم برگ‌های آن‌اند.",
+    "en": "The root of the tree; symbols and customs are its leaves.",
+    "tr": "Rishe-ye derakht; namad-ha va rosoom barg-haye an-and."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-haye-ejtemai",
+   "term": {
+    "fa": "جهان‌های اجتماعی",
+    "en": "social worlds",
+    "tr": "jahan-haye ejtemai"
+   },
+   "explain": {
+    "fa": "«جهان‌های اجتماعی»: جهان‌های اجتماعی گوناگون بیش از هر چیز با عقاید و ارزش‌های بنیادینشان از هم جدا می‌شوند، نه با جمعیت یا وسعت.",
+    "en": "\"social worlds\": different social worlds differ above all by their core beliefs and values, not by population or size.",
+    "tr": "\"jahan-haye ejtemai\": jahan-haye ejtema'i-ye goonagoon bish az har chiz ba aghayed va arzesh-haye bonyadineshan az ham joda mishavand, na ba jam'iyat ya vos'at."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-az-khod-biganegi-ye-farhangi",
+   "term": {
+    "fa": "ازخودبیگانگی فرهنگی",
+    "en": "cultural alienation",
+    "tr": "az-khod-biganegi-ye farhangi"
+   },
+   "explain": {
+    "fa": "«ازخودبیگانگی فرهنگی»: فراموش کردن باورهای بنیادین و از دست دادن هویت، از شیفتگی به فرهنگی بیگانه.",
+    "en": "\"cultural alienation\": forgetting core beliefs and losing identity out of fascination with a foreign culture.",
+    "tr": "\"az-khod-biganegi-ye farhangi\": faramoosh kardan-e bavar-haye bonyadin va az dast dadan-e hoviyat, az shifteghi be farhangi bigane."
+   },
+   "contrast": {
+    "fa": "پایداری فرهنگی برعکس است: ریشه را نگه می‌دارد.",
+    "en": "Cultural resilience is the opposite: it keeps the root.",
+    "tr": "Paydari-ye farhangi bar'aks ast: rishe ra negah midarad."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-payedari-ye-farhangi",
+   "term": {
+    "fa": "پایداری فرهنگی",
+    "en": "cultural resilience",
+    "tr": "payedari-ye farhangi"
+   },
+   "explain": {
+    "fa": "«پایداری فرهنگی»: توانایی کنار آمدن با چالش‌های تازه بی‌آنکه باورهای بنیادین رها شود.",
+    "en": "\"cultural resilience\": the ability to handle new challenges without giving up core beliefs.",
+    "tr": "\"payedari-ye farhangi\": tavanayi-ye kenar amadan ba chalesh-haye taze bi-anke bavar-haye bonyadin raha shavad."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-ejtemai-ye-emperatoori",
+   "term": {
+    "fa": "جهان اجتماعی امپراتوری",
+    "en": "imperial social world",
+    "tr": "jahan-e ejtemai-ye emperatoori"
+   },
+   "explain": {
+    "fa": "«جهان اجتماعی امپراتوری»: جهان اجتماعی‌ای که ساختار سیاسی و فرهنگی خود را با گسترش نظامی و غارت ثروت ملت‌های دیگر می‌سازد.",
+    "en": "\"imperial social world\": a social world that builds its political and cultural structure by military expansion and plundering other nations' wealth.",
+    "tr": "\"jahan-e ejtemai-ye emperatoori\": jahan-e ejtema'i-i ke sakhtar-e siyasi va farhangi-ye khod ra ba gostaresh-e nezami va gharat-e servat-e mellat-haye digar misazad."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-ejtemai-ye-gharb",
+   "term": {
+    "fa": "جهان اجتماعی غرب",
+    "en": "modern Western social world",
+    "tr": "jahan-e ejtemai-ye gharb"
+   },
+   "explain": {
+    "fa": "«جهان اجتماعی غرب»: به گفتهٔ کتاب، جهان اجتماعی‌ای که بر پایهٔ سکولاریسم و اومانیسم (انسان‌محوری) شکل گرفته.",
+    "en": "\"modern Western social world\": by the book, the social world built on secularism and humanism.",
+    "tr": "\"jahan-e ejtemai-ye gharb\": be gofte-ye ketab, jahan-e ejtema'i-i ke bar paye-ye sekoolarism va omanism (ensan-mehvari) shekl gerefte."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-jahan-e-ejtemai-ye-batel",
+   "term": {
+    "fa": "جهان اجتماعی باطل",
+    "en": "false social world",
+    "tr": "jahan-e ejtemai-ye batel"
+   },
+   "explain": {
+    "fa": "«جهان اجتماعی باطل»: از نگاه کتاب، جهانی که باورهای بنیادینش بر نادانی، خرافه یا انکار حقیقت‌های ماورای طبیعت استوار است.",
+    "en": "\"false social world\": in the book's view, a world whose core beliefs rest on ignorance, superstition or denial of truths beyond nature.",
+    "tr": "\"jahan-e ejtemai-ye batel\": az negah-e ketab, jahani ke bavar-haye bonyadinash bar nadani, khorafe ya enkar-e haghighat-haye mavara-ye tabi'at ostovar ast."
+   },
+   "unit": "si-5-social-worlds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-ghodrat-e-ejtemai",
+   "term": {
+    "fa": "قدرت اجتماعی",
+    "en": "social power",
+    "tr": "ghodrat-e ejtemai"
+   },
+   "explain": {
+    "fa": "«قدرت اجتماعی»: توانایی اثر گذاشتن بر ارادهٔ دیگران برای رسیدن به هدف‌هایی معین.",
+    "en": "\"social power\": the ability to influence others' will to reach certain goals.",
+    "tr": "\"ghodrat-e ejtemai\": tavanayi-ye asar gozashtan bar erade-ye digaran baraye residan be hadaf-hayi mo'ayyan."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-abzar-e-payedar-e-ghodrat",
+   "term": {
+    "fa": "ابزار پایدار قدرت",
+    "en": "lasting means of power",
+    "tr": "abzar-e payedar-e ghodrat"
+   },
+   "explain": {
+    "fa": "«ابزار پایدار قدرت»: پایدارترین ابزار قدرت: ارزش‌ها، آگاهی و اقناع فرهنگی، که با اقناع ذهن و پذیرش قلبی اراده‌ها را همراه می‌کند.",
+    "en": "\"lasting means of power\": the most lasting means of power: values, awareness and cultural persuasion, winning wills over through mind and heart.",
+    "tr": "\"abzar-e payedar-e ghodrat\": paydar-tarin abzar-e ghodrat: arzesh-ha, agahi va eghna'-e farhangi, ke ba eghna'-e zehn va paziresh-e ghalbi erade-ha ra hamrah mikonad."
+   },
+   "analogy": {
+    "fa": "خورشید با گرمایش، نه باد با زورش، کت رهگذر را درآورد.",
+    "en": "The sun's warmth, not the wind's force, took off the traveller's coat.",
+    "tr": "Khorshid ba garmayash, na bad ba zoorash, kot-e rahgozar ra dar-avard."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-zoor-e-oryan",
+   "term": {
+    "fa": "زور عریان",
+    "en": "naked force",
+    "tr": "zoor-e oryan"
+   },
+   "explain": {
+    "fa": "«زور عریان»: قدرتی که بی‌پشتوانهٔ قانونی، عقلی یا شرعی و تنها با تنبیه جسمی تحمیل شود.",
+    "en": "\"naked force\": power imposed without legal, rational or religious backing, by physical punishment alone.",
+    "tr": "\"zoor-e oryan\": ghodrati ke bi-poshtvane-ye ghanooni, aghli ya shar'i va tanha ba tanbih-e jesmi tahmil shavad."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-tabaiyat-ba-kerahat",
+   "term": {
+    "fa": "تبعیت با کراهت",
+    "en": "unwilling obedience",
+    "tr": "tabaiyat ba kerahat"
+   },
+   "explain": {
+    "fa": "«تبعیت با کراهت»: فرمان‌برداری از قدرت تنها از ترس مجازات یا زور بیرونی (غیرارادی).",
+    "en": "\"unwilling obedience\": obeying a power only out of fear of punishment or outside force (involuntary).",
+    "tr": "\"tabaiyat ba kerahat\": farman-bari az ghodrat tanha az tars-e mojazat ya zoor-e biroonie (gheyr-e eradi)."
+   },
+   "contrast": {
+    "fa": "تبعیت با رضایت، از سر پذیرش است.",
+    "en": "Willing obedience comes from acceptance.",
+    "tr": "Tabe'iyat ba rezayat, az sar-e paziresh ast."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-mashrooiyat-va-maghbooliyat",
+   "term": {
+    "fa": "مشروعیت و مقبولیت",
+    "en": "legitimacy and acceptance",
+    "tr": "mashrooiyat va maghbooliyat"
+   },
+   "explain": {
+    "fa": "«مشروعیت و مقبولیت»: دو پرسش جدا دربارهٔ قدرت: مشروعیت یعنی داشتن معیارهای عقلانی یا شرعی، مقبولیت یعنی پذیرش داوطلبانهٔ مردم؛ قدرتی ممکن است مشروع باشد اما مقبول نباشد.",
+    "en": "\"legitimacy and acceptance\": two separate questions about power: legitimacy is meeting rational or religious standards, acceptance is the people's willing approval; a power can be legitimate but not accepted.",
+    "tr": "\"mashrooiyat va maghbooliyat\": do porsesh-e joda darbare-ye ghodrat: mashroo'iyat ya'ni dashtan-e me'yar-haye aghlani ya shar'i, maghbooliyat ya'ni paziresh-e davtalabane-ye mardom; ghodrati momken ast mashroo' bashad amma maghbool nabashad."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-moghavemat-e-manfi",
+   "term": {
+    "fa": "مقاومت منفی",
+    "en": "passive (negative) resistance",
+    "tr": "moghavemat-e manfi"
+   },
+   "explain": {
+    "fa": "«مقاومت منفی»: خودداری داوطلبانهٔ شهروندان از همکاری با قدرتی نامشروع، که مقبولیت آن را به‌تدریج تضعیف می‌کند.",
+    "en": "\"passive (negative) resistance\": citizens voluntarily refusing to cooperate with an illegitimate power, slowly wearing down its acceptance.",
+    "tr": "\"moghavemat-e manfi\": khoddari-ye davtalabane-ye shahrvandan az hamkari ba ghodrati namashroo', ke maghbooliyat-e an ra be-tadrij taz'if mikonad."
+   },
+   "contrast": {
+    "fa": "شورش مسلحانه نیست.",
+    "en": "Not armed revolt.",
+    "tr": "Shooresh-e mosallahane nist."
+   },
+   "unit": "si-6-social-power"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-eghtedar",
+   "term": {
+    "fa": "اقتدار",
+    "en": "authority",
+    "tr": "eghtedar"
+   },
+   "explain": {
+    "fa": "«اقتدار»: قدرتی که با رضایت درونی کسانی که از آن اثر می‌پذیرند همراه است و به‌گونه‌ای مشروع به کار می‌رود.",
+    "en": "\"authority\": power that comes with the inner consent of those it affects and is used legitimately.",
+    "tr": "\"eghtedar\": ghodrati ke ba rezayat-e daroonie kasani ke az an asar mipazirand hamrah ast va be-goone-i mashroo' be kar miravad."
+   },
+   "contrast": {
+    "fa": "زور رضایتی پشتش نیست.",
+    "en": "Force has no consent behind it.",
+    "tr": "Zoor rezayati poshtash nist."
+   },
+   "unit": "si-7-authority-kinds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-eghtedar-e-karizmayi",
+   "term": {
+    "fa": "اقتدار کاریزمایی",
+    "en": "charismatic authority",
+    "tr": "eghtedar-e karizmayi"
+   },
+   "explain": {
+    "fa": "«اقتدار کاریزمایی»: اقتداری بر پایهٔ ویژگی‌های اخلاقی، معنوی یا شخصیتی فوق‌العادهٔ یک رهبر.",
+    "en": "\"charismatic authority\": authority based on a leader's extraordinary moral, spiritual or personal qualities.",
+    "tr": "\"eghtedar-e karizmayi\": eghtedari bar paye-ye vizhegi-haye akhlaghi, ma'navi ya shakhsiyati-ye fowgh-ol-ade-ye yek rahbar."
+   },
+   "unit": "si-7-authority-kinds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-eghtedar-e-sonnati",
+   "term": {
+    "fa": "اقتدار سنتی",
+    "en": "traditional authority",
+    "tr": "eghtedar-e sonnati"
+   },
+   "explain": {
+    "fa": "«اقتدار سنتی»: اقتداری بر پایهٔ آداب و رسوم دیرینه، عادت‌های اجتماعی و وراثت نسلی.",
+    "en": "\"traditional authority\": authority based on long-standing customs, social habits and inheritance across generations.",
+    "tr": "\"eghtedar-e sonnati\": eghtedari bar paye-ye adab va rosoom-e dirine, adat-haye ejtema'i va verasat-e nasli."
+   },
+   "unit": "si-7-authority-kinds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-eghtedar-e-ghanooni",
+   "term": {
+    "fa": "اقتدار قانونی",
+    "en": "rational-legal authority",
+    "tr": "eghtedar-e ghanooni"
+   },
+   "explain": {
+    "fa": "«اقتدار قانونی»: اقتداری که مشروعیتش تنها بر پایهٔ قوانین مکتوب و روال‌های اداری تعریف می‌شود.",
+    "en": "\"rational-legal authority\": authority whose legitimacy is defined only by written laws and administrative procedures.",
+    "tr": "\"eghtedar-e ghanooni\": eghtedari ke mashroo'iyatash tanha bar paye-ye ghavanin-e maktoob va ravval-haye edari ta'rif mishavad."
+   },
+   "contrast": {
+    "fa": "سنت نانوشته است؛ قانون مکتوب.",
+    "en": "Tradition is unwritten; law is written.",
+    "tr": "Sonnat nanevesh-te ast; ghanoon maktoob."
+   },
+   "unit": "si-7-authority-kinds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-manshae-mashrooiyat",
+   "term": {
+    "fa": "منشأ مشروعیت",
+    "en": "source of legitimacy",
+    "tr": "manshae mashrooiyat"
+   },
+   "explain": {
+    "fa": "«منشأ مشروعیت»: به گفتهٔ کتاب، در اندیشهٔ دینی منشأ اصلی مشروعیت حاکمیت و حق قانون‌گذاری از آنِ خداوند است.",
+    "en": "\"source of legitimacy\": by the book, in religious thought the main source of legitimate rule and the right to make law belongs to God.",
+    "tr": "\"manshae mashrooiyat\": be gofte-ye ketab, dar andishe-ye dini mansha'-e asli-ye mashroo'iyat-e hakemiyat va haghgh-e ghanoon-gozari az an-e khodavand ast."
+   },
+   "unit": "si-7-authority-kinds"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-maghbooliyat",
+   "term": {
+    "fa": "مقبولیت",
+    "en": "acceptance (maqbuliyyat)",
+    "tr": "maghbooliyat"
+   },
+   "explain": {
+    "fa": "«مقبولیت»: پذیرش داوطلبانه و رضایت مردم نسبت به یک نظام سیاسی یا قدرت حاکم.",
+    "en": "\"acceptance (maqbuliyyat)\": the people's willing acceptance of and consent to a political system or ruling power.",
+    "tr": "\"maghbooliyat\": paziresh-e davtalabane va rezayat-e mardom nesbat be yek nezam-e siyasi ya ghodrat-e hakem."
+   },
+   "contrast": {
+    "fa": "مشروعیت به معیارها برمی‌گردد، نه رضایت.",
+    "en": "Legitimacy concerns standards, not consent.",
+    "tr": "Mashroo'iyat be me'yar-ha bar-migardad, na rezayat."
+   },
+   "unit": "si-7-acceptance-crises"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-bohran-e-maghbooliyat",
+   "term": {
+    "fa": "بحران مقبولیت",
+    "en": "acceptance crisis",
+    "tr": "bohran-e maghbooliyat"
+   },
+   "explain": {
+    "fa": "«بحران مقبولیت»: وضعی که نظامی مشروع، حمایت و پذیرش داوطلبانهٔ مردم را از دست بدهد.",
+    "en": "\"acceptance crisis\": the state of a legitimate system that has lost the people's willing support.",
+    "tr": "\"bohran-e maghbooliyat\": vaz'i ke nezami mashroo', hemayat va paziresh-e davtalabane-ye mardom ra az dast bedahad."
+   },
+   "unit": "si-7-acceptance-crises"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-bohran-e-mashrooiyat",
+   "term": {
+    "fa": "بحران مشروعیت",
+    "en": "legitimacy crisis",
+    "tr": "bohran-e mashrooiyat"
+   },
+   "explain": {
+    "fa": "«بحران مشروعیت»: وضعی که نظامی سیاسی معیارهای عقلانی یا الهی حاکمیت خود را از دست بدهد.",
+    "en": "\"legitimacy crisis\": the state of a political system that has lost the rational or divine standards of its rule.",
+    "tr": "\"bohran-e mashrooiyat\": vaz'i ke nezami siyasi me'yar-haye aghlani ya elahi-ye hakemiyat-e khod ra az dast bedahad."
+   },
+   "contrast": {
+    "fa": "بحران مقبولیت از دست رفتن رضایت مردم است.",
+    "en": "A crisis of acceptance is losing the people's consent.",
+    "tr": "Bohran-e maghbooliyat az dast raftan-e rezayat-e mardom ast."
+   },
+   "unit": "si-7-acceptance-crises"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-foroopashi-ye-ghodrat",
+   "term": {
+    "fa": "فروپاشی قدرت",
+    "en": "collapse of power",
+    "tr": "foroopashi-ye ghodrat"
+   },
+   "explain": {
+    "fa": "«فروپاشی قدرت»: وقتی نظامی هم مقبولیت و هم مشروعیت خود را از دست بدهد: فروپاشی کامل قدرت حاکم.",
+    "en": "\"collapse of power\": when a system loses both its acceptance and its legitimacy: the complete collapse of the ruling power.",
+    "tr": "\"foroopashi-ye ghodrat\": vaghti nezami ham maghbooliyat va ham mashroo'iyat-e khod ra az dast bedahad: foroopashi-ye kamel-e ghodrat-e hakem."
+   },
+   "analogy": {
+    "fa": "میزی که هر دو پایه‌اش شکسته.",
+    "en": "A table with both legs broken.",
+    "tr": "Mizi ke har do paye-ash shekaste."
+   },
+   "unit": "si-7-acceptance-crises"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-siyasi",
+   "term": {
+    "fa": "نظام سیاسی",
+    "en": "political system",
+    "tr": "nezam-e siyasi"
+   },
+   "explain": {
+    "fa": "«نظام سیاسی»: مجموعهٔ نهادها و ساختارهایی که مدیریت قدرت اجتماعی و ادارهٔ امور جامعه را بر عهده دارند.",
+    "en": "\"political system\": the institutions and structures that manage social power and run society's affairs.",
+    "tr": "\"nezam-e siyasi\": majmoo'e-ye nahad-ha va sakhtar-hayi ke modiriyat-e ghodrat-e ejtema'i va edare-ye omoor-e jame'e ra bar ohde darand."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-siyasi-ye-dini",
+   "term": {
+    "fa": "نظام سیاسی دینی",
+    "en": "religious political system",
+    "tr": "nezam-e siyasi-ye dini"
+   },
+   "explain": {
+    "fa": "«نظام سیاسی دینی»: نظام‌هایی که ملاک مشروعیتشان را قوانین الهی و وحی می‌دانند و هدایت معنوی جامعه را دنبال می‌کنند.",
+    "en": "\"religious political system\": systems that take divine law and revelation as their measure of legitimacy and pursue society's spiritual guidance.",
+    "tr": "\"nezam-e siyasi-ye dini\": nezam-hayi ke melak-e mashroo'iyateshan ra ghavanin-e elahi va vahy midanand va hedayat-e ma'navi-ye jame'e ra donbal mikonand."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-siyasi-ye-sekolar",
+   "term": {
+    "fa": "نظام سیاسی سکولار",
+    "en": "secular political system",
+    "tr": "nezam-e siyasi-ye sekolar"
+   },
+   "explain": {
+    "fa": "«نظام سیاسی سکولار»: نظام‌هایی که هدف نهایی را تنها تأمین آزادی‌های فردی و منافع مادی دنیوی می‌دانند و ارزش‌های الهی را کنار می‌گذارند.",
+    "en": "\"secular political system\": systems whose final aim is only individual freedoms and worldly material interests, setting divine values aside.",
+    "tr": "\"nezam-e siyasi-ye sekolar\": nezam-hayi ke hadaf-e nahayi ra tanha ta'min-e azadi-haye fardi va manafe'-e maddi-ye donyavi midanand va arzesh-haye elahi ra kenar migozarand."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-hokoomat-e-mashroo",
+   "term": {
+    "fa": "حکومت مشروع",
+    "en": "legitimate government",
+    "tr": "hokoomat-e mashroo"
+   },
+   "explain": {
+    "fa": "«حکومت مشروع»: به گفتهٔ کتاب، حکومتی که بر پایهٔ قوانین الهی و ارزش‌های راستین عقلی شکل گرفته و حق حاکمیت دارد.",
+    "en": "\"legitimate government\": by the book, a government formed on divine law and true rational values, which has the right to rule.",
+    "tr": "\"hokoomat-e mashroo\": be gofte-ye ketab, hokoomati ke bar paye-ye ghavanin-e elahi va arzesh-haye rastin-e aghli shekl gerefte va haghgh-e hakemiyat darad."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-mardom-salari-ye-dini",
+   "term": {
+    "fa": "مردم‌سالاری دینی",
+    "en": "religious democracy",
+    "tr": "mardom-salari-ye dini"
+   },
+   "explain": {
+    "fa": "«مردم‌سالاری دینی»: حاکمیت بر پایهٔ خواست و مشارکت مردم، اما در چارچوب قوانین و ارزش‌های الهی.",
+    "en": "\"religious democracy\": rule based on the people's will and participation, but within divine laws and values.",
+    "tr": "\"mardom-salari-ye dini\": hakemiyat bar paye-ye khast va mosharekat-e mardom, amma dar charchoob-e ghavanin va arzesh-haye elahi."
+   },
+   "contrast": {
+    "fa": "دموکراسی لیبرال خواست اکثریت را بدون قوانین الهی ملاک می‌گیرد.",
+    "en": "Liberal democracy takes the majority's will without divine law.",
+    "tr": "Demokrasi-ye liberal khast-e aksariyat ra bedoon-e ghavanin-e elahi melak migirad."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-demokrasi-ye-liberal",
+   "term": {
+    "fa": "دموکراسی لیبرال",
+    "en": "liberal democracy",
+    "tr": "demokrasi-ye liberal"
+   },
+   "explain": {
+    "fa": "«دموکراسی لیبرال»: در تمدن جدید غرب، حاکمیت بر پایهٔ خواست اکثریت مردم و بدون در نظر گرفتن قوانین الهی.",
+    "en": "\"liberal democracy\": in modern Western civilization, rule based on the will of the majority, without regard to divine law.",
+    "tr": "\"demokrasi-ye liberal\": dar tamaddon-e jadid-e gharb, hakemiyat bar paye-ye khast-e aksariyat-e mardom va bedoon-e dar nazar gereftan-e ghavanin-e elahi."
+   },
+   "unit": "si-8-political-systems"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-te-okrasi",
+   "term": {
+    "fa": "تئوکراسی",
+    "en": "theocracy (religious despotism)",
+    "tr": "te-okrasi"
+   },
+   "explain": {
+    "fa": "«تئوکراسی»: نظامی که مشروعیتش را به دین نسبت می‌دهد اما در عمل قوانین الهی را تحریف و حکومتی استبدادی برپا می‌کند.",
+    "en": "\"theocracy (religious despotism)\": a system that claims legitimacy from religion but in practice distorts divine law and sets up despotic rule.",
+    "tr": "\"te-okrasi\": nezami ke mashroo'iyatash ra be din nesbat midahad amma dar amal ghavanin-e elahi ra tahrif va hokoomati estebdadi barpa mikonad."
+   },
+   "contrast": {
+    "fa": "با حکومت الهی راستین فرق دارد: دین‌داری‌اش فقط ادعاست.",
+    "en": "Not a true divine government: its faith is only a claim.",
+    "tr": "Ba hokoomat-e elahi-ye rastin fargh darad: din-dari-ash faghat edde'ast."
+   },
+   "unit": "si-8-system-forms"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-tamamiyat-khah",
+   "term": {
+    "fa": "نظام تمامیت‌خواه",
+    "en": "totalitarian system",
+    "tr": "nezam-e tamamiyat-khah"
+   },
+   "explain": {
+    "fa": "«نظام تمامیت‌خواه»: نظامی که همهٔ ابعاد زندگی فردی و اجتماعی شهروندان را زیر نظارت شدید و زور قرار می‌دهد.",
+    "en": "\"totalitarian system\": a system that puts every part of citizens' personal and social life under tight surveillance and force.",
+    "tr": "\"nezam-e tamamiyat-khah\": nezami ke hame-ye ab'ad-e zendegi-ye fardi va ejtema'i-ye shahrvandan ra zir-e nezarat-e shadid va zoor gharar midahad."
+   },
+   "unit": "si-8-system-forms"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-apartayd",
+   "term": {
+    "fa": "آپارتاید",
+    "en": "apartheid",
+    "tr": "apartayd"
+   },
+   "explain": {
+    "fa": "«آپارتاید»: نظام نژادپرستی که قدرت، ثروت و حقوق شهروندی را تنها بر پایهٔ نژاد یا قومیت برتر تقسیم می‌کند.",
+    "en": "\"apartheid\": a racist system dividing power, wealth and citizens' rights only by a 'superior' race or ethnicity.",
+    "tr": "\"apartayd\": nezam-e nezhadparasti ke ghodrat, servat va hoghoogh-e shahrvandi ra tanha bar paye-ye nezhad ya ghowmiyat-e bartar taghsim mikonad."
+   },
+   "unit": "si-8-system-forms"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-siyasi-ye-sarmaye-dari",
+   "term": {
+    "fa": "نظام سیاسی سرمایه‌داری",
+    "en": "capitalist political system",
+    "tr": "nezam-e siyasi-ye sarmaye-dari"
+   },
+   "explain": {
+    "fa": "«نظام سیاسی سرمایه‌داری»: نظام سکولاری که قانون و قدرت اجرایی را در خدمت منافع صاحبان ثروت و سرمایه‌داران بزرگ می‌گذارد.",
+    "en": "\"capitalist political system\": a secular system that puts law and executive power at the service of the wealthy and big capitalists.",
+    "tr": "\"nezam-e siyasi-ye sarmaye-dari\": nezam-e sekoolari ke ghanoon va ghodrat-e ejra'i ra dar khedmat-e manafe'-e sahebaan-e servat va sarmaye-daran-e bozorg migozarad."
+   },
+   "contrast": {
+    "fa": "سوسیالیسم برعکس، مالکیت خصوصی بزرگ را از میان می‌برد.",
+    "en": "Socialism, by contrast, abolishes large private property.",
+    "tr": "Sosiyalism bar'aks, malekiyat-e khosoosi-ye bozorg ra az miyan mibarad."
+   },
+   "unit": "si-8-system-forms"
+  },
+  {
+   "subject": "Social Identity",
+   "key": "si-g-nezam-e-siyasi-ye-sosiyalisti",
+   "term": {
+    "fa": "نظام سیاسی سوسیالیستی",
+    "en": "socialist political system",
+    "tr": "nezam-e siyasi-ye sosiyalisti"
+   },
+   "explain": {
+    "fa": "«نظام سیاسی سوسیالیستی»: نظام سکولاری که مالکیت خصوصی بزرگ را از میان می‌برد و اقتصاد و توزیع قدرت را زیر کنترل شدید دولت می‌گذارد.",
+    "en": "\"socialist political system\": a secular system that abolishes large private property and puts the economy and distribution of power under tight state control.",
+    "tr": "\"nezam-e siyasi-ye sosiyalisti\": nezam-e sekoolari ke malekiyat-e khosoosi-ye bozorg ra az miyan mibarad va eghtesad va towzi'-e ghodrat ra zir-e kontrol-e shadid-e dowlat migozarad."
+   },
+   "unit": "si-8-system-forms"
+  }
+ ]
+}
