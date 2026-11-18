@@ -1,0 +1,1906 @@
+{
+ "version": 169,
+ "format": 11,
+ "glossary": [
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-unsaturated-fatty-acids",
+   "term": {
+    "fa": "اسیدهای چرب غیراشباع",
+    "en": "unsaturated fatty acids",
+    "tr": "acid-haye charb-e gheyr-e eshba"
+   },
+   "explain": {
+    "fa": "«اسیدهای چرب غیراشباع»: چربی‌هایی با پیوند دوگانه میان کربن‌ها که در دمای اتاق مایع‌اند و خطر کمتری برای رسوب در رگ‌ها دارند.",
+    "en": "\"unsaturated fatty acids\": fats with double bonds between carbons, liquid at room temperature and less likely to clog arteries.",
+    "tr": "\"acid-haye charb-e gheyr-e eshba\": charbi-hayi ba peyvand-e dogane miyan-e karbon-ha ke dar dama-ye otagh maye'-and va khatar-e kamtari baraye rosoob dar rag-ha darand."
+   },
+   "contrast": {
+    "fa": "چربی اشباع و ترانس جامدتر و خطرناک‌ترند.",
+    "en": "Saturated and trans fats are more solid and riskier.",
+    "tr": "Charbi-ye eshba' va trans jamed-tar va khatarnak-tar-and."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-energy-in-fats",
+   "term": {
+    "fa": "انرژی چربی‌ها",
+    "en": "energy in fats",
+    "tr": "enerzhi-ye charbi-ha"
+   },
+   "explain": {
+    "fa": "«انرژی چربی‌ها»: هر گرم چربی حدود ۹ کیلوکالری انرژی می‌دهد، بیش از دو برابر کربوهیدرات یا پروتئین.",
+    "en": "\"energy in fats\": each gram of fat gives about 9 kcal, more than twice carbohydrate or protein.",
+    "tr": "\"enerzhi-ye charbi-ha\": har geram charbi hodood-e 9 kilokalori enerzhi midahad, bish az do barabar-e karbohidrat ya protein."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-dietary-fibre",
+   "term": {
+    "fa": "فیبر غذایی",
+    "en": "dietary fibre",
+    "tr": "fibr-e ghazayi"
+   },
+   "explain": {
+    "fa": "«فیبر غذایی»: کربوهیدرات‌های پیچیدهٔ گوارش‌ناپذیر در سبزی‌ها و غلات کامل که حرکت روده را آسان می‌کنند و از یبوست پیشگیری می‌کنند.",
+    "en": "\"dietary fibre\": indigestible complex carbohydrates in vegetables and whole grains that ease the bowels and prevent constipation.",
+    "tr": "\"fibr-e ghazayi\": karbohidrat-haye pichide-ye govaresh-napazir dar sabzi-ha va ghallat-e kamel ke harekat-e roode ra asan mikonand va az yeboost pishgiri mikonand."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-drinking-water",
+   "term": {
+    "fa": "نوشیدن آب",
+    "en": "drinking water",
+    "tr": "nooshidan-e ab"
+   },
+   "explain": {
+    "fa": "«نوشیدن آب»: نوجوان روزانه دست‌کم ۶ تا ۸ لیوان آب برای کار درست بدن و دفع مواد زائد لازم دارد.",
+    "en": "\"drinking water\": a teenager needs at least 6 to 8 glasses of water a day for the body to work and clear waste.",
+    "tr": "\"nooshidan-e ab\": nojavan roozane dast-kam 6 ta 8 livan ab baraye kar-e dorost-e badan va daf'-e mavad-e za'ed lazem darad."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-negative-energy-balance",
+   "term": {
+    "fa": "تعادل منفی انرژی",
+    "en": "negative energy balance",
+    "tr": "ta'adol-e manfi-ye enerzhi"
+   },
+   "explain": {
+    "fa": "«تعادل منفی انرژی»: وقتی انرژی دریافتی کمتر از انرژی مصرفی باشد و وزن کم شود.",
+    "en": "\"negative energy balance\": when energy taken in is less than energy used, and weight falls.",
+    "tr": "\"ta'adol-e manfi-ye enerzhi\": vaghti enerzhi-ye daryafti kamtar az enerzhi-ye masrafi bashad va vazn kam shavad."
+   },
+   "contrast": {
+    "fa": "تعادل مثبت یعنی دریافتی بیشتر و ذخیرهٔ چربی.",
+    "en": "A positive balance means more intake and stored fat.",
+    "tr": "Ta'adol-e mosbat ya'ni daryafti bishtar va zakhire-ye charbi."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-daily-salt-limit",
+   "term": {
+    "fa": "حد مصرف نمک",
+    "en": "daily salt limit",
+    "tr": "hadd-e masraf-e namak"
+   },
+   "explain": {
+    "fa": "«حد مصرف نمک»: بیشینهٔ نمک روزانهٔ بزرگسال ۵ گرم است، برای سلامت رگ‌ها و پیشگیری از فشار خون بالا.",
+    "en": "\"daily salt limit\": an adult's daily salt maximum is 5 grams, for healthy vessels and to prevent high blood pressure.",
+    "tr": "\"hadd-e masraf-e namak\": bishine-ye namak-e roozane-ye bozorgsal 5 geram ast, baraye salamat-e rag-ha va pishgiri az feshar-e khoon-e bala."
+   },
+   "unit": "hh-1-nutrients-energy"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-vitamin-d",
+   "term": {
+    "fa": "ویتامین دی",
+    "en": "vitamin D",
+    "tr": "vitamin D"
+   },
+   "explain": {
+    "fa": "«ویتامین دی»: ویتامین محلول در چربی که کمبودش علت اصلی نرمی و کاهش تراکم استخوان است.",
+    "en": "\"vitamin D\": the fat-soluble vitamin whose lack is the main cause of soft, thinning bones.",
+    "tr": "\"vitamin D\": vitamin-e mahlool dar charbi ke kamboodash ellat-e asli-ye narmi va kahesh-e tarakom-e ostekhan ast."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-iron-deficiency-anaemia",
+   "term": {
+    "fa": "کم‌خونی فقر آهن",
+    "en": "iron-deficiency anaemia",
+    "tr": "kam-khooni-ye faghr-e ahan"
+   },
+   "explain": {
+    "fa": "«کم‌خونی فقر آهن»: کم‌خونی از کمبود آهن، عنصری که برای ساخت هموگلوبین لازم است.",
+    "en": "\"iron-deficiency anaemia\": anaemia from lack of iron, the element needed to make haemoglobin.",
+    "tr": "\"kam-khooni-ye faghr-e ahan\": kam-khooni az kambood-e ahan, onsori ke baraye sakht-e hemoglobin lazem ast."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-iodine",
+   "term": {
+    "fa": "ید",
+    "en": "iodine",
+    "tr": "yod"
+   },
+   "explain": {
+    "fa": "«ید»: عنصری که تیروئید برای کارش لازم دارد؛ کمبودش گواتر می‌آورد.",
+    "en": "\"iodine\": the element the thyroid needs; lack of it causes goitre.",
+    "tr": "\"yod\": onsori ke tiro'id baraye karash lazem darad; kamboodash gavatr miavarad."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-fluoride",
+   "term": {
+    "fa": "فلوئور",
+    "en": "fluoride",
+    "tr": "fluor"
+   },
+   "explain": {
+    "fa": "«فلوئور»: عنصری در آب آشامیدنی که مینای دندان را محکم می‌کند و از پوسیدگی پیشگیری می‌کند.",
+    "en": "\"fluoride\": an element in drinking water that strengthens tooth enamel and prevents decay.",
+    "tr": "\"fluor\": onsori dar ab-e ashamidani ke mina-ye dandan ra mohkam mikonad va az poosidegi pishgiri mikonad."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-vitamin-c",
+   "term": {
+    "fa": "ویتامین C",
+    "en": "vitamin C",
+    "tr": "vitamin C"
+   },
+   "explain": {
+    "fa": "ویتامین محلول در آب که کمبودش اسکوروی، خون‌ریزی لثه و سستی دیوارهٔ رگ‌ها می‌آورد.",
+    "en": "\"vitamin C\": the water-soluble vitamin whose lack causes scurvy, bleeding gums and weak vessel walls.",
+    "tr": "\"vitamin C\": vitamin-e mahlool dar ab ke kamboodash eskorvi, khoon-rizi-ye lese va sosti-ye divare-ye rag-ha miavarad."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-vitamin-k",
+   "term": {
+    "fa": "ویتامین K",
+    "en": "vitamin K",
+    "tr": "vitamin K"
+   },
+   "explain": {
+    "fa": "ویتامین محلول در چربی، فراوان در سبزی‌های برگ‌سبز، که نقش اصلی را در انعقاد خون دارد.",
+    "en": "\"vitamin K\": a fat-soluble vitamin plentiful in leafy greens, key to blood clotting.",
+    "tr": "\"vitamin K\": vitamin-e mahlool dar charbi, faravan dar sabzi-haye barg-sabz, ke naghsh-e asli ra dar en'eghad-e khoon darad."
+   },
+   "contrast": {
+    "fa": "خون‌ریزی لثه از کمبود ویتامین محلول در آب است، نه این.",
+    "en": "Bleeding gums come from lack of the water-soluble vitamin, not this one.",
+    "tr": "Khoon-rizi-ye lese az kambood-e vitamin-e mahlool dar ab ast, na in."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-vitamin-a",
+   "term": {
+    "fa": "ویتامین A",
+    "en": "vitamin A",
+    "tr": "vitamin A"
+   },
+   "explain": {
+    "fa": "ویتامین محلول در چربی که کمبودش شب‌کوری و آسیب بینایی می‌آورد.",
+    "en": "\"vitamin A\": the fat-soluble vitamin whose lack causes night blindness and poor sight.",
+    "tr": "\"vitamin A\": vitamin-e mahlool dar charbi ke kamboodash shab-koori va asib-e binayi miavarad."
+   },
+   "unit": "hh-1-vitamins-minerals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-carbon-monoxide",
+   "term": {
+    "fa": "کربن مونوکسید",
+    "en": "carbon monoxide",
+    "tr": "karbon monoksid"
+   },
+   "explain": {
+    "fa": "«کربن مونوکسید»: گاز بی‌رنگ و بی‌بوی دود که به هموگلوبین می‌چسبد و رسیدن اکسیژن به بافت‌ها را مختل می‌کند.",
+    "en": "\"carbon monoxide\": the colourless, odourless gas in smoke that binds to haemoglobin and blocks oxygen to the tissues.",
+    "tr": "\"karbon monoksid\": gaz-e bi-rang va bi-boo-ye dood ke be hemoglobin michasbad va residan-e oksizhen be baft-ha ra mokhtal mikonad."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-nicotine",
+   "term": {
+    "fa": "نیکوتین",
+    "en": "nicotine",
+    "tr": "nikotin"
+   },
+   "explain": {
+    "fa": "«نیکوتین»: آلکالوئید برگ تنباکو و عامل اصلی اعتیاد به دخانیات.",
+    "en": "\"nicotine\": the tobacco leaf alkaloid and main cause of addiction to tobacco.",
+    "tr": "\"nikotin\": alkalo'id-e barg-e tanbakoo va amel-e asli-ye e'tiyad be dokhaniyat."
+   },
+   "contrast": {
+    "fa": "سرطان ریه را به قطران نسبت بده، نه نیکوتین.",
+    "en": "Lung cancer is blamed on tar, not nicotine.",
+    "tr": "Saratan-e rie ra be ghatran nesbat bede, na nikotin."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-tar",
+   "term": {
+    "fa": "قطران",
+    "en": "tar",
+    "tr": "ghatran"
+   },
+   "explain": {
+    "fa": "«قطران»: مادهٔ قهوه‌ای و چسبناک دود که در کیسه‌های هوایی ریه رسوب می‌کند و عامل اصلی سرطان ریه است.",
+    "en": "\"tar\": the brown, sticky substance in smoke that settles in the air sacs and is the main cause of lung cancer.",
+    "tr": "\"ghatran\": made-ye ghahve'i va chasbnak-e dood ke dar kise-haye hava'i-ye rie rosoob mikonad va amel-e asli-ye saratan-e rie ast."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-effect-of-nicotine-on-the-heart",
+   "term": {
+    "fa": "اثر نیکوتین بر قلب",
+    "en": "effect of nicotine on the heart",
+    "tr": "asar-e nikotin bar ghalb"
+   },
+   "explain": {
+    "fa": "«اثر نیکوتین بر قلب»: بالا رفتن ناگهانی ضربان قلب و فشار خون و تنگ شدن رگ‌ها بلافاصله پس از کشیدن سیگار، از اثر نیکوتین.",
+    "en": "\"effect of nicotine on the heart\": the sudden rise in heart rate and blood pressure and narrowed vessels right after smoking, caused by nicotine.",
+    "tr": "\"asar-e nikotin bar ghalb\": bala raftan-e nagahani-ye zarban-e ghalb va feshar-e khoon va tang shodan-e rag-ha belafasele pas az keshidan-e sigar, az asar-e nikotin."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-formaldehyde",
+   "term": {
+    "fa": "فرمالدئید",
+    "en": "formaldehyde",
+    "tr": "formaldehid"
+   },
+   "explain": {
+    "fa": "«فرمالدئید»: ترکیب سمی و سرطان‌زای دود سیگار که در ساخت رزین‌ها و نگهداری اجساد هم به کار می‌رود.",
+    "en": "\"formaldehyde\": a toxic, cancer-causing compound in smoke, also used for resins and preserving bodies.",
+    "tr": "\"formaldehid\": tarkib-e sammi va saratan-za-ye dood-e sigar ke dar sakht-e rezin-ha va negahdari-ye ajsad ham be kar miravad."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-effects-of-alcohol",
+   "term": {
+    "fa": "آثار الکل",
+    "en": "effects of alcohol",
+    "tr": "asar-e alkol"
+   },
+   "explain": {
+    "fa": "«آثار الکل»: الکل دستگاه عصبی مرکزی را سرکوب و واکنش‌ها را کند می‌کند و خطر حادثه و از دست رفتن تعادل را بالا می‌برد.",
+    "en": "\"effects of alcohol\": alcohol depresses the central nervous system, slows reactions and raises the risk of accidents and losing balance.",
+    "tr": "\"asar-e alkol\": alkol dastgah-e asabi-ye markazi ra sarkoob va vakonesh-ha ra kond mikonad va khatar-e hadese va az dast raftan-e ta'adol ra bala mibarad."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cirrhosis-of-the-liver",
+   "term": {
+    "fa": "سیروز کبدی",
+    "en": "cirrhosis of the liver",
+    "tr": "siroz-e kabedi"
+   },
+   "explain": {
+    "fa": "«سیروز کبدی»: آسیب مزمن و برگشت‌ناپذیر کبد بر اثر الکل که بافت سالم را سخت و زخمی می‌کند.",
+    "en": "\"cirrhosis of the liver\": chronic, irreversible liver damage from alcohol that turns healthy tissue hard and scarred.",
+    "tr": "\"siroz-e kabedi\": asib-e mozmen va bargasht-napazir-e kabed bar asar-e alkol ke baft-e salem ra sakht va zakhmi mikonad."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-fatty-liver",
+   "term": {
+    "fa": "کبد چرب",
+    "en": "fatty liver",
+    "tr": "kabed-e charb"
+   },
+   "explain": {
+    "fa": "«کبد چرب»: نخستین مرحلهٔ آسیب کبد بر اثر الکل، با انباشت چربی در سلول‌ها، و برگشت‌پذیر.",
+    "en": "\"fatty liver\": the first, reversible stage of alcohol liver damage, with fat building up in the cells.",
+    "tr": "\"kabed-e charb\": nakhostin marhale-ye asib-e kabed bar asar-e alkol, ba anbasht-e charbi dar selool-ha, va bargasht-pazir."
+   },
+   "contrast": {
+    "fa": "سیروز مرحلهٔ برگشت‌ناپذیر است.",
+    "en": "Cirrhosis is the irreversible stage.",
+    "tr": "Siroz marhale-ye bargasht-napazir ast."
+   },
+   "unit": "hh-1-tobacco-alcohol"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-ergonomics",
+   "term": {
+    "fa": "ارگونومی",
+    "en": "ergonomics",
+    "tr": "ergonomi"
+   },
+   "explain": {
+    "fa": "«ارگونومی»: دانش هماهنگ کردن محیط کار، ابزار و تجهیزات با ویژگی‌های جسمی و روانی انسان برای پیشگیری از آسیب‌های اسکلتی‌عضلانی.",
+    "en": "\"ergonomics\": the science of fitting workplace, tools and equipment to people, to prevent musculoskeletal injuries.",
+    "tr": "\"ergonomi\": danesh-e hamahang kardan-e mohit-e kar, abzar va tajhizat ba vizhegi-haye jesmi va ravani-ye ensan baraye pishgiri az asib-haye eskeleti-azolani."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-sedentary-lifestyle",
+   "term": {
+    "fa": "کم‌تحرکی",
+    "en": "sedentary lifestyle",
+    "tr": "kam-taharroki"
+   },
+   "explain": {
+    "fa": "«کم‌تحرکی»: زندگی بدون فعالیت بدنی کافی که خطر بیماری قلبی، دیابت و چاقی را بسیار بالا می‌برد.",
+    "en": "\"sedentary lifestyle\": life without enough physical activity, greatly raising the risk of heart disease, diabetes and obesity.",
+    "tr": "\"kam-taharroki\": zendegi bedoon-e fa'aliyat-e badani-ye kafi ke khatar-e bimari-ye ghalbi, diyabet va chaghi ra besyar bala mibarad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-lack-of-sleep",
+   "term": {
+    "fa": "کم‌خوابی",
+    "en": "lack of sleep",
+    "tr": "kam-khabi"
+   },
+   "explain": {
+    "fa": "«کم‌خوابی»: خواب ناکافی که در نوجوانان خستگی شدید، کم شدن تمرکز و ضعف ایمنی می‌آورد.",
+    "en": "\"lack of sleep\": too little sleep, causing severe tiredness, poor concentration and weak immunity in teenagers.",
+    "tr": "\"kam-khabi\": khab-e nakafi ke dar nojavanan khastegi-ye shadid, kam shodan-e tamarkoz va za'f-e imeni miavarad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-melatonin",
+   "term": {
+    "fa": "ملاتونین",
+    "en": "melatonin",
+    "tr": "melatonin"
+   },
+   "explain": {
+    "fa": "«ملاتونین»: هورمونی که غدهٔ پینه‌آل در تاریکی شب ترشح می‌کند و چرخهٔ خواب و بیداری را تنظیم می‌کند.",
+    "en": "\"melatonin\": the hormone the pineal gland releases in the dark, setting the sleep-wake cycle.",
+    "tr": "\"melatonin\": hormooni ke ghodde-ye pine'al dar tariki-ye shab tarashoh mikonad va charkhe-ye khab va bidari ra tanzim mikonad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-sleep-loss-and-insulin-resistance",
+   "term": {
+    "fa": "کم‌خوابی و مقاومت به انسولین",
+    "en": "sleep loss and insulin resistance",
+    "tr": "kam-khabi va moghavemat be ensulin"
+   },
+   "explain": {
+    "fa": "«کم‌خوابی و مقاومت به انسولین»: کم‌خوابی مزمن و به هم خوردن چرخهٔ شبانه‌روزی در درازمدت به مقاومت به انسولین و خطر دیابت نوع ۲ می‌انجامد.",
+    "en": "\"sleep loss and insulin resistance\": chronic sleep loss and a disrupted daily cycle lead, in the long run, to insulin resistance and type 2 diabetes risk.",
+    "tr": "\"kam-khabi va moghavemat be ensulin\": kam-khabi-ye mozmen va be ham khordan-e charkhe-ye shabane-roozi dar deraz-moddat be moghavemat be ensoolin va khatar-e diyabet-e no'-e 2 mianjamad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-maximum-heart-rate",
+   "term": {
+    "fa": "بیشینهٔ ضربان قلب",
+    "en": "maximum heart rate",
+    "tr": "bishine-ye zarban-e ghalb"
+   },
+   "explain": {
+    "fa": "«بیشینهٔ ضربان قلب»: شاخصی برای ورزش هوازی که از رابطهٔ ۲۲۰ منهای سن به دست می‌آید.",
+    "en": "\"maximum heart rate\": the aerobic-exercise index worked out as 220 minus age.",
+    "tr": "\"bishine-ye zarban-e ghalb\": shakhesi baraye varzesh-e havazi ke az rabete-ye 220 menha-ye sen be dast miayad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-target-heart-rate",
+   "term": {
+    "fa": "ضربان قلب هدف",
+    "en": "target heart rate",
+    "tr": "zarban-e ghalb-e hadaf"
+   },
+   "explain": {
+    "fa": "«ضربان قلب هدف»: در ورزش هوازی با شدت متوسط، ضربان قلب باید ۵۰ تا ۷۰ درصد بیشینهٔ ضربان باشد.",
+    "en": "\"target heart rate\": in moderate aerobic exercise, heart rate should be 50 to 70 percent of maximum.",
+    "tr": "\"zarban-e ghalb-e hadaf\": dar varzesh-e havazi ba sheddat-e motevasset, zarban-e ghalb bayad 50 ta 70 darsad-e bishine-ye zarban bashad."
+   },
+   "unit": "hh-1-movement-sleep"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cortisol",
+   "term": {
+    "fa": "کورتیزول",
+    "en": "cortisol",
+    "tr": "cortisol"
+   },
+   "explain": {
+    "fa": "«کورتیزول»: هورمون غدد فوق کلیه در استرس طولانی‌مدت که می‌تواند دستگاه ایمنی را تضعیف کند.",
+    "en": "\"cortisol\": the adrenal hormone of long-term stress, which can weaken the immune system.",
+    "tr": "\"cortisol\": hormoon-e ghodad-e fowgh-e kolie dar esteres-e toolani-moddat ke mitavanad dastgah-e imeni ra taz'if konad."
+   },
+   "contrast": {
+    "fa": "آدرنالین پاسخ فوری به استرس است.",
+    "en": "Adrenaline is the immediate stress response.",
+    "tr": "Adrenalin pasokh-e fowri be esteres ast."
+   },
+   "unit": "hh-2-stress"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-thalassaemia-screening",
+   "term": {
+    "fa": "آزمایش تالاسمی",
+    "en": "thalassaemia screening",
+    "tr": "azmayesh-e talasemi"
+   },
+   "explain": {
+    "fa": "«آزمایش تالاسمی»: آزمایش شمارش کامل خون و الکتروفورز هموگلوبین پیش از ازدواج، برای یافتن ناقلان تالاسمی مینور و پیشگیری از تالاسمی ماژور.",
+    "en": "\"thalassaemia screening\": a pre-marriage complete blood count and haemoglobin electrophoresis to find thalassaemia-minor carriers and prevent thalassaemia major.",
+    "tr": "\"azmayesh-e talasemi\": azmayesh-e shomaresh-e kamel-e khoon va elektroforez-e hemoglobin pish az ezdevaj, baraye yaftan-e naghelan-e talasemi minor va pishgiri az talasemi mazhor."
+   },
+   "unit": "hh-5-premarriage-tests"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-disease-vector",
+   "term": {
+    "fa": "ناقل بیماری",
+    "en": "disease vector",
+    "tr": "naghel-e bimari"
+   },
+   "explain": {
+    "fa": "«ناقل بیماری»: جانداری مانند پشهٔ آنوفل یا شپش که عامل بیماری را از یک میزبان به دیگری می‌رساند.",
+    "en": "\"disease vector\": a creature like the Anopheles mosquito or the louse that carries a pathogen from host to host.",
+    "tr": "\"naghel-e bimari\": jandari manand-e pashe-ye anofel ya shepesh ke amel-e bimari ra az yek mizban be digari miresanad."
+   },
+   "contrast": {
+    "fa": "مخزن خانهٔ عامل بیماری است، ناقل پیک آن.",
+    "en": "The reservoir is the pathogen's home, the vector its courier.",
+    "tr": "Makhzan khane-ye amel-e bimari ast, naghel peyk-e an."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-reservoir-of-infection",
+   "term": {
+    "fa": "مخزن بیماری",
+    "en": "reservoir of infection",
+    "tr": "makhzan-e bimari"
+   },
+   "explain": {
+    "fa": "«مخزن بیماری»: جایی که عامل بیماری‌زا به طور طبیعی در آن زندگی و تکثیر می‌کند، مانند بدن انسان، خاک یا آب.",
+    "en": "\"reservoir of infection\": where a pathogen naturally lives and multiplies, like the human body, soil or water.",
+    "tr": "\"makhzan-e bimari\": jayi ke amel-e bimari-za be towr-e tabi'i dar an zendegi va taksir mikonad, manand-e badan-e ensan, khak ya ab."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-droplet-transmission",
+   "term": {
+    "fa": "انتقال قطره‌ای",
+    "en": "droplet transmission",
+    "tr": "enteghal-e ghatre-i"
+   },
+   "explain": {
+    "fa": "«انتقال قطره‌ای»: انتقال مستقیم عامل بیماری با سرفه، عطسه یا حرف زدن بیمار به فرد سالم نزدیک.",
+    "en": "\"droplet transmission\": direct spread of a pathogen by a sick person coughing, sneezing or talking near a healthy one.",
+    "tr": "\"enteghal-e ghatre-i\": enteghal-e mostaghim-e amel-e bimari ba sorfe, atse ya harf zadan-e bimar be fard-e salem-e nazdik."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-mechanical-vector",
+   "term": {
+    "fa": "ناقل مکانیکی",
+    "en": "mechanical vector",
+    "tr": "naghel-e mekaniki"
+   },
+   "explain": {
+    "fa": "«ناقل مکانیکی»: ناقلی که عامل بیماری را فقط روی بدنش جابه‌جا می‌کند، مانند میکروب‌های روی پای مگس.",
+    "en": "\"mechanical vector\": a vector that only carries the pathogen on its body, like germs on a fly's legs.",
+    "tr": "\"naghel-e mekaniki\": naghel-i ke amel-e bimari ra faghat rooy-e badanash jabeja mikonad, manand-e mikrob-haye rooy-e pa-ye magas."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-transmission-through-food-and-water",
+   "term": {
+    "fa": "انتقال از راه آب و غذا",
+    "en": "transmission through food and water",
+    "tr": "enteghal az rah-e ab va ghaza"
+   },
+   "explain": {
+    "fa": "«انتقال از راه آب و غذا»: انتقال غیرمستقیم عامل بیماری از راه آب، غذا یا شیر آلوده.",
+    "en": "\"transmission through food and water\": indirect spread of a pathogen through contaminated water, food or milk.",
+    "tr": "\"enteghal az rah-e ab va ghaza\": enteghal-e gheyr-e mostaghim-e amel-e bimari az rah-e ab, ghaza ya shir-e aloode."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-blood-borne-transmission",
+   "term": {
+    "fa": "انتقال از راه خون",
+    "en": "blood-borne transmission",
+    "tr": "enteghal az rah-e khoon"
+   },
+   "explain": {
+    "fa": "«انتقال از راه خون»: انتقال با سرنگ، سوزن یا وسایل تیز استریل‌نشدهٔ مشترک.",
+    "en": "\"blood-borne transmission\": spread through shared unsterilised syringes, needles or sharp tools.",
+    "tr": "\"enteghal az rah-e khoon\": enteghal ba sorang, soozan ya vasayel-e tiz-e esteril-nashode-ye moshtarak."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-hepatitis-b",
+   "term": {
+    "fa": "هپاتیت B",
+    "en": "hepatitis B",
+    "tr": "hepatit B"
+   },
+   "explain": {
+    "fa": "ویروسی که از راه خون منتقل می‌شود، التهاب مزمن کبد می‌آورد، بی‌درمان به سیروز می‌رسد و واکسن دارد.",
+    "en": "\"hepatitis B\": a blood-borne virus causing chronic liver inflammation, leading to cirrhosis untreated, with a vaccine.",
+    "tr": "\"hepatit B\": virusi ke az rah-e khoon montaghel mishavad, eltehab-e mozmen-e kabed miavarad, bi-darman be siroz miresad va vaksan darad."
+   },
+   "unit": "hh-3-transmission"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-vaccination",
+   "term": {
+    "fa": "واکسیناسیون",
+    "en": "vaccination",
+    "tr": "vaksinasion"
+   },
+   "explain": {
+    "fa": "«واکسیناسیون»: کارآمدترین راه ایجاد ایمنی فعال در جامعه؛ بدن خودش پادتن می‌سازد.",
+    "en": "\"vaccination\": the most effective way to build active immunity in society; the body makes its own antibodies.",
+    "tr": "\"vaksinasion\": karamad-tarin rah-e ijad-e imeni-ye fa'al dar jame'e; badan khodash padtan misazad."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-passive-immunity",
+   "term": {
+    "fa": "ایمنی غیرفعال",
+    "en": "passive immunity",
+    "tr": "imeni-ye gheyr-e faal"
+   },
+   "explain": {
+    "fa": "«ایمنی غیرفعال»: ایمنی فوری اما کوتاه‌مدت با تزریق سرم، یعنی پادتن آماده از خون جانداران دیگر.",
+    "en": "\"passive immunity\": immediate but short immunity from injecting serum, ready antibodies from other creatures' blood.",
+    "tr": "\"imeni-ye gheyr-e faal\": imeni-ye fowri amma kootah-moddat ba tazrigh-e serom, ya'ni padtan-e amade az khoon-e jandaran-e digar."
+   },
+   "contrast": {
+    "fa": "واکسن ایمنی فعال و ماندگار می‌دهد.",
+    "en": "A vaccine gives active, lasting immunity.",
+    "tr": "Vaksan imeni-ye fa'al va mandegar midahad."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-disinfection",
+   "term": {
+    "fa": "گندزدایی",
+    "en": "disinfection",
+    "tr": "gand-zodayi"
+   },
+   "explain": {
+    "fa": "«گندزدایی»: به کار بردن حرارت زیاد، الکل یا ترکیب‌های کلردار روی اشیای بی‌جان برای نابودی عوامل بیماری‌زا.",
+    "en": "\"disinfection\": using strong heat, alcohol or chlorine compounds on non-living objects to kill pathogens.",
+    "tr": "\"gand-zodayi\": be kar bordan-e hararat-e ziyad, alkol ya tarkib-haye kolor-dar rooy-e ashya-ye bi-jan baraye naboodi-ye avamel-e bimari-za."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-incubation-period",
+   "term": {
+    "fa": "دورهٔ نهفتگی",
+    "en": "incubation period",
+    "tr": "dowre-ye nahoftegi"
+   },
+   "explain": {
+    "fa": "«دورهٔ نهفتگی»: فاصلهٔ ورود عامل بیماری به بدن تا پیدا شدن نخستین نشانه‌ها.",
+    "en": "\"incubation period\": the time from a pathogen entering the body to the first symptoms.",
+    "tr": "\"dowre-ye nahoftegi\": fasele-ye vorood-e amel-e bimari be badan ta peyda shodan-e nakhostin neshane-ha."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-convalescence",
+   "term": {
+    "fa": "دورهٔ نقاهت",
+    "en": "convalescence",
+    "tr": "dowre-ye nekahat"
+   },
+   "explain": {
+    "fa": "«دورهٔ نقاهت»: مرحلهٔ پایانی بیماری واگیر که نشانه‌ها از میان می‌روند و بدن رو به بهبود می‌گذارد.",
+    "en": "\"convalescence\": the last stage of an infectious disease, when symptoms fade and the body recovers.",
+    "tr": "\"dowre-ye nekahat\": marhale-ye payani-ye bimari-ye vagir ke neshane-ha az miyan miravand va badan roo be behbood migozarad."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-convalescent-carrier",
+   "term": {
+    "fa": "ناقل دورهٔ نقاهت",
+    "en": "convalescent carrier",
+    "tr": "naghel-e dowre-ye nekahat"
+   },
+   "explain": {
+    "fa": "«ناقل دورهٔ نقاهت»: کسی که نشانه‌هایش رفته ولی در دورهٔ نقاهت هنوز عامل بیماری را به دیگران می‌دهد.",
+    "en": "\"convalescent carrier\": someone whose symptoms have gone but who still passes the pathogen on while recovering.",
+    "tr": "\"naghel-e dowre-ye nekahat\": kasi ke neshane-hayash rafte vali dar dowre-ye naghahat hanooz amel-e bimari ra be digaran midahad."
+   },
+   "unit": "hh-3-course-prevention"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-atherosclerosis",
+   "term": {
+    "fa": "تصلب شرایین",
+    "en": "atherosclerosis",
+    "tr": "tasallob-e sharayin"
+   },
+   "explain": {
+    "fa": "«تصلب شرایین»: سفت شدن و از دست رفتن کشسانی دیوارهٔ سرخرگ‌ها بر اثر رسوب چربی و کلسیم.",
+    "en": "\"atherosclerosis\": artery walls stiffening and losing elasticity from fat and calcium deposits.",
+    "tr": "\"tasallob-e sharayin\": seft shodan va az dast raftan-e keshsani-ye divare-ye sorkhrag-ha bar asar-e rosoob-e charbi va kalsiyom."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-stroke",
+   "term": {
+    "fa": "سکتهٔ مغزی",
+    "en": "stroke",
+    "tr": "sekte-ye maghzi"
+   },
+   "explain": {
+    "fa": "«سکتهٔ مغزی»: بسته شدن ناگهانی یا پارگی سرخرگ‌های مغز که یاخته‌های عصبی را از اکسیژن محروم می‌کند.",
+    "en": "\"stroke\": sudden blockage or bursting of brain arteries, starving nerve cells of oxygen.",
+    "tr": "\"sekte-ye maghzi\": baste shodan-e nagahani ya paregi-ye sorkhrag-haye maghz ke yakhte-haye asabi ra az oksizhen mahroom mikonad."
+   },
+   "contrast": {
+    "fa": "سکتهٔ قلبی در رگ‌های قلب است.",
+    "en": "A heart attack is in the heart's arteries.",
+    "tr": "Sekte-ye ghalbi dar rag-haye ghalb ast."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-high-blood-pressure",
+   "term": {
+    "fa": "فشار خون بالا",
+    "en": "high blood pressure",
+    "tr": "feshar-e khoon-e bala"
+   },
+   "explain": {
+    "fa": "«فشار خون بالا»: «قاتل خاموش»: سال‌ها بی‌نشانه می‌ماند و رگ‌ها را آسیب می‌زند.",
+    "en": "\"high blood pressure\": the 'silent killer': symptom-free for years while it damages the vessels.",
+    "tr": "\"feshar-e khoon-e bala\": 'ghatel-e khamoosh': sal-ha bi-neshane mimanad va rag-ha ra asib mizanad."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-heart-attack-myocardial-infarction",
+   "term": {
+    "fa": "سکتهٔ قلبی",
+    "en": "heart attack (myocardial infarction)",
+    "tr": "sekte-ye ghalbi"
+   },
+   "explain": {
+    "fa": "«سکتهٔ قلبی»: بسته شدن ناگهانی سرخرگ‌های کرونری قلب که به مرگ یاخته‌های ماهیچهٔ قلب می‌انجامد.",
+    "en": "\"heart attack (myocardial infarction)\": sudden blockage of the heart's coronary arteries, killing heart muscle cells.",
+    "tr": "\"sekte-ye ghalbi\": baste shodan-e nagahani-ye sorkhrag-haye koroneri-ye ghalb ke be marg-e yakhte-haye mahiche-ye ghalb mianjamad."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-preventing-high-blood-pressure",
+   "term": {
+    "fa": "پیشگیری از فشار خون بالا",
+    "en": "preventing high blood pressure",
+    "tr": "pishgiri az feshar-e khoon-e bala"
+   },
+   "explain": {
+    "fa": "«پیشگیری از فشار خون بالا»: نقش اصلی در پیشگیری از فشار خون بالا را کم کردن مصرف نمک (سدیم) دارد.",
+    "en": "\"preventing high blood pressure\": cutting down salt (sodium) plays the main role in preventing high blood pressure.",
+    "tr": "\"pishgiri az feshar-e khoon-e bala\": naghsh-e asli dar pishgiri az feshar-e khoon-e bala ra kam kardan-e masraf-e namak (sodiyom) darad."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-exercise-and-heart-health",
+   "term": {
+    "fa": "فعالیت بدنی و سلامت قلب",
+    "en": "exercise and heart health",
+    "tr": "fa'aliyat-e badani va salamat-e ghalb"
+   },
+   "explain": {
+    "fa": "«فعالیت بدنی و سلامت قلب»: برای سلامت قلب، دست‌کم ۳۰ دقیقه فعالیت هوازی با شدت متوسط در بیشتر روزهای هفته.",
+    "en": "\"exercise and heart health\": for heart health, at least 30 minutes of moderate aerobic activity on most days.",
+    "tr": "\"fa'aliyat-e badani va salamat-e ghalb\": baraye salamat-e ghalb, dast-kam 30 daghighe fa'aliyat-e havazi ba sheddat-e motevasset dar bishtar-e rooz-haye hafte."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-hypertensive-retinopathy",
+   "term": {
+    "fa": "آسیب شبکیه در فشار خون",
+    "en": "hypertensive retinopathy",
+    "tr": "asib-e shabakiye dar feshar-e khoon"
+   },
+   "explain": {
+    "fa": "«آسیب شبکیه در فشار خون»: آسیب مویرگ‌های شبکیهٔ چشم بر اثر فشار خون بالای درازمدت که به تاری دید یا نابینایی می‌انجامد.",
+    "en": "\"hypertensive retinopathy\": damage to the retina's tiny vessels from long-term high blood pressure, causing blurred vision or blindness.",
+    "tr": "\"asib-e shabakiye dar feshar-e khoon\": asib-e moyrag-haye shabakiye-ye cheshm bar asar-e feshar-e khoon-e bala-ye deraz-moddat ke be tari-ye did ya nabinayi mianjamad."
+   },
+   "contrast": {
+    "fa": "آسیب کلیه در دیابت، نفروپاتی است.",
+    "en": "Kidney damage in diabetes is nephropathy.",
+    "tr": "Asib-e kolie dar diyabet, nefropati ast."
+   },
+   "unit": "hh-3-heart-vessels"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-diabetes",
+   "term": {
+    "fa": "دیابت",
+    "en": "diabetes",
+    "tr": "diabet"
+   },
+   "explain": {
+    "fa": "«دیابت»: بیماری مزمن متابولیک: یاخته‌ها به‌دلیل کمبود انسولین یا مقاومت به آن گلوکز را جذب نمی‌کنند.",
+    "en": "\"diabetes\": a chronic metabolic disease: cells cannot take up glucose because insulin is lacking or resisted.",
+    "tr": "\"diabet\": bimari-ye mozmen-e metabolik: yakhte-ha be-dalil-e kambood-e ensoolin ya moghavemat be an glookoz ra jazb nemikonand."
+   },
+   "unit": "hh-3-diabetes"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-fasting-blood-sugar-test",
+   "term": {
+    "fa": "آزمایش قند خون ناشتا",
+    "en": "fasting blood sugar test",
+    "tr": "azmayesh-e ghand-e khoon-e nashta"
+   },
+   "explain": {
+    "fa": "«آزمایش قند خون ناشتا»: ساده‌ترین آزمایش برای یافتن زودهنگام دیابت بی‌نشانه در افراد بالای ۴۰ سال.",
+    "en": "\"fasting blood sugar test\": the simplest test to catch silent diabetes early in people over 40.",
+    "tr": "\"azmayesh-e ghand-e khoon-e nashta\": sade-tarin azmayesh baraye yaftan-e zood-hengam-e diyabet-e bi-neshane dar afrad-e balay-e 40 sal."
+   },
+   "unit": "hh-3-diabetes"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-preventing-type-2-diabetes",
+   "term": {
+    "fa": "پیشگیری از دیابت نوع ۲",
+    "en": "preventing type 2 diabetes",
+    "tr": "pishgiri az diabet-e no'-e 2"
+   },
+   "explain": {
+    "fa": "«پیشگیری از دیابت نوع ۲»: فعالیت بدنی منظم و کنترل وزن نقش اصلی را در کاهش مقاومت به انسولین دارد.",
+    "en": "\"preventing type 2 diabetes\": regular exercise and weight control play the main role in reducing insulin resistance.",
+    "tr": "\"pishgiri az diabet-e no'-e 2\": fa'aliyat-e badani-ye monazzam va kontrol-e vazn naghsh-e asli ra dar kahesh-e moghavemat be ensoolin darad."
+   },
+   "unit": "hh-3-diabetes"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-signs-of-diabetes",
+   "term": {
+    "fa": "نشانه‌های دیابت",
+    "en": "signs of diabetes",
+    "tr": "neshane-haye diabet"
+   },
+   "explain": {
+    "fa": "«نشانه‌های دیابت»: سه نشانهٔ اصلی دیابت: پرخوری، تشنگی زیاد و پرادراری.",
+    "en": "\"signs of diabetes\": the three main signs of diabetes: overeating, great thirst and frequent urination.",
+    "tr": "\"neshane-haye diabet\": se neshane-ye asli-ye diyabet: porkhori, teshnegi-ye ziyad va por-edrari."
+   },
+   "unit": "hh-3-diabetes"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-diabetic-kidney-disease",
+   "term": {
+    "fa": "آسیب کلیه در دیابت",
+    "en": "diabetic kidney disease",
+    "tr": "asib-e kolie dar diabet"
+   },
+   "explain": {
+    "fa": "«آسیب کلیه در دیابت»: آسیب پیش‌رونده به صافی‌های کلیه (نفرون‌ها) بر اثر دیابت کنترل‌نشده که به نارسایی کلیه می‌رسد.",
+    "en": "\"diabetic kidney disease\": progressive damage to the kidney's filters (nephrons) from uncontrolled diabetes, ending in kidney failure.",
+    "tr": "\"asib-e kolie dar diabet\": asib-e pish-ravande be safi-haye kolie (nefron-ha) bar asar-e diyabet-e kontrol-nashode ke be naresayi-ye kolie miresad."
+   },
+   "unit": "hh-3-diabetes"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-benign-tumour",
+   "term": {
+    "fa": "تومور خوش‌خیم",
+    "en": "benign tumour",
+    "tr": "tumor-e khosh-khim"
+   },
+   "explain": {
+    "fa": "«تومور خوش‌خیم»: توده‌های سلولی با رشد محدود که به بافت‌های اطراف حمله نمی‌کنند و معمولاً جان را تهدید نمی‌کنند.",
+    "en": "\"benign tumour\": cell lumps of limited growth that do not invade nearby tissue and usually do not threaten life.",
+    "tr": "\"tumor-e khosh-khim\": tode-haye selooli ba roshd-e mahdood ke be baft-haye atraf hamle nemikonand va ma'moolan jan ra tahdid nemikonand."
+   },
+   "contrast": {
+    "fa": "تومور بدخیم حمله می‌کند و پخش می‌شود.",
+    "en": "A malignant tumour invades and spreads.",
+    "tr": "Toomor-e bad-khim hamle mikonad va pakhsh mishavad."
+   },
+   "unit": "hh-3-cancer"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cancer-prevention",
+   "term": {
+    "fa": "پیشگیری از سرطان",
+    "en": "cancer prevention",
+    "tr": "pishgiri az saratan"
+   },
+   "explain": {
+    "fa": "«پیشگیری از سرطان»: دوری از دخانیات، کم کردن تماس با پرتو فرابنفش و خوردن میوه و سبزی بیشتر.",
+    "en": "\"cancer prevention\": avoiding tobacco, cutting ultraviolet exposure and eating more fruit and vegetables.",
+    "tr": "\"pishgiri az saratan\": doori az dokhaniyat, kam kardan-e tamas ba parto-ye faraban-afsh va khordan-e mive va sabzi-ye bishtar."
+   },
+   "unit": "hh-3-cancer"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-metastasis",
+   "term": {
+    "fa": "متاستاز",
+    "en": "metastasis",
+    "tr": "metastaz"
+   },
+   "explain": {
+    "fa": "«متاستاز»: رفتن سلول‌های سرطانی از راه خون یا لنف به بافت‌های دور و ساختن توده‌های تازه.",
+    "en": "\"metastasis\": cancer cells travelling through blood or lymph to distant tissues and forming new lumps.",
+    "tr": "\"metastaz\": raftan-e selool-haye saratani az rah-e khoon ya lanf be baft-haye door va sakhtan-e tode-haye taze."
+   },
+   "unit": "hh-3-cancer"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cancer",
+   "term": {
+    "fa": "سرطان",
+    "en": "cancer",
+    "tr": "saratan"
+   },
+   "explain": {
+    "fa": "«سرطان»: بیماری‌ای که از تکثیر و تقسیم مهارنشدهٔ سلول‌ها پدید می‌آید.",
+    "en": "\"cancer\": disease arising from uncontrolled cell multiplication and division.",
+    "tr": "\"saratan\": bimari-i ke az taksir va taghsim-e mahar-nashode-ye selool-ha padid miayad."
+   },
+   "unit": "hh-3-cancer"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-osteoporosis",
+   "term": {
+    "fa": "پوکی استخوان",
+    "en": "osteoporosis",
+    "tr": "pooki-ye ostokhan"
+   },
+   "explain": {
+    "fa": "«پوکی استخوان»: بیماری مزمن و بی‌صدا از کاهش شدید تراکم مواد معدنی استخوان که خطر شکستگی را بالا می‌برد.",
+    "en": "\"osteoporosis\": a chronic, silent disease of severely reduced bone mineral density, raising fracture risk.",
+    "tr": "\"pooki-ye ostokhan\": bimari-ye mozmen va bi-seda az kahesh-e shadid-e tarakom-e mavad-e ma'dani-ye ostekhan ke khatar-e shekastegi ra bala mibarad."
+   },
+   "unit": "hh-3-other-chronic"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-multiple-sclerosis",
+   "term": {
+    "fa": "ام‌اس",
+    "en": "multiple sclerosis",
+    "tr": "em-es"
+   },
+   "explain": {
+    "fa": "«ام‌اس»: بیماری مزمن دستگاه عصبی مرکزی که در آن دستگاه ایمنی غلاف میلین یاخته‌های عصبی را تخریب می‌کند.",
+    "en": "\"multiple sclerosis\": a chronic central nervous system disease in which the immune system destroys the nerves' myelin sheath.",
+    "tr": "\"em-es\": bimari-ye mozmen-e dastgah-e asabi-ye markazi ke dar an dastgah-e imeni ghelaf-e miyelin-e yakhte-haye asabi ra takhrib mikonad."
+   },
+   "unit": "hh-3-other-chronic"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-asthma",
+   "term": {
+    "fa": "آسم",
+    "en": "asthma",
+    "tr": "asm"
+   },
+   "explain": {
+    "fa": "«آسم»: بیماری التهابی مزمن راه‌های هوایی با تنگ شدن گاه‌به‌گاه نایژه‌ها و تنگی نفس.",
+    "en": "\"asthma\": a chronic inflammatory airway disease with occasional narrowing of the bronchi and breathlessness.",
+    "tr": "\"asm\": bimari-ye eltehabi-ye mozmen-e rah-haye hava'i ba tang shodan-e gah-be-gah-e nayzhe-ha va tangi-ye nafas."
+   },
+   "unit": "hh-3-other-chronic"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-who-gets-ms",
+   "term": {
+    "fa": "شیوع ام‌اس",
+    "en": "who gets MS",
+    "tr": "shoyoo'-e em-es"
+   },
+   "explain": {
+    "fa": "«شیوع ام‌اس»: این بیماری در زنان شایع‌تر از مردان است.",
+    "en": "\"who gets MS\": the disease is more common in women than in men.",
+    "tr": "\"shoyoo'-e em-es\": in bimari dar zanan shaye'-tar az mardan ast."
+   },
+   "unit": "hh-3-other-chronic"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-asthma-triggers",
+   "term": {
+    "fa": "محرک‌های آسم",
+    "en": "asthma triggers",
+    "tr": "moharrek-haye asm"
+   },
+   "explain": {
+    "fa": "«محرک‌های آسم»: مهم‌ترین برانگیزانندهٔ خانگی حملهٔ آسم: مواد حساسیت‌زا مانند هیره‌های گرد و خاک و گرده.",
+    "en": "\"asthma triggers\": the main household trigger of an asthma attack: allergens such as dust mites and pollen.",
+    "tr": "\"moharrek-haye asm\": mohem-tarin barangizanande-ye khanegi-ye hamle-ye asm: mavad-e hassasiyat-za manand-e hire-haye gard-o-khak va gorde."
+   },
+   "unit": "hh-3-other-chronic"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-thermal-water-pollution",
+   "term": {
+    "fa": "آلودگی حرارتی آب",
+    "en": "thermal water pollution",
+    "tr": "aloodegi-ye harareti-ye ab"
+   },
+   "explain": {
+    "fa": "«آلودگی حرارتی آب»: بالا رفتن دمای آب (مثلاً با پساب گرم نیروگاه) که اکسیژن محلول را کم می‌کند و زیست‌بوم آبی را نابود می‌کند.",
+    "en": "\"thermal water pollution\": water heated (for example by power-station outflow), lowering dissolved oxygen and ruining aquatic life.",
+    "tr": "\"aloodegi-ye harareti-ye ab\": bala raftan-e dama-ye ab (masalan ba pasab-e garm-e niroogah) ke oksizhen-e mahlool ra kam mikonad va zist-boom-e abi ra naboud mikonad."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-microbial-water-pollution",
+   "term": {
+    "fa": "آلودگی میکروبی آب",
+    "en": "microbial water pollution",
+    "tr": "aloodegi-ye mikrobi-ye ab"
+   },
+   "explain": {
+    "fa": "«آلودگی میکروبی آب»: آلودگی آب با فاضلاب انسانی و فضولات دامی.",
+    "en": "\"microbial water pollution\": water pollution from human sewage and animal waste.",
+    "tr": "\"aloodegi-ye mikrobi-ye ab\": aloodegi-ye ab ba fazelab-e ensani va fozoolat-e dami."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-screening-in-water-treatment",
+   "term": {
+    "fa": "آشغال‌گیری در تصفیهٔ آب",
+    "en": "screening in water treatment",
+    "tr": "ashghal-giri dar tasfiye-ye ab"
+   },
+   "explain": {
+    "fa": "«آشغال‌گیری در تصفیهٔ آب»: نخستین گام فیزیکی تصفیه: جدا کردن ذرات درشت، شاخ و برگ و زباله با عبور از توری.",
+    "en": "\"screening in water treatment\": the first physical treatment step: removing big debris, leaves and rubbish through a mesh.",
+    "tr": "\"ashghal-giri dar tasfiye-ye ab\": nakhostin gam-e fiziki-ye tasfiye: joda kardan-e zarrat-e dorosht, shakh-o-barg va zobale ba obour az toori."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-activated-carbon",
+   "term": {
+    "fa": "کربن فعال",
+    "en": "activated carbon",
+    "tr": "karbon-e fa'al"
+   },
+   "explain": {
+    "fa": "«کربن فعال»: جذب سطحی با کربن فعال برای گرفتن بو، مزهٔ نامطبوع و ترکیب‌های آلی محلول.",
+    "en": "\"activated carbon\": adsorption on activated carbon to remove smells, bad tastes and dissolved organic compounds.",
+    "tr": "\"karbon-e fa'al\": jazb-e sathi ba karbon-e fa'al baraye gereftan-e boo, maze-ye namatboo' va tarkib-haye ali-ye mahlool."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-aeration-in-sewage-treatment",
+   "term": {
+    "fa": "هوادهی در تصفیهٔ فاضلاب",
+    "en": "aeration in sewage treatment",
+    "tr": "hava-dehi dar tasfiye-ye fazelab"
+   },
+   "explain": {
+    "fa": "«هوادهی در تصفیهٔ فاضلاب»: دمیدن هوا به حوضچه‌های لجن فعال تا باکتری‌های هوازی مواد آلی را تجزیه کنند.",
+    "en": "\"aeration in sewage treatment\": blowing air into activated-sludge tanks so aerobic bacteria break down organic matter.",
+    "tr": "\"hava-dehi dar tasfiye-ye fazelab\": damidan-e hava be howzche-haye lajan-e fa'al ta bakteri-haye havazi mavad-e ali ra tajziye konand."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-sedimentation",
+   "term": {
+    "fa": "ته‌نشینی",
+    "en": "sedimentation",
+    "tr": "tah-neshini"
+   },
+   "explain": {
+    "fa": "«ته‌نشینی»: نشستن ذرات سنگین در حوضچهٔ آرام و ساختن لجن.",
+    "en": "\"sedimentation\": heavy particles sinking in a calm tank to form sludge.",
+    "tr": "\"tah-neshini\": neshastan-e zarrat-e sangin dar howzche-ye aram va sakhtan-e lajan."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-eutrophication",
+   "term": {
+    "fa": "پرغذایی آب",
+    "en": "eutrophication",
+    "tr": "por-ghazayi-ye ab"
+   },
+   "explain": {
+    "fa": "«پرغذایی آب»: رشد بی‌رویهٔ جلبک‌ها بر اثر شوینده‌های فسفات‌دار، کم شدن اکسیژن آب و خفگی آبزیان.",
+    "en": "\"eutrophication\": wild algae growth from phosphate detergents, lowering the water's oxygen and suffocating aquatic life.",
+    "tr": "\"por-ghazayi-ye ab\": roshd-e bi-raviye-ye jolbak-ha bar asar-e shooyande-haye fosfat-dar, kam shodan-e oksizhen-e ab va khafegi-ye abziyan."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-nitrates-in-water",
+   "term": {
+    "fa": "نیترات در آب",
+    "en": "nitrates in water",
+    "tr": "nitrat dar ab"
+   },
+   "explain": {
+    "fa": "«نیترات در آب»: آلایندهٔ کودهای نیتروژنه در آب آشامیدنی که در بدن نوزاد به نیتریت تبدیل می‌شود و «نشانگان کودک کبود» می‌آورد.",
+    "en": "\"nitrates in water\": the nitrogen-fertiliser pollutant in drinking water that becomes nitrite in a baby and causes 'blue baby syndrome'.",
+    "tr": "\"nitrat dar ab\": alayande-ye kood-haye nitrozhene dar ab-e ashamidani ke dar badan-e nozad be nitrit tabdil mishavad va 'neshanegan-e koodak-e kaboud' miavarad."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-coagulation-and-flocculation",
+   "term": {
+    "fa": "انعقاد و لخته‌سازی",
+    "en": "coagulation and flocculation",
+    "tr": "en'eghad va lakhte-sazi"
+   },
+   "explain": {
+    "fa": "«انعقاد و لخته‌سازی»: افزودن موادی مانند زاج تا ذرات بسیار ریز معلق به هم بچسبند و ته‌نشین شوند.",
+    "en": "\"coagulation and flocculation\": adding substances like alum so very fine suspended particles stick together and settle.",
+    "tr": "\"en'eghad va lakhte-sazi\": afzoodan-e mavadi manand-e zaj ta zarrat-e besyar riz-e mo'allagh be ham bechasband va tah-neshin shavand."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-grit-removal",
+   "term": {
+    "fa": "دانه‌گیری",
+    "en": "grit removal",
+    "tr": "dane-giri"
+   },
+   "explain": {
+    "fa": "«دانه‌گیری»: ته‌نشین کردن شن و ماسه در آغاز تصفیهٔ فاضلاب برای محافظت از پمپ‌ها.",
+    "en": "\"grit removal\": settling sand and gravel at the start of sewage treatment to protect the pumps.",
+    "tr": "\"dane-giri\": tah-neshin kardan-e shen va mase dar aghaz-e tasfiye-ye fazelab baraye mohafezat az pomp-ha."
+   },
+   "unit": "hh-4-water"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-lead-pb",
+   "term": {
+    "fa": "سرب",
+    "en": "lead (Pb)",
+    "tr": "sorb"
+   },
+   "explain": {
+    "fa": "«سرب»: فلز سنگین پساب صنعتی که در بافت عصبی انباشته می‌شود و در کودکان اختلال یادگیری می‌آورد.",
+    "en": "\"lead (Pb)\": an industrial heavy metal that builds up in nerve tissue and causes learning problems in children.",
+    "tr": "\"sorb\": felez-e sangin-e pasab-e san'ati ke dar baft-e asabi anbashte mishavad va dar koodakan ekhtelal-e yadgiri miavarad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cadmium",
+   "term": {
+    "fa": "کادمیوم",
+    "en": "cadmium",
+    "tr": "kadmiyom"
+   },
+   "explain": {
+    "fa": "«کادمیوم»: فلز سنگین باتری‌ها و پساب آبکاری که به کلیه و استخوان آسیب می‌زند.",
+    "en": "\"cadmium\": the heavy metal of batteries and plating waste that harms kidneys and bones.",
+    "tr": "\"kadmiyom\": felez-e sangin-e batri-ha va pasab-e abkari ke be kolie va ostekhan asib mizanad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-mercury",
+   "term": {
+    "fa": "جیوه",
+    "en": "mercury",
+    "tr": "jive"
+   },
+   "explain": {
+    "fa": "«جیوه»: فلز سنگین مایع و فرار دماسنج‌های قدیمی که به دستگاه عصبی، به‌ویژه در جنین، آسیب می‌زند.",
+    "en": "\"mercury\": the liquid, volatile metal of old thermometers that harms the nervous system, especially in the foetus.",
+    "tr": "\"jive\": felez-e sangin-e maye' va farar-e damasanj-haye ghadimi ke be dastgah-e asabi, be-vizhe dar janin, asib mizanad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-pcbs",
+   "term": {
+    "fa": "بی‌فنیل‌های پلی‌کلره",
+    "en": "PCBs",
+    "tr": "PCB"
+   },
+   "explain": {
+    "fa": "«بی‌فنیل‌های پلی‌کلره»: ترکیب آلی سمی و ماندگار خازن‌ها و ترانسفورماتورهای قدیمی؛ سرطان‌زا.",
+    "en": "\"PCBs\": a toxic, persistent organic compound from old capacitors and transformers; cancer-causing.",
+    "tr": "\"PCB\": tarkib-e ali-ye sammi va mandegar-e khazen-ha va transformator-haye ghadimi; saratan-za."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-ddt",
+   "term": {
+    "fa": "دی‌دی‌تی",
+    "en": "DDT",
+    "tr": "DDT"
+   },
+   "explain": {
+    "fa": "«دی‌دی‌تی»: حشره‌کش قدیمی و ماندگار که در بافت چربی جانداران انباشته می‌شود.",
+    "en": "\"DDT\": an old, persistent insecticide that builds up in creatures' fat.",
+    "tr": "\"DDT\": hashare-kosh-e ghadimi va mandegar ke dar baft-e charbi-ye jandaran anbashte mishavad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-beryllium",
+   "term": {
+    "fa": "بریلیوم",
+    "en": "beryllium",
+    "tr": "beriliyom"
+   },
+   "explain": {
+    "fa": "«بریلیوم»: فلز سمی قطعات الکترونیکی که تنفس گردش بیماری مزمن ریه می‌آورد.",
+    "en": "\"beryllium\": a toxic metal of electronic parts whose dust causes chronic lung disease.",
+    "tr": "\"beriliyom\": felez-e sammi-ye ghate'at-e elektroniki ke tanaffos-e gardash bimari-ye mozmen-e rie miavarad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-chromium",
+   "term": {
+    "fa": "کروم",
+    "en": "chromium",
+    "tr": "krom"
+   },
+   "explain": {
+    "fa": "«کروم»: فلز سنگین سمی کارگاه‌های دباغی و چرم‌سازی؛ سرطان‌زا و آسیب‌رسان به ریه.",
+    "en": "\"chromium\": a toxic heavy metal from tanning and leather works; cancer-causing and harmful to the lungs.",
+    "tr": "\"krom\": felez-e sangin-e sammi-ye kargah-haye dabbaghi va charm-sazi; saratan-za va asib-resan be rie."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-arsenic",
+   "term": {
+    "fa": "آرسنیک",
+    "en": "arsenic",
+    "tr": "arsenik"
+   },
+   "explain": {
+    "fa": "«آرسنیک»: عنصر سمی حشره‌کش‌های قدیمی و برخی آب‌های زیرزمینی که تغییر رنگ پوست و سرطان می‌آورد.",
+    "en": "\"arsenic\": a toxic element in old insecticides and some groundwater, causing skin discolouration and cancer.",
+    "tr": "\"arsenik\": onsor-e sammi-ye hashare-kosh-haye ghadimi va barkhi ab-haye zirzamini ke taghyir-e rang-e poost va saratan miavarad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-nickel",
+   "term": {
+    "fa": "نیکل",
+    "en": "nickel",
+    "tr": "nikel"
+   },
+   "explain": {
+    "fa": "«نیکل»: فلز سنگین معدن‌کاری و ذوب که حساسیت پوستی و سرطان راه‌های تنفسی می‌آورد.",
+    "en": "\"nickel\": a heavy metal from mining and smelting that causes skin allergy and airway cancer.",
+    "tr": "\"nikel\": felez-e sangin-e ma'dan-kari va zowb ke hassasiyat-e poosti va saratan-e rah-haye tanaffosi miavarad."
+   },
+   "unit": "hh-4-heavy-metals"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-acid-rain",
+   "term": {
+    "fa": "باران اسیدی",
+    "en": "acid rain",
+    "tr": "baran-e asidi"
+   },
+   "explain": {
+    "fa": "«باران اسیدی»: بارانی که گوگرد دی‌اکسید سوخت‌های فسیلی گوگرددار پدید می‌آورد.",
+    "en": "\"acid rain\": rain made acidic by sulphur dioxide from sulphur-bearing fossil fuels.",
+    "tr": "\"baran-e asidi\": barani ke gogerd di-oksid-e sookht-haye fosili-ye gogerd-dar padid miavarad."
+   },
+   "contrast": {
+    "fa": "اثر گلخانه‌ای از کربن دی‌اکسید است.",
+    "en": "The greenhouse effect comes from carbon dioxide.",
+    "tr": "Asar-e golkhane-i az karbon di-oksid ast."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-radon-gas",
+   "term": {
+    "fa": "گاز رادون",
+    "en": "radon gas",
+    "tr": "gaz-e radon"
+   },
+   "explain": {
+    "fa": "«گاز رادون»: گاز پرتوزای بی‌رنگی که از خاک زیر ساختمان‌ها می‌آید، در فضای بی‌تهویه انباشته می‌شود و سرطان ریه می‌آورد.",
+    "en": "\"radon gas\": a colourless radioactive gas rising from the soil under buildings, building up without ventilation and causing lung cancer.",
+    "tr": "\"gaz-e radon\": gaz-e partoza-ye bi-rangi ke az khak-e zir-e sakhteman-ha miayad, dar faza-ye bi-tahviye anbashte mishavad va saratan-e rie miavarad."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-greenhouse-effect",
+   "term": {
+    "fa": "اثر گلخانه‌ای",
+    "en": "greenhouse effect",
+    "tr": "asar-e golkhane-i"
+   },
+   "explain": {
+    "fa": "«اثر گلخانه‌ای»: گرم شدن زمین بر اثر کربن دی‌اکسید سوخت‌های فسیلی و صنعت.",
+    "en": "\"greenhouse effect\": global warming caused by carbon dioxide from fossil fuels and industry.",
+    "tr": "\"asar-e golkhane-i\": garm shodan-e zamin bar asar-e karbon di-oksid-e sookht-haye fosili va san'at."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-radioactive-waste",
+   "term": {
+    "fa": "پسماند پرتوزا",
+    "en": "radioactive waste",
+    "tr": "pasmand-e partoza"
+   },
+   "explain": {
+    "fa": "«پسماند پرتوزا»: پسماندی با پرتوهای یونیزان کشنده که باید در پوشش بتنی ضخیم در ژرفای زمین دفن شود.",
+    "en": "\"radioactive waste\": waste with deadly ionising radiation that must be buried deep in thick concrete.",
+    "tr": "\"pasmand-e partoza\": pasmandi ba parto-haye yoonizan-e koshande ke bayad dar poshesh-e botoni-ye zakhim dar zharfa-ye zamin dafn shavad."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-non-ionising-radiation",
+   "term": {
+    "fa": "پرتوهای غیریونیزان",
+    "en": "non-ionising radiation",
+    "tr": "parto-haye gheyr-e yonizan"
+   },
+   "explain": {
+    "fa": "«پرتوهای غیریونیزان»: پرتوهایی مانند امواج رادیویی و ریزموج دکل‌ها و شبکه‌های بی‌سیم.",
+    "en": "\"non-ionising radiation\": radiation such as the radio waves and microwaves of masts and wireless networks.",
+    "tr": "\"parto-haye gheyr-e yonizan\": parto-hayi manand-e amvaj-e radiyoyi va riz-moj-e dakal-ha va shabake-haye bi-sim."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-keeping-radon-out",
+   "term": {
+    "fa": "پیشگیری از رادون",
+    "en": "keeping radon out",
+    "tr": "pishgiri az radon"
+   },
+   "explain": {
+    "fa": "«پیشگیری از رادون»: تهویهٔ مناسب و درزگیری کف ساختمان برای جلوگیری از انباشت رادون.",
+    "en": "\"keeping radon out\": good ventilation and sealing the floor to stop radon building up.",
+    "tr": "\"pishgiri az radon\": tahviye-ye monaseb va darzgiri-ye kaf-e sakhteman baraye jelogiri az anbasht-e radon."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-uv-index",
+   "term": {
+    "fa": "شاخص UV",
+    "en": "UV index",
+    "tr": "shakhes-e UV"
+   },
+   "explain": {
+    "fa": "شاخصی که شدت روزانهٔ پرتو فرابنفش خورشید را برای محافظت از پوست اعلام می‌کند.",
+    "en": "\"UV index\": an index announcing the daily strength of the sun's ultraviolet rays, to protect the skin.",
+    "tr": "\"shakhes-e UV\": shakhesi ke sheddat-e roozane-ye parto-ye faraban-afsh-e khorshid ra baraye mohafezat az poost e'lam mikonad."
+   },
+   "unit": "hh-4-air-radiation"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-soil-pollution",
+   "term": {
+    "fa": "آلودگی خاک",
+    "en": "soil pollution",
+    "tr": "aloodegi-ye khak"
+   },
+   "explain": {
+    "fa": "«آلودگی خاک»: آلودگی خاک با مصرف زیاد کودها و سموم شیمیایی: شوری خاک، نابودی ریزجانداران و آلودگی آب زیرزمینی.",
+    "en": "\"soil pollution\": soil pollution from heavy use of chemical fertilisers and pesticides: salty soil, dead microbes and polluted groundwater.",
+    "tr": "\"aloodegi-ye khak\": aloodegi-ye khak ba masraf-e ziyad-e kood-ha va somoom-e shimiyayi: shoori-ye khak, naboodi-ye riz-jandaran va aloodegi-ye ab-e zirzamini."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-plastic-pollution",
+   "term": {
+    "fa": "آلودگی پلاستیکی",
+    "en": "plastic pollution",
+    "tr": "aloodegi-ye pelastiki"
+   },
+   "explain": {
+    "fa": "«آلودگی پلاستیکی»: پلاستیک‌ها صدها سال در خاک می‌مانند و ریزذراتشان به زنجیرهٔ غذایی می‌رسد.",
+    "en": "\"plastic pollution\": plastics stay in soil for centuries and their microparticles reach the food chain.",
+    "tr": "\"aloodegi-ye pelastiki\": pelastik-ha sad-ha sal dar khak mimanand va riz-zarrateshan be zanjire-ye ghaza'i miresad."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-leachate",
+   "term": {
+    "fa": "شیرابهٔ زباله",
+    "en": "leachate",
+    "tr": "shirabe-ye zobale"
+   },
+   "explain": {
+    "fa": "«شیرابهٔ زباله»: مایع سمی که از زباله‌ها تراوش می‌کند و در دفن بهداشتی مهار می‌شود.",
+    "en": "\"leachate\": the toxic liquid seeping from waste, contained in sanitary landfill.",
+    "tr": "\"shirabe-ye zobale\": maye'-e sammi ke az zobale-ha taravosh mikonad va dar dafn-e behdashti mahar mishavad."
+   },
+   "contrast": {
+    "fa": "گاز محل دفن گاز است، نه مایع.",
+    "en": "Landfill gas is a gas, not a liquid.",
+    "tr": "Gaz-e mahall-e dafn gaz ast, na maye'."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-landfill-gas",
+   "term": {
+    "fa": "گاز محل دفن زباله",
+    "en": "landfill gas",
+    "tr": "gaz-e mahall-e dafn-e zobale"
+   },
+   "explain": {
+    "fa": "«گاز محل دفن زباله»: متان و کربن دی‌اکسید حاصل از تجزیهٔ بی‌هوازی زباله در لایه‌های زیرین محل دفن.",
+    "en": "\"landfill gas\": methane and carbon dioxide from anaerobic breakdown of waste in a landfill's lower layers.",
+    "tr": "\"gaz-e mahall-e dafn-e zobale\": metan va karbon di-oksid-e hasel az tajziye-ye bi-havazi-ye zobale dar laye-haye zirin-e mahall-e dafn."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-sorting-at-source",
+   "term": {
+    "fa": "تفکیک از مبدأ",
+    "en": "sorting at source",
+    "tr": "tafkik az mabda"
+   },
+   "explain": {
+    "fa": "«تفکیک از مبدأ»: نخستین و مهم‌ترین گام مدیریت پایدار زباله، برای کم کردن دفن و رونق بازیافت.",
+    "en": "\"sorting at source\": the first and most important step in sustainable waste management, cutting landfill and boosting recycling.",
+    "tr": "\"tafkik az mabda\": nakhostin va mohem-tarin gam-e modiriyat-e paydar-e zobale, baraye kam kardan-e dafn va rownagh-e bazyaft."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-dioxins",
+   "term": {
+    "fa": "دی‌اکسین",
+    "en": "dioxins",
+    "tr": "di-oksin"
+   },
+   "explain": {
+    "fa": "«دی‌اکسین»: ترکیب‌های بسیار سمی و سرطان‌زا که از سوزاندن غیراستاندارد پلاستیک پخش می‌شوند.",
+    "en": "\"dioxins\": highly toxic, cancer-causing compounds spread by burning plastic badly.",
+    "tr": "\"di-oksin\": tarkib-haye besyar sammi va saratan-za ke az soozandan-e gheyr-e estandard-e pelastik pakhsh mishavand."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-burning-pvc",
+   "term": {
+    "fa": "سوختن PVC",
+    "en": "burning PVC",
+    "tr": "sookhtan-e PVC"
+   },
+   "explain": {
+    "fa": "سوختن پلاستیک پی‌وی‌سی گاز اسیدی و سمی هیدروژن کلرید آزاد می‌کند که راه تنفس را می‌سوزاند.",
+    "en": "\"burning PVC\": burning PVC plastic releases the toxic acid gas hydrogen chloride, which burns the airways.",
+    "tr": "\"sookhtan-e PVC\": sookhtan-e pelastik-e pi-vi-si gaz-e asidi va sammi-ye hidrozhen kolorid azad mikonad ke rah-e tanaffos ra misoozanad."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-soil-erosion",
+   "term": {
+    "fa": "فرسایش خاک",
+    "en": "soil erosion",
+    "tr": "farsayesh-e khak"
+   },
+   "explain": {
+    "fa": "«فرسایش خاک»: شسته شدن و جابه‌جا شدن خاک حاصل‌خیز سطحی به دست باد یا سیلاب.",
+    "en": "\"soil erosion\": fertile topsoil washed or blown away by wind or flood.",
+    "tr": "\"farsayesh-e khak\": shoste shodan va jabeja shodan-e khak-e hasel-khiz-e sathi be dast-e bad ya seylab."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-desertification",
+   "term": {
+    "fa": "بیابان‌زایی",
+    "en": "desertification",
+    "tr": "biyaban-zayi"
+   },
+   "explain": {
+    "fa": "«بیابان‌زایی»: تبدیل زمین حاصل‌خیز به بیابان بر اثر نابودی پوشش گیاهی، فرسایش و بهره‌برداری بی‌رویه.",
+    "en": "\"desertification\": fertile land turning to desert through lost plant cover, erosion and overuse.",
+    "tr": "\"biyaban-zayi\": tabdil-e zamin-e hasel-khiz be biyaban bar asar-e naboodi-ye poshesh-e giyahi, farsayesh va bahre-bardari-ye bi-raviye."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-biodegradable-plastic",
+   "term": {
+    "fa": "پلاستیک زیست‌تخریب‌پذیر",
+    "en": "biodegradable plastic",
+    "tr": "pelastik-e zist-takhrib-pazir"
+   },
+   "explain": {
+    "fa": "«پلاستیک زیست‌تخریب‌پذیر»: پلاستیکی مثلاً از نشاستهٔ ذرت که در طبیعت تجزیه می‌شود؛ جایگزین پلاستیک نفتی.",
+    "en": "\"biodegradable plastic\": plastic, for example from corn starch, that breaks down in nature; a substitute for oil-based plastic.",
+    "tr": "\"pelastik-e zist-takhrib-pazir\": pelastiki masalan az nashaste-ye zorrat ke dar tabi'at tajziye mishavad; jaygozin-e pelastik-e nafti."
+   },
+   "unit": "hh-4-soil-waste"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-decibel",
+   "term": {
+    "fa": "دسی‌بل",
+    "en": "decibel",
+    "tr": "desibel"
+   },
+   "explain": {
+    "fa": "«دسی‌بل»: یکای تراز شدت (بلندی) صوت برای پایش سلامت شنوایی.",
+    "en": "\"decibel\": the unit of sound intensity level (loudness), used to monitor hearing health.",
+    "tr": "\"desibel\": yeka-ye taraz-e sheddat (bolandi)-ye sowt baraye payesh-e salamat-e shenavayi."
+   },
+   "contrast": {
+    "fa": "بسامد (زیر و بمی) را با هرتز می‌سنجیم.",
+    "en": "Frequency (pitch) is measured in hertz.",
+    "tr": "Basamad (zir-o-bami) ra ba hertz misanjim."
+   },
+   "unit": "hh-4-noise"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-noise-pollution",
+   "term": {
+    "fa": "آلودگی صوتی",
+    "en": "noise pollution",
+    "tr": "aloodegi-ye sooti"
+   },
+   "explain": {
+    "fa": "«آلودگی صوتی»: آلودگی شهری که خواب را به هم می‌زند، فشار خون را بالا می‌برد و تمرکز را کم می‌کند.",
+    "en": "\"noise pollution\": urban pollution that disturbs sleep, raises blood pressure and lowers concentration.",
+    "tr": "\"aloodegi-ye sooti\": aloodegi-ye shahri ke khab ra be ham mizanad, feshar-e khoon ra bala mibarad va tamarkoz ra kam mikonad."
+   },
+   "unit": "hh-4-noise"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-hertz",
+   "term": {
+    "fa": "هرتز",
+    "en": "hertz",
+    "tr": "hertz"
+   },
+   "explain": {
+    "fa": "«هرتز»: یکای بسامد صوت (شمار لرزش‌ها در ثانیه) که زیر یا بم بودن صدا را نشان می‌دهد.",
+    "en": "\"hertz\": the unit of sound frequency (vibrations per second), showing whether a sound is high or low.",
+    "tr": "\"hertz\": yeka-ye basamad-e sowt (shomar-e larzesh-ha dar saniye) ke zir ya bam boodan-e seda ra neshan midahad."
+   },
+   "unit": "hh-4-noise"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-heimlich-manoeuvre",
+   "term": {
+    "fa": "مانور هایملیک",
+    "en": "Heimlich manoeuvre",
+    "tr": "manovr-e Heimlich"
+   },
+   "explain": {
+    "fa": "«مانور هایملیک»: اقدام فوری برای بیرون انداختن جسم خارجی از راه هوایی فردی که در حال خفگی است.",
+    "en": "\"Heimlich manoeuvre\": the immediate action to force an object out of a choking person's airway.",
+    "tr": "\"manovr-e Heimlich\": eghdam-e fowri baraye biroon andakhtan-e jesm-e khareji az rah-e hava'i-ye fardi ke dar hal-e khafegi ast."
+   },
+   "contrast": {
+    "fa": "تا راه هوایی بسته است، احیا نخستین کار نیست.",
+    "en": "While the airway is blocked, CPR is not the first move.",
+    "tr": "Ta rah-e hava'i baste ast, ehya nakhostin kar nist."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cardiopulmonary-resuscitation-cpr",
+   "term": {
+    "fa": "احیای قلبی‌ریوی",
+    "en": "cardiopulmonary resuscitation (CPR)",
+    "tr": "ehya-ye ghalbi-riyavi"
+   },
+   "explain": {
+    "fa": "«احیای قلبی‌ریوی»: احیای بزرگسال با نسبت ۳۰ فشردن قفسهٔ سینه به ۲ تنفس مصنوعی.",
+    "en": "\"cardiopulmonary resuscitation (CPR)\": adult resuscitation with 30 chest compressions to 2 rescue breaths.",
+    "tr": "\"ehya-ye ghalbi-riyavi\": ehya-ye bozorgsal ba nesbat-e 30 feshordan-e ghafase-ye sine be 2 tanaffos-e masnooi."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-depth-of-chest-compressions",
+   "term": {
+    "fa": "عمق فشردن قفسهٔ سینه",
+    "en": "depth of chest compressions",
+    "tr": "omgh-e feshordan-e ghafase-ye sine"
+   },
+   "explain": {
+    "fa": "«عمق فشردن قفسهٔ سینه»: در احیای بزرگسال، قفسهٔ سینه را ۵ تا ۶ سانتی‌متر می‌فشاریم.",
+    "en": "\"depth of chest compressions\": in adult CPR the chest is pressed 5 to 6 centimetres deep.",
+    "tr": "\"omgh-e feshordan-e ghafase-ye sine\": dar ehya-ye bozorgsal, ghafase-ye sine ra 5 ta 6 santimetr mifesharim."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-scene-safety",
+   "term": {
+    "fa": "ایمنی صحنهٔ حادثه",
+    "en": "scene safety",
+    "tr": "imeni-ye sahne-ye hadese"
+   },
+   "explain": {
+    "fa": "«ایمنی صحنهٔ حادثه»: نخستین گام در صحنهٔ حادثه، پیش از دست زدن به مصدوم: بررسی و ایمن کردن صحنه.",
+    "en": "\"scene safety\": the first step at an accident, before touching the casualty: checking and securing the scene.",
+    "tr": "\"imeni-ye sahne-ye hadese\": nakhostin gam dar sahne-ye hadese, pish az dast zadan be masdoom: barresi va imen kardan-e sahne."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-cpr-compression-rate",
+   "term": {
+    "fa": "سرعت فشردن قفسهٔ سینه در CPR",
+    "en": "CPR compression rate",
+    "tr": "sor'at-e feshordan dar CPR"
+   },
+   "explain": {
+    "fa": "در احیای بزرگسال، قفسهٔ سینه را ۱۰۰ تا ۱۲۰ بار در دقیقه می‌فشاریم.",
+    "en": "\"CPR compression rate\": in adult CPR the chest is pressed 100 to 120 times a minute.",
+    "tr": "\"sor'at-e feshordan dar CPR\": dar ehya-ye bozorgsal, ghafase-ye sine ra 100 ta 120 bar dar daghighe mifesharim."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-checking-breathing",
+   "term": {
+    "fa": "بررسی تنفس",
+    "en": "checking breathing",
+    "tr": "barrasi-ye tanaffos"
+   },
+   "explain": {
+    "fa": "«بررسی تنفس»: بررسی تنفس طبیعی مصدوم بیهوش پیش از احیا، حداکثر ۱۰ ثانیه.",
+    "en": "\"checking breathing\": checking an unconscious casualty's normal breathing before CPR, for no more than 10 seconds.",
+    "tr": "\"barrasi-ye tanaffos\": barresi-ye tanaffos-e tabi'i-ye masdoom-e bihoosh pish az ehya, hadd-e aksar 10 saniye."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-hand-position-in-cpr",
+   "term": {
+    "fa": "جای دست‌ها در CPR",
+    "en": "hand position in CPR",
+    "tr": "jaye dast-ha dar CPR"
+   },
+   "explain": {
+    "fa": "پاشنهٔ دست‌ها وسط قفسهٔ سینه، روی نیمهٔ پایینی جناغ.",
+    "en": "\"hand position in CPR\": the heels of the hands in the centre of the chest, on the lower half of the breastbone.",
+    "tr": "\"jaye dast-ha dar CPR\": pashne-ye dast-ha vasat-e ghafase-ye sine, rooy-e nime-ye payini-ye jenagh."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-checking-responsiveness",
+   "term": {
+    "fa": "بررسی پاسخ‌دهی",
+    "en": "checking responsiveness",
+    "tr": "barrasi-ye pasokh-dehi"
+   },
+   "explain": {
+    "fa": "«بررسی پاسخ‌دهی»: صدا زدن بلند و تکان دادن آرام شانه‌ها برای فهمیدن اینکه مصدوم پاسخ می‌دهد یا نه.",
+    "en": "\"checking responsiveness\": calling loudly and gently shaking the shoulders to see if the casualty responds.",
+    "tr": "\"barrasi-ye pasokh-dehi\": seda zadan-e boland va tekan dadan-e aram-e shane-ha baraye fahmidan-e inke masdoom pasokh midahad ya na."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-carotid-pulse",
+   "term": {
+    "fa": "نبض کاروتید",
+    "en": "carotid pulse",
+    "tr": "nabz-e karotid"
+   },
+   "explain": {
+    "fa": "«نبض کاروتید»: نبض سرخرگ گردن، که در بزرگسال بیهوش برای اطمینان از گردش خون گرفته می‌شود.",
+    "en": "\"carotid pulse\": the pulse of the neck artery, taken in an unconscious adult to check circulation.",
+    "tr": "\"nabz-e karotid\": nabz-e sorkhrag-e gardan, ke dar bozorgsal-e bihoosh baraye etminan az gardesh-e khoon gerefte mishavad."
+   },
+   "unit": "hh-4-cpr"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-burn-first-aid",
+   "term": {
+    "fa": "کمک‌های اولیه در سوختگی",
+    "en": "burn first aid",
+    "tr": "komak-haye avvaliye dar sookhtegi"
+   },
+   "explain": {
+    "fa": "«کمک‌های اولیه در سوختگی»: سوختگی درجهٔ یک را دست‌کم ۱۰ دقیقه زیر آب خنک جاری بگیر، نه یخ مستقیم.",
+    "en": "\"burn first aid\": hold a first-degree burn under cool running water for at least 10 minutes, not ice on the skin.",
+    "tr": "\"komak-haye avvaliye dar sookhtegi\": sookhtegi-ye daraje-ye yek ra dast-kam 10 daghighe zir-e ab-e khonak-e jari begir, na yakh-e mostaghim."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-second-degree-burn",
+   "term": {
+    "fa": "سوختگی درجهٔ دو",
+    "en": "second-degree burn",
+    "tr": "sookhtegi-ye daraje-ye do"
+   },
+   "explain": {
+    "fa": "«سوختگی درجهٔ دو»: سوختگی با تاول‌های دردناک، قرمزی شدید و آسیب به اپیدرم و بخشی از درم.",
+    "en": "\"second-degree burn\": a burn with painful blisters, deep redness and damage to the epidermis and part of the dermis.",
+    "tr": "\"sookhtegi-ye daraje-ye do\": sookhtegi ba taval-haye dardnak, ghermezi-ye shadid va asib be epiderm va bakhshi az derm."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-splinting",
+   "term": {
+    "fa": "آتل‌بندی",
+    "en": "splinting",
+    "tr": "atel-bandi"
+   },
+   "explain": {
+    "fa": "«آتل‌بندی»: بی‌حرکت کردن عضو شکسته تا آسیب بیشتری به بافت‌ها، رگ‌ها و عصب‌ها نرسد.",
+    "en": "\"splinting\": keeping a broken limb still so tissues, vessels and nerves are not hurt further.",
+    "tr": "\"atel-bandi\": bi-harekat kardan-e ozv-e shekaste ta asib-e bishtari be baft-ha, rag-ha va asab-ha naresad."
+   },
+   "contrast": {
+    "fa": "جا انداختن استخوان کار امدادگر نیست.",
+    "en": "Setting the bone is not the first-aider's job.",
+    "tr": "Ja andakhtan-e ostekhan kar-e emdadgar nist."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-controlling-bleeding",
+   "term": {
+    "fa": "کنترل خون‌ریزی",
+    "en": "controlling bleeding",
+    "tr": "kontrol-e khoonrizi"
+   },
+   "explain": {
+    "fa": "«کنترل خون‌ریزی»: نخستین کار برای خون‌ریزی شدید بیرونی: فشار مستقیم و محکم روی زخم.",
+    "en": "\"controlling bleeding\": the first action for severe external bleeding: firm, direct pressure on the wound.",
+    "tr": "\"kontrol-e khoonrizi\": nakhostin kar baraye khoon-rizi-ye shadid-e biroonie: feshar-e mostaghim va mohkam rooy-e zakhm."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-first-aid-for-shock",
+   "term": {
+    "fa": "کمک‌های اولیه در شوک",
+    "en": "first aid for shock",
+    "tr": "komak-haye avvaliye dar shok"
+   },
+   "explain": {
+    "fa": "«کمک‌های اولیه در شوک»: برای مصدوم در شوک: گرم نگه داشتن، بالا بردن پاها و رساندن فوری به مرکز درمانی.",
+    "en": "\"first aid for shock\": for a casualty in shock: keep warm, raise the legs and get to hospital at once.",
+    "tr": "\"komak-haye avvaliye dar shok\": baraye masdoom dar shok: garm negah dashtan, bala bordan-e pa-ha va resandan-e fowri be markaz-e darmani."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-what-a-splint-must-cover",
+   "term": {
+    "fa": "اندازهٔ آتل",
+    "en": "what a splint must cover",
+    "tr": "andaze-ye atel"
+   },
+   "explain": {
+    "fa": "«اندازهٔ آتل»: آتل باید مفصل بالا و مفصل پایین محل شکستگی را در بر بگیرد.",
+    "en": "\"what a splint must cover\": a splint must cover the joint above and the joint below the break.",
+    "tr": "\"andaze-ye atel\": atel bayad mafsal-e bala va mafsal-e payin-e mahall-e shekastegi ra dar bar begirad."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-pressure-bandage",
+   "term": {
+    "fa": "باند فشاری",
+    "en": "pressure bandage",
+    "tr": "band-e feshari"
+   },
+   "explain": {
+    "fa": "«باند فشاری»: گام دوم مهار خون‌ریزی، اگر فشار مستقیم کافی نبود: باند فشاری و بالا نگه داشتن عضو.",
+    "en": "\"pressure bandage\": the second step against bleeding, if direct pressure fails: a pressure bandage and raising the limb.",
+    "tr": "\"band-e feshari\": gam-e dovvom-e mahar-e khoon-rizi, agar feshar-e mostaghim kafi nabood: band-e feshari va bala negah dashtan-e ozv."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-tourniquet",
+   "term": {
+    "fa": "شریان‌بند (تورنیکه)",
+    "en": "tourniquet",
+    "tr": "sharyan-band (toornike)"
+   },
+   "explain": {
+    "fa": "«شریان‌بند (تورنیکه)»: گام پایانی برای خون‌ریزی جهندهٔ سرخرگی: بستن شریان‌بند بالای زخم.",
+    "en": "\"tourniquet\": the last step for spurting arterial bleeding: a tourniquet above the wound.",
+    "tr": "\"sharyan-band (toornike)\": gam-e payani baraye khoon-rizi-ye jahande-ye sorkhragi: bastan-e sharyan-band balay-e zakhm."
+   },
+   "contrast": {
+    "fa": "پیش از فشار مستقیم و باند فشاری نه.",
+    "en": "Not before direct pressure and a pressure bandage.",
+    "tr": "Pish az feshar-e mostaghim va band-e feshari na."
+   },
+   "unit": "hh-4-injuries"
+  },
+  {
+   "subject": "Health and Hygiene",
+   "key": "hh-g-heatstroke",
+   "term": {
+    "fa": "گرمازدگی",
+    "en": "heatstroke",
+    "tr": "garma-zadegi"
+   },
+   "explain": {
+    "fa": "«گرمازدگی»: دمای بدن بیش از ۴۰ درجه، آشفتگی هوشیاری و قطع تعریق پس از ماندن طولانی در گرما.",
+    "en": "\"heatstroke\": body temperature above 40 degrees, confusion and no sweating after long heat exposure.",
+    "tr": "\"garma-zadegi\": dama-ye badan bish az 40 daraje, ashoftegi-ye hoshyari va ghat'-e ta'arroq pas az mandan-e toolani dar garma."
+   },
+   "unit": "hh-4-injuries"
+  }
+ ]
+}
