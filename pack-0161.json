@@ -1,0 +1,971 @@
+{
+ "version": 161,
+ "format": 11,
+ "glossary": [
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-faghr-e-zati-ye-mojoodat",
+   "term": {
+    "fa": "فقر ذاتی موجودات",
+    "en": "creation's essential need",
+    "tr": "faghr-e zati-ye mojoodat"
+   },
+   "explain": {
+    "fa": "«فقر ذاتی موجودات»: نیاز همیشگی و بنیادین هر موجود به خدا، هم برای پدید آمدن و هم برای ماندن؛ نیازی که در خود هستی موجود است.",
+    "en": "\"creation's essential need\": every being's basic, lasting need for God, both to come into being and to go on existing; a need built into its very being.",
+    "tr": "\"faghr-e zati-ye mojoodat\": niyaz-e hamishegi va bonyadin-e har mojood be khoda, ham baraye padid amadan va ham baraye mandan; niyazi ke dar khod-e hasti-ye mojood ast."
+   },
+   "contrast": {
+    "fa": "تهیدستی مالی نیست؛ نیاز وجودی است.",
+    "en": "Not lack of money; an existential need.",
+    "tr": "Tahidasti-ye mali nist; niyaz-e vojoodi ast."
+   },
+   "unit": "rel-1-giver-of-being"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-niyaz-dar-bagha",
+   "term": {
+    "fa": "نیاز در بقا",
+    "en": "need in continuing to exist",
+    "tr": "niyaz dar bagha"
+   },
+   "explain": {
+    "fa": "«نیاز در بقا»: نیاز موجودات به خدا برای ادامهٔ هستی، که هیچ‌وقت تمام نمی‌شود.",
+    "en": "\"need in continuing to exist\": the need of every being for God to keep on existing, which never ends.",
+    "tr": "\"niyaz dar bagha\": niyaz-e mojoodat be khoda baraye edame-ye hasti, ke hich-vaght tamam nemishavad."
+   },
+   "analogy": {
+    "fa": "مثل روشنایی لامپ که هر لحظه به جریان برق نیاز دارد.",
+    "en": "Like a lamp's light needing the current every moment.",
+    "tr": "Mesl-e roshanayi-ye lamp ke har lahze be jaryan-e bargh niyaz darad."
+   },
+   "unit": "rel-1-giver-of-being"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-bana-va-banna",
+   "term": {
+    "fa": "بنا و بنّا",
+    "en": "the building and its builder",
+    "tr": "bana va banna"
+   },
+   "explain": {
+    "fa": "«بنا و بنّا»: مثال نیازی که فقط در «پیدایش» است: ساختمان پس از ساخته شدن دیگر به بنّا نیاز ندارد.",
+    "en": "\"the building and its builder\": the example of a need only in coming to be: once built, a building no longer needs its builder.",
+    "tr": "\"bana va banna\": mesal-e niyazi ke faghat dar peydayesh ast: sakhteman pas az sakhte shodan digar be banna niyaz nadarad."
+   },
+   "contrast": {
+    "fa": "برعکس نیاز موجودات به خدا، که در بقا هم هست.",
+    "en": "The opposite of creatures' need for God, which goes on in their lasting too.",
+    "tr": "Bar'aks-e niyaz-e mojoodat be khoda, ke dar bagha ham hast."
+   },
+   "unit": "rel-1-giver-of-being"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-agahi-az-niyaz-be-khoda",
+   "term": {
+    "fa": "آگاهی از نیاز به خدا",
+    "en": "awareness of need for God",
+    "tr": "agahi az niyaz be Khoda"
+   },
+   "explain": {
+    "fa": "«آگاهی از نیاز به خدا»: همه به یک اندازه به خدا نیازمندند، اما انسان می‌تواند از این نیاز آگاه شود و هرچه معرفتش بیشتر شود، آن را بیشتر درمی‌یابد.",
+    "en": "\"awareness of need for God\": all beings need God alike, but humans can become aware of the need, and feel it more the more they know.",
+    "tr": "\"agahi az niyaz be Khoda\": hame be yek andaze be khoda niyazmandand, amma ensan mitavanad az in niyaz agah shavad va har che ma'refatash bishtar shavad, an ra bishtar dar-miyabad."
+   },
+   "unit": "rel-1-giver-of-being"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-dar-khaleghiyat",
+   "term": {
+    "fa": "توحید در خالقیت",
+    "en": "monotheism in creation",
+    "tr": "towhid dar khaleghiyat"
+   },
+   "explain": {
+    "fa": "«توحید در خالقیت»: باور به اینکه تنها آفریدگار جهان خداست؛ آیهٔ «قُلِ اللَّهُ خَالِقُ کُلِّ شَیْءٍ».",
+    "en": "\"monotheism in creation\": believing God alone created the world; the verse 'qul-illahu khaliqu kulli shay'' ('Say: God is the Creator of all things').",
+    "tr": "\"towhid dar khaleghiyat\": bavar be inke tanha afaridgar-e jahan khodast; aye-ye 'qolillaho khalegho kolle shey''."
+   },
+   "unit": "rel-2-matchless-one"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-dar-robubiyat",
+   "term": {
+    "fa": "توحید در ربوبیت",
+    "en": "monotheism in lordship",
+    "tr": "towhid dar robubiyat"
+   },
+   "explain": {
+    "fa": "«توحید در ربوبیت»: باور به اینکه تدبیر و ادارهٔ جهان تنها به دست خداست.",
+    "en": "\"monotheism in lordship\": believing that running and directing the world are in God's hands alone.",
+    "tr": "\"towhid dar robubiyat\": bavar be inke tadbir va edare-ye jahan tanha be dast-e khodast."
+   },
+   "contrast": {
+    "fa": "خالقیت «آفریدن» است، ربوبیت «اداره کردن».",
+    "en": "Creation is 'making', lordship is 'running'.",
+    "tr": "Khaleghiyat 'afaridan' ast, rooboobiyat 'edare kardan'."
+   },
+   "unit": "rel-2-matchless-one"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-dar-malekiyat",
+   "term": {
+    "fa": "توحید در مالکیت",
+    "en": "monotheism in ownership",
+    "tr": "towhid dar malekiyat"
+   },
+   "explain": {
+    "fa": "«توحید در مالکیت»: باور به اینکه همهٔ موجودات ملک حقیقی خدایند و تصرف در آنها بی اجازهٔ او روا نیست.",
+    "en": "\"monotheism in ownership\": believing that everything truly belongs to God and may not be used without His leave.",
+    "tr": "\"towhid dar malekiyat\": bavar be inke hame-ye mojoodat melk-e haghighi-ye khodayand va tasarrof dar anha bi ejaze-ye oo rava nist."
+   },
+   "unit": "rel-2-matchless-one"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-rabete-ye-khaleghiyat-va-rooboobiyat",
+   "term": {
+    "fa": "رابطهٔ خالقیت و ربوبیت",
+    "en": "creation and lordship",
+    "tr": "rabete-ye khaleghiyat va rooboobiyat"
+   },
+   "explain": {
+    "fa": "«رابطهٔ خالقیت و ربوبیت»: چون آفرینش تنها از آنِ خداست، تدبیر جهان هم تنها با اوست؛ ربوبیت از خالقیت جدا نیست و از آن نتیجه می‌شود.",
+    "en": "\"creation and lordship\": since creating belongs to God alone, running the world is His alone too; lordship cannot be separated from creation and follows from it.",
+    "tr": "\"rabete-ye khaleghiyat va rooboobiyat\": chon afarinesh tanha az an-e khodast, tadbir-e jahan ham tanha ba oost; rooboobiyat az khaleghiyat joda nist va az an natije mishavad."
+   },
+   "analogy": {
+    "fa": "سازندهٔ دستگاه بهتر از همه می‌داند چطور اداره‌اش کند.",
+    "en": "The maker of a machine knows best how to run it.",
+    "tr": "Sazande-ye dastgah behtar az hame midanad chetor edare-ash konad."
+   },
+   "unit": "rel-2-matchless-one"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-e-amali",
+   "term": {
+    "fa": "توحید عملی",
+    "en": "practical monotheism",
+    "tr": "towhid-e amali"
+   },
+   "explain": {
+    "fa": "«توحید عملی»: جهت دادن همهٔ ابعاد زندگی و همهٔ بندگی‌ها تنها برای خشنودی خدا.",
+    "en": "\"practical monotheism\": directing every part of life and all one's worship to God's pleasure alone.",
+    "tr": "\"towhid-e amali\": jahat dadan-e hame-ye ab'ad-e zendegi va hame-ye bandegi-ha tanha baraye khoshnoodi-ye khoda."
+   },
+   "contrast": {
+    "fa": "توحید نظری باور است؛ توحید عملی رفتار.",
+    "en": "Theoretical monotheism is belief; practical monotheism is conduct.",
+    "tr": "Towhid-e nazari bavar ast; towhid-e amali raftar."
+   },
+   "unit": "rel-3-way-of-life"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sherk-e-amali",
+   "term": {
+    "fa": "شرک عملی",
+    "en": "practical polytheism",
+    "tr": "sherk-e amali"
+   },
+   "explain": {
+    "fa": "«شرک عملی»: شرک در رفتار: پرستش بت، قربانی برای خدایان دروغین، اطاعت از طاغوت.",
+    "en": "\"practical polytheism\": polytheism in conduct: worshipping idols, sacrificing to false gods, obeying tyrants.",
+    "tr": "\"sherk-e amali\": sherk dar raftar: parastesh-e bot, ghorbani baraye khodayan-e doroogh-in, ete'at az taghoot."
+   },
+   "unit": "rel-3-way-of-life"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sherk-e-nazari",
+   "term": {
+    "fa": "شرک نظری",
+    "en": "theoretical polytheism",
+    "tr": "sherk-e nazari"
+   },
+   "explain": {
+    "fa": "«شرک نظری»: شرک در باور: پذیرفتن چند سرچشمهٔ مستقل برای آفرینش یا تدبیر جهان.",
+    "en": "\"theoretical polytheism\": polytheism in belief: accepting several independent sources for the creation or running of the world.",
+    "tr": "\"sherk-e nazari\": sherk dar bavar: paziroftan-e chand sarcheshme-ye mostaghel baraye afarinesh ya tadbir-e jahan."
+   },
+   "unit": "rel-3-way-of-life"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-asar-e-towhid-e-amali",
+   "term": {
+    "fa": "آثار توحید عملی",
+    "en": "fruits of practical monotheism",
+    "tr": "asar-e towhid-e amali"
+   },
+   "explain": {
+    "fa": "«آثار توحید عملی»: آرامش روحی و شخصیت یکپارچه؛ کسی که همهٔ کارهایش یک جهت دارد، در سختی‌ها از هم نمی‌پاشد.",
+    "en": "\"fruits of practical monotheism\": peace of mind and a whole, undivided personality; someone whose acts all point one way does not fall apart in hardship.",
+    "tr": "\"asar-e towhid-e amali\": aramesh-e roohi va shakhsiyat-e yekparche; kasi ke hame-ye karhayash yek jahat darad, dar sakhti-ha az ham nemipashad."
+   },
+   "analogy": {
+    "fa": "مثل رودی در یک بستر، نه آبی پخش در هزار شاخه.",
+    "en": "Like a river in one bed, not water split into a thousand streams.",
+    "tr": "Mesl-e roodi dar yek bastar, na abi pakhsh dar hezar shakhe."
+   },
+   "unit": "rel-3-way-of-life"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ekhlas",
+   "term": {
+    "fa": "اخلاص",
+    "en": "sincerity (ekhlas)",
+    "tr": "ekhlas"
+   },
+   "explain": {
+    "fa": "«اخلاص»: پاک کردن دل از نیت‌های غیرالهی و انجام دادن وظایف تنها برای نزدیکی به خدا.",
+    "en": "\"sincerity (ekhlas)\": clearing the heart of every aim but God and doing one's duties only to draw near to Him.",
+    "tr": "\"ekhlas\": pak kardan-e del az niyat-haye gheyr-e elahi va anjam dadan-e vazayef tanha baraye nazdiki be khoda."
+   },
+   "contrast": {
+    "fa": "اخلاص به نیت است، نه به خود کار.",
+    "en": "Sincerity lies in the intention, not in the act itself.",
+    "tr": "Ekhlas be niyat ast, na be khod-e kar."
+   },
+   "unit": "rel-4-sincerity"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-samarat-e-ekhlas",
+   "term": {
+    "fa": "ثمرات اخلاص",
+    "en": "fruits of sincerity",
+    "tr": "samarat-e ekhlas"
+   },
+   "explain": {
+    "fa": "«ثمرات اخلاص»: در امان ماندن از نفوذ شیطان و دستیابی به حکمت.",
+    "en": "\"fruits of sincerity\": being kept beyond the Devil's reach and gaining wisdom.",
+    "tr": "\"samarat-e ekhlas\": dar aman mandan az nofooz-e sheytan va dastyabi be hekmat."
+   },
+   "unit": "rel-4-sincerity"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ekhtiyar",
+   "term": {
+    "fa": "اختیار",
+    "en": "free will (ikhtiyar)",
+    "tr": "ekhtiyar"
+   },
+   "explain": {
+    "fa": "«اختیار»: توانایی انتخاب؛ «قدرت پرواز» انسان که او را از دیگر موجودات جدا می‌کند و مسئولیت می‌آورد.",
+    "en": "\"free will (ikhtiyar)\": the power to choose; man's 'power to fly', which sets him apart and brings responsibility.",
+    "tr": "\"ekhtiyar\": tavanayi-ye entekhab; 'ghodrat-e parvaz'-e ensan ke oo ra az digar mojoodat joda mikonad va mas'ooliyat miavarad."
+   },
+   "unit": "rel-5-power-to-fly"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-taghdir-e-elahi",
+   "term": {
+    "fa": "تقدیر الهی",
+    "en": "divine measuring (taqdir)",
+    "tr": "taghdir-e elahi"
+   },
+   "explain": {
+    "fa": "«تقدیر الهی»: اندازه‌گیری و تعیین ویژگی‌ها، حدود و جایگاه هر موجود به دست خدا.",
+    "en": "\"divine measuring (taqdir)\": God's measuring out and setting the features, limits and place of every being.",
+    "tr": "\"taghdir-e elahi\": andaze-giri va ta'yin-e vizhegi-ha, hodood va jaygah-e har mojood be dast-e khoda."
+   },
+   "contrast": {
+    "fa": "تقدیر «نقشه» است؛ قضا «حکم قطعی و تحقق».",
+    "en": "Taqdir is the 'plan'; qada the 'final decree and coming true'.",
+    "tr": "Taghdir 'naghshe' ast; ghaza 'hokm-e ghat'i va tahaghghogh'."
+   },
+   "unit": "rel-5-power-to-fly"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ghaza-ye-elahi",
+   "term": {
+    "fa": "قضای الهی",
+    "en": "divine decree (qada)",
+    "tr": "ghaza-ye elahi"
+   },
+   "explain": {
+    "fa": "«قضای الهی»: حکم و فرمان قطعی خدا که اندازه‌های تعیین‌شدهٔ هر موجود را به مرحلهٔ تحقق می‌رساند.",
+    "en": "\"divine decree (qada)\": God's final decree, which brings the measures set for every being to the point of coming true.",
+    "tr": "\"ghaza-ye elahi\": hokm va farman-e ghat'i-ye khoda ke andaze-haye ta'yin-shode-ye har mojood ra be marhale-ye tahaghghogh miresanad."
+   },
+   "unit": "rel-5-power-to-fly"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-rabete-ye-ekhtiyar-va-taghdir",
+   "term": {
+    "fa": "رابطهٔ اختیار و تقدیر",
+    "en": "free will and divine measuring",
+    "tr": "rabete-ye ekhtiyar va taghdir"
+   },
+   "explain": {
+    "fa": "«رابطهٔ اختیار و تقدیر»: اختیار انسان با تقدیر ناسازگار نیست؛ خودش یک تقدیر الهی است، چون نظام علّی جهان چنین طراحی شده.",
+    "en": "\"free will and divine measuring\": free will does not clash with the divine measuring; it is itself part of it, since the world's system of causes was built that way.",
+    "tr": "\"rabete-ye ekhtiyar va taghdir\": ekhtiyar-e ensan ba taghdir nasazgar nist; khodash yek taghdir-e elahi ast, chon nezam-e ella-ye jahan chenin tarrahi shode."
+   },
+   "unit": "rel-5-power-to-fly"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-erade-ye-ensan-dar-zanjire-ye-ellat-ha",
+   "term": {
+    "fa": "ارادهٔ انسان در زنجیرهٔ علت‌ها",
+    "en": "human will in the chain of causes",
+    "tr": "erade-ye ensan dar zanjire-ye ellat-ha"
+   },
+   "explain": {
+    "fa": "«ارادهٔ انسان در زنجیرهٔ علت‌ها»: در هر کار اختیاری، ارادهٔ انسان آخرین حلقه (علت نزدیک) زنجیرهٔ علت‌هاست.",
+    "en": "\"human will in the chain of causes\": in every chosen act, human will is the last link (the nearest cause) in the chain of causes.",
+    "tr": "\"erade-ye ensan dar zanjire-ye ellat-ha\": dar har kar-e ekhtiyari, erade-ye ensan akharin halghe (ellat-e nazdik)-e zanjire-ye ellat-hast."
+   },
+   "contrast": {
+    "fa": "بیرون از زنجیرهٔ علت‌ها نیست.",
+    "en": "It is not outside the chain of causes.",
+    "tr": "Biroon az zanjire-ye ellat-ha nist."
+   },
+   "unit": "rel-5-power-to-fly"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sonnat-e-ebtela",
+   "term": {
+    "fa": "سنت ابتلا",
+    "en": "law of trial (ebtela)",
+    "tr": "sonnat-e ebtela"
+   },
+   "explain": {
+    "fa": "«سنت ابتلا»: آزمایش‌های پیاپی زندگی برای همه، تا استعدادهای انسان شکوفا شود.",
+    "en": "\"law of trial (ebtela)\": the continuous trials of life, for everyone, through which human talents flourish.",
+    "tr": "\"sonnat-e ebtela\": azmayesh-haye peyapey-e zendegi baraye hame, ta este'dad-haye ensan shekoofa shavad."
+   },
+   "unit": "rel-6-divine-laws"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sonnat-e-emdad",
+   "term": {
+    "fa": "سنت امداد",
+    "en": "law of divine help (emdad)",
+    "tr": "sonnat-e emdad"
+   },
+   "explain": {
+    "fa": "«سنت امداد»: بهره‌مند کردن همه، نیکوکار و بدکار، از امکانات دنیا بر پایهٔ تلاش خودشان (امداد عام).",
+    "en": "\"law of divine help (emdad)\": giving everyone, good or bad, the means of this world by their own effort (universal help).",
+    "tr": "\"sonnat-e emdad\": bahre-mand kardan-e hame, nikookar va badkar, az emkanat-e donya bar paye-ye talash-e khodeshan (emdad-e am)."
+   },
+   "contrast": {
+    "fa": "نعمت دنیا نشانهٔ خشنودی خدا نیست؛ به بدکاران هم می‌رسد.",
+    "en": "Worldly blessing is not a sign of God's pleasure; it reaches the wicked too.",
+    "tr": "Ne'mat-e donya neshane-ye khoshnoodi-ye khoda nist; be badkaran ham miresad."
+   },
+   "unit": "rel-6-divine-laws"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sonnat-e-towfigh-e-elahi",
+   "term": {
+    "fa": "سنت توفیق الهی",
+    "en": "law of divine success (towfiq)",
+    "tr": "sonnat-e towfigh-e elahi"
+   },
+   "explain": {
+    "fa": "«سنت توفیق الهی»: یاری ویژه، هدایت بیشتر و پاداش معنوی برای کسانی که در راه بندگی گام برمی‌دارند (امداد خاص).",
+    "en": "\"law of divine success (towfiq)\": special help, extra guidance and spiritual reward for those who walk the path of worship (special help).",
+    "tr": "\"sonnat-e towfigh-e elahi\": yari-ye vizhe, hedayat-e bishtar va padash-e ma'navi baraye kasani ke dar rah-e bandegi gam bar-midarand (emdad-e khass)."
+   },
+   "unit": "rel-6-divine-laws"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sonnat-e-emla",
+   "term": {
+    "fa": "سنت املا",
+    "en": "law of respite (imla)",
+    "tr": "sonnat-e emla"
+   },
+   "explain": {
+    "fa": "«سنت املا»: مهلت دادن به گناهکاران سرکش تا بر گناه خود بیفزایند و بار سنگین‌تری بردارند.",
+    "en": "\"law of respite (imla)\": giving defiant sinners time, so that they add to their sins and carry a heavier load.",
+    "tr": "\"sonnat-e emla\": mohlat dadan be gonahkaran-e sarkesh ta bar gonah-e khod biafzayand va bar-e sangin-tari bardarand."
+   },
+   "contrast": {
+    "fa": "در استدراج نشانه «نعمت پیاپی و سقوط ناگهانی» است.",
+    "en": "In estedraj the sign is 'blessing after blessing, then a sudden fall'.",
+    "tr": "Dar estedraj neshane 'ne'mat-e peyapey va soghoot-e nagahani' ast."
+   },
+   "unit": "rel-6-divine-laws"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sonnat-e-estedraj",
+   "term": {
+    "fa": "سنت استدراج",
+    "en": "law of gradual entrapment (estedraj)",
+    "tr": "sonnat-e estedraj"
+   },
+   "explain": {
+    "fa": "«سنت استدراج»: مهلت پشت مهلت به گناهکاران لجوج و غرق کردن آنان در نعمت‌ها، تا ناگهان سقوط کنند.",
+    "en": "\"law of gradual entrapment (estedraj)\": respite after respite for stubborn sinners, drowning them in blessings until they suddenly fall.",
+    "tr": "\"sonnat-e estedraj\": mohlat posht-e mohlat be gonahkaran-e lajooj va gharg kardan-e anan dar ne'mat-ha, ta nagahan soghoot konand."
+   },
+   "analogy": {
+    "fa": "مثل پله‌پله و بی‌خبر نزدیک شدن به لبهٔ پرتگاه.",
+    "en": "Like stepping unawares, stair by stair, toward a cliff's edge.",
+    "tr": "Mesl-e pelle-pelle va bi-khabar nazdik shodan be labe-ye partgah."
+   },
+   "unit": "rel-6-divine-laws"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towbe",
+   "term": {
+    "fa": "توبه",
+    "en": "repentance (tawba)",
+    "tr": "towbe"
+   },
+   "explain": {
+    "fa": "«توبه»: پشیمانی قلبی از گناهان گذشته همراه با تصمیم قطعی بر بازگشت به راه بندگی خدا.",
+    "en": "\"repentance (tawba)\": heartfelt regret for past sins together with a firm decision to return to God's path.",
+    "tr": "\"towbe\": pashimani-ye ghalbi az gonahan-e gozashte hamrah ba tasmim-e ghat'i bar bazgasht be rah-e bandegi-ye khoda."
+   },
+   "unit": "rel-7-return"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-marahel-e-towbe",
+   "term": {
+    "fa": "مراحل توبه",
+    "en": "steps of repentance",
+    "tr": "marahel-e towbe"
+   },
+   "explain": {
+    "fa": "«مراحل توبه»: نخستین و بنیادی‌ترین گام توبه، پشیمانی از گناه است؛ سپس تصمیم بر بازگشت و جبران.",
+    "en": "\"steps of repentance\": the first and most basic step of repentance is regret for the sin; then the decision to return, and making amends.",
+    "tr": "\"marahel-e towbe\": nakhostin va bonyadi-tarin gam-e tobe, pashimani az gonah ast; sepas tasmim bar bazgasht va jobran."
+   },
+   "unit": "rel-7-return"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-shart-e-paziresh-e-towbe",
+   "term": {
+    "fa": "شرط پذیرش توبه",
+    "en": "condition for repentance to be accepted",
+    "tr": "shart-e paziresh-e towbe"
+   },
+   "explain": {
+    "fa": "«شرط پذیرش توبه»: برای پذیرفته شدن توبه و پاک شدن اثر گناه، اصلاح و جبران رفتارهای گذشته لازم است.",
+    "en": "\"condition for repentance to be accepted\": for repentance to be accepted and the effect of sin wiped away, reforming oneself and making good past wrongs are required.",
+    "tr": "\"shart-e paziresh-e towbe\": baraye paziroofte shodan-e tobe va pak shodan-e asar-e gonah, eslah va jobran-e raftar-haye gozashte lazem ast."
+   },
+   "contrast": {
+    "fa": "تکرار زبانی چند ذکر کافی نیست.",
+    "en": "Repeating a few phrases is not enough.",
+    "tr": "Tekrar-e zabani-ye chand zekr kafi nist."
+   },
+   "unit": "rel-7-return"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-asar-e-tabiei-ye-gonah",
+   "term": {
+    "fa": "آثار طبیعی گناه",
+    "en": "natural effects of sin",
+    "tr": "asar-e tabiei-ye gonah"
+   },
+   "explain": {
+    "fa": "«آثار طبیعی گناه»: پیامدهایی که خودبه‌خود در پی گناه می‌آیند: تیره شدن دل، از دست رفتن نشاط روحی و محرومیت از توفیق.",
+    "en": "\"natural effects of sin\": results that follow sin by themselves: a darkened heart, lost spiritual vigour and being deprived of divine help.",
+    "tr": "\"asar-e tabiei-ye gonah\": payamad-hayi ke khod-be-khod dar pey-e gonah miayand: tire shodan-e del, az dast raftan-e neshat-e roohi va mahroomiyat az towfigh."
+   },
+   "contrast": {
+    "fa": "کیفر قانونی دادگاه را کسی صادر می‌کند؛ اثر طبیعی خودبه‌خود می‌آید.",
+    "en": "A court's penalty is issued by someone; a natural effect comes by itself.",
+    "tr": "Keyfar-e ghanooni-ye dadgah ra kasi sader mikonad; asar-e tabi'i khod-be-khod miayad."
+   },
+   "unit": "rel-7-return"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-maghferat-e-elahi",
+   "term": {
+    "fa": "مغفرت الهی",
+    "en": "divine forgiveness (maghfirat)",
+    "tr": "maghferat-e elahi"
+   },
+   "explain": {
+    "fa": "«مغفرت الهی»: مهم‌ترین ثمرهٔ توبهٔ واقعی؛ آمرزشی که گناهان را از نامهٔ عمل انسان پاک می‌کند.",
+    "en": "\"divine forgiveness (maghfirat)\": the chief fruit of true repentance; forgiveness that wipes the sins from a person's record of deeds.",
+    "tr": "\"maghferat-e elahi\": mohem-tarin samare-ye tobe-ye vaghe'i; amorzeshi ke gonahan ra az name-ye amal-e ensan pak mikonad."
+   },
+   "unit": "rel-7-return"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-amal-be-ahkam-e-elahi",
+   "term": {
+    "fa": "عمل به احکام الهی",
+    "en": "following the divine rulings",
+    "tr": "amal be ahkam-e elahi"
+   },
+   "explain": {
+    "fa": "«عمل به احکام الهی»: عمل به احکام الهی بیش از هر چیز کرامت و آزادی واقعی انسان را حفظ می‌کند.",
+    "en": "\"following the divine rulings\": following the divine rulings above all keeps human dignity and true freedom.",
+    "tr": "\"amal be ahkam-e elahi\": amal be ahkam-e elahi bish az har chiz keramat va azadi-ye vaghe'i-ye ensan ra hefz mikonad."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ghalamro-ye-ahkam-e-elahi",
+   "term": {
+    "fa": "قلمرو احکام الهی",
+    "en": "scope of the divine rulings",
+    "tr": "ghalamro-ye ahkam-e elahi"
+   },
+   "explain": {
+    "fa": "«قلمرو احکام الهی»: قوانین الهی همهٔ ابعاد زندگی را در بر می‌گیرند: فردی، اجتماعی، مادی و معنوی.",
+    "en": "\"scope of the divine rulings\": the divine laws cover every part of life: personal, social, material and spiritual.",
+    "tr": "\"ghalamro-ye ahkam-e elahi\": ghavanin-e elahi hame-ye ab'ad-e zendegi ra dar bar migirand: fardi, ejtema'i, maddi va ma'navi."
+   },
+   "contrast": {
+    "fa": "فقط زندگی خصوصی یا مناسک مسجد نیست.",
+    "en": "Not only private life or mosque rites.",
+    "tr": "Faghat zendegi-ye khosoosi ya manasek-e masjed nist."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-taghlid",
+   "term": {
+    "fa": "تقلید",
+    "en": "following a jurist (taqlid)",
+    "tr": "taghlid"
+   },
+   "explain": {
+    "fa": "«تقلید»: رجوع کسی که در احکام دین متخصص نیست به فقیه جامع‌الشرایط برای شناخت وظایف شرعی.",
+    "en": "\"following a jurist (taqlid)\": a non-expert turning to a fully qualified jurist to learn his religious duties.",
+    "tr": "\"taghlid\": roojoo'-e kasi ke dar ahkam-e din motekhasses nist be faghih-e jame'-osh-sharayet baraye shenakht-e vazayef-e shar'i."
+   },
+   "analogy": {
+    "fa": "مثل رفتن بیمار نزد پزشک متخصص.",
+    "en": "Like a patient going to a specialist doctor.",
+    "tr": "Mesl-e raftan-e bimar nazd-e pezeshk-e motekhasses."
+   },
+   "contrast": {
+    "fa": "پیروی کورکورانه از رسوم نیست.",
+    "en": "Not blindly following customs.",
+    "tr": "Peyravi-ye koorkoorane az rosoom nist."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-sharayet-e-marja-e-taghlid",
+   "term": {
+    "fa": "شرایط مرجع تقلید",
+    "en": "conditions for the jurist one follows",
+    "tr": "sharayet-e marja-e taghlid"
+   },
+   "explain": {
+    "fa": "«شرایط مرجع تقلید»: فقیهی که از او تقلید می‌شود باید اعلم و عادل باشد، تا عمل مردم درست با شریعت منطبق شود.",
+    "en": "\"conditions for the jurist one follows\": the jurist people follow must be the most learned and just, so that their practice truly matches the divine law.",
+    "tr": "\"sharayet-e marja-e taghlid\": faghihi ke az oo taghlid mishavad bayad a'lam va adel bashad, ta amal-e mardom dorost ba shari'at montabegh shavad."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ejtehad",
+   "term": {
+    "fa": "اجتهاد",
+    "en": "ijtihad",
+    "tr": "ejtehad"
+   },
+   "explain": {
+    "fa": "«اجتهاد»: استنباط احکام از منابع دین به دست فقیه جامع‌الشرایط؛ فرایندی پیوسته که فقه را پویا و پاسخ‌گوی مسائل نوپدید نگه می‌دارد.",
+    "en": "\"ijtihad\": deriving rulings from the sources by a fully qualified jurist; an ongoing process that keeps jurisprudence alive for new questions.",
+    "tr": "\"ejtehad\": estenbat-e ahkam az manabe'-e din be dast-e faghih-e jame'-osh-sharayet; farayandi peyvaste ke feghh ra pooya va pasokhgoo-ye masa'el-e noupadid negah midarad."
+   },
+   "contrast": {
+    "fa": "اجتهاد «فرایند» است و فتوا «حاصل» آن.",
+    "en": "Ijtihad is the 'process'; the fatwa is its 'product'.",
+    "tr": "Ejtehad 'farayand' ast va fatva 'hasel'-e an."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-fatva",
+   "term": {
+    "fa": "فتوا",
+    "en": "fatwa",
+    "tr": "fatva"
+   },
+   "explain": {
+    "fa": "«فتوا»: حکمی که فقیه جامع‌الشرایط با اجتهاد از منابع به دست می‌آورد و برای مقلدان بیان می‌کند؛ در رسالهٔ توضیح‌المسائل گرد می‌آید.",
+    "en": "\"fatwa\": a ruling a fully qualified jurist derives from the sources by ijtihad and states for his followers; collected in his book of rulings.",
+    "tr": "\"fatva\": hokmi ke faghih-e jame'-osh-sharayet ba ejtehad az manabe' be dast miavarad va baraye moghalledan bayan mikonad; dar resale-ye towzih-ol-masa'el gerd miayad."
+   },
+   "unit": "rel-8-divine-rulings"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-rooyarooyi-ba-tamaddon-e-jadid",
+   "term": {
+    "fa": "رویارویی با تمدن جدید",
+    "en": "facing modern civilization",
+    "tr": "rooyarooyi ba tamaddon-e jadid"
+   },
+   "explain": {
+    "fa": "«رویارویی با تمدن جدید»: درست‌ترین شیوه، پذیرش گزینشی دستاوردهای تمدن جدید بر پایهٔ معیارهای اسلامی است.",
+    "en": "\"facing modern civilization\": the right way is selective acceptance of modern civilization's achievements by Islamic standards.",
+    "tr": "\"rooyarooyi ba tamaddon-e jadid\": dorost-tarin shive, paziresh-e gozineshi-ye dastavard-haye tamaddon-e jadid bar paye-ye me'yar-haye eslami ast."
+   },
+   "contrast": {
+    "fa": "نه پذیرش کامل، نه رد کامل، نه همانند شدن منفعلانه.",
+    "en": "Not accepting all, not rejecting all, not passive imitation.",
+    "tr": "Na paziresh-e kamel, na radd-e kamel, na hamanand shodan-e monfa'elane."
+   },
+   "unit": "rel-10-modern-civilization"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-kasti-ye-tamaddon-e-jadid",
+   "term": {
+    "fa": "کاستی تمدن جدید",
+    "en": "shortcoming of modern civilization",
+    "tr": "kasti-ye tamaddon-e jadid"
+   },
+   "explain": {
+    "fa": "«کاستی تمدن جدید»: بزرگ‌ترین کاستی تمدن جدید غرب: غفلت از ابعاد معنوی و سرانجام ابدی انسان.",
+    "en": "\"shortcoming of modern civilization\": modern Western civilization's greatest shortcoming: neglecting the spiritual side of life and man's eternal end.",
+    "tr": "\"kasti-ye tamaddon-e jadid\": bozorg-tarin kasti-ye tamaddon-e jadid-e gharb: gheflat az ab'ad-e ma'navi va saranjam-e abadi-ye ensan."
+   },
+   "unit": "rel-10-modern-civilization"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-tamaddon-e-novin-e-eslami",
+   "term": {
+    "fa": "تمدن نوین اسلامی",
+    "en": "new Islamic civilization",
+    "tr": "tamaddon-e novin-e eslami"
+   },
+   "explain": {
+    "fa": "«تمدن نوین اسلامی»: بزرگ‌ترین مسئولیت نسل جوان مسلمان در برابر تمدن مادی غرب: تلاش برای ساختن تمدن نوین اسلامی.",
+    "en": "\"new Islamic civilization\": the young Muslim generation's greatest task before the West's materialist civilization: working to build a new Islamic civilization.",
+    "tr": "\"tamaddon-e novin-e eslami\": bozorg-tarin mas'ooliyat-e nasl-e javan-e mosalman dar barabar-e tamaddon-e maddi-ye gharb: talash baraye sakhtan-e tamaddon-e novin-e eslami."
+   },
+   "unit": "rel-10-modern-civilization"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-gam-e-nakhost-e-tamaddon-sazi",
+   "term": {
+    "fa": "گام نخست تمدن‌سازی",
+    "en": "first step in building a civilization",
+    "tr": "gam-e nakhost-e tamaddon-sazi"
+   },
+   "explain": {
+    "fa": "«گام نخست تمدن‌سازی»: نخستین گام برای ورود فعال به ساختن تمدن نوین اسلامی: ژرف کردن آگاهی دینی و توانمندی علمی.",
+    "en": "\"first step in building a civilization\": the first step toward taking an active part in building a new Islamic civilization: deepening religious understanding and scientific strength.",
+    "tr": "\"gam-e nakhost-e tamaddon-sazi\": nakhostin gam baraye vorood-e fa'al be sakhtan-e tamaddon-e novin-e eslami: zharf kardan-e agahi-ye dini va tavanmandi-ye elmi."
+   },
+   "contrast": {
+    "fa": "گام نخست را با خود مسئولیت (ساختن تمدن نوین) جابه‌جا نکن.",
+    "en": "Do not swap the first step with the task itself (building the new civilization).",
+    "tr": "Gam-e nakhost ra ba khod-e mas'ooliyat (sakhtan-e tamaddon-e novin) jabeja nakon."
+   },
+   "unit": "rel-10-modern-civilization"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-dar-zat",
+   "term": {
+    "fa": "توحید در ذات",
+    "en": "oneness of the essence",
+    "tr": "towhid dar zat"
+   },
+   "explain": {
+    "fa": "«توحید در ذات»: باور به یکتایی و بی‌همتایی ذات خدا؛ پایهٔ همهٔ مراتب دیگر توحید.",
+    "en": "\"oneness of the essence\": belief that God's essence is one and unique; the base of all the other ranks of monotheism.",
+    "tr": "\"towhid dar zat\": bavar be yektayi va bi-hamtayi-ye zat-e khoda; paye-ye hame-ye marateb-e digar-e towhid."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-towhid-dar-sefat",
+   "term": {
+    "fa": "توحید در صفات",
+    "en": "oneness in the attributes",
+    "tr": "towhid dar sefat"
+   },
+   "explain": {
+    "fa": "«توحید در صفات»: باور به اینکه صفات خدا (مانند علم و قدرت) عین ذات او هستند و از ذات و از یکدیگر جدا نیستند.",
+    "en": "\"oneness in the attributes\": belief that God's attributes (such as knowledge and power) are one with His essence, not separate from it or from each other.",
+    "tr": "\"towhid dar sefat\": bavar be inke sefat-e khoda (manand-e elm va ghodrat) eyn-e zat-e oo hastand va az zat va az yekdigar joda nistand."
+   },
+   "analogy": {
+    "fa": "مثل نور خورشید که چیزی جدا از خود خورشید نیست.",
+    "en": "Like the sun's light, which is nothing apart from the sun.",
+    "tr": "Mesl-e noor-e khorshid ke chizi joda az khod-e khorshid nist."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-hedayat-e-takvini",
+   "term": {
+    "fa": "هدایت تکوینی",
+    "en": "built-in (takvini) guidance",
+    "tr": "hedayat-e takvini"
+   },
+   "explain": {
+    "fa": "«هدایت تکوینی»: هدایت هر موجود به سوی هدفش از راه سرشت و غریزه‌ای که خدا در آن نهاده، مانند کندوسازی زنبور عسل.",
+    "en": "\"built-in (takvini) guidance\": God guiding each creature toward its goal through the nature and instinct He placed in it, like the bee building its hive.",
+    "tr": "\"hedayat-e takvini\": hedayat-e har mojood be sooy-e hadafash az rah-e seresht va gharize-i ke khoda dar an nahade, manand-e kandoo-sazi-ye zanboor-e asal."
+   },
+   "contrast": {
+    "fa": "هدایت تشریعی از راه پیامبران است.",
+    "en": "Legislated guidance comes through the prophets.",
+    "tr": "Hedayat-e tashri'i az rah-e payambaran ast."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-hadafmandi-ye-jahan",
+   "term": {
+    "fa": "هدفمندی جهان",
+    "en": "purposefulness of the world",
+    "tr": "hadafmandi-ye jahan"
+   },
+   "explain": {
+    "fa": "«هدفمندی جهان»: نظام هماهنگ آفرینش همهٔ موجودات را به سوی هدفی نهایی می‌برد.",
+    "en": "\"purposefulness of the world\": the harmonious order of creation carries every being toward a final goal.",
+    "tr": "\"hadafmandi-ye jahan\": nezam-e hamahang-e afarinesh hame-ye mojoodat ra be sooy-e hadafi nahayi mibarad."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-borhan-e-adl",
+   "term": {
+    "fa": "برهان عدل",
+    "en": "argument from justice",
+    "tr": "borhan-e adl"
+   },
+   "explain": {
+    "fa": "«برهان عدل»: چون پاداش و کیفر کامل نیکوکاران و بدکاران در دنیا شدنی نیست، عدل الهی برپایی آخرت را لازم می‌کند.",
+    "en": "\"argument from justice\": since the full reward of the good and punishment of the wicked cannot happen in this world, God's justice requires the hereafter.",
+    "tr": "\"borhan-e adl\": chon padash va keyfar-e kamel-e nikookaran va badkaran dar donya shodani nist, adl-e elahi barpayi-ye akherat ra lazem mikonad."
+   },
+   "contrast": {
+    "fa": "برهان حکمت به هدفمندی جهان تکیه دارد، نه به پاداش و کیفر.",
+    "en": "The argument from wisdom rests on the world having a purpose, not on reward and punishment.",
+    "tr": "Borhan-e hekmat be hadafmandi-ye jahan tekye darad, na be padash va keyfar."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-alam-e-barzakh",
+   "term": {
+    "fa": "عالم برزخ",
+    "en": "barzakh (intermediate world)",
+    "tr": "alam-e barzakh"
+   },
+   "explain": {
+    "fa": "«عالم برزخ»: عالمی که زندگی انسان در فاصلهٔ میان مرگ تا برپایی قیامت در آن می‌گذرد.",
+    "en": "\"barzakh (intermediate world)\": the world in which a person lives between death and the Resurrection.",
+    "tr": "\"alam-e barzakh\": alami ke zendegi-ye ensan dar fasele-ye miyan-e marg ta barpayi-ye ghiyamat dar an migozarad."
+   },
+   "contrast": {
+    "fa": "بهشت یا دوزخ جاویدان نیست.",
+    "en": "Not the eternal paradise or hell.",
+    "tr": "Behesht ya doozakh-e javidan nist."
+   },
+   "unit": "rel-11-god-purpose-hereafter"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-nafs-e-lavvame",
+   "term": {
+    "fa": "نفس لوامه",
+    "en": "the self-reproaching soul (nafs-e lawwama)",
+    "tr": "nafs-e lavvame"
+   },
+   "explain": {
+    "fa": "«نفس لوامه»: مرتبه‌ای از نفس که پس از گناه انسان را سرزنش می‌کند و به جبران و توبه می‌کشاند.",
+    "en": "\"the self-reproaching soul (nafs-e lawwama)\": the level of the self that blames a person after sin and pushes them to make amends and repent.",
+    "tr": "\"nafs-e lavvame\": martabe-i az nafs ke pas az gonah ensan ra sarzanesh mikonad va be jobran va tobe mikeshanad."
+   },
+   "contrast": {
+    "fa": "امّاره به بدی فرمان می‌دهد؛ مطمئنه به آرامش رسیده.",
+    "en": "Ammara urges evil; motma'enna has reached peace.",
+    "tr": "Ammare be badi farman midahad; motma'enne be aramesh reside."
+   },
+   "unit": "rel-11-self-and-family"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-efaf",
+   "term": {
+    "fa": "عفاف",
+    "en": "chastity (efaf)",
+    "tr": "efaf"
+   },
+   "explain": {
+    "fa": "«عفاف»: فضیلتی که سپر روح در برابر طغیان شهوت‌ها و نگهبان کرامت انسان است.",
+    "en": "\"chastity (efaf)\": the virtue that shields the soul against runaway desire and guards human dignity.",
+    "tr": "\"efaf\": fazilati ke separ-e rooh dar barabar-e toghyan-e shahvat-ha va negahban-e keramat-e ensan ast."
+   },
+   "unit": "rel-11-self-and-family"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-ezzat-e-nafs",
+   "term": {
+    "fa": "عزت نفس",
+    "en": "self-respect (ezzat-e nafs)",
+    "tr": "ezzat-e nafs"
+   },
+   "explain": {
+    "fa": "«عزت نفس»: نفوذناپذیری روح در برابر وسوسه‌ها و تسلیم نشدن در برابر دنیا.",
+    "en": "\"self-respect (ezzat-e nafs)\": the soul's being unbreachable by temptation and not giving in to the world.",
+    "tr": "\"ezzat-e nafs\": nofooznapaziri-ye rooh dar barabar-e vasvase-ha va taslim nashodan dar barabar-e donya."
+   },
+   "contrast": {
+    "fa": "با غرور و تکبر فرق دارد.",
+    "en": "Not pride or arrogance.",
+    "tr": "Ba ghoroor va takabbor fargh darad."
+   },
+   "unit": "rel-11-self-and-family"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-hadaf-e-ezdevaj",
+   "term": {
+    "fa": "هدف ازدواج",
+    "en": "aims of marriage",
+    "tr": "hadaf-e ezdevaj"
+   },
+   "explain": {
+    "fa": "«هدف ازدواج»: بنابر آیهٔ «لِتَسْکُنُوا إِلَیْهَا»، اصلی‌ترین هدف تشکیل خانواده آرامش و انس است.",
+    "en": "\"aims of marriage\": by the verse 'li-taskunu ilayha' ('that you may find rest in them'), the main aim of forming a family is peace and closeness.",
+    "tr": "\"hadaf-e ezdevaj\": bena bar aye-ye 'letaskonoo elayha', asli-tarin hadaf-e tashkil-e khanevade aramesh va ons ast."
+   },
+   "unit": "rel-11-self-and-family"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-daryaft-va-eblagh-e-vahy",
+   "term": {
+    "fa": "دریافت و ابلاغ وحی",
+    "en": "receiving and conveying revelation",
+    "tr": "daryaft va eblagh-e vahy"
+   },
+   "explain": {
+    "fa": "«دریافت و ابلاغ وحی»: نخستین و بنیادی‌ترین قلمرو رسالت پیامبر (ص)؛ ویژهٔ پیامبر و پایهٔ قلمروهای دیگر.",
+    "en": "\"receiving and conveying revelation\": the first and most basic sphere of the Prophet's mission; his alone, and the base of the other spheres.",
+    "tr": "\"daryaft va eblagh-e vahy\": nakhostin va bonyadi-tarin ghalamrow-e resalat-e payambar (s); vizhe-ye payambar va paye-ye ghalamrow-haye digar."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-hokoomat-e-eslami",
+   "term": {
+    "fa": "حکومت اسلامی",
+    "en": "Islamic government",
+    "tr": "hokoomat-e eslami"
+   },
+   "explain": {
+    "fa": "«حکومت اسلامی»: حکومتی که پیامبر (ص) در مدینه با هدف اجرای عدالت و قوانین الهی بنا نهاد.",
+    "en": "\"Islamic government\": the government the Prophet founded in Medina to carry out justice and the divine laws.",
+    "tr": "\"hokoomat-e eslami\": hokoomati ke payambar (s) dar Madine ba hadaf-e ejra-ye edalat va ghavanin-e elahi bana nahad."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-marjaiyat-e-dini",
+   "term": {
+    "fa": "مرجعیت دینی",
+    "en": "religious authority (marja'iyyat)",
+    "tr": "marjaiyat-e dini"
+   },
+   "explain": {
+    "fa": "«مرجعیت دینی»: تبیین معارف دین؛ بنابر باور شیعه، پس از پیامبر (ص) بر عهدهٔ امامان معصوم (ع).",
+    "en": "\"religious authority (marja'iyyat)\": explaining the teachings of the faith; in Shia belief, after the Prophet it rests with the infallible Imams.",
+    "tr": "\"marjaiyat-e dini\": tabyin-e ma'aref-e din; bena bar bavar-e shi'e, pas az payambar (s) bar ohde-ye emaman-e ma'soom (a)."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-velayat-e-zaheri",
+   "term": {
+    "fa": "ولایت ظاهری",
+    "en": "outward guardianship (government)",
+    "tr": "velayat-e zaheri"
+   },
+   "explain": {
+    "fa": "«ولایت ظاهری»: حق حکومت، ادارهٔ امور جامعه و اجرای قوانین الهی.",
+    "en": "\"outward guardianship (government)\": the right to govern, run society's affairs and carry out the divine laws.",
+    "tr": "\"velayat-e zaheri\": haghgh-e hokoomat, edare-ye omoor-e jame'e va ejra-ye ghavanin-e elahi."
+   },
+   "contrast": {
+    "fa": "ولایت معنوی هدایت باطنی است، نه حکومت.",
+    "en": "Spiritual guardianship is inward guidance, not government.",
+    "tr": "Velayat-e ma'navi hedayat-e batenie ast, na hokoomat."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-velayat-e-manavi",
+   "term": {
+    "fa": "ولایت معنوی",
+    "en": "spiritual guardianship",
+    "tr": "velayat-e manavi"
+   },
+   "explain": {
+    "fa": "«ولایت معنوی»: هدایت باطنی انسان‌ها به سوی کمال به دست امام معصوم (ع)، که واسطهٔ فیض الهی است.",
+    "en": "\"spiritual guardianship\": inward guidance of people toward perfection by the infallible Imam, as a channel of divine grace.",
+    "tr": "\"velayat-e manavi\": hedayat-e batenie ensan-ha be sooy-e kamal be dast-e emam-e ma'soom (a), ke vasete-ye feyz-e elahi ast."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  },
+  {
+   "subject": "Religion and Life",
+   "key": "rel-g-velayat-e-faghih",
+   "term": {
+    "fa": "ولایت فقیه",
+    "en": "guardianship of the jurist",
+    "tr": "velayat-e faghih"
+   },
+   "explain": {
+    "fa": "«ولایت فقیه»: در دوران غیبت، مرجعیت دینی و سرپرستی امور سیاسی جامعه بر عهدهٔ فقیه جامع‌الشرایط است.",
+    "en": "\"guardianship of the jurist\": during the occultation, religious authority and the leadership of society's political affairs rest with the fully qualified jurist.",
+    "tr": "\"velayat-e faghih\": dar dowran-e gheybat, marja'iyat-e dini va sarparasti-ye omoor-e siyasi-ye jame'e bar ohde-ye faghih-e jame'-osh-sharayet ast."
+   },
+   "unit": "rel-11-prophethood-imamate"
+  }
+ ]
+}
