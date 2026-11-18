@@ -1,0 +1,914 @@
+{
+ "version": 167,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 1,
+   "key": "hh-4-water",
+   "title": {
+    "fa": "آلودگی آب و تصفیهٔ آن",
+    "en": "Water pollution and treatment",
+    "tr": "Aloodegi-ye ab va tasfiye-ye an"
+   },
+   "summary": {
+    "fa": "هر آلودگی آب نشانه‌ای دارد؛ تصفیه گام‌به‌گام از درشت به ریز پیش می‌رود.",
+    "en": "Each kind of water pollution has its tell; treatment goes step by step from coarse to fine.",
+    "tr": "Har aloodegi-ye ab neshane-i darad; tasfiye gam-be-gam az dorosht be riz pish miravad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: منبع و اثر",
+      "en": "Understand first: source and effect",
+      "tr": "Avval befahm: manba' va asar"
+     },
+     "body": {
+      "fa": "آلودگی‌های آب را با «منبع» و «اثر»شان بشناس. فاضلاب انسانی و فضولات دامی: «آلودگی میکروبی (زیستی)». پساب گرم نیروگاه که دمای آب را بالا می‌برد و اکسیژن محلول را کم می‌کند: «آلودگی حرارتی». شوینده‌های فسفات‌دار که جلبک‌ها را بی‌رویه رشد می‌دهند و اکسیژن آب را می‌گیرند: «پرغذایی (اوتریفیکاسیون)» و خفگی آبزیان. نیترات‌های کودهای نیتروژنه در آب آشامیدنی که در بدن نوزاد به نیتریت تبدیل می‌شوند و «نشانگان کودک کبود» پدید می‌آورند.",
+      "en": "Know water pollution by its 'source' and 'effect'. Human sewage and animal waste: 'microbial (biological) pollution'. Warm power-station outflow that heats the water and lowers dissolved oxygen: 'thermal pollution'. Phosphate detergents that make algae grow wildly and steal the water's oxygen: 'eutrophication' and suffocated aquatic life. Nitrates from nitrogen fertilisers in drinking water, turned into nitrite in a baby's body, causing 'blue baby syndrome'.",
+      "tr": "Aloodegi-haye ab ra ba 'manba'' va 'asar'-eshan beshenas. Fazelab-e ensani va fozoolat-e dami: 'aloodegi-ye mikrobi (zisti)'. Pasab-e garm-e niroogah ke dama-ye ab ra bala mibarad va oksizhen-e mahlool ra kam mikonad: 'aloodegi-ye harareti'. Shooyande-haye fosfat-dar ke jolbak-ha ra bi-raviye roshd midahand va oksizhen-e ab ra migirand: 'porghazayi (otrifikasiyon)' va khafegi-ye abziyan. Nitrat-haye kood-haye nitrozhene dar ab-e ashamidani ke dar badan-e nozad be nitrit tabdil mishavand va 'neshanegan-e koodak-e kaboud' padid miavarand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " TREATMENT, coarse to fine\n 1 screening   big debris\n 2 grit removal  sand, stones\n 3 coagulation alum glues\n                fine particles\n 4 sedimentation  heavy bits\n                settle (sludge)\n 5 aeration    air feeds\n                bacteria\n 6 activated carbon\n                smell, taste",
+     "caption": {
+      "fa": "گام‌های تصفیه از درشت به ریز.",
+      "en": "The treatment steps from coarse to fine.",
+      "tr": "Gam-haye tasfiye az dorosht be riz."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "تصفیه مثل الک کردن",
+      "en": "Treatment like sifting",
+      "tr": "Tasfiye mesl-e alak kardan"
+     },
+     "body": {
+      "fa": "تصفیهٔ آب و فاضلاب مثل الک کردن آرد است: اول درشت‌ها، بعد ریزها. «آشغال‌گیری» با عبور از توری ذرات درشت، شاخ و برگ و زباله را جدا می‌کند. «دانه‌گیری (شن‌گیری)» شن و ماسه را ته‌نشین می‌کند تا پمپ‌ها آسیب نبینند. «انعقاد و لخته‌سازی» با افزودن موادی مانند زاج، ذرات ریز معلق را به هم می‌چسباند. «ته‌نشینی» ذرات سنگین را در حوضچهٔ آرام به ته می‌فرستد و لجن می‌سازد. در تصفیهٔ زیستی فاضلاب، «هوادهی» به حوضچه‌های لجن فعال هوا می‌دمد تا باکتری‌های هوازی مواد آلی را تجزیه کنند. و «جذب سطحی با کربن فعال» بو، مزهٔ نامطبوع و ترکیب‌های آلی محلول را می‌گیرد.",
+      "en": "Treating water and sewage is like sifting flour: the coarse bits first, then the fine. 'Screening' through a mesh removes large debris, leaves and rubbish. 'Grit removal' settles sand and gravel to protect the pumps. 'Coagulation and flocculation' adds substances like alum so fine suspended particles stick together. 'Sedimentation' lets heavy particles sink in a calm tank, forming sludge. In biological sewage treatment, 'aeration' blows air into activated-sludge tanks so aerobic bacteria break down organic matter. And 'adsorption on activated carbon' removes smells, bad tastes and dissolved organic compounds.",
+      "tr": "Tasfiye-ye ab va fazelab mesl-e alak kardan-e ard ast: avval dorosht-ha, ba'd riz-ha. 'Ashghal-giri' ba obour az toori zarrat-e dorosht, shakh-o-barg va zobale ra joda mikonad. 'Dane-giri (shen-giri)' shen va mase ra tah-neshin mikonad ta pomp-ha asib nabinand. 'En'eghad va lakhte-sazi' ba afzoodan-e mavadi manand-e zaj, zarrat-e riz-e mo'allagh ra be ham michasbanad. 'Tah-neshini' zarrat-e sangin ra dar howzche-ye aram be tah miferestad va lajan misazad. Dar tasfiye-ye zisti-ye fazelab, 'havadehi' be howzche-haye lajan-e fa'al hava midamad ta bakteri-haye havazi mavad-e ali ra tajziye konand. Va 'jazb-e sathi ba karbon-e fa'al' boo, maze-ye namatboo' va tarkib-haye ali-ye mahlool ra migirad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "screen -> grit -> coagulate -> settle -> aerate -> carbon",
+     "caption": {
+      "fa": "ترتیب تصفیه",
+      "en": "The order of treatment",
+      "tr": "Tartib-e tasfiye"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: ورود فاضلاب انسانی و فضولات دامی به منابع آب آشامیدنی، بیش از همه کدام نوع آلودگی را پدید می‌آورد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: sewage and animal waste entering drinking water mostly cause which kind of pollution? (Dey 1400 paper)",
+      "tr": "Garm kardan: vorood-e fazelab-e ensani va fozoolat-e dami be manabe'-e ab-e ashamidani, bish az hame kodam no' aloodegi ra padid miavarad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "فاضلاب و فضولات پر از میکروب‌اند؛ پس آلودگی زیستی، نه گرما یا فلز.",
+        "en": "Sewage and droppings are full of germs; so biological pollution, not heat or metal.",
+        "tr": "Fazelab va fozoolat por az mikrob-and; pas aloodegi-ye zisti, na garma ya felez."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آلودگی میکروبی (زیستی)",
+      "en": "Microbial (biological) pollution",
+      "tr": "Aloodegi-ye mikrobi (zisti)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در تصفیهٔ آب و فاضلاب، افزودن موادی مانند زاج تا ذرات بسیار ریز معلق به هم بچسبند و ته‌نشین شوند، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: in water and sewage treatment, adding substances like alum so very fine suspended particles stick together and settle is called what? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar tasfiye-ye ab va fazelab, afzoodan-e mavadi manand-e zaj ta zarrat-e besyar riz-e mo'allagh be ham bechasband va tah-neshin shavand, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«افزودن ماده» و «به هم چسبیدن» یعنی لخته‌سازی؛ ته‌نشینی فقط نشستن ذرات سنگین است، بی افزودنی.",
+        "en": "'Adding a substance' and 'sticking together' mean flocculation; sedimentation is only heavy particles sinking, with nothing added.",
+        "tr": "'Afzoodan-e made' va 'be ham chasbidan' ya'ni lakhte-sazi; tah-neshini faghat neshastan-e zarrat-e sangin ast, bi afzoodani."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "انعقاد و لخته‌سازی",
+      "en": "Coagulation and flocculation",
+      "tr": "En'eghad va lakhte-sazi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در آغاز تصفیهٔ فاضلاب، ته‌نشین کردن شن، ماسه و ذرات سنگین معدنی در کانال‌های ویژه برای محافظت از پمپ‌ها چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: at the start of sewage treatment, settling sand, gravel and heavy mineral particles in special channels to protect the pumps is called what? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: dar aghaz-e tasfiye-ye fazelab, tah-neshin kardan-e shen, mase va zarrat-e sangin-e ma'dani dar kanal-haye vizhe baraye mohafezat az pomp-ha che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «ته‌نشین کردن» ذهن را به «ته‌نشینی» می‌برد؛ ولی آن مرحلهٔ بعدی و برای لجن است.",
+        "en": "The twist: 'settling' pulls you toward 'sedimentation'; but that is a later stage, for sludge.",
+        "tr": "Pich-e emtehan: 'tah-neshin kardan' zehn ra be 'tah-neshini' mibarad; vali an marhale-ye ba'di va baraye lajan ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "«در آغاز» و «شن و ماسه» و «محافظت از پمپ» یعنی دانه‌گیری.",
+        "en": "'At the start', 'sand and gravel' and 'protecting the pumps' mean grit removal.",
+        "tr": "'Dar aghaz' va 'shen va mase' va 'mohafezat az pomp' ya'ni dane-giri."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دانه‌گیری (شن‌گیری)",
+      "en": "Grit removal",
+      "tr": "Dane-giri (shen-giri)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آلودگی حرارتی از گرما است و اکسیژن آب را کم می‌کند؛ آن را با آلودگی میکروبی اشتباه نکن.",
+      "en": "Thermal pollution comes from heat and lowers the water's oxygen; do not confuse it with microbial pollution.",
+      "tr": "Aloodegi-ye harareti az garma ast va oksizhen-e ab ra kam mikonad; an ra ba aloodegi-ye mikrobi eshtebah nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کربن فعال بو و مزه را می‌گیرد؛ کلرزنی میکروب‌ها را می‌کشد.",
+      "en": "Activated carbon removes smell and taste; chlorination kills germs.",
+      "tr": "Karbon-e fa'al boo va maze ra migirad; kolorzani mikrob-ha ra mikoshad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 970
+    },
+    {
+     "session": "1401-Dey",
+     "number": 989
+    },
+    {
+     "session": "1401-Dey",
+     "number": 990
+    },
+    {
+     "session": "1400-Dey",
+     "number": 969
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 987
+    },
+    {
+     "session": "1400-Dey",
+     "number": 972
+    },
+    {
+     "session": "1401-Dey",
+     "number": 983
+    },
+    {
+     "session": "1401-Dey",
+     "number": 977
+    },
+    {
+     "session": "1401-Dey",
+     "number": 975
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 2,
+   "key": "hh-4-heavy-metals",
+   "title": {
+    "fa": "فلزات سنگین و آلاینده‌های ماندگار",
+    "en": "Heavy metals and persistent pollutants",
+    "tr": "Felezat-e sangin va alayande-haye mandegar"
+   },
+   "summary": {
+    "fa": "هر فلز سنگین منبع و آسیب نشانه‌داری دارد؛ `PCB` و `DDT` سال‌ها در طبیعت و چربی بدن می‌مانند.",
+    "en": "Each heavy metal has a tell-tale source and harm; PCBs and DDT linger for years in nature and body fat.",
+    "tr": "Har felez-e sangin manba' va asib-e neshane-dari darad; PCB va DDT sal-ha dar tabi'at va charbi-ye badan mimanand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: مهمانی که نمی‌رود",
+      "en": "Understand first: a guest who never leaves",
+      "tr": "Avval befahm: mehmani ke nemiravad"
+     },
+     "body": {
+      "fa": "فلزات سنگین در بدن انباشته می‌شوند و بیرون نمی‌روند؛ مثل مهمانی که می‌آید و هرگز نمی‌رود. هر کدام را با «منبع + آسیب» بشناس. «سرب»: پساب صنعتی؛ در بافت عصبی انباشته می‌شود و در کودکان اختلال یادگیری می‌آورد. «جیوه»: فلز مایع و فرار دماسنج‌های قدیمی؛ آسیب شدید به دستگاه عصبی، به‌ویژه در جنین. «کادمیوم»: باتری‌ها و پساب آبکاری؛ آسیب به کلیه و استخوان. «کروم»: دباغی و چرم‌سازی؛ سرطان‌زا و آسیب ریه. «نیکل»: معدن‌کاری و ذوب؛ درماتیت و سرطان راه‌های تنفسی. «بریلیوم»: قطعات الکترونیکی؛ با تنفس گردش بیماری مزمن ریه. «آرسنیک»: حشره‌کش‌های قدیمی و برخی آب‌های زیرزمینی؛ تغییر رنگ پوست و سرطان.",
+      "en": "Heavy metals build up in the body and do not leave, like a guest who arrives and never goes. Know each by 'source + harm'. 'Lead': industrial waste water; builds up in nerve tissue and causes learning problems in children. 'Mercury': the liquid, volatile metal of old thermometers; severe nervous-system damage, especially in the foetus. 'Cadmium': batteries and plating waste; kidney and bone damage. 'Chromium': tanning and leatherwork; cancer-causing and harms the lungs. 'Nickel': mining and smelting; dermatitis and airway cancer. 'Beryllium': electronic parts; breathing its dust causes chronic lung disease. 'Arsenic': old insecticides and some groundwater; skin discolouration and cancer.",
+      "tr": "Felezat-e sangin dar badan anbashte mishavand va biroon nemiravand; mesl-e mehmani ke miayad va hargez nemiravad. Har kodam ra ba 'manba' + asib' beshenas. 'Sorb': pasab-e san'ati; dar baft-e asabi anbashte mishavad va dar koodakan ekhtelal-e yadgiri miavarad. 'Jive': felez-e maye' va farar-e damasanj-haye ghadimi; asib-e shadid be dastgah-e asabi, be-vizhe dar janin. 'Kadmiyom': batri-ha va pasab-e abkari; asib be kolie va ostekhan. 'Krom': dabbaghi va charm-sazi; saratan-za va asib-e rie. 'Nikel': ma'dan-kari va zowb; dermatit va saratan-e rah-haye tanaffosi. 'Beriliyom': ghate'at-e elektroniki; ba tanaffos-e gardash bimari-ye mozmen-e rie. 'Arsenik': hashare-kosh-haye ghadimi va barkhi ab-haye zirzamini; taghyir-e rang-e poost va saratan."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " METAL      SOURCE      HARM\n lead       industry    nerves,\n                        learning\n mercury    thermometer foetus\n cadmium    batteries   kidney,\n                        bone\n chromium   tanning     lungs,\n                        cancer\n nickel     mining      skin\n beryllium  electronics lungs\n arsenic    pesticides  skin,\n                        cancer",
+     "caption": {
+      "fa": "جدول منبع و آسیب هر فلز.",
+      "en": "The table of each metal's source and harm.",
+      "tr": "Jadval-e manba' va asib-e har felez."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آلاینده‌های آلی ماندگار",
+      "en": "Persistent organic pollutants",
+      "tr": "Alayande-haye ali-ye mandegar"
+     },
+     "body": {
+      "fa": "«آلاینده‌های آلی ماندگار» هم دهه‌ها در طبیعت می‌مانند و در بافت چربی جانداران انباشته می‌شوند. «بی‌فنیل‌های پلی‌کلره (`PCB`)» در خازن‌ها و ترانسفورماتورهای قدیمی به کار می‌رفتند و سرطان‌زایند. «دی‌دی‌تی (`DDT`)» حشره‌کشی قدیمی است که در چربی بدن انباشته می‌شود.",
+      "en": "'Persistent organic pollutants' also stay in nature for decades and build up in creatures' fat. 'Polychlorinated biphenyls (PCBs)' were used in old capacitors and transformers and cause cancer. 'DDT' is an old insecticide that builds up in body fat.",
+      "tr": "'Alayande-haye ali-ye mandegar' ham dahe-ha dar tabi'at mimanand va dar baft-e charbi-ye jandaran anbashte mishavand. 'Bi-fenil-haye poli-kolore (PCB)' dar khazen-ha va transformator-haye ghadimi be kar miraftand va saratan-za-and. 'Di-di-ti (DDT)' hashare-koshi ghadimi ast ke dar charbi-ye badan anbashte mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "metal = source + harm (lead: children's learning ; mercury: foetus ; cadmium: kidney, bone)",
+     "caption": {
+      "fa": "کلید فلزات سنگین",
+      "en": "The key to heavy metals",
+      "tr": "Kelid-e felezat-e sangin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام فلز سنگین در پساب‌های صنعتی، با انباشته شدن در بافت عصبی، مسمومیت مزمن و اختلال یادگیری در کودکان پدید می‌آورد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: which heavy metal in industrial waste water builds up in nerve tissue, causing chronic poisoning and learning problems in children? (Khordad 1402 paper)",
+      "tr": "Garm kardan: kodam felez-e sangin dar pasab-haye san'ati, ba anbashte shodan dar baft-e asabi, masmoomiyat-e mozmen va ekhtelal-e yadgiri dar koodakan padid miavarad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«اختلال یادگیری در کودکان» امضای سرب است.",
+        "en": "'Learning problems in children' is lead's signature.",
+        "tr": "'Ekhtelal-e yadgiri dar koodakan' emza-ye sorb ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سرب",
+      "en": "Lead",
+      "tr": "Sorb"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام فلز سنگین سمی در باتری‌ها و پساب آبکاری، در بدن انباشته می‌شود و به کلیه‌ها و استخوان‌ها آسیب جدی می‌زند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: which toxic heavy metal in batteries and plating waste builds up in the body and seriously damages kidneys and bones? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam felez-e sangin-e sammi dar batri-ha va pasab-e abkari, dar badan anbashte mishavad va be kolie-ha va ostekhan-ha asib-e jeddi mizanad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«باتری» و «کلیه و استخوان» با هم یعنی کادمیوم.",
+        "en": "'Batteries' and 'kidney and bone' together mean cadmium.",
+        "tr": "'Batri' va 'kolie va ostekhan' ba ham ya'ni kadmiyom."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کادمیوم",
+      "en": "Cadmium",
+      "tr": "Kadmiyom"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام فلز سنگین مایع و فرار، که در دماسنج‌های قدیمی هست، به دستگاه عصبی، به‌ویژه در جنین، آسیب شدید می‌زند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: which liquid, volatile heavy metal found in old thermometers severely damages the nervous system, especially in the foetus? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: kodam felez-e sangin-e maye' va farar, ke dar damasanj-haye ghadimi hast, be dastgah-e asabi, be-vizhe dar janin, asib-e shadid mizanad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: سرب هم به اعصاب آسیب می‌زند و در گزینه‌هاست؛ ولی سرب مایع نیست.",
+        "en": "The twist: lead also harms the nerves and is in the options; but lead is not liquid.",
+        "tr": "Pich-e emtehan: sorb ham be a'sab asib mizanad va dar gozine-hast; vali sorb maye' nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "«مایع» و «دماسنج» فقط با جیوه جور درمی‌آیند.",
+        "en": "'Liquid' and 'thermometer' fit only mercury.",
+        "tr": "'Maye'' va 'damasanj' faghat ba jive jur dar-miayand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جیوه",
+      "en": "Mercury",
+      "tr": "Jive"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "`PCB` و `DDT` فلز نیستند؛ ترکیب‌های آلی ماندگارند.",
+      "en": "PCBs and DDT are not metals; they are persistent organic compounds.",
+      "tr": "PCB va DDT felez nistand; tarkib-haye ali-ye mandegar-and."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کروم را با نیکل اشتباه نکن: کروم از دباغی و چرم‌سازی، نیکل از معدن‌کاری و ذوب.",
+      "en": "Do not confuse chromium with nickel: chromium from tanning and leatherwork, nickel from mining and smelting.",
+      "tr": "Krom ra ba nikel eshtebah nakon: krom az dabbaghi va charm-sazi, nikel az ma'dan-kari va zowb."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1400-Dey",
+     "number": 979
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 989
+    },
+    {
+     "session": "1400-Dey",
+     "number": 991
+    },
+    {
+     "session": "1400-Dey",
+     "number": 986
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 990
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 982
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 983
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 3,
+   "key": "hh-4-air-radiation",
+   "title": {
+    "fa": "هوا، اقلیم و پرتوها",
+    "en": "Air, climate and radiation",
+    "tr": "Hava, eghlim va parto-ha"
+   },
+   "summary": {
+    "fa": "گوگرد دی‌اکسید باران اسیدی می‌آورد و کربن دی‌اکسید اثر گلخانه‌ای؛ رادون گاز پرتوزای زیرزمین است.",
+    "en": "Sulphur dioxide brings acid rain and carbon dioxide the greenhouse effect; radon is the radioactive gas of basements.",
+    "tr": "Gogerd di-oksid baran-e asidi miavarad va karbon di-oksid asar-e golkhane-i; radon gaz-e partoza-ye zirzamin ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: دو گاز، دو پیامد",
+      "en": "Understand first: two gases, two results",
+      "tr": "Avval befahm: do gaz, do payamad"
+     },
+     "body": {
+      "fa": "دو گاز سوخت‌های فسیلی را با «پیامد»شان جدا کن. «گوگرد دی‌اکسید» از سوختن سوخت‌های گوگرددار در نیروگاه‌ها و خودروها آزاد می‌شود و از علت‌های اصلی «باران اسیدی» است. «کربن دی‌اکسید» از سوختن سوخت‌های فسیلی و فعالیت صنعتی آزاد می‌شود و عامل اصلی «اثر گلخانه‌ای» و گرم شدن زمین است؛ مثل پتویی که زمین را بیش از اندازه گرم نگه می‌دارد.",
+      "en": "Tell apart two fossil-fuel gases by their 'result'. 'Sulphur dioxide' is released by burning sulphur-bearing fuels in power stations and cars and is a main cause of 'acid rain'. 'Carbon dioxide' is released by burning fossil fuels and industry and is the main cause of the 'greenhouse effect' and global warming, like a blanket keeping the earth too warm.",
+      "tr": "Do gaz-e sookht-haye fosili ra ba 'payamad'-eshan joda kon. 'Gogerd di-oksid' az sookhtan-e sookht-haye gogerd-dar dar niroogah-ha va khodro-ha azad mishavad va az ellat-haye asli-ye 'baran-e asidi' ast. 'Karbon di-oksid' az sookhtan-e sookht-haye fosili va fa'aliyat-e san'ati azad mishavad va amel-e asli-ye 'asar-e golkhane-i' va garm shodan-e zamin ast; mesl-e patoo-i ke zamin ra bish az andaze garm negah midarad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " FOSSIL FUEL GASES\n   SO2  -> acid rain\n   CO2  -> greenhouse effect\n RADON  radioactive gas from\n        soil under buildings\n        -> lung cancer\n        stop it: ventilate,\n        seal the floor\n RADIATION\n   ionising: nuclear waste,\n     buried deep in concrete\n   non-ionising: radio, Wi-Fi\n   UV index: daily sun risk",
+     "caption": {
+      "fa": "گازهای سوخت، رادون و گونه‌های پرتو.",
+      "en": "Fuel gases, radon and kinds of radiation.",
+      "tr": "Gaz-haye sookht, radon va goone-haye parto."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "رادون و پرتوها",
+      "en": "Radon and radiation",
+      "tr": "Radon va parto-ha"
+     },
+     "body": {
+      "fa": "«گاز رادون» گازی پرتوزا و بی‌رنگ است که از خاک و سنگ زیر ساختمان‌ها بیرون می‌آید، در فضاهای بی‌تهویه انباشته می‌شود و از علت‌های مهم سرطان ریه است؛ مؤثرترین پیشگیری «تهویهٔ مناسب و درزگیری کف ساختمان» است. پرتوها دو گونه‌اند. «پسماند پرتوزا (هسته‌ای)» پرتوهای یونیزان کشنده دارد و باید در پوشش‌های ضخیم بتنی در ژرفای زمین دفن شود. امواج دکل‌های مخابراتی و وای‌فای، «امواج رادیویی و ریزموج»، جزو پرتوهای «غیریونیزان» پایش می‌شوند. و «شاخص پرتو فرابنفش (`UV` `Index`)» شدت روزانهٔ پرتو فرابنفش خورشید را برای محافظت از پوست اعلام می‌کند.",
+      "en": "'Radon gas' is a colourless radioactive gas that rises from the soil and rock under buildings, builds up in unventilated spaces and is a major cause of lung cancer; the most effective prevention is 'good ventilation and sealing the floor'. Radiation comes in two kinds. 'Radioactive (nuclear) waste' gives off deadly ionising radiation and must be buried deep underground in thick concrete. The waves from telecom masts and Wi-Fi, 'radio waves and microwaves', are monitored as 'non-ionising' radiation. And the 'UV Index' announces the daily strength of the sun's ultraviolet rays to protect the skin.",
+      "tr": "'Gaz-e radon' gazi partoza va bi-rang ast ke az khak va sang-e zir-e sakhteman-ha biroon miayad, dar faza-haye bi-tahviye anbashte mishavad va az ellat-haye mohem-e saratan-e rie ast; mo'asser-tarin pishgiri 'tahviye-ye monaseb va darzgiri-ye kaf-e sakhteman' ast. Parto-ha do goone-and. 'Pasmand-e partoza (haste-i)' parto-haye yoonizan-e koshande darad va bayad dar poshesh-haye zakhim-e botoni dar zharfa-ye zamin dafn shavad. Amvaj-e dakal-haye mokhabarati va vay-fay, 'amvaj-e radiyoyi va riz-moj', joz'-e parto-haye 'gheyr-e yoonizan' payesh mishavand. Va 'shakhes-e parto-ye faraban-afsh (UV Index)' sheddat-e roozane-ye parto-ye faraban-afsh-e khorshid ra baraye mohafezat az poost e'lam mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "SO2 -> acid rain ;  CO2 -> greenhouse ;  radon -> ventilate + seal",
+     "caption": {
+      "fa": "کلید هوا و پرتو",
+      "en": "The key to air and radiation",
+      "tr": "Kelid-e hava va parto"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام گاز، که از سوختن سوخت‌های فسیلی و فعالیت صنعتی آزاد می‌شود، عامل اصلی اثر گلخانه‌ای و گرم شدن زمین است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: which gas, released by burning fossil fuels and industry, is the main cause of the greenhouse effect and global warming? (Dey 1400 paper)",
+      "tr": "Garm kardan: kodam gaz, ke az sookhtan-e sookht-haye fosili va fa'aliyat-e san'ati azad mishavad, amel-e asli-ye asar-e golkhane-i va garm shodan-e zamin ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«گلخانه‌ای» امضای `CO2` است؛ `SO2` باران اسیدی می‌آورد.",
+        "en": "'Greenhouse' is CO2's signature; SO2 brings acid rain.",
+        "tr": "'Golkhane-i' emza-ye CO2 ast; SO2 baran-e asidi miavarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "کربن دی‌اکسید",
+      "en": "Carbon dioxide (CO2)",
+      "tr": "Karbon di-oksid"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: برای جلوگیری از انباشت گاز رادون در زیرزمین خانه‌ها، مؤثرترین کار چیست؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: what is the most effective way to stop radon building up in house basements? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: baraye jelogiri az anbasht-e gaz-e radon dar zirzamin-e khane-ha, mo'asser-tarin kar chist? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "رادون از کف می‌آید و در هوای راکد جمع می‌شود؛ پس راهش را ببند و هوا را جابه‌جا کن.",
+        "en": "Radon comes up through the floor and gathers in still air; so block its way in and move the air.",
+        "tr": "Radon az kaf miayad va dar hava-ye raked jam' mishavad; pas rahash ra beband va hava ra jabeja kon."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تهویهٔ مناسب و درزگیری کف ساختمان",
+      "en": "Good ventilation and sealing the floor",
+      "tr": "Tahviye-ye monaseb va darzgiri-ye kaf-e sakhteman"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: امواجی که از دکل‌های مخابراتی و شبکه‌های وای‌فای پخش می‌شوند و جزو پرتوهای غیریونیزان پایش می‌شوند، کدام‌اند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: which waves, sent out by telecom masts and Wi-Fi networks, are monitored as non-ionising radiation? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: amvaji ke az dakal-haye mokhabarati va shabake-haye vay-fay pakhsh mishavand va joz'-e parto-haye gheyr-e yoonizan payesh mishavand, kodam-and? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: پرتو آلفا و پرتو ایکس آشنا‌اند ولی «یونیزان»‌اند؛ پرسش «غیریونیزان» را می‌خواهد.",
+        "en": "The twist: alpha and X-rays are familiar but 'ionising'; the question wants 'non-ionising'.",
+        "tr": "Pich-e emtehan: parto-ye alfa va parto-ye eeks ashena-and vali 'yoonizan'-and; porsesh 'gheyr-e yoonizan' ra mikhahad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "امواج رادیویی و ریزموج (مایکروویو)",
+      "en": "Radio waves and microwaves",
+      "tr": "Amvaj-e radiyoyi va riz-moj (maykrovey)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "باران اسیدی را به `CO2` نسبت نده؛ علت اصلی آن گوگرد دی‌اکسید است.",
+      "en": "Do not blame acid rain on CO2; its main cause is sulphur dioxide.",
+      "tr": "Baran-e asidi ra be CO2 nesbat nade; ellat-e asli-ye an gogerd di-oksid ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رادون پرتوزاست و از زمین می‌آید؛ آن را با کربن مونوکسید (گاز سوختن ناقص) اشتباه نکن.",
+      "en": "Radon is radioactive and comes from the ground; do not confuse it with carbon monoxide (the gas of incomplete burning).",
+      "tr": "Radon partozast va az zamin miayad; an ra ba karbon monoksid (gaz-e sookhtan-e naghes) eshtebah nakon."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 983
+    },
+    {
+     "session": "1402-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 985
+    },
+    {
+     "session": "1400-Dey",
+     "number": 968
+    },
+    {
+     "session": "1402-Dey",
+     "number": 980
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 984
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 991
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 4,
+   "key": "hh-4-soil-waste",
+   "title": {
+    "fa": "خاک و پسماند",
+    "en": "Soil and waste",
+    "tr": "Khak va pasmand"
+   },
+   "summary": {
+    "fa": "کود و سم زیاد خاک را شور و آب زیرزمینی را آلوده می‌کند؛ مدیریت پسماند با تفکیک از مبدأ آغاز می‌شود.",
+    "en": "Too much fertiliser and pesticide salts the soil and pollutes groundwater; waste management starts with sorting at source.",
+    "tr": "Kood va samm-e ziyad khak ra shoor va ab-e zirzamini ra aloode mikonad; modiriyat-e pasmand ba tafkik az mabda' aghaz mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: خاک آسیب‌پذیر",
+      "en": "Understand first: vulnerable soil",
+      "tr": "Avval befahm: khak-e asib-pazir"
+     },
+     "body": {
+      "fa": "خاک هم آسیب‌پذیر است. مصرف زیاد و پیوستهٔ «کودها و سموم شیمیایی» خاک را شور می‌کند، ریزجانداران سودمند را نابود می‌کند و آب‌های زیرزمینی را آلوده می‌کند. «فرسایش خاک» شسته شدن و جابه‌جا شدن خاک حاصل‌خیز سطحی به دست باد یا سیلاب است؛ و اگر نابودی پوشش گیاهی، فرسایش و بهره‌برداری بی‌رویه ادامه یابد، زمین حاصل‌خیز به بیابان بدل می‌شود: «بیابان‌زایی».",
+      "en": "Soil is vulnerable too. Heavy, continual use of 'chemical fertilisers and pesticides' salts the soil, kills useful microbes and pollutes groundwater. 'Soil erosion' is fertile topsoil being washed or blown away by wind or flood; and if loss of plant cover, erosion and overuse go on, fertile land turns to desert: 'desertification'.",
+      "tr": "Khak ham asib-pazir ast. Masraf-e ziyad va peyvaste-ye 'kood-ha va somoom-e shimiyayi' khak ra shoor mikonad, riz-jandaran-e soodmand ra naboud mikonad va ab-haye zirzamini ra aloode mikonad. 'Farsayesh-e khak' shoste shodan va jabeja shodan-e khak-e hasel-khiz-e sathi be dast-e bad ya seylab ast; va agar naboodi-ye poshesh-e giyahi, farsayesh va bahre-bardari-ye bi-raviye edame yabad, zamin-e hasel-khiz be biyaban badal mishavad: 'biyaban-zayi'."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " SOIL\n   fertilisers, pesticides\n     -> salty soil, dirty\n        groundwater\n   erosion -> desertification\n WASTE\n   1 sort at source (first)\n   landfill: leachate (liquid)\n             landfill gas\n             (methane, CO2)\n   burning plastic -> dioxins\n   burning PVC     -> HCl\n   plastics last centuries\n   -> biodegradable plastic",
+     "caption": {
+      "fa": "آسیب خاک و زنجیرهٔ مدیریت پسماند.",
+      "en": "Soil damage and the waste-management chain.",
+      "tr": "Asib-e khak va zanjire-ye modiriyat-e pasmand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "مدیریت پسماند",
+      "en": "Managing waste",
+      "tr": "Modiriyat-e pasmand"
+     },
+     "body": {
+      "fa": "نخستین و مهم‌ترین گام مدیریت پایدار زباله «تفکیک از مبدأ» است، که زبالهٔ دفنی را کم و بازیافت را رونق می‌دهد. در دفن بهداشتی، لایه‌بندی و لوله‌گذاری برای مهار «شیرابهٔ زباله» (مایع سمی تراوش‌کرده) است؛ و تجزیهٔ بی‌هوازی زباله در لایه‌های زیرین «گاز محل دفن» (متان و کربن دی‌اکسید) می‌سازد. پلاستیک‌ها صدها سال در خاک می‌مانند و ریزذراتشان به زنجیرهٔ غذایی می‌رسد؛ جایگزین آنها «پلاستیک زیست‌تخریب‌پذیر» (مثلاً از نشاستهٔ ذرت) است. سوزاندن غیراستاندارد پلاستیک «دی‌اکسین‌ها»ی سرطان‌زا پخش می‌کند و سوختن `PVC` گاز اسیدی «هیدروژن کلرید» آزاد می‌کند.",
+      "en": "The first and most important step in sustainable waste management is 'sorting at source', which cuts landfill and boosts recycling. In sanitary landfill, layering and piping are there to contain 'leachate' (the toxic liquid that seeps out); and anaerobic breakdown in the lower layers makes 'landfill gas' (methane and carbon dioxide). Plastics stay in soil for centuries and their microparticles enter the food chain; the alternative is 'biodegradable plastic' (for example from corn starch). Burning plastic badly spreads cancer-causing 'dioxins', and burning PVC releases the acid gas 'hydrogen chloride'.",
+      "tr": "Nakhostin va mohem-tarin gam-e modiriyat-e paydar-e zobale 'tafkik az mabda'' ast, ke zobale-ye dafni ra kam va bazyaft ra rownagh midahad. Dar dafn-e behdashti, laye-bandi va loole-gozari baraye mahar-e 'shirabe-ye zobale' (maye'-e sammi-ye taravosh-karde) ast; va tajziye-ye bi-havazi-ye zobale dar laye-haye zirin 'gaz-e mahall-e dafn' (metan va karbon di-oksid) misazad. Pelastik-ha sad-ha sal dar khak mimanand va riz-zarrateshan be zanjire-ye ghaza'i miresad; jaygozin-e anha 'pelastik-e zist-takhrib-pazir' (masalan az nashaste-ye zorrat) ast. Soozandan-e gheyr-e estandard-e pelastik 'di-oksin-ha'-ye saratan-za pakhsh mikonad va sookhtan-e PVC gaz-e asidi-ye 'hidrozhen kolorid' azad mikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "sort at source (first) ;  leachate = liquid ;  landfill gas = methane + CO2",
+     "caption": {
+      "fa": "کلید پسماند",
+      "en": "The key to waste",
+      "tr": "Kelid-e pasmand"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: نخستین و مهم‌ترین گام در مدیریت پایدار زبالهٔ شهری، برای کم کردن زبالهٔ دفنی و رونق بازیافت، چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: what is the first and most important step in sustainable city waste management, to cut landfill and boost recycling? (Dey 1401 paper)",
+      "tr": "Garm kardan: nakhostin va mohem-tarin gam dar modiriyat-e paydar-e zobale-ye shahri, baraye kam kardan-e zobale-ye dafni va rownagh-e bazyaft, chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "بازیافت از جایی آغاز می‌شود که زباله تولید می‌شود: خانه. سوزاندن و تصفیهٔ شیرابه گام‌های پایانی‌اند.",
+        "en": "Recycling starts where waste is made: at home. Burning and treating leachate are end steps.",
+        "tr": "Bazyaft az jayi aghaz mishavad ke zobale tolid mishavad: khane. Soozandan va tasfiye-ye shirabe gam-haye payani-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تفکیک زباله از مبدأ",
+      "en": "Sorting waste at source",
+      "tr": "Tafkik-e zobale az mabda'"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در دفن بهداشتی زباله، لایه‌بندی و لوله‌گذاری برای مهار کدام مایع سمی انجام می‌شود که از زباله‌ها تراوش می‌کند؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: in sanitary landfill, layering and piping are done to contain which toxic liquid seeping from the waste? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar dafn-e behdashti-ye zobale, laye-bandi va loole-gozari baraye mahar-e kodam maye'-e sammi anjam mishavad ke az zobale-ha taravosh mikonad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«مایع» و «تراوش از زباله» یعنی شیرابه؛ گاز محل دفن گاز است، نه مایع (همان آزمون آن را هم پرسیده).",
+        "en": "'Liquid' and 'seeping from waste' mean leachate; landfill gas is a gas, not a liquid (the same paper asked about it too).",
+        "tr": "'Maye'' va 'taravosh az zobale' ya'ni shirabe; gaz-e mahall-e dafn gaz ast, na maye' (haman azmoon an ra ham porside)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "شیرابهٔ زباله",
+      "en": "Leachate",
+      "tr": "Shirabe-ye zobale"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: سوختن پلاستیک `PVC` کدام گاز اسیدی و سمی را آزاد می‌کند که راه‌های تنفسی را به شدت می‌سوزاند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: burning PVC plastic releases which toxic acid gas that badly burns the airways? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: sookhtan-e pelastik-e PVC kodam gaz-e asidi va sammi ra azad mikonad ke rah-haye tanaffosi ra be shedat misoozanad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دی‌اکسین هم از سوختن پلاستیک می‌آید (آزمون دی ۱۴۰۰ آن را جداگانه پرسیده)؛ ولی پرسش «گاز اسیدی» می‌خواهد.",
+        "en": "The twist: dioxins also come from burning plastic (the Dey 1400 paper asked separately); but this question wants an 'acid gas'.",
+        "tr": "Pich-e emtehan: di-oksin ham az sookhtan-e pelastik miayad (azmoon-e Dey 1400 an ra jodagane porside); vali porsesh 'gaz-e asidi' mikhahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "«کلر» در `PVC` (پلی‌وینیل کلرید) با هیدروژن، هیدروژن کلرید می‌سازد که در رطوبت راه تنفس اسید است.",
+        "en": "The chlorine in PVC (polyvinyl chloride) forms hydrogen chloride, an acid in the airway's moisture.",
+        "tr": "'Kolor' dar PVC (poli-vinil kolorid) ba hidrozhen, hidrozhen kolorid misazad ke dar rotoobat-e rah-e tanaffos asid ast."
+       },
+       "math": "PVC: Cl  ->  HCl"
+      }
+     ],
+     "answer": {
+      "fa": "هیدروژن کلرید (`HCl`)",
+      "en": "Hydrogen chloride (HCl)",
+      "tr": "Hidrozhen kolorid (HCl)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فرسایش خاک جابه‌جایی خاک است؛ بیابان‌زایی پیامد درازمدت آن و دیگر عامل‌هاست.",
+      "en": "Soil erosion is soil being moved; desertification is the long-term result of it and other causes.",
+      "tr": "Farsayesh-e khak jabejayi-ye khak ast; biyaban-zayi payamad-e deraz-moddat-e an va digar amel-hast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "کود کمپوست طبیعی جزو آلاینده‌ها نیست؛ آسیب از کودها و سموم شیمیایی است.",
+      "en": "Natural compost is not a pollutant; the harm is from chemical fertilisers and pesticides.",
+      "tr": "Kood-e kompost-e tabi'i joz'-e alayande-ha nist; asib az kood-ha va somoom-e shimiyayi ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 988
+    },
+    {
+     "session": "1401-Dey",
+     "number": 982
+    },
+    {
+     "session": "1400-Dey",
+     "number": 990
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 971
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 992
+    },
+    {
+     "session": "1400-Dey",
+     "number": 992
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 981
+    },
+    {
+     "session": "1400-Dey",
+     "number": 993
+    },
+    {
+     "session": "1401-Dey",
+     "number": 986
+    },
+    {
+     "session": "1400-Dey",
+     "number": 989
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 5,
+   "key": "hh-4-noise",
+   "title": {
+    "fa": "آلودگی صوتی",
+    "en": "Noise pollution",
+    "tr": "Aloodegi-ye sooti"
+   },
+   "summary": {
+    "fa": "تراز شدت صوت را با دسی‌بل می‌سنجیم و بسامد را با هرتز؛ آلودگی صوتی خواب، فشار خون و تمرکز را به هم می‌زند.",
+    "en": "Sound level is measured in decibels and frequency in hertz; noise pollution disturbs sleep, blood pressure and concentration.",
+    "tr": "Taraz-e sheddat-e sowt ra ba desibel misanjim va basamad ra ba hertz; aloodegi-ye sooti khab, feshar-e khoon va tamarkoz ra be ham mizanad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: چقدر بلند، چه زیر و بمی",
+      "en": "Understand first: how loud, what pitch",
+      "tr": "Avval befahm: cheghadr boland, che zir-o-bami"
+     },
+     "body": {
+      "fa": "صدا دو ویژگی جدا دارد، مثل اتومبیلی که هم «چقدر بلند» بوق می‌زند و هم «چه صدایی» دارد. «تراز شدت صوت» (بلندی) با «دسی‌بل (`dB`)» سنجیده می‌شود و برای پایش سلامت شنوایی در محیط کار و زندگی به کار می‌رود. «بسامد» (شمار لرزش‌ها در ثانیه) زیر یا بم بودن صدا را نشان می‌دهد و یکایش «هرتز (`Hz`)» است.",
+      "en": "Sound has two separate features, like a car horn that is both 'how loud' and 'what pitch'. 'Sound intensity level' (loudness) is measured in 'decibels (dB)' and is used to monitor hearing health at work and at home. 'Frequency' (vibrations per second) shows whether a sound is high or low, and its unit is the 'hertz (Hz)'.",
+      "tr": "Seda do vizhegi-ye joda darad, mesl-e otomobili ke ham 'cheghadr boland' boogh mizanad va ham 'che sedayi' darad. 'Taraz-e sheddat-e sowt' (bolandi) ba 'desibel (dB)' sanjide mishavad va baraye payesh-e salamat-e shenavayi dar mohit-e kar va zendegi be kar miravad. 'Basamad' (shomar-e larzesh-ha dar saniye) zir ya bam boodan-e seda ra neshan midahad va yakayash 'hertz (Hz)' ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " SOUND has two measures\n   loudness   -> decibel (dB)\n   pitch      -> hertz (Hz)\n     (vibrations per second)\n NOISE POLLUTION in cities\n   poor sleep\n   higher blood pressure\n   less concentration",
+     "caption": {
+      "fa": "دو یکای صوت و آسیب‌های آلودگی صوتی.",
+      "en": "Two units of sound and the harms of noise pollution.",
+      "tr": "Do yeka-ye sowt va asib-haye aloodegi-ye sooti."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آسیب‌های آلودگی صوتی",
+      "en": "The harms of noise pollution",
+      "tr": "Asib-haye aloodegi-ye sooti"
+     },
+     "body": {
+      "fa": "«آلودگی صوتی» در محیط شهری علت اختلال خواب، بالا رفتن فشار خون و کاهش تمرکز در نوجوانان است. سر و صدای ترافیک، ساخت‌وساز و کارگاه‌ها نمونه‌های آشنای آن‌اند.",
+      "en": "'Noise pollution' in the city causes poor sleep, higher blood pressure and reduced concentration in teenagers. Traffic, construction and workshops are familiar sources.",
+      "tr": "'Aloodegi-ye sooti' dar mohit-e shahri ellat-e ekhtelal-e khab, bala raftan-e feshar-e khoon va kahesh-e tamarkoz dar nojavanan ast. Sar-o-sedaye terafik, sakht-o-saz va kargah-ha nemoone-haye ashena-ye an-and."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "loudness -> dB ;  pitch (frequency) -> Hz",
+     "caption": {
+      "fa": "دو یکای صوت",
+      "en": "The two units of sound",
+      "tr": "Do yeka-ye sowt"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام آلودگی محیط شهری، علت اختلال خواب، بالا رفتن فشار خون و کاهش تمرکز در نوجوانان است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: which urban pollution causes poor sleep, higher blood pressure and reduced concentration in teenagers? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kodam aloodegi-ye mohit-e shahri, ellat-e ekhtelal-e khab, bala raftan-e feshar-e khoon va kahesh-e tamarkoz dar nojavanan ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "خواب و تمرکز را صدا به هم می‌زند؛ گزینه‌های آب و خاک به این نشانه‌ها نمی‌خورند.",
+        "en": "Noise is what disturbs sleep and concentration; the water and soil options do not fit these signs.",
+        "tr": "Khab va tamarkoz ra seda be ham mizanad; gozine-haye ab va khak be in neshane-ha nemikhorand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آلودگی صوتی",
+      "en": "Noise pollution",
+      "tr": "Aloodegi-ye sooti"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: یکای اندازه‌گیری تراز شدت صوت برای پایش سلامت شنوایی در محیط کار و زندگی چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: what is the unit of sound intensity level used to monitor hearing health at work and at home? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: yeka-ye andaze-giri-ye taraz-e sheddat-e sowt baraye payesh-e salamat-e shenavayi dar mohit-e kar va zendegi chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«شدت» یعنی بلندی؛ یکای بلندی دسی‌بل است.",
+        "en": "'Intensity' means loudness; the unit of loudness is the decibel.",
+        "tr": "'Sheddat' ya'ni bolandi; yeka-ye bolandi desibel ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دسی‌بل (`dB`)",
+      "en": "Decibel (dB)",
+      "tr": "Desibel (dB)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: یکای اندازه‌گیری بسامد صوت (شمار لرزش‌ها در ثانیه)، که زیر یا بم بودن صدا را نشان می‌دهد، کدام است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: what is the unit of sound frequency (vibrations per second), which shows whether a sound is high or low? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: yeka-ye andaze-giri-ye basamad-e sowt (shomar-e larzesh-ha dar saniye), ke zir ya bam boodan-e seda ra neshan midahad, kodam ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: دسی‌بل هم یکای صوت است و در گزینه‌هاست؛ ولی دسی‌بل بلندی را می‌سنجد، نه زیر و بمی را.",
+        "en": "The twist: the decibel is a unit of sound too and is in the options; but it measures loudness, not pitch.",
+        "tr": "Pich-e emtehan: desibel ham yeka-ye sowt ast va dar gozine-hast; vali desibel bolandi ra misanjad, na zir-o-bami ra."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هرتز (`Hz`)",
+      "en": "Hertz (Hz)",
+      "tr": "Hertz (Hz)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "دسی‌بل و هرتز را جابه‌جا نکن: دسی‌بل بلندی، هرتز بسامد.",
+      "en": "Do not swap decibel and hertz: decibel is loudness, hertz is frequency.",
+      "tr": "Desibel va hertz ra jabeja nakon: desibel bolandi, hertz basamad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پاسکال یکای فشار است و نیوتن یکای نیرو؛ هیچ‌کدام یکای صوت در این پرسش‌ها نیستند.",
+      "en": "The pascal is a unit of pressure and the newton of force; neither is the sound unit in these questions.",
+      "tr": "Paskal yeka-ye feshar ast va niyoton yeka-ye niroo; hich-kodam yeka-ye sowt dar in porsesh-ha nistand."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 976
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 984
+    }
+   ]
+  }
+ ]
+}
