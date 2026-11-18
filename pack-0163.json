@@ -1,0 +1,855 @@
+{
+ "version": 163,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Social Identity",
+   "chapter": 6,
+   "unit": 1,
+   "key": "si-6-social-power",
+   "title": {
+    "fa": "قدرت اجتماعی: ابزار، تبعیت و مقاومت",
+    "en": "Social power: means, obedience and resistance",
+    "tr": "Ghodrat-e ejtema'i: abzar, tabe'iyat va moghavemat"
+   },
+   "summary": {
+    "fa": "قدرت یعنی اثر گذاشتن بر ارادهٔ دیگران؛ پایدارترین ابزارش اقناع است و ناپایدارترینش زور.",
+    "en": "Power is influencing others' will; its most lasting means is persuasion, its least lasting is force.",
+    "tr": "Ghodrat ya'ni asar gozashtan bar erade-ye digaran; paydar-tarin abzarash eghna' ast va napaydar-tarinash zoor."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: باد و خورشید",
+      "en": "Understand first: the wind and the sun",
+      "tr": "Avval befahm: bad va khorshid"
+     },
+     "body": {
+      "fa": "«قدرت اجتماعی» توانایی اثر گذاشتن بر ارادهٔ دیگران برای رسیدن به هدف‌هایی معین است. ابزارهای قدرت یکسان نیستند: زور و سلاح، ثروت و جریمه، یا ارزش‌ها و آگاهی. پایدارترین ابزار، «ارزش‌ها، آگاهی و اقناع فرهنگی» است، چون با اقناع ذهن و پذیرش قلبی اراده‌ها را همراه می‌کند؛ مثل باد و خورشید در افسانه که خورشید با گرمایش، نه باد با زورش، رهگذر را وادار به درآوردن کت کرد.",
+      "en": "'Social power' is the ability to influence others' will to reach certain goals. Its means are not equal: force and weapons, wealth and fines, or values and awareness. The most lasting means is 'values, awareness and cultural persuasion', because it wins wills over by convincing minds and hearts; like the sun and the wind in the fable, where the sun's warmth, not the wind's force, got the traveller to take off his coat.",
+      "tr": "'Ghodrat-e ejtema'i' tavanayi-ye asar gozashtan bar erade-ye digaran baraye residan be hadaf-hayi mo'ayyan ast. Abzar-haye ghodrat yeksan nistand: zoor va selah, servat va jarime, ya arzesh-ha va agahi. Paydar-tarin abzar, 'arzesh-ha, agahi va eghna'-e farhangi' ast, chon ba eghna'-e zehn va paziresh-e ghalbi erade-ha ra hamrah mikonad; mesl-e bad va khorshid dar afsane ke khorshid ba garmayash, na bad ba zoorash, rahgozar ra vadar be dar-avardan-e kot kard."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " MEANS OF POWER\n   force, weapons   short-lived\n   wealth, fines    middling\n   values, persuasion\n                    most lasting\n OBEDIENCE\n   willing    by consent\n   unwilling  from fear\n legitimate? accepted?\n   two separate questions",
+     "caption": {
+      "fa": "ابزارهای قدرت از ناپایدار تا پایدار؛ تبعیت با رضایت یا با کراهت.",
+      "en": "Means of power from fleeting to lasting; obedience by consent or by fear.",
+      "tr": "Abzar-haye ghodrat az napaydar ta paydar; tabe'iyat ba rezayat ya ba karahat."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "زور، تبعیت، مشروعیت و مقبولیت",
+      "en": "Force, obedience, legitimacy and acceptance",
+      "tr": "Zoor, tabe'iyat, mashroo'iyat va maghbooliyat"
+     },
+     "body": {
+      "fa": "قدرتی که بی‌پشتوانهٔ قانونی، عقلی یا شرعی و تنها با تنبیه جسمی تحمیل شود «زور عریان» است؛ و فرمان‌برداری از سر ترس مجازات «تبعیت با کراهت» (غیرارادی) نام دارد. دو پرسش جدا هم دربارهٔ هر قدرتی هست: «مشروع» است (معیارهای عقلانی یا شرعی حاکمیت را دارد)؟ و «مقبول» است (مردم داوطلبانه آن را می‌پذیرند)؟ قدرتی ممکن است مشروع باشد اما مقبول نباشد. در برابر قدرتی نامشروع، شهروندان ممکن است با «مقاومت منفی» یعنی خودداری داوطلبانه از همکاری، مقبولیت آن را به‌تدریج تضعیف کنند.",
+      "en": "Power imposed without legal, rational or religious backing, by physical punishment alone, is 'naked force'; and obeying out of fear of punishment is 'unwilling obedience'. There are also two separate questions about any power: is it 'legitimate' (does it meet the rational or religious standards of rule)? And is it 'accepted' (do people take it on willingly)? A power can be legitimate yet not accepted. Facing an illegitimate power, citizens may use 'passive resistance', a voluntary refusal to cooperate, slowly wearing down its acceptance.",
+      "tr": "Ghodrati ke bi-poshtvane-ye ghanooni, aghli ya shar'i va tanha ba tanbih-e jesmi tahmil shavad 'zoor-e oryan' ast; va farman-bari az sar-e tars-e mojazat 'tabe'iyat ba karahat' (gheyr-e eradi) nam darad. Do porsesh-e joda ham darbare-ye har ghodrati hast: 'mashroo'' ast (me'yar-haye aghlani ya shar'i-ye hakemiyat ra darad)? va 'maghbool' ast (mardom davtalabane an ra mipazirand)? Ghodrati momken ast mashroo' bashad amma maghbool nabashad. Dar barabar-e ghodrati namashroo', shahrvandan momken ast ba 'moghavemat-e manfi' ya'ni khoddari-ye davtalabane az hamkari, maghbooliyat-e an ra be-tadrij taz'if konand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "legitimate = meets the standards ;  accepted = people agree willingly",
+     "caption": {
+      "fa": "دو پرسش جدا دربارهٔ هر قدرت",
+      "en": "Two separate questions about any power",
+      "tr": "Do porsesh-e joda darbare-ye har ghodrat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: توانایی انسان برای اثر گذاشتن بر ارادهٔ دیگران به منظور رسیدن به هدف‌هایی معین، کدام مفهوم است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: a person's ability to influence others' will to reach certain goals is which concept? (Khordad 1401 paper)",
+      "tr": "Garm kardan: tavanayi-ye ensan baraye asar gozashtan bar erade-ye digaran be manzoor-e residan be hadaf-hayi mo'ayyan, kodam mafhoom ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«اثر گذاشتن بر ارادهٔ دیگران» تعریف قدرت است؛ ثروت یا استعداد ابزار یا ویژگی‌اند، نه خود قدرت.",
+        "en": "'Influencing others' will' defines power; wealth or talent are means or traits, not power itself.",
+        "tr": "'Asar gozashtan bar erade-ye digaran' ta'rif-e ghodrat ast; servat ya este'dad abzar ya vizhegi-and, na khod-e ghodrat."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "قدرت اجتماعی",
+      "en": "Social power",
+      "tr": "Ghodrat-e ejtema'i"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: پایدارترین ابزار اعمال قدرت اجتماعی، که با اقناع ذهن و پذیرش قلبی، اراده‌ها را همراه می‌کند، کدام است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: which is the most lasting means of exercising social power, winning wills over by convincing the mind and heart? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: paydar-tarin abzar-e e'mal-e ghodrat-e ejtema'i, ke ba eghna'-e zehn va paziresh-e ghalbi, erade-ha ra hamrah mikonad, kodam ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سلاح و جریمه فقط تا وقتی کار می‌کنند که حاضر باشند؛ اقناع درون ذهن می‌ماند.",
+        "en": "Weapons and fines only work while present; persuasion stays inside the mind.",
+        "tr": "Selah va jarime faghat ta vaghti kar mikonand ke hazer bashand; eghna' daroon-e zehn mimanad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ارزش‌ها، آگاهی و اقناع فرهنگی",
+      "en": "Values, awareness and cultural persuasion",
+      "tr": "Arzesh-ha, agahi va eghna'-e farhangi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر قدرتی معیارهای عقلانی یا شرعی حاکمیت را داشته باشد اما مردم آن را داوطلبانه نپذیرند، آن قدرت چه وضعی دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: if a power meets the rational or religious standards of rule but people do not accept it willingly, what is its state? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: agar ghodrati me'yar-haye aghlani ya shar'i-ye hakemiyat ra dashte bashad amma mardom an ra davtalabane napazirand, an ghodrat che vaz'i darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: چهار گزینه چهار ترکیب مشروع/مقبول‌اند و جابه‌جا کردنشان آسان است.",
+        "en": "The twist: the four options are the four legitimate/accepted combinations, and they are easy to swap.",
+        "tr": "Pich-e emtehan: chahar gozine chahar tarkib-e mashroo'/maghbool-and va jabeja kardaneshan asan ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "«معیارها را دارد» یعنی مشروع؛ «مردم نمی‌پذیرند» یعنی مقبول نیست.",
+        "en": "'Meets the standards' means legitimate; 'people do not accept it' means not accepted.",
+        "tr": "'Me'yar-ha ra darad' ya'ni mashroo'; 'mardom nemipazirand' ya'ni maghbool nist."
+       },
+       "math": "standards: yes -> legitimate ; consent: no -> not accepted"
+      }
+     ],
+     "answer": {
+      "fa": "مشروع است اما مقبولیت ندارد",
+      "en": "Legitimate but not accepted",
+      "tr": "Mashroo' ast amma maghbooliyat nadarad"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مقاومت منفی شورش مسلحانه نیست؛ خودداری از همکاری است.",
+      "en": "Passive resistance is not armed revolt; it is refusing to cooperate.",
+      "tr": "Moghavemat-e manfi shooresh-e mosallahane nist; khoddari az hamkari ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تبعیت از ترس، تبعیت با کراهت است، حتی اگر ظاهرش آرام باشد.",
+      "en": "Obedience out of fear is unwilling obedience, however calm it looks.",
+      "tr": "Tabe'iyat az tars, tabe'iyat ba karahat ast, hatta agar zaherash aram bashad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 954
+    },
+    {
+     "session": "1401-Dey",
+     "number": 957
+    },
+    {
+     "session": "1400-Dey",
+     "number": 959
+    },
+    {
+     "session": "1401-Dey",
+     "number": 963
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    },
+    {
+     "session": "1400-Dey",
+     "number": 961
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 7,
+   "unit": 1,
+   "key": "si-7-authority-kinds",
+   "title": {
+    "fa": "اقتدار و گونه‌های آن",
+    "en": "Authority and its kinds",
+    "tr": "Eghtedar va goone-haye an"
+   },
+   "summary": {
+    "fa": "اقتدار قدرتی مشروع و همراه با رضایت است؛ سه گونه دارد: کاریزمایی، سنتی، قانونی.",
+    "en": "Authority is legitimate power accepted with consent; it comes in three kinds: charismatic, traditional, legal.",
+    "tr": "Eghtedar ghodrati mashroo' va hamrah ba rezayat ast; se goone darad: karizmayi, sonnati, ghanooni."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: رضایت از کجا می‌آید؟",
+      "en": "Understand first: where does the consent come from?",
+      "tr": "Avval befahm: rezayat az koja miayad?"
+     },
+     "body": {
+      "fa": "«اقتدار» قدرتی است که با رضایت درونی کسانی که از آن اثر می‌پذیرند همراه است و به‌گونه‌ای مشروع به کار می‌رود؛ در برابر «زور» که رضایتی پشتش نیست. اقتدار بسته به اینکه رضایت از کجا می‌آید سه گونه دارد. «کاریزمایی»: بر پایهٔ ویژگی‌های اخلاقی، معنوی یا شخصیتی فوق‌العادهٔ یک رهبر. «سنتی»: بر پایهٔ آداب و رسوم دیرینه، عادت‌ها و وراثت نسلی. «قانونی (عقلانی)»: وقتی مشروعیت تنها بر پایهٔ قوانین مکتوب و روال‌های اداری تعریف شود.",
+      "en": "'Authority' is power that comes with the inner consent of those it affects and is used legitimately, as against 'force', which has no consent behind it. Depending on where the consent comes from, authority has three kinds. 'Charismatic': based on a leader's extraordinary moral, spiritual or personal qualities. 'Traditional': based on long-standing customs, habits and inheritance across generations. 'Legal (rational)': when legitimacy is defined only by written laws and administrative procedures.",
+      "tr": "'Eghtedar' ghodrati ast ke ba rezayat-e daroonie kasani ke az an asar mipazirand hamrah ast va be-goone-i mashroo' be kar miravad; dar barabar-e 'zoor' ke rezayati poshtash nist. Eghtedar baste be inke rezayat az koja miayad se goone darad. 'Karizmayi': bar paye-ye vizhegi-haye akhlaghi, ma'navi ya shakhsiyati-ye fowgh-ol-ade-ye yek rahbar. 'Sonnati': bar paye-ye adab va rosoom-e dirine, adat-ha va verasat-e nasli. 'Ghanooni (aghlani)': vaghti mashroo'iyat tanha bar paye-ye ghavanin-e maktoob va ravval-haye edari ta'rif shavad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " AUTHORITY = power + consent\n             + legitimacy\n where does consent come from?\n   the leader's qualities\n       -> charismatic\n   old customs, inheritance\n       -> traditional\n   written law, procedure\n       -> legal (rational)\n religious thought: source of\n   legitimacy = God",
+     "caption": {
+      "fa": "سه سرچشمهٔ رضایت، سه گونهٔ اقتدار.",
+      "en": "Three sources of consent, three kinds of authority.",
+      "tr": "Se sarcheshme-ye rezayat, se goone-ye eghtedar."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "منشأ مشروعیت در اندیشهٔ دینی",
+      "en": "The source of legitimacy in religious thought",
+      "tr": "Mansha'-e mashroo'iyat dar andishe-ye dini"
+     },
+     "body": {
+      "fa": "در اندیشهٔ دینی، به گفتهٔ کتاب، منشأ اصلی مشروعیت حاکمیت و حق قانون‌گذاری از آنِ خداوند است، نه خواست اکثریت یا رسوم قبیله‌ای.",
+      "en": "In religious thought, the book says, the main source of the legitimacy of rule and the right to make law belongs to God, not to the will of the majority or tribal custom.",
+      "tr": "Dar andishe-ye dini, be gofte-ye ketab, mansha'-e asli-ye mashroo'iyat-e hakemiyat va haghgh-e ghanoon-gozari az an-e khodavand ast, na khast-e aksariyat ya rosoom-e ghabile-i."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "leader -> charismatic ;  custom -> traditional ;  written law -> legal",
+     "caption": {
+      "fa": "کلید سه گونهٔ اقتدار",
+      "en": "The key to the three kinds of authority",
+      "tr": "Kelid-e se goone-ye eghtedar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: قدرتی که با رضایت درونی کسانی که از آن اثر می‌پذیرند همراه است و به‌گونه‌ای مشروع به کار می‌رود، چه نام دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: power that comes with the inner consent of those it affects and is used legitimately is called what? (Dey 1400 paper)",
+      "tr": "Garm kardan: ghodrati ke ba rezayat-e daroonie kasani ke az an asar mipazirand hamrah ast va be-goone-i mashroo' be kar miravad, che nam darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«رضایت درونی» و «مشروع» دو نشانهٔ اقتدارند؛ زور هیچ‌کدام را ندارد.",
+        "en": "'Inner consent' and 'legitimate' are the two marks of authority; force has neither.",
+        "tr": "'Rezayat-e daroonie' va 'mashroo'' do neshane-ye eghtedar-and; zoor hich-kodam ra nadarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اقتدار",
+      "en": "Authority",
+      "tr": "Eghtedar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اقتداری که بر پایهٔ آداب و رسوم دیرینه، عادت‌های اجتماعی و وراثت نسلی شکل می‌گیرد، چه نام دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: authority based on long-standing customs, social habits and inheritance across generations is called what? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: eghtedari ke bar paye-ye adab va rosoom-e dirine, adat-haye ejtema'i va verasat-e nasli shekl migirad, che nam darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«رسوم دیرینه» و «وراثت» یعنی سنت؛ همان آزمون دی ۱۴۰۰ کاریزمایی را هم جداگانه پرسیده.",
+        "en": "'Old customs' and 'inheritance' mean tradition; the same Dey 1400 paper asked about charismatic authority separately.",
+        "tr": "'Rosoom-e dirine' va 'verasat' ya'ni sonnat; haman azmoon-e Dey 1400 karizmayi ra ham jodagane porside."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اقتدار سنتی",
+      "en": "Traditional authority",
+      "tr": "Eghtedar-e sonnati"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: هرگاه مشروعیت یک حاکمیت تنها بر پایهٔ قوانین مکتوب و روال‌های اداری تعریف شود، این اقتدار چه نام دارد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: when a rule's legitimacy is defined only by written laws and administrative procedures, what is this authority called? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: har-gah mashroo'iyat-e yek hakemiyat tanha bar paye-ye ghavanin-e maktoob va ravval-haye edari ta'rif shavad, in eghtedar che nam darad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «سنت» هم می‌تواند قاعده باشد، ولی سنت نانوشته و از راه عادت است؛ اینجا «مکتوب» و «اداری» آمده.",
+        "en": "The twist: tradition can be a rule too, but it is unwritten and lives by habit; here the words are 'written' and 'administrative'.",
+        "tr": "Pich-e emtehan: 'sonnat' ham mitavanad ghaede bashad, vali sonnat nanevesh-te va az rah-e adat ast; inja 'maktoob' va 'edari' amade."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "اقتدار قانونی (عقلانی)",
+      "en": "Legal (rational) authority",
+      "tr": "Eghtedar-e ghanooni (aghlani)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اقتدار کاریزمایی به ویژگی‌های فرد رهبر بسته است، نه به منصب یا قانون.",
+      "en": "Charismatic authority rests on the leader's personal qualities, not on office or law.",
+      "tr": "Eghtedar-e karizmayi be vizhegi-haye fard-e rahbar baste ast, na be mansab ya ghanoon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اقتدار با «زور» فرق دارد: اقتدار رضایت دارد، زور ندارد.",
+      "en": "Authority differs from force: authority has consent, force does not.",
+      "tr": "Eghtedar ba 'zoor' fargh darad: eghtedar rezayat darad, zoor nadarad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 954
+    },
+    {
+     "session": "1400-Dey",
+     "number": 958
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1400-Dey",
+     "number": 957
+    },
+    {
+     "session": "1401-Dey",
+     "number": 959
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 7,
+   "unit": 2,
+   "key": "si-7-acceptance-crises",
+   "title": {
+    "fa": "مقبولیت و بحران‌های قدرت",
+    "en": "Acceptance and the crises of power",
+    "tr": "Maghbooliyat va bohran-haye ghodrat"
+   },
+   "summary": {
+    "fa": "از دست رفتن پذیرش مردم بحران مقبولیت است، از دست رفتن معیارها بحران مشروعیت، و از دست رفتن هر دو فروپاشی.",
+    "en": "Losing the people's acceptance is a crisis of acceptance, losing the standards a crisis of legitimacy, and losing both is collapse.",
+    "tr": "Az dast raftan-e paziresh-e mardom bohran-e maghbooliyat ast, az dast raftan-e me'yar-ha bohran-e mashroo'iyat, va az dast raftan-e har do foroopashi."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: میزی با دو پایه",
+      "en": "Understand first: a two-legged table",
+      "tr": "Avval befahm: mizi ba do paye"
+     },
+     "body": {
+      "fa": "هر نظام سیاسی بر دو پایه ایستاده، مثل میزی با دو پایه. «مقبولیت» یعنی پذیرش داوطلبانه و رضایت مردم. «مشروعیت» یعنی داشتن معیارهای عقلانی یا الهی حاکمیت. اگر نظامی مشروع، پذیرش داوطلبانهٔ مردم را از دست بدهد، با «بحران مقبولیت» روبه‌رو می‌شود؛ اگر معیارهای عقلانی یا الهی را از دست بدهد، با «بحران مشروعیت». و اگر هر دو پایه بشکند، «فروپاشی کامل قدرت حاکم» در پی دارد.",
+      "en": "Every political system stands on two legs, like a two-legged table. 'Acceptance' is the people's willing approval and consent. 'Legitimacy' is meeting the rational or divine standards of rule. If a legitimate system loses the people's willing support, it faces a 'crisis of acceptance'; if it loses the rational or divine standards, a 'crisis of legitimacy'. And if both legs break, 'the complete collapse of the ruling power' follows.",
+      "tr": "Har nezam-e siyasi bar do paye istade, mesl-e mizi ba do paye. 'Maghbooliyat' ya'ni paziresh-e davtalabane va rezayat-e mardom. 'Mashroo'iyat' ya'ni dashtan-e me'yar-haye aghlani ya elahi-ye hakemiyat. Agar nezami mashroo', paziresh-e davtalabane-ye mardom ra az dast bedahad, ba 'bohran-e maghbooliyat' roobe-roo mishavad; agar me'yar-haye aghlani ya elahi ra az dast bedahad, ba 'bohran-e mashroo'iyat'. Va agar har do paye beshekanad, 'foroopashi-ye kamel-e ghodrat-e hakem' dar pey darad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " TWO LEGS of a political\n system\n   acceptance  = people's\n                 willing consent\n   legitimacy  = rational or\n                 divine standards\n lose acceptance -> crisis\n                    of acceptance\n lose legitimacy -> crisis\n                    of legitimacy\n lose BOTH       -> collapse",
+     "caption": {
+      "fa": "دو پایه، دو بحران، و فروپاشی وقتی هر دو بشکنند.",
+      "en": "Two legs, two crises, and collapse when both break.",
+      "tr": "Do paye, do bohran, va foroopashi vaghti har do beshekanand."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نام بحران = پایهٔ ازدست‌رفته",
+      "en": "Crisis name = the lost leg",
+      "tr": "Nam-e bohran = paye-ye az-dast-rafte"
+     },
+     "body": {
+      "fa": "نکتهٔ تشخیص: نام بحران همان پایه‌ای است که از دست رفته. «حمایت مردم رفت» یعنی مقبولیت؛ «معیارها رفت» یعنی مشروعیت. مشکلات اداری، تورم یا اختلاف مرزی در گزینه‌ها، بحران پایه‌ها نیستند.",
+      "en": "The test: a crisis is named after the leg that was lost. 'The people's support is gone' means acceptance; 'the standards are gone' means legitimacy. Administrative trouble, inflation or border disputes in the options are not crises of the legs.",
+      "tr": "Nokte-ye tashkhis: nam-e bohran haman paye-i ast ke az dast rafte. 'Hemayat-e mardom raft' ya'ni maghbooliyat; 'me'yar-ha raft' ya'ni mashroo'iyat. Moshkelat-e edari, tavarrom ya ekhtelaf-e marzi dar gozine-ha, bohran-e paye-ha nistand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "lost consent -> acceptance crisis ;  lost standards -> legitimacy crisis ;  both -> collapse",
+     "caption": {
+      "fa": "کدام بحران؟",
+      "en": "Which crisis?",
+      "tr": "Kodam bohran?"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: پذیرش داوطلبانه و رضایت مردم نسبت به یک نظام سیاسی یا قدرت حاکم، کدام ویژگی است؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: the people's willing acceptance of and consent to a political system or ruling power is which feature? (Dey 1402 paper)",
+      "tr": "Garm kardan: paziresh-e davtalabane va rezayat-e mardom nesbat be yek nezam-e siyasi ya ghodrat-e hakem, kodam vizhegi ast? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«پذیرش» و «رضایت مردم» یعنی مقبولیت؛ مشروعیت به معیارها برمی‌گردد، نه رضایت.",
+        "en": "'Acceptance' and 'the people's consent' mean acceptance (maghbooliyat); legitimacy is about standards, not consent.",
+        "tr": "'Paziresh' va 'rezayat-e mardom' ya'ni maghbooliyat; mashroo'iyat be me'yar-ha bar-migardad, na rezayat."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مقبولیت",
+      "en": "Acceptance (maghbooliyat)",
+      "tr": "Maghbooliyat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: هرگاه یک نظام سیاسی معیارهای عقلانی یا الهی حاکمیت خود را از دست بدهد، با کدام بحران روبه‌رو می‌شود؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: when a political system loses the rational or divine standards of its rule, which crisis does it face? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: har-gah yek nezam-e siyasi me'yar-haye aghlani ya elahi-ye hakemiyat-e khod ra az dast bedahad, ba kodam bohran roobe-roo mishavad? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پایهٔ ازدست‌رفته «معیارها»ست، پس بحران مشروعیت. خرداد ۱۴۰۲ پایهٔ دیگر را پرسیده: بحران مقبولیت.",
+        "en": "The lost leg is 'the standards', so a crisis of legitimacy. Khordad 1402 asked about the other leg: the crisis of acceptance.",
+        "tr": "Paye-ye az-dast-rafte 'me'yar-ha'st, pas bohran-e mashroo'iyat. Khordad 1402 paye-ye digar ra porside: bohran-e maghbooliyat."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بحران مشروعیت",
+      "en": "A crisis of legitimacy",
+      "tr": "Bohran-e mashroo'iyat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: هرگاه یک نظام سیاسی هم مقبولیت و هم مشروعیت خود را از دست بدهد، به کدام وضعیت می‌رسد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: when a political system loses both its acceptance and its legitimacy, what state does it reach? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: har-gah yek nezam-e siyasi ham maghbooliyat va ham mashroo'iyat-e khod ra az dast bedahad, be kodam vaz'iyat miresad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینه‌ها نرم و اداری‌اند («کندی موقت اداری»)، ولی میزی که هر دو پایه‌اش شکسته، فقط کند نمی‌شود؛ فرو می‌ریزد.",
+        "en": "The twist: the options sound mild and administrative ('a temporary slowdown'), but a table with both legs broken does not just slow down; it falls.",
+        "tr": "Pich-e emtehan: gozine-ha narm va edari-and ('kondi-ye movaghghat-e edari'), vali mizi ke har do paye-ash shekaste, faghat kond nemishavad; foroo mirizad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فروپاشی کامل قدرت حاکم",
+      "en": "The complete collapse of the ruling power",
+      "tr": "Foroopashi-ye kamel-e ghodrat-e hakem"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بحران مقبولیت و بحران مشروعیت را جابه‌جا نکن: یکی رضایت مردم است، دیگری معیارها.",
+      "en": "Do not swap the crises: one is about the people's consent, the other about the standards.",
+      "tr": "Bohran-e maghbooliyat va bohran-e mashroo'iyat ra jabeja nakon: yeki rezayat-e mardom ast, digari me'yar-ha."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نظام مشروع هم ممکن است بحران مقبولیت داشته باشد؛ مشروعیت رضایت را تضمین نمی‌کند.",
+      "en": "A legitimate system can still face a crisis of acceptance; legitimacy does not guarantee consent.",
+      "tr": "Nezam-e mashroo' ham momken ast bohran-e maghbooliyat dashte bashad; mashroo'iyat rezayat ra tazmin nemikonad."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 954
+    },
+    {
+     "session": "1402-Dey",
+     "number": 955
+    },
+    {
+     "session": "1400-Dey",
+     "number": 960
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 959
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 8,
+   "unit": 1,
+   "key": "si-8-political-systems",
+   "title": {
+    "fa": "نظام سیاسی: دینی یا سکولار",
+    "en": "Political systems: religious or secular",
+    "tr": "Nezam-e siyasi: dini ya sekoolar"
+   },
+   "summary": {
+    "fa": "نظام‌های سیاسی با ملاک مشروعیتشان از هم جدا می‌شوند: قوانین الهی یا خواست و منافع دنیوی.",
+    "en": "Political systems differ by their measure of legitimacy: divine law, or worldly will and interests.",
+    "tr": "Nezam-haye siyasi ba melak-e mashroo'iyateshan az ham joda mishavand: ghavanin-e elahi ya khast va manafe'-e donyavi."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ملاک مشروعیت",
+      "en": "Understand first: the measure of legitimacy",
+      "tr": "Avval befahm: melak-e mashroo'iyat"
+     },
+     "body": {
+      "fa": "«نظام سیاسی» مجموعهٔ نهادها و ساختارهایی است که مدیریت قدرت اجتماعی و ادارهٔ امور جامعه را بر عهده دارند. کتاب نظام‌ها را بر پایهٔ ملاک مشروعیتشان دسته‌بندی می‌کند. «نظام‌های سیاسی دینی» ملاک مشروعیت را قوانین الهی و وحی می‌دانند و هدایت معنوی جامعه را دنبال می‌کنند. «نظام‌های سکولار (لیبرال)» هدف نهایی را تنها تأمین آزادی‌های فردی و منافع مادی دنیوی می‌دانند و ارزش‌های الهی را کنار می‌گذارند.",
+      "en": "A 'political system' is the set of institutions and structures that manage social power and run society's affairs. The book sorts systems by their measure of legitimacy. 'Religious political systems' take divine law and revelation as the measure of legitimacy and pursue society's spiritual guidance. 'Secular (liberal) systems' see their final aim as securing individual freedoms and worldly material interests alone, setting divine values aside.",
+      "tr": "'Nezam-e siyasi' majmoo'e-ye nahad-ha va sakhtar-hayi ast ke modiriyat-e ghodrat-e ejtema'i va edare-ye omoor-e jame'e ra bar ohde darand. Ketab nezam-ha ra bar paye-ye melak-e mashroo'iyateshan daste-bandi mikonad. 'Nezam-haye siyasi-ye dini' melak-e mashroo'iyat ra ghavanin-e elahi va vahy midanand va hedayat-e ma'navi-ye jame'e ra donbal mikonand. 'Nezam-haye sekoolar (liberal)' hadaf-e nahayi ra tanha ta'min-e azadi-haye fardi va manafe'-e maddi-ye donyavi midanand va arzesh-haye elahi ra kenar migozarand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " MEASURE OF LEGITIMACY\n RELIGIOUS systems\n   divine law, revelation\n   religious democracy:\n     people's will INSIDE\n     divine law\n SECULAR systems\n   freedoms, worldly gain\n   liberal democracy:\n     majority will, no\n     divine law",
+     "caption": {
+      "fa": "دو خانوادهٔ نظام سیاسی و نمونهٔ مردم‌سالارِ هر کدام.",
+      "en": "Two families of political system, and the democratic form of each.",
+      "tr": "Do khanevade-ye nezam-e siyasi va nemoone-ye mardom-salar-e har kodam."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "دو شکل مردم‌سالاری",
+      "en": "Two forms of democracy",
+      "tr": "Do shekl-e mardom-salari"
+     },
+     "body": {
+      "fa": "هر دو خانواده شکل مردم‌سالار دارند. «مردم‌سالاری دینی»: حاکمیت بر پایهٔ خواست و مشارکت مردم، اما در چارچوب قوانین و ارزش‌های الهی. «دموکراسی لیبرال» در تمدن جدید غرب: حاکمیت بر پایهٔ خواست اکثریت مردم و بدون در نظر گرفتن قوانین الهی. و به گفتهٔ کتاب، «حکومت مشروع» حکومتی است که بر پایهٔ قوانین الهی و ارزش‌های راستین عقلی شکل گرفته و حق حاکمیت دارد.",
+      "en": "Both families have a democratic form. 'Religious democracy': rule based on the people's will and participation, but within divine laws and values. 'Liberal democracy' in modern Western civilization: rule based on the will of the majority, without regard to divine law. And, by the book, a 'legitimate government' is one formed on divine law and true rational values, and has the right to rule.",
+      "tr": "Har do khanevade shekl-e mardom-salar darand. 'Mardom-salari-ye dini': hakemiyat bar paye-ye khast va mosharekat-e mardom, amma dar charchoob-e ghavanin va arzesh-haye elahi. 'Demokrasi-ye liberal' dar tamaddon-e jadid-e gharb: hakemiyat bar paye-ye khast-e aksariyat-e mardom va bedoon-e dar nazar gereftan-e ghavanin-e elahi. Va be gofte-ye ketab, 'hokoomat-e mashroo'' hokoomati ast ke bar paye-ye ghavanin-e elahi va arzesh-haye rastin-e aghli shekl gerefte va haghgh-e hakemiyat darad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "people's will + divine law = religious democracy ;  majority will alone = liberal democracy",
+     "caption": {
+      "fa": "فرق دو مردم‌سالاری",
+      "en": "The difference between the two democracies",
+      "tr": "Fargh-e do mardom-salari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مجموعهٔ نهادها و ساختارهایی که مدیریت قدرت اجتماعی و ادارهٔ امور جامعه را بر عهده دارند، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: the set of institutions and structures that manage social power and run society's affairs is called what? (Dey 1401 paper)",
+      "tr": "Garm kardan: majmoo'e-ye nahad-ha va sakhtar-hayi ke modiriyat-e ghodrat-e ejtema'i va edare-ye omoor-e jame'e ra bar ohde darand, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«مدیریت قدرت» کار سیاست است؛ اقتصاد، آموزش و خانواده نهادهای دیگرند.",
+        "en": "'Managing power' is the work of politics; the economy, education and family are other institutions.",
+        "tr": "'Modiriyat-e ghodrat' kar-e siyasat ast; eghtesad, amoozesh va khanevade nahad-haye digar-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نظام سیاسی",
+      "en": "The political system",
+      "tr": "Nezam-e siyasi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نظامی که حاکمیت در آن بر پایهٔ خواست و مشارکت مردم اما در چارچوب قوانین و ارزش‌های الهی است، چه نام دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: a system in which rule rests on the people's will and participation, but within divine laws and values, is called what? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nezami ke hakemiyat dar an bar paye-ye khast va mosharekat-e mardom amma dar charchoob-e ghavanin va arzesh-haye elahi ast, che nam darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دو نشانه با هم: «خواست مردم» (مردم‌سالاری) و «چارچوب الهی» (دینی).",
+        "en": "Two marks together: 'the people's will' (democracy) and 'a divine frame' (religious).",
+        "tr": "Do neshane ba ham: 'khast-e mardom' (mardom-salari) va 'charchoob-e elahi' (dini)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مردم‌سالاری دینی",
+      "en": "Religious democracy",
+      "tr": "Mardom-salari-ye dini"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در تمدن جدید غرب، نظامی که حاکمیت را بر پایهٔ خواست اکثریت مردم و بدون در نظر گرفتن قوانین الهی تعریف می‌کند، چه نام دارد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: in modern Western civilization, the system that defines rule by the majority's will without regard to divine law is called what? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: dar tamaddon-e jadid-e gharb, nezami ke hakemiyat ra bar paye-ye khast-e aksariyat-e mardom va bedoon-e dar nazar gereftan-e ghavanin-e elahi ta'rif mikonad, che nam darad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «خواست مردم» در هر دو مردم‌سالاری هست؛ فرق در «بدون قوانین الهی» است.",
+        "en": "The twist: 'the people's will' is in both democracies; the difference is 'without divine law'.",
+        "tr": "Pich-e emtehan: 'khast-e mardom' dar har do mardom-salari hast; fargh dar 'bedoon-e ghavanin-e elahi' ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دموکراسی لیبرال",
+      "en": "Liberal democracy",
+      "tr": "Demokrasi-ye liberal"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نظام سیاسی با نهادهای اقتصاد، آموزش یا خانواده فرق دارد: کارش مدیریت قدرت است.",
+      "en": "The political system differs from the economic, educational or family institutions: its work is managing power.",
+      "tr": "Nezam-e siyasi ba nahad-haye eghtesad, amoozesh ya khanevade fargh darad: karash modiriyat-e ghodrat ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مردم‌سالاری دینی و دموکراسی لیبرال هر دو به خواست مردم تکیه دارند؛ فرقشان چارچوب قوانین الهی است.",
+      "en": "Religious democracy and liberal democracy both rest on the people's will; they differ in the frame of divine law.",
+      "tr": "Mardom-salari-ye dini va demokrasi-ye liberal har do be khast-e mardom tekye darand; farghshan charchoob-e ghavanin-e elahi ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 954
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 963
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 955
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 8,
+   "unit": 2,
+   "key": "si-8-system-forms",
+   "title": {
+    "fa": "گونه‌های دیگر نظام سیاسی",
+    "en": "Other forms of political system",
+    "tr": "Goone-haye digar-e nezam-e siyasi"
+   },
+   "summary": {
+    "fa": "کتاب پنج گونهٔ دیگر را نام می‌برد: استبداد دینی، تمامیت‌خواه، نژادپرست، سرمایه‌داری و سوسیالیستی.",
+    "en": "The book names five more forms: religious despotism, totalitarian, racist, capitalist and socialist.",
+    "tr": "Ketab panj goone-ye digar ra nam mibarad: estebdad-e dini, tamamiyat-khah, nezhadparast, sarmaye-dari va sosiyalisti."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: هر گونه یک نشانه",
+      "en": "Understand first: one tell for each form",
+      "tr": "Avval befahm: har goone yek neshane"
+     },
+     "body": {
+      "fa": "هر گونه یک «نشانهٔ تشخیص» دارد که در صورت پرسش می‌آید. «تئوکراسی (استبداد دینی)»: مشروعیت خود را به دین نسبت می‌دهد اما در عمل قوانین الهی را تحریف و حکومتی استبدادی برپا می‌کند. «تمامیت‌خواه (توتالیتر)»: همهٔ ابعاد زندگی فردی و اجتماعی را زیر نظارت شدید و زور قرار می‌دهد. «نژادپرست (آپارتاید)»: قدرت، ثروت و حقوق شهروندی را تنها بر پایهٔ نژاد یا قومیت برتر تقسیم می‌کند.",
+      "en": "Each form has a 'tell' that appears in the question. 'Theocracy (religious despotism)': claims its legitimacy from religion but in practice distorts divine law and sets up a despotic rule. 'Totalitarian': puts every part of personal and social life under tight surveillance and force. 'Racist (apartheid)': divides power, wealth and citizens' rights only by a 'superior' race or ethnicity.",
+      "tr": "Har goone yek 'neshane-ye tashkhis' darad ke dar soorat-e porsesh miayad. 'Te'okrasi (estebdad-e dini)': mashroo'iyat-e khod ra be din nesbat midahad amma dar amal ghavanin-e elahi ra tahrif va hokoomati estebdadi barpa mikonad. 'Tamamiyat-khah (totalitar)': hame-ye ab'ad-e zendegi-ye fardi va ejtema'i ra zir-e nezarat-e shadid va zoor gharar midahad. 'Nezhadparast (apartayd)': ghodrat, servat va hoghoogh-e shahrvandi ra tanha bar paye-ye nezhad ya ghowmiyat-e bartar taghsim mikonad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " FORM            ITS TELL\n theocracy       claims faith,\n                 distorts it\n totalitarian    controls ALL\n                 of life\n apartheid       rights by\n                 race\n capitalist      serves the\n   (secular)     wealthy\n socialist       state controls\n   (secular)     the economy",
+     "caption": {
+      "fa": "پنج گونه و نشانهٔ تشخیص هر کدام.",
+      "en": "Five forms and the tell of each.",
+      "tr": "Panj goone va neshane-ye tashkhis-e har kodam."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سرمایه‌داری و سوسیالیسم",
+      "en": "Capitalism and socialism",
+      "tr": "Sarmaye-dari va sosiyalism"
+     },
+     "body": {
+      "fa": "دو گونهٔ سکولار هم بر پایهٔ اقتصاد از هم جدا می‌شوند. «نظام‌های سرمایه‌داری» قانون و قدرت اجرایی را در خدمت منافع صاحبان ثروت و سرمایه‌داران بزرگ می‌گذارند. «نظام‌های سوسیالیستی» مالکیت خصوصی بزرگ را از میان می‌برند و اقتصاد و توزیع قدرت را زیر کنترل شدید دولت می‌گذارند.",
+      "en": "Two secular forms are also told apart by the economy. 'Capitalist systems' put law and executive power at the service of the wealthy and big capitalists. 'Socialist systems' abolish large private property and put the economy and the distribution of power under tight state control.",
+      "tr": "Do goone-ye sekoolar ham bar paye-ye eghtesad az ham joda mishavand. 'Nezam-haye sarmaye-dari' ghanoon va ghodrat-e ejra'i ra dar khedmat-e manafe'-e sahebaan-e servat va sarmaye-daran-e bozorg migozarand. 'Nezam-haye sosiyalisti' malekiyat-e khosoosi-ye bozorg ra az miyan mibarand va eghtesad va towzi'-e ghodrat ra zir-e kontrol-e shadid-e dowlat migozarand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "claims faith but distorts -> theocracy ;  all of life -> totalitarian ;  race -> apartheid",
+     "caption": {
+      "fa": "نشانه‌های سه گونهٔ نخست",
+      "en": "The tells of the first three forms",
+      "tr": "Neshane-haye se goone-ye nakhost"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: نظام‌هایی که قدرت، ثروت و حقوق شهروندی را تنها بر پایهٔ نژاد یا قومیت برتر تقسیم می‌کنند، چه نام دارند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: systems that divide power, wealth and citizens' rights only by a 'superior' race or ethnicity are called what? (Khordad 1401 paper)",
+      "tr": "Garm kardan: nezam-hayi ke ghodrat, servat va hoghoogh-e shahrvandi ra tanha bar paye-ye nezhad ya ghowmiyat-e bartar taghsim mikonand, che nam darand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نشانهٔ «نژاد» مستقیم به نظام نژادپرست می‌رسد.",
+        "en": "The tell 'race' points straight to the racist system.",
+        "tr": "Neshane-ye 'nezhad' mostaghim be nezam-e nezhadparast miresad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نظام‌های نژادپرست (آپارتاید)",
+      "en": "Racist systems (apartheid)",
+      "tr": "Nezam-haye nezhadparast (apartayd)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نظام‌های سکولاری که مالکیت خصوصی بزرگ را از میان می‌برند و اقتصاد و توزیع قدرت را زیر کنترل شدید دولت می‌گذارند، چه نام دارند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: secular systems that abolish large private property and put the economy and distribution of power under tight state control are called what? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nezam-haye sekoolari ke malekiyat-e khosoosi-ye bozorg ra az miyan mibarand va eghtesad va towzi'-e ghodrat ra zir-e kontrol-e shadid-e dowlat migozarand, che nam darand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«از میان بردن مالکیت خصوصی» و «کنترل دولت بر اقتصاد» نشانهٔ سوسیالیسم است؛ سرمایه‌داری درست برعکس، در خدمت صاحبان سرمایه است (همان آزمون آن را هم پرسیده).",
+        "en": "'Abolishing private property' and 'state control of the economy' mark socialism; capitalism is the opposite, serving the owners of capital (the same paper asked about that too).",
+        "tr": "'Az miyan bordan-e malekiyat-e khosoosi' va 'kontrol-e dowlat bar eghtesad' neshane-ye sosiyalism ast; sarmaye-dari dorost bar'aks, dar khedmat-e sahebaan-e sarmaye ast (haman azmoon an ra ham porside)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نظام‌های سیاسی سوسیالیستی",
+      "en": "Socialist political systems",
+      "tr": "Nezam-haye siyasi-ye sosiyalisti"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: نظام‌هایی که مشروعیت خود را به دین نسبت می‌دهند اما در عمل قوانین الهی را تحریف و حکومتی استبدادی برپا می‌کنند، چه نام دارند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: systems that claim their legitimacy from religion but in practice distort divine law and set up despotic rule are called what? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: nezam-hayi ke mashroo'iyat-e khod ra be din nesbat midahand amma dar amal ghavanin-e elahi ra tahrif va hokoomati estebdadi barpa mikonand, che nam darand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «نسبت دادن به دین» ذهن را به سوی «حکومت الهی راستین» می‌برد که گزینهٔ دام است.",
+        "en": "The twist: 'claiming religion' pulls you toward 'a true divine government', which is the trap option.",
+        "tr": "Pich-e emtehan: 'nesbat dadan be din' zehn ra be sooy-e 'hokoomat-e elahi-ye rastin' mibarad ke gozine-ye dam ast."
+       }
+      },
+      {
+       "text": {
+        "fa": "واژه‌های «تحریف» و «استبدادی» نشان می‌دهند این دین‌داری فقط ادعاست: تئوکراسی.",
+        "en": "The words 'distort' and 'despotic' show the faith is only a claim: theocracy.",
+        "tr": "Vazhe-haye 'tahrif' va 'estebdadi' neshan midahand in din-dari faghat edde'ast: te'okrasi."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تئوکراسی (استبداد دینی)",
+      "en": "Theocracy (religious despotism)",
+      "tr": "Te'okrasi (estebdad-e dini)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تمامیت‌خواه را با هر حکومت سخت‌گیر یکی نگیر: نشانه‌اش نظارت بر «همهٔ» ابعاد زندگی است.",
+      "en": "Do not equate totalitarian with any strict government: its tell is control over 'every' part of life.",
+      "tr": "Tamamiyat-khah ra ba har hokoomat-e sakht-gir yeki nagir: neshane-ash nezarat bar 'hame-ye' ab'ad-e zendegi ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سرمایه‌داری و سوسیالیسم هر دو در کتاب سکولارند؛ فرقشان این است که قدرت در خدمت سرمایه‌داران است یا در دست دولت.",
+      "en": "In the book capitalism and socialism are both secular; they differ in whether power serves capitalists or sits with the state.",
+      "tr": "Sarmaye-dari va sosiyalism har do dar ketab sekoolar-and; farghshan in ast ke ghodrat dar khedmat-e sarmaye-daran ast ya dar dast-e dowlat."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 960
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 964
+    }
+   ]
+  }
+ ]
+}
