@@ -1,0 +1,1046 @@
+{
+ "version": 166,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 1,
+   "key": "hh-3-transmission",
+   "title": {
+    "fa": "زنجیرهٔ انتقال بیماری‌های واگیر",
+    "en": "The chain of infection",
+    "tr": "Zanjire-ye enteghal-e bimari-haye vagir"
+   },
+   "summary": {
+    "fa": "عامل بیماری در مخزن زندگی می‌کند و از راه قطره، آب و غذا، خون یا ناقل به میزبان تازه می‌رسد.",
+    "en": "A pathogen lives in a reservoir and reaches a new host by droplets, water and food, blood or a vector.",
+    "tr": "Amel-e bimari dar makhzan zendegi mikonad va az rah-e ghatre, ab va ghaza, khoon ya naghel be mizban-e taze miresad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: نامه از فرستنده به گیرنده",
+      "en": "Understand first: a letter from sender to receiver",
+      "tr": "Avval befahm: name az ferestande be girande"
+     },
+     "body": {
+      "fa": "بیماری واگیر مثل نامه‌ای است که از فرستنده به گیرنده می‌رسد. «مخزن» جایی است که عامل بیماری‌زا به طور طبیعی در آن زندگی و تکثیر می‌کند و برای بقا به آن وابسته است (بدن انسان، خاک یا آب). «ناقل» جانداری است که عامل بیماری را از یک میزبان به دیگری می‌رساند، مانند پشهٔ آنوفل یا شپش. اگر ناقل عامل بیماری را فقط روی بدنش جابه‌جا کند (مانند میکروب‌های روی پای مگس که به غذا می‌رسد) «ناقل مکانیکی» است.",
+      "en": "An infectious disease is like a letter going from sender to receiver. The 'reservoir' is where the pathogen naturally lives and multiplies and depends on to survive (the human body, soil or water). A 'vector' is a creature that carries the pathogen from one host to another, like the Anopheles mosquito or the louse. If it only carries the pathogen on its body (like germs on a fly's legs reaching food), it is a 'mechanical vector'.",
+      "tr": "Bimari-ye vagir mesl-e name-i ast ke az ferestande be girande miresad. 'Makhzan' jayi ast ke amel-e bimari-za be towr-e tabi'i dar an zendegi va taksir mikonad va baraye bagha be an vabaste ast (badan-e ensan, khak ya ab). 'Naghel' jandari ast ke amel-e bimari ra az yek mizban be digari miresanad, manand-e pashe-ye anofel ya shepesh. Agar naghel amel-e bimari ra faghat rooy-e badanash jabeja konad (manand-e mikrob-haye rooy-e pa-ye magas ke be ghaza miresad) 'naghel-e mekaniki' ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " RESERVOIR -> route -> NEW HOST\n ROUTES\n   droplets   cough, sneeze,\n              talking (direct)\n   water/food contaminated\n              (indirect)\n   blood      shared needles\n              e.g. hepatitis B\n   vector     mosquito, louse\n     mechanical: fly's legs",
+     "caption": {
+      "fa": "مخزن، راه انتقال، میزبان تازه.",
+      "en": "Reservoir, route, new host.",
+      "tr": "Makhzan, rah-e enteghal, mizban-e taze."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "راه‌های انتقال و نشانه‌هایشان",
+      "en": "Routes and their tells",
+      "tr": "Rah-ha-ye enteghal va neshane-hayeshan"
+     },
+     "body": {
+      "fa": "راه‌های انتقال را با نشانه‌شان بشناس. سرفه، عطسه یا حرف زدن بیمار کنار فرد سالم: «انتقال مستقیم با قطره‌های تنفسی». آب، غذا یا شیر آلوده: «انتقال غیرمستقیم از راه آب و غذا». سرنگ، سوزن یا وسایل تیز استریل‌نشدهٔ مشترک: «انتقال از راه خون». نمونهٔ مهم انتقال از راه خون «ویروس هپاتیت `B`» است که التهاب مزمن کبد می‌آورد، بی‌درمان به سیروز می‌رسد و واکسنش در برنامهٔ واکسیناسیون هست.",
+      "en": "Know each route by its tell. A sick person's cough, sneeze or speech beside a healthy one: 'direct transmission by respiratory droplets'. Contaminated water, food or milk: 'indirect transmission through water and food'. Shared unsterilised syringes, needles or sharp tools: 'transmission through blood'. A key blood-borne example is the 'hepatitis B virus', which causes chronic liver inflammation, leads to cirrhosis untreated, and has a vaccine in the vaccination schedule.",
+      "tr": "Rah-haye enteghal ra ba neshane-shan beshenas. Sorfe, atse ya harf zadan-e bimar kenar-e fard-e salem: 'enteghal-e mostaghim ba ghatre-haye tanaffosi'. Ab, ghaza ya shir-e aloode: 'enteghal-e gheyr-e mostaghim az rah-e ab va ghaza'. Sorang, soozan ya vasayel-e tiz-e esteril-nashode-ye moshtarak: 'enteghal az rah-e khoon'. Nemoone-ye mohem-e enteghal az rah-e khoon 'virus-e hepatit B' ast ke eltehab-e mozmen-e kabed miavarad, bi-darman be siroz miresad va vaksanash dar barname-ye vaksinasiyon hast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "cough -> droplets ;  dirty water, food -> indirect ;  needles -> blood ;  insect -> vector",
+     "caption": {
+      "fa": "نشانهٔ هر راه انتقال",
+      "en": "The tell of each route",
+      "tr": "Neshane-ye har rah-e enteghal"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: جاندارانی مانند پشهٔ آنوفل یا شپش که عامل بیماری را از یک میزبان به دیگری می‌رسانند، چه نام دارند؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: creatures like the Anopheles mosquito or the louse that carry a pathogen from one host to another are called what? (Dey 1400 paper)",
+      "tr": "Garm kardan: jandarani manand-e pashe-ye anofel ya shepesh ke amel-e bimari ra az yek mizban be digari miresanand, che nam darand? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«رساندن از یک میزبان به دیگری» کار ناقل است؛ مخزن جایی است که عامل در آن می‌ماند و زیاد می‌شود.",
+        "en": "'Carrying from one host to another' is a vector's job; a reservoir is where the pathogen stays and multiplies.",
+        "tr": "'Resandan az yek mizban be digari' kar-e naghel ast; makhzan jayi ast ke amel dar an mimanad va ziyad mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ناقلان بیماری",
+      "en": "Disease vectors",
+      "tr": "Naghelan-e bimari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: استفادهٔ مشترک از سرنگ، سوزن یا وسایل تیز استریل‌نشده، نمونهٔ آشکار کدام راه انتقال است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Textbook and exam: sharing unsterilised syringes, needles or sharp tools is a clear example of which route of transmission? (Dey 1400 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: estefade-ye moshtarak az sorang, soozan ya vasayel-e tiz-e esteril-nashode, nemoone-ye ashkar-e kodam rah-e enteghal ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سوزن پوست را می‌شکافد و به خون می‌رسد؛ پس انتقال از راه خون.",
+        "en": "A needle breaks the skin and reaches the blood; so transmission through blood.",
+        "tr": "Soozan poost ra mishekafad va be khoon miresad; pas enteghal az rah-e khoon."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "انتقال از راه خون",
+      "en": "Transmission through blood",
+      "tr": "Enteghal az rah-e khoon"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: وقتی جانداری عامل بیماری را فقط روی بدنش جابه‌جا می‌کند (مانند میکروب‌های روی پای مگس که به غذا می‌رسد)، چه نوع ناقلی است؟ (آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: when a creature carries a pathogen only on its body (like germs on a fly's legs reaching food), what kind of vector is it? (Dey 1400 paper)",
+      "tr": "Pich-e emtehani: vaghti jandari amel-e bimari ra faghat rooy-e badanash jabeja mikonad (manand-e mikrob-haye rooy-e pa-ye magas ke be ghaza miresad), che no' naghel-i ast? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «ناقل زیستی» هم ناقل است؛ ولی ناقل زیستی عامل را در بدنش نگه می‌دارد و پرورش می‌دهد.",
+        "en": "The twist: 'biological vector' is a vector too; but it keeps and develops the pathogen inside its body.",
+        "tr": "Pich-e emtehan: gozine-ye 'naghel-e zisti' ham naghel ast; vali naghel-e zisti amel ra dar badanash negah midarad va parvaresh midahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "«فقط روی بدنش» یعنی جابه‌جایی بیرونی، مثل باربری که بسته را حمل می‌کند: مکانیکی.",
+        "en": "'Only on its body' means outside carrying, like a porter with a parcel: mechanical.",
+        "tr": "'Faghat rooy-e badanash' ya'ni jabejayi-ye biroonie, mesl-e barbari ke baste ra haml mikonad: mekaniki."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ناقل مکانیکی",
+      "en": "A mechanical vector",
+      "tr": "Naghel-e mekaniki"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "مخزن را با ناقل اشتباه نکن: مخزن خانهٔ عامل بیماری است، ناقل پیک آن.",
+      "en": "Do not confuse a reservoir with a vector: the reservoir is the pathogen's home, the vector its courier.",
+      "tr": "Makhzan ra ba naghel eshtebah nakon: makhzan khane-ye amel-e bimari ast, naghel peyk-e an."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "انتقال قطره‌ای «مستقیم» است و انتقال از راه آب و غذا «غیرمستقیم».",
+      "en": "Droplet transmission is 'direct'; transmission through water and food is 'indirect'.",
+      "tr": "Enteghal-e ghatre-i 'mostaghim' ast va enteghal az rah-e ab va ghaza 'gheyr-e mostaghim'."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 960
+    },
+    {
+     "session": "1400-Dey",
+     "number": 978
+    },
+    {
+     "session": "1400-Dey",
+     "number": 975
+    },
+    {
+     "session": "1400-Dey",
+     "number": 964
+    },
+    {
+     "session": "1400-Dey",
+     "number": 971
+    },
+    {
+     "session": "1400-Dey",
+     "number": 976
+    },
+    {
+     "session": "1402-Dey",
+     "number": 986
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 2,
+   "key": "hh-3-course-prevention",
+   "title": {
+    "fa": "سیر بیماری، ایمنی و پیشگیری",
+    "en": "The course of a disease, immunity and prevention",
+    "tr": "Seyr-e bimari, imeni va pishgiri"
+   },
+   "summary": {
+    "fa": "بیماری واگیر نهفتگی، اوج و نقاهت دارد؛ واکسن ایمنی فعال می‌دهد و سرم ایمنی غیرفعال.",
+    "en": "An infectious disease has incubation, peak and convalescence; a vaccine gives active immunity and a serum passive immunity.",
+    "tr": "Bimari-ye vagir nahoftegi, owj va naghahat darad; vaksan imeni-ye fa'al midahad va serom imeni-ye gheyr-e fa'al."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: فیلمی با آغاز و پایان",
+      "en": "Understand first: a film with a beginning and an end",
+      "tr": "Avval befahm: filmi ba aghaz va payan"
+     },
+     "body": {
+      "fa": "هر بیماری واگیر مسیری دارد، مثل فیلمی با آغاز، اوج و پایان. «دورهٔ نهفتگی (کمون)» فاصلهٔ ورود عامل به بدن تا پیدا شدن نخستین نشانه‌هاست. پس از آن اوج بیماری می‌آید، و در پایان «دورهٔ نقاهت»: نشانه‌ها از میان می‌روند و بدن رو به بهبود می‌گذارد. نکتهٔ مهم: کسی که نشانه‌هایش رفته ولی هنوز عامل بیماری را به دیگران می‌دهد «ناقل دورهٔ نقاهت» است؛ ظاهرش سالم است، ولی هنوز می‌تواند بیماری را پخش کند.",
+      "en": "Every infectious disease has a course, like a film with a beginning, a climax and an end. The 'incubation period' is the time from the pathogen's entry to the first symptoms. Then comes the peak, and finally 'convalescence': symptoms fade and the body recovers. A key point: someone whose symptoms are gone but who still passes the pathogen on is a 'convalescent carrier'; he looks well but can still spread the disease.",
+      "tr": "Har bimari-ye vagir masiri darad, mesl-e filmi ba aghaz, owj va payan. 'Dowre-ye nahoftegi (komoon)' fasele-ye vorood-e amel be badan ta peyda shodan-e nakhostin neshane-hast. Pas az an owj-e bimari miayad, va dar payan 'dowre-ye naghahat': neshane-ha az miyan miravand va badan roo be behbood migozarad. Nokte-ye mohem: kasi ke neshane-hayash rafte vali hanooz amel-e bimari ra be digaran midahad 'naghel-e dowre-ye naghahat' ast; zaherash salem ast, vali hanooz mitavanad bimari ra pakhsh konad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " COURSE of a disease\n   entry -> incubation\n         -> first symptoms\n         -> peak\n         -> convalescence\n            (may still spread:\n             convalescent\n             carrier)\n IMMUNITY\n   vaccine  active, lasting\n   serum    passive, fast\n            but short",
+     "caption": {
+      "fa": "سیر بیماری و دو گونه ایمنی.",
+      "en": "The course of a disease and two kinds of immunity.",
+      "tr": "Seyr-e bimari va do goone imeni."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "واکسن، سرم، گندزدایی",
+      "en": "Vaccine, serum, disinfection",
+      "tr": "Vaksan, serom, gandzodayi"
+     },
+     "body": {
+      "fa": "برای پیشگیری سه ابزار داریم. «واکسیناسیون» کارآمدترین راه ایجاد ایمنی فعال در جامعه است: بدن خودش پادتن می‌سازد و ایمنی ماندگار می‌شود. «سرم» فراوردهٔ آماده‌ای از خون جانداران دیگر است که پادتن آماده دارد: ایمنی «غیرفعال» فوری اما کوتاه‌مدت. «گندزدایی (ضدعفونی)» به کار بردن حرارت زیاد، الکل یا ترکیب‌های کلردار روی اشیای بی‌جان برای نابودی عوامل بیماری‌زاست.",
+      "en": "We have three tools for prevention. 'Vaccination' is the most effective way to build active immunity in society: the body makes its own antibodies and the immunity lasts. A 'serum' is a ready-made product from other creatures' blood containing ready antibodies: 'passive' immunity, immediate but short-lived. 'Disinfection' is using strong heat, alcohol or chlorine compounds on non-living objects to destroy pathogens.",
+      "tr": "Baraye pishgiri se abzar darim. 'Vaksinasiyon' karamad-tarin rah-e ijad-e imeni-ye fa'al dar jame'e ast: badan khodash padtan misazad va imeni mandegar mishavad. 'Serom' faravarde-ye amade-i az khoon-e jandaran-e digar ast ke padtan-e amade darad: imeni-ye 'gheyr-e fa'al' fowri amma kootah-moddat. 'Gandzodayi (zedd-e oofooni)' be kar bordan-e hararat-e ziyad, alkol ya tarkib-haye kolor-dar rooy-e ashya-ye bi-jan baraye naboodi-ye avamel-e bimari-zast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "vaccine -> active (body makes antibodies) ;  serum -> passive (ready antibodies)",
+     "caption": {
+      "fa": "فعال یا غیرفعال؟",
+      "en": "Active or passive?",
+      "tr": "Fa'al ya gheyr-e fa'al?"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: فاصلهٔ زمانی میان ورود عامل بیماری به بدن تا پیدا شدن نخستین نشانه‌های بیماری چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: the time between a pathogen entering the body and the first symptoms is called what? (Dey 1401 paper)",
+      "tr": "Garm kardan: fasele-ye zamani miyan-e vorood-e amel-e bimari be badan ta peyda shodan-e nakhostin neshane-haye bimari che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیش از نشانه‌ها عامل «پنهان» است: نهفتگی. نقاهت پس از نشانه‌هاست.",
+        "en": "Before the symptoms the pathogen is 'hidden': incubation. Convalescence comes after the symptoms.",
+        "tr": "Pish az neshane-ha amel 'penhan' ast: nahoftegi. Naghahat pas az neshane-hast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دورهٔ نهفتگی (کمون)",
+      "en": "The incubation period",
+      "tr": "Dowre-ye nahoftegi (komoon)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: تزریق کدام فراوردهٔ آماده از خون جانداران دیگر، ایمنی غیرفعال فوری اما کوتاه‌مدت پدید می‌آورد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: injecting which ready-made product from other creatures' blood gives immediate but short-lived passive immunity? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: tazrigh-e kodam faravarde-ye amade az khoon-e jandaran-e digar, imeni-ye gheyr-e fa'al-e fowri amma kootah-moddat padid miavarad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "واکسن بدن را وادار به ساختن پادتن می‌کند (فعال)؛ سرم پادتن آماده می‌دهد (غیرفعال).",
+        "en": "A vaccine makes the body produce antibodies (active); a serum gives ready antibodies (passive).",
+        "tr": "Vaksan badan ra vadar be sakhtan-e padtan mikonad (fa'al); serom padtan-e amade midahad (gheyr-e fa'al)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سرم (پادتن آماده)",
+      "en": "Serum (ready-made antibodies)",
+      "tr": "Serom (padtan-e amade)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کسی که نشانه‌های بیماری‌اش از میان رفته ولی در دورهٔ نقاهت هنوز عامل بیماری را به دیگران می‌دهد، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: someone whose symptoms are gone but who still passes the pathogen on during convalescence is called what? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: kasi ke neshane-haye bimari-ash az miyan rafte vali dar dowre-ye naghahat hanooz amel-e bimari ra be digaran midahad, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «ناقل دورهٔ نهفتگی» هم هست؛ ولی نهفتگی پیش از نشانه‌هاست و اینجا نشانه‌ها «رفته‌اند».",
+        "en": "The twist: 'incubation carrier' is an option too; but incubation is before the symptoms, and here the symptoms have 'gone'.",
+        "tr": "Pich-e emtehan: gozine-ye 'naghel-e dowre-ye nahoftegi' ham hast; vali nahoftegi pish az neshane-hast va inja neshane-ha 'rafte-and'."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ناقل دورهٔ نقاهت",
+      "en": "A convalescent carrier",
+      "tr": "Naghel-e dowre-ye naghahat"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "گندزدایی برای اشیای بی‌جان است، نه درمان بیمار.",
+      "en": "Disinfection is for non-living objects, not for treating the patient.",
+      "tr": "Gandzodayi baraye ashya-ye bi-jan ast, na darman-e bimar."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سرم سریع است ولی کوتاه‌مدت؛ برای ایمنی ماندگار جامعه، واکسن.",
+      "en": "Serum is fast but short-lived; for society's lasting immunity, the vaccine.",
+      "tr": "Serom sari' ast vali kootah-moddat; baraye imeni-ye mandegar-e jame'e, vaksan."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 980
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 959
+    },
+    {
+     "session": "1401-Dey",
+     "number": 984
+    },
+    {
+     "session": "1400-Dey",
+     "number": 982
+    },
+    {
+     "session": "1401-Dey",
+     "number": 954
+    },
+    {
+     "session": "1401-Dey",
+     "number": 972
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 3,
+   "key": "hh-3-heart-vessels",
+   "title": {
+    "fa": "بیماری‌های قلب و رگ‌ها",
+    "en": "Heart and vessel diseases",
+    "tr": "Bimari-haye ghalb va rag-ha"
+   },
+   "summary": {
+    "fa": "تصلب شرایین رگ‌ها را سفت می‌کند؛ بسته شدن رگ قلب سکتهٔ قلبی است و رگ مغز سکتهٔ مغزی؛ فشار خون بالا قاتل خاموش است.",
+    "en": "Atherosclerosis stiffens arteries; a blocked heart artery is a heart attack and a brain artery a stroke; high blood pressure is the silent killer.",
+    "tr": "Tasallob-e sharayin rag-ha ra seft mikonad; baste shodan-e rag-e ghalb sekte-ye ghalbi ast va rag-e maghz sekte-ye maghzi; feshar-e khoon-e bala ghatel-e khamoosh ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: لوله‌ای که جرم می‌گیرد",
+      "en": "Understand first: a pipe that furs up",
+      "tr": "Avval befahm: loole-i ke jerm migirad"
+     },
+     "body": {
+      "fa": "«تصلب شرایین» سفت شدن و از دست رفتن کشسانی دیوارهٔ سرخرگ‌ها بر اثر رسوب چربی و کلسیم است؛ مثل لوله‌ای که کم‌کم جرم می‌گیرد. اگر سرخرگ‌های کرونری قلب ناگهان بسته شوند، یاخته‌های ماهیچهٔ قلب می‌میرند: «سکتهٔ قلبی». اگر سرخرگ‌های خون‌رسان به مغز بسته یا پاره شوند و یاخته‌های عصبی از اکسیژن محروم شوند: «سکتهٔ مغزی». فرق این دو فقط در «کجا»ست: قلب یا مغز.",
+      "en": "'Atherosclerosis' is the stiffening and loss of elasticity of artery walls from fat and calcium deposits, like a pipe slowly furring up. If the heart's coronary arteries suddenly close, heart muscle cells die: a 'heart attack'. If the arteries feeding the brain close or burst and nerve cells are starved of oxygen: a 'stroke'. The two differ only in 'where': the heart or the brain.",
+      "tr": "'Tasallob-e sharayin' seft shodan va az dast raftan-e keshsani-ye divare-ye sorkhrag-ha bar asar-e rosoob-e charbi va kalsiyom ast; mesl-e loole-i ke kam-kam jerm migirad. Agar sorkhrag-haye koroneri-ye ghalb nagahan baste shavand, yakhte-haye mahiche-ye ghalb mimirand: 'sekte-ye ghalbi'. Agar sorkhrag-haye khoon-resan be maghz baste ya pare shavand va yakhte-haye asabi az oksizhen mahroom shavand: 'sekte-ye maghzi'. Fargh-e in do faghat dar 'koja'st: ghalb ya maghz."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ARTERY WALL + fat + calcium\n   -> stiff: atherosclerosis\n BLOCKED artery, WHERE?\n   heart (coronary)\n     -> heart attack\n   brain -> stroke\n HIGH BLOOD PRESSURE\n   silent for years\n   eyes: retina damage\n   prevent: less salt,\n     30 min exercise a day",
+     "caption": {
+      "fa": "از رگ سفت تا سکته؛ فشار خون بالا و پیشگیری.",
+      "en": "From stiff arteries to attacks; high blood pressure and prevention.",
+      "tr": "Az rag-e seft ta sekte; feshar-e khoon-e bala va pishgiri."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "قاتل خاموش و پیشگیری",
+      "en": "The silent killer and prevention",
+      "tr": "Ghatel-e khamoosh va pishgiri"
+     },
+     "body": {
+      "fa": "«فشار خون بالا» را «قاتل خاموش» می‌نامند، چون سال‌ها بی‌نشانه می‌ماند و رگ‌ها را آسیب می‌زند. یکی از عارضه‌های درازمدتش آسیب مویرگ‌های شبکیهٔ چشم (رتینوپاتی) است که به تاری دید یا نابینایی می‌انجامد. نقش اصلی در پیشگیری با «کم کردن مصرف نمک (سدیم)» است؛ و برای سلامت قلب، دست‌کم ۳۰ دقیقه فعالیت هوازی با شدت متوسط در بیشتر روزهای هفته توصیه می‌شود.",
+      "en": "'High blood pressure' is called the 'silent killer' because it stays symptom-free for years while damaging the vessels. One long-term complication is damage to the tiny vessels of the retina (retinopathy), leading to blurred vision or blindness. The main role in prevention is 'cutting down salt (sodium)'; and for heart health, at least 30 minutes of moderate aerobic activity on most days of the week is advised.",
+      "tr": "'Feshar-e khoon-e bala' ra 'ghatel-e khamoosh' minamand, chon sal-ha bi-neshane mimanad va rag-ha ra asib mizanad. Yeki az areze-haye deraz-moddatash asib-e moyrag-haye shabakiye-ye cheshm (retinopati) ast ke be tari-ye did ya nabinayi mianjamad. Naghsh-e asli dar pishgiri ba 'kam kardan-e masraf-e namak (sodiyom)' ast; va baraye salamat-e ghalb, dast-kam 30 daghighe fa'aliyat-e havazi ba sheddat-e motevasset dar bishtar-e rooz-haye hafte towsiye mishavad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "blocked heart artery -> heart attack ;  blocked/burst brain artery -> stroke",
+     "caption": {
+      "fa": "سکتهٔ قلبی یا مغزی؟",
+      "en": "Heart attack or stroke?",
+      "tr": "Sekte-ye ghalbi ya maghzi?"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام بیماری قلبی‌عروقی را «قاتل خاموش» می‌نامند، چون سال‌ها بی‌نشانه می‌ماند و رگ‌ها را آسیب می‌زند؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: which cardiovascular disease is called the 'silent killer' because it stays symptom-free for years while damaging the vessels? (Dey 1401 paper)",
+      "tr": "Garm kardan: kodam bimari-ye ghalbi-oroughi ra 'ghatel-e khamoosh' minamand, chon sal-ha bi-neshane mimanad va rag-ha ra asib mizanad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«خاموش» یعنی بی‌نشانه؛ کسی متوجه نمی‌شود مگر فشارش را بسنجد.",
+        "en": "'Silent' means without symptoms; nobody notices unless the pressure is measured.",
+        "tr": "'Khamoosh' ya'ni bi-neshane; kasi motavajjeh nemishavad magar fesharash ra besanjad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فشار خون بالا",
+      "en": "High blood pressure",
+      "tr": "Feshar-e khoon-e bala"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام بیماری مزمن عروقی از سفت شدن و از دست رفتن کشسانی دیوارهٔ سرخرگ‌ها بر اثر رسوب چربی و کلسیم پدید می‌آید؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: which chronic vascular disease comes from artery walls stiffening and losing elasticity through fat and calcium deposits? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam bimari-ye mozmen-e oroughi az seft shodan va az dast raftan-e keshsani-ye divare-ye sorkhrag-ha bar asar-e rosoob-e charbi va kalsiyom padid miayad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«تصلب» یعنی سفت شدن و «شرایین» یعنی سرخرگ‌ها: نامش همان تعریفش است.",
+        "en": "'Tasallob' means hardening and 'sharayin' means arteries: the name is the definition.",
+        "tr": "'Tasallob' ya'ni seft shodan va 'sharayin' ya'ni sorkhrag-ha: namash haman ta'rifash ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تصلب شرایین",
+      "en": "Atherosclerosis",
+      "tr": "Tasallob-e sharayin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: بسته شدن ناگهانی یا پارگی سرخرگ‌های خون‌رسان به مغز که یاخته‌های عصبی را از اکسیژن محروم می‌کند، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: the sudden blockage or bursting of arteries feeding the brain, starving nerve cells of oxygen, is called what? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: baste shodan-e nagahani ya paregi-ye sorkhrag-haye khoon-resan be maghz ke yakhte-haye asabi ra az oksizhen mahroom mikonad, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «سکتهٔ قلبی» هم بسته شدن ناگهانی رگ است و در گزینه‌هاست (همان آزمون آن را هم پرسیده).",
+        "en": "The twist: a 'heart attack' is also a sudden blockage and sits in the options (the same paper asked about it too).",
+        "tr": "Pich-e emtehan: 'sekte-ye ghalbi' ham baste shodan-e nagahani-ye rag ast va dar gozine-hast (haman azmoon an ra ham porside)."
+       }
+      },
+      {
+       "text": {
+        "fa": "واژهٔ «مغز» و «یاخته‌های عصبی» تکلیف را روشن می‌کند.",
+        "en": "The words 'brain' and 'nerve cells' settle it.",
+        "tr": "Vazhe-ye 'maghz' va 'yakhte-haye asabi' taklif ra roshan mikonad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سکتهٔ مغزی",
+      "en": "A stroke",
+      "tr": "Sekte-ye maghzi"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "رتینوپاتی در فشار خون، آسیب چشم است؛ آن را با آسیب کلیه در دیابت (نفروپاتی) اشتباه نکن.",
+      "en": "Retinopathy in high blood pressure is eye damage; do not confuse it with kidney damage in diabetes (nephropathy).",
+      "tr": "Retinopati dar feshar-e khoon, asib-e cheshm ast; an ra ba asib-e kolie dar diyabet (nefropati) eshtebah nakon."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "فعالیت توصیه‌شده برای قلب «دست‌کم ۳۰ دقیقه در روز» است، نه ۵ یا ۱۰ دقیقه.",
+      "en": "The recommended activity for the heart is 'at least 30 minutes a day', not 5 or 10.",
+      "tr": "Fa'aliyat-e towsiye-shode baraye ghalb 'dast-kam 30 daghighe dar rooz' ast, na 5 ya 10 daghighe."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 961
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1401-Dey",
+     "number": 960
+    },
+    {
+     "session": "1401-Dey",
+     "number": 964
+    },
+    {
+     "session": "1400-Khordad",
+     "number": 975
+    },
+    {
+     "session": "1400-Dey",
+     "number": 984
+    },
+    {
+     "session": "1402-Dey",
+     "number": 976
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 4,
+   "key": "hh-3-diabetes",
+   "title": {
+    "fa": "دیابت شیرین",
+    "en": "Diabetes mellitus",
+    "tr": "Diyabet-e shirin"
+   },
+   "summary": {
+    "fa": "در دیابت یاخته‌ها گلوکز را جذب نمی‌کنند؛ سه نشانهٔ اصلی پرخوری، تشنگی و پرادراری است؛ قند خون ناشتا آن را زود پیدا می‌کند.",
+    "en": "In diabetes cells cannot take up glucose; the three main signs are overeating, thirst and frequent urination; a fasting blood sugar test finds it early.",
+    "tr": "Dar diyabet yakhte-ha glookoz ra jazb nemikonand; se neshane-ye asli porkhori, teshnegi va por-edrari ast; ghand-e khoon-e nashta an ra zood peyda mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: کلید در یاخته",
+      "en": "Understand first: the key to the cell door",
+      "tr": "Avval befahm: kelid-e dar-e yakhte"
+     },
+     "body": {
+      "fa": "«دیابت شیرین» بیماری مزمن متابولیکی است که در آن یاخته‌های بدن به‌دلیل کمبود انسولین یا مقاومت به آن نمی‌توانند گلوکز را جذب کنند. انسولین مثل کلیدی است که در یاخته را برای گلوکز باز می‌کند؛ بی کلید، گلوکز در خون می‌ماند. سه نشانهٔ اصلی: پرخوری، تشنگی زیاد و پرادراری. برای پیدا کردن زودهنگام دیابت بی‌نشانه در افراد بالای ۴۰ سال، ساده‌ترین آزمایش «قند خون ناشتا (`FBS`)» است.",
+      "en": "'Diabetes mellitus' is a chronic metabolic disease in which body cells cannot take up glucose because insulin is lacking or resisted. Insulin is like a key that opens the cell door to glucose; without the key, glucose stays in the blood. The three main signs: overeating, great thirst and frequent urination. To catch silent diabetes early in people over 40, the simplest test is 'fasting blood sugar (FBS)'.",
+      "tr": "'Diyabet-e shirin' bimari-ye mozmen-e metabolik-i ast ke dar an yakhte-haye badan be-dalil-e kambood-e ensoolin ya moghavemat be an nemitavanand glookoz ra jazb konand. Ensoolin mesl-e kelidi ast ke dar-e yakhte ra baraye glookoz baz mikonad; bi kelid, glookoz dar khoon mimanad. Se neshane-ye asli: porkhori, teshnegi-ye ziyad va por-edrari. Baraye peyda kardan-e zood-hengam-e diyabet-e bi-neshane dar afrad-e balay-e 40 sal, sade-tarin azmayesh 'ghand-e khoon-e nashta (FBS)' ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " INSULIN = key to the cell\n   missing or resisted\n   -> glucose stays in blood\n SIGNS: overeating, thirst,\n        frequent urination\n TEST (over 40): fasting\n   blood sugar (FBS)\n PREVENT type 2: exercise,\n   weight control\n COMPLICATION: kidney damage\n   (nephropathy)",
+     "caption": {
+      "fa": "کلید انسولین، نشانه‌ها، آزمایش، پیشگیری و عارضه.",
+      "en": "The insulin key, signs, test, prevention and complication.",
+      "tr": "Kelid-e ensoolin, neshane-ha, azmayesh, pishgiri va areze."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیشگیری و عارضهٔ کلیه",
+      "en": "Prevention and the kidney complication",
+      "tr": "Pishgiri va areze-ye kolie"
+     },
+     "body": {
+      "fa": "نقش اصلی در کاهش مقاومت به انسولین و پیشگیری از دیابت نوع ۲ را «فعالیت بدنی منظم و کنترل وزن» دارد. دیابت کنترل‌نشده به صافی‌های کلیه (نفرون‌ها) آسیب پیش‌رونده می‌زند و سرانجام به نارسایی کلیه می‌رسد: «بیماری کلیوی دیابتی (نفروپاتی)».",
+      "en": "The main role in reducing insulin resistance and preventing type 2 diabetes belongs to 'regular physical activity and weight control'. Uncontrolled diabetes progressively damages the kidney's filters (nephrons) and finally leads to kidney failure: 'diabetic kidney disease (nephropathy)'.",
+      "tr": "Naghsh-e asli dar kahesh-e moghavemat be ensoolin va pishgiri az diyabet-e no'-e 2 ra 'fa'aliyat-e badani-ye monazzam va kontrol-e vazn' darad. Diyabet-e kontrol-nashode be safi-haye kolie (nefron-ha) asib-e pish-ravande mizanad va saranjam be naresayi-ye kolie miresad: 'bimari-ye kolavi-ye diyabeti (nefropati)'."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "no insulin key -> glucose stays in blood -> thirst, hunger, urination",
+     "caption": {
+      "fa": "منطق نشانه‌های دیابت",
+      "en": "The logic of the signs of diabetes",
+      "tr": "Mantegh-e neshane-haye diyabet"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام بیماری مزمن متابولیک، ناتوانی یاخته‌های بدن در جذب گلوکز به‌دلیل کمبود انسولین یا مقاومت به آن است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: which chronic metabolic disease is the inability of body cells to take up glucose because insulin is lacking or resisted? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kodam bimari-ye mozmen-e metabolik, natavani-ye yakhte-haye badan dar jazb-e glookoz be-dalil-e kambood-e ensoolin ya moghavemat be an ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«گلوکز» و «انسولین» با هم یعنی دیابت.",
+        "en": "'Glucose' and 'insulin' together mean diabetes.",
+        "tr": "'Glookoz' va 'ensoolin' ba ham ya'ni diyabet."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "دیابت شیرین",
+      "en": "Diabetes mellitus",
+      "tr": "Diyabet-e shirin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: برای پیدا کردن زودهنگام دیابت بی‌نشانه در افراد بالای ۴۰ سال، ساده‌ترین و کارآمدترین آزمایش کدام است؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: to catch silent diabetes early in people over 40, which is the simplest and most effective test? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: baraye peyda kardan-e zood-hengam-e diyabet-e bi-neshane dar afrad-e balay-e 40 sal, sade-tarin va karamad-tarin azmayesh kodam ast? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "دیابت بیماری قند است؛ پس قند خون را می‌سنجیم. `CBC` و الکتروفورز برای کم‌خونی و تالاسمی‌اند.",
+        "en": "Diabetes is a disease of sugar; so we measure blood sugar. CBC and electrophoresis are for anaemia and thalassaemia.",
+        "tr": "Diyabet bimari-ye ghand ast; pas ghand-e khoon ra misanjim. CBC va elektroforez baraye kam-khooni va talasemi-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آزمایش قند خون ناشتا (`FBS`)",
+      "en": "Fasting blood sugar test (FBS)",
+      "tr": "Azmayesh-e ghand-e khoon-e nashta (FBS)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: آسیب پیش‌رونده به صافی‌های کلیه (نفرون‌ها) بر اثر دیابت کنترل‌نشده، که سرانجام به نارسایی کلیه می‌رسد، چه نام دارد؟ (آزمون دی ۱۴۰۲)",
+      "en": "Exam twist: progressive damage to the kidney's filters (nephrons) from uncontrolled diabetes, ending in kidney failure, is called what? (Dey 1402 paper)",
+      "tr": "Pich-e emtehani: asib-e pish-ravande be safi-haye kolie (nefron-ha) bar asar-e diyabet-e kontrol-nashode, ke saranjam be naresayi-ye kolie miresad, che nam darad? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «آسیب شبکیه در فشار خون» هم یک عارضهٔ رگی است و در گزینه‌هاست.",
+        "en": "The twist: 'retina damage from high blood pressure' is also a vessel complication and sits in the options.",
+        "tr": "Pich-e emtehan: 'asib-e shabakiye dar feshar-e khoon' ham yek areze-ye ragi ast va dar gozine-hast."
+       }
+      },
+      {
+       "text": {
+        "fa": "«کلیه» و «دیابت» با هم یعنی نفروپاتی دیابتی.",
+        "en": "'Kidney' and 'diabetes' together mean diabetic nephropathy.",
+        "tr": "'Kolie' va 'diyabet' ba ham ya'ni nefropati-ye diyabeti."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بیماری کلیوی دیابتی (نفروپاتی)",
+      "en": "Diabetic kidney disease (nephropathy)",
+      "tr": "Bimari-ye kolavi-ye diyabeti (nefropati)"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیشگیری از دیابت نوع ۲ با تحرک و کنترل وزن است؛ کم‌تحرکی خطرش را بالا می‌برد.",
+      "en": "Type 2 diabetes is prevented by activity and weight control; inactivity raises its risk.",
+      "tr": "Pishgiri az diyabet-e no'-e 2 ba taharrok va kontrol-e vazn ast; kam-taharroki khatarash ra bala mibarad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سه نشانهٔ دیابت را با تصلب شرایین یا کم‌خونی اشتباه نکن: پرخوری، تشنگی، پرادراری.",
+      "en": "Do not confuse diabetes's three signs with atherosclerosis or anaemia: overeating, thirst, frequent urination.",
+      "tr": "Se neshane-ye diyabet ra ba tasallob-e sharayin ya kam-khooni eshtebah nakon: porkhori, teshnegi, por-edrari."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 972
+    },
+    {
+     "session": "1402-Dey",
+     "number": 984
+    },
+    {
+     "session": "1402-Dey",
+     "number": 981
+    },
+    {
+     "session": "1402-Dey",
+     "number": 979
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 5,
+   "key": "hh-3-cancer",
+   "title": {
+    "fa": "سرطان",
+    "en": "Cancer",
+    "tr": "Saratan"
+   },
+   "summary": {
+    "fa": "سرطان تکثیر مهارنشدهٔ سلول‌هاست؛ تومور خوش‌خیم محدود می‌ماند و بدخیم با متاستاز پخش می‌شود.",
+    "en": "Cancer is uncontrolled cell division; a benign tumour stays put, a malignant one spreads by metastasis.",
+    "tr": "Saratan taksir-e mahar-nashode-ye selool-hast; toomor-e khosh-khim mahdood mimanad va bad-khim ba metastaz pakhsh mishavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ماشینی بی ترمز",
+      "en": "Understand first: a car without brakes",
+      "tr": "Avval befahm: mashini bi tormoz"
+     },
+     "body": {
+      "fa": "«سرطان» به تعریف کلی از تکثیر و تقسیم مهارنشدهٔ سلول‌ها پدید می‌آید؛ مثل ماشینی که ترمزش بریده. همهٔ توده‌ها سرطان خطرناک نیستند. «تومورهای خوش‌خیم» رشد محدودی دارند، به بافت‌های اطراف حمله نمی‌کنند و معمولاً جان بیمار را تهدید نمی‌کنند. تومورهای بدخیم اما می‌توانند پخش شوند: رفتن سلول‌های سرطانی از راه خون یا لنف به بافت‌های دور و پدید آوردن توده‌های تازه را «متاستاز» می‌نامند.",
+      "en": "'Cancer', in general, comes from uncontrolled cell multiplication and division, like a car whose brakes have failed. Not every lump is a dangerous cancer. 'Benign tumours' grow only so far, do not invade nearby tissue and usually do not threaten life. Malignant tumours, though, can spread: cancer cells travelling through blood or lymph to distant tissues and forming new lumps is called 'metastasis'.",
+      "tr": "'Saratan' be ta'rif-e kolli az taksir va taghsim-e mahar-nashode-ye selool-ha padid miayad; mesl-e mashini ke tormozash boride. Hame-ye tode-ha saratan-e khatarnak nistand. 'Toomor-haye khosh-khim' roshd-e mahdoodi darand, be baft-haye atraf hamle nemikonand va ma'moolan jan-e bimar ra tahdid nemikonand. Toomor-haye bad-khim amma mitavanand pakhsh shavand: raftan-e selool-haye saratani az rah-e khoon ya lanf be baft-haye door va padid avardan-e tode-haye taze ra 'metastaz' minamand."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " CANCER = uncontrolled\n          cell division\n BENIGN tumour\n   limited, does not invade\n MALIGNANT tumour\n   invades; metastasis:\n   via blood/lymph to far\n   tissues -> new lumps\n PREVENT: no tobacco, less\n   sun (UV), more fruit and\n   vegetables",
+     "caption": {
+      "fa": "خوش‌خیم یا بدخیم، و پیشگیری.",
+      "en": "Benign or malignant, and prevention.",
+      "tr": "Khosh-khim ya bad-khim, va pishgiri."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پیشگیری از سرطان",
+      "en": "Preventing cancer",
+      "tr": "Pishgiri az saratan"
+     },
+     "body": {
+      "fa": "سه راه مهم پیشگیری از سرطان: دوری از دخانیات، کم کردن تماس با پرتو فرابنفش خورشید، و خوردن میوه و سبزی بیشتر. بیماری‌های ارثی مانند تالاسمی یا هموفیلی با این راه‌ها پیشگیری نمی‌شوند.",
+      "en": "Three important ways to prevent cancer: avoiding tobacco, cutting exposure to the sun's ultraviolet rays, and eating more fruit and vegetables. Inherited diseases like thalassaemia or haemophilia are not prevented this way.",
+      "tr": "Se rah-e mohem-e pishgiri az saratan: doori az dokhaniyat, kam kardan-e tamas ba parto-ye faraban-afsh-e khorshid, va khordan-e mive va sabzi-ye bishtar. Bimari-haye ersi manand-e talasemi ya hemofili ba in rah-ha pishgiri nemishavand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "benign = stays ;  malignant = invades + metastasis (blood, lymph)",
+     "caption": {
+      "fa": "خوش‌خیم یا بدخیم؟",
+      "en": "Benign or malignant?",
+      "tr": "Khosh-khim ya bad-khim?"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: سرطان، به تعریف کلی، از کدام رویداد در سلول‌ها پدید می‌آید؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: cancer, in general, arises from which event in cells? (Khordad 1401 paper)",
+      "tr": "Garm kardan: saratan, be ta'rif-e kolli, az kodam rooydad dar selool-ha padid miayad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گزینه‌های دیگر تعریف بیماری‌های دیگرند: سفت شدن رگ (تصلب شرایین)، جذب نشدن گلوکز (دیابت)، کاهش تراکم استخوان (پوکی).",
+        "en": "The other options define other diseases: stiff vessels (atherosclerosis), glucose not taken up (diabetes), thinning bones (osteoporosis).",
+        "tr": "Gozine-haye digar ta'rif-e bimari-haye digar-and: seft shodan-e rag (tasallob-e sharayin), jazb nashodan-e glookoz (diyabet), kahesh-e tarakom-e ostekhan (pooki)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تکثیر و تقسیم مهارنشدهٔ سلول‌ها",
+      "en": "Uncontrolled multiplication and division of cells",
+      "tr": "Taksir va taghsim-e mahar-nashode-ye selool-ha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: رفتن سلول‌های سرطانی تومور بدخیم از راه خون یا لنف به بافت‌های دور بدن و پدید آوردن توده‌های تازه، چه نام دارد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: cancer cells of a malignant tumour travelling through blood or lymph to distant tissues and forming new lumps is called what? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: raftan-e selool-haye saratani-ye toomor-e bad-khim az rah-e khoon ya lanf be baft-haye door-e badan va padid avardan-e tode-haye taze, che nam darad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«رگ‌زایی» ساختن رگ تازه برای تومور است و «آپوپتوز» مرگ برنامه‌ریزی‌شدهٔ سلول؛ «پخش شدن به دوردست» متاستاز است.",
+        "en": "'Angiogenesis' is a tumour growing new vessels and 'apoptosis' programmed cell death; 'spreading far away' is metastasis.",
+        "tr": "'Rag-zayi' sakhtan-e rag-e taze baraye toomor ast va 'apoptoz' marg-e barname-rizi-shode-ye selool; 'pakhsh shodan be doordast' metastaz ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "متاستاز",
+      "en": "Metastasis",
+      "tr": "Metastaz"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: توده‌های سلولی غیرعادی که رشد محدودی دارند، به بافت‌های اطراف حمله نمی‌کنند و معمولاً جان بیمار را تهدید نمی‌کنند، چه نام دارند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: abnormal cell lumps that grow only so far, do not invade nearby tissue and usually do not threaten life are called what? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: tode-haye selooli-ye gheyr-e adi ke roshd-e mahdoodi darand, be baft-haye atraf hamle nemikonand va ma'moolan jan-e bimar ra tahdid nemikonand, che nam darand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: واژهٔ «تومور» آدم را به یاد سرطان بدخیم می‌اندازد؛ ولی «حمله نمی‌کند» و «تهدید نمی‌کند» یعنی خوش‌خیم.",
+        "en": "The twist: the word 'tumour' makes you think of malignant cancer; but 'does not invade' and 'does not threaten' mean benign.",
+        "tr": "Pich-e emtehan: vazhe-ye 'toomor' adam ra be yad-e saratan-e bad-khim mioandazad; vali 'hamle nemikonad' va 'tahdid nemikonad' ya'ni khosh-khim."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "تومورهای خوش‌خیم",
+      "en": "Benign tumours",
+      "tr": "Toomor-haye khosh-khim"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "هر توده‌ای سرطان بدخیم نیست؛ تومور خوش‌خیم پخش نمی‌شود.",
+      "en": "Not every lump is malignant cancer; a benign tumour does not spread.",
+      "tr": "Har tode-i saratan-e bad-khim nist; toomor-e khosh-khim pakhsh nemishavad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پیشگیری از سرطان (دخانیات، آفتاب، میوه و سبزی) را با بیماری‌های ارثی مثل تالاسمی یکی نگیر.",
+      "en": "Do not lump cancer prevention (tobacco, sun, fruit and vegetables) with inherited diseases like thalassaemia.",
+      "tr": "Pishgiri az saratan (dokhaniyat, aftab, mive va sabzi) ra ba bimari-haye ersi mesl-e talasemi yeki nagir."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 974
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 969
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 3,
+   "unit": 6,
+   "key": "hh-3-other-chronic",
+   "title": {
+    "fa": "بیماری‌های مزمن دیگر: پوکی استخوان، ام‌اس، آسم",
+    "en": "Other chronic diseases: osteoporosis, MS, asthma",
+    "tr": "Bimari-haye mozmen-e digar: pooki-ye ostekhan, em-es, asm"
+   },
+   "summary": {
+    "fa": "پوکی استخوان بی‌صدا خطر شکستگی را بالا می‌برد؛ در ام‌اس دستگاه ایمنی میلین را تخریب می‌کند؛ آسم با محرک‌هایی مثل گرد و خاک حمله می‌کند.",
+    "en": "Silent osteoporosis raises fracture risk; in MS the immune system destroys myelin; asthma attacks are set off by triggers like dust.",
+    "tr": "Pooki-ye ostekhan-e bi-seda khatar-e shekastegi ra bala mibarad; dar em-es dastgah-e imeni miyelin ra takhrib mikonad; asm ba moharrek-hayi mesl-e gard-o-khak hamle mikonad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: اسفنج و روکش سیم",
+      "en": "Understand first: the sponge and the wire's insulation",
+      "tr": "Avval befahm: esfanj va rookesh-e sim"
+     },
+     "body": {
+      "fa": "«پوکی استخوان» بیماری مزمن و بی‌صدایی است که از کاهش شدید تراکم مواد معدنی استخوان پدید می‌آید و خطر شکستگی را بسیار بالا می‌برد؛ استخوان مثل اسفنجی می‌شود که سوراخ‌هایش بزرگ شده. «ام‌اس (مالتیپل اسکلروزیس)» بیماری مزمن دستگاه عصبی مرکزی است: دستگاه ایمنی غلاف میلین یاخته‌های عصبی را تخریب می‌کند، مثل روکش سیمی که کنده شود و پیام‌ها درست نرسند. ام‌اس در زنان شایع‌تر از مردان است.",
+      "en": "'Osteoporosis' is a chronic, silent disease from a severe loss of bone mineral density, which greatly raises the risk of fractures; the bone becomes like a sponge whose holes have grown. 'MS (multiple sclerosis)' is a chronic disease of the central nervous system: the immune system destroys the myelin sheath of nerve cells, like the insulation stripped off a wire so signals no longer pass properly. MS is more common in women than in men.",
+      "tr": "'Pooki-ye ostekhan' bimari-ye mozmen va bi-sedayi ast ke az kahesh-e shadid-e tarakom-e mavad-e ma'dani-ye ostekhan padid miayad va khatar-e shekastegi ra besyar bala mibarad; ostekhan mesl-e esfanji mishavad ke soorakh-hayash bozorg shode. 'Em-es (maltipel eskleroziz)' bimari-ye mozmen-e dastgah-e asabi-ye markazi ast: dastgah-e imeni ghelaf-e miyelin-e yakhte-haye asabi ra takhrib mikonad, mesl-e rookesh-e simi ke kande shavad va payam-ha dorost naresand. Em-es dar zanan shaye'-tar az mardan ast."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " OSTEOPOROSIS\n   bone mineral density\n   falls -> fractures\n MS\n   immune system attacks\n   myelin (nerve insulation)\n   more common in women\n ASTHMA\n   airways inflamed, bronchi\n   narrow -> short of breath\n   trigger: dust mites,\n            pollen",
+     "caption": {
+      "fa": "سه بیماری مزمن و نشانهٔ هر کدام.",
+      "en": "Three chronic diseases and the tell of each.",
+      "tr": "Se bimari-ye mozmen va neshane-ye har kodam."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "آسم و محرک‌هایش",
+      "en": "Asthma and its triggers",
+      "tr": "Asm va moharrek-hayash"
+     },
+     "body": {
+      "fa": "«آسم» بیماری التهابی مزمن راه‌های هوایی است که با تنگ شدن گاه‌به‌گاه نایژه‌ها و تنگی نفس همراه است. مهم‌ترین برانگیزانندهٔ خانگی حملهٔ آسم، مواد حساسیت‌زا مانند هیره‌های گرد و خاک و گرده است.",
+      "en": "'Asthma' is a chronic inflammatory disease of the airways, with occasional narrowing of the bronchi and shortness of breath. The most important household trigger of an asthma attack is allergens such as dust mites and pollen.",
+      "tr": "'Asm' bimari-ye eltehabi-ye mozmen-e rah-haye hava'i ast ke ba tang shodan-e gah-be-gah-e nayzhe-ha va tangi-ye nafas hamrah ast. Mohem-tarin barangizanande-ye khanegi-ye hamle-ye asm, mavad-e hassasiyat-za manand-e hire-haye gard-o-khak va gorde ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "bones thin -> osteoporosis ;  myelin attacked -> MS ;  bronchi narrow -> asthma",
+     "caption": {
+      "fa": "نشانهٔ سه بیماری",
+      "en": "The tell of three diseases",
+      "tr": "Neshane-ye se bimari"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: کدام بیماری مزمن و بی‌صدا از کاهش شدید تراکم مواد معدنی استخوان پدید می‌آید و خطر شکستگی را بسیار بالا می‌برد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Warm-up: which chronic, silent disease comes from a severe loss of bone mineral density and greatly raises fracture risk? (Khordad 1401 paper)",
+      "tr": "Garm kardan: kodam bimari-ye mozmen va bi-seda az kahesh-e shadid-e tarakom-e mavad-e ma'dani-ye ostekhan padid miayad va khatar-e shekastegi ra besyar bala mibarad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«پوک» یعنی تهی و سبک: استخوانی که تراکمش کم شده.",
+        "en": "'Pook' means hollow and light: bone that has lost its density.",
+        "tr": "'Pook' ya'ni tohi va sabok: ostekhani ke tarakomash kam shode."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پوکی استخوان",
+      "en": "Osteoporosis",
+      "tr": "Pooki-ye ostekhan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام بیماری مزمن دستگاه عصبی مرکزی از آن روست که دستگاه ایمنی، غلاف میلین یاخته‌های عصبی را تخریب می‌کند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: which chronic disease of the central nervous system arises because the immune system destroys the myelin sheath of nerve cells? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam bimari-ye mozmen-e dastgah-e asabi-ye markazi az an roost ke dastgah-e imeni, ghelaf-e miyelin-e yakhte-haye asabi ra takhrib mikonad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«میلین» و «دستگاه ایمنی» با هم یعنی ام‌اس؛ گزینه‌های دیگر بیماری‌های رگ یا قندند.",
+        "en": "'Myelin' and 'immune system' together mean MS; the other options are vessel or sugar diseases.",
+        "tr": "'Miyelin' va 'dastgah-e imeni' ba ham ya'ni em-es; gozine-haye digar bimari-haye rag ya ghand-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ام‌اس (مالتیپل اسکلروزیس)",
+      "en": "MS (multiple sclerosis)",
+      "tr": "Em-es (maltipel eskleroziz)"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام عامل رایج خانگی، مهم‌ترین برانگیزانندهٔ حملهٔ آسم است؟ (آزمون دی ۱۴۰۲)",
+      "en": "Exam twist: which common household factor is the most important trigger of an asthma attack? (Dey 1402 paper)",
+      "tr": "Pich-e emtehani: kodam amel-e rayej-e khanegi, mohem-tarin barangizanande-ye hamle-ye asm ast? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینه‌ها (بخار آب، اکسیژن، آب مقطر) همه بی‌خطر به نظر می‌رسند و یکی «حساسیت‌زا» نیست.",
+        "en": "The twist: the options (water vapour, oxygen, distilled water) all look harmless, and none of them is an 'allergen'.",
+        "tr": "Pich-e emtehan: gozine-ha (bokhar-e ab, oksizhen, ab-e moghattar) hame bi-khatar be nazar miresand va hich-kodam 'hassasiyat-za' nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "آسم به حساسیت واکنش نشان می‌دهد؛ پس هیره‌های گرد و خاک و گرده.",
+        "en": "Asthma reacts to allergens; so dust mites and pollen.",
+        "tr": "Asm be hassasiyat vakonesh neshan midahad; pas hire-haye gard-o-khak va gorde."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مواد حساسیت‌زا مانند هیره‌های گرد و خاک و گرده",
+      "en": "Allergens such as dust mites and pollen",
+      "tr": "Mavad-e hassasiyat-za manand-e hire-haye gard-o-khak va gorde"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ام‌اس در زنان شایع‌تر است، نه در مردان یا یکسان.",
+      "en": "MS is more common in women, not in men or equally.",
+      "tr": "Em-es dar zanan shaye'-tar ast, na dar mardan ya yeksan."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پوکی استخوان را با تصلب شرایین اشتباه نکن: یکی استخوان است، دیگری رگ.",
+      "en": "Do not confuse osteoporosis with atherosclerosis: one is bone, the other vessels.",
+      "tr": "Pooki-ye ostekhan ra ba tasallob-e sharayin eshtebah nakon: yeki ostekhan ast, digari rag."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Khordad",
+     "number": 966
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 986
+    },
+    {
+     "session": "1402-Dey",
+     "number": 990
+    },
+    {
+     "session": "1400-Dey",
+     "number": 988
+    },
+    {
+     "session": "1402-Dey",
+     "number": 987
+    }
+   ]
+  }
+ ]
+}

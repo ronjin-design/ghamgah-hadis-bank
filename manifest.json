@@ -990,6 +990,12 @@
    "format": 11,
    "file": "pack-0165.json",
    "sha256": "073103fe7d52f1e5b6006b6384adcd75360a2b8016b2e3687f60d45cf4757c90"
+  },
+  {
+   "version": 166,
+   "format": 11,
+   "file": "pack-0166.json",
+   "sha256": "136a80f8a61c790d6e629dd891e755eca65fa3863a1dd8d5d8647840f73ed01a"
   }
  ]
 }
