@@ -1,0 +1,873 @@
+{
+ "version": 162,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Social Identity",
+   "chapter": 1,
+   "unit": 1,
+   "key": "si-1-actions",
+   "title": {
+    "fa": "کنش‌های ما: هدف، پیامد و کنش اجتماعی",
+    "en": "Our actions: goal, consequences and social action",
+    "tr": "Konesh-haye ma: hadaf, payamad va konesh-e ejtema'i"
+   },
+   "summary": {
+    "fa": "هر کنش هدفی دارد و پیامدهایی؛ کنشی اجتماعی است که آگاهانه و با توجه به دیگران انجام شود.",
+    "en": "Every action has a goal and consequences; an action is social when it is done consciously and with others in mind.",
+    "tr": "Har konesh hadafi darad va payamad-hayi; kong-eshi ejtema'i ast ke agahane va ba tavajjoh be digaran anjam shavad."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ورزش و خستگی",
+      "en": "Understand first: the workout and the tiredness",
+      "tr": "Avval befahm: varzesh va khastegi"
+     },
+     "body": {
+      "fa": "«کنش» کاری است که انسان با آگاهی و اراده انجام می‌دهد. هر کنش «هدفی» دارد: مقصودی که کنشگر پیش از انجام کار در ذهن دارد. کنش «پیامدهایی» هم دارد. برخی پیامدها به ارادهٔ کنشگر وابسته‌اند (پیامد ارادی) و برخی نه (پیامد غیرارادی)؛ مثلاً ورزش کردن ارادی است، اما خستگی پس از آن، پیامدی غیرارادی است: چه بخواهی چه نخواهی می‌آید.",
+      "en": "An 'action' (konesh) is something a person does with awareness and will. Every action has a 'goal': the aim the actor has in mind before acting. An action also has 'consequences'. Some depend on the actor's will (voluntary consequences) and some do not (involuntary consequences): working out is voluntary, but the tiredness afterwards is an involuntary consequence; it comes whether you want it or not.",
+      "tr": "'Konesh' kari ast ke ensan ba agahi va erade anjam midahad. Har konesh 'hadafi' darad: maghsoodi ke koneshgar pish az anjam-e kar dar zehn darad. Konesh 'payamad-hayi' ham darad. Barkhi payamad-ha be erade-ye koneshgar vabaste-and (payamad-e eradi) va barkhi na (payamad-e gheyr-e eradi); masalan varzesh kardan eradi ast, amma khastegi pas az an, payamadi gheyr-e eradi ast: che bekhahi che nakhahi miayad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " ACTION (konesh)\n   goal: in mind BEFORE acting\n   consequences\n     voluntary    by the will\n     involuntary  tired after\n                  a workout\n INNER   thinking, imagining\n OUTER   seen in the world\n SOCIAL  aware of others",
+     "caption": {
+      "fa": "هدف پیش از کنش است، پیامد پس از آن؛ کنش درونی، بیرونی یا اجتماعی.",
+      "en": "The goal comes before the action, consequences after; actions are inner, outer or social.",
+      "tr": "Hadaf pish az konesh ast, payamad pas az an; konesh-e daroonie, biroonie ya ejtema'i."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "درونی، بیرونی، اجتماعی",
+      "en": "Inner, outer, social",
+      "tr": "Daroonie, biroonie, ejtema'i"
+     },
+     "body": {
+      "fa": "کنش‌ها را می‌توان از دو جهت دسته‌بندی کرد. «کنش درونی» در ذهن انجام می‌شود، مانند اندیشیدن و تخیل؛ «کنش بیرونی» در جهان بیرون دیده می‌شود. و کنشی «اجتماعی» است که آگاهانه و با توجه به دیگران انجام شود؛ شلوغی مکان یا مقدار انرژی آن را اجتماعی نمی‌کند.",
+      "en": "Actions can be sorted two ways. An 'inner action' happens in the mind, like thinking and imagining; an 'outer action' is seen in the world. And an action is 'social' when it is done consciously and with others in mind; a crowded place or the energy spent does not make it social.",
+      "tr": "Konesh-ha ra mitavan az do jahat daste-bandi kard. 'Konesh-e daroonie' dar zehn anjam mishavad, manand-e andishidan va takhayyol; 'konesh-e biroonie' dar jahan-e biroon dide mishavad. Va kongeshi 'ejtema'i' ast ke agahane va ba tavajjoh be digaran anjam shavad; sholooghi-ye makan ya meghdar-e enerzhi an ra ejtema'i nemikonad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "goal = before ;  consequence = after (voluntary / involuntary) ;  social = aware of others",
+     "caption": {
+      "fa": "سه ویژگی کنش",
+      "en": "Three features of an action",
+      "tr": "Se vizhegi-ye konesh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مقصودی که کنشگر پیش از انجام کنش در ذهن دارد و کنش را برای رسیدن به آن انجام می‌دهد، چه نام دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: the aim an actor has in mind before acting, and acts to reach, is called what? (Dey 1400 paper)",
+      "tr": "Garm kardan: maghsoodi ke koneshgar pish az anjam-e konesh dar zehn darad va konesh ra baraye residan be an anjam midahad, che nam darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "کلید پرسش «پیش از انجام» است: پیامد پس از کنش می‌آید، هدف پیش از آن.",
+        "en": "The key is 'before acting': a consequence comes after the action, the goal before it.",
+        "tr": "Kelid-e porsesh 'pish az anjam' ast: payamad pas az konesh miayad, hadaf pish az an."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هدف کنش",
+      "en": "The goal of an action",
+      "tr": "Hadaf-e konesh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نتیجه‌هایی از کنش که به ارادهٔ کنشگر وابسته نیستند (مانند خستگی پس از ورزش)، چه نام دارند؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Textbook and exam: results of an action that do not depend on the actor's will (like tiredness after exercise) are called what? (Khordad 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: natije-hayi az konesh ke be erade-ye koneshgar vabaste nistand (manand-e khastegi pas az varzesh), che nam darand? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "ورزش را خواستی، خستگی را نه؛ ولی خستگی خودش می‌آید.",
+        "en": "You chose the workout, not the tiredness; but the tiredness comes anyway.",
+        "tr": "Varzesh ra khasti, khastegi ra na; vali khastegi khodash miayad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "پیامدهای غیرارادی کنش",
+      "en": "Involuntary consequences of action",
+      "tr": "Payamad-haye gheyr-e eradi-ye konesh"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: کدام ویژگی، یک کنش انسانی را «کنش اجتماعی» می‌کند و آن را از کنش‌های صرفاً فردی جدا می‌سازد؟ (آزمون خرداد ۱۴۰۱)",
+      "en": "Exam twist: which feature makes a human action 'social' and sets it apart from purely individual actions? (Khordad 1401 paper)",
+      "tr": "Pich-e emtehani: kodam vizhegi, yek konesh-e ensani ra 'konesh-e ejtema'i' mikonad va an ra az konesh-haye serfan fardi joda misazad? (azmoon-e Khordad 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: «در مکانی شلوغ» وسوسه‌انگیز است، ولی کسی که در جمع تنها فکر می‌کند کنش اجتماعی انجام نمی‌دهد.",
+        "en": "The twist: 'in a crowded place' is tempting, but someone thinking alone in a crowd is not acting socially.",
+        "tr": "Pich-e emtehan: 'dar makani sholoogh' vasvase-angiz ast, vali kasi ke dar jam' tanha fekr mikonad konesh-e ejtema'i anjam nemidahad."
+       }
+      },
+      {
+       "text": {
+        "fa": "ملاک «آگاهانه بودن و توجه به دیگران» است، حتی اگر دیگران حاضر نباشند.",
+        "en": "The test is 'conscious and with others in mind', even if the others are not present.",
+        "tr": "Melak 'agahane boodan va tavajjoh be digaran' ast, hatta agar digaran hazer nabashand."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "آگاهانه بودن و توجه به دیگران",
+      "en": "Being conscious and mindful of others",
+      "tr": "Agahane boodan va tavajjoh be digaran"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "اندیشیدن و تخیل کنش درونی و فردی است، نه بیرونی یا اجتماعی.",
+      "en": "Thinking and imagining are inner, individual actions, not outer or social.",
+      "tr": "Andishidan va takhayyol konesh-e daroonie va fardi ast, na biroonie ya ejtema'i."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ارادی بودن خود کنش، پیامدهایش را ارادی نمی‌کند: ورزش ارادی است، خستگی نه.",
+      "en": "A voluntary action does not make its consequences voluntary: the workout is chosen, the tiredness is not.",
+      "tr": "Eradi boodan-e khod-e konesh, payamad-hayash ra eradi nemikonad: varzesh eradi ast, khastegi na."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 972
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 967
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 2,
+   "unit": 1,
+   "key": "si-2-social-phenomena",
+   "title": {
+    "fa": "پدیده‌های اجتماعی و نهادها",
+    "en": "Social phenomena and institutions",
+    "tr": "Padide-haye ejtema'i va nahad-ha"
+   },
+   "summary": {
+    "fa": "پدیده‌های اجتماعی بیرونی و عینی‌اند؛ نهاد اجتماعی مجموعه‌ای پایدار برای برآوردن یک نیاز بنیادین است.",
+    "en": "Social phenomena are external and objective; a social institution is a stable set built to meet a basic need.",
+    "tr": "Padide-haye ejtema'i biroonie va eyni-and; nahad-e ejtema'i majmoo'e-i paydar baraye bar-avardan-e yek niyaz-e bonyadin ast."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: زبان مادری",
+      "en": "Understand first: your mother tongue",
+      "tr": "Avval befahm: zaban-e madari"
+     },
+     "body": {
+      "fa": "وقتی کنش‌های اجتماعی تکرار می‌شوند و جا می‌افتند، «پدیده‌های اجتماعی» پدید می‌آیند: زبان، قانون، آداب. ویژگی مهم آنها «بیرونی و عینی بودن» است: مستقل از ارادهٔ هر فرد وجود دارند و بر او اثر می‌گذارند. مثل زبان مادری که پیش از تو بوده، پس از تو هم می‌ماند، و تو باید با قواعدش حرف بزنی.",
+      "en": "When social actions repeat and settle, 'social phenomena' arise: language, law, customs. Their key feature is being 'external and objective': they exist independently of any one person's will and act upon him. Like your mother tongue: it was there before you, will remain after you, and you must speak by its rules.",
+      "tr": "Vaghti konesh-haye ejtema'i tekrar mishavand va ja mioftand, 'padide-haye ejtema'i' padid miayand: zaban, ghanoon, adab. Vizhegi-ye mohem-e anha 'biroonie va eyni boodan' ast: mostaghel az erade-ye har fard vojood darand va bar oo asar migozarand. Mesl-e zaban-e madari ke pish az to boode, pas az to ham mimanad, va to bayad ba ghava'edash harf bezani."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " actions repeat and settle\n        |\n SOCIAL PHENOMENA\n   objective: outside each\n   person, they act on him\n        |\n INSTITUTION = stable set of\n   values + norms + actions\n   for a BASIC need\n   e.g. family, education",
+     "caption": {
+      "fa": "از کنش تکراری تا پدیدهٔ اجتماعی و نهاد.",
+      "en": "From repeated action to social phenomenon and institution.",
+      "tr": "Az konesh-e tekrari ta padide-ye ejtema'i va nahad."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "نهاد اجتماعی",
+      "en": "The social institution",
+      "tr": "Nahad-e ejtema'i"
+     },
+     "body": {
+      "fa": "«نهاد اجتماعی» مجموعه‌ای پایدار از ارزش‌ها، هنجارها و کنش‌هاست که برای برآوردن نیازهای بنیادین جامعه شکل می‌گیرد؛ مانند خانواده (پرورش نسل) یا آموزش (انتقال دانش). نهاد با یک گروه غیررسمی گذرا فرق دارد: پایدار است و نیازی بنیادین را برمی‌آورد.",
+      "en": "A 'social institution' is a stable set of values, norms and actions formed to meet society's basic needs, such as the family (raising the next generation) or education (passing on knowledge). It differs from a passing informal group: it is lasting and meets a basic need.",
+      "tr": "'Nahad-e ejtema'i' majmoo'e-i paydar az arzesh-ha, hanjar-ha va konesh-hast ke baraye bar-avardan-e niyaz-haye bonyadin-e jame'e shekl migirad; manand-e khanevade (parvaresh-e nasl) ya amoozesh (enteghal-e danesh). Nahad ba yek gorooh-e gheyr-e rasmi-ye gozara fargh darad: paydar ast va niyazi bonyadin ra bar-miavarad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "institution = values + norms + actions, stable, for a basic need",
+     "caption": {
+      "fa": "تعریف نهاد",
+      "en": "What an institution is",
+      "tr": "Ta'rif-e nahad"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مجموعه‌ای پایدار از ارزش‌ها، هنجارها و کنش‌ها که برای برآوردن نیازهای بنیادین جامعه (مانند خانواده یا آموزش) شکل می‌گیرد، چه نام دارد؟ (آزمون دی ۱۴۰۰)",
+      "en": "Warm-up: a stable set of values, norms and actions formed to meet society's basic needs (like the family or education) is called what? (Dey 1400 paper)",
+      "tr": "Garm kardan: majmoo'e-i paydar az arzesh-ha, hanjar-ha va konesh-ha ke baraye bar-avardan-e niyaz-haye bonyadin-e jame'e (manand-e khanevade ya amoozesh) shekl migirad, che nam darad? (azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«پایدار» و «نیاز بنیادین» دو نشانهٔ نهادند؛ خانواده و آموزش نمونه‌های آشنای آن‌اند.",
+        "en": "'Stable' and 'basic need' are the two marks of an institution; family and education are its familiar examples.",
+        "tr": "'Paydar' va 'niyaz-e bonyadin' do neshane-ye nahad-and; khanevade va amoozesh nemoone-haye ashena-ye an-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "نهاد اجتماعی",
+      "en": "A social institution",
+      "tr": "Nahad-e ejtema'i"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: کدام ویژگی پدیده‌های اجتماعی باعث می‌شود که مستقل از ارادهٔ هر فرد وجود داشته باشند و بر او اثر بگذارند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: which feature of social phenomena makes them exist independently of each person's will and act upon him? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: kodam vizhegi-ye padide-haye ejtema'i ba'es mishavad ke mostaghel az erade-ye har fard vojood dashte bashand va bar oo asar begozarand? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«مستقل از ارادهٔ فرد» یعنی بیرون از ذهن او: بیرونی و عینی.",
+        "en": "'Independent of a person's will' means outside his mind: external and objective.",
+        "tr": "'Mostaghel az erade-ye fard' ya'ni biroon az zehn-e oo: biroonie va eyni."
+       }
+      },
+      {
+       "text": {
+        "fa": "گزینهٔ «درونی و ذهنی» درست برعکس است.",
+        "en": "The option 'inner and subjective' is the exact opposite.",
+        "tr": "Gozine-ye 'daroonie va zehni' dorost bar'aks ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بیرونی و عینی بودن آنها",
+      "en": "Their being external and objective",
+      "tr": "Biroonie va eyni boodan-e anha"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در همان پرسش دی ۱۴۰۰، چرا «کنترل اجتماعی»، «تأخیر فرهنگی» یا «گروه غیررسمی» پاسخ نیستند؟ (گزینه‌های آزمون دی ۱۴۰۰)",
+      "en": "Exam twist: in the same Dey 1400 question, why are 'social control', 'cultural lag' or 'informal group' not the answer? (options of the Dey 1400 paper)",
+      "tr": "Pich-e emtehani: dar haman porsesh-e Dey 1400, chera 'kontrol-e ejtema'i', 'ta'khir-e farhangi' ya 'gorooh-e gheyr-e rasmi' pasokh nistand? (gozine-haye azmoon-e Dey 1400)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: همه مفهوم‌های جامعه‌شناسی‌اند، ولی هیچ‌کدام «مجموعه‌ای پایدار برای یک نیاز بنیادین» نیست.",
+        "en": "The twist: all are sociology terms, but none is 'a stable set for a basic need'.",
+        "tr": "Pich-e emtehan: hame mafhoom-haye jame'e-shenasi-and, vali hich-kodam 'majmoo'e-i paydar baraye yek niyaz-e bonyadin' nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "گروه غیررسمی پایدار نیست؛ کنترل اجتماعی و تأخیر فرهنگی فرایندند، نه ساختار.",
+        "en": "An informal group is not lasting; social control and cultural lag are processes, not structures.",
+        "tr": "Gorooh-e gheyr-e rasmi paydar nist; kontrol-e ejtema'i va ta'khir-e farhangi farayand-and, na sakhtar."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون فقط نهاد، ساختاری پایدار برای نیازی بنیادین است",
+      "en": "Because only an institution is a lasting structure for a basic need",
+      "tr": "Chon faghat nahad, sakhtari paydar baraye niyazi bonyadin ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پدیده‌های اجتماعی به میل هر فرد وابسته نیستند و زودگذر هم نیستند.",
+      "en": "Social phenomena do not depend on each person's wishes, and they are not fleeting.",
+      "tr": "Padide-haye ejtema'i be meyl-e har fard vabaste nistand va zoodgozar ham nistand."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نهاد را با «گروه» یکی نگیر: نهاد مجموعه‌ای از ارزش‌ها و هنجارهاست، نه فقط چند نفر.",
+      "en": "Do not equate an institution with a 'group': it is a set of values and norms, not just some people.",
+      "tr": "Nahad ra ba 'gorooh' yeki nagir: nahad majmoo'e-i az arzesh-ha va hanjar-hast, na faghat chand nafar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1400-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 973
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 3,
+   "unit": 1,
+   "key": "si-3-cultural-world",
+   "title": {
+    "fa": "جهان اجتماعی و جهان‌های فرهنگی",
+    "en": "The social world and cultural worlds",
+    "tr": "Jahan-e ejtema'i va jahan-haye farhangi"
+   },
+   "summary": {
+    "fa": "جهان اجتماعی بر آگاهی و فرهنگ مشترک بنا شده؛ جهان‌های فرهنگی با نگاهشان به هستی از هم جدا می‌شوند: اساطیری، معنوی، سکولار.",
+    "en": "The social world rests on shared awareness and culture; cultural worlds differ in how they see existence: mythological, spiritual, secular.",
+    "tr": "Jahan-e ejtema'i bar agahi va farhang-e moshtarak bana shode; jahan-haye farhangi ba negaheshan be hasti az ham joda mishavand: asatiri, ma'navi, sekoolar."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ستارهٔ دریانورد",
+      "en": "Understand first: the sailor's star",
+      "tr": "Avval befahm: setare-ye daryanavard"
+     },
+     "body": {
+      "fa": "«جهان اجتماعی» مجموعهٔ پدیده‌ها، کنش‌ها و ساختارهای اجتماعی است که بر پایهٔ آگاهی و فرهنگ مشترک انسان‌ها شکل می‌گیرد. پدیده‌های طبیعی (مثل ستارگان یا معدن‌های زیرزمینی) فقط وقتی وارد جهان اجتماعی می‌شوند که به قلمرو آگاهی و کنش انسان‌ها بیایند: ستاره برای دریانوردی که با آن راه را پیدا می‌کند، بخشی از جهان اجتماعی اوست.",
+      "en": "The 'social world' is the whole of the social phenomena, actions and structures that form on the basis of people's shared awareness and culture. Natural phenomena (like the stars or underground mines) enter the social world only when they come into the realm of human awareness and action: a star becomes part of the social world for the sailor who finds his way by it.",
+      "tr": "'Jahan-e ejtema'i' majmoo'e-ye padide-ha, konesh-ha va sakhtar-haye ejtema'i ast ke bar paye-ye agahi va farhang-e moshtarak-e ensan-ha shekl migirad. Padide-haye tabi'i (mesl-e setaregan ya ma'dan-haye zirzamini) faghat vaghti vared-e jahan-e ejtema'i mishavand ke be ghalamrow-e agahi va konesh-e ensan-ha biayand: setare baraye daryanavardi ke ba an rah ra peyda mikonad, bakhshi az jahan-e ejtema'i-ye oost."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " NATURAL world --(awareness,\n   action)--> SOCIAL world\n CULTURAL WORLDS, by their\n view of existence\n   mythological  many gods,\n                 legends\n   spiritual     one God,\n                 the unseen\n   secular       this world\n                 only",
+     "caption": {
+      "fa": "پدیدهٔ طبیعی با آگاهی و کنش وارد جهان اجتماعی می‌شود؛ سه جهان فرهنگی با نگاهشان به هستی.",
+      "en": "A natural phenomenon enters the social world through awareness and action; three cultural worlds by their view of existence.",
+      "tr": "Padide-ye tabi'i ba agahi va konesh vared-e jahan-e ejtema'i mishavad; se jahan-e farhangi ba negaheshan be hasti."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "سه جهان فرهنگی",
+      "en": "Three cultural worlds",
+      "tr": "Se jahan-e farhangi"
+     },
+     "body": {
+      "fa": "کتاب سه جهان فرهنگی را از هم جدا می‌کند. «جهان اساطیری» پدیده‌ها را با خدایان متعدد، نیروهای خیالی و افسانه‌ها تبیین می‌کند. «جهان معنوی (توحیدی)» همه چیز را با نگاه توحیدی و باور به عالم غیب می‌بیند و پدیده‌های مادی را در خدمت سعادت جاودان و کمال معنوی انسان قرار می‌دهد. «جهان سکولار» پدیده‌ها را تنها بر پایهٔ امور دنیوی، با نفی یا نادیده گرفتن ماورای طبیعت تبیین می‌کند؛ و به گفتهٔ کتاب، نادیده گرفتن نیازهای معنوی در آن «بحران معنویت و هویت» پدید می‌آورد.",
+      "en": "The book separates three cultural worlds. The 'mythological world' explains things by many gods, imaginary forces and legends. The 'spiritual (monotheistic) world' sees everything through monotheism and belief in the unseen, and puts material things at the service of humanity's eternal happiness and spiritual perfection. The 'secular world' explains things by worldly matters alone, denying or ignoring what lies beyond nature; and, the book says, its neglect of spiritual needs produces a 'crisis of spirituality and identity'.",
+      "tr": "Ketab se jahan-e farhangi ra az ham joda mikonad. 'Jahan-e asatiri' padide-ha ra ba khodayan-e mota'added, niroo-haye khiyali va afsane-ha tabyin mikonad. 'Jahan-e ma'navi (towhidi)' hame chiz ra ba negah-e towhidi va bavar be alam-e gheyb mibinad va padide-haye maddi ra dar khedmat-e sa'adat-e javdan va kamal-e ma'navi-ye ensan gharar midahad. 'Jahan-e sekoolar' padide-ha ra tanha bar paye-ye omoor-e donyavi, ba nafy ya nadide gereftan-e mavara-ye tabi'at tabyin mikonad; va be gofte-ye ketab, nadide gereftan-e niyaz-haye ma'navi dar an 'bohran-e ma'naviyat va hoviyat' padid miavarad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "many gods -> mythological ;  one God + unseen -> spiritual ;  this world only -> secular",
+     "caption": {
+      "fa": "کلید تشخیص جهان‌های فرهنگی",
+      "en": "The key to telling cultural worlds apart",
+      "tr": "Kelid-e tashkhis-e jahan-haye farhangi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: مجموعهٔ پدیده‌ها، کنش‌ها و ساختارهای اجتماعی که بر پایهٔ آگاهی و فرهنگ مشترک انسان‌ها شکل می‌گیرد، چه نام دارد؟ (آزمون دی ۱۴۰۱)",
+      "en": "Warm-up: the whole of the social phenomena, actions and structures formed on people's shared awareness and culture is called what? (Dey 1401 paper)",
+      "tr": "Garm kardan: majmoo'e-ye padide-ha, konesh-ha va sakhtar-haye ejtema'i ke bar paye-ye agahi va farhang-e moshtarak-e ensan-ha shekl migirad, che nam darad? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«آگاهی و فرهنگ مشترک» نشان می‌دهد سخن از جهانی است که انسان‌ها ساخته‌اند، نه جهان طبیعی.",
+        "en": "'Shared awareness and culture' shows this is the world people built, not the natural world.",
+        "tr": "'Agahi va farhang-e moshtarak' neshan midahad sokhan az jahani ast ke ensan-ha sakhte-and, na jahan-e tabi'i."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جهان اجتماعی",
+      "en": "The social world",
+      "tr": "Jahan-e ejtema'i"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: جهان فرهنگی‌ای که پدیده‌های هستی را با باور به خدایان متعدد، نیروهای خیالی و افسانه‌ها تبیین می‌کند، کدام است؟ (آزمون دی ۱۴۰۱)",
+      "en": "Textbook and exam: which cultural world explains existence by belief in many gods, imaginary forces and legends? (Dey 1401 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: jahan-e farhangi-i ke padide-haye hasti ra ba bavar be khodayan-e mota'added, niroo-haye khiyali va afsane-ha tabyin mikonad, kodam ast? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«خدایان متعدد» و «افسانه‌ها» نشانهٔ اسطوره‌اند؛ جهان توحیدی یک خدا دارد و سکولار ماورا را کنار می‌گذارد.",
+        "en": "'Many gods' and 'legends' mark myth; the monotheistic world has one God and the secular sets the beyond aside.",
+        "tr": "'Khodayan-e mota'added' va 'afsane-ha' neshane-ye ostoore-and; jahan-e towhidi yek khoda darad va sekoolar mavara ra kenar migozarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "جهان فرهنگی اساطیری",
+      "en": "The mythological cultural world",
+      "tr": "Jahan-e farhangi-ye asatiri"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: پدیده‌های طبیعی (مانند ستارگان یا معدن‌های زیرزمینی) چگونه وارد جهان اجتماعی می‌شوند؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: how do natural phenomena (like the stars or underground mines) enter the social world? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: padide-haye tabi'i (manand-e setaregan ya ma'dan-haye zirzamini) chegoone vared-e jahan-e ejtema'i mishavand? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینهٔ «تنها با بودنشان در جهان مادی» به نظر منطقی می‌آید، ولی معدنی که هیچ‌کس از آن خبر ندارد، در جهان اجتماعی نیست.",
+        "en": "The twist: 'just by existing in the material world' sounds logical, but a mine nobody knows of is not in the social world.",
+        "tr": "Pich-e emtehan: gozine-ye 'tanha ba boodaneshan dar jahan-e maddi' be nazar manteghi miayad, vali ma'dani ke hich-kas az an khabar nadarad, dar jahan-e ejtema'i nist."
+       }
+      },
+      {
+       "text": {
+        "fa": "وقتی انسان‌ها آن را بشناسند و با آن کاری کنند، وارد جهان اجتماعی می‌شود.",
+        "en": "Once people know it and act on it, it enters the social world.",
+        "tr": "Vaghti ensan-ha an ra beshenasand va ba an kari konand, vared-e jahan-e ejtema'i mishavad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "با وارد شدن به قلمرو آگاهی و کنش انسان‌ها",
+      "en": "By entering the realm of human awareness and action",
+      "tr": "Ba vared shodan be ghalamrow-e agahi va konesh-e ensan-ha"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "جهان معنوی را با جهان اساطیری یکی نگیر: یکی توحیدی است و دیگری بر خدایان متعدد و افسانه بنا شده.",
+      "en": "Do not confuse the spiritual world with the mythological: one is monotheistic, the other built on many gods and legend.",
+      "tr": "Jahan-e ma'navi ra ba jahan-e asatiri yeki nagir: yeki towhidi ast va digari bar khodayan-e mota'added va afsane bana shode."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "بحران جهان سکولار به گفتهٔ کتاب، بحران معنویت و هویت است، نه کمبود صنعت یا مواد خام.",
+      "en": "By the book, the secular world's crisis is of spirituality and identity, not a lack of industry or raw materials.",
+      "tr": "Bohran-e jahan-e sekoolar be gofte-ye ketab, bohran-e ma'naviyat va hoviyat ast, na kambood-e san'at ya mavad-e kham."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1401-Dey",
+     "number": 953
+    },
+    {
+     "session": "1401-Dey",
+     "number": 965
+    },
+    {
+     "session": "1401-Dey",
+     "number": 970
+    },
+    {
+     "session": "1400-Dey",
+     "number": 965
+    },
+    {
+     "session": "1401-Dey",
+     "number": 968
+    },
+    {
+     "session": "1401-Dey",
+     "number": 967
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 972
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 4,
+   "unit": 1,
+   "key": "si-4-social-world-parts",
+   "title": {
+    "fa": "اجزای جهان اجتماعی: هنجار و سطح کلان",
+    "en": "Parts of the social world: norms and the macro level",
+    "tr": "Ajza-ye jahan-e ejtema'i: hanjar va sath-e kalan"
+   },
+   "summary": {
+    "fa": "هنجار قاعدهٔ رفتار است و سرپیچی از آن کیفر یا سرزنش دارد؛ نهادها و سازمان‌ها در سطح کلان‌اند.",
+    "en": "A norm is a rule of conduct whose breach brings punishment or blame; institutions and organisations sit at the macro level.",
+    "tr": "Hanjar ghaede-ye raftar ast va sarpichi az an keyfar ya sarzanesh darad; nahad-ha va sazman-ha dar sath-e kalan-and."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ارزش و هنجار",
+      "en": "Understand first: value and norm",
+      "tr": "Avval befahm: arzesh va hanjar"
+     },
+     "body": {
+      "fa": "جهان اجتماعی اجزایی دارد. «ارزش‌ها» چیزهایی‌اند که جامعه خوب و خواستنی می‌داند؛ «هنجارها» قواعد رفتاری‌اند که اعضای جامعه در موقعیت‌های گوناگون رعایت می‌کنند و سرپیچی از آنها کیفر یا سرزنش در پی دارد. ارزش می‌گوید «چه چیزی خوب است»، هنجار می‌گوید «چطور رفتار کن». مثلاً احترام به بزرگ‌تر ارزش است؛ برخاستن هنگام ورود او هنجار.",
+      "en": "The social world has parts. 'Values' are what society holds good and desirable; 'norms' are rules of conduct members follow in various situations, and breaking them brings punishment or blame. A value says 'what is good'; a norm says 'how to behave'. Respect for elders is a value; standing up when they enter is a norm.",
+      "tr": "Jahan-e ejtema'i ajzayi darad. 'Arzesh-ha' chiz-hayi-and ke jame'e khoob va khastani midanad; 'hanjar-ha' ghava'ed-e raftari-and ke a'za-ye jame'e dar mowghe'iyat-haye goonagoon ra'ayat mikonand va sarpichi az anha keyfar ya sarzanesh dar pey darad. Arzesh miguyad 'che chizi khoob ast', hanjar miguyad 'chetor raftar kon'. Masalan ehteram be bozorg-tar arzesh ast; barkhastan hengam-e vorood-e oo hanjar."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " VALUE  what is good\n        respect for elders\n NORM   how to behave\n        stand when they enter\n        break it -> blame\n LEVELS\n   micro  individual actions\n   macro  institutions,\n          organisations:\n          family, school, state",
+     "caption": {
+      "fa": "ارزش و هنجار، و دو سطح جهان اجتماعی.",
+      "en": "Value and norm, and the two levels of the social world.",
+      "tr": "Arzesh va hanjar, va do sath-e jahan-e ejtema'i."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "خرد و کلان",
+      "en": "Micro and macro",
+      "tr": "Khord va kalan"
+     },
+     "body": {
+      "fa": "جهان اجتماعی را در دو سطح می‌بینیم. «سطح خرد»: کنش‌ها و رابطه‌های فردی. «سطح کلان»: نهادها و سازمان‌های اجتماعی، مانند خانواده، آموزش و دولت، که بسیاری از کنش‌های فردی را در بر می‌گیرند و سامان می‌دهند.",
+      "en": "We see the social world at two levels. The 'micro level': individual actions and relationships. The 'macro level': social institutions and organisations, like the family, education and the state, which take in and order many individual actions.",
+      "tr": "Jahan-e ejtema'i ra dar do sath mibinim. 'Sath-e khord': konesh-ha va rabete-haye fardi. 'Sath-e kalan': nahad-ha va sazman-haye ejtema'i, manand-e khanevade, amoozesh va dowlat, ke besyari az konesh-haye fardi ra dar bar migirand va saman midahand."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "value = what is good ;  norm = how to act (breach -> blame)",
+     "caption": {
+      "fa": "فرق ارزش و هنجار",
+      "en": "Value versus norm",
+      "tr": "Fargh-e arzesh va hanjar"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: قواعد رفتاری که اعضای جامعه در موقعیت‌های گوناگون رعایت می‌کنند و سرپیچی از آنها کیفر یا سرزنش در پی دارد، چه نام دارد؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: rules of conduct that members of society follow in various situations, whose breach brings punishment or blame, are called what? (Khordad 1402 paper)",
+      "tr": "Garm kardan: ghava'ed-e raftari ke a'za-ye jame'e dar mowghe'iyat-haye goonagoon ra'ayat mikonand va sarpichi az anha keyfar ya sarzanesh dar pey darad, che nam darad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«قواعد رفتار» و «کیفر یا سرزنش» دو نشانهٔ هنجارند.",
+        "en": "'Rules of conduct' and 'punishment or blame' are the two marks of a norm.",
+        "tr": "'Ghava'ed-e raftar' va 'keyfar ya sarzanesh' do neshane-ye hanjar-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "هنجارهای اجتماعی",
+      "en": "Social norms",
+      "tr": "Hanjar-haye ejtema'i"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: نهادها و سازمان‌های اجتماعی، مانند خانواده، آموزش و دولت، در کدام سطح جهان اجتماعی جای دارند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: social institutions and organisations, like the family, education and the state, sit at which level of the social world? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: nahad-ha va sazman-haye ejtema'i, manand-e khanevade, amoozesh va dowlat, dar kodam sath-e jahan-e ejtema'i jay darand? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "نهاد و سازمان کنش‌های بسیاری را در بر می‌گیرند: سطح «بزرگ».",
+        "en": "Institutions and organisations take in many actions: the 'large' level.",
+        "tr": "Nahad va sazman konesh-haye besyari ra dar bar migirand: sath-e 'bozorg'."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "سطح کلان",
+      "en": "The macro level",
+      "tr": "Sath-e kalan"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: در همان پرسش خرداد ۱۴۰۲ دربارهٔ هنجار، چرا «ارزش‌های اجتماعی» یا «عادت‌های فردی» پاسخ نیستند؟ (گزینه‌های آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: in the same Khordad 1402 question on norms, why are 'social values' or 'personal habits' not the answer? (options of the Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: dar haman porsesh-e Khordad 1402 darbare-ye hanjar, chera 'arzesh-haye ejtema'i' ya 'adat-haye fardi' pasokh nistand? (gozine-haye azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: ارزش «چیز خوب» است، نه «قاعدهٔ رفتار».",
+        "en": "The twist: a value is a 'good thing', not a 'rule of conduct'.",
+        "tr": "Pich-e emtehan: arzesh 'chiz-e khoob' ast, na 'ghaede-ye raftar'."
+       }
+      },
+      {
+       "text": {
+        "fa": "عادت فردی هم اجتماعی نیست و سرپیچی از آن سرزنش جمعی ندارد.",
+        "en": "A personal habit is not social, and breaking it brings no social blame.",
+        "tr": "Adat-e fardi ham ejtema'i nist va sarpichi az an sarzanesh-e jam'i nadarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "چون فقط هنجار، قاعدهٔ رفتار جمعی با کیفر یا سرزنش است",
+      "en": "Because only a norm is a shared rule of conduct backed by punishment or blame",
+      "tr": "Chon faghat hanjar, ghaede-ye raftar-e jam'i ba keyfar ya sarzanesh ast"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "خانواده و آموزش در سطح کلان‌اند، هرچند هر خانواده از چند فرد ساخته شده.",
+      "en": "The family and education are at the macro level, even though each family is made of a few people.",
+      "tr": "Khanevade va amoozesh dar sath-e kalan-and, harchand har khanevade az chand fard sakhte shode."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "ارزش و هنجار را جابه‌جا نکن: هنجار با کیفر یا سرزنش همراه است.",
+      "en": "Do not swap value and norm: a norm comes with punishment or blame.",
+      "tr": "Arzesh va hanjar ra jabeja nakon: hanjar ba keyfar ya sarzanesh hamrah ast."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 953
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 967
+    }
+   ]
+  },
+  {
+   "subject": "Social Identity",
+   "chapter": 5,
+   "unit": 1,
+   "key": "si-5-social-worlds",
+   "title": {
+    "fa": "جهان‌های اجتماعی: لایه‌ها، هویت و گونه‌ها",
+    "en": "Social worlds: layers, identity and kinds",
+    "tr": "Jahan-haye ejtema'i: laye-ha, hoviyat va goone-ha"
+   },
+   "summary": {
+    "fa": "عمیق‌ترین لایهٔ هر جهان اجتماعی عقاید و ارزش‌های بنیادین است؛ جهان‌ها با همین از هم جدا می‌شوند.",
+    "en": "The deepest layer of every social world is its core beliefs and values; worlds differ from each other by this.",
+    "tr": "Amigh-tarin laye-ye har jahan-e ejtema'i aghayed va arzesh-haye bonyadin ast; jahan-ha ba hamin az ham joda mishavand."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: ریشه، تنه، برگ",
+      "en": "Understand first: root, trunk, leaves",
+      "tr": "Avval befahm: rishe, tane, barg"
+     },
+     "body": {
+      "fa": "جهان اجتماعی مثل درختی است که ریشه، تنه و برگ دارد. برگ‌ها نمادها و رسوم سطحی‌اند و زود عوض می‌شوند؛ ریشه «عقاید و ارزش‌های بنیادین» است: عمیق‌ترین لایه، که هنجارها بر پایهٔ آن شکل می‌گیرند و تغییرش کل جامعه را دگرگون می‌کند. به همین دلیل جهان‌های اجتماعی گوناگون بیش از هر چیز با عقاید و ارزش‌های بنیادینشان از هم جدا می‌شوند و راه‌های تاریخی متفاوتی می‌پیمایند، نه با جمعیت یا وسعت یا ابزار صنعتی.",
+      "en": "A social world is like a tree with roots, trunk and leaves. The leaves are symbols and surface customs that change quickly; the root is 'core beliefs and values': the deepest layer, on which norms are built and whose change transforms the whole society. That is why different social worlds differ above all by their core beliefs and values and travel different historical paths, not by population, size or industrial tools.",
+      "tr": "Jahan-e ejtema'i mesl-e derakhti ast ke rishe, tane va barg darad. Barg-ha namad-ha va rosoom-e sathi-and va zood avaz mishavand; rishe 'aghayed va arzesh-haye bonyadin' ast: amigh-tarin laye, ke hanjar-ha bar paye-ye an shekl migirand va taghyirash kol-e jame'e ra degargoon mikonad. Be hamin dalil jahan-haye ejtema'i-ye goonagoon bish az har chiz ba aghayed va arzesh-haye bonyadineshan az ham joda mishavand va rah-haye tarikhi-ye motefaveti mipeymayand, na ba jam'iyat ya vos'at ya abzar-e san'ati."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " LAYERS of a social world\n   leaves  symbols, customs\n   trunk   norms\n   ROOT    core beliefs and\n           values (deepest)\n meeting another culture\n   resilience  adapt, keep\n               the root\n   alienation  forget the\n               root, lose self",
+     "caption": {
+      "fa": "لایه‌های جهان اجتماعی، و دو واکنش در برابر فرهنگ دیگر.",
+      "en": "The layers of a social world, and two responses to another culture.",
+      "tr": "Laye-haye jahan-e ejtema'i, va do vakonesh dar barabar-e farhang-e digar."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "پایداری، ازخودبیگانگی و گونه‌های جهان اجتماعی",
+      "en": "Resilience, alienation and kinds of social world",
+      "tr": "Paydari, az-khod-biganegi va goone-haye jahan-e ejtema'i"
+     },
+     "body": {
+      "fa": "هنگام رویارویی با فرهنگ دیگر دو راه هست. «پایداری فرهنگی» توانایی کنار آمدن با چالش‌های تازه بی رها کردن باورهای بنیادین است. «ازخودبیگانگی فرهنگی» وقتی است که مردم از شیفتگی به فرهنگی بیگانه، باورهای بنیادین خود را فراموش کنند و هویت خود را از دست بدهند. کتاب گونه‌هایی از جهان اجتماعی را هم نام می‌برد: «امپراتوری» که ساختارش را با گسترش نظامی و غارت ملت‌ها می‌سازد؛ «غرب جدید» که بر سکولاریسم و اومانیسم (انسان‌محوری) بنا شده؛ و تقسیم «حق و باطل»: جهانی که باورهای بنیادینش بر نادانی، خرافه یا انکار حقیقت‌های ماورای طبیعت استوار است، از نگاه کتاب جهان باطل است.",
+      "en": "Meeting another culture, there are two paths. 'Cultural resilience' is the ability to handle new challenges without giving up core beliefs. 'Cultural alienation' is when people, dazzled by a foreign culture, forget their core beliefs and lose their identity. The book also names kinds of social world: the 'empire', which builds its structure by military expansion and plundering other nations; the 'modern West', built on secularism and humanism; and the division of 'true and false': by the book, a world whose core beliefs rest on ignorance, superstition or denial of truths beyond nature is a false world.",
+      "tr": "Hengam-e rooyarooyi ba farhang-e digar do rah hast. 'Paydari-ye farhangi' tavanayi-ye kenar amadan ba chalesh-haye taze bi raha kardan-e bavar-haye bonyadin ast. 'Az-khod-biganegi-ye farhangi' vaghti ast ke mardom az shifteghi be farhangi bigane, bavar-haye bonyadin-e khod ra faramoosh konand va hoviyat-e khod ra az dast bedahand. Ketab goone-hayi az jahan-e ejtema'i ra ham nam mibarad: 'emperatoori' ke sakhtarash ra ba gostaresh-e nezami va gharat-e mellat-ha misazad; 'gharb-e jadid' ke bar sekoolarism va omanism (ensan-mehvari) bana shode; va taghsim-e 'haghgh va batel': jahani ke bavar-haye bonyadinash bar nadani, khorafe ya enkar-e haghighat-haye mavara-ye tabi'at ostovar ast, az negah-e ketab jahan-e batel ast."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "root = core beliefs and values ;  keep the root = resilience ;  lose it = alienation",
+     "caption": {
+      "fa": "ریشه و هویت",
+      "en": "The root and identity",
+      "tr": "Rishe va hoviyat"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: عمیق‌ترین لایهٔ جهان اجتماعی که هنجارها بر پایهٔ آن شکل می‌گیرند و تغییرش کل جامعه را دگرگون می‌کند، کدام است؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: which is the deepest layer of the social world, on which norms are built and whose change transforms the whole society? (Dey 1402 paper)",
+      "tr": "Garm kardan: amigh-tarin laye-ye jahan-e ejtema'i ke hanjar-ha bar paye-ye an shekl migirand va taghyirash kol-e jame'e ra degargoon mikonad, kodam ast? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«عمیق‌ترین» یعنی ریشه؛ نمادها و رسوم برگ‌های درخت‌اند.",
+        "en": "'Deepest' means the root; symbols and customs are the tree's leaves.",
+        "tr": "'Amigh-tarin' ya'ni rishe; namad-ha va rosoom barg-haye derakht-and."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "عقاید و ارزش‌های بنیادین",
+      "en": "Core beliefs and values",
+      "tr": "Aghayed va arzesh-haye bonyadin"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: اگر مردم یک جامعه از شیفتگی به فرهنگی بیگانه، باورهای بنیادین خود را فراموش کنند و هویت خود را از دست بدهند، دچار چه می‌شوند؟ (آزمون دی ۱۴۰۲)",
+      "en": "Textbook and exam: if a people, dazzled by a foreign culture, forget their core beliefs and lose their identity, what happens to them? (Dey 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: agar mardom-e yek jame'e az shifteghi be farhangi bigane, bavar-haye bonyadin-e khod ra faramoosh konand va hoviyat-e khod ra az dast bedahand, dochar-e che mishavand? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«هویت خود را از دست بدهند» یعنی با خود بیگانه شوند.",
+        "en": "'Lose their identity' means become estranged from themselves.",
+        "tr": "'Hoviyat-e khod ra az dast bedahand' ya'ni ba khod bigane shavand."
+       }
+      },
+      {
+       "text": {
+        "fa": "پایداری فرهنگی برعکس است: ریشه را نگه می‌دارد.",
+        "en": "Cultural resilience is the opposite: it keeps the root.",
+        "tr": "Paydari-ye farhangi bar'aks ast: rishe ra negah midarad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "ازخودبیگانگی فرهنگی",
+      "en": "Cultural alienation",
+      "tr": "Az-khod-biganegi-ye farhangi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: جهان‌های اجتماعی گوناگون بیش از هر چیز بر پایهٔ کدام ویژگی از یکدیگر متمایز می‌شوند و راه‌های تاریخی متفاوتی می‌پیمایند؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: above all, by which feature do different social worlds differ and travel different historical paths? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: jahan-haye ejtema'i-ye goonagoon bish az har chiz bar paye-ye kodam vizhegi az yekdigar motemayez mishavand va rah-haye tarikhi-ye motefaveti mipeymayand? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: گزینه‌های جمعیت، وسعت و ابزار صنعتی تفاوت‌هایی دیدنی‌اند، ولی سطحی‌اند.",
+        "en": "The twist: population, size and industrial tools are visible differences, but surface ones.",
+        "tr": "Pich-e emtehan: gozine-haye jam'iyat, vos'at va abzar-e san'ati tafavot-hayi didani-and, vali sathi-and."
+       }
+      },
+      {
+       "text": {
+        "fa": "پاسخ همان پاسخ پرسش دی ۱۴۰۲ است: ریشه، یعنی عقاید و ارزش‌های بنیادین.",
+        "en": "The answer is the same as the Dey 1402 question's: the root, core beliefs and values.",
+        "tr": "Pasokh haman pasokh-e porsesh-e Dey 1402 ast: rishe, ya'ni aghayed va arzesh-haye bonyadin."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "عقاید و ارزش‌های بنیادین",
+      "en": "Core beliefs and values",
+      "tr": "Aghayed va arzesh-haye bonyadin"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پایداری فرهنگی به معنای بسته ماندن نیست: با چالش‌های تازه کنار می‌آید، ولی ریشه را رها نمی‌کند.",
+      "en": "Cultural resilience does not mean staying closed: it handles new challenges but keeps the root.",
+      "tr": "Paydari-ye farhangi be ma'na-ye baste mandan nist: ba chalesh-haye taze kenar miayad, vali rishe ra raha nemikonad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "پایهٔ غرب جدید در کتاب «سکولاریسم و اومانیسم» است؛ پایهٔ امپراتوری «گسترش نظامی و غارت».",
+      "en": "In the book, the modern West rests on 'secularism and humanism'; the empire on 'military expansion and plunder'.",
+      "tr": "Paye-ye gharb-e jadid dar ketab 'sekoolarism va omanism' ast; paye-ye emperatoori 'gostaresh-e nezami va gharat'."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 953
+    },
+    {
+     "session": "1402-Dey",
+     "number": 965
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 954
+    },
+    {
+     "session": "1400-Dey",
+     "number": 955
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 965
+    },
+    {
+     "session": "1401-Khordad",
+     "number": 971
+    },
+    {
+     "session": "1401-Dey",
+     "number": 971
+    }
+   ]
+  }
+ ]
+}
