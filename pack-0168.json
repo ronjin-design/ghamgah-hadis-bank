@@ -1,0 +1,385 @@
+{
+ "version": 168,
+ "format": 11,
+ "lessons": [
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 6,
+   "key": "hh-4-cpr",
+   "title": {
+    "fa": "کمک‌های اولیه: ارزیابی، احیا و خفگی",
+    "en": "First aid: assessment, CPR and choking",
+    "tr": "Komak-haye avvaliye: arzyabi, ehya va khafegi"
+   },
+   "summary": {
+    "fa": "اول ایمنی صحنه، بعد پاسخ‌دهی، تنفس و نبض؛ احیای بزرگسال ۳۰ فشار به ۲ تنفس، ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه.",
+    "en": "Scene safety first, then response, breathing and pulse; adult CPR is 30 compressions to 2 breaths, 5 to 6 cm deep, 100 to 120 a minute.",
+    "tr": "Avval imeni-ye sahne, ba'd pasokh-dehi, tanaffos va nabz; ehya-ye bozorgsal 30 feshar be 2 tanaffos, 5 ta 6 santimetr, 100 ta 120 bar dar daghighe."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: فهرست پیش از پرواز",
+      "en": "Understand first: the pre-flight checklist",
+      "tr": "Avval befahm: fehrest-e pish az parvaz"
+     },
+     "body": {
+      "fa": "کمک‌های اولیه ترتیب دارد، مثل فهرستی که خلبان پیش از پرواز مرور می‌کند. نخستین گام، پیش از دست زدن به مصدوم، «بررسی و ایمن کردن صحنهٔ حادثه» است؛ امدادگری که خودش آسیب ببیند، کسی را نجات نمی‌دهد. سپس پاسخ‌دهی: «صدا زدن بلند و تکان دادن آرام شانه‌ها». بعد تنفس طبیعی را بررسی کن، اما «حداکثر ۱۰ ثانیه». در بزرگسال بیهوش، برای اطمینان از گردش خون نبض «سرخرگ کاروتید در گردن» را می‌گیریم.",
+      "en": "First aid has an order, like a checklist a pilot runs before take-off. The first step, before touching the casualty, is 'checking and securing the scene'; a rescuer who gets hurt saves no one. Then responsiveness: 'call loudly and gently shake the shoulders'. Next check for normal breathing, but for 'no more than 10 seconds'. In an unconscious adult, to confirm circulation we feel the pulse of the 'carotid artery in the neck'.",
+      "tr": "Komak-haye avvaliye tartib darad, mesl-e fehresti ke khalaban pish az parvaz moroor mikonad. Nakhostin gam, pish az dast zadan be masdoom, 'barresi va imen kardan-e sahne-ye hadese' ast; emdadgari ke khodash asib bebinad, kasi ra nejat nemidahad. Sepas pasokh-dehi: 'seda zadan-e boland va tekan dadan-e aram-e shane-ha'. Ba'd tanaffos-e tabi'i ra barresi kon, amma 'hadd-e aksar 10 saniye'. Dar bozorgsal-e bihoosh, baraye etminan az gardesh-e khoon nabz-e 'sorkhrag-e karotid dar gardan' ra migirim."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " 1 SCENE safe?\n 2 RESPONSE: call, shake\n   shoulders gently\n 3 BREATHING: max 10 s\n 4 PULSE: carotid (neck)\n ADULT CPR\n   hands: centre of chest,\n          lower half of\n          breastbone\n   depth: 5-6 cm\n   rate : 100-120 / min\n   ratio: 30 : 2\n CHOKING: Heimlich manoeuvre",
+     "caption": {
+      "fa": "ترتیب ارزیابی و عددهای احیای بزرگسال.",
+      "en": "The order of assessment and the numbers of adult CPR.",
+      "tr": "Tartib-e arzyabi va adad-haye ehya-ye bozorgsal."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "عددهای احیا و مانور هایملیک",
+      "en": "The CPR numbers and the Heimlich manoeuvre",
+      "tr": "Adad-haye ehya va manovr-e haymlik"
+     },
+     "body": {
+      "fa": "در «احیای قلبی‌ریوی (`CPR`)» بزرگسال، پاشنهٔ دست‌ها را «وسط قفسهٔ سینه، روی نیمهٔ پایینی جناغ» می‌گذاریم، قفسهٔ سینه را «۵ تا ۶ سانتی‌متر» و با سرعت «۱۰۰ تا ۱۲۰ بار در دقیقه» می‌فشاریم، و نسبت فشردن به تنفس مصنوعی «۳۰ به ۲» است. اما اگر راه هوایی فرد با جسم خارجی بسته شده و در حال خفگی است، احیا نخستین کار نیست: «مانور هایملیک» انجام می‌شود تا جسم بیرون بیاید.",
+      "en": "In adult 'cardiopulmonary resuscitation (CPR)', place the heels of the hands on the 'centre of the chest, on the lower half of the breastbone', press the chest '5 to 6 centimetres' deep at '100 to 120 times a minute', and the ratio of compressions to rescue breaths is '30 to 2'. But if the airway is blocked by an object and the person is choking, CPR is not the first move: the 'Heimlich manoeuvre' is done to force the object out.",
+      "tr": "Dar 'ehya-ye ghalbi-riyavi (CPR)'-e bozorgsal, pashne-ye dast-ha ra 'vasat-e ghafase-ye sine, rooy-e nime-ye payini-ye jenagh' migozarim, ghafase-ye sine ra '5 ta 6 santimetr' va ba sor'at-e '100 ta 120 bar dar daghighe' mifesharim, va nesbat-e feshordan be tanaffos-e masnooi '30 be 2' ast. Amma agar rah-e hava'i-ye fard ba jesm-e khareji baste shode va dar hal-e khafegi ast, ehya nakhostin kar nist: 'manovr-e haymlik' anjam mishavad ta jesm biroon biayad."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "adult CPR: 30 : 2 ;  depth 5-6 cm ;  rate 100-120 per minute",
+     "caption": {
+      "fa": "سه عدد احیای بزرگسال",
+      "en": "The three numbers of adult CPR",
+      "tr": "Se adad-e ehya-ye bozorgsal"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در کمک‌های اولیه، نخستین گام در صحنهٔ یک تصادف، پیش از دست زدن به مصدوم، چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Warm-up: in first aid, what is the first step at an accident scene, before touching the casualty? (Khordad 1402 paper)",
+      "tr": "Garm kardan: dar komak-haye avvaliye, nakhostin gam dar sahne-ye yek tasadof, pish az dast zadan be masdoom, chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "«پیش از دست زدن» یعنی پیش از هر کار درمانی: اول خطر صحنه (ترافیک، آتش، برق).",
+        "en": "'Before touching' means before any treatment: first the scene's dangers (traffic, fire, electricity).",
+        "tr": "'Pish az dast zadan' ya'ni pish az har kar-e darmani: avval khatar-e sahne (terafik, atash, bargh)."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بررسی و ایمن کردن صحنهٔ حادثه",
+      "en": "Checking and securing the scene",
+      "tr": "Barresi va imen kardan-e sahne-ye hadese"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در احیای قلبی‌ریوی (`CPR`) استاندارد برای فرد بالغ، نسبت فشردن قفسهٔ سینه به تنفس مصنوعی چند است؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: in standard adult CPR, what is the ratio of chest compressions to rescue breaths? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar ehya-ye ghalbi-riyavi (CPR)-e estandard baraye fard-e baleq, nesbat-e feshordan-e ghafase-ye sine be tanaffos-e masnooi chand ast? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "سی فشار، سپس دو تنفس؛ و دوباره. همان آزمون عمق (۵ تا ۶ سانتی‌متر) و سرعت (۱۰۰ تا ۱۲۰) را هم پرسیده.",
+        "en": "Thirty compressions, then two breaths; and again. The same paper also asked the depth (5 to 6 cm) and rate (100 to 120).",
+        "tr": "Si feshar, sepas do tanaffos; va dobare. Haman azmoon omgh (5 ta 6 santimetr) va sor'at (100 ta 120) ra ham porside."
+       },
+       "math": "30 compressions : 2 breaths"
+      }
+     ],
+     "answer": {
+      "fa": "۳۰ به ۲",
+      "en": "30 : 2",
+      "tr": "30 be 2"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: برای نجات فردی که راه هوایی‌اش با جسم خارجی بسته شده و در حال خفگی است، کدام اقدام فوری انجام می‌شود؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Exam twist: to save someone whose airway is blocked by an object and who is choking, what immediate action is taken? (Khordad 1402 paper)",
+      "tr": "Pich-e emtehani: baraye nejat-e fardi ke rah-e hava'i-ash ba jesm-e khareji baste shode va dar hal-e khafegi ast, kodam eghdam-e fowri anjam mishavad? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: `CPR` مشهورترین اقدام نجات است و در گزینه‌هاست؛ ولی تا جسم در راه هوایی است، هوا نمی‌رسد.",
+        "en": "The twist: CPR is the best-known rescue and is in the options; but while the object blocks the airway, no air gets through.",
+        "tr": "Pich-e emtehan: CPR mash-hoor-tarin eghdam-e nejat ast va dar gozine-hast; vali ta jesm dar rah-e hava'i ast, hava nemiresad."
+       }
+      },
+      {
+       "text": {
+        "fa": "پس اول باید جسم را بیرون انداخت: مانور هایملیک.",
+        "en": "So first the object must be forced out: the Heimlich manoeuvre.",
+        "tr": "Pas avval bayad jesm ra biroon andakht: manovr-e haymlik."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "مانور هایملیک",
+      "en": "The Heimlich manoeuvre",
+      "tr": "Manovr-e haymlik"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "تنفس را بیش از ۱۰ ثانیه بررسی نکن؛ هر ثانیه برای احیا ارزش دارد.",
+      "en": "Do not check breathing for more than 10 seconds; every second counts for CPR.",
+      "tr": "Tanaffos ra bish az 10 saniye barresi nakon; har saniye baraye ehya arzesh darad."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "نسبت بزرگسال ۳۰ به ۲ است، نه ۱۵ به ۲؛ و نبض بزرگسال بیهوش را از کاروتید (گردن) می‌گیریم، نه مچ.",
+      "en": "The adult ratio is 30 to 2, not 15 to 2; and an unconscious adult's pulse is taken at the carotid (neck), not the wrist.",
+      "tr": "Nesbat-e bozorgsal 30 be 2 ast, na 15 be 2; va nabz-e bozorgsal-e bihoosh ra az karotid (gardan) migirim, na moch."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Khordad",
+     "number": 972
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 958
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 957
+    },
+    {
+     "session": "1402-Dey",
+     "number": 978
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 975
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 979
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 977
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 961
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 974
+    }
+   ]
+  },
+  {
+   "subject": "Health and Hygiene",
+   "chapter": 4,
+   "unit": 7,
+   "key": "hh-4-injuries",
+   "title": {
+    "fa": "کمک‌های اولیه: خون‌ریزی، شوک، شکستگی، سوختگی، گرمازدگی",
+    "en": "First aid: bleeding, shock, fractures, burns, heatstroke",
+    "tr": "Komak-haye avvaliye: khoon-rizi, shok, shekastegi, sookhtegi, garmazadegi"
+   },
+   "summary": {
+    "fa": "خون‌ریزی را پله‌پله مهار کن: فشار مستقیم، باند فشاری، شریان‌بند؛ شکستگی را با آتل بی‌حرکت کن و سوختگی را زیر آب خنک بگیر.",
+    "en": "Stop bleeding step by step: direct pressure, pressure bandage, tourniquet; immobilise a fracture with a splint and cool a burn under cool water.",
+    "tr": "Khoon-rizi ra pelle-pelle mahar kon: feshar-e mostaghim, band-e feshari, sharyan-band; shekastegi ra ba atel bi-harekat kon va sookhtegi ra zir-e ab-e khonak begir."
+   },
+   "blocks": [
+    {
+     "type": "explain",
+     "title": {
+      "fa": "اول بفهم: سه پلهٔ خون‌ریزی",
+      "en": "Understand first: the three steps for bleeding",
+      "tr": "Avval befahm: se pelle-ye khoon-rizi"
+     },
+     "body": {
+      "fa": "برای خون‌ریزی شدید بیرونی دست یا پا، سه پله داریم و هر پله فقط وقتی که پلهٔ قبل جواب نداد. پلهٔ اول: «فشار مستقیم و محکم روی محل زخم». پلهٔ دوم، اگر خون بند نیامد: «بستن باند فشاری و بالا نگه داشتن عضو». پلهٔ پایانی، برای خون‌ریزی شدید و جهندهٔ سرخرگی که با هیچ‌کدام بند نیامد: «بستن شریان‌بند (تورنیکه) بالای زخم». مصدومی که بر اثر خون‌ریزی داخلی نشانه‌های «شوک» دارد (پوست سرد و رنگ‌پریده، نبض تند) باید گرم نگه داشته شود، پاهایش بالا برود و فوری به مرکز درمانی برسد.",
+      "en": "For severe external bleeding from an arm or leg there are three steps, each only if the one before fails. Step one: 'firm, direct pressure on the wound'. Step two, if bleeding continues: 'a pressure bandage and raising the limb'. Final step, for severe spurting arterial bleeding that neither stopped: 'a tourniquet above the wound'. A casualty with signs of 'shock' from internal bleeding (cold, pale skin, fast pulse) should be kept warm, legs raised, and taken to hospital at once.",
+      "tr": "Baraye khoon-rizi-ye shadid-e biroonie-ye dast ya pa, se pelle darim va har pelle faghat vaghti ke pelle-ye ghabl javab nadad. Pelle-ye avval: 'feshar-e mostaghim va mohkam rooy-e mahall-e zakhm'. Pelle-ye dovvom, agar khoon band nayamad: 'bastan-e band-e feshari va bala negah dashtan-e ozv'. Pelle-ye payani, baraye khoon-rizi-ye shadid va jahande-ye sorkhragi ke ba hich-kodam band nayamad: 'bastan-e sharyan-band (toornike) balay-e zakhm'. Masdoomi ke bar asar-e khoon-rizi-ye dakheli neshane-haye 'shok' darad (poost-e sard va rang-paride, nabz-e tond) bayad garm negah dashte shavad, pa-hayash bala beravad va fowri be markaz-e darmani beresad."
+     }
+    },
+    {
+     "type": "diagram",
+     "art": " BLEEDING, step by step\n   1 direct pressure\n   2 pressure bandage +\n     raise the limb\n   3 tourniquet above wound\n SHOCK: keep warm, legs up,\n        to hospital\n FRACTURE: splint to keep\n   still; cover the joint\n   above AND below\n BURN: cool running water,\n       at least 10 minutes\n   2nd degree: blisters\n HEATSTROKE: over 40 C,\n   confused, no sweating",
+     "caption": {
+      "fa": "پله‌های خون‌ریزی و قاعدهٔ هر آسیب.",
+      "en": "The steps for bleeding and the rule for each injury.",
+      "tr": "Pelle-haye khoon-rizi va ghaede-ye har asib."
+     }
+    },
+    {
+     "type": "explain",
+     "title": {
+      "fa": "شکستگی، سوختگی، گرمازدگی",
+      "en": "Fractures, burns, heatstroke",
+      "tr": "Shekastegi, sookhtegi, garmazadegi"
+     },
+     "body": {
+      "fa": "در «شکستگی» هدف اصلی آتل‌بندی «بی‌حرکت کردن عضو» است تا آسیب بیشتری به بافت‌ها، رگ‌ها و عصب‌ها نرسد؛ جا انداختن استخوان کار امدادگر نیست. آتل باید «مفصل بالا و مفصل پایین» محل شکستگی را در بر بگیرد. در «سوختگی درجهٔ یک» با حرارت، محل را «زیر آب خنک جاری، دست‌کم ۱۰ دقیقه» بگیر، نه یخ مستقیم. تاول‌های دردناک، قرمزی شدید و آسیب به اپیدرم و بخشی از درم نشانهٔ «سوختگی درجهٔ دو» است. و بالا رفتن دمای بدن به بیش از ۴۰ درجه، آشفتگی هوشیاری و قطع تعریق پس از ماندن طولانی در گرما یعنی «گرمازدگی (سکتهٔ گرمایی)».",
+      "en": "For a 'fracture', the main aim of splinting is to 'keep the limb still' so tissues, vessels and nerves are not further hurt; setting the bone is not the first-aider's job. The splint must cover 'the joint above and the joint below' the break. For a 'first-degree' heat burn, hold it 'under cool running water for at least 10 minutes', not ice on the skin. Painful blisters, deep redness and damage to the epidermis and part of the dermis mark a 'second-degree burn'. And body temperature above 40 degrees, confusion and no sweating after long exposure to heat mean 'heatstroke'.",
+      "tr": "Dar 'shekastegi' hadaf-e asli-ye atel-bandi 'bi-harekat kardan-e ozv' ast ta asib-e bishtari be baft-ha, rag-ha va asab-ha naresad; ja andakhtan-e ostekhan kar-e emdadgar nist. Atel bayad 'mafsal-e bala va mafsal-e payin'-e mahall-e shekastegi ra dar bar begirad. Dar 'sookhtegi-ye daraje-ye yek' ba hararat, mahall ra 'zir-e ab-e khonak-e jari, dast-kam 10 daghighe' begir, na yakh-e mostaghim. Taval-haye dardnak, ghermezi-ye shadid va asib be epiderm va bakhshi az derm neshane-ye 'sookhtegi-ye daraje-ye do' ast. Va bala raftan-e dama-ye badan be bish az 40 daraje, ashoftegi-ye hoshyari va ghat'-e ta'arroq pas az mandan-e toolani dar garma ya'ni 'garmazadegi (sekte-ye garmayi)'."
+     }
+    },
+    {
+     "type": "formula",
+     "math": "bleeding: pressure -> bandage + raise -> tourniquet",
+     "caption": {
+      "fa": "پله‌های مهار خون‌ریزی",
+      "en": "The steps to stop bleeding",
+      "tr": "Pelle-haye mahar-e khoon-rizi"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "گرم کردن: در کمک‌های اولیه برای خون‌ریزی شدید بیرونی از دست یا پا، نخستین و مؤثرترین کار چیست؟ (آزمون دی ۱۴۰۲)",
+      "en": "Warm-up: in first aid for severe external bleeding from an arm or leg, what is the first and most effective action? (Dey 1402 paper)",
+      "tr": "Garm kardan: dar komak-haye avvaliye baraye khoon-rizi-ye shadid-e biroonie az dast ya pa, nakhostin va mo'asser-tarin kar chist? (azmoon-e Dey 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "گزینهٔ «بستن فوری تورنیکه پیش از هر کار» دام است؛ تورنیکه پلهٔ پایانی است.",
+        "en": "The option 'a tourniquet at once, before anything else' is the trap; the tourniquet is the last step.",
+        "tr": "Gozine-ye 'bastan-e fowri-ye toornike pish az har kar' dam ast; toornike pelle-ye payani ast."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "فشار مستقیم و محکم روی محل زخم",
+      "en": "Firm, direct pressure on the wound",
+      "tr": "Feshar-e mostaghim va mohkam rooy-e mahall-e zakhm"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "مسئلهٔ کتاب و امتحان: در کمک‌های اولیه برای سوختگی درجهٔ یک با حرارت، بهترین کار نخست برای خنک کردن محل سوختگی چیست؟ (آزمون خرداد ۱۴۰۲)",
+      "en": "Textbook and exam: in first aid for a first-degree heat burn, what is the best first action to cool it? (Khordad 1402 paper)",
+      "tr": "Mas'ale-ye ketab va emtehan: dar komak-haye avvaliye baraye sookhtegi-ye daraje-ye yek ba hararat, behtarin kar-e nakhost baraye khonak kardan-e mahall-e sookhtegi chist? (azmoon-e Khordad 1402)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "یخ مستقیم به پوست آسیب می‌زند و پماد چرب گرما را حبس می‌کند؛ آب خنک جاری گرما را آرام بیرون می‌کشد.",
+        "en": "Ice on the skin damages it and greasy ointment traps the heat; cool running water draws the heat out gently.",
+        "tr": "Yakh-e mostaghim be poost asib mizanad va pomad-e charb garma ra habs mikonad; ab-e khonak-e jari garma ra aram biroon mikeshad."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "گرفتن محل زیر آب خنک جاری، دست‌کم ۱۰ دقیقه",
+      "en": "Holding it under cool running water for at least 10 minutes",
+      "tr": "Gereftan-e mahall zir-e ab-e khonak-e jari, dast-kam 10 daghighe"
+     }
+    },
+    {
+     "type": "example",
+     "title": {
+      "fa": "پیچ امتحانی: اگر فشار مستقیم و باند فشاری هیچ‌کدام خون‌ریزی شدید و جهندهٔ سرخرگی دست یا پا را بند نیاورد، گام پایانی چیست؟ (آزمون دی ۱۴۰۱)",
+      "en": "Exam twist: if neither direct pressure nor a pressure bandage stops severe, spurting arterial bleeding from an arm or leg, what is the final step? (Dey 1401 paper)",
+      "tr": "Pich-e emtehani: agar feshar-e mostaghim va band-e feshari hich-kodam khoon-rizi-ye shadid va jahande-ye sorkhragi-ye dast ya pa ra band nayavarad, gam-e payani chist? (azmoon-e Dey 1401)"
+     },
+     "steps": [
+      {
+       "text": {
+        "fa": "پیچ امتحان: همین تورنیکه در پرسش دی ۱۴۰۲ «دام» بود؛ اینجا «پاسخ» است، چون دو پلهٔ قبلی جواب نداده‌اند.",
+        "en": "The twist: this same tourniquet was the 'trap' in the Dey 1402 question; here it is the 'answer', because the two earlier steps failed.",
+        "tr": "Pich-e emtehan: hamin toornike dar porsesh-e Dey 1402 'dam' bood; inja 'pasokh' ast, chon do pelle-ye ghabli javab nadade-and."
+       }
+      },
+      {
+       "text": {
+        "fa": "شریان‌بند را «بالای» زخم می‌بندند، میان زخم و قلب.",
+        "en": "The tourniquet goes 'above' the wound, between the wound and the heart.",
+        "tr": "Sharyan-band ra 'balay-e' zakhm mibandand, miyan-e zakhm va ghalb."
+       }
+      }
+     ],
+     "answer": {
+      "fa": "بستن شریان‌بند (تورنیکه) بالای زخم",
+      "en": "A tourniquet above the wound",
+      "tr": "Bastan-e sharyan-band (toornike) balay-e zakhm"
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "آتل‌بندی برای جا انداختن استخوان نیست؛ برای بی‌حرکت کردن است.",
+      "en": "Splinting is not for setting the bone; it is for keeping it still.",
+      "tr": "Atel-bandi baraye ja andakhtan-e ostekhan nist; baraye bi-harekat kardan ast."
+     }
+    },
+    {
+     "type": "trap",
+     "body": {
+      "fa": "سوختگی درجهٔ دو تاول دارد؛ درجهٔ یک فقط قرمزی است. روی سوختگی یخ مستقیم نگذار.",
+      "en": "A second-degree burn has blisters; first degree is only redness. Never put ice straight on a burn.",
+      "tr": "Sookhtegi-ye daraje-ye do taval darad; daraje-ye yek faghat ghermezi ast. Rooy-e sookhtegi yakh-e mostaghim nagozar."
+     }
+    }
+   ],
+   "questions": [
+    {
+     "session": "1402-Dey",
+     "number": 975
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 967
+    },
+    {
+     "session": "1401-Dey",
+     "number": 979
+    },
+    {
+     "session": "1401-Dey",
+     "number": 978
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 976
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 970
+    },
+    {
+     "session": "1402-Dey",
+     "number": 977
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 968
+    },
+    {
+     "session": "1402-Khordad",
+     "number": 987
+    }
+   ]
+  }
+ ]
+}
